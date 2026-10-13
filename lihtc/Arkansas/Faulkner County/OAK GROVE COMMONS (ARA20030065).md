@@ -1,0 +1,85 @@
+# Project: OAK GROVE COMMONS (ARA20030065)
+
+- HUD ID: ARA20030065
+- HUD ID before: 
+- Project: OAK GROVE COMMONS
+- Address: 1620 MIDDLE RD
+- City: CONWAY
+- State: AR
+- ZIP: 72032
+- ZIP extension: 
+- State project ID: AR-04-04
+- Latitude: 35.076786
+- Longitude: -92.405182
+- County FIPS: 05045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05045030404
+- Tract 2000: 05045030404
+- Tract 1990: 05045030400
+- Place 2020: 
+- Place 2010: 15190
+- Place 2000: 15190
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 324917
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 86
+- 3-bedroom units: 82
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CONWAYMMONS APTS 2001.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WATERFORD AT SPENCER OAKS (TXA19980245)
+
+- HUD ID: TXA19980245
+- HUD ID before: 
+- Project: WATERFORD AT SPENCER OAKS
+- Address: 2100 SPENCER RD
+- City: DENTON
+- State: TX
+- ZIP: 76205
+- ZIP extension: 
+- State project ID: TX1465
+- Latitude: 33.195772
+- Longitude: -97.104636
+- County FIPS: 48121
+- County from: 2020
+- Tract 2020: 48121021203
+- Tract 2010: 48121021201
+- Tract 2000: 48121021200
+- Tract 1990: 48121021200
+- Place 2020: 19972
+- Place 2010: 19972
+- Place 2000: 19972
+- Place 1990: 1140
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 208
+- Low-income units: 156
+- Units reported: 208
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 104
+- 3-bedroom units: 104
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WATERFORD.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUMMER STREET (NHA19950065)
+
+- HUD ID: NHA19950065
+- HUD ID before: 
+- Project: SUMMER STREET
+- Address: 5 SUMMER ST
+- City: EXETER
+- State: NH
+- ZIP: 03833
+- ZIP extension: 
+- State project ID: 39
+- Latitude: 42.986158
+- Longitude: -70.954421
+- County FIPS: 33015
+- County from: 2020
+- Tract 2020: 33015106200
+- Tract 2010: 33015106200
+- Tract 2000: 33015061002
+- Tract 1990: 33015061000
+- Place 2020: 25300
+- Place 2010: 25300
+- Place 2000: 25300
+- Place 1990: 0810
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 8
+- Low-income units: 6
+- Units reported: 8
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

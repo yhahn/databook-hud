@@ -1,0 +1,85 @@
+# Project: KIMBALL COURT III (MAB19900050)
+
+- HUD ID: MAB19900050
+- HUD ID before: 
+- Project: KIMBALL COURT III
+- Address: 5 KIMBALL CT
+- City: WOBURN
+- State: MA
+- ZIP: 01801
+- ZIP extension: 
+- State project ID: 10310
+- Latitude: 42.502524
+- Longitude: -71.166878
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017333602
+- Tract 2010: 25017333600
+- Tract 2000: 25017333600
+- Tract 1990: 25017333600
+- Place 2020: 81035
+- Place 2010: 81035
+- Place 2000: 81035
+- Place 1990: 5010
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 167
+- Low-income units: 34
+- Units reported: 167
+- Low-income reported: 34
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

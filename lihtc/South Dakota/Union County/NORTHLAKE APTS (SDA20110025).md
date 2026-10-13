@@ -1,0 +1,85 @@
+# Project: NORTHLAKE APTS (SDA20110025)
+
+- HUD ID: SDA20110025
+- HUD ID before: 
+- Project: NORTHLAKE APTS
+- Address: 578 DEXTER DR
+- City: NORTH SIOUX CITY
+- State: SD
+- ZIP: 57049
+- ZIP extension: 
+- State project ID: 02942
+- Latitude: 42.537549
+- Longitude: -96.503899
+- County FIPS: 46127
+- County from: 2020
+- Tract 2020: 46127020302
+- Tract 2010: 46127020300
+- Tract 2000: 46127020300
+- Tract 1990: 46127020300
+- Place 2020: 45700
+- Place 2010: 45700
+- Place 2000: 32700
+- Place 1990: 1005
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 413766
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 31
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3517011
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SDA2011505.
+- Record status: Existing, unchanged

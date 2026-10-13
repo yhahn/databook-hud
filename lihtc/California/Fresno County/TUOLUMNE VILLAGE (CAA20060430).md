@@ -1,0 +1,85 @@
+# Project: TUOLUMNE VILLAGE (CAA20060430)
+
+- HUD ID: CAA20060430
+- HUD ID before: 
+- Project: TUOLUMNE VILLAGE
+- Address: 13500 TUOLUMNE ST
+- City: PARLIER
+- State: CA
+- ZIP: 93648
+- ZIP extension: 
+- State project ID: CA-04-896
+- Latitude: 36.608747
+- Longitude: -119.538824
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019008503
+- Tract 2010: 06019008502
+- Tract 2000: 06019006801
+- Tract 1990: 06019006801
+- Place 2020: 55856
+- Place 2010: 55856
+- Place 2000: 55856
+- Place 1990: 2120
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 779352
+- Units: 106
+- Low-income units: 104
+- Units reported: 106
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 32
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

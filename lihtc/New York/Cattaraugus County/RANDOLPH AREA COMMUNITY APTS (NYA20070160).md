@@ -1,0 +1,85 @@
+# Project: RANDOLPH AREA COMMUNITY APTS (NYA20070160)
+
+- HUD ID: NYA20070160
+- HUD ID before: 
+- Project: RANDOLPH AREA COMMUNITY APTS
+- Address: 270 MAIN ST
+- City: RANDOLPH
+- State: NY
+- ZIP: 14772
+- ZIP extension: 
+- State project ID: 20050327
+- Latitude: 42.159321
+- Longitude: -78.990759
+- County FIPS: 36009
+- County from: 2020
+- Tract 2020: 36009961400
+- Tract 2010: 36009961400
+- Tract 2000: 36009961400
+- Tract 1990: 36009961400
+- Place 2020: 60576
+- Place 2010: 60576
+- Place 2000: 22843
+- Place 1990: 3015
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 149349
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 775371
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA RANDOLPH APTS.
+- Record status: Existing, unchanged

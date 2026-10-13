@@ -1,0 +1,85 @@
+# Project: AMITY MANOR (PAA19910310)
+
+- HUD ID: PAA19910310
+- HUD ID before: 
+- Project: AMITY MANOR
+- Address: 1131 BEN FRANKLIN HWY W
+- City: DOUGLASSVILLE
+- State: PA
+- ZIP: 19518
+- ZIP extension: 
+- State project ID: TC19900129
+- Latitude: 40.263267
+- Longitude: -75.734724
+- County FIPS: 42011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42011011904
+- Tract 2000: 42011011901
+- Tract 1990: 42011011900
+- Place 2020: 
+- Place 2010: 02349
+- Place 2000: 02349
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 55330
+- Units: 36
+- Low-income units: 27
+- Units reported: 36
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

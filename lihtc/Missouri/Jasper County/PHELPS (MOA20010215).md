@@ -1,0 +1,85 @@
+# Project: PHELPS (MOA20010215)
+
+- HUD ID: MOA20010215
+- HUD ID before: 
+- Project: PHELPS
+- Address: 2526 CLINTON ST
+- City: CARTHAGE
+- State: MO
+- ZIP: 64836
+- ZIP extension: 
+- State project ID: 00-013
+- Latitude: 37.144665
+- Longitude: -94.307959
+- County FIPS: 29097
+- County from: 2020
+- Tract 2020: 29097011700
+- Tract 2010: 29097011700
+- Tract 2000: 29097011700
+- Tract 1990: 29097011700
+- Place 2020: 11656
+- Place 2010: 11656
+- Place 2000: 11656
+- Place 1990: 0720
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

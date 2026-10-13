@@ -1,0 +1,85 @@
+# Project: BALBOA PLACE APTS (CAA19970035)
+
+- HUD ID: CAA19970035
+- HUD ID before: 
+- Project: BALBOA PLACE APTS
+- Address: 16915 NAPA ST
+- City: NORTHRIDGE
+- State: CA
+- ZIP: 91343
+- ZIP extension: 
+- State project ID: CA-97-966
+- Latitude: 34.226854
+- Longitude: -118.501865
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037117302
+- Tract 2010: 06037117302
+- Tract 2000: 06037117302
+- Tract 1990: 06037117302
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 48161
+- Units: 151
+- Low-income units: 31
+- Units reported: 151
+- Low-income reported: 31
+- Efficiencies: 2
+- 1-bedroom units: 19
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

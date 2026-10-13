@@ -1,0 +1,85 @@
+# Project: VILLAGE GREEN SENIOR HOUSING (WAA20146032)
+
+- HUD ID: WAA20146032
+- HUD ID before: 
+- Project: VILLAGE GREEN SENIOR HOUSING
+- Address: 10878 NE WEST KINGSTON RD
+- City: KINGSTON
+- State: WA
+- ZIP: 98346
+- ZIP extension: 
+- State project ID: 11-16
+- Latitude: 47.798593
+- Longitude: -122.502027
+- County FIPS: 53035
+- County from: 2020
+- Tract 2020: 53035090102
+- Tract 2010: 53035090102
+- Tract 2000: 53035090102
+- Tract 1990: 53035090102
+- Place 2020: 35870
+- Place 2010: 35870
+- Place 2000: 35870
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 717362
+- Units: 35
+- Low-income units: 34
+- Units reported: 35
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 6951102
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA0000715.
+- Record status: Updated

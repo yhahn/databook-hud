@@ -1,0 +1,85 @@
+# Project: WEST END 1B (ILB20060050)
+
+- HUD ID: ILB20060050
+- HUD ID before: 
+- Project: WEST END 1B
+- Address: 208 S WESTERN AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60612
+- ZIP extension: 
+- State project ID: TC-03-007
+- Latitude: 41.878512
+- Longitude: -87.686663
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031280800
+- Tract 2010: 17031280800
+- Tract 2000: 17031280800
+- Tract 1990: 17031280800
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 409533
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARKWAY EAST APTS (WYA19960025)
+
+- HUD ID: WYA19960025
+- HUD ID before: 
+- Project: PARKWAY EAST APTS
+- Address: 2010 SAGE CROSSING AVE
+- City: WORLAND
+- State: WY
+- ZIP: 82401
+- ZIP extension: 
+- State project ID: WY-95-001
+- Latitude: 44.005656
+- Longitude: -107.942443
+- County FIPS: 56043
+- County from: 2020
+- Tract 2020: 56043000200
+- Tract 2010: 56043000200
+- Tract 2000: 56043000200
+- Tract 1990: 56043990100
+- Place 2020: 84925
+- Place 2010: 84925
+- Place 2000: 00417
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 43118
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 17
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

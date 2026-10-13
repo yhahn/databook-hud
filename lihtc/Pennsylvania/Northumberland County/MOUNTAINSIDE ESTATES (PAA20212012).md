@@ -1,0 +1,85 @@
+# Project: MOUNTAINSIDE ESTATES (PAA20212012)
+
+- HUD ID: PAA20212012
+- HUD ID before: 
+- Project: MOUNTAINSIDE ESTATES
+- Address: 2140 TREVORTON RD
+- City: COAL TOWNSHIP
+- State: PA
+- ZIP: 17866
+- ZIP extension: 9408
+- State project ID: TC20200602
+- Latitude: 40.799733
+- Longitude: -76.581517
+- County FIPS: 42097
+- County from: 2020
+- Tract 2020: 42097081200
+- Tract 2010: 42097081200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1036844
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 36
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

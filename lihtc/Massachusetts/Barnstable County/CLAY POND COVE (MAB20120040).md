@@ -1,0 +1,85 @@
+# Project: CLAY POND COVE (MAB20120040)
+
+- HUD ID: MAB20120040
+- HUD ID before: 
+- Project: CLAY POND COVE
+- Address: 101 HARMONY HILL RD
+- City: BOURNE
+- State: MA
+- ZIP: 02532
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 41.71274
+- Longitude: -70.585606
+- County FIPS: 25001
+- County from: 2020
+- Tract 2020: 25001014002
+- Tract 2010: 25001014002
+- Tract 2000: 25001014000
+- Tract 1990: 25001014000
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 54450
+- Place 1990: 3425
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 810868
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 523266
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

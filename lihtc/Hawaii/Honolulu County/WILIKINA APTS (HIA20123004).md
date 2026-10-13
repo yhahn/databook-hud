@@ -1,0 +1,85 @@
+# Project: WILIKINA APTS (HIA20123004)
+
+- HUD ID: HIA20123004
+- HUD ID before: 
+- Project: WILIKINA APTS
+- Address: 730 WAHIAWA DR
+- City: WAHIAWA
+- State: HI
+- ZIP: 96786
+- ZIP extension: 
+- State project ID: HI-2011-004
+- Latitude: 21.4947
+- Longitude: -158.0398
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003009401
+- Tract 2010: 15003009400
+- Tract 2000: 15003009504
+- Tract 1990: 
+- Place 2020: 72650
+- Place 2010: 72650
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 749102
+- Units: 119
+- Low-income units: 118
+- Units reported: 119
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 79
+- 2-bedroom units: 39
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

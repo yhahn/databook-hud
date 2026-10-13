@@ -1,0 +1,85 @@
+# Project: NEW AMSTERDAM LP (MAB20090045)
+
+- HUD ID: MAB20090045
+- HUD ID before: 
+- Project: NEW AMSTERDAM LP
+- Address: 421 N ST
+- City: PITTSFIELD
+- State: MA
+- ZIP: 01201
+- ZIP extension: 
+- State project ID: 1654
+- Latitude: 42.454931
+- Longitude: -73.252329
+- County FIPS: 25003
+- County from: 2020
+- Tract 2020: 25003900100
+- Tract 2010: 25003900100
+- Tract 2000: 25003900100
+- Tract 1990: 25003900100
+- Place 2020: 53960
+- Place 2010: 53960
+- Place 2000: 53960
+- Place 1990: 3370
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1129969
+- Units: 67
+- Low-income units: 67
+- Units reported: 67
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 51
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 650000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000457.
+- Record status: Existing, unchanged

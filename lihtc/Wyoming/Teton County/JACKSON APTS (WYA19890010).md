@@ -1,0 +1,85 @@
+# Project: JACKSON APTS (WYA19890010)
+
+- HUD ID: WYA19890010
+- HUD ID before: 
+- Project: JACKSON APTS
+- Address: 2196 CORNER CREEK LN
+- City: JACKSON
+- State: WY
+- ZIP: 83001
+- ZIP extension: 
+- State project ID: 
+- Latitude: 43.459113
+- Longitude: -110.806741
+- County FIPS: 56039
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 56039967800
+- Tract 2000: 56039997800
+- Tract 1990: 56039997800
+- Place 2020: 
+- Place 2010: 40120
+- Place 2000: 40120
+- Place 1990: 0215
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 52667
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 27
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

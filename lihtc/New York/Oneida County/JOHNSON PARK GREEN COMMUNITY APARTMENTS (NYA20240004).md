@@ -1,0 +1,85 @@
+# Project: JOHNSON PARK GREEN COMMUNITY APARTMENTS (NYA20240004)
+
+- HUD ID: NYA20240004
+- HUD ID before: 
+- Project: JOHNSON PARK GREEN COMMUNITY APARTMENTS
+- Address: 6 JOHNSON PARK
+- City: UTICA
+- State: NY
+- ZIP: 13501
+- ZIP extension: 
+- State project ID: 20210030
+- Latitude: 43.092141
+- Longitude: -75.236687
+- County FIPS: 36065
+- County from: 2020
+- Tract 2020: 36065021500
+- Tract 2010: 36065021500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76540
+- Place 2010: 76540
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 1747143
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 8
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 61
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: Yes
+- Other population named: SMI
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

@@ -1,0 +1,85 @@
+# Project: FOUNTAINHEAD APTS (OHA19920075)
+
+- HUD ID: OHA19920075
+- HUD ID before: 
+- Project: FOUNTAINHEAD APTS
+- Address: 205 W SHADLEY ST
+- City: ALGER
+- State: OH
+- ZIP: 45812
+- ZIP extension: 
+- State project ID: 910643
+- Latitude: 40.711126
+- Longitude: -83.845269
+- County FIPS: 39065
+- County from: 2020
+- Tract 2020: 39065000500
+- Tract 2010: 39065000500
+- Tract 2000: 39065983500
+- Tract 1990: 39065983500
+- Place 2020: 01210
+- Place 2010: 01210
+- Place 2000: 01210
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 33611
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BEDELL TERRACE (NYB20100007)
+
+- HUD ID: NYB20100007
+- HUD ID before: 
+- Project: BEDELL TERRACE
+- Address: 91 TER AVE
+- City: HEMPSTEAD
+- State: NY
+- ZIP: 11550
+- ZIP extension: 
+- State project ID: NY-09-1949
+- Latitude: 40.710918
+- Longitude: -73.630484
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059406702
+- Tract 2010: 36059406702
+- Tract 2000: 36059406700
+- Tract 1990: 36059406700
+- Place 2020: 33139
+- Place 2010: 33139
+- Place 2000: 33139
+- Place 1990: 1545
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1536788
+- Units: 245
+- Low-income units: 241
+- Units reported: 245
+- Low-income reported: 241
+- Efficiencies: 22
+- 1-bedroom units: 208
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 250000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYB2010507.
+- Record status: Existing, unchanged

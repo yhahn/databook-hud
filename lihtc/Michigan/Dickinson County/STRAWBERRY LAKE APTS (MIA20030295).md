@@ -1,0 +1,85 @@
+# Project: STRAWBERRY LAKE APTS (MIA20030295)
+
+- HUD ID: MIA20030295
+- HUD ID before: 
+- Project: STRAWBERRY LAKE APTS
+- Address: 1231 MAIN ST
+- City: NORWAY
+- State: MI
+- ZIP: 49870
+- ZIP extension: 
+- State project ID: MI-2219
+- Latitude: 45.793045
+- Longitude: -87.907977
+- County FIPS: 26043
+- County from: 2020
+- Tract 2020: 26043950300
+- Tract 2010: 26043950300
+- Tract 2000: 26043950300
+- Tract 1990: 26043950300
+- Place 2020: 59220
+- Place 2010: 59220
+- Place 2000: 59220
+- Place 1990: 1965
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 14
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA STRAWBERRY LAKE APTS - NORWAY.
+- Record status: Existing, unchanged

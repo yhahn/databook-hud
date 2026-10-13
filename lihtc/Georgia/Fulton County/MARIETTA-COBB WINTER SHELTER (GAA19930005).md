@@ -1,0 +1,85 @@
+# Project: MARIETTA-COBB WINTER SHELTER (GAA19930005)
+
+- HUD ID: GAA19930005
+- HUD ID before: 
+- Project: MARIETTA-COBB WINTER SHELTER
+- Address: 1888 CONNALLY DR
+- City: EAST POINT
+- State: GA
+- ZIP: 30344
+- ZIP extension: 
+- State project ID: GA-93-030
+- Latitude: 33.69186
+- Longitude: -84.450268
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011203
+- Tract 2010: 13121011201
+- Tract 2000: 13121011201
+- Tract 1990: 13121011201
+- Place 2020: 25720
+- Place 2010: 25720
+- Place 2000: 04000
+- Place 1990: 0960
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000105. AKA CONNALLY DRIVE HOME.
+- Record status: Existing, unchanged

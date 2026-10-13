@@ -1,0 +1,85 @@
+# Project: NLR RAD FAMILY HOMES (ARA20212198)
+
+- HUD ID: ARA20212198
+- HUD ID before: 
+- Project: NLR RAD FAMILY HOMES
+- Address: 701 W 18TH, 1823 CRUTCHER ST & 622 E 19TH ST
+- City: NORTH LITTLE ROCK
+- State: AR
+- ZIP: 72114
+- ZIP extension: 
+- State project ID: AR-21-03
+- Latitude: 34.7591
+- Longitude: -92.2714
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119003002
+- Tract 2010: 05119002500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50450
+- Place 2010: 50450
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 243
+- Low-income units: 243
+- Units reported: 243
+- Low-income reported: 243
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 67
+- 3-bedroom units: 81
+- 4-bedroom units: 55
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

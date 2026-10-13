@@ -1,0 +1,85 @@
+# Project: LANIER COURT APTS (MIA20100053)
+
+- HUD ID: MIA20100053
+- HUD ID before: 
+- Project: LANIER COURT APTS
+- Address: 3801 HOLCOMB ST
+- City: DETROIT
+- State: MI
+- ZIP: 48214
+- ZIP extension: 
+- State project ID: MI-3413
+- Latitude: 42.371917
+- Longitude: -82.996801
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163514500
+- Tract 2010: 26163514500
+- Tract 2000: 26163514500
+- Tract 1990: 26163514500
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 22000
+- Place 1990: 0680
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 387016
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 3
+- 1-bedroom units: 22
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LANIERURT APTS.
+- Record status: Existing, unchanged

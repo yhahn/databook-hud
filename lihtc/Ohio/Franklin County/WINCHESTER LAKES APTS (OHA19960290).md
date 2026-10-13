@@ -1,0 +1,85 @@
+# Project: WINCHESTER LAKES APTS (OHA19960290)
+
+- HUD ID: OHA19960290
+- HUD ID before: 
+- Project: WINCHESTER LAKES APTS
+- Address: 6621 KODIAK DR
+- City: CANAL WNCHSTR
+- State: OH
+- ZIP: 43110
+- ZIP extension: 
+- State project ID: OH-94-8200
+- Latitude: 39.861807
+- Longitude: -82.823899
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049009403
+- Tract 2010: 39049009450
+- Tract 2000: 39049009450
+- Tract 1990: 39049009450
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 11332
+- Place 1990: 0695
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 554338
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 90
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

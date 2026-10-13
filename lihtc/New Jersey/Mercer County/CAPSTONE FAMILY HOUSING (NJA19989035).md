@@ -1,0 +1,85 @@
+# Project: CAPSTONE FAMILY HOUSING (NJA19989035)
+
+- HUD ID: NJA19989035
+- HUD ID before: 
+- Project: CAPSTONE FAMILY HOUSING
+- Address: 1056 STUYVESANT AVENUE
+- City: TRENTON
+- State: NJ
+- ZIP: 08618
+- ZIP extension: 
+- State project ID: 01967
+- Latitude: 40.238401
+- Longitude: -74.786886
+- County FIPS: 34021
+- County from: 2020
+- Tract 2020: 34021001300
+- Tract 2010: 34021001300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 74000
+- Place 2010: 74000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 182687
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

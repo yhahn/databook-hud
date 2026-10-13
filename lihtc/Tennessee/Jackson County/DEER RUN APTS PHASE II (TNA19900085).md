@@ -1,0 +1,85 @@
+# Project: DEER RUN APTS PHASE II (TNA19900085)
+
+- HUD ID: TNA19900085
+- HUD ID before: 
+- Project: DEER RUN APTS PHASE II
+- Address: 1290 N GRUNDY QUARLES HWY
+- City: GAINESBORO
+- State: TN
+- ZIP: 38562
+- ZIP extension: 
+- State project ID: TN-89-134
+- Latitude: 36.383559
+- Longitude: -85.637207
+- County FIPS: 47087
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47087960400
+- Tract 2000: 47087960400
+- Tract 1990: 47087960400
+- Place 2020: 
+- Place 2010: 28420
+- Place 2000: 28420
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 25032
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

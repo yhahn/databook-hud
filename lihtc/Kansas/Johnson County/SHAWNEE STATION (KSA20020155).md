@@ -1,0 +1,85 @@
+# Project: SHAWNEE STATION (KSA20020155)
+
+- HUD ID: KSA20020155
+- HUD ID before: 
+- Project: SHAWNEE STATION
+- Address: 15710 W 65TH ST
+- City: SHAWNEE
+- State: KS
+- ZIP: 66217
+- ZIP extension: 
+- State project ID: 60022
+- Latitude: 39.011703
+- Longitude: -94.767796
+- County FIPS: 20091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20091052303
+- Tract 2000: 20091052303
+- Tract 1990: 20091052303
+- Place 2020: 
+- Place 2010: 64500
+- Place 2000: 64500
+- Place 1990: 2635
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 435282
+- Units: 228
+- Low-income units: 183
+- Units reported: 228
+- Low-income reported: 183
+- Efficiencies: 0
+- 1-bedroom units: 66
+- 2-bedroom units: 120
+- 3-bedroom units: 42
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2003115.
+- Record status: Existing, unchanged

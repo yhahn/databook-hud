@@ -1,0 +1,85 @@
+# Project: VILLAGE SOUTH AKA HOLLY SPRINGS APTS (VAA20222011)
+
+- HUD ID: VAA20222011
+- HUD ID before: 
+- Project: VILLAGE SOUTH AKA HOLLY SPRINGS APTS
+- Address: 801 HOLLY SPRINGS AVE.
+- City: RICHMOND
+- State: VA
+- ZIP: 23224
+- ZIP extension: 
+- State project ID: 1139
+- Latitude: 37.503242
+- Longitude: -77.461139
+- County FIPS: 51760
+- County from: 2020
+- Tract 2020: 51760060700
+- Tract 2010: 51760060700
+- Tract 2000: 51760060700
+- Tract 1990: 51760060798
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 1035
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 723908
+- Units: 121
+- Low-income units: 121
+- Units reported: 121
+- Low-income reported: 121
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 121
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 121
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HOLLY SPRINGS.
+- Record status: Updated

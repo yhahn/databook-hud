@@ -1,0 +1,85 @@
+# Project: CROSSROADS APTS (TXA19880420)
+
+- HUD ID: TXA19880420
+- HUD ID before: 
+- Project: CROSSROADS APTS
+- Address: 1208 SE LOOP 820
+- City: FORT WORTH
+- State: TX
+- ZIP: 76134
+- ZIP extension: 
+- State project ID: TX6543
+- Latitude: 32.669015
+- Longitude: -97.309646
+- County FIPS: 48439
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48439106002
+- Tract 2000: 48439106002
+- Tract 1990: 48439106002
+- Place 2020: 
+- Place 2010: 27000
+- Place 2000: 26544
+- Place 1990: 1500
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 83
+- Low-income units: 83
+- Units reported: 83
+- Low-income reported: 83
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 28
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: POST GLEN APTS (WVA19940040)
+
+- HUD ID: WVA19940040
+- HUD ID before: 
+- Project: POST GLEN APTS
+- Address: PO BOX 588
+- City: OCEANA
+- State: WV
+- ZIP: 24870
+- ZIP extension: 
+- State project ID: WV-93-139
+- Latitude: 37.7406
+- Longitude: -81.6247
+- County FIPS: 54109
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 54109002901
+- Tract 2000: 54109952901
+- Tract 1990: 54109952900
+- Place 2020: 
+- Place 2010: 44548
+- Place 2000: 60364
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: Resyndicated 3 projects in to 1. New HUD ID WVA20210015
+- Record status: Existing, unchanged

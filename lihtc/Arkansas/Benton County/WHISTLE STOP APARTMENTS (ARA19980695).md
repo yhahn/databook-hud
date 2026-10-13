@@ -1,0 +1,85 @@
+# Project: WHISTLE STOP APARTMENTS (ARA19980695)
+
+- HUD ID: ARA19980695
+- HUD ID before: 
+- Project: WHISTLE STOP APARTMENTS
+- Address: 501 WHISTLESTOP LN
+- City: GENTRY
+- State: AR
+- ZIP: 72734
+- ZIP extension: 
+- State project ID: AR-97-16
+- Latitude: 36.262989
+- Longitude: -94.487094
+- County FIPS: 05007
+- County from: 2020
+- Tract 2020: 05007021004
+- Tract 2010: 05007021002
+- Tract 2000: 05007021002
+- Tract 1990: 05007021002
+- Place 2020: 26290
+- Place 2010: 26290
+- Place 2000: 17740
+- Place 1990: 0765
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 116073
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 8
+- 1-bedroom units: 4
+- 2-bedroom units: 15
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1998045. AKA BELLWOOD FOUR.
+- Record status: Existing, unchanged

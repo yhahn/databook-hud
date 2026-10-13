@@ -1,0 +1,85 @@
+# Project: CHELSEA (NYC20110854)
+
+- HUD ID: NYC20110854
+- HUD ID before: 
+- Project: CHELSEA
+- Address: 425 WEST 25TH/ 428 WEST 26TH
+- City: NEW YORK
+- State: NY
+- ZIP: 10014
+- ZIP extension: 
+- State project ID: 01-0943503
+- Latitude: 40.734
+- Longitude: -74.0037
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061009300
+- Tract 2010: 36061007300
+- Tract 2000: 36061009900
+- Tract 1990: 36061009300
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1380140
+- Units: 425
+- Low-income units: 332
+- Units reported: 425
+- Low-income reported: 332
+- Efficiencies: 23
+- 1-bedroom units: 141
+- 2-bedroom units: 119
+- 3-bedroom units: 99
+- 4-bedroom units: 43
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

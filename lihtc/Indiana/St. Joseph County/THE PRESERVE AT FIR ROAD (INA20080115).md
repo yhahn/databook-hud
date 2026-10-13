@@ -1,0 +1,85 @@
+# Project: THE PRESERVE AT FIR ROAD (INA20080115)
+
+- HUD ID: INA20080115
+- HUD ID before: 
+- Project: THE PRESERVE AT FIR ROAD
+- Address: 2705 SPICER LN
+- City: MISHAWAKA
+- State: IN
+- ZIP: 46545
+- ZIP extension: 
+- State project ID: IN-06-01900
+- Latitude: 41.684497
+- Longitude: -86.158608
+- County FIPS: 18141
+- County from: 2020
+- Tract 2020: 18141011506
+- Tract 2010: 18141011506
+- Tract 2000: 18141011502
+- Tract 1990: 18141011502
+- Place 2020: 49932
+- Place 2010: 49932
+- Place 2000: 28800
+- Place 1990: 1610
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 800000
+- Units: 144
+- Low-income units: 122
+- Units reported: 144
+- Low-income reported: 122
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 76
+- 3-bedroom units: 46
+- 4-bedroom units: 22
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

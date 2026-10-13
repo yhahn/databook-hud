@@ -1,0 +1,85 @@
+# Project: MEADOWBROOK PARK OF WEST HELENA (ARA20110807)
+
+- HUD ID: ARA20110807
+- HUD ID before: 
+- Project: MEADOWBROOK PARK OF WEST HELENA
+- Address: 101 S MEADOWBROOK
+- City: WEST HELENA
+- State: AR
+- ZIP: 72390
+- ZIP extension: 
+- State project ID: AR-09-31
+- Latitude: 34.5451
+- Longitude: -90.6729
+- County FIPS: 05107
+- County from: 2020
+- Tract 2020: 05107480500
+- Tract 2010: 05107480500
+- Tract 2000: 05107980500
+- Tract 1990: 05107980500
+- Place 2020: 31190
+- Place 2010: 31190
+- Place 2000: 31180
+- Place 1990: 3000
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 476072
+- Units: 29
+- Low-income units: 28
+- Units reported: 29
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 26
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2011010.
+- Record status: Existing, unchanged

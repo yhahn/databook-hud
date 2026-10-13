@@ -1,0 +1,85 @@
+# Project: MILLERS CROSSING II (LAA20119889)
+
+- HUD ID: LAA20119889
+- HUD ID before: 
+- Project: MILLERS CROSSING II
+- Address: 100 MELISSA CT
+- City: MONROE
+- State: LA
+- ZIP: 71202
+- ZIP extension: 
+- State project ID: LA-09-040
+- Latitude: 32.479955
+- Longitude: -92.085055
+- County FIPS: 22073
+- County from: 2020
+- Tract 2020: 22073001100
+- Tract 2010: 22073001100
+- Tract 2000: 22073001100
+- Tract 1990: 22073001100
+- Place 2020: 64660
+- Place 2010: 64660
+- Place 2000: 51410
+- Place 1990: 0890
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

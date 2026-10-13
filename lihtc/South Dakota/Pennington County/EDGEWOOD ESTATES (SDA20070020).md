@@ -1,0 +1,85 @@
+# Project: EDGEWOOD ESTATES (SDA20070020)
+
+- HUD ID: SDA20070020
+- HUD ID before: 
+- Project: EDGEWOOD ESTATES
+- Address: 831 KIMBERLY CIR
+- City: RAPID CITY
+- State: SD
+- ZIP: 57701
+- ZIP extension: 
+- State project ID: 00458
+- Latitude: 44.128176
+- Longitude: -103.228732
+- County FIPS: 46103
+- County from: 2020
+- Tract 2020: 46103011400
+- Tract 2010: 46103011400
+- Tract 2000: 46103011400
+- Tract 1990: 46103011400
+- Place 2020: 52980
+- Place 2010: 52980
+- Place 2000: 02530
+- Place 1990: 0147
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 328221
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 850000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

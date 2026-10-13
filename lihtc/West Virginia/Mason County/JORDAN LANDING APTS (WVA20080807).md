@@ -1,0 +1,85 @@
+# Project: JORDAN LANDING APTS (WVA20080807)
+
+- HUD ID: WVA20080807
+- HUD ID before: 
+- Project: JORDAN LANDING APTS
+- Address: 18 JORDAN LANDING DR
+- City: PT PLEASANT
+- State: WV
+- ZIP: 25550
+- ZIP extension: 
+- State project ID: WV-06-296
+- Latitude: 38.906914
+- Longitude: -82.118859
+- County FIPS: 54053
+- County from: 2020
+- Tract 2020: 54053954902
+- Tract 2010: 54053954900
+- Tract 2000: 54053954900
+- Tract 1990: 54053954900
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 46300
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 16
+- 3-bedroom units: 12
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WVA0000120.
+- Record status: Existing, unchanged

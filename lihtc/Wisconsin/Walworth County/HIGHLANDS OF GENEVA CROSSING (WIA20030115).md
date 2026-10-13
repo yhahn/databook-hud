@@ -1,0 +1,85 @@
+# Project: HIGHLANDS OF GENEVA CROSSING (WIA20030115)
+
+- HUD ID: WIA20030115
+- HUD ID before: 
+- Project: HIGHLANDS OF GENEVA CROSSING
+- Address: 721 S CURTIS ST
+- City: LAKE GENEVA
+- State: WI
+- ZIP: 53147
+- ZIP extension: 
+- State project ID: 2626
+- Latitude: 42.585282
+- Longitude: -88.423451
+- County FIPS: 55127
+- County from: 2020
+- Tract 2020: 55127001605
+- Tract 2010: 55127001602
+- Tract 2000: 55127001602
+- Tract 1990: 55127001602
+- Place 2020: 41450
+- Place 2010: 41450
+- Place 2000: 41450
+- Place 1990: 1350
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 10
+- Units reported: 48
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA THE HIGHLANDS OF GENEVA CRSNG.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ASHTON HEIGHTS APTS (MOA19900305)
+
+- HUD ID: MOA19900305
+- HUD ID before: 
+- Project: ASHTON HEIGHTS APTS
+- Address: 910 E LINDON ST
+- City: BOLIVAR
+- State: MO
+- ZIP: 65613
+- ZIP extension: 
+- State project ID: 169222
+- Latitude: 37.620278
+- Longitude: -93.403619
+- County FIPS: 29167
+- County from: 2020
+- Tract 2020: 29167960202
+- Tract 2010: 29167960200
+- Tract 2000: 29167960200
+- Tract 1990: 29167960200
+- Place 2020: 06976
+- Place 2010: 06976
+- Place 2000: 06976
+- Place 1990: 0445
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

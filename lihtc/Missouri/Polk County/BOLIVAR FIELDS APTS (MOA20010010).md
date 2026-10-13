@@ -1,0 +1,85 @@
+# Project: BOLIVAR FIELDS APTS (MOA20010010)
+
+- HUD ID: MOA20010010
+- HUD ID before: 
+- Project: BOLIVAR FIELDS APTS
+- Address: 1855 S LILLIAN AVE
+- City: BOLIVAR
+- State: MO
+- ZIP: 65613
+- ZIP extension: 
+- State project ID: 99079
+- Latitude: 37.597835
+- Longitude: -93.415879
+- County FIPS: 29167
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29167960400
+- Tract 2000: 29167960400
+- Tract 1990: 29167960400
+- Place 2020: 
+- Place 2010: 06976
+- Place 2000: 00568
+- Place 1990: 0445
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

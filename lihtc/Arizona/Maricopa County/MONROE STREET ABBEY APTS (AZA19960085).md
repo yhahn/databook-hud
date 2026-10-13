@@ -1,0 +1,85 @@
+# Project: MONROE STREET ABBEY APTS (AZA19960085)
+
+- HUD ID: AZA19960085
+- HUD ID before: 
+- Project: MONROE STREET ABBEY APTS
+- Address: 334 W MONROE ST
+- City: PHOENIX
+- State: AZ
+- ZIP: 85003
+- ZIP extension: 
+- State project ID: TC-0085
+- Latitude: 33.450526
+- Longitude: -112.078425
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013114100
+- Tract 2010: 04013114100
+- Tract 2000: 04013114100
+- Tract 1990: 04013114100
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 0260
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 6
+- 1-bedroom units: 82
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000559, AZA1996055.
+- Record status: Existing, unchanged

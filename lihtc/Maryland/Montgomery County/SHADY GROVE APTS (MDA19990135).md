@@ -1,0 +1,85 @@
+# Project: SHADY GROVE APTS (MDA19990135)
+
+- HUD ID: MDA19990135
+- HUD ID before: 
+- Project: SHADY GROVE APTS
+- Address: 16125 CRABBS BRANCH WAY
+- City: ROCKVILLE
+- State: MD
+- ZIP: 20855
+- ZIP extension: 
+- State project ID: MD99-01
+- Latitude: 39.117452
+- Longitude: -77.156749
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031701211
+- Tract 2010: 24031701211
+- Tract 2000: 24031701211
+- Tract 1990: 24031701211
+- Place 2020: 22775
+- Place 2010: 22775
+- Place 2000: 65312
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

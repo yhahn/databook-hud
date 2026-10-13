@@ -1,0 +1,85 @@
+# Project: ART APTS (PAA19900185)
+
+- HUD ID: PAA19900185
+- HUD ID before: 
+- Project: ART APTS
+- Address: 1234 MARKET ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19107
+- ZIP extension: 
+- State project ID: TC1989-0084
+- Latitude: 39.951807
+- Longitude: -75.160473
+- County FIPS: 42101
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42101000500
+- Tract 2000: 42101000500
+- Tract 1990: 42101000500
+- Place 2020: 
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 247596
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 8
+- 1-bedroom units: 6
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 203000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

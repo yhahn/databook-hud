@@ -1,0 +1,85 @@
+# Project: LANDMARK APTS II (VAA20070015)
+
+- HUD ID: VAA20070015
+- HUD ID before: 
+- Project: LANDMARK APTS II
+- Address: 2900 FIRESIDE RD
+- City: CHESAPEAKE
+- State: VA
+- ZIP: 23324
+- ZIP extension: 
+- State project ID: 4257
+- Latitude: 36.812354
+- Longitude: -76.252297
+- County FIPS: 51550
+- County from: 2020
+- Tract 2020: 51550020100
+- Tract 2010: 51550020100
+- Tract 2000: 51550020100
+- Tract 1990: 51550020100
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0242
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 468089
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1989085.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SPRINGFIELD COURT (COA19970070)
+
+- HUD ID: COA19970070
+- HUD ID before: 
+- Project: SPRINGFIELD COURT
+- Address: 3581 S TAFT HILL RD
+- City: FORT COLLINS
+- State: CO
+- ZIP: 
+- ZIP extension: 
+- State project ID: CO-95-22
+- Latitude: 
+- Longitude: 
+- County FIPS: 08069
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 08069001112
+- Tract 1990: 08069001108
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 27425
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 63
+- Low-income units: 62
+- Units reported: 63
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 22
+- 3-bedroom units: 24
+- 4-bedroom units: 11
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MERCY HOUSING COLORADO III.
+- Record status: Existing, unchanged

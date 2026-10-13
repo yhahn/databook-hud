@@ -1,0 +1,85 @@
+# Project: VILLAS AT THE BLUFF PHASE II (COA20156026)
+
+- HUD ID: COA20156026
+- HUD ID before: 
+- Project: VILLAS AT THE BLUFF PHASE II
+- Address: 501 E 14TH ST
+- City: DELTA
+- State: CO
+- ZIP: 81416
+- ZIP extension: 
+- State project ID: CO1012-342
+- Latitude: 38.728807
+- Longitude: -108.064946
+- County FIPS: 08029
+- County from: 2020
+- Tract 2020: 08029964900
+- Tract 2010: 08029965100
+- Tract 2000: 08029965100
+- Tract 1990: 08029964800
+- Place 2020: 19850
+- Place 2010: 19850
+- Place 2000: 19850
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

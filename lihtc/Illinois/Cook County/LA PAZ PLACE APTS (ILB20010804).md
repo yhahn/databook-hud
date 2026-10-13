@@ -1,0 +1,85 @@
+# Project: LA PAZ PLACE APTS (ILB20010804)
+
+- HUD ID: ILB20010804
+- HUD ID before: 
+- Project: LA PAZ PLACE APTS
+- Address: 3533 W DICKENS AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60647
+- ZIP extension: 
+- State project ID: IL-98-02001
+- Latitude: 41.918974
+- Longitude: -87.714888
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031221000
+- Tract 2010: 17031221000
+- Tract 2000: 17031221000
+- Tract 1990: 17031221000
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 385408
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 21
+- 3-bedroom units: 13
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2961600
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2001030.
+- Record status: Existing, unchanged

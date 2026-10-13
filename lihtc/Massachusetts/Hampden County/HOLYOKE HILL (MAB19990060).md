@@ -1,0 +1,85 @@
+# Project: HOLYOKE HILL (MAB19990060)
+
+- HUD ID: MAB19990060
+- HUD ID before: 
+- Project: HOLYOKE HILL
+- Address: 360 1/2 TOKENEKE RD
+- City: HOLYOKE
+- State: MA
+- ZIP: 01040
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.178241
+- Longitude: -72.639154
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013812103
+- Tract 2010: 25013812103
+- Tract 2000: 25013812102
+- Tract 1990: 25013812102
+- Place 2020: 30840
+- Place 2010: 30840
+- Place 2000: 30840
+- Place 1990: 1830
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 165
+- Low-income units: 165
+- Units reported: 165
+- Low-income reported: 165
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 83
+- 3-bedroom units: 82
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

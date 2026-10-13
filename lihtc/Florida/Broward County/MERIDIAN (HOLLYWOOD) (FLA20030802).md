@@ -1,0 +1,85 @@
+# Project: MERIDIAN (HOLLYWOOD) (FLA20030802)
+
+- HUD ID: FLA20030802
+- HUD ID before: 
+- Project: MERIDIAN (HOLLYWOOD)
+- Address: 2900 N 26TH AVE
+- City: HOLLYWOOD
+- State: FL
+- ZIP: 33020
+- ZIP extension: 
+- State project ID: 1129
+- Latitude: 26.037209
+- Longitude: -80.162352
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011080500
+- Tract 2010: 12011080500
+- Tract 2000: 12011080500
+- Tract 1990: 12011080500
+- Place 2020: 32000
+- Place 2010: 32000
+- Place 2000: 16325
+- Place 1990: 0470
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 159
+- Units reported: 160
+- Low-income reported: 159
+- Efficiencies: 0
+- 1-bedroom units: 101
+- 2-bedroom units: 58
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2003165.
+- Record status: Existing, unchanged

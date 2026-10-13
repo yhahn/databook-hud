@@ -1,0 +1,85 @@
+# Project: OAKLEIGH APTS. (LAA19920090)
+
+- HUD ID: LAA19920090
+- HUD ID before: 
+- Project: OAKLEIGH APTS.
+- Address: 2405 RICHARD STREET
+- City: ABBEVILLE
+- State: LA
+- ZIP: 70510
+- ZIP extension: 0000
+- State project ID: LA-91-031
+- Latitude: 29.971341
+- Longitude: -92.165369
+- County FIPS: 22113
+- County from: 2020
+- Tract 2020: 22113950600
+- Tract 2010: 22113950600
+- Tract 2000: 22113950600
+- Tract 1990: 22113950600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 0005
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

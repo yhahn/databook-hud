@@ -1,0 +1,85 @@
+# Project: A BETTER LIFE (NJA20200003)
+
+- HUD ID: NJA20200003
+- HUD ID before: 
+- Project: A BETTER LIFE
+- Address: 101 14TH AVE
+- City: NEWARK
+- State: NJ
+- ZIP: 07103
+- ZIP extension: 
+- State project ID: 1453
+- Latitude: 40.737749
+- Longitude: -74.194227
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013023000
+- Tract 2010: 34013023000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 307008
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

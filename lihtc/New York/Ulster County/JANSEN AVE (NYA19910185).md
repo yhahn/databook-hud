@@ -1,0 +1,85 @@
+# Project: JANSEN AVE (NYA19910185)
+
+- HUD ID: NYA19910185
+- HUD ID before: 
+- Project: JANSEN AVE
+- Address: 25 JANSEN AVE
+- City: KINGSTON
+- State: NY
+- ZIP: 12401
+- ZIP extension: 
+- State project ID: NY-92-0639_00053
+- Latitude: 41.926385
+- Longitude: -73.993264
+- County FIPS: 36111
+- County from: 2020
+- Tract 2020: 36111951900
+- Tract 2010: 36111951900
+- Tract 2000: 36111951900
+- Tract 1990: 36111951900
+- Place 2020: 39727
+- Place 2010: 39727
+- Place 2000: 39727
+- Place 1990: 1825
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

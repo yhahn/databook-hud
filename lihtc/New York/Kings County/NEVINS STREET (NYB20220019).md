@@ -1,0 +1,85 @@
+# Project: NEVINS STREET (NYB20220019)
+
+- HUD ID: NYB20220019
+- HUD ID before: 
+- Project: NEVINS STREET
+- Address: 50 NEVINS STREET
+- City: BROOKLYN
+- State: NY
+- ZIP: 11217
+- ZIP extension: 
+- State project ID: NY-23-2595
+- Latitude: 40.687228
+- Longitude: -73.982128
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047004100
+- Tract 2010: 36047004100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 129
+- Low-income units: 128
+- Units reported: 129
+- Low-income reported: 128
+- Efficiencies: 105
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

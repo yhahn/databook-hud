@@ -1,0 +1,85 @@
+# Project: SEASIDE HEIGHTS (MEA20070035)
+
+- HUD ID: MEA20070035
+- HUD ID before: 
+- Project: SEASIDE HEIGHTS
+- Address: 72 RYAN RD
+- City: BELFAST
+- State: ME
+- ZIP: 04915
+- ZIP extension: 
+- State project ID: MSHA-RLP-1293
+- Latitude: 44.436384
+- Longitude: -68.969238
+- County FIPS: 23027
+- County from: 2020
+- Tract 2020: 23027043000
+- Tract 2010: 23027043000
+- Tract 2000: 23027043000
+- Tract 1990: 23027043000
+- Place 2020: 03950
+- Place 2010: 03950
+- Place 2000: 03950
+- Place 1990: 0330
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 565197
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 19
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 400000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

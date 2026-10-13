@@ -1,0 +1,85 @@
+# Project: RIVER OAKS - FLORIDA CITY (FLA19960811)
+
+- HUD ID: FLA19960811
+- HUD ID before: 
+- Project: RIVER OAKS - FLORIDA CITY
+- Address: 501 N.W. 5TH AVENUE
+- City: FLORIDA CITY
+- State: FL
+- ZIP: 33034
+- ZIP extension: 
+- State project ID: 695
+- Latitude: 25.453163
+- Longitude: -80.483212
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086011405
+- Tract 2010: 12086011403
+- Tract 2000: 12086011402
+- Tract 1990: 12025011498
+- Place 2020: 22975
+- Place 2010: 22975
+- Place 2000: 22975
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 634683
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 97
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

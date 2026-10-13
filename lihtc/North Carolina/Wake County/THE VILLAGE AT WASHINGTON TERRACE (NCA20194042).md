@@ -1,0 +1,85 @@
+# Project: THE VILLAGE AT WASHINGTON TERRACE (NCA20194042)
+
+- HUD ID: NCA20194042
+- HUD ID before: 
+- Project: THE VILLAGE AT WASHINGTON TERRACE
+- Address: 1951 BOOKER DRIVE
+- City: RALEIGH
+- State: NC
+- ZIP: 27610
+- ZIP extension: 
+- State project ID: 9190092
+- Latitude: 35.78606
+- Longitude: -78.615606
+- County FIPS: 37183
+- County from: 2020
+- Tract 2020: 37183050600
+- Tract 2010: 37183050600
+- Tract 2000: 37183050600
+- Tract 1990: 
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1115994
+- Units: 162
+- Low-income units: 162
+- Units reported: 162
+- Low-income reported: 162
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 78
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

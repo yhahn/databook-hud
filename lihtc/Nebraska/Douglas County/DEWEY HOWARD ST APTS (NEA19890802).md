@@ -1,0 +1,85 @@
+# Project: DEWEY HOWARD ST APTS (NEA19890802)
+
+- HUD ID: NEA19890802
+- HUD ID before: 
+- Project: DEWEY HOWARD ST APTS
+- Address: 2317 DEWEY AVE
+- City: OMAHA
+- State: NE
+- ZIP: 68102
+- ZIP extension: 
+- State project ID: 7-0049
+- Latitude: 41.255741
+- Longitude: -95.946294
+- County FIPS: 31055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31055001900
+- Tract 2000: 31055001900
+- Tract 1990: 31055001900
+- Place 2020: 
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 1825
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 49733
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA0000145.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: DALY HOUSE (MAB19930040)
+
+- HUD ID: MAB19930040
+- HUD ID before: 
+- Project: DALY HOUSE
+- Address: 318 DUDLEY ST
+- City: ROXBURY
+- State: MA
+- ZIP: 02119
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.327659
+- Longitude: -71.077033
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025080300
+- Tract 2010: 25025080300
+- Tract 2000: 25025080300
+- Tract 1990: 25025080300
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 19
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

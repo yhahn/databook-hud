@@ -1,0 +1,85 @@
+# Project: TANNERY VILLAGE (NYA20030220)
+
+- HUD ID: NYA20030220
+- HUD ID before: 
+- Project: TANNERY VILLAGE
+- Address: 47 RICHARDSON AVE
+- City: MONTICELLO
+- State: NY
+- ZIP: 12701
+- ZIP extension: 
+- State project ID: 20010735
+- Latitude: 41.650695
+- Longitude: -74.679643
+- County FIPS: 36105
+- County from: 2020
+- Tract 2020: 36105951801
+- Tract 2010: 36105951800
+- Tract 2000: 36105951800
+- Tract 1990: 36105951800
+- Place 2020: 48175
+- Place 2010: 48175
+- Place 2000: 48175
+- Place 1990: 2340
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

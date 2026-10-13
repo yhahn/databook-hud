@@ -1,0 +1,85 @@
+# Project: 1989 RENTAL REHAB (MSA19900114)
+
+- HUD ID: MSA19900114
+- HUD ID before: 
+- Project: 1989 RENTAL REHAB
+- Address: 206 E PERCY ST
+- City: GREENWOOD
+- State: MS
+- ZIP: 38930
+- ZIP extension: 
+- State project ID: 
+- Latitude: 33.510414
+- Longitude: -90.17315
+- County FIPS: 28083
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 28083950900
+- Tract 2000: 28083950900
+- Tract 1990: 28083950900
+- Place 2020: 
+- Place 2010: 29340
+- Place 2000: 29340
+- Place 1990: 0505
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA0000015.
+- Record status: Existing, unchanged

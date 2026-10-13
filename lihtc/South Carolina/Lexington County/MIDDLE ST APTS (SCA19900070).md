@@ -1,0 +1,85 @@
+# Project: MIDDLE ST APTS (SCA19900070)
+
+- HUD ID: SCA19900070
+- HUD ID before: 
+- Project: MIDDLE ST APTS
+- Address: 1522 MIDDLE ST
+- City: CAYCE
+- State: SC
+- ZIP: 29033
+- ZIP extension: 
+- State project ID: SC-90-032
+- Latitude: 33.971792
+- Longitude: -81.073316
+- County FIPS: 45063
+- County from: 2020
+- Tract 2020: 45063020202
+- Tract 2010: 45063020202
+- Tract 2000: 45063020202
+- Tract 1990: 45063020202
+- Place 2020: 12655
+- Place 2010: 12655
+- Place 2000: 12655
+- Place 1990: 0220
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 3888
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SHAWNEETOWN APTS (ILA19880064)
+
+- HUD ID: ILA19880064
+- HUD ID before: 
+- Project: SHAWNEETOWN APTS
+- Address: 400 PARK ST
+- City: SHAWNEETOWN
+- State: IL
+- ZIP: 
+- ZIP extension: 
+- State project ID: 142-88
+- Latitude: 37.7156
+- Longitude: -88.18308
+- County FIPS: 17059
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17059972800
+- Tract 2000: 17059972800
+- Tract 1990: 17059972800
+- Place 2020: 
+- Place 2010: 69082
+- Place 2000: 24348
+- Place 1990: 5280
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 7974
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000865.
+- Record status: Existing, unchanged

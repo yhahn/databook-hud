@@ -1,0 +1,85 @@
+# Project: COURTS OF CICERO (ILA19920075)
+
+- HUD ID: ILA19920075
+- HUD ID before: 
+- Project: COURTS OF CICERO
+- Address: 2513 S 57TH CT
+- City: CICERO
+- State: IL
+- ZIP: 60804
+- ZIP extension: 
+- State project ID: 521-92
+- Latitude: 41.845036
+- Longitude: -87.767209
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031813900
+- Tract 2010: 17031813900
+- Tract 2000: 17031813900
+- Tract 1990: 17031813900
+- Place 2020: 14351
+- Place 2010: 14351
+- Place 2000: 14351
+- Place 1990: 1085
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 3370
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: AKA CICERO GARDENS.
+- Record status: Existing, unchanged

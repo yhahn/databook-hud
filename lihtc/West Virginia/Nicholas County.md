@@ -1,0 +1,24 @@
+# Tax Credit Projects: Nicholas County, WV
+
+- Level: County
+- Postal code: WV
+- State FIPS: 54
+- County FIPS: 54067
+- Counties: 
+- Projects: 7
+- Units: 204
+- Low-income units: 203
+
+The low-income housing tax credit projects of Nicholas County, West Virginia, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [ROSE MARY/REDDY APTS (WVA19900065)](./Nicholas%20County/ROSE%20MARY-REDDY%20APTS%20%28WVA19900065%29.md) | WVA19900065 | SUMMERSVILLE | 1990 | 16 | 16 |
+| [SUMMERS VILLAGE APTS (WVA19900075)](./Nicholas%20County/SUMMERS%20VILLAGE%20APTS%20%28WVA19900075%29.md) | WVA19900075 | SUMMERSVILLE | 1990 | 24 | 24 |
+| [CRAIGSVILLE ELDERLY (WVA19920025)](./Nicholas%20County/CRAIGSVILLE%20ELDERLY%20%28WVA19920025%29.md) | WVA19920025 | CRAIGSVILLE | 1992 | 16 | 16 |
+| [CRAIGSVILLE II (WVA19920030)](./Nicholas%20County/CRAIGSVILLE%20II%20%28WVA19920030%29.md) | WVA19920030 | CRAIGSVILLE | 1992 | 16 | 16 |
+| [JOSEPH S CROSSING LTD PTRSHP (WVA20010020)](./Nicholas%20County/JOSEPH%20S%20CROSSING%20LTD%20PTRSHP%20%28WVA20010020%29.md) | WVA20010020 | SUMMERSVILLE | 2001 | 42 | 41 |
+| [DYLAN HEIGHTS APTS (WVA20040015)](./Nicholas%20County/DYLAN%20HEIGHTS%20APTS%20%28WVA20040015%29.md) | WVA20040015 | SUMMERSVILLE | 2004 | 48 | 48 |
+| [JOSEPH'S CROSSING (WVA20231005)](./Nicholas%20County/JOSEPH%27S%20CROSSING%20%28WVA20231005%29.md) | WVA20231005 | SUMMERSVILLE | 2023 | 42 | 42 |

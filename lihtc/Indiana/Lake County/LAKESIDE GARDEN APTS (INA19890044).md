@@ -1,0 +1,85 @@
+# Project: LAKESIDE GARDEN APTS (INA19890044)
+
+- HUD ID: INA19890044
+- HUD ID before: 
+- Project: LAKESIDE GARDEN APTS
+- Address: 3806 ERIE CT
+- City: EAST CHICAGO
+- State: IN
+- ZIP: 46312
+- ZIP extension: 
+- State project ID: IN-89-03901
+- Latitude: 41.645395
+- Longitude: -87.435849
+- County FIPS: 18089
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18089030100
+- Tract 2000: 18089030100
+- Tract 1990: 18089030100
+- Place 2020: 
+- Place 2010: 19486
+- Place 2000: 19486
+- Place 1990: 0680
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 312
+- Low-income units: 312
+- Units reported: 312
+- Low-income reported: 312
+- Efficiencies: 0
+- 1-bedroom units: 86
+- 2-bedroom units: 170
+- 3-bedroom units: 56
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001145.
+- Record status: Existing, unchanged

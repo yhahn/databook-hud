@@ -1,0 +1,85 @@
+# Project: NORTHWEST GARDENS II (FLA20147267)
+
+- HUD ID: FLA20147267
+- HUD ID before: 
+- Project: NORTHWEST GARDENS II
+- Address: 1204 NW EIGHTH ST
+- City: FT LAUDERDALE
+- State: FL
+- ZIP: 33311
+- ZIP extension: 
+- State project ID: 2577
+- Latitude: 26.132724
+- Longitude: -80.158021
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011041500
+- Tract 2010: 12011041500
+- Tract 2000: 12011041500
+- Tract 1990: 12011041500
+- Place 2020: 24000
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 0645
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 128
+- Low-income units: 128
+- Units reported: 128
+- Low-income reported: 128
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

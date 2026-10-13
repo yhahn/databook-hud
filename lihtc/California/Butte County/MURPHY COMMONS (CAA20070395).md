@@ -1,0 +1,85 @@
+# Project: MURPHY COMMONS (CAA20070395)
+
+- HUD ID: CAA20070395
+- HUD ID before: 
+- Project: MURPHY COMMONS
+- Address: 1290 NOTRE DAME BLVD
+- City: CHICO
+- State: CA
+- ZIP: 95928
+- ZIP extension: 
+- State project ID: CA-05-883
+- Latitude: 39.736604
+- Longitude: -121.796705
+- County FIPS: 06007
+- County from: 2020
+- Tract 2020: 06007000903
+- Tract 2010: 06007000903
+- Tract 2000: 06007000900
+- Tract 1990: 06007000900
+- Place 2020: 13014
+- Place 2010: 13014
+- Place 2000: 13014
+- Place 1990: 0500
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 605154
+- Units: 86
+- Low-income units: 85
+- Units reported: 86
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 56
+- 3-bedroom units: 26
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ELLISON II HOUSING CORP.
+- Record status: Existing, unchanged

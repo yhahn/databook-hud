@@ -1,0 +1,85 @@
+# Project: CREEKSIDE CLEARING (NYA20060050)
+
+- HUD ID: NYA20060050
+- HUD ID before: 
+- Project: CREEKSIDE CLEARING
+- Address: 104 ORCHID DR
+- City: LAKEVILLE
+- State: NY
+- ZIP: 14480
+- ZIP extension: 
+- State project ID: 20010753
+- Latitude: 42.837813
+- Longitude: -77.708425
+- County FIPS: 36051
+- County from: 2020
+- Tract 2020: 36051030702
+- Tract 2010: 36051030700
+- Tract 2000: 36051030700
+- Tract 1990: 36051030700
+- Place 2020: 41036
+- Place 2010: 41036
+- Place 2000: 42950
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 280508
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA2005025.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HUNTS POINT APARTMENTS LP (NYC20161026)
+
+- HUD ID: NYC20161026
+- HUD ID before: 
+- Project: HUNTS POINT APARTMENTS LP
+- Address: 1012 GARRISON AVE
+- City: BRONX
+- State: NY
+- ZIP: 10474
+- ZIP extension: 
+- State project ID: 47-3122571
+- Latitude: 40.818746
+- Longitude: -73.890114
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005009301
+- Tract 2010: 36005009300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 967305
+- Units: 163
+- Low-income units: 161
+- Units reported: 163
+- Low-income reported: 161
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 102
+- 3-bedroom units: 21
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

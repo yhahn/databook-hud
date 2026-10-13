@@ -1,0 +1,85 @@
+# Project: COLEMAN PLACE AT LEGENDS SOUTH - 8141 (ILB20089001)
+
+- HUD ID: ILB20089001
+- HUD ID before: 
+- Project: COLEMAN PLACE AT LEGENDS SOUTH - 8141
+- Address: 223 E 41ST ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60653
+- ZIP extension: 2605
+- State project ID: IL-07-001
+- Latitude: 41.820045
+- Longitude: -87.620373
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031380600
+- Tract 2010: 17031835900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 118
+- Low-income units: 58
+- Units reported: 118
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 39
+- 3-bedroom units: 18
+- 4-bedroom units: 3
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

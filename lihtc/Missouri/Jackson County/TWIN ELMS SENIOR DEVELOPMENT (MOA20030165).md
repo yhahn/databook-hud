@@ -1,0 +1,85 @@
+# Project: TWIN ELMS SENIOR DEVELOPMENT (MOA20030165)
+
+- HUD ID: MOA20030165
+- HUD ID before: 
+- Project: TWIN ELMS SENIOR DEVELOPMENT
+- Address: 4109 PASEO BLVD
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64110
+- ZIP extension: 
+- State project ID: 02-077
+- Latitude: 39.052157
+- Longitude: -94.567476
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095016900
+- Tract 2010: 29095016900
+- Tract 2000: 29095006400
+- Tract 1990: 29095006400
+- Place 2020: 38000
+- Place 2010: 38000
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PLEASANT RUN APTS (OHA19980172)
+
+- HUD ID: OHA19980172
+- HUD ID before: 
+- Project: PLEASANT RUN APTS
+- Address: 1539 PLEASANT RUN DR
+- City: CINCINNATI
+- State: OH
+- ZIP: 45240
+- ZIP extension: 
+- State project ID: 960132
+- Latitude: 39.303522
+- Longitude: -84.541762
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061021571
+- Tract 2010: 39061021571
+- Tract 2000: 39061021571
+- Tract 1990: 39061021507
+- Place 2020: 63618
+- Place 2010: 63618
+- Place 2000: 25970
+- Place 1990: 1402
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 201299
+- Units: 130
+- Low-income units: 130
+- Units reported: 130
+- Low-income reported: 130
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 72
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1997210.
+- Record status: Existing, unchanged

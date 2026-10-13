@@ -1,0 +1,85 @@
+# Project: SPRING HILL APTS PHASE III (INA19920170)
+
+- HUD ID: INA19920170
+- HUD ID before: 
+- Project: SPRING HILL APTS PHASE III
+- Address: 301 SPRINGMILL DR
+- City: MOORESVILLE
+- State: IN
+- ZIP: 46158
+- ZIP extension: 
+- State project ID: IN-91-00600
+- Latitude: 39.606127
+- Longitude: -86.364116
+- County FIPS: 18109
+- County from: 2020
+- Tract 2020: 18109510201
+- Tract 2010: 18109510201
+- Tract 2000: 18109510200
+- Tract 1990: 18109510200
+- Place 2020: 50976
+- Place 2010: 50976
+- Place 2000: 50976
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001480.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NORTHLAND WOODS APTS (TXA20050215)
+
+- HUD ID: TXA20050215
+- HUD ID before: 
+- Project: NORTHLAND WOODS APTS
+- Address: 15165 VICKERY DR
+- City: HOUSTON
+- State: TX
+- ZIP: 77032
+- ZIP extension: 
+- State project ID: TX3424
+- Latitude: 29.937675
+- Longitude: -95.315952
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201222702
+- Tract 2010: 48201222700
+- Tract 2000: 48201222700
+- Tract 1990: 48201024001
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 01696
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 280
+- Low-income units: 280
+- Units reported: 280
+- Low-income reported: 280
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

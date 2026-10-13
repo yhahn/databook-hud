@@ -1,0 +1,85 @@
+# Project: THE RESIDENCES AT ALSBURY (TXA20211853)
+
+- HUD ID: TXA20211853
+- HUD ID before: 
+- Project: THE RESIDENCES AT ALSBURY
+- Address: SWQ OF SW ALSBURY BLVD. AND RIDGEHILL DR.
+- City: BURLESON
+- State: TX
+- ZIP: 76028
+- ZIP extension: 
+- State project ID: TX5483
+- Latitude: 32.5144
+- Longitude: -97.2999
+- County FIPS: 48251
+- County from: 2020
+- Tract 2020: 48251130220
+- Tract 2010: 48251130207
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 11428
+- Place 2010: 10216
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 
+- Units: 83
+- Low-income units: 72
+- Units reported: 83
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1050000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

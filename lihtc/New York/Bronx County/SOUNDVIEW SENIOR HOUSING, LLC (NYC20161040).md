@@ -1,0 +1,85 @@
+# Project: SOUNDVIEW SENIOR HOUSING, LLC (NYC20161040)
+
+- HUD ID: NYC20161040
+- HUD ID before: 
+- Project: SOUNDVIEW SENIOR HOUSING, LLC
+- Address: 391 BRONX RIVER AVENUE
+- City: BRONX
+- State: NY
+- ZIP: 10473
+- ZIP extension: 
+- State project ID: 80-0949196
+- Latitude: 40.813059
+- Longitude: -73.863653
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005000200
+- Tract 2010: 36005000200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1232788
+- Units: 86
+- Low-income units: 85
+- Units reported: 86
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 85
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

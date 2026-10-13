@@ -1,0 +1,85 @@
+# Project: TRINITY COURT PLACE (ARA19990070)
+
+- HUD ID: ARA19990070
+- HUD ID before: 
+- Project: TRINITY COURT PLACE
+- Address: 2000 MAIN ST
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72206
+- ZIP extension: 
+- State project ID: AR-98-20
+- Latitude: 34.729689
+- Longitude: -92.273896
+- County FIPS: 05119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05119004700
+- Tract 2000: 05119000600
+- Tract 1990: 05119000600
+- Place 2020: 
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 155365
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

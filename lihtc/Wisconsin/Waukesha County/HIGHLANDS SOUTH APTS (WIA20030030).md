@@ -1,0 +1,85 @@
+# Project: HIGHLANDS SOUTH APTS (WIA20030030)
+
+- HUD ID: WIA20030030
+- HUD ID before: 
+- Project: HIGHLANDS SOUTH APTS
+- Address: 1521 BIG BEND RD
+- City: WAUKESHA
+- State: WI
+- ZIP: 53189
+- ZIP extension: 
+- State project ID: 2584
+- Latitude: 42.986803
+- Longitude: -88.223833
+- County FIPS: 55133
+- County from: 2020
+- Tract 2020: 55133202103
+- Tract 2010: 55133202103
+- Tract 2000: 55133202100
+- Tract 1990: 55133202100
+- Place 2020: 84250
+- Place 2010: 84250
+- Place 2000: 84250
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 61
+- Low-income units: 53
+- Units reported: 61
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 42
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

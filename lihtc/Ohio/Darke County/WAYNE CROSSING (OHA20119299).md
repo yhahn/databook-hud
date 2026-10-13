@@ -1,0 +1,85 @@
+# Project: WAYNE CROSSING (OHA20119299)
+
+- HUD ID: OHA20119299
+- HUD ID before: 
+- Project: WAYNE CROSSING
+- Address: 894 E RUSS RD
+- City: GREENVILLE
+- State: OH
+- ZIP: 45331
+- ZIP extension: 
+- State project ID: 090068
+- Latitude: 40.1215
+- Longitude: -84.630472
+- County FIPS: 39037
+- County from: 2020
+- Tract 2020: 39037555002
+- Tract 2010: 39037555000
+- Tract 2000: 39037555000
+- Tract 1990: 39037555000
+- Place 2020: 32340
+- Place 2010: 32340
+- Place 2000: 32340
+- Place 1990: 1665
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 20
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1866319
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2010813, OHA1992330.
+- Record status: Existing, unchanged

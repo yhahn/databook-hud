@@ -1,0 +1,85 @@
+# Project: ETHEL R. LAWRENCE HOMES (NJA20000035)
+
+- HUD ID: NJA20000035
+- HUD ID before: 
+- Project: ETHEL R. LAWRENCE HOMES
+- Address: 1 ETHEL R. LAWRENCE BOULEVARD
+- City: MOUNT LAUREL TOWNSHIP
+- State: NJ
+- ZIP: 08054
+- ZIP extension: 
+- State project ID: 01127
+- Latitude: 39.939486
+- Longitude: -74.898783
+- County FIPS: 34005
+- County from: 2020
+- Tract 2020: 34005702910
+- Tract 2010: 34005702910
+- Tract 2000: 34005702910
+- Tract 1990: 34005702903
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 1081381
+- Units: 100
+- Low-income units: 75
+- Units reported: 100
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

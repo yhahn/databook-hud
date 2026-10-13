@@ -1,0 +1,85 @@
+# Project: KINGSGATE APTS (TXA19910265)
+
+- HUD ID: TXA19910265
+- HUD ID before: 
+- Project: KINGSGATE APTS
+- Address: 2005 WILLOW CREEK DR
+- City: AUSTIN
+- State: TX
+- ZIP: 78741
+- ZIP extension: 
+- State project ID: TX6876
+- Latitude: 30.232535
+- Longitude: -97.728979
+- County FIPS: 48453
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48453002316
+- Tract 2000: 48453002316
+- Tract 1990: 48453002305
+- Place 2020: 
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0210
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 270
+- Low-income units: 270
+- Units reported: 270
+- Low-income reported: 270
+- Efficiencies: 0
+- 1-bedroom units: 130
+- 2-bedroom units: 112
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

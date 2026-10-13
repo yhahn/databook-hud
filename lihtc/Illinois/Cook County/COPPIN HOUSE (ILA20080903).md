@@ -1,0 +1,85 @@
+# Project: COPPIN HOUSE (ILA20080903)
+
+- HUD ID: ILA20080903
+- HUD ID before: 
+- Project: COPPIN HOUSE
+- Address: 333 E 55TH PL
+- City: CHICAGO
+- State: IL
+- ZIP: 60637
+- ZIP extension: 
+- State project ID: 231706
+- Latitude: 41.793752
+- Longitude: -87.61788
+- County FIPS: 17031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17031400400
+- Tract 2000: 17031400400
+- Tract 1990: 17031400400
+- Place 2020: 
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 6740512
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 10
+- 3-bedroom units: 14
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000047.
+- Record status: Existing, unchanged

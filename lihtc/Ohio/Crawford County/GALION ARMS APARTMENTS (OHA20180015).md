@@ -1,0 +1,85 @@
+# Project: GALION ARMS APARTMENTS (OHA20180015)
+
+- HUD ID: OHA20180015
+- HUD ID before: 
+- Project: GALION ARMS APARTMENTS
+- Address: 585 GALION ARMS COURT
+- City: GALION
+- State: OH
+- ZIP: 44833
+- ZIP extension: 2266
+- State project ID: 170208
+- Latitude: 40.741731
+- Longitude: -82.781008
+- County FIPS: 39033
+- County from: 2020
+- Tract 2020: 39033975000
+- Tract 2010: 39033975000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 29162
+- Place 2010: 29162
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 162385
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

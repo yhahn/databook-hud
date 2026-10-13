@@ -1,0 +1,85 @@
+# Project: CASA SORRENTO APTS (NVA20000015)
+
+- HUD ID: NVA20000015
+- HUD ID before: 
+- Project: CASA SORRENTO APTS
+- Address: 3580 E ALEXANDER RD
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89115
+- ZIP extension: 
+- State project ID: 00-02
+- Latitude: 36.23264
+- Longitude: -115.097232
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003004715
+- Tract 2010: 32003004715
+- Tract 2000: 32003004715
+- Tract 1990: 32003004704
+- Place 2020: 71400
+- Place 2010: 71400
+- Place 2000: 51800
+- Place 1990: 0110
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 236
+- Low-income units: 236
+- Units reported: 236
+- Low-income reported: 236
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 164
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

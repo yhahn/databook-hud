@@ -1,0 +1,85 @@
+# Project: SUGAR MILL APARTMENTS (GAA19980120)
+
+- HUD ID: GAA19980120
+- HUD ID before: 
+- Project: SUGAR MILL APARTMENTS
+- Address: 11115 COLERAIN RD
+- City: ST MARYS
+- State: GA
+- ZIP: 31558
+- ZIP extension: 
+- State project ID: GA-96-096
+- Latitude: 30.773888
+- Longitude: -81.58857
+- County FIPS: 13039
+- County from: 2020
+- Tract 2020: 13039010405
+- Tract 2010: 13039010401
+- Tract 2000: 13039010400
+- Tract 1990: 13039010400
+- Place 2020: 67984
+- Place 2010: 67984
+- Place 2000: 43640
+- Place 1990: 2500
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 432217
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 35
+- 3-bedroom units: 35
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1997175. AKA SUGAR MILL APTS.
+- Record status: Existing, unchanged

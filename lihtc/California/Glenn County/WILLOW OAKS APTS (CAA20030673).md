@@ -1,0 +1,85 @@
+# Project: WILLOW OAKS APTS (CAA20030673)
+
+- HUD ID: CAA20030673
+- HUD ID before: 
+- Project: WILLOW OAKS APTS
+- Address: 1201 W WOOD ST
+- City: WILLOWS
+- State: CA
+- ZIP: 95988
+- ZIP extension: 
+- State project ID: CA-03-856
+- Latitude: 39.524399
+- Longitude: -122.20976
+- County FIPS: 06021
+- County from: 2020
+- Tract 2020: 06021010402
+- Tract 2010: 06021010400
+- Tract 2000: 06021010400
+- Tract 1990: 06021010400
+- Place 2020: 85684
+- Place 2010: 85684
+- Place 2000: 85684
+- Place 1990: 3125
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 109854
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 32
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

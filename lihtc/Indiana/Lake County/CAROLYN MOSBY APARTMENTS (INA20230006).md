@@ -1,0 +1,85 @@
+# Project: CAROLYN MOSBY APARTMENTS (INA20230006)
+
+- HUD ID: INA20230006
+- HUD ID before: 
+- Project: CAROLYN MOSBY APARTMENTS
+- Address: 650 JACKSON ST
+- City: GARY
+- State: IN
+- ZIP: 46402
+- ZIP extension: 
+- State project ID: IN-21-02100
+- Latitude: 41.599261
+- Longitude: -87.34477
+- County FIPS: 18089
+- County from: 2020
+- Tract 2020: 18089012800
+- Tract 2010: 18089012800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 13000000
+- Units: 142
+- Low-income units: 142
+- Units reported: 142
+- Low-income reported: 142
+- Efficiencies: 0
+- 1-bedroom units: 136
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

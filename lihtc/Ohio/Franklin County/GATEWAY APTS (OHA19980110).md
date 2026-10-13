@@ -1,0 +1,85 @@
+# Project: GATEWAY APTS (OHA19980110)
+
+- HUD ID: OHA19980110
+- HUD ID before: 
+- Project: GATEWAY APTS
+- Address: 3345 E SEVENTH AVE
+- City: COLUMBUS
+- State: OH
+- ZIP: 43219
+- ZIP extension: 
+- State project ID: OH-97-0098
+- Latitude: 39.986209
+- Longitude: -82.915255
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049002600
+- Tract 2010: 39049002600
+- Tract 2000: 39049002600
+- Tract 1990: 39049002600
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 260824
+- Units: 170
+- Low-income units: 170
+- Units reported: 170
+- Low-income reported: 170
+- Efficiencies: 3
+- 1-bedroom units: 39
+- 2-bedroom units: 104
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

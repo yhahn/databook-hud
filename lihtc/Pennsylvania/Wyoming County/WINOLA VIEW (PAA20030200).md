@@ -1,0 +1,85 @@
+# Project: WINOLA VIEW (PAA20030200)
+
+- HUD ID: PAA20030200
+- HUD ID before: 
+- Project: WINOLA VIEW
+- Address: 100 VIEW LN
+- City: FACTORYVILLE
+- State: PA
+- ZIP: 18419
+- ZIP extension: 
+- State project ID: TC20010706
+- Latitude: 41.543601
+- Longitude: -75.805812
+- County FIPS: 42131
+- County from: 2020
+- Tract 2020: 42131400500
+- Tract 2010: 42131400300
+- Tract 2000: 42131400500
+- Tract 1990: 42131400500
+- Place 2020: 41080
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 193288
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 484060
+- CDBG: Yes
+- CDBG amount: 350000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

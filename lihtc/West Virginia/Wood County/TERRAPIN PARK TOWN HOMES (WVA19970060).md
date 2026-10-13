@@ -1,0 +1,85 @@
+# Project: TERRAPIN PARK TOWN HOMES (WVA19970060)
+
+- HUD ID: WVA19970060
+- HUD ID before: 
+- Project: TERRAPIN PARK TOWN HOMES
+- Address: 2412 COVERT ST
+- City: PARKERSBURG
+- State: WV
+- ZIP: 26101
+- ZIP extension: 
+- State project ID: WV-95-18
+- Latitude: 39.28004
+- Longitude: -81.543249
+- County FIPS: 54107
+- County from: 2020
+- Tract 2020: 54107000300
+- Tract 2010: 54107000300
+- Tract 2000: 54107000300
+- Tract 1990: 54107000300
+- Place 2020: 62140
+- Place 2010: 62140
+- Place 2000: 62140
+- Place 1990: 1215
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 49
+- Low-income units: 48
+- Units reported: 49
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 15
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

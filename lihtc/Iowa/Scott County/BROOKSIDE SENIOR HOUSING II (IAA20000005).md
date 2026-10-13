@@ -1,0 +1,85 @@
+# Project: BROOKSIDE SENIOR HOUSING II (IAA20000005)
+
+- HUD ID: IAA20000005
+- HUD ID before: 
+- Project: BROOKSIDE SENIOR HOUSING II
+- Address: 3525 MARQUETTE ST
+- City: DAVENPORT
+- State: IA
+- ZIP: 52806
+- ZIP extension: 
+- State project ID: 99-08
+- Latitude: 41.552644
+- Longitude: -90.590901
+- County FIPS: 19163
+- County from: 2020
+- Tract 2020: 19163011800
+- Tract 2010: 19163011800
+- Tract 2000: 19163011800
+- Tract 1990: 19163011800
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1040
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 186301
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GREENFIELD SENIOR HOUSING IV.
+- Record status: Existing, unchanged

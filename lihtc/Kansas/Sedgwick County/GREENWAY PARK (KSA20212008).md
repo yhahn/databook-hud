@@ -1,0 +1,85 @@
+# Project: GREENWAY PARK (KSA20212008)
+
+- HUD ID: KSA20212008
+- HUD ID before: 
+- Project: GREENWAY PARK
+- Address: 404 W PAWNEE STREET
+- City: WICHITA
+- State: KS
+- ZIP: 67213
+- ZIP extension: 
+- State project ID: KS-21-68196
+- Latitude: 37.649811
+- Longitude: -97.34166
+- County FIPS: 20173
+- County from: 2020
+- Tract 2020: 20173004000
+- Tract 2010: 20173004000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 79000
+- Place 2010: 79000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 646567
+- Units: 91
+- Low-income units: 91
+- Units reported: 91
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 91
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

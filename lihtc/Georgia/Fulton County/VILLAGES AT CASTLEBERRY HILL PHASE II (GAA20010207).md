@@ -1,0 +1,85 @@
+# Project: VILLAGES AT CASTLEBERRY HILL PHASE II (GAA20010207)
+
+- HUD ID: GAA20010207
+- HUD ID before: 
+- Project: VILLAGES AT CASTLEBERRY HILL PHASE II
+- Address: 600 GREENSFERRY AVE SW
+- City: ATLANTA
+- State: GA
+- ZIP: 30314
+- ZIP extension: 4339
+- State project ID: GA-99-505
+- Latitude: 33.746542
+- Longitude: -84.408441
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121004300
+- Tract 2010: 13121004300
+- Tract 2000: 13121004300
+- Tract 1990: 13121004300
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 670472
+- Units: 284
+- Low-income units: 171
+- Units reported: 284
+- Low-income reported: 171
+- Efficiencies: 0
+- 1-bedroom units: 90
+- 2-bedroom units: 150
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1999220.
+- Record status: Existing, unchanged

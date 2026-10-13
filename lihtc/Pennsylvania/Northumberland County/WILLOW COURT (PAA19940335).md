@@ -1,0 +1,85 @@
+# Project: WILLOW COURT (PAA19940335)
+
+- HUD ID: PAA19940335
+- HUD ID before: 
+- Project: WILLOW COURT
+- Address: 351 S WILLOW ST
+- City: MT CARMEL
+- State: PA
+- ZIP: 17851
+- ZIP extension: 
+- State project ID: TC19920080
+- Latitude: 40.792054
+- Longitude: -76.419012
+- County FIPS: 42097
+- County from: 2020
+- Tract 2020: 42097081100
+- Tract 2010: 42097081100
+- Tract 2000: 42097961100
+- Tract 1990: 42097961100
+- Place 2020: 51496
+- Place 2010: 51496
+- Place 2000: 51496
+- Place 1990: 6632
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 131222
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: PREVIOUSLY LISTED AS PAA1994330.
+- Record status: Existing, unchanged

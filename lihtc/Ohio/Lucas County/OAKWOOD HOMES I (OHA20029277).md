@@ -1,0 +1,85 @@
+# Project: OAKWOOD HOMES I (OHA20029277)
+
+- HUD ID: OHA20029277
+- HUD ID before: 
+- Project: OAKWOOD HOMES I
+- Address: 916 OAKWOOD AVE
+- City: TOLEDO
+- State: OH
+- ZIP: 43607
+- ZIP extension: 
+- State project ID: 000022
+- Latitude: 41.656656
+- Longitude: -83.564811
+- County FIPS: 39095
+- County from: 2020
+- Tract 2020: 39095002600
+- Tract 2010: 39095002600
+- Tract 2000: 39095002600
+- Tract 1990: 39095002600
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 4265
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 20
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

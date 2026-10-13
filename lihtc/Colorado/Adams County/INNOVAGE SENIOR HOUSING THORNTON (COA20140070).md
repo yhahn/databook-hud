@@ -1,0 +1,85 @@
+# Project: INNOVAGE SENIOR HOUSING THORNTON (COA20140070)
+
+- HUD ID: COA20140070
+- HUD ID before: 
+- Project: INNOVAGE SENIOR HOUSING THORNTON
+- Address: 12201 WASHINGTON CTR PKWY
+- City: THORNTON
+- State: CO
+- ZIP: 80241
+- ZIP extension: 
+- State project ID: 2012024
+- Latitude: 39.91918
+- Longitude: -104.974664
+- County FIPS: 08001
+- County from: 2020
+- Tract 2020: 08001008555
+- Tract 2010: 08001008529
+- Tract 2000: 08001008529
+- Tract 1990: 08001008518
+- Place 2020: 77290
+- Place 2010: 77290
+- Place 2000: 54330
+- Place 1990: 1285
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 961517
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

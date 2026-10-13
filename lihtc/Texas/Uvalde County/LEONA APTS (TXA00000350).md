@@ -1,0 +1,85 @@
+# Project: LEONA APTS (TXA00000350)
+
+- HUD ID: TXA00000350
+- HUD ID before: 
+- Project: LEONA APTS
+- Address: 209 N FIRST ST
+- City: UVALDE
+- State: TX
+- ZIP: 78801
+- ZIP extension: 
+- State project ID: 
+- Latitude: 29.213689
+- Longitude: -99.779585
+- County FIPS: 48463
+- County from: 2020
+- Tract 2020: 48463950400
+- Tract 2010: 48463950400
+- Tract 2000: 48463950400
+- Tract 1990: 48463950400
+- Place 2020: 74588
+- Place 2010: 74588
+- Place 2000: 74588
+- Place 1990: 4360
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1148900
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

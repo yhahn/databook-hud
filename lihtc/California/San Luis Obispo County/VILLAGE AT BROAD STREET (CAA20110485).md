@@ -1,0 +1,85 @@
+# Project: VILLAGE AT BROAD STREET (CAA20110485)
+
+- HUD ID: CAA20110485
+- HUD ID before: 
+- Project: VILLAGE AT BROAD STREET
+- Address: 2260 EMILY ST
+- City: SAN LUIS OBISPO
+- State: CA
+- ZIP: 93401
+- ZIP extension: 
+- State project ID: CA-09-124
+- Latitude: 35.269732
+- Longitude: -120.6547
+- County FIPS: 06079
+- County from: 2020
+- Tract 2020: 06079011104
+- Tract 2010: 06079011102
+- Tract 2000: 06079011102
+- Tract 1990: 06079011100
+- Place 2020: 68154
+- Place 2010: 68154
+- Place 2000: 68154
+- Place 1990: 2535
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1493365
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 16
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 746683
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011633.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: DAVISON CREEKWOOD II - 10ABC (KNOBLOCK) (MIA19960035)
+
+- HUD ID: MIA19960035
+- HUD ID before: 
+- Project: DAVISON CREEKWOOD II - 10ABC (KNOBLOCK)
+- Address: 8061 LAPEER RD
+- City: DAVISON
+- State: MI
+- ZIP: 48423
+- ZIP extension: 
+- State project ID: MI-1802
+- Latitude: 43.011747
+- Longitude: -83.550488
+- County FIPS: 26049
+- County from: 2020
+- Tract 2020: 26049011611
+- Tract 2010: 26049011610
+- Tract 2000: 26049011610
+- Tract 1990: 26049011600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

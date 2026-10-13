@@ -1,0 +1,85 @@
+# Project: STRAWBERRY VILLAGE (AKA20020020)
+
+- HUD ID: AKA20020020
+- HUD ID before: 
+- Project: STRAWBERRY VILLAGE
+- Address: 7788 STRAWBERRY COTTAGE WAY
+- City: ANCHORAGE
+- State: AK
+- ZIP: 99502
+- ZIP extension: 
+- State project ID: AK-01-00017
+- Latitude: 61.149357
+- Longitude: -149.911248
+- County FIPS: 02020
+- County from: 2020
+- Tract 2020: 02020002305
+- Tract 2010: 02020002303
+- Tract 2000: 02020002303
+- Tract 1990: 02020002303
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0140
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

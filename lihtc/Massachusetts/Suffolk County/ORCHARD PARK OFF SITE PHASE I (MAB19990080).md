@@ -1,0 +1,85 @@
+# Project: ORCHARD PARK OFF SITE PHASE I (MAB19990080)
+
+- HUD ID: MAB19990080
+- HUD ID before: 
+- Project: ORCHARD PARK OFF SITE PHASE I
+- Address: 206 DUDLEY ST
+- City: ROXBURY
+- State: MA
+- ZIP: 02119
+- ZIP extension: 
+- State project ID: MA98-10145THRUMA98-1016
+- Latitude: 42.328641
+- Longitude: -71.081364
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025080401
+- Tract 2010: 25025080401
+- Tract 2000: 25025080400
+- Tract 1990: 25025080400
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 64
+- Units reported: 76
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 27
+- 3-bedroom units: 29
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

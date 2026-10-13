@@ -1,0 +1,85 @@
+# Project: MAGNOLIA TRACE (TXA20120836)
+
+- HUD ID: TXA20120836
+- HUD ID before: 
+- Project: MAGNOLIA TRACE
+- Address: 6712 PATROL WAY
+- City: DALLAS
+- State: TX
+- ZIP: 75241
+- ZIP extension: 
+- State project ID: TX4661
+- Latitude: 32.669965
+- Longitude: -96.788042
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113011300
+- Tract 2010: 48113011300
+- Tract 2000: 48113011300
+- Tract 1990: 48113011300
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1085
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000375.
+- Record status: Existing, unchanged

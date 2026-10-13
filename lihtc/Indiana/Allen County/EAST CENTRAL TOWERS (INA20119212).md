@@ -1,0 +1,85 @@
+# Project: EAST CENTRAL TOWERS (INA20119212)
+
+- HUD ID: INA20119212
+- HUD ID before: 
+- Project: EAST CENTRAL TOWERS
+- Address: 915 WASHINGTON ST
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46803
+- ZIP extension: 
+- State project ID: IN-10-00900
+- Latitude: 41.0624
+- Longitude: -85.0901
+- County FIPS: 18003
+- County from: 2020
+- Tract 2020: 18003004300
+- Tract 2010: 18003001600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 25000
+- Place 2010: 25000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1111103
+- Units: 168
+- Low-income units: 167
+- Units reported: 168
+- Low-income reported: 167
+- Efficiencies: 0
+- 1-bedroom units: 154
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 3584654
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

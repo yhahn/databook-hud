@@ -1,0 +1,85 @@
+# Project: HIGH POINTE TOWNHOMES II (SDA20070040)
+
+- HUD ID: SDA20070040
+- HUD ID before: 
+- Project: HIGH POINTE TOWNHOMES II
+- Address: 100 W HIGHPOINTE ST
+- City: TEA
+- State: SD
+- ZIP: 57064
+- ZIP extension: 
+- State project ID: 
+- Latitude: 43.458348
+- Longitude: -96.836553
+- County FIPS: 46083
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 46083010101
+- Tract 2000: 46083010100
+- Tract 1990: 46083010100
+- Place 2020: 
+- Place 2010: 63100
+- Place 2000: 27260
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 242011
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 450000
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

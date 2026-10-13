@@ -1,0 +1,85 @@
+# Project: WOODGATE TOWNHOMES (NEA20020045)
+
+- HUD ID: NEA20020045
+- HUD ID before: 
+- Project: WOODGATE TOWNHOMES
+- Address: 7816 WHITMORE PLZ
+- City: OMAHA
+- State: NE
+- ZIP: 68122
+- ZIP extension: 
+- State project ID: 7-0545
+- Latitude: 41.322584
+- Longitude: -96.034387
+- County FIPS: 31055
+- County from: 2020
+- Tract 2020: 31055007319
+- Tract 2010: 31055007313
+- Tract 2000: 31055007313
+- Tract 1990: 31055007305
+- Place 2020: 37000
+- Place 2010: 99999
+- Place 2000: 37000
+- Place 1990: 1825
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 172350
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

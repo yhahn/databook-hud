@@ -1,0 +1,85 @@
+# Project: DAYTON PARK APTS II (TXA19970040)
+
+- HUD ID: TXA19970040
+- HUD ID before: 
+- Project: DAYTON PARK APTS II
+- Address: 4490 N CLEVELAND ST
+- City: DAYTON
+- State: TX
+- ZIP: 77535
+- ZIP extension: 
+- State project ID: TX1871
+- Latitude: 30.075968
+- Longitude: -94.909566
+- County FIPS: 48291
+- County from: 2020
+- Tract 2020: 48291700802
+- Tract 2010: 48291700800
+- Tract 2000: 48291700800
+- Tract 1990: 48291101200
+- Place 2020: 19432
+- Place 2010: 19432
+- Place 2000: 19432
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 22
+- 3-bedroom units: 24
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DAYTON PARK APTS.
+- Record status: Existing, unchanged

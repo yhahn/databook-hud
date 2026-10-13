@@ -1,0 +1,85 @@
+# Project: WEST ALLIS SENIOR APARTMENTS LLC (WIA20090045)
+
+- HUD ID: WIA20090045
+- HUD ID before: 
+- Project: WEST ALLIS SENIOR APARTMENTS LLC
+- Address: 7951 W NATIONAL AVE
+- City: WEST ALLIS
+- State: WI
+- ZIP: 53214
+- ZIP extension: 
+- State project ID: 5290
+- Latitude: 43.010733
+- Longitude: -88.011932
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079100400
+- Tract 2010: 55079100400
+- Tract 2000: 55079100400
+- Tract 1990: 55079100400
+- Place 2020: 85300
+- Place 2010: 85300
+- Place 2000: 85300
+- Place 1990: 2720
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 278837
+- Units: 122
+- Low-income units: 16
+- Units reported: 122
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 70
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 600000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

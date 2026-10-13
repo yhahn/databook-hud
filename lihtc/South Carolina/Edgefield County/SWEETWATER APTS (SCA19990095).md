@@ -1,0 +1,85 @@
+# Project: SWEETWATER APTS (SCA19990095)
+
+- HUD ID: SCA19990095
+- HUD ID before: 
+- Project: SWEETWATER APTS
+- Address: 3 MURRAH RD EXT
+- City: NORTH AUGUSTA
+- State: SC
+- ZIP: 29860
+- ZIP extension: 
+- State project ID: SC-97-005
+- Latitude: 33.586391
+- Longitude: -81.946471
+- County FIPS: 45037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45037970502
+- Tract 2000: 45037970500
+- Tract 1990: 45037970500
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 48900
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 281606
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA EDGEFIELD SENIOR.
+- Record status: Existing, unchanged

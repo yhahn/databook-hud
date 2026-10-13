@@ -1,0 +1,85 @@
+# Project: SUMMERSET APARTMENTS (GAA19950275)
+
+- HUD ID: GAA19950275
+- HUD ID before: 
+- Project: SUMMERSET APARTMENTS
+- Address: 317 MARY ANN ST
+- City: SWAINSBORO
+- State: GA
+- ZIP: 30401
+- ZIP extension: 3052
+- State project ID: GA1993-003
+- Latitude: 32.593683
+- Longitude: -82.335818
+- County FIPS: 13107
+- County from: 2020
+- Tract 2020: 13107970602
+- Tract 2010: 13107970600
+- Tract 2000: 13107980600
+- Tract 1990: 13107980600
+- Place 2020: 74964
+- Place 2010: 74964
+- Place 2000: 56644
+- Place 1990: 2725
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

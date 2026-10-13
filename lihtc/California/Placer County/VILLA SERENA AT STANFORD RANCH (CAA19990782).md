@@ -1,0 +1,85 @@
+# Project: VILLA SERENA AT STANFORD RANCH (CAA19990782)
+
+- HUD ID: CAA19990782
+- HUD ID before: 
+- Project: VILLA SERENA AT STANFORD RANCH
+- Address: 101 VILLA SERENA CIR
+- City: ROCKLIN
+- State: CA
+- ZIP: 95765
+- ZIP extension: 
+- State project ID: CA-02-810
+- Latitude: 38.809987
+- Longitude: -121.257221
+- County FIPS: 06061
+- County from: 2020
+- Tract 2020: 06061021131
+- Tract 2010: 06061021131
+- Tract 2000: 06061021105
+- Tract 1990: 06061021101
+- Place 2020: 62364
+- Place 2010: 62364
+- Place 2000: 62364
+- Place 1990: 2375
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 656372
+- Units: 236
+- Low-income units: 235
+- Units reported: 236
+- Low-income reported: 235
+- Efficiencies: 0
+- 1-bedroom units: 144
+- 2-bedroom units: 92
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

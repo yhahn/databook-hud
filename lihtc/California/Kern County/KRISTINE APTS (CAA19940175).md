@@ -1,0 +1,85 @@
+# Project: KRISTINE APTS (CAA19940175)
+
+- HUD ID: CAA19940175
+- HUD ID before: 
+- Project: KRISTINE APTS
+- Address: 2901 VIRGINIA AVE
+- City: BAKERSFIELD
+- State: CA
+- ZIP: 93307
+- ZIP extension: 
+- State project ID: CA-92-010
+- Latitude: 35.361213
+- Longitude: -118.953558
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029002304
+- Tract 2010: 06029002301
+- Tract 2000: 06029002301
+- Tract 1990: 06029002301
+- Place 2020: 58471
+- Place 2010: 99999
+- Place 2000: 03526
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 359702
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

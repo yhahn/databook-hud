@@ -1,0 +1,85 @@
+# Project: HOPKINS VILLAGE (MNA20171020)
+
+- HUD ID: MNA20171020
+- HUD ID before: 
+- Project: HOPKINS VILLAGE
+- Address: 9 7TH AVE S
+- City: HOPKINS
+- State: MN
+- ZIP: 55343
+- ZIP extension: 0000
+- State project ID: D2692
+- Latitude: 44.92418
+- Longitude: -93.408588
+- County FIPS: 27053
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27053023300
+- Tract 2000: 27053023300
+- Tract 1990: 27053023300
+- Place 2020: 
+- Place 2010: 30140
+- Place 2000: 30140
+- Place 1990: 1835
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 518017
+- Units: 161
+- Low-income units: 156
+- Units reported: 161
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 130
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

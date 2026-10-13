@@ -1,0 +1,85 @@
+# Project: CEDAR HOLLOW APTS (NEA19920025)
+
+- HUD ID: NEA19920025
+- HUD ID before: 
+- Project: CEDAR HOLLOW APTS
+- Address: 23804 CEDAR HOLLOW MALL
+- City: WATERLOO
+- State: NE
+- ZIP: 
+- ZIP extension: 
+- State project ID: 7-0176
+- Latitude: 41.283217
+- Longitude: -96.289453
+- County FIPS: 31055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31055007508
+- Tract 2000: 31055007508
+- Tract 1990: 31055007501
+- Place 2020: 
+- Place 2010: 51665
+- Place 2000: 51665
+- Place 1990: 2500
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 33763
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

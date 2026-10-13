@@ -1,0 +1,85 @@
+# Project: HARRIS MUSIC LOFTS (FLA19950840)
+
+- HUD ID: FLA19950840
+- HUD ID before: 
+- Project: HARRIS MUSIC LOFTS
+- Address: 206 CLEMATIS ST
+- City: WEST PALM BEACH
+- State: FL
+- ZIP: 33401
+- ZIP extension: 
+- State project ID: 332
+- Latitude: 26.713142
+- Longitude: -80.051336
+- County FIPS: 12099
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12099002700
+- Tract 2000: 12099002700
+- Tract 1990: 12099002700
+- Place 2020: 
+- Place 2010: 76600
+- Place 2000: 76600
+- Place 1990: 2215
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

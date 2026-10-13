@@ -1,0 +1,85 @@
+# Project: LOWELL ST (NHA20110020)
+
+- HUD ID: NHA20110020
+- HUD ID before: 
+- Project: LOWELL ST
+- Address: 136 LOWELL ST
+- City: MANCHESTER
+- State: NH
+- ZIP: 03104
+- ZIP extension: 
+- State project ID: 194
+- Latitude: 42.993776
+- Longitude: -71.458208
+- County FIPS: 33011
+- County from: 2020
+- Tract 2020: 33011001400
+- Tract 2010: 33011001400
+- Tract 2000: 33011001400
+- Tract 1990: 33011001400
+- Place 2020: 45140
+- Place 2010: 45140
+- Place 2000: 45140
+- Place 1990: 1610
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 17
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1968999
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NHA2011506.
+- Record status: Existing, unchanged

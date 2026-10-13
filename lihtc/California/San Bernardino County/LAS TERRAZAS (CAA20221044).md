@@ -1,0 +1,85 @@
+# Project: LAS TERRAZAS (CAA20221044)
+
+- HUD ID: CAA20221044
+- HUD ID before: 
+- Project: LAS TERRAZAS
+- Address: 1176 W VALLEY BOULEVARD
+- City: COLTON
+- State: CA
+- ZIP: 92324
+- ZIP extension: 
+- State project ID: CA-2020-580
+- Latitude: 34.068804
+- Longitude: -117.344256
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071006601
+- Tract 2010: 06071006601
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14890
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1808385
+- Units: 112
+- Low-income units: 111
+- Units reported: 112
+- Low-income reported: 111
+- Efficiencies: 
+- 1-bedroom units: 39
+- 2-bedroom units: 39
+- 3-bedroom units: 34
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

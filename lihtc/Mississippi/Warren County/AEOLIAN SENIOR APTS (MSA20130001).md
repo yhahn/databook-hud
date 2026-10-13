@@ -1,0 +1,85 @@
+# Project: AEOLIAN SENIOR APTS (MSA20130001)
+
+- HUD ID: MSA20130001
+- HUD ID before: 
+- Project: AEOLIAN SENIOR APTS
+- Address: 1300 CHERRY ST
+- City: VICKSBURG
+- State: MS
+- ZIP: 39180
+- ZIP extension: 
+- State project ID: MS-11-1-027
+- Latitude: 32.349664
+- Longitude: -90.878744
+- County FIPS: 28149
+- County from: 2020
+- Tract 2020: 28149950300
+- Tract 2010: 28149950300
+- Tract 2000: 28149950300
+- Tract 1990: 28149950300
+- Place 2020: 76720
+- Place 2010: 76720
+- Place 2000: 76720
+- Place 1990: 1390
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 749045
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

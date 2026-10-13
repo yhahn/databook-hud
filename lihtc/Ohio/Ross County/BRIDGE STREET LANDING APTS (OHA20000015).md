@@ -1,0 +1,85 @@
+# Project: BRIDGE STREET LANDING APTS (OHA20000015)
+
+- HUD ID: OHA20000015
+- HUD ID before: 
+- Project: BRIDGE STREET LANDING APTS
+- Address: 1920 N BRIDGE ST
+- City: CHILLICOTHE
+- State: OH
+- ZIP: 45601
+- ZIP extension: 
+- State project ID: 980017
+- Latitude: 39.374616
+- Longitude: -82.97587
+- County FIPS: 39141
+- County from: 2020
+- Tract 2020: 39141956300
+- Tract 2010: 39141956300
+- Tract 2000: 39141956300
+- Tract 1990: 39141956300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 14184
+- Place 1990: 0850
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 191422
+- Units: 84
+- Low-income units: 51
+- Units reported: 84
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 70
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 601000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GREENWOOD VILLA TOWNHOMES PHASE II (LAA20010070)
+
+- HUD ID: LAA20010070
+- HUD ID before: 
+- Project: GREENWOOD VILLA TOWNHOMES PHASE II
+- Address: 4430 DANNY R WIMBERLY DR
+- City: SHREVEPORT
+- State: LA
+- ZIP: 71119
+- ZIP extension: 
+- State project ID: LA-99-274
+- Latitude: 32.452891
+- Longitude: -93.859806
+- County FIPS: 22017
+- County from: 2020
+- Tract 2020: 22017024400
+- Tract 2010: 22017024400
+- Tract 2000: 22017024400
+- Tract 1990: 22017024400
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 1240
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 17
+- 4-bedroom units: 7
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA2001068. AKA GREENWOOD VILLA PARTNERS II.
+- Record status: Existing, unchanged

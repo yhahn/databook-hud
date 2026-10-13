@@ -1,0 +1,85 @@
+# Project: MONTCALM APTS (NYB20110060)
+
+- HUD ID: NYB20110060
+- HUD ID before: 
+- Project: MONTCALM APTS
+- Address: 220 BURKE DR
+- City: QUEENSBURY
+- State: NY
+- ZIP: 12804
+- ZIP extension: 
+- State project ID: NY-10-1972
+- Latitude: 43.32845
+- Longitude: -73.687524
+- County FIPS: 36113
+- County from: 2020
+- Tract 2020: 36113070702
+- Tract 2010: 36113070702
+- Tract 2000: 36113070700
+- Tract 1990: 36113070700
+- Place 2020: 29338
+- Place 2010: 29338
+- Place 2000: 29338
+- Place 1990: 1375
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1518281
+- Units: 227
+- Low-income units: 223
+- Units reported: 227
+- Low-income reported: 223
+- Efficiencies: 0
+- 1-bedroom units: 88
+- 2-bedroom units: 87
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYB2011512. AKA J.
+- Record status: Existing, unchanged

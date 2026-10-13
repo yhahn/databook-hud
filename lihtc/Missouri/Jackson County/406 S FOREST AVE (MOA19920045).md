@@ -1,0 +1,85 @@
+# Project: 406 S FOREST AVE (MOA19920045)
+
+- HUD ID: MOA19920045
+- HUD ID before: 
+- Project: 406 S FOREST AVE
+- Address: 406 S FOREST AVE
+- City: INDEPENDENCE
+- State: MO
+- ZIP: 64052
+- ZIP extension: 
+- State project ID: 92-075
+- Latitude: 39.10561
+- Longitude: -94.435959
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095011100
+- Tract 2010: 29095011100
+- Tract 2000: 29095011700
+- Tract 1990: 29095011700
+- Place 2020: 71368
+- Place 2010: 71368
+- Place 2000: 35000
+- Place 1990: 2125
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

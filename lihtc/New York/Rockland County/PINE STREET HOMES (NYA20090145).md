@@ -1,0 +1,85 @@
+# Project: PINE STREET HOMES (NYA20090145)
+
+- HUD ID: NYA20090145
+- HUD ID before: 
+- Project: PINE STREET HOMES
+- Address: HIGHVIEW CT
+- City: NYACK
+- State: NY
+- ZIP: 
+- ZIP extension: 
+- State project ID: 1865
+- Latitude: 41.0921
+- Longitude: -73.9131
+- County FIPS: 36087
+- County from: 2020
+- Tract 2020: 36087013101
+- Tract 2010: 36087013100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 54100
+- Place 2010: 54100
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 246109
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 10
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

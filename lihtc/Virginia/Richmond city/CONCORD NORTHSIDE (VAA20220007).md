@@ -1,0 +1,85 @@
+# Project: CONCORD NORTHSIDE (VAA20220007)
+
+- HUD ID: VAA20220007
+- HUD ID before: 
+- Project: CONCORD NORTHSIDE
+- Address: 710 W. FELLS STREET
+- City: RICHMOND
+- State: VA
+- ZIP: 23222
+- ZIP extension: 
+- State project ID: 10013
+- Latitude: 37.558644
+- Longitude: -77.441797
+- County FIPS: 51760
+- County from: 2020
+- Tract 2020: 51760011100
+- Tract 2010: 51760011100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 777448
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 
+- 1-bedroom units: 152
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 91
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WIH PRESERVATION APARTMENTS (NYB20151046)
+
+- HUD ID: NYB20151046
+- HUD ID before: 
+- Project: WIH PRESERVATION APARTMENTS
+- Address: 1 ARROWBEND DR
+- City: WILLIAMSON
+- State: NY
+- ZIP: 14589
+- ZIP extension: 
+- State project ID: 2253
+- Latitude: 43.229588
+- Longitude: -77.186716
+- County FIPS: 36117
+- County from: 2020
+- Tract 2020: 36117020402
+- Tract 2010: 36117020402
+- Tract 2000: 36117020402
+- Tract 1990: 
+- Place 2020: 82029
+- Place 2010: 82029
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 265213
+- Units: 113
+- Low-income units: 113
+- Units reported: 113
+- Low-income reported: 113
+- Efficiencies: 0
+- 1-bedroom units: 93
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHANNEL ISLAND PARK APTS (CAA20030120)
+
+- HUD ID: CAA20030120
+- HUD ID before: 
+- Project: CHANNEL ISLAND PARK APTS
+- Address: 931 BISMARK WAY
+- City: OXNARD
+- State: CA
+- ZIP: 93033
+- ZIP extension: 
+- State project ID: CA-03-847
+- Latitude: 34.171993
+- Longitude: -119.166143
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111004711
+- Tract 2010: 06111004711
+- Tract 2000: 06111004703
+- Tract 1990: 06111004703
+- Place 2020: 54652
+- Place 2010: 54652
+- Place 2000: 54652
+- Place 1990: 2050
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 592863
+- Units: 152
+- Low-income units: 150
+- Units reported: 152
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 78
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

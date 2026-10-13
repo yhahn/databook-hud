@@ -1,0 +1,85 @@
+# Project: ROUND IV (ANTHONY E CARTER) (NYC19930016)
+
+- HUD ID: NYC19930016
+- HUD ID before: 
+- Project: ROUND IV (ANTHONY E CARTER)
+- Address: 325 NEW LOTS AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11207
+- ZIP extension: 
+- State project ID: NY9202032
+- Latitude: 40.661239
+- Longitude: -73.894859
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047112800
+- Tract 2010: 36047112800
+- Tract 2000: 36047112800
+- Tract 1990: 36047112800
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 378411
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ANTHONY E CARTER (ROUND IV).
+- Record status: Existing, unchanged

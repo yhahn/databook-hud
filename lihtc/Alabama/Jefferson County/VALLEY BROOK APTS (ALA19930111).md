@@ -1,0 +1,85 @@
+# Project: VALLEY BROOK APTS (ALA19930111)
+
+- HUD ID: ALA19930111
+- HUD ID before: 
+- Project: VALLEY BROOK APTS
+- Address: 2969 GALLANT DR
+- City: BIRMINGHAM
+- State: AL
+- ZIP: 35215
+- ZIP extension: 
+- State project ID: AL-93-0012
+- Latitude: 33.661059
+- Longitude: -86.684518
+- County FIPS: 01073
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01073011209
+- Tract 2000: 01073011209
+- Tract 1990: 01073011209
+- Place 2020: 
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0335
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 109766
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 192
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 240
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1995150, ALA1987045.
+- Record status: Existing, unchanged

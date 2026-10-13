@@ -1,0 +1,24 @@
+# Tax Credit Projects: Auglaize County, OH
+
+- Level: County
+- Postal code: OH
+- State FIPS: 39
+- County FIPS: 39011
+- Counties: 
+- Projects: 7
+- Units: 323
+- Low-income units: 322
+
+The low-income housing tax credit projects of Auglaize County, Ohio, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [BLUME ALUMNI APTS (OHA19950025)](./Auglaize%20County/BLUME%20ALUMNI%20APTS%20%28OHA19950025%29.md) | OHA19950025 | WAPAKONETA | 1995 | 58 | 58 |
+| [WESTWOOD VILLAGE (OHA19960285)](./Auglaize%20County/WESTWOOD%20VILLAGE%20%28OHA19960285%29.md) | OHA19960285 | CRIDERSVILLE | 1996 | 50 | 50 |
+| [NORMANDY RIDGE APTS (OHA19980153)](./Auglaize%20County/NORMANDY%20RIDGE%20APTS%20%28OHA19980153%29.md) | OHA19980153 | WAPAKONETA | 1998 | 84 | 84 |
+| [FORT BARBEE RIVERVIEW (OHA19980215)](./Auglaize%20County/FORT%20BARBEE%20RIVERVIEW%20%28OHA19980215%29.md) | OHA19980215 | ST MARYS | 1998 | 26 | 26 |
+| [BEECH TREE HILL APTS (OHA19990012)](./Auglaize%20County/BEECH%20TREE%20HILL%20APTS%20%28OHA19990012%29.md) | OHA19990012 | ST MARYS | 1999 | 24 | 24 |
+| [WAPAKONETA VILLAGE (OHA20160029)](./Auglaize%20County/WAPAKONETA%20VILLAGE%20%28OHA20160029%29.md) | OHA20160029 | WAPAKONETA | 2016 | 41 | 40 |
+| [NEW HOPE VILLAGE SENIOR HOUSING (OHA20180024)](./Auglaize%20County/NEW%20HOPE%20VILLAGE%20SENIOR%20HOUSING%20%28OHA20180024%29.md) | OHA20180024 | ST MARYS | 2018 | 40 | 40 |

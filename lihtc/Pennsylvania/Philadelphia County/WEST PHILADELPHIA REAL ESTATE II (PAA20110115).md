@@ -1,0 +1,85 @@
+# Project: WEST PHILADELPHIA REAL ESTATE II (PAA20110115)
+
+- HUD ID: PAA20110115
+- HUD ID before: 
+- Project: WEST PHILADELPHIA REAL ESTATE II
+- Address: 3728 WALLACE ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19104
+- ZIP extension: 
+- State project ID: TC20100416
+- Latitude: 39.964539
+- Longitude: -75.196557
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101010800
+- Tract 2010: 42101010800
+- Tract 2000: 42101010800
+- Tract 1990: 42101010800
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 839496
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 15
+- 3-bedroom units: 9
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2011521. AKA WPRE II.
+- Record status: Existing, unchanged

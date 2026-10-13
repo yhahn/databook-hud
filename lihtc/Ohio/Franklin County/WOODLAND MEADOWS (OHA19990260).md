@@ -1,0 +1,85 @@
+# Project: WOODLAND MEADOWS (OHA19990260)
+
+- HUD ID: OHA19990260
+- HUD ID before: 
+- Project: WOODLAND MEADOWS
+- Address: 3312 COLUMBUS CT
+- City: COLUMBUS
+- State: OH
+- ZIP: 43209
+- ZIP extension: 
+- State project ID: OH-98-0108
+- Latitude: 39.9801
+- Longitude: -82.9247
+- County FIPS: 39049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39049002710
+- Tract 2000: 39049002710
+- Tract 1990: 39049002710
+- Place 2020: 
+- Place 2010: 18000
+- Place 2000: 06278
+- Place 1990: 0960
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1100
+- Low-income units: 1100
+- Units reported: 1100
+- Low-income reported: 1100
+- Efficiencies: 0
+- 1-bedroom units: 267
+- 2-bedroom units: 521
+- 3-bedroom units: 270
+- 4-bedroom units: 42
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

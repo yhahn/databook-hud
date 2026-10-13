@@ -1,0 +1,24 @@
+# Tax Credit Projects: Coles County, IL
+
+- Level: County
+- Postal code: IL
+- State FIPS: 17
+- County FIPS: 17029
+- Counties: 
+- Projects: 7
+- Units: 647
+- Low-income units: 605
+
+The low-income housing tax credit projects of Coles County, Illinois, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [COUNTRY VIEW ESTATES (ILA19980050)](./Coles%20County/COUNTRY%20VIEW%20ESTATES%20%28ILA19980050%29.md) | ILA19980050 | CHARLESTON | 1998 | 110 | 110 |
+| [VILLAGE APTS OF CHARLESTON (ILA19990080)](./Coles%20County/VILLAGE%20APTS%20OF%20CHARLESTON%20%28ILA19990080%29.md) | ILA19990080 | CHARLESTON | 1999 | 72 | 72 |
+| [COLES CROSSING APTS (ILA19990100)](./Coles%20County/COLES%20CROSSING%20APTS%20%28ILA19990100%29.md) | ILA19990100 | MATTOON | 1999 | 96 | 86 |
+| [COUGILL APTS (ILA20020115)](./Coles%20County/COUGILL%20APTS%20%28ILA20020115%29.md) | ILA20020115 | CHARLESTON | 2002 | 100 | 100 |
+| [MATTOON TOWERS II (ILA20050789)](./Coles%20County/MATTOON%20TOWERS%20II%20%28ILA20050789%29.md) | ILA20050789 | MATTOON | 2005 | 81 | 81 |
+| [SUNRISE APTS (ILA20070130)](./Coles%20County/SUNRISE%20APTS%20%28ILA20070130%29.md) | ILA20070130 | MATTOON | 2007 | 120 | 108 |
+| [HERITAGE WOODS OF CHARLESTON (ILA20110919)](./Coles%20County/HERITAGE%20WOODS%20OF%20CHARLESTON%20%28ILA20110919%29.md) | ILA20110919 | CHARLESTON | 2011 | 68 | 48 |

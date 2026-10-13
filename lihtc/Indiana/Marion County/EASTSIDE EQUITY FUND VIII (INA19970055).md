@@ -1,0 +1,85 @@
+# Project: EASTSIDE EQUITY FUND VIII (INA19970055)
+
+- HUD ID: INA19970055
+- HUD ID before: 
+- Project: EASTSIDE EQUITY FUND VIII
+- Address: 
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 
+- ZIP extension: 
+- State project ID: IN-95-02700
+- Latitude: 
+- Longitude: 
+- County FIPS: 18097
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 7
+- 3-bedroom units: 48
+- 4-bedroom units: 1
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

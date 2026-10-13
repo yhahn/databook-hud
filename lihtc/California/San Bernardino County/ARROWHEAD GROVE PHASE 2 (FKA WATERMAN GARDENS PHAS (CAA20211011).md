@@ -1,0 +1,85 @@
+# Project: ARROWHEAD GROVE PHASE 2 (FKA WATERMAN GARDENS PHAS (CAA20211011)
+
+- HUD ID: CAA20211011
+- HUD ID before: 
+- Project: ARROWHEAD GROVE PHASE 2 (FKA WATERMAN GARDENS PHAS
+- Address: 610 E. OLIVE STREET
+- City: SAN BERNARDINO
+- State: CA
+- ZIP: 92410
+- ZIP extension: 
+- State project ID: CA-2018-639
+- Latitude: 34.118739
+- Longitude: -117.274331
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071006401
+- Tract 2010: 06071006401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 2285544
+- Units: 184
+- Low-income units: 147
+- Units reported: 184
+- Low-income reported: 147
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 102
+- 3-bedroom units: 42
+- 4-bedroom units: 12
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 77
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

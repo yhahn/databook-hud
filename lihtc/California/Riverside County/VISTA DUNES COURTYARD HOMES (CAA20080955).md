@@ -1,0 +1,85 @@
+# Project: VISTA DUNES COURTYARD HOMES (CAA20080955)
+
+- HUD ID: CAA20080955
+- HUD ID before: 
+- Project: VISTA DUNES COURTYARD HOMES
+- Address: 44950 VISTA DUNES LN
+- City: LA QUINTA
+- State: CA
+- ZIP: 92253
+- ZIP extension: 
+- State project ID: CA-07-082
+- Latitude: 33.723911
+- Longitude: -116.288028
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065045234
+- Tract 2010: 06065045215
+- Tract 2000: 06065045205
+- Tract 1990: 06065045201
+- Place 2020: 40354
+- Place 2010: 40354
+- Place 2000: 06028
+- Place 1990: 1330
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 352404
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 38
+- 3-bedroom units: 27
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 79
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

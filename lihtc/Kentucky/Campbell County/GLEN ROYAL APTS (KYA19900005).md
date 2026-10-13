@@ -1,0 +1,85 @@
+# Project: GLEN ROYAL APTS (KYA19900005)
+
+- HUD ID: KYA19900005
+- HUD ID before: 
+- Project: GLEN ROYAL APTS
+- Address: 200 WATER WORKS RD
+- City: FORT THOMAS
+- State: KY
+- ZIP: 41075
+- ZIP extension: 
+- State project ID: KY-90-150
+- Latitude: 39.089418
+- Longitude: -84.451691
+- County FIPS: 21037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 21037052301
+- Tract 2000: 21037052301
+- Tract 1990: 21037052301
+- Place 2020: 
+- Place 2010: 28594
+- Place 2000: 05446
+- Place 1990: 0715
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

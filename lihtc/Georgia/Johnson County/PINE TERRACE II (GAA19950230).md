@@ -1,0 +1,85 @@
+# Project: PINE TERRACE II (GAA19950230)
+
+- HUD ID: GAA19950230
+- HUD ID before: 
+- Project: PINE TERRACE II
+- Address: 823 S MARCUS ST
+- City: WRIGHTSVILLE
+- State: GA
+- ZIP: 31096
+- ZIP extension: 1941
+- State project ID: GA-93-010
+- Latitude: 32.71643
+- Longitude: -82.718397
+- County FIPS: 13167
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 13167960200
+- Tract 2000: 13167980200
+- Tract 1990: 13167980200
+- Place 2020: 
+- Place 2010: 84512
+- Place 2000: 84512
+- Place 1990: 3110
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LAKE VISTA.
+- Record status: Existing, unchanged

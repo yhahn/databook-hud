@@ -1,0 +1,85 @@
+# Project: JOHNSTON SQUARE II (MDA20090065)
+
+- HUD ID: MDA20090065
+- HUD ID before: 
+- Project: JOHNSTON SQUARE II
+- Address: 501 E PRESTON ST
+- City: BALTIMORE
+- State: MD
+- ZIP: 21202
+- ZIP extension: 
+- State project ID: MD08-28001
+- Latitude: 39.304623
+- Longitude: -76.609296
+- County FIPS: 24510
+- County from: 2020
+- Tract 2020: 24510100100
+- Tract 2010: 24510100100
+- Tract 2000: 24510100400
+- Tract 1990: 24510100400
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0025
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 218
+- Low-income units: 218
+- Units reported: 218
+- Low-income reported: 218
+- Efficiencies: 46
+- 1-bedroom units: 159
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

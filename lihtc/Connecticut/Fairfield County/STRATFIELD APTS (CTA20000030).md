@@ -1,0 +1,85 @@
+# Project: STRATFIELD APTS (CTA20000030)
+
+- HUD ID: CTA20000030
+- HUD ID before: 
+- Project: STRATFIELD APTS
+- Address: 45 CHAPEL ST
+- City: BRIDGEPORT
+- State: CT
+- ZIP: 06604
+- ZIP extension: 
+- State project ID: CT-99-033-01
+- Latitude: 41.181409
+- Longitude: -73.190561
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001070600
+- Tract 2010: 09001070600
+- Tract 2000: 09001070600
+- Tract 1990: 09001070600
+- Place 2020: 08000
+- Place 2010: 08000
+- Place 2000: 08000
+- Place 1990: 0200
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 191
+- Low-income units: 191
+- Units reported: 191
+- Low-income reported: 191
+- Efficiencies: 72
+- 1-bedroom units: 119
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA0000325. AKA STRATFIELD APTS 2012.
+- Record status: Existing, unchanged

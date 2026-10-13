@@ -1,0 +1,85 @@
+# Project: MILL POND APT (MIA19900340)
+
+- HUD ID: MIA19900340
+- HUD ID before: 
+- Project: MILL POND APT
+- Address: 200 E MILL POND DR
+- City: BROOKLYN
+- State: MI
+- ZIP: 49230
+- ZIP extension: 
+- State project ID: MI-2019
+- Latitude: 42.107833
+- Longitude: -84.244664
+- County FIPS: 26075
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26075006303
+- Tract 2000: 26075006302
+- Tract 1990: 26075006300
+- Place 2020: 
+- Place 2010: 11000
+- Place 2000: 11000
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1990335.
+- Record status: Existing, unchanged

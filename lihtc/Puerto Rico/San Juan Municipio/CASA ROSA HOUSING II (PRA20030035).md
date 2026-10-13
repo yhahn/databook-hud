@@ -1,0 +1,85 @@
+# Project: CASA ROSA HOUSING II (PRA20030035)
+
+- HUD ID: PRA20030035
+- HUD ID before: 
+- Project: CASA ROSA HOUSING II
+- Address: 358 CALLE SAN AGUSTIN
+- City: SAN JUAN
+- State: PR
+- ZIP: 00901
+- ZIP extension: 
+- State project ID: 01-031
+- Latitude: 18.464308
+- Longitude: -66.096879
+- County FIPS: 72127
+- County from: 2020
+- Tract 2020: 72127000700
+- Tract 2010: 72127000700
+- Tract 2000: 72127000700
+- Tract 1990: 72127000700
+- Place 2020: 76770
+- Place 2010: 76770
+- Place 2000: 76770
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 247078
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 78
+- Efficiencies: 75
+- 1-bedroom units: 1
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA2003005.
+- Record status: Existing, unchanged

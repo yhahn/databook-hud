@@ -1,0 +1,85 @@
+# Project: DONALD E SMITH APARTMENTS (NYB20230011)
+
+- HUD ID: NYB20230011
+- HUD ID before: 
+- Project: DONALD E SMITH APARTMENTS
+- Address: 15 CHURCH STREET
+- City: TUPPER LAKE
+- State: NY
+- ZIP: 12986
+- ZIP extension: 
+- State project ID: NY-24-3544
+- Latitude: 44.220158
+- Longitude: -74.465
+- County FIPS: 36033
+- County from: 2020
+- Tract 2020: 36033951100
+- Tract 2010: 36033951100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 75671
+- Place 2010: 75671
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 256234
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 49
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

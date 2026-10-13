@@ -1,0 +1,85 @@
+# Project: TRUAX PARK REDEVELOPMENT PHASE 1 (WIA20100070)
+
+- HUD ID: WIA20100070
+- HUD ID before: 
+- Project: TRUAX PARK REDEVELOPMENT PHASE 1
+- Address: 3502 - 3506 STAUBEL ST
+- City: MADISON
+- State: WI
+- ZIP: 53704
+- ZIP extension: 
+- State project ID: 5495
+- Latitude: 43.117469
+- Longitude: -89.327532
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025002500
+- Tract 2010: 55025002500
+- Tract 2000: 55025002500
+- Tract 1990: 55025002597
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1429274
+- Units: 71
+- Low-income units: 3
+- Units reported: 71
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 70
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

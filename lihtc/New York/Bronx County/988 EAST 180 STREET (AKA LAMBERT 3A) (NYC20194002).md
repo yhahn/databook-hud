@@ -1,0 +1,85 @@
+# Project: 988 EAST 180 STREET (AKA LAMBERT 3A) (NYC20194002)
+
+- HUD ID: NYC20194002
+- HUD ID before: 
+- Project: 988 EAST 180 STREET (AKA LAMBERT 3A)
+- Address: 988 EAST 180 STREET
+- City: BRONX
+- State: NY
+- ZIP: 10460
+- ZIP extension: 
+- State project ID: NY 17 02 068
+- Latitude: 40.84328
+- Longitude: -73.879692
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005036100
+- Tract 2010: 36005036100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 2230416
+- Units: 139
+- Low-income units: 138
+- Units reported: 139
+- Low-income reported: 138
+- Efficiencies: 7
+- 1-bedroom units: 49
+- 2-bedroom units: 48
+- 3-bedroom units: 30
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

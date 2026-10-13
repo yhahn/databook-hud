@@ -1,0 +1,85 @@
+# Project: LAS FRESAS APARTMENTS (TXA20089011)
+
+- HUD ID: TXA20089011
+- HUD ID before: 
+- Project: LAS FRESAS APARTMENTS
+- Address: 764 CHURCH DR
+- City: POTEET
+- State: TX
+- ZIP: 78065
+- ZIP extension: 
+- State project ID: TX4391
+- Latitude: 29.043982
+- Longitude: -98.584242
+- County FIPS: 48013
+- County from: 2020
+- Tract 2020: 48013960300
+- Tract 2010: 48013960300
+- Tract 2000: 48013960300
+- Tract 1990: 48013960300
+- Place 2020: 59084
+- Place 2010: 59084
+- Place 2000: 59084
+- Place 1990: 3370
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

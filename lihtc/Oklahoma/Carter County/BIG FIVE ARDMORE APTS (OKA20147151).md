@@ -1,0 +1,85 @@
+# Project: BIG FIVE ARDMORE APTS (OKA20147151)
+
+- HUD ID: OKA20147151
+- HUD ID before: 
+- Project: BIG FIVE ARDMORE APTS
+- Address: 1212 SIXTH AVE NE
+- City: ARDMORE
+- State: OK
+- ZIP: 73401
+- ZIP extension: 
+- State project ID: 080125
+- Latitude: 34.176969
+- Longitude: -97.111411
+- County FIPS: 40019
+- County from: 2020
+- Tract 2020: 40019892802
+- Tract 2010: 40019892800
+- Tract 2000: 40019992800
+- Tract 1990: 40019992800
+- Place 2020: 02600
+- Place 2010: 02600
+- Place 2000: 02600
+- Place 1990: 0100
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3406256
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

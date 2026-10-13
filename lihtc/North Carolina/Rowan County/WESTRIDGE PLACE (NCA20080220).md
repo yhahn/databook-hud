@@ -1,0 +1,85 @@
+# Project: WESTRIDGE PLACE (NCA20080220)
+
+- HUD ID: NCA20080220
+- HUD ID before: 
+- Project: WESTRIDGE PLACE
+- Address: 100 DONNER DRIVE
+- City: SALISBURY
+- State: NC
+- ZIP: 28147
+- ZIP extension: 
+- State project ID: 9002222
+- Latitude: 35.690973
+- Longitude: -80.515831
+- County FIPS: 37159
+- County from: 2020
+- Tract 2020: 37159051303
+- Tract 2010: 37159051303
+- Tract 2000: 37159051303
+- Tract 1990: 37159051301
+- Place 2020: 58860
+- Place 2010: 58860
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 467799
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 44
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1777474
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

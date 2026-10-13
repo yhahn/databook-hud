@@ -1,0 +1,85 @@
+# Project: NORTH RIDGE APTS (ILA19910025)
+
+- HUD ID: ILA19910025
+- HUD ID before: 
+- Project: NORTH RIDGE APTS
+- Address: 609 N RIDGE AVE
+- City: TAYLORVILLE
+- State: IL
+- ZIP: 62568
+- ZIP extension: 
+- State project ID: 32991
+- Latitude: 39.554932
+- Longitude: -89.313326
+- County FIPS: 17021
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17021958300
+- Tract 2000: 17021958300
+- Tract 1990: 17021958300
+- Place 2020: 
+- Place 2010: 74574
+- Place 2000: 74574
+- Place 1990: 5680
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 32460
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AWBURY VIEW APTS (PAA20050015)
+
+- HUD ID: PAA20050015
+- HUD ID before: 
+- Project: AWBURY VIEW APTS
+- Address: 6300 CHEW AVE
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19138
+- ZIP extension: 
+- State project ID: TC20040101
+- Latitude: 40.051416
+- Longitude: -75.174809
+- County FIPS: 42101
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42101025200
+- Tract 2000: 42101025200
+- Tract 1990: 42101025200
+- Place 2020: 
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 316329
+- Units: 125
+- Low-income units: 125
+- Units reported: 125
+- Low-income reported: 125
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 60
+- 3-bedroom units: 22
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

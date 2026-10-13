@@ -1,0 +1,85 @@
+# Project: MOSES DEWITT (NYA19950270)
+
+- HUD ID: NYA19950270
+- HUD ID before: 
+- Project: MOSES DEWITT
+- Address: 212 N TOWNSEND ST
+- City: SYRACUSE
+- State: NY
+- ZIP: 13203
+- ZIP extension: 
+- State project ID: 19931107
+- Latitude: 43.053143
+- Longitude: -76.14537
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067001600
+- Tract 2010: 36067001600
+- Tract 2000: 36067001600
+- Tract 1990: 36067001600
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 3565
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 5
+- 1-bedroom units: 23
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

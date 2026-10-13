@@ -1,0 +1,85 @@
+# Project: THE CARLIN (VAA20201032)
+
+- HUD ID: VAA20201032
+- HUD ID before: 
+- Project: THE CARLIN
+- Address: 4300 NORTH CARLIN SPRINGS RD
+- City: ARLINGTON
+- State: VA
+- ZIP: 22203
+- ZIP extension: 
+- State project ID: 939
+- Latitude: 38.877491
+- Longitude: -77.111854
+- County FIPS: 51013
+- County from: 2020
+- Tract 2020: 51013102001
+- Tract 2010: 51013102001
+- Tract 2000: 51013102000
+- Tract 1990: 51013102000
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0056
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1141782
+- Units: 162
+- Low-income units: 161
+- Units reported: 162
+- Low-income reported: 161
+- Efficiencies: 0
+- 1-bedroom units: 153
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 97
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

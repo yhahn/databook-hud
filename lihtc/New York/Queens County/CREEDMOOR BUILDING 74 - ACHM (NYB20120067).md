@@ -1,0 +1,85 @@
+# Project: CREEDMOOR BUILDING 74 - ACHM (NYB20120067)
+
+- HUD ID: NYB20120067
+- HUD ID before: 
+- Project: CREEDMOOR BUILDING 74 - ACHM
+- Address: 80-45 WINCHESTER BLVD
+- City: QUEENS VILLAGE
+- State: NY
+- ZIP: 11427
+- ZIP extension: 
+- State project ID: 2079
+- Latitude: 40.739321
+- Longitude: -73.733399
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081156700
+- Tract 2010: 36081156700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 663751
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 55
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

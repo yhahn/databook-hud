@@ -1,0 +1,85 @@
+# Project: HORN LAKE APTS (TNA20090055)
+
+- HUD ID: TNA20090055
+- HUD ID before: 
+- Project: HORN LAKE APTS
+- Address: 229 233 KOLMAR DR
+- City: MEMPHIS
+- State: TN
+- ZIP: 
+- ZIP extension: 
+- State project ID: TN-09-107
+- Latitude: 
+- Longitude: 
+- County FIPS: 47157
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 488622
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 17
+- 3-bedroom units: 34
+- 4-bedroom units: 20
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 568460
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

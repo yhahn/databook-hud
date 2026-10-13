@@ -1,0 +1,85 @@
+# Project: LA POSADA APTS (TXA00000357)
+
+- HUD ID: TXA00000357
+- HUD ID before: 
+- Project: LA POSADA APTS
+- Address: 901 LAMAR ST
+- City: ELSA
+- State: TX
+- ZIP: 
+- ZIP extension: 
+- State project ID: TX1005
+- Latitude: 
+- Longitude: 
+- County FIPS: 48215
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION. FKA ELSA RETIREMENT
+- Record status: Existing, unchanged

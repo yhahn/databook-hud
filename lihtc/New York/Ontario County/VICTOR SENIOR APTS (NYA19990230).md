@@ -1,0 +1,85 @@
+# Project: VICTOR SENIOR APTS (NYA19990230)
+
+- HUD ID: NYA19990230
+- HUD ID before: 
+- Project: VICTOR SENIOR APTS
+- Address: 2 FRAMARK DR
+- City: VICTOR
+- State: NY
+- ZIP: 14564
+- ZIP extension: 
+- State project ID: 19980014
+- Latitude: 42.978886
+- Longitude: -77.418032
+- County FIPS: 36069
+- County from: 2020
+- Tract 2020: 36069050105
+- Tract 2010: 36069050101
+- Tract 2000: 36069050100
+- Tract 1990: 36069050100
+- Place 2020: 77376
+- Place 2010: 77376
+- Place 2000: 77376
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FLINT GOODRIDGE APTS (LAA20070046)
+
+- HUD ID: LAA20070046
+- HUD ID before: 
+- Project: FLINT GOODRIDGE APTS
+- Address: 2425 LOUISIANA AVE
+- City: NEW ORLEANS
+- State: LA
+- ZIP: 70115
+- ZIP extension: 0000
+- State project ID: LA-06-260
+- Latitude: 29.936146
+- Longitude: -90.094952
+- County FIPS: 22071
+- County from: 2020
+- Tract 2020: 22071014300
+- Tract 2010: 22071014300
+- Tract 2000: 22071009302
+- Tract 1990: 22071009302
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 0956
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 853515
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 89
+- Efficiencies: 3
+- 1-bedroom units: 74
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: Rehabilitation
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

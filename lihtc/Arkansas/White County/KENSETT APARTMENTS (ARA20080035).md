@@ -1,0 +1,85 @@
+# Project: KENSETT APARTMENTS (ARA20080035)
+
+- HUD ID: ARA20080035
+- HUD ID before: 
+- Project: KENSETT APARTMENTS
+- Address: 600 DONIPHAN ST
+- City: KENSETT
+- State: AR
+- ZIP: 72082
+- ZIP extension: 
+- State project ID: AR-06-10
+- Latitude: 35.237361
+- Longitude: -91.670183
+- County FIPS: 05145
+- County from: 2020
+- Tract 2020: 05145071101
+- Tract 2010: 05145071100
+- Tract 2000: 05145971100
+- Tract 1990: 05145971100
+- Place 2020: 36430
+- Place 2010: 36430
+- Place 2000: 25900
+- Place 1990: 1100
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 247570
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 13
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2006770, ARA2006032.
+- Record status: Existing, unchanged

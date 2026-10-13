@@ -1,0 +1,85 @@
+# Project: LEVEL LINE APTS (ALA20090021)
+
+- HUD ID: ALA20090021
+- HUD ID before: 
+- Project: LEVEL LINE APTS
+- Address: 500 LEVEL LINE APTS
+- City: TROY
+- State: AL
+- ZIP: 36081
+- ZIP extension: 
+- State project ID: AL-08-0092
+- Latitude: 31.8242
+- Longitude: -85.9291
+- County FIPS: 01109
+- County from: 2020
+- Tract 2020: 01109188900
+- Tract 2010: 01109188900
+- Tract 2000: 01109988900
+- Tract 1990: 01109988900
+- Place 2020: 76920
+- Place 2010: 76920
+- Place 2000: 76920
+- Place 1990: 1710
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1351840
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2698750
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2011050, ALA2011573. AKA RODEN MANOR.
+- Record status: Existing, unchanged

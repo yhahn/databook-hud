@@ -1,0 +1,85 @@
+# Project: CEDAR MEADOWS PHASES I & II (ORA19950030)
+
+- HUD ID: ORA19950030
+- HUD ID before: 
+- Project: CEDAR MEADOWS PHASES I & II
+- Address: 645 SE KANE DR
+- City: GRESHAM
+- State: OR
+- ZIP: 97080
+- ZIP extension: 
+- State project ID: 94-1-050
+- Latitude: 45.492339
+- Longitude: -122.39906
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051010411
+- Tract 2010: 41051010411
+- Tract 2000: 41051010406
+- Tract 1990: 41051010406
+- Place 2020: 31250
+- Place 2010: 31250
+- Place 2000: 31250
+- Place 1990: 0465
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 39960
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 5
+- 3-bedroom units: 13
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LARGE FAMILY
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TILDEN GARDENS (NYB20152029)
+
+- HUD ID: NYB20152029
+- HUD ID before: 
+- Project: TILDEN GARDENS
+- Address: 2513 TILDEN AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11266
+- ZIP extension: 
+- State project ID: NY-XX-2157
+- Latitude: 40.646855
+- Longitude: -73.953958
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047079400
+- Tract 2010: 36047079400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 52
+- 1-bedroom units: 8
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

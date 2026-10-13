@@ -1,0 +1,85 @@
+# Project: PARK CREST APTS II (NEA19920070)
+
+- HUD ID: NEA19920070
+- HUD ID before: 
+- Project: PARK CREST APTS II
+- Address: 4812 SAHLER ST
+- City: OMAHA
+- State: NE
+- ZIP: 68104
+- ZIP extension: 
+- State project ID: 7-0105
+- Latitude: 41.297047
+- Longitude: -95.985829
+- County FIPS: 31055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31055005800
+- Tract 2000: 31055005800
+- Tract 1990: 31055005800
+- Place 2020: 
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 1825
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 116643
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

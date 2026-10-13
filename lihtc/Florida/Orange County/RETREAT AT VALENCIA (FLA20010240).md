@@ -1,0 +1,85 @@
+# Project: RETREAT AT VALENCIA (FLA20010240)
+
+- HUD ID: FLA20010240
+- HUD ID before: 
+- Project: RETREAT AT VALENCIA
+- Address: 8413 VALENCIA VILLAGE LANE
+- City: ORLANDO
+- State: FL
+- ZIP: 32825
+- ZIP extension: 
+- State project ID: 883
+- Latitude: 28.556109
+- Longitude: -81.271744
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016739
+- Tract 2010: 12095016712
+- Tract 2000: 12095016712
+- Tract 1990: 12095016705
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 1134291
+- Units: 336
+- Low-income units: 336
+- Units reported: 336
+- Low-income reported: 336
+- Efficiencies: 0
+- 1-bedroom units: 92
+- 2-bedroom units: 132
+- 3-bedroom units: 72
+- 4-bedroom units: 40
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

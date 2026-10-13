@@ -1,0 +1,85 @@
+# Project: SONORA VISTA II (AZA19999177)
+
+- HUD ID: AZA19999177
+- HUD ID before: 
+- Project: SONORA VISTA II
+- Address: 105 S. 97TH ST
+- City: MESA
+- State: AZ
+- ZIP: 85208
+- ZIP extension: 
+- State project ID: BD-0003
+- Latitude: 33.412233
+- Longitude: -111.621625
+- County FIPS: 04013
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04013422628
+- Tract 2000: 04013422605
+- Tract 1990: 04013422605
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 46000
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 95
+- Units reported: 96
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 44
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000554.
+- Record status: Existing, unchanged

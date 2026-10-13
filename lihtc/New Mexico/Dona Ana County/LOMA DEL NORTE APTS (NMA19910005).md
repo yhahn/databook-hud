@@ -1,0 +1,85 @@
+# Project: LOMA DEL NORTE APTS (NMA19910005)
+
+- HUD ID: NMA19910005
+- HUD ID before: 
+- Project: LOMA DEL NORTE APTS
+- Address: 940 N FOURTH ST
+- City: ANTHONY
+- State: NM
+- ZIP: 88021
+- ZIP extension: 
+- State project ID: 001-1990
+- Latitude: 32.0142
+- Longitude: -106.6051
+- County FIPS: 35013
+- County from: 2020
+- Tract 2020: 35013001808
+- Tract 2010: 35013001806
+- Tract 2000: 35013001803
+- Tract 1990: 35013001800
+- Place 2020: 03820
+- Place 2010: 03820
+- Place 2000: 03820
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

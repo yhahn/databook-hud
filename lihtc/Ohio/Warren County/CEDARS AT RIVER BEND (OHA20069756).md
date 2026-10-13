@@ -1,0 +1,85 @@
+# Project: CEDARS AT RIVER BEND (OHA20069756)
+
+- HUD ID: OHA20069756
+- HUD ID before: 
+- Project: CEDARS AT RIVER BEND
+- Address: 4885 CROSS KEY DR
+- City: SOUTH LEBANON
+- State: OH
+- ZIP: 45065
+- ZIP extension: 
+- State project ID: 03-0126
+- Latitude: 39.363818
+- Longitude: -84.220571
+- County FIPS: 39165
+- County from: 2020
+- Tract 2020: 39165032204
+- Tract 2010: 39165032201
+- Tract 2000: 39165032201
+- Tract 1990: 39165032200
+- Place 2020: 73446
+- Place 2010: 73446
+- Place 2000: 46872
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 80
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PALACE BUILDING APTS (PAA19950155)
+
+- HUD ID: PAA19950155
+- HUD ID before: 
+- Project: PALACE BUILDING APTS
+- Address: 913 STATE ST
+- City: ERIE
+- State: PA
+- ZIP: 16501
+- ZIP extension: 
+- State project ID: TC19950002
+- Latitude: 42.126473
+- Longitude: -80.083023
+- County FIPS: 42049
+- County from: 2020
+- Tract 2020: 42049000100
+- Tract 2010: 42049000100
+- Tract 2000: 42049000100
+- Tract 1990: 42049000100
+- Place 2020: 24000
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 3685
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 229970
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

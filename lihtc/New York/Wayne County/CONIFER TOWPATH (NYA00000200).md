@@ -1,0 +1,85 @@
+# Project: CONIFER TOWPATH (NYA00000200)
+
+- HUD ID: NYA00000200
+- HUD ID before: 
+- Project: CONIFER TOWPATH
+- Address: 200 CANAL ST
+- City: PALMYRA
+- State: NY
+- ZIP: 14522
+- ZIP extension: 
+- State project ID: NY-90-0500_00184
+- Latitude: 43.065285
+- Longitude: -77.231242
+- County FIPS: 36117
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36117020700
+- Tract 2000: 36117020700
+- Tract 1990: 36117020700
+- Place 2020: 
+- Place 2010: 56187
+- Place 2000: 56187
+- Place 1990: 2775
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 65
+- Low-income units: 65
+- Units reported: 65
+- Low-income reported: 65
+- Efficiencies: 0
+- 1-bedroom units: 65
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

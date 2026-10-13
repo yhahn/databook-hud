@@ -1,0 +1,85 @@
+# Project: PARWOOD APTS (CAA20020340)
+
+- HUD ID: CAA20020340
+- HUD ID before: 
+- Project: PARWOOD APTS
+- Address: 5441 N PARAMOUNT BLVD
+- City: LONG BEACH
+- State: CA
+- ZIP: 90805
+- ZIP extension: 
+- State project ID: CA-01-901
+- Latitude: 33.855404
+- Longitude: -118.160142
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037570603
+- Tract 2010: 06037570603
+- Tract 2000: 06037570603
+- Tract 1990: 06037570600
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 1610
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 1833435
+- Units: 528
+- Low-income units: 526
+- Units reported: 528
+- Low-income reported: 526
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 400
+- 3-bedroom units: 96
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

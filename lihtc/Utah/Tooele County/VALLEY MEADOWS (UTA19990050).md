@@ -1,0 +1,85 @@
+# Project: VALLEY MEADOWS (UTA19990050)
+
+- HUD ID: UTA19990050
+- HUD ID before: 
+- Project: VALLEY MEADOWS
+- Address: 600 NORTH 600 WEST
+- City: TOOELE
+- State: UT
+- ZIP: 84074
+- ZIP extension: 0000
+- State project ID: 1997-15
+- Latitude: 40.542769
+- Longitude: -112.314142
+- County FIPS: 49045
+- County from: 2020
+- Tract 2020: 49045130706
+- Tract 2010: 49045130900
+- Tract 2000: 49045131000
+- Tract 1990: 
+- Place 2020: 76680
+- Place 2010: 76680
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 235298
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 31
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

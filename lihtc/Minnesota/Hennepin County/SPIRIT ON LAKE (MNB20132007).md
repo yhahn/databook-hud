@@ -1,0 +1,85 @@
+# Project: SPIRIT ON LAKE (MNB20132007)
+
+- HUD ID: MNB20132007
+- HUD ID before: 
+- Project: SPIRIT ON LAKE
+- Address: 2930 13TH AVENUE SOUTH
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55407
+- ZIP extension: 2788
+- State project ID: D7532
+- Latitude: 44.949561
+- Longitude: -93.25653
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053125800
+- Tract 2010: 27053125800
+- Tract 2000: 27053007900
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 359406
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2898000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

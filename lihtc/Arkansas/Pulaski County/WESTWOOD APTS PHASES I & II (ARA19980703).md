@@ -1,0 +1,85 @@
+# Project: WESTWOOD APTS PHASES I & II (ARA19980703)
+
+- HUD ID: ARA19980703
+- HUD ID before: 
+- Project: WESTWOOD APTS PHASES I & II
+- Address: 33 NANDINA CIR
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72210
+- ZIP extension: 
+- State project ID: AR-97-11
+- Latitude: 34.654191
+- Longitude: -92.4323
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119004220
+- Tract 2010: 05119004220
+- Tract 2000: 05119004208
+- Tract 1990: 05119004208
+- Place 2020: 41000
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 211974
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 55
+- 2-bedroom units: 113
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1997676, ARA1997074.
+- Record status: Existing, unchanged

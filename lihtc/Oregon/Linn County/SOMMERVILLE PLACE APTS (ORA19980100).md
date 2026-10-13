@@ -1,0 +1,85 @@
+# Project: SOMMERVILLE PLACE APTS (ORA19980100)
+
+- HUD ID: ORA19980100
+- HUD ID before: 
+- Project: SOMMERVILLE PLACE APTS
+- Address: 885 SOMMERVILLE LOOP
+- City: HARRISBURG
+- State: OR
+- ZIP: 97446
+- ZIP extension: 
+- State project ID: 1296
+- Latitude: 44.265361
+- Longitude: -123.161231
+- County FIPS: 41043
+- County from: 2020
+- Tract 2020: 41043030600
+- Tract 2010: 41043030600
+- Tract 2000: 41043030600
+- Tract 1990: 41043030600
+- Place 2020: 32550
+- Place 2010: 32550
+- Place 2000: 31750
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 193626
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 450000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

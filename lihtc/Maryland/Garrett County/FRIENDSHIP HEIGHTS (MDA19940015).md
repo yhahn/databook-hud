@@ -1,0 +1,85 @@
+# Project: FRIENDSHIP HEIGHTS (MDA19940015)
+
+- HUD ID: MDA19940015
+- HUD ID before: 
+- Project: FRIENDSHIP HEIGHTS
+- Address: 703 MORRIS AVE
+- City: FRIENDSVILLE
+- State: MD
+- ZIP: 21531
+- ZIP extension: 
+- State project ID: MD92-19
+- Latitude: 39.662971
+- Longitude: -79.407272
+- County FIPS: 24023
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24023000100
+- Tract 2000: 24023000100
+- Tract 1990: 24023000100
+- Place 2020: 
+- Place 2010: 30850
+- Place 2000: 00225
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA0000180.
+- Record status: Existing, unchanged

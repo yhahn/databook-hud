@@ -1,0 +1,85 @@
+# Project: HIGGINSVILLE ESTATES (MOA19910325)
+
+- HUD ID: MOA19910325
+- HUD ID before: 
+- Project: HIGGINSVILLE ESTATES
+- Address: 801 MAIN ST
+- City: HIGGINSVILLE
+- State: MO
+- ZIP: 64037
+- ZIP extension: 
+- State project ID: 90-189
+- Latitude: 39.087967
+- Longitude: -93.716472
+- County FIPS: 29107
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29107090400
+- Tract 2000: 29107090400
+- Tract 1990: 29107090400
+- Place 2020: 
+- Place 2010: 31960
+- Place 2000: 00802
+- Place 1990: 1950
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

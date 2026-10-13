@@ -1,0 +1,85 @@
+# Project: HIDDEN OAKS VI (UTA19950918)
+
+- HUD ID: UTA19950918
+- HUD ID before: 
+- Project: HIDDEN OAKS VI
+- Address: 3417 SOUTH 200 EAST
+- City: SALT LAKE CITY
+- State: UT
+- ZIP: 84115
+- ZIP extension: 0000
+- State project ID: 1994-11
+- Latitude: 40.696952
+- Longitude: -111.885227
+- County FIPS: 49035
+- County from: 2020
+- Tract 2020: 49035111701
+- Tract 2010: 49035111701
+- Tract 2000: 49035111700
+- Tract 1990: 49035111700
+- Place 2020: 71070
+- Place 2010: 71070
+- Place 2000: 71070
+- Place 1990: 0593
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 132270
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 28
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

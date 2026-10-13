@@ -1,0 +1,85 @@
+# Project: BILL SORRO COMMUNITY (CAA20170017)
+
+- HUD ID: CAA20170017
+- HUD ID before: 
+- Project: BILL SORRO COMMUNITY
+- Address: 1009 HOWARD STREET
+- City: SAN FRANCISCO
+- State: CA
+- ZIP: 94103
+- ZIP extension: 
+- State project ID: CA-14-861
+- Latitude: 37.77945
+- Longitude: -122.407243
+- County FIPS: 06075
+- County from: 2020
+- Tract 2020: 06075017804
+- Tract 2010: 06075017802
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1569459
+- Units: 67
+- Low-income units: 66
+- Units reported: 67
+- Low-income reported: 66
+- Efficiencies: 8
+- 1-bedroom units: 24
+- 2-bedroom units: 25
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 66
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

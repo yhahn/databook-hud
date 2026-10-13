@@ -1,0 +1,85 @@
+# Project: STROUD SENIOR VILLAGE (OKA20090075)
+
+- HUD ID: OKA20090075
+- HUD ID before: 
+- Project: STROUD SENIOR VILLAGE
+- Address: 210 S SIXTH AVE
+- City: STROUD
+- State: OK
+- ZIP: 74079
+- ZIP extension: 
+- State project ID: 080121
+- Latitude: 35.744944
+- Longitude: -96.660053
+- County FIPS: 40081
+- County from: 2020
+- Tract 2020: 40081961100
+- Tract 2010: 40081961100
+- Tract 2000: 40081981100
+- Tract 1990: 40081981100
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2335
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 54835
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

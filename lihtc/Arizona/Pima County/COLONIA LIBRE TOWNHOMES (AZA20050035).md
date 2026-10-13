@@ -1,0 +1,85 @@
+# Project: COLONIA LIBRE TOWNHOMES (AZA20050035)
+
+- HUD ID: AZA20050035
+- HUD ID before: 
+- Project: COLONIA LIBRE TOWNHOMES
+- Address: 251 W 38TH ST
+- City: TUCSON
+- State: AZ
+- ZIP: 85713
+- ZIP extension: 
+- State project ID: TC-0255
+- Latitude: 32.190222
+- Longitude: -110.972347
+- County FIPS: 04019
+- County from: 2020
+- Tract 2020: 04019002300
+- Tract 2010: 04019002300
+- Tract 2000: 04019002300
+- Tract 1990: 04019002300
+- Place 2020: 68850
+- Place 2010: 68850
+- Place 2000: 68850
+- Place 1990: 0340
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 56
+- Units reported: 60
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 30
+- 4-bedroom units: 15
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: Sale under qualified contract
+- Why, other: 
+- Data note: AKA VALLE DEL SUR.
+- Record status: Existing, unchanged

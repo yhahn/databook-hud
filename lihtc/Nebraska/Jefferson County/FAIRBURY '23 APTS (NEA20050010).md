@@ -1,0 +1,85 @@
+# Project: FAIRBURY '23 APTS (NEA20050010)
+
+- HUD ID: NEA20050010
+- HUD ID before: 
+- Project: FAIRBURY '23 APTS
+- Address: 720 J ST
+- City: FAIRBURY
+- State: NE
+- ZIP: 68352
+- ZIP extension: 
+- State project ID: 7-0566
+- Latitude: 40.138487
+- Longitude: -97.172566
+- County FIPS: 31095
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31095963800
+- Tract 2000: 31095993800
+- Tract 1990: 31095993800
+- Place 2020: 
+- Place 2010: 16410
+- Place 2000: 16410
+- Place 1990: 0890
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 290030
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FAIRBURY 23 APTS.
+- Record status: Existing, unchanged

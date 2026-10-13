@@ -1,0 +1,85 @@
+# Project: AVENUE APTS (VTA20120015)
+
+- HUD ID: VTA20120015
+- HUD ID before: 
+- Project: AVENUE APTS
+- Address: 1201 N AVE
+- City: BURLINGTON
+- State: VT
+- ZIP: 05408
+- ZIP extension: 
+- State project ID: 0442
+- Latitude: 44.508364
+- Longitude: -73.247167
+- County FIPS: 50007
+- County from: 2020
+- Tract 2020: 50007000200
+- Tract 2010: 50007000200
+- Tract 2000: 50007000200
+- Tract 1990: 50007000200
+- Place 2020: 10675
+- Place 2010: 10675
+- Place 2000: 10675
+- Place 1990: 0460
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 635000
+- Units: 33
+- Low-income units: 28
+- Units reported: 33
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 18
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 420000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

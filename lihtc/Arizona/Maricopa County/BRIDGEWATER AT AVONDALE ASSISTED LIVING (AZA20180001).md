@@ -1,0 +1,85 @@
+# Project: BRIDGEWATER AT AVONDALE ASSISTED LIVING (AZA20180001)
+
+- HUD ID: AZA20180001
+- HUD ID before: 
+- Project: BRIDGEWATER AT AVONDALE ASSISTED LIVING
+- Address: 207 EAST VAN BUREN STREET
+- City: AVONDALE
+- State: AZ
+- ZIP: 85323
+- ZIP extension: 
+- State project ID: BD-0077-17
+- Latitude: 33.449681
+- Longitude: -112.347672
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013061200
+- Tract 2010: 04013061200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04720
+- Place 2010: 04720
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 924809
+- Units: 131
+- Low-income units: 99
+- Units reported: 131
+- Low-income reported: 99
+- Efficiencies: 24
+- 1-bedroom units: 74
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

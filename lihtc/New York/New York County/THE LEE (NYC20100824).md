@@ -1,0 +1,85 @@
+# Project: THE LEE (NYC20100824)
+
+- HUD ID: NYC20100824
+- HUD ID before: 
+- Project: THE LEE
+- Address: 133 PITT STREET
+- City: NEW YORK
+- State: NY
+- ZIP: 10027
+- ZIP extension: 
+- State project ID: 42-1715798
+- Latitude: 40.720125
+- Longitude: -73.981834
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061002201
+- Tract 2010: 36061002201
+- Tract 2000: 36061002201
+- Tract 1990: 36061002201
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 2030416
+- Units: 263
+- Low-income units: 262
+- Units reported: 263
+- Low-income reported: 262
+- Efficiencies: 263
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

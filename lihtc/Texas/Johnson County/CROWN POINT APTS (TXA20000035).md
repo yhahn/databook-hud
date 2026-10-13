@@ -1,0 +1,85 @@
+# Project: CROWN POINT APTS (TXA20000035)
+
+- HUD ID: TXA20000035
+- HUD ID before: 
+- Project: CROWN POINT APTS
+- Address: 700 S MAIN ST
+- City: VENUS
+- State: TX
+- ZIP: 76084
+- ZIP extension: 
+- State project ID: TX0729
+- Latitude: 32.429778
+- Longitude: -97.100918
+- County FIPS: 48251
+- County from: 2020
+- Tract 2020: 48251130413
+- Tract 2010: 48251130408
+- Tract 2000: 48251130408
+- Tract 1990: 48251130403
+- Place 2020: 75236
+- Place 2010: 75236
+- Place 2000: 46452
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA1989325.
+- Record status: Existing, unchanged

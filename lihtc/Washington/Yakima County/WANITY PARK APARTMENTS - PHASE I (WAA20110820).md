@@ -1,0 +1,85 @@
+# Project: WANITY PARK APARTMENTS - PHASE I (WAA20110820)
+
+- HUD ID: WAA20110820
+- HUD ID before: 
+- Project: WANITY PARK APARTMENTS - PHASE I
+- Address: 101 WANITY PARK DR
+- City: TOPPENISH
+- State: WA
+- ZIP: 98948
+- ZIP extension: 
+- State project ID: 08-11
+- Latitude: 46.377861
+- Longitude: -120.339011
+- County FIPS: 53077
+- County from: 2020
+- Tract 2020: 53077940002
+- Tract 2010: 53077940002
+- Tract 2000: 53077002400
+- Tract 1990: 53077002400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 71960
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 429825
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 7307024
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA0000748.
+- Record status: Updated

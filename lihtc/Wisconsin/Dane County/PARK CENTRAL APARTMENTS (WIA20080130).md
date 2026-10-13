@@ -1,0 +1,85 @@
+# Project: PARK CENTRAL APARTMENTS (WIA20080130)
+
+- HUD ID: WIA20080130
+- HUD ID before: 
+- Project: PARK CENTRAL APARTMENTS
+- Address: 301 S INGERSOLL ST
+- City: MADISON
+- State: WI
+- ZIP: 53703
+- ZIP extension: 
+- State project ID: 5213
+- Latitude: 43.082753
+- Longitude: -89.366802
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025001901
+- Tract 2010: 55025001900
+- Tract 2000: 55025001900
+- Tract 1990: 55025001900
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 1475
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 336367
+- Units: 76
+- Low-income units: 27
+- Units reported: 76
+- Low-income reported: 27
+- Efficiencies: 6
+- 1-bedroom units: 24
+- 2-bedroom units: 37
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

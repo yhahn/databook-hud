@@ -1,0 +1,85 @@
+# Project: KELLEY APTS (IAA19910075)
+
+- HUD ID: IAA19910075
+- HUD ID before: 
+- Project: KELLEY APTS
+- Address: 2815 S 12TH ST
+- City: COUNCIL BLUFFS
+- State: IA
+- ZIP: 51501
+- ZIP extension: 
+- State project ID: 90-46
+- Latitude: 41.233766
+- Longitude: -95.86175
+- County FIPS: 19155
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19155030800
+- Tract 2000: 19155030800
+- Tract 1990: 19155030800
+- Place 2020: 
+- Place 2010: 16860
+- Place 2000: 16860
+- Place 1990: 0945
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 6698
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

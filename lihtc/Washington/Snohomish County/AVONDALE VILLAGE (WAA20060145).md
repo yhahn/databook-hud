@@ -1,0 +1,85 @@
+# Project: AVONDALE VILLAGE (WAA20060145)
+
+- HUD ID: WAA20060145
+- HUD ID before: 
+- Project: AVONDALE VILLAGE
+- Address: 12709 AVONDALE WAY
+- City: EVERETT
+- State: WA
+- ZIP: 98204
+- ZIP extension: 
+- State project ID: 05-140A
+- Latitude: 47.883625
+- Longitude: -122.259437
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061041812
+- Tract 2010: 53061041812
+- Tract 2000: 53061041804
+- Tract 1990: 
+- Place 2020: 37917
+- Place 2010: 99999
+- Place 2000: 52765
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 83456
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

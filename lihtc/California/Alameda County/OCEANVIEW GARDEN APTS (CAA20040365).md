@@ -1,0 +1,85 @@
+# Project: OCEANVIEW GARDEN APTS (CAA20040365)
+
+- HUD ID: CAA20040365
+- HUD ID before: 
+- Project: OCEANVIEW GARDEN APTS
+- Address: 1715 FIFTH ST
+- City: BERKELEY
+- State: CA
+- ZIP: 94710
+- ZIP extension: 
+- State project ID: CA-03-921
+- Latitude: 37.871908
+- Longitude: -122.299948
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001422000
+- Tract 2010: 06001422000
+- Tract 2000: 06001422000
+- Tract 1990: 06001422000
+- Place 2020: 06000
+- Place 2010: 06000
+- Place 2000: 06000
+- Place 1990: 0245
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 213402
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 32
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA OCEANVIEW GARDENS.
+- Record status: Existing, unchanged

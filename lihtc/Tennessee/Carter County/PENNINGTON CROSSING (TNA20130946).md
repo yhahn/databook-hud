@@ -1,0 +1,85 @@
+# Project: PENNINGTON CROSSING (TNA20130946)
+
+- HUD ID: TNA20130946
+- HUD ID before: 
+- Project: PENNINGTON CROSSING
+- Address: 3133 ROCKY TOP RD
+- City: JOHNSON CITY
+- State: TN
+- ZIP: 37601
+- ZIP extension: 
+- State project ID: TN-11-032
+- Latitude: 36.288895
+- Longitude: -82.323699
+- County FIPS: 47019
+- County from: 2020
+- Tract 2020: 47019070800
+- Tract 2010: 47019070800
+- Tract 2000: 47019070800
+- Tract 1990: 47019070800
+- Place 2020: 38320
+- Place 2010: 38320
+- Place 2000: 23500
+- Place 1990: 1129
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 778104
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

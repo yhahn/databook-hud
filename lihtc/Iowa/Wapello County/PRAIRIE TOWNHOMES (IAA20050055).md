@@ -1,0 +1,85 @@
+# Project: PRAIRIE TOWNHOMES (IAA20050055)
+
+- HUD ID: IAA20050055
+- HUD ID before: 
+- Project: PRAIRIE TOWNHOMES
+- Address: 910 LOCUST ST
+- City: OTTUMWA
+- State: IA
+- ZIP: 52501
+- ZIP extension: 
+- State project ID: 03-31
+- Latitude: 41.012953
+- Longitude: -92.402814
+- County FIPS: 19179
+- County from: 2020
+- Tract 2020: 19179960500
+- Tract 2010: 19179960500
+- Tract 2000: 19179960500
+- Tract 1990: 19179960500
+- Place 2020: 60465
+- Place 2010: 60465
+- Place 2000: 60465
+- Place 1990: 3275
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 162682
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 11
+- 3-bedroom units: 3
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

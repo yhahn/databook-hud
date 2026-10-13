@@ -1,0 +1,85 @@
+# Project: CURVE CREST VILLAS (MNA20049002)
+
+- HUD ID: MNA20049002
+- HUD ID before: 
+- Project: CURVE CREST VILLAS
+- Address: 2225 ORLEANS ST W
+- City: STILLWATER
+- State: MN
+- ZIP: 55082
+- ZIP extension: 
+- State project ID: D3596
+- Latitude: 45.042952
+- Longitude: -92.833983
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163070603
+- Tract 2010: 27163070601
+- Tract 2000: 27163070601
+- Tract 1990: 27163070601
+- Place 2020: 62824
+- Place 2010: 62824
+- Place 2000: 62824
+- Place 1990: 3675
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 69
+- Units reported: 90
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 30
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

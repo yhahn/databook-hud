@@ -1,0 +1,85 @@
+# Project: SEABREEZE APTS (CAA20070515)
+
+- HUD ID: CAA20070515
+- HUD ID before: 
+- Project: SEABREEZE APTS
+- Address: 1045 E CONDOR ST
+- City: CRESCENT CITY
+- State: CA
+- ZIP: 95531
+- ZIP extension: 
+- State project ID: CA-06-827
+- Latitude: 41.755455
+- Longitude: -124.208763
+- County FIPS: 06015
+- County from: 2020
+- Tract 2020: 06015000101
+- Tract 2010: 06015000101
+- Tract 2000: 06015000101
+- Tract 1990: 06015000100
+- Place 2020: 17022
+- Place 2010: 17022
+- Place 2000: 06150
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 244155
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 21
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

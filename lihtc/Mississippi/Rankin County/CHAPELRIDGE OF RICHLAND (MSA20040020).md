@@ -1,0 +1,85 @@
+# Project: CHAPELRIDGE OF RICHLAND (MSA20040020)
+
+- HUD ID: MSA20040020
+- HUD ID before: 
+- Project: CHAPELRIDGE OF RICHLAND
+- Address: 100 CHAPELRIDGE DR
+- City: RICHLAND
+- State: MS
+- ZIP: 39218
+- ZIP extension: 
+- State project ID: MS-03-037
+- Latitude: 32.210787
+- Longitude: -90.154995
+- County FIPS: 28121
+- County from: 2020
+- Tract 2020: 28121020401
+- Tract 2010: 28121020401
+- Tract 2000: 28121020401
+- Tract 1990: 28121020401
+- Place 2020: 62400
+- Place 2010: 62400
+- Place 2000: 62400
+- Place 1990: 1093
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 136
+- Low-income units: 135
+- Units reported: 136
+- Low-income reported: 135
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 72
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

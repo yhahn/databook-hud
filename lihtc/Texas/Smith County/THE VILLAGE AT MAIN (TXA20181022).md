@@ -1,0 +1,85 @@
+# Project: THE VILLAGE AT MAIN (TXA20181022)
+
+- HUD ID: TXA20181022
+- HUD ID before: 
+- Project: THE VILLAGE AT MAIN
+- Address: 417 E MAIN ST
+- City: BULLARD
+- State: TX
+- ZIP: 75757
+- ZIP extension: 
+- State project ID: TX1243
+- Latitude: 32.142292
+- Longitude: -95.317939
+- County FIPS: 48423
+- County from: 2020
+- Tract 2020: 48423001915
+- Tract 2010: 48423001908
+- Tract 2000: 48423001904
+- Tract 1990: 
+- Place 2020: 11212
+- Place 2010: 11212
+- Place 2000: 11212
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 227400
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

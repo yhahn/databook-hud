@@ -1,0 +1,85 @@
+# Project: ST. MARY MANOR (TNA20221012)
+
+- HUD ID: TNA20221012
+- HUD ID before: 
+- Project: ST. MARY MANOR
+- Address: 1771 US-45 BYP
+- City: JACKSON
+- State: TN
+- ZIP: 38305
+- ZIP extension: 
+- State project ID: TN-21-913
+- Latitude: 35.653862
+- Longitude: -88.853052
+- County FIPS: 47113
+- County from: 2020
+- Tract 2020: 47113000200
+- Tract 2010: 47113000200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 37640
+- Place 2010: 37640
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 9499050
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 8
+- 1-bedroom units: 135
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

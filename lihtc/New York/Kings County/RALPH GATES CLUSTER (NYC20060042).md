@@ -1,0 +1,85 @@
+# Project: RALPH GATES CLUSTER (NYC20060042)
+
+- HUD ID: NYC20060042
+- HUD ID before: 
+- Project: RALPH GATES CLUSTER
+- Address: 145 SUMNER AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11206
+- ZIP extension: 
+- State project ID: NY0402048
+- Latitude: 40.693614
+- Longitude: -73.939953
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047028100
+- Tract 2010: 36047028100
+- Tract 2000: 36047028100
+- Tract 1990: 36047028100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 42786
+- Units: 4
+- Low-income units: 3
+- Units reported: 4
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 321450
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

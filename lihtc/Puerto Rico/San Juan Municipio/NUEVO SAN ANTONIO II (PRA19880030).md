@@ -1,0 +1,85 @@
+# Project: NUEVO SAN ANTONIO II (PRA19880030)
+
+- HUD ID: PRA19880030
+- HUD ID before: 
+- Project: NUEVO SAN ANTONIO II
+- Address: STATE RD 110
+- City: SAN JUAN
+- State: PR
+- ZIP: 
+- ZIP extension: 
+- State project ID: 88-002
+- Latitude: 
+- Longitude: 
+- County FIPS: 72127
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 118000
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 34
+- 3-bedroom units: 22
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA1988055.
+- Record status: Existing, unchanged

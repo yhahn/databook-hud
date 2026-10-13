@@ -1,0 +1,85 @@
+# Project: NORTHWOOD COURT APTS (IAA19990055)
+
+- HUD ID: IAA19990055
+- HUD ID before: 
+- Project: NORTHWOOD COURT APTS
+- Address: 1051 1089 SECOND AVE NE
+- City: SIOUX CENTER
+- State: IA
+- ZIP: 
+- ZIP extension: 
+- State project ID: 98-01
+- Latitude: 
+- Longitude: 
+- County FIPS: 19167
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 104000
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

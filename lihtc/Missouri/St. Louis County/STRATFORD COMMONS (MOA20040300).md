@@ -1,0 +1,85 @@
+# Project: STRATFORD COMMONS (MOA20040300)
+
+- HUD ID: MOA20040300
+- HUD ID before: 
+- Project: STRATFORD COMMONS
+- Address: 4385 PEYTON LN
+- City: PINE LAWN
+- State: MO
+- ZIP: 63120
+- ZIP extension: 
+- State project ID: 03-405
+- Latitude: 38.698522
+- Longitude: -90.269142
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189212202
+- Tract 2010: 29189212200
+- Tract 2000: 29189212200
+- Tract 1990: 29189212200
+- Place 2020: 57800
+- Place 2010: 57800
+- Place 2000: 37178
+- Place 1990: 3125
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 34
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

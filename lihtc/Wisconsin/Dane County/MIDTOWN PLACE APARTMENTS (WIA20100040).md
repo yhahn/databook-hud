@@ -1,0 +1,85 @@
+# Project: MIDTOWN PLACE APARTMENTS (WIA20100040)
+
+- HUD ID: WIA20100040
+- HUD ID before: 
+- Project: MIDTOWN PLACE APARTMENTS
+- Address: 8101 MAYO DR
+- City: MADISON
+- State: WI
+- ZIP: 53719
+- ZIP extension: 
+- State project ID: 5418
+- Latitude: 43.0327
+- Longitude: -89.52422
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025000406
+- Tract 2010: 55025000406
+- Tract 2000: 55025000403
+- Tract 1990: 55025000498
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 1475
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1543814
+- Units: 88
+- Low-income units: 5
+- Units reported: 88
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 47
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 9999
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

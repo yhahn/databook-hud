@@ -1,0 +1,85 @@
+# Project: NORTH PARK PLACE (IAA19920120)
+
+- HUD ID: IAA19920120
+- HUD ID before: 
+- Project: NORTH PARK PLACE
+- Address: 1322 EIGHTH ST
+- City: DES MOINES
+- State: IA
+- ZIP: 50314
+- ZIP extension: 
+- State project ID: 91-42
+- Latitude: 41.602349
+- Longitude: -93.628372
+- County FIPS: 19153
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19153005000
+- Tract 2000: 19153005000
+- Tract 1990: 19153005000
+- Place 2020: 
+- Place 2010: 21000
+- Place 2000: 21000
+- Place 1990: 1130
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 80742
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

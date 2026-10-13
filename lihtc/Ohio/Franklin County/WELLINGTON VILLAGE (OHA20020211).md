@@ -1,0 +1,85 @@
+# Project: WELLINGTON VILLAGE (OHA20020211)
+
+- HUD ID: OHA20020211
+- HUD ID before: 
+- Project: WELLINGTON VILLAGE
+- Address: 5863 SCIOTO DARBY RD
+- City: HILLIARD
+- State: OH
+- ZIP: 43026
+- ZIP extension: 
+- State project ID: 010130
+- Latitude: 40.032894
+- Longitude: -83.176076
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049010602
+- Tract 2010: 39049010602
+- Tract 2000: 39049007932
+- Tract 1990: 39049007930
+- Place 2020: 35476
+- Place 2010: 35476
+- Place 2000: 18000
+- Place 1990: 1830
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 236346
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 88
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2002574, OHA2003277.
+- Record status: Existing, unchanged

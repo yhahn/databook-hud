@@ -1,0 +1,85 @@
+# Project: MESQUITE VILLAGE (LAS CRUCES) (NMA20050057)
+
+- HUD ID: NMA20050057
+- HUD ID before: 
+- Project: MESQUITE VILLAGE (LAS CRUCES)
+- Address: 1851 N MESQUITE ST
+- City: LAS CRUCES
+- State: NM
+- ZIP: 88001
+- ZIP extension: 
+- State project ID: 00383
+- Latitude: 32.326648
+- Longitude: -106.78032
+- County FIPS: 35013
+- County from: 2020
+- Tract 2020: 35013000300
+- Tract 2010: 35013000300
+- Tract 2000: 35013000300
+- Tract 1990: 35013000300
+- Place 2020: 39380
+- Place 2010: 39380
+- Place 2000: 39380
+- Place 1990: 0220
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 132443
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 125616
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HUNT RIDGE I (VAA20080120)
+
+- HUD ID: VAA20080120
+- HUD ID before: 
+- Project: HUNT RIDGE I
+- Address: 5 CANTER LN
+- City: LEXINGTON
+- State: VA
+- ZIP: 24450
+- ZIP extension: 
+- State project ID: 9188
+- Latitude: 37.810276
+- Longitude: -79.411564
+- County FIPS: 51163
+- County from: 2020
+- Tract 2020: 51163930101
+- Tract 2010: 51163930100
+- Tract 2000: 51163990100
+- Tract 1990: 51163990100
+- Place 2020: 24544
+- Place 2010: 24544
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 306710
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 26
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HUNT RIDGE.
+- Record status: Existing, unchanged

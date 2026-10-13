@@ -1,0 +1,85 @@
+# Project: INDEPENDENCE APTS (ILA20110916)
+
+- HUD ID: ILA20110916
+- HUD ID before: 
+- Project: INDEPENDENCE APTS
+- Address: 925 S INDEPENDENCE BLVD
+- City: CHICAGO
+- State: IL
+- ZIP: 60624
+- ZIP extension: 
+- State project ID: 1014709
+- Latitude: 41.869284
+- Longitude: -87.719396
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031843000
+- Tract 2010: 17031843000
+- Tract 2000: 17031290500
+- Tract 1990: 17031290500
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 695672
+- Units: 42
+- Low-income units: 33
+- Units reported: 42
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 16
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

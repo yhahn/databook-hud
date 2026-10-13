@@ -1,0 +1,85 @@
+# Project: TOWN CENTER APTS (ILA20000110)
+
+- HUD ID: ILA20000110
+- HUD ID before: 
+- Project: TOWN CENTER APTS
+- Address: 2413 N NEIL ST
+- City: CHAMPAIGN
+- State: IL
+- ZIP: 61820
+- ZIP extension: 
+- State project ID: 112198
+- Latitude: 40.143913
+- Longitude: -88.248663
+- County FIPS: 17019
+- County from: 2020
+- Tract 2020: 17019000800
+- Tract 2010: 17019000800
+- Tract 2000: 17019000800
+- Tract 1990: 17019000800
+- Place 2020: 12385
+- Place 2010: 12385
+- Place 2000: 12385
+- Place 1990: 0990
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 1000489
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

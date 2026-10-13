@@ -1,0 +1,85 @@
+# Project: BRIARWOOD-ANDERLIK MANOR (ORA20240003)
+
+- HUD ID: ORA20240003
+- HUD ID before: 
+- Project: BRIARWOOD-ANDERLIK MANOR
+- Address: SCATTERED SITES
+- City: KEIZER
+- State: OR
+- ZIP: 97303
+- ZIP extension: 
+- State project ID: OR-23-10203
+- Latitude: 45.0074
+- Longitude: -123.0092
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047001501
+- Tract 2010: 41047001501
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 38500
+- Place 2010: 38500
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 61
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

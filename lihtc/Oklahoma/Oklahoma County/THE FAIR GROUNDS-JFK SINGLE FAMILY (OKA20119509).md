@@ -1,0 +1,85 @@
+# Project: THE FAIR GROUNDS/JFK SINGLE FAMILY (OKA20119509)
+
+- HUD ID: OKA20119509
+- HUD ID before: 
+- Project: THE FAIR GROUNDS/JFK SINGLE FAMILY
+- Address: 1816 NE SEVENTH ST
+- City: OKLAHOMA CITY
+- State: OK
+- ZIP: 73117
+- ZIP extension: 
+- State project ID: 081249
+- Latitude: 35.47488
+- Longitude: -97.479268
+- County FIPS: 40109
+- County from: 2020
+- Tract 2020: 40109109500
+- Tract 2010: 40109102900
+- Tract 2000: 40109102900
+- Tract 1990: 40109102900
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 1815
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

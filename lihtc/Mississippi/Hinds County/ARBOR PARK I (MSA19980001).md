@@ -1,0 +1,85 @@
+# Project: ARBOR PARK I (MSA19980001)
+
+- HUD ID: MSA19980001
+- HUD ID before: 
+- Project: ARBOR PARK I
+- Address: 5551 SHAW RD
+- City: JACKSON
+- State: MS
+- ZIP: 39209
+- ZIP extension: 
+- State project ID: MS-96-113
+- Latitude: 32.321896
+- Longitude: -90.294376
+- County FIPS: 28049
+- County from: 2020
+- Tract 2020: 28049010801
+- Tract 2010: 28049010801
+- Tract 2000: 28049010801
+- Tract 1990: 28049010801
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 14420
+- Place 1990: 0615
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 3958204
+- Units: 160
+- Low-income units: 158
+- Units reported: 160
+- Low-income reported: 158
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 80
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1998602, MSA1997005. AKA ARBOR PARK IA.
+- Record status: Existing, unchanged

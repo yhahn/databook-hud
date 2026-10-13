@@ -1,0 +1,85 @@
+# Project: PEARLWOOD APTS (MSA19980041)
+
+- HUD ID: MSA19980041
+- HUD ID before: 
+- Project: PEARLWOOD APTS
+- Address: 4531 OLD BRANDON RD
+- City: PEARL
+- State: MS
+- ZIP: 
+- ZIP extension: 
+- State project ID: MS-96-118
+- Latitude: 32.290337
+- Longitude: -90.076091
+- County FIPS: 28121
+- County from: 2020
+- Tract 2020: 28121020217
+- Tract 2010: 28121020207
+- Tract 2000: 28121020204
+- Tract 1990: 28121020204
+- Place 2020: 55760
+- Place 2010: 55760
+- Place 2000: 08300
+- Place 1990: 0985
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 126607
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 10
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1998604.
+- Record status: Existing, unchanged

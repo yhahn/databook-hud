@@ -1,0 +1,85 @@
+# Project: WINDSOR COURT I (VAA20060100)
+
+- HUD ID: VAA20060100
+- HUD ID before: 
+- Project: WINDSOR COURT I
+- Address: 103 GEORGIE D'TYLER DR
+- City: WINDSOR
+- State: VA
+- ZIP: 
+- ZIP extension: 
+- State project ID: 9030
+- Latitude: 
+- Longitude: 
+- County FIPS: 51093
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 51093280300
+- Tract 1990: 51093280300
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 86784
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 158576
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1987040.
+- Record status: Existing, unchanged

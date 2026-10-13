@@ -1,0 +1,85 @@
+# Project: CEDARWOODS APARTMENTS (CTA20123005)
+
+- HUD ID: CTA20123005
+- HUD ID before: 
+- Project: CEDARWOODS APARTMENTS
+- Address: CAMEO DRIVE + 87 ROANOKE AVE.
+- City: WILLIMANTIC
+- State: CT
+- ZIP: 06226
+- ZIP extension: 
+- State project ID: CT-10-003
+- Latitude: 41.7153
+- Longitude: -72.1995
+- County FIPS: 09015
+- County from: 2020
+- Tract 2020: 09015800600
+- Tract 2010: 09015800600
+- Tract 2000: 09015800600
+- Tract 1990: 
+- Place 2020: 85810
+- Place 2010: 85810
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 6261488
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 56
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 5701488
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Supportive Housing
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

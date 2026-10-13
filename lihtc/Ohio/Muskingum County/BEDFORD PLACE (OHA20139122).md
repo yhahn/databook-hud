@@ -1,0 +1,85 @@
+# Project: BEDFORD PLACE (OHA20139122)
+
+- HUD ID: OHA20139122
+- HUD ID before: 
+- Project: BEDFORD PLACE
+- Address: 11987 KENDRA STREET
+- City: DRESDEN
+- State: OH
+- ZIP: 43821
+- ZIP extension: 
+- State project ID: 110111
+- Latitude: 40.133536
+- Longitude: -82.014253
+- County FIPS: 39119
+- County from: 2020
+- Tract 2020: 39119911100
+- Tract 2010: 39119911100
+- Tract 2000: 39119981100
+- Tract 1990: 39119981100
+- Place 2020: 22610
+- Place 2010: 77434
+- Place 2000: 22610
+- Place 1990: 1190
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

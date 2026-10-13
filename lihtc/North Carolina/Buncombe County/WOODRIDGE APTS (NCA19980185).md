@@ -1,0 +1,85 @@
+# Project: WOODRIDGE APTS (NCA19980185)
+
+- HUD ID: NCA19980185
+- HUD ID before: 
+- Project: WOODRIDGE APTS
+- Address: 61 BINGHAM ROAD
+- City: ASHEVILLE
+- State: NC
+- ZIP: 28806
+- ZIP extension: 
+- State project ID: 9001396
+- Latitude: 35.600797
+- Longitude: -82.584233
+- County FIPS: 37021
+- County from: 2020
+- Tract 2020: 37021001402
+- Tract 2010: 37021001400
+- Tract 2000: 37021001400
+- Tract 1990: 37021001400
+- Place 2020: 02140
+- Place 2010: 02140
+- Place 2000: 02140
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 120092
+- Units: 110
+- Low-income units: 96
+- Units reported: 110
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 40
+- 3-bedroom units: 40
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

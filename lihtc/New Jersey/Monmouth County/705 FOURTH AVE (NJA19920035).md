@@ -1,0 +1,85 @@
+# Project: 705 FOURTH AVE (NJA19920035)
+
+- HUD ID: NJA19920035
+- HUD ID before: 
+- Project: 705 FOURTH AVE
+- Address: 705 FOURTH AVE
+- City: ASBURY PARK
+- State: NJ
+- ZIP: 07712
+- ZIP extension: 
+- State project ID: NJ-293
+- Latitude: 40.224504
+- Longitude: -74.00904
+- County FIPS: 34025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 34025807003
+- Tract 2000: 34025807003
+- Tract 1990: 34025807003
+- Place 2020: 
+- Place 2010: 01960
+- Place 2000: 01960
+- Place 1990: 0070
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1991025.
+- Record status: Existing, unchanged

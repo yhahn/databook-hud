@@ -1,0 +1,85 @@
+# Project: MOUNT VERNON PLAZA II (OHA20190021)
+
+- HUD ID: OHA20190021
+- HUD ID before: 
+- Project: MOUNT VERNON PLAZA II
+- Address: 945 ATCHESON ST
+- City: COLUMBUS
+- State: OH
+- ZIP: 43203
+- ZIP extension: 1378
+- State project ID: 180059
+- Latitude: 39.973536
+- Longitude: -82.977175
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049002900
+- Tract 2010: 39049002900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 895190
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 136
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

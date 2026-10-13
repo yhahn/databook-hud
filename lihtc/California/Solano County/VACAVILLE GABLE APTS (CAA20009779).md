@@ -1,0 +1,85 @@
+# Project: VACAVILLE GABLE APTS (CAA20009779)
+
+- HUD ID: CAA20009779
+- HUD ID before: 
+- Project: VACAVILLE GABLE APTS
+- Address: 118 GABLE AVE
+- City: VACAVILLE
+- State: CA
+- ZIP: 95688
+- ZIP extension: 
+- State project ID: CA-98-811
+- Latitude: 38.366812
+- Longitude: -121.981915
+- County FIPS: 06095
+- County from: 2020
+- Tract 2020: 06095253208
+- Tract 2010: 06095253204
+- Tract 2000: 06095253202
+- Tract 1990: 06095253202
+- Place 2020: 81554
+- Place 2010: 81554
+- Place 2000: 81554
+- Place 1990: 2995
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 65
+- Low-income units: 64
+- Units reported: 65
+- Low-income reported: 64
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

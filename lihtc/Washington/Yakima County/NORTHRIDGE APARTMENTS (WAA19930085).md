@@ -1,0 +1,85 @@
+# Project: NORTHRIDGE APARTMENTS (WAA19930085)
+
+- HUD ID: WAA19930085
+- HUD ID before: 
+- Project: NORTHRIDGE APARTMENTS
+- Address: 705 WESTWIND DR
+- City: ZILLAH
+- State: WA
+- ZIP: 98953
+- ZIP extension: 
+- State project ID: 93-30O
+- Latitude: 46.404096
+- Longitude: -120.260486
+- County FIPS: 53077
+- County from: 2020
+- Tract 2020: 53077002201
+- Tract 2010: 53077002200
+- Tract 2000: 53077002200
+- Tract 1990: 53077002200
+- Place 2020: 80500
+- Place 2010: 80500
+- Place 2000: 80500
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 30119
+- Units: 21
+- Low-income units: 20
+- Units reported: 21
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

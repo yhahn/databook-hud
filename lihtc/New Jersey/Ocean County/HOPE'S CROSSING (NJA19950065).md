@@ -1,0 +1,85 @@
+# Project: HOPE'S CROSSING (NJA19950065)
+
+- HUD ID: NJA19950065
+- HUD ID before: 
+- Project: HOPE'S CROSSING
+- Address: 1 VANS WAY
+- City: TOMS RIVER
+- State: NJ
+- ZIP: 08755
+- ZIP extension: 
+- State project ID: NJ-0349
+- Latitude: 40.0349
+- Longitude: -74.235925
+- County FIPS: 34029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 34029722002
+- Tract 2000: 34029722000
+- Tract 1990: 34029722000
+- Place 2020: 
+- Place 2010: 73110
+- Place 2000: 73110
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 124
+- Low-income units: 124
+- Units reported: 124
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 57
+- 3-bedroom units: 52
+- 4-bedroom units: 3
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

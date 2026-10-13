@@ -1,0 +1,85 @@
+# Project: BROADMOOR VILLAGE (MSA20010010)
+
+- HUD ID: MSA20010010
+- HUD ID before: 
+- Project: BROADMOOR VILLAGE
+- Address: 491 WESTVIEW DR
+- City: YAZOO CITY
+- State: MS
+- ZIP: 39194
+- ZIP extension: 
+- State project ID: MS-00-031
+- Latitude: 32.879801
+- Longitude: -90.392074
+- County FIPS: 28163
+- County from: 2020
+- Tract 2020: 28163950300
+- Tract 2010: 28163950300
+- Tract 2000: 28163950300
+- Tract 1990: 28163950300
+- Place 2020: 81520
+- Place 2010: 81520
+- Place 2000: 81520
+- Place 1990: 1480
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 57474
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

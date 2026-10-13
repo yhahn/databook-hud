@@ -1,0 +1,85 @@
+# Project: COUNTRY COMMONS APARTMENTS (PAA20192004)
+
+- HUD ID: PAA20192004
+- HUD ID before: 
+- Project: COUNTRY COMMONS APARTMENTS
+- Address: 3338 RICHLIEU RD
+- City: BENSALEM
+- State: PA
+- ZIP: 19020
+- ZIP extension: 1549
+- State project ID: TC20180129
+- Latitude: 40.125192
+- Longitude: -74.957392
+- County FIPS: 42017
+- County from: 2020
+- Tract 2020: 42017100207
+- Tract 2010: 42017100207
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2257294
+- Units: 352
+- Low-income units: 351
+- Units reported: 352
+- Low-income reported: 351
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 208
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 351
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: MAYFIELD PROJECT I (NYA19980155)
+
+- HUD ID: NYA19980155
+- HUD ID before: 
+- Project: MAYFIELD PROJECT I
+- Address: 1553 ONEIDA ST
+- City: UTICA
+- State: NY
+- ZIP: 13501
+- ZIP extension: 
+- State project ID: 19970649
+- Latitude: 43.089928
+- Longitude: -75.246787
+- County FIPS: 36065
+- County from: 2020
+- Tract 2020: 36065026400
+- Tract 2010: 36065026400
+- Tract 2000: 36065020701
+- Tract 1990: 36065020701
+- Place 2020: 76540
+- Place 2010: 76540
+- Place 2000: 76540
+- Place 1990: 3690
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 7
+- 3-bedroom units: 12
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

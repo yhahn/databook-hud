@@ -1,0 +1,85 @@
+# Project: HOLYOKE NUEVA VIDA APTS (MAB19950025)
+
+- HUD ID: MAB19950025
+- HUD ID before: 
+- Project: HOLYOKE NUEVA VIDA APTS
+- Address: 554 S SUMMER ST
+- City: HOLYOKE
+- State: MA
+- ZIP: 01040
+- ZIP extension: 
+- State project ID: 04-3242141
+- Latitude: 42.19649
+- Longitude: -72.605815
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013811500
+- Tract 2010: 25013811500
+- Tract 2000: 25013811500
+- Tract 1990: 25013811500
+- Place 2020: 30840
+- Place 2010: 30840
+- Place 2000: 30840
+- Place 1990: 1830
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB1994090. AKA NUEVA VIDA APTS.
+- Record status: Existing, unchanged

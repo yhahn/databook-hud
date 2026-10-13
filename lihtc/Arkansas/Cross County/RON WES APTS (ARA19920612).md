@@ -1,0 +1,85 @@
+# Project: RON WES APTS (ARA19920612)
+
+- HUD ID: ARA19920612
+- HUD ID before: 
+- Project: RON WES APTS
+- Address: 503 C ST
+- City: WYNNE
+- State: AR
+- ZIP: 72396
+- ZIP extension: 
+- State project ID: PRAR-91-15
+- Latitude: 35.227397
+- Longitude: -90.793271
+- County FIPS: 05037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05037950500
+- Tract 2000: 05037950500
+- Tract 1990: 05037950500
+- Place 2020: 
+- Place 2010: 77090
+- Place 2000: 77090
+- Place 1990: 3085
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 12918
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1992072, ARA1992075.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 1212 MARTIN LUTHER KING APTS (NYA20060005)
+
+- HUD ID: NYA20060005
+- HUD ID before: 
+- Project: 1212 MARTIN LUTHER KING APTS
+- Address: 1212 DR ML KING JR BLVD
+- City: BRONX
+- State: NY
+- ZIP: 
+- ZIP extension: 
+- State project ID: 20040539
+- Latitude: 
+- Longitude: 
+- County FIPS: 36005
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 766900
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 10
+- 1-bedroom units: 16
+- 2-bedroom units: 27
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

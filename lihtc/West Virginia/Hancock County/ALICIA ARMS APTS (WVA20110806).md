@@ -1,0 +1,85 @@
+# Project: ALICIA ARMS APTS (WVA20110806)
+
+- HUD ID: WVA20110806
+- HUD ID before: 
+- Project: ALICIA ARMS APTS
+- Address: 850 PLUTUS AVE
+- City: CHESTER
+- State: WV
+- ZIP: 26034
+- ZIP extension: 
+- State project ID: WV-10-00601
+- Latitude: 40.618048
+- Longitude: -80.556541
+- County FIPS: 54029
+- County from: 2020
+- Tract 2020: 54029021500
+- Tract 2010: 54029021500
+- Tract 2000: 54029021000
+- Tract 1990: 54029021000
+- Place 2020: 15076
+- Place 2010: 15076
+- Place 2000: 15076
+- Place 1990: 0305
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1160021
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WVA0000005.
+- Record status: Existing, unchanged

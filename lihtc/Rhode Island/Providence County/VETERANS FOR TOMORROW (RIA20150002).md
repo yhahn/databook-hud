@@ -1,0 +1,85 @@
+# Project: VETERANS FOR TOMORROW (RIA20150002)
+
+- HUD ID: RIA20150002
+- HUD ID before: 
+- Project: VETERANS FOR TOMORROW
+- Address: 1115 DOUGLAS AVENUE
+- City: PROVIDENCE
+- State: RI
+- ZIP: 02904
+- ZIP extension: 
+- State project ID: RI00187
+- Latitude: 41.85659
+- Longitude: -71.442688
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007002802
+- Tract 2010: 44007002800
+- Tract 2000: 44007002800
+- Tract 1990: 
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 1
+- 1-bedroom units: 19
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

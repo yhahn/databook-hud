@@ -1,0 +1,85 @@
+# Project: EAGLES CRESTE APARTMENTS (GAA20050802)
+
+- HUD ID: GAA20050802
+- HUD ID before: 
+- Project: EAGLES CRESTE APARTMENTS
+- Address: 4135 WASHINGTON RD
+- City: EAST POINT
+- State: GA
+- ZIP: 30344
+- ZIP extension: 7001
+- State project ID: 56-2337989
+- Latitude: 33.64275
+- Longitude: -84.49
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011307
+- Tract 2010: 13121011305
+- Tract 2000: 13121011304
+- Tract 1990: 13121010302
+- Place 2020: 25720
+- Place 2010: 25720
+- Place 2000: 25720
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 656740
+- Units: 284
+- Low-income units: 281
+- Units reported: 284
+- Low-income reported: 281
+- Efficiencies: 0
+- 1-bedroom units: 74
+- 2-bedroom units: 178
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2006155, GAA2005167.
+- Record status: Existing, unchanged

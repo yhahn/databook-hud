@@ -1,0 +1,85 @@
+# Project: WILLCOX TOWNHOMES (AZA20060070)
+
+- HUD ID: AZA20060070
+- HUD ID before: 
+- Project: WILLCOX TOWNHOMES
+- Address: 804 W HOCH LN
+- City: WILLCOX
+- State: AZ
+- ZIP: 85643
+- ZIP extension: 
+- State project ID: TC-0280
+- Latitude: 32.252002
+- Longitude: -109.842803
+- County FIPS: 04003
+- County from: 2020
+- Tract 2020: 04003000202
+- Tract 2010: 04003000202
+- Tract 2000: 04003000200
+- Tract 1990: 04003000200
+- Place 2020: 83090
+- Place 2010: 83090
+- Place 2000: 83090
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 444049
+- Units: 40
+- Low-income units: 29
+- Units reported: 40
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

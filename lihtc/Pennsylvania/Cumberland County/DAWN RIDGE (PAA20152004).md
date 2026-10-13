@@ -1,0 +1,85 @@
+# Project: DAWN RIDGE (PAA20152004)
+
+- HUD ID: PAA20152004
+- HUD ID before: 
+- Project: DAWN RIDGE
+- Address: 79 DAWN RIDGE LOOP
+- City: CARLISLE
+- State: PA
+- ZIP: 17013
+- ZIP extension: 9998
+- State project ID: TC20130472
+- Latitude: 40.196389
+- Longitude: -77.177611
+- County FIPS: 42041
+- County from: 2020
+- Tract 2020: 42041012100
+- Tract 2010: 42041012100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 11272
+- Place 2010: 11272
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 967920
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 33
+- 3-bedroom units: 21
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 58
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

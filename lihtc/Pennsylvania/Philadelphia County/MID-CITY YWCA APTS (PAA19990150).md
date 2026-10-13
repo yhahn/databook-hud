@@ -1,0 +1,85 @@
+# Project: MID-CITY YWCA APTS (PAA19990150)
+
+- HUD ID: PAA19990150
+- HUD ID before: 
+- Project: MID-CITY YWCA APTS
+- Address: 2025 CHESTNUT ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19103
+- ZIP extension: 
+- State project ID: TC1997-0041
+- Latitude: 39.952264
+- Longitude: -75.17393
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101000401
+- Tract 2010: 42101000401
+- Tract 2000: 42101000400
+- Tract 1990: 42101000400
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 304230
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 48
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1998180.
+- Record status: Existing, unchanged

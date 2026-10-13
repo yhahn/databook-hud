@@ -1,0 +1,85 @@
+# Project: BRONX PARK PHASE I (NYB20135004)
+
+- HUD ID: NYB20135004
+- HUD ID before: 
+- Project: BRONX PARK PHASE I
+- Address: 820 EAST 180TH ST
+- City: BRONX
+- State: NY
+- ZIP: 10460
+- ZIP extension: 
+- State project ID: NY-13-2185
+- Latitude: 40.845784
+- Longitude: -73.884444
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005036300
+- Tract 2010: 36005036300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 20611776
+- Units: 536
+- Low-income units: 363
+- Units reported: 536
+- Low-income reported: 363
+- Efficiencies: 27
+- 1-bedroom units: 99
+- 2-bedroom units: 177
+- 3-bedroom units: 81
+- 4-bedroom units: 24
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

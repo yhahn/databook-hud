@@ -1,0 +1,85 @@
+# Project: PARK APTS (NDA19990030)
+
+- HUD ID: NDA19990030
+- HUD ID before: 
+- Project: PARK APTS
+- Address: 217 FOURTH ST SW
+- City: HILLSBORO
+- State: ND
+- ZIP: 58045
+- ZIP extension: 
+- State project ID: 97-37
+- Latitude: 47.400569
+- Longitude: -97.067177
+- County FIPS: 38097
+- County from: 2020
+- Tract 2020: 38097970400
+- Tract 2010: 38097970400
+- Tract 2000: 38097970400
+- Tract 1990: 38097970400
+- Place 2020: 38100
+- Place 2010: 38100
+- Place 2000: 38100
+- Place 1990: 0815
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 53122
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 9
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

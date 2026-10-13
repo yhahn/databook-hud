@@ -1,0 +1,85 @@
+# Project: STODDARD BLOCK (OHA19950285)
+
+- HUD ID: OHA19950285
+- HUD ID before: 
+- Project: STODDARD BLOCK
+- Address: 260 S FOURTH ST
+- City: COLUMBUS
+- State: OH
+- ZIP: 43215
+- ZIP extension: 
+- State project ID: OH-93-6143
+- Latitude: 39.957285
+- Longitude: -82.995003
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049004002
+- Tract 2010: 39049004000
+- Tract 2000: 39049004000
+- Tract 1990: 39049004000
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 140000
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 50
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

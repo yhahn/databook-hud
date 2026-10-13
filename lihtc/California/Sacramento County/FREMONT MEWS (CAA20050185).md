@@ -1,0 +1,85 @@
+# Project: FREMONT MEWS (CAA20050185)
+
+- HUD ID: CAA20050185
+- HUD ID before: 
+- Project: FREMONT MEWS
+- Address: 1400 P ST
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95814
+- ZIP extension: 
+- State project ID: CA-04-803
+- Latitude: 38.572038
+- Longitude: -121.490818
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067001202
+- Tract 2010: 06067001200
+- Tract 2000: 06067001200
+- Tract 1990: 06067001200
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 64000
+- Place 1990: 2420
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 380821
+- Units: 119
+- Low-income units: 49
+- Units reported: 119
+- Low-income reported: 49
+- Efficiencies: 9
+- 1-bedroom units: 28
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

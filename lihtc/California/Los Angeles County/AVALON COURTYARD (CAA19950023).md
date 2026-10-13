@@ -1,0 +1,85 @@
+# Project: AVALON COURTYARD (CAA19950023)
+
+- HUD ID: CAA19950023
+- HUD ID before: 
+- Project: AVALON COURTYARD
+- Address: 22121 AVALON BLVD
+- City: CARSON
+- State: CA
+- ZIP: 90745
+- ZIP extension: 
+- State project ID: CA-93-130
+- Latitude: 33.826336
+- Longitude: -118.263926
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037543803
+- Tract 2010: 06037543802
+- Tract 2000: 06037543802
+- Tract 1990: 06037543802
+- Place 2020: 11530
+- Place 2010: 11530
+- Place 2000: 11530
+- Place 1990: 0440
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 882097
+- Units: 91
+- Low-income units: 91
+- Units reported: 91
+- Low-income reported: 91
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

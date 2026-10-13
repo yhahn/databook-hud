@@ -1,0 +1,85 @@
+# Project: CLUB AT SUGAR MILL (FLA20010508)
+
+- HUD ID: FLA20010508
+- HUD ID before: 
+- Project: CLUB AT SUGAR MILL
+- Address: 3635 CARAMEL AVE
+- City: PORT ORANGE
+- State: FL
+- ZIP: 32129
+- ZIP extension: 
+- State project ID: 175
+- Latitude: 29.141573
+- Longitude: -80.996009
+- County FIPS: 12127
+- County from: 2020
+- Tract 2020: 12127082503
+- Tract 2010: 12127082503
+- Tract 2000: 12127082503
+- Tract 1990: 12127082503
+- Place 2020: 58575
+- Place 2010: 58575
+- Place 2000: 58575
+- Place 1990: 1795
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 167
+- Units reported: 168
+- Low-income reported: 167
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 66
+- 3-bedroom units: 54
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2000025.
+- Record status: Existing, unchanged

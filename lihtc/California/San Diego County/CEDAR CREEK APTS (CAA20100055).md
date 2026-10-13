@@ -1,0 +1,85 @@
+# Project: CEDAR CREEK APTS (CAA20100055)
+
+- HUD ID: CAA20100055
+- HUD ID before: 
+- Project: CEDAR CREEK APTS
+- Address: 8616 FANITA DR
+- City: SANTEE
+- State: CA
+- ZIP: 92071
+- ZIP extension: 
+- State project ID: CA-10-509
+- Latitude: 32.831445
+- Longitude: -117.000911
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073016619
+- Tract 2010: 06073016605
+- Tract 2000: 06073016605
+- Tract 1990: 06073016605
+- Place 2020: 70224
+- Place 2010: 70224
+- Place 2000: 21712
+- Place 1990: 2623
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 528920
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 18
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1270085
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA FANITA 48 FAMILY APTS
+- Record status: Existing, unchanged

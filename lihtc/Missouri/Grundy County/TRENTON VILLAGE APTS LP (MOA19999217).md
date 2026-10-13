@@ -1,0 +1,85 @@
+# Project: TRENTON VILLAGE APTS LP (MOA19999217)
+
+- HUD ID: MOA19999217
+- HUD ID before: 
+- Project: TRENTON VILLAGE APTS LP
+- Address: 1700 E 30TH ST
+- City: TRENTON
+- State: MO
+- ZIP: 64683
+- ZIP extension: 
+- State project ID: 98022
+- Latitude: 40.091493
+- Longitude: -93.603732
+- County FIPS: 29079
+- County from: 2020
+- Tract 2020: 29079960400
+- Tract 2010: 29079960400
+- Tract 2000: 29079960400
+- Tract 1990: 29079960400
+- Place 2020: 73816
+- Place 2010: 73816
+- Place 2000: 73816
+- Place 1990: 4260
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 24
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

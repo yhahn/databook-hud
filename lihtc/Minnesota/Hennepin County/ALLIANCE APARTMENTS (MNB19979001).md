@@ -1,0 +1,85 @@
+# Project: ALLIANCE APARTMENTS (MNB19979001)
+
+- HUD ID: MNB19979001
+- HUD ID before: 
+- Project: ALLIANCE APARTMENTS
+- Address: 719 EAST 16TH STREET
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55404
+- ZIP extension: 1987
+- State project ID: D1889
+- Latitude: 44.967001
+- Longitude: -93.264116
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053005901
+- Tract 2010: 27053005901
+- Tract 2000: 27053005901
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 504392
+- Units: 123
+- Low-income units: 123
+- Units reported: 123
+- Low-income reported: 123
+- Efficiencies: 123
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 93
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 828000
+- CDBG: Yes
+- CDBG amount: 348078
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 280000
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Chemical Dependency
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

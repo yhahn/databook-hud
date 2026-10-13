@@ -1,0 +1,85 @@
+# Project: CHAPMAN COURT (MAB19880050)
+
+- HUD ID: MAB19880050
+- HUD ID before: 
+- Project: CHAPMAN COURT
+- Address: 4 CHAPMAN ST
+- City: GREENFIELD
+- State: MA
+- ZIP: 01301
+- ZIP extension: 
+- State project ID: 10176
+- Latitude: 42.587939
+- Longitude: -72.60285
+- County FIPS: 25011
+- County from: 2020
+- Tract 2020: 25011041301
+- Tract 2010: 25011041300
+- Tract 2000: 25011041300
+- Tract 1990: 25011041300
+- Place 2020: 27060
+- Place 2010: 27100
+- Place 2000: 27060
+- Place 1990: 1520
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 21
+- Low-income units: 8
+- Units reported: 21
+- Low-income reported: 8
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

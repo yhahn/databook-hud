@@ -1,0 +1,85 @@
+# Project: THE CEDARS APARTMENTS (NYB20166073)
+
+- HUD ID: NYB20166073
+- HUD ID before: 
+- Project: THE CEDARS APARTMENTS
+- Address: 101-116 CLIFF ST
+- City: WALDEN
+- State: NY
+- ZIP: 12586
+- ZIP extension: 
+- State project ID: 2329
+- Latitude: 41.562569
+- Longitude: -74.193096
+- County FIPS: 36071
+- County from: 2020
+- Tract 2020: 36071010701
+- Tract 2010: 36071010700
+- Tract 2000: 36071010700
+- Tract 1990: 
+- Place 2020: 77849
+- Place 2010: 77849
+- Place 2000: 77849
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 295575
+- Units: 89
+- Low-income units: 85
+- Units reported: 89
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 57
+- 2-bedroom units: 26
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

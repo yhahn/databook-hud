@@ -1,0 +1,85 @@
+# Project: BERRIEN HOMES (MIA20172005)
+
+- HUD ID: MIA20172005
+- HUD ID before: 
+- Project: BERRIEN HOMES
+- Address: 1901 COUNCIL DRIVE
+- City: BENTON HARBOR
+- State: MI
+- ZIP: 49022
+- ZIP extension: 0000
+- State project ID: 3664
+- Latitude: 42.097619
+- Longitude: -86.414866
+- County FIPS: 26021
+- County from: 2020
+- Tract 2020: 26021002100
+- Tract 2010: 26021002100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1228145
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 45
+- 3-bedroom units: 60
+- 4-bedroom units: 40
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

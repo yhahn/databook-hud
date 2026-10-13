@@ -1,0 +1,85 @@
+# Project: NEW CUMBERLAND SENIOR HOUSING (PAA20110060)
+
+- HUD ID: PAA20110060
+- HUD ID before: 
+- Project: NEW CUMBERLAND SENIOR HOUSING
+- Address: 202 THIRD ST
+- City: NEW CUMBERLAND
+- State: PA
+- ZIP: 17070
+- ZIP extension: 
+- State project ID: TC20090414
+- Latitude: 40.227143
+- Longitude: -76.863315
+- County FIPS: 42041
+- County from: 2020
+- Tract 2020: 42041010800
+- Tract 2010: 42041010800
+- Tract 2000: 42041010800
+- Tract 1990: 42041010800
+- Place 2020: 53464
+- Place 2010: 53464
+- Place 2000: 53464
+- Place 1990: 6756
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 199991
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2011507. AKA CUMBERLAND HOUSING II.
+- Record status: Existing, unchanged

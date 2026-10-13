@@ -1,0 +1,85 @@
+# Project: KIAMICHI GARDENS I (OKA20020045)
+
+- HUD ID: OKA20020045
+- HUD ID before: 
+- Project: KIAMICHI GARDENS I
+- Address: 1405 S K ST
+- City: HUGO
+- State: OK
+- ZIP: 74743
+- ZIP extension: 
+- State project ID: 00-02-14
+- Latitude: 33.997387
+- Longitude: -95.525725
+- County FIPS: 40023
+- County from: 2020
+- Tract 2020: 40023967200
+- Tract 2010: 40023967200
+- Tract 2000: 40023997200
+- Tract 1990: 40023997200
+- Place 2020: 36300
+- Place 2010: 99999
+- Place 2000: 36300
+- Place 1990: 1190
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HUGO SENIORS.
+- Record status: Existing, unchanged

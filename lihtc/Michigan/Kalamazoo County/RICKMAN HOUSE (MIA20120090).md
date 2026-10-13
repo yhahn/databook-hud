@@ -1,0 +1,85 @@
+# Project: RICKMAN HOUSE (MIA20120090)
+
+- HUD ID: MIA20120090
+- HUD ID before: 
+- Project: RICKMAN HOUSE
+- Address: 345 N BURDICK ST
+- City: KALAMAZOO
+- State: MI
+- ZIP: 49007
+- ZIP extension: 
+- State project ID: MI-895
+- Latitude: 42.293997
+- Longitude: -85.583539
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077000201
+- Tract 2010: 26077000201
+- Tract 2000: 26077000201
+- Tract 1990: 26077000201
+- Place 2020: 42160
+- Place 2010: 42160
+- Place 2000: 42160
+- Place 1990: 1370
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1179805
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 49
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1230134
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1994135.
+- Record status: Existing, unchanged

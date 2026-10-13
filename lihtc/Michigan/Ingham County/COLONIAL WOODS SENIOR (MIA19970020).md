@@ -1,0 +1,85 @@
+# Project: COLONIAL WOODS SENIOR (MIA19970020)
+
+- HUD ID: MIA19970020
+- HUD ID before: 
+- Project: COLONIAL WOODS SENIOR
+- Address: 2001 W MOUNT HOPE AVE
+- City: LANSING
+- State: MI
+- ZIP: 48910
+- ZIP extension: 
+- State project ID: MI-1763
+- Latitude: 42.711921
+- Longitude: -84.578851
+- County FIPS: 26065
+- County from: 2020
+- Tract 2020: 26065007000
+- Tract 2010: 26065007000
+- Tract 2000: 26065002500
+- Tract 1990: 26065002500
+- Place 2020: 46000
+- Place 2010: 46000
+- Place 2000: 46000
+- Place 1990: 1485
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 67
+- Units reported: 90
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 55
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

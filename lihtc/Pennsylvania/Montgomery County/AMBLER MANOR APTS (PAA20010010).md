@@ -1,0 +1,85 @@
+# Project: AMBLER MANOR APTS (PAA20010010)
+
+- HUD ID: PAA20010010
+- HUD ID before: 
+- Project: AMBLER MANOR APTS
+- Address: 48 N MAIN ST
+- City: AMBLER
+- State: PA
+- ZIP: 19002
+- ZIP extension: 
+- State project ID: TC19990073
+- Latitude: 40.1549
+- Longitude: -75.225201
+- County FIPS: 42091
+- County from: 2020
+- Tract 2020: 42091201302
+- Tract 2010: 42091201302
+- Tract 2000: 42091201302
+- Tract 1990: 42091201302
+- Place 2020: 02264
+- Place 2010: 02264
+- Place 2000: 02264
+- Place 1990: 0195
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 367231
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 910000
+- CDBG: Yes
+- CDBG amount: 278514
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

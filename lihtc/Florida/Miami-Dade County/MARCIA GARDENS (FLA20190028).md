@@ -1,0 +1,85 @@
+# Project: MARCIA GARDENS (FLA20190028)
+
+- HUD ID: FLA20190028
+- HUD ID before: 
+- Project: MARCIA GARDENS
+- Address: 10301 SW 127TH AVENUE
+- City: MIAMI
+- State: FL
+- ZIP: 33186
+- ZIP extension: 
+- State project ID: 2834
+- Latitude: 25.67219
+- Longitude: -80.400544
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086019000
+- Tract 2010: 12086019000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71567
+- Place 2010: 71567
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 922858
+- Units: 134
+- Low-income units: 134
+- Units reported: 134
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 63
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

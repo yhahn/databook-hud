@@ -1,0 +1,85 @@
+# Project: VILLAGE GREEN APTS (ILA19970125)
+
+- HUD ID: ILA19970125
+- HUD ID before: 
+- Project: VILLAGE GREEN APTS
+- Address: 725 W HURLBURT ST
+- City: PEORIA
+- State: IL
+- ZIP: 61605
+- ZIP extension: 
+- State project ID: 88995
+- Latitude: 40.688295
+- Longitude: -89.605397
+- County FIPS: 17143
+- County from: 2020
+- Tract 2020: 17143000900
+- Tract 2010: 17143000900
+- Tract 2000: 17143000900
+- Tract 1990: 17143000900
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 4590
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 519722
+- Units: 125
+- Low-income units: 125
+- Units reported: 125
+- Low-income reported: 125
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 47
+- 3-bedroom units: 49
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

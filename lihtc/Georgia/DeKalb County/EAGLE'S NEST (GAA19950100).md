@@ -1,0 +1,85 @@
+# Project: EAGLE'S NEST (GAA19950100)
+
+- HUD ID: GAA19950100
+- HUD ID before: 
+- Project: EAGLE'S NEST
+- Address: 3002 EMBER DR
+- City: DECATUR
+- State: GA
+- ZIP: 30034
+- ZIP extension: 
+- State project ID: GA-95-028
+- Latitude: 33.71249
+- Longitude: -84.265248
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089023446
+- Tract 2010: 13089023412
+- Tract 2000: 13089023412
+- Tract 1990: 13089023408
+- Place 2020: 59080
+- Place 2010: 59080
+- Place 2000: 59080
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 296
+- Low-income units: 296
+- Units reported: 296
+- Low-income reported: 296
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 166
+- 3-bedroom units: 70
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DIC EAGLES NEST.
+- Record status: Existing, unchanged

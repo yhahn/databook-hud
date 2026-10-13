@@ -1,0 +1,85 @@
+# Project: CORNERSTONE AT STAFFORD #1648 (NJA20195012)
+
+- HUD ID: NJA20195012
+- HUD ID before: 
+- Project: CORNERSTONE AT STAFFORD #1648
+- Address: 120 CAMPBELL BLVD
+- City: MANAHAWKIN
+- State: NJ
+- ZIP: 08050
+- ZIP extension: 2300
+- State project ID: 03183-1
+- Latitude: 39.7307
+- Longitude: -74.2796
+- County FIPS: 34029
+- County from: 2020
+- Tract 2020: 34029735003
+- Tract 2010: 34029735002
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 54315
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 748281
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 91
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

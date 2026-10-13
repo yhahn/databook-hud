@@ -1,0 +1,85 @@
+# Project: JOHNSON GARDENS (CAA20160031)
+
+- HUD ID: CAA20160031
+- HUD ID before: 
+- Project: JOHNSON GARDENS
+- Address: 9620 TELEPHONE ROAD
+- City: VENTURA
+- State: CA
+- ZIP: 93004
+- ZIP extension: 
+- State project ID: CA-14-897
+- Latitude: 34.27317
+- Longitude: -119.168383
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111001402
+- Tract 2010: 06111001402
+- Tract 2000: 06111001402
+- Tract 1990: 
+- Place 2020: 65042
+- Place 2010: 65042
+- Place 2000: 65042
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 794425
+- Units: 101
+- Low-income units: 99
+- Units reported: 101
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 100
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

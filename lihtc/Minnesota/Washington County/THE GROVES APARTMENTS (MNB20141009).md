@@ -1,0 +1,85 @@
+# Project: THE GROVES APARTMENTS (MNB20141009)
+
+- HUD ID: MNB20141009
+- HUD ID before: 
+- Project: THE GROVES APARTMENTS
+- Address: 7752 HEMINGWAY AVENUE SOUTH
+- City: COTTAGE GROVE
+- State: MN
+- ZIP: 55016
+- ZIP extension: 1834
+- State project ID: D2165
+- Latitude: 44.836906
+- Longitude: -92.952854
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163071210
+- Tract 2010: 27163071206
+- Tract 2000: 27163071206
+- Tract 1990: 
+- Place 2020: 13456
+- Place 2010: 13456
+- Place 2000: 13456
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 716101
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 68
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 68
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

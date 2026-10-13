@@ -1,0 +1,85 @@
+# Project: RESERVES AT STEAMBOAT SPRINGS (COA20170025)
+
+- HUD ID: COA20170025
+- HUD ID before: 
+- Project: RESERVES AT STEAMBOAT SPRINGS
+- Address: 2000 ELK RIVER RD.
+- City: STEAMBOAT SPRINGS
+- State: CO
+- ZIP: 80487
+- ZIP extension: 
+- State project ID: CO-17-25
+- Latitude: 40.4408
+- Longitude: -106.8769
+- County FIPS: 08107
+- County from: 2020
+- Tract 2020: 08107000400
+- Tract 2010: 08107000500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 73825
+- Place 2010: 73825
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 12806165
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

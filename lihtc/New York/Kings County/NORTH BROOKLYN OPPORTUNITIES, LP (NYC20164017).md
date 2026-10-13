@@ -1,0 +1,85 @@
+# Project: NORTH BROOKLYN OPPORTUNITIES, LP (NYC20164017)
+
+- HUD ID: NYC20164017
+- HUD ID before: 
+- Project: NORTH BROOKLYN OPPORTUNITIES, LP
+- Address: 568 GRAHAM AVENUE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11222
+- ZIP extension: 
+- State project ID: 2014-025
+- Latitude: 40.722527
+- Longitude: -73.947154
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047049900
+- Tract 2010: 36047049900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 779407
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 14
+- 2-bedroom units: 6
+- 3-bedroom units: 4
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1190000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: Yes
+- Other population named: HASA
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

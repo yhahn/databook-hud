@@ -1,0 +1,85 @@
+# Project: PARK TERRACE APTS (ORA20010040)
+
+- HUD ID: ORA20010040
+- HUD ID before: 
+- Project: PARK TERRACE APTS
+- Address: 315 N ALBERTA ST
+- City: PORTLAND
+- State: OR
+- ZIP: 97217
+- ZIP extension: 
+- State project ID: OR-01-00000068A
+- Latitude: 45.559252
+- Longitude: -122.670145
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051003401
+- Tract 2010: 41051003401
+- Tract 2000: 41051003401
+- Tract 1990: 41051003401
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 236614
+- Units: 88
+- Low-income units: 87
+- Units reported: 88
+- Low-income reported: 87
+- Efficiencies: 0
+- 1-bedroom units: 88
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

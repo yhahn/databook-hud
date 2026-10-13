@@ -1,0 +1,85 @@
+# Project: BRECKENRIDGE APTS (INA19960020)
+
+- HUD ID: INA19960020
+- HUD ID before: 
+- Project: BRECKENRIDGE APTS
+- Address: 3300 DENISE DR
+- City: PORTAGE
+- State: IN
+- ZIP: 46368
+- ZIP extension: 
+- State project ID: IN-96-03400
+- Latitude: 41.557144
+- Longitude: -87.179785
+- County FIPS: 18127
+- County from: 2020
+- Tract 2020: 18127050506
+- Tract 2010: 18127050506
+- Tract 2000: 18127050504
+- Tract 1990: 18127050101
+- Place 2020: 61092
+- Place 2010: 61092
+- Place 2000: 12412
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 91304
+- Units: 168
+- Low-income units: 68
+- Units reported: 168
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 108
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ALDERWOOD (CAA19960010)
+
+- HUD ID: CAA19960010
+- HUD ID before: 
+- Project: ALDERWOOD
+- Address: 990 FOX ST
+- City: LEMOORE
+- State: CA
+- ZIP: 93245
+- ZIP extension: 
+- State project ID: CA-95-146
+- Latitude: 36.311586
+- Longitude: -119.785104
+- County FIPS: 06031
+- County from: 2020
+- Tract 2020: 06031000407
+- Tract 2010: 06031000404
+- Tract 2000: 06031000404
+- Tract 1990: 06031000401
+- Place 2020: 41152
+- Place 2010: 41152
+- Place 2000: 41152
+- Place 1990: 1515
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 621060
+- Units: 80
+- Low-income units: 78
+- Units reported: 80
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 40
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LEMOORE ALDERWOOD.
+- Record status: Existing, unchanged

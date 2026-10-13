@@ -1,0 +1,85 @@
+# Project: GRAY'S LANDING (ORA20120055)
+
+- HUD ID: ORA20120055
+- HUD ID before: 
+- Project: GRAY'S LANDING
+- Address: 0650 SW LOWELL ST
+- City: PORTLAND
+- State: OR
+- ZIP: 97239
+- ZIP extension: 
+- State project ID: 2745
+- Latitude: 45.4852
+- Longitude: -122.6806
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051005901
+- Tract 2010: 41051005900
+- Tract 2000: 41051005900
+- Tract 1990: 41051005900
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1257484
+- Units: 209
+- Low-income units: 209
+- Units reported: 209
+- Low-income reported: 209
+- Efficiencies: 56
+- 1-bedroom units: 123
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 178
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: VETERANS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

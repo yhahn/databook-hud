@@ -1,0 +1,85 @@
+# Project: PINE RUN APTS (TXA20050255)
+
+- HUD ID: TXA20050255
+- HUD ID before: 
+- Project: PINE RUN APTS
+- Address: 700 N PINER ST
+- City: HONEY GROVE
+- State: TX
+- ZIP: 75446
+- ZIP extension: 
+- State project ID: TX3382
+- Latitude: 33.583973
+- Longitude: -95.915862
+- County FIPS: 48147
+- County from: 2020
+- Tract 2020: 48147950100
+- Tract 2010: 48147950100
+- Tract 2000: 48147950100
+- Tract 1990: 48147950100
+- Place 2020: 34700
+- Place 2010: 34700
+- Place 2000: 34700
+- Place 1990: 1960
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

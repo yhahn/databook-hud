@@ -1,0 +1,85 @@
+# Project: ALEXANDRITE SANDS (AZA19900005)
+
+- HUD ID: AZA19900005
+- HUD ID before: 
+- Project: ALEXANDRITE SANDS
+- Address: 1600 W 12TH ST
+- City: YUMA
+- State: AZ
+- ZIP: 85364
+- ZIP extension: 
+- State project ID: AZ-90-00053
+- Latitude: 32.705982
+- Longitude: -114.637885
+- County FIPS: 04027
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04027000600
+- Tract 2000: 04027000600
+- Tract 1990: 04027000600
+- Place 2020: 
+- Place 2010: 85540
+- Place 2000: 85540
+- Place 1990: 0415
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 312
+- Low-income units: 63
+- Units reported: 312
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 108
+- 3-bedroom units: 140
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

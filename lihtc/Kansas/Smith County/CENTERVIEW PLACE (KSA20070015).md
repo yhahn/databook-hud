@@ -1,0 +1,85 @@
+# Project: CENTERVIEW PLACE (KSA20070015)
+
+- HUD ID: KSA20070015
+- HUD ID before: 
+- Project: CENTERVIEW PLACE
+- Address: 309 ROGER BARTA WAY
+- City: SMITH CENTER
+- State: KS
+- ZIP: 66967
+- ZIP extension: 
+- State project ID: 60452
+- Latitude: 39.781757
+- Longitude: -98.775964
+- County FIPS: 20183
+- County from: 2020
+- Tract 2020: 20183475800
+- Tract 2010: 20183475800
+- Tract 2000: 20183975800
+- Tract 1990: 20183975800
+- Place 2020: 65925
+- Place 2010: 65925
+- Place 2000: 65925
+- Place 1990: 2650
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 98166
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

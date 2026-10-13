@@ -1,0 +1,85 @@
+# Project: CANAL VIEW APTS (NYA20090010)
+
+- HUD ID: NYA20090010
+- HUD ID before: 
+- Project: CANAL VIEW APTS
+- Address: 100 CANALVIEW DR
+- City: LYONS
+- State: NY
+- ZIP: 14489
+- ZIP extension: 
+- State project ID: 20070059
+- Latitude: 43.061332
+- Longitude: -76.98567
+- County FIPS: 36117
+- County from: 2020
+- Tract 2020: 36117021400
+- Tract 2010: 36117021400
+- Tract 2000: 36117021400
+- Tract 1990: 36117021400
+- Place 2020: 43962
+- Place 2010: 43962
+- Place 2000: 43962
+- Place 1990: 2063
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 463232
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1396801
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

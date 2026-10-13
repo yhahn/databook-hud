@@ -1,0 +1,85 @@
+# Project: GEMA HALL (NYC19930002)
+
+- HUD ID: NYC19930002
+- HUD ID before: 
+- Project: GEMA HALL
+- Address: 31 W 124TH ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10027
+- ZIP extension: 
+- State project ID: NY9202088
+- Latitude: 40.80641
+- Longitude: -73.943863
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061020000
+- Tract 2010: 36061020000
+- Tract 2000: 36061020000
+- Tract 1990: 36061020000
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 243884
+- Units: 88
+- Low-income units: 87
+- Units reported: 88
+- Low-income reported: 87
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

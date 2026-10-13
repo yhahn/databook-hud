@@ -1,0 +1,85 @@
+# Project: COVENTRY HOUSE (OHA20040074)
+
+- HUD ID: OHA20040074
+- HUD ID before: 
+- Project: COVENTRY HOUSE
+- Address: 652 N SANDUSKY ST
+- City: TIFFIN
+- State: OH
+- ZIP: 44883
+- ZIP extension: 
+- State project ID: 020045
+- Latitude: 41.136423
+- Longitude: -83.170456
+- County FIPS: 39147
+- County from: 2020
+- Tract 2020: 39147963400
+- Tract 2010: 39147963400
+- Tract 2000: 39147963400
+- Tract 1990: 39147963400
+- Place 2020: 76778
+- Place 2010: 76778
+- Place 2000: 76778
+- Place 1990: 4240
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 182973
+- Units: 30
+- Low-income units: 25
+- Units reported: 30
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 13
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 451000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

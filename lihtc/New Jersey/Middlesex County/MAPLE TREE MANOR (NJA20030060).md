@@ -1,0 +1,85 @@
+# Project: MAPLE TREE MANOR (NJA20030060)
+
+- HUD ID: NJA20030060
+- HUD ID before: 
+- Project: MAPLE TREE MANOR
+- Address: 1255 RAHWAY AVE
+- City: AVENEL
+- State: NJ
+- ZIP: 07001
+- ZIP extension: 2191
+- State project ID: PM01325
+- Latitude: 40.584094
+- Longitude: -74.267664
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023002703
+- Tract 2010: 34023002703
+- Tract 2000: 34023002703
+- Tract 1990: 34023002703
+- Place 2020: 02350
+- Place 2010: 02350
+- Place 2000: 02350
+- Place 1990: 0102
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 88
+- Low-income units: 87
+- Units reported: 88
+- Low-income reported: 87
+- Efficiencies: 4
+- 1-bedroom units: 79
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

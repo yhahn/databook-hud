@@ -1,0 +1,85 @@
+# Project: LEYLAND POINTE APTS FKA LAUREL RIDGE (GAA20069018)
+
+- HUD ID: GAA20069018
+- HUD ID before: 
+- Project: LEYLAND POINTE APTS FKA LAUREL RIDGE
+- Address: 2900 LAUREL RIDGE WAY
+- City: EAST POINT
+- State: GA
+- ZIP: 30344
+- ZIP extension: 6209
+- State project ID: 2004-522
+- Latitude: 33.649042
+- Longitude: -84.494899
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011307
+- Tract 2010: 13121011305
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 25720
+- Place 2010: 25720
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 276
+- Low-income units: 274
+- Units reported: 276
+- Low-income reported: 274
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

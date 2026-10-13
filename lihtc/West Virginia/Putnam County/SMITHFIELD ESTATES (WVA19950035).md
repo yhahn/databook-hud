@@ -1,0 +1,85 @@
+# Project: SMITHFIELD ESTATES (WVA19950035)
+
+- HUD ID: WVA19950035
+- HUD ID before: 
+- Project: SMITHFIELD ESTATES
+- Address: 26 SHIRLEY DR
+- City: BUFFALO
+- State: WV
+- ZIP: 25033
+- ZIP extension: 
+- State project ID: WV-94-142
+- Latitude: 38.60821
+- Longitude: -81.988249
+- County FIPS: 54079
+- County from: 2020
+- Tract 2020: 54079020200
+- Tract 2010: 54079020200
+- Tract 2000: 54079020200
+- Tract 1990: 54079020200
+- Place 2020: 11284
+- Place 2010: 11284
+- Place 2000: 11284
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

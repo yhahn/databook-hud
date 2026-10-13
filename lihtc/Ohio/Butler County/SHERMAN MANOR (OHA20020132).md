@@ -1,0 +1,85 @@
+# Project: SHERMAN MANOR (OHA20020132)
+
+- HUD ID: OHA20020132
+- HUD ID before: 
+- Project: SHERMAN MANOR
+- Address: 926 S SECOND ST
+- City: HAMILTON
+- State: OH
+- ZIP: 45011
+- ZIP extension: 
+- State project ID: 990044
+- Latitude: 39.390922
+- Longitude: -84.564745
+- County FIPS: 39017
+- County from: 2020
+- Tract 2020: 39017000300
+- Tract 2010: 39017000300
+- Tract 2000: 39017000300
+- Tract 1990: 39017000300
+- Place 2020: 33012
+- Place 2010: 33012
+- Place 2000: 33012
+- Place 1990: 1705
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 374060
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 5
+- 1-bedroom units: 46
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 301000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2001175.
+- Record status: Existing, unchanged

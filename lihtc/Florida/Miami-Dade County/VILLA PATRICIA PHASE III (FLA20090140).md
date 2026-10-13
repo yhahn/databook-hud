@@ -1,0 +1,85 @@
+# Project: VILLA PATRICIA PHASE III (FLA20090140)
+
+- HUD ID: FLA20090140
+- HUD ID before: 
+- Project: VILLA PATRICIA PHASE III
+- Address: 7855 NE SECOND AVE
+- City: MIAMI
+- State: FL
+- ZIP: 33138
+- ZIP extension: 
+- State project ID: 1735
+- Latitude: 25.847048
+- Longitude: -80.192605
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086001402
+- Tract 2010: 12086001402
+- Tract 2000: 12086001402
+- Tract 1990: 12025001402
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 45000
+- Place 1990: 1370
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 2435000
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 89
+- Efficiencies: 0
+- 1-bedroom units: 89
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

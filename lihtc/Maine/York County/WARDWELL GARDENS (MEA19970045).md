@@ -1,0 +1,85 @@
+# Project: WARDWELL GARDENS (MEA19970045)
+
+- HUD ID: MEA19970045
+- HUD ID before: 
+- Project: WARDWELL GARDENS
+- Address: 43 MIDDLE ST
+- City: SACO
+- State: ME
+- ZIP: 04072
+- ZIP extension: 
+- State project ID: MSHARLP929H
+- Latitude: 43.497942
+- Longitude: -70.44393
+- County FIPS: 23031
+- County from: 2020
+- Tract 2020: 23031005301
+- Tract 2010: 23031005300
+- Tract 2000: 23031005300
+- Tract 1990: 23031005300
+- Place 2020: 64675
+- Place 2010: 64675
+- Place 2000: 64675
+- Place 1990: 3980
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

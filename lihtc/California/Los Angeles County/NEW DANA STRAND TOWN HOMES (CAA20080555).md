@@ -1,0 +1,85 @@
+# Project: NEW DANA STRAND TOWN HOMES (CAA20080555)
+
+- HUD ID: CAA20080555
+- HUD ID before: 
+- Project: NEW DANA STRAND TOWN HOMES
+- Address: 450 KING AVE
+- City: WILMINGTON
+- State: CA
+- ZIP: 90744
+- ZIP extension: 
+- State project ID: CA-05-843
+- Latitude: 33.773718
+- Longitude: -118.275158
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037294900
+- Tract 2010: 06037294900
+- Tract 2000: 06037294900
+- Tract 1990: 06037294900
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1739269
+- Units: 116
+- Low-income units: 114
+- Units reported: 116
+- Low-income reported: 114
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 13
+- 3-bedroom units: 83
+- 4-bedroom units: 20
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 114
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2904285
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

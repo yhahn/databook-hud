@@ -1,0 +1,85 @@
+# Project: MAPLEWOOD APARTMENTS (CAA20160300)
+
+- HUD ID: CAA20160300
+- HUD ID before: CAA20000300
+- Project: MAPLEWOOD APARTMENTS
+- Address: 12715 MAPLEVIEW STREET
+- City: LAKESIDE
+- State: CA
+- ZIP: 92040
+- ZIP extension: 
+- State project ID: CA-15-910
+- Latitude: 32.863467
+- Longitude: -116.917434
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073016804
+- Tract 2010: 06073016804
+- Tract 2000: 06073016804
+- Tract 1990: 
+- Place 2020: 39766
+- Place 2010: 39766
+- Place 2000: 39766
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 525977
+- Units: 79
+- Low-income units: 78
+- Units reported: 79
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 51
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1376364
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS CAA20000300 AND STATE_ID IS CA-00-800
+- Record status: Existing, unchanged

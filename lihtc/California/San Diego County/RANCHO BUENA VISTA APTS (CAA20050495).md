@@ -1,0 +1,85 @@
+# Project: RANCHO BUENA VISTA APTS (CAA20050495)
+
+- HUD ID: CAA20050495
+- HUD ID before: 
+- Project: RANCHO BUENA VISTA APTS
+- Address: 2155 CORTE VIS
+- City: CHULA VISTA
+- State: CA
+- ZIP: 91915
+- ZIP extension: 
+- State project ID: CA-05-911
+- Latitude: 32.634262
+- Longitude: -116.965554
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073013316
+- Tract 2010: 06073013311
+- Tract 2000: 06073013311
+- Tract 1990: 06073013305
+- Place 2020: 13392
+- Place 2010: 13392
+- Place 2000: 13392
+- Place 1990: 0525
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1139735
+- Units: 150
+- Low-income units: 149
+- Units reported: 150
+- Low-income reported: 149
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 80
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

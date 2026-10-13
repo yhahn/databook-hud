@@ -1,0 +1,85 @@
+# Project: FOREST SQUARE SENIOR APTS (OHA20100065)
+
+- HUD ID: OHA20100065
+- HUD ID before: 
+- Project: FOREST SQUARE SENIOR APTS
+- Address: 3511 HARVEY AVE
+- City: CINCINNATI
+- State: OH
+- ZIP: 45229
+- ZIP extension: 
+- State project ID: 080063
+- Latitude: 39.145449
+- Longitude: -84.497989
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061006800
+- Tract 2010: 39061006800
+- Tract 2000: 39061006800
+- Tract 1990: 39061006800
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 250000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 248566
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

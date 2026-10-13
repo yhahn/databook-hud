@@ -1,0 +1,85 @@
+# Project: ATLANTIC STATION MIXED INCOME (GAA20060280)
+
+- HUD ID: GAA20060280
+- HUD ID before: 
+- Project: ATLANTIC STATION MIXED INCOME
+- Address: 441 16TH ST NW
+- City: ATLANTA
+- State: GA
+- ZIP: 30363
+- ZIP extension: 
+- State project ID: GA-04-044
+- Latitude: 33.788282
+- Longitude: -84.404506
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121000602
+- Tract 2010: 13121000600
+- Tract 2000: 13121000600
+- Tract 1990: 13121000600
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 130
+- Low-income units: 103
+- Units reported: 130
+- Low-income reported: 103
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 97
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

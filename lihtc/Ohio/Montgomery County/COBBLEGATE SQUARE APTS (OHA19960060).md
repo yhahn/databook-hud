@@ -1,0 +1,85 @@
+# Project: COBBLEGATE SQUARE APTS (OHA19960060)
+
+- HUD ID: OHA19960060
+- HUD ID before: 
+- Project: COBBLEGATE SQUARE APTS
+- Address: 2686 COBBLE CIR
+- City: MORAINE
+- State: OH
+- ZIP: 45439
+- ZIP extension: 
+- State project ID: OH-95-0004
+- Latitude: 39.674006
+- Longitude: -84.216057
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113030100
+- Tract 2010: 39113030100
+- Tract 2000: 39113030100
+- Tract 1990: 39113030100
+- Place 2020: 52010
+- Place 2010: 52010
+- Place 2000: 40040
+- Place 1990: 2770
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 454063
+- Units: 131
+- Low-income units: 131
+- Units reported: 131
+- Low-income reported: 131
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 109
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

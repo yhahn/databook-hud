@@ -1,0 +1,85 @@
+# Project: VILLA SERENA PHASE 1 (CAA20230108)
+
+- HUD ID: CAA20230108
+- HUD ID before: 
+- Project: VILLA SERENA PHASE 1
+- Address: 340 MARCOS STREET
+- City: SAN MARCOS
+- State: CA
+- ZIP: 92069
+- ZIP extension: 
+- State project ID: CA-2020-142
+- Latitude: 33.145743
+- Longitude: -117.170083
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073020021
+- Tract 2010: 06073020021
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 68196
+- Place 2010: 68196
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2002089
+- Units: 85
+- Low-income units: 84
+- Units reported: 85
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 41
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 52
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

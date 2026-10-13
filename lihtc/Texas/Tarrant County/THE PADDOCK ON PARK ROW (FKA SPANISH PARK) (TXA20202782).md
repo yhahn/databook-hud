@@ -1,0 +1,85 @@
+# Project: THE PADDOCK ON PARK ROW (FKA SPANISH PARK) (TXA20202782)
+
+- HUD ID: TXA20202782
+- HUD ID before: 
+- Project: THE PADDOCK ON PARK ROW (FKA SPANISH PARK)
+- Address: 420 W PARK ROW DR
+- City: ARLINGTON
+- State: TX
+- ZIP: 76010
+- ZIP extension: 
+- State project ID: TX2304
+- Latitude: 32.720948
+- Longitude: -97.11113
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439122801
+- Tract 2010: 48439122801
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 
+- Units: 350
+- Low-income units: 350
+- Units reported: 350
+- Low-income reported: 350
+- Efficiencies: 0
+- 1-bedroom units: 106
+- 2-bedroom units: 192
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

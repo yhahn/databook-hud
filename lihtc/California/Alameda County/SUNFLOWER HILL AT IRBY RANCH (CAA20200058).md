@@ -1,0 +1,85 @@
+# Project: SUNFLOWER HILL AT IRBY RANCH (CAA20200058)
+
+- HUD ID: CAA20200058
+- HUD ID before: 
+- Project: SUNFLOWER HILL AT IRBY RANCH
+- Address: 3701 NEVADA STREET
+- City: PLEASANTON
+- State: CA
+- ZIP: 94566
+- ZIP extension: 
+- State project ID: CA-2018-128
+- Latitude: 37.6611
+- Longitude: -121.8641
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001450741
+- Tract 2010: 06001450741
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 57792
+- Place 2010: 57792
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1012757
+- Units: 31
+- Low-income units: 30
+- Units reported: 31
+- Low-income reported: 30
+- Efficiencies: 1
+- 1-bedroom units: 22
+- 2-bedroom units: 8
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

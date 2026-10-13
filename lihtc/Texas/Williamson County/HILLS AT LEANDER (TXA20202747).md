@@ -1,0 +1,85 @@
+# Project: HILLS AT LEANDER (TXA20202747)
+
+- HUD ID: TXA20202747
+- HUD ID before: 
+- Project: HILLS AT LEANDER
+- Address: 960 MERRILL DRIVE
+- City: LEANDER
+- State: TX
+- ZIP: 78641
+- ZIP extension: 
+- State project ID: TX5371
+- Latitude: 30.572772
+- Longitude: -97.832961
+- County FIPS: 48491
+- County from: 2020
+- Tract 2020: 48491020341
+- Tract 2010: 48491020302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 42016
+- Place 2010: 42016
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 
+- Units: 228
+- Low-income units: 171
+- Units reported: 228
+- Low-income reported: 171
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

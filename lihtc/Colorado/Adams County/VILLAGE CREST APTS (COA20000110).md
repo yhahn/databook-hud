@@ -1,0 +1,85 @@
+# Project: VILLAGE CREST APTS (COA20000110)
+
+- HUD ID: COA20000110
+- HUD ID before: 
+- Project: VILLAGE CREST APTS
+- Address: 6201 E 62ND AVE
+- City: COMMERCE CITY
+- State: CO
+- ZIP: 80022
+- ZIP extension: 
+- State project ID: 980054
+- Latitude: 39.809405
+- Longitude: -104.916235
+- County FIPS: 08001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 08001008709
+- Tract 2000: 08001008703
+- Tract 1990: 08001008703
+- Place 2020: 
+- Place 2010: 16495
+- Place 2000: 16495
+- Place 1990: 0245
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 84
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

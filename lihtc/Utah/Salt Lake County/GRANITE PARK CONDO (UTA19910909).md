@@ -1,0 +1,85 @@
+# Project: GRANITE PARK CONDO (UTA19910909)
+
+- HUD ID: UTA19910909
+- HUD ID before: 
+- Project: GRANITE PARK CONDO
+- Address: 3537 S 500 E
+- City: SALT LAKE CITY
+- State: UT
+- ZIP: 84106
+- ZIP extension: 
+- State project ID: 1989-07
+- Latitude: 40.694457
+- Longitude: -111.876755
+- County FIPS: 49035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49035111702
+- Tract 2000: 49035111700
+- Tract 1990: 49035111700
+- Place 2020: 
+- Place 2010: 71070
+- Place 2000: 71070
+- Place 1990: 0593
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HIGHLAND PARK (WIA20040040)
+
+- HUD ID: WIA20040040
+- HUD ID before: 
+- Project: HIGHLAND PARK
+- Address: 1818 W JUNEAU AVE
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53233
+- ZIP extension: 
+- State project ID: 3041
+- Latitude: 43.046002
+- Longitude: -87.935782
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079186200
+- Tract 2010: 55079186200
+- Tract 2000: 55079013900
+- Tract 1990: 55079013900
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 115
+- Low-income units: 115
+- Units reported: 115
+- Low-income reported: 115
+- Efficiencies: 0
+- 1-bedroom units: 106
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

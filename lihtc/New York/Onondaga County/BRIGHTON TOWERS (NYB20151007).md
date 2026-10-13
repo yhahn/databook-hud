@@ -1,0 +1,85 @@
+# Project: BRIGHTON TOWERS (NYB20151007)
+
+- HUD ID: NYB20151007
+- HUD ID before: 
+- Project: BRIGHTON TOWERS
+- Address: 821 EAST BRIGHTON AVE
+- City: SYRACUSE
+- State: NY
+- ZIP: 13205
+- ZIP extension: 
+- State project ID: NY-14-2243
+- Latitude: 43.004126
+- Longitude: -76.13029
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067006102
+- Tract 2010: 36067006102
+- Tract 2000: 36067006102
+- Tract 1990: 
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1252964
+- Units: 600
+- Low-income units: 508
+- Units reported: 600
+- Low-income reported: 508
+- Efficiencies: 149
+- 1-bedroom units: 448
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ADAMS COURT PHASE A (MAB20070005)
+
+- HUD ID: MAB20070005
+- HUD ID before: 
+- Project: ADAMS COURT PHASE A
+- Address: 415 RIVER ST
+- City: MATTAPAN
+- State: MA
+- ZIP: 02126
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.269994
+- Longitude: -71.090381
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025101002
+- Tract 2010: 25025101002
+- Tract 2000: 25025101002
+- Tract 1990: 25025101002
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 13
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

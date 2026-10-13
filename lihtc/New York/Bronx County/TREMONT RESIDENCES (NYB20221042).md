@@ -1,0 +1,85 @@
+# Project: TREMONT RESIDENCES (NYB20221042)
+
+- HUD ID: NYB20221042
+- HUD ID before: 
+- Project: TREMONT RESIDENCES
+- Address: 1973 DALY AVENUE
+- City: BRONX
+- State: NY
+- ZIP: 10460
+- ZIP extension: 
+- State project ID: NY-23-2637
+- Latitude: 40.842367
+- Longitude: -73.883689
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005036300
+- Tract 2010: 36005036300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1644050
+- Units: 119
+- Low-income units: 118
+- Units reported: 119
+- Low-income reported: 118
+- Efficiencies: 95
+- 1-bedroom units: 14
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

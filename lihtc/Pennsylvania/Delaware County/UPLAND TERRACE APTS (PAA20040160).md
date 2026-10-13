@@ -1,0 +1,85 @@
+# Project: UPLAND TERRACE APTS (PAA20040160)
+
+- HUD ID: PAA20040160
+- HUD ID before: 
+- Project: UPLAND TERRACE APTS
+- Address: 50 GRIFFITH ST
+- City: BROOKHAVEN
+- State: PA
+- ZIP: 19015
+- ZIP extension: 
+- State project ID: TC20020613
+- Latitude: 39.851564
+- Longitude: -75.384307
+- County FIPS: 42045
+- County from: 2020
+- Tract 2020: 42045406300
+- Tract 2010: 42045406300
+- Tract 2000: 42045406300
+- Tract 1990: 42045406300
+- Place 2020: 78712
+- Place 2010: 78712
+- Place 2000: 78712
+- Place 1990: 8402
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 580322
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 11
+- 3-bedroom units: 32
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1900000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

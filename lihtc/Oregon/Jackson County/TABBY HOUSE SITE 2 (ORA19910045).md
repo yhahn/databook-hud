@@ -1,0 +1,85 @@
+# Project: TABBY HOUSE SITE 2 (ORA19910045)
+
+- HUD ID: ORA19910045
+- HUD ID before: 
+- Project: TABBY HOUSE SITE 2
+- Address: 1122 TABBY LN
+- City: MEDFORD
+- State: OR
+- ZIP: 97504
+- ZIP extension: 
+- State project ID: OR89-327
+- Latitude: 42.33963
+- Longitude: -122.857172
+- County FIPS: 41029
+- County from: 2020
+- Tract 2020: 41029000502
+- Tract 2010: 41029000502
+- Tract 2000: 41029000500
+- Tract 1990: 41029000500
+- Place 2020: 47000
+- Place 2010: 47000
+- Place 2000: 47000
+- Place 1990: 0720
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 5652
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

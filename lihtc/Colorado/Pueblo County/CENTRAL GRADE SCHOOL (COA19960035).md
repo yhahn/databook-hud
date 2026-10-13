@@ -1,0 +1,85 @@
+# Project: CENTRAL GRADE SCHOOL (COA19960035)
+
+- HUD ID: COA19960035
+- HUD ID before: 
+- Project: CENTRAL GRADE SCHOOL
+- Address: 431 E PITKIN AVE
+- City: PUEBLO
+- State: CO
+- ZIP: 81004
+- ZIP extension: 
+- State project ID: CO-94-009
+- Latitude: 38.253353
+- Longitude: -104.620921
+- County FIPS: 08101
+- County from: 2020
+- Tract 2020: 08101001900
+- Tract 2010: 08101001900
+- Tract 2000: 08101001900
+- Tract 1990: 08101001900
+- Place 2020: 62000
+- Place 2010: 62000
+- Place 2000: 62000
+- Place 1990: 1085
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 4
+- 3-bedroom units: 11
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

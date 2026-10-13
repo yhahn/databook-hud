@@ -1,0 +1,85 @@
+# Project: DUMONT GREEN LLC (NYC20110839)
+
+- HUD ID: NYC20110839
+- HUD ID before: 
+- Project: DUMONT GREEN LLC
+- Address: 1490 DUMONT AVENUE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11208
+- ZIP extension: 
+- State project ID: 27-0289330
+- Latitude: 40.67079
+- Longitude: -73.862512
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047120803
+- Tract 2010: 36047120800
+- Tract 2000: 36047120800
+- Tract 1990: 36047120800
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1830418
+- Units: 176
+- Low-income units: 175
+- Units reported: 176
+- Low-income reported: 175
+- Efficiencies: 14
+- 1-bedroom units: 98
+- 2-bedroom units: 52
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 176
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

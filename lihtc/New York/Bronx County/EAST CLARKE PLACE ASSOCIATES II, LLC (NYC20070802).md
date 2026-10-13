@@ -1,0 +1,85 @@
+# Project: EAST CLARKE PLACE ASSOCIATES II, LLC (NYC20070802)
+
+- HUD ID: NYC20070802
+- HUD ID before: 
+- Project: EAST CLARKE PLACE ASSOCIATES II, LLC
+- Address: 15 EAST CLARKE PLACE
+- City: BRONX
+- State: NY
+- ZIP: 10452
+- ZIP extension: 
+- State project ID: 30-0304087
+- Latitude: 40.838434
+- Longitude: -73.918679
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005022101
+- Tract 2010: 36005022101
+- Tract 2000: 36005022100
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 999386
+- Units: 102
+- Low-income units: 101
+- Units reported: 102
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 56
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

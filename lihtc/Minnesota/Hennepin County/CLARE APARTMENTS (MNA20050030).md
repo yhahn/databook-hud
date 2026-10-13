@@ -1,0 +1,85 @@
+# Project: CLARE APARTMENTS (MNA20050030)
+
+- HUD ID: MNA20050030
+- HUD ID before: 
+- Project: CLARE APARTMENTS
+- Address: 929 CENTRAL AVE NE
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55413
+- ZIP extension: 
+- State project ID: D3572
+- Latitude: 44.993793
+- Longitude: -93.249635
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053103100
+- Tract 2010: 27053103100
+- Tract 2000: 27053103100
+- Tract 1990: 27053003100
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 2585
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 30
+- Units reported: 32
+- Low-income reported: 30
+- Efficiencies: 14
+- 1-bedroom units: 16
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Yes
+- Other population named: HIV, SINGLES, MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

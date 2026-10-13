@@ -1,0 +1,85 @@
+# Project: HARBORLIGHT HOUSE (MAB19990055)
+
+- HUD ID: MAB19990055
+- HUD ID before: 
+- Project: HARBORLIGHT HOUSE
+- Address: 1 MONUMENT SQ
+- City: BEVERLY
+- State: MA
+- ZIP: 01915
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.547579
+- Longitude: -70.876839
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009217500
+- Tract 2010: 25009217500
+- Tract 2000: 25009217500
+- Tract 1990: 25009217500
+- Place 2020: 05595
+- Place 2010: 05595
+- Place 2000: 05595
+- Place 1990: 0390
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 30
+- Units reported: 35
+- Low-income reported: 30
+- Efficiencies: 33
+- 1-bedroom units: 2
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

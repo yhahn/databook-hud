@@ -1,0 +1,85 @@
+# Project: CROSSCREEK APTS (MSA20100010)
+
+- HUD ID: MSA20100010
+- HUD ID before: 
+- Project: CROSSCREEK APTS
+- Address: 694 RED DOG RD
+- City: CARTHAGE
+- State: MS
+- ZIP: 39051
+- ZIP extension: 
+- State project ID: MS-08-5-024
+- Latitude: 32.755593
+- Longitude: -89.561664
+- County FIPS: 28079
+- County from: 2020
+- Tract 2020: 28079040600
+- Tract 2010: 28079040600
+- Tract 2000: 28079040200
+- Tract 1990: 28079950100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 11780
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 274727
+- Units: 52
+- Low-income units: 51
+- Units reported: 52
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1600000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

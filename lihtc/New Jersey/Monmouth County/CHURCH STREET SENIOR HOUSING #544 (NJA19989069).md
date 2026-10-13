@@ -1,0 +1,85 @@
+# Project: CHURCH STREET SENIOR HOUSING #544 (NJA19989069)
+
+- HUD ID: NJA19989069
+- HUD ID before: 
+- Project: CHURCH STREET SENIOR HOUSING #544
+- Address: 43 CHURCH ST
+- City: KEANSBURG
+- State: NJ
+- ZIP: 07734
+- ZIP extension: 1471
+- State project ID: 01966-1
+- Latitude: 40.441875
+- Longitude: -74.13208
+- County FIPS: 34025
+- County from: 2020
+- Tract 2020: 34025801600
+- Tract 2010: 34025801600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 36480
+- Place 2010: 36480
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

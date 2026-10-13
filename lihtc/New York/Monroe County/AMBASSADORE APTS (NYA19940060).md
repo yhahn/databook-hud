@@ -1,0 +1,85 @@
+# Project: AMBASSADORE APTS (NYA19940060)
+
+- HUD ID: NYA19940060
+- HUD ID before: 
+- Project: AMBASSADORE APTS
+- Address: 86 S UNION ST
+- City: ROCHESTER
+- State: NY
+- ZIP: 14607
+- ZIP extension: 
+- State project ID: NY-93-1055_00579
+- Latitude: 43.152079
+- Longitude: -77.598536
+- County FIPS: 36055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36055009302
+- Tract 2000: 36055009302
+- Tract 1990: 36055009302
+- Place 2020: 
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 3100
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 6
+- 1-bedroom units: 29
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

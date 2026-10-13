@@ -1,0 +1,85 @@
+# Project: CORAL WOOD COURT (CAA20130019)
+
+- HUD ID: CAA20130019
+- HUD ID before: 
+- Project: CORAL WOOD COURT
+- Address: 8039 RESEDA BLVD
+- City: RESEDA
+- State: CA
+- ZIP: 91335
+- ZIP extension: 
+- State project ID: CA-13-824
+- Latitude: 34.216769
+- Longitude: -118.536276
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037131021
+- Tract 2010: 06037131010
+- Tract 2000: 06037131010
+- Tract 1990: 06037131000
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 830626
+- Units: 106
+- Low-income units: 105
+- Units reported: 106
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 72
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1996035.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VINTON MANOR APTS (OHA19930320)
+
+- HUD ID: OHA19930320
+- HUD ID before: 
+- Project: VINTON MANOR APTS
+- Address: 500 ENGLE DR
+- City: MC ARTHUR
+- State: OH
+- ZIP: 45651
+- ZIP extension: 
+- State project ID: 921013
+- Latitude: 39.25862
+- Longitude: -82.475891
+- County FIPS: 39163
+- County from: 2020
+- Tract 2020: 39163953100
+- Tract 2010: 39163953100
+- Tract 2000: 39163953100
+- Tract 1990: 39163953100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 32956
+- Place 1990: 2360
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 58500
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

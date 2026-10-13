@@ -1,0 +1,85 @@
+# Project: UNION SQUARE SOUTH (NYB19980020)
+
+- HUD ID: NYB19980020
+- HUD ID before: 
+- Project: UNION SQUARE SOUTH
+- Address: 140 FOURTH AVE
+- City: NEW YORK
+- State: NY
+- ZIP: 10003
+- ZIP extension: 
+- State project ID: 1360
+- Latitude: 40.733566
+- Longitude: -73.99007
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061006100
+- Tract 2010: 36061006100
+- Tract 2000: 36061006100
+- Tract 1990: 36061006100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 315399
+- Units: 240
+- Low-income units: 50
+- Units reported: 240
+- Low-income reported: 50
+- Efficiencies: 57
+- 1-bedroom units: 152
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

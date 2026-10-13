@@ -1,0 +1,85 @@
+# Project: PLAINS PLAZA (OHA20109835)
+
+- HUD ID: OHA20109835
+- HUD ID before: 
+- Project: PLAINS PLAZA
+- Address: 45 E FOURTH ST
+- City: THE PLAINS
+- State: OH
+- ZIP: 45780
+- ZIP extension: 
+- State project ID: 80-0060
+- Latitude: 39.362213
+- Longitude: -82.125641
+- County FIPS: 39009
+- County from: 2020
+- Tract 2020: 39009972900
+- Tract 2010: 39009972900
+- Tract 2000: 39009972900
+- Tract 1990: 39009972900
+- Place 2020: 76568
+- Place 2010: 76568
+- Place 2000: 02736
+- Place 1990: 4225
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2013934
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HICKORY CREEK ESTATES.
+- Record status: Existing, unchanged

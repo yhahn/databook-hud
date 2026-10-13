@@ -1,0 +1,85 @@
+# Project: CANDLERIDGE APTS OF WAUKEE II (IAA19950025)
+
+- HUD ID: IAA19950025
+- HUD ID before: 
+- Project: CANDLERIDGE APTS OF WAUKEE II
+- Address: 212 LAUREL ST
+- City: WAUKEE
+- State: IA
+- ZIP: 50263
+- ZIP extension: 
+- State project ID: 93-54
+- Latitude: 41.613866
+- Longitude: -93.868158
+- County FIPS: 19049
+- County from: 2020
+- Tract 2020: 19049050807
+- Tract 2010: 19049050807
+- Tract 2000: 19049050801
+- Tract 1990: 19049050100
+- Place 2020: 82695
+- Place 2010: 82695
+- Place 2000: 21045
+- Place 1990: 4685
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 23028
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

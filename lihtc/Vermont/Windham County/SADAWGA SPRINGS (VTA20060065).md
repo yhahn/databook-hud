@@ -1,0 +1,85 @@
+# Project: SADAWGA SPRINGS (VTA20060065)
+
+- HUD ID: VTA20060065
+- HUD ID before: 
+- Project: SADAWGA SPRINGS
+- Address: 9 SCHOOL ST
+- City: WHITINGHAM
+- State: VT
+- ZIP: 05361
+- ZIP extension: 
+- State project ID: 0312
+- Latitude: 42.789623
+- Longitude: -72.884657
+- County FIPS: 50025
+- County from: 2020
+- Tract 2020: 50025968100
+- Tract 2010: 50025968100
+- Tract 2000: 50025968100
+- Tract 1990: 50025968100
+- Place 2020: 83875
+- Place 2010: 99999
+- Place 2000: 36025
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 112350
+- Units: 9
+- Low-income units: 7
+- Units reported: 9
+- Low-income reported: 7
+- Efficiencies: 1
+- 1-bedroom units: 3
+- 2-bedroom units: 3
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 192642
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: A SAFE PLACE II (ILA20110982)
+
+- HUD ID: ILA20110982
+- HUD ID before: 
+- Project: A SAFE PLACE II
+- Address: 2720 17TH ST
+- City: ZION
+- State: IL
+- ZIP: 60099
+- ZIP extension: 
+- State project ID: 1008309
+- Latitude: 42.464576
+- Longitude: -87.849117
+- County FIPS: 17097
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17097860104
+- Tract 2000: 17097860104
+- Tract 1990: 17097860102
+- Place 2020: 
+- Place 2010: 84220
+- Place 2000: 82686
+- Place 1990: 6315
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 775021
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 8
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 941955
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

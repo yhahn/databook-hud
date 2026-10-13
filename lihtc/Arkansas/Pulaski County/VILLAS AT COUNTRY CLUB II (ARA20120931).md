@@ -1,0 +1,85 @@
+# Project: VILLAS AT COUNTRY CLUB II (ARA20120931)
+
+- HUD ID: ARA20120931
+- HUD ID before: 
+- Project: VILLAS AT COUNTRY CLUB II
+- Address: 10601 RICHSMITH LN
+- City: NORTH LITTLE ROCK
+- State: AR
+- ZIP: 72113
+- ZIP extension: 
+- State project ID: AR-10-17
+- Latitude: 34.842357
+- Longitude: -92.382264
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119004307
+- Tract 2010: 05119004303
+- Tract 2000: 05119004303
+- Tract 1990: 05119004301
+- Place 2020: 50450
+- Place 2010: 50450
+- Place 2000: 44600
+- Place 1990: 1337
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 51
+- Low-income units: 41
+- Units reported: 51
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000550, ARA0000240.
+- Record status: Existing, unchanged

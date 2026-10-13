@@ -1,0 +1,85 @@
+# Project: CYPRESS AVENUE APARTMENTS (NYC20221015)
+
+- HUD ID: NYC20221015
+- HUD ID before: 
+- Project: CYPRESS AVENUE APARTMENTS
+- Address: 80-97 CYPRESS AVENUE
+- City: QUEENS
+- State: NY
+- ZIP: 11385
+- ZIP extension: 
+- State project ID: NY 20 02 006
+- Latitude: 40.69266
+- Longitude: -73.894241
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081056500
+- Tract 2010: 36081056500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1517997
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 46
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Mental Health
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

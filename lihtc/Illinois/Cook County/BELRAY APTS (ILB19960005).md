@@ -1,0 +1,85 @@
+# Project: BELRAY APTS (ILB19960005)
+
+- HUD ID: ILB19960005
+- HUD ID before: 
+- Project: BELRAY APTS
+- Address: 3150 N RACINE AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60657
+- ZIP extension: 
+- State project ID: IL-TC-95
+- Latitude: 41.939456
+- Longitude: -87.659169
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031062800
+- Tract 2010: 17031062800
+- Tract 2000: 17031062800
+- Tract 1990: 17031062800
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 70
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

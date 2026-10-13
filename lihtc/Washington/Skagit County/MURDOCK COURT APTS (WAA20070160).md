@@ -1,0 +1,85 @@
+# Project: MURDOCK COURT APTS (WAA20070160)
+
+- HUD ID: WAA20070160
+- HUD ID before: 
+- Project: MURDOCK COURT APTS
+- Address: 123 N MURDOCK ST
+- City: SEDRO WOOLLEY
+- State: WA
+- ZIP: 98284
+- ZIP extension: 
+- State project ID: WA-06-00414
+- Latitude: 48.511407
+- Longitude: -122.236472
+- County FIPS: 53057
+- County from: 2020
+- Tract 2020: 53057951503
+- Tract 2010: 53057951500
+- Tract 2000: 53057951500
+- Tract 1990: 53057951500
+- Place 2020: 63210
+- Place 2010: 63210
+- Place 2000: 63210
+- Place 1990: 1150
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 179198
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 18
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ISLAND SKAGIT PARTNERS RD.
+- Record status: Existing, unchanged

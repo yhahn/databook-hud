@@ -1,0 +1,85 @@
+# Project: COOPER STREET CLUSTER (NYC20090050)
+
+- HUD ID: NYC20090050
+- HUD ID before: 
+- Project: COOPER STREET CLUSTER
+- Address: 619 CENTRAL AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11207
+- ZIP extension: 
+- State project ID: NY-09-041
+- Latitude: 40.68858
+- Longitude: -73.908091
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047041100
+- Tract 2010: 36047041100
+- Tract 2000: 36047041100
+- Tract 1990: 36047041100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 128294
+- Units: 6
+- Low-income units: 5
+- Units reported: 6
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 240931
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

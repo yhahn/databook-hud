@@ -1,0 +1,85 @@
+# Project: DUXBERRY LANDING (OHA20129183)
+
+- HUD ID: OHA20129183
+- HUD ID before: 
+- Project: DUXBERRY LANDING
+- Address: 3443 AGLER ROAD SUITE 101
+- City: COLUMBUS
+- State: OH
+- ZIP: 43211
+- ZIP extension: 
+- State project ID: 110130
+- Latitude: 40.020516
+- Longitude: -82.918255
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049007550
+- Tract 2010: 39049007550
+- Tract 2000: 39049000730
+- Tract 1990: 39049000730
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 35
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: OAK HARBOR (FLA20120090)
+
+- HUD ID: FLA20120090
+- HUD ID before: 
+- Project: OAK HARBOR
+- Address: 5770 HARBOR CHASE CIRCLE
+- City: ORLANDO
+- State: FL
+- ZIP: 32839
+- ZIP extension: 
+- State project ID: 554
+- Latitude: 28.478225
+- Longitude: -81.430152
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016909
+- Tract 2010: 12095016903
+- Tract 2000: 12095016903
+- Tract 1990: 12095014500
+- Place 2020: 50638
+- Place 2010: 50638
+- Place 2000: 50638
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 522522
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 88
+- 3-bedroom units: 88
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

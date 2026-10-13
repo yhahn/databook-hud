@@ -1,0 +1,85 @@
+# Project: SUNSET PALM (CAA00000211)
+
+- HUD ID: CAA00000211
+- HUD ID before: 
+- Project: SUNSET PALM
+- Address: 1433 N INDIAN CANYON DR
+- City: PALM SPRINGS
+- State: CA
+- ZIP: 92262
+- ZIP extension: 
+- State project ID: CA1012-073
+- Latitude: 33.842293
+- Longitude: -116.545788
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065044606
+- Tract 2010: 06065044606
+- Tract 2000: 06065044601
+- Tract 1990: 06065044600
+- Place 2020: 55254
+- Place 2010: 55254
+- Place 2000: 55254
+- Place 1990: 2085
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

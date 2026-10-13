@@ -1,0 +1,85 @@
+# Project: ITHICA HEIGHTS (NDA19970025)
+
+- HUD ID: NDA19970025
+- HUD ID before: 
+- Project: ITHICA HEIGHTS
+- Address: 2820 ITHICA DR
+- City: BISMARCK
+- State: ND
+- ZIP: 58503
+- ZIP extension: 
+- State project ID: 95-09
+- Latitude: 46.835971
+- Longitude: -100.803597
+- County FIPS: 38015
+- County from: 2020
+- Tract 2020: 38015011103
+- Tract 2010: 38015011103
+- Tract 2000: 38015011102
+- Tract 1990: 38015011000
+- Place 2020: 07200
+- Place 2010: 07200
+- Place 2000: 07200
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 211954
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 25
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

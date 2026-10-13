@@ -1,0 +1,85 @@
+# Project: SOMERSET SQUARE #1726 (NJA20213029)
+
+- HUD ID: NJA20213029
+- HUD ID before: 
+- Project: SOMERSET SQUARE #1726
+- Address: 1 SHEPHERD ST
+- City: SOMERSET
+- State: NJ
+- ZIP: 08873
+- ZIP extension: 3585
+- State project ID: 03457-1
+- Latitude: 40.5184
+- Longitude: -74.5277
+- County FIPS: 34035
+- County from: 2020
+- Tract 2020: 34035053300
+- Tract 2010: 34035054300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76250
+- Place 2010: 24965
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1990222
+- Units: 139
+- Low-income units: 83
+- Units reported: 139
+- Low-income reported: 83
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 47
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

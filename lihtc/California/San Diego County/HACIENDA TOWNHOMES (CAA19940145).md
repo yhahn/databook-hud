@@ -1,0 +1,85 @@
+# Project: HACIENDA TOWNHOMES (CAA19940145)
+
+- HUD ID: CAA19940145
+- HUD ID before: 
+- Project: HACIENDA TOWNHOMES
+- Address: 350 17TH ST
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92101
+- ZIP extension: 
+- State project ID: CA-92-058
+- Latitude: 32.7084
+- Longitude: -117.148723
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073005101
+- Tract 2010: 06073005100
+- Tract 2000: 06073005100
+- Tract 1990: 06073005100
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 579066
+- Units: 52
+- Low-income units: 51
+- Units reported: 52
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 27
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

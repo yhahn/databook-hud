@@ -1,0 +1,85 @@
+# Project: ANDREWS POINTE (MNA20110813)
+
+- HUD ID: MNA20110813
+- HUD ID before: 
+- Project: ANDREWS POINTE
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: BURNSVILLE
+- State: MN
+- ZIP: 55337
+- ZIP extension: 
+- State project ID: D0251
+- Latitude: 44.793464
+- Longitude: -93.24513
+- County FIPS: 27037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27037060747
+- Tract 2000: 27037060702
+- Tract 1990: 27037060702
+- Place 2020: 
+- Place 2010: 08794
+- Place 2000: 08794
+- Place 1990: 0537
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 478358
+- Units: 57
+- Low-income units: 57
+- Units reported: 57
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 29
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: Yes
+- HOPE VI amount: 500000
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA1994010, MNA1994005, MNA0000507, MNA0000007. FKA ANDREW'S POINTE-II
+- Record status: Existing, unchanged

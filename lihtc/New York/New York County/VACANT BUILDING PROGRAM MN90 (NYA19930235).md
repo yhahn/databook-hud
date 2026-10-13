@@ -1,0 +1,85 @@
+# Project: VACANT BUILDING PROGRAM MN90 (NYA19930235)
+
+- HUD ID: NYA19930235
+- HUD ID before: 
+- Project: VACANT BUILDING PROGRAM MN90
+- Address: 2268 FREDERICK DOUGLASS BLVD
+- City: NEW YORK
+- State: NY
+- ZIP: 10027
+- ZIP extension: 
+- State project ID: NY-94-0144_00534
+- Latitude: 40.80796
+- Longitude: -73.952536
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061022000
+- Tract 2010: 36061022000
+- Tract 2000: 36061022000
+- Tract 1990: 36061022000
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 113
+- Low-income units: 52
+- Units reported: 113
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

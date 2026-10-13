@@ -1,0 +1,85 @@
+# Project: WHISPERING PINES II (CTA20000040)
+
+- HUD ID: CTA20000040
+- HUD ID before: 
+- Project: WHISPERING PINES II
+- Address: 100 WHISPERING PINES RD
+- City: AVON
+- State: CT
+- ZIP: 06001
+- ZIP extension: 
+- State project ID: CT-98-010
+- Latitude: 41.812976
+- Longitude: -72.843006
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003462201
+- Tract 2010: 09003462201
+- Tract 2000: 09003462201
+- Tract 1990: 09003462201
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 29
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA0000420. AKA WHISPERING PINES II ASSOC.
+- Record status: Existing, unchanged

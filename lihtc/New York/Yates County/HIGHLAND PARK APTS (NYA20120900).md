@@ -1,0 +1,85 @@
+# Project: HIGHLAND PARK APTS (NYA20120900)
+
+- HUD ID: NYA20120900
+- HUD ID before: 
+- Project: HIGHLAND PARK APTS
+- Address: 65 HIGHLAND DR
+- City: DUNDEE
+- State: NY
+- ZIP: 14837
+- ZIP extension: 
+- State project ID: 20116026
+- Latitude: 42.526484
+- Longitude: -76.981949
+- County FIPS: 36123
+- County from: 2020
+- Tract 2020: 36123150101
+- Tract 2010: 36123150100
+- Tract 2000: 36123990100
+- Tract 1990: 36123990100
+- Place 2020: 21050
+- Place 2010: 21050
+- Place 2000: 20896
+- Place 1990: 0950
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 580053
+- Units: 91
+- Low-income units: 91
+- Units reported: 91
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 29
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 76
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

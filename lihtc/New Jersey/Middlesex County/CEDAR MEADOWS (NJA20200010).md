@@ -1,0 +1,85 @@
+# Project: CEDAR MEADOWS (NJA20200010)
+
+- HUD ID: NJA20200010
+- HUD ID before: 
+- Project: CEDAR MEADOWS
+- Address: 1462 RAHWAY AVENUE
+- City: WOODBRIDGE
+- State: NJ
+- ZIP: 07095
+- ZIP extension: 
+- State project ID: 1761
+- Latitude: 40.5554
+- Longitude: -74.288
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023003001
+- Tract 2010: 34023003001
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 81950
+- Place 2010: 81950
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 824872
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

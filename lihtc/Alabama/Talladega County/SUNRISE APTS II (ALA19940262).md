@@ -1,0 +1,85 @@
+# Project: SUNRISE APTS II (ALA19940262)
+
+- HUD ID: ALA19940262
+- HUD ID before: 
+- Project: SUNRISE APTS II
+- Address: 613 BROADWAY AVE
+- City: TALLADEGA
+- State: AL
+- ZIP: 35160
+- ZIP extension: 
+- State project ID: AL-94-0006
+- Latitude: 33.45631
+- Longitude: -86.087518
+- County FIPS: 01121
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01121010500
+- Tract 2000: 01121010500
+- Tract 1990: 01121010500
+- Place 2020: 
+- Place 2010: 74592
+- Place 2000: 74592
+- Place 1990: 1655
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 70000
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 38
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 50
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1995140. AKA TKC SUNRISE II HOUSING.
+- Record status: Existing, unchanged

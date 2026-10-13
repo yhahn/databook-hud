@@ -1,0 +1,85 @@
+# Project: VILLAS OF WAYNE TRAIL (OHA20070175)
+
+- HUD ID: OHA20070175
+- HUD ID before: 
+- Project: VILLAS OF WAYNE TRAIL
+- Address: 801 VILLAGE LN
+- City: DEFIANCE
+- State: OH
+- ZIP: 43512
+- ZIP extension: 
+- State project ID: 050095
+- Latitude: 41.262694
+- Longitude: -84.392342
+- County FIPS: 39039
+- County from: 2020
+- Tract 2020: 39039958600
+- Tract 2010: 39039958600
+- Tract 2000: 39039958600
+- Tract 1990: 39039958600
+- Place 2020: 21308
+- Place 2010: 21308
+- Place 2000: 21308
+- Place 1990: 1125
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 464526
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

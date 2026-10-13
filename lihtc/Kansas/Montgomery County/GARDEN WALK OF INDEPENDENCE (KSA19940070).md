@@ -1,0 +1,85 @@
+# Project: GARDEN WALK OF INDEPENDENCE (KSA19940070)
+
+- HUD ID: KSA19940070
+- HUD ID before: 
+- Project: GARDEN WALK OF INDEPENDENCE
+- Address: 1710 N TENTH ST
+- City: INDEPENDENCE
+- State: KS
+- ZIP: 67301
+- ZIP extension: 
+- State project ID: 60257
+- Latitude: 37.241807
+- Longitude: -95.71058
+- County FIPS: 20125
+- County from: 2020
+- Tract 2020: 20125950300
+- Tract 2010: 20125950300
+- Tract 2000: 20125950300
+- Tract 1990: 20125950300
+- Place 2020: 33875
+- Place 2010: 33875
+- Place 2000: 33875
+- Place 1990: 1355
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 36310
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VILLAGE NORTH I.
+- Record status: Existing, unchanged

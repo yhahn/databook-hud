@@ -1,0 +1,85 @@
+# Project: ANTIOCH TOWERS (OHA20040003)
+
+- HUD ID: OHA20040003
+- HUD ID before: 
+- Project: ANTIOCH TOWERS
+- Address: 8920 CARNEGIE AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44106
+- ZIP extension: 
+- State project ID: OH-02-0140
+- Latitude: 41.500879
+- Longitude: -81.624371
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035197200
+- Tract 2010: 39035113101
+- Tract 2000: 39035113200
+- Tract 1990: 39035113200
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 336592
+- Units: 171
+- Low-income units: 171
+- Units reported: 171
+- Low-income reported: 171
+- Efficiencies: 0
+- 1-bedroom units: 148
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2002025. AKA CARNEGIE TOWERS AT FAIRFAX.
+- Record status: Existing, unchanged

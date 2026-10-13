@@ -1,0 +1,85 @@
+# Project: THE ARBORS AT OAK PARK (CAA20130065)
+
+- HUD ID: CAA20130065
+- HUD ID before: 
+- Project: THE ARBORS AT OAK PARK
+- Address: 3820 BROADWAY
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95817
+- ZIP extension: 
+- State project ID: CA-11-110
+- Latitude: 38.547026
+- Longitude: -121.46474
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067002800
+- Tract 2010: 06067002800
+- Tract 2000: 06067002800
+- Tract 1990: 06067002800
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 64000
+- Place 1990: 2420
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 788019
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 55
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 55
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1580000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

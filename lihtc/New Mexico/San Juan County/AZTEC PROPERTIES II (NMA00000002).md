@@ -1,0 +1,85 @@
+# Project: AZTEC PROPERTIES II (NMA00000002)
+
+- HUD ID: NMA00000002
+- HUD ID before: 
+- Project: AZTEC PROPERTIES II
+- Address: 401 S PARK AVE
+- City: AZTEC
+- State: NM
+- ZIP: 87410
+- ZIP extension: 
+- State project ID: 00165
+- Latitude: 36.819017
+- Longitude: -107.998115
+- County FIPS: 35045
+- County from: 2020
+- Tract 2020: 35045000609
+- Tract 2010: 35045000609
+- Tract 2000: 35045000606
+- Tract 1990: 35045000100
+- Place 2020: 05780
+- Place 2010: 05780
+- Place 2000: 05780
+- Place 1990: 0135
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

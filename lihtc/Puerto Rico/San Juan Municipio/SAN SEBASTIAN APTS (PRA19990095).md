@@ -1,0 +1,85 @@
+# Project: SAN SEBASTIAN APTS (PRA19990095)
+
+- HUD ID: PRA19990095
+- HUD ID before: 
+- Project: SAN SEBASTIAN APTS
+- Address: TANCA 50
+- City: SAN JUAN
+- State: PR
+- ZIP: 
+- ZIP extension: 
+- State project ID: 98-009
+- Latitude: 
+- Longitude: 
+- County FIPS: 72127
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 58845
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 9
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA1999030. AKA SAN SEBASTIAN APT.
+- Record status: Existing, unchanged

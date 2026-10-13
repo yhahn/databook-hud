@@ -1,0 +1,85 @@
+# Project: SETON VILLAGE SENIOR HOUSING (NYA20050135)
+
+- HUD ID: NYA20050135
+- HUD ID before: 
+- Project: SETON VILLAGE SENIOR HOUSING
+- Address: 146 CONVENT RD
+- City: NANUET
+- State: NY
+- ZIP: 10954
+- ZIP extension: 
+- State project ID: 20010861
+- Latitude: 41.087833
+- Longitude: -74.031782
+- County FIPS: 36087
+- County from: 2020
+- Tract 2020: 36087011302
+- Tract 2010: 36087011302
+- Tract 2000: 36087011302
+- Tract 1990: 36087011300
+- Place 2020: 49407
+- Place 2010: 49407
+- Place 2000: 49407
+- Place 1990: 2407
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA2003180.
+- Record status: Existing, unchanged

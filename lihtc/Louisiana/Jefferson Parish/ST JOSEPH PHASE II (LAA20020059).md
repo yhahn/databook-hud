@@ -1,0 +1,85 @@
+# Project: ST JOSEPH PHASE II (LAA20020059)
+
+- HUD ID: LAA20020059
+- HUD ID before: 
+- Project: ST JOSEPH PHASE II
+- Address: 606 7TH ST, 735 NEWTON ST, 738 LAFAYETTE ST
+- City: GRETNA
+- State: LA
+- ZIP: 70053
+- ZIP extension: 0000
+- State project ID: LA-00-087
+- Latitude: 29.914293
+- Longitude: -90.060955
+- County FIPS: 22051
+- County from: 2020
+- Tract 2020: 22051025900
+- Tract 2010: 22051025900
+- Tract 2000: 22051025900
+- Tract 1990: 22051025900
+- Place 2020: 31915
+- Place 2010: 31915
+- Place 2000: 31915
+- Place 1990: 0525
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 198212
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

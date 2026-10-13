@@ -1,0 +1,85 @@
+# Project: EVERGOOD APTS (MSA19900122)
+
+- HUD ID: MSA19900122
+- HUD ID before: 
+- Project: EVERGOOD APTS
+- Address: 619 CARROLLTON AVE
+- City: GREENWOOD
+- State: MS
+- ZIP: 38930
+- ZIP extension: 
+- State project ID: 
+- Latitude: 33.517551
+- Longitude: -90.174994
+- County FIPS: 28083
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 28083950900
+- Tract 2000: 28083950800
+- Tract 1990: 28083950800
+- Place 2020: 
+- Place 2010: 29340
+- Place 2000: 29340
+- Place 1990: 0505
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA0000250.
+- Record status: Existing, unchanged

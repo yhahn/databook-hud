@@ -1,0 +1,85 @@
+# Project: EAST SIDE COMMONS (MNB20123001)
+
+- HUD ID: MNB20123001
+- HUD ID before: 
+- Project: EAST SIDE COMMONS
+- Address: 868 BRADLEY STREET NORTH
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55130
+- ZIP extension: 4193
+- State project ID: D6257
+- Latitude: 44.966831
+- Longitude: -93.078366
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123031500
+- Tract 2010: 27123031500
+- Tract 2000: 27123031500
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 58000
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 867468
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 4
+- 1-bedroom units: 3
+- 2-bedroom units: 18
+- 3-bedroom units: 20
+- 4-bedroom units: 6
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 2860000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 850000
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: N/A
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

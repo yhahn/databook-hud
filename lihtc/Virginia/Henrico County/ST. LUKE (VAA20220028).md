@@ -1,0 +1,85 @@
+# Project: ST. LUKE (VAA20220028)
+
+- HUD ID: VAA20220028
+- HUD ID before: 
+- Project: ST. LUKE
+- Address: 3901 PILOT LANE
+- City: RICHMOND
+- State: VA
+- ZIP: 23222
+- ZIP extension: 
+- State project ID: 5305
+- Latitude: 37.587026
+- Longitude: -77.431693
+- County FIPS: 51087
+- County from: 2020
+- Tract 2020: 51087200805
+- Tract 2010: 51087200805
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 3655590
+- Units: 496
+- Low-income units: 496
+- Units reported: 496
+- Low-income reported: 496
+- Efficiencies: 
+- 1-bedroom units: 80
+- 2-bedroom units: 208
+- 3-bedroom units: 208
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 298
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MORNINGVIEW APTS (ALA19930070)
+
+- HUD ID: ALA19930070
+- HUD ID before: 
+- Project: MORNINGVIEW APTS
+- Address: 80 TURNER PL
+- City: MONTGOMERY
+- State: AL
+- ZIP: 36109
+- ZIP extension: 
+- State project ID: AL-91-0006
+- Latitude: 32.385528
+- Longitude: -86.265224
+- County FIPS: 01101
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01101001800
+- Tract 2000: 01101001800
+- Tract 1990: 01101001800
+- Place 2020: 
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 1180
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 116
+- Low-income units: 116
+- Units reported: 116
+- Low-income reported: 116
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

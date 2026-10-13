@@ -1,0 +1,85 @@
+# Project: CANYON CREEK APTS (AZA19989106)
+
+- HUD ID: AZA19989106
+- HUD ID before: 
+- Project: CANYON CREEK APTS
+- Address: 901 N CALIFORNIA ST
+- City: COOLIDGE
+- State: AZ
+- ZIP: 85128
+- ZIP extension: 
+- State project ID: TC-0136
+- Latitude: 32.986778
+- Longitude: -111.513874
+- County FIPS: 04021
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04021001000
+- Tract 2000: 04021001000
+- Tract 1990: 04021001000
+- Place 2020: 
+- Place 2010: 15500
+- Place 2000: 15500
+- Place 1990: 0070
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 7
+- 3-bedroom units: 10
+- 4-bedroom units: 6
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000530.
+- Record status: Existing, unchanged

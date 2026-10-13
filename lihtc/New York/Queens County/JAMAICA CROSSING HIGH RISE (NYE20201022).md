@@ -1,0 +1,85 @@
+# Project: JAMAICA CROSSING HIGH RISE (NYE20201022)
+
+- HUD ID: NYE20201022
+- HUD ID before: 
+- Project: JAMAICA CROSSING HIGH RISE
+- Address: 147-40 ARCHER AVENUE
+- City: JAMAICA
+- State: NY
+- ZIP: 11435
+- ZIP extension: 
+- State project ID: 27-0000040
+- Latitude: 40.700678
+- Longitude: -73.806559
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081020800
+- Tract 2010: 36081020800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 2053662
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 14
+- 1-bedroom units: 37
+- 2-bedroom units: 35
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

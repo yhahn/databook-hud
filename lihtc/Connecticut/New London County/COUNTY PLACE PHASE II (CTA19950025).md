@@ -1,0 +1,85 @@
+# Project: COUNTY PLACE PHASE II (CTA19950025)
+
+- HUD ID: CTA19950025
+- HUD ID before: 
+- Project: COUNTY PLACE PHASE II
+- Address: 1 COBBLE WAY
+- City: COLCHESTER
+- State: CT
+- ZIP: 06415
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.571483
+- Longitude: -72.308178
+- County FIPS: 09011
+- County from: 2020
+- Tract 2020: 09011714104
+- Tract 2010: 09011714104
+- Tract 2000: 09011714102
+- Tract 1990: 09011714102
+- Place 2020: 15840
+- Place 2010: 15840
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 82
+- Low-income units: 82
+- Units reported: 82
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 20
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

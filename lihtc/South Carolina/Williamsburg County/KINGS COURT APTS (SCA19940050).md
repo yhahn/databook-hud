@@ -1,0 +1,85 @@
+# Project: KINGS COURT APTS (SCA19940050)
+
+- HUD ID: SCA19940050
+- HUD ID before: 
+- Project: KINGS COURT APTS
+- Address: 515 FLUITT ST
+- City: KINGSTREE
+- State: SC
+- ZIP: 29556
+- ZIP extension: 
+- State project ID: SC-93-009
+- Latitude: 33.658026
+- Longitude: -79.82551
+- County FIPS: 45089
+- County from: 2020
+- Tract 2020: 45089970501
+- Tract 2010: 45089970501
+- Tract 2000: 45089970501
+- Tract 1990: 45089970500
+- Place 2020: 38590
+- Place 2010: 38590
+- Place 2000: 38590
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 61679
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

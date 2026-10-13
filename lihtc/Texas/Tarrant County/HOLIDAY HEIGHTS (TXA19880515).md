@@ -1,0 +1,85 @@
+# Project: HOLIDAY HEIGHTS (TXA19880515)
+
+- HUD ID: TXA19880515
+- HUD ID before: 
+- Project: HOLIDAY HEIGHTS
+- Address: 5541 DAVIS BLVD
+- City: NORTH RICHLAND HILLS
+- State: TX
+- ZIP: 76180
+- ZIP extension: 
+- State project ID: TX6426
+- Latitude: 32.847921
+- Longitude: -97.214438
+- County FIPS: 48439
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48439113217
+- Tract 2000: 48439113217
+- Tract 1990: 48439113209
+- Place 2020: 
+- Place 2010: 52356
+- Place 2000: 52356
+- Place 1990: 3050
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 44
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Existing
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

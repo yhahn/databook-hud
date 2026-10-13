@@ -1,0 +1,85 @@
+# Project: ALSTEAD SENIOR HOUSING (NHA20070005)
+
+- HUD ID: NHA20070005
+- HUD ID before: 
+- Project: ALSTEAD SENIOR HOUSING
+- Address: 49 PLEASANT ST
+- City: ALSTEAD
+- State: NH
+- ZIP: 03602
+- ZIP extension: 
+- State project ID: 3100
+- Latitude: 43.153244
+- Longitude: -72.361039
+- County FIPS: 33005
+- County from: 2020
+- Tract 2020: 33005970100
+- Tract 2010: 33005970100
+- Tract 2000: 33005970100
+- Tract 1990: 33005970100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 148365
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 739000
+- CDBG: Yes
+- CDBG amount: 650000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

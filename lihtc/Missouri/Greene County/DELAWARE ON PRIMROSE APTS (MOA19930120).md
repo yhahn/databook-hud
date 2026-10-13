@@ -1,0 +1,85 @@
+# Project: DELAWARE ON PRIMROSE APTS (MOA19930120)
+
+- HUD ID: MOA19930120
+- HUD ID before: 
+- Project: DELAWARE ON PRIMROSE APTS
+- Address: 1717 E PRIMROSE ST
+- City: SPRINGFIELD
+- State: MO
+- ZIP: 65804
+- ZIP extension: 
+- State project ID: 92020
+- Latitude: 37.148909
+- Longitude: -93.264278
+- County FIPS: 29077
+- County from: 2020
+- Tract 2020: 29077002700
+- Tract 2010: 29077002700
+- Tract 2000: 29077002700
+- Tract 1990: 29077002700
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 4075
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 104
+- 2-bedroom units: 56
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

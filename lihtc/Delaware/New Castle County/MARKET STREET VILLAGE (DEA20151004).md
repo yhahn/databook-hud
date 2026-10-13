@@ -1,0 +1,85 @@
+# Project: MARKET STREET VILLAGE (DEA20151004)
+
+- HUD ID: DEA20151004
+- HUD ID before: 
+- Project: MARKET STREET VILLAGE
+- Address: 838 NORTH MARKET STREET
+- City: WILMINGTON
+- State: DE
+- ZIP: 19801
+- ZIP extension: 
+- State project ID: 1511-1
+- Latitude: 39.743801
+- Longitude: -75.548751
+- County FIPS: 10003
+- County from: 2020
+- Tract 2020: 10003002800
+- Tract 2010: 10003002800
+- Tract 2000: 10003001900
+- Tract 1990: 
+- Place 2020: 77580
+- Place 2010: 77580
+- Place 2000: 77580
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 63
+- Units reported: 76
+- Low-income reported: 63
+- Efficiencies: 17
+- 1-bedroom units: 59
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

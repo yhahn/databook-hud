@@ -1,0 +1,85 @@
+# Project: LAWTON POINTE APTS (OKA20060025)
+
+- HUD ID: OKA20060025
+- HUD ID before: 
+- Project: LAWTON POINTE APTS
+- Address: 2201 NW HOOVER AVE
+- City: LAWTON
+- State: OK
+- ZIP: 73505
+- ZIP extension: 
+- State project ID: 040118
+- Latitude: 34.633929
+- Longitude: -98.425983
+- County FIPS: 40031
+- County from: 2020
+- Tract 2020: 40031000200
+- Tract 2010: 40031000200
+- Tract 2000: 40031000200
+- Tract 1990: 40031000200
+- Place 2020: 41850
+- Place 2010: 41850
+- Place 2000: 41850
+- Place 1990: 1405
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 402844
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

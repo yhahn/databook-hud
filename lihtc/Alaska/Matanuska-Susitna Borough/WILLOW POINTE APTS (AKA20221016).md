@@ -1,0 +1,85 @@
+# Project: WILLOW POINTE APTS (AKA20221016)
+
+- HUD ID: AKA20221016
+- HUD ID before: 
+- Project: WILLOW POINTE APTS
+- Address: 925 SOUTH CHUGACH
+- City: PALMER
+- State: AK
+- ZIP: 99645
+- ZIP extension: 
+- State project ID: AK-93-02
+- Latitude: 61.596075
+- Longitude: -149.110388
+- County FIPS: 02170
+- County from: 2020
+- Tract 2020: 02170001201
+- Tract 2010: 02170001201
+- Tract 2000: 02170001200
+- Tract 1990: 
+- Place 2020: 58660
+- Place 2010: 58660
+- Place 2000: 58660
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

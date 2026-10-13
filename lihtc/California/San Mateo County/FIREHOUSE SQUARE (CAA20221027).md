@@ -1,0 +1,85 @@
+# Project: FIREHOUSE SQUARE (CAA20221027)
+
+- HUD ID: CAA20221027
+- HUD ID before: 
+- Project: FIREHOUSE SQUARE
+- Address: 1300 EL CAMINO REAL
+- City: BELMONT
+- State: CA
+- ZIP: 94002
+- ZIP extension: 
+- State project ID: CA-2020-406
+- Latitude: 37.518492
+- Longitude: -122.273992
+- County FIPS: 06081
+- County from: 2020
+- Tract 2020: 06081609000
+- Tract 2010: 06081609000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 05108
+- Place 2010: 05108
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2395874
+- Units: 66
+- Low-income units: 65
+- Units reported: 66
+- Low-income reported: 65
+- Efficiencies: 18
+- 1-bedroom units: 12
+- 2-bedroom units: 19
+- 3-bedroom units: 17
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

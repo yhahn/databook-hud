@@ -1,0 +1,85 @@
+# Project: PARK PLACE OF HARPER WOODS (MIA20130015)
+
+- HUD ID: MIA20130015
+- HUD ID before: 
+- Project: PARK PLACE OF HARPER WOODS
+- Address: 19460 PARK DR
+- City: HARPER WOODS
+- State: MI
+- ZIP: 48225
+- ZIP extension: 
+- State project ID: MI-3511
+- Latitude: 42.428576
+- Longitude: -82.922004
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163551300
+- Tract 2010: 26163551300
+- Tract 2000: 26163551300
+- Tract 1990: 26163551300
+- Place 2020: 36700
+- Place 2010: 36700
+- Place 2000: 36700
+- Place 1990: 1170
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1175216
+- Units: 132
+- Low-income units: 131
+- Units reported: 132
+- Low-income reported: 131
+- Efficiencies: 0
+- 1-bedroom units: 131
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

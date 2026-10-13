@@ -1,0 +1,85 @@
+# Project: HALE MAKANA O WAIALE (HIA19979001)
+
+- HUD ID: HIA19979001
+- HUD ID before: 
+- Project: HALE MAKANA O WAIALE
+- Address: 195 WAIMALUHIA LN
+- City: WAILUKU
+- State: HI
+- ZIP: 96793
+- ZIP extension: 
+- State project ID: HI-1997-002
+- Latitude: 20.87254
+- Longitude: -156.49801
+- County FIPS: 15009
+- County from: 2020
+- Tract 2020: 15009031107
+- Tract 2010: 15009031101
+- Tract 2000: 15009031101
+- Tract 1990: 
+- Place 2020: 22700
+- Place 2010: 22700
+- Place 2000: 22700
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 477777
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 24
+- 1-bedroom units: 0
+- 2-bedroom units: 128
+- 3-bedroom units: 32
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

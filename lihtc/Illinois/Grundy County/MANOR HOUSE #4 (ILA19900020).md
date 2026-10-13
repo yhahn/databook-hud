@@ -1,0 +1,85 @@
+# Project: MANOR HOUSE #4 (ILA19900020)
+
+- HUD ID: ILA19900020
+- HUD ID before: 
+- Project: MANOR HOUSE #4
+- Address: 2304 ASHLAND DR
+- City: MORRIS
+- State: IL
+- ZIP: 60450
+- ZIP extension: 
+- State project ID: 31090
+- Latitude: 41.380671
+- Longitude: -88.430747
+- County FIPS: 17063
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17063000200
+- Tract 2000: 17063000200
+- Tract 1990: 17063000200
+- Place 2020: 
+- Place 2010: 50491
+- Place 2000: 50491
+- Place 1990: 3845
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 15021
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

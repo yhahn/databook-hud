@@ -1,0 +1,85 @@
+# Project: HERITAGE COTTAGES PHASE II (WIA20100942)
+
+- HUD ID: WIA20100942
+- HUD ID before: 
+- Project: HERITAGE COTTAGES PHASE II
+- Address: 7 IVY GREEN
+- City: HUDSON
+- State: WI
+- ZIP: 54016
+- ZIP extension: 
+- State project ID: 5512
+- Latitude: 44.95163
+- Longitude: -92.697272
+- County FIPS: 55109
+- County from: 2020
+- Tract 2020: 55109120905
+- Tract 2010: 55109120903
+- Tract 2000: 55109120900
+- Tract 1990: 55109120900
+- Place 2020: 36250
+- Place 2010: 36250
+- Place 2000: 36250
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 22
+- Low-income units: 15
+- Units reported: 22
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 403500
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AUTUMN WOODS PHASE I (MDA20000055)
+
+- HUD ID: MDA20000055
+- HUD ID before: 
+- Project: AUTUMN WOODS PHASE I
+- Address: 5033 57TH AVE
+- City: BLADENSBURG
+- State: MD
+- ZIP: 20710
+- ZIP extension: 
+- State project ID: MD99-11
+- Latitude: 38.948666
+- Longitude: -76.914909
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033804001
+- Tract 2010: 24033804001
+- Tract 2000: 24033804001
+- Tract 1990: 24033804001
+- Place 2020: 07850
+- Place 2010: 07850
+- Place 2000: 07850
+- Place 1990: 0075
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 366
+- Low-income units: 366
+- Units reported: 366
+- Low-income reported: 366
+- Efficiencies: 3
+- 1-bedroom units: 120
+- 2-bedroom units: 167
+- 3-bedroom units: 76
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA0000070.
+- Record status: Existing, unchanged

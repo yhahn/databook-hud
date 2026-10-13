@@ -1,0 +1,85 @@
+# Project: PALMER SQUARE (CTA00000036)
+
+- HUD ID: CTA00000036
+- HUD ID before: 
+- Project: PALMER SQUARE
+- Address: 15 STONERIDGE CIR
+- City: STAMFORD
+- State: CT
+- ZIP: 06902
+- ZIP extension: 
+- State project ID: TEMP56
+- Latitude: 41.058793
+- Longitude: -73.560758
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001021402
+- Tract 2010: 09001021400
+- Tract 2000: 09001021400
+- Tract 1990: 09001021400
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 2180
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1005913
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

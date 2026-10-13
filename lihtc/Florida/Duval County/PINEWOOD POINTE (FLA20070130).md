@@ -1,0 +1,85 @@
+# Project: PINEWOOD POINTE (FLA20070130)
+
+- HUD ID: FLA20070130
+- HUD ID before: 
+- Project: PINEWOOD POINTE
+- Address: 1801 KERNAN BLVD S
+- City: JACKSONVILLE
+- State: FL
+- ZIP: 32246
+- ZIP extension: 
+- State project ID: 637
+- Latitude: 30.315133
+- Longitude: -81.489011
+- County FIPS: 12031
+- County from: 2020
+- Tract 2020: 12031014344
+- Tract 2010: 12031014337
+- Tract 2000: 12031014313
+- Tract 1990: 12031014312
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1003
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 437616
+- Units: 136
+- Low-income units: 136
+- Units reported: 136
+- Low-income reported: 136
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 136
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1991060.
+- Record status: Existing, unchanged

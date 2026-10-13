@@ -1,0 +1,85 @@
+# Project: DEER HOLLOW (PAA20000045)
+
+- HUD ID: PAA20000045
+- HUD ID before: 
+- Project: DEER HOLLOW
+- Address: 925 HIGH ST
+- City: WEST MILTON
+- State: PA
+- ZIP: 17886
+- ZIP extension: 
+- State project ID: TC19990039
+- Latitude: 41.019637
+- Longitude: -76.877171
+- County FIPS: 42119
+- County from: 2020
+- Tract 2020: 42119090102
+- Tract 2010: 42119090102
+- Tract 2000: 42119990100
+- Tract 1990: 42119990100
+- Place 2020: 83520
+- Place 2010: 83520
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 219812
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

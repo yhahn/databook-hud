@@ -1,0 +1,85 @@
+# Project: ANNUNCIATION TERRACE (OHA19990005)
+
+- HUD ID: OHA19990005
+- HUD ID before: 
+- Project: ANNUNCIATION TERRACE
+- Address: 25 BROAD ST
+- City: AKRON
+- State: OH
+- ZIP: 44305
+- ZIP extension: 
+- State project ID: 97-0063
+- Latitude: 41.071776
+- Longitude: -81.488532
+- County FIPS: 39153
+- County from: 2020
+- Tract 2020: 39153502500
+- Tract 2010: 39153502500
+- Tract 2000: 39153502500
+- Tract 1990: 39153502500
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0035
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 293836
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 301000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

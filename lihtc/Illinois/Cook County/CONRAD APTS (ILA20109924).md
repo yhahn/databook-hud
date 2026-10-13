@@ -1,0 +1,85 @@
+# Project: CONRAD APTS (ILA20109924)
+
+- HUD ID: ILA20109924
+- HUD ID before: 
+- Project: CONRAD APTS
+- Address: 4831 CONRAD ST
+- City: SKOKIE
+- State: IL
+- ZIP: 60077
+- ZIP extension: 
+- State project ID: 1023410
+- Latitude: 42.037857
+- Longitude: -87.748521
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031807300
+- Tract 2010: 17031807300
+- Tract 2000: 17031807300
+- Tract 1990: 17031807300
+- Place 2020: 70122
+- Place 2010: 70122
+- Place 2000: 70122
+- Place 1990: 5365
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 4000000
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4000000
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

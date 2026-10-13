@@ -1,0 +1,85 @@
+# Project: FIRCREST MANOR (ORA20000040)
+
+- HUD ID: ORA20000040
+- HUD ID before: 
+- Project: FIRCREST MANOR
+- Address: 13765 SW ALLEN BLVD
+- City: BEAVERTON
+- State: OR
+- ZIP: 97005
+- ZIP extension: 
+- State project ID: X001-343A
+- Latitude: 45.47665
+- Longitude: -122.818917
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067031202
+- Tract 2010: 41067031200
+- Tract 2000: 41067031200
+- Tract 1990: 41067031200
+- Place 2020: 05350
+- Place 2010: 05350
+- Place 2000: 05350
+- Place 1990: 0095
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 111121
+- Units: 59
+- Low-income units: 57
+- Units reported: 59
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 19
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

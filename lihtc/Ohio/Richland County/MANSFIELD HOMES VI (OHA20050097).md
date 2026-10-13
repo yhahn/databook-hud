@@ -1,0 +1,85 @@
+# Project: MANSFIELD HOMES VI (OHA20050097)
+
+- HUD ID: OHA20050097
+- HUD ID before: 
+- Project: MANSFIELD HOMES VI
+- Address: 175 W FIFTH ST
+- City: MANSFIELD
+- State: OH
+- ZIP: 44902
+- ZIP extension: 
+- State project ID: OH-03-0051
+- Latitude: 40.76304
+- Longitude: -82.521709
+- County FIPS: 39139
+- County from: 2020
+- Tract 2020: 39139000600
+- Tract 2010: 39139000600
+- Tract 2000: 39139000600
+- Tract 1990: 39139000600
+- Place 2020: 47138
+- Place 2010: 47138
+- Place 2000: 47138
+- Place 1990: 2440
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 588495
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 10
+- 4-bedroom units: 30
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 450000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

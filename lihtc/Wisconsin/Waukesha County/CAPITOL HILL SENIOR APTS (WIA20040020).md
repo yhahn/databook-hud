@@ -1,0 +1,85 @@
+# Project: CAPITOL HILL SENIOR APTS (WIA20040020)
+
+- HUD ID: WIA20040020
+- HUD ID before: 
+- Project: CAPITOL HILL SENIOR APTS
+- Address: 17390 CREST HILL DR
+- City: BROOKFIELD
+- State: WI
+- ZIP: 53045
+- ZIP extension: 
+- State project ID: 2537
+- Latitude: 43.091239
+- Longitude: -88.128066
+- County FIPS: 55133
+- County from: 2020
+- Tract 2020: 55133200803
+- Tract 2010: 55133200803
+- Tract 2000: 55133200802
+- Tract 1990: 55133200802
+- Place 2020: 10025
+- Place 2010: 10025
+- Place 2000: 10025
+- Place 1990: 0355
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 66
+- Units reported: 70
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 49
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

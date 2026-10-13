@@ -1,0 +1,85 @@
+# Project: OSAWATOMIE SENIORS (KSA19910135)
+
+- HUD ID: KSA19910135
+- HUD ID before: 
+- Project: OSAWATOMIE SENIORS
+- Address: 1545 BROWN AVE
+- City: OSAWATOMIE
+- State: KS
+- ZIP: 66064
+- ZIP extension: 
+- State project ID: 60220
+- Latitude: 38.495705
+- Longitude: -94.968696
+- County FIPS: 20121
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20121100700
+- Tract 2000: 20121100700
+- Tract 1990: 20121100700
+- Place 2020: 
+- Place 2010: 53225
+- Place 2000: 53225
+- Place 1990: 2160
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1990030.
+- Record status: Existing, unchanged

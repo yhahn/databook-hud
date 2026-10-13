@@ -1,0 +1,85 @@
+# Project: CENTENNIAL HOUSES (RIA19960020)
+
+- HUD ID: RIA19960020
+- HUD ID before: 
+- Project: CENTENNIAL HOUSES
+- Address: 53 FULLER AVE
+- City: CENTRAL FALLS
+- State: RI
+- ZIP: 02863
+- ZIP extension: 
+- State project ID: RI00005
+- Latitude: 41.887552
+- Longitude: -71.394018
+- County FIPS: 44007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 44007011000
+- Tract 2000: 44007011000
+- Tract 1990: 44007011000
+- Place 2020: 
+- Place 2010: 14140
+- Place 2000: 14140
+- Place 1990: 0060
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 120376
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 7
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 458088
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MCKEAN STREET HOUSING (PAA20222017)
+
+- HUD ID: PAA20222017
+- HUD ID before: 
+- Project: MCKEAN STREET HOUSING
+- Address: 240 N MCKEAN ST
+- City: KITTANNING
+- State: PA
+- ZIP: 16201
+- ZIP extension: 1361
+- State project ID: TC20210405
+- Latitude: 40.816994
+- Longitude: -79.520467
+- County FIPS: 42005
+- County from: 2020
+- Tract 2020: 42005951100
+- Tract 2010: 42005951100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 40040
+- Place 2010: 40040
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1103869
+- Units: 36
+- Low-income units: 33
+- Units reported: 36
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

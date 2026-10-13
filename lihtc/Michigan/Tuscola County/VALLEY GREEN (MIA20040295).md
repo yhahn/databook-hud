@@ -1,0 +1,85 @@
+# Project: VALLEY GREEN (MIA20040295)
+
+- HUD ID: MIA20040295
+- HUD ID before: 
+- Project: VALLEY GREEN
+- Address: 240 SHIRLEY ST
+- City: VASSAR
+- State: MI
+- ZIP: 48768
+- ZIP extension: 
+- State project ID: MI-2247
+- Latitude: 43.370737
+- Longitude: -83.592879
+- County FIPS: 26157
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26157000900
+- Tract 2000: 26157960900
+- Tract 1990: 26157960900
+- Place 2020: 
+- Place 2010: 81840
+- Place 2000: 81840
+- Place 1990: 2740
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

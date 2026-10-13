@@ -1,0 +1,85 @@
+# Project: PENNINGTON GROVE (NCA20171022)
+
+- HUD ID: NCA20171022
+- HUD ID before: 
+- Project: PENNINGTON GROVE
+- Address: 1000 PENNINGTON GROVE WAY
+- City: GARNER
+- State: NC
+- ZIP: 27529
+- ZIP extension: 5263
+- State project ID: 9182583
+- Latitude: 35.6986
+- Longitude: -78.6139
+- County FIPS: 37183
+- County from: 2020
+- Tract 2020: 37183052812
+- Tract 2010: 37183052808
+- Tract 2000: 37183052805
+- Tract 1990: 
+- Place 2020: 25480
+- Place 2010: 25480
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 805000
+- Units: 83
+- Low-income units: 83
+- Units reported: 83
+- Low-income reported: 83
+- Efficiencies: 0
+- 1-bedroom units: 65
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1600000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

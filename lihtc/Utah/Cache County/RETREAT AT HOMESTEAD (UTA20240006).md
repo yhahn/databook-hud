@@ -1,0 +1,85 @@
+# Project: RETREAT AT HOMESTEAD (UTA20240006)
+
+- HUD ID: UTA20240006
+- HUD ID before: 
+- Project: RETREAT AT HOMESTEAD
+- Address: 778 WEST 400 NORTH
+- City: LOGAN
+- State: UT
+- ZIP: 84321
+- ZIP extension: 0000
+- State project ID: 2021-29
+- Latitude: 41.746182
+- Longitude: -111.844634
+- County FIPS: 49005
+- County from: 2020
+- Tract 2020: 49005000501
+- Tract 2010: 49005000501
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 45860
+- Place 2010: 45860
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1000000
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 5
+- 1-bedroom units: 37
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

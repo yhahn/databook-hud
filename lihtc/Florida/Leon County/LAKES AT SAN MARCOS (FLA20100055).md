@@ -1,0 +1,85 @@
+# Project: LAKES AT SAN MARCOS (FLA20100055)
+
+- HUD ID: FLA20100055
+- HUD ID before: 
+- Project: LAKES AT SAN MARCOS
+- Address: 4768 WOODVILLE HWY
+- City: TALLAHASSEE
+- State: FL
+- ZIP: 32305
+- ZIP extension: 
+- State project ID: 2130
+- Latitude: 30.373368
+- Longitude: -84.26941
+- County FIPS: 12073
+- County from: 2020
+- Tract 2020: 12073002603
+- Tract 2010: 12073002604
+- Tract 2000: 12073002602
+- Tract 1990: 12073002602
+- Place 2020: 99999
+- Place 2010: 70600
+- Place 2000: 70600
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 790139
+- Units: 312
+- Low-income units: 234
+- Units reported: 312
+- Low-income reported: 234
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 192
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

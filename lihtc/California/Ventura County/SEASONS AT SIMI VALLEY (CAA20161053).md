@@ -1,0 +1,85 @@
+# Project: SEASONS AT SIMI VALLEY (CAA20161053)
+
+- HUD ID: CAA20161053
+- HUD ID before: 
+- Project: SEASONS AT SIMI VALLEY
+- Address: 1662 RORY LANE
+- City: SIMI VALLEY
+- State: CA
+- ZIP: 93063
+- ZIP extension: 
+- State project ID: CA-15-839
+- Latitude: 34.269187
+- Longitude: -118.673492
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111008304
+- Tract 2010: 06111008304
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 72016
+- Place 2010: 72016
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 292005
+- Units: 69
+- Low-income units: 68
+- Units reported: 69
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

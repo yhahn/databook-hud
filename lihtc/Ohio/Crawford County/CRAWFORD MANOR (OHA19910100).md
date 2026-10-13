@@ -1,0 +1,85 @@
+# Project: CRAWFORD MANOR (OHA19910100)
+
+- HUD ID: OHA19910100
+- HUD ID before: 
+- Project: CRAWFORD MANOR
+- Address: 331 SIXTH AVE
+- City: GALION
+- State: OH
+- ZIP: 44833
+- ZIP extension: 
+- State project ID: OH-91-0626
+- Latitude: 40.730254
+- Longitude: -82.764977
+- County FIPS: 39033
+- County from: 2020
+- Tract 2020: 39033975300
+- Tract 2010: 39033975300
+- Tract 2000: 39033975300
+- Tract 1990: 39033975300
+- Place 2020: 29162
+- Place 2010: 29162
+- Place 2000: 29162
+- Place 1990: 1475
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 65654
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ARDMORE CROSSING APTS (PAA20060005)
+
+- HUD ID: PAA20060005
+- HUD ID before: 
+- Project: ARDMORE CROSSING APTS
+- Address: 213 W CNTY LINE RD
+- City: ARDMORE
+- State: PA
+- ZIP: 19003
+- ZIP extension: 
+- State project ID: TC20040423
+- Latitude: 40.007417
+- Longitude: -75.300978
+- County FIPS: 42091
+- County from: 2020
+- Tract 2020: 42091205300
+- Tract 2010: 42091205300
+- Tract 2000: 42091205501
+- Tract 1990: 42091205501
+- Place 2020: 02896
+- Place 2010: 02896
+- Place 2000: 02896
+- Place 1990: 0282
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 580785
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 53
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 1500000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GREENFIELD COMMONS APTS.
+- Record status: Existing, unchanged

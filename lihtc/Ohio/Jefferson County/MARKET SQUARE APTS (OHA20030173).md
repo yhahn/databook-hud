@@ -1,0 +1,85 @@
+# Project: MARKET SQUARE APTS (OHA20030173)
+
+- HUD ID: OHA20030173
+- HUD ID before: 
+- Project: MARKET SQUARE APTS
+- Address: 805 MARKET ST
+- City: STEUBENVILLE
+- State: OH
+- ZIP: 43952
+- ZIP extension: 
+- State project ID: OH-03-0103
+- Latitude: 40.361934
+- Longitude: -80.620943
+- County FIPS: 39081
+- County from: 2020
+- Tract 2020: 39081000200
+- Tract 2010: 39081001700
+- Tract 2000: 39081000400
+- Tract 1990: 39081000400
+- Place 2020: 74608
+- Place 2010: 74608
+- Place 2000: 74608
+- Place 1990: 4115
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 122947
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 60
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003613, OHA2005092.
+- Record status: Existing, unchanged

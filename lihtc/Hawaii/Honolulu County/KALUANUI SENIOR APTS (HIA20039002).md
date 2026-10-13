@@ -1,0 +1,85 @@
+# Project: KALUANUI SENIOR APTS (HIA20039002)
+
+- HUD ID: HIA20039002
+- HUD ID before: 
+- Project: KALUANUI SENIOR APTS
+- Address: 6950 HAWAII KAI DR
+- City: HONOLULU
+- State: HI
+- ZIP: 96825
+- ZIP extension: 
+- State project ID: HI-2001-002
+- Latitude: 21.286962
+- Longitude: -157.704423
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003000117
+- Tract 2010: 15003000106
+- Tract 2000: 15003000106
+- Tract 1990: 
+- Place 2020: 06290
+- Place 2010: 06290
+- Place 2000: 17000
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 293000
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHELSEA COMMONS (FLA19990045)
+
+- HUD ID: FLA19990045
+- HUD ID before: 
+- Project: CHELSEA COMMONS
+- Address: 6351 PINE AVE
+- City: GREENACRES
+- State: FL
+- ZIP: 33463
+- ZIP extension: 
+- State project ID: 158
+- Latitude: 26.613887
+- Longitude: -80.144511
+- County FIPS: 12099
+- County from: 2020
+- Tract 2020: 12099004819
+- Tract 2010: 12099004819
+- Tract 2000: 12099004808
+- Tract 1990: 12099004803
+- Place 2020: 27322
+- Place 2010: 27322
+- Place 2000: 27322
+- Place 1990: 0765
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 209
+- Low-income units: 104
+- Units reported: 209
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 112
+- 3-bedroom units: 80
+- 4-bedroom units: 17
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHESNEY-KLEINJOHN (COA19960040)
+
+- HUD ID: COA19960040
+- HUD ID before: 
+- Project: CHESNEY-KLEINJOHN
+- Address: 1005 N WASHINGTON ST
+- City: DENVER
+- State: CO
+- ZIP: 80203
+- ZIP extension: 
+- State project ID: 9504
+- Latitude: 39.732104
+- Longitude: -104.978879
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031002709
+- Tract 2010: 08031002703
+- Tract 2000: 08031002703
+- Tract 1990: 08031002703
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 20000
+- Place 1990: 0320
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

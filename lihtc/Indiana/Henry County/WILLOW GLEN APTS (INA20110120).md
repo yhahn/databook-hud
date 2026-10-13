@@ -1,0 +1,85 @@
+# Project: WILLOW GLEN APTS (INA20110120)
+
+- HUD ID: INA20110120
+- HUD ID before: 
+- Project: WILLOW GLEN APTS
+- Address: 2800 S MAIN ST
+- City: NEW CASTLE
+- State: IN
+- ZIP: 47362
+- ZIP extension: 
+- State project ID: IN-09-02900
+- Latitude: 39.905451
+- Longitude: -85.370708
+- County FIPS: 18065
+- County from: 2020
+- Tract 2020: 18065976400
+- Tract 2010: 18065976400
+- Tract 2000: 18065976400
+- Tract 1990: 18065976400
+- Place 2020: 52740
+- Place 2010: 52740
+- Place 2000: 52740
+- Place 1990: 1785
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 324364
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 1876148
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2011521.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WOODLAND HILLS APARTMENTS (ARA20000030)
+
+- HUD ID: ARA20000030
+- HUD ID before: 
+- Project: WOODLAND HILLS APARTMENTS
+- Address: 200 COLUMBIA RD 120
+- City: MCNEIL
+- State: AR
+- ZIP: 71752
+- ZIP extension: 
+- State project ID: AR-99-16
+- Latitude: 33.354546
+- Longitude: -93.226318
+- County FIPS: 05027
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05027950200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 40396
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BECKWOOD MANOR TWO.
+- Record status: Existing, unchanged

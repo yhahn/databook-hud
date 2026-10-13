@@ -1,0 +1,85 @@
+# Project: ALHAMBRA APTS (CAA19990580)
+
+- HUD ID: CAA19990580
+- HUD ID before: 
+- Project: ALHAMBRA APTS
+- Address: 4500 ALHAMBRA DR
+- City: DAVIS
+- State: CA
+- ZIP: 95618
+- ZIP extension: 
+- State project ID: CA-98-924
+- Latitude: 38.558158
+- Longitude: -121.697587
+- County FIPS: 06113
+- County from: 2020
+- Tract 2020: 06113010605
+- Tract 2010: 06113010605
+- Tract 2000: 06113010605
+- Tract 1990: 06113010603
+- Place 2020: 18100
+- Place 2010: 18100
+- Place 2000: 18100
+- Place 1990: 0715
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 215263
+- Units: 160
+- Low-income units: 68
+- Units reported: 160
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 69
+- 3-bedroom units: 48
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

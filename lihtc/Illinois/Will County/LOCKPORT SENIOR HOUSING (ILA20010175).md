@@ -1,0 +1,85 @@
+# Project: LOCKPORT SENIOR HOUSING (ILA20010175)
+
+- HUD ID: ILA20010175
+- HUD ID before: 
+- Project: LOCKPORT SENIOR HOUSING
+- Address: 1300 E DIVISION ST
+- City: LOCKPORT
+- State: IL
+- ZIP: 60441
+- ZIP extension: 
+- State project ID: 117699
+- Latitude: 41.583308
+- Longitude: -88.030298
+- County FIPS: 17197
+- County from: 2020
+- Tract 2020: 17197880601
+- Tract 2010: 17197880601
+- Tract 2000: 17197880600
+- Tract 1990: 17197880600
+- Place 2020: 44225
+- Place 2010: 44225
+- Place 2000: 44225
+- Place 1990: 3300
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 313273
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

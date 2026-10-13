@@ -1,0 +1,85 @@
+# Project: AUTUMN RIDGE (GAA20040010)
+
+- HUD ID: GAA20040010
+- HUD ID before: 
+- Project: AUTUMN RIDGE
+- Address: 850 AUTUMN CT
+- City: DALTON
+- State: GA
+- ZIP: 30721
+- ZIP extension: 9363
+- State project ID: GA-02-023
+- Latitude: 34.81097
+- Longitude: -84.953239
+- County FIPS: 13313
+- County from: 2020
+- Tract 2020: 13313000303
+- Tract 2010: 13313000302
+- Tract 2000: 13313000302
+- Tract 1990: 13313000300
+- Place 2020: 21380
+- Place 2010: 21380
+- Place 2000: 21380
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 633138
+- Units: 130
+- Low-income units: 117
+- Units reported: 130
+- Low-income reported: 117
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 60
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

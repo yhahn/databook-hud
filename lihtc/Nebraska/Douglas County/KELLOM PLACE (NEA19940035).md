@@ -1,0 +1,85 @@
+# Project: KELLOM PLACE (NEA19940035)
+
+- HUD ID: NEA19940035
+- HUD ID before: 
+- Project: KELLOM PLACE
+- Address: 2517 CALDWELL ST
+- City: OMAHA
+- State: NE
+- ZIP: 68131
+- ZIP extension: 
+- State project ID: 7-0212
+- Latitude: 41.270915
+- Longitude: -95.949573
+- County FIPS: 31055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31055001100
+- Tract 2000: 31055001100
+- Tract 1990: 31055001100
+- Place 2020: 
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 1825
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 250919
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BEACH VILLAGE AT PALM COAST I (FLA20100005)
+
+- HUD ID: FLA20100005
+- HUD ID before: 
+- Project: BEACH VILLAGE AT PALM COAST I
+- Address: 1100 BEACH VILLAGE DRIVE
+- City: PALM COAST
+- State: FL
+- ZIP: 32137
+- ZIP extension: 
+- State project ID: 2174
+- Latitude: 29.5795
+- Longitude: -81.2037
+- County FIPS: 12035
+- County from: 2020
+- Tract 2020: 12035060301
+- Tract 2010: 12035060105
+- Tract 2000: 12035060102
+- Tract 1990: 12035960100
+- Place 2020: 54200
+- Place 2010: 54200
+- Place 2000: 43250
+- Place 1990: 1658
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 155900
+- Units: 106
+- Low-income units: 100
+- Units reported: 106
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 18
+- 3-bedroom units: 47
+- 4-bedroom units: 17
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 155900
+- CDBG: 
+- CDBG amount: 
+- TCAP: Yes
+- TCAP amount: 7286034
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SARATOGA CROWN IV (NEA20050030)
+
+- HUD ID: NEA20050030
+- HUD ID before: 
+- Project: SARATOGA CROWN IV
+- Address: 2247 N 20TH ST
+- City: OMAHA
+- State: NE
+- ZIP: 68110
+- ZIP extension: 
+- State project ID: 7-0613
+- Latitude: 41.280211
+- Longitude: -95.94206
+- County FIPS: 31055
+- County from: 2020
+- Tract 2020: 31055001200
+- Tract 2010: 31055001200
+- Tract 2000: 31055001200
+- Tract 1990: 31055001200
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 1825
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 181212
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

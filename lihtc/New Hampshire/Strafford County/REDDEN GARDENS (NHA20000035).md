@@ -1,0 +1,85 @@
+# Project: REDDEN GARDENS (NHA20000035)
+
+- HUD ID: NHA20000035
+- HUD ID before: 
+- Project: REDDEN GARDENS
+- Address: 24 ADELLE DR
+- City: DOVER
+- State: NH
+- ZIP: 03820
+- ZIP extension: 
+- State project ID: 91
+- Latitude: 43.170401
+- Longitude: -70.887035
+- County FIPS: 33017
+- County from: 2020
+- Tract 2020: 33017081101
+- Tract 2010: 33017081100
+- Tract 2000: 33017081100
+- Tract 1990: 33017081100
+- Place 2020: 18820
+- Place 2010: 18820
+- Place 2000: 18820
+- Place 1990: 0650
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 150
+- Low-income units: 113
+- Units reported: 150
+- Low-income reported: 113
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 114
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WISHCAMPER PROPERTIES, PINE VIEW VILLAGE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ST PHILIPS ON THE PARK (NYB20080110)
+
+- HUD ID: NYB20080110
+- HUD ID before: 
+- Project: ST PHILIPS ON THE PARK
+- Address: 480 ST NICHOLAS AVE
+- City: NEW YORK
+- State: NY
+- ZIP: 10030
+- ZIP extension: 
+- State project ID: NY-06-1593
+- Latitude: 40.81598
+- Longitude: -73.948266
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061021500
+- Tract 2010: 36061021500
+- Tract 2000: 36061021702
+- Tract 1990: 36061021702
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 807906
+- Units: 222
+- Low-income units: 222
+- Units reported: 222
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

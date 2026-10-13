@@ -1,0 +1,85 @@
+# Project: BEAVER MEADOWS APTS (OHA19940035)
+
+- HUD ID: OHA19940035
+- HUD ID before: 
+- Project: BEAVER MEADOWS APTS
+- Address: 7070 STATE RTE 335
+- City: BEAVER
+- State: OH
+- ZIP: 45613
+- ZIP extension: 
+- State project ID: 931039
+- Latitude: 39.026068
+- Longitude: -82.803225
+- County FIPS: 39131
+- County from: 2020
+- Tract 2020: 39131952200
+- Tract 2010: 39131952200
+- Tract 2000: 39131952200
+- Tract 1990: 39131952200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 04696
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 33000
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

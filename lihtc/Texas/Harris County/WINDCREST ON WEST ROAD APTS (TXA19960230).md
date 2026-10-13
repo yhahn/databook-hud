@@ -1,0 +1,85 @@
+# Project: WINDCREST ON WEST ROAD APTS (TXA19960230)
+
+- HUD ID: TXA19960230
+- HUD ID before: 
+- Project: WINDCREST ON WEST ROAD APTS
+- Address: 10445 GREENS CROSSING BLVD
+- City: HOUSTON
+- State: TX
+- ZIP: 77038
+- ZIP extension: 
+- State project ID: TX-94-110
+- Latitude: 29.916178
+- Longitude: -95.4191
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201533701
+- Tract 2010: 48201533701
+- Tract 2000: 48201533700
+- Tract 1990: 48201053401
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 35000
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 228
+- Low-income units: 228
+- Units reported: 228
+- Low-income reported: 228
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 108
+- 3-bedroom units: 84
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

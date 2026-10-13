@@ -1,0 +1,85 @@
+# Project: SELBORNE HOUSE (LAUREL) (MDA19980060)
+
+- HUD ID: MDA19980060
+- HUD ID before: 
+- Project: SELBORNE HOUSE (LAUREL)
+- Address: 501 MAIN ST
+- City: LAUREL
+- State: MD
+- ZIP: 20707
+- ZIP extension: 
+- State project ID: MD97-24
+- Latitude: 39.10706
+- Longitude: -76.850038
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033800102
+- Tract 2010: 24033800102
+- Tract 2000: 24033800102
+- Tract 1990: 24033800102
+- Place 2020: 45900
+- Place 2010: 45900
+- Place 2000: 45900
+- Place 1990: 0555
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 126
+- Low-income units: 126
+- Units reported: 126
+- Low-income reported: 126
+- Efficiencies: 3
+- 1-bedroom units: 121
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

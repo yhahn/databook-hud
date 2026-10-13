@@ -1,0 +1,85 @@
+# Project: 51ST & KING DRIVE APTS (ILB20030807)
+
+- HUD ID: ILB20030807
+- HUD ID before: 
+- Project: 51ST & KING DRIVE APTS
+- Address: 5049 S KING DR
+- City: CHICAGO
+- State: IL
+- ZIP: 60615
+- ZIP extension: 
+- State project ID: TC-02-021
+- Latitude: 41.809181
+- Longitude: -87.616336
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031381800
+- Tract 2010: 17031381200
+- Tract 2000: 17031381900
+- Tract 1990: 17031381900
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 296953
+- Units: 96
+- Low-income units: 92
+- Units reported: 96
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 55
+- 3-bedroom units: 9
+- 4-bedroom units: 23
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2003800.
+- Record status: Existing, unchanged

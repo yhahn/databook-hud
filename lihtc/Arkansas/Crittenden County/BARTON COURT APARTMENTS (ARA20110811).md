@@ -1,0 +1,85 @@
+# Project: BARTON COURT APARTMENTS (ARA20110811)
+
+- HUD ID: ARA20110811
+- HUD ID before: 
+- Project: BARTON COURT APARTMENTS
+- Address: 2416 E BARTON CT
+- City: WEST MEMPHIS
+- State: AR
+- ZIP: 72301
+- ZIP extension: 
+- State project ID: AR-09-33-001
+- Latitude: 35.153732
+- Longitude: -90.155576
+- County FIPS: 05035
+- County from: 2020
+- Tract 2020: 05035030101
+- Tract 2010: 05035030101
+- Tract 2000: 05035030101
+- Tract 1990: 05035030100
+- Place 2020: 74540
+- Place 2010: 74540
+- Place 2000: 74540
+- Place 1990: 3005
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000544, ARA0000006.
+- Record status: Existing, unchanged

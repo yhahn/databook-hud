@@ -1,0 +1,85 @@
+# Project: LE BARON ARMS APTS (TXA19920125)
+
+- HUD ID: TXA19920125
+- HUD ID before: 
+- Project: LE BARON ARMS APTS
+- Address: 6466 RIDGECREST RD
+- City: DALLAS
+- State: TX
+- ZIP: 75231
+- ZIP extension: 
+- State project ID: 70038
+- Latitude: 32.866224
+- Longitude: -96.752487
+- County FIPS: 48113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48113007818
+- Tract 2000: 48113007818
+- Tract 1990: 48113007817
+- Place 2020: 
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1085
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

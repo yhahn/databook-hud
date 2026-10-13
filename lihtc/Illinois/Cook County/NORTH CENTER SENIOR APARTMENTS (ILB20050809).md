@@ -1,0 +1,85 @@
+# Project: NORTH CENTER SENIOR APARTMENTS (ILB20050809)
+
+- HUD ID: ILB20050809
+- HUD ID before: 
+- Project: NORTH CENTER SENIOR APARTMENTS
+- Address: 2324 W IRVING PARK ROAD
+- City: CHICAGO
+- State: IL
+- ZIP: 60618
+- ZIP extension: 
+- State project ID: TC-04-002
+- Latitude: 41.954279
+- Longitude: -87.686568
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031050200
+- Tract 2010: 17031050200
+- Tract 2000: 17031050200
+- Tract 1990: 17031050200
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 895476
+- Units: 104
+- Low-income units: 84
+- Units reported: 104
+- Low-income reported: 84
+- Efficiencies: 4
+- 1-bedroom units: 87
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 42
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 5016200
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2005802.
+- Record status: Existing, unchanged

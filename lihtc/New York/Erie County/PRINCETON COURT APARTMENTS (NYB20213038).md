@@ -1,0 +1,85 @@
+# Project: PRINCETON COURT APARTMENTS (NYB20213038)
+
+- HUD ID: NYB20213038
+- HUD ID before: 
+- Project: PRINCETON COURT APARTMENTS
+- Address: 178 PRINCETON AVENUE
+- City: AMHERST
+- State: NY
+- ZIP: 14228
+- ZIP extension: 
+- State project ID: NY-21-3526
+- Latitude: 42.961932
+- Longitude: -78.817661
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029009301
+- Tract 2010: 36029009301
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23701
+- Place 2010: 23701
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1638023
+- Units: 304
+- Low-income units: 289
+- Units reported: 304
+- Low-income reported: 289
+- Efficiencies: 48
+- 1-bedroom units: 108
+- 2-bedroom units: 146
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

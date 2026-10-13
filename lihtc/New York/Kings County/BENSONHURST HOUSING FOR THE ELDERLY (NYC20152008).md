@@ -1,0 +1,85 @@
+# Project: BENSONHURST HOUSING FOR THE ELDERLY (NYC20152008)
+
+- HUD ID: NYC20152008
+- HUD ID before: 
+- Project: BENSONHURST HOUSING FOR THE ELDERLY
+- Address: 2164 78TH ST
+- City: BROOKLYN
+- State: NY
+- ZIP: 11214
+- ZIP extension: 
+- State project ID: 47-1071984
+- Latitude: 40.606705
+- Longitude: -73.989908
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047027000
+- Tract 2010: 36047027000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 545356
+- Units: 71
+- Low-income units: 70
+- Units reported: 71
+- Low-income reported: 70
+- Efficiencies: 18
+- 1-bedroom units: 52
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

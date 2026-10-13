@@ -1,0 +1,85 @@
+# Project: JOHNSON COMMUNITY HOUSING - VEC (VTA20100243)
+
+- HUD ID: VTA20100243
+- HUD ID before: 
+- Project: JOHNSON COMMUNITY HOUSING - VEC
+- Address: 73 MACK MUDGETT DR
+- City: JOHNSON
+- State: VT
+- ZIP: 05656
+- ZIP extension: 
+- State project ID: 0408
+- Latitude: 44.637461
+- Longitude: -72.673385
+- County FIPS: 50015
+- County from: 2020
+- Tract 2020: 50015953200
+- Tract 2010: 50015953200
+- Tract 2000: 50015953200
+- Tract 1990: 50015953200
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 492000
+- Units: 28
+- Low-income units: 25
+- Units reported: 28
+- Low-income reported: 25
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

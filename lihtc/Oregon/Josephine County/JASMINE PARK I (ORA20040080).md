@@ -1,0 +1,85 @@
+# Project: JASMINE PARK I (ORA20040080)
+
+- HUD ID: ORA20040080
+- HUD ID before: 
+- Project: JASMINE PARK I
+- Address: 501 NE ANDERSON ST
+- City: GRANTS PASS
+- State: OR
+- ZIP: 97526
+- ZIP extension: 
+- State project ID: OR-02-00000051A
+- Latitude: 42.441346
+- Longitude: -123.313296
+- County FIPS: 41033
+- County from: 2020
+- Tract 2020: 41033360500
+- Tract 2010: 41033360500
+- Tract 2000: 41033360500
+- Tract 1990: 41033360500
+- Place 2020: 30550
+- Place 2010: 30550
+- Place 2000: 30550
+- Place 1990: 0455
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 455574
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 454300
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

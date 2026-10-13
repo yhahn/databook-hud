@@ -1,0 +1,85 @@
+# Project: MISSION WOODS (TXA19960235)
+
+- HUD ID: TXA19960235
+- HUD ID before: 
+- Project: MISSION WOODS
+- Address: 25469 BOROUGH PARK DR
+- City: SPRING
+- State: TX
+- ZIP: 77380
+- ZIP extension: 
+- State project ID: TX1318
+- Latitude: 30.132691
+- Longitude: -95.447001
+- County FIPS: 48339
+- County from: 2020
+- Tract 2020: 48339691602
+- Tract 2010: 48339691602
+- Tract 2000: 48339691600
+- Tract 1990: 48339090204
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 53190
+- Place 1990: 4243
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 300
+- Low-income units: 300
+- Units reported: 300
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000412. FKA WINDCREST SPRING APTS
+- Record status: Existing, unchanged

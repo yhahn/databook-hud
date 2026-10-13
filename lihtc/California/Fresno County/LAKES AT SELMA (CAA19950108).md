@@ -1,0 +1,85 @@
+# Project: LAKES AT SELMA (CAA19950108)
+
+- HUD ID: CAA19950108
+- HUD ID before: 
+- Project: LAKES AT SELMA
+- Address: 1675 NELSON BLVD
+- City: SELMA
+- State: CA
+- ZIP: 93662
+- ZIP extension: 
+- State project ID: CA-98-910
+- Latitude: 36.585041
+- Longitude: -119.606633
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019007004
+- Tract 2010: 06019007004
+- Tract 2000: 06019007004
+- Tract 1990: 06019007001
+- Place 2020: 70882
+- Place 2010: 70882
+- Place 2000: 38562
+- Place 1990: 2670
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 18316
+- Units: 38
+- Low-income units: 8
+- Units reported: 38
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HARBOUR COVE (OHA19950125)
+
+- HUD ID: OHA19950125
+- HUD ID before: 
+- Project: HARBOUR COVE
+- Address: 520 ANCHOR DR
+- City: CINCINNATI
+- State: OH
+- ZIP: 45255
+- ZIP extension: 
+- State project ID: 944028
+- Latitude: 39.063595
+- Longitude: -84.306351
+- County FIPS: 39025
+- County from: 2020
+- Tract 2020: 39025041201
+- Tract 2010: 39025041200
+- Tract 2000: 39025041200
+- Tract 1990: 39025041200
+- Place 2020: 86254
+- Place 2010: 86254
+- Place 2000: 86254
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 240614
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 56
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

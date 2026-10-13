@@ -1,0 +1,85 @@
+# Project: BELLEVUE PLACE APTS (MIA20030030)
+
+- HUD ID: MIA20030030
+- HUD ID before: 
+- Project: BELLEVUE PLACE APTS
+- Address: 226 E ST
+- City: BELLEVUE
+- State: MI
+- ZIP: 49021
+- ZIP extension: 
+- State project ID: MI-1666
+- Latitude: 42.445582
+- Longitude: -85.012994
+- County FIPS: 26045
+- County from: 2020
+- Tract 2020: 26045020800
+- Tract 2010: 26045020800
+- Tract 2000: 26045020800
+- Tract 1990: 26045020800
+- Place 2020: 07060
+- Place 2010: 07060
+- Place 2000: 07060
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 15
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

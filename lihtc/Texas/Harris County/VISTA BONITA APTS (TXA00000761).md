@@ -1,0 +1,85 @@
+# Project: VISTA BONITA APTS (TXA00000761)
+
+- HUD ID: TXA00000761
+- HUD ID before: 
+- Project: VISTA BONITA APTS
+- Address: 9313 TALLYHO RD
+- City: HOUSTON
+- State: TX
+- ZIP: 77017
+- ZIP extension: 
+- State project ID: TX-08-295
+- Latitude: 29.65634
+- Longitude: -95.250475
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201320700
+- Tract 2010: 48201320700
+- Tract 2000: 48201320700
+- Tract 1990: 48201032302
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 118
+- Low-income units: 118
+- Units reported: 118
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 51
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 10822758
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000660. AKA VILLA DEL PRADO APTS.
+- Record status: Existing, unchanged

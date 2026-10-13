@@ -1,0 +1,85 @@
+# Project: MAROON CREEK APTS (COA19970040)
+
+- HUD ID: COA19970040
+- HUD ID before: 
+- Project: MAROON CREEK APTS
+- Address: 100 STAGE CT
+- City: ASPEN
+- State: CO
+- ZIP: 81611
+- ZIP extension: 
+- State project ID: 960003
+- Latitude: 39.205942
+- Longitude: -106.856811
+- County FIPS: 08097
+- County from: 2020
+- Tract 2020: 08097000404
+- Tract 2010: 08097000401
+- Tract 2000: 08097000100
+- Tract 1990: 08097962800
+- Place 2020: 03620
+- Place 2010: 03620
+- Place 2000: 03620
+- Place 1990: 0045
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 13
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

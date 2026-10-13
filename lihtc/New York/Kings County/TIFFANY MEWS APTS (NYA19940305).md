@@ -1,0 +1,85 @@
+# Project: TIFFANY MEWS APTS (NYA19940305)
+
+- HUD ID: NYA19940305
+- HUD ID before: 
+- Project: TIFFANY MEWS APTS
+- Address: 63 TIFFANY PL
+- City: BROOKLYN
+- State: NY
+- ZIP: 11231
+- ZIP extension: 
+- State project ID: NY-94-0214_00578
+- Latitude: 40.686266
+- Longitude: -74.000894
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047004700
+- Tract 2010: 36047004700
+- Tract 2000: 36047004700
+- Tract 1990: 36047004700
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 69
+- Low-income units: 69
+- Units reported: 69
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 26
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

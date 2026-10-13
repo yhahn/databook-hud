@@ -1,0 +1,85 @@
+# Project: ALTVISTA STERLING PALMS (FLA19970807)
+
+- HUD ID: FLA19970807
+- HUD ID before: 
+- Project: ALTVISTA STERLING PALMS
+- Address: 1919 STERLING PALMS CT
+- City: BRANDON
+- State: FL
+- ZIP: 33511
+- ZIP extension: 
+- State project ID: 806
+- Latitude: 27.908036
+- Longitude: -82.321432
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057013320
+- Tract 2010: 12057013320
+- Tract 2000: 12057013308
+- Tract 1990: 12057013301
+- Place 2020: 08150
+- Place 2010: 08150
+- Place 2000: 08150
+- Place 1990: 0225
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 248
+- Low-income units: 50
+- Units reported: 248
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 108
+- 3-bedroom units: 60
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

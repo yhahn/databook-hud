@@ -1,0 +1,85 @@
+# Project: VINCENT MORELLO SENIOR HOUSING (NYA19990235)
+
+- HUD ID: NYA19990235
+- HUD ID before: 
+- Project: VINCENT MORELLO SENIOR HOUSING
+- Address: 418 95TH ST
+- City: NIAGARA FALLS
+- State: NY
+- ZIP: 14304
+- ZIP extension: 
+- State project ID: 19980453
+- Latitude: 43.078147
+- Longitude: -78.951561
+- County FIPS: 36063
+- County from: 2020
+- Tract 2020: 36063022401
+- Tract 2010: 36063022401
+- Tract 2000: 36063022401
+- Tract 1990: 36063022401
+- Place 2020: 51055
+- Place 2010: 51055
+- Place 2000: 51055
+- Place 1990: 2515
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 57
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

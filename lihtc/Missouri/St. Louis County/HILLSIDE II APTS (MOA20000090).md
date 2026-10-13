@@ -1,0 +1,85 @@
+# Project: HILLSIDE II APTS (MOA20000090)
+
+- HUD ID: MOA20000090
+- HUD ID before: 
+- Project: HILLSIDE II APTS
+- Address: 160 KINGSTON DR
+- City: ST LOUIS
+- State: MO
+- ZIP: 63125
+- ZIP extension: 
+- State project ID: 98073
+- Latitude: 38.520424
+- Longitude: -90.279351
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189220300
+- Tract 2010: 29189220200
+- Tract 2000: 29189220300
+- Tract 1990: 29189220300
+- Place 2020: 41438
+- Place 2010: 41438
+- Place 2000: 41438
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HILLSIDE APTS II.
+- Record status: Existing, unchanged

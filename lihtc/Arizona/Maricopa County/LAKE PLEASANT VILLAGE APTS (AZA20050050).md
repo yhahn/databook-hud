@@ -1,0 +1,85 @@
+# Project: LAKE PLEASANT VILLAGE APTS (AZA20050050)
+
+- HUD ID: AZA20050050
+- HUD ID before: 
+- Project: LAKE PLEASANT VILLAGE APTS
+- Address: 20702 N LAKE PLEASANT RD
+- City: PEORIA
+- State: AZ
+- ZIP: 85382
+- ZIP extension: 
+- State project ID: BD-0029
+- Latitude: 33.672881
+- Longitude: -112.280199
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013613500
+- Tract 2010: 04013613500
+- Tract 2000: 04013030371
+- Tract 1990: 04013030342
+- Place 2020: 54050
+- Place 2010: 54050
+- Place 2000: 54050
+- Place 1990: 0260
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 77
+- 4-bedroom units: 20
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

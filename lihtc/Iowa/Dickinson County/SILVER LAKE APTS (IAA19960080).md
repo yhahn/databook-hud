@@ -1,0 +1,85 @@
+# Project: SILVER LAKE APTS (IAA19960080)
+
+- HUD ID: IAA19960080
+- HUD ID before: 
+- Project: SILVER LAKE APTS
+- Address: 212 E FOURTH ST
+- City: LAKE PARK
+- State: IA
+- ZIP: 51347
+- ZIP extension: 
+- State project ID: 95-28
+- Latitude: 43.454586
+- Longitude: -95.316613
+- County FIPS: 19059
+- County from: 2020
+- Tract 2020: 19059450200
+- Tract 2010: 19059450200
+- Tract 2000: 19059950200
+- Tract 1990: 19059950200
+- Place 2020: 42600
+- Place 2010: 42600
+- Place 2000: 42600
+- Place 1990: 2235
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 58874
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

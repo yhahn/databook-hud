@@ -1,0 +1,85 @@
+# Project: MT CARMEL SENIOR HOUSING (KSA20010050)
+
+- HUD ID: KSA20010050
+- HUD ID before: 
+- Project: MT CARMEL SENIOR HOUSING
+- Address: 1130 TROUP AVE
+- City: KANSAS CITY
+- State: KS
+- ZIP: 66104
+- ZIP extension: 
+- State project ID: 60245
+- Latitude: 39.127451
+- Longitude: -94.638801
+- County FIPS: 20209
+- County from: 2020
+- Tract 2020: 20209041200
+- Tract 2010: 20209041200
+- Tract 2000: 20209041200
+- Tract 1990: 20209041201
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 1430
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 544282
+- Units: 61
+- Low-income units: 60
+- Units reported: 61
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

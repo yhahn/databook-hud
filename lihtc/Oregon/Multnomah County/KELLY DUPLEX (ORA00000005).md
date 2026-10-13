@@ -1,0 +1,85 @@
+# Project: KELLY DUPLEX (ORA00000005)
+
+- HUD ID: ORA00000005
+- HUD ID before: 
+- Project: KELLY DUPLEX
+- Address: 5531 SW KELLY AVE
+- City: PORTLAND
+- State: OR
+- ZIP: 97239
+- ZIP extension: 
+- State project ID: OR87-140
+- Latitude: 45.483603
+- Longitude: -122.676028
+- County FIPS: 41051
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41051005900
+- Tract 2000: 41051005900
+- Tract 1990: 41051005900
+- Place 2020: 
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 
+- Low-income units: 
+- Units reported: 
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

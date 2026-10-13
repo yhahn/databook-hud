@@ -1,0 +1,85 @@
+# Project: CLAIRE COURT APTS (NYA20010055)
+
+- HUD ID: NYA20010055
+- HUD ID before: 
+- Project: CLAIRE COURT APTS
+- Address: 5570 S PARK AVE
+- City: HAMBURG
+- State: NY
+- ZIP: 14075
+- ZIP extension: 
+- State project ID: 19990030
+- Latitude: 42.744382
+- Longitude: -78.824762
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029013201
+- Tract 2010: 36029013202
+- Tract 2000: 36029013202
+- Tract 1990: 36029013202
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 31643
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

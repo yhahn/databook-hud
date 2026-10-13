@@ -1,0 +1,85 @@
+# Project: WATERFORD MEADOWS (MIA20080045)
+
+- HUD ID: MIA20080045
+- HUD ID before: 
+- Project: WATERFORD MEADOWS
+- Address: 834 W ALPHA PKWY
+- City: WATERFORD
+- State: MI
+- ZIP: 48328
+- ZIP extension: 
+- State project ID: MI-547
+- Latitude: 42.65161
+- Longitude: -83.335504
+- County FIPS: 26125
+- County from: 2020
+- Tract 2020: 26125145900
+- Tract 2010: 26125145900
+- Tract 2000: 26125144700
+- Tract 1990: 26125144700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 84220
+- Place 1990: 2798
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 677312
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 75
+- 2-bedroom units: 95
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 52
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1991385, MIA1989405, MIA2007150.
+- Record status: Existing, unchanged

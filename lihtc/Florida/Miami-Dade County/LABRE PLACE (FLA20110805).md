@@ -1,0 +1,85 @@
+# Project: LABRE PLACE (FLA20110805)
+
+- HUD ID: FLA20110805
+- HUD ID before: 
+- Project: LABRE PLACE
+- Address: 350 NW FOURTH ST
+- City: MIAMI
+- State: FL
+- ZIP: 33128
+- ZIP extension: 
+- State project ID: 1794
+- Latitude: 25.77765
+- Longitude: -80.200181
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086003606
+- Tract 2010: 12086003601
+- Tract 2000: 12086003601
+- Tract 1990: 12025003601
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 45000
+- Place 1990: 1370
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 19188358
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

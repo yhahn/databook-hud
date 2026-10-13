@@ -1,0 +1,24 @@
+# Tax Credit Projects: Lyon County, KS
+
+- Level: County
+- Postal code: KS
+- State FIPS: 20
+- County FIPS: 20111
+- Counties: 
+- Projects: 7
+- Units: 298
+- Low-income units: 282
+
+The low-income housing tax credit projects of Lyon County, Kansas, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [HARTFORD PLACE (KSA19900015)](./Lyon%20County/HARTFORD%20PLACE%20%28KSA19900015%29.md) | KSA19900015 | HARTFORD | 1990 | 10 | 10 |
+| [WESTWOOD VILLAGE (KSA19970090)](./Lyon%20County/WESTWOOD%20VILLAGE%20%28KSA19970090%29.md) | KSA19970090 | EMPORIA | 1997 | 76 | 60 |
+| [CHAPEL RIDGE APTS OF EMPORIA (KSA20000030)](./Lyon%20County/CHAPEL%20RIDGE%20APTS%20OF%20EMPORIA%20%28KSA20000030%29.md) | KSA20000030 | EMPORIA | 2000 | 64 | 64 |
+| [WYNDAM PLACE SENIOR RESIDENCES (KSA20050125)](./Lyon%20County/WYNDAM%20PLACE%20SENIOR%20RESIDENCES%20%28KSA20050125%29.md) | KSA20050125 | EMPORIA | 2005 | 42 | 42 |
+| [KENYON HEIGHTS (KSA20130002)](./Lyon%20County/KENYON%20HEIGHTS%20%28KSA20130002%29.md) | KSA20130002 | EMPORIA | 2013 | 46 | 46 |
+| [WHITTIER PLACE (KSA20180010)](./Lyon%20County/WHITTIER%20PLACE%20%28KSA20180010%29.md) | KSA20180010 | EMPORIA | 2018 | 36 | 36 |
+| [WHITTIER PLACE II (KSA20220004)](./Lyon%20County/WHITTIER%20PLACE%20II%20%28KSA20220004%29.md) | KSA20220004 | EMPORIA | 2022 | 24 | 24 |

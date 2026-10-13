@@ -1,0 +1,85 @@
+# Project: SPRING RIDGE SENIOR (MDA20020100)
+
+- HUD ID: MDA20020100
+- HUD ID before: 
+- Project: SPRING RIDGE SENIOR
+- Address: 6351 SPRING RIDGE PKWY
+- City: FREDERICK
+- State: MD
+- ZIP: 21701
+- ZIP extension: 
+- State project ID: MD01-10001
+- Latitude: 39.404059
+- Longitude: -77.347249
+- County FIPS: 24021
+- County from: 2020
+- Tract 2020: 24021751902
+- Tract 2010: 24021751902
+- Tract 2000: 24021751900
+- Tract 1990: 24021751900
+- Place 2020: 74560
+- Place 2010: 74560
+- Place 2000: 47043
+- Place 1990: 0575
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 75
+- Units reported: 144
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 113
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

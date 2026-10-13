@@ -1,0 +1,85 @@
+# Project: GREENS AT NORTHRIDGE (VAA20060771)
+
+- HUD ID: VAA20060771
+- HUD ID before: 
+- Project: GREENS AT NORTHRIDGE
+- Address: 1050 CLAIRE TAYLOR CT
+- City: CULPEPER
+- State: VA
+- ZIP: 22701
+- ZIP extension: 
+- State project ID: 8903
+- Latitude: 38.496751
+- Longitude: -77.984659
+- County FIPS: 51047
+- County from: 2020
+- Tract 2020: 51047930300
+- Tract 2010: 51047930300
+- Tract 2000: 51047990300
+- Tract 1990: 51047990300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 20752
+- Place 1990: 0355
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 354768
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 72
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2005078.
+- Record status: Existing, unchanged

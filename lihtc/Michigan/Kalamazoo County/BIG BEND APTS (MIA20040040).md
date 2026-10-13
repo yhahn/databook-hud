@@ -1,0 +1,85 @@
+# Project: BIG BEND APTS (MIA20040040)
+
+- HUD ID: MIA20040040
+- HUD ID before: 
+- Project: BIG BEND APTS
+- Address: 2210 GULL RD
+- City: KALAMAZOO
+- State: MI
+- ZIP: 49048
+- ZIP extension: 
+- State project ID: MI-1054
+- Latitude: 42.308649
+- Longitude: -85.552659
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077005502
+- Tract 2010: 26077005502
+- Tract 2000: 26077001402
+- Tract 1990: 26077001402
+- Place 2020: 24500
+- Place 2010: 24500
+- Place 2000: 17690
+- Place 1990: 0777
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 128
+- Low-income units: 127
+- Units reported: 128
+- Low-income reported: 127
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 86
+- 3-bedroom units: 42
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

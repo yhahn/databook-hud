@@ -1,0 +1,85 @@
+# Project: RIDGEVIEW COMMONS (CAA19890265)
+
+- HUD ID: CAA19890265
+- HUD ID before: 
+- Project: RIDGEVIEW COMMONS
+- Address: 5130 CASE AVE
+- City: PLEASANTON
+- State: CA
+- ZIP: 94566
+- ZIP extension: 
+- State project ID: CA-89-088
+- Latitude: 37.655507
+- Longitude: -121.881669
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001450607
+- Tract 2010: 06001450607
+- Tract 2000: 06001450607
+- Tract 1990: 06001450607
+- Place 2020: 57792
+- Place 2010: 57792
+- Place 2000: 57792
+- Place 1990: 2215
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 617802
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0001295.
+- Record status: Existing, unchanged

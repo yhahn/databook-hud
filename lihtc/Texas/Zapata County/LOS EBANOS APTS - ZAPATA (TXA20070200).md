@@ -1,0 +1,85 @@
+# Project: LOS EBANOS APTS - ZAPATA (TXA20070200)
+
+- HUD ID: TXA20070200
+- HUD ID before: 
+- Project: LOS EBANOS APTS - ZAPATA
+- Address: 1103 LINCOLN ST
+- City: ZAPATA
+- State: TX
+- ZIP: 78076
+- ZIP extension: 
+- State project ID: TX4271
+- Latitude: 26.90415
+- Longitude: -99.273354
+- County FIPS: 48505
+- County from: 2020
+- Tract 2020: 48505950305
+- Tract 2010: 48505950302
+- Tract 2000: 48505950300
+- Tract 1990: 48505950300
+- Place 2020: 80716
+- Place 2010: 80716
+- Place 2000: 25352
+- Place 1990: 4720
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 65042
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 246343
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LOS EBANOS APTS.
+- Record status: Existing, unchanged

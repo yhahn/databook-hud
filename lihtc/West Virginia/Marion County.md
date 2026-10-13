@@ -1,0 +1,25 @@
+# Tax Credit Projects: Marion County, WV
+
+- Level: County
+- Postal code: WV
+- State FIPS: 54
+- County FIPS: 54049
+- Counties: 
+- Projects: 8
+- Units: 334
+- Low-income units: 334
+
+The low-income housing tax credit projects of Marion County, West Virginia, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [MANNINGTON MANOR (WVA19940030)](./Marion%20County/MANNINGTON%20MANOR%20%28WVA19940030%29.md) | WVA19940030 | MANNINGTON | 1994 | 30 | 30 |
+| [MONONGAH HEIGHTS APTS (WVA19960030)](./Marion%20County/MONONGAH%20HEIGHTS%20APTS%20%28WVA19960030%29.md) | WVA19960030 | FAIRMONT | 1996 | 40 | 40 |
+| [BIRCH VIEW APTS (WVA19980005)](./Marion%20County/BIRCH%20VIEW%20APTS%20%28WVA19980005%29.md) | WVA19980005 | FAIRMONT | 1998 | 40 | 40 |
+| [FAIRMONT HILLS (WVA20010010)](./Marion%20County/FAIRMONT%20HILLS%20%28WVA20010010%29.md) | WVA20010010 | FAIRMONT | 2001 | 38 | 38 |
+| [UNITY TERRACE (WVA20110808)](./Marion%20County/UNITY%20TERRACE%20%28WVA20110808%29.md) | WVA20110808 | FAIRMONT | 2011 | 100 | 100 |
+| [MILLER SCHOOL (WVA20170004)](./Marion%20County/MILLER%20SCHOOL%20%28WVA20170004%29.md) | WVA20170004 | FAIRMONT | 2017 | 46 | 46 |
+| [GASTON AVENUE APARTMENTS (WVA20190002)](./Marion%20County/GASTON%20AVENUE%20APARTMENTS%20%28WVA20190002%29.md) | WVA20190002 | FAIRMONT | 2019 | 20 | 20 |
+| [PLEASANT VIEW HOMES (WVA20190009)](./Marion%20County/PLEASANT%20VIEW%20HOMES%20%28WVA20190009%29.md) | WVA20190009 | FAIRMONT | 2019 | 20 | 20 |

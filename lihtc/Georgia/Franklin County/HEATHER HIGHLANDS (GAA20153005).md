@@ -1,0 +1,85 @@
+# Project: HEATHER HIGHLANDS (GAA20153005)
+
+- HUD ID: GAA20153005
+- HUD ID before: 
+- Project: HEATHER HIGHLANDS
+- Address: 10 ED SMITH WAY
+- City: FRANKLIN SPRINGS
+- State: GA
+- ZIP: 30639
+- ZIP extension: 
+- State project ID: GA1012-472
+- Latitude: 34.3135
+- Longitude: -83.1441
+- County FIPS: 13119
+- County from: 2020
+- Tract 2020: 13119890401
+- Tract 2010: 13119890400
+- Tract 2000: 13119990400
+- Tract 1990: 13119990400
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 12932
+- Place 1990: 2475
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 436574
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.;
+- Record status: Existing, unchanged

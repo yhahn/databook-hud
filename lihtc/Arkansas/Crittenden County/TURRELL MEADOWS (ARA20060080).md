@@ -1,0 +1,85 @@
+# Project: TURRELL MEADOWS (ARA20060080)
+
+- HUD ID: ARA20060080
+- HUD ID before: 
+- Project: TURRELL MEADOWS
+- Address: 165 UPSHAW
+- City: TURRELL
+- State: AR
+- ZIP: 72384
+- ZIP extension: 
+- State project ID: AR-05-21-001
+- Latitude: 35.372415
+- Longitude: -90.258509
+- County FIPS: 05035
+- County from: 2020
+- Tract 2020: 05035030807
+- Tract 2010: 05035030807
+- Tract 2000: 05035030801
+- Tract 1990: 05035030800
+- Place 2020: 70430
+- Place 2010: 70430
+- Place 2000: 35140
+- Place 1990: 1315
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 56355
+- Units: 25
+- Low-income units: 24
+- Units reported: 25
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 13
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

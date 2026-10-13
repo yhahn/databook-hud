@@ -1,0 +1,85 @@
+# Project: ST ANTHONY'S SENIOR LIVING (ARA20050110)
+
+- HUD ID: ARA20050110
+- HUD ID before: 
+- Project: ST ANTHONY'S SENIOR LIVING
+- Address: 202 E GREEN ST
+- City: MORRILTON
+- State: AR
+- ZIP: 72110
+- ZIP extension: 
+- State project ID: AR-03-48-001
+- Latitude: 35.148218
+- Longitude: -92.743319
+- County FIPS: 05029
+- County from: 2020
+- Tract 2020: 05029950400
+- Tract 2010: 05029950400
+- Tract 2000: 05029950400
+- Tract 1990: 05029950400
+- Place 2020: 46970
+- Place 2010: 46970
+- Place 2000: 46970
+- Place 1990: 1395
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 162345
+- Units: 30
+- Low-income units: 24
+- Units reported: 30
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2004756, ARA2004057.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ASHBROOK (ALA20060008)
+
+- HUD ID: ALA20060008
+- HUD ID before: 
+- Project: ASHBROOK
+- Address: 67 ASHBROOK LN
+- City: ALBERTVILLE
+- State: AL
+- ZIP: 35951
+- ZIP extension: 
+- State project ID: AL-06-0014
+- Latitude: 34.277068
+- Longitude: -86.196017
+- County FIPS: 01095
+- County from: 2020
+- Tract 2020: 01095030801
+- Tract 2010: 01095030801
+- Tract 2000: 01095030801
+- Tract 1990: 01095030800
+- Place 2020: 00988
+- Place 2010: 00988
+- Place 2000: 00988
+- Place 1990: 0030
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 586776
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 32
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 72
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2007010.
+- Record status: Existing, unchanged

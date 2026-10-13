@@ -1,0 +1,85 @@
+# Project: TURTLE CREEK APTS PHASE II (ARA19940636)
+
+- HUD ID: ARA19940636
+- HUD ID before: 
+- Project: TURTLE CREEK APTS PHASE II
+- Address: 526 N 22ND ST
+- City: ROGERS
+- State: AR
+- ZIP: 72756
+- ZIP extension: 
+- State project ID: AR-93-22-001
+- Latitude: 36.337358
+- Longitude: -94.148226
+- County FIPS: 05007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05007020302
+- Tract 2000: 05007020302
+- Tract 1990: 05007020300
+- Place 2020: 
+- Place 2010: 60410
+- Place 2000: 60410
+- Place 1990: 1745
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1994150, ARA1994147.
+- Record status: Existing, unchanged

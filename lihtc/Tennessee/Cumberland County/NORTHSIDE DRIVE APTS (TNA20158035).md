@@ -1,0 +1,85 @@
+# Project: NORTHSIDE DRIVE APTS (TNA20158035)
+
+- HUD ID: TNA20158035
+- HUD ID before: 
+- Project: NORTHSIDE DRIVE APTS
+- Address: 250 NORTHSIDE LN
+- City: CROSSVILLE
+- State: TN
+- ZIP: 38571
+- ZIP extension: 
+- State project ID: TN-13-117
+- Latitude: 35.98061
+- Longitude: -85.049176
+- County FIPS: 47035
+- County from: 2020
+- Tract 2020: 47035970402
+- Tract 2010: 47035970400
+- Tract 2000: 47035970400
+- Tract 1990: 47035970400
+- Place 2020: 18540
+- Place 2010: 18540
+- Place 2000: 18540
+- Place 1990: 0325
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FOUNTAINS AT PERSHING PARK (FLA20110538)
+
+- HUD ID: FLA20110538
+- HUD ID before: 
+- Project: FOUNTAINS AT PERSHING PARK
+- Address: 3169 PERSHING PARK DR
+- City: ORLANDO
+- State: FL
+- ZIP: 32822
+- ZIP extension: 
+- State project ID: 2479
+- Latitude: 28.499667
+- Longitude: -81.294517
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095013505
+- Tract 2010: 12095013505
+- Tract 2000: 12095013505
+- Tract 1990: 12095013501
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 53000
+- Place 1990: 1600
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1502550
+- Units: 92
+- Low-income units: 82
+- Units reported: 92
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 37
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5365000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011065.
+- Record status: Existing, unchanged

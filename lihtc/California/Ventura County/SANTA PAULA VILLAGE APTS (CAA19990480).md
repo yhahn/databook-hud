@@ -1,0 +1,85 @@
+# Project: SANTA PAULA VILLAGE APTS (CAA19990480)
+
+- HUD ID: CAA19990480
+- HUD ID before: 
+- Project: SANTA PAULA VILLAGE APTS
+- Address: 214 N EIGHTH ST
+- City: SANTA PAULA
+- State: CA
+- ZIP: 93060
+- ZIP extension: 
+- State project ID: CA-98-904
+- Latitude: 34.35492
+- Longitude: -119.065328
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111000600
+- Tract 2010: 06111000600
+- Tract 2000: 06111000600
+- Tract 1990: 06111000600
+- Place 2020: 70042
+- Place 2010: 70042
+- Place 2000: 70042
+- Place 1990: 2605
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 103048
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

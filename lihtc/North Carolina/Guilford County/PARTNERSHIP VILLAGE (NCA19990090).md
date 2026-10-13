@@ -1,0 +1,85 @@
+# Project: PARTNERSHIP VILLAGE (NCA19990090)
+
+- HUD ID: NCA19990090
+- HUD ID before: 
+- Project: PARTNERSHIP VILLAGE
+- Address: 131 GREENBRIAR ROAD
+- City: GREENSBORO
+- State: NC
+- ZIP: 27407
+- ZIP extension: 
+- State project ID: 9001348
+- Latitude: 36.128057
+- Longitude: -79.791668
+- County FIPS: 37081
+- County from: 2020
+- Tract 2020: 37081012703
+- Tract 2010: 37081012703
+- Tract 2000: 37081012703
+- Tract 1990: 37081012703
+- Place 2020: 28000
+- Place 2010: 28000
+- Place 2000: 28000
+- Place 1990: 1065
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 110889
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 32
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

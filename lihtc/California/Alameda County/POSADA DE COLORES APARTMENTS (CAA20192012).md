@@ -1,0 +1,85 @@
+# Project: POSADA DE COLORES APARTMENTS (CAA20192012)
+
+- HUD ID: CAA20192012
+- HUD ID before: 
+- Project: POSADA DE COLORES APARTMENTS
+- Address: 2221 FRUITVALE AVENUE
+- City: OAKLAND
+- State: CA
+- ZIP: 94601
+- ZIP extension: 
+- State project ID: CA-2017-718
+- Latitude: 37.785255
+- Longitude: -122.222369
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001406300
+- Tract 2010: 06001406300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1285876
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 99
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

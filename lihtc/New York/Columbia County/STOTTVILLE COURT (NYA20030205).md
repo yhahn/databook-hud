@@ -1,0 +1,85 @@
+# Project: STOTTVILLE COURT (NYA20030205)
+
+- HUD ID: NYA20030205
+- HUD ID before: 
+- Project: STOTTVILLE COURT
+- Address: 6652 FIREHOUSE RD
+- City: HUDSON
+- State: NY
+- ZIP: 12534
+- ZIP extension: 
+- State project ID: NY-00-0045_01099
+- Latitude: 42.287911
+- Longitude: -73.748485
+- County FIPS: 36021
+- County from: 2020
+- Tract 2020: 36021000600
+- Tract 2010: 36021000600
+- Tract 2000: 36021990600
+- Tract 1990: 36021990600
+- Place 2020: 71718
+- Place 2010: 71718
+- Place 2000: 71718
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

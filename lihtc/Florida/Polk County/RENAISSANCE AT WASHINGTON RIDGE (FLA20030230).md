@@ -1,0 +1,85 @@
+# Project: RENAISSANCE AT WASHINGTON RIDGE (FLA20030230)
+
+- HUD ID: FLA20030230
+- HUD ID before: 
+- Project: RENAISSANCE AT WASHINGTON RIDGE
+- Address: 1550 HAWKINS WAY
+- City: LAKELAND
+- State: FL
+- ZIP: 33805
+- ZIP extension: 
+- State project ID: 1234
+- Latitude: 28.065598
+- Longitude: -81.959317
+- County FIPS: 12105
+- County from: 2020
+- Tract 2020: 12105011203
+- Tract 2010: 12105011203
+- Tract 2000: 12105011201
+- Tract 1990: 12105011201
+- Place 2020: 38250
+- Place 2010: 38250
+- Place 2000: 38250
+- Place 1990: 1136
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 196
+- Low-income units: 196
+- Units reported: 196
+- Low-income reported: 196
+- Efficiencies: 0
+- 1-bedroom units: 78
+- 2-bedroom units: 78
+- 3-bedroom units: 36
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

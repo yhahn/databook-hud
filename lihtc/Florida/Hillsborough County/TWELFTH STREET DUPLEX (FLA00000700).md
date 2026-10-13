@@ -1,0 +1,85 @@
+# Project: TWELFTH STREET DUPLEX (FLA00000700)
+
+- HUD ID: FLA00000700
+- HUD ID before: 
+- Project: TWELFTH STREET DUPLEX
+- Address: 9816 N 12TH ST
+- City: TAMPA
+- State: FL
+- ZIP: 33612
+- ZIP extension: 
+- State project ID: 880
+- Latitude: 28.039269
+- Longitude: -82.447397
+- County FIPS: 12057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12057000300
+- Tract 2000: 12057000300
+- Tract 1990: 12057000300
+- Place 2020: 
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2075
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,25 @@
+# Tax Credit Projects: Williams County, OH
+
+- Level: County
+- Postal code: OH
+- State FIPS: 39
+- County FIPS: 39171
+- Counties: 
+- Projects: 8
+- Units: 316
+- Low-income units: 277
+
+The low-income housing tax credit projects of Williams County, Ohio, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [BRYAN SENIOR VILLAGE APTS (OHA19870030)](./Williams%20County/BRYAN%20SENIOR%20VILLAGE%20APTS%20%28OHA19870030%29.md) | OHA19870030 | BRYAN | 1987 | 40 | 40 |
+| [WHISPERING WINDS APTS (OHA19870200)](./Williams%20County/WHISPERING%20WINDS%20APTS%20%28OHA19870200%29.md) | OHA19870200 | STRYKER | 1987 | 16 | 16 |
+| [WEST UNITY APTS (OHA19890705)](./Williams%20County/WEST%20UNITY%20APTS%20%28OHA19890705%29.md) | OHA19890705 | WEST UNITY | 1989 | 24 | 24 |
+| [WEST UNITY VILLAS (OHA19890710)](./Williams%20County/WEST%20UNITY%20VILLAS%20%28OHA19890710%29.md) | OHA19890710 | WEST UNITY | 1989 | 8 | 8 |
+| [MEADOW CREEK (OHA20000090)](./Williams%20County/MEADOW%20CREEK%20%28OHA20000090%29.md) | OHA20000090 | BRYAN | 2000 | 96 | 57 |
+| [BRYAN SENIOR HOUSING (OHA20080035)](./Williams%20County/BRYAN%20SENIOR%20HOUSING%20%28OHA20080035%29.md) | OHA20080035 | BRYAN | 2008 | 32 | 32 |
+| [BRYAN COMMUNITY APTS (OHA20120020)](./Williams%20County/BRYAN%20COMMUNITY%20APTS%20%28OHA20120020%29.md) | OHA20120020 | BRYAN | 2012 | 60 | 60 |
+| [MONTPELIER GARDENS (OHA20140130)](./Williams%20County/MONTPELIER%20GARDENS%20%28OHA20140130%29.md) | OHA20140130 | MONTPELIER | 2014 | 40 | 40 |

@@ -1,0 +1,85 @@
+# Project: GRAND FIR APARTMENTS FKA 27TH AVENUE APARTMENTS (ORA20240008)
+
+- HUD ID: ORA20240008
+- HUD ID before: 
+- Project: GRAND FIR APARTMENTS FKA 27TH AVENUE APARTMENTS
+- Address: 4455 27TH AVENUE
+- City: SALEM
+- State: OR
+- ZIP: 97302
+- ZIP extension: 
+- State project ID: OR-22-11623
+- Latitude: 44.889241
+- Longitude: -123.005386
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047001000
+- Tract 2010: 41047001000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 64900
+- Place 2010: 64900
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 47
+- 3-bedroom units: 49
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

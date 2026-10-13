@@ -1,0 +1,85 @@
+# Project: CONGRESS & PARK (VTA19950015)
+
+- HUD ID: VTA19950015
+- HUD ID before: 
+- Project: CONGRESS & PARK
+- Address: 8 PARK ST
+- City: MORRISVILLE
+- State: VT
+- ZIP: 05661
+- ZIP extension: 
+- State project ID: 0044
+- Latitude: 44.562044
+- Longitude: -72.596158
+- County FIPS: 50015
+- County from: 2020
+- Tract 2020: 50015953500
+- Tract 2010: 50015953500
+- Tract 2000: 50015953500
+- Tract 1990: 50015953500
+- Place 2020: 46825
+- Place 2010: 46825
+- Place 2000: 46825
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 37548
+- Units: 12
+- Low-income units: 8
+- Units reported: 12
+- Low-income reported: 8
+- Efficiencies: 1
+- 1-bedroom units: 5
+- 2-bedroom units: 4
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

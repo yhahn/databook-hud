@@ -1,0 +1,85 @@
+# Project: AMISTAD APTS (TXA20010010)
+
+- HUD ID: TXA20010010
+- HUD ID before: 
+- Project: AMISTAD APTS
+- Address: 202 W S AVE
+- City: DONNA
+- State: TX
+- ZIP: 78537
+- ZIP extension: 
+- State project ID: TX0026
+- Latitude: 26.164011
+- Longitude: -98.065852
+- County FIPS: 48215
+- County from: 2020
+- Tract 2020: 48215022113
+- Tract 2010: 48215022106
+- Tract 2000: 48215022102
+- Tract 1990: 48215022102
+- Place 2020: 20884
+- Place 2010: 20884
+- Place 2000: 20884
+- Place 1990: 1205
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 57
+- Units reported: 76
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 32
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

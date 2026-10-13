@@ -1,0 +1,85 @@
+# Project: THE ARBORS AT RED OAK PRESERVE (MNA20099008)
+
+- HUD ID: MNA20099008
+- HUD ID before: 
+- Project: THE ARBORS AT RED OAK PRESERVE
+- Address: 50TH AVE N AND IINTERSTATE 694
+- City: OAKDALE
+- State: MN
+- ZIP: 55128
+- ZIP extension: 
+- State project ID: D5212
+- Latitude: 44.9816
+- Longitude: -92.9724
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163070911
+- Tract 2010: 27163070911
+- Tract 2000: 27053105400
+- Tract 1990: 27053004600
+- Place 2020: 47680
+- Place 2010: 47680
+- Place 2000: 43000
+- Place 1990: 2585
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 29
+- Low-income units: 29
+- Units reported: 29
+- Low-income reported: 29
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

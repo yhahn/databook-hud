@@ -1,0 +1,85 @@
+# Project: MULBERRY TERRACE (OHA20140135)
+
+- HUD ID: OHA20140135
+- HUD ID before: 
+- Project: MULBERRY TERRACE
+- Address: 37 W SOUTHERN AVE
+- City: SPRINGFIELD
+- State: OH
+- ZIP: 45506
+- ZIP extension: 
+- State project ID: 120051
+- Latitude: 39.91107
+- Longitude: -83.812229
+- County FIPS: 39023
+- County from: 2020
+- Tract 2020: 39023001101
+- Tract 2010: 39023001101
+- Tract 2000: 39023001101
+- Tract 1990: 39023001101
+- Place 2020: 74118
+- Place 2010: 74118
+- Place 2000: 74118
+- Place 1990: 4100
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 585878
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

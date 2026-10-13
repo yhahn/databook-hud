@@ -1,0 +1,85 @@
+# Project: SHERIDAN AVENUE PROJECT (NYA19920270)
+
+- HUD ID: NYA19920270
+- HUD ID before: 
+- Project: SHERIDAN AVENUE PROJECT
+- Address: 1081 SHERIDAN AVE
+- City: BRONX
+- State: NY
+- ZIP: 10456
+- ZIP extension: 
+- State project ID: 19910473
+- Latitude: 40.831193
+- Longitude: -73.918676
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005018102
+- Tract 2010: 36005018102
+- Tract 2000: 36005018100
+- Tract 1990: 36005018100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 85
+- Units reported: 168
+- Low-income reported: 85
+- Efficiencies: 1
+- 1-bedroom units: 15
+- 2-bedroom units: 44
+- 3-bedroom units: 24
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

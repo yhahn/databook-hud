@@ -1,0 +1,85 @@
+# Project: BENTWOOD (TXA19940045)
+
+- HUD ID: TXA19940045
+- HUD ID before: 
+- Project: BENTWOOD
+- Address: 1208 THIRD ST
+- City: ABERNATHY
+- State: TX
+- ZIP: 79311
+- ZIP extension: 
+- State project ID: TX-93-016
+- Latitude: 33.826501
+- Longitude: -101.853366
+- County FIPS: 48303
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48303010200
+- Tract 2000: 48303010200
+- Tract 1990: 48303010200
+- Place 2020: 
+- Place 2010: 00160
+- Place 2000: 00160
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

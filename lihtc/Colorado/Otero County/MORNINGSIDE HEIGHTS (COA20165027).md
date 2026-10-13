@@ -1,0 +1,85 @@
+# Project: MORNINGSIDE HEIGHTS (COA20165027)
+
+- HUD ID: COA20165027
+- HUD ID before: 
+- Project: MORNINGSIDE HEIGHTS
+- Address: 1516 E SIXTH ST
+- City: LA JUNTA
+- State: CO
+- ZIP: 81050
+- ZIP extension: 
+- State project ID: M000-065
+- Latitude: 37.982519
+- Longitude: -103.523775
+- County FIPS: 08089
+- County from: 2020
+- Tract 2020: 08089968300
+- Tract 2010: 08089968300
+- Tract 2000: 08089987800
+- Tract 1990: 08089987800
+- Place 2020: 42110
+- Place 2010: 42110
+- Place 2000: 42110
+- Place 1990: 0745
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS COA0000015. PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

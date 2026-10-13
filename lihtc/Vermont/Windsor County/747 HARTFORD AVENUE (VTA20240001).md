@@ -1,0 +1,85 @@
+# Project: 747 HARTFORD AVENUE (VTA20240001)
+
+- HUD ID: VTA20240001
+- HUD ID before: 
+- Project: 747 HARTFORD AVENUE
+- Address: 747 HARTFORD AVENUE
+- City: WHITE RIVER JCT
+- State: VT
+- ZIP: 05001
+- ZIP extension: 
+- State project ID: VT594
+- Latitude: 43.659076
+- Longitude: -72.314524
+- County FIPS: 50027
+- County from: 2020
+- Tract 2020: 50027965600
+- Tract 2010: 50027965600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 83575
+- Place 2010: 83575
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 360822
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

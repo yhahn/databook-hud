@@ -1,0 +1,85 @@
+# Project: MOUNT VERNON MANOR (ILB20069017)
+
+- HUD ID: ILB20069017
+- HUD ID before: 
+- Project: MOUNT VERNON MANOR
+- Address: 30 N. WALLER AVE #111
+- City: CHICAGO
+- State: IL
+- ZIP: 60644
+- ZIP extension: 
+- State project ID: IL-04-005
+- Latitude: 41.881124
+- Longitude: -87.768337
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031252000
+- Tract 2010: 17031252000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 61
+- Low-income units: 60
+- Units reported: 61
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 60
+- 2-bedroom units: 1
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 60
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

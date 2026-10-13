@@ -1,0 +1,85 @@
+# Project: THE KELSEY AYER STATION (CAA20240128)
+
+- HUD ID: CAA20240128
+- HUD ID before: 
+- Project: THE KELSEY AYER STATION
+- Address: 457 N 1ST STREET
+- City: SAN JOSE
+- State: CA
+- ZIP: 95112
+- ZIP extension: 
+- State project ID: CA-2021-750
+- Latitude: 37.34348
+- Longitude: -121.896332
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085500200
+- Tract 2010: 06085500200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 2562483
+- Units: 115
+- Low-income units: 113
+- Units reported: 115
+- Low-income reported: 113
+- Efficiencies: 90
+- 1-bedroom units: 
+- 2-bedroom units: 25
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: Yes
+- Other population named: ADA and Accessible Units pursuant to CBC Chapter 11B
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

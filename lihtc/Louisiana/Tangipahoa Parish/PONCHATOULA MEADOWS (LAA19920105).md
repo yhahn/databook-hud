@@ -1,0 +1,85 @@
+# Project: PONCHATOULA MEADOWS (LAA19920105)
+
+- HUD ID: LAA19920105
+- HUD ID before: 
+- Project: PONCHATOULA MEADOWS
+- Address: 3200 OAK MEADOW LN
+- City: PONCHATOULA
+- State: LA
+- ZIP: 70454
+- ZIP extension: 
+- State project ID: LA-90-041
+- Latitude: 30.437974
+- Longitude: -90.457069
+- County FIPS: 22105
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22105954700
+- Tract 2000: 22105954700
+- Tract 1990: 22105954700
+- Place 2020: 
+- Place 2010: 61615
+- Place 2000: 61615
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

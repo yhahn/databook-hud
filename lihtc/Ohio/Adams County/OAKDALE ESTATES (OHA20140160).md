@@ -1,0 +1,85 @@
+# Project: OAKDALE ESTATES (OHA20140160)
+
+- HUD ID: OHA20140160
+- HUD ID before: 
+- Project: OAKDALE ESTATES
+- Address: 310 RICE DR
+- City: WEST UNION
+- State: OH
+- ZIP: 45693
+- ZIP extension: 
+- State project ID: 120145
+- Latitude: 38.775314
+- Longitude: -83.564025
+- County FIPS: 39001
+- County from: 2020
+- Tract 2020: 39001770400
+- Tract 2010: 39001770400
+- Tract 2000: 39001990400
+- Tract 1990: 39001990400
+- Place 2020: 84294
+- Place 2010: 84294
+- Place 2000: 84294
+- Place 1990: 4660
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 270120
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

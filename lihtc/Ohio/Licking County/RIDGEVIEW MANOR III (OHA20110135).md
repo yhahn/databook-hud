@@ -1,0 +1,85 @@
+# Project: RIDGEVIEW MANOR III (OHA20110135)
+
+- HUD ID: OHA20110135
+- HUD ID before: 
+- Project: RIDGEVIEW MANOR III
+- Address: 436 CLARK DR
+- City: JOHNSTOWN
+- State: OH
+- ZIP: 43031
+- ZIP extension: 
+- State project ID: 090116
+- Latitude: 40.144226
+- Longitude: -82.704055
+- County FIPS: 39089
+- County from: 2020
+- Tract 2020: 39089755302
+- Tract 2010: 39089755300
+- Tract 2000: 39089755300
+- Tract 1990: 39089755300
+- Place 2020: 39340
+- Place 2010: 39340
+- Place 2000: 39340
+- Place 1990: 1995
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1752490
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2011840. AKA RIDGEVIEW III.
+- Record status: Existing, unchanged

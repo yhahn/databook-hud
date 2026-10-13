@@ -1,0 +1,85 @@
+# Project: 51-57 BEALS STREET (MAB20161001)
+
+- HUD ID: MAB20161001
+- HUD ID before: 
+- Project: 51-57 BEALS STREET
+- Address: 55-57 BEALS STREET
+- City: BROOKLINE
+- State: MA
+- ZIP: 02446
+- ZIP extension: 
+- State project ID: MA-18-14
+- Latitude: 42.34602
+- Longitude: -71.124761
+- County FIPS: 25021
+- County from: 2020
+- Tract 2020: 25021400300
+- Tract 2010: 25021400300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 09210
+- Place 2010: 09210
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 326892
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 31
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

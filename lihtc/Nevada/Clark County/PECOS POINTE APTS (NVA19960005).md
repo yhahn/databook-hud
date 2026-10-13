@@ -1,0 +1,85 @@
+# Project: PECOS POINTE APTS (NVA19960005)
+
+- HUD ID: NVA19960005
+- HUD ID before: 
+- Project: PECOS POINTE APTS
+- Address: 1650 N PECOS RD
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89115
+- ZIP extension: 
+- State project ID: NV-94-10
+- Latitude: 36.189778
+- Longitude: -115.09812
+- County FIPS: 32003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 32003004710
+- Tract 2000: 32003004710
+- Tract 1990: 32003004702
+- Place 2020: 
+- Place 2010: 71400
+- Place 2000: 71400
+- Place 1990: 0110
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 652626
+- Units: 160
+- Low-income units: 156
+- Units reported: 160
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 100
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

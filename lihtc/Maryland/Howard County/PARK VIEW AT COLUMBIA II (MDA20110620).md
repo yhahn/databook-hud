@@ -1,0 +1,85 @@
+# Project: PARK VIEW AT COLUMBIA II (MDA20110620)
+
+- HUD ID: MDA20110620
+- HUD ID before: 
+- Project: PARK VIEW AT COLUMBIA II
+- Address: 7070 CRADLEROCK WAY
+- City: COLUMBIA
+- State: MD
+- ZIP: 21045
+- ZIP extension: 
+- State project ID: MD92-29001
+- Latitude: 39.186645
+- Longitude: -76.840305
+- County FIPS: 24027
+- County from: 2020
+- Tract 2020: 24027606704
+- Tract 2010: 24027606704
+- Tract 2000: 24027606704
+- Tract 1990: 24027606702
+- Place 2020: 19125
+- Place 2010: 19125
+- Place 2000: 19125
+- Place 1990: 0227
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 3
+- 1-bedroom units: 101
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA2011026.
+- Record status: Existing, unchanged

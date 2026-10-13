@@ -1,0 +1,85 @@
+# Project: SODUS AND WILLIAMSON 11 RD (NYB20161041)
+
+- HUD ID: NYB20161041
+- HUD ID before: 
+- Project: SODUS AND WILLIAMSON 11 RD
+- Address: 7 NEWARK ST
+- City: SODUS
+- State: NY
+- ZIP: 14551
+- ZIP extension: 
+- State project ID: NY-XX-2240
+- Latitude: 43.235884
+- Longitude: -77.070895
+- County FIPS: 36117
+- County from: 2020
+- Tract 2020: 36117020900
+- Tract 2010: 36117020900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 68209
+- Place 2010: 68209
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 2141902
+- Units: 96
+- Low-income units: 94
+- Units reported: 96
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MARK 0 HATFIELD BLDG (ORA19950075)
+
+- HUD ID: ORA19950075
+- HUD ID before: 
+- Project: MARK 0 HATFIELD BLDG
+- Address: 718 W BURNSIDE ST
+- City: PORTLAND
+- State: OR
+- ZIP: 
+- ZIP extension: 
+- State project ID: 94-1-048
+- Latitude: 
+- Longitude: 
+- County FIPS: 41051
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 41051005300
+- Tract 1990: 41051005300
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 120000
+- Units: 106
+- Low-income units: 106
+- Units reported: 106
+- Low-income reported: 106
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: ALCOHOL/DRUG RECOVERY
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

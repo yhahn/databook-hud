@@ -1,0 +1,85 @@
+# Project: PINEDALE II (WIA19940135)
+
+- HUD ID: WIA19940135
+- HUD ID before: 
+- Project: PINEDALE II
+- Address: 384 RED CEDAR ST
+- City: MENOMONIE
+- State: WI
+- ZIP: 54751
+- ZIP extension: 
+- State project ID: 1405
+- Latitude: 44.88572
+- Longitude: -91.896721
+- County FIPS: 55033
+- County from: 2020
+- Tract 2020: 55033970500
+- Tract 2010: 55033970500
+- Tract 2000: 55033970500
+- Tract 1990: 55033970500
+- Place 2020: 51025
+- Place 2010: 51025
+- Place 2000: 51025
+- Place 1990: 1590
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 32
+- Units reported: 60
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 0
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

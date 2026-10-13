@@ -1,0 +1,85 @@
+# Project: ANITOCH MANOR I (GAA20059804)
+
+- HUD ID: GAA20059804
+- HUD ID before: 
+- Project: ANITOCH MANOR I
+- Address: 4711 BISHOP MING BLVD
+- City: STONE MOUNTAIN
+- State: GA
+- ZIP: 30088
+- ZIP extension: 5700
+- State project ID: 2003-043
+- Latitude: 33.737765
+- Longitude: -84.194694
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089023216
+- Tract 2010: 13089023206
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 96
+- Units reported: 120
+- Low-income reported: 96
+- Efficiencies: 5
+- 1-bedroom units: 63
+- 2-bedroom units: 38
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: COMMONS AT SPRING MILL (INA20120060)
+
+- HUD ID: INA20120060
+- HUD ID before: 
+- Project: COMMONS AT SPRING MILL
+- Address: 17308 CAYUGA DR
+- City: WESTFIELD
+- State: IN
+- ZIP: 46074
+- ZIP extension: 
+- State project ID: IN-10-00700
+- Latitude: 40.038127
+- Longitude: -86.170939
+- County FIPS: 18057
+- County from: 2020
+- Tract 2020: 18057110301
+- Tract 2010: 18057110300
+- Tract 2000: 18057110300
+- Tract 1990: 18057110300
+- Place 2020: 82700
+- Place 2010: 82700
+- Place 2000: 69354
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 800000
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 32
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

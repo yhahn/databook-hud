@@ -1,0 +1,85 @@
+# Project: OAK RIDGE ESTATES (FLA20110170)
+
+- HUD ID: FLA20110170
+- HUD ID before: 
+- Project: OAK RIDGE ESTATES
+- Address: 402 E MORGAN ST
+- City: TARPON SPRINGS
+- State: FL
+- ZIP: 34689
+- ZIP extension: 
+- State project ID: 2489
+- Latitude: 28.140268
+- Longitude: -82.752346
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103027404
+- Tract 2010: 12103027402
+- Tract 2000: 12103027402
+- Tract 1990: 12103027402
+- Place 2020: 71150
+- Place 2010: 71150
+- Place 2000: 71150
+- Place 1990: 2080
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 961000
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 54
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3100000
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011535.
+- Record status: Existing, unchanged

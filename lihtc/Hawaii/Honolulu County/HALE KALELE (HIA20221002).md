@@ -1,0 +1,85 @@
+# Project: HALE KALELE (HIA20221002)
+
+- HUD ID: HIA20221002
+- HUD ID before: 
+- Project: HALE KALELE
+- Address: 901 PIIKOI ST
+- City: HONOLULU
+- State: HI
+- ZIP: 96814
+- ZIP extension: 
+- State project ID: HI-2019-003
+- Latitude: 21.2986
+- Longitude: -157.844484
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003003606
+- Tract 2010: 15003003601
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71550
+- Place 2010: 71550
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 3620779
+- Units: 201
+- Low-income units: 200
+- Units reported: 201
+- Low-income reported: 200
+- Efficiencies: 36
+- 1-bedroom units: 54
+- 2-bedroom units: 111
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

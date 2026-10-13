@@ -1,0 +1,85 @@
+# Project: PARK AT LAKEWOOD (GAA19970220)
+
+- HUD ID: GAA19970220
+- HUD ID before: 
+- Project: PARK AT LAKEWOOD
+- Address: 1991 DELOWE DR SW
+- City: ATLANTA
+- State: GA
+- ZIP: 30311
+- ZIP extension: 
+- State project ID: GA-97-513
+- Latitude: 33.700332
+- Longitude: -84.457539
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121007604
+- Tract 2010: 13121007604
+- Tract 2000: 13121007601
+- Tract 1990: 13121007601
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

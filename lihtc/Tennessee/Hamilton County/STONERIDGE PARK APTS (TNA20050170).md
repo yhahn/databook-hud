@@ -1,0 +1,85 @@
+# Project: STONERIDGE PARK APTS (TNA20050170)
+
+- HUD ID: TNA20050170
+- HUD ID before: 
+- Project: STONERIDGE PARK APTS
+- Address: 1020 W 37TH ST
+- City: CHATTANOOGA
+- State: TN
+- ZIP: 37410
+- ZIP extension: 
+- State project ID: TN-02-020
+- Latitude: 35.011058
+- Longitude: -85.321855
+- County FIPS: 47065
+- County from: 2020
+- Tract 2020: 47065001900
+- Tract 2010: 47065001900
+- Tract 2000: 47065001900
+- Tract 1990: 47065001900
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 0245
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 460234
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 36
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2004080,,, TNA2004803.
+- Record status: Existing, unchanged

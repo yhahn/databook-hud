@@ -1,0 +1,85 @@
+# Project: SHADOW GLEN APTS (TXA19950345)
+
+- HUD ID: TXA19950345
+- HUD ID before: 
+- Project: SHADOW GLEN APTS
+- Address: 3200 ST JULIET ST
+- City: FORT WORTH
+- State: TX
+- ZIP: 76107
+- ZIP extension: 
+- State project ID: TX-93-110
+- Latitude: 32.757872
+- Longitude: -97.362528
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439102102
+- Tract 2010: 48439102100
+- Tract 2000: 48439102100
+- Tract 1990: 48439102100
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1500
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 74
+- 2-bedroom units: 72
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

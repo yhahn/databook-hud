@@ -1,0 +1,85 @@
+# Project: EVERGREEN VILLAGE AT FORT WAYNE (INA20202172)
+
+- HUD ID: INA20202172
+- HUD ID before: 
+- Project: EVERGREEN VILLAGE AT FORT WAYNE
+- Address: 12523 AUBURN RD
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46845
+- ZIP extension: 
+- State project ID: IN-18-02500
+- Latitude: 41.198909
+- Longitude: -85.114367
+- County FIPS: 18003
+- County from: 2020
+- Tract 2020: 18003010304
+- Tract 2010: 18003010304
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 719836
+- Units: 144
+- Low-income units: 125
+- Units reported: 144
+- Low-income reported: 125
+- Efficiencies: 44
+- 1-bedroom units: 81
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

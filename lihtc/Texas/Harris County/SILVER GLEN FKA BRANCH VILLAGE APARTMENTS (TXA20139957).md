@@ -1,0 +1,85 @@
+# Project: SILVER GLEN FKA BRANCH VILLAGE APARTMENTS (TXA20139957)
+
+- HUD ID: TXA20139957
+- HUD ID before: 
+- Project: SILVER GLEN FKA BRANCH VILLAGE APARTMENTS
+- Address: 7601 CURRY RD
+- City: HOUSTON
+- State: TX
+- ZIP: 77093
+- ZIP extension: 
+- State project ID: TX1012-1374
+- Latitude: 29.828151
+- Longitude: -95.337911
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201220800
+- Tract 2010: 48201220800
+- Tract 2000: 48201220800
+- Tract 1990: 48201021804
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Updated

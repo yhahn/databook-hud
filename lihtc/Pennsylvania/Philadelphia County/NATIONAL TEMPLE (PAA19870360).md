@@ -1,0 +1,85 @@
+# Project: NATIONAL TEMPLE (PAA19870360)
+
+- HUD ID: PAA19870360
+- HUD ID before: 
+- Project: NATIONAL TEMPLE
+- Address: 1327 N 16TH ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19121
+- ZIP extension: 
+- State project ID: TC1987-0091
+- Latitude: 39.974341
+- Longitude: -75.161946
+- County FIPS: 42101
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42101014000
+- Tract 2000: 42101014000
+- Tract 1990: 42101014000
+- Place 2020: 
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 18172
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 1
+- 3-bedroom units: 3
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

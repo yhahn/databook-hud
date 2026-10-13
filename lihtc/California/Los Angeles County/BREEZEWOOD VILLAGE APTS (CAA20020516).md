@@ -1,0 +1,85 @@
+# Project: BREEZEWOOD VILLAGE APTS (CAA20020516)
+
+- HUD ID: CAA20020516
+- HUD ID before: 
+- Project: BREEZEWOOD VILLAGE APTS
+- Address: 16000 GRAYVILLE DR
+- City: LA MIRADA
+- State: CA
+- ZIP: 90638
+- ZIP extension: 
+- State project ID: CA-03-811
+- Latitude: 33.916187
+- Longitude: -117.989856
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037503705
+- Tract 2010: 06037503703
+- Tract 2000: 06037503703
+- Tract 1990: 06037503703
+- Place 2020: 40032
+- Place 2010: 40032
+- Place 2000: 40032
+- Place 1990: 1462
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 471799
+- Units: 122
+- Low-income units: 120
+- Units reported: 122
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 104
+- 2-bedroom units: 17
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

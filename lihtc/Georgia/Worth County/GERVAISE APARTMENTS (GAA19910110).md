@@ -1,0 +1,85 @@
+# Project: GERVAISE APARTMENTS (GAA19910110)
+
+- HUD ID: GAA19910110
+- HUD ID before: 
+- Project: GERVAISE APARTMENTS
+- Address: 602 SUMNER ST
+- City: SYLVESTER
+- State: GA
+- ZIP: 31791
+- ZIP extension: 
+- State project ID: GA-90-096
+- Latitude: 31.531951
+- Longitude: -83.819261
+- County FIPS: 13321
+- County from: 2020
+- Tract 2020: 13321950202
+- Tract 2010: 13321950200
+- Tract 2000: 13321950200
+- Tract 1990: 13321950200
+- Place 2020: 75188
+- Place 2010: 75188
+- Place 2000: 75188
+- Place 1990: 2740
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

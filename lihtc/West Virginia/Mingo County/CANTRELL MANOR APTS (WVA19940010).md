@@ -1,0 +1,85 @@
+# Project: CANTRELL MANOR APTS (WVA19940010)
+
+- HUD ID: WVA19940010
+- HUD ID before: 
+- Project: CANTRELL MANOR APTS
+- Address: 1500 W FIFTH AVE
+- City: WILLIAMSON
+- State: WV
+- ZIP: 25661
+- ZIP extension: 
+- State project ID: WV-93-140
+- Latitude: 37.673807
+- Longitude: -82.290928
+- County FIPS: 54059
+- County from: 2020
+- Tract 2020: 54059957400
+- Tract 2010: 54059957400
+- Tract 2000: 54059957400
+- Tract 1990: 54059957400
+- Place 2020: 87508
+- Place 2010: 87508
+- Place 2000: 14692
+- Place 1990: 1720
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NORTHPOINTE PARK APTS (CAA20060100)
+
+- HUD ID: CAA20060100
+- HUD ID before: 
+- Project: NORTHPOINTE PARK APTS
+- Address: 5801 ZURLO WAY
+- City: SACRAMENTO
+- State: CA
+- ZIP: 
+- ZIP extension: 
+- State project ID: CA-03-916
+- Latitude: 38.6726
+- Longitude: -121.5163
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067007110
+- Tract 2010: 06067007104
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 552688
+- Units: 180
+- Low-income units: 144
+- Units reported: 180
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 72
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

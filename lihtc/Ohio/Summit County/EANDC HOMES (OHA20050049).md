@@ -1,0 +1,85 @@
+# Project: EANDC HOMES (OHA20050049)
+
+- HUD ID: OHA20050049
+- HUD ID before: 
+- Project: EANDC HOMES
+- Address: 209 CUYAHOGA ST
+- City: AKRON
+- State: OH
+- ZIP: 44304
+- ZIP extension: 
+- State project ID: 030044
+- Latitude: 41.096774
+- Longitude: -81.519945
+- County FIPS: 39153
+- County from: 2020
+- Tract 2020: 39153507400
+- Tract 2010: 39153507400
+- Tract 2000: 39153507400
+- Tract 1990: 39153507400
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0035
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 10
+- 4-bedroom units: 22
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 450000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

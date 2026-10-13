@@ -1,0 +1,85 @@
+# Project: EMERALD PALMS (FLA20210004)
+
+- HUD ID: FLA20210004
+- HUD ID before: 
+- Project: EMERALD PALMS
+- Address: 5331 SOUTHWEST 43RD TERRACE
+- City: DANIA BEACH
+- State: FL
+- ZIP: 33314
+- ZIP extension: 
+- State project ID: 1074
+- Latitude: 26.055457
+- Longitude: -80.204311
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011080403
+- Tract 2010: 12011080403
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 16335
+- Place 2010: 16335
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 318
+- Low-income units: 318
+- Units reported: 318
+- Low-income reported: 318
+- Efficiencies: 0
+- 1-bedroom units: 75
+- 2-bedroom units: 145
+- 3-bedroom units: 97
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Family
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

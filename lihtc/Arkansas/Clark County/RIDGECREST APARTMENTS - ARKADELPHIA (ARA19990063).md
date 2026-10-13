@@ -1,0 +1,85 @@
+# Project: RIDGECREST APARTMENTS - ARKADELPHIA (ARA19990063)
+
+- HUD ID: ARA19990063
+- HUD ID before: 
+- Project: RIDGECREST APARTMENTS - ARKADELPHIA
+- Address: 724 S 10TH ST
+- City: ARKADELPHIA
+- State: AR
+- ZIP: 71923
+- ZIP extension: 
+- State project ID: AR-98-17
+- Latitude: 34.114558
+- Longitude: -93.058723
+- County FIPS: 05019
+- County from: 2020
+- Tract 2020: 05019953800
+- Tract 2010: 05019953800
+- Tract 2000: 05019953800
+- Tract 1990: 05019953800
+- Place 2020: 01870
+- Place 2010: 01870
+- Place 2000: 01870
+- Place 1990: 0065
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 46852
+- Units: 25
+- Low-income units: 24
+- Units reported: 25
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 20
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1999060. FKA BLUFFS ON MCCAIN PHASE I
+- Record status: Existing, unchanged

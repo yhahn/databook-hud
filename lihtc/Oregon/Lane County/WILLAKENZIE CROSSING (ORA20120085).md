@@ -1,0 +1,85 @@
+# Project: WILLAKENZIE CROSSING (ORA20120085)
+
+- HUD ID: ORA20120085
+- HUD ID before: 
+- Project: WILLAKENZIE CROSSING
+- Address: 3057 WILLAKENZIE RD
+- City: EUGENE
+- State: OR
+- ZIP: 97401
+- ZIP extension: 
+- State project ID: 2989
+- Latitude: 44.08183
+- Longitude: -123.061328
+- County FIPS: 41039
+- County from: 2020
+- Tract 2020: 41039003101
+- Tract 2010: 41039003101
+- Tract 2000: 41039003101
+- Tract 1990: 41039003101
+- Place 2020: 23850
+- Place 2010: 23850
+- Place 2000: 23850
+- Place 1990: 0360
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 820000
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 8
+- 1-bedroom units: 16
+- 2-bedroom units: 26
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 680000
+- CDBG: Yes
+- CDBG amount: 487500
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

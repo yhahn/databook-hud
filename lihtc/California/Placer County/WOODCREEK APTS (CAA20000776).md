@@ -1,0 +1,85 @@
+# Project: WOODCREEK APTS (CAA20000776)
+
+- HUD ID: CAA20000776
+- HUD ID before: 
+- Project: WOODCREEK APTS
+- Address: 1550 PLEASANT GROVE BLVD
+- City: ROSEVILLE
+- State: CA
+- ZIP: 95747
+- ZIP extension: 
+- State project ID: CA-02-811
+- Latitude: 38.768821
+- Longitude: -121.333417
+- County FIPS: 06061
+- County from: 2020
+- Tract 2020: 06061021044
+- Tract 2010: 06061021044
+- Tract 2000: 06061021005
+- Tract 1990: 06061021001
+- Place 2020: 62938
+- Place 2010: 62938
+- Place 2000: 62938
+- Place 1990: 2405
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 99498
+- Units: 80
+- Low-income units: 34
+- Units reported: 80
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

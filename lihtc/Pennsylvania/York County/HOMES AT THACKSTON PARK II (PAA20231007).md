@@ -1,0 +1,85 @@
+# Project: HOMES AT THACKSTON PARK II (PAA20231007)
+
+- HUD ID: PAA20231007
+- HUD ID before: 
+- Project: HOMES AT THACKSTON PARK II
+- Address: MULTIPLE ADDRESSES
+- City: YORK
+- State: PA
+- ZIP: 17401
+- ZIP extension: 3807
+- State project ID: TC20210621
+- Latitude: 39.9661
+- Longitude: -76.729
+- County FIPS: 42133
+- County from: 2020
+- Tract 2020: 42133001600
+- Tract 2010: 42133001600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 87048
+- Place 2010: 87048
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1312500
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 14
+- 3-bedroom units: 26
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 6388532
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 7932188
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

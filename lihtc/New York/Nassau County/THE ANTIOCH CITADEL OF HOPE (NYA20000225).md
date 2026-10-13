@@ -1,0 +1,85 @@
+# Project: THE ANTIOCH CITADEL OF HOPE (NYA20000225)
+
+- HUD ID: NYA20000225
+- HUD ID before: 
+- Project: THE ANTIOCH CITADEL OF HOPE
+- Address: 107 JAMES L L BURRELL AVE
+- City: HEMPSTEAD
+- State: NY
+- ZIP: 11550
+- ZIP extension: 
+- State project ID: NY-98-0460_00955
+- Latitude: 40.718438
+- Longitude: -73.616147
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059406900
+- Tract 2010: 36059406900
+- Tract 2000: 36059406900
+- Tract 1990: 36059406900
+- Place 2020: 33139
+- Place 2010: 33139
+- Place 2000: 33139
+- Place 1990: 1545
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 8
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ANTIOCH SENIOR HOUSING.
+- Record status: Existing, unchanged

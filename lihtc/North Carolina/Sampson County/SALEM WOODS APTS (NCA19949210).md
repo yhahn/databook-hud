@@ -1,0 +1,85 @@
+# Project: SALEM WOODS APTS (NCA19949210)
+
+- HUD ID: NCA19949210
+- HUD ID before: 
+- Project: SALEM WOODS APTS
+- Address: 300 SALEM CIRCLE
+- City: SALEMBURG
+- State: NC
+- ZIP: 28385
+- ZIP extension: 
+- State project ID: 9001074
+- Latitude: 35.026067
+- Longitude: -78.501489
+- County FIPS: 37163
+- County from: 2020
+- Tract 2020: 37163970501
+- Tract 2010: 37163970500
+- Tract 2000: 37163970500
+- Tract 1990: 37163970500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 32712
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Updated

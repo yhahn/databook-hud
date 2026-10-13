@@ -1,0 +1,85 @@
+# Project: JEFFERSONVILLE BOND (VTA20010050)
+
+- HUD ID: VTA20010050
+- HUD ID before: 
+- Project: JEFFERSONVILLE BOND
+- Address: 115 MANNS MDW
+- City: JEFFERSONVILLE
+- State: VT
+- ZIP: 05464
+- ZIP extension: 
+- State project ID: 0197
+- Latitude: 44.645013
+- Longitude: -72.832287
+- County FIPS: 50015
+- County from: 2020
+- Tract 2020: 50015953100
+- Tract 2010: 50015953100
+- Tract 2000: 50015953100
+- Tract 1990: 50015953100
+- Place 2020: 36475
+- Place 2010: 36475
+- Place 2000: 11425
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 78109
+- Units: 22
+- Low-income units: 18
+- Units reported: 22
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

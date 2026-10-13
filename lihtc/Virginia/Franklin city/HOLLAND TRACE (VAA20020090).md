@@ -1,0 +1,85 @@
+# Project: HOLLAND TRACE (VAA20020090)
+
+- HUD ID: VAA20020090
+- HUD ID before: 
+- Project: HOLLAND TRACE
+- Address: 1903 S ST
+- City: FRANKLIN
+- State: VA
+- ZIP: 23851
+- ZIP extension: 
+- State project ID: 8332
+- Latitude: 36.665947
+- Longitude: -76.935982
+- County FIPS: 51620
+- County from: 2020
+- Tract 2020: 51620090200
+- Tract 2010: 51620090200
+- Tract 2000: 51620090200
+- Tract 1990: 51620090200
+- Place 2020: 29600
+- Place 2010: 29600
+- Place 2000: 29600
+- Place 1990: 0500
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 332216
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HOLLAND TRACE SENIORS APTS.
+- Record status: Existing, unchanged

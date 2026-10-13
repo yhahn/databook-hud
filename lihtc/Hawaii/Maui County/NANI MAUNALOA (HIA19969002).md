@@ -1,0 +1,85 @@
+# Project: NANI MAUNALOA (HIA19969002)
+
+- HUD ID: HIA19969002
+- HUD ID before: 
+- Project: NANI MAUNALOA
+- Address: 21 NANI MAUNALOA
+- City: MAUNALOA
+- State: HI
+- ZIP: 96770
+- ZIP extension: 
+- State project ID: HI-1996-003
+- Latitude: 21.1554
+- Longitude: -157.1494
+- County FIPS: 15009
+- County from: 2020
+- Tract 2020: 15009031801
+- Tract 2010: 15009031801
+- Tract 2000: 15009031800
+- Tract 1990: 
+- Place 2020: 39500
+- Place 2010: 39500
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 346694
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 6
+- 3-bedroom units: 40
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

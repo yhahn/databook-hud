@@ -1,0 +1,85 @@
+# Project: DEER HOLLOW SENIOR APTS (NMA20000020)
+
+- HUD ID: NMA20000020
+- HUD ID before: 
+- Project: DEER HOLLOW SENIOR APTS
+- Address: 701 N BERGIN LN
+- City: BLOOMFIELD
+- State: NM
+- ZIP: 87413
+- ZIP extension: 
+- State project ID: 00283
+- Latitude: 36.71728
+- Longitude: -108.001914
+- County FIPS: 35045
+- County from: 2020
+- Tract 2020: 35045000707
+- Tract 2010: 35045000707
+- Tract 2000: 35045000704
+- Tract 1990: 35045000602
+- Place 2020: 07880
+- Place 2010: 07880
+- Place 2000: 07880
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

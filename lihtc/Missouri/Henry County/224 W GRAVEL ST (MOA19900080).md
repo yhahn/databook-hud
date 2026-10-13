@@ -1,0 +1,85 @@
+# Project: 224 W GRAVEL ST (MOA19900080)
+
+- HUD ID: MOA19900080
+- HUD ID before: 
+- Project: 224 W GRAVEL ST
+- Address: 224 W GRAVEL ST
+- City: CLINTON
+- State: MO
+- ZIP: 64735
+- ZIP extension: 
+- State project ID: 90-151
+- Latitude: 38.373808
+- Longitude: -93.778097
+- County FIPS: 29083
+- County from: 2020
+- Tract 2020: 29083950500
+- Tract 2010: 29083950500
+- Tract 2000: 29083950500
+- Tract 1990: 29083950500
+- Place 2020: 14986
+- Place 2010: 14986
+- Place 2000: 14986
+- Place 1990: 0895
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

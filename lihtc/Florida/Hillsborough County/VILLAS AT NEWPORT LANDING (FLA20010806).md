@@ -1,0 +1,85 @@
+# Project: VILLAS AT NEWPORT LANDING (FLA20010806)
+
+- HUD ID: FLA20010806
+- HUD ID before: 
+- Project: VILLAS AT NEWPORT LANDING
+- Address: 6302 AMERICAS CUP AVENUE
+- City: TAMPA
+- State: FL
+- ZIP: 33625
+- ZIP extension: 
+- State project ID: 540
+- Latitude: 28.053412
+- Longitude: -82.549384
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057011415
+- Tract 2010: 12057011415
+- Tract 2000: 12057011415
+- Tract 1990: 12057011405
+- Place 2020: 12425
+- Place 2010: 12425
+- Place 2000: 12425
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 536068
+- Units: 122
+- Low-income units: 122
+- Units reported: 122
+- Low-income reported: 122
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 52
+- 3-bedroom units: 40
+- 4-bedroom units: 11
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2001130. AKA NEWPORT LANDING.
+- Record status: Existing, unchanged

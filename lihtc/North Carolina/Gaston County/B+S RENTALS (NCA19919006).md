@@ -1,0 +1,85 @@
+# Project: B+S RENTALS (NCA19919006)
+
+- HUD ID: NCA19919006
+- HUD ID before: 
+- Project: B+S RENTALS
+- Address: 405 412 516 FLINT ST 516 COBB ST 115 LINCOLN
+- City: GASTONIA
+- State: NC
+- ZIP: 28054
+- ZIP extension: 
+- State project ID: 9000706
+- Latitude: 35.2565
+- Longitude: -81.1634
+- County FIPS: 37071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37071032703
+- Tract 2000: 37071032701
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 25580
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 14374
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 7
+- 3-bedroom units: 1
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

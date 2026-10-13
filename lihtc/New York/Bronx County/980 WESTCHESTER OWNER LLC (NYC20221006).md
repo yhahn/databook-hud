@@ -1,0 +1,85 @@
+# Project: 980 WESTCHESTER OWNER LLC (NYC20221006)
+
+- HUD ID: NYC20221006
+- HUD ID before: 
+- Project: 980 WESTCHESTER OWNER LLC
+- Address: 980 WESTCHESTER AVE
+- City: BRONX
+- State: NY
+- ZIP: 10459
+- ZIP extension: 
+- State project ID: 27-0000063
+- Latitude: 40.823004
+- Longitude: -73.894759
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005015900
+- Tract 2010: 36005015900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 2472353
+- Units: 151
+- Low-income units: 150
+- Units reported: 151
+- Low-income reported: 150
+- Efficiencies: 47
+- 1-bedroom units: 64
+- 2-bedroom units: 23
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

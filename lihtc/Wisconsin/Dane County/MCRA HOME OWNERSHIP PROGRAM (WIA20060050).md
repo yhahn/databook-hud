@@ -1,0 +1,85 @@
+# Project: MCRA HOME OWNERSHIP PROGRAM (WIA20060050)
+
+- HUD ID: WIA20060050
+- HUD ID before: 
+- Project: MCRA HOME OWNERSHIP PROGRAM
+- Address: 1905 WHENONA DR
+- City: MADISON
+- State: WI
+- ZIP: 53711
+- ZIP extension: 
+- State project ID: 5142
+- Latitude: 43.033596
+- Longitude: -89.448338
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025000600
+- Tract 2010: 55025000600
+- Tract 2000: 55025000600
+- Tract 1990: 55025000600
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 25950
+- Place 1990: 1475
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 33164
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

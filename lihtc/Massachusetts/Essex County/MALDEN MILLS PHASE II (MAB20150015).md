@@ -1,0 +1,85 @@
+# Project: MALDEN MILLS PHASE II (MAB20150015)
+
+- HUD ID: MAB20150015
+- HUD ID before: 
+- Project: MALDEN MILLS PHASE II
+- Address: 520, 540, 542 + 600 BROADWAY (BLDGS 24, 28, 27 + 29R)
+- City: LAWRENCE
+- State: MA
+- ZIP: 01841
+- ZIP extension: 
+- State project ID: 3222
+- Latitude: 42.7122
+- Longitude: -71.1687
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009251100
+- Tract 2010: 25009251100
+- Tract 2000: 25009251100
+- Tract 1990: 
+- Place 2020: 34550
+- Place 2010: 34550
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1062809
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 4
+- 1-bedroom units: 15
+- 2-bedroom units: 0
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

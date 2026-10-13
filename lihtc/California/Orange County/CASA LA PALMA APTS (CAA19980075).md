@@ -1,0 +1,85 @@
+# Project: CASA LA PALMA APTS (CAA19980075)
+
+- HUD ID: CAA19980075
+- HUD ID before: 
+- Project: CASA LA PALMA APTS
+- Address: 7799 VALLEY VIEW ST
+- City: LA PALMA
+- State: CA
+- ZIP: 90623
+- ZIP extension: 
+- State project ID: CA-98-932
+- Latitude: 33.848604
+- Longitude: -118.028813
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059110116
+- Tract 2010: 06059110116
+- Tract 2000: 06059110116
+- Tract 1990: 06059110116
+- Place 2020: 40256
+- Place 2010: 40256
+- Place 2000: 40256
+- Place 1990: 1477
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 873846
+- Units: 269
+- Low-income units: 269
+- Units reported: 269
+- Low-income reported: 269
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 216
+- 3-bedroom units: 56
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

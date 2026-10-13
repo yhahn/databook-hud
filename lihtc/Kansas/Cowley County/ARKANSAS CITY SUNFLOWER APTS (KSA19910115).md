@@ -1,0 +1,85 @@
+# Project: ARKANSAS CITY SUNFLOWER APTS (KSA19910115)
+
+- HUD ID: KSA19910115
+- HUD ID before: 
+- Project: ARKANSAS CITY SUNFLOWER APTS
+- Address: 1515 N NINTH ST
+- City: ARKANSAS CITY
+- State: KS
+- ZIP: 67005
+- ZIP extension: 
+- State project ID: 60319
+- Latitude: 37.079407
+- Longitude: -97.050558
+- County FIPS: 20035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20035493800
+- Tract 2000: 20035993800
+- Tract 1990: 20035993800
+- Place 2020: 
+- Place 2010: 02300
+- Place 2000: 02300
+- Place 1990: 0110
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 16998
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1991055.
+- Record status: Existing, unchanged

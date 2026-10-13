@@ -1,0 +1,85 @@
+# Project: GRANITE WORKS (NYA00000087)
+
+- HUD ID: NYA00000087
+- HUD ID before: 
+- Project: GRANITE WORKS
+- Address: 52 WATER ST
+- City: LYONS
+- State: NY
+- ZIP: 14489
+- ZIP extension: 
+- State project ID: 19900982
+- Latitude: 43.062584
+- Longitude: -76.994003
+- County FIPS: 36117
+- County from: 2020
+- Tract 2020: 36117021400
+- Tract 2010: 36117021400
+- Tract 2000: 36117021400
+- Tract 1990: 36117021400
+- Place 2020: 43962
+- Place 2010: 43962
+- Place 2000: 43962
+- Place 1990: 2063
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001325.
+- Record status: Existing, unchanged

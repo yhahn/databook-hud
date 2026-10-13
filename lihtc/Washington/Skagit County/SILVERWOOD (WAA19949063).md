@@ -1,0 +1,85 @@
+# Project: SILVERWOOD (WAA19949063)
+
+- HUD ID: WAA19949063
+- HUD ID before: 
+- Project: SILVERWOOD
+- Address: 1103 - 29TH ST
+- City: ANACORTES
+- State: WA
+- ZIP: 98221
+- ZIP extension: 
+- State project ID: 93-30L
+- Latitude: 48.498667
+- Longitude: -122.614601
+- County FIPS: 53057
+- County from: 2020
+- Tract 2020: 53057940500
+- Tract 2010: 53057940500
+- Tract 2000: 53057950700
+- Tract 1990: 53057950700
+- Place 2020: 01990
+- Place 2010: 01990
+- Place 2000: 01990
+- Place 1990: 0030
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 47601
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

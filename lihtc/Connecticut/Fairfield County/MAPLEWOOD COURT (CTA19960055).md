@@ -1,0 +1,85 @@
+# Project: MAPLEWOOD COURT (CTA19960055)
+
+- HUD ID: CTA19960055
+- HUD ID before: 
+- Project: MAPLEWOOD COURT
+- Address: 434 MAPLEWOOD AVE
+- City: BRIDGEPORT
+- State: CT
+- ZIP: 06605
+- ZIP extension: 
+- State project ID: CT-94-006
+- Latitude: 41.178489
+- Longitude: -73.209058
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001071100
+- Tract 2010: 09001071100
+- Tract 2000: 09001071100
+- Tract 1990: 09001071100
+- Place 2020: 08000
+- Place 2010: 08000
+- Place 2000: 08000
+- Place 1990: 0200
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA0000180. AKA MAPLEWOOD SCHOOL APTS.
+- Record status: Existing, unchanged

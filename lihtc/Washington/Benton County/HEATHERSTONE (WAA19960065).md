@@ -1,0 +1,85 @@
+# Project: HEATHERSTONE (WAA19960065)
+
+- HUD ID: WAA19960065
+- HUD ID before: 
+- Project: HEATHERSTONE
+- Address: 1114 W. 10TH AVE.
+- City: KENNEWICK
+- State: WA
+- ZIP: 99336
+- ZIP extension: 6084
+- State project ID: 93-35A
+- Latitude: 46.198707
+- Longitude: -119.134531
+- County FIPS: 53005
+- County from: 2020
+- Tract 2020: 53005011202
+- Tract 2010: 53005011200
+- Tract 2000: 53005011200
+- Tract 1990: 53005011200
+- Place 2020: 35275
+- Place 2010: 35275
+- Place 2000: 35275
+- Place 1990: 0610
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 518991
+- Units: 225
+- Low-income units: 223
+- Units reported: 225
+- Low-income reported: 223
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA1995802, WAA1995140.
+- Record status: Updated

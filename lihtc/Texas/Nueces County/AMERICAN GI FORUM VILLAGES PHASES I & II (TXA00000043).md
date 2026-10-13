@@ -1,0 +1,85 @@
+# Project: AMERICAN GI FORUM VILLAGES PHASES I & II (TXA00000043)
+
+- HUD ID: TXA00000043
+- HUD ID before: 
+- Project: AMERICAN GI FORUM VILLAGES PHASES I & II
+- Address: 800 MAINER RD
+- City: ROBSTOWN
+- State: TX
+- ZIP: 78380
+- ZIP extension: 
+- State project ID: TX-11-033
+- Latitude: 27.802
+- Longitude: -97.682
+- County FIPS: 48355
+- County from: 2020
+- Tract 2020: 48355005603
+- Tract 2010: 48355005602
+- Tract 2000: 48355005602
+- Tract 1990: 48355005602
+- Place 2020: 62600
+- Place 2010: 52404
+- Place 2000: 52404
+- Place 1990: 3600
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 20
+- 3-bedroom units: 30
+- 4-bedroom units: 18
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 450000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

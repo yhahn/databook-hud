@@ -1,0 +1,85 @@
+# Project: PIEDMONT SENIOR TOWER (GAA0000X104)
+
+- HUD ID: GAA0000X104
+- HUD ID before: 
+- Project: PIEDMONT SENIOR TOWER
+- Address: 3601 PIEDMONT RD NE
+- City: ATLANTA
+- State: GA
+- ZIP: 30305
+- ZIP extension: 1436
+- State project ID: 2017-508
+- Latitude: 33.852789
+- Longitude: -84.380757
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121010003
+- Tract 2010: 13121010001
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 802928
+- Units: 208
+- Low-income units: 207
+- Units reported: 208
+- Low-income reported: 207
+- Efficiencies: 0
+- 1-bedroom units: 207
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Housing for Older Persons
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

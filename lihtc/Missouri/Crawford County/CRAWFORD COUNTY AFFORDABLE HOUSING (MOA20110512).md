@@ -1,0 +1,85 @@
+# Project: CRAWFORD COUNTY AFFORDABLE HOUSING (MOA20110512)
+
+- HUD ID: MOA20110512
+- HUD ID before: 
+- Project: CRAWFORD COUNTY AFFORDABLE HOUSING
+- Address: 300 MARTIN ST
+- City: CUBA
+- State: MO
+- ZIP: 65453
+- ZIP extension: 
+- State project ID: 10-012
+- Latitude: 38.067694
+- Longitude: -91.401558
+- County FIPS: 29055
+- County from: 2020
+- Tract 2020: 29055450302
+- Tract 2010: 29055450302
+- Tract 2000: 29055950300
+- Tract 1990: 29055950300
+- Place 2020: 17668
+- Place 2010: 17668
+- Place 2000: 17668
+- Place 1990: 1055
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 397000
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA2011075, MOA1994115, MOA1990345. FKA CUBA APTS PHASES I & II
+- Record status: Existing, unchanged

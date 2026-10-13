@@ -1,0 +1,85 @@
+# Project: KENT APTS (ORA19960040)
+
+- HUD ID: ORA19960040
+- HUD ID before: 
+- Project: KENT APTS
+- Address: 31845 NW KAYBERN STREET
+- City: NORTH PLAINS
+- State: OR
+- ZIP: 
+- ZIP extension: 
+- State project ID: X001-047
+- Latitude: 45.6668
+- Longitude: -122.9922
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067032700
+- Tract 2010: 41067032700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 53150
+- Place 2010: 53150
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 165806
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

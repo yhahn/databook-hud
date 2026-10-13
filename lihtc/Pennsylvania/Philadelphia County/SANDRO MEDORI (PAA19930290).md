@@ -1,0 +1,85 @@
+# Project: SANDRO MEDORI (PAA19930290)
+
+- HUD ID: PAA19930290
+- HUD ID before: 
+- Project: SANDRO MEDORI
+- Address: 1731 S DORRANCE ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19145
+- ZIP extension: 
+- State project ID: TC19910216
+- Latitude: 39.929485
+- Longitude: -75.176003
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101003100
+- Tract 2010: 42101003100
+- Tract 2000: 42101003100
+- Tract 1990: 42101003100
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 1299
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Existing, unchanged

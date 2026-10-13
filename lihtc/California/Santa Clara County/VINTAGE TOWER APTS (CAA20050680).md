@@ -1,0 +1,85 @@
+# Project: VINTAGE TOWER APTS (CAA20050680)
+
+- HUD ID: CAA20050680
+- HUD ID before: 
+- Project: VINTAGE TOWER APTS
+- Address: 235 E SANTA CLARA ST
+- City: SAN JOSE
+- State: CA
+- ZIP: 95113
+- ZIP extension: 
+- State project ID: CA-04-821
+- Latitude: 37.338689
+- Longitude: -121.885647
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085501000
+- Tract 2010: 06085501000
+- Tract 2000: 06085501000
+- Tract 1990: 06085501000
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 2510
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 318404
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 1
+- 1-bedroom units: 58
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FRIENDSHIP GARDENS #753 (NJA20059013)
+
+- HUD ID: NJA20059013
+- HUD ID before: 
+- Project: FRIENDSHIP GARDENS #753
+- Address: 100 FRIENDSHIP GDNS
+- City: HOWELL
+- State: NJ
+- ZIP: 07731
+- ZIP extension: 2938
+- State project ID: PM01452
+- Latitude: 40.139068
+- Longitude: -74.229975
+- County FIPS: 34025
+- County from: 2020
+- Tract 2020: 34025811304
+- Tract 2010: 34025811304
+- Tract 2000: 34025811304
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 26
+- 1-bedroom units: 73
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: DAUNER HAUS (MIA20080035)
+
+- HUD ID: MIA20080035
+- HUD ID before: 
+- Project: DAUNER HAUS
+- Address: 428 DAUNER HAUS ST
+- City: FENTON
+- State: MI
+- ZIP: 48430
+- ZIP extension: 
+- State project ID: MI-289
+- Latitude: 42.811508
+- Longitude: -83.702104
+- County FIPS: 26049
+- County from: 2020
+- Tract 2020: 26049013202
+- Tract 2010: 26049013202
+- Tract 2000: 26049013202
+- Tract 1990: 26049013202
+- Place 2020: 27760
+- Place 2010: 27760
+- Place 2000: 27760
+- Place 1990: 0890
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 431206
+- Units: 151
+- Low-income units: 150
+- Units reported: 151
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 90
+- 2-bedroom units: 45
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1993175.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COUNTRYSIDE VILLAGE REDEVELOPMENT PHASE II (NJA20079008)
+
+- HUD ID: NJA20079008
+- HUD ID before: 
+- Project: COUNTRYSIDE VILLAGE REDEVELOPMENT PHASE II
+- Address: 766 PARSONAGE ROAD
+- City: UPPER DEERFIELD TWP.
+- State: NJ
+- ZIP: 08302
+- ZIP extension: 
+- State project ID: 1503
+- Latitude: 39.497931
+- Longitude: -75.224006
+- County FIPS: 34011
+- County from: 2020
+- Tract 2020: 34011010701
+- Tract 2010: 34011010700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 66300
+- Place 2010: 66300
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1800000
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

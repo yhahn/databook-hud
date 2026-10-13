@@ -1,0 +1,85 @@
+# Project: BURNT ORDINARY II (VAA19880012)
+
+- HUD ID: VAA19880012
+- HUD ID before: 
+- Project: BURNT ORDINARY II
+- Address: STERLING CT
+- City: TOANO
+- State: VA
+- ZIP: 23168
+- ZIP extension: 
+- State project ID: 934
+- Latitude: 37.3673
+- Longitude: -76.7925
+- County FIPS: 51095
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 51095080402
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 62670
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

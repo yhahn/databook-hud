@@ -1,0 +1,85 @@
+# Project: MCGILL LOFT APARTMENTS (GAA19980080)
+
+- HUD ID: GAA19980080
+- HUD ID before: 
+- Project: MCGILL LOFT APARTMENTS
+- Address: 828 RALPH MCGILL BLVD NE
+- City: ATLANTA
+- State: GA
+- ZIP: 30306
+- ZIP extension: 
+- State project ID: GA-96-507
+- Latitude: 33.767842
+- Longitude: -84.36021
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121001600
+- Tract 2010: 13121001600
+- Tract 2000: 13121001600
+- Tract 1990: 13121001600
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 65
+- Low-income units: 17
+- Units reported: 65
+- Low-income reported: 17
+- Efficiencies: 27
+- 1-bedroom units: 24
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1996270. AKA MCGILL LOFT APTS.
+- Record status: Existing, unchanged

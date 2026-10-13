@@ -1,0 +1,85 @@
+# Project: WILLOW SPRING FARM APTS V (WVA19940055)
+
+- HUD ID: WVA19940055
+- HUD ID before: 
+- Project: WILLOW SPRING FARM APTS V
+- Address: 100 SYCAMORE CIR
+- City: CHARLES TOWN
+- State: WV
+- ZIP: 25414
+- ZIP extension: 
+- State project ID: WV93-00201
+- Latitude: 39.2815
+- Longitude: -77.8576
+- County FIPS: 54037
+- County from: 2020
+- Tract 2020: 54037972505
+- Tract 2010: 54037972505
+- Tract 2000: 54037972500
+- Tract 1990: 54037972500
+- Place 2020: 14610
+- Place 2010: 14610
+- Place 2000: 14610
+- Place 1990: 0285
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

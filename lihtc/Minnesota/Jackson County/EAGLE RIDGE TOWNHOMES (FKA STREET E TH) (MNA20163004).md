@@ -1,0 +1,85 @@
+# Project: EAGLE RIDGE TOWNHOMES (FKA STREET E TH) (MNA20163004)
+
+- HUD ID: MNA20163004
+- HUD ID before: 
+- Project: EAGLE RIDGE TOWNHOMES (FKA STREET E TH)
+- Address: 100 WALKER LN
+- City: JACKSON
+- State: MN
+- ZIP: 56143
+- ZIP extension: 
+- State project ID: D7650
+- Latitude: 43.5979
+- Longitude: -94.9879
+- County FIPS: 27063
+- County from: 2020
+- Tract 2020: 27063480400
+- Tract 2010: 27063480400
+- Tract 2000: 27037060733
+- Tract 1990: 27037060720
+- Place 2020: 31562
+- Place 2010: 31562
+- Place 2000: 17288
+- Place 1990: 1063
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 27
+- Units reported: 42
+- Low-income reported: 27
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 178000
+- CDBG: Yes
+- CDBG amount: 2583590
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

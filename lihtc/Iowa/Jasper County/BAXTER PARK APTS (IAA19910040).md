@@ -1,0 +1,85 @@
+# Project: BAXTER PARK APTS (IAA19910040)
+
+- HUD ID: IAA19910040
+- HUD ID before: 
+- Project: BAXTER PARK APTS
+- Address: 206 HARRISON CT
+- City: BAXTER
+- State: IA
+- ZIP: 50028
+- ZIP extension: 
+- State project ID: 90-32
+- Latitude: 41.824012
+- Longitude: -93.147248
+- County FIPS: 19099
+- County from: 2020
+- Tract 2020: 19099040200
+- Tract 2010: 19099040200
+- Tract 2000: 19099040200
+- Tract 1990: 19099040200
+- Place 2020: 04915
+- Place 2010: 04915
+- Place 2000: 04915
+- Place 1990: 0320
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 23519
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

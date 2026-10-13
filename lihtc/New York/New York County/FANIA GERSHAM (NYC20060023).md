@@ -1,0 +1,85 @@
+# Project: FANIA GERSHAM (NYC20060023)
+
+- HUD ID: NYC20060023
+- HUD ID before: 
+- Project: FANIA GERSHAM
+- Address: 140 WEST 105TH STREET
+- City: NEW YORK
+- State: NY
+- ZIP: 10025
+- ZIP extension: 
+- State project ID: 20-4467272
+- Latitude: 40.799154
+- Longitude: -73.964301
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061018900
+- Tract 2010: 36061018900
+- Tract 2000: 36061018900
+- Tract 1990: 36061018900
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 153172
+- Units: 29
+- Low-income units: 28
+- Units reported: 29
+- Low-income reported: 28
+- Efficiencies: 24
+- 1-bedroom units: 4
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

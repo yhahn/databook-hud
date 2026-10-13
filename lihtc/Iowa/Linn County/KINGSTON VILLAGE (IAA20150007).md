@@ -1,0 +1,85 @@
+# Project: KINGSTON VILLAGE (IAA20150007)
+
+- HUD ID: IAA20150007
+- HUD ID before: 
+- Project: KINGSTON VILLAGE
+- Address: 600 2ND ST SW
+- City: CEDAR RAPIDS
+- State: IA
+- ZIP: 52404
+- ZIP extension: 1306
+- State project ID: 14-14-27
+- Latitude: 41.971259
+- Longitude: -91.671545
+- County FIPS: 19113
+- County from: 2020
+- Tract 2020: 19113002200
+- Tract 2010: 19113002200
+- Tract 2000: 19113002200
+- Tract 1990: 
+- Place 2020: 12000
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 678154
+- Units: 64
+- Low-income units: 54
+- Units reported: 64
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 54
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

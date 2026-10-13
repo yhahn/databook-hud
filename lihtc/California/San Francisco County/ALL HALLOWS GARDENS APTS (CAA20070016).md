@@ -1,0 +1,85 @@
+# Project: ALL HALLOWS GARDENS APTS (CAA20070016)
+
+- HUD ID: CAA20070016
+- HUD ID before: 
+- Project: ALL HALLOWS GARDENS APTS
+- Address: 65 NAVY RD
+- City: SAN FRANCISCO
+- State: CA
+- ZIP: 94124
+- ZIP extension: 
+- State project ID: CA-06-904
+- Latitude: 37.729037
+- Longitude: -122.379024
+- County FIPS: 06075
+- County from: 2020
+- Tract 2020: 06075023103
+- Tract 2010: 06075023103
+- Tract 2000: 06075023103
+- Tract 1990: 06075023100
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 2485
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1375784
+- Units: 157
+- Low-income units: 156
+- Units reported: 157
+- Low-income reported: 156
+- Efficiencies: 5
+- 1-bedroom units: 37
+- 2-bedroom units: 46
+- 3-bedroom units: 45
+- 4-bedroom units: 25
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

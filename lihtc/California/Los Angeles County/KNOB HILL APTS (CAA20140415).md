@@ -1,0 +1,85 @@
+# Project: KNOB HILL APTS (CAA20140415)
+
+- HUD ID: CAA20140415
+- HUD ID before: 
+- Project: KNOB HILL APTS
+- Address: 2403 W FOURTH ST
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90057
+- ZIP extension: 
+- State project ID: CA-12-125
+- Latitude: 34.064089
+- Longitude: -118.276509
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037208802
+- Tract 2010: 06037208802
+- Tract 2000: 06037208800
+- Tract 1990: 06037208800
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 969406
+- Units: 39
+- Low-income units: 38
+- Units reported: 39
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 38
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1100000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Yes
+- Other population named: MENTAL ILLNESS, HIV/A
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

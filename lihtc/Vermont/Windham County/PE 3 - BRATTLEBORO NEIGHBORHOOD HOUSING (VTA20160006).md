@@ -1,0 +1,85 @@
+# Project: PE 3 - BRATTLEBORO NEIGHBORHOOD HOUSING (VTA20160006)
+
+- HUD ID: VTA20160006
+- HUD ID before: 
+- Project: PE 3 - BRATTLEBORO NEIGHBORHOOD HOUSING
+- Address: 11 CROSS ST; 13 CANAL ST; 90 CLARK ST; 99 + 109 GREEN ST
+- City: BRATTLEBORO
+- State: VT
+- ZIP: 05301
+- ZIP extension: 
+- State project ID: VT-04-84
+- Latitude: 42.839716
+- Longitude: -72.554378
+- County FIPS: 50025
+- County from: 2020
+- Tract 2020: 50025968500
+- Tract 2010: 50025968500
+- Tract 2000: 50025968500
+- Tract 1990: 
+- Place 2020: 07975
+- Place 2010: 07975
+- Place 2000: 07975
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 231533
+- Units: 29
+- Low-income units: 29
+- Units reported: 29
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 17
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1665450
+- CDBG: Yes
+- CDBG amount: 419000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

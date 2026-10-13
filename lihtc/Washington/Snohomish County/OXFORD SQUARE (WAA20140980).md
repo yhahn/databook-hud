@@ -1,0 +1,85 @@
+# Project: OXFORD SQUARE (WAA20140980)
+
+- HUD ID: WAA20140980
+- HUD ID before: 
+- Project: OXFORD SQUARE
+- Address: 4807 200TH ST SW
+- City: LYNNWOOD
+- State: WA
+- ZIP: 98036
+- ZIP extension: 
+- State project ID: 13-113A
+- Latitude: 47.817569
+- Longitude: -122.298389
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061051402
+- Tract 2010: 53061051400
+- Tract 2000: 53061051400
+- Tract 1990: 53061051400
+- Place 2020: 40840
+- Place 2010: 40840
+- Place 2000: 40840
+- Place 1990: 0715
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 298706
+- Units: 120
+- Low-income units: 118
+- Units reported: 120
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 64
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 42
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA1999190. AKA BEAVER CREEK APT HOMES.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LAWN TERRACE APTS (ILB19970800)
+
+- HUD ID: ILB19970800
+- HUD ID before: 
+- Project: LAWN TERRACE APTS
+- Address: 3214 W 63RD PL
+- City: CHICAGO
+- State: IL
+- ZIP: 60629
+- ZIP extension: 
+- State project ID: TC-95-006
+- Latitude: 41.778202
+- Longitude: -87.703473
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031660500
+- Tract 2010: 17031660500
+- Tract 2000: 17031660500
+- Tract 1990: 17031660500
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 102
+- Low-income units: 102
+- Units reported: 102
+- Low-income reported: 102
+- Efficiencies: 8
+- 1-bedroom units: 83
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 6401508
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB1997010.
+- Record status: Existing, unchanged

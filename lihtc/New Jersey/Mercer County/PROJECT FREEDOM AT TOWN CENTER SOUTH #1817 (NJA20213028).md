@@ -1,0 +1,85 @@
+# Project: PROJECT FREEDOM AT TOWN CENTER SOUTH #1817 (NJA20213028)
+
+- HUD ID: NJA20213028
+- HUD ID before: 
+- Project: PROJECT FREEDOM AT TOWN CENTER SOUTH #1817
+- Address: 500 RAVENS RD
+- City: ROBBINSVILLE
+- State: NJ
+- ZIP: 08691
+- ZIP extension: 1439
+- State project ID: 07717-1
+- Latitude: 40.21672
+- Longitude: -74.627674
+- County FIPS: 34021
+- County from: 2020
+- Tract 2020: 34021004311
+- Tract 2010: 34021004310
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63858
+- Place 2010: 63840
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1400000
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 36
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

@@ -1,0 +1,85 @@
+# Project: COLE APARTMENTS (MAB20202008)
+
+- HUD ID: MAB20202008
+- HUD ID before: 
+- Project: COLE APARTMENTS
+- Address: 330 COLE AVENUE
+- City: WILLIAMSTOWN
+- State: MA
+- ZIP: 01267
+- ZIP extension: 
+- State project ID: MA-23-26
+- Latitude: 42.718443
+- Longitude: -73.19003
+- County FIPS: 25003
+- County from: 2020
+- Tract 2020: 25003920101
+- Tract 2010: 25003920101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 79950
+- Place 2010: 79950
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1000000
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 
+- 1-bedroom units: 11
+- 2-bedroom units: 17
+- 3-bedroom units: 13
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

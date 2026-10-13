@@ -1,0 +1,85 @@
+# Project: PARAMUS SR. CITIZENS (NJA19979007)
+
+- HUD ID: NJA19979007
+- HUD ID before: 
+- Project: PARAMUS SR. CITIZENS
+- Address: 200 GARDEN STATE PLAZA BLVD
+- City: PARAMUS
+- State: NJ
+- ZIP: 07652
+- ZIP extension: 1240
+- State project ID: PM01199
+- Latitude: 40.91866
+- Longitude: -74.082303
+- County FIPS: 34003
+- County from: 2020
+- Tract 2020: 34003042500
+- Tract 2010: 34003042500
+- Tract 2000: 34003042500
+- Tract 1990: 
+- Place 2020: 55950
+- Place 2010: 55950
+- Place 2000: 55950
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

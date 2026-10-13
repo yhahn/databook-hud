@@ -1,0 +1,85 @@
+# Project: HARBORVIEW APTS (OHA20080102)
+
+- HUD ID: OHA20080102
+- HUD ID before: 
+- Project: HARBORVIEW APTS
+- Address: 115 FRANKLIN ST
+- City: SANDUSKY
+- State: OH
+- ZIP: 44870
+- ZIP extension: 
+- State project ID: 050120
+- Latitude: 41.458361
+- Longitude: -82.707524
+- County FIPS: 39043
+- County from: 2020
+- Tract 2020: 39043040802
+- Tract 2010: 39043040800
+- Tract 2000: 39043040800
+- Tract 1990: 39043040800
+- Place 2020: 70380
+- Place 2010: 70380
+- Place 2000: 70380
+- Place 1990: 3830
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2008791. AKA HARBOURVIEW SENIOR.
+- Record status: Existing, unchanged

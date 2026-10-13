@@ -1,0 +1,85 @@
+# Project: LAMPLIGHT MANOR (ILA20120807)
+
+- HUD ID: ILA20120807
+- HUD ID before: 
+- Project: LAMPLIGHT MANOR
+- Address: 710 S HANCOCK ST
+- City: MC LEANSBORO
+- State: IL
+- ZIP: 62859
+- ZIP extension: 
+- State project ID: 1042911
+- Latitude: 38.087489
+- Longitude: -88.530028
+- County FIPS: 17065
+- County from: 2020
+- Tract 2020: 17065973100
+- Tract 2010: 17065973100
+- Tract 2000: 17065973100
+- Tract 1990: 17065973100
+- Place 2020: 45824
+- Place 2010: 45824
+- Place 2000: 45824
+- Place 1990: 3415
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 152194
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

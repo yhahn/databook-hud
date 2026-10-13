@@ -1,0 +1,85 @@
+# Project: SOMERSET MANOR APTS (AZA19960080)
+
+- HUD ID: AZA19960080
+- HUD ID before: 
+- Project: SOMERSET MANOR APTS
+- Address: 802 E ONEIL DR
+- City: CASA GRANDE
+- State: AZ
+- ZIP: 85122
+- ZIP extension: 
+- State project ID: TC-0124
+- Latitude: 32.897934
+- Longitude: -111.743957
+- County FIPS: 04021
+- County from: 2020
+- Tract 2020: 04021001306
+- Tract 2010: 04021001306
+- Tract 2000: 04021001302
+- Tract 1990: 04021000100
+- Place 2020: 10530
+- Place 2010: 10530
+- Place 2000: 10530
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000552.
+- Record status: Existing, unchanged

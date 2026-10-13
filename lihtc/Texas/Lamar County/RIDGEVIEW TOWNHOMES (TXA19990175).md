@@ -1,0 +1,85 @@
+# Project: RIDGEVIEW TOWNHOMES (TXA19990175)
+
+- HUD ID: TXA19990175
+- HUD ID before: 
+- Project: RIDGEVIEW TOWNHOMES
+- Address: 210 STONE AVE
+- City: PARIS
+- State: TX
+- ZIP: 75460
+- ZIP extension: 
+- State project ID: TX1759
+- Latitude: 33.690469
+- Longitude: -95.550885
+- County FIPS: 48277
+- County from: 2020
+- Tract 2020: 48277000500
+- Tract 2010: 48277000500
+- Tract 2000: 48277000500
+- Tract 1990: 48277000500
+- Place 2020: 55080
+- Place 2010: 55080
+- Place 2000: 55080
+- Place 1990: 3195
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 67
+- Units reported: 68
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 34
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

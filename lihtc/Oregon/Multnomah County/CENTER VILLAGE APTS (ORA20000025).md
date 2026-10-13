@@ -1,0 +1,85 @@
+# Project: CENTER VILLAGE APTS (ORA20000025)
+
+- HUD ID: ORA20000025
+- HUD ID before: 
+- Project: CENTER VILLAGE APTS
+- Address: 5814 NE HOYT ST
+- City: PORTLAND
+- State: OR
+- ZIP: 97213
+- ZIP extension: 
+- State project ID: 738
+- Latitude: 45.527067
+- Longitude: -122.603537
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051001801
+- Tract 2010: 41051001801
+- Tract 2000: 41051001801
+- Tract 1990: 41051001801
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 500000
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 26
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LARGE FAMILY
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA0000012. AKA 60TH & GLISAN.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VILAS STREET APTS (KSA19920100)
+
+- HUD ID: KSA19920100
+- HUD ID before: 
+- Project: VILAS STREET APTS
+- Address: 201 VILAS ST
+- City: LEAVENWORTH
+- State: KS
+- ZIP: 66048
+- ZIP extension: 
+- State project ID: 60038
+- Latitude: 39.290416
+- Longitude: -94.90342
+- County FIPS: 20103
+- County from: 2020
+- Tract 2020: 20103070500
+- Tract 2010: 20103070500
+- Tract 2000: 20103070500
+- Tract 1990: 20103070500
+- Place 2020: 39000
+- Place 2010: 39000
+- Place 2000: 38650
+- Place 1990: 1540
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 24087
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1993070. AKA SOUTH SECOND ST APTS.
+- Record status: Existing, unchanged

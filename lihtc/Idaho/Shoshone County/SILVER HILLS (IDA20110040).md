@@ -1,0 +1,85 @@
+# Project: SILVER HILLS (IDA20110040)
+
+- HUD ID: IDA20110040
+- HUD ID before: 
+- Project: SILVER HILLS
+- Address: 20 BANK STREET
+- City: WALLACE
+- State: ID
+- ZIP: 83873
+- ZIP extension: 
+- State project ID: HC0923
+- Latitude: 47.471469
+- Longitude: -115.931975
+- County FIPS: 16079
+- County from: 2020
+- Tract 2020: 16079960400
+- Tract 2010: 16079960400
+- Tract 2000: 16079960400
+- Tract 1990: 16079960400
+- Place 2020: 84790
+- Place 2010: 84790
+- Place 2000: 84790
+- Place 1990: 0710
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 100
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 4
+- 1-bedroom units: 20
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 1297000
+- TCEP: Yes
+- TCEP amount: 981010
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

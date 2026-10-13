@@ -1,0 +1,85 @@
+# Project: SPRINGWOOD APTS. (UTA20069013)
+
+- HUD ID: UTA20069013
+- HUD ID before: 
+- Project: SPRINGWOOD APTS.
+- Address: 1230 SOUTH 500 WEST
+- City: BOUNTIFUL
+- State: UT
+- ZIP: 84010
+- ZIP extension: 0000
+- State project ID: 2006-02
+- Latitude: 40.877876
+- Longitude: -111.892423
+- County FIPS: 49011
+- County from: 2020
+- Tract 2020: 49011126901
+- Tract 2010: 49011126901
+- Tract 2000: 49011126901
+- Tract 1990: 
+- Place 2020: 07690
+- Place 2010: 85370
+- Place 2000: 07690
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 394546
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 108
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

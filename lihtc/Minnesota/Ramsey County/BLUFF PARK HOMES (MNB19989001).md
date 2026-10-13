@@ -1,0 +1,85 @@
+# Project: BLUFF PARK HOMES (MNB19989001)
+
+- HUD ID: MNB19989001
+- HUD ID before: 
+- Project: BLUFF PARK HOMES
+- Address: 328 CESAR CHAVEZ STREET
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55107
+- ZIP extension: 2351
+- State project ID: D2180
+- Latitude: 44.927887
+- Longitude: -93.0721
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123037200
+- Tract 2010: 27123037200
+- Tract 2000: 27123037200
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 58000
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 672351
+- Units: 73
+- Low-income units: 73
+- Units reported: 73
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 18
+- 3-bedroom units: 35
+- 4-bedroom units: 11
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1263346
+- CDBG: Yes
+- CDBG amount: 923612
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 400000
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: General Occupancy
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

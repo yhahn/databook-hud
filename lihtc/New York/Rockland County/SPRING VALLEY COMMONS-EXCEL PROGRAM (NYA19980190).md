@@ -1,0 +1,85 @@
+# Project: SPRING VALLEY COMMONS/EXCEL PROGRAM (NYA19980190)
+
+- HUD ID: NYA19980190
+- HUD ID before: 
+- Project: SPRING VALLEY COMMONS/EXCEL PROGRAM
+- Address: 30 SPRING VALLEY COMMONS
+- City: SPRING VALLEY
+- State: NY
+- ZIP: 10977
+- ZIP extension: 
+- State project ID: 19940553
+- Latitude: 41.124208
+- Longitude: -74.03758
+- County FIPS: 36087
+- County from: 2020
+- Tract 2020: 36087012206
+- Tract 2010: 36087012202
+- Tract 2000: 36087012202
+- Tract 1990: 36087012200
+- Place 2020: 70420
+- Place 2010: 70420
+- Place 2000: 70420
+- Place 1990: 3520
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 64
+- Units reported: 68
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 30
+- 3-bedroom units: 33
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

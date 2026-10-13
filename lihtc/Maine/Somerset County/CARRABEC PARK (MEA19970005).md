@@ -1,0 +1,85 @@
+# Project: CARRABEC PARK (MEA19970005)
+
+- HUD ID: MEA19970005
+- HUD ID before: 
+- Project: CARRABEC PARK
+- Address: 4 CARRIGAN DR
+- City: NORTH ANSON
+- State: ME
+- ZIP: 04958
+- ZIP extension: 
+- State project ID: MSHA-TXCR-1090
+- Latitude: 44.860677
+- Longitude: -69.890916
+- County FIPS: 23025
+- County from: 2020
+- Tract 2020: 23025966400
+- Tract 2010: 23025966400
+- Tract 2000: 23025986400
+- Tract 1990: 23025986400
+- Place 2020: 49975
+- Place 2010: 99999
+- Place 2000: 01360
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ROBIN SPRINGS (OHA20050124)
+
+- HUD ID: OHA20050124
+- HUD ID before: 
+- Project: ROBIN SPRINGS
+- Address: 6930 MOUNT VERNON ST
+- City: MIDDLETOWN
+- State: OH
+- ZIP: 45044
+- ZIP extension: 
+- State project ID: OH-03-0134
+- Latitude: 39.488655
+- Longitude: -84.336372
+- County FIPS: 39165
+- County from: 2020
+- Tract 2020: 39165031602
+- Tract 2010: 39165030700
+- Tract 2000: 39165030700
+- Tract 1990: 39165030700
+- Place 2020: 49840
+- Place 2010: 49840
+- Place 2000: 36806
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 330624
+- Units: 120
+- Low-income units: 119
+- Units reported: 120
+- Low-income reported: 119
+- Efficiencies: 8
+- 1-bedroom units: 14
+- 2-bedroom units: 24
+- 3-bedroom units: 58
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2005658, OHA2004247.
+- Record status: Existing, unchanged

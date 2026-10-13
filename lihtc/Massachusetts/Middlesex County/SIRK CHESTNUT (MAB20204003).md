@@ -1,0 +1,85 @@
+# Project: SIRK CHESTNUT (MAB20204003)
+
+- HUD ID: MAB20204003
+- HUD ID before: 
+- Project: SIRK CHESTNUT
+- Address: 70 BRIDGE STREET
+- City: LOWEL
+- State: MA
+- ZIP: 01852
+- ZIP extension: 
+- State project ID: MA-25-22
+- Latitude: 42.646466
+- Longitude: -71.306874
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017310102
+- Tract 2010: 25017310100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 351660
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 17
+- 1-bedroom units: 28
+- 2-bedroom units: 26
+- 3-bedroom units: 12
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

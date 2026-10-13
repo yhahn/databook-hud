@@ -1,0 +1,85 @@
+# Project: WEEKS FIELD ESTATES PHASE I (AKA20090010)
+
+- HUD ID: AKA20090010
+- HUD ID before: 
+- Project: WEEKS FIELD ESTATES PHASE I
+- Address: 1301 KELLUM ST
+- City: FAIRBANKS
+- State: AK
+- ZIP: 99701
+- ZIP extension: 
+- State project ID: AK-09-00005
+- Latitude: 64.837815
+- Longitude: -147.746376
+- County FIPS: 02090
+- County from: 2020
+- Tract 2020: 02090000200
+- Tract 2010: 02090000200
+- Tract 2000: 02090000200
+- Tract 1990: 02090000200
+- Place 2020: 24230
+- Place 2010: 24230
+- Place 2000: 24230
+- Place 1990: 1080
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1226214
+- Units: 74
+- Low-income units: 73
+- Units reported: 74
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 42
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 61
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 850000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 5919884
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

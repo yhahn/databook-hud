@@ -1,0 +1,85 @@
+# Project: GREEN MEADOWS (ILA19870011)
+
+- HUD ID: ILA19870011
+- HUD ID before: 
+- Project: GREEN MEADOWS
+- Address: 1610A EDGEWOOD DR
+- City: DANVILLE
+- State: IL
+- ZIP: 61832
+- ZIP extension: 
+- State project ID: 020-87
+- Latitude: 40.144055
+- Longitude: -87.592089
+- County FIPS: 17183
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17183000400
+- Tract 2000: 17183000400
+- Tract 1990: 17183000400
+- Place 2020: 
+- Place 2010: 18563
+- Place 2000: 18563
+- Place 1990: 1395
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 163152
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 78
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000445.
+- Record status: Existing, unchanged

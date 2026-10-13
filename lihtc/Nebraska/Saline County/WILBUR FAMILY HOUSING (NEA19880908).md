@@ -1,0 +1,85 @@
+# Project: WILBUR FAMILY HOUSING (NEA19880908)
+
+- HUD ID: NEA19880908
+- HUD ID before: 
+- Project: WILBUR FAMILY HOUSING
+- Address: 621 W SIXTH ST
+- City: WILBER
+- State: NE
+- ZIP: 68465
+- ZIP extension: 
+- State project ID: 7-0031
+- Latitude: 40.478348
+- Longitude: -96.966736
+- County FIPS: 31151
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31151960900
+- Tract 2000: 31151990900
+- Tract 1990: 31151990900
+- Place 2020: 
+- Place 2010: 52960
+- Place 2000: 13015
+- Place 1990: 2630
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 10156
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA0000570.
+- Record status: Existing, unchanged

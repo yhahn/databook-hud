@@ -1,0 +1,85 @@
+# Project: WILLOWS AT WINDSOR VILLAGE AND BIRCHWOOD (MDA20210024)
+
+- HUD ID: MDA20210024
+- HUD ID before: 
+- Project: WILLOWS AT WINDSOR VILLAGE AND BIRCHWOOD
+- Address: 300-352 FRIENDSHIP ROAD AND
+- City: ELKTON
+- State: MD
+- ZIP: 21921
+- ZIP extension: 
+- State project ID: MD-19-16001
+- Latitude: 39.61695
+- Longitude: -75.823448
+- County FIPS: 24015
+- County from: 2020
+- Tract 2020: 24015030400
+- Tract 2010: 24015030400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 25800
+- Place 2010: 25800
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 678124
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 30
+- 1-bedroom units: 24
+- 2-bedroom units: 20
+- 3-bedroom units: 18
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 100
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

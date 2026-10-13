@@ -1,0 +1,85 @@
+# Project: DEKALB AVENUE APTS (NYA20040045)
+
+- HUD ID: NYA20040045
+- HUD ID before: 
+- Project: DEKALB AVENUE APTS
+- Address: 910 DEKALB AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11221
+- ZIP extension: 
+- State project ID: 20010799_01112
+- Latitude: 40.69259
+- Longitude: -73.939313
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047028100
+- Tract 2010: 36047028100
+- Tract 2000: 36047028100
+- Tract 1990: 36047028100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 63
+- Units reported: 64
+- Low-income reported: 63
+- Efficiencies: 37
+- 1-bedroom units: 8
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

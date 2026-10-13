@@ -1,0 +1,85 @@
+# Project: EAST HARLEM SOUTH CLUSTER (NYC20120040)
+
+- HUD ID: NYC20120040
+- HUD ID before: 
+- Project: EAST HARLEM SOUTH CLUSTER
+- Address: 315 E 111TH ST
+- City: MANHATTAN
+- State: NY
+- ZIP: 10029
+- ZIP extension: 
+- State project ID: 2009-055
+- Latitude: 40.793554
+- Longitude: -73.93905
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061018000
+- Tract 2010: 36061018000
+- Tract 2000: 36061018000
+- Tract 1990: 36061018000
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1800000
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 750000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2010090.
+- Record status: Existing, unchanged

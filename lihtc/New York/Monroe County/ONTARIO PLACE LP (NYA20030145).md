@@ -1,0 +1,85 @@
+# Project: ONTARIO PLACE LP (NYA20030145)
+
+- HUD ID: NYA20030145
+- HUD ID before: 
+- Project: ONTARIO PLACE LP
+- Address: 13 ONTARIO ST
+- City: ROCHESTER
+- State: NY
+- ZIP: 14605
+- ZIP extension: 
+- State project ID: 20010902
+- Latitude: 43.165166
+- Longitude: -77.599869
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055009301
+- Tract 2010: 36055009301
+- Tract 2000: 36055009301
+- Tract 1990: 36055009301
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 3100
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

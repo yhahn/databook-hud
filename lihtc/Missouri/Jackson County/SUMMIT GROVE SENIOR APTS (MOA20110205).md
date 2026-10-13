@@ -1,0 +1,85 @@
+# Project: SUMMIT GROVE SENIOR APTS (MOA20110205)
+
+- HUD ID: MOA20110205
+- HUD ID before: 
+- Project: SUMMIT GROVE SENIOR APTS
+- Address: 750 NE TUDOR RD
+- City: LEES SUMMIT
+- State: MO
+- ZIP: 64086
+- ZIP extension: 
+- State project ID: 09-095
+- Latitude: 38.931817
+- Longitude: -94.363923
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095017900
+- Tract 2010: 29095017900
+- Tract 2000: 29095013701
+- Tract 1990: 29095013701
+- Place 2020: 41348
+- Place 2010: 41348
+- Place 2000: 41348
+- Place 1990: 2435
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 745000
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3000000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA2011514.
+- Record status: Existing, unchanged

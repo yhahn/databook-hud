@@ -1,0 +1,85 @@
+# Project: PORTOLA SENIOR APARTMENTS (CAA20200047)
+
+- HUD ID: CAA20200047
+- HUD ID before: 
+- Project: PORTOLA SENIOR APARTMENTS
+- Address: 700 THIRD AVENUE
+- City: PORTOLA
+- State: CA
+- ZIP: 96122
+- ZIP extension: 
+- State project ID: CA-2018-078
+- Latitude: 39.808798
+- Longitude: -120.478043
+- County FIPS: 06063
+- County from: 2020
+- Tract 2020: 06063000300
+- Tract 2010: 06063000300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 18485
+- Place 2010: 18485
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 2711517
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 
+- 1-bedroom units: 44
+- 2-bedroom units: 6
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

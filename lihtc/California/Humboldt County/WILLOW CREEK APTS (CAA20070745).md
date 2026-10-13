@@ -1,0 +1,85 @@
+# Project: WILLOW CREEK APTS (CAA20070745)
+
+- HUD ID: CAA20070745
+- HUD ID before: 
+- Project: WILLOW CREEK APTS
+- Address: 528 N HWY 96
+- City: WILLOW CREEK
+- State: CA
+- ZIP: 
+- ZIP extension: 
+- State project ID: CA-05-927
+- Latitude: 
+- Longitude: 
+- County FIPS: 06023
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 06023010102
+- Tract 1990: 06023010100
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 85642
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 275665
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SALEM RUN II (VAA19980175)
+
+- HUD ID: VAA19980175
+- HUD ID before: 
+- Project: SALEM RUN II
+- Address: 5715 CASTLEBRIDGE RD
+- City: FREDERICKSBURG
+- State: VA
+- ZIP: 22407
+- ZIP extension: 
+- State project ID: 4897
+- Latitude: 38.279148
+- Longitude: -77.531888
+- County FIPS: 51177
+- County from: 2020
+- Tract 2020: 51177020108
+- Tract 2010: 51177020108
+- Tract 2000: 51177020102
+- Tract 1990: 51177020198
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 610017
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 54
+- 3-bedroom units: 54
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA0000079.
+- Record status: Existing, unchanged

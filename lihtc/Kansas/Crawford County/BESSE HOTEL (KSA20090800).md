@@ -1,0 +1,85 @@
+# Project: BESSE HOTEL (KSA20090800)
+
+- HUD ID: KSA20090800
+- HUD ID before: 
+- Project: BESSE HOTEL
+- Address: 121 E FOURTH ST
+- City: PITTSBURG
+- State: KS
+- ZIP: 66762
+- ZIP extension: 
+- State project ID: KS-09-93
+- Latitude: 37.411281
+- Longitude: -94.703892
+- County FIPS: 20037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20037957500
+- Tract 2000: 20037957500
+- Tract 1990: 20037957500
+- Place 2020: 
+- Place 2010: 56025
+- Place 2000: 56025
+- Place 1990: 2290
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4746253
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2009531, KSA2009008. AKA BESSE APTS.
+- Record status: Existing, unchanged

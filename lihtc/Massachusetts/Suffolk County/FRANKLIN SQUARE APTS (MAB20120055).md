@@ -1,0 +1,85 @@
+# Project: FRANKLIN SQUARE APTS (MAB20120055)
+
+- HUD ID: MAB20120055
+- HUD ID before: 
+- Project: FRANKLIN SQUARE APTS
+- Address: 11 E NEWTON ST
+- City: BOSTON
+- State: MA
+- ZIP: 02118
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.338528
+- Longitude: -71.07348
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025071101
+- Tract 2010: 25025071101
+- Tract 2000: 25025071100
+- Tract 1990: 25025071100
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 2154844
+- Units: 193
+- Low-income units: 183
+- Units reported: 193
+- Low-income reported: 183
+- Efficiencies: 51
+- 1-bedroom units: 121
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

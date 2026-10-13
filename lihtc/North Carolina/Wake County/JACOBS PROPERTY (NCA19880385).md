@@ -1,0 +1,85 @@
+# Project: JACOBS PROPERTY (NCA19880385)
+
+- HUD ID: NCA19880385
+- HUD ID before: 
+- Project: JACOBS PROPERTY
+- Address: 801 N PRIVETTE ST
+- City: ZEBULON
+- State: NC
+- ZIP: 27597
+- ZIP extension: 
+- State project ID: 234
+- Latitude: 35.830166
+- Longitude: -78.311937
+- County FIPS: 37183
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37183054302
+- Tract 2000: 37183054302
+- Tract 1990: 37183054302
+- Place 2020: 
+- Place 2010: 76220
+- Place 2000: 76220
+- Place 1990: 2845
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 8810
+- Units: 4
+- Low-income units: 4
+- Units reported: 
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

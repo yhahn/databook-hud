@@ -1,0 +1,85 @@
+# Project: UPTOWN HOPE VI PROJECT: METROPOLITAN APTS (TNA20050130)
+
+- HUD ID: TNA20050130
+- HUD ID before: 
+- Project: UPTOWN HOPE VI PROJECT: METROPOLITAN APTS
+- Address: 374 MILL AVE
+- City: MEMPHIS
+- State: TN
+- ZIP: 38107
+- ZIP extension: 
+- State project ID: TN-02-014
+- Latitude: 35.156954
+- Longitude: -90.038296
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157002000
+- Tract 2010: 47157002000
+- Tract 2000: 47157002000
+- Tract 1990: 47157002000
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 602195
+- Units: 114
+- Low-income units: 114
+- Units reported: 114
+- Low-income reported: 114
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 66
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2004140. AKA UPTOWN VILLAGE APTS.
+- Record status: Existing, unchanged

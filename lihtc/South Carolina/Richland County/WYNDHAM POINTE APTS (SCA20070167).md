@@ -1,0 +1,85 @@
+# Project: WYNDHAM POINTE APTS (SCA20070167)
+
+- HUD ID: SCA20070167
+- HUD ID before: 
+- Project: WYNDHAM POINTE APTS
+- Address: 80 BRIGHTON HILL RD
+- City: COLUMBIA
+- State: SC
+- ZIP: 29223
+- ZIP extension: 
+- State project ID: SC-50-402
+- Latitude: 34.083088
+- Longitude: -80.962049
+- County FIPS: 45079
+- County from: 2020
+- Tract 2020: 45079010805
+- Tract 2010: 45079010805
+- Tract 2000: 45079010802
+- Tract 1990: 45079010802
+- Place 2020: 19285
+- Place 2010: 19285
+- Place 2000: 16000
+- Place 1990: 0357
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 764402
+- Units: 178
+- Low-income units: 178
+- Units reported: 178
+- Low-income reported: 178
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 96
+- 3-bedroom units: 58
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MARIA PARHAM APTS (NCA19920370)
+
+- HUD ID: NCA19920370
+- HUD ID before: 
+- Project: MARIA PARHAM APTS
+- Address: 406 S CHESTNUT ST
+- City: HENDERSON
+- State: NC
+- ZIP: 27536
+- ZIP extension: 
+- State project ID: 9002290
+- Latitude: 36.327528
+- Longitude: -78.406824
+- County FIPS: 37181
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37181960500
+- Tract 2000: 37181960500
+- Tract 1990: 37181960500
+- Place 2020: 
+- Place 2010: 30660
+- Place 2000: 30660
+- Place 1990: 1155
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 48222
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 280000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

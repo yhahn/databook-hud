@@ -1,0 +1,85 @@
+# Project: SHELTERING ARMS (NJA19980160)
+
+- HUD ID: NJA19980160
+- HUD ID before: 
+- Project: SHELTERING ARMS
+- Address: 2 BROADWAY
+- City: PATERSON
+- State: NJ
+- ZIP: 07505
+- ZIP extension: 1033
+- State project ID: PM01208
+- Latitude: 40.918965
+- Longitude: -74.175615
+- County FIPS: 34031
+- County from: 2020
+- Tract 2020: 34031183200
+- Tract 2010: 34031183200
+- Tract 2000: 34031183200
+- Tract 1990: 34031181601
+- Place 2020: 57000
+- Place 2010: 57000
+- Place 2000: 57000
+- Place 1990: 3115
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 33
+- Low-income units: 32
+- Units reported: 33
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 21
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000475.
+- Record status: Updated

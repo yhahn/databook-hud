@@ -1,0 +1,85 @@
+# Project: HARBORVIEW APTS (BELLINGHAM) (WAA19930050)
+
+- HUD ID: WAA19930050
+- HUD ID before: 
+- Project: HARBORVIEW APTS (BELLINGHAM)
+- Address: 1501 G ST
+- City: BELLINGHAM
+- State: WA
+- ZIP: 98225
+- ZIP extension: 
+- State project ID: 91-13E
+- Latitude: 48.756869
+- Longitude: -122.486968
+- County FIPS: 53073
+- County from: 2020
+- Tract 2020: 53073000502
+- Tract 2010: 53073000502
+- Tract 2000: 53073000500
+- Tract 1990: 53073000500
+- Place 2020: 05280
+- Place 2010: 05280
+- Place 2000: 05280
+- Place 1990: 0080
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 109771
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: LARGE FAMILY
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

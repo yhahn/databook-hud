@@ -1,0 +1,85 @@
+# Project: CENTRAL CITY APTS (ILA20050030)
+
+- HUD ID: ILA20050030
+- HUD ID before: 
+- Project: CENTRAL CITY APTS
+- Address: 1421 BOWMAN ST
+- City: EAST SAINT LOUIS
+- State: IL
+- ZIP: 62205
+- ZIP extension: 
+- State project ID: 152803
+- Latitude: 38.629188
+- Longitude: -90.136678
+- County FIPS: 17163
+- County from: 2020
+- Tract 2020: 17163504600
+- Tract 2010: 17163504600
+- Tract 2000: 17163504201
+- Tract 1990: 17163504201
+- Place 2020: 22255
+- Place 2010: 22255
+- Place 2000: 22255
+- Place 1990: 1660
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 966852
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 38
+- 3-bedroom units: 28
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

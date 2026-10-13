@@ -1,0 +1,85 @@
+# Project: GARDEN WALK FKA INCLINE VILLAGE (ARA19940060)
+
+- HUD ID: ARA19940060
+- HUD ID before: 
+- Project: GARDEN WALK FKA INCLINE VILLAGE
+- Address: 2925 MADELINE DR
+- City: VAN BUREN
+- State: AR
+- ZIP: 72956
+- ZIP extension: 
+- State project ID: AR-94-28
+- Latitude: 35.460489
+- Longitude: -94.326011
+- County FIPS: 05033
+- County from: 2020
+- Tract 2020: 05033020204
+- Tract 2010: 05033020204
+- Tract 2000: 05033020202
+- Tract 1990: 05033020202
+- Place 2020: 71480
+- Place 2010: 71480
+- Place 2000: 71480
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 1720
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA INCLINE VILLAGE
+- Record status: Existing, unchanged

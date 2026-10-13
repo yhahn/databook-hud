@@ -1,0 +1,85 @@
+# Project: CAMBRIDGE WOODS APTS (MIA20089229)
+
+- HUD ID: MIA20089229
+- HUD ID before: 
+- Project: CAMBRIDGE WOODS APTS
+- Address: 205 HIDDEN OAKS DR
+- City: ST LOUIS
+- State: MI
+- ZIP: 48880
+- ZIP extension: 
+- State project ID: MI-3083
+- Latitude: 43.410734
+- Longitude: -84.632594
+- County FIPS: 26057
+- County from: 2020
+- Tract 2020: 26057000300
+- Tract 2010: 26057000300
+- Tract 2000: 26057990300
+- Tract 1990: 26057990300
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2405
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 49
+- Low-income units: 49
+- Units reported: 44
+- Low-income reported: 49
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CARNEY'S POINT SENIOR LITC# 639 (NJA20049004)
+
+- HUD ID: NJA20049004
+- HUD ID before: 
+- Project: CARNEY'S POINT SENIOR LITC# 639
+- Address: 44 S DUPONT RD
+- City: CARNEYS POINT
+- State: NJ
+- ZIP: 08069
+- ZIP extension: 2298
+- State project ID: PM01330
+- Latitude: 39.718436
+- Longitude: -75.459569
+- County FIPS: 34033
+- County from: 2020
+- Tract 2020: 34033020500
+- Tract 2010: 34033020500
+- Tract 2000: 34033020500
+- Tract 1990: 
+- Place 2020: 10600
+- Place 2010: 10600
+- Place 2000: 10600
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 282173
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

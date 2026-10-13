@@ -1,0 +1,85 @@
+# Project: MINT MILL MANOR (INA19890053)
+
+- HUD ID: INA19890053
+- HUD ID before: 
+- Project: MINT MILL MANOR
+- Address: 302 MAIN ST
+- City: NORTH JUDSON
+- State: IN
+- ZIP: 46366
+- ZIP extension: 
+- State project ID: IN-89-06601
+- Latitude: 41.216976
+- Longitude: -86.773035
+- County FIPS: 18149
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18149954200
+- Tract 2000: 18149954200
+- Tract 1990: 18149954200
+- Place 2020: 
+- Place 2010: 54900
+- Place 2000: 54900
+- Place 1990: 1875
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001235.
+- Record status: Existing, unchanged

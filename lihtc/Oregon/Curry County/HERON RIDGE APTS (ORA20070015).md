@@ -1,0 +1,85 @@
+# Project: HERON RIDGE APTS (ORA20070015)
+
+- HUD ID: ORA20070015
+- HUD ID before: 
+- Project: HERON RIDGE APTS
+- Address: 521 FIR ST
+- City: BROOKINGS
+- State: OR
+- ZIP: 97415
+- ZIP extension: 
+- State project ID: 2548
+- Latitude: 42.056106
+- Longitude: -124.278386
+- County FIPS: 41015
+- County from: 2020
+- Tract 2020: 41015950301
+- Tract 2010: 41015950301
+- Tract 2000: 41015950301
+- Tract 1990: 41015950200
+- Place 2020: 08650
+- Place 2010: 08650
+- Place 2000: 08650
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 437709
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 489768
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

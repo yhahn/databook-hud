@@ -1,0 +1,85 @@
+# Project: AVERY PARK REVITALIZATION (AKA WOODLAND SPRINGS PHASE I) (CTA20162001)
+
+- HUD ID: CTA20162001
+- HUD ID before: 
+- Project: AVERY PARK REVITALIZATION (AKA WOODLAND SPRINGS PHASE I)
+- Address: 55 WOODLAND SPRINGS DRIVE
+- City: STAFFORD SPRINGS
+- State: CT
+- ZIP: 06076
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.945178
+- Longitude: -72.289919
+- County FIPS: 09013
+- County from: 2020
+- Tract 2020: 09013890202
+- Tract 2010: 09013890201
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 72300
+- Place 2010: 72300
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1195862
+- Units: 79
+- Low-income units: 71
+- Units reported: 79
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 79
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 52
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

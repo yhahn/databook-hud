@@ -1,0 +1,85 @@
+# Project: TIMBERCREEK VILLAGE (TXA19990220)
+
+- HUD ID: TXA19990220
+- HUD ID before: 
+- Project: TIMBERCREEK VILLAGE
+- Address: 1908 W SIXTH
+- City: RUSK
+- State: TX
+- ZIP: 
+- ZIP extension: 
+- State project ID: TX2020
+- Latitude: 
+- Longitude: 
+- County FIPS: 48073
+- County from: 2020
+- Tract 2020: 48073950802
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63848
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 44
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ABBEY HEIGHTS (ORA19980010)
+
+- HUD ID: ORA19980010
+- HUD ID before: 
+- Project: ABBEY HEIGHTS
+- Address: 219 12TH ST
+- City: LAFAYETTE
+- State: OR
+- ZIP: 97127
+- ZIP extension: 
+- State project ID: X001-125
+- Latitude: 45.24962
+- Longitude: -123.113182
+- County FIPS: 41071
+- County from: 2020
+- Tract 2020: 41071030304
+- Tract 2010: 41071030301
+- Tract 2000: 41071030300
+- Tract 1990: 41071030300
+- Place 2020: 40300
+- Place 2010: 40300
+- Place 2000: 21050
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 201701
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 17
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 600000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

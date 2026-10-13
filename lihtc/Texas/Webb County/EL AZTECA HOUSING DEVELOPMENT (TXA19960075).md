@@ -1,0 +1,85 @@
+# Project: EL AZTECA HOUSING DEVELOPMENT (TXA19960075)
+
+- HUD ID: TXA19960075
+- HUD ID before: 
+- Project: EL AZTECA HOUSING DEVELOPMENT
+- Address: 200 ZARAGOZA ST
+- City: LAREDO
+- State: TX
+- ZIP: 78040
+- ZIP extension: 
+- State project ID: TX1238
+- Latitude: 27.502254
+- Longitude: -99.498003
+- County FIPS: 48479
+- County from: 2020
+- Tract 2020: 48479000300
+- Tract 2010: 48479000300
+- Tract 2000: 48479000300
+- Tract 1990: 48479000300
+- Place 2020: 41464
+- Place 2010: 41464
+- Place 2000: 41464
+- Place 1990: 2400
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 15
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

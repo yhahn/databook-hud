@@ -1,0 +1,85 @@
+# Project: STURGEON LANDING (MEA20250002)
+
+- HUD ID: MEA20250002
+- HUD ID before: 
+- Project: STURGEON LANDING
+- Address: 18 PARK STREET
+- City: AUGUSTA
+- State: ME
+- ZIP: 04330
+- ZIP extension: 
+- State project ID: MSHARLP1801
+- Latitude: 44.323051
+- Longitude: -69.764489
+- County FIPS: 23011
+- County from: 2020
+- Tract 2020: 23011010100
+- Tract 2010: 23011010100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02100
+- Place 2010: 02100
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2025
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 960000
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 9
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: Yes
+- Affordability years: 45
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 3936760
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

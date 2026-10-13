@@ -1,0 +1,85 @@
+# Project: JOHN F KENNEDY TOWERS SENIOR HOUSING (NYA20040340)
+
+- HUD ID: NYA20040340
+- HUD ID before: 
+- Project: JOHN F KENNEDY TOWERS SENIOR HOUSING
+- Address: 2100 SIXTH AVE
+- City: TROY
+- State: NY
+- ZIP: 12180
+- ZIP extension: 
+- State project ID: 20020674
+- Latitude: 42.734762
+- Longitude: -73.684812
+- County FIPS: 36083
+- County from: 2020
+- Tract 2020: 36083040701
+- Tract 2010: 36083040700
+- Tract 2000: 36083040700
+- Tract 1990: 36083040700
+- Place 2020: 75484
+- Place 2010: 75484
+- Place 2000: 75484
+- Place 1990: 3625
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1400000
+- Units: 135
+- Low-income units: 135
+- Units reported: 135
+- Low-income reported: 135
+- Efficiencies: 0
+- 1-bedroom units: 104
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 135
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

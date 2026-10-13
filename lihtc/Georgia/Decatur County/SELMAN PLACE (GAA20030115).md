@@ -1,0 +1,85 @@
+# Project: SELMAN PLACE (GAA20030115)
+
+- HUD ID: GAA20030115
+- HUD ID before: 
+- Project: SELMAN PLACE
+- Address: 509 GORDON AVE
+- City: BAINBRIDGE
+- State: GA
+- ZIP: 39819
+- ZIP extension: 4328
+- State project ID: GA-01-068
+- Latitude: 30.90347
+- Longitude: -84.550538
+- County FIPS: 13087
+- County from: 2020
+- Tract 2020: 13087970600
+- Tract 2010: 13087970600
+- Tract 2000: 13087970600
+- Tract 1990: 13087970600
+- Place 2020: 04896
+- Place 2010: 04896
+- Place 2000: 04896
+- Place 1990: 0195
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 44
+- Units reported: 56
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

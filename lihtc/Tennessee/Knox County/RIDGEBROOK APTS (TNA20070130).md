@@ -1,0 +1,85 @@
+# Project: RIDGEBROOK APTS (TNA20070130)
+
+- HUD ID: TNA20070130
+- HUD ID before: 
+- Project: RIDGEBROOK APTS
+- Address: 2100 RIDGEBROOK LN
+- City: KNOXVILLE
+- State: TN
+- ZIP: 37921
+- ZIP extension: 
+- State project ID: TN-07-207
+- Latitude: 35.970891
+- Longitude: -83.950419
+- County FIPS: 47093
+- County from: 2020
+- Tract 2020: 47093007000
+- Tract 2010: 47093007000
+- Tract 2000: 47093001200
+- Tract 1990: 47093001200
+- Place 2020: 40000
+- Place 2010: 40000
+- Place 2000: 40000
+- Place 1990: 0760
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 298430
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA RIDGEBROOK II.
+- Record status: Existing, unchanged

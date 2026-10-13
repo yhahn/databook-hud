@@ -1,0 +1,85 @@
+# Project: MCKINLEY COMMONS (OHA20069763)
+
+- HUD ID: OHA20069763
+- HUD ID before: 
+- Project: MCKINLEY COMMONS
+- Address: 240 S MAIN ST
+- City: WEST MILTON
+- State: OH
+- ZIP: 45383
+- ZIP extension: 
+- State project ID: 040058
+- Latitude: 39.959655
+- Longitude: -84.328009
+- County FIPS: 39109
+- County from: 2020
+- Tract 2020: 39109345000
+- Tract 2010: 39109345000
+- Tract 2000: 39109345000
+- Tract 1990: 39109345000
+- Place 2020: 83902
+- Place 2010: 83902
+- Place 2000: 83902
+- Place 1990: 4625
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 194494
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 8
+- 1-bedroom units: 24
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2005671, OHA2006150.
+- Record status: Existing, unchanged

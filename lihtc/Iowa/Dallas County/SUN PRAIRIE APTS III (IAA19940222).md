@@ -1,0 +1,85 @@
+# Project: SUN PRAIRIE APTS III (IAA19940222)
+
+- HUD ID: IAA19940222
+- HUD ID before: 
+- Project: SUN PRAIRIE APTS III
+- Address: 6017 VISTA DR
+- City: WEST DES MOINES
+- State: IA
+- ZIP: 50266
+- ZIP extension: 
+- State project ID: 92-29
+- Latitude: 41.58976
+- Longitude: -93.790793
+- County FIPS: 19049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19049050811
+- Tract 2000: 19049050802
+- Tract 1990: 19049050800
+- Place 2020: 
+- Place 2010: 83910
+- Place 2000: 14520
+- Place 1990: 4470
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 793532
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA1993115.
+- Record status: Existing, unchanged

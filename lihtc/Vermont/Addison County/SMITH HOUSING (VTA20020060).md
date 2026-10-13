@@ -1,0 +1,85 @@
+# Project: SMITH HOUSING (VTA20020060)
+
+- HUD ID: VTA20020060
+- HUD ID before: 
+- Project: SMITH HOUSING
+- Address: 32 SEMINARY ST
+- City: MIDDLEBURY
+- State: VT
+- ZIP: 05753
+- ZIP extension: 
+- State project ID: 0204
+- Latitude: 44.016429
+- Longitude: -73.164904
+- County FIPS: 50001
+- County from: 2020
+- Tract 2020: 50001960700
+- Tract 2010: 50001960700
+- Tract 2000: 50001960700
+- Tract 1990: 50001960700
+- Place 2020: 44275
+- Place 2010: 44275
+- Place 2000: 44275
+- Place 1990: 1528
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 83807
+- Units: 17
+- Low-income units: 16
+- Units reported: 17
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CORAL RIDGE APTS II (IAA19920030)
+
+- HUD ID: IAA19920030
+- HUD ID before: 
+- Project: CORAL RIDGE APTS II
+- Address: 2222 TENTH ST
+- City: CORALVILLE
+- State: IA
+- ZIP: 52241
+- ZIP extension: 
+- State project ID: 91-08
+- Latitude: 41.687567
+- Longitude: -91.595189
+- County FIPS: 19103
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19103000302
+- Tract 2000: 19103000302
+- Tract 1990: 19103000302
+- Place 2020: 
+- Place 2010: 16230
+- Place 2000: 16230
+- Place 1990: 0910
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 127954
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

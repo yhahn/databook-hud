@@ -1,0 +1,85 @@
+# Project: BEDFORD IB (PAA20030015)
+
+- HUD ID: PAA20030015
+- HUD ID before: 
+- Project: BEDFORD IB
+- Address: 2060 WEBSTER AVE
+- City: PITTSBURGH
+- State: PA
+- ZIP: 15219
+- ZIP extension: 
+- State project ID: TC2001-0431
+- Latitude: 40.446068
+- Longitude: -79.980458
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003050100
+- Tract 2010: 42003050100
+- Tract 2000: 42003050100
+- Tract 1990: 42003050100
+- Place 2020: 61000
+- Place 2010: 61000
+- Place 2000: 61000
+- Place 1990: 7234
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 750073
+- Units: 99
+- Low-income units: 75
+- Units reported: 99
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 68
+- 3-bedroom units: 11
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 400000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

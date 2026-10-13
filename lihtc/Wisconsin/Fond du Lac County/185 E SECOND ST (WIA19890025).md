@@ -1,0 +1,85 @@
+# Project: 185 E SECOND ST (WIA19890025)
+
+- HUD ID: WIA19890025
+- HUD ID before: 
+- Project: 185 E SECOND ST
+- Address: 185 E SECOND ST
+- City: FOND DU LAC
+- State: WI
+- ZIP: 54935
+- ZIP extension: 
+- State project ID: 292
+- Latitude: 43.775346
+- Longitude: -88.439879
+- County FIPS: 55039
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55039040500
+- Tract 2000: 55039040500
+- Tract 1990: 55039040500
+- Place 2020: 
+- Place 2010: 26275
+- Place 2000: 26275
+- Place 1990: 0905
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Existing
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

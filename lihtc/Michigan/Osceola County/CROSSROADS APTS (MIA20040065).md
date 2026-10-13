@@ -1,0 +1,85 @@
+# Project: CROSSROADS APTS (MIA20040065)
+
+- HUD ID: MIA20040065
+- HUD ID before: 
+- Project: CROSSROADS APTS
+- Address: 848 S CHESTNUT ST
+- City: REED CITY
+- State: MI
+- ZIP: 49677
+- ZIP extension: 
+- State project ID: MI-1076
+- Latitude: 43.863854
+- Longitude: -85.508978
+- County FIPS: 26133
+- County from: 2020
+- Tract 2020: 26133970600
+- Tract 2010: 26133970600
+- Tract 2000: 26133970600
+- Tract 1990: 26133970600
+- Place 2020: 67820
+- Place 2010: 67820
+- Place 2000: 37820
+- Place 1990: 2285
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 39
+- Low-income units: 38
+- Units reported: 39
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

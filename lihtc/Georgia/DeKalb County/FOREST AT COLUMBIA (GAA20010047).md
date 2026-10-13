@@ -1,0 +1,85 @@
+# Project: FOREST AT COLUMBIA (GAA20010047)
+
+- HUD ID: GAA20010047
+- HUD ID before: 
+- Project: FOREST AT COLUMBIA
+- Address: 2505 COLUMBIA DR
+- City: DECATUR
+- State: GA
+- ZIP: 30034
+- ZIP extension: 1781
+- State project ID: GA-99-512
+- Latitude: 33.714302
+- Longitude: -84.252622
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089023446
+- Tract 2010: 13089023412
+- Tract 2000: 13089023412
+- Tract 1990: 13089023408
+- Place 2020: 59080
+- Place 2010: 59080
+- Place 2000: 59080
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 161
+- Low-income units: 161
+- Units reported: 161
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000155.
+- Record status: Existing, unchanged

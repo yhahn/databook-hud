@@ -1,0 +1,85 @@
+# Project: WABASH HOUSE (ORA19890120)
+
+- HUD ID: ORA19890120
+- HUD ID before: 
+- Project: WABASH HOUSE
+- Address: 1165 WABASH AVE
+- City: MEDFORD
+- State: OR
+- ZIP: 97504
+- ZIP extension: 
+- State project ID: OR89-262
+- Latitude: 42.340646
+- Longitude: -122.855727
+- County FIPS: 41029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41029000502
+- Tract 2000: 41029000500
+- Tract 1990: 41029000500
+- Place 2020: 
+- Place 2010: 47000
+- Place 2000: 47000
+- Place 1990: 0720
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

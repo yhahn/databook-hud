@@ -1,0 +1,85 @@
+# Project: ST. REGIS HOUSE (NHA20200008)
+
+- HUD ID: NHA20200008
+- HUD ID before: 
+- Project: ST. REGIS HOUSE
+- Address: 421 MAIN STREET
+- City: BERLIN
+- State: NH
+- ZIP: 03570
+- ZIP extension: 
+- State project ID: NH-18-00
+- Latitude: 44.472973
+- Longitude: -71.176685
+- County FIPS: 33007
+- County from: 2020
+- Tract 2020: 33007950600
+- Tract 2010: 33007950600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 05140
+- Place 2010: 05140
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 476822
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 475000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

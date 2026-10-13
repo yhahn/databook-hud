@@ -1,0 +1,85 @@
+# Project: J STREET APTS (NEA19900800)
+
+- HUD ID: NEA19900800
+- HUD ID before: 
+- Project: J STREET APTS
+- Address: 4319 S 22ND ST
+- City: OMAHA
+- State: NE
+- ZIP: 68107
+- ZIP extension: 
+- State project ID: 7-0065
+- Latitude: 41.217073
+- Longitude: -95.944056
+- County FIPS: 31055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31055002600
+- Tract 2000: 31055002600
+- Tract 1990: 31055002600
+- Place 2020: 
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 1825
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 16052
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA0000250.
+- Record status: Existing, unchanged

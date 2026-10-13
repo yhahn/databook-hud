@@ -1,0 +1,85 @@
+# Project: DUNELAND VILLAGE (INA20040024)
+
+- HUD ID: INA20040024
+- HUD ID before: 
+- Project: DUNELAND VILLAGE
+- Address: 544 S LAKE ST
+- City: GARY
+- State: IN
+- ZIP: 46403
+- ZIP extension: 
+- State project ID: IN-02-04400
+- Latitude: 41.600743
+- Longitude: -87.267867
+- County FIPS: 18089
+- County from: 2020
+- Tract 2020: 18089010206
+- Tract 2010: 18089010201
+- Tract 2000: 18089010201
+- Tract 1990: 18089010298
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 0905
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 731814
+- Units: 131
+- Low-income units: 101
+- Units reported: 131
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 67
+- 3-bedroom units: 43
+- 4-bedroom units: 11
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

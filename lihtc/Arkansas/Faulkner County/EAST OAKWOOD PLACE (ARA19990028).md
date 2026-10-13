@@ -1,0 +1,85 @@
+# Project: EAST OAKWOOD PLACE (ARA19990028)
+
+- HUD ID: ARA19990028
+- HUD ID before: 
+- Project: EAST OAKWOOD PLACE
+- Address: 1651 HAIRSTON ST
+- City: CONWAY
+- State: AR
+- ZIP: 72032
+- ZIP extension: 
+- State project ID: AR-98-09-001
+- Latitude: 35.098945
+- Longitude: -92.44575
+- County FIPS: 05045
+- County from: 2020
+- Tract 2020: 05045030701
+- Tract 2010: 05045030701
+- Tract 2000: 05045030700
+- Tract 1990: 05045030700
+- Place 2020: 15190
+- Place 2010: 15190
+- Place 2000: 15190
+- Place 1990: 0440
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 106681
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ARIA APARTMENTS (COA20130001)
+
+- HUD ID: COA20130001
+- HUD ID before: 
+- Project: ARIA APARTMENTS
+- Address: 2791 W 52ND AVE
+- City: DENVER
+- State: CO
+- ZIP: 80221
+- ZIP extension: 
+- State project ID: 2011030
+- Latitude: 39.791258
+- Longitude: -105.021005
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031000201
+- Tract 2010: 08031000201
+- Tract 2000: 08031000201
+- Tract 1990: 08031000201
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 20000
+- Place 1990: 0320
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

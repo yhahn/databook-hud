@@ -1,0 +1,85 @@
+# Project: POST FALLS SENIOR (IDA20240001)
+
+- HUD ID: IDA20240001
+- HUD ID before: 
+- Project: POST FALLS SENIOR
+- Address: 3367 E. 3RD AVE
+- City: POST FALLS
+- State: ID
+- ZIP: 83854
+- ZIP extension: 
+- State project ID: HC1922
+- Latitude: 47.708335
+- Longitude: -116.902425
+- County FIPS: 16055
+- County from: 2020
+- Tract 2020: 16055000602
+- Tract 2010: 16055000602
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 64810
+- Place 2010: 64810
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 352910
+- Units: 66
+- Low-income units: 65
+- Units reported: 66
+- Low-income reported: 65
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 54
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 39
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

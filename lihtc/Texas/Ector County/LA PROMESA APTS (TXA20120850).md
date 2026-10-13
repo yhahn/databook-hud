@@ -1,0 +1,85 @@
+# Project: LA PROMESA APTS (TXA20120850)
+
+- HUD ID: TXA20120850
+- HUD ID before: 
+- Project: LA PROMESA APTS
+- Address: 4590 N TEXAS AVE
+- City: ODESSA
+- State: TX
+- ZIP: 79762
+- ZIP extension: 
+- State project ID: TX1040
+- Latitude: 31.887374
+- Longitude: -102.38508
+- County FIPS: 48135
+- County from: 2020
+- Tract 2020: 48135000500
+- Tract 2010: 48135000500
+- Tract 2000: 48135000500
+- Tract 1990: 48135000500
+- Place 2020: 53388
+- Place 2010: 53388
+- Place 2000: 53388
+- Place 1990: 3080
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 136
+- Low-income units: 136
+- Units reported: 136
+- Low-income reported: 136
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 58
+- 3-bedroom units: 78
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

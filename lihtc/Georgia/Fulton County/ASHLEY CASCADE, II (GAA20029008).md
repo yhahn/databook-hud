@@ -1,0 +1,85 @@
+# Project: ASHLEY CASCADE, II (GAA20029008)
+
+- HUD ID: GAA20029008
+- HUD ID before: 
+- Project: ASHLEY CASCADE, II
+- Address: 1371 KIMBERLY WAY SW
+- City: ATLANTA
+- State: GA
+- ZIP: 30331
+- ZIP extension: 4621
+- State project ID: 2000-043
+- Latitude: 33.718329
+- Longitude: -84.523854
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121007810
+- Tract 2010: 13121007802
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 619870
+- Units: 136
+- Low-income units: 95
+- Units reported: 136
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

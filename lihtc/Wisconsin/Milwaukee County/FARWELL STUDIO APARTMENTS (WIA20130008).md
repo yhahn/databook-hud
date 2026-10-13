@@ -1,0 +1,85 @@
+# Project: FARWELL STUDIO APARTMENTS (WIA20130008)
+
+- HUD ID: WIA20130008
+- HUD ID before: 
+- Project: FARWELL STUDIO APARTMENTS
+- Address: 1531 - 1535 FARWELL AVENUE
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53202
+- ZIP extension: 
+- State project ID: 5848
+- Latitude: 43.05046
+- Longitude: -87.894979
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079011000
+- Tract 2010: 55079011000
+- Tract 2000: 55079011000
+- Tract 1990: 55079011000
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 407221
+- Units: 34
+- Low-income units: 7
+- Units reported: 34
+- Low-income reported: 7
+- Efficiencies: 34
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

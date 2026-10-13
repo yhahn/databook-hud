@@ -1,0 +1,85 @@
+# Project: CHRISTOPHER HEIGHTS OF ATTLEBORO (MAB19990020)
+
+- HUD ID: MAB19990020
+- HUD ID before: 
+- Project: CHRISTOPHER HEIGHTS OF ATTLEBORO
+- Address: 45 S MAIN ST
+- City: ATTLEBORO
+- State: MA
+- ZIP: 02703
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 41.94293
+- Longitude: -71.284512
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005631400
+- Tract 2010: 25005631400
+- Tract 2000: 25005631400
+- Tract 1990: 25005631400
+- Place 2020: 02690
+- Place 2010: 02690
+- Place 2000: 02690
+- Place 1990: 0210
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 41
+- Units reported: 81
+- Low-income reported: 41
+- Efficiencies: 63
+- 1-bedroom units: 18
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

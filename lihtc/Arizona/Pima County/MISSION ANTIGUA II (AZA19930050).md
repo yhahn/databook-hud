@@ -1,0 +1,85 @@
+# Project: MISSION ANTIGUA II (AZA19930050)
+
+- HUD ID: AZA19930050
+- HUD ID before: 
+- Project: MISSION ANTIGUA II
+- Address: 5525 S MISSION RD
+- City: TUCSON
+- State: AZ
+- ZIP: 85746
+- ZIP extension: 
+- State project ID: AZ-91-00142
+- Latitude: 32.151255
+- Longitude: -111.01072
+- County FIPS: 04019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04019002505
+- Tract 2000: 04019002505
+- Tract 1990: 04019002502
+- Place 2020: 
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 0380
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 220
+- Low-income units: 220
+- Units reported: 220
+- Low-income reported: 220
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 96
+- 3-bedroom units: 0
+- 4-bedroom units: 28
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TIERRA.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NEEDMORE PLACE (TNA20120805)
+
+- HUD ID: TNA20120805
+- HUD ID before: 
+- Project: NEEDMORE PLACE
+- Address: 290 NEEDMORE RD
+- City: CLARKSVILLE
+- State: TN
+- ZIP: 37040
+- ZIP extension: 
+- State project ID: TN-11-079
+- Latitude: 36.584024
+- Longitude: -87.308594
+- County FIPS: 47125
+- County from: 2020
+- Tract 2020: 47125102005
+- Tract 2010: 47125102005
+- Tract 2000: 47125102000
+- Tract 1990: 47125102000
+- Place 2020: 15160
+- Place 2010: 15160
+- Place 2000: 15160
+- Place 1990: 0250
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1087179
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 62
+- 3-bedroom units: 38
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

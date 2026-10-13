@@ -1,0 +1,85 @@
+# Project: LEXINGTON CLUB AT GALLERIA (NYB20030047)
+
+- HUD ID: NYB20030047
+- HUD ID before: 
+- Project: LEXINGTON CLUB AT GALLERIA
+- Address: 1964 S RD
+- City: POUGHKEEPSIE
+- State: NY
+- ZIP: 12601
+- ZIP extension: 
+- State project ID: 1462
+- Latitude: 41.623884
+- Longitude: -73.917249
+- County FIPS: 36027
+- County from: 2020
+- Tract 2020: 36027140700
+- Tract 2010: 36027140700
+- Tract 2000: 36027140700
+- Tract 1990: 36027140700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 60983
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 98
+- 2-bedroom units: 50
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYB2005020.
+- Record status: Existing, unchanged

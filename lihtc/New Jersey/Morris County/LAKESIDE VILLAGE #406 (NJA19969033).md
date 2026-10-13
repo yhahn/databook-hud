@@ -1,0 +1,85 @@
+# Project: LAKESIDE VILLAGE #406 (NJA19969033)
+
+- HUD ID: NJA19969033
+- HUD ID before: 
+- Project: LAKESIDE VILLAGE #406
+- Address: OFFICE-1480 RT 9N STE 208 BLDG - 2, 4, 6 WILLOW WALK
+- City: LEDGEWOOD
+- State: NJ
+- ZIP: 07852
+- ZIP extension: 
+- State project ID: NJ-99-99
+- Latitude: 40.8707
+- Longitude: -74.6696
+- County FIPS: 34027
+- County from: 2020
+- Tract 2020: 34027045300
+- Tract 2010: 34027045502
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71370
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 105
+- Low-income units: 105
+- Units reported: 105
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

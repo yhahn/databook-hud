@@ -1,0 +1,85 @@
+# Project: ZURICH MEADOWS (ILA20110005)
+
+- HUD ID: ILA20110005
+- HUD ID before: 
+- Project: ZURICH MEADOWS
+- Address: 250 MOHAWK TRAIL
+- City: LAKE ZURICH
+- State: IL
+- ZIP: 60047
+- ZIP extension: 
+- State project ID: 1033410
+- Latitude: 42.193791
+- Longitude: -88.086787
+- County FIPS: 17097
+- County from: 2020
+- Tract 2020: 17097864409
+- Tract 2010: 17097864409
+- Tract 2000: 17097864409
+- Tract 1990: 17097864405
+- Place 2020: 41742
+- Place 2010: 41742
+- Place 2000: 41742
+- Place 1990: 3115
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1518870
+- Units: 95
+- Low-income units: 75
+- Units reported: 95
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 53
+- 2-bedroom units: 42
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 15158870
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

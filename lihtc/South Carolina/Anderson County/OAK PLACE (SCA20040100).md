@@ -1,0 +1,85 @@
+# Project: OAK PLACE (SCA20040100)
+
+- HUD ID: SCA20040100
+- HUD ID before: 
+- Project: OAK PLACE
+- Address: 100 DUVALL WAY
+- City: ANDERSON
+- State: SC
+- ZIP: 29624
+- ZIP extension: 
+- State project ID: SC-02-015
+- Latitude: 34.484065
+- Longitude: -82.655335
+- County FIPS: 45007
+- County from: 2020
+- Tract 2020: 45007000702
+- Tract 2010: 45007000700
+- Tract 2000: 45007000700
+- Tract 1990: 45007000700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 01360
+- Place 1990: 0035
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 429859
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

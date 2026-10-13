@@ -1,0 +1,85 @@
+# Project: COUNTY HOUSE VILLAGE (NJA19990134)
+
+- HUD ID: NJA19990134
+- HUD ID before: 
+- Project: COUNTY HOUSE VILLAGE
+- Address: 1901 ARON'S CIRCLE
+- City: MANTUA TOWNSHIP
+- State: NJ
+- ZIP: 08080
+- ZIP extension: 
+- State project ID: 01244
+- Latitude: 39.776161
+- Longitude: -75.112907
+- County FIPS: 34015
+- County from: 2020
+- Tract 2020: 34015501209
+- Tract 2010: 34015501209
+- Tract 2000: 34015501209
+- Tract 1990: 34015501298
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 692423
+- Units: 95
+- Low-income units: 95
+- Units reported: 95
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1998800, NJA1998135, NJA1998085,, NJA1997185.;PREVIOUSLY LISTED AS NJA1999134
+- Record status: Existing, unchanged

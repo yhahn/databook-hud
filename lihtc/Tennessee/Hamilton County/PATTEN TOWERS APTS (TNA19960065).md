@@ -1,0 +1,85 @@
+# Project: PATTEN TOWERS APTS (TNA19960065)
+
+- HUD ID: TNA19960065
+- HUD ID before: 
+- Project: PATTEN TOWERS APTS
+- Address: 1 E 11TH ST
+- City: CHATTANOOGA
+- State: TN
+- ZIP: 37402
+- ZIP extension: 
+- State project ID: TN-95-103
+- Latitude: 35.044056
+- Longitude: -85.309267
+- County FIPS: 47065
+- County from: 2020
+- Tract 2020: 47065003100
+- Tract 2010: 47065003100
+- Tract 2000: 47065003100
+- Tract 1990: 47065003100
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 0245
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 395064
+- Units: 221
+- Low-income units: 221
+- Units reported: 221
+- Low-income reported: 221
+- Efficiencies: 32
+- 1-bedroom units: 188
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

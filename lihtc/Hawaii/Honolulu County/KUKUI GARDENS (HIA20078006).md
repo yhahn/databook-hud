@@ -1,0 +1,85 @@
+# Project: KUKUI GARDENS (HIA20078006)
+
+- HUD ID: HIA20078006
+- HUD ID before: 
+- Project: KUKUI GARDENS
+- Address: 350 N BERETANIA ST
+- City: HONOLULU
+- State: HI
+- ZIP: 96817
+- ZIP extension: 
+- State project ID: HI-2007-003
+- Latitude: 21.31602
+- Longitude: -157.863397
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003005300
+- Tract 2010: 15003005300
+- Tract 2000: 15003005300
+- Tract 1990: 
+- Place 2020: 71550
+- Place 2010: 71550
+- Place 2000: 17000
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 2137683
+- Units: 389
+- Low-income units: 384
+- Units reported: 389
+- Low-income reported: 384
+- Efficiencies: 0
+- 1-bedroom units: 115
+- 2-bedroom units: 106
+- 3-bedroom units: 121
+- 4-bedroom units: 42
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

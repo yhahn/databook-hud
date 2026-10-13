@@ -1,0 +1,85 @@
+# Project: MARYWOOD APT HOMES (ILA20040750)
+
+- HUD ID: ILA20040750
+- HUD ID before: 
+- Project: MARYWOOD APT HOMES
+- Address: 1650 N MARYWOOD AVE
+- City: AURORA
+- State: IL
+- ZIP: 60505
+- ZIP extension: 
+- State project ID: 34503
+- Latitude: 41.7904
+- Longitude: -88.284473
+- County FIPS: 17089
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17089852906
+- Tract 2000: 17089852902
+- Tract 1990: 17089852902
+- Place 2020: 
+- Place 2010: 03012
+- Place 2000: 03012
+- Place 1990: 0280
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 578359
+- Units: 260
+- Low-income units: 260
+- Units reported: 260
+- Low-income reported: 260
+- Efficiencies: 6
+- 1-bedroom units: 142
+- 2-bedroom units: 104
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000066.
+- Record status: Existing, unchanged

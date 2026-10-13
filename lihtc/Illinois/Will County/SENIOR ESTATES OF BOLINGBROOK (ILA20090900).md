@@ -1,0 +1,85 @@
+# Project: SENIOR ESTATES OF BOLINGBROOK (ILA20090900)
+
+- HUD ID: ILA20090900
+- HUD ID before: 
+- Project: SENIOR ESTATES OF BOLINGBROOK
+- Address: 550 KILDEER DR
+- City: BOLINGBROOK
+- State: IL
+- ZIP: 60440
+- ZIP extension: 
+- State project ID: 285507
+- Latitude: 41.716251
+- Longitude: -88.049281
+- County FIPS: 17197
+- County from: 2020
+- Tract 2020: 17197880117
+- Tract 2010: 17197880117
+- Tract 2000: 17197880110
+- Tract 1990: 17197880110
+- Place 2020: 07133
+- Place 2010: 07133
+- Place 2000: 07133
+- Place 1990: 0563
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 343314
+- Units: 105
+- Low-income units: 105
+- Units reported: 105
+- Low-income reported: 105
+- Efficiencies: 55
+- 1-bedroom units: 50
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000088.
+- Record status: Existing, unchanged

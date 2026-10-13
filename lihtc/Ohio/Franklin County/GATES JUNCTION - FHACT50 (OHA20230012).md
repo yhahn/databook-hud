@@ -1,0 +1,85 @@
+# Project: GATES JUNCTION - FHACT50 (OHA20230012)
+
+- HUD ID: OHA20230012
+- HUD ID before: 
+- Project: GATES JUNCTION - FHACT50
+- Address: 1131 WEST BROAD STREET
+- City: COLUMBUS
+- State: OH
+- ZIP: 43222
+- ZIP extension: 
+- State project ID: 200235
+- Latitude: 39.958466
+- Longitude: -83.030477
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049005002
+- Tract 2010: 39049005000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1017750
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 49
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RAVEN CREST APTS (MOA19900490)
+
+- HUD ID: MOA19900490
+- HUD ID before: 
+- Project: RAVEN CREST APTS
+- Address: 197 S RAVENCREST ST
+- City: DESLOGE
+- State: MO
+- ZIP: 63601
+- ZIP extension: 
+- State project ID: 900135
+- Latitude: 37.869442
+- Longitude: -90.535584
+- County FIPS: 29187
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29187951100
+- Tract 2000: 29187951100
+- Tract 1990: 29187951100
+- Place 2020: 
+- Place 2010: 19216
+- Place 2000: 19216
+- Place 1990: 1135
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

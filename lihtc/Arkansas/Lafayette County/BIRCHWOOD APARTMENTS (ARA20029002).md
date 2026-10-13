@@ -1,0 +1,85 @@
+# Project: BIRCHWOOD APARTMENTS (ARA20029002)
+
+- HUD ID: ARA20029002
+- HUD ID before: 
+- Project: BIRCHWOOD APARTMENTS
+- Address: 2518 N SPRUCE ST
+- City: LEWISVILLE
+- State: AR
+- ZIP: 71845
+- ZIP extension: 
+- State project ID: 193
+- Latitude: 33.379134
+- Longitude: -93.576118
+- County FIPS: 05073
+- County from: 2020
+- Tract 2020: 05073470102
+- Tract 2010: 05073470100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 39640
+- Place 2010: 39640
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 114894
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

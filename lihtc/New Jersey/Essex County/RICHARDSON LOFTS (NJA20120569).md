@@ -1,0 +1,85 @@
+# Project: RICHARDSON LOFTS (NJA20120569)
+
+- HUD ID: NJA20120569
+- HUD ID before: 
+- Project: RICHARDSON LOFTS
+- Address: 50-60 COLUMBIA STREET
+- City: NEWARK CITY
+- State: NJ
+- ZIP: 07102
+- ZIP extension: 
+- State project ID: 2654
+- Latitude: 40.731026
+- Longitude: -74.16955
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013008000
+- Tract 2010: 34013008000
+- Tract 2000: 34013002500
+- Tract 1990: 34013002500
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2895
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 331848
+- Units: 66
+- Low-income units: 33
+- Units reported: 66
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2011801, NJA2011083.;PREVIOUSLY LISTED AS NJA2012569
+- Record status: Existing, unchanged

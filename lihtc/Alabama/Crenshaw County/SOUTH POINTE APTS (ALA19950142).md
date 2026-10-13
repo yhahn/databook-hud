@@ -1,0 +1,85 @@
+# Project: SOUTH POINTE APTS (ALA19950142)
+
+- HUD ID: ALA19950142
+- HUD ID before: 
+- Project: SOUTH POINTE APTS
+- Address: 8 S POINTE DR
+- City: LUVERNE
+- State: AL
+- ZIP: 36049
+- ZIP extension: 
+- State project ID: AL-95-0012
+- Latitude: 31.702438
+- Longitude: -86.260919
+- County FIPS: 01041
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01041963700
+- Tract 2000: 01041963700
+- Tract 1990: 01041963700
+- Place 2020: 
+- Place 2010: 44728
+- Place 2000: 30160
+- Place 1990: 1080
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 135881
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 776939
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1996140. AKA LUVERNE-HALL APTS.
+- Record status: Existing, unchanged

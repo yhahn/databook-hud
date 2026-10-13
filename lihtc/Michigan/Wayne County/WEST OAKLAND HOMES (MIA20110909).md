@@ -1,0 +1,85 @@
+# Project: WEST OAKLAND HOMES (MIA20110909)
+
+- HUD ID: MIA20110909
+- HUD ID before: 
+- Project: WEST OAKLAND HOMES
+- Address: 4707 CONNER ST
+- City: DETROIT
+- State: MI
+- ZIP: 48215
+- ZIP extension: 
+- State project ID: MI-3388
+- Latitude: 42.387409
+- Longitude: -82.971629
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163985200
+- Tract 2010: 26163985200
+- Tract 2000: 26163514000
+- Tract 1990: 26163514000
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 22000
+- Place 1990: 0680
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 45
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 36
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 7360057
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

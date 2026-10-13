@@ -1,0 +1,85 @@
+# Project: MCKNIGHT SENIOR VILLAGE I (NVA19980055)
+
+- HUD ID: NVA19980055
+- HUD ID before: 
+- Project: MCKNIGHT SENIOR VILLAGE I
+- Address: 651 MCKNIGHT ST
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89101
+- ZIP extension: 
+- State project ID: 96-44
+- Latitude: 36.175209
+- Longitude: -115.112318
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003000524
+- Tract 2010: 32003000524
+- Tract 2000: 32003000511
+- Tract 1990: 32003000502
+- Place 2020: 40000
+- Place 2010: 40000
+- Place 2000: 40000
+- Place 1990: 0065
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 468970
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 1
+- 1-bedroom units: 110
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 110
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

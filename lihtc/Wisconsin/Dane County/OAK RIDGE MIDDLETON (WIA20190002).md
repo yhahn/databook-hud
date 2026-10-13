@@ -1,0 +1,85 @@
+# Project: OAK RIDGE MIDDLETON (WIA20190002)
+
+- HUD ID: WIA20190002
+- HUD ID before: 
+- Project: OAK RIDGE MIDDLETON
+- Address: 7635 LISA LANE
+- City: MIDDLETON
+- State: WI
+- ZIP: 53562
+- ZIP extension: 
+- State project ID: 6244
+- Latitude: 43.108813
+- Longitude: -89.512892
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025010908
+- Tract 2010: 55025010904
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51575
+- Place 2010: 51575
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 971078
+- Units: 83
+- Low-income units: 52
+- Units reported: 83
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 28
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 33
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 855118
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

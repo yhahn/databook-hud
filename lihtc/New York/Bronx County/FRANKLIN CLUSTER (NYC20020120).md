@@ -1,0 +1,85 @@
+# Project: FRANKLIN CLUSTER (NYC20020120)
+
+- HUD ID: NYC20020120
+- HUD ID before: 
+- Project: FRANKLIN CLUSTER
+- Address: 1254 FRANKLIN AVE
+- City: BRONX
+- State: NY
+- ZIP: 10456
+- ZIP extension: 
+- State project ID: NY0102044
+- Latitude: 40.830919
+- Longitude: -73.902529
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005014900
+- Tract 2010: 36005014900
+- Tract 2000: 36005014900
+- Tract 1990: 36005014900
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 109890
+- Units: 20
+- Low-income units: 14
+- Units reported: 20
+- Low-income reported: 14
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

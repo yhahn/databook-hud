@@ -1,0 +1,85 @@
+# Project: CHAPEL RIDGE OF JACKSONVILLE PHASE I (ARA20010040)
+
+- HUD ID: ARA20010040
+- HUD ID before: 
+- Project: CHAPEL RIDGE OF JACKSONVILLE PHASE I
+- Address: 950 MILITARY RD
+- City: JACKSONVILLE
+- State: AR
+- ZIP: 72076
+- ZIP extension: 
+- State project ID: AR-00-53-001
+- Latitude: 34.852515
+- Longitude: -92.102657
+- County FIPS: 05119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05119003607
+- Tract 2000: 05119003607
+- Tract 1990: 05119003607
+- Place 2020: 
+- Place 2010: 34750
+- Place 2000: 34750
+- Place 1990: 1045
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 147673
+- Units: 88
+- Low-income units: 70
+- Units reported: 88
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 40
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

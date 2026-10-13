@@ -1,0 +1,85 @@
+# Project: TOWER OF WATERTOWN (SDA20130050)
+
+- HUD ID: SDA20130050
+- HUD ID before: 
+- Project: TOWER OF WATERTOWN
+- Address: 17 FIRST ST SW
+- City: WATERTOWN
+- State: SD
+- ZIP: 57201
+- ZIP extension: 
+- State project ID: 01781
+- Latitude: 44.900594
+- Longitude: -97.116478
+- County FIPS: 46029
+- County from: 2020
+- Tract 2020: 46029954402
+- Tract 2010: 46029954400
+- Tract 2000: 46029954400
+- Tract 1990: 46029954400
+- Place 2020: 69300
+- Place 2010: 69300
+- Place 2000: 69300
+- Place 1990: 1425
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 297569
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: Yes
+- HOME amount: 275000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA STEELE TOWER APTS.
+- Record status: Existing, unchanged

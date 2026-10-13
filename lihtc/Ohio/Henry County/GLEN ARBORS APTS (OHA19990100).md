@@ -1,0 +1,85 @@
+# Project: GLEN ARBORS APTS (OHA19990100)
+
+- HUD ID: OHA19990100
+- HUD ID before: 
+- Project: GLEN ARBORS APTS
+- Address: 2495 GLEN ARBORS DR
+- City: NAPOLEON
+- State: OH
+- ZIP: 43545
+- ZIP extension: 
+- State project ID: 970092
+- Latitude: 41.411341
+- Longitude: -84.136387
+- County FIPS: 39069
+- County from: 2020
+- Tract 2020: 39069000300
+- Tract 2010: 39069000300
+- Tract 2000: 39069980300
+- Tract 1990: 39069980300
+- Place 2020: 53550
+- Place 2010: 53550
+- Place 2000: 53550
+- Place 1990: 2870
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

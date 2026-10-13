@@ -1,0 +1,85 @@
+# Project: INDIANA VILLAS (FLA19910801)
+
+- HUD ID: FLA19910801
+- HUD ID before: 
+- Project: INDIANA VILLAS
+- Address: 410 W INDIANA AVE
+- City: BONIFAY
+- State: FL
+- ZIP: 32425
+- ZIP extension: 
+- State project ID: 384
+- Latitude: 30.797074
+- Longitude: -85.683181
+- County FIPS: 12059
+- County from: 2020
+- Tract 2020: 12059960402
+- Tract 2010: 12059960400
+- Tract 2000: 12059960400
+- Tract 1990: 12059960400
+- Place 2020: 07450
+- Place 2010: 07450
+- Place 2000: 07450
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1991050. AKA INDIANA VILLAS.
+- Record status: Existing, unchanged

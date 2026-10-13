@@ -1,0 +1,85 @@
+# Project: SUNDANCE OF OP (KSA00000033)
+
+- HUD ID: KSA00000033
+- HUD ID before: 
+- Project: SUNDANCE OF OP
+- Address: 6120 FOSTER ST
+- City: OVERLAND PARK
+- State: KS
+- ZIP: 66202
+- ZIP extension: 
+- State project ID: KS-99-79
+- Latitude: 39.018109
+- Longitude: -94.672653
+- County FIPS: 20091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20091050400
+- Tract 2000: 20091050400
+- Tract 1990: 20091050400
+- Place 2020: 
+- Place 2010: 53775
+- Place 2000: 46000
+- Place 1990: 2194
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WESTERN HILLS APTS.
+- Record status: Existing, unchanged

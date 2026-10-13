@@ -1,0 +1,85 @@
+# Project: VILLAGE CENTER APARTMENTS (CAA20141095)
+
+- HUD ID: CAA20141095
+- HUD ID before: 
+- Project: VILLAGE CENTER APARTMENTS
+- Address: 200 EAST LINCOLN AVENUE
+- City: ANAHEIM
+- State: CA
+- ZIP: 92805
+- ZIP extension: 
+- State project ID: CA-14-829
+- Latitude: 33.836811
+- Longitude: -117.912604
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059087302
+- Tract 2010: 06059087300
+- Tract 2000: 06059087300
+- Tract 1990: 
+- Place 2020: 02000
+- Place 2010: 02000
+- Place 2000: 02000
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 830622
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 100
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

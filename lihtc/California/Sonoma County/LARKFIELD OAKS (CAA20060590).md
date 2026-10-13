@@ -1,0 +1,85 @@
+# Project: LARKFIELD OAKS (CAA20060590)
+
+- HUD ID: CAA20060590
+- HUD ID before: 
+- Project: LARKFIELD OAKS
+- Address: 524 AIRPORT BLVD
+- City: SANTA ROSA
+- State: CA
+- ZIP: 95403
+- ZIP extension: 
+- State project ID: CA-05-840
+- Latitude: 38.510988
+- Longitude: -122.770131
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097152702
+- Tract 2010: 06097152702
+- Tract 2000: 06097152702
+- Tract 1990: 06097152100
+- Place 2020: 40426
+- Place 2010: 40426
+- Place 2000: 40426
+- Place 1990: 2615
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 654572
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 3
+- 1-bedroom units: 5
+- 2-bedroom units: 20
+- 3-bedroom units: 25
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CANYON CREEK TOWNHOMES (CAA20050065)
+
+- HUD ID: CAA20050065
+- HUD ID before: 
+- Project: CANYON CREEK TOWNHOMES
+- Address: 1834 CHABLIS WAY
+- City: GONZALES
+- State: CA
+- ZIP: 93926
+- ZIP extension: 
+- State project ID: CA-03-894
+- Latitude: 36.525611
+- Longitude: -121.447056
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053014800
+- Tract 2010: 06053014800
+- Tract 2000: 06053010801
+- Tract 1990: 06053010898
+- Place 2020: 30392
+- Place 2010: 30392
+- Place 2000: 30392
+- Place 1990: 1140
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 273578
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 16
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

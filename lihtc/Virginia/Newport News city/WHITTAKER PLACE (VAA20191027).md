@@ -1,0 +1,85 @@
+# Project: WHITTAKER PLACE (VAA20191027)
+
+- HUD ID: VAA20191027
+- HUD ID before: 
+- Project: WHITTAKER PLACE
+- Address: 1003 28TH STREET
+- City: NEWPORT NEWS
+- State: VA
+- ZIP: 23607
+- ZIP extension: 
+- State project ID: 9881
+- Latitude: 36.987352
+- Longitude: -76.412647
+- County FIPS: 51700
+- County from: 2020
+- Tract 2020: 51700030500
+- Tract 2010: 51700030500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 450041
+- Units: 67
+- Low-income units: 67
+- Units reported: 67
+- Low-income reported: 67
+- Efficiencies: 15
+- 1-bedroom units: 41
+- 2-bedroom units: 11
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

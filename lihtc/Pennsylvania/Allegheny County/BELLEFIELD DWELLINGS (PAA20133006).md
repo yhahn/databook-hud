@@ -1,0 +1,85 @@
+# Project: BELLEFIELD DWELLINGS (PAA20133006)
+
+- HUD ID: PAA20133006
+- HUD ID before: 
+- Project: BELLEFIELD DWELLINGS
+- Address: 4400 CENTRE AVE
+- City: PITTSBURGH
+- State: PA
+- ZIP: 15213
+- ZIP extension: 1455
+- State project ID: TC20110313
+- Latitude: 40.451124
+- Longitude: -79.95399
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003562000
+- Tract 2010: 42003562000
+- Tract 2000: 42003050700
+- Tract 1990: 
+- Place 2020: 61000
+- Place 2010: 61000
+- Place 2000: 61000
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 877391
+- Units: 158
+- Low-income units: 155
+- Units reported: 158
+- Low-income reported: 155
+- Efficiencies: 0
+- 1-bedroom units: 146
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 155
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Updated

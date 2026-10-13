@@ -1,0 +1,85 @@
+# Project: BROOKWOOD APTS (ALA19920020)
+
+- HUD ID: ALA19920020
+- HUD ID before: 
+- Project: BROOKWOOD APTS
+- Address: 400 BROOKWOOD CIR
+- City: FOLEY
+- State: AL
+- ZIP: 36535
+- ZIP extension: 
+- State project ID: AL-91-0019
+- Latitude: 30.426874
+- Longitude: -87.689887
+- County FIPS: 01003
+- County from: 2020
+- Tract 2020: 01003011501
+- Tract 2010: 01003011501
+- Tract 2000: 01003011500
+- Tract 1990: 01003011500
+- Place 2020: 26992
+- Place 2010: 26992
+- Place 2000: 26992
+- Place 1990: 0645
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 56469
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 38
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

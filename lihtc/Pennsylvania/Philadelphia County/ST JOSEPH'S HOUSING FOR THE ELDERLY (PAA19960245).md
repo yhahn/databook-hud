@@ -1,0 +1,85 @@
+# Project: ST JOSEPH'S HOUSING FOR THE ELDERLY (PAA19960245)
+
+- HUD ID: PAA19960245
+- HUD ID before: 
+- Project: ST JOSEPH'S HOUSING FOR THE ELDERLY
+- Address: 1515 W ALLEGHENY AVE
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19132
+- ZIP extension: 
+- State project ID: TC1995-0022
+- Latitude: 40.001992
+- Longitude: -75.154709
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101020101
+- Tract 2010: 42101020101
+- Tract 2000: 42101020100
+- Tract 1990: 42101020100
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 494449
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

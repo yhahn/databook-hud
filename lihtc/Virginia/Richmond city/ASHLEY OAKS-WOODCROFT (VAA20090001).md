@@ -1,0 +1,85 @@
+# Project: ASHLEY OAKS/WOODCROFT (VAA20090001)
+
+- HUD ID: VAA20090001
+- HUD ID before: 
+- Project: ASHLEY OAKS/WOODCROFT
+- Address: 1402 JENNIE SCHER RD
+- City: RICHMOND
+- State: VA
+- ZIP: 23231
+- ZIP extension: 
+- State project ID: 4040
+- Latitude: 37.522475
+- Longitude: -77.399546
+- County FIPS: 51760
+- County from: 2020
+- Tract 2020: 51760021000
+- Tract 2010: 51760021000
+- Tract 2000: 51760021000
+- Tract 1990: 51760021000
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 1035
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 250
+- Low-income units: 250
+- Units reported: 250
+- Low-income reported: 250
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 126
+- 3-bedroom units: 78
+- 4-bedroom units: 26
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 10412234
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA0000010. AKA ASHLEY OAKS.
+- Record status: Existing, unchanged

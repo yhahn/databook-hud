@@ -1,0 +1,85 @@
+# Project: FOXPOINTE COMMONS (INA19930075)
+
+- HUD ID: INA19930075
+- HUD ID before: 
+- Project: FOXPOINTE COMMONS
+- Address: 4740 FOX TRAIL LN
+- City: COLUMBUS
+- State: IN
+- ZIP: 47203
+- ZIP extension: 
+- State project ID: IN-91-06900
+- Latitude: 39.224067
+- Longitude: -85.868156
+- County FIPS: 18005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18005010600
+- Tract 2000: 18005010600
+- Tract 1990: 18005010600
+- Place 2020: 
+- Place 2010: 14734
+- Place 2000: 14734
+- Place 1990: 0515
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 84
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001025.
+- Record status: Existing, unchanged

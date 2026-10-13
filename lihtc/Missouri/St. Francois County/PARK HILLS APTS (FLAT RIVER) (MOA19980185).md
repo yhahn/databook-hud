@@ -1,0 +1,85 @@
+# Project: PARK HILLS APTS (FLAT RIVER) (MOA19980185)
+
+- HUD ID: MOA19980185
+- HUD ID before: 
+- Project: PARK HILLS APTS (FLAT RIVER)
+- Address: 1102 N ST JOE DR
+- City: FLAT RIVER
+- State: MO
+- ZIP: 63601
+- ZIP extension: 
+- State project ID: 92022
+- Latitude: 37.860205
+- Longitude: -90.502297
+- County FIPS: 29187
+- County from: 2020
+- Tract 2020: 29187951101
+- Tract 2010: 29187951100
+- Tract 2000: 29187951100
+- Tract 1990: 29187951100
+- Place 2020: 56272
+- Place 2010: 56272
+- Place 2000: 19216
+- Place 1990: 1135
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

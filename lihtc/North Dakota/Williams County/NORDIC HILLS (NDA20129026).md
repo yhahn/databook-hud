@@ -1,0 +1,85 @@
+# Project: NORDIC HILLS (NDA20129026)
+
+- HUD ID: NDA20129026
+- HUD ID before: 
+- Project: NORDIC HILLS
+- Address: 1010 N WELO ST
+- City: TIOGA
+- State: ND
+- ZIP: 58852
+- ZIP extension: 
+- State project ID: TC1010
+- Latitude: 48.406751
+- Longitude: -102.934278
+- County FIPS: 38105
+- County from: 2020
+- Tract 2020: 38105953400
+- Tract 2010: 38105953400
+- Tract 2000: 38105953400
+- Tract 1990: 38105953400
+- Place 2020: 78940
+- Place 2010: 78940
+- Place 2000: 00940
+- Place 1990: 1610
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

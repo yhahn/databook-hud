@@ -1,0 +1,85 @@
+# Project: TURTLE MOUNTAIN HOMES VII (NDA20139008)
+
+- HUD ID: NDA20139008
+- HUD ID before: 
+- Project: TURTLE MOUNTAIN HOMES VII
+- Address: 9850 31ST AVE NE
+- City: DUNSEITH
+- State: ND
+- ZIP: 
+- ZIP extension: 
+- State project ID: TC1103
+- Latitude: 48.8225
+- Longitude: -100.0076
+- County FIPS: 38079
+- County from: 2020
+- Tract 2020: 38079951700
+- Tract 2010: 38079951700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 21020
+- Place 2010: 21020
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

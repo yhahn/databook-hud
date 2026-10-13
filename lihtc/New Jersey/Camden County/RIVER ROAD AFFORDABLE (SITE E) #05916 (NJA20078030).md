@@ -1,0 +1,85 @@
+# Project: RIVER ROAD AFFORDABLE (SITE E) #05916 (NJA20078030)
+
+- HUD ID: NJA20078030
+- HUD ID before: 
+- Project: RIVER ROAD AFFORDABLE (SITE E) #05916
+- Address: 1892 RIVER AVE
+- City: CAMDEN
+- State: NJ
+- ZIP: 08105
+- ZIP extension: 3628
+- State project ID: 999999999999
+- Latitude: 39.951057
+- Longitude: -75.098514
+- County FIPS: 34007
+- County from: 2020
+- Tract 2020: 34007600900
+- Tract 2010: 34007600900
+- Tract 2000: 34007600900
+- Tract 1990: 
+- Place 2020: 10000
+- Place 2010: 10000
+- Place 2000: 10000
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 77
+- Low-income units: 77
+- Units reported: 77
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

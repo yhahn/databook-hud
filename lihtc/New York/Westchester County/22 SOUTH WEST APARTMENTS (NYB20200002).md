@@ -1,0 +1,85 @@
+# Project: 22 SOUTH WEST APARTMENTS (NYB20200002)
+
+- HUD ID: NYB20200002
+- HUD ID before: 
+- Project: 22 SOUTH WEST APARTMENTS
+- Address: 22 SOUTH WEST STREET
+- City: MOUNT VERNON
+- State: NY
+- ZIP: 10550
+- ZIP extension: 
+- State project ID: 2544
+- Latitude: 40.913071
+- Longitude: -73.849702
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119003500
+- Tract 2010: 36119003500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 49121
+- Place 2010: 49121
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 2524931
+- Units: 189
+- Low-income units: 131
+- Units reported: 189
+- Low-income reported: 131
+- Efficiencies: 0
+- 1-bedroom units: 89
+- 2-bedroom units: 84
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

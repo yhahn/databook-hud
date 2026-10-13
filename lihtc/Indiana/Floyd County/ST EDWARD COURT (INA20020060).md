@@ -1,0 +1,85 @@
+# Project: ST EDWARD COURT (INA20020060)
+
+- HUD ID: INA20020060
+- HUD ID before: 
+- Project: ST EDWARD COURT
+- Address: 701 E SPRING ST
+- City: NEW ALBANY
+- State: IN
+- ZIP: 47150
+- ZIP extension: 
+- State project ID: IN-00-01000
+- Latitude: 38.28817
+- Longitude: -85.816903
+- County FIPS: 18043
+- County from: 2020
+- Tract 2020: 18043070500
+- Tract 2010: 18043070500
+- Tract 2000: 18043070500
+- Tract 1990: 18043070500
+- Place 2020: 52326
+- Place 2010: 52326
+- Place 2000: 52326
+- Place 1990: 1760
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 13130
+- Units: 56
+- Low-income units: 50
+- Units reported: 56
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 28
+- 3-bedroom units: 6
+- 4-bedroom units: 1
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

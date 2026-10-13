@@ -1,0 +1,85 @@
+# Project: MADISON SFRO (WIA19960090)
+
+- HUD ID: WIA19960090
+- HUD ID before: 
+- Project: MADISON SFRO
+- Address: 712 DOUGLAS TRAIL
+- City: MADISON
+- State: WI
+- ZIP: 53716
+- ZIP extension: 
+- State project ID: 2446
+- Latitude: 43.061059
+- Longitude: -89.318483
+- County FIPS: 55025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55025002900
+- Tract 2000: 55025002900
+- Tract 1990: 55025002900
+- Place 2020: 
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 1475
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 18591
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WIA2002110.
+- Record status: Existing, unchanged

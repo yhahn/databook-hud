@@ -1,0 +1,85 @@
+# Project: SCHOOL HOUSE APTS (NDA19980030)
+
+- HUD ID: NDA19980030
+- HUD ID before: 
+- Project: SCHOOL HOUSE APTS
+- Address: 205 SECOND ST NW
+- City: BEULAH
+- State: ND
+- ZIP: 58523
+- ZIP extension: 
+- State project ID: 97-01
+- Latitude: 47.265343
+- Longitude: -101.779397
+- County FIPS: 38057
+- County from: 2020
+- Tract 2020: 38057961700
+- Tract 2010: 38057961700
+- Tract 2000: 38057961700
+- Tract 1990: 38057961700
+- Place 2020: 06660
+- Place 2010: 06660
+- Place 2000: 06660
+- Place 1990: 0175
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 65386
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

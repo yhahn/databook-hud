@@ -1,0 +1,85 @@
+# Project: WESTCHESTER AVENUE APTS (NYC20080380)
+
+- HUD ID: NYC20080380
+- HUD ID before: 
+- Project: WESTCHESTER AVENUE APTS
+- Address: 878 WESTCHESTER AVE
+- City: BRONX
+- State: NY
+- ZIP: 10459
+- ZIP extension: 
+- State project ID: NY-08-015
+- Latitude: 40.820458
+- Longitude: -73.899735
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005008700
+- Tract 2010: 36005008700
+- Tract 2000: 36005008700
+- Tract 1990: 36005008700
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 820231
+- Units: 83
+- Low-income units: 82
+- Units reported: 83
+- Low-income reported: 82
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

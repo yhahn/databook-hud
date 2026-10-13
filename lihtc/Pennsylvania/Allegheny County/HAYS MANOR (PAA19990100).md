@@ -1,0 +1,85 @@
+# Project: HAYS MANOR (PAA19990100)
+
+- HUD ID: PAA19990100
+- HUD ID before: 
+- Project: HAYS MANOR
+- Address: 209 LOCUST ST
+- City: MC KEES ROCKS
+- State: PA
+- ZIP: 15136
+- ZIP extension: 
+- State project ID: TC19970108
+- Latitude: 40.46668
+- Longitude: -80.056172
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003464400
+- Tract 2010: 42003464400
+- Tract 2000: 42003464400
+- Tract 1990: 42003464400
+- Place 2020: 46264
+- Place 2010: 46264
+- Place 2000: 46264
+- Place 1990: 6161
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 345943
+- Units: 138
+- Low-income units: 138
+- Units reported: 138
+- Low-income reported: 138
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 72
+- 3-bedroom units: 36
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: PREVIOUSLY LISTED AS PAA1998120.
+- Record status: Existing, unchanged

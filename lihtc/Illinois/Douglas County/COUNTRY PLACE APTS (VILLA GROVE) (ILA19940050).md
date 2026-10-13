@@ -1,0 +1,85 @@
+# Project: COUNTRY PLACE APTS (VILLA GROVE) (ILA19940050)
+
+- HUD ID: ILA19940050
+- HUD ID before: 
+- Project: COUNTRY PLACE APTS (VILLA GROVE)
+- Address: 227 COUNTRY PL
+- City: VILLA GROVE
+- State: IL
+- ZIP: 61956
+- ZIP extension: 
+- State project ID: 73294
+- Latitude: 39.872872
+- Longitude: -88.159793
+- County FIPS: 17041
+- County from: 2020
+- Tract 2020: 17041952100
+- Tract 2010: 17041952100
+- Tract 2000: 17041952100
+- Tract 1990: 17041952100
+- Place 2020: 77941
+- Place 2010: 77941
+- Place 2000: 10591
+- Place 1990: 5945
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 30847
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA STERLING FAMILY HOUSING.
+- Record status: Existing, unchanged

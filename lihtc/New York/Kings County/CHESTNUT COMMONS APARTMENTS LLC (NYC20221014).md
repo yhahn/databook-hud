@@ -1,0 +1,85 @@
+# Project: CHESTNUT COMMONS APARTMENTS LLC (NYC20221014)
+
+- HUD ID: NYC20221014
+- HUD ID before: 
+- Project: CHESTNUT COMMONS APARTMENTS LLC
+- Address: 110 DINSMORE PLACE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11208
+- ZIP extension: 
+- State project ID: 27-0000057
+- Latitude: 40.68122
+- Longitude: -73.875717
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047117800
+- Tract 2010: 36047117800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 5703512
+- Units: 275
+- Low-income units: 274
+- Units reported: 275
+- Low-income reported: 274
+- Efficiencies: 47
+- 1-bedroom units: 70
+- 2-bedroom units: 101
+- 3-bedroom units: 57
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

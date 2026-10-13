@@ -1,0 +1,85 @@
+# Project: BOULDER RIDGE ASSOC (CTA20040010)
+
+- HUD ID: CTA20040010
+- HUD ID before: 
+- Project: BOULDER RIDGE ASSOC
+- Address: 400 COMMERCE DR
+- City: CANTON
+- State: CT
+- ZIP: 06019
+- ZIP extension: 
+- State project ID: CT-02-012
+- Latitude: 41.818966
+- Longitude: -72.906805
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003464102
+- Tract 2010: 09003464102
+- Tract 2000: 09003464102
+- Tract 1990: 09003464102
+- Place 2020: 16120
+- Place 2010: 16120
+- Place 2000: 12370
+- Place 1990: 0460
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 98
+- Low-income units: 98
+- Units reported: 98
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 64
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

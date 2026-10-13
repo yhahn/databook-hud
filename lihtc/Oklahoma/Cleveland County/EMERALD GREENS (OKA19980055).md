@@ -1,0 +1,85 @@
+# Project: EMERALD GREENS (OKA19980055)
+
+- HUD ID: OKA19980055
+- HUD ID before: 
+- Project: EMERALD GREENS
+- Address: 2809 DEWEY AVE
+- City: NORMAN
+- State: OK
+- ZIP: 73072
+- ZIP extension: 
+- State project ID: OK-96-0820
+- Latitude: 35.188347
+- Longitude: -97.432045
+- County FIPS: 40027
+- County from: 2020
+- Tract 2020: 40027201204
+- Tract 2010: 40027201203
+- Tract 2000: 40027201203
+- Tract 1990: 40027201203
+- Place 2020: 52500
+- Place 2010: 52500
+- Place 2000: 52500
+- Place 1990: 1755
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 220
+- Low-income units: 132
+- Units reported: 220
+- Low-income reported: 132
+- Efficiencies: 1
+- 1-bedroom units: 69
+- 2-bedroom units: 149
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COUNTRY CLUB.
+- Record status: Existing, unchanged

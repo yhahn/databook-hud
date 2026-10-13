@@ -1,0 +1,85 @@
+# Project: MERRIMACK STREET HOUSING (MAC20070010)
+
+- HUD ID: MAC20070010
+- HUD ID before: 
+- Project: MERRIMACK STREET HOUSING
+- Address: 442 MERRIMACK ST
+- City: LOWELL
+- State: MA
+- ZIP: 01854
+- ZIP extension: 
+- State project ID: MA07-40104
+- Latitude: 42.646548
+- Longitude: -71.315828
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017388300
+- Tract 2010: 25017388300
+- Tract 2000: 25017311000
+- Tract 1990: 25017311000
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 2180
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 88720
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 4
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB1990065.
+- Record status: Existing, unchanged

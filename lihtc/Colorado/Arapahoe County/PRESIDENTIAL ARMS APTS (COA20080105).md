@@ -1,0 +1,85 @@
+# Project: PRESIDENTIAL ARMS APTS (COA20080105)
+
+- HUD ID: COA20080105
+- HUD ID before: 
+- Project: PRESIDENTIAL ARMS APTS
+- Address: 3595 S WASHINGTON ST
+- City: ENGLEWOOD
+- State: CO
+- ZIP: 80113
+- ZIP extension: 
+- State project ID: 9Z01-383
+- Latitude: 39.651606
+- Longitude: -104.979648
+- County FIPS: 08005
+- County from: 2020
+- Tract 2020: 08005005951
+- Tract 2010: 08005005951
+- Tract 2000: 08005005951
+- Tract 1990: 08005005950
+- Place 2020: 24785
+- Place 2010: 24785
+- Place 2000: 24785
+- Place 1990: 0395
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 287726
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 5
+- 1-bedroom units: 18
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TRAVELERS AID HOUSING (RIA20040005)
+
+- HUD ID: RIA20040005
+- HUD ID before: 
+- Project: TRAVELERS AID HOUSING
+- Address: 160 BROAD ST
+- City: PROVIDENCE
+- State: RI
+- ZIP: 02903
+- ZIP extension: 
+- State project ID: RI00016
+- Latitude: 41.816893
+- Longitude: -71.41761
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007000700
+- Tract 2010: 44007000700
+- Tract 2000: 44007000700
+- Tract 1990: 44007000700
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0400
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 608903
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 188
+- 1-bedroom units: 4
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BROOKSTONE PARK OF EDMOND (OKA19990010)
+
+- HUD ID: OKA19990010
+- HUD ID before: 
+- Project: BROOKSTONE PARK OF EDMOND
+- Address: 500 BRAD ST
+- City: EDMOND
+- State: OK
+- ZIP: 
+- ZIP extension: 
+- State project ID: OK-98-0639
+- Latitude: 35.644787
+- Longitude: -97.490392
+- County FIPS: 40109
+- County from: 2020
+- Tract 2020: 40109108204
+- Tract 2010: 40109108204
+- Tract 2000: 40109108204
+- Tract 1990: 40109108204
+- Place 2020: 23200
+- Place 2010: 23200
+- Place 2000: 23200
+- Place 1990: 0755
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 10
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA EDMOND HO.
+- Record status: Existing, unchanged

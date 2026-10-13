@@ -1,0 +1,85 @@
+# Project: VILLAGE OF GIBRALTAR MANOR (MIA20069279)
+
+- HUD ID: MIA20069279
+- HUD ID before: 
+- Project: VILLAGE OF GIBRALTAR MANOR
+- Address: 14486 MIDDLE GIBRALTAR RD
+- City: ROCKWOOD
+- State: MI
+- ZIP: 48173
+- ZIP extension: 
+- State project ID: MI-1083
+- Latitude: 42.094567
+- Longitude: -83.198098
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163597000
+- Tract 2010: 26163597000
+- Tract 2000: 26163597000
+- Tract 1990: 26163597000
+- Place 2020: 32020
+- Place 2010: 32020
+- Place 2000: 32020
+- Place 1990: 1040
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 29
+- Low-income units: 29
+- Units reported: 24
+- Low-income reported: 29
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

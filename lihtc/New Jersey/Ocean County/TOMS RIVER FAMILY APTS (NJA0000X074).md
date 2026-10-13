@@ -1,0 +1,85 @@
+# Project: TOMS RIVER FAMILY APTS (NJA0000X074)
+
+- HUD ID: NJA0000X074
+- HUD ID before: 
+- Project: TOMS RIVER FAMILY APTS
+- Address: ROUTE 70 AND MASSACHUSETTS AVE
+- City: TOMS RIVER
+- State: NJ
+- ZIP: 08755
+- ZIP extension: 
+- State project ID: NJ-99-99
+- Latitude: 40.0166
+- Longitude: -74.2296
+- County FIPS: 34029
+- County from: 2020
+- Tract 2020: 34029722004
+- Tract 2010: 34029722002
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 73110
+- Place 2010: 73110
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

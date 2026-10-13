@@ -1,0 +1,85 @@
+# Project: MARTIN LAMPLIGHTER (MC LEAN) (ILA19890120)
+
+- HUD ID: ILA19890120
+- HUD ID before: 
+- Project: MARTIN LAMPLIGHTER (MC LEAN)
+- Address: 710 S HANCOCK ST
+- City: MC LEANSBORO
+- State: IL
+- ZIP: 62859
+- ZIP extension: 
+- State project ID: 223-89
+- Latitude: 38.087489
+- Longitude: -88.530028
+- County FIPS: 17065
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17065973100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 45824
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 25891
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000625.
+- Record status: Existing, unchanged

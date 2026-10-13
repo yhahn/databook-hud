@@ -1,0 +1,85 @@
+# Project: BEECHWOOD (NYA20050007)
+
+- HUD ID: NYA20050007
+- HUD ID before: 
+- Project: BEECHWOOD
+- Address: 1405 E FAYETTE ST
+- City: SYRACUSE
+- State: NY
+- ZIP: 
+- ZIP extension: 
+- State project ID: 20030323
+- Latitude: 43.04853
+- Longitude: -76.127564
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067003400
+- Tract 2010: 36067003400
+- Tract 2000: 36067003400
+- Tract 1990: 36067003400
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 3565
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 393501
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 7
+- 3-bedroom units: 11
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 894310
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA EAST BEECHWOOD.
+- Record status: Existing, unchanged

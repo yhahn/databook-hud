@@ -1,0 +1,85 @@
+# Project: IRONWOOD HEIGHTS GUAM, LLC (GUA20115001)
+
+- HUD ID: GUA20115001
+- HUD ID before: 
+- Project: IRONWOOD HEIGHTS GUAM, LLC
+- Address: 1101 CHALAN GAGU
+- City: TAMUNING
+- State: GU
+- ZIP: 96913
+- ZIP extension: 
+- State project ID: GUA2011005
+- Latitude: 13.4972
+- Longitude: -144.7927
+- County FIPS: 66010
+- County from: 2020
+- Tract 2020: 66010952400
+- Tract 2010: 66010952300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 70950
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 44
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

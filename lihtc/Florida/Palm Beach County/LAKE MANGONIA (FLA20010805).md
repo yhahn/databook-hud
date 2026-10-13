@@ -1,0 +1,85 @@
+# Project: LAKE MANGONIA (FLA20010805)
+
+- HUD ID: FLA20010805
+- HUD ID before: 
+- Project: LAKE MANGONIA
+- Address: 2100 N AUSTRALIAN AVE
+- City: WEST PALM BEACH
+- State: FL
+- ZIP: 33407
+- ZIP extension: 
+- State project ID: 55
+- Latitude: 26.731647
+- Longitude: -80.065845
+- County FIPS: 12099
+- County from: 2020
+- Tract 2020: 12099002100
+- Tract 2010: 12099002100
+- Tract 2000: 12099002100
+- Tract 1990: 12099002100
+- Place 2020: 76600
+- Place 2010: 76600
+- Place 2000: 76600
+- Place 1990: 2215
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 126
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2001005. AKA AZALEA PLACE.
+- Record status: Existing, unchanged

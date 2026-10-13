@@ -1,0 +1,85 @@
+# Project: SHADY OAK VILLAGE APTS (INA19940090)
+
+- HUD ID: INA19940090
+- HUD ID before: 
+- Project: SHADY OAK VILLAGE APTS
+- Address: 1101 SHADY OAK CT
+- City: TERRE HAUTE
+- State: IN
+- ZIP: 47802
+- ZIP extension: 
+- State project ID: IN-93-00201
+- Latitude: 39.402896
+- Longitude: -87.408834
+- County FIPS: 18167
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18167011200
+- Tract 2000: 18167010800
+- Tract 1990: 18167010800
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 75428
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 96
+- Units reported: 100
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 50
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

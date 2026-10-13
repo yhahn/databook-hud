@@ -1,0 +1,85 @@
+# Project: THE GABLES (INA20190023)
+
+- HUD ID: INA20190023
+- HUD ID before: 
+- Project: THE GABLES
+- Address: SEQ OF SMITH VALLEY ROAD AND SR 135 LACEBARK DRIV
+- City: GREENWOOD
+- State: IN
+- ZIP: 46143
+- ZIP extension: 
+- State project ID: IN-16-02000B
+- Latitude: 39.5941
+- Longitude: -86.1216
+- County FIPS: 18081
+- County from: 2020
+- Tract 2020: 18081610403
+- Tract 2010: 18081610403
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 29898
+- Place 2010: 29898
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 20000000
+- Units: 274
+- Low-income units: 274
+- Units reported: 222
+- Low-income reported: 274
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 98
+- 3-bedroom units: 48
+- 4-bedroom units: 14
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

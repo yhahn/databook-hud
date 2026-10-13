@@ -1,0 +1,85 @@
+# Project: CYPRESS COVE (FLA20100030)
+
+- HUD ID: FLA20100030
+- HUD ID before: 
+- Project: CYPRESS COVE
+- Address: 930 N.W. 5TH STREET
+- City: WINTER HAVEN
+- State: FL
+- ZIP: 33881
+- ZIP extension: 
+- State project ID: 2236
+- Latitude: 28.053079
+- Longitude: -81.731878
+- County FIPS: 12105
+- County from: 2020
+- Tract 2020: 12105013601
+- Tract 2010: 12105013600
+- Tract 2000: 12105013600
+- Tract 1990: 12105013600
+- Place 2020: 78275
+- Place 2010: 78275
+- Place 2000: 37525
+- Place 1990: 2285
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 170000
+- Units: 80
+- Low-income units: 48
+- Units reported: 80
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 40
+- 3-bedroom units: 24
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 170000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 10242500
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

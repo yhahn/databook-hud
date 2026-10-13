@@ -1,0 +1,85 @@
+# Project: HACIENDA WEST APTS (ORA20030040)
+
+- HUD ID: ORA20030040
+- HUD ID before: 
+- Project: HACIENDA WEST APTS
+- Address: 515 SW 13TH PL
+- City: HERMISTON
+- State: OR
+- ZIP: 97838
+- ZIP extension: 
+- State project ID: OR-02-00000044A
+- Latitude: 45.836934
+- Longitude: -119.314394
+- County FIPS: 41059
+- County from: 2020
+- Tract 2020: 41059951000
+- Tract 2010: 41059951000
+- Tract 2000: 41059951000
+- Tract 1990: 41059951000
+- Place 2020: 33700
+- Place 2010: 33700
+- Place 2000: 33700
+- Place 1990: 0515
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 320000
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 11
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 475000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

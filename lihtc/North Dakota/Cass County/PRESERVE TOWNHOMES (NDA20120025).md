@@ -1,0 +1,85 @@
+# Project: PRESERVE TOWNHOMES (NDA20120025)
+
+- HUD ID: NDA20120025
+- HUD ID before: 
+- Project: PRESERVE TOWNHOMES
+- Address: 3178 SEVENTH ST E
+- City: WEST FARGO
+- State: ND
+- ZIP: 58078
+- ZIP extension: 
+- State project ID: TC1109
+- Latitude: 46.836341
+- Longitude: -96.887984
+- County FIPS: 38017
+- County from: 2020
+- Tract 2020: 38017040508
+- Tract 2010: 38017040500
+- Tract 2000: 38017040500
+- Tract 1990: 38017040500
+- Place 2020: 84780
+- Place 2010: 84780
+- Place 2000: 09320
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 387559
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 27
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

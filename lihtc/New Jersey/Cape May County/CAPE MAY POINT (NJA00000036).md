@@ -1,0 +1,85 @@
+# Project: CAPE MAY POINT (NJA00000036)
+
+- HUD ID: NJA00000036
+- HUD ID before: 
+- Project: CAPE MAY POINT
+- Address: 1 PATSYS WAY
+- City: CAPE MAY
+- State: NJ
+- ZIP: 08210
+- ZIP extension: 
+- State project ID: NJ1012-947
+- Latitude: 39.163188
+- Longitude: -74.757691
+- County FIPS: 34009
+- County from: 2020
+- Tract 2020: 34009020700
+- Tract 2010: 34009020700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 211913
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

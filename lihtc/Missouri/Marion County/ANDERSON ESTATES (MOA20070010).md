@@ -1,0 +1,85 @@
+# Project: ANDERSON ESTATES (MOA20070010)
+
+- HUD ID: MOA20070010
+- HUD ID before: 
+- Project: ANDERSON ESTATES
+- Address: 1821 S MAIN ST
+- City: PALMYRA
+- State: MO
+- ZIP: 63461
+- ZIP extension: 
+- State project ID: 06-066
+- Latitude: 39.781488
+- Longitude: -91.523213
+- County FIPS: 29127
+- County from: 2020
+- Tract 2020: 29127960300
+- Tract 2010: 29127960300
+- Tract 2000: 29127960100
+- Tract 1990: 29127960100
+- Place 2020: 56036
+- Place 2010: 56036
+- Place 2000: 30214
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 292500
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 50
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

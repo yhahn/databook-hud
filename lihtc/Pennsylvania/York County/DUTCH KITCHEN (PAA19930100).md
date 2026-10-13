@@ -1,0 +1,85 @@
+# Project: DUTCH KITCHEN (PAA19930100)
+
+- HUD ID: PAA19930100
+- HUD ID before: 
+- Project: DUTCH KITCHEN
+- Address: 381 W MARKET ST
+- City: YORK
+- State: PA
+- ZIP: 17401
+- ZIP extension: 
+- State project ID: TC19910123
+- Latitude: 39.959869
+- Longitude: -76.736754
+- County FIPS: 42133
+- County from: 2020
+- Tract 2020: 42133001600
+- Tract 2010: 42133001600
+- Tract 2000: 42133001600
+- Tract 1990: 42133001600
+- Place 2020: 87048
+- Place 2010: 87048
+- Place 2000: 87048
+- Place 1990: 9034
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Existing, unchanged

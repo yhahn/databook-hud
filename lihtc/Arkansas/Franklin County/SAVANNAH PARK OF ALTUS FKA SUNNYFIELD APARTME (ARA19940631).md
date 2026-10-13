@@ -1,0 +1,85 @@
+# Project: SAVANNAH PARK OF ALTUS FKA SUNNYFIELD APARTME (ARA19940631)
+
+- HUD ID: ARA19940631
+- HUD ID before: 
+- Project: SAVANNAH PARK OF ALTUS FKA SUNNYFIELD APARTME
+- Address: 1222 CARBON PLANT RD
+- City: ALTUS
+- State: AR
+- ZIP: 72821
+- ZIP extension: 
+- State project ID: AR-94-13
+- Latitude: 35.442805
+- Longitude: -93.765532
+- County FIPS: 05047
+- County from: 2020
+- Tract 2020: 05047950201
+- Tract 2010: 05047950200
+- Tract 2000: 05047950200
+- Tract 1990: 05047950200
+- Place 2020: 01210
+- Place 2010: 01210
+- Place 2000: 01210
+- Place 1990: 1545
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 33245
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1994127. FKA SUNNYFIELD APTS;
+- Record status: Existing, unchanged

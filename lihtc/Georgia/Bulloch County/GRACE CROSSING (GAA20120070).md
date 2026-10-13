@@ -1,0 +1,85 @@
+# Project: GRACE CROSSING (GAA20120070)
+
+- HUD ID: GAA20120070
+- HUD ID before: 
+- Project: GRACE CROSSING
+- Address: 183 GESMOND NEVILLE LANE
+- City: STATESBORO
+- State: GA
+- ZIP: 30458
+- ZIP extension: 
+- State project ID: GA-10-058
+- Latitude: 32.4346
+- Longitude: -81.8021
+- County FIPS: 13031
+- County from: 2020
+- Tract 2020: 13031110401
+- Tract 2010: 13031110401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 73256
+- Place 2010: 73256
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 886487
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

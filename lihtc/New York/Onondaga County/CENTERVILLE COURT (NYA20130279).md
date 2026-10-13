@@ -1,0 +1,85 @@
+# Project: CENTERVILLE COURT (NYA20130279)
+
+- HUD ID: NYA20130279
+- HUD ID before: 
+- Project: CENTERVILLE COURT
+- Address: 400 SANDRA LN
+- City: NORTH SYRACUSE
+- State: NY
+- ZIP: 13212
+- ZIP extension: 
+- State project ID: 20116223
+- Latitude: 43.129827
+- Longitude: -76.139493
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067010800
+- Tract 2010: 36067010800
+- Tract 2000: 36067010800
+- Tract 1990: 36067010800
+- Place 2020: 53660
+- Place 2010: 53660
+- Place 2000: 53660
+- Place 1990: 2585
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 850000
+- Units: 152
+- Low-income units: 135
+- Units reported: 152
+- Low-income reported: 135
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

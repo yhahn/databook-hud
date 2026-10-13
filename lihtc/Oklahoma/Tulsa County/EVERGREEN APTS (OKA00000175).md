@@ -1,0 +1,85 @@
+# Project: EVERGREEN APTS (OKA00000175)
+
+- HUD ID: OKA00000175
+- HUD ID before: 
+- Project: EVERGREEN APTS
+- Address: 4632 S BRADEN AVE
+- City: TULSA
+- State: OK
+- ZIP: 74135
+- ZIP extension: 
+- State project ID: OK-94-03-10
+- Latitude: 36.095916
+- Longitude: -95.919888
+- County FIPS: 40143
+- County from: 2020
+- Tract 2020: 40143008600
+- Tract 2010: 40143008600
+- Tract 2000: 40143008600
+- Tract 1990: 40143008600
+- Place 2020: 75000
+- Place 2010: 75000
+- Place 2000: 75000
+- Place 1990: 2465
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 135
+- Low-income units: 135
+- Units reported: 135
+- Low-income reported: 135
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

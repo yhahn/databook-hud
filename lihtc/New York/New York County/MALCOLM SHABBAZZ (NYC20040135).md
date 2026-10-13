@@ -1,0 +1,85 @@
+# Project: MALCOLM SHABBAZZ (NYC20040135)
+
+- HUD ID: NYC20040135
+- HUD ID before: 
+- Project: MALCOLM SHABBAZZ
+- Address: 104 LENOX AVE
+- City: NEW YORK
+- State: NY
+- ZIP: 10026
+- ZIP extension: 
+- State project ID: NY2005020
+- Latitude: 40.801358
+- Longitude: -73.949826
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061019000
+- Tract 2010: 36061019000
+- Tract 2000: 36061019000
+- Tract 1990: 36061019000
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 41
+- Low-income units: 32
+- Units reported: 41
+- Low-income reported: 32
+- Efficiencies: 4
+- 1-bedroom units: 18
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

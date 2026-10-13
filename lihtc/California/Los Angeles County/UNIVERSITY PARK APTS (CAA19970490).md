@@ -1,0 +1,85 @@
+# Project: UNIVERSITY PARK APTS (CAA19970490)
+
+- HUD ID: CAA19970490
+- HUD ID before: 
+- Project: UNIVERSITY PARK APTS
+- Address: 1221 W 29TH ST
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90007
+- ZIP extension: 
+- State project ID: CA-95-143
+- Latitude: 34.028544
+- Longitude: -118.287098
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037221820
+- Tract 2010: 06037221820
+- Tract 2000: 06037221820
+- Tract 1990: 06037221800
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 274009
+- Units: 20
+- Low-income units: 19
+- Units reported: 20
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 16
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

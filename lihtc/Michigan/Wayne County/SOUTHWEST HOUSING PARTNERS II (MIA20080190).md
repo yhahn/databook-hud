@@ -1,0 +1,85 @@
+# Project: SOUTHWEST HOUSING PARTNERS II (MIA20080190)
+
+- HUD ID: MIA20080190
+- HUD ID before: 
+- Project: SOUTHWEST HOUSING PARTNERS II
+- Address: 1250 HUBBARD ST
+- City: DETROIT
+- State: MI
+- ZIP: 48209
+- ZIP extension: 
+- State project ID: MI-3195
+- Latitude: 42.317912
+- Longitude: -83.088873
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163523400
+- Tract 2010: 26163523400
+- Tract 2000: 26163523400
+- Tract 1990: 26163523400
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 22000
+- Place 1990: 0680
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 588199
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 8
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

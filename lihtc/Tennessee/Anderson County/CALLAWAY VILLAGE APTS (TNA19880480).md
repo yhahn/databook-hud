@@ -1,0 +1,85 @@
+# Project: CALLAWAY VILLAGE APTS (TNA19880480)
+
+- HUD ID: TNA19880480
+- HUD ID before: 
+- Project: CALLAWAY VILLAGE APTS
+- Address: 1000 MEDARIS ST
+- City: CLINTON
+- State: TN
+- ZIP: 37716
+- ZIP extension: 
+- State project ID: TN-88-012
+- Latitude: 36.115434
+- Longitude: -84.12336
+- County FIPS: 47001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47001021202
+- Tract 2000: 47001021202
+- Tract 1990: 47001021202
+- Place 2020: 
+- Place 2010: 15580
+- Place 2000: 15580
+- Place 1990: 0265
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 69062
+- Units: 46
+- Low-income units: 45
+- Units reported: 46
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

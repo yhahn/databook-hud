@@ -1,0 +1,85 @@
+# Project: OLD TOWN APTS (TXA19910340)
+
+- HUD ID: TXA19910340
+- HUD ID before: 
+- Project: OLD TOWN APTS
+- Address: 2003 SW SEVENTH AVE
+- City: AMARILLO
+- State: TX
+- ZIP: 79106
+- ZIP extension: 
+- State project ID: TX-91-119
+- Latitude: 35.209446
+- Longitude: -101.859337
+- County FIPS: 48375
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48375012000
+- Tract 2000: 48375012000
+- Tract 1990: 48375012000
+- Place 2020: 
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0100
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

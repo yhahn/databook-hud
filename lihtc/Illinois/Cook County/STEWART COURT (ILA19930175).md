@@ -1,0 +1,85 @@
+# Project: STEWART COURT (ILA19930175)
+
+- HUD ID: ILA19930175
+- HUD ID before: 
+- Project: STEWART COURT
+- Address: 7640 S STEWART AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60620
+- ZIP extension: 
+- State project ID: 532-92
+- Latitude: 41.755523
+- Longitude: -87.634634
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031691200
+- Tract 2010: 17031691200
+- Tract 2000: 17031691200
+- Tract 1990: 17031691200
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 273214
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 31
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

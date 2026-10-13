@@ -1,0 +1,85 @@
+# Project: MARION GREEN APARTMENTS (INA20109177)
+
+- HUD ID: INA20109177
+- HUD ID before: 
+- Project: MARION GREEN APARTMENTS
+- Address: 1402 S MAPLE ST
+- City: MARION
+- State: IN
+- ZIP: 46953
+- ZIP extension: 
+- State project ID: IN-09-04900
+- Latitude: 40.547679
+- Longitude: -85.668358
+- County FIPS: 18053
+- County from: 2020
+- Tract 2020: 18053000200
+- Tract 2010: 18053000200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 46908
+- Place 2010: 46908
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 589924
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 1257868
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

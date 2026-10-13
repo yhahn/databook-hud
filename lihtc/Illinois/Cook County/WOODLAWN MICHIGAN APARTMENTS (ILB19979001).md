@@ -1,0 +1,85 @@
+# Project: WOODLAWN MICHIGAN APARTMENTS (ILB19979001)
+
+- HUD ID: ILB19979001
+- HUD ID before: 
+- Project: WOODLAWN MICHIGAN APARTMENTS
+- Address: 5630 S MICHIGAN AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60637
+- ZIP extension: 
+- State project ID: TC-97-002
+- Latitude: 41.79238
+- Longitude: -87.622619
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031400500
+- Tract 2010: 17031400500
+- Tract 2000: 17031400500
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 
+- 1-bedroom units: 1
+- 2-bedroom units: 55
+- 3-bedroom units: 22
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 663000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

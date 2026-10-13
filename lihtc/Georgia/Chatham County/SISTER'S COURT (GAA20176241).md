@@ -1,0 +1,85 @@
+# Project: SISTER'S COURT (GAA20176241)
+
+- HUD ID: GAA20176241
+- HUD ID before: 
+- Project: SISTER'S COURT
+- Address: 222 E 37TH ST
+- City: SAVANNAH
+- State: GA
+- ZIP: 31401
+- ZIP extension: 8622
+- State project ID: GA-96-080
+- Latitude: 32.056644
+- Longitude: -81.097498
+- County FIPS: 13051
+- County from: 2020
+- Tract 2020: 13051011400
+- Tract 2010: 13051011400
+- Tract 2000: 13051002500
+- Tract 1990: 13051002500
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 69000
+- Place 1990: 2540
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 857865
+- Units: 78
+- Low-income units: 77
+- Units reported: 78
+- Low-income reported: 77
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1999085, GAA1998110.
+- Record status: Existing, unchanged

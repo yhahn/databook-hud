@@ -1,0 +1,85 @@
+# Project: MAIN STREET PLAZA (CAA19990335)
+
+- HUD ID: CAA19990335
+- HUD ID before: 
+- Project: MAIN STREET PLAZA
+- Address: 333 W MAIN ST
+- City: ALHAMBRA
+- State: CA
+- ZIP: 91801
+- ZIP extension: 
+- State project ID: CA-00-858
+- Latitude: 34.093475
+- Longitude: -118.13082
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037480304
+- Tract 2010: 06037480304
+- Tract 2000: 06037480301
+- Tract 1990: 06037480300
+- Place 2020: 00884
+- Place 2010: 00884
+- Place 2000: 00884
+- Place 1990: 0025
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 486869
+- Units: 110
+- Low-income units: 109
+- Units reported: 110
+- Low-income reported: 109
+- Efficiencies: 0
+- 1-bedroom units: 88
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1999330.
+- Record status: Existing, unchanged

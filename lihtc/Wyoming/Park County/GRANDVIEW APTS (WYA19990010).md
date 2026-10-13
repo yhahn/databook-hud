@@ -1,0 +1,85 @@
+# Project: GRANDVIEW APTS (WYA19990010)
+
+- HUD ID: WYA19990010
+- HUD ID before: 
+- Project: GRANDVIEW APTS
+- Address: 2012 PIONEER AVE
+- City: CODY
+- State: WY
+- ZIP: 82414
+- ZIP extension: 
+- State project ID: 98-009
+- Latitude: 44.530793
+- Longitude: -109.049729
+- County FIPS: 56029
+- County from: 2020
+- Tract 2020: 56029965402
+- Tract 2010: 56029965400
+- Tract 2000: 56029995400
+- Tract 1990: 56029995400
+- Place 2020: 15760
+- Place 2010: 15760
+- Place 2000: 15760
+- Place 1990: 0065
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 38543
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

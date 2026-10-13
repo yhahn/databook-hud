@@ -1,0 +1,85 @@
+# Project: COLONIAL GARDENS APARTMENTS II (KYA19970575)
+
+- HUD ID: KYA19970575
+- HUD ID before: 
+- Project: COLONIAL GARDENS APARTMENTS II
+- Address: WILLIAMSBURG LN.
+- City: GEORGETOWN
+- State: KY
+- ZIP: 40242
+- ZIP extension: 
+- State project ID: KY-95-031
+- Latitude: 38.2153
+- Longitude: -84.5537
+- County FIPS: 21209
+- County from: 2020
+- Tract 2020: 21209040101
+- Tract 2010: 21209040100
+- Tract 2000: 21209040100
+- Tract 1990: 
+- Place 2020: 30700
+- Place 2010: 30700
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

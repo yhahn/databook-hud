@@ -1,0 +1,85 @@
+# Project: VALLEY VIEW APTS (PAA19980275)
+
+- HUD ID: PAA19980275
+- HUD ID before: 
+- Project: VALLEY VIEW APTS
+- Address: 104 VALLEY VIEW DR
+- City: FORD CITY
+- State: PA
+- ZIP: 16226
+- ZIP extension: 
+- State project ID: TC19970058
+- Latitude: 40.786743
+- Longitude: -79.516645
+- County FIPS: 42005
+- County from: 2020
+- Tract 2020: 42005950900
+- Tract 2010: 42005950900
+- Tract 2000: 42005980900
+- Tract 1990: 42005980900
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 26520
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 65960
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 356167
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

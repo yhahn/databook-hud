@@ -1,0 +1,85 @@
+# Project: ERNA P HARRIS COURT APTS (CAA20110609)
+
+- HUD ID: CAA20110609
+- HUD ID before: 
+- Project: ERNA P HARRIS COURT APTS
+- Address: 1330 UNIVERSITY AVE
+- City: BERKELEY
+- State: CA
+- ZIP: 94702
+- ZIP extension: 
+- State project ID: CA-10-514
+- Latitude: 37.869705
+- Longitude: -122.285699
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001423100
+- Tract 2010: 06001423100
+- Tract 2000: 06001423100
+- Tract 1990: 06001423100
+- Place 2020: 06000
+- Place 2010: 06000
+- Place 2000: 06000
+- Place 1990: 0245
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 34
+- Units reported: 35
+- Low-income reported: 34
+- Efficiencies: 25
+- 1-bedroom units: 10
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 3164004
+- TCEP: Yes
+- TCEP amount: 1795850
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011130.
+- Record status: Existing, unchanged

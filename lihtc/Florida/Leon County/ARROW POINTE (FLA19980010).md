@@ -1,0 +1,85 @@
+# Project: ARROW POINTE (FLA19980010)
+
+- HUD ID: FLA19980010
+- HUD ID before: 
+- Project: ARROW POINTE
+- Address: 3380 FRED GEORGE RD
+- City: TALLAHASSEE
+- State: FL
+- ZIP: 32303
+- ZIP extension: 
+- State project ID: 57
+- Latitude: 30.500374
+- Longitude: -84.332467
+- County FIPS: 12073
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12073002208
+- Tract 2000: 12073002204
+- Tract 1990: 12073002204
+- Place 2020: 
+- Place 2010: 70600
+- Place 2000: 70600
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 183
+- Units reported: 184
+- Low-income reported: 183
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 88
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

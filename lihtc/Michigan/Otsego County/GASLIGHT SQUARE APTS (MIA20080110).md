@@ -1,0 +1,85 @@
+# Project: GASLIGHT SQUARE APTS (MIA20080110)
+
+- HUD ID: MIA20080110
+- HUD ID before: 
+- Project: GASLIGHT SQUARE APTS
+- Address: 1231 VILLAGE PKWY
+- City: GAYLORD
+- State: MI
+- ZIP: 49735
+- ZIP extension: 
+- State project ID: MI-3227
+- Latitude: 45.009969
+- Longitude: -84.66991
+- County FIPS: 26137
+- County from: 2020
+- Tract 2020: 26137950300
+- Tract 2010: 26137950300
+- Tract 2000: 26137950300
+- Tract 1990: 26137950300
+- Place 2020: 31720
+- Place 2010: 31720
+- Place 2000: 31720
+- Place 1990: 1035
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 195238
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

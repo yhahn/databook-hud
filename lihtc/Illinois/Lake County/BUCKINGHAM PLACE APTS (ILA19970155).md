@@ -1,0 +1,85 @@
+# Project: BUCKINGHAM PLACE APTS (ILA19970155)
+
+- HUD ID: ILA19970155
+- HUD ID before: 
+- Project: BUCKINGHAM PLACE APTS
+- Address: 3040 W EIGHTH ST
+- City: WAUKEGAN
+- State: IL
+- ZIP: 60085
+- ZIP extension: 
+- State project ID: 92196
+- Latitude: 42.345299
+- Longitude: -87.877235
+- County FIPS: 17097
+- County from: 2020
+- Tract 2020: 17097862605
+- Tract 2010: 17097862605
+- Tract 2000: 17097862605
+- Tract 1990: 17097862602
+- Place 2020: 79293
+- Place 2010: 79293
+- Place 2000: 57654
+- Place 1990: 6075
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 691252
+- Units: 166
+- Low-income units: 166
+- Units reported: 166
+- Low-income reported: 166
+- Efficiencies: 0
+- 1-bedroom units: 85
+- 2-bedroom units: 66
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

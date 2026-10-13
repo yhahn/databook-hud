@@ -1,0 +1,85 @@
+# Project: SPRING VILLAGE APTS (WIA19880130)
+
+- HUD ID: WIA19880130
+- HUD ID before: 
+- Project: SPRING VILLAGE APTS
+- Address: 711 N SPRING ST
+- City: RANDOM LAKE
+- State: WI
+- ZIP: 53075
+- ZIP extension: 
+- State project ID: 124
+- Latitude: 43.555255
+- Longitude: -87.969722
+- County FIPS: 55117
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55117011200
+- Tract 2000: 55117011200
+- Tract 1990: 55117011200
+- Place 2020: 
+- Place 2010: 66200
+- Place 2000: 00450
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

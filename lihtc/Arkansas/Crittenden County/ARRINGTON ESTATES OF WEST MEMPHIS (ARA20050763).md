@@ -1,0 +1,85 @@
+# Project: ARRINGTON ESTATES OF WEST MEMPHIS (ARA20050763)
+
+- HUD ID: ARA20050763
+- HUD ID before: 
+- Project: ARRINGTON ESTATES OF WEST MEMPHIS
+- Address: 719 N ARRINGTON RD
+- City: W MEMPHIS
+- State: AR
+- ZIP: 72303
+- ZIP extension: 
+- State project ID: AR-03-03
+- Latitude: 35.126909
+- Longitude: -90.201464
+- County FIPS: 05035
+- County from: 2020
+- Tract 2020: 05035030602
+- Tract 2010: 05035030600
+- Tract 2000: 05035030102
+- Tract 1990: 05035030100
+- Place 2020: 74540
+- Place 2010: 74540
+- Place 2000: 74540
+- Place 1990: 3005
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 294360
+- Units: 60
+- Low-income units: 48
+- Units reported: 60
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2005001.
+- Record status: Existing, unchanged

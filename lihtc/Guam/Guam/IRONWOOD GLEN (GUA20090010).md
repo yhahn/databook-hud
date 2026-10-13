@@ -1,0 +1,85 @@
+# Project: IRONWOOD GLEN (GUA20090010)
+
+- HUD ID: GUA20090010
+- HUD ID before: 
+- Project: IRONWOOD GLEN
+- Address: 118 BIRADAN PULATTAT
+- City: DEDEDO
+- State: GU
+- ZIP: 96929
+- ZIP extension: 
+- State project ID: GU-07-00
+- Latitude: 13.5669
+- Longitude: -144.8496
+- County FIPS: 66010
+- County from: 2020
+- Tract 2020: 66010950401
+- Tract 2010: 66010950401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 42490
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 2275000
+- Units: 93
+- Low-income units: 93
+- Units reported: 93
+- Low-income reported: 93
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 68
+- 4-bedroom units: 25
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

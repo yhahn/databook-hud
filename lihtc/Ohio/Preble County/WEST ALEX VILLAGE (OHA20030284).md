@@ -1,0 +1,85 @@
+# Project: WEST ALEX VILLAGE (OHA20030284)
+
+- HUD ID: OHA20030284
+- HUD ID before: 
+- Project: WEST ALEX VILLAGE
+- Address: 38 ELM ST
+- City: WEST ALEXANDRIA
+- State: OH
+- ZIP: 45381
+- ZIP extension: 
+- State project ID: 020105
+- Latitude: 39.738936
+- Longitude: -84.531416
+- County FIPS: 39135
+- County from: 2020
+- Tract 2020: 39135440100
+- Tract 2010: 39135440100
+- Tract 2000: 39135440100
+- Tract 1990: 39135440100
+- Place 2020: 82880
+- Place 2010: 82880
+- Place 2000: 82880
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 39304
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 10
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003593, OHA2004282.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THE WOODS (MIA19910355)
+
+- HUD ID: MIA19910355
+- HUD ID before: 
+- Project: THE WOODS
+- Address: 1151 E HOPSON ST
+- City: BAD AXE
+- State: MI
+- ZIP: 48413
+- ZIP extension: 
+- State project ID: MI-2351
+- Latitude: 43.804896
+- Longitude: -82.983571
+- County FIPS: 26063
+- County from: 2020
+- Tract 2020: 26063951000
+- Tract 2010: 26063951000
+- Tract 2000: 26063951000
+- Tract 1990: 26063951000
+- Place 2020: 04740
+- Place 2010: 04740
+- Place 2000: 04740
+- Place 1990: 0125
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

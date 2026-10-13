@@ -1,0 +1,85 @@
+# Project: SUTTON HOMES (TXA20100807)
+
+- HUD ID: TXA20100807
+- HUD ID before: 
+- Project: SUTTON HOMES
+- Address: 909 RUNNELS AVE
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 
+- ZIP extension: 
+- State project ID: 
+- Latitude: 29.43826
+- Longitude: -98.445536
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029130700
+- Tract 2010: 48029130700
+- Tract 2000: 48029130700
+- Tract 1990: 48029130785
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3745
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 194
+- Low-income units: 194
+- Units reported: 194
+- Low-income reported: 194
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000570.
+- Record status: Existing, unchanged

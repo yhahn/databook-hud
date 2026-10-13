@@ -1,0 +1,85 @@
+# Project: VILLAGE APTS OF SHOALS (INA19960200)
+
+- HUD ID: INA19960200
+- HUD ID before: 
+- Project: VILLAGE APTS OF SHOALS
+- Address: 2001 IRONTON RD
+- City: SHOALS
+- State: IN
+- ZIP: 47581
+- ZIP extension: 
+- State project ID: IN-94-02700
+- Latitude: 38.6984
+- Longitude: -86.7769
+- County FIPS: 18101
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18101950300
+- Tract 2000: 18101950300
+- Tract 1990: 18101950300
+- Place 2020: 
+- Place 2010: 69552
+- Place 2000: 69552
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

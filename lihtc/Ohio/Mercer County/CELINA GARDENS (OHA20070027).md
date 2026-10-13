@@ -1,0 +1,85 @@
+# Project: CELINA GARDENS (OHA20070027)
+
+- HUD ID: OHA20070027
+- HUD ID before: 
+- Project: CELINA GARDENS
+- Address: 710 DEVONSHIRE DR
+- City: CELINA
+- State: OH
+- ZIP: 45822
+- ZIP extension: 
+- State project ID: 05-0098
+- Latitude: 40.554504
+- Longitude: -84.556155
+- County FIPS: 39107
+- County from: 2020
+- Tract 2020: 39107967500
+- Tract 2010: 39107967500
+- Tract 2000: 39107967500
+- Tract 1990: 39107967500
+- Place 2020: 12868
+- Place 2010: 12868
+- Place 2000: 12868
+- Place 1990: 0765
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007752.
+- Record status: Existing, unchanged

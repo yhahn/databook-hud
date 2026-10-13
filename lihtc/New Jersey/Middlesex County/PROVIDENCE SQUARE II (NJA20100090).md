@@ -1,0 +1,85 @@
+# Project: PROVIDENCE SQUARE II (NJA20100090)
+
+- HUD ID: NJA20100090
+- HUD ID before: 
+- Project: PROVIDENCE SQUARE II
+- Address: 55 HARVEY STREET
+- City: NEW BRUNSWICK CITY
+- State: NJ
+- ZIP: 08901
+- ZIP extension: 
+- State project ID: NJ-0907
+- Latitude: 40.494409
+- Longitude: -74.454139
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023005200
+- Tract 2010: 34023005200
+- Tract 2000: 34023005200
+- Tract 1990: 34023005200
+- Place 2020: 51210
+- Place 2010: 51210
+- Place 2000: 51210
+- Place 1990: 2900
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1295501
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PROVIDENCE SQUARE II #0907.
+- Record status: Existing, unchanged

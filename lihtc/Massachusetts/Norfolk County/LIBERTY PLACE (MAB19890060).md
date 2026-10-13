@@ -1,0 +1,85 @@
+# Project: LIBERTY PLACE (MAB19890060)
+
+- HUD ID: MAB19890060
+- HUD ID before: 
+- Project: LIBERTY PLACE
+- Address: 100 LIBERTY PL
+- City: RANDOLPH
+- State: MA
+- ZIP: 02368
+- ZIP extension: 
+- State project ID: 10262
+- Latitude: 42.176881
+- Longitude: -71.037877
+- County FIPS: 25021
+- County from: 2020
+- Tract 2020: 25021420101
+- Tract 2010: 25021420100
+- Tract 2000: 25021420100
+- Tract 1990: 25021420100
+- Place 2020: 56000
+- Place 2010: 55990
+- Place 2000: 55990
+- Place 1990: 3470
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 107
+- Low-income units: 107
+- Units reported: 107
+- Low-income reported: 107
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

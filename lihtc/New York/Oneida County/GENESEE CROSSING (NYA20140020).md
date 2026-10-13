@@ -1,0 +1,85 @@
+# Project: GENESEE CROSSING (NYA20140020)
+
+- HUD ID: NYA20140020
+- HUD ID before: 
+- Project: GENESEE CROSSING
+- Address: 1323 FRANCIS ST
+- City: UTICA
+- State: NY
+- ZIP: 13502
+- ZIP extension: 
+- State project ID: 20116050
+- Latitude: 43.096499
+- Longitude: -75.246305
+- County FIPS: 36065
+- County from: 2020
+- Tract 2020: 36065021104
+- Tract 2010: 36065021101
+- Tract 2000: 36065021101
+- Tract 1990: 36065021101
+- Place 2020: 76540
+- Place 2010: 76540
+- Place 2000: 76540
+- Place 1990: 3690
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 687584
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

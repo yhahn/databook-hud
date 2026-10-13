@@ -1,0 +1,85 @@
+# Project: BETHEL RIDGE II (MOA20109106)
+
+- HUD ID: MOA20109106
+- HUD ID before: 
+- Project: BETHEL RIDGE II
+- Address: 3801 SANTIAGO DR
+- City: COLUMBIA
+- State: MO
+- ZIP: 
+- ZIP extension: 
+- State project ID: 09-030
+- Latitude: 38.908428
+- Longitude: -92.342041
+- County FIPS: 29019
+- County from: 2020
+- Tract 2020: 29019001107
+- Tract 2010: 29019001103
+- Tract 2000: 29019001103
+- Tract 1990: 29019001103
+- Place 2020: 15670
+- Place 2010: 15670
+- Place 2000: 15670
+- Place 1990: 0930
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 41
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

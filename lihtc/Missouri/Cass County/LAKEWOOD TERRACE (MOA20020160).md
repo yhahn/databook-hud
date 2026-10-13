@@ -1,0 +1,85 @@
+# Project: LAKEWOOD TERRACE (MOA20020160)
+
+- HUD ID: MOA20020160
+- HUD ID before: 
+- Project: LAKEWOOD TERRACE
+- Address: 200 LAKEWOOD TER
+- City: BELTON
+- State: MO
+- ZIP: 64012
+- ZIP extension: 
+- State project ID: 01-416
+- Latitude: 38.810579
+- Longitude: -94.510842
+- County FIPS: 29037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29037061300
+- Tract 2000: 29037060200
+- Tract 1990: 29037060200
+- Place 2020: 
+- Place 2010: 04384
+- Place 2000: 04384
+- Place 1990: 0305
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 92
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

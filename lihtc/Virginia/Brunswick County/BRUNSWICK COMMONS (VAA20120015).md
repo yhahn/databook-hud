@@ -1,0 +1,85 @@
+# Project: BRUNSWICK COMMONS (VAA20120015)
+
+- HUD ID: VAA20120015
+- HUD ID before: 
+- Project: BRUNSWICK COMMONS
+- Address: 34 BRUNSWICK COMMONS CT
+- City: LAWRENCEVILLE
+- State: VA
+- ZIP: 23868
+- ZIP extension: 
+- State project ID: 933
+- Latitude: 36.765728
+- Longitude: -77.835138
+- County FIPS: 51025
+- County from: 2020
+- Tract 2020: 51025930203
+- Tract 2010: 51025930203
+- Tract 2000: 51025990200
+- Tract 1990: 51025990200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 44520
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 52853
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1992015.
+- Record status: Existing, unchanged

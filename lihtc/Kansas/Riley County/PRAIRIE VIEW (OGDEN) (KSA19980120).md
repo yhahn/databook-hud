@@ -1,0 +1,85 @@
+# Project: PRAIRIE VIEW (OGDEN) (KSA19980120)
+
+- HUD ID: KSA19980120
+- HUD ID before: 
+- Project: PRAIRIE VIEW (OGDEN)
+- Address: 315 N PARK
+- City: OGDEN
+- State: KS
+- ZIP: 66517
+- ZIP extension: 
+- State project ID: 60266
+- Latitude: 39.1175
+- Longitude: -96.713678
+- County FIPS: 20161
+- County from: 2020
+- Tract 2020: 20161000900
+- Tract 2010: 20161000900
+- Tract 2000: 20161000900
+- Tract 1990: 20161000900
+- Place 2020: 52275
+- Place 2010: 52275
+- Place 2000: 44250
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 162163
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FLINT HILLS ESTATES.
+- Record status: Existing, unchanged

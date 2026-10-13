@@ -1,0 +1,85 @@
+# Project: ROMEO VILLAGE (NYA19990185)
+
+- HUD ID: NYA19990185
+- HUD ID before: 
+- Project: ROMEO VILLAGE
+- Address: 118 W BROADWAY
+- City: MONTOUR FALLS
+- State: NY
+- ZIP: 14865
+- ZIP extension: 
+- State project ID: 19980023
+- Latitude: 42.348967
+- Longitude: -76.84519
+- County FIPS: 36097
+- County from: 2020
+- Tract 2020: 36097950500
+- Tract 2010: 36097950500
+- Tract 2000: 36097950500
+- Tract 1990: 36097950500
+- Place 2020: 48197
+- Place 2010: 48197
+- Place 2000: 48197
+- Place 1990: 2345
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: EDWINS PLACE (NYB20204011)
+
+- HUD ID: NYB20204011
+- HUD ID before: 
+- Project: EDWINS PLACE
+- Address: 7 LIVONIA AVENUE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11212
+- ZIP extension: 
+- State project ID: NY-20-2550
+- Latitude: 40.661374
+- Longitude: -73.918201
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047089400
+- Tract 2010: 36047089400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 3093829
+- Units: 126
+- Low-income units: 125
+- Units reported: 126
+- Low-income reported: 125
+- Efficiencies: 56
+- 1-bedroom units: 35
+- 2-bedroom units: 26
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 114
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

@@ -1,0 +1,85 @@
+# Project: LEGACY AT NORTH POINTE (GAA00000038)
+
+- HUD ID: GAA00000038
+- HUD ID before: 
+- Project: LEGACY AT NORTH POINTE
+- Address: 600 N POINTE DR
+- City: GAINESVILLE
+- State: GA
+- ZIP: 30501
+- ZIP extension: 
+- State project ID: GA-98-00
+- Latitude: 34.329786
+- Longitude: -83.843494
+- County FIPS: 13139
+- County from: 2020
+- Tract 2020: 13139000401
+- Tract 2010: 13139000400
+- Tract 2000: 13139000400
+- Tract 1990: 13139000400
+- Place 2020: 31908
+- Place 2010: 31908
+- Place 2000: 31908
+- Place 1990: 1155
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 95
+- Low-income units: 95
+- Units reported: 95
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA NORTH POINTE APTS
+- Record status: Existing, unchanged

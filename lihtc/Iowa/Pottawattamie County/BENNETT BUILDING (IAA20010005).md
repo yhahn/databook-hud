@@ -1,0 +1,85 @@
+# Project: BENNETT BUILDING (IAA20010005)
+
+- HUD ID: IAA20010005
+- HUD ID before: 
+- Project: BENNETT BUILDING
+- Address: 405 W BROADWAY
+- City: COUNCIL BLUFFS
+- State: IA
+- ZIP: 51503
+- ZIP extension: 
+- State project ID: 00-09
+- Latitude: 41.260675
+- Longitude: -95.848746
+- County FIPS: 19155
+- County from: 2020
+- Tract 2020: 19155030900
+- Tract 2010: 19155030900
+- Tract 2000: 19155030900
+- Tract 1990: 19155030900
+- Place 2020: 16860
+- Place 2010: 16860
+- Place 2000: 16860
+- Place 1990: 0945
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 287183
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

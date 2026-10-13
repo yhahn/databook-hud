@@ -1,0 +1,85 @@
+# Project: QUAIL RUN ESTATES (TNA20090085)
+
+- HUD ID: TNA20090085
+- HUD ID before: 
+- Project: QUAIL RUN ESTATES
+- Address: 198 FALCON DR
+- City: MCMINNVILLE
+- State: TN
+- ZIP: 37110
+- ZIP extension: 
+- State project ID: TN-09-106
+- Latitude: 35.710996
+- Longitude: -85.755249
+- County FIPS: 47177
+- County from: 2020
+- Tract 2020: 47177930500
+- Tract 2010: 47177930500
+- Tract 2000: 47177990500
+- Tract 1990: 47177990500
+- Place 2020: 45100
+- Place 2010: 45100
+- Place 2000: 45100
+- Place 1990: 0880
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 697318
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 50
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2530635
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,25 @@
+# Tax Credit Projects: Clinton County, MI
+
+- Level: County
+- Postal code: MI
+- State FIPS: 26
+- County FIPS: 26037
+- Counties: 
+- Projects: 8
+- Units: 397
+- Low-income units: 374
+
+The low-income housing tax credit projects of Clinton County, Michigan, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [SANDSTONE APTS (MIA19990245)](./Clinton%20County/SANDSTONE%20APTS%20%28MIA19990245%29.md) | MIA19990245 | ELSIE | 1999 | 8 | 8 |
+| [DEWITT FOUR SEASONS APTS (MIA20010070)](./Clinton%20County/DEWITT%20FOUR%20SEASONS%20APTS%20%28MIA20010070%29.md) | MIA20010070 | DEWITT | 2001 | 144 | 128 |
+| [KNOLLVIEW APTS (MIA20010085)](./Clinton%20County/KNOLLVIEW%20APTS%20%28MIA20010085%29.md) | MIA20010085 | OVID | 2001 | 28 | 28 |
+| [MAPLEVIEW APTS (MAPLE RAPIDS) (MIA20010105)](./Clinton%20County/MAPLEVIEW%20APTS%20%28MAPLE%20RAPIDS%29%20%28MIA20010105%29.md) | MIA20010105 | MAPLE RAPIDS | 2001 | 24 | 23 |
+| [CARRIAGE TOWNE PLACE APTS II (MIA20040055)](./Clinton%20County/CARRIAGE%20TOWNE%20PLACE%20APTS%20II%20%28MIA20040055%29.md) | MIA20040055 | OVID | 2004 | 12 | 12 |
+| [ELSIE MEADOWS (MIA20060050)](./Clinton%20County/ELSIE%20MEADOWS%20%28MIA20060050%29.md) | MIA20060050 | ELSIE | 2006 | 16 | 16 |
+| [HAWKS RIDGE APTS (MIA20099086)](./Clinton%20County/HAWKS%20RIDGE%20APTS%20%28MIA20099086%29.md) | MIA20099086 | BATH | 2009 | 135 | 135 |
+| [CASTLE ST. JOHNS (MIA20171003)](./Clinton%20County/CASTLE%20ST.%20JOHNS%20%28MIA20171003%29.md) | MIA20171003 | ST JOHNS | 2017 | 30 | 24 |

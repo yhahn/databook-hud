@@ -1,0 +1,85 @@
+# Project: BLUEBERRY HILLS (MNA20120006)
+
+- HUD ID: MNA20120006
+- HUD ID before: 
+- Project: BLUEBERRY HILLS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: MENAHGA
+- State: MN
+- ZIP: 56464
+- ZIP extension: 
+- State project ID: D0778
+- Latitude: 46.7133
+- Longitude: -94.975
+- County FIPS: 27159
+- County from: 2020
+- Tract 2020: 27159480100
+- Tract 2010: 27159480100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 41660
+- Place 2010: 41660
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 17
+- Units reported: 18
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 10
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BRAINERD SENIOR CENTER (ILB20010807)
+
+- HUD ID: ILB20010807
+- HUD ID before: 
+- Project: BRAINERD SENIOR CENTER
+- Address: 8915 S LOOMIS ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60620
+- ZIP extension: 
+- State project ID: 25-05-120
+- Latitude: 41.731673
+- Longitude: -87.657841
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031730201
+- Tract 2010: 17031730201
+- Tract 2000: 17031730200
+- Tract 1990: 17031730200
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 463754
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 6
+- 1-bedroom units: 49
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2001010.
+- Record status: Existing, unchanged

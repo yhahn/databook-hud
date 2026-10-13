@@ -1,0 +1,85 @@
+# Project: SUNWOOD APTS (WIA20010125)
+
+- HUD ID: WIA20010125
+- HUD ID before: 
+- Project: SUNWOOD APTS
+- Address: 1750 LINNERUD DR
+- City: SUN PRAIRIE
+- State: WI
+- ZIP: 53590
+- ZIP extension: 
+- State project ID: 2420
+- Latitude: 43.174395
+- Longitude: -89.243356
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025011506
+- Tract 2010: 55025011506
+- Tract 2000: 55025011506
+- Tract 1990: 55025011502
+- Place 2020: 78600
+- Place 2010: 78600
+- Place 2000: 78600
+- Place 1990: 2495
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 44
+- Units reported: 48
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

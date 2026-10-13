@@ -1,0 +1,85 @@
+# Project: SAVANNAH CATALPA TREE APTS (MOA20070165)
+
+- HUD ID: MOA20070165
+- HUD ID before: 
+- Project: SAVANNAH CATALPA TREE APTS
+- Address: 611 W MARKET ST
+- City: SAVANNAH
+- State: MO
+- ZIP: 64485
+- ZIP extension: 
+- State project ID: 06-403
+- Latitude: 39.940669
+- Longitude: -94.831748
+- County FIPS: 29003
+- County from: 2020
+- Tract 2020: 29003010201
+- Tract 2010: 29003010200
+- Tract 2000: 29003010200
+- Tract 1990: 29003010200
+- Place 2020: 66044
+- Place 2010: 66044
+- Place 2000: 66044
+- Place 1990: 3915
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 83108
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CATALPA TREE APTS.
+- Record status: Existing, unchanged

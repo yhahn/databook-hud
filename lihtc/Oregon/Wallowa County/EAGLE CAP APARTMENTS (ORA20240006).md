@@ -1,0 +1,85 @@
+# Project: EAGLE CAP APARTMENTS (ORA20240006)
+
+- HUD ID: ORA20240006
+- HUD ID before: 
+- Project: EAGLE CAP APARTMENTS
+- Address: 607 SW 2ND STREET
+- City: ENTERPRISE
+- State: OR
+- ZIP: 97827
+- ZIP extension: 
+- State project ID: OR-23-11668
+- Latitude: 45.420894
+- Longitude: -117.279888
+- County FIPS: 41063
+- County from: 2020
+- Tract 2020: 41063960300
+- Tract 2010: 41063960300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23500
+- Place 2010: 23500
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 64
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 31
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

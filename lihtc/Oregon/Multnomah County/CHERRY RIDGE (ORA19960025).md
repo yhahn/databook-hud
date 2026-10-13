@@ -1,0 +1,85 @@
+# Project: CHERRY RIDGE (ORA19960025)
+
+- HUD ID: ORA19960025
+- HUD ID before: 
+- Project: CHERRY RIDGE
+- Address: 2295 SW STURGES LN
+- City: TROUTDALE
+- State: OR
+- ZIP: 97060
+- ZIP extension: 
+- State project ID: X001-305
+- Latitude: 45.531021
+- Longitude: -122.409425
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051010303
+- Tract 2010: 41051010303
+- Tract 2000: 41051010303
+- Tract 1990: 41051010301
+- Place 2020: 74850
+- Place 2010: 74850
+- Place 2000: 31250
+- Place 1990: 1245
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 246360
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

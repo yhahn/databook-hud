@@ -1,0 +1,85 @@
+# Project: HAMPSHIRE PINE APTS PHASE II (MAB19990050)
+
+- HUD ID: MAB19990050
+- HUD ID before: 
+- Project: HAMPSHIRE PINE APTS PHASE II
+- Address: 100 HAMPSHIRE ST
+- City: HOLYOKE
+- State: MA
+- ZIP: 01040
+- ZIP extension: 
+- State project ID: MA-97-100-27
+- Latitude: 42.202902
+- Longitude: -72.615804
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013811600
+- Tract 2010: 25013811600
+- Tract 2000: 25013811600
+- Tract 1990: 25013811600
+- Place 2020: 30840
+- Place 2010: 30840
+- Place 2000: 30840
+- Place 1990: 1830
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 35
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000304.
+- Record status: Existing, unchanged

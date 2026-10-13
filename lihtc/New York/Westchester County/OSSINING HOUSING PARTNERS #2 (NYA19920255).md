@@ -1,0 +1,85 @@
+# Project: OSSINING HOUSING PARTNERS #2 (NYA19920255)
+
+- HUD ID: NYA19920255
+- HUD ID before: 
+- Project: OSSINING HOUSING PARTNERS #2
+- Address: 19 HAMILTON AVE
+- City: OSSINING
+- State: NY
+- ZIP: 10562
+- ZIP extension: 
+- State project ID: 19910464
+- Latitude: 41.154946
+- Longitude: -73.866091
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119013304
+- Tract 2010: 36119013304
+- Tract 2000: 36119013304
+- Tract 1990: 36119013304
+- Place 2020: 55530
+- Place 2010: 55530
+- Place 2000: 55530
+- Place 1990: 2725
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

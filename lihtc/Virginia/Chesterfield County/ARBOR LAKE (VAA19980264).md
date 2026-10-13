@@ -1,0 +1,85 @@
+# Project: ARBOR LAKE (VAA19980264)
+
+- HUD ID: VAA19980264
+- HUD ID before: 
+- Project: ARBOR LAKE
+- Address: 6706 ARBOR LAKE DR
+- City: CHESTER
+- State: VA
+- ZIP: 23831
+- ZIP extension: 
+- State project ID: 911
+- Latitude: 37.356165
+- Longitude: -77.492819
+- County FIPS: 51041
+- County from: 2020
+- Tract 2020: 51041100823
+- Tract 2010: 51041100823
+- Tract 2000: 51041100811
+- Tract 1990: 51041100811
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 16096
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 480330
+- Units: 126
+- Low-income units: 126
+- Units reported: 126
+- Low-income reported: 126
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 68
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1996005.
+- Record status: Existing, unchanged

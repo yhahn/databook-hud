@@ -1,0 +1,85 @@
+# Project: ARC VILLAGE (FLA20160001)
+
+- HUD ID: FLA20160001
+- HUD ID before: 
+- Project: ARC VILLAGE
+- Address: 3675 KIRBO WAY
+- City: JACKSONVILLE
+- State: FL
+- ZIP: 32224
+- ZIP extension: 
+- State project ID: 2642
+- Latitude: 30.2694
+- Longitude: -81.5097
+- County FIPS: 12031
+- County from: 2020
+- Tract 2020: 12031014421
+- Tract 2010: 12031014404
+- Tract 2000: 12031014405
+- Tract 1990: 
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1142747
+- Units: 122
+- Low-income units: 122
+- Units reported: 122
+- Low-income reported: 122
+- Efficiencies: 50
+- 1-bedroom units: 68
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

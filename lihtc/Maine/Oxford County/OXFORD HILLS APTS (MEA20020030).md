@@ -1,0 +1,85 @@
+# Project: OXFORD HILLS APTS (MEA20020030)
+
+- HUD ID: MEA20020030
+- HUD ID before: 
+- Project: OXFORD HILLS APTS
+- Address: 63 COTTAGE ST
+- City: NORWAY
+- State: ME
+- ZIP: 04268
+- ZIP extension: 
+- State project ID: MSHA-RLP-1240
+- Latitude: 44.216986
+- Longitude: -70.539071
+- County FIPS: 23017
+- County from: 2020
+- Tract 2020: 23017966500
+- Tract 2010: 23017966500
+- Tract 2000: 23017996500
+- Tract 1990: 23017996500
+- Place 2020: 53965
+- Place 2010: 53965
+- Place 2000: 53965
+- Place 1990: 3350
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA OXFORD FAMILY APTS.
+- Record status: Existing, unchanged

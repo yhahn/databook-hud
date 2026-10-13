@@ -1,0 +1,85 @@
+# Project: LEXINGTON CIVIC HOUSING (TNA20110538)
+
+- HUD ID: TNA20110538
+- HUD ID before: 
+- Project: LEXINGTON CIVIC HOUSING
+- Address: 6 ROTARY DR
+- City: LEXINGTON
+- State: TN
+- ZIP: 38351
+- ZIP extension: 
+- State project ID: TN-09-028
+- Latitude: 35.660194
+- Longitude: -88.39207
+- County FIPS: 47077
+- County from: 2020
+- Tract 2020: 47077975302
+- Tract 2010: 47077975300
+- Tract 2000: 47077975300
+- Tract 1990: 47077975300
+- Place 2020: 41980
+- Place 2010: 41980
+- Place 2000: 41980
+- Place 1990: 0805
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 113478
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 339714
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2011055, TNA1989355.
+- Record status: Existing, unchanged

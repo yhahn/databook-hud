@@ -1,0 +1,85 @@
+# Project: ROOSEVELT HOMES (OHA20130033)
+
+- HUD ID: OHA20130033
+- HUD ID before: 
+- Project: ROOSEVELT HOMES
+- Address: 935 EDISON ST
+- City: DAYTON
+- State: OH
+- ZIP: 45417
+- ZIP extension: 
+- State project ID: 110073
+- Latitude: 39.756681
+- Longitude: -84.227651
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113165100
+- Tract 2010: 39113165100
+- Tract 2000: 39113003700
+- Tract 1990: 39113003700
+- Place 2020: 21000
+- Place 2010: 21000
+- Place 2000: 21000
+- Place 1990: 1110
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 35
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

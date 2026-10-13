@@ -1,0 +1,85 @@
+# Project: SCATTERED COP INFILL HOUSING (TXA19940260)
+
+- HUD ID: TXA19940260
+- HUD ID before: 
+- Project: SCATTERED COP INFILL HOUSING
+- Address: 1611 E 11TH ST
+- City: AUSTIN
+- State: TX
+- ZIP: 78702
+- ZIP extension: 
+- State project ID: TX-91-108
+- Latitude: 30.266941
+- Longitude: -97.723575
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453000901
+- Tract 2010: 48453000901
+- Tract 2000: 48453000901
+- Tract 1990: 48453000901
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0210
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 75
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

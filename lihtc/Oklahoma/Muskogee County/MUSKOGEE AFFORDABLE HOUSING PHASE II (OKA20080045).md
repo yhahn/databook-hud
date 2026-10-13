@@ -1,0 +1,85 @@
+# Project: MUSKOGEE AFFORDABLE HOUSING PHASE II (OKA20080045)
+
+- HUD ID: OKA20080045
+- HUD ID before: 
+- Project: MUSKOGEE AFFORDABLE HOUSING PHASE II
+- Address: 201 S O ST
+- City: MUSKOGEE
+- State: OK
+- ZIP: 74403
+- ZIP extension: 
+- State project ID: 60119
+- Latitude: 35.74062
+- Longitude: -95.353099
+- County FIPS: 40101
+- County from: 2020
+- Tract 2020: 40101000700
+- Tract 2010: 40101000700
+- Tract 2000: 40101000700
+- Tract 1990: 40101000700
+- Place 2020: 50050
+- Place 2010: 50050
+- Place 2000: 50050
+- Place 1990: 1700
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 458953
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 45
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

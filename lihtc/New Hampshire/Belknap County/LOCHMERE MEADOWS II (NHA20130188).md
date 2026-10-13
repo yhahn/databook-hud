@@ -1,0 +1,85 @@
+# Project: LOCHMERE MEADOWS II (NHA20130188)
+
+- HUD ID: NHA20130188
+- HUD ID before: 
+- Project: LOCHMERE MEADOWS II
+- Address: 1 LOCHMERE CIR
+- City: TILTON
+- State: NH
+- ZIP: 03276
+- ZIP extension: 
+- State project ID: 1004
+- Latitude: 43.478808
+- Longitude: -71.544846
+- County FIPS: 33001
+- County from: 2020
+- Tract 2020: 33001965598
+- Tract 2010: 33001965598
+- Tract 2000: 33001965598
+- Tract 1990: 33001965598
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 77100
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 300000
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 640898
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LM II AFFORDABLE HOUSING.
+- Record status: Existing, unchanged

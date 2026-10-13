@@ -1,0 +1,85 @@
+# Project: CHAUTAUQUA PARK WEST @ LIBERTY HILLS (MDA20210005)
+
+- HUD ID: MDA20210005
+- HUD ID before: 
+- Project: CHAUTAUQUA PARK WEST @ LIBERTY HILLS
+- Address: 100-600 LIBERTY HILL DRIVE
+- City: OAKLAND
+- State: MD
+- ZIP: 21550
+- ZIP extension: 
+- State project ID: MD-19-06001-6
+- Latitude: 39.3169
+- Longitude: -79.3786
+- County FIPS: 24023
+- County from: 2020
+- Tract 2020: 24023000601
+- Tract 2010: 24023000700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 57650
+- Place 2010: 22275
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1500000
+- Units: 21
+- Low-income units: 12
+- Units reported: 21
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 4
+- 2-bedroom units: 6
+- 3-bedroom units: 2
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HARTFORD SCATTERED SITE PROJECT (VTA20170005)
+
+- HUD ID: VTA20170005
+- HUD ID before: 
+- Project: HARTFORD SCATTERED SITE PROJECT
+- Address: CHRISTIAN ST, VA CUTOFF RD
+- City: HARTFORD
+- State: VT
+- ZIP: 05047
+- ZIP extension: 
+- State project ID: VT-04-81
+- Latitude: 43.6905
+- Longitude: -72.3535
+- County FIPS: 50027
+- County from: 2020
+- Tract 2020: 50027965502
+- Tract 2010: 50027965502
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 625000
+- Units: 35
+- Low-income units: 33
+- Units reported: 35
+- Low-income reported: 33
+- Efficiencies: 1
+- 1-bedroom units: 11
+- 2-bedroom units: 16
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 374222
+- CDBG: Yes
+- CDBG amount: 428433
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

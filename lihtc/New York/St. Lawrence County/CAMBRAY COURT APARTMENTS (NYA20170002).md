@@ -1,0 +1,85 @@
+# Project: CAMBRAY COURT APARTMENTS (NYA20170002)
+
+- HUD ID: NYA20170002
+- HUD ID before: 
+- Project: CAMBRAY COURT APARTMENTS
+- Address: 24 MILL STREET
+- City: GOUVERNEUR
+- State: NY
+- ZIP: 13642
+- ZIP extension: 
+- State project ID: 20146054
+- Latitude: 44.335681
+- Longitude: -75.472985
+- County FIPS: 36089
+- County from: 2020
+- Tract 2020: 36089492700
+- Tract 2010: 36089492700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 29597
+- Place 2010: 29597
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 811966
+- Units: 71
+- Low-income units: 65
+- Units reported: 71
+- Low-income reported: 65
+- Efficiencies: 
+- 1-bedroom units: 71
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: frail elderly
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

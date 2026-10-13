@@ -1,0 +1,85 @@
+# Project: LEONARD GREENE (NCA20230008)
+
+- HUD ID: NCA20230008
+- HUD ID before: 
+- Project: LEONARD GREENE
+- Address: 119 EVANS LAKE ROAD
+- City: DALLAS
+- State: NC
+- ZIP: 28034
+- ZIP extension: 
+- State project ID: 9272894
+- Latitude: 35.322861
+- Longitude: -81.1643
+- County FIPS: 37071
+- County from: 2020
+- Tract 2020: 37071030302
+- Tract 2010: 37071030302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 963292
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 1
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 120
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

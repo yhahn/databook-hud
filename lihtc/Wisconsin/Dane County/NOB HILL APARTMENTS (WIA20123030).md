@@ -1,0 +1,85 @@
+# Project: NOB HILL APARTMENTS (WIA20123030)
+
+- HUD ID: WIA20123030
+- HUD ID before: 
+- Project: NOB HILL APARTMENTS
+- Address: 1190 MOORLAND RD
+- City: MADISON
+- State: WI
+- ZIP: 53713
+- ZIP extension: 
+- State project ID: 5793
+- Latitude: 43.033287
+- Longitude: -89.3649
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025001502
+- Tract 2010: 55025001502
+- Tract 2000: 55025001502
+- Tract 1990: 
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1500000
+- Units: 254
+- Low-income units: 64
+- Units reported: 254
+- Low-income reported: 64
+- Efficiencies: 28
+- 1-bedroom units: 60
+- 2-bedroom units: 140
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 44
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

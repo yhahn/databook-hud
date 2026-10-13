@@ -1,0 +1,85 @@
+# Project: GARFIELD JUBILEE REHAB PROJECT (PAA19970075)
+
+- HUD ID: PAA19970075
+- HUD ID before: 
+- Project: GARFIELD JUBILEE REHAB PROJECT
+- Address: 112 N FAIRMOUNT ST
+- City: PITTSBURGH
+- State: PA
+- ZIP: 15206
+- ZIP extension: 
+- State project ID: TC19950125
+- Latitude: 40.464589
+- Longitude: -79.931993
+- County FIPS: 42003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42003111400
+- Tract 2000: 42003111400
+- Tract 1990: 42003111400
+- Place 2020: 
+- Place 2010: 61000
+- Place 2000: 61000
+- Place 1990: 7234
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 160132
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 7
+- 3-bedroom units: 3
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

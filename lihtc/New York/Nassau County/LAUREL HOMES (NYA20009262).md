@@ -1,0 +1,85 @@
+# Project: LAUREL HOMES (NYA20009262)
+
+- HUD ID: NYA20009262
+- HUD ID before: 
+- Project: LAUREL HOMES
+- Address: 4 LINDEN CT
+- City: ROSLYN HEIGHTS
+- State: NY
+- ZIP: 11577
+- ZIP extension: 
+- State project ID: 19980968
+- Latitude: 40.788727
+- Longitude: -73.641442
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059302200
+- Tract 2010: 36059302200
+- Tract 2000: 36059302200
+- Tract 1990: 36059302200
+- Place 2020: 63814
+- Place 2010: 63814
+- Place 2000: 63814
+- Place 1990: 3157
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 26
+- 3-bedroom units: 16
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 27775000
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

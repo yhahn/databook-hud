@@ -1,0 +1,85 @@
+# Project: CRESCENT DRIVE APARTMENTS (NCA20230004)
+
+- HUD ID: NCA20230004
+- HUD ID before: 
+- Project: CRESCENT DRIVE APARTMENTS
+- Address: 5608 CRESCENT DRIVE
+- City: DURHAM
+- State: NC
+- ZIP: 27517
+- ZIP extension: 
+- State project ID: 9269736
+- Latitude: 35.917401
+- Longitude: -78.986313
+- County FIPS: 37063
+- County from: 2020
+- Tract 2020: 37063002033
+- Tract 2010: 37063002018
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 575427
+- Units: 82
+- Low-income units: 82
+- Units reported: 82
+- Low-income reported: 82
+- Efficiencies: 1
+- 1-bedroom units: 25
+- 2-bedroom units: 38
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 82
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

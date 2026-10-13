@@ -1,0 +1,85 @@
+# Project: UNIVERSITY AVENUE CONSOLIDATION (NYC20090335)
+
+- HUD ID: NYC20090335
+- HUD ID before: 
+- Project: UNIVERSITY AVENUE CONSOLIDATION
+- Address: 65 FEATHERBED LN
+- City: BRONX
+- State: NY
+- ZIP: 10452
+- ZIP extension: 
+- State project ID: NY-09-006
+- Latitude: 40.846614
+- Longitude: -73.916926
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005021502
+- Tract 2010: 36005021502
+- Tract 2000: 36005021502
+- Tract 1990: 36005021502
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1627329
+- Units: 290
+- Low-income units: 272
+- Units reported: 290
+- Low-income reported: 272
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 150
+- 3-bedroom units: 60
+- 4-bedroom units: 19
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

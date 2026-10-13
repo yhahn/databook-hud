@@ -1,0 +1,85 @@
+# Project: RIVER HAVEN PLACE (ILA20130822)
+
+- HUD ID: ILA20130822
+- HUD ID before: 
+- Project: RIVER HAVEN PLACE
+- Address: 351 RIVER HAVEN CT
+- City: EAST DUNDEE
+- State: IL
+- ZIP: 60118
+- ZIP extension: 
+- State project ID: 1068312
+- Latitude: 42.098709
+- Longitude: -88.259755
+- County FIPS: 17089
+- County from: 2020
+- Tract 2020: 17089850400
+- Tract 2010: 17089850400
+- Tract 2000: 17089850400
+- Tract 1990: 17089850400
+- Place 2020: 21696
+- Place 2010: 21696
+- Place 2000: 11358
+- Place 1990: 1620
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1931000
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 34
+- 3-bedroom units: 9
+- 4-bedroom units: 25
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA20130014.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SWINNEY APTS (MSA20090123)
+
+- HUD ID: MSA20090123
+- HUD ID before: 
+- Project: SWINNEY APTS
+- Address: 599 W ADAMS ST
+- City: KOSCIUSKO
+- State: MS
+- ZIP: 39090
+- ZIP extension: 
+- State project ID: MS-07-3-104
+- Latitude: 33.059311
+- Longitude: -89.600909
+- County FIPS: 28007
+- County from: 2020
+- Tract 2020: 28007060600
+- Tract 2010: 28007060600
+- Tract 2000: 28007060600
+- Tract 1990: 28007950600
+- Place 2020: 38320
+- Place 2010: 38320
+- Place 2000: 38320
+- Place 1990: 0630
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 164344
+- Units: 47
+- Low-income units: 46
+- Units reported: 47
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 39
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2008010, MSA1991160. AKA SWINNEY ESTATES.
+- Record status: Existing, unchanged

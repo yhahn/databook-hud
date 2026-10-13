@@ -1,0 +1,85 @@
+# Project: ROCKDALE VILLAGE (WVA19930055)
+
+- HUD ID: WVA19930055
+- HUD ID before: 
+- Project: ROCKDALE VILLAGE
+- Address: 401 ROCKDALE RD
+- City: FOLLANSBEE
+- State: WV
+- ZIP: 26037
+- ZIP extension: 
+- State project ID: WV-92-00501
+- Latitude: 40.31912
+- Longitude: -80.577502
+- County FIPS: 54009
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 54009031102
+- Tract 2000: 54009031100
+- Tract 1990: 54009031100
+- Place 2020: 
+- Place 2010: 38476
+- Place 2000: 28204
+- Place 1990: 0555
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

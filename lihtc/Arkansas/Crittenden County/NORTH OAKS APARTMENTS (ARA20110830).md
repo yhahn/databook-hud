@@ -1,0 +1,85 @@
+# Project: NORTH OAKS APARTMENTS (ARA20110830)
+
+- HUD ID: ARA20110830
+- HUD ID before: 
+- Project: NORTH OAKS APARTMENTS
+- Address: 921 EXCHANGE ST
+- City: EARLE
+- State: AR
+- ZIP: 72331
+- ZIP extension: 
+- State project ID: AR-90-30-001
+- Latitude: 35.273204
+- Longitude: -90.463835
+- County FIPS: 05035
+- County from: 2020
+- Tract 2020: 05035031100
+- Tract 2010: 05035031100
+- Tract 2000: 05035031100
+- Tract 1990: 05035031100
+- Place 2020: 20320
+- Place 2010: 20320
+- Place 2000: 20320
+- Place 1990: 0600
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 54202
+- Units: 33
+- Low-income units: 31
+- Units reported: 33
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1991596, ARA1991055. AKA PDC FORTY TWO.
+- Record status: Existing, unchanged

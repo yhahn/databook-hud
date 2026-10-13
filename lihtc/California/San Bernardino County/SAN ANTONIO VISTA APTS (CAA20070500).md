@@ -1,0 +1,85 @@
+# Project: SAN ANTONIO VISTA APTS (CAA20070500)
+
+- HUD ID: CAA20070500
+- HUD ID before: 
+- Project: SAN ANTONIO VISTA APTS
+- Address: 10410 PRADERA AVE
+- City: MONTCLAIR
+- State: CA
+- ZIP: 91763
+- ZIP extension: 
+- State project ID: CA-05-073
+- Latitude: 34.065248
+- Longitude: -117.715206
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071000305
+- Tract 2010: 06071000301
+- Tract 2000: 06071000301
+- Tract 1990: 06071000301
+- Place 2020: 48788
+- Place 2010: 48788
+- Place 2000: 48788
+- Place 1990: 1815
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1338880
+- Units: 75
+- Low-income units: 74
+- Units reported: 75
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 50
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUNFLOWER APTS WHITEWATER (KSA19880125)
+
+- HUD ID: KSA19880125
+- HUD ID before: 
+- Project: SUNFLOWER APTS WHITEWATER
+- Address: 615 S MAIN ST
+- City: WHITEWATER
+- State: KS
+- ZIP: 67154
+- ZIP extension: 
+- State project ID: KS-87-0016
+- Latitude: 37.957245
+- Longitude: -97.149662
+- County FIPS: 20015
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20015020600
+- Tract 2000: 20015020600
+- Tract 1990: 20015020600
+- Place 2020: 
+- Place 2010: 78050
+- Place 2000: 06175
+- Place 1990: 2805
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

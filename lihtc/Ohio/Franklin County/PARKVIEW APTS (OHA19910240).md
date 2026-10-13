@@ -1,0 +1,85 @@
+# Project: PARKVIEW APTS (OHA19910240)
+
+- HUD ID: OHA19910240
+- HUD ID before: 
+- Project: PARKVIEW APTS
+- Address: 3285 E MOUND ST
+- City: COLUMBUS
+- State: OH
+- ZIP: 43227
+- ZIP extension: 
+- State project ID: OH-91-0670
+- Latitude: 39.953612
+- Longitude: -82.90961
+- County FIPS: 39049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39049002770
+- Tract 2000: 39049002770
+- Tract 1990: 39049002770
+- Place 2020: 
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

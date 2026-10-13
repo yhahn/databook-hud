@@ -1,0 +1,85 @@
+# Project: VILLAGE AT VICTORVILLE (CAA20050605)
+
+- HUD ID: CAA20050605
+- HUD ID before: 
+- Project: VILLAGE AT VICTORVILLE
+- Address: 16711 CHALON RD
+- City: VICTORVILLE
+- State: CA
+- ZIP: 92395
+- ZIP extension: 
+- State project ID: CA-03-010
+- Latitude: 34.504894
+- Longitude: -117.297926
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071009913
+- Tract 2010: 06071009913
+- Tract 2000: 06071009903
+- Tract 1990: 06071009903
+- Place 2020: 82590
+- Place 2010: 82590
+- Place 2000: 82590
+- Place 1990: 3007
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 855003
+- Units: 81
+- Low-income units: 80
+- Units reported: 81
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 41
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

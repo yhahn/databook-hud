@@ -1,0 +1,85 @@
+# Project: 74 BAY HEIGHTS CIR (NYA00000935)
+
+- HUD ID: NYA00000935
+- HUD ID before: 
+- Project: 74 BAY HEIGHTS CIR
+- Address: 74 BAY HEIGHTS CIR
+- City: GENEVA
+- State: NY
+- ZIP: 14456
+- ZIP extension: 
+- State project ID: NY-90-1301_00345
+- Latitude: 42.827745
+- Longitude: -76.984066
+- County FIPS: 36069
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36069051500
+- Tract 2000: 36069051500
+- Tract 1990: 36069051500
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 28640
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

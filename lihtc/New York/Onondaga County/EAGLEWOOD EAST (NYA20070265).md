@@ -1,0 +1,85 @@
+# Project: EAGLEWOOD EAST (NYA20070265)
+
+- HUD ID: NYA20070265
+- HUD ID before: 
+- Project: EAGLEWOOD EAST
+- Address: 109 W BEARD AVE
+- City: SYRACUSE
+- State: NY
+- ZIP: 13205
+- ZIP extension: 
+- State project ID: 20050344
+- Latitude: 43.026799
+- Longitude: -76.146181
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067005400
+- Tract 2010: 36067005400
+- Tract 2000: 36067005400
+- Tract 1990: 36067005400
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 3565
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 520000
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 3
+- 3-bedroom units: 8
+- 4-bedroom units: 3
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

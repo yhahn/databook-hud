@@ -1,0 +1,85 @@
+# Project: SPRINGWELLS PARTNERS IV (MIA20079187)
+
+- HUD ID: MIA20079187
+- HUD ID before: 
+- Project: SPRINGWELLS PARTNERS IV
+- Address: 6442 MICHIGAN AVE
+- City: DETROIT
+- State: MI
+- ZIP: 48210
+- ZIP extension: 
+- State project ID: MI-3194
+- Latitude: 42.331272
+- Longitude: -83.122943
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163525800
+- Tract 2010: 26163525800
+- Tract 2000: 26163525800
+- Tract 1990: 26163525800
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 22000
+- Place 1990: 0680
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 36
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

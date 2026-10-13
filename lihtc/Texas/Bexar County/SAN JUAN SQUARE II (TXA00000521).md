@@ -1,0 +1,85 @@
+# Project: SAN JUAN SQUARE II (TXA00000521)
+
+- HUD ID: TXA00000521
+- HUD ID before: 
+- Project: SAN JUAN SQUARE II
+- Address: 2404 S CALAVERAS
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78207
+- ZIP extension: 
+- State project ID: TX4465
+- Latitude: 29.399364
+- Longitude: -98.528114
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029160100
+- Tract 2010: 48029160100
+- Tract 2000: 48029160100
+- Tract 1990: 48029160100
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3745
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 138
+- Low-income units: 138
+- Units reported: 138
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

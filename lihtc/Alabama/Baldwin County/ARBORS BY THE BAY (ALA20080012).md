@@ -1,0 +1,85 @@
+# Project: ARBORS BY THE BAY (ALA20080012)
+
+- HUD ID: ALA20080012
+- HUD ID before: 
+- Project: ARBORS BY THE BAY
+- Address: 27642 US HWY 98
+- City: DAPHNE
+- State: AL
+- ZIP: 36526
+- ZIP extension: 
+- State project ID: 2008044-GZ
+- Latitude: 30.627294
+- Longitude: -87.908806
+- County FIPS: 01003
+- County from: 2020
+- Tract 2020: 01003010710
+- Tract 2010: 01003010705
+- Tract 2000: 01003010705
+- Tract 1990: 01003010702
+- Place 2020: 19648
+- Place 2010: 19648
+- Place 2000: 19648
+- Place 1990: 0465
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 70
+- 3-bedroom units: 62
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 150
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 975000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2010003, ALA2010561. FKA NORTH FORK APTS
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WILLISTON ARMS I (FLA19970804)
+
+- HUD ID: FLA19970804
+- HUD ID before: 
+- Project: WILLISTON ARMS I
+- Address: 816 N MAIN ST
+- City: WILLISTON
+- State: FL
+- ZIP: 32696
+- ZIP extension: 
+- State project ID: 967
+- Latitude: 29.398829
+- Longitude: -82.449916
+- County FIPS: 12075
+- County from: 2020
+- Tract 2020: 12075970600
+- Tract 2010: 12075970600
+- Tract 2000: 12075970600
+- Tract 1990: 12075970600
+- Place 2020: 77825
+- Place 2010: 77825
+- Place 2000: 19575
+- Place 1990: 2255
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 29
+- Low-income units: 29
+- Units reported: 29
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1997105.
+- Record status: Existing, unchanged

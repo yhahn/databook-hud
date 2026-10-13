@@ -1,0 +1,85 @@
+# Project: BUENA VISTA PLACE (FLA19990035)
+
+- HUD ID: FLA19990035
+- HUD ID before: 
+- Project: BUENA VISTA PLACE
+- Address: 8825 BUENA PL
+- City: WINDERMERE
+- State: FL
+- ZIP: 34786
+- ZIP extension: 
+- State project ID: 116
+- Latitude: 28.432599
+- Longitude: -81.577851
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095017112
+- Tract 2010: 12095017103
+- Tract 2000: 12095017103
+- Tract 1990: 12095017103
+- Place 2020: 32610
+- Place 2010: 32610
+- Place 2000: 04150
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 256
+- Low-income units: 256
+- Units reported: 256
+- Low-income reported: 256
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 120
+- 3-bedroom units: 100
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

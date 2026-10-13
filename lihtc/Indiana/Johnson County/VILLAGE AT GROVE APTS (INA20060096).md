@@ -1,0 +1,85 @@
+# Project: VILLAGE AT GROVE APTS (INA20060096)
+
+- HUD ID: INA20060096
+- HUD ID before: 
+- Project: VILLAGE AT GROVE APTS
+- Address: N OF STONES CROSSING ROAD
+- City: GREENWOOD
+- State: IN
+- ZIP: 46142
+- ZIP extension: 
+- State project ID: IN-06-02000
+- Latitude: 39.6256
+- Longitude: -86.1562
+- County FIPS: 18081
+- County from: 2020
+- Tract 2020: 18081610606
+- Tract 2010: 18081610606
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 29898
+- Place 2010: 29898
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 
+- Low-income units: 
+- Units reported: 
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BBR-VISION IV.
+- Record status: Existing, unchanged

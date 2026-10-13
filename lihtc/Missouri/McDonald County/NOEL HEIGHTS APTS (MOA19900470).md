@@ -1,0 +1,85 @@
+# Project: NOEL HEIGHTS APTS (MOA19900470)
+
+- HUD ID: MOA19900470
+- HUD ID before: 
+- Project: NOEL HEIGHTS APTS
+- Address: 18 REDWOOD LN
+- City: NOEL
+- State: MO
+- ZIP: 64854
+- ZIP extension: 
+- State project ID: 900003
+- Latitude: 36.535387
+- Longitude: -94.490344
+- County FIPS: 29119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29119070300
+- Tract 2000: 29119970300
+- Tract 1990: 29119970300
+- Place 2020: 
+- Place 2010: 52742
+- Place 2000: 52742
+- Place 1990: 3095
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

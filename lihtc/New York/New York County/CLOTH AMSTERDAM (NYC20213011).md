@@ -1,0 +1,85 @@
+# Project: CLOTH AMSTERDAM (NYC20213011)
+
+- HUD ID: NYC20213011
+- HUD ID before: 
+- Project: CLOTH AMSTERDAM
+- Address: 2794 FREDERICK DOUGLASS BOULEVARD
+- City: NEW YORK
+- State: NY
+- ZIP: 10039
+- ZIP extension: 
+- State project ID: NY 19 02 012
+- Latitude: 40.824994
+- Longitude: -73.940108
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061023400
+- Tract 2010: 36061023400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1173000
+- Units: 58
+- Low-income units: 52
+- Units reported: 58
+- Low-income reported: 52
+- Efficiencies: 9
+- 1-bedroom units: 9
+- 2-bedroom units: 33
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: Yes
+- Affordability years: 60
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: N
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

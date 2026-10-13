@@ -1,0 +1,85 @@
+# Project: VILLA SAVANNAH APTS (CAA19980575)
+
+- HUD ID: CAA19980575
+- HUD ID before: 
+- Project: VILLA SAVANNAH APTS
+- Address: 4501 RENAISSANCE DR
+- City: SAN JOSE
+- State: CA
+- ZIP: 95134
+- ZIP extension: 
+- State project ID: CA-96-921
+- Latitude: 37.412348
+- Longitude: -121.959866
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085505014
+- Tract 2010: 06085505009
+- Tract 2000: 06085505005
+- Tract 1990: 06085505001
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 2580
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 501377
+- Units: 140
+- Low-income units: 138
+- Units reported: 140
+- Low-income reported: 138
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 76
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

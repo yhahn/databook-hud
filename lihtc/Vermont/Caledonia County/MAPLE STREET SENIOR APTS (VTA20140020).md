@@ -1,0 +1,85 @@
+# Project: MAPLE STREET SENIOR APTS (VTA20140020)
+
+- HUD ID: VTA20140020
+- HUD ID before: 
+- Project: MAPLE STREET SENIOR APTS
+- Address: 36 MAPLE ST
+- City: HARDWICK
+- State: VT
+- ZIP: 05843
+- ZIP extension: 
+- State project ID: 0099
+- Latitude: 44.504547
+- Longitude: -72.362526
+- County FIPS: 50005
+- County from: 2020
+- Tract 2020: 50005957700
+- Tract 2010: 50005957700
+- Tract 2000: 50005957700
+- Tract 1990: 50005957700
+- Place 2020: 31750
+- Place 2010: 31750
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 61199
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 340000
+- CDBG: Yes
+- CDBG amount: 290000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: INTERCAP 93 (MOA19950205)
+
+- HUD ID: MOA19950205
+- HUD ID before: 
+- Project: INTERCAP 93
+- Address: 6204 N OLIVE ST
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64118
+- ZIP extension: 
+- State project ID: 93-074
+- Latitude: 39.206131
+- Longitude: -94.551813
+- County FIPS: 29047
+- County from: 2020
+- Tract 2020: 29047021004
+- Tract 2010: 29047021004
+- Tract 2000: 29047021002
+- Tract 1990: 29047021002
+- Place 2020: 27190
+- Place 2010: 27190
+- Place 2000: 27190
+- Place 1990: 1640
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

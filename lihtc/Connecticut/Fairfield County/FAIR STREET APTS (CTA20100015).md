@@ -1,0 +1,85 @@
+# Project: FAIR STREET APTS (CTA20100015)
+
+- HUD ID: CTA20100015
+- HUD ID before: 
+- Project: FAIR STREET APTS
+- Address: 80 FAIR ST
+- City: NORWALK
+- State: CT
+- ZIP: 06851
+- ZIP extension: 
+- State project ID: CT-09-035
+- Latitude: 41.125455
+- Longitude: -73.424871
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001043400
+- Tract 2010: 09001043400
+- Tract 2000: 09001043400
+- Tract 1990: 09001043400
+- Place 2020: 55990
+- Place 2010: 55990
+- Place 2000: 55990
+- Place 1990: 1630
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 379890
+- Units: 57
+- Low-income units: 57
+- Units reported: 57
+- Low-income reported: 57
+- Efficiencies: 10
+- 1-bedroom units: 28
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: VETERANS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

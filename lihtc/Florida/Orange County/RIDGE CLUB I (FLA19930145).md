@@ -1,0 +1,85 @@
+# Project: RIDGE CLUB I (FLA19930145)
+
+- HUD ID: FLA19930145
+- HUD ID before: 
+- Project: RIDGE CLUB I
+- Address: 4626 OAK HAVEN DR
+- City: ORLANDO
+- State: FL
+- ZIP: 32839
+- ZIP extension: 
+- State project ID: 688
+- Latitude: 28.473523
+- Longitude: -81.43713
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016911
+- Tract 2010: 12095016903
+- Tract 2000: 12095016903
+- Tract 1990: 12095014500
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 50638
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 216
+- Low-income units: 216
+- Units reported: 216
+- Low-income reported: 216
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA OAKRIDGE PK APTS.
+- Record status: Existing, unchanged

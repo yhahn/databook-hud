@@ -1,0 +1,85 @@
+# Project: FARMINGTON ESTATES PHASE II (INA20040030)
+
+- HUD ID: INA20040030
+- HUD ID before: 
+- Project: FARMINGTON ESTATES PHASE II
+- Address: 2841 S HILLTOP DR
+- City: PERU
+- State: IN
+- ZIP: 46970
+- ZIP extension: 
+- State project ID: IN-02-01600
+- Latitude: 40.724118
+- Longitude: -86.100272
+- County FIPS: 18103
+- County from: 2020
+- Tract 2020: 18103952800
+- Tract 2010: 18103952800
+- Tract 2000: 18103952800
+- Tract 1990: 18103952800
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 28
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 270000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA HILLTOP FARMS PHASE II
+- Record status: Existing, unchanged

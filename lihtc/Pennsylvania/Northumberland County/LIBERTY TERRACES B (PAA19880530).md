@@ -1,0 +1,85 @@
+# Project: LIBERTY TERRACES B (PAA19880530)
+
+- HUD ID: PAA19880530
+- HUD ID before: 
+- Project: LIBERTY TERRACES B
+- Address: 25 LIBERTY TER
+- City: WATSONTOWN
+- State: PA
+- ZIP: 17777
+- ZIP extension: 
+- State project ID: TC1988-0015
+- Latitude: 41.091795
+- Longitude: -76.859082
+- County FIPS: 42097
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42097080200
+- Tract 2000: 42097960200
+- Tract 1990: 42097960200
+- Place 2020: 
+- Place 2010: 81616
+- Place 2000: 46120
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 15119
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHAPLINE HOUSE I (MDA20020025)
+
+- HUD ID: MDA20020025
+- HUD ID before: 
+- Project: CHAPLINE HOUSE I
+- Address: 125 ALLNUTT CT
+- City: PRINCE FREDERICK
+- State: MD
+- ZIP: 20678
+- ZIP extension: 
+- State project ID: MD00-20001
+- Latitude: 38.550474
+- Longitude: -76.594571
+- County FIPS: 24009
+- County from: 2020
+- Tract 2020: 24009860701
+- Tract 2010: 24009860701
+- Tract 2000: 24009860701
+- Tract 1990: 24009860700
+- Place 2020: 63950
+- Place 2010: 63950
+- Place 2000: 63950
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

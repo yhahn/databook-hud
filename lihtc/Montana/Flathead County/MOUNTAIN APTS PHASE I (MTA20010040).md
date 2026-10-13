@@ -1,0 +1,85 @@
+# Project: MOUNTAIN APTS PHASE I (MTA20010040)
+
+- HUD ID: MTA20010040
+- HUD ID before: 
+- Project: MOUNTAIN APTS PHASE I
+- Address: 430 COLORADO AVE
+- City: WHITEFISH
+- State: MT
+- ZIP: 59937
+- ZIP extension: 
+- State project ID: MT-00-120
+- Latitude: 48.418751
+- Longitude: -114.338641
+- County FIPS: 30029
+- County from: 2020
+- Tract 2020: 30029000301
+- Tract 2010: 30029000300
+- Tract 2000: 30029000300
+- Tract 1990: 30029000300
+- Place 2020: 79825
+- Place 2010: 79825
+- Place 2000: 79825
+- Place 1990: 0670
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 82146
+- Units: 15
+- Low-income units: 14
+- Units reported: 15
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 9
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MOUNTAIN APTS.
+- Record status: Existing, unchanged

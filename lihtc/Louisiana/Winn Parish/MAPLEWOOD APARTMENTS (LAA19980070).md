@@ -1,0 +1,85 @@
+# Project: MAPLEWOOD APARTMENTS (LAA19980070)
+
+- HUD ID: LAA19980070
+- HUD ID before: 
+- Project: MAPLEWOOD APARTMENTS
+- Address: 1701 S. JONES STREET
+- City: WINNFIELD
+- State: LA
+- ZIP: 71483
+- ZIP extension: 0000
+- State project ID: LA-97-044
+- Latitude: 31.911267
+- Longitude: -92.643335
+- County FIPS: 22127
+- County from: 2020
+- Tract 2020: 22127960300
+- Tract 2010: 22127960300
+- Tract 2000: 22127960400
+- Tract 1990: 22127960400
+- Place 2020: 82460
+- Place 2010: 82460
+- Place 2000: 82460
+- Place 1990: 1445
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

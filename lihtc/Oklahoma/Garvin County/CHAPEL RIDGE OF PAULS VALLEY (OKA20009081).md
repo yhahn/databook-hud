@@ -1,0 +1,85 @@
+# Project: CHAPEL RIDGE OF PAULS VALLEY (OKA20009081)
+
+- HUD ID: OKA20009081
+- HUD ID before: 
+- Project: CHAPEL RIDGE OF PAULS VALLEY
+- Address: 618 PAWNEE LN
+- City: PAULS VALLEY
+- State: OK
+- ZIP: 73075
+- ZIP extension: 
+- State project ID: 980641
+- Latitude: 34.724895
+- Longitude: -97.208555
+- County FIPS: 40049
+- County from: 2020
+- Tract 2020: 40049681400
+- Tract 2010: 40049681400
+- Tract 2000: 40049991400
+- Tract 1990: 40049991400
+- Place 2020: 57550
+- Place 2010: 57550
+- Place 2000: 19450
+- Place 1990: 1875
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 149
+- Low-income units: 117
+- Units reported: 149
+- Low-income reported: 117
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

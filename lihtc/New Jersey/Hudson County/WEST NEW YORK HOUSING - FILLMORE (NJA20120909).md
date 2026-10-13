@@ -1,0 +1,85 @@
+# Project: WEST NEW YORK HOUSING - FILLMORE (NJA20120909)
+
+- HUD ID: NJA20120909
+- HUD ID before: 
+- Project: WEST NEW YORK HOUSING - FILLMORE
+- Address: 6005 FILLMORE PL
+- City: WEST NEW YORK
+- State: NJ
+- ZIP: 07093
+- ZIP extension: 
+- State project ID: 624
+- Latitude: 40.786875
+- Longitude: -74.011969
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017015600
+- Tract 2010: 34017015600
+- Tract 2000: 34017015600
+- Tract 1990: 34017015600
+- Place 2020: 79610
+- Place 2010: 79610
+- Place 2000: 79610
+- Place 1990: 4030
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 108
+- Low-income units: 83
+- Units reported: 108
+- Low-income reported: 83
+- Efficiencies: 0
+- 1-bedroom units: 49
+- 2-bedroom units: 59
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2002125, NJA2002100. AKA FILLMORE TOWER.
+- Record status: Existing, unchanged

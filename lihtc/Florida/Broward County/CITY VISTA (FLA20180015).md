@@ -1,0 +1,85 @@
+# Project: CITY VISTA (FLA20180015)
+
+- HUD ID: FLA20180015
+- HUD ID before: 
+- Project: CITY VISTA
+- Address: 501 HAMMONDVILLE ROAD
+- City: POMPANO BEACH
+- State: FL
+- ZIP: 33060
+- ZIP extension: 
+- State project ID: 2768
+- Latitude: 26.234362
+- Longitude: -80.129361
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011030402
+- Tract 2010: 12011030402
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 58050
+- Place 2010: 58050
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 2561000
+- Units: 111
+- Low-income units: 107
+- Units reported: 111
+- Low-income reported: 107
+- Efficiencies: 0
+- 1-bedroom units: 57
+- 2-bedroom units: 54
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

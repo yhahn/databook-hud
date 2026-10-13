@@ -1,0 +1,85 @@
+# Project: RIDGE CREST APTS (MOA19910445)
+
+- HUD ID: MOA19910445
+- HUD ID before: 
+- Project: RIDGE CREST APTS
+- Address: 201 MAYFIELD DR
+- City: MARBLE HILL
+- State: MO
+- ZIP: 63764
+- ZIP extension: 
+- State project ID: 91069
+- Latitude: 37.307051
+- Longitude: -89.974748
+- County FIPS: 29017
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29017950200
+- Tract 2000: 29017950200
+- Tract 1990: 29017950200
+- Place 2020: 
+- Place 2010: 45848
+- Place 2000: 27280
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CEDAR MEADOWS APARTMENTS #1761 (NJA20195008)
+
+- HUD ID: NJA20195008
+- HUD ID before: 
+- Project: CEDAR MEADOWS APARTMENTS #1761
+- Address: 1450 RAHWAY AVE
+- City: AVENEL
+- State: NJ
+- ZIP: 07001
+- ZIP extension: 2251
+- State project ID: 03209-1
+- Latitude: 40.590898
+- Longitude: -74.266068
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023009000
+- Tract 2010: 34023009000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02350
+- Place 2010: 02350
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 60
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

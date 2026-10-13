@@ -1,0 +1,85 @@
+# Project: SUMMIT APTS II (MSA19960117)
+
+- HUD ID: MSA19960117
+- HUD ID before: 
+- Project: SUMMIT APTS II
+- Address: 1003 ROBB ST
+- City: SUMMIT
+- State: MS
+- ZIP: 39666
+- ZIP extension: 
+- State project ID: MS-95-037
+- Latitude: 31.284286
+- Longitude: -90.527578
+- County FIPS: 28113
+- County from: 2020
+- Tract 2020: 28113950102
+- Tract 2010: 28113950102
+- Tract 2000: 28113950200
+- Tract 1990: 28113950200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 43280
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1996553.
+- Record status: Existing, unchanged

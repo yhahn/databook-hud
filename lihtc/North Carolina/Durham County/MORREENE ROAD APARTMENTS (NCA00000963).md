@@ -1,0 +1,85 @@
+# Project: MORREENE ROAD APARTMENTS (NCA00000963)
+
+- HUD ID: NCA00000963
+- HUD ID before: 
+- Project: MORREENE ROAD APARTMENTS
+- Address: 3206 GLASSON STREET
+- City: DURHAM
+- State: NC
+- ZIP: 27705
+- ZIP extension: 
+- State project ID: 9160939
+- Latitude: 36.005794
+- Longitude: -78.955063
+- County FIPS: 37063
+- County from: 2020
+- Tract 2020: 37063001504
+- Tract 2010: 37063001502
+- Tract 2000: 37063001502
+- Tract 1990: 
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 627806
+- Units: 224
+- Low-income units: 224
+- Units reported: 224
+- Low-income reported: 224
+- Efficiencies: 24
+- 1-bedroom units: 168
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

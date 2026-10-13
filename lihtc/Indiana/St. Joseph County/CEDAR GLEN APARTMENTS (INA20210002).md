@@ -1,0 +1,85 @@
+# Project: CEDAR GLEN APARTMENTS (INA20210002)
+
+- HUD ID: INA20210002
+- HUD ID before: 
+- Project: CEDAR GLEN APARTMENTS
+- Address: 425 S 25TH ST
+- City: SOUTH BEND
+- State: IN
+- ZIP: 46615
+- ZIP extension: 
+- State project ID: IN-19-02400B
+- Latitude: 41.672704
+- Longitude: -86.212306
+- County FIPS: 18141
+- County from: 2020
+- Tract 2020: 18141001400
+- Tract 2010: 18141001400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 7300000
+- Units: 179
+- Low-income units: 179
+- Units reported: 179
+- Low-income reported: 179
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 140
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

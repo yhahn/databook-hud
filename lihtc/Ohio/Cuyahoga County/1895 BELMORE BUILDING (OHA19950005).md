@@ -1,0 +1,85 @@
+# Project: 1895 BELMORE BUILDING (OHA19950005)
+
+- HUD ID: OHA19950005
+- HUD ID before: 
+- Project: 1895 BELMORE BUILDING
+- Address: 1895 BELMORE RD
+- City: EAST CLEVELAND
+- State: OH
+- ZIP: 44112
+- ZIP extension: 
+- State project ID: OH-94-6131
+- Latitude: 41.525637
+- Longitude: -81.582164
+- County FIPS: 39035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39035151500
+- Tract 2000: 39035151500
+- Tract 1990: 39035151500
+- Place 2020: 
+- Place 2010: 23380
+- Place 2000: 23380
+- Place 1990: 1225
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 7
+- Low-income units: 7
+- Units reported: 7
+- Low-income reported: 7
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

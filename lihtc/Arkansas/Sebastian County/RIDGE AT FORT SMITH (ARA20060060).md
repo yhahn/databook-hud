@@ -1,0 +1,85 @@
+# Project: RIDGE AT FORT SMITH (ARA20060060)
+
+- HUD ID: ARA20060060
+- HUD ID before: 
+- Project: RIDGE AT FORT SMITH
+- Address: 4200 N 6TH ST
+- City: FORT SMITH
+- State: AR
+- ZIP: 72902
+- ZIP extension: 
+- State project ID: AR-05-17-001
+- Latitude: 35.419532
+- Longitude: -94.387208
+- County FIPS: 05131
+- County from: 2020
+- Tract 2020: 05131000200
+- Tract 2010: 05131000200
+- Tract 2000: 05131000200
+- Tract 1990: 05131000200
+- Place 2020: 24550
+- Place 2010: 24550
+- Place 2000: 24550
+- Place 1990: 0700
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 400000
+- Units: 56
+- Low-income units: 44
+- Units reported: 56
+- Low-income reported: 44
+- Efficiencies: 1
+- 1-bedroom units: 11
+- 2-bedroom units: 17
+- 3-bedroom units: 27
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

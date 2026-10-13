@@ -1,0 +1,85 @@
+# Project: YALE COURT DEVELOPMENT (MEA20040060)
+
+- HUD ID: MEA20040060
+- HUD ID before: 
+- Project: YALE COURT DEVELOPMENT
+- Address: 240 HARVARD ST
+- City: PORTLAND
+- State: ME
+- ZIP: 04103
+- ZIP extension: 
+- State project ID: RLP-1298
+- Latitude: 43.69099
+- Longitude: -70.283727
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005002200
+- Tract 2010: 23005002200
+- Tract 2000: 23005002200
+- Tract 1990: 23005002200
+- Place 2020: 60545
+- Place 2010: 60545
+- Place 2000: 60545
+- Place 1990: 3750
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

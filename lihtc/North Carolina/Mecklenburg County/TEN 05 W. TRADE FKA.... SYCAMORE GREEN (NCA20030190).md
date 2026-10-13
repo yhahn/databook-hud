@@ -1,0 +1,85 @@
+# Project: TEN 05 W. TRADE FKA.... SYCAMORE GREEN (NCA20030190)
+
+- HUD ID: NCA20030190
+- HUD ID before: 
+- Project: TEN 05 W. TRADE FKA.... SYCAMORE GREEN
+- Address: 1005 W TRADE STREET 3111
+- City: CHARLOTTE
+- State: NC
+- ZIP: 28202
+- ZIP extension: 
+- State project ID: 9002332
+- Latitude: 35.235193
+- Longitude: -80.853485
+- County FIPS: 37119
+- County from: 2020
+- Tract 2020: 37119000501
+- Tract 2010: 37119000500
+- Tract 2000: 37119000500
+- Tract 1990: 37119000500
+- Place 2020: 12000
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 0480
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 279325
+- Units: 190
+- Low-income units: 78
+- Units reported: 190
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 111
+- 3-bedroom units: 35
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

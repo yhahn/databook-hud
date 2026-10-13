@@ -1,0 +1,85 @@
+# Project: BEALL S GRANT APARTMENTS (MDA20171001)
+
+- HUD ID: MDA20171001
+- HUD ID before: 
+- Project: BEALL S GRANT APARTMENTS
+- Address: 254 N. WASHINGTON
+- City: ROCKVILLE
+- State: MD
+- ZIP: 20850
+- ZIP extension: 
+- State project ID: MD-15-28001
+- Latitude: 39.08743
+- Longitude: -77.153475
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031700901
+- Tract 2010: 24031700901
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67675
+- Place 2010: 67675
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 378290
+- Units: 60
+- Low-income units: 51
+- Units reported: 60
+- Low-income reported: 51
+- Efficiencies: 
+- 1-bedroom units: 19
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

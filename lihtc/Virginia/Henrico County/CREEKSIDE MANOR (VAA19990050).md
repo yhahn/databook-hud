@@ -1,0 +1,85 @@
+# Project: CREEKSIDE MANOR (VAA19990050)
+
+- HUD ID: VAA19990050
+- HUD ID before: 
+- Project: CREEKSIDE MANOR
+- Address: 1601 LAKESIDE AVENUE
+- City: RICHMOND
+- State: VA
+- ZIP: 23228
+- ZIP extension: 
+- State project ID: 4558
+- Latitude: 37.621864
+- Longitude: -77.462058
+- County FIPS: 51087
+- County from: 2020
+- Tract 2020: 51087200801
+- Tract 2010: 51087200801
+- Tract 2000: 51087200801
+- Tract 1990: 51087200801
+- Place 2020: 43464
+- Place 2010: 43464
+- Place 2000: 43464
+- Place 1990: 0713
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 200000
+- Units: 97
+- Low-income units: 95
+- Units reported: 97
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 59
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 76
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

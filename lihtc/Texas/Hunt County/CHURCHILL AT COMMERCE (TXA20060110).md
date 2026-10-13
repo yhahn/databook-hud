@@ -1,0 +1,85 @@
+# Project: CHURCHILL AT COMMERCE (TXA20060110)
+
+- HUD ID: TXA20060110
+- HUD ID before: 
+- Project: CHURCHILL AT COMMERCE
+- Address: 731 CULVER ST
+- City: COMMERCE
+- State: TX
+- ZIP: 75428
+- ZIP extension: 
+- State project ID: TX4127
+- Latitude: 33.235837
+- Longitude: -95.892542
+- County FIPS: 48231
+- County from: 2020
+- Tract 2020: 48231960500
+- Tract 2010: 48231960500
+- Tract 2000: 48231960500
+- Tract 1990: 48231960500
+- Place 2020: 16240
+- Place 2010: 16240
+- Place 2000: 16240
+- Place 1990: 0945
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 727212
+- Units: 100
+- Low-income units: 90
+- Units reported: 100
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 42
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

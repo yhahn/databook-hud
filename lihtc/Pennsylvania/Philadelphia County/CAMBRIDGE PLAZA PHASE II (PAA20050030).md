@@ -1,0 +1,85 @@
+# Project: CAMBRIDGE PLAZA PHASE II (PAA20050030)
+
+- HUD ID: PAA20050030
+- HUD ID before: 
+- Project: CAMBRIDGE PLAZA PHASE II
+- Address: 901 N MARVINE ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19123
+- ZIP extension: 
+- State project ID: TC20020411
+- Latitude: 39.9668
+- Longitude: -75.1549
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101013200
+- Tract 2010: 42101013200
+- Tract 2000: 42101013200
+- Tract 1990: 42101013200
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 742868
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 26
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2004025. AKA CAMBRIDGE III.
+- Record status: Existing, unchanged

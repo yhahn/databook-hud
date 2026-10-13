@@ -1,0 +1,85 @@
+# Project: CRESTON AVE CLUSTER (GRAND AVE) (NYC20020070)
+
+- HUD ID: NYC20020070
+- HUD ID before: 
+- Project: CRESTON AVE CLUSTER (GRAND AVE)
+- Address: 2405 GRAND AVE
+- City: BRONX
+- State: NY
+- ZIP: 10468
+- ZIP extension: 
+- State project ID: NY0002046
+- Latitude: 40.8617
+- Longitude: -73.904266
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005025300
+- Tract 2010: 36005025300
+- Tract 2000: 36005025300
+- Tract 1990: 36005025300
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 124430
+- Units: 21
+- Low-income units: 16
+- Units reported: 21
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

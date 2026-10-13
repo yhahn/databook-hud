@@ -1,0 +1,85 @@
+# Project: DESERT SAGE APARTMENTS (AZA20240019)
+
+- HUD ID: AZA20240019
+- HUD ID before: 
+- Project: DESERT SAGE APARTMENTS
+- Address: SCATTERED SITES
+- City: SCATTERED
+- State: AZ
+- ZIP: 85634
+- ZIP extension: 
+- State project ID: TC-0997-22
+- Latitude: 31.9626
+- Longitude: -111.8439
+- County FIPS: 04019
+- County from: 2020
+- Tract 2020: 04019940800
+- Tract 2010: 04019940800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 01570
+- Place 2010: 01570
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 1425000
+- Units: 81
+- Low-income units: 78
+- Units reported: 81
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

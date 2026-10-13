@@ -1,0 +1,85 @@
+# Project: JACKSON PARK TERRACE (ILA20040165)
+
+- HUD ID: ILA20040165
+- HUD ID before: 
+- Project: JACKSON PARK TERRACE
+- Address: 6040 S HARPER AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60637
+- ZIP extension: 
+- State project ID: 34603
+- Latitude: 41.784953
+- Longitude: -87.588382
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031420100
+- Tract 2010: 17031420100
+- Tract 2000: 17031420100
+- Tract 1990: 17031420100
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1289954
+- Units: 312
+- Low-income units: 312
+- Units reported: 312
+- Low-income reported: 312
+- Efficiencies: 28
+- 1-bedroom units: 112
+- 2-bedroom units: 117
+- 3-bedroom units: 41
+- 4-bedroom units: 14
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

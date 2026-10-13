@@ -1,0 +1,85 @@
+# Project: VALENCIA PARK (FLA20213017)
+
+- HUD ID: FLA20213017
+- HUD ID before: 
+- Project: VALENCIA PARK
+- Address: 532 PARK TREE TERRACE
+- City: ORLANDO
+- State: FL
+- ZIP: 32825
+- ZIP extension: 
+- State project ID: FL-93-882
+- Latitude: 28.5524
+- Longitude: -81.265733
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016714
+- Tract 2010: 12095016714
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 1806533
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 208
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 40
+- 3-bedroom units: 168
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

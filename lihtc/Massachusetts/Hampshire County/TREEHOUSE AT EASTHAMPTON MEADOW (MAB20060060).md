@@ -1,0 +1,85 @@
+# Project: TREEHOUSE AT EASTHAMPTON MEADOW (MAB20060060)
+
+- HUD ID: MAB20060060
+- HUD ID before: 
+- Project: TREEHOUSE AT EASTHAMPTON MEADOW
+- Address: 1 TREEHOUSE CIR
+- City: EASTHAMPTON
+- State: MA
+- ZIP: 01027
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.251402
+- Longitude: -72.673318
+- County FIPS: 25015
+- County from: 2020
+- Tract 2020: 25015822401
+- Tract 2010: 25015822401
+- Tract 2000: 25015822401
+- Tract 1990: 25015822401
+- Place 2020: 19370
+- Place 2010: 19370
+- Place 2000: 19330
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 54
+- Units reported: 60
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 715000
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: FOSTER FAMILIES
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

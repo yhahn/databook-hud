@@ -1,0 +1,85 @@
+# Project: COOLIDGE SCHOOL APTS (MAB00000634)
+
+- HUD ID: MAB00000634
+- HUD ID before: 
+- Project: COOLIDGE SCHOOL APTS
+- Address: 319 ARLINGTON ST
+- City: WATERTOWN
+- State: MA
+- ZIP: 02472
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.37336
+- Longitude: -71.15756
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017370301
+- Tract 2010: 25017370300
+- Tract 2000: 25017370300
+- Tract 1990: 25017370300
+- Place 2020: 73440
+- Place 2010: 73440
+- Place 2000: 73440
+- Place 1990: 4530
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 38
+- Low-income units: 15
+- Units reported: 38
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

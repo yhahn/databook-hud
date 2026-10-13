@@ -1,0 +1,85 @@
+# Project: HOMESTEAD APTS (INA19950090)
+
+- HUD ID: INA19950090
+- HUD ID before: 
+- Project: HOMESTEAD APTS
+- Address: 502 BLOOMINGDALE DR
+- City: BRISTOL
+- State: IN
+- ZIP: 46507
+- ZIP extension: 
+- State project ID: IN-94-05900
+- Latitude: 41.711989
+- Longitude: -85.81506
+- County FIPS: 18039
+- County from: 2020
+- Tract 2020: 18039000702
+- Tract 2010: 18039000700
+- Tract 2000: 18039000700
+- Tract 1990: 18039000700
+- Place 2020: 07750
+- Place 2010: 07750
+- Place 2000: 07750
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

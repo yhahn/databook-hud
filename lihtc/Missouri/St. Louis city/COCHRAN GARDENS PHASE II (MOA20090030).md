@@ -1,0 +1,85 @@
+# Project: COCHRAN GARDENS PHASE II (MOA20090030)
+
+- HUD ID: MOA20090030
+- HUD ID before: 
+- Project: COCHRAN GARDENS PHASE II
+- Address: 1225 N EIGHTH ST
+- City: ST LOUIS
+- State: MO
+- ZIP: 63106
+- ZIP extension: 
+- State project ID: 07-035
+- Latitude: 38.636931
+- Longitude: -90.189675
+- County FIPS: 29510
+- County from: 2020
+- Tract 2020: 29510125700
+- Tract 2010: 29510125700
+- Tract 2000: 29510125700
+- Tract 1990: 29510125700
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 700000
+- Units: 72
+- Low-income units: 49
+- Units reported: 72
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 36
+- 3-bedroom units: 13
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

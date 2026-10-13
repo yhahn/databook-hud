@@ -1,0 +1,85 @@
+# Project: HIDDEN MEADOWS II (KSA19960015)
+
+- HUD ID: KSA19960015
+- HUD ID before: 
+- Project: HIDDEN MEADOWS II
+- Address: 1601 S HICKORY ST
+- City: OTTAWA
+- State: KS
+- ZIP: 66067
+- ZIP extension: 
+- State project ID: 60034
+- Latitude: 38.593178
+- Longitude: -95.267209
+- County FIPS: 20059
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20059954400
+- Tract 2000: 20059954400
+- Tract 1990: 20059954400
+- Place 2020: 
+- Place 2010: 53550
+- Place 2000: 53550
+- Place 1990: 2185
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA0000040.
+- Record status: Existing, unchanged

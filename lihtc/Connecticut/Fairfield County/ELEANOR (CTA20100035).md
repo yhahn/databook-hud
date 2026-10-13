@@ -1,0 +1,85 @@
+# Project: ELEANOR (CTA20100035)
+
+- HUD ID: CTA20100035
+- HUD ID before: 
+- Project: ELEANOR
+- Address: 695 PARK AVE
+- City: BRIDGEPORT
+- State: CT
+- ZIP: 06604
+- ZIP extension: 
+- State project ID: CT-07-004
+- Latitude: 41.171275
+- Longitude: -73.196151
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001070900
+- Tract 2010: 09001070900
+- Tract 2000: 09001070900
+- Tract 1990: 09001070900
+- Place 2020: 08000
+- Place 2010: 08000
+- Place 2000: 08000
+- Place 1990: 0200
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1274576
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PARK CITY LP.
+- Record status: Existing, unchanged

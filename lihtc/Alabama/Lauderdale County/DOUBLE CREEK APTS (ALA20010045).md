@@ -1,0 +1,85 @@
+# Project: DOUBLE CREEK APTS (ALA20010045)
+
+- HUD ID: ALA20010045
+- HUD ID before: 
+- Project: DOUBLE CREEK APTS
+- Address: 4704 CHISHOLM RD
+- City: FLORENCE
+- State: AL
+- ZIP: 35630
+- ZIP extension: 
+- State project ID: AL-00-0035
+- Latitude: 34.881356
+- Longitude: -87.67291
+- County FIPS: 01077
+- County from: 2020
+- Tract 2020: 01077011504
+- Tract 2010: 01077011501
+- Tract 2000: 01077011501
+- Tract 1990: 01077011500
+- Place 2020: 26896
+- Place 2010: 26896
+- Place 2000: 26896
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 275653
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1109580
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

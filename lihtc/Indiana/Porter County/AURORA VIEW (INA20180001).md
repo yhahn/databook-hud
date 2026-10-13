@@ -1,0 +1,85 @@
+# Project: AURORA VIEW (INA20180001)
+
+- HUD ID: INA20180001
+- HUD ID before: 
+- Project: AURORA VIEW
+- Address: 2610 40 VALPARAISO STREET
+- City: VALPARAISO
+- State: IN
+- ZIP: 46383
+- ZIP extension: 
+- State project ID: IN-17-00100
+- Latitude: 41.4926
+- Longitude: -87.0416
+- County FIPS: 18127
+- County from: 2020
+- Tract 2020: 18127050706
+- Tract 2010: 18127050702
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 78326
+- Place 2010: 78326
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 537627
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 6
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 604000
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

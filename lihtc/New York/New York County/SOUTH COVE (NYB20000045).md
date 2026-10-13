@@ -1,0 +1,85 @@
+# Project: SOUTH COVE (NYB20000045)
+
+- HUD ID: NYB20000045
+- HUD ID before: 
+- Project: SOUTH COVE
+- Address: 50 BATTERY PL
+- City: NEW YORK
+- State: NY
+- ZIP: 10280
+- ZIP extension: 
+- State project ID: 1457
+- Latitude: 40.706348
+- Longitude: -74.017635
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061031704
+- Tract 2010: 36061031704
+- Tract 2000: 36061031701
+- Tract 1990: 36061031701
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 208
+- Low-income units: 41
+- Units reported: 208
+- Low-income reported: 41
+- Efficiencies: 10
+- 1-bedroom units: 104
+- 2-bedroom units: 89
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

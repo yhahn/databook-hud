@@ -1,0 +1,85 @@
+# Project: GOODEN VILLAGE (NCA20240061)
+
+- HUD ID: NCA20240061
+- HUD ID before: 
+- Project: GOODEN VILLAGE
+- Address: 412 EAST SWANZY STREET
+- City: ELIZABETHTOWN
+- State: NC
+- ZIP: 28337
+- ZIP extension: 
+- State project ID: 9284625
+- Latitude: 34.624867
+- Longitude: -78.602905
+- County FIPS: 37017
+- County from: 2020
+- Tract 2020: 37017950401
+- Tract 2010: 37017950400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 20600
+- Place 2010: 20600
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

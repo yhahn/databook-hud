@@ -1,0 +1,85 @@
+# Project: MILL CREEK MEADOWS (ORA20090030)
+
+- HUD ID: ORA20090030
+- HUD ID before: 
+- Project: MILL CREEK MEADOWS
+- Address: 200 25TH ST NE
+- City: SALEM
+- State: OR
+- ZIP: 97301
+- ZIP extension: 
+- State project ID: 2687
+- Latitude: 44.933765
+- Longitude: -123.009262
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047000702
+- Tract 2010: 41047000701
+- Tract 2000: 41047000800
+- Tract 1990: 41047000800
+- Place 2020: 64900
+- Place 2010: 64900
+- Place 2000: 64900
+- Place 1990: 1005
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 394500
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 1
+- 1-bedroom units: 22
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

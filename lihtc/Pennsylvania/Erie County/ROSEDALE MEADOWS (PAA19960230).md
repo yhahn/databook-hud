@@ -1,0 +1,85 @@
+# Project: ROSEDALE MEADOWS (PAA19960230)
+
+- HUD ID: PAA19960230
+- HUD ID before: 
+- Project: ROSEDALE MEADOWS
+- Address: 2947 ZIMMERMAN RD
+- City: ERIE
+- State: PA
+- ZIP: 16510
+- ZIP extension: 
+- State project ID: TC19960002
+- Latitude: 42.121776
+- Longitude: -80.03544
+- County FIPS: 42049
+- County from: 2020
+- Tract 2020: 42049002700
+- Tract 2010: 42049002700
+- Tract 2000: 42049002700
+- Tract 1990: 42049002700
+- Place 2020: 24000
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 3685
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 58930
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

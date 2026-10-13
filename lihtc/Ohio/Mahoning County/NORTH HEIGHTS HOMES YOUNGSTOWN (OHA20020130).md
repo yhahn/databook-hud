@@ -1,0 +1,85 @@
+# Project: NORTH HEIGHTS HOMES YOUNGSTOWN (OHA20020130)
+
+- HUD ID: OHA20020130
+- HUD ID before: 
+- Project: NORTH HEIGHTS HOMES YOUNGSTOWN
+- Address: 1407 KENSINGTON AVE
+- City: YOUNGSTOWN
+- State: OH
+- ZIP: 44505
+- ZIP extension: 
+- State project ID: 000085
+- Latitude: 41.118534
+- Longitude: -80.641579
+- County FIPS: 39099
+- County from: 2020
+- Tract 2020: 39099804000
+- Tract 2010: 39099804000
+- Tract 2000: 39099804000
+- Tract 1990: 39099804000
+- Place 2020: 88000
+- Place 2010: 88000
+- Place 2000: 88000
+- Place 1990: 4845
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 62035
+- Units: 10
+- Low-income units: 5
+- Units reported: 10
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SINGLE PARENTS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

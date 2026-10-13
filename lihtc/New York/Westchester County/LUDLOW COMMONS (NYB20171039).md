@@ -1,0 +1,85 @@
+# Project: LUDLOW COMMONS (NYB20171039)
+
+- HUD ID: NYB20171039
+- HUD ID before: 
+- Project: LUDLOW COMMONS
+- Address: 7 LUDLOW ST
+- City: YONKERS
+- State: NY
+- ZIP: 10701
+- ZIP extension: 
+- State project ID: NY-15-2273
+- Latitude: 40.923748
+- Longitude: -73.895843
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119000101
+- Tract 2010: 36119000101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 84000
+- Place 2010: 84000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 999877
+- Units: 71
+- Low-income units: 70
+- Units reported: 71
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 70
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 3400000
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

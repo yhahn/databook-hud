@@ -1,0 +1,85 @@
+# Project: VALLEY VIEW APTS (TNA19890811)
+
+- HUD ID: TNA19890811
+- HUD ID before: 
+- Project: VALLEY VIEW APTS
+- Address: 455 CEMETERY RD
+- City: SPRING CITY
+- State: TN
+- ZIP: 37381
+- ZIP extension: 
+- State project ID: TN-89-125
+- Latitude: 35.686373
+- Longitude: -84.868579
+- County FIPS: 47143
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47143975100
+- Tract 2000: 47143975100
+- Tract 1990: 47143975100
+- Place 2020: 
+- Place 2010: 70400
+- Place 2000: 70400
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 29012
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1989420.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VERANDA AT AUBURN POINTE II (GAA20110150)
+
+- HUD ID: GAA20110150
+- HUD ID before: 
+- Project: VERANDA AT AUBURN POINTE II
+- Address: 55 HILLIARD ST SE
+- City: ATLANTA
+- State: GA
+- ZIP: 30312
+- ZIP extension: 
+- State project ID: 2008-063
+- Latitude: 33.753285
+- Longitude: -84.376797
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011901
+- Tract 2010: 13121011900
+- Tract 2000: 13121003300
+- Tract 1990: 13121003300
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 98
+- Low-income units: 88
+- Units reported: 98
+- Low-income reported: 88
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 8924541
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VERANDA AT AUBURN POINTE II.
+- Record status: Existing, unchanged

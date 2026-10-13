@@ -1,0 +1,85 @@
+# Project: COTTAGE OF CATHEDRAL SQUARE APTS (ILA20158123)
+
+- HUD ID: ILA20158123
+- HUD ID before: 
+- Project: COTTAGE OF CATHEDRAL SQUARE APTS
+- Address: 305 S FIRST ST
+- City: BELLEVILLE
+- State: IL
+- ZIP: 62220
+- ZIP extension: 
+- State project ID: 1090513
+- Latitude: 38.510693
+- Longitude: -89.985804
+- County FIPS: 17163
+- County from: 2020
+- Tract 2020: 17163501700
+- Tract 2010: 17163501700
+- Tract 2000: 17163501700
+- Tract 1990: 17163501700
+- Place 2020: 04845
+- Place 2010: 04845
+- Place 2000: 04845
+- Place 1990: 0430
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 644000
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

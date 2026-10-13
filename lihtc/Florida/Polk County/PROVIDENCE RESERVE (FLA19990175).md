@@ -1,0 +1,85 @@
+# Project: PROVIDENCE RESERVE (FLA19990175)
+
+- HUD ID: FLA19990175
+- HUD ID before: 
+- Project: PROVIDENCE RESERVE
+- Address: 815 PROVIDENCE RESERVE LOOP
+- City: LAKELAND
+- State: FL
+- ZIP: 33805
+- ZIP extension: 
+- State project ID: 658
+- Latitude: 28.075792
+- Longitude: -81.967928
+- County FIPS: 12105
+- County from: 2020
+- Tract 2020: 12105011203
+- Tract 2010: 12105011203
+- Tract 2000: 12105011201
+- Tract 1990: 12105011201
+- Place 2020: 38250
+- Place 2010: 38250
+- Place 2000: 38250
+- Place 1990: 1136
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 220
+- Low-income units: 218
+- Units reported: 220
+- Low-income reported: 218
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 132
+- 3-bedroom units: 72
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PECAN GROVE APTS (ARA20050760)
+
+- HUD ID: ARA20050760
+- HUD ID before: 
+- Project: PECAN GROVE APTS
+- Address: 1905 N WASHINGTON ST
+- City: FORREST CITY
+- State: AR
+- ZIP: 72335
+- ZIP extension: 
+- State project ID: AR-93-08-001
+- Latitude: 35.027416
+- Longitude: -90.789879
+- County FIPS: 05123
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05123960400
+- Tract 2000: 05123960400
+- Tract 1990: 05123960400
+- Place 2020: 
+- Place 2010: 24430
+- Place 2000: 10450
+- Place 1990: 0695
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 57312
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2005083, ARA1994110, ARA1993141.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HILLSBORO SENIOR APTS (OHA20090085)
+
+- HUD ID: OHA20090085
+- HUD ID before: 
+- Project: HILLSBORO SENIOR APTS
+- Address: 1201 N W ST
+- City: HILLSBORO
+- State: OH
+- ZIP: 45133
+- ZIP extension: 
+- State project ID: 07-0032
+- Latitude: 39.219828
+- Longitude: -83.618723
+- County FIPS: 39071
+- County from: 2020
+- Tract 2020: 39071954800
+- Tract 2010: 39071954800
+- Tract 2000: 39071954800
+- Tract 1990: 39071954800
+- Place 2020: 35560
+- Place 2010: 35560
+- Place 2000: 35560
+- Place 1990: 1840
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 42
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

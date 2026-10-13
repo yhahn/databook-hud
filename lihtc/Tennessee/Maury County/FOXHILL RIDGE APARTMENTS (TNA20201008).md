@@ -1,0 +1,85 @@
+# Project: FOXHILL RIDGE APARTMENTS (TNA20201008)
+
+- HUD ID: TNA20201008
+- HUD ID before: 
+- Project: FOXHILL RIDGE APARTMENTS
+- Address: 1815 REEDY WAY
+- City: COLUMBIA
+- State: TN
+- ZIP: 38401
+- ZIP extension: 
+- State project ID: TN-19-931
+- Latitude: 35.6263
+- Longitude: -87.0486
+- County FIPS: 47119
+- County from: 2020
+- Tract 2020: 47119010402
+- Tract 2010: 47119010600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 16540
+- Place 2010: 16540
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 10761659
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 46
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

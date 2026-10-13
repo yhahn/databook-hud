@@ -1,0 +1,85 @@
+# Project: VERNE BARRY PLACE (MIA20080210)
+
+- HUD ID: MIA20080210
+- HUD ID before: 
+- Project: VERNE BARRY PLACE
+- Address: 60 DIVISION AVE S
+- City: GRAND RAPIDS
+- State: MI
+- ZIP: 49503
+- ZIP extension: 
+- State project ID: MI-1118
+- Latitude: 42.961671
+- Longitude: -85.667634
+- County FIPS: 26081
+- County from: 2020
+- Tract 2020: 26081002000
+- Tract 2010: 26081002000
+- Tract 2000: 26081002000
+- Tract 1990: 26081002000
+- Place 2020: 34000
+- Place 2010: 34000
+- Place 2000: 34000
+- Place 1990: 1085
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 184561
+- Units: 116
+- Low-income units: 116
+- Units reported: 116
+- Low-income reported: 116
+- Efficiencies: 116
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 101
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: REALLOCATION BUT NO INFO ON EARLIER RECORD.
+- Record status: Existing, unchanged

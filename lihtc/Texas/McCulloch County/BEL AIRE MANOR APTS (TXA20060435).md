@@ -1,0 +1,85 @@
+# Project: BEL AIRE MANOR APTS (TXA20060435)
+
+- HUD ID: TXA20060435
+- HUD ID before: 
+- Project: BEL AIRE MANOR APTS
+- Address: 300 OTTE ST
+- City: BRADY
+- State: TX
+- ZIP: 76825
+- ZIP extension: 
+- State project ID: TX4301
+- Latitude: 31.117844
+- Longitude: -99.336957
+- County FIPS: 48307
+- County from: 2020
+- Tract 2020: 48307950300
+- Tract 2010: 48307950300
+- Tract 2000: 48307950300
+- Tract 1990: 48307950300
+- Place 2020: 09916
+- Place 2010: 09916
+- Place 2000: 09916
+- Place 1990: 0535
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 60567
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

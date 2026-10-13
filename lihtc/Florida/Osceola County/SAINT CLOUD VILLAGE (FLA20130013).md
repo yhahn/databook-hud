@@ -1,0 +1,85 @@
+# Project: SAINT CLOUD VILLAGE (FLA20130013)
+
+- HUD ID: FLA20130013
+- HUD ID before: 
+- Project: SAINT CLOUD VILLAGE
+- Address: 201 SAINT CLOUD VILLAGE COURT
+- City: KISSIMMEE
+- State: FL
+- ZIP: 34744
+- ZIP extension: 
+- State project ID: 734
+- Latitude: 28.257871
+- Longitude: -81.323079
+- County FIPS: 12097
+- County from: 2020
+- Tract 2020: 12097042904
+- Tract 2010: 12097042900
+- Tract 2000: 12097042900
+- Tract 1990: 12097040400
+- Place 2020: 62625
+- Place 2010: 99999
+- Place 2000: 36950
+- Place 1990: 1075
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 781401
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 208
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 144
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

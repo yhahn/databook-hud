@@ -1,0 +1,85 @@
+# Project: STAUGHTON SENIOR COMMUNITY (INA20110095)
+
+- HUD ID: INA20110095
+- HUD ID before: 
+- Project: STAUGHTON SENIOR COMMUNITY
+- Address: 5915 STAUGHTON DR
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46226
+- ZIP extension: 
+- State project ID: IN-10-01800
+- Latitude: 39.842096
+- Longitude: -86.067163
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097330500
+- Tract 2010: 18097330500
+- Tract 2000: 18097330500
+- Tract 1990: 18097330500
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 353128
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 3137158
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2011528.
+- Record status: Existing, unchanged

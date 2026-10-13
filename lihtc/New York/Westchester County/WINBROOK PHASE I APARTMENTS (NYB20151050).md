@@ -1,0 +1,85 @@
+# Project: WINBROOK PHASE I APARTMENTS (NYB20151050)
+
+- HUD ID: NYB20151050
+- HUD ID before: 
+- Project: WINBROOK PHASE I APARTMENTS
+- Address: 301-303 QUARROPAS ST
+- City: WHITE PLAINS
+- State: NY
+- ZIP: 10601
+- ZIP extension: 
+- State project ID: 2132
+- Latitude: 41.028407
+- Longitude: -73.770408
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119009300
+- Tract 2010: 36119009300
+- Tract 2000: 36119009300
+- Tract 1990: 
+- Place 2020: 81677
+- Place 2010: 81677
+- Place 2000: 81677
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1605081
+- Units: 104
+- Low-income units: 103
+- Units reported: 104
+- Low-income reported: 103
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 45
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

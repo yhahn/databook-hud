@@ -1,0 +1,85 @@
+# Project: JOSHUA VILLAS (NVA19990020)
+
+- HUD ID: NVA19990020
+- HUD ID before: 
+- Project: JOSHUA VILLAS
+- Address: 3985 E CHEYENNE AVE
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89115
+- ZIP extension: 
+- State project ID: NV-1999-12
+- Latitude: 36.21753
+- Longitude: -115.086997
+- County FIPS: 32003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 32003004713
+- Tract 2000: 32003004713
+- Tract 1990: 32003004705
+- Place 2020: 
+- Place 2010: 71400
+- Place 2000: 71400
+- Place 1990: 0110
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 104
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

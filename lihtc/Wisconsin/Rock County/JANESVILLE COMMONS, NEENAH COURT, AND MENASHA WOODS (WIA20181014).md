@@ -1,0 +1,85 @@
+# Project: JANESVILLE COMMONS, NEENAH COURT, AND MENASHA WOODS (WIA20181014)
+
+- HUD ID: WIA20181014
+- HUD ID before: 
+- Project: JANESVILLE COMMONS, NEENAH COURT, AND MENASHA WOODS
+- Address: 3720-3722 LA MANCHA DR
+- City: JANESVILLE
+- State: WI
+- ZIP: 53546
+- ZIP extension: 
+- State project ID: 6262
+- Latitude: 42.702693
+- Longitude: -88.971507
+- County FIPS: 55105
+- County from: 2020
+- Tract 2020: 55105001306
+- Tract 2010: 55105001304
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 37825
+- Place 2010: 37825
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 682540
+- Units: 96
+- Low-income units: 9
+- Units reported: 96
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 76
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

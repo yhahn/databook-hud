@@ -1,0 +1,85 @@
+# Project: PARKRIDGE APTS II (WVA19900055)
+
+- HUD ID: WVA19900055
+- HUD ID before: 
+- Project: PARKRIDGE APTS II
+- Address: RR 4
+- City: BRUCETON MILLS
+- State: WV
+- ZIP: 26525
+- ZIP extension: 
+- State project ID: WV89-04201
+- Latitude: 39.6159
+- Longitude: -79.7019
+- County FIPS: 54077
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 54077963800
+- Tract 2000: 54077963800
+- Tract 1990: 54077963800
+- Place 2020: 
+- Place 2010: 09844
+- Place 2000: 09844
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MONTROSE APTS (COA19950045)
+
+- HUD ID: COA19950045
+- HUD ID before: 
+- Project: MONTROSE APTS
+- Address: 1685 ENCANTO PL
+- City: MONTROSE
+- State: CO
+- ZIP: 81401
+- ZIP extension: 
+- State project ID: CO-95-08
+- Latitude: 38.463132
+- Longitude: -107.862457
+- County FIPS: 08085
+- County from: 2020
+- Tract 2020: 08085966401
+- Tract 2010: 08085966400
+- Tract 2000: 08085966400
+- Tract 1990: 08085966400
+- Place 2020: 51745
+- Place 2010: 51745
+- Place 2000: 51745
+- Place 1990: 0910
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MONTROSE FAMILY HOUSING.
+- Record status: Existing, unchanged

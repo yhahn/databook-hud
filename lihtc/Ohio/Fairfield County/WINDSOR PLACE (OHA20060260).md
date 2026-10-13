@@ -1,0 +1,85 @@
+# Project: WINDSOR PLACE (OHA20060260)
+
+- HUD ID: OHA20060260
+- HUD ID before: 
+- Project: WINDSOR PLACE
+- Address: 141 GRACELAND DR
+- City: LANCASTER
+- State: OH
+- ZIP: 43130
+- ZIP extension: 
+- State project ID: 050192
+- Latitude: 39.712882
+- Longitude: -82.567041
+- County FIPS: 39045
+- County from: 2020
+- Tract 2020: 39045031300
+- Tract 2010: 39045031300
+- Tract 2000: 39045031300
+- Tract 1990: 39045031300
+- Place 2020: 41720
+- Place 2010: 41720
+- Place 2000: 41720
+- Place 1990: 2125
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 82
+- Low-income units: 82
+- Units reported: 82
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 81
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006703, OHA1989750.
+- Record status: Existing, unchanged

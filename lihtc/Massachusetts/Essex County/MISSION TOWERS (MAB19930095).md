@@ -1,0 +1,85 @@
+# Project: MISSION TOWERS (MAB19930095)
+
+- HUD ID: MAB19930095
+- HUD ID before: 
+- Project: MISSION TOWERS
+- Address: 180 WATER ST
+- City: HAVERHILL
+- State: MA
+- ZIP: 01830
+- ZIP extension: 
+- State project ID: 10184
+- Latitude: 42.774703
+- Longitude: -71.070476
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009260200
+- Tract 2010: 25009260200
+- Tract 2000: 25009260200
+- Tract 1990: 25009260200
+- Place 2020: 29405
+- Place 2010: 29405
+- Place 2000: 29405
+- Place 1990: 1710
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 117
+- Low-income units: 117
+- Units reported: 117
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

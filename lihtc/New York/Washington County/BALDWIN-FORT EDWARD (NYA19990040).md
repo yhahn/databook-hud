@@ -1,0 +1,85 @@
+# Project: BALDWIN/FORT EDWARD (NYA19990040)
+
+- HUD ID: NYA19990040
+- HUD ID before: 
+- Project: BALDWIN/FORT EDWARD
+- Address: 41 LYDIUS ST
+- City: FORT EDWARD
+- State: NY
+- ZIP: 12828
+- ZIP extension: 
+- State project ID: 19980412
+- Latitude: 43.267395
+- Longitude: -73.581183
+- County FIPS: 36115
+- County from: 2020
+- Tract 2020: 36115088002
+- Tract 2010: 36115088000
+- Tract 2000: 36115088000
+- Tract 1990: 36115088000
+- Place 2020: 26770
+- Place 2010: 26770
+- Place 2000: 26770
+- Place 1990: 1250
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BALDWIN - FORT EDWARD.
+- Record status: Existing, unchanged

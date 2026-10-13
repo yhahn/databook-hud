@@ -1,0 +1,85 @@
+# Project: WRIGHT CITY NORTH APTS (MOA19910540)
+
+- HUD ID: MOA19910540
+- HUD ID before: 
+- Project: WRIGHT CITY NORTH APTS
+- Address: 170 BROOKVIEW
+- City: WRIGHT CITY
+- State: MO
+- ZIP: 63390
+- ZIP extension: 
+- State project ID: 900112
+- Latitude: 38.83141
+- Longitude: -91.031286
+- County FIPS: 29219
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29219820103
+- Tract 2000: 29219820103
+- Tract 1990: 29219820100
+- Place 2020: 
+- Place 2010: 81124
+- Place 2000: 25120
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: STONE BROOK FARMS (MAB19870065)
+
+- HUD ID: MAB19870065
+- HUD ID before: 
+- Project: STONE BROOK FARMS
+- Address: 101 FARMS DR
+- City: BURLINGTON
+- State: MA
+- ZIP: 01803
+- ZIP extension: 
+- State project ID: 10132
+- Latitude: 42.502498
+- Longitude: -71.191775
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017332202
+- Tract 2010: 25017332200
+- Tract 2000: 25017332200
+- Tract 1990: 25017332200
+- Place 2020: 09875
+- Place 2010: 09875
+- Place 2000: 09875
+- Place 1990: 0590
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 202
+- Low-income units: 51
+- Units reported: 202
+- Low-income reported: 51
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

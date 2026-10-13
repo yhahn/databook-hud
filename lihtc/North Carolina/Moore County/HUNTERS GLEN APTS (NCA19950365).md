@@ -1,0 +1,85 @@
+# Project: HUNTERS GLEN APTS (NCA19950365)
+
+- HUD ID: NCA19950365
+- HUD ID before: 
+- Project: HUNTERS GLEN APTS
+- Address: 1655 CENTRAL DRIVE
+- City: SOUTHERN PINES
+- State: NC
+- ZIP: 28327
+- ZIP extension: 
+- State project ID: 9001357
+- Latitude: 35.22136
+- Longitude: -79.396199
+- County FIPS: 37125
+- County from: 2020
+- Tract 2020: 37125950506
+- Tract 2010: 37125950502
+- Tract 2000: 37125950800
+- Tract 1990: 37125950800
+- Place 2020: 99999
+- Place 2010: 63120
+- Place 2000: 63120
+- Place 1990: 2320
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 61371
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 30
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Updated

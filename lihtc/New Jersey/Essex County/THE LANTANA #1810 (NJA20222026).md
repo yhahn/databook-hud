@@ -1,0 +1,85 @@
+# Project: THE LANTANA #1810 (NJA20222026)
+
+- HUD ID: NJA20222026
+- HUD ID before: 
+- Project: THE LANTANA #1810
+- Address: 130 N 11TH ST
+- City: NEWARK
+- State: NJ
+- ZIP: 07107
+- ZIP extension: 1118
+- State project ID: 03461
+- Latitude: 40.758809
+- Longitude: -74.192386
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013000700
+- Tract 2010: 34013000700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1207758
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 42
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

@@ -1,0 +1,85 @@
+# Project: JENNY'S GARDEN II (NYA20040115)
+
+- HUD ID: NYA20040115
+- HUD ID before: 
+- Project: JENNY'S GARDEN II
+- Address: 19 GERENTINE WAY
+- City: MARLBOROUGH
+- State: NY
+- ZIP: 12542
+- ZIP extension: 
+- State project ID: 20020627
+- Latitude: 41.607358
+- Longitude: -73.972968
+- County FIPS: 36111
+- County from: 2020
+- Tract 2020: 36111953800
+- Tract 2010: 36111953800
+- Tract 2000: 36111953800
+- Tract 1990: 36111953800
+- Place 2020: 45700
+- Place 2010: 45700
+- Place 2000: 45700
+- Place 1990: 2160
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

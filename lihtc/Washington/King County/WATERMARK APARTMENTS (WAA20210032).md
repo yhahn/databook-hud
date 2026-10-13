@@ -1,0 +1,85 @@
+# Project: WATERMARK APARTMENTS (WAA20210032)
+
+- HUD ID: WAA20210032
+- HUD ID before: 
+- Project: WATERMARK APARTMENTS
+- Address: 31655 MILITARY ROAD SOUTH
+- City: AUBURN
+- State: WA
+- ZIP: 98001
+- ZIP extension: 
+- State project ID: 17-147A
+- Latitude: 47.31803
+- Longitude: -122.284834
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033029901
+- Tract 2010: 53033029901
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 37420
+- Place 2010: 37420
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2411695
+- Units: 221
+- Low-income units: 218
+- Units reported: 221
+- Low-income reported: 218
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 58
+- 3-bedroom units: 64
+- 4-bedroom units: 68
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

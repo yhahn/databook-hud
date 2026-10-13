@@ -1,0 +1,85 @@
+# Project: SALINE CREEK SENIOR VILLAGE (TXA0000X369)
+
+- HUD ID: TXA0000X369
+- HUD ID before: 
+- Project: SALINE CREEK SENIOR VILLAGE
+- Address: COUNTY ROAD 168 (SALINE CREEK RD.) AND S. H. 155
+- City: NOONDAY
+- State: TX
+- ZIP: 75762
+- ZIP extension: 
+- State project ID: TX5427
+- Latitude: 32.1795
+- Longitude: -95.3615
+- County FIPS: 48423
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48423001908
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 51756
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 50
+- Units reported: 60
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

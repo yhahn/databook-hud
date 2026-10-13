@@ -1,0 +1,85 @@
+# Project: OAKWOOD APTS (NDA19940015)
+
+- HUD ID: NDA19940015
+- HUD ID before: 
+- Project: OAKWOOD APTS
+- Address: 612 DIVISION ST
+- City: WALHALLA
+- State: ND
+- ZIP: 58282
+- ZIP extension: 
+- State project ID: 93-25
+- Latitude: 48.919386
+- Longitude: -97.927487
+- County FIPS: 38067
+- County from: 2020
+- Tract 2020: 38067950200
+- Tract 2010: 38067950200
+- Tract 2000: 38067950200
+- Tract 1990: 38067950200
+- Place 2020: 82980
+- Place 2010: 82980
+- Place 2000: 12940
+- Place 1990: 1690
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 91236
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 16
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LITC#06914 ROYAL OAKS APPARTMENTS (NJA20099058)
+
+- HUD ID: NJA20099058
+- HUD ID before: 
+- Project: LITC#06914 ROYAL OAKS APPARTMENTS
+- Address: 259 PINE BROOK DR
+- City: MANTUA
+- State: NJ
+- ZIP: 08051
+- ZIP extension: 2134
+- State project ID: 02171-1
+- Latitude: 39.76856
+- Longitude: -75.17649
+- County FIPS: 34015
+- County from: 2020
+- Tract 2020: 34015500705
+- Tract 2010: 34015500701
+- Tract 2000: 34015500701
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 559877
+- Units: 58
+- Low-income units: 57
+- Units reported: 58
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 25
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

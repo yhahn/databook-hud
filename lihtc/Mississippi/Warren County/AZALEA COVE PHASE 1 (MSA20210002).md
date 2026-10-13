@@ -1,0 +1,85 @@
+# Project: AZALEA COVE PHASE 1 (MSA20210002)
+
+- HUD ID: MSA20210002
+- HUD ID before: 
+- Project: AZALEA COVE PHASE 1
+- Address: 902 BLOSSOM LANE
+- City: VICKSBURG
+- State: MS
+- ZIP: 39180
+- ZIP extension: 0000
+- State project ID: 19-1-021
+- Latitude: 32.327823
+- Longitude: -90.839985
+- County FIPS: 28149
+- County from: 2020
+- Tract 2020: 28149950500
+- Tract 2010: 28149950500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04705
+- Place 2010: 04705
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 750000
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

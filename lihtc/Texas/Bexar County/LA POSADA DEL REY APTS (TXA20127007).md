@@ -1,0 +1,85 @@
+# Project: LA POSADA DEL REY APTS (TXA20127007)
+
+- HUD ID: TXA20127007
+- HUD ID before: 
+- Project: LA POSADA DEL REY APTS
+- Address: 3135 ROOSEVELT AVE
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78214
+- ZIP extension: 
+- State project ID: TX4725
+- Latitude: 29.365251
+- Longitude: -98.481455
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029150800
+- Tract 2010: 48029150800
+- Tract 2000: 48029150800
+- Tract 1990: 48029150800
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3745
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 145
+- Low-income units: 145
+- Units reported: 145
+- Low-income reported: 145
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 65
+- 3-bedroom units: 55
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 73
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

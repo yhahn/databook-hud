@@ -1,0 +1,85 @@
+# Project: SITKA APTS (ORA20050075)
+
+- HUD ID: ORA20050075
+- HUD ID before: 
+- Project: SITKA APTS
+- Address: 1115 NW NORTHRUP ST
+- City: PORTLAND
+- State: OR
+- ZIP: 97209
+- ZIP extension: 
+- State project ID: 510
+- Latitude: 45.531677
+- Longitude: -122.682731
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051005101
+- Tract 2010: 41051005100
+- Tract 2000: 41051005100
+- Tract 1990: 41051005100
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 1034233
+- Units: 209
+- Low-income units: 203
+- Units reported: 209
+- Low-income reported: 203
+- Efficiencies: 60
+- 1-bedroom units: 102
+- 2-bedroom units: 47
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

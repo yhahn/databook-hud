@@ -1,0 +1,85 @@
+# Project: RIVERVIEW (VAA20030610)
+
+- HUD ID: VAA20030610
+- HUD ID before: 
+- Project: RIVERVIEW
+- Address: 207 ARCHER AVE
+- City: COLONIAL HEIGHTS
+- State: VA
+- ZIP: 23834
+- ZIP extension: 
+- State project ID: 7920
+- Latitude: 37.236789
+- Longitude: -77.407997
+- County FIPS: 51570
+- County from: 2020
+- Tract 2020: 51570830400
+- Tract 2010: 51570830400
+- Tract 2000: 51570830400
+- Tract 1990: 51570830400
+- Place 2020: 18448
+- Place 2010: 18448
+- Place 2000: 18448
+- Place 1990: 0325
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 223621
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 68
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

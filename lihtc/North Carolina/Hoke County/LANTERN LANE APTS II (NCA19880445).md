@@ -1,0 +1,85 @@
+# Project: LANTERN LANE APTS II (NCA19880445)
+
+- HUD ID: NCA19880445
+- HUD ID before: 
+- Project: LANTERN LANE APTS II
+- Address: 129 LANTERN LN
+- City: RAEFORD
+- State: NC
+- ZIP: 28376
+- ZIP extension: 
+- State project ID: 196
+- Latitude: 34.968483
+- Longitude: -79.226621
+- County FIPS: 37093
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37093970300
+- Tract 2000: 37093970300
+- Tract 1990: 37093970300
+- Place 2020: 
+- Place 2010: 54580
+- Place 2000: 54580
+- Place 1990: 2015
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 34430
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

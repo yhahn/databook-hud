@@ -1,0 +1,85 @@
+# Project: RIVERHOUSE HOTEL (CAA19930215)
+
+- HUD ID: CAA19930215
+- HUD ID before: 
+- Project: RIVERHOUSE HOTEL
+- Address: 700 ALHAMBRA AVE
+- City: MARTINEZ
+- State: CA
+- ZIP: 94553
+- ZIP extension: 
+- State project ID: CA-92-195
+- Latitude: 38.016284
+- Longitude: -122.138323
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013316000
+- Tract 2010: 06013316000
+- Tract 2000: 06013316000
+- Tract 1990: 06013316000
+- Place 2020: 46114
+- Place 2010: 46114
+- Place 2000: 46114
+- Place 1990: 1710
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 511672
+- Units: 75
+- Low-income units: 74
+- Units reported: 75
+- Low-income reported: 74
+- Efficiencies: 71
+- 1-bedroom units: 3
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

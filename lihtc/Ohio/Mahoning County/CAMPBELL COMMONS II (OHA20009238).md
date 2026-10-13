@@ -1,0 +1,85 @@
+# Project: CAMPBELL COMMONS II (OHA20009238)
+
+- HUD ID: OHA20009238
+- HUD ID before: 
+- Project: CAMPBELL COMMONS II
+- Address: 47 SEVENTH ST
+- City: CAMPBELL
+- State: OH
+- ZIP: 44405
+- ZIP extension: 
+- State project ID: OH-98-0031
+- Latitude: 41.074283
+- Longitude: -80.599382
+- County FIPS: 39099
+- County from: 2020
+- Tract 2020: 39099810300
+- Tract 2010: 39099810300
+- Tract 2000: 39099810300
+- Tract 1990: 39099810300
+- Place 2020: 11066
+- Place 2010: 11066
+- Place 2000: 11066
+- Place 1990: 0680
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 436208
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 18
+- 4-bedroom units: 20
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 601000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

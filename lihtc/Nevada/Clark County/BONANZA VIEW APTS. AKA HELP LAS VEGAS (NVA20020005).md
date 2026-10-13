@@ -1,0 +1,85 @@
+# Project: BONANZA VIEW APTS. AKA HELP LAS VEGAS (NVA20020005)
+
+- HUD ID: NVA20020005
+- HUD ID before: 
+- Project: BONANZA VIEW APTS. AKA HELP LAS VEGAS
+- Address: 640 MCKNIGHT ST
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89101
+- ZIP extension: 0000
+- State project ID: 2K 13
+- Latitude: 36.174702
+- Longitude: -115.111927
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003000524
+- Tract 2010: 32003000524
+- Tract 2000: 32003000511
+- Tract 1990: 32003000502
+- Place 2020: 40000
+- Place 2010: 40000
+- Place 2000: 40000
+- Place 1990: 0065
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 500000
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 75
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 75
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HELP LAS VEGAS.
+- Record status: Existing, unchanged

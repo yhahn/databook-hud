@@ -1,0 +1,85 @@
+# Project: AGLER GREEN (OHA20049652)
+
+- HUD ID: OHA20049652
+- HUD ID before: 
+- Project: AGLER GREEN
+- Address: 2444 GATEWOOD RD
+- City: COLUMBUS
+- State: OH
+- ZIP: 43219
+- ZIP extension: 
+- State project ID: 01-0131
+- Latitude: 40.021857
+- Longitude: -82.923357
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049007553
+- Tract 2010: 39049007551
+- Tract 2000: 39049007540
+- Tract 1990: 39049007540
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 900000
+- Units: 384
+- Low-income units: 384
+- Units reported: 384
+- Low-income reported: 384
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 234
+- 3-bedroom units: 116
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

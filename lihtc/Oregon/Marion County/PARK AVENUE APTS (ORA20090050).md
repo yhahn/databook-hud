@@ -1,0 +1,85 @@
+# Project: PARK AVENUE APTS (ORA20090050)
+
+- HUD ID: ORA20090050
+- HUD ID before: 
+- Project: PARK AVENUE APTS
+- Address: 1469 PARK AVE
+- City: WOODBURN
+- State: OR
+- ZIP: 97071
+- ZIP extension: 
+- State project ID: OR08-582
+- Latitude: 45.149513
+- Longitude: -122.841402
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047010305
+- Tract 2010: 41047010305
+- Tract 2000: 41047010305
+- Tract 1990: 41047010200
+- Place 2020: 83750
+- Place 2010: 83750
+- Place 2000: 83750
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 85799
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

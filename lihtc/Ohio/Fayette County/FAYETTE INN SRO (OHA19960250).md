@@ -1,0 +1,85 @@
+# Project: FAYETTE INN SRO (OHA19960250)
+
+- HUD ID: OHA19960250
+- HUD ID before: 
+- Project: FAYETTE INN SRO
+- Address: 2825 US HWY 22 SW
+- City: WASHINGTON COURT HOUSE
+- State: OH
+- ZIP: 43160
+- ZIP extension: 
+- State project ID: OH-95-0077
+- Latitude: 39.523949
+- Longitude: -83.484723
+- County FIPS: 39047
+- County from: 2020
+- Tract 2020: 39047926000
+- Tract 2010: 39047926000
+- Tract 2000: 39047986000
+- Tract 1990: 39047986000
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 81214
+- Place 1990: 4495
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 24537
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 17
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CLARENDON COURT (ARLINGTON) (VAA19940020)
+
+- HUD ID: VAA19940020
+- HUD ID before: 
+- Project: CLARENDON COURT (ARLINGTON)
+- Address: 3815 SEVENTH ST N
+- City: ARLINGTON
+- State: VA
+- ZIP: 22203
+- ZIP extension: 
+- State project ID: 4315
+- Latitude: 38.880019
+- Longitude: -77.104982
+- County FIPS: 51013
+- County from: 2020
+- Tract 2020: 51013102002
+- Tract 2010: 51013102002
+- Tract 2000: 51013102000
+- Tract 1990: 51013102000
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0056
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 363162
+- Units: 103
+- Low-income units: 98
+- Units reported: 103
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 66
+- 2-bedroom units: 33
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

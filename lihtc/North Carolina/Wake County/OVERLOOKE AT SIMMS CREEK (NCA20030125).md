@@ -1,0 +1,85 @@
+# Project: OVERLOOKE AT SIMMS CREEK (NCA20030125)
+
+- HUD ID: NCA20030125
+- HUD ID before: 
+- Project: OVERLOOKE AT SIMMS CREEK
+- Address: 4730 ARCHEAN WAY
+- City: RALEIGH
+- State: NC
+- ZIP: 27616
+- ZIP extension: 
+- State project ID: 9001064
+- Latitude: 35.883409
+- Longitude: -78.560872
+- County FIPS: 37183
+- County from: 2020
+- Tract 2020: 37183054022
+- Tract 2010: 37183054014
+- Tract 2000: 37183054009
+- Tract 1990: 37183054005
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 2020
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 373902
+- Units: 168
+- Low-income units: 160
+- Units reported: 168
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 80
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

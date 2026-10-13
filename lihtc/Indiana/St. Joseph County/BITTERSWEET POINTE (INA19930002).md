@@ -1,0 +1,85 @@
+# Project: BITTERSWEET POINTE (INA19930002)
+
+- HUD ID: INA19930002
+- HUD ID before: 
+- Project: BITTERSWEET POINTE
+- Address: 406 HONEYSUCKLE LN
+- City: MISHAWAKA
+- State: IN
+- ZIP: 46544
+- ZIP extension: 
+- State project ID: IN-91-01900
+- Latitude: 41.666832
+- Longitude: -86.108821
+- County FIPS: 18141
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18141011602
+- Tract 2000: 18141011602
+- Tract 1990: 18141011600
+- Place 2020: 
+- Place 2010: 49932
+- Place 2000: 49932
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 116
+- Low-income units: 116
+- Units reported: 116
+- Low-income reported: 116
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 88
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA1992050, INA0000815, INA1992020.
+- Record status: Existing, unchanged

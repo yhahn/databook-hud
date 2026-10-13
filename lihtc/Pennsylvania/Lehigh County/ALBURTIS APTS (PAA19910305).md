@@ -1,0 +1,85 @@
+# Project: ALBURTIS APTS (PAA19910305)
+
+- HUD ID: PAA19910305
+- HUD ID before: 
+- Project: ALBURTIS APTS
+- Address: 105 S MAIN ST
+- City: ALBURTIS
+- State: PA
+- ZIP: 18011
+- ZIP extension: 
+- State project ID: TC1991-0058
+- Latitude: 40.511529
+- Longitude: -75.603649
+- County FIPS: 42077
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42077006302
+- Tract 2000: 42077006302
+- Tract 1990: 42077006302
+- Place 2020: 
+- Place 2010: 00660
+- Place 2000: 00660
+- Place 1990: 0090
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 40109
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 5
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1990177, PAA1991300.
+- Record status: Existing, unchanged

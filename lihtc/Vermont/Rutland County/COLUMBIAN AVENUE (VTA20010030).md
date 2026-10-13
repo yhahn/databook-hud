@@ -1,0 +1,85 @@
+# Project: COLUMBIAN AVENUE (VTA20010030)
+
+- HUD ID: VTA20010030
+- HUD ID before: 
+- Project: COLUMBIAN AVENUE
+- Address: 194 COLUMBIAN AVE
+- City: RUTLAND
+- State: VT
+- ZIP: 05701
+- ZIP extension: 
+- State project ID: 0233
+- Latitude: 43.607821
+- Longitude: -72.991116
+- County FIPS: 50021
+- County from: 2020
+- Tract 2020: 50021963200
+- Tract 2010: 50021963200
+- Tract 2000: 50021963200
+- Tract 1990: 50021963200
+- Place 2020: 61225
+- Place 2010: 61225
+- Place 2000: 61225
+- Place 1990: 2210
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 46414
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 1
+- 1-bedroom units: 1
+- 2-bedroom units: 3
+- 3-bedroom units: 2
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

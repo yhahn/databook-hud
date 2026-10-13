@@ -1,0 +1,85 @@
+# Project: CLEARVIEW APARTMENTS (MNA19950025)
+
+- HUD ID: MNA19950025
+- HUD ID before: 
+- Project: CLEARVIEW APARTMENTS
+- Address: 313 CHURCH ST
+- City: CLEAR LAKE
+- State: MN
+- ZIP: 55319
+- ZIP extension: 
+- State project ID: D0308
+- Latitude: 45.4689
+- Longitude: -94.0127
+- County FIPS: 27141
+- County from: 2020
+- Tract 2020: 27141030302
+- Tract 2010: 27141030300
+- Tract 2000: 27141030300
+- Tract 1990: 27141030300
+- Place 2020: 11764
+- Place 2010: 11764
+- Place 2000: 11764
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

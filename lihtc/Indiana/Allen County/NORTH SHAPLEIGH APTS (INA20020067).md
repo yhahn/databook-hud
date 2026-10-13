@@ -1,0 +1,85 @@
+# Project: NORTH SHAPLEIGH APTS (INA20020067)
+
+- HUD ID: INA20020067
+- HUD ID before: 
+- Project: NORTH SHAPLEIGH APTS
+- Address: 5527 LOIS LN
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46804
+- ZIP extension: 
+- State project ID: IN-00-00800
+- Latitude: 41.064222
+- Longitude: -85.214731
+- County FIPS: 18003
+- County from: 2020
+- Tract 2020: 18003011501
+- Tract 2010: 18003011501
+- Tract 2000: 18003011501
+- Tract 1990: 18003011501
+- Place 2020: 25000
+- Place 2010: 25000
+- Place 2000: 25000
+- Place 1990: 0825
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 32
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 58
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TIME CORNERS CROSSING. FKA NORHT SHAPLEIGH APTS
+- Record status: Existing, unchanged

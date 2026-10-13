@@ -1,0 +1,85 @@
+# Project: THE FAIRWAYS AT LEBARON HILLS (MAB20090080)
+
+- HUD ID: MAB20090080
+- HUD ID before: 
+- Project: THE FAIRWAYS AT LEBARON HILLS
+- Address: 42 LEBARON BLVD
+- City: LAKEVILLE
+- State: MA
+- ZIP: 02347
+- ZIP extension: 
+- State project ID: 1829
+- Latitude: 41.859242
+- Longitude: -70.970209
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023540101
+- Tract 2010: 25023540101
+- Tract 2000: 25023540100
+- Tract 1990: 25023540100
+- Place 2020: 48220
+- Place 2010: 48220
+- Place 2000: 48220
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 930639
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LEBARON PHASE II RENTAL LLC.
+- Record status: Existing, unchanged

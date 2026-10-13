@@ -1,0 +1,85 @@
+# Project: HURTH APTS (OHA20040139)
+
+- HUD ID: OHA20040139
+- HUD ID before: 
+- Project: HURTH APTS
+- Address: 222 CHILLICOTHE ST
+- City: PORTSMOUTH
+- State: OH
+- ZIP: 45662
+- ZIP extension: 
+- State project ID: 020034
+- Latitude: 38.731657
+- Longitude: -82.996466
+- County FIPS: 39145
+- County from: 2020
+- Tract 2020: 39145003600
+- Tract 2010: 39145003600
+- Tract 2000: 39145993600
+- Tract 1990: 39145993600
+- Place 2020: 64304
+- Place 2010: 64304
+- Place 2000: 64304
+- Place 1990: 3530
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 241917
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

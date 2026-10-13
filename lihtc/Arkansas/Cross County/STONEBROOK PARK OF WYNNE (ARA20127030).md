@@ -1,0 +1,85 @@
+# Project: STONEBROOK PARK OF WYNNE (ARA20127030)
+
+- HUD ID: ARA20127030
+- HUD ID before: 
+- Project: STONEBROOK PARK OF WYNNE
+- Address: 433 S STONEBROOK CIRCLE
+- City: WYNNE
+- State: AR
+- ZIP: 72396
+- ZIP extension: 
+- State project ID: 875
+- Latitude: 35.201341
+- Longitude: -90.790854
+- County FIPS: 05037
+- County from: 2020
+- Tract 2020: 05037950600
+- Tract 2010: 05037950600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 77090
+- Place 2010: 77090
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 588120
+- Units: 37
+- Low-income units: 36
+- Units reported: 37
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 34
+- 4-bedroom units: 2
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

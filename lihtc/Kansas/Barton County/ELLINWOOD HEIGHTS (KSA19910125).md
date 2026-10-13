@@ -1,0 +1,85 @@
+# Project: ELLINWOOD HEIGHTS (KSA19910125)
+
+- HUD ID: KSA19910125
+- HUD ID before: 
+- Project: ELLINWOOD HEIGHTS
+- Address: 511 S BISMARK AVE
+- City: ELLINWOOD
+- State: KS
+- ZIP: 67526
+- ZIP extension: 
+- State project ID: 60077
+- Latitude: 38.349455
+- Longitude: -98.579139
+- County FIPS: 20009
+- County from: 2020
+- Tract 2020: 20009971100
+- Tract 2010: 20009971100
+- Tract 2000: 20009971100
+- Tract 1990: 20009971100
+- Place 2020: 20425
+- Place 2010: 20425
+- Place 2000: 13425
+- Place 1990: 0805
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 31362
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1990010.
+- Record status: Existing, unchanged

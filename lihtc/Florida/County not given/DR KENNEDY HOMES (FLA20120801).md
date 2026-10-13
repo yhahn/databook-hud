@@ -1,0 +1,85 @@
+# Project: DR KENNEDY HOMES (FLA20120801)
+
+- HUD ID: FLA20120801
+- HUD ID before: 
+- Project: DR KENNEDY HOMES
+- Address: 108 SW 11TH AVE
+- City: FORT LAUDERDALE
+- State: FL
+- ZIP: 
+- ZIP extension: 
+- State project ID: 2240
+- Latitude: 41.1566
+- Longitude: -73.3574
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001050200
+- Tract 2010: 09001050200
+- Tract 2000: 12011042600
+- Tract 1990: 12011042600
+- Place 2020: 16085
+- Place 2010: 83570
+- Place 2000: 24000
+- Place 1990: 0645
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 132
+- Low-income units: 132
+- Units reported: 132
+- Low-income reported: 132
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 8
+- 4-bedroom units: 32
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 6105000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SAFFORD COMMONS (VTA20150006)
+
+- HUD ID: VTA20150006
+- HUD ID before: 
+- Project: SAFFORD COMMONS
+- Address: WOODSTOCK ROAD
+- City: WOODSTOCK
+- State: VT
+- ZIP: 05091
+- ZIP extension: 
+- State project ID: 365
+- Latitude: 43.5963
+- Longitude: -72.5526
+- County FIPS: 50027
+- County from: 2020
+- Tract 2020: 50027965800
+- Tract 2010: 50027965800
+- Tract 2000: 50027965800
+- Tract 1990: 
+- Place 2020: 85900
+- Place 2010: 85900
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 687500
+- Units: 28
+- Low-income units: 23
+- Units reported: 28
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 16
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 475000
+- CDBG: Yes
+- CDBG amount: 995000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

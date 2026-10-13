@@ -1,0 +1,85 @@
+# Project: PARKSIDE APARTMENTS (WAA20180034)
+
+- HUD ID: WAA20180034
+- HUD ID before: 
+- Project: PARKSIDE APARTMENTS
+- Address: 900 WEST CASINO ROAD
+- City: EVERETT
+- State: WA
+- ZIP: 98204
+- ZIP extension: 
+- State project ID: 16-122A
+- Latitude: 47.92164
+- Longitude: -122.246738
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061041907
+- Tract 2010: 53061041903
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22640
+- Place 2010: 22640
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 2240848
+- Units: 199
+- Low-income units: 198
+- Units reported: 199
+- Low-income reported: 198
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 111
+- 3-bedroom units: 59
+- 4-bedroom units: 11
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 32
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

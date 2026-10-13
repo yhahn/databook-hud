@@ -1,0 +1,85 @@
+# Project: CHAPEL RIDGE OF BETHEL HEIGHTS FKA CR OF SPRI (ARA20040015)
+
+- HUD ID: ARA20040015
+- HUD ID before: 
+- Project: CHAPEL RIDGE OF BETHEL HEIGHTS FKA CR OF SPRI
+- Address: 5325 N OAK ST
+- City: SPRINGDALE
+- State: AR
+- ZIP: 72764
+- ZIP extension: 
+- State project ID: AR-04-05
+- Latitude: 36.232121
+- Longitude: -94.123711
+- County FIPS: 05007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05007021406
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 66080
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 271339
+- Units: 184
+- Low-income units: 140
+- Units reported: 184
+- Low-income reported: 140
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 63
+- 3-bedroom units: 61
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA CR OF SPRINGDAL
+- Record status: Existing, unchanged

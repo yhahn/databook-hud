@@ -1,0 +1,85 @@
+# Project: LIBERTY GARDENS REVITALIZATION I (NYA20120904)
+
+- HUD ID: NYA20120904
+- HUD ID before: 
+- Project: LIBERTY GARDENS REVITALIZATION I
+- Address: 200 N LEVITT ST
+- City: ROME
+- State: NY
+- ZIP: 13440
+- ZIP extension: 
+- State project ID: 20106072
+- Latitude: 43.222606
+- Longitude: -75.475165
+- County FIPS: 36065
+- County from: 2020
+- Tract 2020: 36065022000
+- Tract 2010: 36065022000
+- Tract 2000: 36065022000
+- Tract 1990: 36065022000
+- Place 2020: 63418
+- Place 2010: 63418
+- Place 2000: 63418
+- Place 1990: 3120
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1393804
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 24
+- 3-bedroom units: 35
+- 4-bedroom units: 5
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

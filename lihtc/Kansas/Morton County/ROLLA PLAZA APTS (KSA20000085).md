@@ -1,0 +1,85 @@
+# Project: ROLLA PLAZA APTS (KSA20000085)
+
+- HUD ID: KSA20000085
+- HUD ID before: 
+- Project: ROLLA PLAZA APTS
+- Address: 315 WASHINGTON ST
+- City: ROLLA
+- State: KS
+- ZIP: 67954
+- ZIP extension: 
+- State project ID: 60172
+- Latitude: 37.119954
+- Longitude: -101.632762
+- County FIPS: 20129
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20129964600
+- Tract 2000: 20129964600
+- Tract 1990: 20129964600
+- Place 2020: 
+- Place 2010: 60900
+- Place 2000: 20350
+- Place 1990: 0800
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 19722
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

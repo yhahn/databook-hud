@@ -1,0 +1,85 @@
+# Project: THE RESIDENCES AT WILLOW POND VILLAGE (NJA20168026)
+
+- HUD ID: NJA20168026
+- HUD ID before: 
+- Project: THE RESIDENCES AT WILLOW POND VILLAGE
+- Address: 701 CHAMBERLAIN AVE UNIT 100
+- City: PERTH AMBOY
+- State: NJ
+- ZIP: 08861
+- ZIP extension: 1794
+- State project ID: 02878
+- Latitude: 40.53432
+- Longitude: -74.282699
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023004000
+- Tract 2010: 34023004000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 58200
+- Place 2010: 58200
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 955628
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 36
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

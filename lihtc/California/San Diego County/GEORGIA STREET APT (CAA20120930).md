@@ -1,0 +1,85 @@
+# Project: GEORGIA STREET APT (CAA20120930)
+
+- HUD ID: CAA20120930
+- HUD ID before: 
+- Project: GEORGIA STREET APT
+- Address: 4105 GEORGIA ST
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92103
+- ZIP extension: 
+- State project ID: CA-10-821
+- Latitude: 32.752287
+- Longitude: -117.144799
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073000902
+- Tract 2010: 06073000900
+- Tract 2000: 06073000900
+- Tract 1990: 06073000900
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 402943
+- Units: 31
+- Low-income units: 30
+- Units reported: 31
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 5
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1457478
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GEORGIA STREET.
+- Record status: Existing, unchanged

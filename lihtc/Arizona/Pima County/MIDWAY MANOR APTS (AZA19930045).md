@@ -1,0 +1,85 @@
+# Project: MIDWAY MANOR APTS (AZA19930045)
+
+- HUD ID: AZA19930045
+- HUD ID before: 
+- Project: MIDWAY MANOR APTS
+- Address: 2411 S SIXTH AVE
+- City: TUCSON
+- State: AZ
+- ZIP: 85713
+- ZIP extension: 
+- State project ID: AZ-91-00083
+- Latitude: 32.194397
+- Longitude: -110.968191
+- County FIPS: 04019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04019002300
+- Tract 2000: 04019002300
+- Tract 1990: 04019002300
+- Place 2020: 
+- Place 2010: 68850
+- Place 2000: 68850
+- Place 1990: 0340
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 9
+- 1-bedroom units: 1
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DONNA RAHN II.
+- Record status: Existing, unchanged

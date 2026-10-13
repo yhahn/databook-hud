@@ -1,0 +1,85 @@
+# Project: CAMBRIDGE SQUARE APTS (INA20130002)
+
+- HUD ID: INA20130002
+- HUD ID before: 
+- Project: CAMBRIDGE SQUARE APTS
+- Address: 3301 MCKINLEY AVE
+- City: COLUMBUS
+- State: IN
+- ZIP: 47201
+- ZIP extension: 
+- State project ID: IN-11-00500
+- Latitude: 39.201381
+- Longitude: -85.883963
+- County FIPS: 18005
+- County from: 2020
+- Tract 2020: 18005010800
+- Tract 2010: 18005010800
+- Tract 2000: 18005010800
+- Tract 1990: 18005010800
+- Place 2020: 14734
+- Place 2010: 14734
+- Place 2000: 14734
+- Place 1990: 0515
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 788468
+- Units: 69
+- Low-income units: 69
+- Units reported: 69
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 26
+- 3-bedroom units: 15
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1947800
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CAMBRIDGE SQUARE COLUMBUS.
+- Record status: Existing, unchanged

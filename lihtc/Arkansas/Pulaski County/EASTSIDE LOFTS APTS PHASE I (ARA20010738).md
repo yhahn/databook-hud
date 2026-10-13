@@ -1,0 +1,85 @@
+# Project: EASTSIDE LOFTS APTS PHASE I (ARA20010738)
+
+- HUD ID: ARA20010738
+- HUD ID before: 
+- Project: EASTSIDE LOFTS APTS PHASE I
+- Address: 1401 SCOTT ST
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72202
+- ZIP extension: 
+- State project ID: AR-00-09-001
+- Latitude: 34.735136
+- Longitude: -92.271405
+- County FIPS: 05119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05119004700
+- Tract 2000: 05119000600
+- Tract 1990: 05119000600
+- Place 2020: 
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 237510
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2001728, ARA2001057, ARA2001055. FORECLOSED.
+- Record status: Existing, unchanged

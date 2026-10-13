@@ -1,0 +1,85 @@
+# Project: CHAMPLIN PLACE (NHA20240001)
+
+- HUD ID: NHA20240001
+- HUD ID before: 
+- Project: CHAMPLIN PLACE
+- Address: 215 ROCHESTER HILL ROAD
+- City: ROCHESTER
+- State: NH
+- ZIP: 03867
+- ZIP extension: 
+- State project ID: NH-99-99
+- Latitude: 43.282131
+- Longitude: -70.931178
+- County FIPS: 33017
+- County from: 2020
+- Tract 2020: 33017084100
+- Tract 2010: 33017084100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 65140
+- Place 2010: 65140
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 698031
+- Units: 65
+- Low-income units: 65
+- Units reported: 65
+- Low-income reported: 65
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: Yes
+- Affordability years: 60
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 6780000
+- CDBG: Yes
+- CDBG amount: 1950000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 2500000
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

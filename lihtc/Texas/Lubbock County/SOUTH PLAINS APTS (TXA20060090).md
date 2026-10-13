@@ -1,0 +1,85 @@
+# Project: SOUTH PLAINS APTS (TXA20060090)
+
+- HUD ID: TXA20060090
+- HUD ID before: 
+- Project: SOUTH PLAINS APTS
+- Address: 5520 58TH ST
+- City: LUBBOCK
+- State: TX
+- ZIP: 79414
+- ZIP extension: 
+- State project ID: TX4118
+- Latitude: 33.541707
+- Longitude: -101.930959
+- County FIPS: 48303
+- County from: 2020
+- Tract 2020: 48303001708
+- Tract 2010: 48303001708
+- Tract 2000: 48303001703
+- Tract 1990: 48303001703
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 45000
+- Place 1990: 2565
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 379812
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 72
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LUBBOCK SOUTH PLAINS APTS.
+- Record status: Existing, unchanged

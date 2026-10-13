@@ -1,0 +1,85 @@
+# Project: COMANCHE RETIREMENT VILLAGE (TXA19950095)
+
+- HUD ID: TXA19950095
+- HUD ID before: 
+- Project: COMANCHE RETIREMENT VILLAGE
+- Address: 4 HUETT CIR
+- City: COMANCHE
+- State: TX
+- ZIP: 76442
+- ZIP extension: 
+- State project ID: TX1216
+- Latitude: 31.912994
+- Longitude: -98.591178
+- County FIPS: 48093
+- County from: 2020
+- Tract 2020: 48093950300
+- Tract 2010: 48093950300
+- Tract 2000: 48093950300
+- Tract 1990: 48093950300
+- Place 2020: 16192
+- Place 2010: 16192
+- Place 2000: 16192
+- Place 1990: 0930
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

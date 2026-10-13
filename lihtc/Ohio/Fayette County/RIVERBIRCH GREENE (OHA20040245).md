@@ -1,0 +1,85 @@
+# Project: RIVERBIRCH GREENE (OHA20040245)
+
+- HUD ID: OHA20040245
+- HUD ID before: 
+- Project: RIVERBIRCH GREENE
+- Address: 947 RIVERBIRCH RD
+- City: WASHINGTON COURT HOUSE
+- State: OH
+- ZIP: 43160
+- ZIP extension: 
+- State project ID: 020044
+- Latitude: 39.552838
+- Longitude: -83.436759
+- County FIPS: 39047
+- County from: 2020
+- Tract 2020: 39047926100
+- Tract 2010: 39047926100
+- Tract 2000: 39047986100
+- Tract 1990: 39047986100
+- Place 2020: 81718
+- Place 2010: 81718
+- Place 2000: 81214
+- Place 1990: 4495
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 389836
+- Units: 60
+- Low-income units: 51
+- Units reported: 60
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 30
+- 4-bedroom units: 22
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 551000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

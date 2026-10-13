@@ -1,0 +1,85 @@
+# Project: LAKEFRONT PHASE II (ILB20132002)
+
+- HUD ID: ILB20132002
+- HUD ID before: 
+- Project: LAKEFRONT PHASE II
+- Address: 1140 E 42ND PL
+- City: CHICAGO
+- State: IL
+- ZIP: 60653
+- ZIP extension: 
+- State project ID: IL-TC-11-011
+- Latitude: 41.818203
+- Longitude: -87.598816
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031836400
+- Tract 2010: 17031836400
+- Tract 2000: 17031360400
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 6
+- Low-income units: 4
+- Units reported: 6
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 6
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 228500
+- CDBG: No
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

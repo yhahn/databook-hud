@@ -1,0 +1,85 @@
+# Project: MALDEN GARDEN APTS (MOA20010160)
+
+- HUD ID: MOA20010160
+- HUD ID before: 
+- Project: MALDEN GARDEN APTS
+- Address: 43 BLADES DR
+- City: MALDEN
+- State: MO
+- ZIP: 63863
+- ZIP extension: 
+- State project ID: 00-089
+- Latitude: 36.590468
+- Longitude: -89.972585
+- County FIPS: 29069
+- County from: 2020
+- Tract 2020: 29069360200
+- Tract 2010: 29069360200
+- Tract 2000: 29069960200
+- Tract 1990: 29069960200
+- Place 2020: 45614
+- Place 2010: 45614
+- Place 2000: 45614
+- Place 1990: 2620
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 15
+- 3-bedroom units: 10
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

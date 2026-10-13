@@ -1,0 +1,85 @@
+# Project: MIDDLEBURY COMMONS (VTA19900010)
+
+- HUD ID: VTA19900010
+- HUD ID before: 
+- Project: MIDDLEBURY COMMONS
+- Address: 249 BUTTOLPH DR
+- City: MIDDLEBURY
+- State: VT
+- ZIP: 05753
+- ZIP extension: 
+- State project ID: 0107
+- Latitude: 44.012824
+- Longitude: -73.159567
+- County FIPS: 50001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 50001960700
+- Tract 2000: 50001960700
+- Tract 1990: 50001960700
+- Place 2020: 
+- Place 2010: 44275
+- Place 2000: 44275
+- Place 1990: 1528
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 134045
+- Units: 63
+- Low-income units: 63
+- Units reported: 63
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 63
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: STREETSBORO VILLAGE SQUARE (OHA19950290)
+
+- HUD ID: OHA19950290
+- HUD ID before: 
+- Project: STREETSBORO VILLAGE SQUARE
+- Address: 1550 RUSSELL DR
+- City: STREETSBORO
+- State: OH
+- ZIP: 44241
+- ZIP extension: 
+- State project ID: 931029
+- Latitude: 41.241869
+- Longitude: -81.338246
+- County FIPS: 39133
+- County from: 2020
+- Tract 2020: 39133600403
+- Tract 2010: 39133600403
+- Tract 2000: 39133600403
+- Tract 1990: 39133600403
+- Place 2020: 75014
+- Place 2010: 75014
+- Place 2000: 75014
+- Place 1990: 4147
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 298845
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 28
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA STREETSBORO GREEN II.
+- Record status: Existing, unchanged

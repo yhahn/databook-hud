@@ -1,0 +1,85 @@
+# Project: EASTBROOK SENIOR APTS (MIA19890255)
+
+- HUD ID: MIA19890255
+- HUD ID before: 
+- Project: EASTBROOK SENIOR APTS
+- Address: 301 CEMETERY RD
+- City: BANGOR
+- State: MI
+- ZIP: 49013
+- ZIP extension: 
+- State project ID: MI-1824
+- Latitude: 42.315831
+- Longitude: -86.104609
+- County FIPS: 26159
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26159012000
+- Tract 2000: 26159010700
+- Tract 1990: 26159010700
+- Place 2020: 
+- Place 2010: 05140
+- Place 2000: 05140
+- Place 1990: 0140
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

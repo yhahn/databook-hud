@@ -1,0 +1,85 @@
+# Project: CRESTVIEW PARK (FLA20080015)
+
+- HUD ID: FLA20080015
+- HUD ID before: 
+- Project: CRESTVIEW PARK
+- Address: 2903 LAKE TRAFFORD RD
+- City: IMMOKALEE
+- State: FL
+- ZIP: 34142
+- ZIP extension: 
+- State project ID: 1468
+- Latitude: 26.432662
+- Longitude: -81.450015
+- County FIPS: 12021
+- County from: 2020
+- Tract 2020: 12021011303
+- Tract 2010: 12021011301
+- Tract 2000: 12021011300
+- Tract 1990: 12021011300
+- Place 2020: 33250
+- Place 2010: 33250
+- Place 2000: 33250
+- Place 1990: 0945
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 1300000
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 208
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 104
+- 3-bedroom units: 104
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2007035.
+- Record status: Existing, unchanged

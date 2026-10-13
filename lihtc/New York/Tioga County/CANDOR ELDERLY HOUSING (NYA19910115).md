@@ -1,0 +1,85 @@
+# Project: CANDOR ELDERLY HOUSING (NYA19910115)
+
+- HUD ID: NYA19910115
+- HUD ID before: 
+- Project: CANDOR ELDERLY HOUSING
+- Address: 75 SPENCER RD
+- City: CANDOR
+- State: NY
+- ZIP: 13743
+- ZIP extension: 
+- State project ID: NY-90-0845_00213
+- Latitude: 42.232977
+- Longitude: -76.348727
+- County FIPS: 36107
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36107020200
+- Tract 2000: 36107020200
+- Tract 1990: 36107020200
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 12210
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

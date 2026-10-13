@@ -1,0 +1,85 @@
+# Project: ROLLING HILLS VILLAS OF POCAHONTAS (ARA19880558)
+
+- HUD ID: ARA19880558
+- HUD ID before: 
+- Project: ROLLING HILLS VILLAS OF POCAHONTAS
+- Address: 1800 ROLLING HILLS CV
+- City: POCAHONTAS
+- State: AR
+- ZIP: 72455
+- ZIP extension: 
+- State project ID: 
+- Latitude: 36.253244
+- Longitude: -90.982126
+- County FIPS: 05121
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05121960302
+- Tract 2000: 05121960300
+- Tract 1990: 05121960300
+- Place 2020: 
+- Place 2010: 56540
+- Place 2000: 56540
+- Place 1990: 1640
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1988067, ARA1988065.
+- Record status: Existing, unchanged

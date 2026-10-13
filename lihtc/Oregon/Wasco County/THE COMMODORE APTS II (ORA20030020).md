@@ -1,0 +1,85 @@
+# Project: THE COMMODORE APTS II (ORA20030020)
+
+- HUD ID: ORA20030020
+- HUD ID before: 
+- Project: THE COMMODORE APTS II
+- Address: 312 CT ST
+- City: THE DALLES
+- State: OR
+- ZIP: 97058
+- ZIP extension: 
+- State project ID: 99
+- Latitude: 45.601717
+- Longitude: -121.182997
+- County FIPS: 41065
+- County from: 2020
+- Tract 2020: 41065970200
+- Tract 2010: 41065970200
+- Tract 2000: 41065970200
+- Tract 1990: 41065970200
+- Place 2020: 72950
+- Place 2010: 72950
+- Place 2000: 13425
+- Place 1990: 0187
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 487779
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 6
+- 1-bedroom units: 18
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COMMODORE BLDG.
+- Record status: Existing, unchanged

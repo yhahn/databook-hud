@@ -1,0 +1,85 @@
+# Project: HOLSTON RIDGE APTS (TNA20110811)
+
+- HUD ID: TNA20110811
+- HUD ID before: 
+- Project: HOLSTON RIDGE APTS
+- Address: 1230 MYSTIC RIVER WAY
+- City: KNOXVILLE
+- State: TN
+- ZIP: 37912
+- ZIP extension: 
+- State project ID: TN-09-121
+- Latitude: 35.993487
+- Longitude: -83.962231
+- County FIPS: 47093
+- County from: 2020
+- Tract 2020: 47093002800
+- Tract 2010: 47093002800
+- Tract 2000: 47093002800
+- Tract 1990: 47093002800
+- Place 2020: 40000
+- Place 2010: 40000
+- Place 2000: 40000
+- Place 1990: 0760
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 7038000
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 7038000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

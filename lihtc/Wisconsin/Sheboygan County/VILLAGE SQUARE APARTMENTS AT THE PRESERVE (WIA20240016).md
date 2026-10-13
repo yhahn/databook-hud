@@ -1,0 +1,85 @@
+# Project: VILLAGE SQUARE APARTMENTS AT THE PRESERVE (WIA20240016)
+
+- HUD ID: WIA20240016
+- HUD ID before: 
+- Project: VILLAGE SQUARE APARTMENTS AT THE PRESERVE
+- Address: 150 LEONARD'S WAY
+- City: ELKHART LAKE
+- State: WI
+- ZIP: 53020
+- ZIP extension: 
+- State project ID: WI-25-53403
+- Latitude: 43.8481
+- Longitude: -87.9817
+- County FIPS: 55117
+- County from: 2020
+- Tract 2020: 55117010300
+- Tract 2010: 55117010300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23275
+- Place 2010: 23275
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 29
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

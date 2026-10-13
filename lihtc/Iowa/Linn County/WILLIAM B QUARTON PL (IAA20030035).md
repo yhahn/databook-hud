@@ -1,0 +1,85 @@
+# Project: WILLIAM B QUARTON PL (IAA20030035)
+
+- HUD ID: IAA20030035
+- HUD ID before: 
+- Project: WILLIAM B QUARTON PL
+- Address: 85 HARBET AVE NW
+- City: CEDAR RAPIDS
+- State: IA
+- ZIP: 52405
+- ZIP extension: 
+- State project ID: 02-23
+- Latitude: 41.968717
+- Longitude: -91.734861
+- County FIPS: 19113
+- County from: 2020
+- Tract 2020: 19113001004
+- Tract 2010: 19113001003
+- Tract 2000: 19113001003
+- Tract 1990: 19113001000
+- Place 2020: 12000
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 0670
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 156353
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 22
+- 1-bedroom units: 6
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: HARD TO HOUSE, OTHER
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GLEN MEADOWS APTS (OHA20030080)
+
+- HUD ID: OHA20030080
+- HUD ID before: 
+- Project: GLEN MEADOWS APTS
+- Address: 7076 GLENMEADOWS LN
+- City: CINCINNATI
+- State: OH
+- ZIP: 45237
+- ZIP extension: 
+- State project ID: 02-0001
+- Latitude: 39.189923
+- Longitude: -84.46767
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061027100
+- Tract 2010: 39061027100
+- Tract 2000: 39061006201
+- Tract 1990: 39061006201
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 219785
+- Units: 264
+- Low-income units: 264
+- Units reported: 264
+- Low-income reported: 264
+- Efficiencies: 0
+- 1-bedroom units: 129
+- 2-bedroom units: 112
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2004132.
+- Record status: Existing, unchanged

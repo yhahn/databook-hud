@@ -1,0 +1,85 @@
+# Project: HORNING PROJECT (WAA19880100)
+
+- HUD ID: WAA19880100
+- HUD ID before: 
+- Project: HORNING PROJECT
+- Address: 1436 DWIGHT ST
+- City: PORT ORCHARD
+- State: WA
+- ZIP: 98366
+- ZIP extension: 
+- State project ID: WA-88-13FF
+- Latitude: 47.538415
+- Longitude: -122.626576
+- County FIPS: 53035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53035092500
+- Tract 2000: 53035092500
+- Tract 1990: 53035092500
+- Place 2020: 
+- Place 2010: 55785
+- Place 2000: 53440
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

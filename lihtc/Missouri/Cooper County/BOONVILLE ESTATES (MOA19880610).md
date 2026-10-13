@@ -1,0 +1,85 @@
+# Project: BOONVILLE ESTATES (MOA19880610)
+
+- HUD ID: MOA19880610
+- HUD ID before: 
+- Project: BOONVILLE ESTATES
+- Address: 380 BOONE VILLAGE DR
+- City: BOONVILLE
+- State: MO
+- ZIP: 65233
+- ZIP extension: 
+- State project ID: 168105
+- Latitude: 38.954814
+- Longitude: -92.744351
+- County FIPS: 29053
+- County from: 2020
+- Tract 2020: 29053950300
+- Tract 2010: 29053950300
+- Tract 2000: 29053950300
+- Tract 1990: 29053950300
+- Place 2020: 07318
+- Place 2010: 07318
+- Place 2000: 07318
+- Place 1990: 0455
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

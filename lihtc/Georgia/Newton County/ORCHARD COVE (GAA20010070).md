@@ -1,0 +1,85 @@
+# Project: ORCHARD COVE (GAA20010070)
+
+- HUD ID: GAA20010070
+- HUD ID before: 
+- Project: ORCHARD COVE
+- Address: 30 GROSSLAKE PKWY
+- City: COVINGTON
+- State: GA
+- ZIP: 30016
+- ZIP extension: 1253
+- State project ID: GA-99-055
+- Latitude: 33.606949
+- Longitude: -83.967265
+- County FIPS: 13217
+- County from: 2020
+- Tract 2020: 13217100504
+- Tract 2010: 13217100501
+- Tract 2000: 13217100500
+- Tract 1990: 13217100500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 20064
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 188
+- Low-income units: 134
+- Units reported: 188
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 116
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

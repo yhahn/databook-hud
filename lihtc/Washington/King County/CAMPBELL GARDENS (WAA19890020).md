@@ -1,0 +1,85 @@
+# Project: CAMPBELL GARDENS (WAA19890020)
+
+- HUD ID: WAA19890020
+- HUD ID before: 
+- Project: CAMPBELL GARDENS
+- Address: 6241 S 129TH ST
+- City: SEATTLE
+- State: WA
+- ZIP: 98178
+- ZIP extension: 
+- State project ID: 87-27NN
+- Latitude: 47.487284
+- Longitude: -122.255577
+- County FIPS: 53033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53033026100
+- Tract 2000: 53033026100
+- Tract 1990: 53033026100
+- Place 2020: 
+- Place 2010: 08552
+- Place 2000: 08552
+- Place 1990: 0129
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

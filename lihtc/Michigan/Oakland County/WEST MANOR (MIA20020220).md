@@ -1,0 +1,85 @@
+# Project: WEST MANOR (MIA20020220)
+
+- HUD ID: MIA20020220
+- HUD ID before: 
+- Project: WEST MANOR
+- Address: 245 S PADDOCK ST
+- City: PONTIAC
+- State: MI
+- ZIP: 48342
+- ZIP extension: 
+- State project ID: MI-2286
+- Latitude: 42.631113
+- Longitude: -83.281913
+- County FIPS: 26125
+- County from: 2020
+- Tract 2020: 26125142400
+- Tract 2010: 26125142400
+- Tract 2000: 26125142400
+- Tract 1990: 26125142400
+- Place 2020: 65440
+- Place 2010: 65440
+- Place 2000: 65440
+- Place 1990: 2200
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 45
+- Low-income units: 44
+- Units reported: 45
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 111 EAST 172ND STREET (NYB20190001)
+
+- HUD ID: NYB20190001
+- HUD ID before: 
+- Project: 111 EAST 172ND STREET
+- Address: 111 EAST 172ND STREET
+- City: BRONX
+- State: NY
+- ZIP: 10452
+- ZIP extension: 
+- State project ID: 2300
+- Latitude: 40.841555
+- Longitude: -73.91393
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005020900
+- Tract 2010: 36005020900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 1863684
+- Units: 126
+- Low-income units: 125
+- Units reported: 126
+- Low-income reported: 125
+- Efficiencies: 68
+- 1-bedroom units: 0
+- 2-bedroom units: 58
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

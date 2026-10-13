@@ -1,0 +1,85 @@
+# Project: HAZELTINE APTS (CAA19980185)
+
+- HUD ID: CAA19980185
+- HUD ID before: 
+- Project: HAZELTINE APTS
+- Address: 7250 HAZELTINE AVE
+- City: VAN NUYS
+- State: CA
+- ZIP: 91405
+- ZIP extension: 
+- State project ID: CA-94-152
+- Latitude: 34.202677
+- Longitude: -118.439826
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037127104
+- Tract 2010: 06037127104
+- Tract 2000: 06037127101
+- Tract 1990: 06037127101
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 294978
+- Units: 35
+- Low-income units: 34
+- Units reported: 35
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 10
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

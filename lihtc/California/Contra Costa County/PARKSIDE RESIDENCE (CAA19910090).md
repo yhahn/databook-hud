@@ -1,0 +1,85 @@
+# Project: PARKSIDE RESIDENCE (CAA19910090)
+
+- HUD ID: CAA19910090
+- HUD ID before: 
+- Project: PARKSIDE RESIDENCE
+- Address: 2 DAVI AVE
+- City: PITTSBURG
+- State: CA
+- ZIP: 94565
+- ZIP extension: 
+- State project ID: CA-91-189
+- Latitude: 38.024542
+- Longitude: -121.891266
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013311000
+- Tract 2010: 06013311000
+- Tract 2000: 06013311000
+- Tract 1990: 06013311000
+- Place 2020: 57456
+- Place 2010: 57456
+- Place 2000: 57456
+- Place 1990: 2175
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 9
+- Units reported: 42
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 42
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

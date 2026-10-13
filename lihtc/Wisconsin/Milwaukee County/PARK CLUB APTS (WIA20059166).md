@@ -1,0 +1,85 @@
+# Project: PARK CLUB APTS (WIA20059166)
+
+- HUD ID: WIA20059166
+- HUD ID before: 
+- Project: PARK CLUB APTS
+- Address: 8253 N 107TH ST
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53224
+- ZIP extension: 
+- State project ID: 5094
+- Latitude: 43.167783
+- Longitude: -88.044684
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079000201
+- Tract 2010: 55079000201
+- Tract 2000: 55079000201
+- Tract 1990: 55079000200
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

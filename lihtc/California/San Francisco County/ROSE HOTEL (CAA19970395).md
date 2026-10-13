@@ -1,0 +1,85 @@
+# Project: ROSE HOTEL (CAA19970395)
+
+- HUD ID: CAA19970395
+- HUD ID before: 
+- Project: ROSE HOTEL
+- Address: 125 SIXTH ST
+- City: SAN FRANCISCO
+- State: CA
+- ZIP: 94103
+- ZIP extension: 
+- State project ID: CA-95-114
+- Latitude: 37.780631
+- Longitude: -122.407988
+- County FIPS: 06075
+- County from: 2020
+- Tract 2020: 06075017602
+- Tract 2010: 06075017601
+- Tract 2000: 06075017601
+- Tract 1990: 06075017698
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 2485
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 425271
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 75
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

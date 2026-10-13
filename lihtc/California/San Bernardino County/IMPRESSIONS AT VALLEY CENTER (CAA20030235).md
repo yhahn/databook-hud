@@ -1,0 +1,85 @@
+# Project: IMPRESSIONS AT VALLEY CENTER (CAA20030235)
+
+- HUD ID: CAA20030235
+- HUD ID before: 
+- Project: IMPRESSIONS AT VALLEY CENTER
+- Address: 15500 MIDTOWN DR
+- City: VICTORVILLE
+- State: CA
+- ZIP: 92394
+- ZIP extension: 
+- State project ID: CA-02-077
+- Latitude: 34.523287
+- Longitude: -117.323874
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071009918
+- Tract 2010: 06071009904
+- Tract 2000: 06071009901
+- Tract 1990: 06071009901
+- Place 2020: 82590
+- Place 2010: 82590
+- Place 2000: 82590
+- Place 1990: 3007
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 998814
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 68
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

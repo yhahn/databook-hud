@@ -1,0 +1,85 @@
+# Project: OAK TREE VILLAGE (TXA19950270)
+
+- HUD ID: TXA19950270
+- HUD ID before: 
+- Project: OAK TREE VILLAGE
+- Address: 1595 S OLD ORCHARD LN
+- City: LEWISVILLE
+- State: TX
+- ZIP: 75067
+- ZIP extension: 
+- State project ID: TX1160
+- Latitude: 33.028809
+- Longitude: -97.02748
+- County FIPS: 48121
+- County from: 2020
+- Tract 2020: 48121021742
+- Tract 2010: 48121021742
+- Tract 2000: 48121021712
+- Tract 1990: 48121021712
+- Place 2020: 42508
+- Place 2010: 42508
+- Place 2000: 26232
+- Place 1990: 2450
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 272
+- Low-income units: 163
+- Units reported: 272
+- Low-income reported: 163
+- Efficiencies: 0
+- 1-bedroom units: 116
+- 2-bedroom units: 120
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

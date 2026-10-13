@@ -1,0 +1,85 @@
+# Project: LAFONTAINE AVENUE APTS PHASE II (NYC20060034)
+
+- HUD ID: NYC20060034
+- HUD ID before: 
+- Project: LAFONTAINE AVENUE APTS PHASE II
+- Address: 2007 LAFONTAINE AVE
+- City: BRONX
+- State: NY
+- ZIP: 10457
+- ZIP extension: 
+- State project ID: NY-13-4062277
+- Latitude: 40.847504
+- Longitude: -73.893971
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005037504
+- Tract 2010: 36005037504
+- Tract 2000: 36005037502
+- Tract 1990: 36005037502
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 733765
+- Units: 88
+- Low-income units: 87
+- Units reported: 88
+- Low-income reported: 87
+- Efficiencies: 13
+- 1-bedroom units: 31
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

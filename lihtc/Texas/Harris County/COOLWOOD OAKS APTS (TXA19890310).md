@@ -1,0 +1,85 @@
+# Project: COOLWOOD OAKS APTS (TXA19890310)
+
+- HUD ID: TXA19890310
+- HUD ID before: 
+- Project: COOLWOOD OAKS APTS
+- Address: 777 COOLWOOD DR
+- City: HOUSTON
+- State: TX
+- ZIP: 77013
+- ZIP extension: 
+- State project ID: TX6505
+- Latitude: 29.776944
+- Longitude: -95.224053
+- County FIPS: 48201
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48201232701
+- Tract 2000: 48201232700
+- Tract 1990: 48201021302
+- Place 2020: 
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 56
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Existing
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

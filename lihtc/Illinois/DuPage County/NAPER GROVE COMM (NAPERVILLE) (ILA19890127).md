@@ -1,0 +1,85 @@
+# Project: NAPER GROVE COMM (NAPERVILLE) (ILA19890127)
+
+- HUD ID: ILA19890127
+- HUD ID before: 
+- Project: NAPER GROVE COMM (NAPERVILLE)
+- Address: 1200 RHODES LN
+- City: NAPERVILLE
+- State: IL
+- ZIP: 60540
+- ZIP extension: 
+- State project ID: 260-89
+- Latitude: 41.750346
+- Longitude: -88.168503
+- County FIPS: 17043
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17043846521
+- Tract 2000: 17043846503
+- Tract 1990: 17043846503
+- Place 2020: 
+- Place 2010: 51622
+- Place 2000: 51622
+- Place 1990: 3990
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 31594
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000680.
+- Record status: Existing, unchanged

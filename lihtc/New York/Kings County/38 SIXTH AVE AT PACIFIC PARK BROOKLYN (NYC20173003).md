@@ -1,0 +1,85 @@
+# Project: 38 SIXTH AVE AT PACIFIC PARK BROOKLYN (NYC20173003)
+
+- HUD ID: NYC20173003
+- HUD ID before: 
+- Project: 38 SIXTH AVE AT PACIFIC PARK BROOKLYN
+- Address: 38 6TH AVENUE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11217
+- ZIP extension: 
+- State project ID: 2015-013
+- Latitude: 40.681666
+- Longitude: -73.974379
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047012902
+- Tract 2010: 36047012902
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 199307
+- Units: 91
+- Low-income units: 91
+- Units reported: 91
+- Low-income reported: 91
+- Efficiencies: 20
+- 1-bedroom units: 39
+- 2-bedroom units: 27
+- 3-bedroom units: 5
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HALAWA VIEW APARTMENTS (HIA20141002)
+
+- HUD ID: HIA20141002
+- HUD ID before: 
+- Project: HALAWA VIEW APARTMENTS
+- Address: 99 009 KALALOA ST
+- City: AIEA
+- State: HI
+- ZIP: 96701
+- ZIP extension: 
+- State project ID: HI-2012-004
+- Latitude: 21.3872
+- Longitude: -157.9409
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003007807
+- Tract 2010: 15003007807
+- Tract 2000: 15003007807
+- Tract 1990: 
+- Place 2020: 77750
+- Place 2010: 77750
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 681350
+- Units: 121
+- Low-income units: 120
+- Units reported: 121
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 52
+- 3-bedroom units: 56
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

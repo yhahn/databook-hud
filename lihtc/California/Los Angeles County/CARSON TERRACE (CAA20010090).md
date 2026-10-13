@@ -1,0 +1,85 @@
+# Project: CARSON TERRACE (CAA20010090)
+
+- HUD ID: CAA20010090
+- HUD ID before: 
+- Project: CARSON TERRACE
+- Address: 632 E 219TH ST
+- City: CARSON
+- State: CA
+- ZIP: 90745
+- ZIP extension: 
+- State project ID: CA-99-904
+- Latitude: 33.828602
+- Longitude: -118.265044
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037543803
+- Tract 2010: 06037543802
+- Tract 2000: 06037543802
+- Tract 1990: 06037543802
+- Place 2020: 11530
+- Place 2010: 11530
+- Place 2000: 11530
+- Place 1990: 0440
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 260139
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 61
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

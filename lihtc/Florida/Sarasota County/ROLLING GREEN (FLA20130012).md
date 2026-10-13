@@ -1,0 +1,85 @@
+# Project: ROLLING GREEN (FLA20130012)
+
+- HUD ID: FLA20130012
+- HUD ID before: 
+- Project: ROLLING GREEN
+- Address: 2596 TWIN DR
+- City: SARASOTA
+- State: FL
+- ZIP: 34234
+- ZIP extension: 
+- State project ID: 1443
+- Latitude: 27.365871
+- Longitude: -82.518132
+- County FIPS: 12115
+- County from: 2020
+- Tract 2020: 12115001101
+- Tract 2010: 12115001101
+- Tract 2000: 12115001101
+- Tract 1990: 12115001100
+- Place 2020: 99999
+- Place 2010: 49787
+- Place 2000: 49787
+- Place 1990: 1526
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 118
+- Low-income units: 118
+- Units reported: 118
+- Low-income reported: 118
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

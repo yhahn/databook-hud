@@ -1,0 +1,85 @@
+# Project: VINEYARD CROSSINGS (CAA20070710)
+
+- HUD ID: CAA20070710
+- HUD ID before: 
+- Project: VINEYARD CROSSINGS
+- Address: 202 TAPESTRY LN
+- City: AMERICAN CANYON
+- State: CA
+- ZIP: 94503
+- ZIP extension: 
+- State project ID: CA-05-881
+- Latitude: 38.174769
+- Longitude: -122.250365
+- County FIPS: 06055
+- County from: 2020
+- Tract 2020: 06055201003
+- Tract 2010: 06055201003
+- Tract 2000: 06055201002
+- Tract 1990: 06055200900
+- Place 2020: 01640
+- Place 2010: 01640
+- Place 2000: 01640
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1182784
+- Units: 145
+- Low-income units: 144
+- Units reported: 145
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 63
+- 3-bedroom units: 55
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AMERICAN HOUSE SOUTHGATE (MIA19940100)
+
+- HUD ID: MIA19940100
+- HUD ID before: 
+- Project: AMERICAN HOUSE SOUTHGATE
+- Address: 16333 ALLEN RD
+- City: SOUTHGATE
+- State: MI
+- ZIP: 48195
+- ZIP extension: 
+- State project ID: MI-2010
+- Latitude: 42.188843
+- Longitude: -83.228137
+- County FIPS: 26163
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26163581200
+- Tract 2000: 26163581200
+- Tract 1990: 26163581700
+- Place 2020: 
+- Place 2010: 74960
+- Place 2000: 74960
+- Place 1990: 2495
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 82
+- Low-income units: 82
+- Units reported: 82
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

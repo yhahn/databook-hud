@@ -1,0 +1,85 @@
+# Project: FOUNTAINS OF ROSEMEADE (TXA19950385)
+
+- HUD ID: TXA19950385
+- HUD ID before: 
+- Project: FOUNTAINS OF ROSEMEADE
+- Address: 3440 E ROSEMEADE PKWY
+- City: CARROLLTON
+- State: TX
+- ZIP: 75007
+- ZIP extension: 
+- State project ID: TX1185
+- Latitude: 33.011486
+- Longitude: -96.860527
+- County FIPS: 48121
+- County from: 2020
+- Tract 2020: 48121021616
+- Tract 2010: 48121021616
+- Tract 2000: 48121021616
+- Tract 1990: 48121021609
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 13024
+- Place 1990: 1085
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 382
+- Low-income units: 382
+- Units reported: 382
+- Low-income reported: 382
+- Efficiencies: 0
+- 1-bedroom units: 196
+- 2-bedroom units: 136
+- 3-bedroom units: 48
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

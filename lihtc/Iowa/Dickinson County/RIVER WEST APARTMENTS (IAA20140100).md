@@ -1,0 +1,85 @@
+# Project: RIVER WEST APARTMENTS (IAA20140100)
+
+- HUD ID: IAA20140100
+- HUD ID before: 
+- Project: RIVER WEST APARTMENTS
+- Address: 674 TERRACE PARK BLVD
+- City: MILFORD
+- State: IA
+- ZIP: 51351
+- ZIP extension: 7364
+- State project ID: 13-13-1
+- Latitude: 43.346899
+- Longitude: -95.149709
+- County FIPS: 19059
+- County from: 2020
+- Tract 2020: 19059451100
+- Tract 2010: 19059451100
+- Tract 2000: 19059951100
+- Tract 1990: 19059950300
+- Place 2020: 52095
+- Place 2010: 52095
+- Place 2000: 03025
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 262470
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA1997095.
+- Record status: Updated

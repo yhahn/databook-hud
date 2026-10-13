@@ -1,0 +1,85 @@
+# Project: NIGHTINGALE AT GOODNIGHT RANCH (TXA0000X156)
+
+- HUD ID: TXA0000X156
+- HUD ID before: 
+- Project: NIGHTINGALE AT GOODNIGHT RANCH
+- Address: 5900 CHARLES MERLE DRIVE
+- City: AUSTIN
+- State: TX
+- ZIP: 78747
+- ZIP extension: 
+- State project ID: TX5291
+- Latitude: 30.156487
+- Longitude: -97.753889
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453002440
+- Tract 2010: 48453002426
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 
+- Units: 174
+- Low-income units: 141
+- Units reported: 174
+- Low-income reported: 141
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

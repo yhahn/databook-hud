@@ -1,0 +1,85 @@
+# Project: PARK LAKE HOMES II - ZEPHYR (WAA20110811)
+
+- HUD ID: WAA20110811
+- HUD ID before: 
+- Project: PARK LAKE HOMES II - ZEPHYR
+- Address: 11220 5TH AVE SW
+- City: SEATTLE
+- State: WA
+- ZIP: 98106
+- ZIP extension: 
+- State project ID: 09-73A
+- Latitude: 47.502684
+- Longitude: -122.340382
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033026802
+- Tract 2010: 53033026802
+- Tract 2000: 53033026802
+- Tract 1990: 53033026800
+- Place 2020: 78225
+- Place 2010: 78225
+- Place 2000: 08850
+- Place 1990: 1434
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 248727
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 7
+- 3-bedroom units: 13
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 1000000
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA0000484.
+- Record status: Updated

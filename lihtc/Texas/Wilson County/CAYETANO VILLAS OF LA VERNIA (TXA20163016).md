@@ -1,0 +1,85 @@
+# Project: CAYETANO VILLAS OF LA VERNIA (TXA20163016)
+
+- HUD ID: TXA20163016
+- HUD ID before: 
+- Project: CAYETANO VILLAS OF LA VERNIA
+- Address: 400 BLOCK OF FM 1346
+- City: LA VERNIA
+- State: TX
+- ZIP: 78121
+- ZIP extension: 
+- State project ID: TX5101
+- Latitude: 29.3183
+- Longitude: -98.1269
+- County FIPS: 48493
+- County from: 2020
+- Tract 2020: 48493000104
+- Tract 2010: 48493000104
+- Tract 2000: 48493980101
+- Tract 1990: 
+- Place 2020: 41764
+- Place 2010: 41764
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 41
+- Units reported: 48
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

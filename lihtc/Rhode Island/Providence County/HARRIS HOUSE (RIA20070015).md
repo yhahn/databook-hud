@@ -1,0 +1,85 @@
+# Project: HARRIS HOUSE (RIA20070015)
+
+- HUD ID: RIA20070015
+- HUD ID before: 
+- Project: HARRIS HOUSE
+- Address: 28 HARRIS AVE
+- City: CRANSTON
+- State: RI
+- ZIP: 02920
+- ZIP extension: 
+- State project ID: RI00025
+- Latitude: 41.799687
+- Longitude: -71.445488
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007014100
+- Tract 2010: 44007014100
+- Tract 2000: 44007014100
+- Tract 1990: 44007014100
+- Place 2020: 19180
+- Place 2010: 19180
+- Place 2000: 19180
+- Place 1990: 0090
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 137161
+- Units: 133
+- Low-income units: 132
+- Units reported: 133
+- Low-income reported: 132
+- Efficiencies: 0
+- 1-bedroom units: 123
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 132
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

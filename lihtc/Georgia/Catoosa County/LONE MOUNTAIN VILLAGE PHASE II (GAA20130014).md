@@ -1,0 +1,85 @@
+# Project: LONE MOUNTAIN VILLAGE PHASE II (GAA20130014)
+
+- HUD ID: GAA20130014
+- HUD ID before: 
+- Project: LONE MOUNTAIN VILLAGE PHASE II
+- Address: 85 DARLENE LANE
+- City: RINGGOLD
+- State: GA
+- ZIP: 30736
+- ZIP extension: 
+- State project ID: GA-11-046
+- Latitude: 34.927668
+- Longitude: -85.126795
+- County FIPS: 13047
+- County from: 2020
+- Tract 2020: 13047030202
+- Tract 2010: 13047030202
+- Tract 2000: 13047030200
+- Tract 1990: 13047030200
+- Place 2020: 65324
+- Place 2010: 65324
+- Place 2000: 41036
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 674000
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 56
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000244.
+- Record status: Existing, unchanged

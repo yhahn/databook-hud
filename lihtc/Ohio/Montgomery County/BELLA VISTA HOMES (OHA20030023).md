@@ -1,0 +1,85 @@
+# Project: BELLA VISTA HOMES (OHA20030023)
+
+- HUD ID: OHA20030023
+- HUD ID before: 
+- Project: BELLA VISTA HOMES
+- Address: 2840 LOUELLA AVE
+- City: DAYTON
+- State: OH
+- ZIP: 45417
+- ZIP extension: 
+- State project ID: 030003
+- Latitude: 39.733051
+- Longitude: -84.241211
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113004300
+- Tract 2010: 39113004300
+- Tract 2000: 39113004300
+- Tract 1990: 39113004300
+- Place 2020: 21000
+- Place 2010: 21000
+- Place 2000: 21000
+- Place 1990: 1110
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 955210
+- Units: 251
+- Low-income units: 250
+- Units reported: 251
+- Low-income reported: 250
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 251
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003587, OHA2005017.
+- Record status: Existing, unchanged

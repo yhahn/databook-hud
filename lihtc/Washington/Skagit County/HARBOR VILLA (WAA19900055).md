@@ -1,0 +1,85 @@
+# Project: HARBOR VILLA (WAA19900055)
+
+- HUD ID: WAA19900055
+- HUD ID before: 
+- Project: HARBOR VILLA
+- Address: 401 E STATE ST
+- City: LA CONNER
+- State: WA
+- ZIP: 98257
+- ZIP extension: 
+- State project ID: 88-31Z
+- Latitude: 48.393794
+- Longitude: -122.492781
+- County FIPS: 53057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53057952100
+- Tract 2000: 53057952100
+- Tract 1990: 53057952100
+- Place 2020: 
+- Place 2010: 36780
+- Place 2000: 36780
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LA CONNER APTS.
+- Record status: Existing, unchanged

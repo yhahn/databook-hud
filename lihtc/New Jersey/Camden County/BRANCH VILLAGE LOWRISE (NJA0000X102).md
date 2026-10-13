@@ -1,0 +1,85 @@
+# Project: BRANCH VILLAGE LOWRISE (NJA0000X102)
+
+- HUD ID: NJA0000X102
+- HUD ID before: 
+- Project: BRANCH VILLAGE LOWRISE
+- Address: TBD
+- City: CAMDEN CITY
+- State: NJ
+- ZIP: 08104
+- ZIP extension: 
+- State project ID: 3396
+- Latitude: 39.9199
+- Longitude: -75.1099
+- County FIPS: 34007
+- County from: 2020
+- Tract 2020: 34007601900
+- Tract 2010: 34007601700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 10000
+- Place 2010: 10000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1386072
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

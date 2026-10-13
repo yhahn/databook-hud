@@ -1,0 +1,85 @@
+# Project: VILLAGE GREEN APTS (LEXINGTON) (OHA20090165)
+
+- HUD ID: OHA20090165
+- HUD ID before: 
+- Project: VILLAGE GREEN APTS (LEXINGTON)
+- Address: 201 W MAIN ST
+- City: LEXINGTON
+- State: OH
+- ZIP: 44904
+- ZIP extension: 
+- State project ID: 070056
+- Latitude: 40.679147
+- Longitude: -82.589759
+- County FIPS: 39139
+- County from: 2020
+- Tract 2020: 39139002200
+- Tract 2010: 39139002200
+- Tract 2000: 39139002200
+- Tract 1990: 39139002200
+- Place 2020: 42994
+- Place 2010: 42994
+- Place 2000: 42994
+- Place 1990: 2195
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 18399
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

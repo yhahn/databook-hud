@@ -1,0 +1,85 @@
+# Project: MIDCITIES (CAA19880265)
+
+- HUD ID: CAA19880265
+- HUD ID before: 
+- Project: MIDCITIES
+- Address: 835 S OXFORD AVE
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90005
+- ZIP extension: 
+- State project ID: CA-87-064
+- Latitude: 34.056595
+- Longitude: -118.308021
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037212502
+- Tract 2010: 06037212502
+- Tract 2000: 06037212500
+- Tract 1990: 06037212500
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 62158
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0001045.
+- Record status: Existing, unchanged

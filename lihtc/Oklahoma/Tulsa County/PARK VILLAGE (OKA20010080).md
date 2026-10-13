@@ -1,0 +1,85 @@
+# Project: PARK VILLAGE (OKA20010080)
+
+- HUD ID: OKA20010080
+- HUD ID before: 
+- Project: PARK VILLAGE
+- Address: 650 S MEMORIAL DR
+- City: TULSA
+- State: OK
+- ZIP: 74112
+- ZIP extension: 
+- State project ID: 990651
+- Latitude: 36.152042
+- Longitude: -95.886937
+- County FIPS: 40143
+- County from: 2020
+- Tract 2020: 40143007200
+- Tract 2010: 40143007200
+- Tract 2000: 40143007200
+- Tract 1990: 40143007200
+- Place 2020: 75000
+- Place 2010: 75000
+- Place 2000: 75000
+- Place 1990: 2465
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 43
+- Units reported: 44
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

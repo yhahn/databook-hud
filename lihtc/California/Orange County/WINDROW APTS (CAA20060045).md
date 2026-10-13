@@ -1,0 +1,85 @@
+# Project: WINDROW APTS (CAA20060045)
+
+- HUD ID: CAA20060045
+- HUD ID before: 
+- Project: WINDROW APTS
+- Address: 5300 TRABUCO RD
+- City: IRVINE
+- State: CA
+- ZIP: 92620
+- ZIP extension: 
+- State project ID: CA-03-882
+- Latitude: 33.69917
+- Longitude: -117.766358
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059052433
+- Tract 2010: 06059052418
+- Tract 2000: 06059052418
+- Tract 1990: 06059052404
+- Place 2020: 36770
+- Place 2010: 36770
+- Place 2000: 36770
+- Place 1990: 0904
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 464918
+- Units: 96
+- Low-income units: 94
+- Units reported: 96
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 49
+- 3-bedroom units: 29
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

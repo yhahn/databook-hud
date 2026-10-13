@@ -1,0 +1,85 @@
+# Project: BROOK RIDGE APARTMENTS (OHA20240003)
+
+- HUD ID: OHA20240003
+- HUD ID before: 
+- Project: BROOK RIDGE APARTMENTS
+- Address: 50 RIDGE RD
+- City: BROOKVILLE
+- State: OH
+- ZIP: 45309
+- ZIP extension: 
+- State project ID: 200074
+- Latitude: 39.839637
+- Longitude: -84.428717
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113130102
+- Tract 2010: 39113130102
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 09358
+- Place 2010: 09358
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 576000
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

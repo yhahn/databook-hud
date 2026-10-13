@@ -1,0 +1,85 @@
+# Project: FERGUSON APTS CSH (MIA20020095)
+
+- HUD ID: MIA20020095
+- HUD ID before: 
+- Project: FERGUSON APTS CSH
+- Address: 72 SHELDON BLVD SE
+- City: GRAND RAPIDS
+- State: MI
+- ZIP: 49503
+- ZIP extension: 
+- State project ID: MI-1440
+- Latitude: 42.961352
+- Longitude: -85.666472
+- County FIPS: 26081
+- County from: 2020
+- Tract 2020: 26081002000
+- Tract 2010: 26081002000
+- Tract 2000: 26081002000
+- Tract 1990: 26081002000
+- Place 2020: 34000
+- Place 2010: 34000
+- Place 2000: 34000
+- Place 1990: 1085
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 101
+- Low-income units: 101
+- Units reported: 101
+- Low-income reported: 101
+- Efficiencies: 101
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 5161000
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

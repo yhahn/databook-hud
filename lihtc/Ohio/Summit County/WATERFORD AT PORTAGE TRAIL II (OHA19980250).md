@@ -1,0 +1,85 @@
+# Project: WATERFORD AT PORTAGE TRAIL II (OHA19980250)
+
+- HUD ID: OHA19980250
+- HUD ID before: 
+- Project: WATERFORD AT PORTAGE TRAIL II
+- Address: 1761 E WATERFORD CT
+- City: AKRON
+- State: OH
+- ZIP: 44313
+- ZIP extension: 
+- State project ID: 96-0069
+- Latitude: 41.137735
+- Longitude: -81.541205
+- County FIPS: 39153
+- County from: 2020
+- Tract 2020: 39153507501
+- Tract 2010: 39153507500
+- Tract 2000: 39153507500
+- Tract 1990: 39153507500
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0035
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 784875
+- Units: 136
+- Low-income units: 136
+- Units reported: 136
+- Low-income reported: 136
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 40
+- 4-bedroom units: 40
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

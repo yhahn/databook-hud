@@ -1,0 +1,85 @@
+# Project: SHERIDAN PARK APTS (ILA19960290)
+
+- HUD ID: ILA19960290
+- HUD ID before: 
+- Project: SHERIDAN PARK APTS
+- Address: 4536 N MAGNOLIA AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60640
+- ZIP extension: 
+- State project ID: TC-95-870
+- Latitude: 41.964219
+- Longitude: -87.66121
+- County FIPS: 17031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17031031700
+- Tract 2000: 17031031700
+- Tract 1990: 17031031700
+- Place 2020: 
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 280831
+- Units: 102
+- Low-income units: 102
+- Units reported: 102
+- Low-income reported: 102
+- Efficiencies: 56
+- 1-bedroom units: 24
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1996005. AKA 4536-40 N MAGNOLIA.
+- Record status: Existing, unchanged

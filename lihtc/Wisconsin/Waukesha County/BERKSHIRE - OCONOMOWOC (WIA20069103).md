@@ -1,0 +1,85 @@
+# Project: BERKSHIRE - OCONOMOWOC (WIA20069103)
+
+- HUD ID: WIA20069103
+- HUD ID before: 
+- Project: BERKSHIRE - OCONOMOWOC
+- Address: 215 S MAIN ST
+- City: OCONOMOWOC
+- State: WI
+- ZIP: 53066
+- ZIP extension: 
+- State project ID: 3145
+- Latitude: 43.108428
+- Longitude: -88.49905
+- County FIPS: 55133
+- County from: 2020
+- Tract 2020: 55133204201
+- Tract 2010: 55133204200
+- Tract 2000: 55133204200
+- Tract 1990: 55133204200
+- Place 2020: 59250
+- Place 2010: 59250
+- Place 2000: 59250
+- Place 1990: 1860
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 85
+- Low-income units: 84
+- Units reported: 85
+- Low-income reported: 84
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

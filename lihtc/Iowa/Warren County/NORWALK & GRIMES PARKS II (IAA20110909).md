@@ -1,0 +1,85 @@
+# Project: NORWALK & GRIMES PARKS II (IAA20110909)
+
+- HUD ID: IAA20110909
+- HUD ID before: 
+- Project: NORWALK & GRIMES PARKS II
+- Address: 900 E 17TH ST
+- City: NORWALK
+- State: IA
+- ZIP: 50211
+- ZIP extension: 
+- State project ID: 10-10-226
+- Latitude: 41.476586
+- Longitude: -93.667908
+- County FIPS: 19181
+- County from: 2020
+- Tract 2020: 19181020201
+- Tract 2010: 19181020200
+- Tract 2000: 19181020200
+- Tract 1990: 19181020200
+- Place 2020: 57675
+- Place 2010: 57675
+- Place 2000: 57675
+- Place 1990: 3130
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 262042
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA1993095.
+- Record status: Existing, unchanged

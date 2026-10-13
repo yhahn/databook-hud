@@ -1,0 +1,85 @@
+# Project: GARDEN VILLAGE (CAA20140402)
+
+- HUD ID: CAA20140402
+- HUD ID before: 
+- Project: GARDEN VILLAGE
+- Address: 6601 SUNNYSLOPE DR
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95828
+- ZIP extension: 
+- State project ID: CA-12-147
+- Latitude: 38.497522
+- Longitude: -121.426258
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067004802
+- Tract 2010: 06067004802
+- Tract 2000: 06067004802
+- Tract 1990: 06067004802
+- Place 2020: 24498
+- Place 2010: 24498
+- Place 2000: 24498
+- Place 1990: 1023
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 790029
+- Units: 195
+- Low-income units: 193
+- Units reported: 195
+- Low-income reported: 193
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 79
+- 3-bedroom units: 65
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 137
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1815000
+- CDBG: Yes
+- CDBG amount: 65397
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

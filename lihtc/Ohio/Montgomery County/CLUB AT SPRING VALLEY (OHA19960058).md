@@ -1,0 +1,85 @@
+# Project: CLUB AT SPRING VALLEY (OHA19960058)
+
+- HUD ID: OHA19960058
+- HUD ID before: 
+- Project: CLUB AT SPRING VALLEY
+- Address: 3091 SAGEBROOK DR
+- City: MIAMISBURG
+- State: OH
+- ZIP: 45342
+- ZIP extension: 
+- State project ID: 96-0071
+- Latitude: 39.613346
+- Longitude: -84.223159
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113050107
+- Tract 2010: 39113050103
+- Tract 2000: 39113050103
+- Tract 1990: 39113050103
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 49434
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 704928
+- Units: 336
+- Low-income units: 230
+- Units reported: 336
+- Low-income reported: 230
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 168
+- 3-bedroom units: 88
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1997295.
+- Record status: Existing, unchanged

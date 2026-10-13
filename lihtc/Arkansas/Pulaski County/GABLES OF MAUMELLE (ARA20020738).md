@@ -1,0 +1,85 @@
+# Project: GABLES OF MAUMELLE (ARA20020738)
+
+- HUD ID: ARA20020738
+- HUD ID before: 
+- Project: GABLES OF MAUMELLE
+- Address: 1500 UNION CT
+- City: MAUMELLE
+- State: AR
+- ZIP: 72213
+- ZIP extension: 
+- State project ID: AR-04-02
+- Latitude: 34.878976
+- Longitude: -92.392314
+- County FIPS: 05119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05119004303
+- Tract 2000: 05119004303
+- Tract 1990: 05119004301
+- Place 2020: 
+- Place 2010: 44600
+- Place 2000: 44600
+- Place 1990: 1337
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 263815
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 48
+- 3-bedroom units: 56
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2002087.
+- Record status: Existing, unchanged

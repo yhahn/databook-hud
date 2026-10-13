@@ -1,0 +1,85 @@
+# Project: SALISH LANDING (WAA20230026)
+
+- HUD ID: WAA20230026
+- HUD ID before: 
+- Project: SALISH LANDING
+- Address: 6955 DELRIDGE WAY SW
+- City: SEATTLE
+- State: WA
+- ZIP: 98106
+- ZIP extension: 
+- State project ID: 21-64A
+- Latitude: 47.540549
+- Longitude: -122.361042
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033010701
+- Tract 2010: 53033010701
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 1639417
+- Units: 82
+- Low-income units: 81
+- Units reported: 82
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 39
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: Yes
+- HOPE VI amount: 400000
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

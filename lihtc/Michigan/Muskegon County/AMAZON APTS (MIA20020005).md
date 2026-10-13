@@ -1,0 +1,85 @@
+# Project: AMAZON APTS (MIA20020005)
+
+- HUD ID: MIA20020005
+- HUD ID before: 
+- Project: AMAZON APTS
+- Address: 550 W WESTERN AVE
+- City: MUSKEGON
+- State: MI
+- ZIP: 49440
+- ZIP extension: 
+- State project ID: MI-1634
+- Latitude: 43.233193
+- Longitude: -86.257065
+- County FIPS: 26121
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26121000800
+- Tract 2000: 26121000800
+- Tract 1990: 26121000800
+- Place 2020: 
+- Place 2010: 56320
+- Place 2000: 56320
+- Place 1990: 1875
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 118
+- Low-income units: 106
+- Units reported: 118
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 66
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

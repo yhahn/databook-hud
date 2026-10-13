@@ -1,0 +1,85 @@
+# Project: ROSEHILL RIDGE (TXA20130925)
+
+- HUD ID: TXA20130925
+- HUD ID before: 
+- Project: ROSEHILL RIDGE
+- Address: 1201 STUCKEY ST
+- City: TEXARKANA
+- State: TX
+- ZIP: 75501
+- ZIP extension: 
+- State project ID: TX4789
+- Latitude: 33.427975
+- Longitude: -94.07294
+- County FIPS: 48037
+- County from: 2020
+- Tract 2020: 48037010500
+- Tract 2010: 48037010500
+- Tract 2000: 48037010500
+- Tract 1990: 48037010500
+- Place 2020: 72368
+- Place 2010: 72368
+- Place 2000: 72368
+- Place 1990: 4225
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 122
+- Low-income units: 122
+- Units reported: 122
+- Low-income reported: 122
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

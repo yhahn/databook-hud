@@ -1,0 +1,85 @@
+# Project: EASTLINE APARTMENTS (NVA19989002)
+
+- HUD ID: NVA19989002
+- HUD ID before: 
+- Project: EASTLINE APARTMENTS
+- Address: 1550 EASTLINE LANE
+- City: WENDOVER
+- State: NV
+- ZIP: 89833
+- ZIP extension: 0000
+- State project ID: 97-57
+- Latitude: 40.7358
+- Longitude: -114.0789
+- County FIPS: 32007
+- County from: 2020
+- Tract 2020: 32007951500
+- Tract 2010: 32007951500
+- Tract 2000: 32007951500
+- Tract 1990: 
+- Place 2020: 83730
+- Place 2010: 83730
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 82431
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: OTHER
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GRANT STREET EXTENSION (VAA20070788)
+
+- HUD ID: VAA20070788
+- HUD ID before: 
+- Project: GRANT STREET EXTENSION
+- Address: 299 GARFIELD ST
+- City: DANVILLE
+- State: VA
+- ZIP: 24541
+- ZIP extension: 
+- State project ID: 1181
+- Latitude: 36.570712
+- Longitude: -79.387304
+- County FIPS: 51590
+- County from: 2020
+- Tract 2020: 51590001100
+- Tract 2010: 51590001100
+- Tract 2000: 51590001100
+- Tract 1990: 51590001100
+- Place 2020: 21344
+- Place 2010: 21344
+- Place 2000: 21344
+- Place 1990: 0370
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 390259
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 11
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 44
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2006110.
+- Record status: Existing, unchanged

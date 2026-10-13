@@ -1,0 +1,85 @@
+# Project: REDMOND TRIANGLE HOUSING (ORA19940055)
+
+- HUD ID: ORA19940055
+- HUD ID before: 
+- Project: REDMOND TRIANGLE HOUSING
+- Address: 767 NW CANAL BLVD
+- City: REDMOND
+- State: OR
+- ZIP: 97756
+- ZIP extension: 
+- State project ID: OR92-301
+- Latitude: 44.283268
+- Longitude: -121.169563
+- County FIPS: 41017
+- County from: 2020
+- Tract 2020: 41017000800
+- Tract 2010: 41017000800
+- Tract 2000: 41017990900
+- Tract 1990: 41017990900
+- Place 2020: 61200
+- Place 2010: 61200
+- Place 2000: 61200
+- Place 1990: 0945
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 50000
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

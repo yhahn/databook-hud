@@ -1,0 +1,85 @@
+# Project: LIBERTY MANOR (FLA00000405)
+
+- HUD ID: FLA00000405
+- HUD ID before: 
+- Project: LIBERTY MANOR
+- Address: 102 LIBERTY MANOR CIR
+- City: PORT ST JOE
+- State: FL
+- ZIP: 32456
+- ZIP extension: 
+- State project ID: 471
+- Latitude: 29.784064
+- Longitude: -85.285099
+- County FIPS: 12045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12045960300
+- Tract 2000: 12045960300
+- Tract 1990: 12045960300
+- Place 2020: 
+- Place 2010: 58675
+- Place 2000: 58675
+- Place 1990: 1805
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

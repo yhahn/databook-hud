@@ -1,0 +1,85 @@
+# Project: HARRIMAN HILL (NHA20120811)
+
+- HUD ID: NHA20120811
+- HUD ID before: 
+- Project: HARRIMAN HILL
+- Address: 24 BECK DR
+- City: WOLFEBORO
+- State: NH
+- ZIP: 03894
+- ZIP extension: 
+- State project ID: 957
+- Latitude: 43.6351
+- Longitude: -71.1926
+- County FIPS: 33003
+- County from: 2020
+- Tract 2020: 33003956101
+- Tract 2010: 33003956100
+- Tract 2000: 33003956100
+- Tract 1990: 33003956100
+- Place 2020: 86340
+- Place 2010: 86340
+- Place 2000: 86340
+- Place 1990: 2820
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 583000
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 625588
+- CDBG: Yes
+- CDBG amount: 475000
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

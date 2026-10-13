@@ -1,0 +1,85 @@
+# Project: NEW ARENA SQUARE (FLA20020135)
+
+- HUD ID: FLA20020135
+- HUD ID before: 
+- Project: NEW ARENA SQUARE
+- Address: 1023 NW THIRD AVE
+- City: MIAMI
+- State: FL
+- ZIP: 33136
+- ZIP extension: 
+- State project ID: 536
+- Latitude: 25.783955
+- Longitude: -80.19956
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086003400
+- Tract 2010: 12086003400
+- Tract 2000: 12086003400
+- Tract 1990: 12025003400
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 45000
+- Place 1990: 1370
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 419
+- Low-income units: 419
+- Units reported: 419
+- Low-income reported: 419
+- Efficiencies: 18
+- 1-bedroom units: 138
+- 2-bedroom units: 177
+- 3-bedroom units: 86
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NEW ARENA SQUARE NORTH & SOUTH.
+- Record status: Existing, unchanged

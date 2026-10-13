@@ -1,0 +1,85 @@
+# Project: BERNARD E MASON (MDA20171002)
+
+- HUD ID: MDA20171002
+- HUD ID before: 
+- Project: BERNARD E MASON
+- Address: 4900 WINDSOR MILL ROAD
+- City: BALTIMORE
+- State: MD
+- ZIP: 21207
+- ZIP extension: 3431
+- State project ID: MD-14-22001-4
+- Latitude: 39.309811
+- Longitude: -76.699228
+- County FIPS: 24510
+- County from: 2020
+- Tract 2020: 24510250101
+- Tract 2010: 24510280301
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1167548
+- Units: 225
+- Low-income units: 219
+- Units reported: 225
+- Low-income reported: 219
+- Efficiencies: 
+- 1-bedroom units: 219
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

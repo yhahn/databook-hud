@@ -1,0 +1,85 @@
+# Project: UNION CROSSING (MAB20110185)
+
+- HUD ID: MAB20110185
+- HUD ID before: 
+- Project: UNION CROSSING
+- Address: 50 ISLAND ST
+- City: LAWRENCE
+- State: MA
+- ZIP: 01840
+- ZIP extension: 
+- State project ID: 1798
+- Latitude: 42.706001
+- Longitude: -71.152254
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009250100
+- Tract 2010: 25009250100
+- Tract 2000: 25009250100
+- Tract 1990: 25009250100
+- Place 2020: 34550
+- Place 2010: 34550
+- Place 2000: 34550
+- Place 1990: 2030
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1080000
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 30
+- 3-bedroom units: 27
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB20110185.
+- Record status: Existing, unchanged

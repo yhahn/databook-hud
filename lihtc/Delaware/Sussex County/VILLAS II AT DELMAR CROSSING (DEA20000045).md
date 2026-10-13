@@ -1,0 +1,85 @@
+# Project: VILLAS II AT DELMAR CROSSING (DEA20000045)
+
+- HUD ID: DEA20000045
+- HUD ID before: 
+- Project: VILLAS II AT DELMAR CROSSING
+- Address: 600 MAGNOLIA DRIVE
+- City: DELMAR
+- State: DE
+- ZIP: 19940
+- ZIP extension: 
+- State project ID: DE193FY9913
+- Latitude: 38.458887
+- Longitude: -75.560776
+- County FIPS: 10005
+- County from: 2020
+- Tract 2020: 10005051900
+- Tract 2010: 10005051900
+- Tract 2000: 10005051900
+- Tract 1990: 10005051900
+- Place 2020: 20380
+- Place 2010: 20380
+- Place 2000: 20380
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 126514
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DEA2000055.;
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: SCHOOL HOUSE RETIREMENT RESIDENCE (PAA19950205)
+
+- HUD ID: PAA19950205
+- HUD ID before: 
+- Project: SCHOOL HOUSE RETIREMENT RESIDENCE
+- Address: 200 RAILROAD AVE
+- City: CARNEGIE
+- State: PA
+- ZIP: 15106
+- ZIP extension: 
+- State project ID: TC1994-0007
+- Latitude: 40.409319
+- Longitude: -80.090289
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003468700
+- Tract 2010: 42003468700
+- Tract 2000: 42003468700
+- Tract 1990: 42003468700
+- Place 2020: 11336
+- Place 2010: 11336
+- Place 2000: 11336
+- Place 1990: 1575
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 313500
+- Units: 59
+- Low-income units: 58
+- Units reported: 59
+- Low-income reported: 58
+- Efficiencies: 14
+- 1-bedroom units: 45
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

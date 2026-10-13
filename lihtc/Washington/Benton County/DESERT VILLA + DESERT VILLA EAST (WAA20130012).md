@@ -1,0 +1,85 @@
+# Project: DESERT VILLA + DESERT VILLA EAST (WAA20130012)
+
+- HUD ID: WAA20130012
+- HUD ID before: 
+- Project: DESERT VILLA + DESERT VILLA EAST
+- Address: 635 S AUBURN ST
+- City: KENNEWICK
+- State: WA
+- ZIP: 99336
+- ZIP extension: 
+- State project ID: 11-105A
+- Latitude: 46.201956
+- Longitude: -119.118205
+- County FIPS: 53005
+- County from: 2020
+- Tract 2020: 53005011202
+- Tract 2010: 53005011200
+- Tract 2000: 53005011200
+- Tract 1990: 53005011200
+- Place 2020: 35275
+- Place 2010: 35275
+- Place 2000: 35275
+- Place 1990: 0610
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 539680
+- Units: 155
+- Low-income units: 151
+- Units reported: 155
+- Low-income reported: 151
+- Efficiencies: 0
+- 1-bedroom units: 147
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA0000217.
+- Record status: Updated

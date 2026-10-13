@@ -1,0 +1,85 @@
+# Project: VALLEY ESTATES OF MOUNTAIN HOME PHASE II (ARA20173015)
+
+- HUD ID: ARA20173015
+- HUD ID before: 
+- Project: VALLEY ESTATES OF MOUNTAIN HOME PHASE II
+- Address: 1020 BRADLEY DR
+- City: MOUNTAIN HOME
+- State: AR
+- ZIP: 72653
+- ZIP extension: 
+- State project ID: 1096
+- Latitude: 36.3519
+- Longitude: -92.3434
+- County FIPS: 05005
+- County from: 2020
+- Tract 2020: 05005950200
+- Tract 2010: 05005950200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 47390
+- Place 2010: 47390
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 48
+- Low-income units: 38
+- Units reported: 48
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 26
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

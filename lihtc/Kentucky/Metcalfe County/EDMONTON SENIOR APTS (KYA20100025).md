@@ -1,0 +1,85 @@
+# Project: EDMONTON SENIOR APTS (KYA20100025)
+
+- HUD ID: KYA20100025
+- HUD ID before: 
+- Project: EDMONTON SENIOR APTS
+- Address: MUNCIE CT
+- City: EDMONTON
+- State: KY
+- ZIP: 
+- ZIP extension: 
+- State project ID: KY-09-009
+- Latitude: 36.9713
+- Longitude: -85.556
+- County FIPS: 21169
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 21169960300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 23968
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 153800
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KYA1991180, KYA1991182, KYA1991507.
+- Record status: Existing, unchanged

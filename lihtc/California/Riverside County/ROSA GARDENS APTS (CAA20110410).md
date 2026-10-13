@@ -1,0 +1,85 @@
+# Project: ROSA GARDENS APTS (CAA20110410)
+
+- HUD ID: CAA20110410
+- HUD ID before: 
+- Project: ROSA GARDENS APTS
+- Address: 555 W ROSA PARKS RD
+- City: PALM SPRINGS
+- State: CA
+- ZIP: 92262
+- ZIP extension: 
+- State project ID: CA-09-560
+- Latitude: 33.863136
+- Longitude: -116.554177
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065044605
+- Tract 2010: 06065044605
+- Tract 2000: 06065044601
+- Tract 1990: 06065044600
+- Place 2020: 55254
+- Place 2010: 55254
+- Place 2000: 55254
+- Place 1990: 2085
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 654566
+- Units: 57
+- Low-income units: 56
+- Units reported: 57
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 20
+- 3-bedroom units: 24
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 44
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 3962749
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011588.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 921 HOWARD STREET (CAA20230008)
+
+- HUD ID: CAA20230008
+- HUD ID before: 
+- Project: 921 HOWARD STREET
+- Address: 921 HOWARD ST.
+- City: SAN FRANCISCO
+- State: CA
+- ZIP: 94103
+- ZIP extension: 
+- State project ID: CA-2020-640
+- Latitude: 37.780925
+- Longitude: -122.405361
+- County FIPS: 06075
+- County from: 2020
+- Tract 2020: 06075017804
+- Tract 2010: 06075017802
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 6740484
+- Units: 203
+- Low-income units: 201
+- Units reported: 203
+- Low-income reported: 201
+- Efficiencies: 33
+- 1-bedroom units: 84
+- 2-bedroom units: 81
+- 3-bedroom units: 5
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

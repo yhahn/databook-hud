@@ -1,0 +1,85 @@
+# Project: COLLEGE HILL APTS (NYA20070040)
+
+- HUD ID: NYA20070040
+- HUD ID before: 
+- Project: COLLEGE HILL APTS
+- Address: 71 S ST
+- City: MIDDLETOWN
+- State: NY
+- ZIP: 10940
+- ZIP extension: 
+- State project ID: 20050349
+- Latitude: 41.440727
+- Longitude: -74.422783
+- County FIPS: 36071
+- County from: 2020
+- Tract 2020: 36071015100
+- Tract 2010: 36071015100
+- Tract 2000: 36071001400
+- Tract 1990: 36071001400
+- Place 2020: 47042
+- Place 2010: 47042
+- Place 2000: 47042
+- Place 1990: 2260
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 519811
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 30
+- 3-bedroom units: 16
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 66
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

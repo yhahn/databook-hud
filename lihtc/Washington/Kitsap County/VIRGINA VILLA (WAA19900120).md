@@ -1,0 +1,85 @@
+# Project: VIRGINA VILLA (WAA19900120)
+
+- HUD ID: WAA19900120
+- HUD ID before: 
+- Project: VIRGINA VILLA
+- Address: 200 HIGH SCHOOL RD NE
+- City: BAINBRIDGE ISLAND
+- State: WA
+- ZIP: 98110
+- ZIP extension: 
+- State project ID: 88-14P2
+- Latitude: 47.635922
+- Longitude: -122.520351
+- County FIPS: 53035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53035090900
+- Tract 2000: 53035090900
+- Tract 1990: 53035090900
+- Place 2020: 
+- Place 2010: 03736
+- Place 2000: 03736
+- Place 1990: 1460
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

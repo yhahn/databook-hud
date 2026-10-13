@@ -1,0 +1,85 @@
+# Project: HILLIARD HOMES (ILB20060809)
+
+- HUD ID: ILB20060809
+- HUD ID before: 
+- Project: HILLIARD HOMES
+- Address: 2031 S CLARK ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60616
+- ZIP extension: 
+- State project ID: TC-02-022
+- Latitude: 41.855427
+- Longitude: -87.629951
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031330200
+- Tract 2010: 17031330200
+- Tract 2000: 17031330200
+- Tract 1990: 17031330200
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 3186473
+- Units: 654
+- Low-income units: 654
+- Units reported: 654
+- Low-income reported: 654
+- Efficiencies: 0
+- 1-bedroom units: 414
+- 2-bedroom units: 164
+- 3-bedroom units: 56
+- 4-bedroom units: 20
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2006010, ILB2004808, ILB2004804, ILB2004010.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RESERVE ON LAKEVIEW LANDING (OHA20130018)
+
+- HUD ID: OHA20130018
+- HUD ID before: 
+- Project: RESERVE ON LAKEVIEW LANDING
+- Address: 512 BERLIN RD
+- City: HURON
+- State: OH
+- ZIP: 44839
+- ZIP extension: 
+- State project ID: 120033
+- Latitude: 41.388149
+- Longitude: -82.541341
+- County FIPS: 39043
+- County from: 2020
+- Tract 2020: 39043040400
+- Tract 2010: 39043040400
+- Tract 2000: 39043040400
+- Tract 1990: 39043040400
+- Place 2020: 37016
+- Place 2010: 37016
+- Place 2000: 37016
+- Place 1990: 1900
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HURON SENIOR RESIDENCES.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CUDAHY GARDENS (CAA19990150)
+
+- HUD ID: CAA19990150
+- HUD ID before: 
+- Project: CUDAHY GARDENS
+- Address: 4343 ELIZABETH ST
+- City: CUDAHY
+- State: CA
+- ZIP: 90201
+- ZIP extension: 
+- State project ID: CA-98-920
+- Latitude: 33.963941
+- Longitude: -118.191491
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037534404
+- Tract 2010: 06037534404
+- Tract 2000: 06037534404
+- Tract 1990: 06037533600
+- Place 2020: 17498
+- Place 2010: 17498
+- Place 2000: 17498
+- Place 1990: 0210
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 114674
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 81
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FAIRFIELD APTS (SCA19950030)
+
+- HUD ID: SCA19950030
+- HUD ID before: 
+- Project: FAIRFIELD APTS
+- Address: 100 FAIRFIELD DR
+- City: GAFFNEY
+- State: SC
+- ZIP: 29341
+- ZIP extension: 
+- State project ID: SC-94-018
+- Latitude: 35.093196
+- Longitude: -81.65337
+- County FIPS: 45021
+- County from: 2020
+- Tract 2020: 45021970302
+- Tract 2010: 45021970302
+- Tract 2000: 45021970302
+- Tract 1990: 45021970300
+- Place 2020: 28060
+- Place 2010: 28060
+- Place 2000: 22075
+- Place 1990: 0505
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 79417
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

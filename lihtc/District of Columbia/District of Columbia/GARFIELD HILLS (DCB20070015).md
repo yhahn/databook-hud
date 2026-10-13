@@ -1,0 +1,85 @@
+# Project: GARFIELD HILLS (DCB20070015)
+
+- HUD ID: DCB20070015
+- HUD ID before: 
+- Project: GARFIELD HILLS
+- Address: 2334 IRVING ST SE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20020
+- ZIP extension: 
+- State project ID: DCB2007015
+- Latitude: 38.853188
+- Longitude: -76.971679
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001007408
+- Tract 2010: 11001007408
+- Tract 2000: 11001007408
+- Tract 1990: 11001007408
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 312854
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 59
+- 3-bedroom units: 18
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 94
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

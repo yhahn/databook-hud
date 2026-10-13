@@ -1,0 +1,85 @@
+# Project: RANCHERIA DEL SOL APARTMENTS (CAA20140436)
+
+- HUD ID: CAA20140436
+- HUD ID before: 
+- Project: RANCHERIA DEL SOL APARTMENTS
+- Address: 321A S CALLE EL SEGUNDO
+- City: PALM SPRINGS
+- State: CA
+- ZIP: 92262
+- ZIP extension: 
+- State project ID: CA-14-820
+- Latitude: 33.818645
+- Longitude: -116.541836
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065941400
+- Tract 2010: 06065941400
+- Tract 2000: 06065010100
+- Tract 1990: 06065044700
+- Place 2020: 55254
+- Place 2010: 55254
+- Place 2000: 55254
+- Place 1990: 2085
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 386371
+- Units: 76
+- Low-income units: 75
+- Units reported: 76
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 52
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

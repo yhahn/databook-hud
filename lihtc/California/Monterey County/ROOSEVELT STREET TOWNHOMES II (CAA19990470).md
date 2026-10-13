@@ -1,0 +1,85 @@
+# Project: ROOSEVELT STREET TOWNHOMES II (CAA19990470)
+
+- HUD ID: CAA19990470
+- HUD ID before: 
+- Project: ROOSEVELT STREET TOWNHOMES II
+- Address: 504 ROOSEVELT ST
+- City: SALINAS
+- State: CA
+- ZIP: 93905
+- ZIP extension: 
+- State project ID: CA-98-120
+- Latitude: 36.675381
+- Longitude: -121.637631
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053000501
+- Tract 2010: 06053000501
+- Tract 2000: 06053000500
+- Tract 1990: 06053000500
+- Place 2020: 64224
+- Place 2010: 64224
+- Place 2000: 64224
+- Place 1990: 2435
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 311308
+- Units: 22
+- Low-income units: 21
+- Units reported: 22
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

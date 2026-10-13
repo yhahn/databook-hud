@@ -1,0 +1,85 @@
+# Project: SIERRA WOODS APTS (MDA20110040)
+
+- HUD ID: MDA20110040
+- HUD ID before: 
+- Project: SIERRA WOODS APTS
+- Address: 8712 AIRYBRINK LN
+- City: COLUMBIA
+- State: MD
+- ZIP: 21045
+- ZIP extension: 
+- State project ID: MD09-04001
+- Latitude: 39.207923
+- Longitude: -76.813248
+- County FIPS: 24027
+- County from: 2020
+- Tract 2020: 24027606606
+- Tract 2010: 24027606606
+- Tract 2000: 24027606605
+- Tract 1990: 24027606602
+- Place 2020: 19125
+- Place 2010: 19125
+- Place 2000: 19125
+- Place 1990: 0227
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 159
+- Units reported: 160
+- Low-income reported: 159
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

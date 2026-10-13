@@ -1,0 +1,85 @@
+# Project: MOUNTAIN VIEW APTS (VTA19900015)
+
+- HUD ID: VTA19900015
+- HUD ID before: 
+- Project: MOUNTAIN VIEW APTS
+- Address: 105 MOUNTAIN VIEW DR
+- City: SPRINGFIELD
+- State: VT
+- ZIP: 05156
+- ZIP extension: 
+- State project ID: 0112
+- Latitude: 43.387775
+- Longitude: -72.43184
+- County FIPS: 50027
+- County from: 2020
+- Tract 2020: 50027966100
+- Tract 2010: 50027966100
+- Tract 2000: 50027966600
+- Tract 1990: 50027966600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 69475
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 76682
+- Units: 72
+- Low-income units: 52
+- Units reported: 72
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 56
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

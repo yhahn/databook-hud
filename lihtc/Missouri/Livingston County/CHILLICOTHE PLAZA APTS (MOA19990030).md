@@ -1,0 +1,85 @@
+# Project: CHILLICOTHE PLAZA APTS (MOA19990030)
+
+- HUD ID: MOA19990030
+- HUD ID before: 
+- Project: CHILLICOTHE PLAZA APTS
+- Address: 1409 ALEXANDER ST
+- City: CHILLICOTHE
+- State: MO
+- ZIP: 64601
+- ZIP extension: 
+- State project ID: 97008
+- Latitude: 39.801585
+- Longitude: -93.542043
+- County FIPS: 29117
+- County from: 2020
+- Tract 2020: 29117480300
+- Tract 2010: 29117480300
+- Tract 2000: 29117980300
+- Tract 1990: 29117980300
+- Place 2020: 13690
+- Place 2010: 13690
+- Place 2000: 13690
+- Place 1990: 0805
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

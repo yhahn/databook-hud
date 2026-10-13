@@ -1,0 +1,85 @@
+# Project: BENSON'S CORNER (MDA20210003)
+
+- HUD ID: MDA20210003
+- HUD ID before: 
+- Project: BENSON'S CORNER
+- Address: 1700 HARFORD ROAD
+- City: FALLSTON
+- State: MD
+- ZIP: 21047
+- ZIP extension: 
+- State project ID: MD-20-02001
+- Latitude: 39.508038
+- Longitude: -76.381594
+- County FIPS: 24025
+- County from: 2020
+- Tract 2020: 24025303300
+- Tract 2010: 24025303300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1498767
+- Units: 56
+- Low-income units: 50
+- Units reported: 56
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 8
+- 2-bedroom units: 28
+- 3-bedroom units: 20
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

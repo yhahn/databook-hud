@@ -1,0 +1,85 @@
+# Project: ARCHITECTS BUILDING (MIA19990035)
+
+- HUD ID: MIA19990035
+- HUD ID before: 
+- Project: ARCHITECTS BUILDING
+- Address: 415 BRAINARD ST
+- City: DETROIT
+- State: MI
+- ZIP: 48201
+- ZIP extension: 
+- State project ID: MI-1651
+- Latitude: 42.346508
+- Longitude: -83.061964
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163520300
+- Tract 2010: 26163520300
+- Tract 2000: 26163520300
+- Tract 1990: 26163520300
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 22000
+- Place 1990: 0680
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

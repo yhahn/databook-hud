@@ -1,0 +1,85 @@
+# Project: CHESTNUT PARK APTS (MAB19970035)
+
+- HUD ID: MAB19970035
+- HUD ID before: 
+- Project: CHESTNUT PARK APTS
+- Address: 70 HARRISON AVE
+- City: SPRINGFIELD
+- State: MA
+- ZIP: 01103
+- ZIP extension: 
+- State project ID: 04-333178
+- Latitude: 42.104275
+- Longitude: -72.588443
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013801101
+- Tract 2010: 25013801101
+- Tract 2000: 25013801101
+- Tract 1990: 25013801101
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 4090
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 489
+- Low-income units: 412
+- Units reported: 489
+- Low-income reported: 412
+- Efficiencies: 0
+- 1-bedroom units: 207
+- 2-bedroom units: 264
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000529.;
+- Record status: Existing, unchanged

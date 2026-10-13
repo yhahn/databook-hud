@@ -1,0 +1,85 @@
+# Project: ST PAUL TERRACE (WVA19980055)
+
+- HUD ID: WVA19980055
+- HUD ID before: 
+- Project: ST PAUL TERRACE
+- Address: 3850 CENTRAL AVE
+- City: PARKERSBURG
+- State: WV
+- ZIP: 26104
+- ZIP extension: 
+- State project ID: NEW1
+- Latitude: 39.288947
+- Longitude: -81.529262
+- County FIPS: 54107
+- County from: 2020
+- Tract 2020: 54107000100
+- Tract 2010: 54107000100
+- Tract 2000: 54107000100
+- Tract 1990: 54107000100
+- Place 2020: 62140
+- Place 2010: 62140
+- Place 2000: 62140
+- Place 1990: 1215
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 25
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

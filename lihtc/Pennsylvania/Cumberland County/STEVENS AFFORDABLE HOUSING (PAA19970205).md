@@ -1,0 +1,85 @@
+# Project: STEVENS AFFORDABLE HOUSING (PAA19970205)
+
+- HUD ID: PAA19970205
+- HUD ID before: 
+- Project: STEVENS AFFORDABLE HOUSING
+- Address: 65 W LOUTHER ST
+- City: CARLISLE
+- State: PA
+- ZIP: 17013
+- ZIP extension: 
+- State project ID: TC19960080
+- Latitude: 40.203327
+- Longitude: -77.190583
+- County FIPS: 42041
+- County from: 2020
+- Tract 2020: 42041012200
+- Tract 2010: 42041012200
+- Tract 2000: 42041012200
+- Tract 1990: 42041012200
+- Place 2020: 11272
+- Place 2010: 11272
+- Place 2000: 11272
+- Place 1990: 1565
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 118474
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 1
+- 1-bedroom units: 9
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 481000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: DAVIS COMMONS A&B (MAA20000010)
+
+- HUD ID: MAA20000010
+- HUD ID before: 
+- Project: DAVIS COMMONS A&B
+- Address: 165 CARL AVE
+- City: BROCKTON
+- State: MA
+- ZIP: 02302
+- ZIP extension: 
+- State project ID: 99-010
+- Latitude: 42.059732
+- Longitude: -70.997722
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023511302
+- Tract 2010: 25023511302
+- Tract 2000: 25023511302
+- Tract 1990: 25023511302
+- Place 2020: 09000
+- Place 2010: 09000
+- Place 2000: 09000
+- Place 1990: 0540
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 100
+- 3-bedroom units: 80
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000580. AKA SOUTHFIELD GARDENS.
+- Record status: Existing, unchanged

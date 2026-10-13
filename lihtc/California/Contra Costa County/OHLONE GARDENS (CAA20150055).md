@@ -1,0 +1,85 @@
+# Project: OHLONE GARDENS (CAA20150055)
+
+- HUD ID: CAA20150055
+- HUD ID before: 
+- Project: OHLONE GARDENS
+- Address: 6495 PORTOLA DRIVE
+- City: EL CERRITO
+- State: CA
+- ZIP: 94530
+- ZIP extension: 
+- State project ID: CA-13-144
+- Latitude: 37.913517
+- Longitude: -122.307963
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013387000
+- Tract 2010: 06013387000
+- Tract 2000: 06013387000
+- Tract 1990: 
+- Place 2020: 21796
+- Place 2010: 21796
+- Place 2000: 21796
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1262827
+- Units: 57
+- Low-income units: 56
+- Units reported: 57
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 21
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 56
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1440000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

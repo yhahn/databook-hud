@@ -1,0 +1,85 @@
+# Project: COUNTRYSIDE (FLA20080060)
+
+- HUD ID: FLA20080060
+- HUD ID before: 
+- Project: COUNTRYSIDE
+- Address: 1105 S 13TH ST
+- City: FERNANDINA BEACH
+- State: FL
+- ZIP: 32034
+- ZIP extension: 
+- State project ID: 1810
+- Latitude: 30.656354
+- Longitude: -81.455352
+- County FIPS: 12089
+- County from: 2020
+- Tract 2020: 12089050204
+- Tract 2010: 12089050202
+- Tract 2000: 12089050200
+- Tract 1990: 12089050200
+- Place 2020: 22175
+- Place 2010: 22175
+- Place 2000: 22175
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 98000
+- Units: 39
+- Low-income units: 38
+- Units reported: 39
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

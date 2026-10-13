@@ -1,0 +1,85 @@
+# Project: ISABELA ELDERLY APTS (PRA20070035)
+
+- HUD ID: PRA20070035
+- HUD ID before: 
+- Project: ISABELA ELDERLY APTS
+- Address: 250 CALLE DE LA CANDELARIA
+- City: MAYAGUEZ
+- State: PR
+- ZIP: 00682
+- ZIP extension: 
+- State project ID: 06-021
+- Latitude: 18.2042
+- Longitude: -67.1444
+- County FIPS: 72097
+- County from: 2020
+- Tract 2020: 72097081200
+- Tract 2010: 72097080600
+- Tract 2000: 72097080600
+- Tract 1990: 72097080600
+- Place 2020: 52431
+- Place 2010: 52431
+- Place 2000: 52431
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 353091
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA2007015.
+- Record status: Existing, unchanged

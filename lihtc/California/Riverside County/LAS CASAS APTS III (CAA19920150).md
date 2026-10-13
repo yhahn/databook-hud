@@ -1,0 +1,85 @@
+# Project: LAS CASAS APTS III (CAA19920150)
+
+- HUD ID: CAA19920150
+- HUD ID before: 
+- Project: LAS CASAS APTS III
+- Address: 51550 TYLER ST
+- City: COACHELLA
+- State: CA
+- ZIP: 92236
+- ZIP extension: 
+- State project ID: CA-90-102
+- Latitude: 33.673877
+- Longitude: -116.164036
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065045706
+- Tract 2010: 06065045706
+- Tract 2000: 06065045706
+- Tract 1990: 06065045701
+- Place 2020: 14260
+- Place 2010: 14260
+- Place 2000: 14260
+- Place 1990: 0555
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 457475
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

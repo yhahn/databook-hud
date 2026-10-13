@@ -1,0 +1,85 @@
+# Project: FOXBORO TERRACE APTS. (UTA20050025)
+
+- HUD ID: UTA20050025
+- HUD ID before: 
+- Project: FOXBORO TERRACE APTS.
+- Address: 882 W. FOXBORO DRIVE
+- City: NORTH SALT LAKE
+- State: UT
+- ZIP: 84054
+- ZIP extension: 0000
+- State project ID: 2005-01
+- Latitude: 40.853974
+- Longitude: -111.933989
+- County FIPS: 49011
+- County from: 2020
+- Tract 2020: 49011127002
+- Tract 2010: 49011127002
+- Tract 2000: 49011127002
+- Tract 1990: 49011127002
+- Place 2020: 55210
+- Place 2010: 55210
+- Place 2000: 55210
+- Place 1990: 0680
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 449491
+- Units: 180
+- Low-income units: 170
+- Units reported: 180
+- Low-income reported: 170
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 132
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

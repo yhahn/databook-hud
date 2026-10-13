@@ -1,0 +1,85 @@
+# Project: MILLPORT PHASE II (CTA20180003)
+
+- HUD ID: CTA20180003
+- HUD ID before: 
+- Project: MILLPORT PHASE II
+- Address: 59 AND 61 MILLPORT AVENUE
+- City: NEW CANAAN
+- State: CT
+- ZIP: 06840
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.1403
+- Longitude: -73.4881
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001035101
+- Tract 2010: 09001035100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50576
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 500000
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 16
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

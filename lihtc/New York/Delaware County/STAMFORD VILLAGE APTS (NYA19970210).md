@@ -1,0 +1,85 @@
+# Project: STAMFORD VILLAGE APTS (NYA19970210)
+
+- HUD ID: NYA19970210
+- HUD ID before: 
+- Project: STAMFORD VILLAGE APTS
+- Address: 123 MAIN ST
+- City: STAMFORD
+- State: NY
+- ZIP: 12167
+- ZIP extension: 
+- State project ID: 19940888
+- Latitude: 42.410032
+- Longitude: -74.619808
+- County FIPS: 36025
+- County from: 2020
+- Tract 2020: 36025971000
+- Tract 2010: 36025971000
+- Tract 2000: 36025991000
+- Tract 1990: 36025991000
+- Place 2020: 70618
+- Place 2010: 70618
+- Place 2000: 34979
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 20
+- Units reported: 24
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

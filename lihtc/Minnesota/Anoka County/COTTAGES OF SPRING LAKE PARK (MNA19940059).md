@@ -1,0 +1,85 @@
+# Project: COTTAGES OF SPRING LAKE PARK (MNA19940059)
+
+- HUD ID: MNA19940059
+- HUD ID before: 
+- Project: COTTAGES OF SPRING LAKE PARK
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: SPRING LAKE PARK
+- State: MN
+- ZIP: 55432
+- ZIP extension: 
+- State project ID: D2983
+- Latitude: 45.097
+- Longitude: -93.2535
+- County FIPS: 27003
+- County from: 2020
+- Tract 2020: 27003051102
+- Tract 2010: 27003051102
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22814
+- Place 2010: 22814
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 86
+- Low-income units: 85
+- Units reported: 86
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 56
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

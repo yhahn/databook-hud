@@ -1,0 +1,85 @@
+# Project: HIDDEN OAKS IV (UTA19910906)
+
+- HUD ID: UTA19910906
+- HUD ID before: 
+- Project: HIDDEN OAKS IV
+- Address: 594 N REDWOOD RD
+- City: SALT LAKE CITY
+- State: UT
+- ZIP: 84116
+- ZIP extension: 
+- State project ID: 1989-06
+- Latitude: 40.782269
+- Longitude: -111.939155
+- County FIPS: 49035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49035100308
+- Tract 2000: 49035100305
+- Tract 1990: 49035100304
+- Place 2020: 
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 0870
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

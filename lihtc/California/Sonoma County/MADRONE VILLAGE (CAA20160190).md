@@ -1,0 +1,85 @@
+# Project: MADRONE VILLAGE (CAA20160190)
+
+- HUD ID: CAA20160190
+- HUD ID before: CAA19890190
+- Project: MADRONE VILLAGE
+- Address: 712 SYCAMORE LANE
+- City: PETALUMA
+- State: CA
+- ZIP: 94952
+- ZIP extension: 
+- State project ID: CA-15-814
+- Latitude: 38.247372
+- Longitude: -122.648485
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097150902
+- Tract 2010: 06097150902
+- Tract 2000: 06097150902
+- Tract 1990: 
+- Place 2020: 56784
+- Place 2010: 56784
+- Place 2000: 56784
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 206293
+- Units: 23
+- Low-income units: 22
+- Units reported: 23
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS CAA19890190 AND STATE_ID IS CA-89-023
+- Record status: Existing, unchanged

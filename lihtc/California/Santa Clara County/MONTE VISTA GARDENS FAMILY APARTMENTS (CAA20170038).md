@@ -1,0 +1,85 @@
+# Project: MONTE VISTA GARDENS FAMILY APARTMENTS (CAA20170038)
+
+- HUD ID: CAA20170038
+- HUD ID before: 
+- Project: MONTE VISTA GARDENS FAMILY APARTMENTS
+- Address: 2601 NUESTRA CASTILLO COURT
+- City: SAN JOSE
+- State: CA
+- ZIP: 95127
+- ZIP extension: 
+- State project ID: CA-16-857
+- Latitude: 37.35799
+- Longitude: -121.832197
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085504002
+- Tract 2010: 06085504002
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1305320
+- Units: 144
+- Low-income units: 114
+- Units reported: 144
+- Low-income reported: 114
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 72
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 76
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

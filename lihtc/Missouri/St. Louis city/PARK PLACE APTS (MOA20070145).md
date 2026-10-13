@@ -1,0 +1,85 @@
+# Project: PARK PLACE APTS (MOA20070145)
+
+- HUD ID: MOA20070145
+- HUD ID before: 
+- Project: PARK PLACE APTS
+- Address: 4399 FOREST PARK AVE
+- City: ST LOUIS
+- State: MO
+- ZIP: 63108
+- ZIP extension: 
+- State project ID: 05-417
+- Latitude: 38.637719
+- Longitude: -90.255049
+- County FIPS: 29510
+- County from: 2020
+- Tract 2020: 29510119101
+- Tract 2010: 29510119101
+- Tract 2000: 29510119100
+- Tract 1990: 29510119100
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 669002
+- Units: 242
+- Low-income units: 242
+- Units reported: 242
+- Low-income reported: 242
+- Efficiencies: 0
+- 1-bedroom units: 242
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARK RIDGE APTS (TNA19990065)
+
+- HUD ID: TNA19990065
+- HUD ID before: 
+- Project: PARK RIDGE APTS
+- Address: 1700 PARKRIDGE DR
+- City: JACKSON
+- State: TN
+- ZIP: 38301
+- ZIP extension: 
+- State project ID: TN-98-100
+- Latitude: 35.646803
+- Longitude: -88.790286
+- County FIPS: 47113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47113000500
+- Tract 2000: 47113000500
+- Tract 1990: 47113000500
+- Place 2020: 
+- Place 2010: 37640
+- Place 2000: 37640
+- Place 1990: 0705
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 390961
+- Units: 136
+- Low-income units: 136
+- Units reported: 136
+- Low-income reported: 136
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 72
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA JACKSON BOND.
+- Record status: Existing, unchanged

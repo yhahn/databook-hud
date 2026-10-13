@@ -1,0 +1,85 @@
+# Project: BAKER HEIGHTS II APTS (WVA19889002)
+
+- HUD ID: WVA19889002
+- HUD ID before: 
+- Project: BAKER HEIGHTS II APTS
+- Address: 85 MEGAN ST
+- City: KEARNEYSVILLE
+- State: WV
+- ZIP: 25430
+- ZIP extension: 
+- State project ID: WV-88-01
+- Latitude: 39.414263
+- Longitude: -77.918539
+- County FIPS: 54003
+- County from: 2020
+- Tract 2020: 54003972001
+- Tract 2010: 54003972000
+- Tract 2000: 54003972000
+- Tract 1990: 54003972000
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 52060
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

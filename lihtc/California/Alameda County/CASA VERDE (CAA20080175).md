@@ -1,0 +1,85 @@
+# Project: CASA VERDE (CAA20080175)
+
+- HUD ID: CAA20080175
+- HUD ID before: 
+- Project: CASA VERDE
+- Address: 2398 E 14TH ST
+- City: SAN LEANDRO
+- State: CA
+- ZIP: 94577
+- ZIP extension: 
+- State project ID: CA-06-075
+- Latitude: 37.71662
+- Longitude: -122.14429
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001433104
+- Tract 2010: 06001433104
+- Tract 2000: 06001433101
+- Tract 1990: 06001433100
+- Place 2020: 68084
+- Place 2010: 68084
+- Place 2000: 68084
+- Place 1990: 2525
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 920364
+- Units: 68
+- Low-income units: 67
+- Units reported: 68
+- Low-income reported: 67
+- Efficiencies: 65
+- 1-bedroom units: 2
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 67
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

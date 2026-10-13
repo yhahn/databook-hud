@@ -1,0 +1,85 @@
+# Project: SOMERSWORTH RAD (NHA20213001)
+
+- HUD ID: NHA20213001
+- HUD ID before: 
+- Project: SOMERSWORTH RAD
+- Address: 25 BARTLETT AVENUE
+- City: SOMERSWORTH
+- State: NH
+- ZIP: 03878
+- ZIP extension: 
+- State project ID: NH-99-99
+- Latitude: 43.250488
+- Longitude: -70.874586
+- County FIPS: 33017
+- County from: 2020
+- Tract 2020: 33017083001
+- Tract 2010: 33017083001
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69940
+- Place 2010: 69940
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1152216
+- Units: 169
+- Low-income units: 169
+- Units reported: 169
+- Low-income reported: 169
+- Efficiencies: 0
+- 1-bedroom units: 1111
+- 2-bedroom units: 16
+- 3-bedroom units: 36
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 950000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: General Occupancy
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

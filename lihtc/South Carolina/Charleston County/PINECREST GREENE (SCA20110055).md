@@ -1,0 +1,85 @@
+# Project: PINECREST GREENE (SCA20110055)
+
+- HUD ID: SCA20110055
+- HUD ID before: 
+- Project: PINECREST GREENE
+- Address: 1690 WILLIAM KENNERTY DR
+- City: CHARLESTON
+- State: SC
+- ZIP: 29407
+- ZIP extension: 
+- State project ID: SC-09-134
+- Latitude: 32.811643
+- Longitude: -80.027706
+- County FIPS: 45019
+- County from: 2020
+- Tract 2020: 45019002612
+- Tract 2010: 45019002612
+- Tract 2000: 45019002607
+- Tract 1990: 45019002607
+- Place 2020: 13330
+- Place 2010: 13330
+- Place 2000: 13330
+- Place 1990: 0245
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 775733
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 18
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 2329998
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

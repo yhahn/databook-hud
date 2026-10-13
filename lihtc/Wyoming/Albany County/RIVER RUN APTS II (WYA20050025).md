@@ -1,0 +1,85 @@
+# Project: RIVER RUN APTS II (WYA20050025)
+
+- HUD ID: WYA20050025
+- HUD ID before: 
+- Project: RIVER RUN APTS II
+- Address: 1338 S 17TH ST
+- City: LARAMIE
+- State: WY
+- ZIP: 82070
+- ZIP extension: 
+- State project ID: 03-009
+- Latitude: 41.301401
+- Longitude: -105.575395
+- County FIPS: 56001
+- County from: 2020
+- Tract 2020: 56001963700
+- Tract 2010: 56001963700
+- Tract 2000: 56001963700
+- Tract 1990: 56001963700
+- Place 2020: 45050
+- Place 2010: 45050
+- Place 2000: 45050
+- Place 1990: 0250
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 219175
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 17
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 27
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WYA0000075.
+- Record status: Existing, unchanged

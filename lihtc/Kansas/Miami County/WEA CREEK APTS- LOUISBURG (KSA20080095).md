@@ -1,0 +1,85 @@
+# Project: WEA CREEK APTS/ LOUISBURG (KSA20080095)
+
+- HUD ID: KSA20080095
+- HUD ID before: 
+- Project: WEA CREEK APTS/ LOUISBURG
+- Address: 888 AUTUMN PL
+- City: LOUISBURG
+- State: KS
+- ZIP: 66053
+- ZIP extension: 
+- State project ID: 60481
+- Latitude: 38.615025
+- Longitude: -94.665377
+- County FIPS: 20121
+- County from: 2020
+- Tract 2020: 20121100400
+- Tract 2010: 20121100400
+- Tract 2000: 20121100400
+- Tract 1990: 20121100400
+- Place 2020: 42875
+- Place 2010: 42875
+- Place 2000: 42875
+- Place 1990: 1690
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 423184
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

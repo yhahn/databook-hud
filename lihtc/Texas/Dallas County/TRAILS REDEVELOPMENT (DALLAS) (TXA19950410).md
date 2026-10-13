@@ -1,0 +1,85 @@
+# Project: TRAILS REDEVELOPMENT (DALLAS) (TXA19950410)
+
+- HUD ID: TXA19950410
+- HUD ID before: 
+- Project: TRAILS REDEVELOPMENT (DALLAS)
+- Address: 3109 CHAPEL CREEK DR
+- City: DALLAS
+- State: TX
+- ZIP: 75220
+- ZIP extension: 
+- State project ID: TX2326
+- Latitude: 32.872183
+- Longitude: -96.868667
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113009804
+- Tract 2010: 48113009804
+- Tract 2000: 48113009804
+- Tract 1990: 48113009801
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1085
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 302
+- Low-income units: 302
+- Units reported: 302
+- Low-income reported: 302
+- Efficiencies: 0
+- 1-bedroom units: 136
+- 2-bedroom units: 156
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SPANISH CREEK APTS.
+- Record status: Existing, unchanged

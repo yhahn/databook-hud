@@ -1,0 +1,85 @@
+# Project: WOODBRIDGE APTS (NCA19930415)
+
+- HUD ID: NCA19930415
+- HUD ID before: 
+- Project: WOODBRIDGE APTS
+- Address: 302 GRASS LANE
+- City: WILMINGTON
+- State: NC
+- ZIP: 28405
+- ZIP extension: 
+- State project ID: 9002309
+- Latitude: 34.24531
+- Longitude: -77.895256
+- County FIPS: 37129
+- County from: 2020
+- Tract 2020: 37129010300
+- Tract 2010: 37129010300
+- Tract 2000: 37129011701
+- Tract 1990: 37129010300
+- Place 2020: 74440
+- Place 2010: 74440
+- Place 2000: 
+- Place 1990: 2755
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 37309
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Updated

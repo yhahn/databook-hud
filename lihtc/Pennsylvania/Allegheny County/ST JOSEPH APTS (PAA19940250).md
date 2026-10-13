@@ -1,0 +1,85 @@
+# Project: ST JOSEPH APTS (PAA19940250)
+
+- HUD ID: PAA19940250
+- HUD ID before: 
+- Project: ST JOSEPH APTS
+- Address: 100 ST JOSEPHS DR
+- City: WILMERDING
+- State: PA
+- ZIP: 15148
+- ZIP extension: 
+- State project ID: TC19930079
+- Latitude: 40.393721
+- Longitude: -79.811688
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003508000
+- Tract 2010: 42003508000
+- Tract 2000: 42003508000
+- Tract 1990: 42003508000
+- Place 2020: 85496
+- Place 2010: 85496
+- Place 2000: 85496
+- Place 1990: 8926
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 106753
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Existing, unchanged

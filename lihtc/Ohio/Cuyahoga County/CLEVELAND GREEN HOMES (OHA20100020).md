@@ -1,0 +1,85 @@
+# Project: CLEVELAND GREEN HOMES (OHA20100020)
+
+- HUD ID: OHA20100020
+- HUD ID before: 
+- Project: CLEVELAND GREEN HOMES
+- Address: 3566 E 75TH ST
+- City: CLEVELAND
+- State: OH
+- ZIP: 44105
+- ZIP extension: 
+- State project ID: 080021
+- Latitude: 41.461449
+- Longitude: -81.635924
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035198000
+- Tract 2010: 39035115300
+- Tract 2000: 39035115300
+- Tract 1990: 39035115300
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 14
+- 4-bedroom units: 10
+- Construction: 
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

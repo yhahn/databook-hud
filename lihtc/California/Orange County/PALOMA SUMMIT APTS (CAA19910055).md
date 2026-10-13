@@ -1,0 +1,85 @@
+# Project: PALOMA SUMMIT APTS (CAA19910055)
+
+- HUD ID: CAA19910055
+- HUD ID before: 
+- Project: PALOMA SUMMIT APTS
+- Address: 26371 PALOMA
+- City: FOOTHILL RANCH
+- State: CA
+- ZIP: 92610
+- ZIP extension: 
+- State project ID: CA-91-195
+- Latitude: 33.687701
+- Longitude: -117.670903
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059052430
+- Tract 2010: 06059052426
+- Tract 2000: 06059052426
+- Tract 1990: 06059032011
+- Place 2020: 39496
+- Place 2010: 39496
+- Place 2000: 24730
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 40
+- Units reported: 200
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 100
+- 2-bedroom units: 80
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NORTHERN APARTMENTS (WIA20080070)
+
+- HUD ID: WIA20080070
+- HUD ID before: 
+- Project: NORTHERN APARTMENTS
+- Address: 6 W GRAND AVE
+- City: CHIPPEWA FALLS
+- State: WI
+- ZIP: 54729
+- ZIP extension: 
+- State project ID: 5255
+- Latitude: 44.937193
+- Longitude: -91.39343
+- County FIPS: 55017
+- County from: 2020
+- Tract 2020: 55017010300
+- Tract 2010: 55017010300
+- Tract 2000: 55017010300
+- Tract 1990: 55017010300
+- Place 2020: 14575
+- Place 2010: 14575
+- Place 2000: 14575
+- Place 1990: 0510
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 344511
+- Units: 43
+- Low-income units: 2
+- Units reported: 43
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 236500
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

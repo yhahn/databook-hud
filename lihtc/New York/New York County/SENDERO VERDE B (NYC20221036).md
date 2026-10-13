@@ -1,0 +1,85 @@
+# Project: SENDERO VERDE B (NYC20221036)
+
+- HUD ID: NYC20221036
+- HUD ID before: 
+- Project: SENDERO VERDE B
+- Address: 60 EAST 112TH STREET
+- City: NEW YORK
+- State: NY
+- ZIP: 10029
+- ZIP extension: 
+- State project ID: NY19 02 027
+- Latitude: 40.797069
+- Longitude: -73.946266
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061017402
+- Tract 2010: 36061017402
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 2479886
+- Units: 289
+- Low-income units: 288
+- Units reported: 289
+- Low-income reported: 288
+- Efficiencies: 73
+- 1-bedroom units: 98
+- 2-bedroom units: 79
+- 3-bedroom units: 34
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

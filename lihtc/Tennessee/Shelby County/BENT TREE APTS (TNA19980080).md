@@ -1,0 +1,85 @@
+# Project: BENT TREE APTS (TNA19980080)
+
+- HUD ID: TNA19980080
+- HUD ID before: 
+- Project: BENT TREE APTS
+- Address: 3471 W BRIARPARK DR
+- City: MEMPHIS
+- State: TN
+- ZIP: 38116
+- ZIP extension: 
+- State project ID: TN-96-100
+- Latitude: 35.053976
+- Longitude: -89.996096
+- County FIPS: 47157
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47157022022
+- Tract 2000: 47157022022
+- Tract 1990: 47157022022
+- Place 2020: 
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 333800
+- Units: 379
+- Low-income units: 379
+- Units reported: 379
+- Low-income reported: 379
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 378
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 76
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CORNERSTONE SPRING CREEK.
+- Record status: Existing, unchanged

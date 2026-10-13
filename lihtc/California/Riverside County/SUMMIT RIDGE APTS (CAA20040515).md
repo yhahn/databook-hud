@@ -1,0 +1,85 @@
+# Project: SUMMIT RIDGE APTS (CAA20040515)
+
+- HUD ID: CAA20040515
+- HUD ID before: 
+- Project: SUMMIT RIDGE APTS
+- Address: 555 N HATHAWAY ST
+- City: BANNING
+- State: CA
+- ZIP: 92220
+- ZIP extension: 
+- State project ID: CA-02-091
+- Latitude: 33.931903
+- Longitude: -116.859465
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065044200
+- Tract 2010: 06065044200
+- Tract 2000: 06065044200
+- Tract 1990: 06065044200
+- Place 2020: 03820
+- Place 2010: 03820
+- Place 2000: 03820
+- Place 1990: 0190
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 969462
+- Units: 81
+- Low-income units: 80
+- Units reported: 81
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 41
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

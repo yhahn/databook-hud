@@ -1,0 +1,85 @@
+# Project: HUNT CLUB VILLAGE (ILA20020125)
+
+- HUD ID: ILA20020125
+- HUD ID before: 
+- Project: HUNT CLUB VILLAGE
+- Address: 200 HUNT CLUB DR
+- City: ST CHARLES
+- State: IL
+- ZIP: 60174
+- ZIP extension: 
+- State project ID: 32901
+- Latitude: 41.919199
+- Longitude: -88.296663
+- County FIPS: 17089
+- County from: 2020
+- Tract 2020: 17089852005
+- Tract 2010: 17089852003
+- Tract 2000: 17089852003
+- Tract 1990: 17089852001
+- Place 2020: 66703
+- Place 2010: 66703
+- Place 2000: 66703
+- Place 1990: 5110
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 455133
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 57
+- 2-bedroom units: 47
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

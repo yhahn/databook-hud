@@ -1,0 +1,85 @@
+# Project: MAPLE GROVE VILLAGE (MIA20201012)
+
+- HUD ID: MIA20201012
+- HUD ID before: 
+- Project: MAPLE GROVE VILLAGE
+- Address: 735 SUMMIT PARK COURT
+- City: KALAMAZOO
+- State: MI
+- ZIP: 49007
+- ZIP extension: 0000
+- State project ID: 2222
+- Latitude: 42.297901
+- Longitude: -85.600578
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077000500
+- Tract 2010: 26077000500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 42160
+- Place 2010: 42160
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 449090
+- Units: 33
+- Low-income units: 32
+- Units reported: 33
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 24
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

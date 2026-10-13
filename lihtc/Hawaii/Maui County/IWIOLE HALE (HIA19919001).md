@@ -1,0 +1,85 @@
+# Project: IWIOLE HALE (HIA19919001)
+
+- HUD ID: HIA19919001
+- HUD ID before: 
+- Project: IWIOLE HALE
+- Address: 181 LANAI AVE
+- City: LANAI CITY
+- State: HI
+- ZIP: 96763
+- ZIP extension: 
+- State project ID: HI-1991-002
+- Latitude: 20.832564
+- Longitude: -156.92139
+- County FIPS: 15009
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 15009031601
+- Tract 2000: 15009031600
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 43700
+- Place 2000: 43700
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 492312
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 39
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

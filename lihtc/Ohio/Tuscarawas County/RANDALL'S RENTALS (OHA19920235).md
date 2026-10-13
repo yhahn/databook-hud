@@ -1,0 +1,85 @@
+# Project: RANDALL'S RENTALS (OHA19920235)
+
+- HUD ID: OHA19920235
+- HUD ID before: 
+- Project: RANDALL'S RENTALS
+- Address: 203 DEERSVILLE AVE
+- City: UHRICHSVILLE
+- State: OH
+- ZIP: 44683
+- ZIP extension: 
+- State project ID: OH-92-8139
+- Latitude: 40.389143
+- Longitude: -81.338474
+- County FIPS: 39157
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39157022002
+- Tract 2000: 39157022000
+- Tract 1990: 39157022000
+- Place 2020: 
+- Place 2010: 78176
+- Place 2000: 77924
+- Place 1990: 4315
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

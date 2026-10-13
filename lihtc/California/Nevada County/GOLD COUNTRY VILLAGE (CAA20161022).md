@@ -1,0 +1,85 @@
+# Project: GOLD COUNTRY VILLAGE (CAA20161022)
+
+- HUD ID: CAA20161022
+- HUD ID before: 
+- Project: GOLD COUNTRY VILLAGE
+- Address: 115 UNION JACK
+- City: GRASS VALLEY
+- State: CA
+- ZIP: 95945
+- ZIP extension: 
+- State project ID: CA-12-890
+- Latitude: 39.1686
+- Longitude: -120.9394
+- County FIPS: 06057
+- County from: 2020
+- Tract 2020: 06057000602
+- Tract 2010: 06057000701
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 30798
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 507392
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

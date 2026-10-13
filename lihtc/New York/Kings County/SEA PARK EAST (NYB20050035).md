@@ -1,0 +1,85 @@
+# Project: SEA PARK EAST (NYB20050035)
+
+- HUD ID: NYB20050035
+- HUD ID before: 
+- Project: SEA PARK EAST
+- Address: 2970 W 27TH ST
+- City: BROOKLYN
+- State: NY
+- ZIP: 11224
+- ZIP extension: 
+- State project ID: NY-04-1560
+- Latitude: 40.573492
+- Longitude: -73.993046
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047034200
+- Tract 2010: 36047034200
+- Tract 2000: 36047034000
+- Tract 1990: 36047034000
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 332
+- Low-income units: 308
+- Units reported: 332
+- Low-income reported: 308
+- Efficiencies: 18
+- 1-bedroom units: 45
+- 2-bedroom units: 128
+- 3-bedroom units: 107
+- 4-bedroom units: 34
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

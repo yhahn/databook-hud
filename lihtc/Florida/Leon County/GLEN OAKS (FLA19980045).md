@@ -1,0 +1,85 @@
+# Project: GLEN OAKS (FLA19980045)
+
+- HUD ID: FLA19980045
+- HUD ID before: 
+- Project: GLEN OAKS
+- Address: 2074 MIDYETTE RD
+- City: TALLAHASSEE
+- State: FL
+- ZIP: 32301
+- ZIP extension: 
+- State project ID: 292
+- Latitude: 30.418069
+- Longitude: -84.235134
+- County FIPS: 12073
+- County from: 2020
+- Tract 2020: 12073000303
+- Tract 2010: 12073000303
+- Tract 2000: 12073000303
+- Tract 1990: 12073000300
+- Place 2020: 70600
+- Place 2010: 70600
+- Place 2000: 70600
+- Place 1990: 2070
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 256
+- Low-income units: 256
+- Units reported: 256
+- Low-income reported: 256
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 128
+- 3-bedroom units: 128
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2576000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

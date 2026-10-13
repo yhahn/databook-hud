@@ -1,0 +1,85 @@
+# Project: GREENBRIAR NORTH (ALA19960037)
+
+- HUD ID: ALA19960037
+- HUD ID before: 
+- Project: GREENBRIAR NORTH
+- Address: 1130 OLD MOUNT CARMEL RD
+- City: STEVENSON
+- State: AL
+- ZIP: 35772
+- ZIP extension: 
+- State project ID: AL-96-0103
+- Latitude: 34.878088
+- Longitude: -85.816227
+- County FIPS: 01071
+- County from: 2020
+- Tract 2020: 01071950302
+- Tract 2010: 01071950300
+- Tract 2000: 01071950300
+- Tract 1990: 01071950300
+- Place 2020: 73080
+- Place 2010: 73080
+- Place 2000: 37264
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 28919
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1997060. AKA TKC GREENBRIAR NORTH OF STEVENSON.
+- Record status: Existing, unchanged

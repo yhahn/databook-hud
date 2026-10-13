@@ -1,0 +1,85 @@
+# Project: TEHACHAPI SENIOR MANOR I (CAA20040530)
+
+- HUD ID: CAA20040530
+- HUD ID before: 
+- Project: TEHACHAPI SENIOR MANOR I
+- Address: 544 W E ST
+- City: TEHACHAPI
+- State: CA
+- ZIP: 93561
+- ZIP extension: 
+- State project ID: CA-03-192
+- Latitude: 35.130631
+- Longitude: -118.456612
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029006101
+- Tract 2010: 06029006100
+- Tract 2000: 06029006100
+- Tract 1990: 06029006100
+- Place 2020: 78092
+- Place 2010: 78092
+- Place 2000: 78092
+- Place 1990: 2873
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 278989
+- Units: 71
+- Low-income units: 69
+- Units reported: 71
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 63
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SHAFTER SENIOR MANOR.
+- Record status: Existing, unchanged

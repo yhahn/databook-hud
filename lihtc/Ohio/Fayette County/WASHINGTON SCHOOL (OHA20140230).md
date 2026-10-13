@@ -1,0 +1,85 @@
+# Project: WASHINGTON SCHOOL (OHA20140230)
+
+- HUD ID: OHA20140230
+- HUD ID before: 
+- Project: WASHINGTON SCHOOL
+- Address: 318 N N ST
+- City: WASHINGTON COURT HOUSE
+- State: OH
+- ZIP: 43160
+- ZIP extension: 
+- State project ID: 120092
+- Latitude: 39.53941
+- Longitude: -83.439666
+- County FIPS: 39047
+- County from: 2020
+- Tract 2020: 39047926100
+- Tract 2010: 39047926100
+- Tract 2000: 39047986100
+- Tract 1990: 39047986100
+- Place 2020: 81718
+- Place 2010: 81718
+- Place 2000: 81214
+- Place 1990: 4495
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 891814
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2013044.
+- Record status: Existing, unchanged

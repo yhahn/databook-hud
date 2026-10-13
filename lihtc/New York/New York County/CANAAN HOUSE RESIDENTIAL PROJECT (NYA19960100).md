@@ -1,0 +1,85 @@
+# Project: CANAAN HOUSE RESIDENTIAL PROJECT (NYA19960100)
+
+- HUD ID: NYA19960100
+- HUD ID before: 
+- Project: CANAAN HOUSE RESIDENTIAL PROJECT
+- Address: 8 W 118TH ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10026
+- ZIP extension: 
+- State project ID: NY-93-1116_00743
+- Latitude: 40.801984
+- Longitude: -73.945995
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061019000
+- Tract 2010: 36061019000
+- Tract 2000: 36061019000
+- Tract 1990: 36061019000
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 146
+- Low-income units: 116
+- Units reported: 146
+- Low-income reported: 116
+- Efficiencies: 17
+- 1-bedroom units: 36
+- 2-bedroom units: 43
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SOUTHEND REVITALIZATION 3 (NYA20130299)
+
+- HUD ID: NYA20130299
+- HUD ID before: 
+- Project: SOUTHEND REVITALIZATION 3
+- Address: 67 BROAD ST
+- City: ALBANY
+- State: NY
+- ZIP: 12202
+- ZIP extension: 
+- State project ID: 20116075
+- Latitude: 42.640366
+- Longitude: -73.758627
+- County FIPS: 36001
+- County from: 2020
+- Tract 2020: 36001002500
+- Tract 2010: 36001002500
+- Tract 2000: 36001002500
+- Tract 1990: 36001002500
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0030
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 723386
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

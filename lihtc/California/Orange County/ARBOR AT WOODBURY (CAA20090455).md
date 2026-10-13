@@ -1,0 +1,85 @@
+# Project: ARBOR AT WOODBURY (CAA20090455)
+
+- HUD ID: CAA20090455
+- HUD ID before: 
+- Project: ARBOR AT WOODBURY
+- Address: 300 REGAL
+- City: IRVINE
+- State: CA
+- ZIP: 92620
+- ZIP extension: 
+- State project ID: CA-08-007
+- Latitude: 33.69178
+- Longitude: -117.748067
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059052432
+- Tract 2010: 06059052418
+- Tract 2000: 06059052418
+- Tract 1990: 06059052404
+- Place 2020: 36770
+- Place 2010: 36770
+- Place 2000: 36770
+- Place 1990: 0904
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1713675
+- Units: 90
+- Low-income units: 89
+- Units reported: 90
+- Low-income reported: 89
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 43
+- 3-bedroom units: 29
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 72
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 300000
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

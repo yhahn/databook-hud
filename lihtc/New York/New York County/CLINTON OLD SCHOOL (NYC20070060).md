@@ -1,0 +1,85 @@
+# Project: CLINTON OLD SCHOOL (NYC20070060)
+
+- HUD ID: NYC20070060
+- HUD ID before: 
+- Project: CLINTON OLD SCHOOL
+- Address: 552 W 53RD ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10019
+- ZIP extension: 
+- State project ID: NY0402006
+- Latitude: 40.767051
+- Longitude: -73.992017
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061013501
+- Tract 2010: 36061013500
+- Tract 2000: 36061013500
+- Tract 1990: 36061013500
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 317000
+- Units: 53
+- Low-income units: 52
+- Units reported: 53
+- Low-income reported: 52
+- Efficiencies: 52
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1059084
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CLINTON HOUSING W 53RD.
+- Record status: Existing, unchanged

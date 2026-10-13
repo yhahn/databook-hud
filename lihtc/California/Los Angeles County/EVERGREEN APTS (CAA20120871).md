@@ -1,0 +1,85 @@
+# Project: EVERGREEN APTS (CAA20120871)
+
+- HUD ID: CAA20120871
+- HUD ID before: 
+- Project: EVERGREEN APTS
+- Address: 1528 FREEMAN AVE
+- City: LONG BEACH
+- State: CA
+- ZIP: 90804
+- ZIP extension: 
+- State project ID: CA-11-869
+- Latitude: 33.786494
+- Longitude: -118.155473
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037575103
+- Tract 2010: 06037575103
+- Tract 2000: 06037575103
+- Tract 1990: 06037575100
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 1610
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 716638
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 69
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 43
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1788742
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WASHINGTON CROSSING (MNA20040225)
+
+- HUD ID: MNA20040225
+- HUD ID before: 
+- Project: WASHINGTON CROSSING
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: WINONA
+- State: MN
+- ZIP: 55987
+- ZIP extension: 
+- State project ID: D2937
+- Latitude: 44.05052
+- Longitude: -91.641044
+- County FIPS: 27169
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27169670500
+- Tract 2000: 27169970500
+- Tract 1990: 27169970500
+- Place 2020: 
+- Place 2010: 71032
+- Place 2000: 71032
+- Place 1990: 4145
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 62
+- Low-income units: 42
+- Units reported: 62
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 38
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WINONA MIDDLE SCHOOL RENOVATION.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ISLEWOOD (WAA19900075)
+
+- HUD ID: WAA19900075
+- HUD ID before: 
+- Project: ISLEWOOD
+- Address: 855 GUARD ST
+- City: FRIDAY HARBOR
+- State: WA
+- ZIP: 98250
+- ZIP extension: 
+- State project ID: WA-89-21E
+- Latitude: 48.536089
+- Longitude: -123.027744
+- County FIPS: 53055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53055960400
+- Tract 2000: 53055960400
+- Tract 1990: 53055960400
+- Place 2020: 
+- Place 2010: 25615
+- Place 2000: 25615
+- Place 1990: 0470
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: QUEEN ANNE ARMS APTS (OHA19880455)
+
+- HUD ID: OHA19880455
+- HUD ID before: 
+- Project: QUEEN ANNE ARMS APTS
+- Address: 1950 GOODMAN AVE
+- City: CINCINNATI
+- State: OH
+- ZIP: 45239
+- ZIP extension: 
+- State project ID: OH-88-0257
+- Latitude: 39.216946
+- Longitude: -84.559518
+- County FIPS: 39061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39061021801
+- Tract 2000: 39061021801
+- Tract 1990: 39061021801
+- Place 2020: 
+- Place 2010: 56322
+- Place 2000: 15000
+- Place 1990: 3110
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 5
+- Units reported: 12
+- Low-income reported: 5
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

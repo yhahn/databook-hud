@@ -1,0 +1,85 @@
+# Project: HICKORY SQUARE APARTMENTS - STUTTGART (ARA20060100)
+
+- HUD ID: ARA20060100
+- HUD ID before: 
+- Project: HICKORY SQUARE APARTMENTS - STUTTGART
+- Address: 1468 E 10TH ST EXT
+- City: STUTTGART
+- State: AR
+- ZIP: 72160
+- ZIP extension: 
+- State project ID: AR-87-05-001
+- Latitude: 34.4858
+- Longitude: -91.5611
+- County FIPS: 05001
+- County from: 2020
+- Tract 2020: 05001480500
+- Tract 2010: 05001480500
+- Tract 2000: 05001980300
+- Tract 1990: 05001980300
+- Place 2020: 67490
+- Place 2010: 67490
+- Place 2000: 67490
+- Place 1990: 1905
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 110442
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1987010.
+- Record status: Existing, unchanged

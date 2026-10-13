@@ -1,0 +1,85 @@
+# Project: THE ARBOR AT LINDALE TRAIL (IAA20161008)
+
+- HUD ID: IAA20161008
+- HUD ID before: 
+- Project: THE ARBOR AT LINDALE TRAIL
+- Address: 1362 BLAIRS FERRY RD
+- City: MARION
+- State: IA
+- ZIP: 52302
+- ZIP extension: 3016
+- State project ID: 15-15-16
+- Latitude: 42.032315
+- Longitude: -91.622884
+- County FIPS: 19113
+- County from: 2020
+- Tract 2020: 19113000300
+- Tract 2010: 19113000300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 49485
+- Place 2010: 49485
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 800000
+- Units: 70
+- Low-income units: 60
+- Units reported: 70
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 58
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

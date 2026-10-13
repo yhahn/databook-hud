@@ -1,0 +1,85 @@
+# Project: WINDRUSH APTS (ALA20070220)
+
+- HUD ID: ALA20070220
+- HUD ID before: 
+- Project: WINDRUSH APTS
+- Address: 149 STANLEY DR
+- City: JACKSON
+- State: AL
+- ZIP: 36545
+- ZIP extension: 
+- State project ID: AL-07-0077
+- Latitude: 31.54883
+- Longitude: -87.881975
+- County FIPS: 01025
+- County from: 2020
+- Tract 2020: 01025957901
+- Tract 2010: 01025957901
+- Tract 2000: 01025957901
+- Tract 1990: 01025957900
+- Place 2020: 38152
+- Place 2010: 38152
+- Place 2000: 38152
+- Place 1990: 0950
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2008240.
+- Record status: Existing, unchanged

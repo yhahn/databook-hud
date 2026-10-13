@@ -1,0 +1,85 @@
+# Project: WINDSOR POINTE APARTMENTS (IAA20231010)
+
+- HUD ID: IAA20231010
+- HUD ID before: 
+- Project: WINDSOR POINTE APARTMENTS
+- Address: 3815 TRIPP STREET
+- City: AMES
+- State: IA
+- ZIP: 50014
+- ZIP extension: 5208
+- State project ID: 21-39
+- Latitude: 42.019986
+- Longitude: -93.668835
+- County FIPS: 19169
+- County from: 2020
+- Tract 2020: 19169001304
+- Tract 2010: 19169001301
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 01855
+- Place 2010: 01855
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 819881
+- Units: 145
+- Low-income units: 145
+- Units reported: 145
+- Low-income reported: 145
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 80
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

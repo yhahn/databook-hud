@@ -1,0 +1,85 @@
+# Project: TC CAPITOL SQUARE (MAB20130004)
+
+- HUD ID: MAB20130004
+- HUD ID before: 
+- Project: TC CAPITOL SQUARE
+- Address: 252 MASSACHUSETTS AVE
+- City: ARLINGTON
+- State: MA
+- ZIP: 02474
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.407389
+- Longitude: -71.144671
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017356701
+- Tract 2010: 25017356701
+- Tract 2000: 25017356200
+- Tract 1990: 25017356200
+- Place 2020: 01640
+- Place 2010: 01640
+- Place 2000: 01640
+- Place 1990: 0130
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 
+- Efficiencies: 6
+- 1-bedroom units: 17
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HCA CAPITOL SQUARE APTS.
+- Record status: Existing, unchanged

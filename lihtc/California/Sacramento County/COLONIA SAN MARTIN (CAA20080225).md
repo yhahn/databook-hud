@@ -1,0 +1,85 @@
+# Project: COLONIA SAN MARTIN (CAA20080225)
+
+- HUD ID: CAA20080225
+- HUD ID before: 
+- Project: COLONIA SAN MARTIN
+- Address: 7271 FLORIN MALL DR
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95823
+- ZIP extension: 
+- State project ID: CA-06-056
+- Latitude: 38.493515
+- Longitude: -121.434106
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067005002
+- Tract 2010: 06067005002
+- Tract 2000: 06067005002
+- Tract 1990: 06067005002
+- Place 2020: 24498
+- Place 2010: 24498
+- Place 2000: 24498
+- Place 1990: 1023
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 866820
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 18
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 59
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

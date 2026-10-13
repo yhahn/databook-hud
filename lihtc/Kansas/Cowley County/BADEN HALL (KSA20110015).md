@@ -1,0 +1,85 @@
+# Project: BADEN HALL (KSA20110015)
+
+- HUD ID: KSA20110015
+- HUD ID before: 
+- Project: BADEN HALL
+- Address: 1518 E EIGHTH AVE
+- City: WINFIELD
+- State: KS
+- ZIP: 67156
+- ZIP extension: 
+- State project ID: 60540
+- Latitude: 37.241802
+- Longitude: -96.97904
+- County FIPS: 20035
+- County from: 2020
+- Tract 2020: 20035493500
+- Tract 2010: 20035493500
+- Tract 2000: 20035993500
+- Tract 1990: 20035993500
+- Place 2020: 79950
+- Place 2010: 79950
+- Place 2000: 79950
+- Place 1990: 3090
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 327975
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 6
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2011554.
+- Record status: Existing, unchanged

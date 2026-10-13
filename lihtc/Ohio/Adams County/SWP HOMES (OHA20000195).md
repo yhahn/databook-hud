@@ -1,0 +1,85 @@
+# Project: SWP HOMES (OHA20000195)
+
+- HUD ID: OHA20000195
+- HUD ID before: 
+- Project: SWP HOMES
+- Address: 1520 DORSEY RD
+- City: WINCHESTER
+- State: OH
+- ZIP: 45697
+- ZIP extension: 
+- State project ID: 99-0058
+- Latitude: 38.938108
+- Longitude: -83.656908
+- County FIPS: 39001
+- County from: 2020
+- Tract 2020: 39001770200
+- Tract 2010: 39001770200
+- Tract 2000: 39001990300
+- Tract 1990: 39001990300
+- Place 2020: 85876
+- Place 2010: 85876
+- Place 2000: 13834
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 168993
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 601000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WP HOMES.
+- Record status: Existing, unchanged

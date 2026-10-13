@@ -1,0 +1,85 @@
+# Project: NK WEST BUILDING (ORA20050035)
+
+- HUD ID: ORA20050035
+- HUD ID before: 
+- Project: NK WEST BUILDING
+- Address: 1206 ADAMS AVE
+- City: LA GRANDE
+- State: OR
+- ZIP: 97850
+- ZIP extension: 
+- State project ID: OR-04-00000157A
+- Latitude: 45.328241
+- Longitude: -118.094176
+- County FIPS: 41061
+- County from: 2020
+- Tract 2020: 41061970700
+- Tract 2010: 41061970700
+- Tract 2000: 41061970700
+- Tract 1990: 41061970700
+- Place 2020: 40350
+- Place 2010: 40350
+- Place 2000: 40350
+- Place 1990: 0630
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 427875
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 3
+- 1-bedroom units: 18
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

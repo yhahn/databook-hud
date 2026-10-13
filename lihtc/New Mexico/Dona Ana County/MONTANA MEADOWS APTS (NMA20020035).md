@@ -1,0 +1,85 @@
+# Project: MONTANA MEADOWS APTS (NMA20020035)
+
+- HUD ID: NMA20020035
+- HUD ID before: 
+- Project: MONTANA MEADOWS APTS
+- Address: 201 MONTANA AVE
+- City: LAS CRUCES
+- State: NM
+- ZIP: 88005
+- ZIP extension: 
+- State project ID: 13000
+- Latitude: 32.293499
+- Longitude: -106.774526
+- County FIPS: 35013
+- County from: 2020
+- Tract 2020: 35013000901
+- Tract 2010: 35013000900
+- Tract 2000: 35013000900
+- Tract 1990: 35013000900
+- Place 2020: 39380
+- Place 2010: 39380
+- Place 2000: 39380
+- Place 1990: 0220
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 80
+- Units reported: 81
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 81
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NMA2001901.
+- Record status: Existing, unchanged

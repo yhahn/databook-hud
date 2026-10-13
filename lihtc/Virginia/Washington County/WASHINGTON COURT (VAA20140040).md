@@ -1,0 +1,85 @@
+# Project: WASHINGTON COURT (VAA20140040)
+
+- HUD ID: VAA20140040
+- HUD ID before: 
+- Project: WASHINGTON COURT
+- Address: 250 STONE MILL RD SW
+- City: ABINGDON
+- State: VA
+- ZIP: 24210
+- ZIP extension: 
+- State project ID: 1144
+- Latitude: 36.703144
+- Longitude: -81.989623
+- County FIPS: 51191
+- County from: 2020
+- Tract 2020: 51191010502
+- Tract 2010: 51191010502
+- Tract 2000: 51191010500
+- Tract 1990: 51191010500
+- Place 2020: 00148
+- Place 2010: 00148
+- Place 2000: 00148
+- Place 1990: 0005
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 233516
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1991120.
+- Record status: Existing, unchanged

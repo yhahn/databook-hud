@@ -1,0 +1,85 @@
+# Project: PEVELY POINTE APTS (MOA20090110)
+
+- HUD ID: MOA20090110
+- HUD ID before: 
+- Project: PEVELY POINTE APTS
+- Address: 1001 PEVELY POINTE DR
+- City: PEVELY
+- State: MO
+- ZIP: 63070
+- ZIP extension: 
+- State project ID: 06-073
+- Latitude: 38.274125
+- Longitude: -90.4074
+- County FIPS: 29099
+- County from: 2020
+- Tract 2020: 29099700605
+- Tract 2010: 29099700605
+- Tract 2000: 29099700605
+- Tract 1990: 29099700602
+- Place 2020: 57278
+- Place 2010: 57278
+- Place 2000: 24094
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 834137
+- Units: 256
+- Low-income units: 256
+- Units reported: 256
+- Low-income reported: 256
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 136
+- 3-bedroom units: 84
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 625000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

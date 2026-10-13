@@ -1,0 +1,85 @@
+# Project: PINE CREEK TOWNHOMES (TXA00000449)
+
+- HUD ID: TXA00000449
+- HUD ID before: 
+- Project: PINE CREEK TOWNHOMES
+- Address: 3304 OLD NOONDAY RD
+- City: TYLER
+- State: TX
+- ZIP: 75701
+- ZIP extension: 
+- State project ID: TX1882
+- Latitude: 32.311909
+- Longitude: -95.324519
+- County FIPS: 48423
+- County from: 2020
+- Tract 2020: 48423000700
+- Tract 2010: 48423000700
+- Tract 2000: 48423000700
+- Tract 1990: 48423000700
+- Place 2020: 74144
+- Place 2010: 74144
+- Place 2000: 74144
+- Place 1990: 4350
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 113
+- Low-income units: 113
+- Units reported: 113
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

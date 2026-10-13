@@ -1,0 +1,85 @@
+# Project: HOFFMAN PAVILION (NJA0000X135)
+
+- HUD ID: NJA0000X135
+- HUD ID before: 
+- Project: HOFFMAN PAVILION
+- Address: 75 NEILSON STREET
+- City: NEW BRUNSWICK CITY
+- State: NJ
+- ZIP: 08901
+- ZIP extension: 
+- State project ID: 02594A
+- Latitude: 40.491115
+- Longitude: -74.440524
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023009300
+- Tract 2010: 34023009300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51210
+- Place 2010: 51210
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1400000
+- Units: 66
+- Low-income units: 65
+- Units reported: 66
+- Low-income reported: 65
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

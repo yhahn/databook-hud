@@ -1,0 +1,85 @@
+# Project: WELTON PARK APARTMENTS (COA20160024)
+
+- HUD ID: COA20160024
+- HUD ID before: 
+- Project: WELTON PARK APARTMENTS
+- Address: 2300 WELTON
+- City: DENVER
+- State: CO
+- ZIP: 80205
+- ZIP extension: 
+- State project ID: CO-16-26
+- Latitude: 39.750957
+- Longitude: -104.982716
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031002405
+- Tract 2010: 08031002403
+- Tract 2000: 08031002403
+- Tract 1990: 
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 20000
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1250000
+- Units: 223
+- Low-income units: 223
+- Units reported: 223
+- Low-income reported: 223
+- Efficiencies: 22
+- 1-bedroom units: 109
+- 2-bedroom units: 88
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WILFRID EAST + WEST (NYC20192029)
+
+- HUD ID: NYC20192029
+- HUD ID before: 
+- Project: WILFRID EAST + WEST
+- Address: 1880 BATHGATE AVENUE
+- City: QUEENS
+- State: NY
+- ZIP: 11103
+- ZIP extension: 
+- State project ID: NY1702042
+- Latitude: 40.7616
+- Longitude: -73.9145
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081014900
+- Tract 2010: 36081014900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1929166
+- Units: 137
+- Low-income units: 137
+- Units reported: 137
+- Low-income reported: 137
+- Efficiencies: 50
+- 1-bedroom units: 49
+- 2-bedroom units: 23
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Mental Illness
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

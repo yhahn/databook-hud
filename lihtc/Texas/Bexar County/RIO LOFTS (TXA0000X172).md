@@ -1,0 +1,85 @@
+# Project: RIO LOFTS (TXA0000X172)
+
+- HUD ID: TXA0000X172
+- HUD ID before: 
+- Project: RIO LOFTS
+- Address: 323 W. MITCHELL
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78204
+- ZIP extension: 
+- State project ID: TX5300
+- Latitude: 29.393692
+- Longitude: -98.49663
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029192100
+- Tract 2010: 48029192100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 67
+- Units reported: 81
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 43
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

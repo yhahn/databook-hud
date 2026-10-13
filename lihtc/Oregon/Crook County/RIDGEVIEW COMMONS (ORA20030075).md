@@ -1,0 +1,85 @@
+# Project: RIDGEVIEW COMMONS (ORA20030075)
+
+- HUD ID: ORA20030075
+- HUD ID before: 
+- Project: RIDGEVIEW COMMONS
+- Address: 449 NE RIDGEVIEW CT
+- City: PRINEVILLE
+- State: OR
+- ZIP: 97754
+- ZIP extension: 
+- State project ID: OR-02-00000052A
+- Latitude: 44.30449
+- Longitude: -120.819788
+- County FIPS: 41013
+- County from: 2020
+- Tract 2020: 41013950102
+- Tract 2010: 41013950100
+- Tract 2000: 41013950100
+- Tract 1990: 41013950100
+- Place 2020: 59850
+- Place 2010: 59850
+- Place 2000: 59850
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 470001
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CASTLETON GARDENS (OHA20070025)
+
+- HUD ID: OHA20070025
+- HUD ID before: 
+- Project: CASTLETON GARDENS
+- Address: 1620 LONSDALE RD
+- City: COLUMBUS
+- State: OH
+- ZIP: 43232
+- ZIP extension: 
+- State project ID: 050188
+- Latitude: 39.944861
+- Longitude: -82.849435
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049009361
+- Tract 2010: 39049009361
+- Tract 2000: 39049009361
+- Tract 1990: 39049009361
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,26 @@
+# Tax Credit Projects: Saline County, NE
+
+- Level: County
+- Postal code: NE
+- State FIPS: 31
+- County FIPS: 31151
+- Counties: 
+- Projects: 9
+- Units: 138
+- Low-income units: 138
+
+The low-income housing tax credit projects of Saline County, Nebraska, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [WILBUR FAMILY HOUSING (NEA19880908)](./Saline%20County/WILBUR%20FAMILY%20HOUSING%20%28NEA19880908%29.md) | NEA19880908 | WILBER | 1988 | 8 | 8 |
+| [CRETE APTS (NEA19920035)](./Saline%20County/CRETE%20APTS%20%28NEA19920035%29.md) | NEA19920035 | CRETE | 1992 | 36 | 36 |
+| [WOLVERINE APTS (NEA19940065)](./Saline%20County/WOLVERINE%20APTS%20%28NEA19940065%29.md) | NEA19940065 | WILBER | 1994 | 12 | 12 |
+| [EAST MEADOWS (NEA19950804)](./Saline%20County/EAST%20MEADOWS%20%28NEA19950804%29.md) | NEA19950804 | CRETE | 1995 | 8 | 8 |
+| [WEST MEADOWS (NEA19960813)](./Saline%20County/WEST%20MEADOWS%20%28NEA19960813%29.md) | NEA19960813 | CRETE | 1996 | 8 | 8 |
+| [COUNTRYSIDE HOUSING OF DEWITT (NEA19970804)](./Saline%20County/COUNTRYSIDE%20HOUSING%20OF%20DEWITT%20%28NEA19970804%29.md) | NEA19970804 | DE WITT | 1997 | 4 | 4 |
+| [BLUE TERRACE CROWN (NEA20030010)](./Saline%20County/BLUE%20TERRACE%20CROWN%20%28NEA20030010%29.md) | NEA20030010 | CRETE | 2003 | 16 | 16 |
+| [GOLDENROD VILLAGE (NEA20070005)](./Saline%20County/GOLDENROD%20VILLAGE%20%28NEA20070005%29.md) | NEA20070005 | CRETE | 2007 | 24 | 24 |
+| [BELOHLAVY ESTATES (NEA20230002)](./Saline%20County/BELOHLAVY%20ESTATES%20%28NEA20230002%29.md) | NEA20230002 | CRETE | 2023 | 22 | 22 |

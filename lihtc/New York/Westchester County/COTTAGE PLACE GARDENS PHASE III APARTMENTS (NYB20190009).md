@@ -1,0 +1,85 @@
+# Project: COTTAGE PLACE GARDENS PHASE III APARTMENTS (NYB20190009)
+
+- HUD ID: NYB20190009
+- HUD ID before: 
+- Project: COTTAGE PLACE GARDENS PHASE III APARTMENTS
+- Address: 8 WILLOW PLACE
+- City: YONKERS
+- State: NY
+- ZIP: 10705
+- ZIP extension: 
+- State project ID: 2451
+- Latitude: 40.941812
+- Longitude: -73.896821
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119000403
+- Tract 2010: 36119000402
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 84000
+- Place 2010: 84000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1150584
+- Units: 70
+- Low-income units: 60
+- Units reported: 70
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 35
+- 4-bedroom units: 9
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

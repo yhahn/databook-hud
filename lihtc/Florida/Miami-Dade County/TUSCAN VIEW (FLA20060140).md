@@ -1,0 +1,85 @@
+# Project: TUSCAN VIEW (FLA20060140)
+
+- HUD ID: FLA20060140
+- HUD ID before: 
+- Project: TUSCAN VIEW
+- Address: 670 NW SIXTH ST
+- City: MIAMI
+- State: FL
+- ZIP: 33136
+- ZIP extension: 
+- State project ID: 1491
+- Latitude: 25.779403
+- Longitude: -80.205927
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086003607
+- Tract 2010: 12086003601
+- Tract 2000: 12086003601
+- Tract 1990: 12025003601
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 45000
+- Place 1990: 1370
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 2168075
+- Units: 175
+- Low-income units: 175
+- Units reported: 175
+- Low-income reported: 175
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 99
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 83
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 1500000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

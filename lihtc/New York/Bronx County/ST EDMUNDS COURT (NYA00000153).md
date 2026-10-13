@@ -1,0 +1,85 @@
+# Project: ST EDMUNDS COURT (NYA00000153)
+
+- HUD ID: NYA00000153
+- HUD ID before: 
+- Project: ST EDMUNDS COURT
+- Address: 1892 MORRIS AVE
+- City: BRONX
+- State: NY
+- ZIP: 10453
+- ZIP extension: 
+- State project ID: NY-90-0363_00101
+- Latitude: 40.849363
+- Longitude: -73.907896
+- County FIPS: 36005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36005023301
+- Tract 2000: 36005023301
+- Tract 1990: 36005023301
+- Place 2020: 
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 111
+- Low-income units: 28
+- Units reported: 111
+- Low-income reported: 28
+- Efficiencies: 2
+- 1-bedroom units: 13
+- 2-bedroom units: 8
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001595.
+- Record status: Existing, unchanged

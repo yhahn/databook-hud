@@ -1,0 +1,85 @@
+# Project: WESTPORT VILLAGE APARTMENTS (ILA20190018)
+
+- HUD ID: ILA20190018
+- HUD ID before: 
+- Project: WESTPORT VILLAGE APARTMENTS
+- Address: 26 N GREENFIELD DRIVE
+- City: FREEPORT
+- State: IL
+- ZIP: 61032
+- ZIP extension: 
+- State project ID: 1107215
+- Latitude: 42.295948
+- Longitude: -89.659112
+- County FIPS: 17177
+- County from: 2020
+- Tract 2020: 17177001000
+- Tract 2010: 17177001000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 27884
+- Place 2010: 27884
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1058619
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 8
+- 1-bedroom units: 45
+- 2-bedroom units: 48
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

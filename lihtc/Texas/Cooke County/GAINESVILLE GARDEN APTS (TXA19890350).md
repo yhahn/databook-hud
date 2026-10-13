@@ -1,0 +1,85 @@
+# Project: GAINESVILLE GARDEN APTS (TXA19890350)
+
+- HUD ID: TXA19890350
+- HUD ID before: 
+- Project: GAINESVILLE GARDEN APTS
+- Address: 2300 ALABAMA DR
+- City: GAINESVILLE
+- State: TX
+- ZIP: 76240
+- ZIP extension: 
+- State project ID: TX6379
+- Latitude: 33.645734
+- Longitude: -97.11938
+- County FIPS: 48097
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48097000600
+- Tract 2000: 48097990600
+- Tract 1990: 48097990600
+- Place 2020: 
+- Place 2010: 27984
+- Place 2000: 27984
+- Place 1990: 1563
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GAINESVILLE HOUSING.
+- Record status: Existing, unchanged

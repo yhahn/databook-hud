@@ -1,0 +1,85 @@
+# Project: PORT CRESCENT APTS (MIA20020245)
+
+- HUD ID: MIA20020245
+- HUD ID before: 
+- Project: PORT CRESCENT APTS
+- Address: 151 WATKINS PL
+- City: BAD AXE
+- State: MI
+- ZIP: 48413
+- ZIP extension: 
+- State project ID: MI-2118
+- Latitude: 43.807544
+- Longitude: -83.002725
+- County FIPS: 26063
+- County from: 2020
+- Tract 2020: 26063951000
+- Tract 2010: 26063951000
+- Tract 2000: 26063951000
+- Tract 1990: 26063951000
+- Place 2020: 04740
+- Place 2010: 04740
+- Place 2000: 04740
+- Place 1990: 0125
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 103
+- Units reported: 104
+- Low-income reported: 103
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 48
+- 3-bedroom units: 6
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PORT CRESCENT II.
+- Record status: Existing, unchanged

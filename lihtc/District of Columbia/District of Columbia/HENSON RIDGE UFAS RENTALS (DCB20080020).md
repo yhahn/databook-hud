@@ -1,0 +1,85 @@
+# Project: HENSON RIDGE UFAS RENTALS (DCB20080020)
+
+- HUD ID: DCB20080020
+- HUD ID before: 
+- Project: HENSON RIDGE UFAS RENTALS
+- Address: 3235 FIRST ST
+- City: WASHINGTON
+- State: DC
+- ZIP: 
+- ZIP extension: 
+- State project ID: DCB2008020
+- Latitude: 
+- Longitude: 
+- County FIPS: 11001
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 286702
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 12
+- 4-bedroom units: 9
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 5365067
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ACCESSIBUILD I HENSON RIDGE UFAS RENTALS.
+- Record status: Existing, unchanged

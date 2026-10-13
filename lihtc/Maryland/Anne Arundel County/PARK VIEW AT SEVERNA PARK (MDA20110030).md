@@ -1,0 +1,85 @@
+# Project: PARK VIEW AT SEVERNA PARK (MDA20110030)
+
+- HUD ID: MDA20110030
+- HUD ID before: 
+- Project: PARK VIEW AT SEVERNA PARK
+- Address: 180 RITCHIE HWY
+- City: SEVERNA PARK
+- State: MD
+- ZIP: 21146
+- ZIP extension: 
+- State project ID: MD09-13001
+- Latitude: 39.097345
+- Longitude: -76.564186
+- County FIPS: 24003
+- County from: 2020
+- Tract 2020: 24003730605
+- Tract 2010: 24003730604
+- Tract 2000: 24003730604
+- Tract 1990: 24003730602
+- Place 2020: 71200
+- Place 2010: 71200
+- Place 2000: 71200
+- Place 1990: 0885
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 103
+- Low-income units: 103
+- Units reported: 103
+- Low-income reported: 103
+- Efficiencies: 0
+- 1-bedroom units: 73
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 60
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SEVERNA ON K.
+- Record status: Existing, unchanged

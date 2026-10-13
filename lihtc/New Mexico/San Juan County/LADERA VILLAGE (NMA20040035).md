@@ -1,0 +1,85 @@
+# Project: LADERA VILLAGE (NMA20040035)
+
+- HUD ID: NMA20040035
+- HUD ID before: 
+- Project: LADERA VILLAGE
+- Address: 3500 N BUTLER AVE
+- City: FARMINGTON
+- State: NM
+- ZIP: 87401
+- ZIP extension: 
+- State project ID: 00359
+- Latitude: 36.75826
+- Longitude: -108.19554
+- County FIPS: 35045
+- County from: 2020
+- Tract 2020: 35045000301
+- Tract 2010: 35045000301
+- Tract 2000: 35045000301
+- Tract 1990: 35045000301
+- Place 2020: 25800
+- Place 2010: 25800
+- Place 2000: 25800
+- Place 1990: 0135
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 45
+- Units reported: 60
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 29
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

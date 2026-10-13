@@ -1,0 +1,24 @@
+# Tax Credit Projects: Jo Daviess County, IL
+
+- Level: County
+- Postal code: IL
+- State FIPS: 17
+- County FIPS: 17085
+- Counties: 
+- Projects: 7
+- Units: 148
+- Low-income units: 146
+
+The low-income housing tax credit projects of Jo Daviess County, Illinois, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [HIGH POINT APTS (WARREN) (ILA19890110)](./Jo%20Daviess%20County/HIGH%20POINT%20APTS%20%28WARREN%29%20%28ILA19890110%29.md) | ILA19890110 | WARREN | 1989 | 8 | 8 |
+| [VICTORIA HEIGHTS GALENA (ILA19910055)](./Jo%20Daviess%20County/VICTORIA%20HEIGHTS%20GALENA%20%28ILA19910055%29.md) | ILA19910055 | GALENA | 1991 | 21 | 21 |
+| [MEADOW LANE SENIOR APTS (ILA19920260)](./Jo%20Daviess%20County/MEADOW%20LANE%20SENIOR%20APTS%20%28ILA19920260%29.md) | ILA19920260 | WARREN | 1992 | 16 | 16 |
+| [APPLE RIVER HOUSING (ILA19930045)](./Jo%20Daviess%20County/APPLE%20RIVER%20HOUSING%20%28ILA19930045%29.md) | ILA19930045 | APPLE RIVER | 1993 | 8 | 8 |
+| [HILLSIDE APTS (ILA19930260)](./Jo%20Daviess%20County/HILLSIDE%20APTS%20%28ILA19930260%29.md) | ILA19930260 | ELIZABETH | 1993 | 12 | 12 |
+| [PRESTWICK SENIOR COMMUNITY (ILA20030110)](./Jo%20Daviess%20County/PRESTWICK%20SENIOR%20COMMUNITY%20%28ILA20030110%29.md) | ILA20030110 | GALENA | 2003 | 41 | 40 |
+| [BADGER RIDGE HOMES (ILA20040012)](./Jo%20Daviess%20County/BADGER%20RIDGE%20HOMES%20%28ILA20040012%29.md) | ILA20040012 | EAST DUBUQUE | 2004 | 42 | 41 |

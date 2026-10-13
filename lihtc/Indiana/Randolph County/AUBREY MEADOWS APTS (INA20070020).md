@@ -1,0 +1,85 @@
+# Project: AUBREY MEADOWS APTS (INA20070020)
+
+- HUD ID: INA20070020
+- HUD ID before: 
+- Project: AUBREY MEADOWS APTS
+- Address: 101 N MCDONALD DR
+- City: WINCHESTER
+- State: IN
+- ZIP: 47394
+- ZIP extension: 
+- State project ID: IN-06-00300
+- Latitude: 40.173387
+- Longitude: -84.966061
+- County FIPS: 18135
+- County from: 2020
+- Tract 2020: 18135951700
+- Tract 2010: 18135951700
+- Tract 2000: 18135951700
+- Tract 1990: 18135951700
+- Place 2020: 84752
+- Place 2010: 84752
+- Place 2000: 84752
+- Place 1990: 2770
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 245907
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

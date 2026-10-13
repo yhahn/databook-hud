@@ -1,0 +1,85 @@
+# Project: PROP FAMILY HOUSING PHASE II (MEA20050030)
+
+- HUD ID: MEA20050030
+- HUD ID before: 
+- Project: PROP FAMILY HOUSING PHASE II
+- Address: 77 GRANT ST
+- City: PORTLAND
+- State: ME
+- ZIP: 04101
+- ZIP extension: 
+- State project ID: MSHARLP1341
+- Latitude: 43.656395
+- Longitude: -70.270052
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005001000
+- Tract 2010: 23005001000
+- Tract 2000: 23005001000
+- Tract 1990: 23005001000
+- Place 2020: 60545
+- Place 2010: 60545
+- Place 2000: 60545
+- Place 1990: 3750
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

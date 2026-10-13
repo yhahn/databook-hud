@@ -1,0 +1,85 @@
+# Project: NYCHA TRIBOROUGH PRESERVATION (NYC20162046)
+
+- HUD ID: NYC20162046
+- HUD ID before: 
+- Project: NYCHA TRIBOROUGH PRESERVATION
+- Address: 438-444 EAST 120TH STREET
+- City: NEW YORK
+- State: NY
+- ZIP: 10009
+- ZIP extension: 
+- State project ID: 2014-051
+- Latitude: 40.798047
+- Longitude: -73.932742
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061019200
+- Tract 2010: 36061019200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 527081
+- Units: 42
+- Low-income units: 35
+- Units reported: 42
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 15
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 37
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

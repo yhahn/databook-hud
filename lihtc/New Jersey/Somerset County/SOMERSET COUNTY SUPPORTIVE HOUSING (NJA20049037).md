@@ -1,0 +1,85 @@
+# Project: SOMERSET COUNTY SUPPORTIVE HOUSING (NJA20049037)
+
+- HUD ID: NJA20049037
+- HUD ID before: 
+- Project: SOMERSET COUNTY SUPPORTIVE HOUSING
+- Address: 35 SOMERSET STREET
+- City: SOMERVILLE BORO
+- State: NJ
+- ZIP: 08876
+- ZIP extension: 
+- State project ID: 2312
+- Latitude: 40.569852
+- Longitude: -74.620071
+- County FIPS: 34035
+- County from: 2020
+- Tract 2020: 34035050400
+- Tract 2010: 34035050400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 68460
+- Place 2010: 68460
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 139790
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

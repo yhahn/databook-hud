@@ -1,0 +1,85 @@
+# Project: VILLA AT MORLATTAN (PAA20050185)
+
+- HUD ID: PAA20050185
+- HUD ID before: 
+- Project: VILLA AT MORLATTAN
+- Address: 1180 BEN FRANKLIN HWY E
+- City: DOUGLASSVILLE
+- State: PA
+- ZIP: 19518
+- ZIP extension: 
+- State project ID: TC2003-0106
+- Latitude: 40.258197
+- Longitude: -75.729692
+- County FIPS: 42011
+- County from: 2020
+- Tract 2020: 42011011906
+- Tract 2010: 42011011904
+- Tract 2000: 42011011901
+- Tract 1990: 42011011900
+- Place 2020: 19680
+- Place 2010: 19680
+- Place 2000: 02349
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 128388
+- Units: 102
+- Low-income units: 45
+- Units reported: 102
+- Low-income reported: 45
+- Efficiencies: 9
+- 1-bedroom units: 77
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

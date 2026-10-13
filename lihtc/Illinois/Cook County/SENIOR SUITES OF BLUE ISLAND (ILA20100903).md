@@ -1,0 +1,85 @@
+# Project: SENIOR SUITES OF BLUE ISLAND (ILA20100903)
+
+- HUD ID: ILA20100903
+- HUD ID before: 
+- Project: SENIOR SUITES OF BLUE ISLAND
+- Address: 13201 ASHLAND AVE
+- City: BLUE ISLAND
+- State: IL
+- ZIP: 60406
+- ZIP extension: 
+- State project ID: 296008
+- Latitude: 41.653109
+- Longitude: -87.660318
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031821300
+- Tract 2010: 17031821300
+- Tract 2000: 17031821402
+- Tract 1990: 17031821402
+- Place 2020: 06704
+- Place 2010: 06704
+- Place 2000: 06704
+- Place 1990: 0805
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1248563
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 2
+- 1-bedroom units: 88
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000089.
+- Record status: Existing, unchanged

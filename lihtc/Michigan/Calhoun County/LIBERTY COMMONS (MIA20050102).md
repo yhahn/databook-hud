@@ -1,0 +1,85 @@
+# Project: LIBERTY COMMONS (MIA20050102)
+
+- HUD ID: MIA20050102
+- HUD ID before: 
+- Project: LIBERTY COMMONS
+- Address: 180 CARL AVE
+- City: BATTLE CREEK
+- State: MI
+- ZIP: 49037
+- ZIP extension: 
+- State project ID: MI-61
+- Latitude: 42.31727
+- Longitude: -85.209388
+- County FIPS: 26025
+- County from: 2020
+- Tract 2020: 26025004100
+- Tract 2010: 26025004100
+- Tract 2000: 26025000400
+- Tract 1990: 26025000400
+- Place 2020: 05920
+- Place 2010: 05920
+- Place 2000: 05920
+- Place 1990: 0160
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 709071
+- Units: 158
+- Low-income units: 158
+- Units reported: 158
+- Low-income reported: 158
+- Efficiencies: 0
+- 1-bedroom units: 55
+- 2-bedroom units: 32
+- 3-bedroom units: 53
+- 4-bedroom units: 18
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 82
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

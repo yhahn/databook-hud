@@ -1,0 +1,85 @@
+# Project: BROADSTONE WALK (NCA0000X265)
+
+- HUD ID: NCA0000X265
+- HUD ID before: 
+- Project: BROADSTONE WALK
+- Address: 950 S HUGHES ST APPROX LOCATION OF FUTURE SITE ENTRANCE
+- City: APEX
+- State: NC
+- ZIP: 27502
+- ZIP extension: 
+- State project ID: 9270312
+- Latitude: 35.723
+- Longitude: -78.8732
+- County FIPS: 37183
+- County from: 2020
+- Tract 2020: 37183053433
+- Tract 2010: 37183053414
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 01520
+- Place 2010: 01520
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 164
+- Low-income units: 164
+- Units reported: 0
+- Low-income reported: 164
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 164
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

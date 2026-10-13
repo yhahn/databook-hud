@@ -1,0 +1,85 @@
+# Project: GRATA AT TOTEM LAKE 4% (WAA20240009)
+
+- HUD ID: WAA20240009
+- HUD ID before: 
+- Project: GRATA AT TOTEM LAKE 4%
+- Address: 12410 NE TOTEM LAKE WAY
+- City: KIRKLAND
+- State: WA
+- ZIP: 98034
+- ZIP extension: 
+- State project ID: 20-78A
+- Latitude: 47.712859
+- Longitude: -122.1751
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033021903
+- Tract 2010: 53033021903
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 35940
+- Place 2010: 35940
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 3431882
+- Units: 125
+- Low-income units: 125
+- Units reported: 125
+- Low-income reported: 125
+- Efficiencies: 25
+- 1-bedroom units: 65
+- 2-bedroom units: 10
+- 3-bedroom units: 20
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 45
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

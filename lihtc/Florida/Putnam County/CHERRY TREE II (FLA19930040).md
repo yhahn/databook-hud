@@ -1,0 +1,85 @@
+# Project: CHERRY TREE II (FLA19930040)
+
+- HUD ID: FLA19930040
+- HUD ID before: 
+- Project: CHERRY TREE II
+- Address: 208 ZEAGLER DR
+- City: PALATKA
+- State: FL
+- ZIP: 32177
+- ZIP extension: 
+- State project ID: 160
+- Latitude: 29.645995
+- Longitude: -81.693776
+- County FIPS: 12107
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12107950600
+- Tract 2000: 12107950600
+- Tract 1990: 12107950600
+- Place 2020: 
+- Place 2010: 53875
+- Place 2000: 53875
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

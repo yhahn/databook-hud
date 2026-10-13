@@ -1,0 +1,85 @@
+# Project: VINTAGE AT VANCOUVER (WAA20191036)
+
+- HUD ID: WAA20191036
+- HUD ID before: 
+- Project: VINTAGE AT VANCOUVER
+- Address: 9001 NE 54TH STREET
+- City: VANCOUVER
+- State: WA
+- ZIP: 98662
+- ZIP extension: 6001
+- State project ID: 17-199A
+- Latitude: 45.661601
+- Longitude: -122.580784
+- County FIPS: 53011
+- County from: 2020
+- Tract 2020: 53011041114
+- Tract 2010: 53011041108
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 74060
+- Place 2010: 74060
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 912739
+- Units: 154
+- Low-income units: 153
+- Units reported: 154
+- Low-income reported: 153
+- Efficiencies: 0
+- 1-bedroom units: 77
+- 2-bedroom units: 77
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

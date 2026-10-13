@@ -1,0 +1,85 @@
+# Project: AMERICAN HOUSE OF PRINCETON (WIA19940005)
+
+- HUD ID: WIA19940005
+- HUD ID before: 
+- Project: AMERICAN HOUSE OF PRINCETON
+- Address: 444 W WATER ST
+- City: PRINCETON
+- State: WI
+- ZIP: 54968
+- ZIP extension: 
+- State project ID: 1546
+- Latitude: 43.850062
+- Longitude: -89.127803
+- County FIPS: 55047
+- County from: 2020
+- Tract 2020: 55047100300
+- Tract 2010: 55047100300
+- Tract 2000: 55047980300
+- Tract 1990: 55047980300
+- Place 2020: 65600
+- Place 2010: 65600
+- Place 2000: 65600
+- Place 1990: 2095
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 16
+- Units reported: 24
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

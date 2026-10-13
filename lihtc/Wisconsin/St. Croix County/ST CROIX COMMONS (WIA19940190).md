@@ -1,0 +1,85 @@
+# Project: ST CROIX COMMONS (WIA19940190)
+
+- HUD ID: WIA19940190
+- HUD ID before: 
+- Project: ST CROIX COMMONS
+- Address: 200 OAK ST
+- City: WOODVILLE
+- State: WI
+- ZIP: 54028
+- ZIP extension: 
+- State project ID: 1481
+- Latitude: 44.951503
+- Longitude: -92.290893
+- County FIPS: 55109
+- County from: 2020
+- Tract 2020: 55109120802
+- Tract 2010: 55109120800
+- Tract 2000: 55109120800
+- Tract 1990: 55109120800
+- Place 2020: 89025
+- Place 2010: 89025
+- Place 2000: 04400
+- Place 1990: 0135
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 20
+- Units reported: 40
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 14
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THE RESIDENCES OF LAKE IN THE HILLS (ILA20120817)
+
+- HUD ID: ILA20120817
+- HUD ID before: 
+- Project: THE RESIDENCES OF LAKE IN THE HILLS
+- Address: 2601 VILLAGE HALL DR
+- City: LAKE IN THE HILLS
+- State: IL
+- ZIP: 60156
+- ZIP extension: 
+- State project ID: 1024810
+- Latitude: 42.1727
+- Longitude: -88.3617
+- County FIPS: 17111
+- County from: 2020
+- Tract 2020: 17111871207
+- Tract 2010: 17111871107
+- Tract 2000: 17111871103
+- Tract 1990: 17111871100
+- Place 2020: 41183
+- Place 2010: 41183
+- Place 2000: 00685
+- Place 1990: 1325
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1766050
+- Units: 93
+- Low-income units: 93
+- Units reported: 93
+- Low-income reported: 93
+- Efficiencies: 12
+- 1-bedroom units: 61
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

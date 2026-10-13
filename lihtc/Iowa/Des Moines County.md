@@ -1,0 +1,23 @@
+# Tax Credit Projects: Des Moines County, IA
+
+- Level: County
+- Postal code: IA
+- State FIPS: 19
+- County FIPS: 19057
+- Counties: 
+- Projects: 6
+- Units: 480
+- Low-income units: 423
+
+The low-income housing tax credit projects of Des Moines County, Iowa, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [WEST HIGHLAND APTS (IAA19950145)](./Des%20Moines%20County/WEST%20HIGHLAND%20APTS%20%28IAA19950145%29.md) | IAA19950145 | WEST BURLINGTON | 1995 | 48 | 48 |
+| [HOTEL BURLINGTON SENIOR HOUSING (IAA19980321)](./Des%20Moines%20County/HOTEL%20BURLINGTON%20SENIOR%20HOUSING%20%28IAA19980321%29.md) | IAA19980321 | BURLINGTON | 1998 | 75 | 47 |
+| [THE BURLINGTON APTS (IAA19989001)](./Des%20Moines%20County/THE%20BURLINGTON%20APTS%20%28IAA19989001%29.md) | IAA19989001 | BURLINGTON | 1998 | 75 | 47 |
+| [BLACK HAWK VILLAGE (IAA20039046)](./Des%20Moines%20County/BLACK%20HAWK%20VILLAGE%20%28IAA20039046%29.md) | IAA20039046 | BURLINGTON | 2003 | 48 | 48 |
+| [GREENWAY OF BURLINGTON (IAA20120050)](./Des%20Moines%20County/GREENWAY%20OF%20BURLINGTON%20%28IAA20120050%29.md) | IAA20120050 | BURLINGTON | 2012 | 134 | 133 |
+| [ROBINSON HEIGHTS APTS (IAA20130011)](./Des%20Moines%20County/ROBINSON%20HEIGHTS%20APTS%20%28IAA20130011%29.md) | IAA20130011 | BURLINGTON | 2013 | 100 | 100 |

@@ -1,0 +1,85 @@
+# Project: JASMINE GARDEN (CAA20147486)
+
+- HUD ID: CAA20147486
+- HUD ID before: 
+- Project: JASMINE GARDEN
+- Address: 601 W CORREGIDOR ST
+- City: COMPTON
+- State: CA
+- ZIP: 90220
+- ZIP extension: 
+- State project ID: CA-12-911
+- Latitude: 33.889544
+- Longitude: -118.232807
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037542501
+- Tract 2010: 06037542501
+- Tract 2000: 06037542501
+- Tract 1990: 06037542500
+- Place 2020: 15044
+- Place 2010: 15044
+- Place 2000: 15044
+- Place 1990: 0590
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 164
+- Low-income units: 162
+- Units reported: 164
+- Low-income reported: 162
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

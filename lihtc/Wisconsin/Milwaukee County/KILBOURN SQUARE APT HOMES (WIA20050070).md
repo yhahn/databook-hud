@@ -1,0 +1,85 @@
+# Project: KILBOURN SQUARE APT HOMES (WIA20050070)
+
+- HUD ID: WIA20050070
+- HUD ID before: 
+- Project: KILBOURN SQUARE APT HOMES
+- Address: 2200 W KILBOURN AVE
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53233
+- ZIP extension: 
+- State project ID: 3117
+- Latitude: 43.041801
+- Longitude: -87.940513
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079014800
+- Tract 2010: 55079014800
+- Tract 2000: 55079014800
+- Tract 1990: 55079014800
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 99
+- Low-income units: 79
+- Units reported: 99
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 58
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA KILBOURN SQUARE APTS HOMES.
+- Record status: Existing, unchanged

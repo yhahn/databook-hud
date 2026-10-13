@@ -1,0 +1,85 @@
+# Project: COURT MANOR APTS (ALA19990047)
+
+- HUD ID: ALA19990047
+- HUD ID before: 
+- Project: COURT MANOR APTS
+- Address: 202 NISBETT CT
+- City: PRATTVILLE
+- State: AL
+- ZIP: 36066
+- ZIP extension: 
+- State project ID: AL-99-0061
+- Latitude: 32.47977
+- Longitude: -86.428791
+- County FIPS: 01001
+- County from: 2020
+- Tract 2020: 01001020503
+- Tract 2010: 01001020500
+- Tract 2000: 01001020500
+- Tract 1990: 01001020500
+- Place 2020: 62328
+- Place 2010: 62328
+- Place 2000: 62328
+- Place 1990: 1415
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 227943
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 44
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 640600
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2000055. FKA PINE CREEK APTS
+- Record status: Existing, unchanged

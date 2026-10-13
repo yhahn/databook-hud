@@ -1,0 +1,25 @@
+# Tax Credit Projects: Tazewell County, IL
+
+- Level: County
+- Postal code: IL
+- State FIPS: 17
+- County FIPS: 17179
+- Counties: 
+- Projects: 8
+- Units: 491
+- Low-income units: 491
+
+The low-income housing tax credit projects of Tazewell County, Illinois, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [CREEKWOOD APTS (ILA00000003)](./Tazewell%20County/CREEKWOOD%20APTS%20%28ILA00000003%29.md) | ILA00000003 | MORTON |  | 104 | 104 |
+| [COUNTRY LANE MANOR (ILA19880036)](./Tazewell%20County/COUNTRY%20LANE%20MANOR%20%28ILA19880036%29.md) | ILA19880036 | MINIER | 1988 | 6 | 6 |
+| [SOUTH SIDE UP (ILA19900168)](./Tazewell%20County/SOUTH%20SIDE%20UP%20%28ILA19900168%29.md) | ILA19900168 | EAST PEORIA | 1990 | 4 | 4 |
+| [MEADOW LANE APTS (ILA19930093)](./Tazewell%20County/MEADOW%20LANE%20APTS%20%28ILA19930093%29.md) | ILA19930093 | PEKIN | 1993 | 56 | 56 |
+| [SUN VALLEY APTS (ILA19960195)](./Tazewell%20County/SUN%20VALLEY%20APTS%20%28ILA19960195%29.md) | ILA19960195 | PEKIN | 1996 | 85 | 85 |
+| [PEKIN SUPPORTIVE LIVING (ILA20070230)](./Tazewell%20County/PEKIN%20SUPPORTIVE%20LIVING%20%28ILA20070230%29.md) | ILA20070230 | PEKIN | 2007 | 76 | 76 |
+| [WASHINGTON VILLAGE ESTATES (SLF) (ILA20070260)](./Tazewell%20County/WASHINGTON%20VILLAGE%20ESTATES%20%28SLF%29%20%28ILA20070260%29.md) | ILA20070260 | WASHINGTON | 2007 | 60 | 60 |
+| [LEISURE ACRES PHASE I (ILA20130818)](./Tazewell%20County/LEISURE%20ACRES%20PHASE%20I%20%28ILA20130818%29.md) | ILA20130818 | WASHINGTON | 2013 | 100 | 100 |

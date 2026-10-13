@@ -1,0 +1,23 @@
+# Tax Credit Projects: Gillespie County, TX
+
+- Level: County
+- Postal code: TX
+- State FIPS: 48
+- County FIPS: 48171
+- Counties: 
+- Projects: 6
+- Units: 378
+- Low-income units: 355
+
+The low-income housing tax credit projects of Gillespie County, Texas, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [FREDERICKSBURG SENIORS (TXA0000X978)](./Gillespie%20County/FREDERICKSBURG%20SENIORS%20%28TXA0000X978%29.md) | TXA0000X978 | FREDERICKSBURG |  | 48 | 48 |
+| [FREDRICKSBURG SENIORS (TXA19910195)](./Gillespie%20County/FREDRICKSBURG%20SENIORS%20%28TXA19910195%29.md) | TXA19910195 | FREDERICKSBURG | 1991 | 48 | 48 |
+| [BRENTWOOD OAKS APTS (TXA19980030)](./Gillespie%20County/BRENTWOOD%20OAKS%20APTS%20%28TXA19980030%29.md) | TXA19980030 | FREDERICKSBURG | 1998 | 74 | 56 |
+| [TOWNE PARK IN FREDERICKSBURG I (TXA20030410)](./Gillespie%20County/TOWNE%20PARK%20IN%20FREDERICKSBURG%20I%20%28TXA20030410%29.md) | TXA20030410 | FREDERICKSBURG | 2003 | 88 | 88 |
+| [FRIENDSHIP PLACE (TXA20060030)](./Gillespie%20County/FRIENDSHIP%20PLACE%20%28TXA20060030%29.md) | TXA20060030 | FREDERICKSBURG | 2006 | 76 | 76 |
+| [TOWNE PARK IN FREDERICKSBURG II (TXA20060230)](./Gillespie%20County/TOWNE%20PARK%20IN%20FREDERICKSBURG%20II%20%28TXA20060230%29.md) | TXA20060230 | FREDERICKSBURG | 2006 | 44 | 39 |

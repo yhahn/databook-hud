@@ -1,0 +1,85 @@
+# Project: PADDOCK RIDGE (TNA20110537)
+
+- HUD ID: TNA20110537
+- HUD ID before: 
+- Project: PADDOCK RIDGE
+- Address: 125 SUNLITE RD
+- City: SHELBYVILLE
+- State: TN
+- ZIP: 37160
+- ZIP extension: 
+- State project ID: TN-08-062
+- Latitude: 35.488548
+- Longitude: -86.441989
+- County FIPS: 47003
+- County from: 2020
+- Tract 2020: 47003950500
+- Tract 2010: 47003950500
+- Tract 2000: 47003950500
+- Tract 1990: 47003950500
+- Place 2020: 67760
+- Place 2010: 67760
+- Place 2000: 67760
+- Place 1990: 1295
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 583400
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5772180
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2011075.
+- Record status: Existing, unchanged

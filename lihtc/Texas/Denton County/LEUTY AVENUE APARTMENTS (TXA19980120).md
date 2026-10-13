@@ -1,0 +1,85 @@
+# Project: LEUTY AVENUE APARTMENTS (TXA19980120)
+
+- HUD ID: TXA19980120
+- HUD ID before: 
+- Project: LEUTY AVENUE APARTMENTS
+- Address: 909 W 7TH ST
+- City: JUSTIN
+- State: TX
+- ZIP: 76247
+- ZIP extension: 
+- State project ID: TX1706
+- Latitude: 33.09041
+- Longitude: -97.306203
+- County FIPS: 48121
+- County from: 2020
+- Tract 2020: 48121020313
+- Tract 2010: 48121020309
+- Tract 2000: 48121020301
+- Tract 1990: 48121020301
+- Place 2020: 38332
+- Place 2010: 38332
+- Place 2000: 03768
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

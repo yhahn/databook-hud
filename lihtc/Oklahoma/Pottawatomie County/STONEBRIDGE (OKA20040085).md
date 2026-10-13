@@ -1,0 +1,85 @@
+# Project: STONEBRIDGE (OKA20040085)
+
+- HUD ID: OKA20040085
+- HUD ID before: 
+- Project: STONEBRIDGE
+- Address: 700 N SIXTH ST
+- City: TECUMSEH
+- State: OK
+- ZIP: 74873
+- ZIP extension: 
+- State project ID: SR-02-07-21
+- Latitude: 35.263988
+- Longitude: -96.939444
+- County FIPS: 40125
+- County from: 2020
+- Tract 2020: 40125501101
+- Tract 2010: 40125501101
+- Tract 2000: 40125501101
+- Tract 1990: 40125501101
+- Place 2020: 72650
+- Place 2010: 72650
+- Place 2000: 22500
+- Place 1990: 2395
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 79
+- Low-income units: 79
+- Units reported: 79
+- Low-income reported: 79
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA STONE BRIDGE AFFORDABLE HOUSING PARTNERS.
+- Record status: Existing, unchanged

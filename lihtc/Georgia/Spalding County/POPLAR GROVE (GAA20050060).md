@@ -1,0 +1,85 @@
+# Project: POPLAR GROVE (GAA20050060)
+
+- HUD ID: GAA20050060
+- HUD ID before: 
+- Project: POPLAR GROVE
+- Address: 617 MERIWETHER ST
+- City: GRIFFIN
+- State: GA
+- ZIP: 30224
+- ZIP extension: 4138
+- State project ID: 43-2031829
+- Latitude: 33.244001
+- Longitude: -84.272726
+- County FIPS: 13255
+- County from: 2020
+- Tract 2020: 13255160701
+- Tract 2010: 13255160700
+- Tract 2000: 13255160700
+- Tract 1990: 13255160700
+- Place 2020: 35324
+- Place 2010: 35324
+- Place 2000: 35324
+- Place 1990: 1270
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 145200
+- Units: 36
+- Low-income units: 28
+- Units reported: 36
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

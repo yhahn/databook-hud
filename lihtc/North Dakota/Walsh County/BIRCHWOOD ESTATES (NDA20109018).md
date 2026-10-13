@@ -1,0 +1,85 @@
+# Project: BIRCHWOOD ESTATES (NDA20109018)
+
+- HUD ID: NDA20109018
+- HUD ID before: 
+- Project: BIRCHWOOD ESTATES
+- Address: 1317 EDGEWOOD AVE
+- City: GRAFTON
+- State: ND
+- ZIP: 58237
+- ZIP extension: 0000
+- State project ID: TC-09-14
+- Latitude: 48.411219
+- Longitude: -97.423682
+- County FIPS: 38099
+- County from: 2020
+- Tract 2020: 38099958000
+- Tract 2010: 38099958000
+- Tract 2000: 38099958000
+- Tract 1990: 38099958000
+- Place 2020: 31820
+- Place 2010: 31820
+- Place 2000: 31820
+- Place 1990: 0685
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 4912
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 1105000
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

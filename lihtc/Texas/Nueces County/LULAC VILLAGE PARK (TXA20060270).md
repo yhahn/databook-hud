@@ -1,0 +1,85 @@
+# Project: LULAC VILLAGE PARK (TXA20060270)
+
+- HUD ID: TXA20060270
+- HUD ID before: 
+- Project: LULAC VILLAGE PARK
+- Address: 1417 HORNE RD
+- City: CORPUS CHRISTI
+- State: TX
+- ZIP: 78416
+- ZIP extension: 
+- State project ID: TX4094
+- Latitude: 27.75985
+- Longitude: -97.434985
+- County FIPS: 48355
+- County from: 2020
+- Tract 2020: 48355001704
+- Tract 2010: 48355001701
+- Tract 2000: 48355001700
+- Tract 1990: 48355001700
+- Place 2020: 17000
+- Place 2010: 17000
+- Place 2000: 17000
+- Place 1990: 0980
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 899429
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 64
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

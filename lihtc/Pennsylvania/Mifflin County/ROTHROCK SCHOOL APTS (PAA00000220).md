@@ -1,0 +1,85 @@
+# Project: ROTHROCK SCHOOL APTS (PAA00000220)
+
+- HUD ID: PAA00000220
+- HUD ID before: 
+- Project: ROTHROCK SCHOOL APTS
+- Address: 280 W HOLIDAY ST
+- City: MC VEYTOWN
+- State: PA
+- ZIP: 17051
+- ZIP extension: 
+- State project ID: TC19910142
+- Latitude: 40.499063
+- Longitude: -77.743648
+- County FIPS: 42087
+- County from: 2020
+- Tract 2020: 42087960500
+- Tract 2010: 42087960500
+- Tract 2000: 42087960500
+- Tract 1990: 42087960500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 46400
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Existing, unchanged

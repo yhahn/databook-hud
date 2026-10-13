@@ -1,0 +1,85 @@
+# Project: POPLAR RIDGE (VAA20050773)
+
+- HUD ID: VAA20050773
+- HUD ID before: 
+- Project: POPLAR RIDGE
+- Address: 108 POPLAR RIDGE CT
+- City: MADISON
+- State: VA
+- ZIP: 22727
+- ZIP extension: 
+- State project ID: 1083
+- Latitude: 38.3225
+- Longitude: -78.3461
+- County FIPS: 51113
+- County from: 2020
+- Tract 2020: 51113930201
+- Tract 2010: 51113930200
+- Tract 2000: 51113990200
+- Tract 1990: 51113990200
+- Place 2020: 48488
+- Place 2010: 99999
+- Place 2000: 48488
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 25744
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1994095.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GRACE SENIOR APARTMENTS (NVA20049020)
+
+- HUD ID: NVA20049020
+- HUD ID before: NVA00000012
+- Project: GRACE SENIOR APARTMENTS
+- Address: 1260 COMMERCE ST
+- City: SPARKS
+- State: NV
+- ZIP: 89431
+- ZIP extension: 0000
+- State project ID: 02-09
+- Latitude: 39.544562
+- Longitude: -119.763065
+- County FIPS: 32031
+- County from: 2020
+- Tract 2020: 32031001903
+- Tract 2010: 32031001902
+- Tract 2000: 32031001902
+- Tract 1990: 32031001900
+- Place 2020: 68400
+- Place 2010: 68400
+- Place 2000: 68400
+- Place 1990: 0100
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 426584
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 55
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS NVA00000012
+- Record status: Existing, unchanged

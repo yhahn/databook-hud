@@ -1,0 +1,85 @@
+# Project: MASSILLON SENIOR (OHA20110110)
+
+- HUD ID: OHA20110110
+- HUD ID before: 
+- Project: MASSILLON SENIOR
+- Address: 125 DAVID CANARY DR SW
+- City: MASSILLON
+- State: OH
+- ZIP: 44647
+- ZIP extension: 
+- State project ID: 090104
+- Latitude: 40.794742
+- Longitude: -81.524431
+- County FIPS: 39151
+- County from: 2020
+- Tract 2020: 39151715000
+- Tract 2010: 39151715000
+- Tract 2000: 39151714100
+- Tract 1990: 39151714100
+- Place 2020: 48244
+- Place 2010: 48244
+- Place 2000: 48244
+- Place 1990: 2525
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 52
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2187349
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2011866.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COUNTRY CLUB MANOR (ORA19880050)
+
+- HUD ID: ORA19880050
+- HUD ID before: 
+- Project: COUNTRY CLUB MANOR
+- Address: 2477 CAL YOUNG RD
+- City: EUGENE
+- State: OR
+- ZIP: 97401
+- ZIP extension: 
+- State project ID: OR88-237
+- Latitude: 44.077623
+- Longitude: -123.073303
+- County FIPS: 41039
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41039002902
+- Tract 2000: 41039002902
+- Tract 1990: 41039002902
+- Place 2020: 
+- Place 2010: 23850
+- Place 2000: 23850
+- Place 1990: 0360
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

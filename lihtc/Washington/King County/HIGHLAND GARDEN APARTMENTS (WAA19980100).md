@@ -1,0 +1,85 @@
+# Project: HIGHLAND GARDEN APARTMENTS (WAA19980100)
+
+- HUD ID: WAA19980100
+- HUD ID before: 
+- Project: HIGHLAND GARDEN APARTMENTS
+- Address: 4575 KLAHANIE DRIVE SE
+- City: SAMAMMISH
+- State: WA
+- ZIP: 98029
+- ZIP extension: 
+- State project ID: 96-36Z
+- Latitude: 47.564675
+- Longitude: -122.005304
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033032223
+- Tract 2010: 53033032212
+- Tract 2000: 53033032212
+- Tract 1990: 53033032206
+- Place 2020: 61115
+- Place 2010: 36101
+- Place 2000: 
+- Place 1990: 0982
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 450000
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 5
+- 1-bedroom units: 1
+- 2-bedroom units: 13
+- 3-bedroom units: 22
+- 4-bedroom units: 9
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 37
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

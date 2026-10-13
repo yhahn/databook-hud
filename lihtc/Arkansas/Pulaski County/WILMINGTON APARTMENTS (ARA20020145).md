@@ -1,0 +1,85 @@
+# Project: WILMINGTON APARTMENTS (ARA20020145)
+
+- HUD ID: ARA20020145
+- HUD ID before: 
+- Project: WILMINGTON APARTMENTS
+- Address: 617 DONOVAN BRILEY BLVD
+- City: NORTH LITTLE ROCK
+- State: AR
+- ZIP: 72115
+- ZIP extension: 
+- State project ID: AR-00-59-001
+- Latitude: 34.813565
+- Longitude: -92.274391
+- County FIPS: 05119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05119003202
+- Tract 2000: 05119003202
+- Tract 1990: 05119003202
+- Place 2020: 
+- Place 2010: 50450
+- Place 2000: 50450
+- Place 1990: 1475
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 255813
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 36
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

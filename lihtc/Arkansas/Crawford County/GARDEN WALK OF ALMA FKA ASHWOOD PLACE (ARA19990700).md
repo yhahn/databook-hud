@@ -1,0 +1,85 @@
+# Project: GARDEN WALK OF ALMA FKA ASHWOOD PLACE (ARA19990700)
+
+- HUD ID: ARA19990700
+- HUD ID before: 
+- Project: GARDEN WALK OF ALMA FKA ASHWOOD PLACE
+- Address: 800 HARRIS DR
+- City: ALMA
+- State: AR
+- ZIP: 72921
+- ZIP extension: 
+- State project ID: AR-98-02-001
+- Latitude: 35.478687
+- Longitude: -94.210277
+- County FIPS: 05033
+- County from: 2020
+- Tract 2020: 05033020602
+- Tract 2010: 05033020600
+- Tract 2000: 05033020600
+- Tract 1990: 05033020600
+- Place 2020: 99999
+- Place 2010: 00970
+- Place 2000: 00970
+- Place 1990: 0025
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 43707
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 1
+- 1-bedroom units: 1
+- 2-bedroom units: 15
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1999032. AKA ALMA PROPERTIES II. FKA ASHWOOD PLACE
+- Record status: Existing, unchanged

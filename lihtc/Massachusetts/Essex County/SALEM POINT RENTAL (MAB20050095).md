@@ -1,0 +1,85 @@
+# Project: SALEM POINT RENTAL (MAB20050095)
+
+- HUD ID: MAB20050095
+- HUD ID before: 
+- Project: SALEM POINT RENTAL
+- Address: 1 PRINCE ST PL
+- City: SALEM
+- State: MA
+- ZIP: 01970
+- ZIP extension: 
+- State project ID: MAB2005024
+- Latitude: 42.517314
+- Longitude: -70.890546
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009204300
+- Tract 2010: 25009204300
+- Tract 2000: 25009204300
+- Tract 1990: 25009204300
+- Place 2020: 59105
+- Place 2010: 59105
+- Place 2000: 59105
+- Place 1990: 3670
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 9
+- 3-bedroom units: 39
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

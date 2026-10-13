@@ -1,0 +1,85 @@
+# Project: PLAYA DEL SOL FAMILY APARTMENTS (CAA20191091)
+
+- HUD ID: CAA20191091
+- HUD ID before: 
+- Project: PLAYA DEL SOL FAMILY APARTMENTS
+- Address: 5235 CALLE DORADO
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92154
+- ZIP extension: 
+- State project ID: CA-2018-749
+- Latitude: 32.5689
+- Longitude: -117.0905
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073010017
+- Tract 2010: 06073010110
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 731293
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 
+- 1-bedroom units: 3
+- 2-bedroom units: 15
+- 3-bedroom units: 24
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

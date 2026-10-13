@@ -1,0 +1,85 @@
+# Project: IMI IKENA APTS (HIA20132002)
+
+- HUD ID: HIA20132002
+- HUD ID before: 
+- Project: IMI IKENA APTS
+- Address: 511 IMI PL
+- City: WAILUKU
+- State: HI
+- ZIP: 96793
+- ZIP extension: 
+- State project ID: HI-2011-001
+- Latitude: 20.899813
+- Longitude: -156.487017
+- County FIPS: 15009
+- County from: 2020
+- Tract 2020: 15009031002
+- Tract 2010: 15009031000
+- Tract 2000: 15009031000
+- Tract 1990: 
+- Place 2020: 77450
+- Place 2010: 77450
+- Place 2000: 77450
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 827922
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

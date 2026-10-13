@@ -1,0 +1,85 @@
+# Project: PROSPERA AT FIDDYMENT RANCH F.K.A HAYDEN PARKWAY APARTMENTS (CAA20240094)
+
+- HUD ID: CAA20240094
+- HUD ID before: 
+- Project: PROSPERA AT FIDDYMENT RANCH F.K.A HAYDEN PARKWAY APARTMENTS
+- Address: 2801 N. HAYDEN PARKWAY
+- City: ROSEVILLE
+- State: CA
+- ZIP: 95747
+- ZIP extension: 
+- State project ID: CA-2022-507
+- Latitude: 38.798765
+- Longitude: -121.371918
+- County FIPS: 06061
+- County from: 2020
+- Tract 2020: 06061021328
+- Tract 2010: 06061021322
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 62938
+- Place 2010: 62938
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 2161489
+- Units: 94
+- Low-income units: 93
+- Units reported: 94
+- Low-income reported: 93
+- Efficiencies: 
+- 1-bedroom units: 22
+- 2-bedroom units: 41
+- 3-bedroom units: 31
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 73
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: ADA and Accessible Units pursuant to CBC Chapter 11B
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

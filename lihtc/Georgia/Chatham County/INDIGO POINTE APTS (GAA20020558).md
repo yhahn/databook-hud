@@ -1,0 +1,85 @@
+# Project: INDIGO POINTE APTS (GAA20020558)
+
+- HUD ID: GAA20020558
+- HUD ID before: 
+- Project: INDIGO POINTE APTS
+- Address: 4750 LA ROCHE AVE
+- City: SAVANNAH
+- State: GA
+- ZIP: 31404
+- ZIP extension: 
+- State project ID: GA-00-505
+- Latitude: 32.024025
+- Longitude: -81.069086
+- County FIPS: 13051
+- County from: 2020
+- Tract 2020: 13051003800
+- Tract 2010: 13051003800
+- Tract 2000: 13051003800
+- Tract 1990: 13051003800
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 69000
+- Place 1990: 2540
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 310
+- Low-income units: 310
+- Units reported: 310
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 161
+- 3-bedroom units: 106
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000240.
+- Record status: Existing, unchanged

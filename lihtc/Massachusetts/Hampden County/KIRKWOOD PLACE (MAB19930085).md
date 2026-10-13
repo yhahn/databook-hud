@@ -1,0 +1,85 @@
+# Project: KIRKWOOD PLACE (MAB19930085)
+
+- HUD ID: MAB19930085
+- HUD ID before: 
+- Project: KIRKWOOD PLACE
+- Address: 4216 MAIN ST
+- City: PALMER
+- State: MA
+- ZIP: 01069
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.187746
+- Longitude: -72.344215
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013810200
+- Tract 2010: 25013810200
+- Tract 2000: 25013810200
+- Tract 1990: 25013810200
+- Place 2020: 52144
+- Place 2010: 52144
+- Place 2000: 06400
+- Place 1990: 0435
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 24
+- Units reported: 26
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

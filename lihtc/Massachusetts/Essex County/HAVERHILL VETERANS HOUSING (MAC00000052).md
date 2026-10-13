@@ -1,0 +1,85 @@
+# Project: HAVERHILL VETERANS HOUSING (MAC00000052)
+
+- HUD ID: MAC00000052
+- HUD ID before: 
+- Project: HAVERHILL VETERANS HOUSING
+- Address: 2 REED ST
+- City: HAVERHILL
+- State: MA
+- ZIP: 01832
+- ZIP extension: 
+- State project ID: MA1012-660
+- Latitude: 42.77277
+- Longitude: -71.089681
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009260800
+- Tract 2010: 25009260800
+- Tract 2000: 25009260800
+- Tract 1990: 25009260800
+- Place 2020: 29405
+- Place 2010: 29405
+- Place 2000: 29405
+- Place 1990: 1710
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

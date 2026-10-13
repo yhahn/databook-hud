@@ -1,0 +1,85 @@
+# Project: WIND ROSE APTS (OHA19940355)
+
+- HUD ID: OHA19940355
+- HUD ID before: 
+- Project: WIND ROSE APTS
+- Address: 45 WIND ROSE CT
+- City: COLUMBIANA
+- State: OH
+- ZIP: 44408
+- ZIP extension: 
+- State project ID: OH-93-3077
+- Latitude: 40.878786
+- Longitude: -80.699212
+- County FIPS: 39029
+- County from: 2020
+- Tract 2020: 39029950200
+- Tract 2010: 39029950200
+- Tract 2000: 39029950200
+- Tract 1990: 39029950200
+- Place 2020: 17036
+- Place 2010: 17036
+- Place 2000: 17036
+- Place 1990: 0955
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 59570
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

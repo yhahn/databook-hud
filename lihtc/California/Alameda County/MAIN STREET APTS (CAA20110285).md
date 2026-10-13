@@ -1,0 +1,85 @@
+# Project: MAIN STREET APTS (CAA20110285)
+
+- HUD ID: CAA20110285
+- HUD ID before: 
+- Project: MAIN STREET APTS
+- Address: 3615 MAIN ST
+- City: FREMONT
+- State: CA
+- ZIP: 94538
+- ZIP extension: 
+- State project ID: CA-09-607
+- Latitude: 37.534064
+- Longitude: -121.95522
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001442302
+- Tract 2010: 06001442302
+- Tract 2000: 06001442300
+- Tract 1990: 06001442300
+- Place 2020: 26000
+- Place 2010: 26000
+- Place 2000: 26000
+- Place 1990: 1080
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 63
+- Units reported: 64
+- Low-income reported: 63
+- Efficiencies: 17
+- 1-bedroom units: 17
+- 2-bedroom units: 20
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 63
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 19958952
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011566. AKA MAIN STREET VILLAGE.
+- Record status: Existing, unchanged

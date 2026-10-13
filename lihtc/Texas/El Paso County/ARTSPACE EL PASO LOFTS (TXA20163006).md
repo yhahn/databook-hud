@@ -1,0 +1,85 @@
+# Project: ARTSPACE EL PASO LOFTS (TXA20163006)
+
+- HUD ID: TXA20163006
+- HUD ID before: 
+- Project: ARTSPACE EL PASO LOFTS
+- Address: 601 N. OREGON STREET
+- City: EL PASO
+- State: TX
+- ZIP: 79901
+- ZIP extension: 
+- State project ID: TX5000
+- Latitude: 31.761067
+- Longitude: -106.490723
+- County FIPS: 48141
+- County from: 2020
+- Tract 2020: 48141001600
+- Tract 2010: 48141001600
+- Tract 2000: 48141001600
+- Tract 1990: 48141001600
+- Place 2020: 24000
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 1340
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

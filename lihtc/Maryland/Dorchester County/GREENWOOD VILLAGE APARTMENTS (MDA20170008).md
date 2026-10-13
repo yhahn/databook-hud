@@ -1,0 +1,85 @@
+# Project: GREENWOOD VILLAGE APARTMENTS (MDA20170008)
+
+- HUD ID: MDA20170008
+- HUD ID before: 
+- Project: GREENWOOD VILLAGE APARTMENTS
+- Address: 1001 COSBY LANE
+- City: CAMBRIDGE
+- State: MD
+- ZIP: 21613
+- ZIP extension: 
+- State project ID: MD-93-07
+- Latitude: 38.569761
+- Longitude: -76.087867
+- County FIPS: 24019
+- County from: 2020
+- Tract 2020: 24019970500
+- Tract 2010: 24019970500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 12400
+- Place 2010: 12400
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 516797
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

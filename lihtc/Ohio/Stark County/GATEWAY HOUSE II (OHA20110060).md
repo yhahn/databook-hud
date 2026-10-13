@@ -1,0 +1,85 @@
+# Project: GATEWAY HOUSE II (OHA20110060)
+
+- HUD ID: OHA20110060
+- HUD ID before: 
+- Project: GATEWAY HOUSE II
+- Address: 626 WALNUT AVE NE
+- City: CANTON
+- State: OH
+- ZIP: 44702
+- ZIP extension: 
+- State project ID: 080163
+- Latitude: 40.802229
+- Longitude: -81.371197
+- County FIPS: 39151
+- County from: 2020
+- Tract 2020: 39151700100
+- Tract 2010: 39151700100
+- Tract 2000: 39151700100
+- Tract 1990: 39151700100
+- Place 2020: 12000
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 0705
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 30
+- 1-bedroom units: 9
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1548386
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2011848.
+- Record status: Existing, unchanged

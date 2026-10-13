@@ -1,0 +1,85 @@
+# Project: AMORCE II (MNA20181020)
+
+- HUD ID: MNA20181020
+- HUD ID before: 
+- Project: AMORCE II
+- Address: 3755 HUBBARD AVE
+- City: ROBBINSDALE
+- State: MN
+- ZIP: 55422
+- ZIP extension: 
+- State project ID: D7963
+- Latitude: 45.024095
+- Longitude: -93.332994
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053021300
+- Tract 2010: 27053021300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 54808
+- Place 2010: 54808
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 520412
+- Units: 86
+- Low-income units: 86
+- Units reported: 86
+- Low-income reported: 86
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 40
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 400000
+- CDBG: Yes
+- CDBG amount: 300000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: N
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

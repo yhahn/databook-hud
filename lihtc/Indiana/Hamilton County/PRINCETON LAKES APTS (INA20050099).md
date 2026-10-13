@@ -1,0 +1,85 @@
+# Project: PRINCETON LAKES APTS (INA20050099)
+
+- HUD ID: INA20050099
+- HUD ID before: 
+- Project: PRINCETON LAKES APTS
+- Address: 17955 MURRAY PL
+- City: NOBLESVILLE
+- State: IN
+- ZIP: 46060
+- ZIP extension: 
+- State project ID: IN-03-00200
+- Latitude: 40.049092
+- Longitude: -85.988454
+- County FIPS: 18057
+- County from: 2020
+- Tract 2020: 18057110513
+- Tract 2010: 18057110506
+- Tract 2000: 18057110504
+- Tract 1990: 18057110504
+- Place 2020: 54180
+- Place 2010: 54180
+- Place 2000: 54180
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 208
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 104
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 107
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2004038.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MAYSVILLE HIGH SCHOOL APTS (KYA20140010)
+
+- HUD ID: KYA20140010
+- HUD ID before: 
+- Project: MAYSVILLE HIGH SCHOOL APTS
+- Address: LIMESTONE ST
+- City: MAYSVILLE
+- State: KY
+- ZIP: 
+- ZIP extension: 
+- State project ID: KY-13-012
+- Latitude: 38.6633
+- Longitude: -83.7874
+- County FIPS: 21161
+- County from: 2020
+- Tract 2020: 21161960300
+- Tract 2010: 21161960300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51024
+- Place 2010: 51024
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 717504
+- Units: 29
+- Low-income units: 29
+- Units reported: 29
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 17
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KYA1998085. AKA THE LANDINGS.;
+- Record status: Existing, unchanged

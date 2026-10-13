@@ -1,0 +1,85 @@
+# Project: WELLINGTON PLACE (KSA20020085)
+
+- HUD ID: KSA20020085
+- HUD ID before: 
+- Project: WELLINGTON PLACE
+- Address: 924 S WASHINGTON AVE
+- City: WELLINGTON
+- State: KS
+- ZIP: 67152
+- ZIP extension: 
+- State project ID: 
+- Latitude: 37.257412
+- Longitude: -97.397898
+- County FIPS: 20191
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20191962500
+- Tract 2000: 20191992500
+- Tract 1990: 20191992500
+- Place 2020: 
+- Place 2010: 76475
+- Place 2000: 76475
+- Place 1990: 2960
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 15
+- Units reported: 18
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1999145.
+- Record status: Existing, unchanged

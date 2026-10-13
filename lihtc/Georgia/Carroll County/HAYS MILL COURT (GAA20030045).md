@@ -1,0 +1,85 @@
+# Project: HAYS MILL COURT (GAA20030045)
+
+- HUD ID: GAA20030045
+- HUD ID before: 
+- Project: HAYS MILL COURT
+- Address: 903 HAYS MILL RD
+- City: CARROLLTON
+- State: GA
+- ZIP: 30117
+- ZIP extension: 4626
+- State project ID: GA-01-010
+- Latitude: 33.555947
+- Longitude: -85.091806
+- County FIPS: 13045
+- County from: 2020
+- Tract 2020: 13045911101
+- Tract 2010: 13045911100
+- Tract 2000: 13045991100
+- Tract 1990: 13045991100
+- Place 2020: 13492
+- Place 2010: 13492
+- Place 2000: 13492
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 226496
+- Units: 62
+- Low-income units: 49
+- Units reported: 62
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MARION VILLAS APARTMENTS (CAA20150046)
+
+- HUD ID: CAA20150046
+- HUD ID before: 
+- Project: MARION VILLAS APARTMENTS
+- Address: 1600 MARION STREET
+- City: KINGSBURG
+- State: CA
+- ZIP: 93631
+- ZIP extension: 
+- State project ID: CA-13-155
+- Latitude: 36.515954
+- Longitude: -119.553796
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019007204
+- Tract 2010: 06019007201
+- Tract 2000: 06019007201
+- Tract 1990: 
+- Place 2020: 38562
+- Place 2010: 38562
+- Place 2000: 38562
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 611918
+- Units: 46
+- Low-income units: 45
+- Units reported: 46
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

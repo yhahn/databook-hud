@@ -1,0 +1,85 @@
+# Project: CEDARBROOK (CAA19990110)
+
+- HUD ID: CAA19990110
+- HUD ID before: 
+- Project: CEDARBROOK
+- Address: 1850 RODGERS RD
+- City: HANFORD
+- State: CA
+- ZIP: 93230
+- ZIP extension: 
+- State project ID: CA-98-948
+- Latitude: 36.345262
+- Longitude: -119.659736
+- County FIPS: 06031
+- County from: 2020
+- Tract 2020: 06031000604
+- Tract 2010: 06031000601
+- Tract 2000: 06031000601
+- Tract 1990: 06031000600
+- Place 2020: 31960
+- Place 2010: 31960
+- Place 2000: 31960
+- Place 1990: 1200
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 227183
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 40
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

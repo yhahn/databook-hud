@@ -1,0 +1,85 @@
+# Project: IRIS APTS. (UTA20000045)
+
+- HUD ID: UTA20000045
+- HUD ID before: 
+- Project: IRIS APTS.
+- Address: 4865 SOUTH STATE STREET
+- City: MURRAY
+- State: UT
+- ZIP: 84107
+- ZIP extension: 0000
+- State project ID: 1998-09
+- Latitude: 40.665509
+- Longitude: -111.88799
+- County FIPS: 49035
+- County from: 2020
+- Tract 2020: 49035112002
+- Tract 2010: 49035112002
+- Tract 2000: 49035112000
+- Tract 1990: 49035112000
+- Place 2020: 53230
+- Place 2010: 53230
+- Place 2000: 53230
+- Place 1990: 0640
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 198134
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 14
+- 1-bedroom units: 16
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

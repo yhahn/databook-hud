@@ -1,0 +1,85 @@
+# Project: KIRKTOWN PHASE II (MOA19890736)
+
+- HUD ID: MOA19890736
+- HUD ID before: 
+- Project: KIRKTOWN PHASE II
+- Address: 7433 LONGVIEW RD
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64134
+- ZIP extension: 
+- State project ID: 169205-169208
+- Latitude: 38.914785
+- Longitude: -94.504499
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095013208
+- Tract 2010: 29095013208
+- Tract 2000: 29095013202
+- Tract 1990: 29095013202
+- Place 2020: 38000
+- Place 2010: 38000
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA1989740, MOA1989744, MOA1989748.
+- Record status: Existing, unchanged

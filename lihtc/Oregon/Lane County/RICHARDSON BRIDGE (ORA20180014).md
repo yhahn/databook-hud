@@ -1,0 +1,85 @@
+# Project: RICHARDSON BRIDGE (ORA20180014)
+
+- HUD ID: ORA20180014
+- HUD ID before: 
+- Project: RICHARDSON BRIDGE
+- Address: 1210 ACORN PARK ST
+- City: EUGENE
+- State: OR
+- ZIP: 97402
+- ZIP extension: 
+- State project ID: 1230
+- Latitude: 44.046713
+- Longitude: -123.13862
+- County FIPS: 41039
+- County from: 2020
+- Tract 2020: 41039004407
+- Tract 2010: 41039004401
+- Tract 2000: 41039004401
+- Tract 1990: 41039004401
+- Place 2020: 23850
+- Place 2010: 23850
+- Place 2000: 23850
+- Place 1990: 0360
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 547617
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 9
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Previously Incarcerated
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

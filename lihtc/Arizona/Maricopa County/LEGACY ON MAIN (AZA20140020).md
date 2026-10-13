@@ -1,0 +1,85 @@
+# Project: LEGACY ON MAIN (AZA20140020)
+
+- HUD ID: AZA20140020
+- HUD ID before: 
+- Project: LEGACY ON MAIN
+- Address: 950 W MAIN ST
+- City: MESA
+- State: AZ
+- ZIP: 85201
+- ZIP extension: 
+- State project ID: TC-0752
+- Latitude: 33.415243
+- Longitude: -111.851773
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013421302
+- Tract 2010: 04013421302
+- Tract 2000: 04013421302
+- Tract 1990: 04013421302
+- Place 2020: 46000
+- Place 2010: 46000
+- Place 2000: 46000
+- Place 1990: 0215
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1299968
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 14
+- 4-bedroom units: 24
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA2000050, AZA2000046, AZA0000577, AZA0000115. FKA ALGARVE AP, PALM COVE I
+- Record status: Existing, unchanged

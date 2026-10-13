@@ -1,0 +1,85 @@
+# Project: LAKESIDE APTS (NEA19990065)
+
+- HUD ID: NEA19990065
+- HUD ID before: 
+- Project: LAKESIDE APTS
+- Address: 210 20TH ST
+- City: GOTHENBURG
+- State: NE
+- ZIP: 69138
+- ZIP extension: 
+- State project ID: 67160
+- Latitude: 40.938281
+- Longitude: -100.164264
+- County FIPS: 31047
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31047968200
+- Tract 2000: 31047968200
+- Tract 1990: 31047968200
+- Place 2020: 
+- Place 2010: 19385
+- Place 2000: 19385
+- Place 1990: 1030
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 37656
+- Units: 24
+- Low-income units: 18
+- Units reported: 24
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

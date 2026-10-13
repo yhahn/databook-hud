@@ -1,0 +1,85 @@
+# Project: POINSETTIA STATION APTS (CAA20000765)
+
+- HUD ID: CAA20000765
+- HUD ID before: 
+- Project: POINSETTIA STATION APTS
+- Address: 6811 EMBARCADERO LN
+- City: CARLSBAD
+- State: CA
+- ZIP: 92011
+- ZIP extension: 
+- State project ID: CA-01-891
+- Latitude: 33.108898
+- Longitude: -117.31688
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073017813
+- Tract 2010: 06073017813
+- Tract 2000: 06073017805
+- Tract 1990: 06073017805
+- Place 2020: 11194
+- Place 2010: 11194
+- Place 2000: 11194
+- Place 1990: 0405
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 304905
+- Units: 92
+- Low-income units: 91
+- Units reported: 92
+- Low-income reported: 91
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

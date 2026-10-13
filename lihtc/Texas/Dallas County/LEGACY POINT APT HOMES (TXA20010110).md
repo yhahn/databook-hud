@@ -1,0 +1,85 @@
+# Project: LEGACY POINT APT HOMES (TXA20010110)
+
+- HUD ID: TXA20010110
+- HUD ID before: 
+- Project: LEGACY POINT APT HOMES
+- Address: 238 S BARNES DR
+- City: GARLAND
+- State: TX
+- ZIP: 75042
+- ZIP extension: 
+- State project ID: TX0051
+- Latitude: 32.913541
+- Longitude: -96.678601
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113019013
+- Tract 2010: 48113019013
+- Tract 2000: 48113019013
+- Tract 1990: 48113019013
+- Place 2020: 29000
+- Place 2010: 29000
+- Place 2000: 29000
+- Place 1990: 1580
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 183
+- Low-income units: 183
+- Units reported: 183
+- Low-income reported: 183
+- Efficiencies: 0
+- 1-bedroom units: 87
+- 2-bedroom units: 16
+- 3-bedroom units: 56
+- 4-bedroom units: 24
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LEGACY POINTE APT HOMES.
+- Record status: Existing, unchanged

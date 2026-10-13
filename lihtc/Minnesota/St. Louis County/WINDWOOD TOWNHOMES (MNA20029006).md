@@ -1,0 +1,85 @@
+# Project: WINDWOOD TOWNHOMES (MNA20029006)
+
+- HUD ID: MNA20029006
+- HUD ID before: 
+- Project: WINDWOOD TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: DULUTH
+- State: MN
+- ZIP: 55811
+- ZIP extension: 
+- State project ID: D2959
+- Latitude: 46.8196
+- Longitude: -92.1546
+- County FIPS: 27137
+- County from: 2020
+- Tract 2020: 27137000302
+- Tract 2010: 27137000300
+- Tract 2000: 27137000300
+- Tract 1990: 27137000300
+- Place 2020: 17000
+- Place 2010: 17000
+- Place 2000: 17000
+- Place 1990: 1040
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 55
+- Units reported: 70
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 10
+- 3-bedroom units: 39
+- 4-bedroom units: 9
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

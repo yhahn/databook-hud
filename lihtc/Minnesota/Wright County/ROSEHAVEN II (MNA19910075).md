@@ -1,0 +1,85 @@
+# Project: ROSEHAVEN II (MNA19910075)
+
+- HUD ID: MNA19910075
+- HUD ID before: 
+- Project: ROSEHAVEN II
+- Address: 320 GARFIELD AVE SW
+- City: MONTROSE
+- State: MN
+- ZIP: 55363
+- ZIP extension: 
+- State project ID: D1004
+- Latitude: 45.066941
+- Longitude: -93.921261
+- County FIPS: 27171
+- County from: 2020
+- Tract 2020: 27171101101
+- Tract 2010: 27171101100
+- Tract 2000: 27171101100
+- Tract 1990: 27171101100
+- Place 2020: 43810
+- Place 2010: 43810
+- Place 2000: 43810
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 11
+- Units reported: 12
+- Low-income reported: 11
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

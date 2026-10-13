@@ -1,0 +1,85 @@
+# Project: HURON PORTFOLIO (CAA20120874)
+
+- HUD ID: CAA20120874
+- HUD ID before: 
+- Project: HURON PORTFOLIO
+- Address: 16201 PALMER AVE
+- City: HURON
+- State: CA
+- ZIP: 
+- ZIP extension: 
+- State project ID: CA-11-864
+- Latitude: 36.210437
+- Longitude: -120.075786
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019007802
+- Tract 2010: 06019007801
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 36084
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 175623
+- Units: 76
+- Low-income units: 74
+- Units reported: 76
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 32
+- 3-bedroom units: 36
+- 4-bedroom units: 4
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 27
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1995060.
+- Record status: Existing, unchanged

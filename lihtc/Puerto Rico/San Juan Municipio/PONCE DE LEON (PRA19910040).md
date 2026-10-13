@@ -1,0 +1,85 @@
+# Project: PONCE DE LEON (PRA19910040)
+
+- HUD ID: PRA19910040
+- HUD ID before: 
+- Project: PONCE DE LEON
+- Address: 1507 AVE PONCE DE LEON
+- City: SAN JUAN
+- State: PR
+- ZIP: 00909
+- ZIP extension: 
+- State project ID: 89-032
+- Latitude: 18.446013
+- Longitude: -66.067889
+- County FIPS: 72127
+- County from: 2020
+- Tract 2020: 72127001600
+- Tract 2010: 72127001600
+- Tract 2000: 72127001600
+- Tract 1990: 72127001601
+- Place 2020: 76770
+- Place 2010: 76770
+- Place 2000: 76770
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 650774
+- Units: 153
+- Low-income units: 153
+- Units reported: 153
+- Low-income reported: 153
+- Efficiencies: 0
+- 1-bedroom units: 118
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA1991010.
+- Record status: Existing, unchanged

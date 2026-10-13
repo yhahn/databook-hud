@@ -1,0 +1,85 @@
+# Project: JACKSON AISLE APTS (CAA20030250)
+
+- HUD ID: CAA20030250
+- HUD ID before: 
+- Project: JACKSON AISLE APTS
+- Address: 15432 JACKSON ST
+- City: MIDWAY CITY
+- State: CA
+- ZIP: 92655
+- ZIP extension: 
+- State project ID: CA-01-068
+- Latitude: 33.738044
+- Longitude: -117.98715
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059099702
+- Tract 2010: 06059099702
+- Tract 2000: 06059099702
+- Tract 1990: 06059099702
+- Place 2020: 47430
+- Place 2010: 47430
+- Place 2000: 36000
+- Place 1990: 3085
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 239242
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 29
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

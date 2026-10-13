@@ -1,0 +1,85 @@
+# Project: OAKWOOD VILLAGE (FLA19920095)
+
+- HUD ID: FLA19920095
+- HUD ID before: 
+- Project: OAKWOOD VILLAGE
+- Address: 9640 SHADY LN
+- City: CENTURY
+- State: FL
+- ZIP: 32535
+- ZIP extension: 
+- State project ID: 570
+- Latitude: 30.996124
+- Longitude: -87.266587
+- County FIPS: 12033
+- County from: 2020
+- Tract 2020: 12033004000
+- Tract 2010: 12033004000
+- Tract 2000: 12033004000
+- Tract 1990: 12033004000
+- Place 2020: 11362
+- Place 2010: 11362
+- Place 2000: 11362
+- Place 1990: 0334
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

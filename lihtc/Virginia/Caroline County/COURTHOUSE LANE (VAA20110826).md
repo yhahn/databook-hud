@@ -1,0 +1,85 @@
+# Project: COURTHOUSE LANE (VAA20110826)
+
+- HUD ID: VAA20110826
+- HUD ID before: 
+- Project: COURTHOUSE LANE
+- Address: 150 COURTHOUSE LN
+- City: BOWLING GREEN
+- State: VA
+- ZIP: 22427
+- ZIP extension: 
+- State project ID: VA8930090
+- Latitude: 38.051955
+- Longitude: -77.34347
+- County FIPS: 51033
+- County from: 2020
+- Tract 2020: 51033030100
+- Tract 2010: 51033030100
+- Tract 2000: 51033990100
+- Tract 1990: 51033990100
+- Place 2020: 08888
+- Place 2010: 08888
+- Place 2000: 08888
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 155905
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2002055, VAA1991040. FKA COURTHOUSE LANE I & II
+- Record status: Existing, unchanged

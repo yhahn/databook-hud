@@ -1,0 +1,85 @@
+# Project: TALBOT BERNARD HOMES (MAB20030105)
+
+- HUD ID: MAB20030105
+- HUD ID before: 
+- Project: TALBOT BERNARD HOMES
+- Address: 193 TALBOT AVE
+- City: DORCHESTER
+- State: MA
+- ZIP: 02124
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.292111
+- Longitude: -71.079033
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025100100
+- Tract 2010: 25025100100
+- Tract 2000: 25025100100
+- Tract 1990: 25025100100
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 13
+- 3-bedroom units: 19
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

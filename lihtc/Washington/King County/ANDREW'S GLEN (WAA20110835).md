@@ -1,0 +1,85 @@
+# Project: ANDREW'S GLEN (WAA20110835)
+
+- HUD ID: WAA20110835
+- HUD ID before: 
+- Project: ANDREW'S GLEN
+- Address: 4220 FACTORIA BLVD SE
+- City: BELLEVUE
+- State: WA
+- ZIP: 98006
+- ZIP extension: 
+- State project ID: 09-23
+- Latitude: 47.569962
+- Longitude: -122.169241
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033024800
+- Tract 2010: 53033024800
+- Tract 2000: 53033024800
+- Tract 1990: 53033024800
+- Place 2020: 05210
+- Place 2010: 05210
+- Place 2000: 05210
+- Place 1990: 0344
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 569596
+- Units: 41
+- Low-income units: 40
+- Units reported: 41
+- Low-income reported: 40
+- Efficiencies: 20
+- 1-bedroom units: 6
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 9683124
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

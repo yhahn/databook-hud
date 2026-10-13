@@ -1,0 +1,85 @@
+# Project: COUNTRY OAKS (FLA20090005)
+
+- HUD ID: FLA20090005
+- HUD ID before: 
+- Project: COUNTRY OAKS
+- Address: 14316 DAKE LN
+- City: TAMPA
+- State: FL
+- ZIP: 33613
+- ZIP extension: 
+- State project ID: 1916
+- Latitude: 28.078689
+- Longitude: -82.442844
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057010817
+- Tract 2010: 12057010817
+- Tract 2000: 12057010807
+- Tract 1990: 12057010807
+- Place 2020: 73163
+- Place 2010: 73163
+- Place 2000: 73163
+- Place 1990: 2127
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 822093
+- Units: 148
+- Low-income units: 148
+- Units reported: 148
+- Low-income reported: 148
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 88
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

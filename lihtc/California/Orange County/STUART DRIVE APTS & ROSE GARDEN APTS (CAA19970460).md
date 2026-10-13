@@ -1,0 +1,85 @@
+# Project: STUART DRIVE APTS & ROSE GARDEN APTS (CAA19970460)
+
+- HUD ID: CAA19970460
+- HUD ID before: 
+- Project: STUART DRIVE APTS & ROSE GARDEN APTS
+- Address: 11802 STUART DR
+- City: GARDEN GROVE
+- State: CA
+- ZIP: 92843
+- ZIP extension: 
+- State project ID: CA-00-868
+- Latitude: 33.772853
+- Longitude: -117.923879
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059088501
+- Tract 2010: 06059088501
+- Tract 2000: 06059088501
+- Tract 1990: 06059088501
+- Place 2020: 29000
+- Place 2010: 29000
+- Place 2000: 29000
+- Place 1990: 1110
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 261953
+- Units: 239
+- Low-income units: 239
+- Units reported: 239
+- Low-income reported: 239
+- Efficiencies: 0
+- 1-bedroom units: 63
+- 2-bedroom units: 140
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

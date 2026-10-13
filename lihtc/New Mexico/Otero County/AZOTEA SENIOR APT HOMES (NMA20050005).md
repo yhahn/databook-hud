@@ -1,0 +1,85 @@
+# Project: AZOTEA SENIOR APT HOMES (NMA20050005)
+
+- HUD ID: NMA20050005
+- HUD ID before: 
+- Project: AZOTEA SENIOR APT HOMES
+- Address: 2400 FIRST ST
+- City: ALAMOGORDO
+- State: NM
+- ZIP: 88310
+- ZIP extension: 
+- State project ID: 00403
+- Latitude: 32.846371
+- Longitude: -106.083656
+- County FIPS: 35035
+- County from: 2020
+- Tract 2020: 35035000601
+- Tract 2010: 35035000601
+- Tract 2000: 35035000402
+- Tract 1990: 35035000402
+- Place 2020: 32940
+- Place 2010: 32940
+- Place 2000: 01780
+- Place 1990: 0010
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA AZOTEA SENIOR HOUSING.
+- Record status: Existing, unchanged

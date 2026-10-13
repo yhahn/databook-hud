@@ -1,0 +1,85 @@
+# Project: ASHBROOKE PLACE APTS (OKA20000005)
+
+- HUD ID: OKA20000005
+- HUD ID before: 
+- Project: ASHBROOKE PLACE APTS
+- Address: 1934 KNOX RD
+- City: ARDMORE
+- State: OK
+- ZIP: 73401
+- ZIP extension: 
+- State project ID: 980210
+- Latitude: 34.199187
+- Longitude: -97.152787
+- County FIPS: 40019
+- County from: 2020
+- Tract 2020: 40019892602
+- Tract 2010: 40019892600
+- Tract 2000: 40019992600
+- Tract 1990: 40019992600
+- Place 2020: 02600
+- Place 2010: 02600
+- Place 2000: 02600
+- Place 1990: 0100
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

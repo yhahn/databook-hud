@@ -1,0 +1,85 @@
+# Project: FAITH COMMUNITY (OHA20080085)
+
+- HUD ID: OHA20080085
+- HUD ID before: 
+- Project: FAITH COMMUNITY
+- Address: 1007 DOVE LN
+- City: CRESTLINE
+- State: OH
+- ZIP: 44827
+- ZIP extension: 
+- State project ID: 060084
+- Latitude: 40.798496
+- Longitude: -82.751621
+- County FIPS: 39033
+- County from: 2020
+- Tract 2020: 39033974800
+- Tract 2010: 39033974800
+- Tract 2000: 39033974800
+- Tract 1990: 39033974800
+- Place 2020: 19330
+- Place 2010: 19330
+- Place 2000: 19330
+- Place 1990: 1035
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 48351
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 41
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

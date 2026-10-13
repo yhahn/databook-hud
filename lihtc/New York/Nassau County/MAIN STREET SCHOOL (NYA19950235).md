@@ -1,0 +1,85 @@
+# Project: MAIN STREET SCHOOL (NYA19950235)
+
+- HUD ID: NYA19950235
+- HUD ID before: 
+- Project: MAIN STREET SCHOOL
+- Address: 232 MAIN ST
+- City: PORT WASHINGTON
+- State: NY
+- ZIP: 11050
+- ZIP extension: 
+- State project ID: 19920545
+- Latitude: 40.831101
+- Longitude: -73.695982
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059301200
+- Tract 2010: 36059301200
+- Tract 2000: 36059301200
+- Tract 1990: 36059301200
+- Place 2020: 04803
+- Place 2010: 59520
+- Place 2000: 04803
+- Place 1990: 2970
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 26
+- 1-bedroom units: 33
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

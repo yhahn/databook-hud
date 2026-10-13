@@ -1,0 +1,85 @@
+# Project: GRAND FORKS PORTFOLIO (NDA20230002)
+
+- HUD ID: NDA20230002
+- HUD ID before: 
+- Project: GRAND FORKS PORTFOLIO
+- Address: 506 N 48TH ST
+- City: GRAND FORKS
+- State: ND
+- ZIP: 58203
+- ZIP extension: 0000
+- State project ID: TE-21-09
+- Latitude: 47.92587
+- Longitude: -97.098696
+- County FIPS: 38035
+- County from: 2020
+- Tract 2020: 38035010400
+- Tract 2010: 38035010400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 32060
+- Place 2010: 32060
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1058931
+- Units: 182
+- Low-income units: 182
+- Units reported: 182
+- Low-income reported: 182
+- Efficiencies: 0
+- 1-bedroom units: 49
+- 2-bedroom units: 103
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

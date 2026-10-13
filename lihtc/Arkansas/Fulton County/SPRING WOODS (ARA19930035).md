@@ -1,0 +1,85 @@
+# Project: SPRING WOODS (ARA19930035)
+
+- HUD ID: ARA19930035
+- HUD ID before: 
+- Project: SPRING WOODS
+- Address: 100 SPRINGWOOD TER
+- City: HARDY
+- State: AR
+- ZIP: 72542
+- ZIP extension: 
+- State project ID: AR-92-08-001
+- Latitude: 36.370514
+- Longitude: -91.525159
+- County FIPS: 05049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05049550100
+- Tract 2000: 05049950100
+- Tract 1990: 05049950100
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 02470
+- Place 1990: 1295
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CALICO PINES APTS. FKA HARDY SENIOR CITIZEN
+- Record status: Existing, unchanged

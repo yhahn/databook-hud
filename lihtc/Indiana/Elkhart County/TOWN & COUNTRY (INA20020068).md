@@ -1,0 +1,85 @@
+# Project: TOWN & COUNTRY (INA20020068)
+
+- HUD ID: INA20020068
+- HUD ID before: 
+- Project: TOWN & COUNTRY
+- Address: 1221 GEORGIA BLVD
+- City: ELKHART
+- State: IN
+- ZIP: 46514
+- ZIP extension: 
+- State project ID: IN-01-03300
+- Latitude: 41.699657
+- Longitude: -86.019543
+- County FIPS: 18039
+- County from: 2020
+- Tract 2020: 18039001501
+- Tract 2010: 18039001501
+- Tract 2000: 18039001500
+- Tract 1990: 18039001500
+- Place 2020: 20728
+- Place 2010: 20728
+- Place 2000: 20728
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 63
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

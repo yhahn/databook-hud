@@ -1,0 +1,85 @@
+# Project: EAST PARK APTS (INA19920085)
+
+- HUD ID: INA19920085
+- HUD ID before: 
+- Project: EAST PARK APTS
+- Address: 1200 N BENJAMIN ST
+- City: RUSHVILLE
+- State: IN
+- ZIP: 46173
+- ZIP extension: 
+- State project ID: IN-91-00100-B
+- Latitude: 39.619726
+- Longitude: -85.434889
+- County FIPS: 18139
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18139974400
+- Tract 2000: 18139974400
+- Tract 1990: 18139974400
+- Place 2020: 
+- Place 2010: 66438
+- Place 2000: 66438
+- Place 1990: 2220
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0000965.
+- Record status: Existing, unchanged

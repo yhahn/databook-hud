@@ -1,0 +1,85 @@
+# Project: SARATOGA APTS (CAA19879244)
+
+- HUD ID: CAA19879244
+- HUD ID before: 
+- Project: SARATOGA APTS
+- Address: 2830 WILLOW ST
+- City: SELMA
+- State: CA
+- ZIP: 93662
+- ZIP extension: 
+- State project ID: CA-87-069
+- Latitude: 36.575314
+- Longitude: -119.618286
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019007002
+- Tract 2010: 06019007002
+- Tract 2000: 06019007002
+- Tract 1990: 06019007002
+- Place 2020: 70882
+- Place 2010: 70882
+- Place 2000: 70882
+- Place 1990: 2670
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 57
+- Low-income units: 57
+- Units reported: 57
+- Low-income reported: 57
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA00001365.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: KARNS HILLSIDE AFFORDABLE HOUSING (WYA20040030)
+
+- HUD ID: WYA20040030
+- HUD ID before: 
+- Project: KARNS HILLSIDE AFFORDABLE HOUSING
+- Address: 580 RODEO DR
+- City: JACKSON
+- State: WY
+- ZIP: 83001
+- ZIP extension: 
+- State project ID: 02-006
+- Latitude: 43.472422
+- Longitude: -110.77293
+- County FIPS: 56039
+- County from: 2020
+- Tract 2020: 56039967801
+- Tract 2010: 56039967800
+- Tract 2000: 56039997800
+- Tract 1990: 56039997800
+- Place 2020: 40120
+- Place 2010: 40120
+- Place 2000: 40120
+- Place 1990: 0215
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 306438
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WYA2004015, WYA0000045. AKA JACKSON KARNS HILLSIDE ASSOC.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GREENS AT PINE GLEN (NCA20139012)
+
+- HUD ID: NCA20139012
+- HUD ID before: 
+- Project: GREENS AT PINE GLEN
+- Address: 6201 PINE GLEN TRAIL
+- City: DURHAM
+- State: NC
+- ZIP: 27713
+- ZIP extension: 
+- State project ID: 9120410
+- Latitude: 35.907789
+- Longitude: -78.922003
+- County FIPS: 37063
+- County from: 2020
+- Tract 2020: 37063002021
+- Tract 2010: 37063002021
+- Tract 2000: 37063002012
+- Tract 1990: 37063002012
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 0750
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 348001
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 76
+- 3-bedroom units: 92
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

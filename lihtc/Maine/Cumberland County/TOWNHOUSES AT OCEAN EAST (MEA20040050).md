@@ -1,0 +1,85 @@
+# Project: TOWNHOUSES AT OCEAN EAST (MEA20040050)
+
+- HUD ID: MEA20040050
+- HUD ID before: 
+- Project: TOWNHOUSES AT OCEAN EAST
+- Address: 6 SCHOONER RD
+- City: SOUTH PORTLAND
+- State: ME
+- ZIP: 04106
+- ZIP extension: 
+- State project ID: MSHA-RLP-1257
+- Latitude: 43.626555
+- Longitude: -70.244608
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005003400
+- Tract 2010: 23005003400
+- Tract 2000: 23005003400
+- Tract 1990: 23005003400
+- Place 2020: 71990
+- Place 2010: 71990
+- Place 2000: 71990
+- Place 1990: 4230
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 33
+- Units reported: 54
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 27
+- 3-bedroom units: 27
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

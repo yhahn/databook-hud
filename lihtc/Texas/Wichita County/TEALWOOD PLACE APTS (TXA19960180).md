@@ -1,0 +1,85 @@
+# Project: TEALWOOD PLACE APTS (TXA19960180)
+
+- HUD ID: TXA19960180
+- HUD ID before: 
+- Project: TEALWOOD PLACE APTS
+- Address: 5300 PROFESSIONAL DR
+- City: WICHITA FALLS
+- State: TX
+- ZIP: 76302
+- ZIP extension: 
+- State project ID: TX1289
+- Latitude: 33.84829
+- Longitude: -98.501257
+- County FIPS: 48485
+- County from: 2020
+- Tract 2020: 48485011600
+- Tract 2010: 48485011600
+- Tract 2000: 48485011600
+- Tract 1990: 48485011600
+- Place 2020: 79000
+- Place 2010: 79000
+- Place 2000: 79000
+- Place 1990: 4605
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 45648
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 84
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

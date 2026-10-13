@@ -1,0 +1,85 @@
+# Project: TRINITY/PRINCETON PLACE (RIA20100062)
+
+- HUD ID: RIA20100062
+- HUD ID before: 
+- Project: TRINITY/PRINCETON PLACE
+- Address: 265 ELMWOOD AVE
+- City: PROVIDENCE
+- State: RI
+- ZIP: 02907
+- ZIP extension: 
+- State project ID: RI00150
+- Latitude: 41.80548
+- Longitude: -71.425426
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007000301
+- Tract 2010: 44007000300
+- Tract 2000: 44007000300
+- Tract 1990: 44007000300
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0400
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 203903
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 20
+- 3-bedroom units: 5
+- 4-bedroom units: 4
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4797290
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

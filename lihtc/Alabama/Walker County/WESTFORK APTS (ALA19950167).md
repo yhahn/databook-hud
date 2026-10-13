@@ -1,0 +1,85 @@
+# Project: WESTFORK APTS (ALA19950167)
+
+- HUD ID: ALA19950167
+- HUD ID before: 
+- Project: WESTFORK APTS
+- Address: 1406 EIGHTH ST NW
+- City: JASPER
+- State: AL
+- ZIP: 35503
+- ZIP extension: 
+- State project ID: AL-95-0084
+- Latitude: 33.856675
+- Longitude: -87.291663
+- County FIPS: 01127
+- County from: 2020
+- Tract 2020: 01127020200
+- Tract 2010: 01127020200
+- Tract 2000: 01127020200
+- Tract 1990: 01127020200
+- Place 2020: 38416
+- Place 2010: 38416
+- Place 2000: 38416
+- Place 1990: 0960
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 162000
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 885000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1996170.
+- Record status: Existing, unchanged

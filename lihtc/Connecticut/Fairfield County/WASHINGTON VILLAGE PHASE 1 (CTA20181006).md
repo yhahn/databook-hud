@@ -1,0 +1,85 @@
+# Project: WASHINGTON VILLAGE PHASE 1 (CTA20181006)
+
+- HUD ID: CTA20181006
+- HUD ID before: 
+- Project: WASHINGTON VILLAGE PHASE 1
+- Address: 13 + 20 DAY STREET
+- City: NORWALK
+- State: CT
+- ZIP: 06854
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.0964
+- Longitude: -73.4274
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001044000
+- Tract 2010: 09001044000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 55990
+- Place 2010: 55990
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 1895188
+- Units: 80
+- Low-income units: 58
+- Units reported: 80
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 41
+- 3-bedroom units: 8
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 9855586
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

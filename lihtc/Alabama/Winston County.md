@@ -1,0 +1,25 @@
+# Tax Credit Projects: Winston County, AL
+
+- Level: County
+- Postal code: AL
+- State FIPS: 01
+- County FIPS: 01133
+- Counties: 
+- Projects: 8
+- Units: 252
+- Low-income units: 252
+
+The low-income housing tax credit projects of Winston County, Alabama, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [DOUBLE SPRINGS VILLAGE (ALA19919225)](./Winston%20County/DOUBLE%20SPRINGS%20VILLAGE%20%28ALA19919225%29.md) | ALA19919225 | DOUBLE SPRINGS | 1991 | 16 | 16 |
+| [FAIRVIEW APTS (ALA19950042)](./Winston%20County/FAIRVIEW%20APTS%20%28ALA19950042%29.md) | ALA19950042 | HALEYVILLE | 1995 | 48 | 48 |
+| [GREENLEAF APTS (ALA19960040)](./Winston%20County/GREENLEAF%20APTS%20%28ALA19960040%29.md) | ALA19960040 | HALEYVILLE | 1996 | 32 | 32 |
+| [HIGHRIDGE APTS (ALA19960052)](./Winston%20County/HIGHRIDGE%20APTS%20%28ALA19960052%29.md) | ALA19960052 | DOUBLE SPRINGS | 1996 | 16 | 16 |
+| [SHADYBROOK APTS (ALA19960136)](./Winston%20County/SHADYBROOK%20APTS%20%28ALA19960136%29.md) | ALA19960136 | HALEYVILLE | 1996 | 48 | 48 |
+| [CARDINAL APTS (ALA19980027)](./Winston%20County/CARDINAL%20APTS%20%28ALA19980027%29.md) | ALA19980027 | ADDISON | 1998 | 12 | 12 |
+| [ROYAL OAK APTS (ALA20000120)](./Winston%20County/ROYAL%20OAK%20APTS%20%28ALA20000120%29.md) | ALA20000120 | HALEYVILLE | 2000 | 40 | 40 |
+| [ROSEWOOD PARK APTS (ALA20070141)](./Winston%20County/ROSEWOOD%20PARK%20APTS%20%28ALA20070141%29.md) | ALA20070141 | HALEYVILLE | 2007 | 40 | 40 |

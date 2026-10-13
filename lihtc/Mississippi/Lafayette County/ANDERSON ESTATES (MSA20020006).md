@@ -1,0 +1,85 @@
+# Project: ANDERSON ESTATES (MSA20020006)
+
+- HUD ID: MSA20020006
+- HUD ID before: 
+- Project: ANDERSON ESTATES
+- Address: 1731 ANDERSON RD
+- City: OXFORD
+- State: MS
+- ZIP: 38655
+- ZIP extension: 
+- State project ID: MS-01-001
+- Latitude: 34.366793
+- Longitude: -89.552838
+- County FIPS: 28071
+- County from: 2020
+- Tract 2020: 28071950304
+- Tract 2010: 28071950302
+- Tract 2000: 28071950300
+- Tract 1990: 28071950300
+- Place 2020: 54840
+- Place 2010: 54840
+- Place 2000: 54840
+- Place 1990: 0955
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 340000
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2002637.
+- Record status: Existing, unchanged

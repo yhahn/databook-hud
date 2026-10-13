@@ -1,0 +1,85 @@
+# Project: ROSEFIELD VILLAGE (CAA20221069)
+
+- HUD ID: CAA20221069
+- HUD ID before: 
+- Project: ROSEFIELD VILLAGE
+- Address: 727 BUENA VISTA AVENUE
+- City: ALAMEDA
+- State: CA
+- ZIP: 94501
+- ZIP extension: 
+- State project ID: CA-2020-442
+- Latitude: 37.777361
+- Longitude: -122.275495
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001427300
+- Tract 2010: 06001427300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 00562
+- Place 2010: 00562
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2083847
+- Units: 92
+- Low-income units: 89
+- Units reported: 92
+- Low-income reported: 89
+- Efficiencies: 7
+- 1-bedroom units: 35
+- 2-bedroom units: 27
+- 3-bedroom units: 23
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

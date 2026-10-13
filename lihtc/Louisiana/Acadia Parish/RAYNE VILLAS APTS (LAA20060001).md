@@ -1,0 +1,85 @@
+# Project: RAYNE VILLAS APTS (LAA20060001)
+
+- HUD ID: LAA20060001
+- HUD ID before: 
+- Project: RAYNE VILLAS APTS
+- Address: 400 HUTCHISON ST
+- City: RAYNE
+- State: LA
+- ZIP: 70578
+- ZIP extension: 
+- State project ID: LA-89-001
+- Latitude: 30.238876
+- Longitude: -92.251142
+- County FIPS: 22001
+- County from: 2020
+- Tract 2020: 22001960602
+- Tract 2010: 22001960600
+- Tract 2000: 22001960600
+- Tract 1990: 22001960600
+- Place 2020: 63645
+- Place 2010: 63645
+- Place 2000: 22255
+- Place 1990: 1140
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1989125.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SIXTH & BERKS STREET (PAA19990230)
+
+- HUD ID: PAA19990230
+- HUD ID before: 
+- Project: SIXTH & BERKS STREET
+- Address: 1862 N SIXTH ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19122
+- ZIP extension: 
+- State project ID: TC19970113
+- Latitude: 39.9797
+- Longitude: -75.145008
+- County FIPS: 42101
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42101037700
+- Tract 2000: 42101015500
+- Tract 1990: 42101015500
+- Place 2020: 
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 372389
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 1172487
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

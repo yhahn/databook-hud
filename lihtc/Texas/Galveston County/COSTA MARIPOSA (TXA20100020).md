@@ -1,0 +1,85 @@
+# Project: COSTA MARIPOSA (TXA20100020)
+
+- HUD ID: TXA20100020
+- HUD ID before: 
+- Project: COSTA MARIPOSA
+- Address: 7555 MEDICAL CTR DR
+- City: TEXAS CITY
+- State: TX
+- ZIP: 77591
+- ZIP extension: 
+- State project ID: TX4572
+- Latitude: 29.396067
+- Longitude: -94.995515
+- County FIPS: 48167
+- County from: 2020
+- Tract 2020: 48167722700
+- Tract 2010: 48167722700
+- Tract 2000: 48167722700
+- Tract 1990: 48167121921
+- Place 2020: 72392
+- Place 2010: 72392
+- Place 2000: 72392
+- Place 1990: 4230
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 252
+- Low-income units: 252
+- Units reported: 252
+- Low-income reported: 252
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 132
+- 3-bedroom units: 96
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 3000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CASA LOMA TRIANGLE APTS (AZA19920005)
+
+- HUD ID: AZA19920005
+- HUD ID before: 
+- Project: CASA LOMA TRIANGLE APTS
+- Address: 204 W ALLEN ST
+- City: TOMBSTONE
+- State: AZ
+- ZIP: 85638
+- ZIP extension: 
+- State project ID: AZ-90-00038
+- Latitude: 31.715247
+- Longitude: -110.073652
+- County FIPS: 04003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04003000400
+- Tract 2000: 04003000400
+- Tract 1990: 04003000400
+- Place 2020: 
+- Place 2010: 74400
+- Place 2000: 74400
+- Place 1990: 0375
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 21
+- Low-income units: 20
+- Units reported: 21
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION. AKA CASA LOMA ELDERLY HOUSING.
+- Record status: Existing, unchanged

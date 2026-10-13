@@ -1,0 +1,85 @@
+# Project: ONTARIO SENIOR APTS (CAA20100170)
+
+- HUD ID: CAA20100170
+- HUD ID before: 
+- Project: ONTARIO SENIOR APTS
+- Address: 280 N LEMON ST
+- City: ONTARIO
+- State: CA
+- ZIP: 91764
+- ZIP extension: 
+- State project ID: CA-08-095
+- Latitude: 34.06549
+- Longitude: -117.649448
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071001400
+- Tract 2010: 06071001400
+- Tract 2000: 06071001400
+- Tract 1990: 06071001400
+- Place 2020: 53896
+- Place 2010: 53896
+- Place 2000: 53896
+- Place 1990: 2005
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1469882
+- Units: 76
+- Low-income units: 75
+- Units reported: 76
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 61
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 55
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

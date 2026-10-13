@@ -1,0 +1,85 @@
+# Project: SIOUX BAYOU ARMS (MSA20240022)
+
+- HUD ID: MSA20240022
+- HUD ID before: 
+- Project: SIOUX BAYOU ARMS
+- Address: 1901 MARTIN BLUFF ROAD
+- City: GAUTIER
+- State: MS
+- ZIP: 39553
+- ZIP extension: 0000
+- State project ID: 22-2-007
+- Latitude: 30.420923
+- Longitude: -88.638828
+- County FIPS: 28059
+- County from: 2020
+- Tract 2020: 28059041002
+- Tract 2010: 28059041000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26860
+- Place 2010: 26860
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 473605
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

@@ -1,0 +1,85 @@
+# Project: BAXTER APTS (MTA20060030)
+
+- HUD ID: MTA20060030
+- HUD ID before: 
+- Project: BAXTER APTS
+- Address: 2523 TRADE WIND LN
+- City: BOZEMAN
+- State: MT
+- ZIP: 59718
+- ZIP extension: 
+- State project ID: MT-05-060
+- Latitude: 45.699183
+- Longitude: -111.071638
+- County FIPS: 30031
+- County from: 2020
+- Tract 2020: 30031000506
+- Tract 2010: 30031000503
+- Tract 2000: 30031000500
+- Tract 1990: 30031985700
+- Place 2020: 08950
+- Place 2010: 08950
+- Place 2000: 08950
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 518500
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

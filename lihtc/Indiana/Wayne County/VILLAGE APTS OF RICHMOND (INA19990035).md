@@ -1,0 +1,85 @@
+# Project: VILLAGE APTS OF RICHMOND (INA19990035)
+
+- HUD ID: INA19990035
+- HUD ID before: 
+- Project: VILLAGE APTS OF RICHMOND
+- Address: 4000 S A ST
+- City: RICHMOND
+- State: IN
+- ZIP: 47374
+- ZIP extension: 
+- State project ID: IN-97-01700
+- Latitude: 39.826623
+- Longitude: -84.845797
+- County FIPS: 18177
+- County from: 2020
+- Tract 2020: 18177001101
+- Tract 2010: 18177001100
+- Tract 2000: 18177001100
+- Tract 1990: 18177001100
+- Place 2020: 64260
+- Place 2010: 64260
+- Place 2000: 64260
+- Place 1990: 2140
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 184287
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA EAST RIDGE APTS.
+- Record status: Existing, unchanged

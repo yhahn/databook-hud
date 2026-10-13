@@ -1,0 +1,85 @@
+# Project: CONGRESS PARK (FLA19950801)
+
+- HUD ID: FLA19950801
+- HUD ID before: 
+- Project: CONGRESS PARK
+- Address: 3010 CONGRESS PARK DR
+- City: LAKE WORTH
+- State: FL
+- ZIP: 33461
+- ZIP extension: 
+- State project ID: 190
+- Latitude: 26.607361
+- Longitude: -80.093779
+- County FIPS: 12099
+- County from: 2020
+- Tract 2020: 12099004903
+- Tract 2010: 12099004903
+- Tract 2000: 12099004901
+- Tract 1990: 12099004900
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 39087
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 288
+- Low-income units: 288
+- Units reported: 288
+- Low-income reported: 288
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 144
+- 3-bedroom units: 144
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

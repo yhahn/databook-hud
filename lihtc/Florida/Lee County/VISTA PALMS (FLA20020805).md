@@ -1,0 +1,85 @@
+# Project: VISTA PALMS (FLA20020805)
+
+- HUD ID: FLA20020805
+- HUD ID before: 
+- Project: VISTA PALMS
+- Address: 10276 STAFFORD CREEK CT
+- City: LEHIGH ACRES
+- State: FL
+- ZIP: 33936
+- ZIP extension: 
+- State project ID: 37
+- Latitude: 26.593117
+- Longitude: -81.64304
+- County FIPS: 12071
+- County from: 2020
+- Tract 2020: 12071040311
+- Tract 2010: 12071040311
+- Tract 2000: 12071040306
+- Tract 1990: 12071040306
+- Place 2020: 39925
+- Place 2010: 39925
+- Place 2000: 39925
+- Place 1990: 1217
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 229
+- Low-income units: 229
+- Units reported: 229
+- Low-income reported: 229
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 109
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

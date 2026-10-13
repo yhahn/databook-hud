@@ -1,0 +1,85 @@
+# Project: WILLIAMS TERRACE (IAA20221014)
+
+- HUD ID: IAA20221014
+- HUD ID before: 
+- Project: WILLIAMS TERRACE
+- Address: 1603 N. 9TH STREET
+- City: INDIANOLA
+- State: IA
+- ZIP: 50125
+- ZIP extension: 4005
+- State project ID: 20-19
+- Latitude: 41.375653
+- Longitude: -93.546476
+- County FIPS: 19181
+- County from: 2020
+- Tract 2020: 19181020702
+- Tract 2010: 19181020700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 38280
+- Place 2010: 38280
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 834574
+- Units: 50
+- Low-income units: 45
+- Units reported: 50
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 315000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

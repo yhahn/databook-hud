@@ -1,0 +1,85 @@
+# Project: RANCHO DORADO FAMILY APTS II (CAA20100208)
+
+- HUD ID: CAA20100208
+- HUD ID before: 
+- Project: RANCHO DORADO FAMILY APTS II
+- Address: 25105 JOHN F KENNEDY DR
+- City: MORENO VALLEY
+- State: CA
+- ZIP: 92551
+- ZIP extension: 
+- State project ID: CA-09-516
+- Latitude: 33.902647
+- Longitude: -117.224835
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065048902
+- Tract 2010: 06065048902
+- Tract 2000: 06065042605
+- Tract 1990: 06065042601
+- Place 2020: 49270
+- Place 2010: 49270
+- Place 2000: 49270
+- Place 1990: 1849
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 79
+- Low-income units: 78
+- Units reported: 79
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 54
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 52
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 10735782
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2010501.
+- Record status: Existing, unchanged

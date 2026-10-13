@@ -1,0 +1,85 @@
+# Project: AURORA VISTA (AKA20070005)
+
+- HUD ID: AKA20070005
+- HUD ID before: 
+- Project: AURORA VISTA
+- Address: 104 N GILL ST
+- City: KENAI
+- State: AK
+- ZIP: 99611
+- ZIP extension: 6845
+- State project ID: 20-3791203
+- Latitude: 60.560486
+- Longitude: -151.280918
+- County FIPS: 02122
+- County from: 2020
+- Tract 2020: 02122000600
+- Tract 2010: 02122000600
+- Tract 2000: 02122000600
+- Tract 1990: 02122952700
+- Place 2020: 38420
+- Place 2010: 38420
+- Place 2000: 38420
+- Place 1990: 2327
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 518133
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

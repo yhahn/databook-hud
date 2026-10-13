@@ -1,0 +1,85 @@
+# Project: BURLINGTON POST (FLA20180011)
+
+- HUD ID: FLA20180011
+- HUD ID before: 
+- Project: BURLINGTON POST
+- Address: 3201 BURLINGTON AVENUE N
+- City: ST PETERSBURG
+- State: FL
+- ZIP: 33713
+- ZIP extension: 
+- State project ID: 2857
+- Latitude: 27.773915
+- Longitude: -82.676915
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103021900
+- Tract 2010: 12103021900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 1660000
+- Units: 86
+- Low-income units: 86
+- Units reported: 86
+- Low-income reported: 86
+- Efficiencies: 0
+- 1-bedroom units: 59
+- 2-bedroom units: 27
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

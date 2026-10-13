@@ -1,0 +1,85 @@
+# Project: COURTYARD ON FLAGLER (FLA19970085)
+
+- HUD ID: FLA19970085
+- HUD ID before: 
+- Project: COURTYARD ON FLAGLER
+- Address: 1701 N FLAGLER DR
+- City: WEST PALM BEACH
+- State: FL
+- ZIP: 33407
+- ZIP extension: 
+- State project ID: 906
+- Latitude: 26.728188
+- Longitude: -80.050551
+- County FIPS: 12099
+- County from: 2020
+- Tract 2020: 12099002300
+- Tract 2010: 12099002300
+- Tract 2000: 12099002300
+- Tract 1990: 12099002300
+- Place 2020: 76600
+- Place 2010: 76600
+- Place 2000: 76600
+- Place 1990: 2215
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 40
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

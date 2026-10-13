@@ -1,0 +1,85 @@
+# Project: JACK ALLEN (GAA20040168)
+
+- HUD ID: GAA20040168
+- HUD ID before: 
+- Project: JACK ALLEN
+- Address: 160 WILSON AVE
+- City: FITZGERALD
+- State: GA
+- ZIP: 31750
+- ZIP extension: 9659
+- State project ID: GA-03-011
+- Latitude: 31.731618
+- Longitude: -83.252174
+- County FIPS: 13017
+- County from: 2020
+- Tract 2020: 13017960400
+- Tract 2010: 13017960400
+- Tract 2000: 13017960400
+- Tract 1990: 13017960400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 29528
+- Place 1990: 1085
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 410671
+- Units: 60
+- Low-income units: 54
+- Units reported: 60
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 26
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2006085, GAA2004030.
+- Record status: Existing, unchanged

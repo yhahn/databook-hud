@@ -1,0 +1,85 @@
+# Project: TOWNS AT WOODFIELDS (MDA20180029)
+
+- HUD ID: MDA20180029
+- HUD ID before: 
+- Project: TOWNS AT WOODFIELDS
+- Address: 7301 DOGWOOD ROAD
+- City: BALTIMORE
+- State: MD
+- ZIP: 21244
+- ZIP extension: 
+- State project ID: MD-16-23001-11
+- Latitude: 39.321029
+- Longitude: -76.766996
+- County FIPS: 24005
+- County from: 2020
+- Tract 2020: 24005401506
+- Tract 2010: 24005401506
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 86475
+- Place 2010: 86475
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 499186
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 61
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIDGEWOOD VILLAS (OHA20080200)
+
+- HUD ID: OHA20080200
+- HUD ID before: 
+- Project: RIDGEWOOD VILLAS
+- Address: 1065 E BEAL AVE
+- City: BUCYRUS
+- State: OH
+- ZIP: 44820
+- ZIP extension: 
+- State project ID: OH-07-0039
+- Latitude: 40.78991
+- Longitude: -82.962849
+- County FIPS: 39033
+- County from: 2020
+- Tract 2020: 39033974600
+- Tract 2010: 39033974600
+- Tract 2000: 39033974600
+- Tract 1990: 39033974600
+- Place 2020: 10030
+- Place 2010: 10030
+- Place 2000: 10030
+- Place 1990: 0595
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 55866
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

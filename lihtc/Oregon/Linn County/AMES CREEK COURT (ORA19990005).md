@@ -1,0 +1,85 @@
+# Project: AMES CREEK COURT (ORA19990005)
+
+- HUD ID: ORA19990005
+- HUD ID before: 
+- Project: AMES CREEK COURT
+- Address: 1815 AMES CREEK RD
+- City: SWEET HOME
+- State: OR
+- ZIP: 97386
+- ZIP extension: 
+- State project ID: 634
+- Latitude: 44.39236
+- Longitude: -122.722644
+- County FIPS: 41043
+- County from: 2020
+- Tract 2020: 41043030404
+- Tract 2010: 41043030402
+- Tract 2000: 41043030402
+- Tract 1990: 41043030402
+- Place 2020: 71950
+- Place 2010: 71950
+- Place 2000: 71950
+- Place 1990: 1120
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 225000
+- Units: 31
+- Low-income units: 16
+- Units reported: 31
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 100000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

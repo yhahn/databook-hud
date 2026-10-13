@@ -1,0 +1,85 @@
+# Project: PALM PLACE (FLA20222007)
+
+- HUD ID: FLA20222007
+- HUD ID before: 
+- Project: PALM PLACE
+- Address: 2401 2ND STREET NW
+- City: WINTER HAVEN
+- State: FL
+- ZIP: 33880
+- ZIP extension: 
+- State project ID: FL-20-3212
+- Latitude: 28.047046
+- Longitude: -81.728589
+- County FIPS: 12105
+- County from: 2020
+- Tract 2020: 12105013601
+- Tract 2010: 12105013600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 78275
+- Place 2010: 78275
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 1010000
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 
+- 1-bedroom units: 8
+- 2-bedroom units: 40
+- 3-bedroom units: 42
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

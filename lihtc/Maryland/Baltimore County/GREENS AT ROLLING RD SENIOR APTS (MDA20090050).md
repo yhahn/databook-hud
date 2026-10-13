@@ -1,0 +1,85 @@
+# Project: GREENS AT ROLLING RD SENIOR APTS (MDA20090050)
+
+- HUD ID: MDA20090050
+- HUD ID before: 
+- Project: GREENS AT ROLLING RD SENIOR APTS
+- Address: 1505 N ROLLING RD
+- City: CATONSVILLE
+- State: MD
+- ZIP: 21228
+- ZIP extension: 
+- State project ID: MD08-03001
+- Latitude: 39.304326
+- Longitude: -76.754268
+- County FIPS: 24005
+- County from: 2020
+- Tract 2020: 24005401505
+- Tract 2010: 24005401505
+- Tract 2000: 24005401505
+- Tract 1990: 24005401505
+- Place 2020: 86475
+- Place 2010: 86475
+- Place 2000: 86475
+- Place 1990: 1051
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 83
+- Low-income units: 83
+- Units reported: 83
+- Low-income reported: 83
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

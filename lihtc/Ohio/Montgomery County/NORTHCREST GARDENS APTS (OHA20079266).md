@@ -1,0 +1,85 @@
+# Project: NORTHCREST GARDENS APTS (OHA20079266)
+
+- HUD ID: OHA20079266
+- HUD ID before: 
+- Project: NORTHCREST GARDENS APTS
+- Address: 5027 NORTHCREST DR
+- City: DAYTON
+- State: OH
+- ZIP: 45414
+- ZIP extension: 
+- State project ID: 06-0152
+- Latitude: 39.820747
+- Longitude: -84.202677
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113080500
+- Tract 2010: 39113080500
+- Tract 2000: 39113080500
+- Tract 1990: 39113080500
+- Place 2020: 21000
+- Place 2010: 21000
+- Place 2000: 21000
+- Place 1990: 3159
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 182
+- Low-income units: 182
+- Units reported: 182
+- Low-income reported: 182
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 84
+- 3-bedroom units: 60
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006701.
+- Record status: Existing, unchanged

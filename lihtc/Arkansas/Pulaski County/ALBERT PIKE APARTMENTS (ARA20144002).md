@@ -1,0 +1,85 @@
+# Project: ALBERT PIKE APARTMENTS (ARA20144002)
+
+- HUD ID: ARA20144002
+- HUD ID before: 
+- Project: ALBERT PIKE APARTMENTS
+- Address: 701 SCOTT ST
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72201
+- ZIP extension: 
+- State project ID: AR-12-01-001
+- Latitude: 34.741982
+- Longitude: -92.270072
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119004400
+- Tract 2010: 05119004400
+- Tract 2000: 05119000100
+- Tract 1990: 05119000100
+- Place 2020: 41000
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 625000
+- Units: 130
+- Low-income units: 130
+- Units reported: 130
+- Low-income reported: 130
+- Efficiencies: 76
+- 1-bedroom units: 51
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SUMMIT ALBERT PIKE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUNSHINE PEAK APTS I (COA20070095)
+
+- HUD ID: COA20070095
+- HUD ID before: 
+- Project: SUNSHINE PEAK APTS I
+- Address: 748 CEDAR CREEK AVE
+- City: MONTROSE
+- State: CO
+- ZIP: 81401
+- ZIP extension: 
+- State project ID: 2005033
+- Latitude: 38.489392
+- Longitude: -107.876123
+- County FIPS: 08085
+- County from: 2020
+- Tract 2020: 08085966302
+- Tract 2010: 08085966300
+- Tract 2000: 08085966300
+- Tract 1990: 08085966300
+- Place 2020: 51745
+- Place 2010: 51745
+- Place 2000: 51745
+- Place 1990: 0910
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 487860
+- Units: 49
+- Low-income units: 48
+- Units reported: 49
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 29
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 46
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SUNSHINE PEAK APT HOMES.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SOHO APTS (CAA20110440)
+
+- HUD ID: CAA20110440
+- HUD ID before: 
+- Project: SOHO APTS
+- Address: 1150 N VENTURA AVE
+- City: VENTURA
+- State: CA
+- ZIP: 93001
+- ZIP extension: 
+- State project ID: CA-09-136
+- Latitude: 34.293684
+- Longitude: -119.296866
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111002200
+- Tract 2010: 06111002200
+- Tract 2000: 06111002200
+- Tract 1990: 06111002200
+- Place 2020: 65042
+- Place 2010: 65042
+- Place 2000: 65042
+- Place 1990: 2460
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 423272
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 7
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 507927
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011558.
+- Record status: Existing, unchanged

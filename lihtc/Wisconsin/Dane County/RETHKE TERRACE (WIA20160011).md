@@ -1,0 +1,85 @@
+# Project: RETHKE TERRACE (WIA20160011)
+
+- HUD ID: WIA20160011
+- HUD ID before: 
+- Project: RETHKE TERRACE
+- Address: 715 RETHKE AVE
+- City: MADISON
+- State: WI
+- ZIP: 53714
+- ZIP extension: 
+- State project ID: 6004
+- Latitude: 43.108339
+- Longitude: -89.335272
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025002601
+- Tract 2010: 55025002601
+- Tract 2000: 55025002601
+- Tract 1990: 
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 540000
+- Units: 60
+- Low-income units: 3
+- Units reported: 60
+- Low-income reported: 3
+- Efficiencies: 60
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

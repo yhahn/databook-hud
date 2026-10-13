@@ -1,0 +1,85 @@
+# Project: HINCHLIFFE RESIDENTIAL (NJA20230184)
+
+- HUD ID: NJA20230184
+- HUD ID before: 
+- Project: HINCHLIFFE RESIDENTIAL
+- Address: 1 JASPER ST
+- City: PATERSON
+- State: NJ
+- ZIP: 07522
+- ZIP extension: 1947
+- State project ID: 03438-1
+- Latitude: 40.919463
+- Longitude: -74.180715
+- County FIPS: 34031
+- County from: 2020
+- Tract 2020: 34031264200
+- Tract 2010: 34031264200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 57000
+- Place 2010: 57000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1566585
+- Units: 74
+- Low-income units: 74
+- Units reported: 74
+- Low-income reported: 74
+- Efficiencies: 5
+- 1-bedroom units: 55
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1123899
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

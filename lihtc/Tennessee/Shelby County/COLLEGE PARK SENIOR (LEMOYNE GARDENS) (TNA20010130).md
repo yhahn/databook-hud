@@ -1,0 +1,85 @@
+# Project: COLLEGE PARK SENIOR (LEMOYNE GARDENS) (TNA20010130)
+
+- HUD ID: TNA20010130
+- HUD ID before: 
+- Project: COLLEGE PARK SENIOR (LEMOYNE GARDENS)
+- Address: 975 COLLEGE PARK DR
+- City: MEMPHIS
+- State: TN
+- ZIP: 38126
+- ZIP extension: 
+- State project ID: TN-99-004
+- Latitude: 35.120392
+- Longitude: -90.033155
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157011600
+- Tract 2010: 47157011600
+- Tract 2000: 47157004800
+- Tract 1990: 47157004800
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 248027
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 68
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2001035. AKA LEYMOYNE GARDENS SENIOR VILLAGE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ROCK CREST (COA20020100)
+
+- HUD ID: COA20020100
+- HUD ID before: 
+- Project: ROCK CREST
+- Address: 4905 LUCERNE AVE
+- City: LOVELAND
+- State: CO
+- ZIP: 80538
+- ZIP extension: 
+- State project ID: CO-01-116
+- Latitude: 40.442673
+- Longitude: -105.113659
+- County FIPS: 08069
+- County from: 2020
+- Tract 2020: 08069001810
+- Tract 2010: 08069001806
+- Tract 2000: 08069001806
+- Tract 1990: 08069001803
+- Place 2020: 46465
+- Place 2010: 46465
+- Place 2000: 46465
+- Place 1990: 0830
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

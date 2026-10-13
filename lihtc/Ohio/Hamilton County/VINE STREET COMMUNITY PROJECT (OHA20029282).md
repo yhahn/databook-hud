@@ -1,0 +1,85 @@
+# Project: VINE STREET COMMUNITY PROJECT (OHA20029282)
+
+- HUD ID: OHA20029282
+- HUD ID before: 
+- Project: VINE STREET COMMUNITY PROJECT
+- Address: 1501 REPUBLIC ST
+- City: CINCINNATI
+- State: OH
+- ZIP: 45202
+- ZIP extension: 
+- State project ID: 000051
+- Latitude: 39.111621
+- Longitude: -84.516648
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061000900
+- Tract 2010: 39061000900
+- Tract 2000: 39061000900
+- Tract 1990: 39061000900
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 8
+- 3-bedroom units: 9
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 301000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003620, OHA2002200.
+- Record status: Existing, unchanged

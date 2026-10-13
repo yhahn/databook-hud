@@ -1,0 +1,85 @@
+# Project: CASA MARIA APTS (CAA20060752)
+
+- HUD ID: CAA20060752
+- HUD ID before: 
+- Project: CASA MARIA APTS
+- Address: 51950 TYLER ST
+- City: COACHELLA
+- State: CA
+- ZIP: 92236
+- ZIP extension: 
+- State project ID: CA-05-868
+- Latitude: 33.672757
+- Longitude: -116.162855
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065045706
+- Tract 2010: 06065045706
+- Tract 2000: 06065045706
+- Tract 1990: 06065045701
+- Place 2020: 14260
+- Place 2010: 14260
+- Place 2000: 14260
+- Place 1990: 0555
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 276024
+- Units: 100
+- Low-income units: 98
+- Units reported: 100
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 65
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COACHELLA VALLEY PHASE II.
+- Record status: Existing, unchanged

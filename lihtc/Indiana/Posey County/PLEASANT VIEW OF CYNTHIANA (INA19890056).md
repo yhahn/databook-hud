@@ -1,0 +1,85 @@
+# Project: PLEASANT VIEW OF CYNTHIANA (INA19890056)
+
+- HUD ID: INA19890056
+- HUD ID before: 
+- Project: PLEASANT VIEW OF CYNTHIANA
+- Address: 10365 POPLAR ST
+- City: CYNTHIANA
+- State: IN
+- ZIP: 47612
+- ZIP extension: 
+- State project ID: IN-89-04401
+- Latitude: 38.186569
+- Longitude: -87.7123
+- County FIPS: 18129
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18129040100
+- Tract 2000: 18129040100
+- Tract 1990: 18129040100
+- Place 2020: 
+- Place 2010: 16534
+- Place 2000: 16534
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001330.
+- Record status: Existing, unchanged

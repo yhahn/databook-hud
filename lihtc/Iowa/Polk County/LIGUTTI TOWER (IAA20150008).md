@@ -1,0 +1,85 @@
+# Project: LIGUTTI TOWER (IAA20150008)
+
+- HUD ID: IAA20150008
+- HUD ID before: 
+- Project: LIGUTTI TOWER
+- Address: 555 5TH AVENUE
+- City: DES MOINES
+- State: IA
+- ZIP: 50309
+- ZIP extension: 2313
+- State project ID: 13-13-30
+- Latitude: 41.589617
+- Longitude: -93.624207
+- County FIPS: 19153
+- County from: 2020
+- Tract 2020: 19153005101
+- Tract 2010: 19153005100
+- Tract 2000: 19153005100
+- Tract 1990: 
+- Place 2020: 21000
+- Place 2010: 21000
+- Place 2000: 21000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 799920
+- Units: 139
+- Low-income units: 139
+- Units reported: 139
+- Low-income reported: 139
+- Efficiencies: 35
+- 1-bedroom units: 104
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

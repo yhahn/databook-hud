@@ -1,0 +1,85 @@
+# Project: RIVERGROVE APARTMENTS (WAA20070225)
+
+- HUD ID: WAA20070225
+- HUD ID before: 
+- Project: RIVERGROVE APARTMENTS
+- Address: 617 SE 4TH STREET.
+- City: BATTLE GROUND
+- State: WA
+- ZIP: 98604
+- ZIP extension: 
+- State project ID: 06-120C
+- Latitude: 45.777746
+- Longitude: -122.529851
+- County FIPS: 53011
+- County from: 2020
+- Tract 2020: 53011040407
+- Tract 2010: 53011040407
+- Tract 2000: 53011040407
+- Tract 1990: 
+- Place 2020: 04475
+- Place 2010: 04475
+- Place 2000: 04475
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 91506
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 23
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

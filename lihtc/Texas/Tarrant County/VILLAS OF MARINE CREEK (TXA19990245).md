@@ -1,0 +1,85 @@
+# Project: VILLAS OF MARINE CREEK (TXA19990245)
+
+- HUD ID: TXA19990245
+- HUD ID before: 
+- Project: VILLAS OF MARINE CREEK
+- Address: 3000 CREEKSIDE DR
+- City: FORT WORTH
+- State: TX
+- ZIP: 76106
+- ZIP extension: 
+- State project ID: TX1853
+- Latitude: 32.815123
+- Longitude: -97.407038
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439100505
+- Tract 2010: 48439100501
+- Tract 2000: 48439100501
+- Tract 1990: 48439100501
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1500
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 148
+- Low-income units: 88
+- Units reported: 148
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 57
+- 2-bedroom units: 91
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

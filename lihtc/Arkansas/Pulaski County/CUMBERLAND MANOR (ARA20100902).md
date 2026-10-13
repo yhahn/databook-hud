@@ -1,0 +1,85 @@
+# Project: CUMBERLAND MANOR (ARA20100902)
+
+- HUD ID: ARA20100902
+- HUD ID before: 
+- Project: CUMBERLAND MANOR
+- Address: 2721 S SCOTT ST
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72206
+- ZIP extension: 
+- State project ID: AR-07-09
+- Latitude: 34.722319
+- Longitude: -92.272915
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119000500
+- Tract 2010: 05119000500
+- Tract 2000: 05119000300
+- Tract 1990: 05119000300
+- Place 2020: 41000
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 479960
+- Units: 60
+- Low-income units: 42
+- Units reported: 60
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 46
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2010005, ARA2007008.
+- Record status: Existing, unchanged

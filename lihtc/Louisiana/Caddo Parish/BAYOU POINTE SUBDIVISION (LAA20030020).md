@@ -1,0 +1,85 @@
+# Project: BAYOU POINTE SUBDIVISION (LAA20030020)
+
+- HUD ID: LAA20030020
+- HUD ID before: 
+- Project: BAYOU POINTE SUBDIVISION
+- Address: 8139 FORK BAYOU LN
+- City: SHREVEPORT
+- State: LA
+- ZIP: 71106
+- ZIP extension: 
+- State project ID: LA-02-053
+- Latitude: 32.428055
+- Longitude: -93.769022
+- County FIPS: 22017
+- County from: 2020
+- Tract 2020: 22017023701
+- Tract 2010: 22017023700
+- Tract 2000: 22017023700
+- Tract 1990: 22017023700
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 1240
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 51
+- 4-bedroom units: 9
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

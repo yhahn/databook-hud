@@ -1,0 +1,85 @@
+# Project: EVANS PARK AT NEWTON CORNER (MAB00000271)
+
+- HUD ID: MAB00000271
+- HUD ID before: 
+- Project: EVANS PARK AT NEWTON CORNER
+- Address: 430 CENTRE ST
+- City: NEWTON
+- State: MA
+- ZIP: 02458
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.355904
+- Longitude: -71.185046
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017373100
+- Tract 2010: 25017373100
+- Tract 2000: 25017373100
+- Tract 1990: 25017373100
+- Place 2020: 45560
+- Place 2010: 45560
+- Place 2000: 45560
+- Place 1990: 2830
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 112
+- Low-income units: 23
+- Units reported: 112
+- Low-income reported: 23
+- Efficiencies: 32
+- 1-bedroom units: 70
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

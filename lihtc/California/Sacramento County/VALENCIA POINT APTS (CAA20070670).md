@@ -1,0 +1,85 @@
+# Project: VALENCIA POINT APTS (CAA20070670)
+
+- HUD ID: CAA20070670
+- HUD ID before: 
+- Project: VALENCIA POINT APTS
+- Address: 4500 NATOMAS CENTRAL DR
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95834
+- ZIP extension: 
+- State project ID: CA-06-881
+- Latitude: 38.654671
+- Longitude: -121.543352
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067007026
+- Tract 2010: 06067007015
+- Tract 2000: 06067007008
+- Tract 1990: 06067007003
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 64000
+- Place 1990: 2420
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1092765
+- Units: 168
+- Low-income units: 166
+- Units reported: 168
+- Low-income reported: 166
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 84
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHEMUNG CROSSING (NYA20190006)
+
+- HUD ID: NYA20190006
+- HUD ID before: 
+- Project: CHEMUNG CROSSING
+- Address: 226-230 SOUTH MAIN STREET
+- City: ELMIRA
+- State: NY
+- ZIP: 14904
+- ZIP extension: 
+- State project ID: 20156046
+- Latitude: 42.082836
+- Longitude: -76.805262
+- County FIPS: 36015
+- County from: 2020
+- Tract 2020: 36015001000
+- Tract 2010: 36015001000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 24229
+- Place 2010: 24229
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 989903
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 1
+- 1-bedroom units: 33
+- 2-bedroom units: 1
+- 3-bedroom units: 8
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 45
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1954711
+- CDBG: Yes
+- CDBG amount: 18545
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

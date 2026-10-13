@@ -1,0 +1,85 @@
+# Project: ROUND II (PARKWAY HOUSING) (NYC19910018)
+
+- HUD ID: NYC19910018
+- HUD ID before: 
+- Project: ROUND II (PARKWAY HOUSING)
+- Address: 102 W 109TH ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10025
+- ZIP extension: 
+- State project ID: NY8902117
+- Latitude: 40.801155
+- Longitude: -73.961866
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061019300
+- Tract 2010: 36061019300
+- Tract 2000: 36061019300
+- Tract 1990: 36061019300
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 349000
+- Units: 72
+- Low-income units: 57
+- Units reported: 72
+- Low-income reported: 57
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PARKWAY HOUSING (ROUND II).
+- Record status: Existing, unchanged

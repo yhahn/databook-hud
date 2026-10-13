@@ -1,0 +1,85 @@
+# Project: MCPHERSON WOODS (OHA19920170)
+
+- HUD ID: OHA19920170
+- HUD ID before: 
+- Project: MCPHERSON WOODS
+- Address: 1087 MOUND ST
+- City: CINCINNATI
+- State: OH
+- ZIP: 45203
+- ZIP extension: 
+- State project ID: OH-91-0595
+- Latitude: 39.107428
+- Longitude: -84.523648
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061026400
+- Tract 2010: 39061026400
+- Tract 2000: 39061000302
+- Tract 1990: 39061000302
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

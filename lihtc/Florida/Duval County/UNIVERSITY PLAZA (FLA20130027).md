@@ -1,0 +1,85 @@
+# Project: UNIVERSITY PLAZA (FLA20130027)
+
+- HUD ID: FLA20130027
+- HUD ID before: 
+- Project: UNIVERSITY PLAZA
+- Address: 719 VENUS MARS CT
+- City: JACKSONVILLE
+- State: FL
+- ZIP: 32209
+- ZIP extension: 
+- State project ID: 2557
+- Latitude: 30.350904
+- Longitude: -81.665703
+- County FIPS: 12031
+- County from: 2020
+- Tract 2020: 12031001500
+- Tract 2010: 12031001500
+- Tract 2000: 12031001500
+- Tract 1990: 12031001500
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1003
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 28
+- 3-bedroom units: 32
+- 4-bedroom units: 16
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

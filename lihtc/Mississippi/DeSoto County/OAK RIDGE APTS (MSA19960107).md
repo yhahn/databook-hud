@@ -1,0 +1,85 @@
+# Project: OAK RIDGE APTS (MSA19960107)
+
+- HUD ID: MSA19960107
+- HUD ID before: 
+- Project: OAK RIDGE APTS
+- Address: 7705 CARRI LAYNE
+- City: SOUTHAVEN
+- State: MS
+- ZIP: 38671
+- ZIP extension: 
+- State project ID: MS-94-032
+- Latitude: 34.971216
+- Longitude: -90.008268
+- County FIPS: 28033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 28033070412
+- Tract 2000: 28033070410
+- Tract 1990: 28033070410
+- Place 2020: 
+- Place 2010: 69280
+- Place 2000: 33700
+- Place 1990: 1245
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 250
+- Low-income units: 248
+- Units reported: 250
+- Low-income reported: 248
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 206
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1996557.
+- Record status: Existing, unchanged

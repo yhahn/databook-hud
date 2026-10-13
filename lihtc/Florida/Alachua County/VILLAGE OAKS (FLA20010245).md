@@ -1,0 +1,85 @@
+# Project: VILLAGE OAKS (FLA20010245)
+
+- HUD ID: FLA20010245
+- HUD ID before: 
+- Project: VILLAGE OAKS
+- Address: 501 SE 18TH ST
+- City: GAINESVILLE
+- State: FL
+- ZIP: 32641
+- ZIP extension: 
+- State project ID: 896
+- Latitude: 29.646854
+- Longitude: -82.3015
+- County FIPS: 12001
+- County from: 2020
+- Tract 2020: 12001000700
+- Tract 2010: 12001000700
+- Tract 2000: 12001000700
+- Tract 1990: 12001000700
+- Place 2020: 25175
+- Place 2010: 25175
+- Place 2000: 25175
+- Place 1990: 0695
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 91
+- Low-income units: 91
+- Units reported: 91
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 88
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

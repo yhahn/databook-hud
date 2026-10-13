@@ -1,0 +1,85 @@
+# Project: SYLVAN GLEN (WIA19960175)
+
+- HUD ID: WIA19960175
+- HUD ID before: 
+- Project: SYLVAN GLEN
+- Address: 1150 19TH AVE S
+- City: WISCONSIN RAPIDS
+- State: WI
+- ZIP: 54495
+- ZIP extension: 
+- State project ID: 2052
+- Latitude: 44.384724
+- Longitude: -89.848286
+- County FIPS: 55141
+- County from: 2020
+- Tract 2020: 55141011200
+- Tract 2010: 55141011200
+- Tract 2000: 55141011200
+- Tract 1990: 55141011200
+- Place 2020: 88200
+- Place 2010: 88200
+- Place 2000: 64175
+- Place 1990: 2845
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 28
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

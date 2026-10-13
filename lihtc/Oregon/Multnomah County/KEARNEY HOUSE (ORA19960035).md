@@ -1,0 +1,85 @@
+# Project: KEARNEY HOUSE (ORA19960035)
+
+- HUD ID: ORA19960035
+- HUD ID before: 
+- Project: KEARNEY HOUSE
+- Address: 850 NW 20TH AVE
+- City: PORTLAND
+- State: OR
+- ZIP: 97209
+- ZIP extension: 
+- State project ID: OR-95-1-051
+- Latitude: 45.52923
+- Longitude: -122.692263
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051004902
+- Tract 2010: 41051004900
+- Tract 2000: 41051004900
+- Tract 1990: 41051004900
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 395000
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LARGE FAMILY
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

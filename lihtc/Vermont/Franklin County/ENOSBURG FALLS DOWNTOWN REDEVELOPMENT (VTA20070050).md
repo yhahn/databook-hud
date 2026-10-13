@@ -1,0 +1,85 @@
+# Project: ENOSBURG FALLS DOWNTOWN REDEVELOPMENT (VTA20070050)
+
+- HUD ID: VTA20070050
+- HUD ID before: 
+- Project: ENOSBURG FALLS DOWNTOWN REDEVELOPMENT
+- Address: 371 MAIN ST N
+- City: ENOSBURG FALLS
+- State: VT
+- ZIP: 05450
+- ZIP extension: 
+- State project ID: 0327
+- Latitude: 44.786717
+- Longitude: -72.800585
+- County FIPS: 50011
+- County from: 2020
+- Tract 2020: 50011010400
+- Tract 2010: 50011010400
+- Tract 2000: 50011010400
+- Tract 1990: 50011010400
+- Place 2020: 02425
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 509250
+- Units: 28
+- Low-income units: 25
+- Units reported: 28
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 425000
+- CDBG: Yes
+- CDBG amount: 700000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA FALLS HOUSING
+- Record status: Existing, unchanged

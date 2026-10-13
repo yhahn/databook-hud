@@ -1,0 +1,85 @@
+# Project: RESIDENCES AT CENTER STREET STATION (AZA20129081)
+
+- HUD ID: AZA20129081
+- HUD ID before: 
+- Project: RESIDENCES AT CENTER STREET STATION
+- Address: 50 E MAIN ST
+- City: MESA
+- State: AZ
+- ZIP: 85201
+- ZIP extension: 
+- State project ID: AZ1012-025
+- Latitude: 33.415338
+- Longitude: -111.83004
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013421400
+- Tract 2010: 04013421400
+- Tract 2000: 04013421400
+- Tract 1990: 04013421400
+- Place 2020: 46000
+- Place 2010: 46000
+- Place 2000: 46000
+- Place 1990: 0215
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 81
+- Units reported: 34
+- Low-income reported: 81
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

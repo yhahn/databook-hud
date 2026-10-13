@@ -1,0 +1,85 @@
+# Project: GLOBEVILLE TOWNHOMES I (COA20050045)
+
+- HUD ID: COA20050045
+- HUD ID before: 
+- Project: GLOBEVILLE TOWNHOMES I
+- Address: 351 E 51ST AVE
+- City: DENVER
+- State: CO
+- ZIP: 80216
+- ZIP extension: 
+- State project ID: 2002031
+- Latitude: 39.789383
+- Longitude: -104.983478
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031001500
+- Tract 2010: 08031001500
+- Tract 2000: 08031001500
+- Tract 1990: 08031001500
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 20000
+- Place 1990: 0320
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 13
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

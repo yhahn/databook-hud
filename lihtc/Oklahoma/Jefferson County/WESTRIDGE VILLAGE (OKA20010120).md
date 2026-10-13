@@ -1,0 +1,85 @@
+# Project: WESTRIDGE VILLAGE (OKA20010120)
+
+- HUD ID: OKA20010120
+- HUD ID before: 
+- Project: WESTRIDGE VILLAGE
+- Address: 200 S FIRST ST
+- City: RINGLING
+- State: OK
+- ZIP: 73456
+- ZIP extension: 
+- State project ID: 000644
+- Latitude: 34.177251
+- Longitude: -97.59763
+- County FIPS: 40067
+- County from: 2020
+- Tract 2020: 40067371600
+- Tract 2010: 40067371600
+- Tract 2000: 40067971600
+- Tract 1990: 40067971600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 17350
+- Place 1990: 2055
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 6
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

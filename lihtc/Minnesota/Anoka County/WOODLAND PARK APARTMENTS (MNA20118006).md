@@ -1,0 +1,85 @@
+# Project: WOODLAND PARK APARTMENTS (MNA20118006)
+
+- HUD ID: MNA20118006
+- HUD ID before: 
+- Project: WOODLAND PARK APARTMENTS
+- Address: 2610-2618 CUTTER GROVE
+- City: ANOKA
+- State: MN
+- ZIP: 55303
+- ZIP extension: 
+- State project ID: D0059
+- Latitude: 45.206799
+- Longitude: -93.412524
+- County FIPS: 27003
+- County from: 2020
+- Tract 2020: 27003050402
+- Tract 2010: 27003050402
+- Tract 2000: 27003050400
+- Tract 1990: 27003050400
+- Place 2020: 01720
+- Place 2010: 01720
+- Place 2000: 01720
+- Place 1990: 0095
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 380137
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 56
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 208348
+- CDBG: Yes
+- CDBG amount: 200000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,27 @@
+# Tax Credit Projects: Stoddard County, MO
+
+- Level: County
+- Postal code: MO
+- State FIPS: 29
+- County FIPS: 29207
+- Counties: 
+- Projects: 10
+- Units: 210
+- Low-income units: 210
+
+The low-income housing tax credit projects of Stoddard County, Missouri, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [HICKORY VILLA II (MOA19880640)](./Stoddard%20County/HICKORY%20VILLA%20II%20%28MOA19880640%29.md) | MOA19880640 | DEXTER | 1988 | 16 | 16 |
+| [LOCKWOOD COURT BLDG 1-4 (MOA19880670)](./Stoddard%20County/LOCKWOOD%20COURT%20BLDG%201-4%20%28MOA19880670%29.md) | MOA19880670 | BLOOMFIELD | 1988 | 16 | 16 |
+| [GRANTS APTS (MOA19900365)](./Stoddard%20County/GRANTS%20APTS%20%28MOA19900365%29.md) | MOA19900365 | DEXTER | 1990 | 16 | 16 |
+| [PUXICO APTS (MOA19900480)](./Stoddard%20County/PUXICO%20APTS%20%28MOA19900480%29.md) | MOA19900480 | PUXICO | 1990 | 16 | 16 |
+| [SEMO APTS I (MOA19930275)](./Stoddard%20County/SEMO%20APTS%20I%20%28MOA19930275%29.md) | MOA19930275 | BLOOMFIELD | 1993 | 4 | 4 |
+| [DEXTER SENIOR APTS (MOA19990045)](./Stoddard%20County/DEXTER%20SENIOR%20APTS%20%28MOA19990045%29.md) | MOA19990045 | DEXTER | 1999 | 24 | 24 |
+| [GREENFIELD APTS (MOA20020120)](./Stoddard%20County/GREENFIELD%20APTS%20%28MOA20020120%29.md) | MOA20020120 | BERNIE | 2002 | 16 | 16 |
+| [DEXTER APTS III (MOA20030040)](./Stoddard%20County/DEXTER%20APTS%20III%20%28MOA20030040%29.md) | MOA20030040 | DEXTER | 2003 | 50 | 50 |
+| [BELL CITY APTS (MOA20040035)](./Stoddard%20County/BELL%20CITY%20APTS%20%28MOA20040035%29.md) | MOA20040035 | BELL CITY | 2004 | 24 | 24 |
+| [DEXTER II APTS (MOA20040065)](./Stoddard%20County/DEXTER%20II%20APTS%20%28MOA20040065%29.md) | MOA20040065 | DEXTER | 2004 | 28 | 28 |

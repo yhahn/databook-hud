@@ -1,0 +1,85 @@
+# Project: WILLOWS AT CUMMINGS (GAA19960200)
+
+- HUD ID: GAA19960200
+- HUD ID before: 
+- Project: WILLOWS AT CUMMINGS
+- Address: 225 NANCY LN
+- City: CUMMING
+- State: GA
+- ZIP: 30040
+- ZIP extension: 9640
+- State project ID: GA-94-011
+- Latitude: 34.195347
+- Longitude: -84.150706
+- County FIPS: 13117
+- County from: 2020
+- Tract 2020: 13117130410
+- Tract 2010: 13117130410
+- Tract 2000: 13117130402
+- Tract 1990: 13117130400
+- Place 2020: 20932
+- Place 2010: 20932
+- Place 2000: 20932
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 156
+- Low-income units: 156
+- Units reported: 156
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 116
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1996275.
+- Record status: Existing, unchanged

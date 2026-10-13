@@ -1,0 +1,85 @@
+# Project: MARKHAM HILL APTS PHASES I & II (ARA19980687)
+
+- HUD ID: ARA19980687
+- HUD ID before: 
+- Project: MARKHAM HILL APTS PHASES I & II
+- Address: 2164 W STONE ST
+- City: FAYETTEVILLE
+- State: AR
+- ZIP: 72701
+- ZIP extension: 
+- State project ID: AR-97-74-001
+- Latitude: 36.059947
+- Longitude: -94.190124
+- County FIPS: 05143
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05143010600
+- Tract 2000: 05143010600
+- Tract 1990: 05143010600
+- Place 2020: 
+- Place 2010: 23290
+- Place 2000: 23290
+- Place 1990: 0670
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 303069
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 71
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1998685, ARA1998024, ARA1998023.
+- Record status: Existing, unchanged

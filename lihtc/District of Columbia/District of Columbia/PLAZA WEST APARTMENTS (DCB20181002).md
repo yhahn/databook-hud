@@ -1,0 +1,85 @@
+# Project: PLAZA WEST APARTMENTS (DCB20181002)
+
+- HUD ID: DCB20181002
+- HUD ID before: 
+- Project: PLAZA WEST APARTMENTS
+- Address: 1035 4TH STREET, NW
+- City: WASHINGTON
+- State: DC
+- ZIP: 20001
+- ZIP extension: 
+- State project ID: DCB2019065
+- Latitude: 38.903012
+- Longitude: -77.015955
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001004703
+- Tract 2010: 11001004701
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 2908388
+- Units: 233
+- Low-income units: 233
+- Units reported: 233
+- Low-income reported: 233
+- Efficiencies: 32
+- 1-bedroom units: 103
+- 2-bedroom units: 68
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 143
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

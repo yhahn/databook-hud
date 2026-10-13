@@ -1,0 +1,85 @@
+# Project: MARATHON CO HOUSING REDEVELOPMENT - HUD (WIA20040065)
+
+- HUD ID: WIA20040065
+- HUD ID before: 
+- Project: MARATHON CO HOUSING REDEVELOPMENT - HUD
+- Address: 2035 GRAND AVE
+- City: ROTHSCHILD
+- State: WI
+- ZIP: 
+- ZIP extension: 
+- State project ID: 3035
+- Latitude: 44.8841
+- Longitude: -89.6234
+- County FIPS: 55073
+- County from: 2020
+- Tract 2020: 55073001106
+- Tract 2010: 55073001000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69725
+- Place 2010: 69725
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

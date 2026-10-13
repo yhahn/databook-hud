@@ -1,0 +1,85 @@
+# Project: HART HOUSE APTS (WVA19990035)
+
+- HUD ID: WVA19990035
+- HUD ID before: 
+- Project: HART HOUSE APTS
+- Address: 400 CHURCH ST
+- City: SPENCER
+- State: WV
+- ZIP: 25276
+- ZIP extension: 
+- State project ID: 
+- Latitude: 38.798922
+- Longitude: -81.351927
+- County FIPS: 54087
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 54087963000
+- Tract 2000: 54087963000
+- Tract 1990: 54087963000
+- Place 2020: 
+- Place 2010: 75820
+- Place 2000: 75820
+- Place 1990: 1495
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

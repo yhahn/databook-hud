@@ -1,0 +1,85 @@
+# Project: MADISON III MANOR (MIA19920180)
+
+- HUD ID: MIA19920180
+- HUD ID before: 
+- Project: MADISON III MANOR
+- Address: 27795 DEQUINDRE RD
+- City: MADISON HEIGHTS
+- State: MI
+- ZIP: 48071
+- ZIP extension: 
+- State project ID: MI-828
+- Latitude: 42.497434
+- Longitude: -83.085549
+- County FIPS: 26125
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26125181300
+- Tract 2000: 26125181300
+- Tract 1990: 26125181300
+- Place 2020: 
+- Place 2010: 50560
+- Place 2000: 50560
+- Place 1990: 1610
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 25
+- Units reported: 81
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

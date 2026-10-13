@@ -1,0 +1,85 @@
+# Project: COOPERSBURG SCHOOL APTS (PAA19940110)
+
+- HUD ID: PAA19940110
+- HUD ID before: 
+- Project: COOPERSBURG SCHOOL APTS
+- Address: 331 E STATE ST
+- City: COOPERSBURG
+- State: PA
+- ZIP: 18036
+- ZIP extension: 
+- State project ID: TC1993-0055
+- Latitude: 40.510906
+- Longitude: -75.386917
+- County FIPS: 42077
+- County from: 2020
+- Tract 2020: 42077006902
+- Tract 2010: 42077006902
+- Tract 2000: 42077006902
+- Tract 1990: 42077006902
+- Place 2020: 16056
+- Place 2010: 16056
+- Place 2000: 16056
+- Place 1990: 2385
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 242652
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: PREVIOUSLY LISTED AS PAA1994115.
+- Record status: Existing, unchanged

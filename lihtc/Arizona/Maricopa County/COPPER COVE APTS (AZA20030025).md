@@ -1,0 +1,85 @@
+# Project: COPPER COVE APTS (AZA20030025)
+
+- HUD ID: AZA20030025
+- HUD ID before: 
+- Project: COPPER COVE APTS
+- Address: 101 N 91ST AVE
+- City: TOLLESON
+- State: AZ
+- ZIP: 85353
+- ZIP extension: 
+- State project ID: BD-0011
+- Latitude: 33.447877
+- Longitude: -112.254954
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013083000
+- Tract 2010: 04013083000
+- Tract 2000: 04013082100
+- Tract 1990: 04013082100
+- Place 2020: 74190
+- Place 2010: 74190
+- Place 2000: 55000
+- Place 1990: 0370
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 228
+- Low-income units: 226
+- Units reported: 228
+- Low-income reported: 226
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 152
+- 3-bedroom units: 76
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

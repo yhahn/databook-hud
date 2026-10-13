@@ -1,0 +1,85 @@
+# Project: TRINITY GATE APTS (CTA19950080)
+
+- HUD ID: CTA19950080
+- HUD ID before: 
+- Project: TRINITY GATE APTS
+- Address: 1668 BROAD ST
+- City: HARTFORD
+- State: CT
+- ZIP: 06106
+- ZIP extension: 
+- State project ID: 
+- Latitude: 41.746547
+- Longitude: -72.686897
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003502700
+- Tract 2010: 09003502700
+- Tract 2000: 09003502700
+- Tract 1990: 09003502700
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 0970
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 13
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

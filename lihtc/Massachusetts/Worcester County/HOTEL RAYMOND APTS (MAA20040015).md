@@ -1,0 +1,85 @@
+# Project: HOTEL RAYMOND APTS (MAA20040015)
+
+- HUD ID: MAA20040015
+- HUD ID before: 
+- Project: HOTEL RAYMOND APTS
+- Address: 35 DAY ST
+- City: FITCHBURG
+- State: MA
+- ZIP: 01420
+- ZIP extension: 
+- State project ID: MA-03-001
+- Latitude: 42.582694
+- Longitude: -71.795248
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027710700
+- Tract 2010: 25027710700
+- Tract 2000: 25027710700
+- Tract 1990: 25027710700
+- Place 2020: 23875
+- Place 2010: 23875
+- Place 2000: 23875
+- Place 1990: 1280
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 74
+- Low-income units: 74
+- Units reported: 74
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 11
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000325.
+- Record status: Existing, unchanged

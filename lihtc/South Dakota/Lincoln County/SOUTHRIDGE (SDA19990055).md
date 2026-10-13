@@ -1,0 +1,85 @@
+# Project: SOUTHRIDGE (SDA19990055)
+
+- HUD ID: SDA19990055
+- HUD ID before: 
+- Project: SOUTHRIDGE
+- Address: 1601 E NORTHSTAR LN
+- City: SIOUX FALLS
+- State: SD
+- ZIP: 57108
+- ZIP extension: 
+- State project ID: 01654
+- Latitude: 43.492435
+- Longitude: -96.70459
+- County FIPS: 46083
+- County from: 2020
+- Tract 2020: 46083010112
+- Tract 2010: 46083010104
+- Tract 2000: 46083010100
+- Tract 1990: 46083010100
+- Place 2020: 59020
+- Place 2010: 59020
+- Place 2000: 27260
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 22
+- 3-bedroom units: 8
+- 4-bedroom units: 29
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

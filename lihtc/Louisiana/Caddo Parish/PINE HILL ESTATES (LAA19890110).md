@@ -1,0 +1,85 @@
+# Project: PINE HILL ESTATES (LAA19890110)
+
+- HUD ID: LAA19890110
+- HUD ID before: 
+- Project: PINE HILL ESTATES
+- Address: 1996 DOWNING ST
+- City: SHREVEPORT
+- State: LA
+- ZIP: 71107
+- ZIP extension: 
+- State project ID: LA-89-009
+- Latitude: 32.54449
+- Longitude: -93.844966
+- County FIPS: 22017
+- County from: 2020
+- Tract 2020: 22017024601
+- Tract 2010: 22017024601
+- Tract 2000: 22017024601
+- Tract 1990: 22017024600
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 1240
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 35
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: Existing
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

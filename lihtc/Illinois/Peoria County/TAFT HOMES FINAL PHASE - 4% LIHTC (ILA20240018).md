@@ -1,0 +1,85 @@
+# Project: TAFT HOMES FINAL PHASE - 4% LIHTC (ILA20240018)
+
+- HUD ID: ILA20240018
+- HUD ID before: 
+- Project: TAFT HOMES FINAL PHASE - 4% LIHTC
+- Address: 245 GREEN ST
+- City: PEORIA
+- State: IL
+- ZIP: 61603
+- ZIP extension: 
+- State project ID: 1185621
+- Latitude: 40.696108
+- Longitude: -89.582444
+- County FIPS: 17143
+- County from: 2020
+- Tract 2020: 17143001200
+- Tract 2010: 17143001200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 871561
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 35
+- 3-bedroom units: 5
+- 4-bedroom units: 12
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: No
+- Affordability years: 30
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: Yes
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

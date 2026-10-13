@@ -1,0 +1,85 @@
+# Project: NORTH LINDSEY STREET SFD (TNA19890801)
+
+- HUD ID: TNA19890801
+- HUD ID before: 
+- Project: NORTH LINDSEY STREET SFD
+- Address: 320 N LINDSEY ST
+- City: JACKSON
+- State: TN
+- ZIP: 38301
+- ZIP extension: 
+- State project ID: TN-89-165
+- Latitude: 35.620025
+- Longitude: -88.802503
+- County FIPS: 47113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47113000900
+- Tract 2000: 47113000900
+- Tract 1990: 47113000900
+- Place 2020: 
+- Place 2010: 37640
+- Place 2000: 37640
+- Place 1990: 0705
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 469
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1989205.
+- Record status: Existing, unchanged

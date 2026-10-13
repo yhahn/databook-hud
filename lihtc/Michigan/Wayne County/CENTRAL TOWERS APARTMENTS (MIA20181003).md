@@ -1,0 +1,85 @@
+# Project: CENTRAL TOWERS APARTMENTS (MIA20181003)
+
+- HUD ID: MIA20181003
+- HUD ID before: 
+- Project: CENTRAL TOWERS APARTMENTS
+- Address: 2520 CENTRAL AVENUE
+- City: DETROIT
+- State: MI
+- ZIP: 48209
+- ZIP extension: 0000
+- State project ID: 3698
+- Latitude: 42.314837
+- Longitude: -83.125648
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163524001
+- Tract 2010: 26163524000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1290837
+- Units: 232
+- Low-income units: 232
+- Units reported: 232
+- Low-income reported: 232
+- Efficiencies: 0
+- 1-bedroom units: 206
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

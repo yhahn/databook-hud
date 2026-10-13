@@ -1,0 +1,85 @@
+# Project: LAKE SHORE LANDINGS (INA19910219)
+
+- HUD ID: INA19910219
+- HUD ID before: 
+- Project: LAKE SHORE LANDINGS
+- Address: 415 N LAKE ST
+- City: GARY
+- State: IN
+- ZIP: 46403
+- ZIP extension: 
+- State project ID: IN-89-01201
+- Latitude: 41.612422
+- Longitude: -87.268324
+- County FIPS: 18089
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18089010201
+- Tract 2000: 18089010201
+- Tract 1990: 18089010298
+- Place 2020: 
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 0905
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 682
+- Low-income units: 682
+- Units reported: 682
+- Low-income reported: 
+- Efficiencies: 32
+- 1-bedroom units: 328
+- 2-bedroom units: 318
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0000978, INA00001140.
+- Record status: Existing, unchanged

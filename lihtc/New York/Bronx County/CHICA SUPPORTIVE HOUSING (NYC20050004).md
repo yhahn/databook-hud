@@ -1,0 +1,85 @@
+# Project: CHICA SUPPORTIVE HOUSING (NYC20050004)
+
+- HUD ID: NYC20050004
+- HUD ID before: 
+- Project: CHICA SUPPORTIVE HOUSING
+- Address: 1022 REV JAMES A POLITE AVE
+- City: BRONX
+- State: NY
+- ZIP: 10459
+- ZIP extension: 
+- State project ID: NY0302042
+- Latitude: 40.823871
+- Longitude: -73.898653
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005013100
+- Tract 2010: 36005013100
+- Tract 2000: 36005013100
+- Tract 1990: 36005013100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 250000
+- Units: 67
+- Low-income units: 67
+- Units reported: 67
+- Low-income reported: 67
+- Efficiencies: 67
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: AIDS/HIV
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2004070.
+- Record status: Existing, unchanged

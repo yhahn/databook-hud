@@ -1,0 +1,85 @@
+# Project: OAK TREE VILLAGE (MIA19940105)
+
+- HUD ID: MIA19940105
+- HUD ID before: 
+- Project: OAK TREE VILLAGE
+- Address: 410 ACORN DR
+- City: BRIGHTON
+- State: MI
+- ZIP: 48116
+- ZIP extension: 
+- State project ID: MI-2059
+- Latitude: 42.526586
+- Longitude: -83.773105
+- County FIPS: 26093
+- County from: 2020
+- Tract 2020: 26093741601
+- Tract 2010: 26093741601
+- Tract 2000: 26093741600
+- Tract 1990: 26093741000
+- Place 2020: 10620
+- Place 2010: 10620
+- Place 2000: 10620
+- Place 1990: 0320
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SPRING HILLS APTS (SIOUX CITY) (IAA20040080)
+
+- HUD ID: IAA20040080
+- HUD ID before: 
+- Project: SPRING HILLS APTS (SIOUX CITY)
+- Address: 2800 41ST ST
+- City: SIOUX CITY
+- State: IA
+- ZIP: 51108
+- ZIP extension: 
+- State project ID: 02-08
+- Latitude: 42.5408
+- Longitude: -96.374833
+- County FIPS: 19193
+- County from: 2020
+- Tract 2020: 19193000202
+- Tract 2010: 19193000200
+- Tract 2000: 19193000200
+- Tract 1990: 19193000200
+- Place 2020: 73335
+- Place 2010: 73335
+- Place 2000: 73335
+- Place 1990: 3980
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 146435
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 3
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MALLARD GLEN APTS (OHA20010115)
+
+- HUD ID: OHA20010115
+- HUD ID before: 
+- Project: MALLARD GLEN APTS
+- Address: 27 LORI LN
+- City: AMELIA
+- State: OH
+- ZIP: 45102
+- ZIP extension: 
+- State project ID: 990037
+- Latitude: 39.037823
+- Longitude: -84.227075
+- County FIPS: 39025
+- County from: 2020
+- Tract 2020: 39025041105
+- Tract 2010: 39025041103
+- Tract 2000: 39025041103
+- Tract 1990: 39025041100
+- Place 2020: 01742
+- Place 2010: 01742
+- Place 2000: 01742
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 270256
+- Units: 96
+- Low-income units: 73
+- Units reported: 96
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 601000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

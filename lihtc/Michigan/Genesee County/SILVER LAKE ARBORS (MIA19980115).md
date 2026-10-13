@@ -1,0 +1,85 @@
+# Project: SILVER LAKE ARBORS (MIA19980115)
+
+- HUD ID: MIA19980115
+- HUD ID before: 
+- Project: SILVER LAKE ARBORS
+- Address: 3800 ARBOR DR
+- City: FENTON
+- State: MI
+- ZIP: 48430
+- ZIP extension: 
+- State project ID: MI-949
+- Latitude: 42.803128
+- Longitude: -83.738764
+- County FIPS: 26049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26049013204
+- Tract 2000: 26049013204
+- Tract 1990: 26049013100
+- Place 2020: 
+- Place 2010: 27760
+- Place 2000: 27760
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 140
+- Low-income units: 42
+- Units reported: 140
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 108
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

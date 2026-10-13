@@ -1,0 +1,85 @@
+# Project: NEW SOUTH BAY VILLAS (FLA20173002)
+
+- HUD ID: FLA20173002
+- HUD ID before: 
+- Project: NEW SOUTH BAY VILLAS
+- Address: 845 PALM BEACH ROAD
+- City: SOUTH BAY
+- State: FL
+- ZIP: 33493
+- ZIP extension: 
+- State project ID: 3083
+- Latitude: 26.663933
+- Longitude: -80.720518
+- County FIPS: 12099
+- County from: 2020
+- Tract 2020: 12099008302
+- Tract 2010: 12099008302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67175
+- Place 2010: 67175
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1473355
+- Units: 131
+- Low-income units: 131
+- Units reported: 131
+- Low-income reported: 131
+- Efficiencies: 
+- 1-bedroom units: 3
+- 2-bedroom units: 56
+- 3-bedroom units: 32
+- 4-bedroom units: 40
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 131
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

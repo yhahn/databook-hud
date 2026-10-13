@@ -1,0 +1,85 @@
+# Project: MEADOW VIEW APTS (INA19970090)
+
+- HUD ID: INA19970090
+- HUD ID before: 
+- Project: MEADOW VIEW APTS
+- Address: 200 MEADOWVIEW LN
+- City: SWITZ CITY
+- State: IN
+- ZIP: 47465
+- ZIP extension: 
+- State project ID: IN-96-03300
+- Latitude: 39.03636
+- Longitude: -87.051703
+- County FIPS: 18055
+- County from: 2020
+- Tract 2020: 18055954900
+- Tract 2010: 18055954900
+- Tract 2000: 18055954900
+- Tract 1990: 18055954900
+- Place 2020: 74582
+- Place 2010: 74582
+- Place 2000: 44190
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

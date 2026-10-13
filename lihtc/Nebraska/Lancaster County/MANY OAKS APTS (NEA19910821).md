@@ -1,0 +1,85 @@
+# Project: MANY OAKS APTS (NEA19910821)
+
+- HUD ID: NEA19910821
+- HUD ID before: 
+- Project: MANY OAKS APTS
+- Address: 2915 MERRILL ST
+- City: LINCOLN
+- State: NE
+- ZIP: 68503
+- ZIP extension: 
+- State project ID: 7-0113
+- Latitude: 40.834211
+- Longitude: -96.678962
+- County FIPS: 31109
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31109000400
+- Tract 2000: 31109000400
+- Tract 1990: 31109000400
+- Place 2020: 
+- Place 2010: 28000
+- Place 2000: 28000
+- Place 1990: 1425
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 144996
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA0000325.
+- Record status: Existing, unchanged

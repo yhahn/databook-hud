@@ -1,0 +1,85 @@
+# Project: SUNRIDGE APTS (NEA19990125)
+
+- HUD ID: NEA19990125
+- HUD ID before: 
+- Project: SUNRIDGE APTS
+- Address: 1010 N 26TH ST
+- City: BEATRICE
+- State: NE
+- ZIP: 68310
+- ZIP extension: 
+- State project ID: 67157
+- Latitude: 40.276207
+- Longitude: -96.717184
+- County FIPS: 31067
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31067964900
+- Tract 2000: 31067994900
+- Tract 1990: 31067994900
+- Place 2020: 
+- Place 2010: 03390
+- Place 2000: 03390
+- Place 1990: 0195
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 38418
+- Units: 24
+- Low-income units: 18
+- Units reported: 24
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

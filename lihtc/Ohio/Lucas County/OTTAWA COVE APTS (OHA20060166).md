@@ -1,0 +1,85 @@
+# Project: OTTAWA COVE APTS (OHA20060166)
+
+- HUD ID: OHA20060166
+- HUD ID before: 
+- Project: OTTAWA COVE APTS
+- Address: 1848 OTTAWA COVE DR
+- City: TOLEDO
+- State: OH
+- ZIP: 43611
+- ZIP extension: 
+- State project ID: 050167
+- Latitude: 41.715545
+- Longitude: -83.500056
+- County FIPS: 39095
+- County from: 2020
+- Tract 2020: 39095005601
+- Tract 2010: 39095005600
+- Tract 2000: 39095005600
+- Tract 1990: 39095005600
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 139838
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 64
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006691, OHA2007125. AKA OTTAWAVE APTS II.
+- Record status: Existing, unchanged

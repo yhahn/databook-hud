@@ -1,0 +1,85 @@
+# Project: MARINER'S LANDING (FLA20060151)
+
+- HUD ID: FLA20060151
+- HUD ID before: 
+- Project: MARINER'S LANDING
+- Address: 2120 CARRELL RD
+- City: FT MYERS
+- State: FL
+- ZIP: 33901
+- ZIP extension: 
+- State project ID: 1332
+- Latitude: 26.611551
+- Longitude: -81.869388
+- County FIPS: 12071
+- County from: 2020
+- Tract 2020: 12071001101
+- Tract 2010: 12071001101
+- Tract 2000: 12071001100
+- Tract 1990: 12071001100
+- Place 2020: 24125
+- Place 2010: 99999
+- Place 2000: 24125
+- Place 1990: 0655
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 825000
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

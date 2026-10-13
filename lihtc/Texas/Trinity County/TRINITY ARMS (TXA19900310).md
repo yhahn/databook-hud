@@ -1,0 +1,85 @@
+# Project: TRINITY ARMS (TXA19900310)
+
+- HUD ID: TXA19900310
+- HUD ID before: 
+- Project: TRINITY ARMS
+- Address: 219 E PEGODA RD
+- City: TRINITY
+- State: TX
+- ZIP: 75862
+- ZIP extension: 
+- State project ID: TX6837
+- Latitude: 30.943619
+- Longitude: -95.366853
+- County FIPS: 48455
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48455950500
+- Tract 2000: 48455950500
+- Tract 1990: 48455950500
+- Place 2020: 
+- Place 2010: 73664
+- Place 2000: 73664
+- Place 1990: 4320
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

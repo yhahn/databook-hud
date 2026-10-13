@@ -1,0 +1,85 @@
+# Project: FOREST GLEN APTS (VAA19900085)
+
+- HUD ID: VAA19900085
+- HUD ID before: 
+- Project: FOREST GLEN APTS
+- Address: 460 FOREST GLEN CT
+- City: STRASBURG
+- State: VA
+- ZIP: 22657
+- ZIP extension: 
+- State project ID: 981
+- Latitude: 38.995122
+- Longitude: -78.351954
+- County FIPS: 51171
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 51171040100
+- Tract 2000: 51171040100
+- Tract 1990: 51171040100
+- Place 2020: 
+- Place 2010: 76000
+- Place 2000: 76000
+- Place 1990: 1190
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 78016
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

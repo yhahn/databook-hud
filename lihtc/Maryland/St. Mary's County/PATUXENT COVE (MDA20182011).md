@@ -1,0 +1,85 @@
+# Project: PATUXENT COVE (MDA20182011)
+
+- HUD ID: MDA20182011
+- HUD ID before: 
+- Project: PATUXENT COVE
+- Address: 22014 PEGG ROAD
+- City: LEXINGTON
+- State: MD
+- ZIP: 20653
+- ZIP extension: 
+- State project ID: MD-18-08001-6
+- Latitude: 38.27257
+- Longitude: -76.470173
+- County FIPS: 24037
+- County from: 2020
+- Tract 2020: 24037876001
+- Tract 2010: 24037876001
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 46725
+- Place 2010: 46725
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1500000
+- Units: 60
+- Low-income units: 46
+- Units reported: 60
+- Low-income reported: 46
+- Efficiencies: 
+- 1-bedroom units: 4
+- 2-bedroom units: 24
+- 3-bedroom units: 18
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

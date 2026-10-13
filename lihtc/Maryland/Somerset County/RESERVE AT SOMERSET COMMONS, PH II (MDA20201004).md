@@ -1,0 +1,85 @@
+# Project: RESERVE AT SOMERSET COMMONS, PH II (MDA20201004)
+
+- HUD ID: MDA20201004
+- HUD ID before: 
+- Project: RESERVE AT SOMERSET COMMONS, PH II
+- Address: 30520 HICKORY ROAD
+- City: PRINCESS ANNE
+- State: MD
+- ZIP: 21853
+- ZIP extension: 
+- State project ID: MD-20-07001
+- Latitude: 38.219042
+- Longitude: -75.692384
+- County FIPS: 24039
+- County from: 2020
+- Tract 2020: 24039930101
+- Tract 2010: 24039930101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1252904
+- Units: 54
+- Low-income units: 48
+- Units reported: 54
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 5
+- 2-bedroom units: 16
+- 3-bedroom units: 21
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: N STREET VILLAGE/EDEN HOUSE (DCB19960005)
+
+- HUD ID: DCB19960005
+- HUD ID before: 
+- Project: N STREET VILLAGE/EDEN HOUSE
+- Address: 1301 14TH ST NW
+- City: WASHINGTON
+- State: DC
+- ZIP: 20005
+- ZIP extension: 
+- State project ID: DCB1996005
+- Latitude: 38.907257
+- Longitude: -77.03174
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001005003
+- Tract 2010: 11001005002
+- Tract 2000: 11001005000
+- Tract 1990: 11001005000
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 38
+- 1-bedroom units: 11
+- 2-bedroom units: 33
+- 3-bedroom units: 9
+- 4-bedroom units: 2
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

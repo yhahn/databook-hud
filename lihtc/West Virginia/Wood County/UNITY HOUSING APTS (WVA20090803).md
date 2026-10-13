@@ -1,0 +1,85 @@
+# Project: UNITY HOUSING APTS (WVA20090803)
+
+- HUD ID: WVA20090803
+- HUD ID before: 
+- Project: UNITY HOUSING APTS
+- Address: 2601 UNITY PL
+- City: PARKERSBURG
+- State: WV
+- ZIP: 26101
+- ZIP extension: 
+- State project ID: 
+- Latitude: 39.23116
+- Longitude: -81.545042
+- County FIPS: 54107
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 54107000903
+- Tract 2000: 54107000903
+- Tract 1990: 54107000903
+- Place 2020: 
+- Place 2010: 62140
+- Place 2000: 62140
+- Place 1990: 1215
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 293
+- Low-income units: 293
+- Units reported: 293
+- Low-income reported: 293
+- Efficiencies: 28
+- 1-bedroom units: 250
+- 2-bedroom units: 11
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WVA0000190.
+- Record status: Existing, unchanged

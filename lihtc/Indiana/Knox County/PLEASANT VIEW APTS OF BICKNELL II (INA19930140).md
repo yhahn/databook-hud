@@ -1,0 +1,85 @@
+# Project: PLEASANT VIEW APTS OF BICKNELL II (INA19930140)
+
+- HUD ID: INA19930140
+- HUD ID before: 
+- Project: PLEASANT VIEW APTS OF BICKNELL II
+- Address: 203 W CHERRY ST
+- City: BICKNELL
+- State: IN
+- ZIP: 47512
+- ZIP extension: 
+- State project ID: IN-92-00900
+- Latitude: 38.76782
+- Longitude: -87.306586
+- County FIPS: 18083
+- County from: 2020
+- Tract 2020: 18083955000
+- Tract 2010: 18083955000
+- Tract 2000: 18083955000
+- Tract 1990: 18083955000
+- Place 2020: 05176
+- Place 2010: 05176
+- Place 2000: 05176
+- Place 1990: 0170
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

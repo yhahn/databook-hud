@@ -1,0 +1,85 @@
+# Project: CARR STREET APTS (TNA19950801)
+
+- HUD ID: TNA19950801
+- HUD ID before: 
+- Project: CARR STREET APTS
+- Address: 2618 CARR ST
+- City: CHATTANOOGA
+- State: TN
+- ZIP: 37408
+- ZIP extension: 
+- State project ID: TN-94-015
+- Latitude: 35.025692
+- Longitude: -85.313225
+- County FIPS: 47065
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47065002000
+- Tract 2000: 47065002000
+- Tract 1990: 47065002000
+- Place 2020: 
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 0245
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 17419
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1995035. AKA CARR ST APTS.
+- Record status: Existing, unchanged

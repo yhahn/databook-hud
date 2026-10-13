@@ -1,0 +1,85 @@
+# Project: SAVANNA APARTMENTS (MNB20049023)
+
+- HUD ID: MNB20049023
+- HUD ID before: 
+- Project: SAVANNA APARTMENTS
+- Address: 765 SAVANNA AVE
+- City: ST CLOUD
+- State: MN
+- ZIP: 56303
+- ZIP extension: 1195
+- State project ID: D3832
+- Latitude: 45.565964
+- Longitude: -94.25346
+- County FIPS: 27145
+- County from: 2020
+- Tract 2020: 27145001002
+- Tract 2010: 27145001001
+- Tract 2000: 27145001001
+- Tract 1990: 
+- Place 2020: 56896
+- Place 2010: 56896
+- Place 2000: 56896
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 194188
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 45
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

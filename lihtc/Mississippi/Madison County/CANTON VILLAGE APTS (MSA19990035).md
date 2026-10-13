@@ -1,0 +1,85 @@
+# Project: CANTON VILLAGE APTS (MSA19990035)
+
+- HUD ID: MSA19990035
+- HUD ID before: 
+- Project: CANTON VILLAGE APTS
+- Address: 519 HENRY AVE
+- City: CANTON
+- State: MS
+- ZIP: 39046
+- ZIP extension: 
+- State project ID: MS-97-038
+- Latitude: 32.605469
+- Longitude: -90.04704
+- County FIPS: 28089
+- County from: 2020
+- Tract 2020: 28089030501
+- Tract 2010: 28089030500
+- Tract 2000: 28089030500
+- Tract 1990: 28089030500
+- Place 2020: 11100
+- Place 2010: 11100
+- Place 2000: 11100
+- Place 1990: 0190
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 59121
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 42
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

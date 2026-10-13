@@ -1,0 +1,85 @@
+# Project: RIVER STATION APTS (VTA20060015)
+
+- HUD ID: VTA20060015
+- HUD ID before: 
+- Project: RIVER STATION APTS
+- Address: 193 BARRE ST
+- City: MONTPELIER
+- State: VT
+- ZIP: 05602
+- ZIP extension: 
+- State project ID: 0258
+- Latitude: 44.254006
+- Longitude: -72.570356
+- County FIPS: 50023
+- County from: 2020
+- Tract 2020: 50023954800
+- Tract 2010: 50023954800
+- Tract 2000: 50023954800
+- Tract 1990: 50023954800
+- Place 2020: 46000
+- Place 2010: 46000
+- Place 2000: 46000
+- Place 1990: 1610
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 465000
+- Units: 36
+- Low-income units: 29
+- Units reported: 36
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 27
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 430000
+- CDBG: Yes
+- CDBG amount: 589000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

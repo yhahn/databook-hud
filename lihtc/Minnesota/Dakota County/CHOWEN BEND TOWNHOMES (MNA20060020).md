@@ -1,0 +1,85 @@
+# Project: CHOWEN BEND TOWNHOMES (MNA20060020)
+
+- HUD ID: MNA20060020
+- HUD ID before: 
+- Project: CHOWEN BEND TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: BURNSVILLE
+- State: MN
+- ZIP: 55337
+- ZIP extension: 
+- State project ID: D3243
+- Latitude: 44.77536
+- Longitude: -93.326937
+- County FIPS: 27037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27037060710
+- Tract 2000: 27037060710
+- Tract 1990: 27037060710
+- Place 2020: 
+- Place 2010: 08794
+- Place 2000: 08794
+- Place 1990: 0537
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 359998
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 27
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

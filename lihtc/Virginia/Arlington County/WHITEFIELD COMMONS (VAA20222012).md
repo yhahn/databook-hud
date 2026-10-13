@@ -1,0 +1,85 @@
+# Project: WHITEFIELD COMMONS (VAA20222012)
+
+- HUD ID: VAA20222012
+- HUD ID before: 
+- Project: WHITEFIELD COMMONS
+- Address: 204 NORTH THOMAS STREET, #B3
+- City: ARLINGTON
+- State: VA
+- ZIP: 22203
+- ZIP extension: 
+- State project ID: 1148
+- Latitude: 38.871729
+- Longitude: -77.105864
+- County FIPS: 51013
+- County from: 2020
+- Tract 2020: 51013102003
+- Tract 2010: 51013102003
+- Tract 2000: 51013102000
+- Tract 1990: 51013102000
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0056
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 772154
+- Units: 68
+- Low-income units: 67
+- Units reported: 68
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 34
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2005232.
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: CRESTVIEW OF EUNICE (LAA19870050)
+
+- HUD ID: LAA19870050
+- HUD ID before: 
+- Project: CRESTVIEW OF EUNICE
+- Address: 100 CRESTVIEW LOOP
+- City: EUNICE
+- State: LA
+- ZIP: 70535
+- ZIP extension: 
+- State project ID: LA-87-047
+- Latitude: 30.481617
+- Longitude: -92.41288
+- County FIPS: 22097
+- County from: 2020
+- Tract 2020: 22097960902
+- Tract 2010: 22097960900
+- Tract 2000: 22097960900
+- Tract 1990: 22097960900
+- Place 2020: 24565
+- Place 2010: 24565
+- Place 2000: 24565
+- Place 1990: 0395
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

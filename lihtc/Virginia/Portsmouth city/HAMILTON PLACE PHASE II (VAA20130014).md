@@ -1,0 +1,85 @@
+# Project: HAMILTON PLACE PHASE II (VAA20130014)
+
+- HUD ID: VAA20130014
+- HUD ID before: 
+- Project: HAMILTON PLACE PHASE II
+- Address: 3401 TURNPIKE RD
+- City: PORTSMOUTH
+- State: VA
+- ZIP: 23707
+- ZIP extension: 
+- State project ID: 9448
+- Latitude: 36.82256
+- Longitude: -76.342801
+- County FIPS: 51740
+- County from: 2020
+- Tract 2020: 51740211500
+- Tract 2010: 51740211500
+- Tract 2000: 51740211500
+- Tract 1990: 51740211500
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 64000
+- Place 1990: 0990
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 888320
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 59
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 79
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HAMILTON II.
+- Record status: Existing, unchanged

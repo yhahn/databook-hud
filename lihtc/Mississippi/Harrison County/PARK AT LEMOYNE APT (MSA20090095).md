@@ -1,0 +1,85 @@
+# Project: PARK AT LEMOYNE APT (MSA20090095)
+
+- HUD ID: MSA20090095
+- HUD ID before: 
+- Project: PARK AT LEMOYNE APT
+- Address: 10365 GORENFLO RD
+- City: DIBERVILLE
+- State: MS
+- ZIP: 39540
+- ZIP extension: 
+- State project ID: MS-06-075
+- Latitude: 30.437567
+- Longitude: -88.888272
+- County FIPS: 28047
+- County from: 2020
+- Tract 2020: 28047003305
+- Tract 2010: 28047003301
+- Tract 2000: 28047003301
+- Tract 1990: 28047003301
+- Place 2020: 19180
+- Place 2010: 19180
+- Place 2000: 19180
+- Place 1990: 0330
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1645550
+- Units: 160
+- Low-income units: 159
+- Units reported: 160
+- Low-income reported: 159
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 56
+- 3-bedroom units: 80
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

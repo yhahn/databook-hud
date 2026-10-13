@@ -1,0 +1,85 @@
+# Project: ST. LOUIS SQUARE (LAA19910122)
+
+- HUD ID: LAA19910122
+- HUD ID before: 
+- Project: ST. LOUIS SQUARE
+- Address: ST. LOUIS, OAK ALLEY, N. TONTI, N. ROCHEBLAVE
+- City: NEW ORLEANS
+- State: LA
+- ZIP: 70119
+- ZIP extension: 0000
+- State project ID: LA-91-037
+- Latitude: 29.9736
+- Longitude: -90.0863
+- County FIPS: 22071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22071004500
+- Tract 2000: 22071004900
+- Tract 1990: 22071004900
+- Place 2020: 
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 0956
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1991120.
+- Record status: Existing, unchanged

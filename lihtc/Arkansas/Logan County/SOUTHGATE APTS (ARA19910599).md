@@ -1,0 +1,85 @@
+# Project: SOUTHGATE APTS (ARA19910599)
+
+- HUD ID: ARA19910599
+- HUD ID before: 
+- Project: SOUTHGATE APTS
+- Address: 930 S SHARPE AVE
+- City: BOONEVILLE
+- State: AR
+- ZIP: 72927
+- ZIP extension: 
+- State project ID: AR-91-07
+- Latitude: 35.129016
+- Longitude: -93.923005
+- County FIPS: 05083
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05083950500
+- Tract 2000: 05083950500
+- Tract 1990: 05083950500
+- Place 2020: 
+- Place 2010: 07720
+- Place 2000: 07720
+- Place 1990: 0245
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 55029
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1991070. AKA PDC ELEVEN.
+- Record status: Existing, unchanged

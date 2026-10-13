@@ -1,0 +1,85 @@
+# Project: MELROSE RIDGE (IAA20070040)
+
+- HUD ID: IAA20070040
+- HUD ID before: 
+- Project: MELROSE RIDGE
+- Address: 4435 MELROSE AVE
+- City: IOWA CITY
+- State: IA
+- ZIP: 52246
+- ZIP extension: 
+- State project ID: 06-12
+- Latitude: 41.656926
+- Longitude: -91.602602
+- County FIPS: 19103
+- County from: 2020
+- Tract 2020: 19103000402
+- Tract 2010: 19103000400
+- Tract 2000: 19103000400
+- Tract 1990: 19103000400
+- Place 2020: 38595
+- Place 2010: 38595
+- Place 2000: 16230
+- Place 1990: 2040
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 153454
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

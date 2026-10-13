@@ -1,0 +1,85 @@
+# Project: DEER MEADOW (IAA20010020)
+
+- HUD ID: IAA20010020
+- HUD ID before: 
+- Project: DEER MEADOW
+- Address: 715 CLEVELAND AVE
+- City: KEOKUK
+- State: IA
+- ZIP: 52632
+- ZIP extension: 
+- State project ID: 00-24
+- Latitude: 40.406896
+- Longitude: -91.406393
+- County FIPS: 19111
+- County from: 2020
+- Tract 2020: 19111490800
+- Tract 2010: 19111490800
+- Tract 2000: 19111990800
+- Tract 1990: 19111990800
+- Place 2020: 40845
+- Place 2010: 40845
+- Place 2000: 40845
+- Place 1990: 2145
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 96139
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

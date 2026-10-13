@@ -1,0 +1,85 @@
+# Project: MARION SEPTEMBER HOUSING I (KSA19890040)
+
+- HUD ID: KSA19890040
+- HUD ID before: 
+- Project: MARION SEPTEMBER HOUSING I
+- Address: 1500 E MAIN ST
+- City: MARION
+- State: KS
+- ZIP: 66861
+- ZIP extension: 
+- State project ID: KS87-0013
+- Latitude: 38.348459
+- Longitude: -97.004526
+- County FIPS: 20115
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20115489700
+- Tract 2000: 20115989700
+- Tract 1990: 20115989700
+- Place 2020: 
+- Place 2010: 44750
+- Place 2000: 44750
+- Place 1990: 1800
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

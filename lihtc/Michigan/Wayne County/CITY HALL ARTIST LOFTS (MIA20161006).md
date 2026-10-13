@@ -1,0 +1,85 @@
+# Project: CITY HALL ARTIST LOFTS (MIA20161006)
+
+- HUD ID: MIA20161006
+- HUD ID before: 
+- Project: CITY HALL ARTIST LOFTS
+- Address: 13615 MICHIGAN AVENUE
+- City: DEARBORN
+- State: MI
+- ZIP: 48126
+- ZIP extension: 0000
+- State project ID: 3649
+- Latitude: 42.321935
+- Longitude: -83.176039
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163574100
+- Tract 2010: 26163574100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 21000
+- Place 2010: 21000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 792101
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 10
+- 1-bedroom units: 33
+- 2-bedroom units: 8
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

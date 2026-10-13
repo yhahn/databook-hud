@@ -1,0 +1,85 @@
+# Project: TIFFANY MANOR (NJA19939007)
+
+- HUD ID: NJA19939007
+- HUD ID before: 
+- Project: TIFFANY MANOR
+- Address: 90 TIFFANY BOULEVARD
+- City: NEWARK
+- State: NJ
+- ZIP: 07104
+- ZIP extension: 
+- State project ID: 01130
+- Latitude: 40.78557
+- Longitude: -74.165537
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013000100
+- Tract 2010: 34013000100
+- Tract 2000: 34013000100
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 106749
+- Units: 129
+- Low-income units: 26
+- Units reported: 129
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

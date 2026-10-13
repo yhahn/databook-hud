@@ -1,0 +1,85 @@
+# Project: RESERVE AT LYNNWOOD (WAA20200052)
+
+- HUD ID: WAA20200052
+- HUD ID before: 
+- Project: RESERVE AT LYNNWOOD
+- Address: 19815 SCRIBER LAKE RD SW
+- City: LYNNWOOD
+- State: WA
+- ZIP: 98036
+- ZIP extension: 
+- State project ID: 15-69A
+- Latitude: 47.818802
+- Longitude: -122.312737
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061051401
+- Tract 2010: 53061051400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 40840
+- Place 2010: 40840
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2183809
+- Units: 295
+- Low-income units: 293
+- Units reported: 295
+- Low-income reported: 293
+- Efficiencies: 22
+- 1-bedroom units: 258
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

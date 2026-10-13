@@ -1,0 +1,85 @@
+# Project: MARTIN HOUSE VILLAS II (INA19900037)
+
+- HUD ID: INA19900037
+- HUD ID before: 
+- Project: MARTIN HOUSE VILLAS II
+- Address: 401 CADILLAC ST
+- City: LIGONIER
+- State: IN
+- ZIP: 46767
+- ZIP extension: 
+- State project ID: IN-89-02601
+- Latitude: 41.454552
+- Longitude: -85.591988
+- County FIPS: 18113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18113972200
+- Tract 2000: 18113972200
+- Tract 1990: 18113972200
+- Place 2020: 
+- Place 2010: 43686
+- Place 2000: 43686
+- Place 1990: 1375
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001230.
+- Record status: Existing, unchanged

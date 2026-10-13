@@ -1,0 +1,85 @@
+# Project: ROSE GARDEN APTS (MSA19980044)
+
+- HUD ID: MSA19980044
+- HUD ID before: 
+- Project: ROSE GARDEN APTS
+- Address: 3825 OLD BRANDON RD
+- City: PEARL
+- State: MS
+- ZIP: 39208
+- ZIP extension: 
+- State project ID: MS-97-053
+- Latitude: 32.288795
+- Longitude: -90.09577
+- County FIPS: 28121
+- County from: 2020
+- Tract 2020: 28121020217
+- Tract 2010: 28121020207
+- Tract 2000: 28121020204
+- Tract 1990: 28121020204
+- Place 2020: 55760
+- Place 2010: 55760
+- Place 2000: 08300
+- Place 1990: 0985
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 125408
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 62
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1998585.
+- Record status: Existing, unchanged

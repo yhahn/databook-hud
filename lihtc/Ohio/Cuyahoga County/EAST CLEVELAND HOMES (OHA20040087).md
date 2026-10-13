@@ -1,0 +1,85 @@
+# Project: EAST CLEVELAND HOMES (OHA20040087)
+
+- HUD ID: OHA20040087
+- HUD ID before: 
+- Project: EAST CLEVELAND HOMES
+- Address: 1663 DELMONT AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44112
+- ZIP extension: 
+- State project ID: 02-0061
+- Latitude: 41.520678
+- Longitude: -81.596503
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035151800
+- Tract 2010: 39035151800
+- Tract 2000: 39035151800
+- Tract 1990: 39035151800
+- Place 2020: 23380
+- Place 2010: 23380
+- Place 2000: 23380
+- Place 1990: 1225
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 25
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

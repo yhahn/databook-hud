@@ -1,0 +1,85 @@
+# Project: BOSTON LOFTS (COA19980005)
+
+- HUD ID: COA19980005
+- HUD ID before: 
+- Project: BOSTON LOFTS
+- Address: 828 17TH ST
+- City: DENVER
+- State: CO
+- ZIP: 80202
+- ZIP extension: 
+- State project ID: 970030
+- Latitude: 39.747059
+- Longitude: -104.99246
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031001706
+- Tract 2010: 08031001702
+- Tract 2000: 08031001702
+- Tract 1990: 08031001702
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 20000
+- Place 1990: 0320
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 158
+- Low-income units: 33
+- Units reported: 158
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 130
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

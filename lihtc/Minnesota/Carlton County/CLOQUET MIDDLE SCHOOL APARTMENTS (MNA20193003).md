@@ -1,0 +1,85 @@
+# Project: CLOQUET MIDDLE SCHOOL APARTMENTS (MNA20193003)
+
+- HUD ID: MNA20193003
+- HUD ID before: 
+- Project: CLOQUET MIDDLE SCHOOL APARTMENTS
+- Address: 509 CARLTON AVENUE
+- City: CLOQUET
+- State: MN
+- ZIP: 55720
+- ZIP extension: 
+- State project ID: D7956
+- Latitude: 46.717899
+- Longitude: -92.458943
+- County FIPS: 27017
+- County from: 2020
+- Tract 2020: 27017070100
+- Tract 2010: 27017070100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 12160
+- Place 2010: 12160
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 907222
+- Units: 57
+- Low-income units: 45
+- Units reported: 57
+- Low-income reported: 45
+- Efficiencies: 
+- 1-bedroom units: 9
+- 2-bedroom units: 33
+- 3-bedroom units: 15
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: Yes
+- Other population named: N
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

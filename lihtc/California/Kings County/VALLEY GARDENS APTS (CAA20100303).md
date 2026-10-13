@@ -1,0 +1,85 @@
+# Project: VALLEY GARDENS APTS (CAA20100303)
+
+- HUD ID: CAA20100303
+- HUD ID before: 
+- Project: VALLEY GARDENS APTS
+- Address: 13839 LYN ST
+- City: ARMONA
+- State: CA
+- ZIP: 93202
+- ZIP extension: 
+- State project ID: CA-09-090
+- Latitude: 36.31004
+- Longitude: -119.703533
+- County FIPS: 06031
+- County from: 2020
+- Tract 2020: 06031000500
+- Tract 2010: 06031000500
+- Tract 2000: 06031000500
+- Tract 1990: 06031000500
+- Place 2020: 02700
+- Place 2010: 02700
+- Place 2000: 02700
+- Place 1990: 0125
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 390075
+- Units: 20
+- Low-income units: 19
+- Units reported: 20
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: Yes
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2010525. FKA ARMONA FAMILY APTS
+- Record status: Existing, unchanged

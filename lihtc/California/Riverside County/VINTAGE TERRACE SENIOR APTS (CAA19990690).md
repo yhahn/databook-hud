@@ -1,0 +1,85 @@
+# Project: VINTAGE TERRACE SENIOR APTS (CAA19990690)
+
+- HUD ID: CAA19990690
+- HUD ID before: 
+- Project: VINTAGE TERRACE SENIOR APTS
+- Address: 1910 FULLERTON AVE
+- City: CORONA
+- State: CA
+- ZIP: 92881
+- ZIP extension: 
+- State project ID: CA-97-565
+- Latitude: 33.857758
+- Longitude: -117.550506
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065041809
+- Tract 2010: 06065041809
+- Tract 2000: 06065041809
+- Tract 1990: 06065041801
+- Place 2020: 16350
+- Place 2010: 16350
+- Place 2000: 16350
+- Place 1990: 0610
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 941959
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 160
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VINTAGE TERRACE.
+- Record status: Existing, unchanged

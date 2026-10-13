@@ -1,0 +1,85 @@
+# Project: BLICHTON STATION (FLA20060025)
+
+- HUD ID: FLA20060025
+- HUD ID before: 
+- Project: BLICHTON STATION
+- Address: 1741 NW SEVENTH ST
+- City: OCALA
+- State: FL
+- ZIP: 34475
+- ZIP extension: 
+- State project ID: 1433
+- Latitude: 29.193593
+- Longitude: -82.154838
+- County FIPS: 12083
+- County from: 2020
+- Tract 2020: 12083001700
+- Tract 2010: 12083001700
+- Tract 2000: 12083001700
+- Tract 1990: 12083001700
+- Place 2020: 50750
+- Place 2010: 50750
+- Place 2000: 50750
+- Place 1990: 1545
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 950000
+- Units: 119
+- Low-income units: 118
+- Units reported: 119
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 52
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BLITCHTON STATION.
+- Record status: Existing, unchanged

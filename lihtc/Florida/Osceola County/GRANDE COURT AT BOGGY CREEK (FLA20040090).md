@@ -1,0 +1,85 @@
+# Project: GRANDE COURT AT BOGGY CREEK (FLA20040090)
+
+- HUD ID: FLA20040090
+- HUD ID before: 
+- Project: GRANDE COURT AT BOGGY CREEK
+- Address: 1401 GRANDE BLVD
+- City: KISSIMMEE
+- State: FL
+- ZIP: 34743
+- ZIP extension: 
+- State project ID: 1033
+- Latitude: 28.304506
+- Longitude: -81.359429
+- County FIPS: 12097
+- County from: 2020
+- Tract 2020: 12097042701
+- Tract 2010: 12097042701
+- Tract 2000: 12097042700
+- Tract 1990: 12097040503
+- Place 2020: 36950
+- Place 2010: 36950
+- Place 2000: 36950
+- Place 1990: 0263
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 394
+- Low-income units: 394
+- Units reported: 394
+- Low-income reported: 394
+- Efficiencies: 0
+- 1-bedroom units: 118
+- 2-bedroom units: 192
+- 3-bedroom units: 84
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

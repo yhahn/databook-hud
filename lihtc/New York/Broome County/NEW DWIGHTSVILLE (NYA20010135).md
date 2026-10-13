@@ -1,0 +1,85 @@
+# Project: NEW DWIGHTSVILLE (NYA20010135)
+
+- HUD ID: NYA20010135
+- HUD ID before: 
+- Project: NEW DWIGHTSVILLE
+- Address: 229 FRONT ST
+- City: BINGHAMTON
+- State: NY
+- ZIP: 13905
+- ZIP extension: 
+- State project ID: 20000098
+- Latitude: 42.105438
+- Longitude: -75.915763
+- County FIPS: 36007
+- County from: 2020
+- Tract 2020: 36007000300
+- Tract 2010: 36007000300
+- Tract 2000: 36007000300
+- Tract 1990: 36007000300
+- Place 2020: 06607
+- Place 2010: 06607
+- Place 2000: 06607
+- Place 1990: 0325
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 5
+- 3-bedroom units: 10
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

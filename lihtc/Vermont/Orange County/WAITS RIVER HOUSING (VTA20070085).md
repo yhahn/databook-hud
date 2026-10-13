@@ -1,0 +1,85 @@
+# Project: WAITS RIVER HOUSING (VTA20070085)
+
+- HUD ID: VTA20070085
+- HUD ID before: 
+- Project: WAITS RIVER HOUSING
+- Address: 68 S MAIN ST
+- City: BRADFORD
+- State: VT
+- ZIP: 05033
+- ZIP extension: 
+- State project ID: 0325
+- Latitude: 43.992352
+- Longitude: -72.129642
+- County FIPS: 50017
+- County from: 2020
+- Tract 2020: 50017959800
+- Tract 2010: 50017959800
+- Tract 2000: 50017959800
+- Tract 1990: 50017959800
+- Place 2020: 07225
+- Place 2010: 07225
+- Place 2000: 07225
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 434465
+- Units: 29
+- Low-income units: 23
+- Units reported: 29
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 9
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 265000
+- CDBG: Yes
+- CDBG amount: 537500
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

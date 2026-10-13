@@ -1,0 +1,85 @@
+# Project: WOODLAND PARKWAY HOMES REV (PAA20010215)
+
+- HUD ID: PAA20010215
+- HUD ID before: 
+- Project: WOODLAND PARKWAY HOMES REV
+- Address: 1 AMETHYST CT
+- City: COATESVILLE
+- State: PA
+- ZIP: 19320
+- ZIP extension: 
+- State project ID: TC19990034
+- Latitude: 39.976134
+- Longitude: -75.819457
+- County FIPS: 42029
+- County from: 2020
+- Tract 2020: 42029311600
+- Tract 2010: 42029311600
+- Tract 2000: 42029305800
+- Tract 1990: 42029305800
+- Place 2020: 72072
+- Place 2010: 72072
+- Place 2000: 72072
+- Place 1990: 7904
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 404384
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 17
+- 3-bedroom units: 10
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FRESNO FOUR-PLEX (CAA19870075)
+
+- HUD ID: CAA19870075
+- HUD ID before: 
+- Project: FRESNO FOUR-PLEX
+- Address: 4833 E LN AVE
+- City: FRESNO
+- State: CA
+- ZIP: 93727
+- ZIP extension: 
+- State project ID: CA-87-060
+- Latitude: 36.732462
+- Longitude: -119.735439
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019001407
+- Tract 2010: 06019001407
+- Tract 2000: 06019001405
+- Tract 1990: 06019001405
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1090
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 11700
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0000655.
+- Record status: Existing, unchanged

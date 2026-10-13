@@ -1,0 +1,85 @@
+# Project: UNION AT WASHINGTON (INA20202184)
+
+- HUD ID: INA20202184
+- HUD ID before: 
+- Project: UNION AT WASHINGTON
+- Address: 918 N WASHINGTON ST
+- City: KOKOMO
+- State: IN
+- ZIP: 46901
+- ZIP extension: 
+- State project ID: IN-19-01700
+- Latitude: 40.493764
+- Longitude: -86.133514
+- County FIPS: 18067
+- County from: 2020
+- Tract 2020: 18067000500
+- Tract 2010: 18067000500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 40392
+- Place 2010: 40392
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 792540
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 50
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

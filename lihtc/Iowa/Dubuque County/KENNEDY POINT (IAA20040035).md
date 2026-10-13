@@ -1,0 +1,85 @@
+# Project: KENNEDY POINT (IAA20040035)
+
+- HUD ID: IAA20040035
+- HUD ID before: 
+- Project: KENNEDY POINT
+- Address: 3395 JOHN F KENNEDY RD
+- City: DUBUQUE
+- State: IA
+- ZIP: 52002
+- ZIP extension: 
+- State project ID: 03-35
+- Latitude: 42.528435
+- Longitude: -90.729913
+- County FIPS: 19061
+- County from: 2020
+- Tract 2020: 19061001103
+- Tract 2010: 19061001102
+- Tract 2000: 19061001102
+- Tract 1990: 19061001102
+- Place 2020: 22395
+- Place 2010: 22395
+- Place 2000: 03160
+- Place 1990: 1215
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 149290
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

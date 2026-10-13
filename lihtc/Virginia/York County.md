@@ -1,0 +1,24 @@
+# Tax Credit Projects: York County, VA
+
+- Level: County
+- Postal code: VA
+- State FIPS: 51
+- County FIPS: 51199
+- Counties: 
+- Projects: 7
+- Units: 594
+- Low-income units: 454
+
+The low-income housing tax credit projects of York County, Virginia, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [WOODS AT YORKTOWN (VAA20030230)](./York%20County/WOODS%20AT%20YORKTOWN%20%28VAA20030230%29.md) | VAA20030230 | YORKTOWN | 2003 | 118 | 118 |
+| [RIVERMEADE I (VAA20070806)](./York%20County/RIVERMEADE%20I%20%28VAA20070806%29.md) | VAA20070806 | YORKTOWN | 2007 | 48 | 48 |
+| [RIVERMEADE II (VAA20070807)](./York%20County/RIVERMEADE%20II%20%28VAA20070807%29.md) | VAA20070807 | YORKTOWN | 2007 | 32 | 32 |
+| [YORKTOWN SQUARE I (VAA20070817)](./York%20County/YORKTOWN%20SQUARE%20I%20%28VAA20070817%29.md) | VAA20070817 | YORKTOWN | 2007 | 56 | 56 |
+| [YORKTOWN SQUARE II (VAA20070818)](./York%20County/YORKTOWN%20SQUARE%20II%20%28VAA20070818%29.md) | VAA20070818 | YORKTOWN | 2007 | 60 | 60 |
+| [ARBORS AT TOWNE PARK (VAA20190002)](./York%20County/ARBORS%20AT%20TOWNE%20PARK%20%28VAA20190002%29.md) | VAA20190002 | WILLIAMSBURG | 2019 | 130 | 110 |
+| [ARBORS AT WILLIAMSBURG (VAA20221003)](./York%20County/ARBORS%20AT%20WILLIAMSBURG%20%28VAA20221003%29.md) | VAA20221003 | WILLIAMSBURG | 2022 | 150 | 30 |

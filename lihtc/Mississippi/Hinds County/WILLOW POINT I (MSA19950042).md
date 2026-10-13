@@ -1,0 +1,85 @@
+# Project: WILLOW POINT I (MSA19950042)
+
+- HUD ID: MSA19950042
+- HUD ID before: 
+- Project: WILLOW POINT I
+- Address: 751 GLENCROSS DR
+- City: JACKSON
+- State: MS
+- ZIP: 39206
+- ZIP extension: 
+- State project ID: MS-94-005
+- Latitude: 32.391078
+- Longitude: -90.163055
+- County FIPS: 28049
+- County from: 2020
+- Tract 2020: 28049010201
+- Tract 2010: 28049010201
+- Tract 2000: 28049010201
+- Tract 1990: 28049010201
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 0615
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 118
+- Units reported: 120
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 88
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NORTHFIELD APTS.
+- Record status: Existing, unchanged

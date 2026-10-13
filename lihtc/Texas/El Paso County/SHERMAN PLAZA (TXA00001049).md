@@ -1,0 +1,85 @@
+# Project: SHERMAN PLAZA (TXA00001049)
+
+- HUD ID: TXA00001049
+- HUD ID before: 
+- Project: SHERMAN PLAZA
+- Address: 4528 BLANCO AVE
+- City: EL PASO
+- State: TX
+- ZIP: 79905
+- ZIP extension: 
+- State project ID: TX5139
+- Latitude: 31.765932
+- Longitude: -106.435584
+- County FIPS: 48141
+- County from: 2020
+- Tract 2020: 48141003000
+- Tract 2010: 48141003000
+- Tract 2000: 48141003000
+- Tract 1990: 
+- Place 2020: 24000
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 178
+- Low-income units: 178
+- Units reported: 178
+- Low-income reported: 178
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 153
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

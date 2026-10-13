@@ -1,0 +1,85 @@
+# Project: MARSHALL STREET APARTMENTS (NHA20190004)
+
+- HUD ID: NHA20190004
+- HUD ID before: 
+- Project: MARSHALL STREET APARTMENTS
+- Address: 4,12,26 & 20 MARSHALL STREET
+- City: NASHUA
+- State: NH
+- ZIP: 03060
+- ZIP extension: 
+- State project ID: NH36RDD1343
+- Latitude: 42.758296
+- Longitude: -71.456219
+- County FIPS: 33011
+- County from: 2020
+- Tract 2020: 33011010600
+- Tract 2010: 33011010600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50260
+- Place 2010: 50260
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1026997
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 80
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1250
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

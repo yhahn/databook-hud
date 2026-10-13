@@ -1,0 +1,85 @@
+# Project: EVERGREEN RICHARDSON SENIOR COMMUNITY (TXA20110818)
+
+- HUD ID: TXA20110818
+- HUD ID before: 
+- Project: EVERGREEN RICHARDSON SENIOR COMMUNITY
+- Address: 3551 NORTHSTAR RD
+- City: RICHARDSON
+- State: TX
+- ZIP: 75082
+- ZIP extension: 
+- State project ID: TX4707
+- Latitude: 32.998879
+- Longitude: -96.642294
+- County FIPS: 48085
+- County from: 2020
+- Tract 2020: 48085032017
+- Tract 2010: 48085032011
+- Tract 2000: 48085032005
+- Tract 1990: 48085032005
+- Place 2020: 61796
+- Place 2010: 61796
+- Place 2000: 29000
+- Place 1990: 3310
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 170
+- Low-income units: 170
+- Units reported: 170
+- Low-income reported: 170
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000706.
+- Record status: Existing, unchanged

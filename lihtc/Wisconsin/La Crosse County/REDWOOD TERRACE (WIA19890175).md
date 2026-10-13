@@ -1,0 +1,85 @@
+# Project: REDWOOD TERRACE (WIA19890175)
+
+- HUD ID: WIA19890175
+- HUD ID before: 
+- Project: REDWOOD TERRACE
+- Address: 812 REDWOOD ST
+- City: ONALASKA
+- State: WI
+- ZIP: 54650
+- ZIP extension: 
+- State project ID: 261
+- Latitude: 43.894208
+- Longitude: -91.225394
+- County FIPS: 55063
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55063010402
+- Tract 2000: 55063010402
+- Tract 1990: 55063010402
+- Place 2020: 
+- Place 2010: 59925
+- Place 2000: 59925
+- Place 1990: 1900
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 11
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: Existing
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

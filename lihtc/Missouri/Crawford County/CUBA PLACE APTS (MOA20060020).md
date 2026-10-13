@@ -1,0 +1,85 @@
+# Project: CUBA PLACE APTS (MOA20060020)
+
+- HUD ID: MOA20060020
+- HUD ID before: 
+- Project: CUBA PLACE APTS
+- Address: 800 FLEENOR RD
+- City: CUBA
+- State: MO
+- ZIP: 65453
+- ZIP extension: 
+- State project ID: 05-047
+- Latitude: 38.071383
+- Longitude: -91.39227
+- County FIPS: 29055
+- County from: 2020
+- Tract 2020: 29055450302
+- Tract 2010: 29055450302
+- Tract 2000: 29055950300
+- Tract 1990: 29055950300
+- Place 2020: 17668
+- Place 2010: 17668
+- Place 2000: 17668
+- Place 1990: 1055
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 227383
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

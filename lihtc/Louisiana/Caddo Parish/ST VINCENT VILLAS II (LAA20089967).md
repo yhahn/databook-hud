@@ -1,0 +1,85 @@
+# Project: ST VINCENT VILLAS II (LAA20089967)
+
+- HUD ID: LAA20089967
+- HUD ID before: 
+- Project: ST VINCENT VILLAS II
+- Address: 8512 TREYTON TRAIL
+- City: SHREVEPORT
+- State: LA
+- ZIP: 71106
+- ZIP extension: 
+- State project ID: LA-06-008
+- Latitude: 32.427342
+- Longitude: -93.754427
+- County FIPS: 22017
+- County from: 2020
+- Tract 2020: 22017023702
+- Tract 2010: 22017023700
+- Tract 2000: 22017023700
+- Tract 1990: 22017023700
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 1240
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

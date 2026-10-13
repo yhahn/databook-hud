@@ -1,0 +1,85 @@
+# Project: SKW HOUSING PROJECT (PAA19990235)
+
+- HUD ID: PAA19990235
+- HUD ID before: 
+- Project: SKW HOUSING PROJECT
+- Address: 423 S GEORGE ST
+- City: YORK
+- State: PA
+- ZIP: 17401
+- ZIP extension: 
+- State project ID: TC19960108
+- Latitude: 39.956457
+- Longitude: -76.724314
+- County FIPS: 42133
+- County from: 2020
+- Tract 2020: 42133000700
+- Tract 2010: 42133000700
+- Tract 2000: 42133000700
+- Tract 1990: 42133000700
+- Place 2020: 87048
+- Place 2010: 87048
+- Place 2000: 87048
+- Place 1990: 9034
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 110960
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 2
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1998250.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PATHWAY APTS (ALA19970102)
+
+- HUD ID: ALA19970102
+- HUD ID before: 
+- Project: PATHWAY APTS
+- Address: 50200 REDWOOD DR
+- City: TUSKEGEE
+- State: AL
+- ZIP: 36083
+- ZIP extension: 
+- State project ID: AL-97-0062
+- Latitude: 32.43126
+- Longitude: -85.691591
+- County FIPS: 01087
+- County from: 2020
+- Tract 2020: 01087232000
+- Tract 2010: 01087232000
+- Tract 2000: 01087982000
+- Tract 1990: 01087982000
+- Place 2020: 77304
+- Place 2010: 77304
+- Place 2000: 77304
+- Place 1990: 1730
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 198591
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 772000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1998085. AKA REDWOOD APTS. FKA REDWOODS APTS
+- Record status: Existing, unchanged

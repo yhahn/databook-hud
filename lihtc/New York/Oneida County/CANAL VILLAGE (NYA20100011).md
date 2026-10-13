@@ -1,0 +1,85 @@
+# Project: CANAL VILLAGE (NYA20100011)
+
+- HUD ID: NYA20100011
+- HUD ID before: 
+- Project: CANAL VILLAGE
+- Address: 416 S JAMES ST
+- City: ROME
+- State: NY
+- ZIP: 13440
+- ZIP extension: 
+- State project ID: 20086039
+- Latitude: 43.207342
+- Longitude: -75.46143
+- County FIPS: 36065
+- County from: 2020
+- Tract 2020: 36065021900
+- Tract 2010: 36065021900
+- Tract 2000: 36065021900
+- Tract 1990: 36065021900
+- Place 2020: 63418
+- Place 2010: 63418
+- Place 2000: 63418
+- Place 1990: 3120
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 562103
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 12
+- 4-bedroom units: 5
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2200000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

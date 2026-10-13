@@ -1,0 +1,85 @@
+# Project: KIMBERS COVE (FLA20080265)
+
+- HUD ID: FLA20080265
+- HUD ID before: 
+- Project: KIMBERS COVE
+- Address: 9455 103RD ST
+- City: JACKSONVILLE
+- State: FL
+- ZIP: 32210
+- ZIP extension: 
+- State project ID: 1123
+- Latitude: 30.24802
+- Longitude: -81.811828
+- County FIPS: 12031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12031013721
+- Tract 2000: 12031013721
+- Tract 1990: 12031013721
+- Place 2020: 
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1003
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 905224
+- Units: 288
+- Low-income units: 286
+- Units reported: 288
+- Low-income reported: 286
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 136
+- 3-bedroom units: 116
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

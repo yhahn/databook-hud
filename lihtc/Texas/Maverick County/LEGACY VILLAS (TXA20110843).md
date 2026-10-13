@@ -1,0 +1,85 @@
+# Project: LEGACY VILLAS (TXA20110843)
+
+- HUD ID: TXA20110843
+- HUD ID before: 
+- Project: LEGACY VILLAS
+- Address: 2640 CHAPOTE LOOP
+- City: EAGLE PASS
+- State: TX
+- ZIP: 78852
+- ZIP extension: 
+- State project ID: 
+- Latitude: 28.718425
+- Longitude: -100.469383
+- County FIPS: 48323
+- County from: 2020
+- Tract 2020: 48323950701
+- Tract 2010: 48323950700
+- Tract 2000: 48323950202
+- Tract 1990: 48323950200
+- Place 2020: 21892
+- Place 2010: 21892
+- Place 2000: 21892
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 64
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 8100000
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000345.
+- Record status: Existing, unchanged

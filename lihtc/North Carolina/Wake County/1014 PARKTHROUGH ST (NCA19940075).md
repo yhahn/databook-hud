@@ -1,0 +1,85 @@
+# Project: 1014 PARKTHROUGH ST (NCA19940075)
+
+- HUD ID: NCA19940075
+- HUD ID before: 
+- Project: 1014 PARKTHROUGH ST
+- Address: 1014 PARKTHROUGH ST
+- City: CARY
+- State: NC
+- ZIP: 27511
+- ZIP extension: 
+- State project ID: 895
+- Latitude: 35.785523
+- Longitude: -78.784779
+- County FIPS: 37183
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37183053507
+- Tract 2000: 37183053507
+- Tract 1990: 37183053507
+- Place 2020: 
+- Place 2010: 10740
+- Place 2000: 10740
+- Place 1990: 0445
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 4728
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

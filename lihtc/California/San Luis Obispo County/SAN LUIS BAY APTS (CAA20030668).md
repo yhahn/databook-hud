@@ -1,0 +1,85 @@
+# Project: SAN LUIS BAY APTS (CAA20030668)
+
+- HUD ID: CAA20030668
+- HUD ID before: 
+- Project: SAN LUIS BAY APTS
+- Address: 206 BLUME ST
+- City: NIPOMO
+- State: CA
+- ZIP: 93444
+- ZIP extension: 
+- State project ID: CA-06-852
+- Latitude: 35.031963
+- Longitude: -120.487408
+- County FIPS: 06079
+- County from: 2020
+- Tract 2020: 06079012404
+- Tract 2010: 06079012402
+- Tract 2000: 06079012402
+- Tract 1990: 06079012300
+- Place 2020: 51476
+- Place 2010: 51476
+- Place 2000: 51476
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 651523
+- Units: 120
+- Low-income units: 116
+- Units reported: 120
+- Low-income reported: 116
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 60
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

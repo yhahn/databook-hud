@@ -1,0 +1,85 @@
+# Project: COUNTRY GROVE (GAA19890020)
+
+- HUD ID: GAA19890020
+- HUD ID before: 
+- Project: COUNTRY GROVE
+- Address: 684 PLAZA TRCE
+- City: MONROE
+- State: GA
+- ZIP: 30655
+- ZIP extension: 
+- State project ID: GA-89-002
+- Latitude: 33.800963
+- Longitude: -83.724066
+- County FIPS: 13297
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 13297110400
+- Tract 2000: 13297110400
+- Tract 1990: 13297110400
+- Place 2020: 
+- Place 2010: 52192
+- Place 2000: 52192
+- Place 1990: 1890
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

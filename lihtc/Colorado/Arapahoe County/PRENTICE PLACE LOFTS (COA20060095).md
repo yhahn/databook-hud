@@ -1,0 +1,85 @@
+# Project: PRENTICE PLACE LOFTS (COA20060095)
+
+- HUD ID: COA20060095
+- HUD ID before: 
+- Project: PRENTICE PLACE LOFTS
+- Address: 8300 E PRENTICE AVE
+- City: GREENWOOD VILLAGE
+- State: CO
+- ZIP: 80111
+- ZIP extension: 
+- State project ID: 2003025
+- Latitude: 39.620256
+- Longitude: -104.893149
+- County FIPS: 08005
+- County from: 2020
+- Tract 2020: 08005006859
+- Tract 2010: 08005006858
+- Tract 2000: 08005006807
+- Tract 1990: 08005006807
+- Place 2020: 33035
+- Place 2010: 33035
+- Place 2000: 33035
+- Place 1990: 0580
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 801895
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 32
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

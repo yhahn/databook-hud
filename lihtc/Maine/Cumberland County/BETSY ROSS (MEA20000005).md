@@ -1,0 +1,85 @@
+# Project: BETSY ROSS (MEA20000005)
+
+- HUD ID: MEA20000005
+- HUD ID before: 
+- Project: BETSY ROSS
+- Address: 99 PREBLE ST
+- City: SOUTH PORTLAND
+- State: ME
+- ZIP: 04106
+- ZIP extension: 
+- State project ID: ME200002
+- Latitude: 43.645446
+- Longitude: -70.235755
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005003500
+- Tract 2010: 23005003500
+- Tract 2000: 23005003500
+- Tract 1990: 23005003500
+- Place 2020: 71990
+- Place 2010: 71990
+- Place 2000: 71990
+- Place 1990: 4230
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 123
+- Low-income units: 50
+- Units reported: 123
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 123
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BETSY ROSS HOUSE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TRADITIONS APTS (INA19960182)
+
+- HUD ID: INA19960182
+- HUD ID before: 
+- Project: TRADITIONS APTS
+- Address: 1600 TRADITIONS CT
+- City: FRANKLIN
+- State: IN
+- ZIP: 46131
+- ZIP extension: 
+- State project ID: IN-94-10300
+- Latitude: 39.486404
+- Longitude: -86.030382
+- County FIPS: 18081
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18081611100
+- Tract 2000: 18081611100
+- Tract 1990: 18081611100
+- Place 2020: 
+- Place 2010: 25450
+- Place 2000: 25450
+- Place 1990: 0860
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 124
+- Low-income units: 124
+- Units reported: 124
+- Low-income reported: 124
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 64
+- 3-bedroom units: 30
+- 4-bedroom units: 30
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

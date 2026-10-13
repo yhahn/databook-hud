@@ -1,0 +1,85 @@
+# Project: HINSON CREEK APARTMENTS (NCA0000X507)
+
+- HUD ID: NCA0000X507
+- HUD ID before: 
+- Project: HINSON CREEK APARTMENTS
+- Address: 2132 FAYETTEVILLE ROAD
+- City: ROCKINGHAM
+- State: NC
+- ZIP: 28379
+- ZIP extension: 
+- State project ID: 9284765
+- Latitude: 34.95068
+- Longitude: -79.743083
+- County FIPS: 37153
+- County from: 2020
+- Tract 2020: 37153970400
+- Tract 2010: 37153970400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 57260
+- Place 2010: 57260
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 34
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: MEMORIAL DRIVE ELDERLY LP (TXA19980005)
+
+- HUD ID: TXA19980005
+- HUD ID before: 
+- Project: MEMORIAL DRIVE ELDERLY LP
+- Address: 2100 MEMORIAL DR
+- City: HOUSTON
+- State: TX
+- ZIP: 77007
+- ZIP extension: 
+- State project ID: TX1500
+- Latitude: 29.763804
+- Longitude: -95.378294
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201510201
+- Tract 2010: 48201510200
+- Tract 2000: 48201510200
+- Tract 1990: 48201050400
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 196
+- Low-income units: 152
+- Units reported: 196
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 192
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

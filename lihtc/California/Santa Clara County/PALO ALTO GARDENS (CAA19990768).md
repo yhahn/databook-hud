@@ -1,0 +1,85 @@
+# Project: PALO ALTO GARDENS (CAA19990768)
+
+- HUD ID: CAA19990768
+- HUD ID before: 
+- Project: PALO ALTO GARDENS
+- Address: 648 SAN ANTONIO RD
+- City: PALO ALTO
+- State: CA
+- ZIP: 94306
+- ZIP extension: 
+- State project ID: CA-99-806
+- Latitude: 37.414371
+- Longitude: -122.103873
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085509302
+- Tract 2010: 06085509302
+- Tract 2000: 06085509302
+- Tract 1990: 06085509302
+- Place 2020: 55282
+- Place 2010: 55282
+- Place 2000: 49670
+- Place 1990: 1860
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 459120
+- Units: 156
+- Low-income units: 155
+- Units reported: 156
+- Low-income reported: 155
+- Efficiencies: 0
+- 1-bedroom units: 128
+- 2-bedroom units: 20
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GARRETHOUSE (OHA19870065)
+
+- HUD ID: OHA19870065
+- HUD ID before: 
+- Project: GARRETHOUSE
+- Address: 10854 N ST
+- City: GARRETTSVILLE
+- State: OH
+- ZIP: 44231
+- ZIP extension: 
+- State project ID: OH-87-0112
+- Latitude: 41.287517
+- Longitude: -81.098431
+- County FIPS: 39133
+- County from: 2020
+- Tract 2020: 39133600103
+- Tract 2010: 39133600103
+- Tract 2000: 39133600103
+- Tract 1990: 39133600198
+- Place 2020: 29442
+- Place 2010: 29442
+- Place 2000: 29442
+- Place 1990: 
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

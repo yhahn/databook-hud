@@ -1,0 +1,85 @@
+# Project: LA PRO APTS (CAA20110605)
+
+- HUD ID: CAA20110605
+- HUD ID before: 
+- Project: LA PRO APTS
+- Address: 249 N JUANITA AVE
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90004
+- ZIP extension: 
+- State project ID: CA-10-847
+- Latitude: 34.075649
+- Longitude: -118.290646
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037211122
+- Tract 2010: 06037211122
+- Tract 2000: 06037211110
+- Tract 1990: 06037211100
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 668184
+- Units: 124
+- Low-income units: 119
+- Units reported: 124
+- Low-income reported: 119
+- Efficiencies: 92
+- 1-bedroom units: 24
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 46
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011225, CAA1987110, CAA1987105, CAA0000900, CAA0000895. FKA LA PRO APTS PHASES I & II
+- Record status: Existing, unchanged

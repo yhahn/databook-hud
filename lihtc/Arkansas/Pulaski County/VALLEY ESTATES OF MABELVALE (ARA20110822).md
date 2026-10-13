@@ -1,0 +1,85 @@
+# Project: VALLEY ESTATES OF MABELVALE (ARA20110822)
+
+- HUD ID: ARA20110822
+- HUD ID before: 
+- Project: VALLEY ESTATES OF MABELVALE
+- Address: 1 RICHSMITH CR
+- City: MABELVALE
+- State: AR
+- ZIP: 72103
+- ZIP extension: 
+- State project ID: AR-09-26
+- Latitude: 34.6042
+- Longitude: -92.3717
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119004105
+- Tract 2010: 05125010409
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 41000
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 1
+- 1-bedroom units: 6
+- 2-bedroom units: 18
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000543, ARA0000225.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COURTSIDE APARTMENTS (WAA19970030)
+
+- HUD ID: WAA19970030
+- HUD ID before: 
+- Project: COURTSIDE APARTMENTS
+- Address: 515 COURTSIDE ST., SW
+- City: OLYMPIA
+- State: WA
+- ZIP: 98502
+- ZIP extension: 
+- State project ID: 94-72A
+- Latitude: 47.042265
+- Longitude: -122.948062
+- County FIPS: 53067
+- County from: 2020
+- Tract 2020: 53067010510
+- Tract 2010: 53067010510
+- Tract 2000: 53067010500
+- Tract 1990: 53067010500
+- Place 2020: 51300
+- Place 2010: 51300
+- Place 2000: 51300
+- Place 1990: 0920
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 462566
+- Units: 211
+- Low-income units: 209
+- Units reported: 211
+- Low-income reported: 209
+- Efficiencies: 20
+- 1-bedroom units: 62
+- 2-bedroom units: 84
+- 3-bedroom units: 45
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

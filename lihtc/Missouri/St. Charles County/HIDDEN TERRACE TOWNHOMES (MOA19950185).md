@@ -1,0 +1,85 @@
+# Project: HIDDEN TERRACE TOWNHOMES (MOA19950185)
+
+- HUD ID: MOA19950185
+- HUD ID before: 
+- Project: HIDDEN TERRACE TOWNHOMES
+- Address: 2500 FALCONS WAY
+- City: ST CHARLES
+- State: MO
+- ZIP: 63303
+- ZIP extension: 
+- State project ID: 94-067
+- Latitude: 38.77726
+- Longitude: -90.520957
+- County FIPS: 29183
+- County from: 2020
+- Tract 2020: 29183310901
+- Tract 2010: 29183310901
+- Tract 2000: 29183310901
+- Tract 1990: 29183310901
+- Place 2020: 64082
+- Place 2010: 64082
+- Place 2000: 64082
+- Place 1990: 3830
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 11
+- 3-bedroom units: 29
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

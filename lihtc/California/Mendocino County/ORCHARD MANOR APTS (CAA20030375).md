@@ -1,0 +1,85 @@
+# Project: ORCHARD MANOR APTS (CAA20030375)
+
+- HUD ID: CAA20030375
+- HUD ID before: 
+- Project: ORCHARD MANOR APTS
+- Address: 610 N ORCHARD AVE
+- City: UKIAH
+- State: CA
+- ZIP: 95482
+- ZIP extension: 
+- State project ID: CA-02-915
+- Latitude: 39.156341
+- Longitude: -123.199314
+- County FIPS: 06045
+- County from: 2020
+- Tract 2020: 06045011502
+- Tract 2010: 06045011500
+- Tract 2000: 06045011500
+- Tract 1990: 06045011500
+- Place 2020: 81134
+- Place 2010: 81134
+- Place 2000: 81134
+- Place 1990: 2980
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 133127
+- Units: 64
+- Low-income units: 63
+- Units reported: 64
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 35
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

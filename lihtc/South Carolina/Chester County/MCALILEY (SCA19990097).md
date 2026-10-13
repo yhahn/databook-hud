@@ -1,0 +1,85 @@
+# Project: MCALILEY (SCA19990097)
+
+- HUD ID: SCA19990097
+- HUD ID before: 
+- Project: MCALILEY
+- Address: 120 MAIN ST
+- City: CHESTER
+- State: SC
+- ZIP: 29706
+- ZIP extension: 
+- State project ID: SC-98-015
+- Latitude: 34.7051
+- Longitude: -81.213503
+- County FIPS: 45023
+- County from: 2020
+- Tract 2020: 45023020200
+- Tract 2010: 45023020200
+- Tract 2000: 45023020200
+- Tract 1990: 45023020200
+- Place 2020: 14095
+- Place 2010: 14095
+- Place 2000: 14095
+- Place 1990: 0260
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 89841
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 388750
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THE COMMONS AT MADALINE PARK II (OHA20160026)
+
+- HUD ID: OHA20160026
+- HUD ID before: 
+- Project: THE COMMONS AT MADALINE PARK II
+- Address: 1267 BROWNSTONE AVENUE
+- City: AKRON
+- State: OH
+- ZIP: 44310
+- ZIP extension: 0000
+- State project ID: 140063
+- Latitude: 41.099705
+- Longitude: -81.474513
+- County FIPS: 39153
+- County from: 2020
+- Tract 2020: 39153502200
+- Tract 2010: 39153502200
+- Tract 2000: 39153502200
+- Tract 1990: 
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 754606
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

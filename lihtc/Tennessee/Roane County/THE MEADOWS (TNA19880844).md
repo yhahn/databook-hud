@@ -1,0 +1,85 @@
+# Project: THE MEADOWS (TNA19880844)
+
+- HUD ID: TNA19880844
+- HUD ID before: 
+- Project: THE MEADOWS
+- Address: 303 MEADOWS PL
+- City: ROCKWOOD
+- State: TN
+- ZIP: 37854
+- ZIP extension: 
+- State project ID: TN-88-044
+- Latitude: 35.859776
+- Longitude: -84.700929
+- County FIPS: 47145
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47145030500
+- Tract 2000: 47145030500
+- Tract 1990: 47145030500
+- Place 2020: 
+- Place 2010: 64440
+- Place 2000: 32520
+- Place 1990: 1210
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 1451956
+- Units: 50
+- Low-income units: 50
+- Units reported: 49
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 29
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1988635.
+- Record status: Existing, unchanged

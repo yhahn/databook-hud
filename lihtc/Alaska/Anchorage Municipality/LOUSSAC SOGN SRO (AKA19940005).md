@@ -1,0 +1,85 @@
+# Project: LOUSSAC SOGN SRO (AKA19940005)
+
+- HUD ID: AKA19940005
+- HUD ID before: 
+- Project: LOUSSAC SOGN SRO
+- Address: 429 D ST
+- City: ANCHORAGE
+- State: AK
+- ZIP: 99501
+- ZIP extension: 
+- State project ID: AK-92-00002
+- Latitude: 61.217991
+- Longitude: -149.889063
+- County FIPS: 02020
+- County from: 2020
+- Tract 2020: 02020001100
+- Tract 2010: 02020001100
+- Tract 2000: 02020001100
+- Tract 1990: 02020001100
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0140
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 50
+- Units reported: 52
+- Low-income reported: 50
+- Efficiencies: 50
+- 1-bedroom units: 2
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

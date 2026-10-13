@@ -1,0 +1,85 @@
+# Project: HUNTING HILLS (VAA20160011)
+
+- HUD ID: VAA20160011
+- HUD ID before: 
+- Project: HUNTING HILLS
+- Address: 3153 HILLMAN STREET
+- City: BLACKSBURG
+- State: VA
+- ZIP: 24060
+- ZIP extension: 
+- State project ID: 1008
+- Latitude: 37.206616
+- Longitude: -80.493154
+- County FIPS: 51121
+- County from: 2020
+- Tract 2020: 51121021201
+- Tract 2010: 51121021200
+- Tract 2000: 51121021200
+- Tract 1990: 
+- Place 2020: 64512
+- Place 2010: 64512
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 70626
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 12
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 375000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

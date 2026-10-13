@@ -1,0 +1,85 @@
+# Project: SOUTHER VIEW APTS (TXA20100085)
+
+- HUD ID: TXA20100085
+- HUD ID before: 
+- Project: SOUTHER VIEW APTS
+- Address: 1113 W RYAN ST
+- City: FORT STOCKTON
+- State: TX
+- ZIP: 79735
+- ZIP extension: 
+- State project ID: 
+- Latitude: 30.879491
+- Longitude: -102.887591
+- County FIPS: 48371
+- County from: 2020
+- Tract 2020: 48371950300
+- Tract 2010: 48371950300
+- Tract 2000: 48371950300
+- Tract 1990: 48371950300
+- Place 2020: 26808
+- Place 2010: 26808
+- Place 2000: 26808
+- Place 1990: 1495
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3807300
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

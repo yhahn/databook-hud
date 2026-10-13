@@ -1,0 +1,85 @@
+# Project: DELHI STRATFORD PLACE (MIA20059214)
+
+- HUD ID: MIA20059214
+- HUD ID before: 
+- Project: DELHI STRATFORD PLACE
+- Address: 2385 PARK LN
+- City: HOLT
+- State: MI
+- ZIP: 48842
+- ZIP extension: 
+- State project ID: MI-1096
+- Latitude: 42.6505
+- Longitude: -84.514444
+- County FIPS: 26065
+- County from: 2020
+- Tract 2020: 26065005402
+- Tract 2010: 26065005402
+- Tract 2000: 26065005400
+- Tract 1990: 26065005400
+- Place 2020: 38780
+- Place 2010: 38780
+- Place 2000: 38780
+- Place 1990: 1250
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 91
+- Low-income units: 91
+- Units reported: 85
+- Low-income reported: 91
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1055000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

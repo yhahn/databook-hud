@@ -1,0 +1,85 @@
+# Project: PARK EDGE APARTMENTS (MNA20009007)
+
+- HUD ID: MNA20009007
+- HUD ID before: 
+- Project: PARK EDGE APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: MAPLEWOOD
+- State: MN
+- ZIP: 55109
+- ZIP extension: 
+- State project ID: D3005
+- Latitude: 45.002338
+- Longitude: -93.042264
+- County FIPS: 27123
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27123042302
+- Tract 2000: 27123042302
+- Tract 1990: 27123042302
+- Place 2020: 
+- Place 2010: 40382
+- Place 2000: 40382
+- Place 1990: 2455
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

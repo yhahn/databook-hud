@@ -1,0 +1,85 @@
+# Project: CENTER PLACE APTS - CENTER (TXA20010040)
+
+- HUD ID: TXA20010040
+- HUD ID before: 
+- Project: CENTER PLACE APTS - CENTER
+- Address: 705 CLIFFORD ST
+- City: CENTER
+- State: TX
+- ZIP: 75935
+- ZIP extension: 
+- State project ID: TX0164
+- Latitude: 31.80763
+- Longitude: -94.187847
+- County FIPS: 48419
+- County from: 2020
+- Tract 2020: 48419950402
+- Tract 2010: 48419950400
+- Tract 2000: 48419950400
+- Tract 1990: 48419950400
+- Place 2020: 13732
+- Place 2010: 13732
+- Place 2000: 13732
+- Place 1990: 0780
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

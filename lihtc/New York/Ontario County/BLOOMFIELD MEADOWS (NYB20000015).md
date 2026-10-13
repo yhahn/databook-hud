@@ -1,0 +1,85 @@
+# Project: BLOOMFIELD MEADOWS (NYB20000015)
+
+- HUD ID: NYB20000015
+- HUD ID before: 
+- Project: BLOOMFIELD MEADOWS
+- Address: 21 BENNETT AVE
+- City: BLOOMFIELD
+- State: NY
+- ZIP: 14469
+- ZIP extension: 
+- State project ID: NY-00-1439
+- Latitude: 42.901324
+- Longitude: -77.415233
+- County FIPS: 36069
+- County from: 2020
+- Tract 2020: 36069050501
+- Tract 2010: 36069050500
+- Tract 2000: 36069050500
+- Tract 1990: 36069050500
+- Place 2020: 06945
+- Place 2010: 06945
+- Place 2000: 06945
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

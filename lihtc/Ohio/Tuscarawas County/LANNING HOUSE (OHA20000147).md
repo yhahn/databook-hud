@@ -1,0 +1,85 @@
+# Project: LANNING HOUSE (OHA20000147)
+
+- HUD ID: OHA20000147
+- HUD ID before: 
+- Project: LANNING HOUSE
+- Address: 228 GRANT ST
+- City: DENNISON
+- State: OH
+- ZIP: 44621
+- ZIP extension: 
+- State project ID: 980098
+- Latitude: 40.393024
+- Longitude: -81.334884
+- County FIPS: 39157
+- County from: 2020
+- Tract 2020: 39157021600
+- Tract 2010: 39157021600
+- Tract 2000: 39157021600
+- Tract 1990: 39157021600
+- Place 2020: 21714
+- Place 2010: 21714
+- Place 2000: 21714
+- Place 1990: 1155
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 132988
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 7
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2000543, OHA2002177.
+- Record status: Existing, unchanged

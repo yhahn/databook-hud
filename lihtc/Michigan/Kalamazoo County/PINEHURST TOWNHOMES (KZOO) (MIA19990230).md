@@ -1,0 +1,85 @@
+# Project: PINEHURST TOWNHOMES (KZOO) (MIA19990230)
+
+- HUD ID: MIA19990230
+- HUD ID before: 
+- Project: PINEHURST TOWNHOMES (KZOO)
+- Address: 6794 STADIUM DR
+- City: KALAMAZOO
+- State: MI
+- ZIP: 49009
+- ZIP extension: 
+- State project ID: MI-955
+- Latitude: 42.258198
+- Longitude: -85.683182
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077002910
+- Tract 2010: 26077002905
+- Tract 2000: 26077002905
+- Tract 1990: 26077002902
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 97
+- Low-income units: 96
+- Units reported: 97
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 37
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

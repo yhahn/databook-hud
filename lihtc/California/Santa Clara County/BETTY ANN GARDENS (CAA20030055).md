@@ -1,0 +1,85 @@
+# Project: BETTY ANN GARDENS (CAA20030055)
+
+- HUD ID: CAA20030055
+- HUD ID before: 
+- Project: BETTY ANN GARDENS
+- Address: 941 LUNDY AVE
+- City: SAN JOSE
+- State: CA
+- ZIP: 95133
+- ZIP extension: 
+- State project ID: CA-02-801
+- Latitude: 37.371421
+- Longitude: -121.872827
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085504319
+- Tract 2010: 06085504319
+- Tract 2000: 06085504319
+- Tract 1990: 06085503704
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 2510
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 654931
+- Units: 76
+- Low-income units: 75
+- Units reported: 76
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 35
+- 3-bedroom units: 20
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

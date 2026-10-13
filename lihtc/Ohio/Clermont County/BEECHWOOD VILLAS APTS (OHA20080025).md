@@ -1,0 +1,85 @@
+# Project: BEECHWOOD VILLAS APTS (OHA20080025)
+
+- HUD ID: OHA20080025
+- HUD ID before: 
+- Project: BEECHWOOD VILLAS APTS
+- Address: 4700 BEECHWOOD RD
+- City: CINCINNATI
+- State: OH
+- ZIP: 45244
+- ZIP extension: 
+- State project ID: 080001
+- Latitude: 39.116823
+- Longitude: -84.302496
+- County FIPS: 39025
+- County from: 2020
+- Tract 2020: 39025041405
+- Tract 2010: 39025041405
+- Tract 2000: 39025041401
+- Tract 1990: 39025041401
+- Place 2020: 75434
+- Place 2010: 75434
+- Place 2000: 50176
+- Place 1990: 4177
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 183
+- Units reported: 184
+- Low-income reported: 183
+- Efficiencies: 0
+- 1-bedroom units: 74
+- 2-bedroom units: 86
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

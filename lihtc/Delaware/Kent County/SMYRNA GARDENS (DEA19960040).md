@@ -1,0 +1,85 @@
+# Project: SMYRNA GARDENS (DEA19960040)
+
+- HUD ID: DEA19960040
+- HUD ID before: 
+- Project: SMYRNA GARDENS
+- Address: 105 LAWN DRIVE APT 1-B
+- City: SMYRNA
+- State: DE
+- ZIP: 19977
+- ZIP extension: 
+- State project ID: DE105FY9423
+- Latitude: 39.30047
+- Longitude: -75.60165
+- County FIPS: 10001
+- County from: 2020
+- Tract 2020: 10001040203
+- Tract 2010: 10001040203
+- Tract 2000: 10001040203
+- Tract 1990: 10001040200
+- Place 2020: 67310
+- Place 2010: 67310
+- Place 2000: 67310
+- Place 1990: 0237
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 71
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

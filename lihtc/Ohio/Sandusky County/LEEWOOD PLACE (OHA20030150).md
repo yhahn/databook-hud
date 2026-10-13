@@ -1,0 +1,85 @@
+# Project: LEEWOOD PLACE (OHA20030150)
+
+- HUD ID: OHA20030150
+- HUD ID before: 
+- Project: LEEWOOD PLACE
+- Address: 54 WEBSTER ST
+- City: FREMONT
+- State: OH
+- ZIP: 43420
+- ZIP extension: 
+- State project ID: 010096
+- Latitude: 41.351826
+- Longitude: -83.147346
+- County FIPS: 39143
+- County from: 2020
+- Tract 2020: 39143961600
+- Tract 2010: 39143961600
+- Tract 2000: 39143961600
+- Tract 1990: 39143961600
+- Place 2020: 74832
+- Place 2010: 74832
+- Place 2000: 28826
+- Place 1990: 1455
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 236204
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 19
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

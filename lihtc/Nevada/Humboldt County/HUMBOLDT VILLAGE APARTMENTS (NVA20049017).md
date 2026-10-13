@@ -1,0 +1,85 @@
+# Project: HUMBOLDT VILLAGE APARTMENTS (NVA20049017)
+
+- HUD ID: NVA20049017
+- HUD ID before: NVA00000023
+- Project: HUMBOLDT VILLAGE APARTMENTS
+- Address: 400 WESO STREET
+- City: WINNEMUCCA
+- State: NV
+- ZIP: 89445
+- ZIP extension: 0000
+- State project ID: 03-01
+- Latitude: 40.964512
+- Longitude: -117.731848
+- County FIPS: 32013
+- County from: 2020
+- Tract 2020: 32013010701
+- Tract 2010: 32013010701
+- Tract 2000: 32013010700
+- Tract 1990: 32013960600
+- Place 2020: 84800
+- Place 2010: 84800
+- Place 2000: 84800
+- Place 1990: 0130
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 153293
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 584698
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS NVA00000023
+- Record status: Existing, unchanged

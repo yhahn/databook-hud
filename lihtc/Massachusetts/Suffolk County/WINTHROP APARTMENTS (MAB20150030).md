@@ -1,0 +1,85 @@
+# Project: WINTHROP APARTMENTS (MAB20150030)
+
+- HUD ID: MAB20150030
+- HUD ID before: 
+- Project: WINTHROP APARTMENTS
+- Address: 93 VETERANS ROAD
+- City: WINTHROP
+- State: MA
+- ZIP: 02152
+- ZIP extension: 
+- State project ID: 2933
+- Latitude: 42.378668
+- Longitude: -70.975504
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025180400
+- Tract 2010: 25025180400
+- Tract 2000: 25025180400
+- Tract 1990: 
+- Place 2020: 81005
+- Place 2010: 81005
+- Place 2000: 80965
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 621000
+- Units: 40
+- Low-income units: 37
+- Units reported: 40
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THE LEGACY AT WALTON OAKS FKA UNDERWOOD HOMES (GAA20120110)
+
+- HUD ID: GAA20120110
+- HUD ID before: 
+- Project: THE LEGACY AT WALTON OAKS FKA UNDERWOOD HOMES
+- Address: 601 FAIRHOPE ST
+- City: AUGUSTA
+- State: GA
+- ZIP: 30901
+- ZIP extension: 1979
+- State project ID: GA-09-031
+- Latitude: 33.460426
+- Longitude: -81.930411
+- County FIPS: 13245
+- County from: 2020
+- Tract 2020: 13245010601
+- Tract 2010: 13245010600
+- Tract 2000: 13245010600
+- Tract 1990: 13245010600
+- Place 2020: 04204
+- Place 2010: 04204
+- Place 2000: 04204
+- Place 1990: 0927
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

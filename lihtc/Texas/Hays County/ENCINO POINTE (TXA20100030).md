@@ -1,0 +1,85 @@
+# Project: ENCINO POINTE (TXA20100030)
+
+- HUD ID: TXA20100030
+- HUD ID before: 
+- Project: ENCINO POINTE
+- Address: 1800 POST RD
+- City: SAN MARCOS
+- State: TX
+- ZIP: 78666
+- ZIP extension: 
+- State project ID: TX4580
+- Latitude: 29.907281
+- Longitude: -97.911376
+- County FIPS: 48209
+- County from: 2020
+- Tract 2020: 48209010309
+- Tract 2010: 48209010304
+- Tract 2000: 48209010301
+- Tract 1990: 48209010301
+- Place 2020: 99999
+- Place 2010: 65600
+- Place 2000: 65600
+- Place 1990: 3795
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 252
+- Low-income units: 252
+- Units reported: 252
+- Low-income reported: 252
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 132
+- 3-bedroom units: 96
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 3000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

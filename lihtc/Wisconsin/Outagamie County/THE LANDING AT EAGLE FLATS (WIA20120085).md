@@ -1,0 +1,85 @@
+# Project: THE LANDING AT EAGLE FLATS (WIA20120085)
+
+- HUD ID: WIA20120085
+- HUD ID before: 
+- Project: THE LANDING AT EAGLE FLATS
+- Address: 500 E EAGLE FLATS PARKWAY
+- City: APPLETON
+- State: WI
+- ZIP: 54915
+- ZIP extension: 
+- State project ID: 5612
+- Latitude: 44.255832
+- Longitude: -88.398374
+- County FIPS: 55087
+- County from: 2020
+- Tract 2020: 55087010700
+- Tract 2010: 55087010700
+- Tract 2000: 55087010700
+- Tract 1990: 55087010700
+- Place 2020: 02375
+- Place 2010: 02375
+- Place 2000: 
+- Place 1990: 0080
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 789203
+- Units: 54
+- Low-income units: 14
+- Units reported: 54
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 32
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 432000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

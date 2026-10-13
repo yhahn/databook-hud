@@ -1,0 +1,85 @@
+# Project: REDWOOD HEIGHTS APTS (TXA20060085)
+
+- HUD ID: TXA20060085
+- HUD ID before: 
+- Project: REDWOOD HEIGHTS APTS
+- Address: 7320 JENSEN DR
+- City: HOUSTON
+- State: TX
+- ZIP: 77093
+- ZIP extension: 
+- State project ID: TX4117
+- Latitude: 29.825925
+- Longitude: -95.342416
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201220800
+- Tract 2010: 48201220800
+- Tract 2000: 48201220800
+- Tract 1990: 48201021804
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 600146
+- Units: 96
+- Low-income units: 76
+- Units reported: 96
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 40
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

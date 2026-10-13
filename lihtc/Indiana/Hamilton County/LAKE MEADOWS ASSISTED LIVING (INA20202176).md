@@ -1,0 +1,85 @@
+# Project: LAKE MEADOWS ASSISTED LIVING (INA20202176)
+
+- HUD ID: INA20202176
+- HUD ID before: 
+- Project: LAKE MEADOWS ASSISTED LIVING
+- Address: 11570 E 126TH ST
+- City: FISHERS
+- State: IN
+- ZIP: 46037
+- ZIP extension: 
+- State project ID: IN-18-01900
+- Latitude: 39.972202
+- Longitude: -85.960041
+- County FIPS: 18057
+- County from: 2020
+- Tract 2020: 18057110821
+- Tract 2010: 18057110808
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23278
+- Place 2010: 23278
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 792716
+- Units: 123
+- Low-income units: 123
+- Units reported: 123
+- Low-income reported: 123
+- Efficiencies: 74
+- 1-bedroom units: 49
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

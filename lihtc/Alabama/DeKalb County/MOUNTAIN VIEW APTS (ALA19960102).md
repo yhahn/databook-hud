@@ -1,0 +1,85 @@
+# Project: MOUNTAIN VIEW APTS (ALA19960102)
+
+- HUD ID: ALA19960102
+- HUD ID before: 
+- Project: MOUNTAIN VIEW APTS
+- Address: 280 55TH ST NE
+- City: FORT PAYNE
+- State: AL
+- ZIP: 35967
+- ZIP extension: 
+- State project ID: AL-96-0006
+- Latitude: 34.498775
+- Longitude: -85.664617
+- County FIPS: 01049
+- County from: 2020
+- Tract 2020: 01049961300
+- Tract 2010: 01049961300
+- Tract 2000: 01049961300
+- Tract 1990: 01049961300
+- Place 2020: 27616
+- Place 2010: 27616
+- Place 2000: 27616
+- Place 1990: 0655
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 114281
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 615000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1997115.
+- Record status: Existing, unchanged

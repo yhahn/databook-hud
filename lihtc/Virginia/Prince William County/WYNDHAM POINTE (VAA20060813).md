@@ -1,0 +1,85 @@
+# Project: WYNDHAM POINTE (VAA20060813)
+
+- HUD ID: VAA20060813
+- HUD ID before: 
+- Project: WYNDHAM POINTE
+- Address: 16630 HARWOOD OAKS CT
+- City: DUMFRIES
+- State: VA
+- ZIP: 22026
+- ZIP extension: 
+- State project ID: 8851
+- Latitude: 38.591283
+- Longitude: -77.309898
+- County FIPS: 51153
+- County from: 2020
+- Tract 2020: 51153901016
+- Tract 2010: 51153901008
+- Tract 2000: 51153901008
+- Tract 1990: 51153901098
+- Place 2020: 15176
+- Place 2010: 15176
+- Place 2000: 
+- Place 1990: 0818
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 566833
+- Units: 194
+- Low-income units: 152
+- Units reported: 194
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 140
+- 3-bedroom units: 54
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WINDWOOD APTS II (TXA19950495)
+
+- HUD ID: TXA19950495
+- HUD ID before: 
+- Project: WINDWOOD APTS II
+- Address: 100 WINDWOOD DR
+- City: KINGSLAND
+- State: TX
+- ZIP: 78639
+- ZIP extension: 
+- State project ID: TX-93-004
+- Latitude: 30.655075
+- Longitude: -98.441893
+- County FIPS: 48299
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48299970500
+- Tract 2000: 48299970500
+- Tract 1990: 48299970500
+- Place 2020: 
+- Place 2010: 39304
+- Place 2000: 39304
+- Place 1990: 2233
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

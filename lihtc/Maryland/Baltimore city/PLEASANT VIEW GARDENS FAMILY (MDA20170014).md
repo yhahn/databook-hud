@@ -1,0 +1,85 @@
+# Project: PLEASANT VIEW GARDENS FAMILY (MDA20170014)
+
+- HUD ID: MDA20170014
+- HUD ID before: 
+- Project: PLEASANT VIEW GARDENS FAMILY
+- Address: 1099 ORLEANS STREET
+- City: BALTIMORE
+- State: MD
+- ZIP: 21202
+- ZIP extension: 
+- State project ID: MD-14-28
+- Latitude: 39.294606
+- Longitude: -76.603435
+- County FIPS: 24510
+- County from: 2020
+- Tract 2020: 24510280500
+- Tract 2010: 24510280500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1064940
+- Units: 201
+- Low-income units: 201
+- Units reported: 201
+- Low-income reported: 201
+- Efficiencies: 
+- 1-bedroom units: 11
+- 2-bedroom units: 130
+- 3-bedroom units: 60
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

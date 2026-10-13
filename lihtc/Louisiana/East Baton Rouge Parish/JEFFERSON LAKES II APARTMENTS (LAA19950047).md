@@ -1,0 +1,85 @@
+# Project: JEFFERSON LAKES II APARTMENTS (LAA19950047)
+
+- HUD ID: LAA19950047
+- HUD ID before: 
+- Project: JEFFERSON LAKES II APARTMENTS
+- Address: 12400 JEFFERSON HWY.
+- City: BATON ROUGE
+- State: LA
+- ZIP: 70816
+- ZIP extension: 0000
+- State project ID: LA-94-059
+- Latitude: 30.394541
+- Longitude: -91.045157
+- County FIPS: 22033
+- County from: 2020
+- Tract 2020: 22033004509
+- Tract 2010: 22033003906
+- Tract 2000: 22033004502
+- Tract 1990: 22033004502
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 1017
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 73694
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1995046, LAA1995045.;
+- Record status: Existing, unchanged

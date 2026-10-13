@@ -1,0 +1,24 @@
+# Tax Credit Projects: Brown County, TX
+
+- Level: County
+- Postal code: TX
+- State FIPS: 48
+- County FIPS: 48049
+- Counties: 
+- Projects: 7
+- Units: 437
+- Low-income units: 436
+
+The low-income housing tax credit projects of Brown County, Texas, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [VICKSBURG LTD (TXA19910490)](./Brown%20County/VICKSBURG%20LTD%20%28TXA19910490%29.md) | TXA19910490 | BROWNWOOD | 1991 | 44 | 44 |
+| [BROWNWOOD APTS I (TXA19980225)](./Brown%20County/BROWNWOOD%20APTS%20I%20%28TXA19980225%29.md) | TXA19980225 | BROWNWOOD | 1998 | 50 | 50 |
+| [BROWNWOOD APTS II (TXA20010035)](./Brown%20County/BROWNWOOD%20APTS%20II%20%28TXA20010035%29.md) | TXA20010035 | BROWNWOOD | 2001 | 72 | 72 |
+| [BROWNWOOD RETIREMENT VILLAGE (TXA20030030)](./Brown%20County/BROWNWOOD%20RETIREMENT%20VILLAGE%20%28TXA20030030%29.md) | TXA20030030 | BROWNWOOD | 2003 | 76 | 76 |
+| [WILDWOOD TRAILS APTS (TXA20060220)](./Brown%20County/WILDWOOD%20TRAILS%20APTS%20%28TXA20060220%29.md) | TXA20060220 | BROWNWOOD | 2006 | 75 | 75 |
+| [MARKET PLACE APTS (TXA20070210)](./Brown%20County/MARKET%20PLACE%20APTS%20%28TXA20070210%29.md) | TXA20070210 | BROWNWOOD | 2007 | 60 | 59 |
+| [RIVERSIDE PARK (TXA20163054)](./Brown%20County/RIVERSIDE%20PARK%20%28TXA20163054%29.md) | TXA20163054 | EARLY | 2016 | 60 | 60 |

@@ -1,0 +1,85 @@
+# Project: BAYVIEW APARTMENTS (WAA20039004)
+
+- HUD ID: WAA20039004
+- HUD ID before: 
+- Project: BAYVIEW APARTMENTS
+- Address: 808 -29TH STREET
+- City: ANACORTES
+- State: WA
+- ZIP: 98221
+- ZIP extension: 
+- State project ID: 02-112A
+- Latitude: 48.498972
+- Longitude: -122.611117
+- County FIPS: 53057
+- County from: 2020
+- Tract 2020: 53057940500
+- Tract 2010: 53057940500
+- Tract 2000: 53057950700
+- Tract 1990: 
+- Place 2020: 01990
+- Place 2010: 01990
+- Place 2000: 01990
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 70283
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 26
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: Yes
+- HOPE VI amount: 3426568
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

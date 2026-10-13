@@ -1,0 +1,85 @@
+# Project: CHESTNUT STREET APTS (PAA20020025)
+
+- HUD ID: PAA20020025
+- HUD ID before: 
+- Project: CHESTNUT STREET APTS
+- Address: 7554 CHESTNUT ST
+- City: FAIRVIEW
+- State: PA
+- ZIP: 16415
+- ZIP extension: 
+- State project ID: TC20010712
+- Latitude: 42.032212
+- Longitude: -80.256587
+- County FIPS: 42049
+- County from: 2020
+- Tract 2020: 42049010303
+- Tract 2010: 42049010303
+- Tract 2000: 42049010303
+- Tract 1990: 42049010303
+- Place 2020: 24856
+- Place 2010: 24856
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 316200
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Existing, unchanged

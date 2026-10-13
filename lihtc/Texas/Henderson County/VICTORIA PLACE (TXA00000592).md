@@ -1,0 +1,85 @@
+# Project: VICTORIA PLACE (TXA00000592)
+
+- HUD ID: TXA00000592
+- HUD ID before: 
+- Project: VICTORIA PLACE
+- Address: 900 BARBARA ST
+- City: ATHENS
+- State: TX
+- ZIP: 75751
+- ZIP extension: 
+- State project ID: TX0308
+- Latitude: 32.181157
+- Longitude: -95.866948
+- County FIPS: 48213
+- County from: 2020
+- Tract 2020: 48213951201
+- Tract 2010: 48213951200
+- Tract 2000: 48213951200
+- Tract 1990: 48213951200
+- Place 2020: 04504
+- Place 2010: 04504
+- Place 2000: 04504
+- Place 1990: 0195
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

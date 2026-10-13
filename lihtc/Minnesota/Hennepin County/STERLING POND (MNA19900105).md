@@ -1,0 +1,85 @@
+# Project: STERLING POND (MNA19900105)
+
+- HUD ID: MNA19900105
+- HUD ID before: 
+- Project: STERLING POND
+- Address: 16355 WAGNER WAY
+- City: EDEN PRAIRIE
+- State: MN
+- ZIP: 55344
+- ZIP extension: 
+- State project ID: MN-89-T008
+- Latitude: 44.8635
+- Longitude: -93.483651
+- County FIPS: 27053
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27053026005
+- Tract 2000: 27053026005
+- Tract 1990: 27053026005
+- Place 2020: 
+- Place 2010: 18116
+- Place 2000: 18116
+- Place 1990: 1094
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 112
+- Low-income units: 68
+- Units reported: 112
+- Low-income reported: 68
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

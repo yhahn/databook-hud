@@ -1,0 +1,85 @@
+# Project: CAPE GIRARDEAU SUNDANCE APTS (MOA19980025)
+
+- HUD ID: MOA19980025
+- HUD ID before: 
+- Project: CAPE GIRARDEAU SUNDANCE APTS
+- Address: 909 HACKBERRY ST
+- City: CAPE GIRARDEAU
+- State: MO
+- ZIP: 63703
+- ZIP extension: 
+- State project ID: 97057
+- Latitude: 37.286927
+- Longitude: -89.532605
+- County FIPS: 29031
+- County from: 2020
+- Tract 2020: 29031881400
+- Tract 2010: 29031881400
+- Tract 2000: 29031981400
+- Tract 1990: 29031981400
+- Place 2020: 11242
+- Place 2010: 11242
+- Place 2000: 11242
+- Place 1990: 0695
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

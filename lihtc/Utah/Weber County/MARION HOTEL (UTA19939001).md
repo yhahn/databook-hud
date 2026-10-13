@@ -1,0 +1,85 @@
+# Project: MARION HOTEL (UTA19939001)
+
+- HUD ID: UTA19939001
+- HUD ID before: 
+- Project: MARION HOTEL
+- Address: 184 25TH STREET
+- City: OGDEN
+- State: UT
+- ZIP: 84401
+- ZIP extension: 0000
+- State project ID: 1992-01
+- Latitude: 41.220906
+- Longitude: -111.976552
+- County FIPS: 49057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49057201100
+- Tract 2000: 49057201100
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 55980
+- Place 2000: 55980
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 161543
+- Units: 86
+- Low-income units: 86
+- Units reported: 86
+- Low-income reported: 86
+- Efficiencies: 86
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 86
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Homeless (with caseworker)
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

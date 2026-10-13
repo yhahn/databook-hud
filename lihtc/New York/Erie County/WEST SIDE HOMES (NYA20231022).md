@@ -1,0 +1,85 @@
+# Project: WEST SIDE HOMES (NYA20231022)
+
+- HUD ID: NYA20231022
+- HUD ID before: 
+- Project: WEST SIDE HOMES
+- Address: 217 MASSACHUSETTS AVENUE
+- City: BUFFALO
+- State: NY
+- ZIP: 14213
+- ZIP extension: 
+- State project ID: 20210002
+- Latitude: 42.910023
+- Longitude: -78.892872
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029006901
+- Tract 2010: 36029006901
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 11000
+- Place 2010: 11000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 1152713
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 17
+- 3-bedroom units: 18
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 49
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 73055866
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: OTHER
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

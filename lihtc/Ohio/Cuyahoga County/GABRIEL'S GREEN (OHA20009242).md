@@ -1,0 +1,85 @@
+# Project: GABRIEL'S GREEN (OHA20009242)
+
+- HUD ID: OHA20009242
+- HUD ID before: 
+- Project: GABRIEL'S GREEN
+- Address: 5908 CENTRAL AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44104
+- ZIP extension: 
+- State project ID: 980032
+- Latitude: 41.496095
+- Longitude: -81.648864
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035198400
+- Tract 2010: 39035113801
+- Tract 2000: 39035113700
+- Tract 1990: 39035113700
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 468479
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 4
+- 4-bedroom units: 10
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 301000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

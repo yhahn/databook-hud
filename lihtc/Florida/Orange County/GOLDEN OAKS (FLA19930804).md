@@ -1,0 +1,85 @@
+# Project: GOLDEN OAKS (FLA19930804)
+
+- HUD ID: FLA19930804
+- HUD ID before: 
+- Project: GOLDEN OAKS
+- Address: 7701 ACORN WOODS CIR
+- City: WINTER PARK
+- State: FL
+- ZIP: 32792
+- ZIP extension: 
+- State project ID: 294
+- Latitude: 28.583262
+- Longitude: -81.284656
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016413
+- Tract 2010: 12095016410
+- Tract 2000: 12095016410
+- Tract 1990: 12095016405
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1993075.
+- Record status: Existing, unchanged

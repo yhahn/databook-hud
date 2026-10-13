@@ -1,0 +1,85 @@
+# Project: HILLVIEW APTS (AKA19950015)
+
+- HUD ID: AKA19950015
+- HUD ID before: 
+- Project: HILLVIEW APTS
+- Address: 1801 DOUGLAS HWY
+- City: JUNEAU
+- State: AK
+- ZIP: 99824
+- ZIP extension: 
+- State project ID: AK-95-00026
+- Latitude: 58.282244
+- Longitude: -134.406238
+- County FIPS: 02110
+- County from: 2020
+- Tract 2020: 02110000600
+- Tract 2010: 02110000600
+- Tract 2000: 02110000600
+- Tract 1990: 02110977400
+- Place 2020: 36400
+- Place 2010: 36400
+- Place 2000: 36400
+- Place 1990: 1510
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 6
+- 1-bedroom units: 6
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

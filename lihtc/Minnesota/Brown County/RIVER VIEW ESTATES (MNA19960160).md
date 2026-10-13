@@ -1,0 +1,85 @@
+# Project: RIVER VIEW ESTATES (MNA19960160)
+
+- HUD ID: MNA19960160
+- HUD ID before: 
+- Project: RIVER VIEW ESTATES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: NEW ULM
+- State: MN
+- ZIP: 56073
+- ZIP extension: 
+- State project ID: D1051
+- Latitude: 44.3603
+- Longitude: -94.693
+- County FIPS: 27015
+- County from: 2020
+- Tract 2020: 27015960400
+- Tract 2010: 27015960400
+- Tract 2000: 27015960400
+- Tract 1990: 27015960400
+- Place 2020: 46042
+- Place 2010: 46042
+- Place 2000: 12394
+- Place 1990: 2810
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 19
+- Units reported: 24
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

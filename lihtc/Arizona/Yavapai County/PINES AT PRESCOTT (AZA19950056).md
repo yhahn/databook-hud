@@ -1,0 +1,85 @@
+# Project: PINES AT PRESCOTT (AZA19950056)
+
+- HUD ID: AZA19950056
+- HUD ID before: 
+- Project: PINES AT PRESCOTT
+- Address: 1053 SANDRETTO DR
+- City: PRESCOTT
+- State: AZ
+- ZIP: 86305
+- ZIP extension: 
+- State project ID: TC-0107
+- Latitude: 34.602737
+- Longitude: -112.460036
+- County FIPS: 04025
+- County from: 2020
+- Tract 2020: 04025000301
+- Tract 2010: 04025000300
+- Tract 2000: 04025000300
+- Tract 1990: 04025000300
+- Place 2020: 57380
+- Place 2010: 57380
+- Place 2000: 57380
+- Place 1990: 0280
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000574, AZA1995060. AKA PINES @ PRESCOTT.
+- Record status: Existing, unchanged

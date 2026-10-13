@@ -1,0 +1,85 @@
+# Project: OAK MANOR (LAA19920082)
+
+- HUD ID: LAA19920082
+- HUD ID before: 
+- Project: OAK MANOR
+- Address: 2000 PEACH STREET
+- City: MONROE
+- State: LA
+- ZIP: 71202
+- ZIP extension: 0000
+- State project ID: LA-90-037
+- Latitude: 32.497881
+- Longitude: -92.091325
+- County FIPS: 22073
+- County from: 2020
+- Tract 2020: 22073000900
+- Tract 2010: 22073000900
+- Tract 2000: 22073000900
+- Tract 1990: 22073000900
+- Place 2020: 51410
+- Place 2010: 51410
+- Place 2000: 51410
+- Place 1990: 0890
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 211432
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 8
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Acquisition/Rehab
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

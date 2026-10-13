@@ -1,0 +1,85 @@
+# Project: PACE/NANTAHALA (GAA19990170)
+
+- HUD ID: GAA19990170
+- HUD ID before: 
+- Project: PACE/NANTAHALA
+- Address: 501 NANTAHALA LN
+- City: BLAIRSVILLE
+- State: GA
+- ZIP: 30512
+- ZIP extension: 4456
+- State project ID: GA-97-033
+- Latitude: 34.868799
+- Longitude: -83.967134
+- County FIPS: 13291
+- County from: 2020
+- Tract 2020: 13291000207
+- Tract 2010: 13291000205
+- Tract 2000: 13291990202
+- Tract 1990: 13281960100
+- Place 2020: 08480
+- Place 2010: 99999
+- Place 2000: 08480
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NANTAHALA VILLAGE.
+- Record status: Existing, unchanged

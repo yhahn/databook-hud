@@ -1,0 +1,85 @@
+# Project: RIVERS APTS (VAA20120180)
+
+- HUD ID: VAA20120180
+- HUD ID before: 
+- Project: RIVERS APTS
+- Address: 847 WINDWARD PL
+- City: CHESAPEAKE
+- State: VA
+- ZIP: 23320
+- ZIP extension: 
+- State project ID: 9351
+- Latitude: 36.756438
+- Longitude: -76.28409
+- County FIPS: 51550
+- County from: 2020
+- Tract 2020: 51550020910
+- Tract 2010: 51550020904
+- Tract 2000: 51550020904
+- Tract 1990: 51550020904
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0242
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 719218
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 192
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 4674448
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

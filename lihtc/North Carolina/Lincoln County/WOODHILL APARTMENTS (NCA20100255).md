@@ -1,0 +1,85 @@
+# Project: WOODHILL APARTMENTS (NCA20100255)
+
+- HUD ID: NCA20100255
+- HUD ID before: 
+- Project: WOODHILL APARTMENTS
+- Address: 1005 GEORGETOWN ROAD
+- City: LINCOLNTON
+- State: NC
+- ZIP: 28092
+- ZIP extension: 7733
+- State project ID: 9105262
+- Latitude: 35.456334
+- Longitude: -81.246498
+- County FIPS: 37109
+- County from: 2020
+- Tract 2020: 37109070100
+- Tract 2010: 37109070100
+- Tract 2000: 37109070300
+- Tract 1990: 37109070100
+- Place 2020: 38320
+- Place 2010: 38320
+- Place 2000: 38320
+- Place 1990: 1470
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 92255
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

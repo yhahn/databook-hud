@@ -1,0 +1,85 @@
+# Project: WOOD VALLEY APARTMENTS (GAA19919008)
+
+- HUD ID: GAA19919008
+- HUD ID before: 
+- Project: WOOD VALLEY APARTMENTS
+- Address: 80 EUREY EMMERSON RD.
+- City: RICHLAND
+- State: GA
+- ZIP: 31825
+- ZIP extension: 
+- State project ID: 1990-023
+- Latitude: 32.0762
+- Longitude: -84.6851
+- County FIPS: 13259
+- County from: 2020
+- Tract 2020: 13259950100
+- Tract 2010: 13259950100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 65016
+- Place 2010: 65016
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

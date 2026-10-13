@@ -1,0 +1,85 @@
+# Project: CYPRESS GROVE (FLA20070050)
+
+- HUD ID: FLA20070050
+- HUD ID before: 
+- Project: CYPRESS GROVE
+- Address: 4200 NW 19TH STREET
+- City: LAUDERHILL
+- State: FL
+- ZIP: 33313
+- ZIP extension: 
+- State project ID: 1487
+- Latitude: 26.150344
+- Longitude: -80.204905
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011060405
+- Tract 2010: 12011060403
+- Tract 2000: 12011060403
+- Tract 1990: 12011060400
+- Place 2020: 39550
+- Place 2010: 39550
+- Place 2000: 39550
+- Place 1990: 1185
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 2309605
+- Units: 814
+- Low-income units: 814
+- Units reported: 814
+- Low-income reported: 814
+- Efficiencies: 166
+- 1-bedroom units: 398
+- 2-bedroom units: 250
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA SANDALGROVE
+- Record status: Existing, unchanged

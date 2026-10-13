@@ -1,0 +1,85 @@
+# Project: CEDAR CLIFF APTS (INA19960030)
+
+- HUD ID: INA19960030
+- HUD ID before: 
+- Project: CEDAR CLIFF APTS
+- Address: 184 CEDAR CLIFF RD
+- City: RICHMOND
+- State: IN
+- ZIP: 47374
+- ZIP extension: 
+- State project ID: IN-94-12300
+- Latitude: 39.824562
+- Longitude: -84.845162
+- County FIPS: 18177
+- County from: 2020
+- Tract 2020: 18177001102
+- Tract 2010: 18177001100
+- Tract 2000: 18177001100
+- Tract 1990: 18177001100
+- Place 2020: 64260
+- Place 2010: 64260
+- Place 2000: 64260
+- Place 1990: 2140
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 194473
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA RICHMOND APTS.
+- Record status: Existing, unchanged

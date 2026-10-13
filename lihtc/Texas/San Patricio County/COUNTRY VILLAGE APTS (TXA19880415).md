@@ -1,0 +1,85 @@
+# Project: COUNTRY VILLAGE APTS (TXA19880415)
+
+- HUD ID: TXA19880415
+- HUD ID before: 
+- Project: COUNTRY VILLAGE APTS
+- Address: 1500 HACKBERRY LN
+- City: MATHIS
+- State: TX
+- ZIP: 78368
+- ZIP extension: 
+- State project ID: TX0675
+- Latitude: 28.105278
+- Longitude: -97.818943
+- County FIPS: 48409
+- County from: 2020
+- Tract 2020: 48409011300
+- Tract 2010: 48409011300
+- Tract 2000: 48409011300
+- Tract 1990: 48409011300
+- Place 2020: 47040
+- Place 2010: 47040
+- Place 2000: 47040
+- Place 1990: 2720
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 617040
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000767.
+- Record status: Existing, unchanged

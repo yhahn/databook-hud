@@ -1,0 +1,85 @@
+# Project: GROVE PARK (FLA20160006)
+
+- HUD ID: FLA20160006
+- HUD ID before: 
+- Project: GROVE PARK
+- Address: 9800 LENNARD ROAD
+- City: PORT ST. LUCIE
+- State: FL
+- ZIP: 34952
+- ZIP extension: 
+- State project ID: 2682
+- Latitude: 27.2823
+- Longitude: -80.2897
+- County FIPS: 12111
+- County from: 2020
+- Tract 2020: 12111381802
+- Tract 2010: 12111381802
+- Tract 2000: 12111001802
+- Tract 1990: 
+- Place 2020: 58715
+- Place 2010: 58715
+- Place 2000: 58715
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1138603
+- Units: 210
+- Low-income units: 168
+- Units reported: 210
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 1
+- 3-bedroom units: 131
+- 4-bedroom units: 29
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

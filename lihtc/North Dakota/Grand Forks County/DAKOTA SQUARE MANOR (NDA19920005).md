@@ -1,0 +1,85 @@
+# Project: DAKOTA SQUARE MANOR (NDA19920005)
+
+- HUD ID: NDA19920005
+- HUD ID before: 
+- Project: DAKOTA SQUARE MANOR
+- Address: 3397 PRIMROSE CT
+- City: GRAND FORKS
+- State: ND
+- ZIP: 58201
+- ZIP extension: 
+- State project ID: ND-91-09
+- Latitude: 47.89953
+- Longitude: -97.076618
+- County FIPS: 38035
+- County from: 2020
+- Tract 2020: 38035010804
+- Tract 2010: 38035010804
+- Tract 2000: 38035010802
+- Tract 1990: 38035010802
+- Place 2020: 32060
+- Place 2010: 32060
+- Place 2000: 32060
+- Place 1990: 0693
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 144435
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PRIMROSE COURT.
+- Record status: Existing, unchanged

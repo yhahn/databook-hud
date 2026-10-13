@@ -1,0 +1,85 @@
+# Project: RIVER COMMONS (DEA20049012)
+
+- HUD ID: DEA20049012
+- HUD ID before: 
+- Project: RIVER COMMONS
+- Address: 200 NORTH POPLAR STREET
+- City: WILMINGTON
+- State: DE
+- ZIP: 19801
+- ZIP extension: 
+- State project ID: DE243FY0208
+- Latitude: 39.737072
+- Longitude: -75.548234
+- County FIPS: 10003
+- County from: 2020
+- Tract 2020: 10003002900
+- Tract 2010: 10003002900
+- Tract 2000: 10003002000
+- Tract 1990: 10003002000
+- Place 2020: 77580
+- Place 2010: 77580
+- Place 2000: 77580
+- Place 1990: 0255
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 116
+- Low-income units: 92
+- Units reported: 116
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 100
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DEA2004030.;
+- Record status: Updated

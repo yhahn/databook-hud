@@ -1,0 +1,85 @@
+# Project: MILLER SQUARE ON HARLOW (MEA20110013)
+
+- HUD ID: MEA20110013
+- HUD ID before: 
+- Project: MILLER SQUARE ON HARLOW
+- Address: 323 HARLOW ST
+- City: BANGOR
+- State: ME
+- ZIP: 04401
+- ZIP extension: 
+- State project ID: RLP-1472
+- Latitude: 44.806046
+- Longitude: -68.775602
+- County FIPS: 23019
+- County from: 2020
+- Tract 2020: 23019000400
+- Tract 2010: 23019000400
+- Tract 2000: 23019000400
+- Tract 1990: 23019000400
+- Place 2020: 02795
+- Place 2010: 02795
+- Place 2000: 02795
+- Place 1990: 0270
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 4807078
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 119829
+- CDBG: Yes
+- CDBG amount: 18228
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4807078
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

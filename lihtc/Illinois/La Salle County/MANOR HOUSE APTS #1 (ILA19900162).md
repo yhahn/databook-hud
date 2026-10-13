@@ -1,0 +1,85 @@
+# Project: MANOR HOUSE APTS #1 (ILA19900162)
+
+- HUD ID: ILA19900162
+- HUD ID before: 
+- Project: MANOR HOUSE APTS #1
+- Address: 2100 SOMERSET DR
+- City: OTTAWA
+- State: IL
+- ZIP: 61350
+- ZIP extension: 
+- State project ID: 313-90
+- Latitude: 41.362079
+- Longitude: -88.836453
+- County FIPS: 17099
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17099962600
+- Tract 2000: 17099962600
+- Tract 1990: 17099962600
+- Place 2020: 
+- Place 2010: 56926
+- Place 2000: 56926
+- Place 1990: 4450
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 8678
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000575.
+- Record status: Existing, unchanged

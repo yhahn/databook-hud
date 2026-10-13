@@ -1,0 +1,85 @@
+# Project: GATEWAY TOWN CENTER (GAA20107011)
+
+- HUD ID: GAA20107011
+- HUD ID before: 
+- Project: GATEWAY TOWN CENTER
+- Address: 500 COASTAL VILLAGE DR
+- City: BRUNSWICK
+- State: GA
+- ZIP: 31520
+- ZIP extension: 1963
+- State project ID: 2007-31
+- Latitude: 31.220502
+- Longitude: -81.496409
+- County FIPS: 13127
+- County from: 2020
+- Tract 2020: 13127000601
+- Tract 2010: 13127000600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23200
+- Place 2010: 23200
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

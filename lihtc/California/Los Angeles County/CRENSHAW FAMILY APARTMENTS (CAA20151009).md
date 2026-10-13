@@ -1,0 +1,85 @@
+# Project: CRENSHAW FAMILY APARTMENTS (CAA20151009)
+
+- HUD ID: CAA20151009
+- HUD ID before: 
+- Project: CRENSHAW FAMILY APARTMENTS
+- Address: 5110 CRENSHAW BLVD.
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90043
+- ZIP extension: 
+- State project ID: CA-13-135
+- Latitude: 33.996284
+- Longitude: -118.330379
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037234501
+- Tract 2010: 06037234501
+- Tract 2000: 06037234500
+- Tract 1990: 
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 775066
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 8
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

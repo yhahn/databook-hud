@@ -1,0 +1,85 @@
+# Project: WARREN STREET III (NJA20060040)
+
+- HUD ID: NJA20060040
+- HUD ID before: 
+- Project: WARREN STREET III
+- Address: 221,225,250 NORTH WARREN STREET
+- City: TRENTON CITY
+- State: NJ
+- ZIP: 08618
+- ZIP extension: 
+- State project ID: NJ-03-71
+- Latitude: 40.223999
+- Longitude: -74.765077
+- County FIPS: 34021
+- County from: 2020
+- Tract 2020: 34021000900
+- Tract 2010: 34021000900
+- Tract 2000: 34021000900
+- Tract 1990: 34021000900
+- Place 2020: 74000
+- Place 2010: 74000
+- Place 2000: 74000
+- Place 1990: 3770
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 150383
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 2
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2005135.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CROWN POINTE VILLAS (INA19930047)
+
+- HUD ID: INA19930047
+- HUD ID before: 
+- Project: CROWN POINTE VILLAS
+- Address: 200 HOLIDAY LN
+- City: CROMWELL
+- State: IN
+- ZIP: 46732
+- ZIP extension: 
+- State project ID: IN-91-11700
+- Latitude: 41.398241
+- Longitude: -85.615727
+- County FIPS: 18113
+- County from: 2020
+- Tract 2020: 18113972300
+- Tract 2010: 18113972300
+- Tract 2000: 18113972300
+- Tract 1990: 18113972300
+- Place 2020: 15994
+- Place 2010: 15994
+- Place 2000: 15994
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA1992075, INA0000945.
+- Record status: Existing, unchanged

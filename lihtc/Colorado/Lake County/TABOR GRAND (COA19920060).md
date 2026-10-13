@@ -1,0 +1,85 @@
+# Project: TABOR GRAND (COA19920060)
+
+- HUD ID: COA19920060
+- HUD ID before: 
+- Project: TABOR GRAND
+- Address: 711 HARRISON AVE
+- City: LEADVILLE
+- State: CO
+- ZIP: 80461
+- ZIP extension: 
+- State project ID: CO92-018
+- Latitude: 39.249823
+- Longitude: -106.292556
+- County FIPS: 08065
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 08065961700
+- Tract 2000: 08065961700
+- Tract 1990: 08065961700
+- Place 2020: 
+- Place 2010: 44320
+- Place 2000: 44320
+- Place 1990: 0790
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 1
+- 1-bedroom units: 20
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

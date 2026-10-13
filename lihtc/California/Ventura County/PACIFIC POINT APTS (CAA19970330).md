@@ -1,0 +1,85 @@
+# Project: PACIFIC POINT APTS (CAA19970330)
+
+- HUD ID: CAA19970330
+- HUD ID before: 
+- Project: PACIFIC POINT APTS
+- Address: 1001 W GONZALES RD
+- City: OXNARD
+- State: CA
+- ZIP: 93036
+- ZIP extension: 
+- State project ID: CA-97-915
+- Latitude: 34.219379
+- Longitude: -119.189141
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111003011
+- Tract 2010: 06111003011
+- Tract 2000: 06111003002
+- Tract 1990: 06111003002
+- Place 2020: 54652
+- Place 2010: 54652
+- Place 2000: 54652
+- Place 1990: 2050
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 366109
+- Units: 213
+- Low-income units: 213
+- Units reported: 213
+- Low-income reported: 213
+- Efficiencies: 0
+- 1-bedroom units: 170
+- 2-bedroom units: 46
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

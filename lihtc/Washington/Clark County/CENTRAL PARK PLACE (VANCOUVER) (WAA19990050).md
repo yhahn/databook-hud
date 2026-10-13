@@ -1,0 +1,85 @@
+# Project: CENTRAL PARK PLACE (VANCOUVER) (WAA19990050)
+
+- HUD ID: WAA19990050
+- HUD ID before: 
+- Project: CENTRAL PARK PLACE (VANCOUVER)
+- Address: 1900 FT VANCOUVER WAY
+- City: VANCOUVER
+- State: WA
+- ZIP: 98663
+- ZIP extension: 
+- State project ID: WA-97-00395
+- Latitude: 45.635514
+- Longitude: -122.654872
+- County FIPS: 53011
+- County from: 2020
+- Tract 2020: 53011042602
+- Tract 2010: 53011042600
+- Tract 2000: 53011042600
+- Tract 1990: 53011042600
+- Place 2020: 74060
+- Place 2010: 74060
+- Place 2000: 74060
+- Place 1990: 1350
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 186461
+- Units: 124
+- Low-income units: 36
+- Units reported: 124
+- Low-income reported: 36
+- Efficiencies: 36
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 88
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 123
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MARION ROAD APARTMENTS II (MSA20150031)
+
+- HUD ID: MSA20150031
+- HUD ID before: MSA00000024
+- Project: MARION ROAD APARTMENTS II
+- Address: 2428 OLD MARION ROAD
+- City: MERIDIAN
+- State: MS
+- ZIP: 39301
+- ZIP extension: 0000
+- State project ID: 13-1-049
+- Latitude: 32.383906
+- Longitude: -88.67942
+- County FIPS: 28075
+- County from: 2020
+- Tract 2020: 28075000402
+- Tract 2010: 28075000400
+- Tract 2000: 28075000400
+- Tract 1990: 28075000400
+- Place 2020: 46640
+- Place 2010: 46640
+- Place 2000: 46640
+- Place 1990: 0805
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 750000
+- Units: 106
+- Low-income units: 105
+- Units reported: 106
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS MSA00000024
+- Record status: Existing, unchanged

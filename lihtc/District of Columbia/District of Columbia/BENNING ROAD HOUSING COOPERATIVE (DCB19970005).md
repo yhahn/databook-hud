@@ -1,0 +1,85 @@
+# Project: BENNING ROAD HOUSING COOPERATIVE (DCB19970005)
+
+- HUD ID: DCB19970005
+- HUD ID before: 
+- Project: BENNING ROAD HOUSING COOPERATIVE
+- Address: 4625 BENNING RD SE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20019
+- ZIP extension: 
+- State project ID: DCB1997005
+- Latitude: 38.885431
+- Longitude: -76.935898
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001009907
+- Tract 2010: 11001009907
+- Tract 2000: 11001009907
+- Tract 1990: 11001009907
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 86
+- Low-income units: 86
+- Units reported: 86
+- Low-income reported: 86
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 0
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LONGFELLOW TOWER (MIA20100055)
+
+- HUD ID: MIA20100055
+- HUD ID before: 
+- Project: LONGFELLOW TOWER
+- Address: 301 E CT ST
+- City: LUDINGTON
+- State: MI
+- ZIP: 49431
+- ZIP extension: 
+- State project ID: MI-507
+- Latitude: 43.956895
+- Longitude: -86.445023
+- County FIPS: 26105
+- County from: 2020
+- Tract 2020: 26105950400
+- Tract 2010: 26105950400
+- Tract 2000: 26105950400
+- Tract 1990: 26105950400
+- Place 2020: 49640
+- Place 2010: 49640
+- Place 2000: 49640
+- Place 1990: 1575
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 218564
+- Units: 149
+- Low-income units: 120
+- Units reported: 149
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 135
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 4088008
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1847696
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

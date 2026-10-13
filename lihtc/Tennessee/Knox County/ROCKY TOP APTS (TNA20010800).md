@@ -1,0 +1,85 @@
+# Project: ROCKY TOP APTS (TNA20010800)
+
+- HUD ID: TNA20010800
+- HUD ID before: 
+- Project: ROCKY TOP APTS
+- Address: 1807 ROCKY VIEW WAY
+- City: KNOXVILLE
+- State: TN
+- ZIP: 37918
+- ZIP extension: 
+- State project ID: TN-99-044
+- Latitude: 36.011324
+- Longitude: -83.934859
+- County FIPS: 47093
+- County from: 2020
+- Tract 2020: 47093002900
+- Tract 2010: 47093002900
+- Tract 2000: 47093002900
+- Tract 1990: 47093002900
+- Place 2020: 40000
+- Place 2010: 40000
+- Place 2000: 40000
+- Place 1990: 0760
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 500000
+- Units: 97
+- Low-income units: 97
+- Units reported: 96
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 48
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2002110, TNA2001120, TNA2001080.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: STONEY RIDGE HOMES (OHA20030240)
+
+- HUD ID: OHA20030240
+- HUD ID before: 
+- Project: STONEY RIDGE HOMES
+- Address: 112 STONEY RIDGE LN
+- City: CADIZ
+- State: OH
+- ZIP: 43907
+- ZIP extension: 
+- State project ID: 010075
+- Latitude: 40.268324
+- Longitude: -81.010748
+- County FIPS: 39067
+- County from: 2020
+- Tract 2020: 39067976000
+- Tract 2010: 39067976000
+- Tract 2000: 39067976000
+- Tract 1990: 39067976000
+- Place 2020: 10800
+- Place 2010: 10800
+- Place 2000: 10800
+- Place 1990: 0645
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 244313
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 16
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 561000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

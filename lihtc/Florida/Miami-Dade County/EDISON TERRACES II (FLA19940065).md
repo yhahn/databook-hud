@@ -1,0 +1,85 @@
+# Project: EDISON TERRACES II (FLA19940065)
+
+- HUD ID: FLA19940065
+- HUD ID before: 
+- Project: EDISON TERRACES II
+- Address: 655 NW 56 STREET
+- City: MIAMI
+- State: FL
+- ZIP: 33127
+- ZIP extension: 
+- State project ID: 253
+- Latitude: 25.82698
+- Longitude: -80.207362
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086001904
+- Tract 2010: 12086001904
+- Tract 2000: 12086001904
+- Tract 1990: 12025001904
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 45000
+- Place 1990: 1370
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 329973
+- Units: 60
+- Low-income units: 50
+- Units reported: 60
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 50
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1994810.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: UPPER SANDUSKY SENIOR APTS (OHA20110150)
+
+- HUD ID: OHA20110150
+- HUD ID before: 
+- Project: UPPER SANDUSKY SENIOR APTS
+- Address: 102 WESTBROOK BLVD
+- City: UPPER SANDUSKY
+- State: OH
+- ZIP: 43351
+- ZIP extension: 
+- State project ID: OH-09-0122
+- Latitude: 40.836823
+- Longitude: -83.227243
+- County FIPS: 39175
+- County from: 2020
+- Tract 2020: 39175938500
+- Tract 2010: 39175938500
+- Tract 2000: 39175988500
+- Tract 1990: 39175988500
+- Place 2020: 79044
+- Place 2010: 79044
+- Place 2000: 33656
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3778814
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2011835.
+- Record status: Existing, unchanged

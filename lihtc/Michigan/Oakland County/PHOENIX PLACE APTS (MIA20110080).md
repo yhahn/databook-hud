@@ -1,0 +1,85 @@
+# Project: PHOENIX PLACE APTS (MIA20110080)
+
+- HUD ID: MIA20110080
+- HUD ID before: 
+- Project: PHOENIX PLACE APTS
+- Address: 47251 WOODWARD AVE
+- City: PONTIAC
+- State: MI
+- ZIP: 48342
+- ZIP extension: 
+- State project ID: MI-672
+- Latitude: 42.635418
+- Longitude: -83.288622
+- County FIPS: 26125
+- County from: 2020
+- Tract 2020: 26125142200
+- Tract 2010: 26125142200
+- Tract 2000: 26125142200
+- Tract 1990: 26125142200
+- Place 2020: 65440
+- Place 2010: 65440
+- Place 2000: 65440
+- Place 1990: 2200
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 538137
+- Units: 201
+- Low-income units: 200
+- Units reported: 201
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 201
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 190
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 8500000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA2011524.
+- Record status: Existing, unchanged

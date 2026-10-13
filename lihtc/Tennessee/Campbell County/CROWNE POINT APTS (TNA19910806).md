@@ -1,0 +1,85 @@
+# Project: CROWNE POINT APTS (TNA19910806)
+
+- HUD ID: TNA19910806
+- HUD ID before: 
+- Project: CROWNE POINT APTS
+- Address: 188 RIDENOUR LN
+- City: JACKSBORO
+- State: TN
+- ZIP: 37757
+- ZIP extension: 
+- State project ID: TN-91-017
+- Latitude: 36.349424
+- Longitude: -84.163542
+- County FIPS: 47013
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47013950600
+- Tract 2000: 47013950600
+- Tract 1990: 47013950600
+- Place 2020: 
+- Place 2010: 40180
+- Place 2000: 40180
+- Place 1990: 0770
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 47774
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1991085. AKA CROWN POINT APT.
+- Record status: Existing, unchanged

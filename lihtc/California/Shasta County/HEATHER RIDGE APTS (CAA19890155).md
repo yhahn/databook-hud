@@ -1,0 +1,85 @@
+# Project: HEATHER RIDGE APTS (CAA19890155)
+
+- HUD ID: CAA19890155
+- HUD ID before: 
+- Project: HEATHER RIDGE APTS
+- Address: 830 ST MARKS ST
+- City: REDDING
+- State: CA
+- ZIP: 96003
+- ZIP extension: 
+- State project ID: CA-88-076
+- Latitude: 40.617592
+- Longitude: -122.39239
+- County FIPS: 06089
+- County from: 2020
+- Tract 2020: 06089010704
+- Tract 2010: 06089010704
+- Tract 2000: 06089010701
+- Tract 1990: 06089010700
+- Place 2020: 59920
+- Place 2010: 59920
+- Place 2000: 59920
+- Place 1990: 2290
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 230663
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 56
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0000795.
+- Record status: Existing, unchanged

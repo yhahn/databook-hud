@@ -1,0 +1,85 @@
+# Project: 625 WEST 57TH STREET (NYB20162006)
+
+- HUD ID: NYB20162006
+- HUD ID before: 
+- Project: 625 WEST 57TH STREET
+- Address: 625 WEST 57 ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10019
+- ZIP extension: 
+- State project ID: NY-14-2151
+- Latitude: 40.771069
+- Longitude: -73.992752
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061013502
+- Tract 2010: 36061013500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 3206013
+- Units: 709
+- Low-income units: 142
+- Units reported: 709
+- Low-income reported: 142
+- Efficiencies: 142
+- 1-bedroom units: 467
+- 2-bedroom units: 74
+- 3-bedroom units: 23
+- 4-bedroom units: 3
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MEADOWS APTS (WYA20100015)
+
+- HUD ID: WYA20100015
+- HUD ID before: 
+- Project: MEADOWS APTS
+- Address: 2955 CENTRAL DR
+- City: CASPER
+- State: WY
+- ZIP: 82604
+- ZIP extension: 
+- State project ID: 09-003
+- Latitude: 42.818372
+- Longitude: -106.359407
+- County FIPS: 56025
+- County from: 2020
+- Tract 2020: 56025000901
+- Tract 2010: 56025000901
+- Tract 2000: 56025000901
+- Tract 1990: 56025000900
+- Place 2020: 13150
+- Place 2010: 13150
+- Place 2000: 13150
+- Place 1990: 0045
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 320675
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3073702
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

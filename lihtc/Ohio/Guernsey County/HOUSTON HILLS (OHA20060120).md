@@ -1,0 +1,85 @@
+# Project: HOUSTON HILLS (OHA20060120)
+
+- HUD ID: OHA20060120
+- HUD ID before: 
+- Project: HOUSTON HILLS
+- Address: 400 HUSTON HILLS DR
+- City: CAMBRIDGE
+- State: OH
+- ZIP: 43725
+- ZIP extension: 
+- State project ID: 04-0074
+- Latitude: 40.015391
+- Longitude: -81.596828
+- County FIPS: 39059
+- County from: 2020
+- Tract 2020: 39059977300
+- Tract 2010: 39059977300
+- Tract 2000: 39059977300
+- Tract 1990: 39059977300
+- Place 2020: 10996
+- Place 2010: 10996
+- Place 2000: 10996
+- Place 1990: 0670
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 540827
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 16
+- 4-bedroom units: 28
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

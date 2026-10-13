@@ -1,0 +1,85 @@
+# Project: STUHR GARDENS (NYA20070375)
+
+- HUD ID: NYA20070375
+- HUD ID before: 
+- Project: STUHR GARDENS
+- Address: 121 VAIL AVE
+- City: PEEKSKILL
+- State: NY
+- ZIP: 10566
+- ZIP extension: 
+- State project ID: 20060437
+- Latitude: 41.302442
+- Longitude: -73.902718
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119014400
+- Tract 2010: 36119014400
+- Tract 2000: 36119014400
+- Tract 1990: 36119014400
+- Place 2020: 56979
+- Place 2010: 56979
+- Place 2000: 56979
+- Place 1990: 2800
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 335338
+- Units: 104
+- Low-income units: 83
+- Units reported: 104
+- Low-income reported: 83
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 65
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

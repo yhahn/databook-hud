@@ -1,0 +1,27 @@
+# Tax Credit Projects: County not given, LA
+
+- Level: County
+- Postal code: LA
+- State FIPS: 22
+- County FIPS: 
+- Counties: 
+- Projects: 10
+- Units: 440
+- Low-income units: 440
+
+The low-income housing tax credit projects HUD addresses in Louisiana whose tracts name no county here: none at all, or one in another state (its `County FIPS` all the same). A page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [OLIVE GROVE SENIOR APARTMENTS (LAA0000X286)](./County%20not%20given/OLIVE%20GROVE%20SENIOR%20APARTMENTS%20%28LAA0000X286%29.md) | LAA0000X286 | NOT COLLECTED |  | 32 | 32 |
+| [VARNADO VILLA (LAA19909376)](./County%20not%20given/VARNADO%20VILLA%20%28LAA19909376%29.md) | LAA19909376 | VARNADO | 1990 | 12 | 12 |
+| [WILSON MANOR (LAA19939171)](./County%20not%20given/WILSON%20MANOR%20%28LAA19939171%29.md) | LAA19939171 | WILSON | 1993 | 12 | 12 |
+| [ROBIN HOMES (LAA20050045)](./County%20not%20given/ROBIN%20HOMES%20%28LAA20050045%29.md) | LAA20050045 | MARRERO | 2005 | 37 | 37 |
+| [MONET ACRES ESTATES I (LAA20060009)](./County%20not%20given/MONET%20ACRES%20ESTATES%20I%20%28LAA20060009%29.md) | LAA20060009 |  | 2006 | 60 | 60 |
+| [TERRACE OF HAMMOND II (LAA20158970)](./County%20not%20given/TERRACE%20OF%20HAMMOND%20II%20%28LAA20158970%29.md) | LAA20158970 |  | 2015 | 58 | 58 |
+| [CHOCTAW LODGE (LAA20167970)](./County%20not%20given/CHOCTAW%20LODGE%20%28LAA20167970%29.md) | LAA20167970 | BATON ROUGE | 2016 | 92 | 92 |
+| [WESTLAKE (LAA20203798)](./County%20not%20given/WESTLAKE%20%28LAA20203798%29.md) | LAA20203798 | FERRIDAY | 2020 | 40 | 40 |
+| [LAFAYETTE BOTTLE ART LOFTS PHASE II (LAA20220001)](./County%20not%20given/LAFAYETTE%20BOTTLE%20ART%20LOFTS%20PHASE%20II%20%28LAA20220001%29.md) | LAA20220001 | LAFAYETTE | 2022 | 65 | 65 |
+| [BLOOMFIELD APARTMENTS (LAA20230004)](./County%20not%20given/BLOOMFIELD%20APARTMENTS%20%28LAA20230004%29.md) | LAA20230004 | SUNSET | 2023 | 32 | 32 |

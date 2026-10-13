@@ -1,0 +1,85 @@
+# Project: HILLTOP COMMONS APTS (CAA20010240)
+
+- HUD ID: CAA20010240
+- HUD ID before: 
+- Project: HILLTOP COMMONS APTS
+- Address: 15690 CRESTWOOD DR
+- City: SAN PABLO
+- State: CA
+- ZIP: 94806
+- ZIP extension: 
+- State project ID: CA-01-831
+- Latitude: 37.992213
+- Longitude: -122.328809
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013364002
+- Tract 2010: 06013364002
+- Tract 2000: 06013364002
+- Tract 1990: 06013364002
+- Place 2020: 77924
+- Place 2010: 77924
+- Place 2000: 57288
+- Place 1990: 2871
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 732668
+- Units: 324
+- Low-income units: 169
+- Units reported: 324
+- Low-income reported: 169
+- Efficiencies: 0
+- 1-bedroom units: 112
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

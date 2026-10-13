@@ -1,0 +1,85 @@
+# Project: CLARION PARK (KSA19940800)
+
+- HUD ID: KSA19940800
+- HUD ID before: 
+- Project: CLARION PARK
+- Address: 16700 W 127TH ST
+- City: OLATHE
+- State: KS
+- ZIP: 66062
+- ZIP extension: 
+- State project ID: 60012
+- Latitude: 38.898501
+- Longitude: -94.779659
+- County FIPS: 20091
+- County from: 2020
+- Tract 2020: 20091052907
+- Tract 2010: 20091052907
+- Tract 2000: 20091052907
+- Tract 1990: 20091052903
+- Place 2020: 52575
+- Place 2010: 52575
+- Place 2000: 52575
+- Place 1990: 2120
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 925212
+- Units: 220
+- Low-income units: 220
+- Units reported: 220
+- Low-income reported: 220
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 132
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1995015, KSA1994095. AKA SUMMER MEADOWS.
+- Record status: Existing, unchanged

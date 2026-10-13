@@ -1,0 +1,85 @@
+# Project: VALLEY GLEN (CAA20130106)
+
+- HUD ID: CAA20130106
+- HUD ID before: 
+- Project: VALLEY GLEN
+- Address: 1830 GOLD ST
+- City: DIXON
+- State: CA
+- ZIP: 95620
+- ZIP extension: 
+- State project ID: CA-12-052
+- Latitude: 38.439751
+- Longitude: -121.82585
+- County FIPS: 06095
+- County from: 2020
+- Tract 2020: 06095253402
+- Tract 2010: 06095253402
+- Tract 2000: 06095253402
+- Tract 1990: 06095253398
+- Place 2020: 19402
+- Place 2010: 19402
+- Place 2000: 19402
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 853884
+- Units: 59
+- Low-income units: 58
+- Units reported: 59
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 27
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 58
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 3000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DIXON PACIFIC ASSOC.
+- Record status: Existing, unchanged

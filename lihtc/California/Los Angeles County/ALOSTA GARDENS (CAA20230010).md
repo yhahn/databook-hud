@@ -1,0 +1,85 @@
+# Project: ALOSTA GARDENS (CAA20230010)
+
+- HUD ID: CAA20230010
+- HUD ID before: 
+- Project: ALOSTA GARDENS
+- Address: 745 E 5TH ST.
+- City: AZUSA
+- State: CA
+- ZIP: 91702
+- ZIP extension: 
+- State project ID: CA-2022-598
+- Latitude: 34.130012
+- Longitude: -117.89508
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037404201
+- Tract 2010: 06037404201
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 03386
+- Place 2010: 03386
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 2239575
+- Units: 61
+- Low-income units: 60
+- Units reported: 61
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 1
+- 2-bedroom units: 38
+- 3-bedroom units: 22
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 53
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: ADA and Accessible Units pursuant to CBC Chapter 11B
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

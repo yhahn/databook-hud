@@ -1,0 +1,85 @@
+# Project: THE FAXON (FORMERLY THE ELMS) (CTA20201006)
+
+- HUD ID: CTA20201006
+- HUD ID before: 
+- Project: THE FAXON (FORMERLY THE ELMS)
+- Address: 1078 NEW BRITAIN AVE
+- City: WEST HARTFORD
+- State: CT
+- ZIP: 06610
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.731403
+- Longitude: -72.728148
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003496100
+- Tract 2010: 09003496100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 82660
+- Place 2010: 82660
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 959207
+- Units: 67
+- Low-income units: 53
+- Units reported: 67
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

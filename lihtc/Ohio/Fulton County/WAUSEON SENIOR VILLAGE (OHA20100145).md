@@ -1,0 +1,85 @@
+# Project: WAUSEON SENIOR VILLAGE (OHA20100145)
+
+- HUD ID: OHA20100145
+- HUD ID before: 
+- Project: WAUSEON SENIOR VILLAGE
+- Address: 753 WAUSEON SENIOR VILLAGE DR
+- City: WAUSEON
+- State: OH
+- ZIP: 43567
+- ZIP extension: 
+- State project ID: 080081
+- Latitude: 41.568789
+- Longitude: -84.125511
+- County FIPS: 39051
+- County from: 2020
+- Tract 2020: 39051040702
+- Tract 2010: 39051040700
+- Tract 2000: 39051040700
+- Tract 1990: 39051040700
+- Place 2020: 81928
+- Place 2010: 81928
+- Place 2000: 81928
+- Place 1990: 4515
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

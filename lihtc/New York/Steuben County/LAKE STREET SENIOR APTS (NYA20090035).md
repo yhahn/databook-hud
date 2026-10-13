@@ -1,0 +1,85 @@
+# Project: LAKE STREET SENIOR APTS (NYA20090035)
+
+- HUD ID: NYA20090035
+- HUD ID before: 
+- Project: LAKE STREET SENIOR APTS
+- Address: 41 LAKE ST
+- City: HAMMONDSPORT
+- State: NY
+- ZIP: 14840
+- ZIP extension: 
+- State project ID: 20070027
+- Latitude: 42.407818
+- Longitude: -77.223704
+- County FIPS: 36101
+- County from: 2020
+- Tract 2020: 36101961400
+- Tract 2010: 36101961400
+- Tract 2000: 36101961400
+- Tract 1990: 36101961400
+- Place 2020: 31852
+- Place 2010: 31852
+- Place 2000: 31852
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 271587
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 975000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

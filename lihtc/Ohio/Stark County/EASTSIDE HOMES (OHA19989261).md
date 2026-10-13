@@ -1,0 +1,85 @@
+# Project: EASTSIDE HOMES (OHA19989261)
+
+- HUD ID: OHA19989261
+- HUD ID before: 
+- Project: EASTSIDE HOMES
+- Address: 818 SIXTH ST NE
+- City: CANTON
+- State: OH
+- ZIP: 44704
+- ZIP extension: 
+- State project ID: 960108
+- Latitude: 40.800581
+- Longitude: -81.366967
+- County FIPS: 39151
+- County from: 2020
+- Tract 2020: 39151701800
+- Tract 2010: 39151701800
+- Tract 2000: 39151701800
+- Tract 1990: 39151701800
+- Place 2020: 12000
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 0705
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 23
+- 4-bedroom units: 17
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2008784.
+- Record status: Existing, unchanged

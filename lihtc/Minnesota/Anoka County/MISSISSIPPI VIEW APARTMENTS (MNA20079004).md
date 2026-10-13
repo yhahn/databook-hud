@@ -1,0 +1,85 @@
+# Project: MISSISSIPPI VIEW APARTMENTS (MNA20079004)
+
+- HUD ID: MNA20079004
+- HUD ID before: 
+- Project: MISSISSIPPI VIEW APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: COON RAPIDS
+- State: MN
+- ZIP: 55433
+- ZIP extension: 
+- State project ID: D3262
+- Latitude: 45.170544
+- Longitude: -93.348636
+- County FIPS: 27003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27003050605
+- Tract 2000: 27003050605
+- Tract 1990: 27003050605
+- Place 2020: 
+- Place 2010: 13114
+- Place 2000: 13114
+- Place 1990: 0820
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 341667
+- Units: 96
+- Low-income units: 95
+- Units reported: 96
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 58
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 110000
+- CDBG: Yes
+- CDBG amount: 110000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SINGLES
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

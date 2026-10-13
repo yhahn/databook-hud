@@ -1,0 +1,85 @@
+# Project: FRED PARRIS TOWERS (ARA20194002)
+
+- HUD ID: ARA20194002
+- HUD ID before: 
+- Project: FRED PARRIS TOWERS
+- Address: 1800 BROADWAY ST
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72206
+- ZIP extension: 
+- State project ID: 1154
+- Latitude: 34.732086
+- Longitude: -92.278594
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119004700
+- Tract 2010: 05119004700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 41000
+- Place 2010: 41000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 250
+- Low-income units: 250
+- Units reported: 250
+- Low-income reported: 250
+- Efficiencies: 140
+- 1-bedroom units: 100
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: MURPHY OLIKER APTS (PAA19990160)
+
+- HUD ID: PAA19990160
+- HUD ID before: 
+- Project: MURPHY OLIKER APTS
+- Address: 468 FRANKLIN AVE
+- City: ALIQUIPPA
+- State: PA
+- ZIP: 15001
+- ZIP extension: 
+- State project ID: TC19960119
+- Latitude: 40.615925
+- Longitude: -80.248212
+- County FIPS: 42007
+- County from: 2020
+- Tract 2020: 42007605700
+- Tract 2010: 42007605700
+- Tract 2000: 42007604300
+- Tract 1990: 42007604300
+- Place 2020: 00820
+- Place 2010: 00820
+- Place 2000: 00820
+- Place 1990: 0115
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 77946
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1998185.
+- Record status: Existing, unchanged

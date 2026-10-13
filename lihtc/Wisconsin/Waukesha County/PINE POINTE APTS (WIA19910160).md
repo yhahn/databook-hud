@@ -1,0 +1,85 @@
+# Project: PINE POINTE APTS (WIA19910160)
+
+- HUD ID: WIA19910160
+- HUD ID before: 
+- Project: PINE POINTE APTS
+- Address: 227 HINMAN AVE
+- City: WAUKESHA
+- State: WI
+- ZIP: 53186
+- ZIP extension: 
+- State project ID: 1363
+- Latitude: 43.000954
+- Longitude: -88.23294
+- County FIPS: 55133
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55133202302
+- Tract 2000: 55133202302
+- Tract 1990: 55133202302
+- Place 2020: 
+- Place 2010: 84250
+- Place 2000: 84250
+- Place 1990: 2665
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 28
+- Units reported: 80
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

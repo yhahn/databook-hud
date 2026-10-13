@@ -1,0 +1,85 @@
+# Project: CIELO LINDO APARTMENTS (TXA20020045)
+
+- HUD ID: TXA20020045
+- HUD ID before: 
+- Project: CIELO LINDO APARTMENTS
+- Address: 402 HINOJOSA DR
+- City: EDCOUCH
+- State: TX
+- ZIP: 78538
+- ZIP extension: 
+- State project ID: TX0185
+- Latitude: 26.296639
+- Longitude: -97.949934
+- County FIPS: 48215
+- County from: 2020
+- Tract 2020: 48215024502
+- Tract 2010: 48215024500
+- Tract 2000: 48215024500
+- Tract 1990: 48215024500
+- Place 2020: 22528
+- Place 2010: 22528
+- Place 2000: 22528
+- Place 1990: 1275
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

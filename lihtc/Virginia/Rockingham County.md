@@ -1,0 +1,27 @@
+# Tax Credit Projects: Rockingham County, VA
+
+- Level: County
+- Postal code: VA
+- State FIPS: 51
+- County FIPS: 51165
+- Counties: 
+- Projects: 10
+- Units: 437
+- Low-income units: 437
+
+The low-income housing tax credit projects of Rockingham County, Virginia, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [CHESTNUT RIDGE I (VAA19980050)](./Rockingham%20County/CHESTNUT%20RIDGE%20I%20%28VAA19980050%29.md) | VAA19980050 | HARRISONBURG | 1998 | 100 | 100 |
+| [CHESTNUT RIDGE II (VAA19990045)](./Rockingham%20County/CHESTNUT%20RIDGE%20II%20%28VAA19990045%29.md) | VAA19990045 | HARRISONBURG | 1999 | 48 | 48 |
+| [CAMBRIDGE COURT (VAA19990330)](./Rockingham%20County/CAMBRIDGE%20COURT%20%28VAA19990330%29.md) | VAA19990330 | GROTTOES | 1999 | 39 | 39 |
+| [SPRINGBROOK PLACE (VAA20000195)](./Rockingham%20County/SPRINGBROOK%20PLACE%20%28VAA20000195%29.md) | VAA20000195 | BROADWAY | 2000 | 38 | 38 |
+| [HIGHLANDS I (VAA20000225)](./Rockingham%20County/HIGHLANDS%20I%20%28VAA20000225%29.md) | VAA20000225 | BROADWAY | 2000 | 38 | 38 |
+| [GROTTOES II (VAA20010115)](./Rockingham%20County/GROTTOES%20II%20%28VAA20010115%29.md) | VAA20010115 | GROTTOES | 2001 | 34 | 34 |
+| [HIGHLANDS II (VAA20010225)](./Rockingham%20County/HIGHLANDS%20II%20%28VAA20010225%29.md) | VAA20010225 | BROADWAY | 2001 | 24 | 24 |
+| [GROTTOES III (VAA20020085)](./Rockingham%20County/GROTTOES%20III%20%28VAA20020085%29.md) | VAA20020085 | GROTTOES | 2002 | 26 | 26 |
+| [ELKMONT MANOR (VAA20140008)](./Rockingham%20County/ELKMONT%20MANOR%20%28VAA20140008%29.md) | VAA20140008 | ELKTON | 2014 | 44 | 44 |
+| [GROTTOES MANOR (VAA20140010)](./Rockingham%20County/GROTTOES%20MANOR%20%28VAA20140010%29.md) | VAA20140010 | GROTTOES | 2014 | 46 | 46 |

@@ -1,0 +1,85 @@
+# Project: SUNNYSIDE POINTE VILLAS II (AZA20170014)
+
+- HUD ID: AZA20170014
+- HUD ID before: 
+- Project: SUNNYSIDE POINTE VILLAS II
+- Address: SUNNYSIDE POINTE SUBDIVISION (PARK AVENUE, SOUTH OF IRVINGTON ROAD)
+- City: TUCSON
+- State: AZ
+- ZIP: 85706
+- ZIP extension: 2210
+- State project ID: TC-0828-15
+- Latitude: 32.1413
+- Longitude: -110.937
+- County FIPS: 04019
+- County from: 2020
+- Tract 2020: 04019003702
+- Tract 2010: 04019004122
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1241500
+- Units: 92
+- Low-income units: 91
+- Units reported: 92
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 75
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 717919
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NEW HORIZONS APTS (MDA19940055)
+
+- HUD ID: MDA19940055
+- HUD ID before: 
+- Project: NEW HORIZONS APTS
+- Address: 502 MUIR ST
+- City: CAMBRIDGE
+- State: MD
+- ZIP: 21613
+- ZIP extension: 
+- State project ID: MD92-20
+- Latitude: 38.568205
+- Longitude: -76.078147
+- County FIPS: 24019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24019970500
+- Tract 2000: 24019970500
+- Tract 1990: 24019970500
+- Place 2020: 
+- Place 2010: 12400
+- Place 2000: 00712
+- Place 1990: 0120
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

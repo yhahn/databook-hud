@@ -1,0 +1,85 @@
+# Project: BAYRIDGE APTS (ORA19900010)
+
+- HUD ID: ORA19900010
+- HUD ID before: 
+- Project: BAYRIDGE APTS
+- Address: 17520 NW CORNELL RD
+- City: BEAVERTON
+- State: OR
+- ZIP: 97006
+- ZIP extension: 
+- State project ID: OR89-195
+- Latitude: 45.534946
+- Longitude: -122.856036
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067031620
+- Tract 2010: 41067031610
+- Tract 2000: 41067031610
+- Tract 1990: 41067031604
+- Place 2020: 05350
+- Place 2010: 05350
+- Place 2000: 05350
+- Place 1990: 0095
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 950123
+- Units: 238
+- Low-income units: 238
+- Units reported: 238
+- Low-income reported: 238
+- Efficiencies: 0
+- 1-bedroom units: 73
+- 2-bedroom units: 109
+- 3-bedroom units: 56
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

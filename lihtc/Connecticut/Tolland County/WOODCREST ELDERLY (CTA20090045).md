@@ -1,0 +1,85 @@
+# Project: WOODCREST ELDERLY (CTA20090045)
+
+- HUD ID: CTA20090045
+- HUD ID before: 
+- Project: WOODCREST ELDERLY
+- Address: 63 BATTLE ST
+- City: SOMERS
+- State: CT
+- ZIP: 06071
+- ZIP extension: 
+- State project ID: CT-08-002
+- Latitude: 41.988247
+- Longitude: -72.440447
+- County FIPS: 09013
+- County from: 2020
+- Tract 2020: 09013538202
+- Tract 2010: 09013538202
+- Tract 2000: 09013538202
+- Tract 1990: 09013538202
+- Place 2020: 69150
+- Place 2010: 69150
+- Place 2000: 13445
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1181713
+- Units: 86
+- Low-income units: 86
+- Units reported: 86
+- Low-income reported: 86
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 76
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

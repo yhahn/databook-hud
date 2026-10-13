@@ -1,0 +1,85 @@
+# Project: WINDSOR POINTE (IAA20030040)
+
+- HUD ID: IAA20030040
+- HUD ID before: 
+- Project: WINDSOR POINTE
+- Address: 3709 TRIPP ST
+- City: AMES
+- State: IA
+- ZIP: 50014
+- ZIP extension: 
+- State project ID: 02-31
+- Latitude: 42.020325
+- Longitude: -93.668547
+- County FIPS: 19169
+- County from: 2020
+- Tract 2020: 19169001304
+- Tract 2010: 19169001301
+- Tract 2000: 19169001301
+- Tract 1990: 19169001301
+- Place 2020: 01855
+- Place 2010: 01855
+- Place 2000: 01855
+- Place 1990: 0115
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 244026
+- Units: 145
+- Low-income units: 99
+- Units reported: 145
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 80
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

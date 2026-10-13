@@ -1,0 +1,85 @@
+# Project: NEWMAN VILLAGE (VAA20110816)
+
+- HUD ID: VAA20110816
+- HUD ID before: 
+- Project: NEWMAN VILLAGE
+- Address: 4053 OLD BROOK RD
+- City: RICHMOND
+- State: VA
+- ZIP: 23227
+- ZIP extension: 
+- State project ID: 4039
+- Latitude: 37.590505
+- Longitude: -77.446384
+- County FIPS: 51760
+- County from: 2020
+- Tract 2020: 51760010300
+- Tract 2010: 51760010300
+- Tract 2000: 51760010300
+- Tract 1990: 51760010300
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 1035
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 409090
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 59
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 2454049
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

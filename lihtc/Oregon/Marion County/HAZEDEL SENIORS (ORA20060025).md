@@ -1,0 +1,85 @@
+# Project: HAZEDEL SENIORS (ORA20060025)
+
+- HUD ID: ORA20060025
+- HUD ID before: 
+- Project: HAZEDEL SENIORS
+- Address: 905 CAROL ST
+- City: WOODBURN
+- State: OR
+- ZIP: 97071
+- ZIP extension: 
+- State project ID: OR-05-00000506A
+- Latitude: 45.144834
+- Longitude: -122.839733
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047010304
+- Tract 2010: 41047010304
+- Tract 2000: 41047010304
+- Tract 1990: 41047010302
+- Place 2020: 83750
+- Place 2010: 83750
+- Place 2000: 83750
+- Place 1990: 1240
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 611481
+- Units: 60
+- Low-income units: 58
+- Units reported: 60
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1261767
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

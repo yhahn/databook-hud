@@ -1,0 +1,85 @@
+# Project: HASTINGS PARK APTS (CAA20050749)
+
+- HUD ID: CAA20050749
+- HUD ID before: 
+- Project: HASTINGS PARK APTS
+- Address: 4635 ANTELOPE RD
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95843
+- ZIP extension: 
+- State project ID: CA-04-910
+- Latitude: 38.703989
+- Longitude: -121.356419
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067007438
+- Tract 2010: 06067007433
+- Tract 2000: 06067007419
+- Tract 1990: 06067007410
+- Place 2020: 02210
+- Place 2010: 02210
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 666460
+- Units: 242
+- Low-income units: 195
+- Units reported: 242
+- Low-income reported: 195
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 136
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1990094, CAA0000765, CAA2005255.
+- Record status: Existing, unchanged

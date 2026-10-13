@@ -1,0 +1,85 @@
+# Project: MAPLE CHURCH APARTMENTS PHASE II (ARA20010733)
+
+- HUD ID: ARA20010733
+- HUD ID before: 
+- Project: MAPLE CHURCH APARTMENTS PHASE II
+- Address: 1627 MOUNTAIN VIEW DR
+- City: HARRISON
+- State: AR
+- ZIP: 72601
+- ZIP extension: 
+- State project ID: AR-99-14-001
+- Latitude: 36.253367
+- Longitude: -93.101179
+- County FIPS: 05009
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05009790502
+- Tract 2000: 05009990500
+- Tract 1990: 05009990500
+- Place 2020: 
+- Place 2010: 30460
+- Place 2000: 30460
+- Place 1990: 0905
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 36429
+- Units: 23
+- Low-income units: 23
+- Units reported: 22
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2001078, ARA1997055.
+- Record status: Existing, unchanged

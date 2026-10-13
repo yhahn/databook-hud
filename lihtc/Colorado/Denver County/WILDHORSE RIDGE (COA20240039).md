@@ -1,0 +1,85 @@
+# Project: WILDHORSE RIDGE (COA20240039)
+
+- HUD ID: COA20240039
+- HUD ID before: 
+- Project: WILDHORSE RIDGE
+- Address: 5800 TOWER RD
+- City: DENVER
+- State: CO
+- ZIP: 80249
+- ZIP extension: 
+- State project ID: CO-24-39
+- Latitude: 39.801902
+- Longitude: -104.771834
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031015800
+- Tract 2010: 08031980000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2175115
+- Units: 119
+- Low-income units: 119
+- Units reported: 119
+- Low-income reported: 119
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 79
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

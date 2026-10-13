@@ -1,0 +1,85 @@
+# Project: ST. BAKHITA APTS (LAA20080355)
+
+- HUD ID: LAA20080355
+- HUD ID before: 
+- Project: ST. BAKHITA APTS
+- Address: 6305 4TH ST
+- City: MARRERO
+- State: LA
+- ZIP: 70072
+- ZIP extension: 0000
+- State project ID: LA-07-021
+- Latitude: 29.899602
+- Longitude: -90.113868
+- County FIPS: 22051
+- County from: 2020
+- Tract 2020: 22051026900
+- Tract 2010: 22051026900
+- Tract 2000: 22051026900
+- Tract 1990: 22051026900
+- Place 2020: 48785
+- Place 2010: 48785
+- Place 2000: 48785
+- Place 1990: 0852
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 97546
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

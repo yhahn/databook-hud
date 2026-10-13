@@ -1,0 +1,85 @@
+# Project: HERSHEY APTS (ILA19960275)
+
+- HUD ID: ILA19960275
+- HUD ID before: 
+- Project: HERSHEY APTS
+- Address: 1832 N MAIN ST
+- City: ROCKFORD
+- State: IL
+- ZIP: 61103
+- ZIP extension: 
+- State project ID: 64093
+- Latitude: 42.291673
+- Longitude: -89.079164
+- County FIPS: 17201
+- County from: 2020
+- Tract 2020: 17201003500
+- Tract 2010: 17201003400
+- Tract 2000: 17201003400
+- Tract 1990: 17201003400
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 4965
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 2309910
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1995195. AKA RHDC-1. FKA RHDC-I
+- Record status: Existing, unchanged

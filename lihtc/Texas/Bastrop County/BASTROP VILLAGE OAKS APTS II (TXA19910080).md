@@ -1,0 +1,85 @@
+# Project: BASTROP VILLAGE OAKS APTS II (TXA19910080)
+
+- HUD ID: TXA19910080
+- HUD ID before: 
+- Project: BASTROP VILLAGE OAKS APTS II
+- Address: 1910 WILSON ST
+- City: BASTROP
+- State: TX
+- ZIP: 78602
+- ZIP extension: 
+- State project ID: TX6734
+- Latitude: 30.12204
+- Longitude: -97.322964
+- County FIPS: 48021
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48021950400
+- Tract 2000: 48021950400
+- Tract 1990: 48021950400
+- Place 2020: 
+- Place 2010: 05864
+- Place 2000: 05864
+- Place 1990: 0305
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

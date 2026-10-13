@@ -1,0 +1,85 @@
+# Project: BLAKE STREET HOMES (CTA19930010)
+
+- HUD ID: CTA19930010
+- HUD ID before: 
+- Project: BLAKE STREET HOMES
+- Address: 204 BLAKE ST
+- City: NEW HAVEN
+- State: CT
+- ZIP: 06515
+- ZIP extension: 
+- State project ID: CT-91-012
+- Latitude: 41.325023
+- Longitude: -72.952651
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009141301
+- Tract 2010: 09009141300
+- Tract 2000: 09009141300
+- Tract 1990: 09009141300
+- Place 2020: 52000
+- Place 2010: 52000
+- Place 2000: 52000
+- Place 1990: 1450
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 3
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RA PRESERVATION 1 (INA20202182)
+
+- HUD ID: INA20202182
+- HUD ID before: 
+- Project: RA PRESERVATION 1
+- Address: SCATTERED SITES
+- City: SCATTERED
+- State: IN
+- ZIP: 46804
+- ZIP extension: 
+- State project ID: IN-19-03600
+- Latitude: 41.0524
+- Longitude: -85.2573
+- County FIPS: 18003
+- County from: 2020
+- Tract 2020: 18003011603
+- Tract 2010: 18003011603
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 25000
+- Place 2010: 25000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 572329
+- Units: 224
+- Low-income units: 224
+- Units reported: 224
+- Low-income reported: 224
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 74
+- 3-bedroom units: 70
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ASHLEY RIVERSIDE (GAA20040085)
+
+- HUD ID: GAA20040085
+- HUD ID before: 
+- Project: ASHLEY RIVERSIDE
+- Address: 320 S JACKSON ST
+- City: ALBANY
+- State: GA
+- ZIP: 31701
+- ZIP extension: 6804
+- State project ID: GA-02-049
+- Latitude: 31.572967
+- Longitude: -84.153488
+- County FIPS: 13095
+- County from: 2020
+- Tract 2020: 13095001403
+- Tract 2010: 13095001403
+- Tract 2000: 13095001401
+- Tract 1990: 13095001401
+- Place 2020: 01052
+- Place 2010: 01052
+- Place 2000: 01052
+- Place 1990: 0045
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 750000
+- Units: 120
+- Low-income units: 105
+- Units reported: 120
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 79
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2006050.
+- Record status: Existing, unchanged

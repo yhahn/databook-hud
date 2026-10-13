@@ -1,0 +1,85 @@
+# Project: TIMBER TREE PROPERTIES (OKA19980095)
+
+- HUD ID: OKA19980095
+- HUD ID before: 
+- Project: TIMBER TREE PROPERTIES
+- Address: 1120 B ST
+- City: COMMERCE
+- State: OK
+- ZIP: 74339
+- ZIP extension: 
+- State project ID: OK-97-0112
+- Latitude: 36.931099
+- Longitude: -94.863664
+- County FIPS: 40115
+- County from: 2020
+- Tract 2020: 40115574200
+- Tract 2010: 40115574200
+- Tract 2000: 40115974200
+- Tract 1990: 40115974200
+- Place 2020: 16500
+- Place 2010: 16500
+- Place 2000: 16500
+- Place 1990: 0550
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 58
+- Units reported: 59
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 39
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

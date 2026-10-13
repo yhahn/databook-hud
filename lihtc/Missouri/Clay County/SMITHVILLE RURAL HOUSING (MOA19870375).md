@@ -1,0 +1,85 @@
+# Project: SMITHVILLE RURAL HOUSING (MOA19870375)
+
+- HUD ID: MOA19870375
+- HUD ID before: 
+- Project: SMITHVILLE RURAL HOUSING
+- Address: 501 N US HWY 169
+- City: SMITHVILLE
+- State: MO
+- ZIP: 64089
+- ZIP extension: 
+- State project ID: 17010
+- Latitude: 39.401313
+- Longitude: -94.583393
+- County FIPS: 29047
+- County from: 2020
+- Tract 2020: 29047022000
+- Tract 2010: 29047022000
+- Tract 2000: 29047022000
+- Tract 1990: 29047022000
+- Place 2020: 68420
+- Place 2010: 68420
+- Place 2000: 68420
+- Place 1990: 4035
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WOODSON HISTORIC RESIDENCES (KSA20110085)
+
+- HUD ID: KSA20110085
+- HUD ID before: 
+- Project: WOODSON HISTORIC RESIDENCES
+- Address: 201 W BUTLER ST
+- City: YATES CENTER
+- State: KS
+- ZIP: 66783
+- ZIP extension: 
+- State project ID: 60529
+- Latitude: 37.882604
+- Longitude: -95.733799
+- County FIPS: 20207
+- County from: 2020
+- Tract 2020: 20207096700
+- Tract 2010: 20207096700
+- Tract 2000: 20207996700
+- Tract 1990: 20207996700
+- Place 2020: 80700
+- Place 2010: 80700
+- Place 2000: 80700
+- Place 1990: 3110
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 210834
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2011555.
+- Record status: Existing, unchanged

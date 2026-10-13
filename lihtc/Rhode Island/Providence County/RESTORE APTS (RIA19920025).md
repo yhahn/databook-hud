@@ -1,0 +1,85 @@
+# Project: RESTORE APTS (RIA19920025)
+
+- HUD ID: RIA19920025
+- HUD ID before: 
+- Project: RESTORE APTS
+- Address: 31 MOORE ST
+- City: CENTRAL FALLS
+- State: RI
+- ZIP: 02863
+- ZIP extension: 
+- State project ID: RI00164
+- Latitude: 41.886901
+- Longitude: -71.398668
+- County FIPS: 44007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 44007011000
+- Tract 2000: 44007011000
+- Tract 1990: 44007011000
+- Place 2020: 
+- Place 2010: 14140
+- Place 2000: 14140
+- Place 1990: 0060
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 95585
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 8
+- 3-bedroom units: 13
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 250000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

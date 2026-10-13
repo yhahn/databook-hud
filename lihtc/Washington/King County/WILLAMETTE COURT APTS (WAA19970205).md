@@ -1,0 +1,85 @@
+# Project: WILLAMETTE COURT APTS (WAA19970205)
+
+- HUD ID: WAA19970205
+- HUD ID before: 
+- Project: WILLAMETTE COURT APTS
+- Address: 31580 23RD AVE S
+- City: FEDERAL WAY
+- State: WA
+- ZIP: 98003
+- ZIP extension: 
+- State project ID: 96-35Z
+- Latitude: 47.318953
+- Longitude: -122.303908
+- County FIPS: 53033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53033030006
+- Tract 2000: 53033030002
+- Tract 1990: 53033030002
+- Place 2020: 
+- Place 2010: 23515
+- Place 2000: 23515
+- Place 1990: 0443
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 627288
+- Units: 106
+- Low-income units: 106
+- Units reported: 106
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 74
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 106
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

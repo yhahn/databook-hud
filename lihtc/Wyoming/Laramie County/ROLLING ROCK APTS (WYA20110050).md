@@ -1,0 +1,85 @@
+# Project: ROLLING ROCK APTS (WYA20110050)
+
+- HUD ID: WYA20110050
+- HUD ID before: 
+- Project: ROLLING ROCK APTS
+- Address: 318 MONTALTO DR
+- City: CHEYENNE
+- State: WY
+- ZIP: 82007
+- ZIP extension: 
+- State project ID: 10-002
+- Latitude: 41.114134
+- Longitude: -104.79828
+- County FIPS: 56021
+- County from: 2020
+- Tract 2020: 56021000403
+- Tract 2010: 56021000402
+- Tract 2000: 56021000402
+- Tract 1990: 56021000400
+- Place 2020: 29300
+- Place 2010: 29300
+- Place 2000: 13900
+- Place 1990: 0419
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 950259
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 60
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

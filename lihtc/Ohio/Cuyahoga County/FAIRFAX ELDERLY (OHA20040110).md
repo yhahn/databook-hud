@@ -1,0 +1,85 @@
+# Project: FAIRFAX ELDERLY (OHA20040110)
+
+- HUD ID: OHA20040110
+- HUD ID before: 
+- Project: FAIRFAX ELDERLY
+- Address: 8100 CENTRAL AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44104
+- ZIP extension: 
+- State project ID: 02-0023
+- Latitude: 41.496114
+- Longitude: -81.631555
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035197200
+- Tract 2010: 39035196500
+- Tract 2000: 39035113400
+- Tract 1990: 39035113400
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 459315
+- Units: 56
+- Low-income units: 47
+- Units reported: 56
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 54
+- 3-bedroom units: 0
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 251000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

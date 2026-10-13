@@ -1,0 +1,85 @@
+# Project: WILLIAMSBURG RESIDENTIAL I (KSA19890075)
+
+- HUD ID: KSA19890075
+- HUD ID before: 
+- Project: WILLIAMSBURG RESIDENTIAL I
+- Address: 2613 E HARRY ST
+- City: WICHITA
+- State: KS
+- ZIP: 67211
+- ZIP extension: 
+- State project ID: KS88-0028
+- Latitude: 37.664365
+- Longitude: -97.306093
+- County FIPS: 20173
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20173003800
+- Tract 2000: 20173003800
+- Tract 1990: 20173003800
+- Place 2020: 
+- Place 2010: 79000
+- Place 2000: 79000
+- Place 1990: 3040
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AUGUSTINE S CAMERON PLACE (MOA20130002)
+
+- HUD ID: MOA20130002
+- HUD ID before: 
+- Project: AUGUSTINE S CAMERON PLACE
+- Address: 3218 BRIGHTON AVE
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64128
+- ZIP extension: 
+- State project ID: 11-088
+- Latitude: 39.066105
+- Longitude: -94.526034
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095005801
+- Tract 2010: 29095005801
+- Tract 2000: 29095005801
+- Tract 1990: 29095005801
+- Place 2020: 38000
+- Place 2010: 38000
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 887219
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1275000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CURIA CREEK APTS PHASE I (ARA19980696)
+
+- HUD ID: ARA19980696
+- HUD ID before: 
+- Project: CURIA CREEK APTS PHASE I
+- Address: 352 CURIA CREEK LN
+- City: CAVE CITY
+- State: AR
+- ZIP: 72521
+- ZIP extension: 
+- State project ID: PRAR-96-21
+- Latitude: 35.944543
+- Longitude: -91.55334
+- County FIPS: 05135
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05135470400
+- Tract 2000: 05135970400
+- Tract 1990: 05135970400
+- Place 2020: 
+- Place 2010: 12280
+- Place 2000: 12280
+- Place 1990: 0355
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 98515
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 349999
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1998248, ARA1998008. FKA CAVE CITY APTS
+- Record status: Existing, unchanged

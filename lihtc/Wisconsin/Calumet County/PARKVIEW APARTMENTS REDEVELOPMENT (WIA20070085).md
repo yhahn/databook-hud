@@ -1,0 +1,85 @@
+# Project: PARKVIEW APARTMENTS REDEVELOPMENT (WIA20070085)
+
+- HUD ID: WIA20070085
+- HUD ID before: 
+- Project: PARKVIEW APARTMENTS REDEVELOPMENT
+- Address: 214 S PARKWAY DR UNITS 1 & 3
+- City: BRILLION
+- State: WI
+- ZIP: 54110
+- ZIP extension: 
+- State project ID: 5203
+- Latitude: 44.1973
+- Longitude: -88.1037
+- County FIPS: 55015
+- County from: 2020
+- Tract 2020: 55015020100
+- Tract 2010: 55015020100
+- Tract 2000: 55015020100
+- Tract 1990: 55015020100
+- Place 2020: 09725
+- Place 2010: 09725
+- Place 2000: 
+- Place 1990: 0340
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 224796
+- Units: 24
+- Low-income units: 5
+- Units reported: 24
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

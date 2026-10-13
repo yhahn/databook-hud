@@ -1,0 +1,85 @@
+# Project: MARTY'S PLACE (FLA20200010)
+
+- HUD ID: FLA20200010
+- HUD ID before: 
+- Project: MARTY'S PLACE
+- Address: 1909 VENETIA STREET
+- City: KEY WEST
+- State: FL
+- ZIP: 33040
+- ZIP extension: 
+- State project ID: 3075
+- Latitude: 24.554527
+- Longitude: -81.778955
+- County FIPS: 12087
+- County from: 2020
+- Tract 2020: 12087972000
+- Tract 2010: 12087972000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 36550
+- Place 2010: 36550
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1300000
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 
+- 1-bedroom units: 47
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 47
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

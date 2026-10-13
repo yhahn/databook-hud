@@ -1,0 +1,85 @@
+# Project: VILLA CAPRI (ORA20030095)
+
+- HUD ID: ORA20030095
+- HUD ID before: 
+- Project: VILLA CAPRI
+- Address: 1160 SE WASHINGTON ST
+- City: HILLSBORO
+- State: OR
+- ZIP: 97123
+- ZIP extension: 
+- State project ID: 213
+- Latitude: 45.521011
+- Longitude: -122.970865
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067032409
+- Tract 2010: 41067032409
+- Tract 2000: 41067032403
+- Tract 1990: 41067032403
+- Place 2020: 34100
+- Place 2010: 34100
+- Place 2000: 34100
+- Place 1990: 0520
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 500000
+- Units: 63
+- Low-income units: 63
+- Units reported: 63
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 25
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

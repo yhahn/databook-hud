@@ -1,0 +1,85 @@
+# Project: SHENANDOAH STATION (VAA20010495)
+
+- HUD ID: VAA20010495
+- HUD ID before: 
+- Project: SHENANDOAH STATION
+- Address: 19340 BELLEAU WOOD DR
+- City: TRIANGLE
+- State: VA
+- ZIP: 22172
+- ZIP extension: 
+- State project ID: 4898
+- Latitude: 38.531728
+- Longitude: -77.320097
+- County FIPS: 51153
+- County from: 2020
+- Tract 2020: 51153900905
+- Tract 2010: 51153900905
+- Tract 2000: 51153900902
+- Tract 1990: 51153900902
+- Place 2020: 79360
+- Place 2010: 79360
+- Place 2000: 23760
+- Place 1990: 1240
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 406174
+- Units: 172
+- Low-income units: 170
+- Units reported: 172
+- Low-income reported: 170
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 110
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1999230.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SANDY HILL II APTS (MIA20070120)
+
+- HUD ID: MIA20070120
+- HUD ID before: 
+- Project: SANDY HILL II APTS
+- Address: 264 LEONA ST
+- City: VASSAR
+- State: MI
+- ZIP: 48768
+- ZIP extension: 
+- State project ID: MI-3244
+- Latitude: 43.371498
+- Longitude: -83.59461
+- County FIPS: 26157
+- County from: 2020
+- Tract 2020: 26157000900
+- Tract 2010: 26157000900
+- Tract 2000: 26157960900
+- Tract 1990: 26157960900
+- Place 2020: 81840
+- Place 2010: 81840
+- Place 2000: 81840
+- Place 1990: 2740
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 227786
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 12
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

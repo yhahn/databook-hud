@@ -1,0 +1,85 @@
+# Project: PROSPECT AVENUE APARTMENTS (NYB20100027)
+
+- HUD ID: NYB20100027
+- HUD ID before: 
+- Project: PROSPECT AVENUE APARTMENTS
+- Address: 733-765 PROSPECT AVE
+- City: WESTBURY
+- State: NY
+- ZIP: 11590
+- ZIP extension: 
+- State project ID: 1640
+- Latitude: 40.761993
+- Longitude: -73.572189
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059304204
+- Tract 2010: 36059304204
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50067
+- Place 2010: 50067
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 800000
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 29
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYB2010503.
+- Record status: Existing, unchanged

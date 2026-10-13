@@ -1,0 +1,85 @@
+# Project: ST MARTIN APTS (MSA20060050)
+
+- HUD ID: MSA20060050
+- HUD ID before: 
+- Project: ST MARTIN APTS
+- Address: 1185 BERTHADALE RD
+- City: MCCOMB
+- State: MS
+- ZIP: 39648
+- ZIP extension: 
+- State project ID: MS-05-002
+- Latitude: 31.220271
+- Longitude: -90.44489
+- County FIPS: 28113
+- County from: 2020
+- Tract 2020: 28113950300
+- Tract 2010: 28113950300
+- Tract 2000: 28113950300
+- Tract 1990: 28113950300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 43280
+- Place 1990: 0730
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 195898
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

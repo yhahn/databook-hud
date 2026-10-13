@@ -1,0 +1,85 @@
+# Project: RIVERVIEW GARDEN (CAA20147501)
+
+- HUD ID: CAA20147501
+- HUD ID before: 
+- Project: RIVERVIEW GARDEN
+- Address: 2701 TOPEKA ST
+- City: RIVERBANK
+- State: CA
+- ZIP: 95367
+- ZIP extension: 
+- State project ID: CA-13-033
+- Latitude: 37.737163
+- Longitude: -120.947048
+- County FIPS: 06099
+- County from: 2020
+- Tract 2020: 06099000302
+- Tract 2010: 06099000302
+- Tract 2000: 06099000302
+- Tract 1990: 06099000300
+- Place 2020: 61068
+- Place 2010: 61068
+- Place 2000: 61068
+- Place 1990: 2360
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0000183.
+- Record status: Existing, unchanged

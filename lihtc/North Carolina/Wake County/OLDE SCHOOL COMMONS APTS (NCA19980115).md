@@ -1,0 +1,85 @@
+# Project: OLDE SCHOOL COMMONS APTS (NCA19980115)
+
+- HUD ID: NCA19980115
+- HUD ID before: 
+- Project: OLDE SCHOOL COMMONS APTS
+- Address: 742 WEST GARNER ROAD
+- City: GARNER
+- State: NC
+- ZIP: 27529
+- ZIP extension: 
+- State project ID: 9002277
+- Latitude: 35.710836
+- Longitude: -78.612599
+- County FIPS: 37183
+- County from: 2020
+- Tract 2020: 37183052815
+- Tract 2010: 37183052803
+- Tract 2000: 37183052803
+- Tract 1990: 37183052803
+- Place 2020: 25480
+- Place 2010: 25480
+- Place 2000: 25480
+- Place 1990: 0975
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 168490
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 513064
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

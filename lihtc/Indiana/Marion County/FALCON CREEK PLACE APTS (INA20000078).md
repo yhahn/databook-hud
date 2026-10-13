@@ -1,0 +1,85 @@
+# Project: FALCON CREEK PLACE APTS (INA20000078)
+
+- HUD ID: INA20000078
+- HUD ID before: 
+- Project: FALCON CREEK PLACE APTS
+- Address: 4301 FALCON CREEK BLVD
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46254
+- ZIP extension: 
+- State project ID: IN-01-06000
+- Latitude: 39.833691
+- Longitude: -86.253823
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097310306
+- Tract 2010: 18097310306
+- Tract 2000: 18097310306
+- Tract 1990: 18097310306
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 131
+- Low-income units: 125
+- Units reported: 131
+- Low-income reported: 125
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 58
+- 3-bedroom units: 46
+- 4-bedroom units: 13
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 66
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA1999042.
+- Record status: Existing, unchanged

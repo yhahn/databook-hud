@@ -1,0 +1,85 @@
+# Project: HIGHLAND PLAZA (PAA19870330)
+
+- HUD ID: PAA19870330
+- HUD ID before: 
+- Project: HIGHLAND PLAZA
+- Address: 301 HIGHLAND AVE
+- City: WEST VIEW
+- State: PA
+- ZIP: 15229
+- ZIP extension: 
+- State project ID: TC1987-0006
+- Latitude: 40.522086
+- Longitude: -80.040028
+- County FIPS: 42003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42003430200
+- Tract 2000: 42003430200
+- Tract 1990: 42003430200
+- Place 2020: 
+- Place 2010: 84144
+- Place 2000: 84144
+- Place 1990: 8852
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 33889
+- Units: 47
+- Low-income units: 10
+- Units reported: 47
+- Low-income reported: 10
+- Efficiencies: 1
+- 1-bedroom units: 4
+- 2-bedroom units: 38
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

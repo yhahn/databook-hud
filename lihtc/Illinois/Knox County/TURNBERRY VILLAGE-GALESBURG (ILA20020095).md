@@ -1,0 +1,85 @@
+# Project: TURNBERRY VILLAGE-GALESBURG (ILA20020095)
+
+- HUD ID: ILA20020095
+- HUD ID before: 
+- Project: TURNBERRY VILLAGE-GALESBURG
+- Address: 279 MICHIGAN AVE
+- City: GALESBURG
+- State: IL
+- ZIP: 61401
+- ZIP extension: 
+- State project ID: 127900
+- Latitude: 40.944407
+- Longitude: -90.338809
+- County FIPS: 17095
+- County from: 2020
+- Tract 2020: 17095001100
+- Tract 2010: 17095001100
+- Tract 2000: 17095001100
+- Tract 1990: 17095001100
+- Place 2020: 28326
+- Place 2010: 28326
+- Place 2000: 28326
+- Place 1990: 2100
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 855858
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

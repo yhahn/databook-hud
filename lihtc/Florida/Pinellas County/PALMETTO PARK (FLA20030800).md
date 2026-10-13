@@ -1,0 +1,85 @@
+# Project: PALMETTO PARK (FLA20030800)
+
+- HUD ID: FLA20030800
+- HUD ID before: 
+- Project: PALMETTO PARK
+- Address: 1001 N MLK JR AVE
+- City: CLEARWATER
+- State: FL
+- ZIP: 33755
+- ZIP extension: 
+- State project ID: 1246
+- Latitude: 27.975992
+- Longitude: -82.791781
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103026200
+- Tract 2010: 12103026200
+- Tract 2000: 12103026200
+- Tract 1990: 12103026200
+- Place 2020: 12875
+- Place 2010: 12875
+- Place 2000: 12875
+- Place 1990: 0375
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 179
+- Low-income units: 154
+- Units reported: 179
+- Low-income reported: 154
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 137
+- 3-bedroom units: 42
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

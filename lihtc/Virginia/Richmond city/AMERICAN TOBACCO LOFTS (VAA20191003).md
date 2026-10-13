@@ -1,0 +1,85 @@
+# Project: AMERICAN TOBACCO LOFTS (VAA20191003)
+
+- HUD ID: VAA20191003
+- HUD ID before: 
+- Project: AMERICAN TOBACCO LOFTS
+- Address: 800 JEFFERSON DAVIS HIGHWAY
+- City: RICHMOND
+- State: VA
+- ZIP: 23224
+- ZIP extension: 
+- State project ID: 9818
+- Latitude: 37.509035
+- Longitude: -77.447833
+- County FIPS: 51760
+- County from: 2020
+- Tract 2020: 51760060700
+- Tract 2010: 51760060700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 932351
+- Units: 135
+- Low-income units: 135
+- Units reported: 135
+- Low-income reported: 135
+- Efficiencies: 
+- 1-bedroom units: 65
+- 2-bedroom units: 69
+- 3-bedroom units: 1
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AMARILLO GARDENS APTS (TXA19910065)
+
+- HUD ID: TXA19910065
+- HUD ID before: 
+- Project: AMARILLO GARDENS APTS
+- Address: 1223 S ROBERTS ST
+- City: AMARILLO
+- State: TX
+- ZIP: 79102
+- ZIP extension: 
+- State project ID: TX0759
+- Latitude: 35.198899
+- Longitude: -101.820794
+- County FIPS: 48375
+- County from: 2020
+- Tract 2020: 48375015400
+- Tract 2010: 48375015400
+- Tract 2000: 48375011100
+- Tract 1990: 48375011100
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0100
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 148
+- Low-income units: 148
+- Units reported: 148
+- Low-income reported: 148
+- Efficiencies: 13
+- 1-bedroom units: 64
+- 2-bedroom units: 48
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

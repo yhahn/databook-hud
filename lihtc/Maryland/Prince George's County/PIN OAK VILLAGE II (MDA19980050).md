@@ -1,0 +1,85 @@
+# Project: PIN OAK VILLAGE II (MDA19980050)
+
+- HUD ID: MDA19980050
+- HUD ID before: 
+- Project: PIN OAK VILLAGE II
+- Address: 16010 EXCALIBUR RD
+- City: BOWIE
+- State: MD
+- ZIP: 20716
+- ZIP extension: 
+- State project ID: MD97-27
+- Latitude: 38.939996
+- Longitude: -76.726271
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033800520
+- Tract 2010: 24033800520
+- Tract 2000: 24033800512
+- Tract 1990: 24033800506
+- Place 2020: 08775
+- Place 2010: 08775
+- Place 2000: 08775
+- Place 1990: 0085
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 0
+- 1-bedroom units: 85
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

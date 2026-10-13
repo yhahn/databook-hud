@@ -1,0 +1,85 @@
+# Project: WOODSIDE MANOR-CROSSING (MDA20020130)
+
+- HUD ID: MDA20020130
+- HUD ID before: 
+- Project: WOODSIDE MANOR-CROSSING
+- Address: 10102 GEORGIA AVE
+- City: SILVER SPRING
+- State: MD
+- ZIP: 20902
+- ZIP extension: 
+- State project ID: MD01-14001
+- Latitude: 39.021208
+- Longitude: -77.044965
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031704000
+- Tract 2010: 24031704000
+- Tract 2000: 24031704000
+- Tract 1990: 24031704000
+- Place 2020: 28640
+- Place 2010: 28640
+- Place 2000: 28640
+- Place 1990: 0900
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 220
+- Low-income units: 198
+- Units reported: 220
+- Low-income reported: 198
+- Efficiencies: 1
+- 1-bedroom units: 60
+- 2-bedroom units: 159
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

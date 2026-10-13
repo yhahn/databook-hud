@@ -1,0 +1,85 @@
+# Project: KNOLLWOOD RETIREMENT CENTER (SLF) (ILA20040060)
+
+- HUD ID: ILA20040060
+- HUD ID before: 
+- Project: KNOLLWOOD RETIREMENT CENTER (SLF)
+- Address: 20 JACKSONVILLE PL
+- City: JACKSONVILLE
+- State: IL
+- ZIP: 62650
+- ZIP extension: 
+- State project ID: 141802
+- Latitude: 39.742194
+- Longitude: -90.26308
+- County FIPS: 17137
+- County from: 2020
+- Tract 2020: 17137951900
+- Tract 2010: 17137951900
+- Tract 2000: 17137951900
+- Tract 1990: 17137951900
+- Place 2020: 38115
+- Place 2010: 38115
+- Place 2000: 38115
+- Place 1990: 2825
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 512886
+- Units: 86
+- Low-income units: 86
+- Units reported: 86
+- Low-income reported: 86
+- Efficiencies: 60
+- 1-bedroom units: 22
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

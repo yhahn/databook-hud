@@ -1,0 +1,85 @@
+# Project: EVERGREEN AT KELLER SENIOR APT COMMUNITY (TXA20050115)
+
+- HUD ID: TXA20050115
+- HUD ID before: 
+- Project: EVERGREEN AT KELLER SENIOR APT COMMUNITY
+- Address: 501 BOURLAND RD
+- City: KELLER
+- State: TX
+- ZIP: 76248
+- ZIP extension: 
+- State project ID: TX4185
+- Latitude: 32.940377
+- Longitude: -97.24261
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439113952
+- Tract 2010: 48439113911
+- Tract 2000: 48439113911
+- Tract 1990: 48439113902
+- Place 2020: 38632
+- Place 2010: 38632
+- Place 2000: 38632
+- Place 1990: 2175
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 250
+- Low-income units: 250
+- Units reported: 250
+- Low-income reported: 250
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

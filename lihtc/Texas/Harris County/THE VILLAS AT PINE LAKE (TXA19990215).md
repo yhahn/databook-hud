@@ -1,0 +1,85 @@
+# Project: THE VILLAS AT PINE LAKE (TXA19990215)
+
+- HUD ID: TXA19990215
+- HUD ID before: 
+- Project: THE VILLAS AT PINE LAKE
+- Address: 5301 N SAM HOUSTON PKWY E
+- City: HOUSTON
+- State: TX
+- ZIP: 77032
+- ZIP extension: 
+- State project ID: TX1691
+- Latitude: 29.939863
+- Longitude: -95.313857
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201241503
+- Tract 2010: 48201241500
+- Tract 2000: 48201240200
+- Tract 1990: 48201024001
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 35000
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 198
+- Low-income units: 118
+- Units reported: 198
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 92
+- 3-bedroom units: 84
+- 4-bedroom units: 22
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

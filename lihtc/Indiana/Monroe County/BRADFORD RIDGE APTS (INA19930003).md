@@ -1,0 +1,85 @@
+# Project: BRADFORD RIDGE APTS (INA19930003)
+
+- HUD ID: INA19930003
+- HUD ID before: 
+- Project: BRADFORD RIDGE APTS
+- Address: 2900 W RIDGE RD
+- City: BLOOMINGTON
+- State: IN
+- ZIP: 47403
+- ZIP extension: 
+- State project ID: IN-91-02900
+- Latitude: 39.154203
+- Longitude: -86.571255
+- County FIPS: 18105
+- County from: 2020
+- Tract 2020: 18105000401
+- Tract 2010: 18105000401
+- Tract 2000: 18105000401
+- Tract 1990: 18105000400
+- Place 2020: 05860
+- Place 2010: 05860
+- Place 2000: 05860
+- Place 1990: 0195
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 130
+- Low-income units: 128
+- Units reported: 130
+- Low-income reported: 128
+- Efficiencies: 1
+- 1-bedroom units: 49
+- 2-bedroom units: 56
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA1992055, INA0000840.
+- Record status: Existing, unchanged

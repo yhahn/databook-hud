@@ -1,0 +1,85 @@
+# Project: CORTEZ PARK (COA19940076)
+
+- HUD ID: COA19940076
+- HUD ID before: 
+- Project: CORTEZ PARK
+- Address: 23 W SEVENTH ST
+- City: CORTEZ
+- State: CO
+- ZIP: 81321
+- ZIP extension: 
+- State project ID: 9Z00-414
+- Latitude: 37.341365
+- Longitude: -108.58513
+- County FIPS: 08083
+- County from: 2020
+- Tract 2020: 08083969400
+- Tract 2010: 08083969400
+- Tract 2000: 08083969400
+- Tract 1990: 08083969400
+- Place 2020: 17375
+- Place 2010: 17375
+- Place 2000: 17375
+- Place 1990: 0250
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

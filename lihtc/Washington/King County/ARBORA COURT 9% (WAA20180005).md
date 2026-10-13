@@ -1,0 +1,85 @@
+# Project: ARBORA COURT 9% (WAA20180005)
+
+- HUD ID: WAA20180005
+- HUD ID before: 
+- Project: ARBORA COURT 9%
+- Address: 4738 15TH AVENUE NE
+- City: SEATTLE
+- State: WA
+- ZIP: 98105
+- ZIP extension: 
+- State project ID: 16-23
+- Latitude: 47.663328
+- Longitude: -122.311731
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033005306
+- Tract 2010: 53033005301
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1087029
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

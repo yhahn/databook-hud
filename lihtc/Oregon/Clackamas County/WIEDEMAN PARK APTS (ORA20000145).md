@@ -1,0 +1,85 @@
+# Project: WIEDEMAN PARK APTS (ORA20000145)
+
+- HUD ID: ORA20000145
+- HUD ID before: 
+- Project: WIEDEMAN PARK APTS
+- Address: 29400 SW BROWN RD
+- City: WILSONVILLE
+- State: OR
+- ZIP: 97070
+- ZIP extension: 
+- State project ID: X001-376
+- Latitude: 45.307884
+- Longitude: -122.785956
+- County FIPS: 41005
+- County from: 2020
+- Tract 2020: 41005022707
+- Tract 2010: 41005022707
+- Tract 2000: 41005022704
+- Tract 1990: 41005022701
+- Place 2020: 82800
+- Place 2010: 82800
+- Place 2000: 82800
+- Place 1990: 1233
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 121505
+- Units: 58
+- Low-income units: 57
+- Units reported: 58
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WIEDEMANN DEVELOPMENT.
+- Record status: Existing, unchanged

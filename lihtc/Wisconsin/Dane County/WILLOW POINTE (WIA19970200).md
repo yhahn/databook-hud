@@ -1,0 +1,85 @@
+# Project: WILLOW POINTE (WIA19970200)
+
+- HUD ID: WIA19970200
+- HUD ID before: 
+- Project: WILLOW POINTE
+- Address: 6769 SCHROEDER RD
+- City: MADISON
+- State: WI
+- ZIP: 53711
+- ZIP extension: 
+- State project ID: 1677
+- Latitude: 43.04608
+- Longitude: -89.500049
+- County FIPS: 55025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55025000407
+- Tract 2000: 55025000404
+- Tract 1990: 55025000498
+- Place 2020: 
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 1475
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 101
+- Units reported: 176
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 128
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

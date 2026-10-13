@@ -1,0 +1,85 @@
+# Project: SWARTZ PROPERTIES (MAB19950060)
+
+- HUD ID: MAB19950060
+- HUD ID before: 
+- Project: SWARTZ PROPERTIES
+- Address: 80 AUBURN PARK
+- City: CAMBRIDGE
+- State: MA
+- ZIP: 02139
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.36201
+- Longitude: -71.102752
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017353200
+- Tract 2010: 25017353200
+- Tract 2000: 25017353200
+- Tract 1990: 25017353200
+- Place 2020: 11000
+- Place 2010: 11000
+- Place 2000: 11000
+- Place 1990: 0610
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 41
+- Units reported: 59
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 40
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

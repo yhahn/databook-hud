@@ -1,0 +1,85 @@
+# Project: MCNAIR MANOR (INA19880028)
+
+- HUD ID: INA19880028
+- HUD ID before: 
+- Project: MCNAIR MANOR
+- Address: 201 COUNTRY CLUB DR
+- City: BATESVILLE
+- State: IN
+- ZIP: 47006
+- ZIP extension: 
+- State project ID: IN-88-35001
+- Latitude: 39.298407
+- Longitude: -85.217026
+- County FIPS: 18137
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18137968500
+- Tract 2000: 18137968500
+- Tract 1990: 18137968500
+- Place 2020: 
+- Place 2010: 03664
+- Place 2000: 03664
+- Place 1990: 0135
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 22
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0000925.
+- Record status: Existing, unchanged

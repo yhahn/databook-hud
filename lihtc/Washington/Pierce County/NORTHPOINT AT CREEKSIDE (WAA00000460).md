@@ -1,0 +1,85 @@
+# Project: NORTHPOINT AT CREEKSIDE (WAA00000460)
+
+- HUD ID: WAA00000460
+- HUD ID before: 
+- Project: NORTHPOINT AT CREEKSIDE
+- Address: 5601 N 37TH ST
+- City: TACOMA
+- State: WA
+- ZIP: 98407
+- ZIP extension: 
+- State project ID: 84-2BBBB
+- Latitude: 47.281863
+- Longitude: -122.513468
+- County FIPS: 53053
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53053060904
+- Tract 2000: 53053060904
+- Tract 1990: 53053060901
+- Place 2020: 
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 1280
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 402
+- Low-income units: 81
+- Units reported: 402
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 216
+- 2-bedroom units: 186
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

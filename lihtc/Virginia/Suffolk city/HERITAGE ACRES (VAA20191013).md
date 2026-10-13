@@ -1,0 +1,85 @@
+# Project: HERITAGE ACRES (VAA20191013)
+
+- HUD ID: VAA20191013
+- HUD ID before: 
+- Project: HERITAGE ACRES
+- Address: 1015 NANSEMOND PKWY S
+- City: SUFFOLK
+- State: VA
+- ZIP: 23434
+- ZIP extension: 
+- State project ID: 9402
+- Latitude: 36.746371
+- Longitude: -76.540763
+- County FIPS: 51800
+- County from: 2020
+- Tract 2020: 51800075504
+- Tract 2010: 51800075501
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76432
+- Place 2010: 76432
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 360747
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 
+- 1-bedroom units: 12
+- 2-bedroom units: 52
+- 3-bedroom units: 8
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

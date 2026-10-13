@@ -1,0 +1,85 @@
+# Project: PRESTON POINTE (OHA20240028)
+
+- HUD ID: OHA20240028
+- HUD ID before: 
+- Project: PRESTON POINTE
+- Address: 1534 E MAIN STREET
+- City: COLUMBUS
+- State: OH
+- ZIP: 43205
+- ZIP extension: 
+- State project ID: 220026
+- Latitude: 39.957806
+- Longitude: -82.957411
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049003700
+- Tract 2010: 39049003700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 1199950
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 24
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

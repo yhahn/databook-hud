@@ -1,0 +1,85 @@
+# Project: BLUFF APTS OF FORT MADISON (IAA20110520)
+
+- HUD ID: IAA20110520
+- HUD ID before: 
+- Project: BLUFF APTS OF FORT MADISON
+- Address: 5202 RIVER VALLEY RD
+- City: FORT MADISON
+- State: IA
+- ZIP: 52627
+- ZIP extension: 
+- State project ID: 09-0958
+- Latitude: 40.630437
+- Longitude: -91.380754
+- County FIPS: 19111
+- County from: 2020
+- Tract 2020: 19111490100
+- Tract 2010: 19111490100
+- Tract 2000: 19111990100
+- Tract 1990: 19111990100
+- Place 2020: 28605
+- Place 2010: 28605
+- Place 2000: 28605
+- Place 1990: 1520
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 834175
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 1639956
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2011005. AKA BLUFFS APTS.
+- Record status: Existing, unchanged

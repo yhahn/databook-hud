@@ -1,0 +1,85 @@
+# Project: RIDGEWOOD COURT APTS (OHA20060188)
+
+- HUD ID: OHA20060188
+- HUD ID before: 
+- Project: RIDGEWOOD COURT APTS
+- Address: 280 RIDGEWOOD DR
+- City: MARIETTA
+- State: OH
+- ZIP: 45750
+- ZIP extension: 
+- State project ID: OH-05-0176
+- Latitude: 39.427382
+- Longitude: -81.447313
+- County FIPS: 39167
+- County from: 2020
+- Tract 2020: 39167020900
+- Tract 2010: 39167020900
+- Tract 2000: 39167020900
+- Tract 1990: 39167020900
+- Place 2020: 47628
+- Place 2010: 47628
+- Place 2000: 47628
+- Place 1990: 2480
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 114386
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 0
+- 1-bedroom units: 53
+- 2-bedroom units: 32
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006698, OHA2007135.
+- Record status: Existing, unchanged

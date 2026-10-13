@@ -1,0 +1,85 @@
+# Project: LINCOLN PARK TOWNHOMES (NDA20130001)
+
+- HUD ID: NDA20130001
+- HUD ID before: 
+- Project: LINCOLN PARK TOWNHOMES
+- Address: 1701 ABRAHAM PKWY
+- City: DICKINSON
+- State: ND
+- ZIP: 58601
+- ZIP extension: 
+- State project ID: TC1204
+- Latitude: 46.8737
+- Longitude: -102.7946
+- County FIPS: 38089
+- County from: 2020
+- Tract 2020: 38089963800
+- Tract 2010: 38089963800
+- Tract 2000: 38089963800
+- Tract 1990: 38089963800
+- Place 2020: 19620
+- Place 2010: 19620
+- Place 2000: 19620
+- Place 1990: 0425
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 631250
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DICKINSON LINCOLN PARK APTS.
+- Record status: Existing, unchanged

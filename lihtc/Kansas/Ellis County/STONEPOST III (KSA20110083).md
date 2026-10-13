@@ -1,0 +1,85 @@
+# Project: STONEPOST III (KSA20110083)
+
+- HUD ID: KSA20110083
+- HUD ID before: 
+- Project: STONEPOST III
+- Address: 400 OAK ST
+- City: HAYS
+- State: KS
+- ZIP: 67601
+- ZIP extension: 
+- State project ID: 60543
+- Latitude: 38.866563
+- Longitude: -99.331917
+- County FIPS: 20051
+- County from: 2020
+- Tract 2020: 20051072902
+- Tract 2010: 20051072900
+- Tract 2000: 20051972900
+- Tract 1990: 20051972900
+- Place 2020: 31100
+- Place 2010: 31100
+- Place 2000: 31100
+- Place 1990: 1210
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 234812
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

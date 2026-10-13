@@ -1,0 +1,85 @@
+# Project: CASAS DEL VALLE (CAA20060475)
+
+- HUD ID: CAA20060475
+- HUD ID before: 
+- Project: CASAS DEL VALLE
+- Address: 312 AUSTIN ST
+- City: DELANO
+- State: CA
+- ZIP: 
+- ZIP extension: 
+- State project ID: CA-05-804
+- Latitude: 35.760069
+- Longitude: -119.256102
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029004802
+- Tract 2010: 06029004800
+- Tract 2000: 06029004800
+- Tract 1990: 06029004800
+- Place 2020: 18394
+- Place 2010: 18394
+- Place 2000: 18394
+- Place 1990: 0725
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 391888
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 24
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

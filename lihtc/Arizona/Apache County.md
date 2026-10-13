@@ -1,0 +1,24 @@
+# Tax Credit Projects: Apache County, AZ
+
+- Level: County
+- Postal code: AZ
+- State FIPS: 04
+- County FIPS: 04001
+- Counties: 
+- Projects: 7
+- Units: 217
+- Low-income units: 209
+
+The low-income housing tax credit projects of Apache County, Arizona, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [LENWOOD APTS (AZA19930040)](./Apache%20County/LENWOOD%20APTS%20%28AZA19930040%29.md) | AZA19930040 | SPRINGERVILLE | 1993 | 24 | 24 |
+| [EAGAR ELK RIDGE APTS (AZA19980025)](./Apache%20County/EAGAR%20ELK%20RIDGE%20APTS%20%28AZA19980025%29.md) | AZA19980025 | EAGAR | 1998 | 32 | 32 |
+| [WHITE MOUNTAIN APACHE HOUSING PROJECT (AZA19980075)](./Apache%20County/WHITE%20MOUNTAIN%20APACHE%20HOUSING%20PROJECT%20%28AZA19980075%29.md) | AZA19980075 | MCNARY | 1998 | 20 | 20 |
+| [TSAILE ACRES APTS II (AZA20010075)](./Apache%20County/TSAILE%20ACRES%20APTS%20II%20%28AZA20010075%29.md) | AZA20010075 | TSAILE | 2001 | 32 | 32 |
+| [WHITE MESA APTS (AZA20010085)](./Apache%20County/WHITE%20MESA%20APTS%20%28AZA20010085%29.md) | AZA20010085 | SANDERS | 2001 | 37 | 33 |
+| [EAGLE COVE APTS (AZA20060040)](./Apache%20County/EAGLE%20COVE%20APTS%20%28AZA20060040%29.md) | AZA20060040 | EAGAR | 2006 | 48 | 48 |
+| [HILLCREST DUPLEXES (AZA20080005)](./Apache%20County/HILLCREST%20DUPLEXES%20%28AZA20080005%29.md) | AZA20080005 | ST JOHNS | 2008 | 24 | 20 |

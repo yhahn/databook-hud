@@ -1,0 +1,85 @@
+# Project: NORTHTOWN VILLAGE TOWNHOMES II (INA20110085)
+
+- HUD ID: INA20110085
+- HUD ID before: 
+- Project: NORTHTOWN VILLAGE TOWNHOMES II
+- Address: 3637 MAIN ST
+- City: EAST CHICAGO
+- State: IN
+- ZIP: 46312
+- ZIP extension: 
+- State project ID: IN-09-01800
+- Latitude: 41.646858
+- Longitude: -87.444807
+- County FIPS: 18089
+- County from: 2020
+- Tract 2020: 18089031000
+- Tract 2010: 18089031000
+- Tract 2000: 18089031000
+- Tract 1990: 18089031000
+- Place 2020: 19486
+- Place 2010: 19486
+- Place 2000: 19486
+- Place 1990: 0680
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 975000
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 31
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 5338130
+- TCEP: Yes
+- TCEP amount: 922904
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2011518.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUNNINGDALE (TXA20130946)
+
+- HUD ID: TXA20130946
+- HUD ID before: 
+- Project: SUNNINGDALE
+- Address: 1018 WELLMAN RD
+- City: SHENANDOAH
+- State: TX
+- ZIP: 77384
+- ZIP extension: 
+- State project ID: TX4806
+- Latitude: 30.18698
+- Longitude: -95.458223
+- County FIPS: 48339
+- County from: 2020
+- Tract 2020: 48339690702
+- Tract 2010: 48339690700
+- Tract 2000: 48339690700
+- Tract 1990: 48339090227
+- Place 2020: 67400
+- Place 2010: 67400
+- Place 2000: 67400
+- Place 1990: 3913
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 130
+- Low-income units: 130
+- Units reported: 130
+- Low-income reported: 130
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

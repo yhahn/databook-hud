@@ -1,0 +1,85 @@
+# Project: REGENT SQUARE (CAA20130079)
+
+- HUD ID: CAA20130079
+- HUD ID before: 
+- Project: REGENT SQUARE
+- Address: 527 W REGENT ST
+- City: INGLEWOOD
+- State: CA
+- ZIP: 90301
+- ZIP extension: 
+- State project ID: CA-11-853
+- Latitude: 33.964474
+- Longitude: -118.365019
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037601401
+- Tract 2010: 06037601401
+- Tract 2000: 06037601401
+- Tract 1990: 06037601401
+- Place 2020: 36546
+- Place 2010: 36546
+- Place 2000: 36546
+- Place 1990: 1340
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 145
+- Low-income units: 143
+- Units reported: 145
+- Low-income reported: 143
+- Efficiencies: 1
+- 1-bedroom units: 36
+- 2-bedroom units: 101
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 27
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 4000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

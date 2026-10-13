@@ -1,0 +1,85 @@
+# Project: CLOVERDALE PLAZA APARTMENTS (LAA20120045)
+
+- HUD ID: LAA20120045
+- HUD ID before: 
+- Project: CLOVERDALE PLAZA APARTMENTS
+- Address: 2213 SHED ROAD
+- City: BOSSIER CITY
+- State: LA
+- ZIP: 71111
+- ZIP extension: 0000
+- State project ID: LA-10-025
+- Latitude: 32.532332
+- Longitude: -93.719375
+- County FIPS: 22015
+- County from: 2020
+- Tract 2020: 22015010602
+- Tract 2010: 22015010602
+- Tract 2000: 22015010602
+- Tract 1990: 22015010602
+- Place 2020: 08920
+- Place 2010: 08920
+- Place 2000: 08920
+- Place 1990: 0140
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 113113
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Acquisition/Rehab
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: JEFFERSON PARK APTS (LIBERTY) (MOA19880650)
+
+- HUD ID: MOA19880650
+- HUD ID before: 
+- Project: JEFFERSON PARK APTS (LIBERTY)
+- Address: 1210 MISSOURI CT
+- City: LIBERTY
+- State: MO
+- ZIP: 64068
+- ZIP extension: 
+- State project ID: 68018
+- Latitude: 39.233873
+- Longitude: -94.416462
+- County FIPS: 29047
+- County from: 2020
+- Tract 2020: 29047022301
+- Tract 2010: 29047022301
+- Tract 2000: 29047020802
+- Tract 1990: 29047020802
+- Place 2020: 42032
+- Place 2010: 42032
+- Place 2000: 14554
+- Place 1990: 2475
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA1987335.
+- Record status: Existing, unchanged

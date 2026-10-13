@@ -1,0 +1,85 @@
+# Project: ARLINGTON (NJA20222004)
+
+- HUD ID: NJA20222004
+- HUD ID before: 
+- Project: ARLINGTON
+- Address: 55-57 S MUNN AVE
+- City: EAST ORANGE
+- State: NJ
+- ZIP: 07018
+- ZIP extension: 3631
+- State project ID: 07710-1
+- Latitude: 40.756132
+- Longitude: -74.212229
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013011100
+- Tract 2010: 34013011100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 19390
+- Place 2010: 19390
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1847387
+- Units: 178
+- Low-income units: 178
+- Units reported: 178
+- Low-income reported: 178
+- Efficiencies: 35
+- 1-bedroom units: 143
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

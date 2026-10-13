@@ -1,0 +1,85 @@
+# Project: DESERT OAK APTS (CAA20110112)
+
+- HUD ID: CAA20110112
+- HUD ID before: 
+- Project: DESERT OAK APTS
+- Address: 2870 OAK CREEK RD
+- City: MOJAVE
+- State: CA
+- ZIP: 93501
+- ZIP extension: 
+- State project ID: CA-09-579
+- Latitude: 35.056044
+- Longitude: -118.183708
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029005900
+- Tract 2010: 06029005900
+- Tract 2000: 06029005900
+- Tract 1990: 06029005900
+- Place 2020: 48452
+- Place 2010: 48452
+- Place 2000: 48452
+- Place 1990: 1795
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: Yes
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 989860
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1987060, CAA0000545.
+- Record status: Existing, unchanged

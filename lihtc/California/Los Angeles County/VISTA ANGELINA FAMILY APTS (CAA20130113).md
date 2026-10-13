@@ -1,0 +1,85 @@
+# Project: VISTA ANGELINA FAMILY APTS (CAA20130113)
+
+- HUD ID: CAA20130113
+- HUD ID before: 
+- Project: VISTA ANGELINA FAMILY APTS
+- Address: 418 E EDGEWARE RD
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90026
+- ZIP extension: 
+- State project ID: CA-12-806
+- Latitude: 34.065856
+- Longitude: -118.254932
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037208002
+- Tract 2010: 06037208000
+- Tract 2000: 06037208000
+- Tract 1990: 06037208000
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 768316
+- Units: 108
+- Low-income units: 106
+- Units reported: 108
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 65
+- 3-bedroom units: 18
+- 4-bedroom units: 15
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 106
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 8725000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1995106. AKA TEMPLE/EDGEWARE APTS.
+- Record status: Existing, unchanged

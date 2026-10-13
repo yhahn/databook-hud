@@ -1,0 +1,85 @@
+# Project: NORTH AND PULASKI ELDERLY APARTMENT (ILB20149058)
+
+- HUD ID: ILB20149058
+- HUD ID before: 
+- Project: NORTH AND PULASKI ELDERLY APARTMENT
+- Address: 3949 W. NORTH AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60647
+- ZIP extension: 
+- State project ID: IL-13-02
+- Latitude: 41.909702
+- Longitude: -87.725587
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031230700
+- Tract 2010: 17031230700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,26 @@
+# Tax Credit Projects: Madison County, ID
+
+- Level: County
+- Postal code: ID
+- State FIPS: 16
+- County FIPS: 16065
+- Counties: 
+- Projects: 9
+- Units: 391
+- Low-income units: 377
+
+The low-income housing tax credit projects of Madison County, Idaho, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [BRENCHLEY (IDA19910010)](./Madison%20County/BRENCHLEY%20%28IDA19910010%29.md) | IDA19910010 | REXBURG | 1991 | 32 | 32 |
+| [SOUTH BRENCHLEY (IDA19940035)](./Madison%20County/SOUTH%20BRENCHLEY%20%28IDA19940035%29.md) | IDA19940035 | REXBURG | 1994 | 30 | 30 |
+| [DONEGAL (IDA19970015)](./Madison%20County/DONEGAL%20%28IDA19970015%29.md) | IDA19970015 | REXBURG | 1997 | 32 | 32 |
+| [WEST TISBURY (IDA19990050)](./Madison%20County/WEST%20TISBURY%20%28IDA19990050%29.md) | IDA19990050 | REXBURG | 1999 | 34 | 33 |
+| [MAIN STREET STATION (IDA20030025)](./Madison%20County/MAIN%20STREET%20STATION%20%28IDA20030025%29.md) | IDA20030025 | REXBURG | 2003 | 68 | 67 |
+| [ROCKWELL COURT (IDA20130230)](./Madison%20County/ROCKWELL%20COURT%20%28IDA20130230%29.md) | IDA20130230 | REXBURG | 2013 | 51 | 45 |
+| [GROVE @ RIVERSIDE (IDA20150001)](./Madison%20County/GROVE%20%40%20RIVERSIDE%20%28IDA20150001%29.md) | IDA20150001 | REXBURG | 2015 | 48 | 48 |
+| [GROVE AT RIVERSIDE (THE) (IDA20152001)](./Madison%20County/GROVE%20AT%20RIVERSIDE%20%28THE%29%20%28IDA20152001%29.md) | IDA20152001 | REXBURG | 2015 | 48 | 48 |
+| [CARLOW SENIOR (IDA20162001)](./Madison%20County/CARLOW%20SENIOR%20%28IDA20162001%29.md) | IDA20162001 | REXBURG | 2016 | 48 | 42 |

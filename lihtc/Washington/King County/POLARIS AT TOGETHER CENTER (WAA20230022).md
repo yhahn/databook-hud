@@ -1,0 +1,85 @@
+# Project: POLARIS AT TOGETHER CENTER (WAA20230022)
+
+- HUD ID: WAA20230022
+- HUD ID before: 
+- Project: POLARIS AT TOGETHER CENTER
+- Address: 16225 NE 87TH STREET
+- City: REDMOND
+- State: WA
+- ZIP: 98052
+- ZIP extension: 
+- State project ID: 20-67A
+- Latitude: 47.679641
+- Longitude: -122.123953
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033032330
+- Tract 2010: 53033032309
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 57535
+- Place 2010: 57535
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 2557961
+- Units: 200
+- Low-income units: 198
+- Units reported: 200
+- Low-income reported: 198
+- Efficiencies: 20
+- 1-bedroom units: 70
+- 2-bedroom units: 70
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: SUNLAND PARK APTS (ORA20080115)
+
+- HUD ID: ORA20080115
+- HUD ID before: 
+- Project: SUNLAND PARK APTS
+- Address: 1630 W SUNLAND AVE
+- City: HERMISTON
+- State: OR
+- ZIP: 97838
+- ZIP extension: 
+- State project ID: 1751
+- Latitude: 45.829928
+- Longitude: -119.31875
+- County FIPS: 41059
+- County from: 2020
+- Tract 2020: 41059951100
+- Tract 2010: 41059951100
+- Tract 2000: 41059951100
+- Tract 1990: 41059951100
+- Place 2020: 33700
+- Place 2010: 33700
+- Place 2000: 33700
+- Place 1990: 0515
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 119224
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 31
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

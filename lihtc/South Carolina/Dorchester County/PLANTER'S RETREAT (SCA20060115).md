@@ -1,0 +1,85 @@
+# Project: PLANTER'S RETREAT (SCA20060115)
+
+- HUD ID: SCA20060115
+- HUD ID before: 
+- Project: PLANTER'S RETREAT
+- Address: 4370 LADSON RD
+- City: LADSON
+- State: SC
+- ZIP: 29456
+- ZIP extension: 
+- State project ID: SC-50-401
+- Latitude: 32.96112
+- Longitude: -80.156524
+- County FIPS: 45035
+- County from: 2020
+- Tract 2020: 45035010813
+- Tract 2010: 45035010813
+- Tract 2000: 45035010810
+- Tract 1990: 45035010898
+- Place 2020: 70270
+- Place 2010: 70270
+- Place 2000: 70270
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 490726
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 96
+- 3-bedroom units: 96
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

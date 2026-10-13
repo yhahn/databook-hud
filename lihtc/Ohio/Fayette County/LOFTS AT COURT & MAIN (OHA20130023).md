@@ -1,0 +1,85 @@
+# Project: LOFTS AT COURT & MAIN (OHA20130023)
+
+- HUD ID: OHA20130023
+- HUD ID before: 
+- Project: LOFTS AT COURT & MAIN
+- Address: 113 S MAIN ST
+- City: WASHINGTON COURT HOUSE
+- State: OH
+- ZIP: 43160
+- ZIP extension: 
+- State project ID: 120105
+- Latitude: 39.535533
+- Longitude: -83.439898
+- County FIPS: 39047
+- County from: 2020
+- Tract 2020: 39047926200
+- Tract 2010: 39047926200
+- Tract 2000: 39047986200
+- Tract 1990: 39047986200
+- Place 2020: 81718
+- Place 2010: 81718
+- Place 2000: 81214
+- Place 1990: 4495
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

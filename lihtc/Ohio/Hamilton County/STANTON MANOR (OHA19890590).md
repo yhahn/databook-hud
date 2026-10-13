@@ -1,0 +1,85 @@
+# Project: STANTON MANOR (OHA19890590)
+
+- HUD ID: OHA19890590
+- HUD ID before: 
+- Project: STANTON MANOR
+- Address: 2612 STANTON AVE
+- City: CINCINNATI
+- State: OH
+- ZIP: 45206
+- ZIP extension: 
+- State project ID: OH-89-0467
+- Latitude: 39.128226
+- Longitude: -84.492128
+- County FIPS: 39061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39061026700
+- Tract 2000: 39061003500
+- Tract 1990: 39061003500
+- Place 2020: 
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

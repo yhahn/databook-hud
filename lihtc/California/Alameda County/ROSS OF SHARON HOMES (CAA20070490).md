@@ -1,0 +1,85 @@
+# Project: ROSS OF SHARON HOMES (CAA20070490)
+
+- HUD ID: CAA20070490
+- HUD ID before: 
+- Project: ROSS OF SHARON HOMES
+- Address: 1600 LAKESHORE AVE
+- City: OAKLAND
+- State: CA
+- ZIP: 94606
+- ZIP extension: 
+- State project ID: CA-06-885
+- Latitude: 37.799592
+- Longitude: -122.255519
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001405302
+- Tract 2010: 06001405302
+- Tract 2000: 06001405300
+- Tract 1990: 06001405300
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1970
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 487755
+- Units: 142
+- Low-income units: 142
+- Units reported: 142
+- Low-income reported: 142
+- Efficiencies: 86
+- 1-bedroom units: 56
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: JEFFERSON GROVE (GAA20191016)
+
+- HUD ID: GAA20191016
+- HUD ID before: 
+- Project: JEFFERSON GROVE
+- Address: 414 JEFFERSON BYPASS
+- City: NEWNAN
+- State: GA
+- ZIP: 30263
+- ZIP extension: 
+- State project ID: 2017-512
+- Latitude: 33.3398
+- Longitude: -84.8657
+- County FIPS: 13077
+- County from: 2020
+- Tract 2020: 13077170701
+- Tract 2010: 13077170700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 55020
+- Place 2010: 55020
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1141689
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 
+- 1-bedroom units: 24
+- 2-bedroom units: 72
+- 3-bedroom units: 64
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

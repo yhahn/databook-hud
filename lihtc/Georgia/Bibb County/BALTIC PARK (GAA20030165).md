@@ -1,0 +1,85 @@
+# Project: BALTIC PARK (GAA20030165)
+
+- HUD ID: GAA20030165
+- HUD ID before: 
+- Project: BALTIC PARK
+- Address: 860 HIGHTOWER RD
+- City: MACON
+- State: GA
+- ZIP: 31206
+- ZIP extension: 2294
+- State project ID: GA-01-087
+- Latitude: 32.810974
+- Longitude: -83.652313
+- County FIPS: 13021
+- County from: 2020
+- Tract 2020: 13021012700
+- Tract 2010: 13021012700
+- Tract 2000: 13021012700
+- Tract 1990: 13021012700
+- Place 2020: 49008
+- Place 2010: 49000
+- Place 2000: 49000
+- Place 1990: 1725
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 540872
+- Units: 81
+- Low-income units: 81
+- Units reported: 81
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 58
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

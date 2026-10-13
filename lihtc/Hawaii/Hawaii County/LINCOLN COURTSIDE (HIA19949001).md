@@ -1,0 +1,85 @@
+# Project: LINCOLN COURTSIDE (HIA19949001)
+
+- HUD ID: HIA19949001
+- HUD ID before: 
+- Project: LINCOLN COURTSIDE
+- Address: 400 KINOOLE ST
+- City: HILO
+- State: HI
+- ZIP: 96720
+- ZIP extension: 
+- State project ID: HI-1991-003
+- Latitude: 19.721214
+- Longitude: -155.086714
+- County FIPS: 15001
+- County from: 2020
+- Tract 2020: 15001020300
+- Tract 2010: 15001020300
+- Tract 2000: 15001020300
+- Tract 1990: 
+- Place 2020: 14650
+- Place 2010: 14650
+- Place 2000: 14650
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 287238
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 2
+- 1-bedroom units: 14
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

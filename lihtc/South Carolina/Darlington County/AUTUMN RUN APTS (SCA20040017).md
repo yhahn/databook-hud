@@ -1,0 +1,85 @@
+# Project: AUTUMN RUN APTS (SCA20040017)
+
+- HUD ID: SCA20040017
+- HUD ID before: 
+- Project: AUTUMN RUN APTS
+- Address: 405 WELLS ST
+- City: DARLINGTON
+- State: SC
+- ZIP: 29532
+- ZIP extension: 
+- State project ID: SC-03-024
+- Latitude: 34.305224
+- Longitude: -79.879531
+- County FIPS: 45031
+- County from: 2020
+- Tract 2020: 45031011201
+- Tract 2010: 45031011200
+- Tract 2000: 45031011200
+- Tract 1990: 45031011200
+- Place 2020: 18565
+- Place 2010: 18565
+- Place 2000: 18565
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 225656
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 600000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

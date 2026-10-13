@@ -1,0 +1,85 @@
+# Project: FISTERRA GARDENS APTS (ORA20090015)
+
+- HUD ID: ORA20090015
+- HUD ID before: 
+- Project: FISTERRA GARDENS APTS
+- Address: 101 DIVERISTY DRIVE
+- City: YACHATS
+- State: OR
+- ZIP: 
+- ZIP extension: 
+- State project ID: OR08-795
+- Latitude: 44.323332
+- Longitude: -124.100581
+- County FIPS: 41041
+- County from: 2020
+- Tract 2020: 41041951700
+- Tract 2010: 41041951700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 84200
+- Place 2010: 84200
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 554000
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LIBERTY PLACE (NEA20110825)
+
+- HUD ID: NEA20110825
+- HUD ID before: 
+- Project: LIBERTY PLACE
+- Address: 800 W 25TH ST
+- City: SOUTH SIOUX CITY
+- State: NE
+- ZIP: 68776
+- ZIP extension: 
+- State project ID: 7-0622
+- Latitude: 42.46617
+- Longitude: -96.423878
+- County FIPS: 31043
+- County from: 2020
+- Tract 2020: 31043010101
+- Tract 2010: 31043010100
+- Tract 2000: 31043010100
+- Tract 1990: 31043010100
+- Place 2020: 46030
+- Place 2010: 46030
+- Place 2000: 46030
+- Place 1990: 2255
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 904648
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 542353
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

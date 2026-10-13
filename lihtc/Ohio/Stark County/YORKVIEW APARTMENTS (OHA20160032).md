@@ -1,0 +1,85 @@
+# Project: YORKVIEW APARTMENTS (OHA20160032)
+
+- HUD ID: OHA20160032
+- HUD ID before: 
+- Project: YORKVIEW APARTMENTS
+- Address: 2198 HARSH AVENUE SOUTHEAST
+- City: MASSILLON
+- State: OH
+- ZIP: 44646
+- ZIP extension: 
+- State project ID: 150049
+- Latitude: 40.791255
+- Longitude: -81.492729
+- County FIPS: 39151
+- County from: 2020
+- Tract 2020: 39151714302
+- Tract 2010: 39151714302
+- Tract 2000: 39151714302
+- Tract 1990: 
+- Place 2020: 48244
+- Place 2010: 48244
+- Place 2000: 48244
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 350000
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 38
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LOMA PARDA (NMA20010030)
+
+- HUD ID: NMA20010030
+- HUD ID before: 
+- Project: LOMA PARDA
+- Address: 1200 CAMINO DE LA CRUZ
+- City: TAOS
+- State: NM
+- ZIP: 87571
+- ZIP extension: 
+- State project ID: 00280
+- Latitude: 36.376624
+- Longitude: -105.571966
+- County FIPS: 35055
+- County from: 2020
+- Tract 2020: 35055952601
+- Tract 2010: 35055952600
+- Tract 2000: 35055952600
+- Tract 1990: 35055952600
+- Place 2020: 76200
+- Place 2010: 76200
+- Place 2000: 61710
+- Place 1990: 0405
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 44
+- Units reported: 60
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

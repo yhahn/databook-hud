@@ -1,0 +1,85 @@
+# Project: MERCER MANOR APTS (WVA20110814)
+
+- HUD ID: WVA20110814
+- HUD ID before: 
+- Project: MERCER MANOR APTS
+- Address: 200 CHURCH LN
+- City: PRINCETON
+- State: WV
+- ZIP: 24740
+- ZIP extension: 
+- State project ID: WV-10-01101
+- Latitude: 37.366846
+- Longitude: -81.126879
+- County FIPS: 54055
+- County from: 2020
+- Tract 2020: 54055001500
+- Tract 2010: 54055001500
+- Tract 2000: 54055951500
+- Tract 1990: 54055951500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 65692
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1256494
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WVA1992060.
+- Record status: Existing, unchanged

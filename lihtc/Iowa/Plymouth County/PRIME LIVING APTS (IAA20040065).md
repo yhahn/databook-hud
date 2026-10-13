@@ -1,0 +1,85 @@
+# Project: PRIME LIVING APTS (IAA20040065)
+
+- HUD ID: IAA20040065
+- HUD ID before: 
+- Project: PRIME LIVING APTS
+- Address: 108 FIRST AVE NW
+- City: LE MARS
+- State: IA
+- ZIP: 51031
+- ZIP extension: 
+- State project ID: 03-11
+- Latitude: 42.7944
+- Longitude: -96.167561
+- County FIPS: 19149
+- County from: 2020
+- Tract 2020: 19149970200
+- Tract 2010: 19149970200
+- Tract 2000: 19149970200
+- Tract 1990: 19149970200
+- Place 2020: 44400
+- Place 2010: 44400
+- Place 2000: 44400
+- Place 1990: 2355
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 215015
+- Units: 27
+- Low-income units: 26
+- Units reported: 27
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

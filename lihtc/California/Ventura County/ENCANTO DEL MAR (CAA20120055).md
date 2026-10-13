@@ -1,0 +1,85 @@
+# Project: ENCANTO DEL MAR (CAA20120055)
+
+- HUD ID: CAA20120055
+- HUD ID before: 
+- Project: ENCANTO DEL MAR
+- Address: 375 E THOMPSON BLVD
+- City: VENTURA
+- State: CA
+- ZIP: 93001
+- ZIP extension: 
+- State project ID: CA-10-103
+- Latitude: 34.278424
+- Longitude: -119.295226
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111002400
+- Tract 2010: 06111002400
+- Tract 2000: 06111002400
+- Tract 1990: 06111002400
+- Place 2020: 65042
+- Place 2010: 65042
+- Place 2000: 65042
+- Place 1990: 2460
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 629632
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 19
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 36
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

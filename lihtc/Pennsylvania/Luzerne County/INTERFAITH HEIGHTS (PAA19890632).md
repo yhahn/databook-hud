@@ -1,0 +1,85 @@
+# Project: INTERFAITH HEIGHTS (PAA19890632)
+
+- HUD ID: PAA19890632
+- HUD ID before: 
+- Project: INTERFAITH HEIGHTS
+- Address: 272 COAL ST
+- City: WILKES BARRE
+- State: PA
+- ZIP: 18702
+- ZIP extension: 
+- State project ID: TC1989-0112
+- Latitude: 41.23896
+- Longitude: -75.867847
+- County FIPS: 42079
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42079201000
+- Tract 2000: 42079201000
+- Tract 1990: 42079201000
+- Place 2020: 
+- Place 2010: 85152
+- Place 2000: 85152
+- Place 1990: 8904
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 229147
+- Units: 215
+- Low-income units: 215
+- Units reported: 215
+- Low-income reported: 215
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 115
+- 3-bedroom units: 59
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1990330.
+- Record status: Existing, unchanged

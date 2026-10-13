@@ -1,0 +1,85 @@
+# Project: ARBORS AT WALNUT CREEK (INA20030015)
+
+- HUD ID: INA20030015
+- HUD ID before: 
+- Project: ARBORS AT WALNUT CREEK
+- Address: 1 E CREEKSIDE DR
+- City: GAS CITY
+- State: IN
+- ZIP: 46933
+- ZIP extension: 
+- State project ID: IN-02-00700
+- Latitude: 40.482567
+- Longitude: -85.575546
+- County FIPS: 18053
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18053010600
+- Tract 2000: 18053010600
+- Tract 1990: 18053010600
+- Place 2020: 
+- Place 2010: 27054
+- Place 2000: 27054
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 20
+- 4-bedroom units: 12
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HIDDEN PONDS.
+- Record status: Existing, unchanged

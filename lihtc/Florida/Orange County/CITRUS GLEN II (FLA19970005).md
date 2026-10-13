@@ -1,0 +1,85 @@
+# Project: CITRUS GLEN II (FLA19970005)
+
+- HUD ID: FLA19970005
+- HUD ID before: 
+- Project: CITRUS GLEN II
+- Address: 5404 LIMELIGHT CIR
+- City: ORLANDO
+- State: FL
+- ZIP: 32839
+- ZIP extension: 
+- State project ID: 167
+- Latitude: 28.4844
+- Longitude: -81.411397
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016904
+- Tract 2010: 12095016904
+- Tract 2000: 12095016904
+- Tract 1990: 12095016901
+- Place 2020: 50638
+- Place 2010: 50638
+- Place 2000: 50638
+- Place 1990: 1543
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

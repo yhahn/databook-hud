@@ -1,0 +1,85 @@
+# Project: CANYON CREEK TOWN HOMES (TXA00000237)
+
+- HUD ID: TXA00000237
+- HUD ID before: 
+- Project: CANYON CREEK TOWN HOMES
+- Address: 1476 CANYON CREEK DR
+- City: TEMPLE
+- State: TX
+- ZIP: 76502
+- ZIP extension: 
+- State project ID: TX4320
+- Latitude: 31.060921
+- Longitude: -97.370008
+- County FIPS: 48027
+- County from: 2020
+- Tract 2020: 48027021304
+- Tract 2010: 48027021303
+- Tract 2000: 48027021303
+- Tract 1990: 48027021301
+- Place 2020: 72176
+- Place 2010: 72176
+- Place 2000: 72176
+- Place 1990: 4205
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 199
+- Low-income units: 199
+- Units reported: 199
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

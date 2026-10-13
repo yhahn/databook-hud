@@ -1,0 +1,85 @@
+# Project: CHAPEL ESTATES PHASE II (MSA20070040)
+
+- HUD ID: MSA20070040
+- HUD ID before: 
+- Project: CHAPEL ESTATES PHASE II
+- Address: 147 CLAUDE DR
+- City: JACKSON
+- State: MS
+- ZIP: 39209
+- ZIP extension: 
+- State project ID: MS-06-007
+- Latitude: 32.353025
+- Longitude: -90.262274
+- County FIPS: 28049
+- County from: 2020
+- Tract 2020: 28049000700
+- Tract 2010: 28049000700
+- Tract 2000: 28049000700
+- Tract 1990: 28049000700
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 14420
+- Place 1990: 0615
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 378664
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 20
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

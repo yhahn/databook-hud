@@ -1,0 +1,85 @@
+# Project: HENRY CLAY RETIREMENT HOUSING (MSA19950060)
+
+- HUD ID: MSA19950060
+- HUD ID before: 
+- Project: HENRY CLAY RETIREMENT HOUSING
+- Address: 133 COMMERCE ST
+- City: WEST POINT
+- State: MS
+- ZIP: 39773
+- ZIP extension: 
+- State project ID: MS-93-029
+- Latitude: 33.606419
+- Longitude: -88.648654
+- County FIPS: 28025
+- County from: 2020
+- Tract 2020: 28025950300
+- Tract 2010: 28025950300
+- Tract 2000: 28025950300
+- Tract 1990: 28025950300
+- Place 2020: 79120
+- Place 2010: 79120
+- Place 2000: 79120
+- Place 1990: 1455
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 27
+- Low-income units: 13
+- Units reported: 27
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

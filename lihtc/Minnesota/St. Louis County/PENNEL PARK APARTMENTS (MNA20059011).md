@@ -1,0 +1,85 @@
+# Project: PENNEL PARK APARTMENTS (MNA20059011)
+
+- HUD ID: MNA20059011
+- HUD ID before: 
+- Project: PENNEL PARK APARTMENTS
+- Address: 330 ARLINGTON AVE N
+- City: DULUTH
+- State: MN
+- ZIP: 55811
+- ZIP extension: 
+- State project ID: D3276
+- Latitude: 46.801023
+- Longitude: -92.131861
+- County FIPS: 27137
+- County from: 2020
+- Tract 2020: 27137000301
+- Tract 2010: 27137000300
+- Tract 2000: 27137000300
+- Tract 1990: 27137000300
+- Place 2020: 17000
+- Place 2010: 17000
+- Place 2000: 17000
+- Place 1990: 1040
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 101
+- Low-income units: 97
+- Units reported: 101
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

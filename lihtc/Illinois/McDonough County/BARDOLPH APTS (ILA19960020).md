@@ -1,0 +1,85 @@
+# Project: BARDOLPH APTS (ILA19960020)
+
+- HUD ID: ILA19960020
+- HUD ID before: 
+- Project: BARDOLPH APTS
+- Address: 206 W SPRUCE ST
+- City: BARDOLPH
+- State: IL
+- ZIP: 61416
+- ZIP extension: 
+- State project ID: 90595
+- Latitude: 40.495942
+- Longitude: -90.565296
+- County FIPS: 17109
+- County from: 2020
+- Tract 2020: 17109011000
+- Tract 2010: 17109011000
+- Tract 2000: 17109011000
+- Tract 1990: 17109011000
+- Place 2020: 03675
+- Place 2010: 03675
+- Place 2000: 03675
+- Place 1990: 2770
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 13511
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

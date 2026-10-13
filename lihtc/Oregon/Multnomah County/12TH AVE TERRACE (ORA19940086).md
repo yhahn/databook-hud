@@ -1,0 +1,85 @@
+# Project: 12TH AVE TERRACE (ORA19940086)
+
+- HUD ID: ORA19940086
+- HUD ID before: 
+- Project: 12TH AVE TERRACE
+- Address: 1515 SW 12TH AVE
+- City: PORTLAND
+- State: OR
+- ZIP: 97201
+- ZIP extension: 
+- State project ID: OR-92-130
+- Latitude: 45.515047
+- Longitude: -122.687375
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051005500
+- Tract 2010: 41051005500
+- Tract 2000: 41051005500
+- Tract 1990: 41051005500
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 576732
+- Units: 119
+- Low-income units: 118
+- Units reported: 119
+- Low-income reported: 118
+- Efficiencies: 118
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 119
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

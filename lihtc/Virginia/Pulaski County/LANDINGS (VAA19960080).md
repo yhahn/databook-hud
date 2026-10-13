@@ -1,0 +1,85 @@
+# Project: LANDINGS (VAA19960080)
+
+- HUD ID: VAA19960080
+- HUD ID before: 
+- Project: LANDINGS
+- Address: 6899 SUNSET TER LN
+- City: FAIRLAWN
+- State: VA
+- ZIP: 24141
+- ZIP extension: 
+- State project ID: 1026
+- Latitude: 37.156133
+- Longitude: -80.559335
+- County FIPS: 51155
+- County from: 2020
+- Tract 2020: 51155210101
+- Tract 2010: 51155210100
+- Tract 2000: 51155210100
+- Tract 1990: 51155210100
+- Place 2020: 26736
+- Place 2010: 26736
+- Place 2000: 26736
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 16338
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA0000054.
+- Record status: Existing, unchanged

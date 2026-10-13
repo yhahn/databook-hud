@@ -1,0 +1,85 @@
+# Project: GARDEN WEST (WIA19940050)
+
+- HUD ID: WIA19940050
+- HUD ID before: 
+- Project: GARDEN WEST
+- Address: 2936 W WELLS ST
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53208
+- ZIP extension: 
+- State project ID: 1541
+- Latitude: 43.040446
+- Longitude: -87.951832
+- County FIPS: 55079
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55079013500
+- Tract 2000: 55079013500
+- Tract 1990: 55079013500
+- Place 2020: 
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

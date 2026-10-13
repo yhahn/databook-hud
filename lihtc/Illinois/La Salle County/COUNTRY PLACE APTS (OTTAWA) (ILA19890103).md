@@ -1,0 +1,85 @@
+# Project: COUNTRY PLACE APTS (OTTAWA) (ILA19890103)
+
+- HUD ID: ILA19890103
+- HUD ID before: 
+- Project: COUNTRY PLACE APTS (OTTAWA)
+- Address: 701 W MCKINLEY RD
+- City: OTTAWA
+- State: IL
+- ZIP: 61350
+- ZIP extension: 
+- State project ID: 123-89
+- Latitude: 41.324128
+- Longitude: -88.846576
+- County FIPS: 17099
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17099963500
+- Tract 2000: 17099963500
+- Tract 1990: 17099963500
+- Place 2020: 
+- Place 2010: 56926
+- Place 2000: 56926
+- Place 1990: 4450
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 36264
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000350.
+- Record status: Existing, unchanged

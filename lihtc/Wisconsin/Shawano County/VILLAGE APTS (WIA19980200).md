@@ -1,0 +1,85 @@
+# Project: VILLAGE APTS (WIA19980200)
+
+- HUD ID: WIA19980200
+- HUD ID before: 
+- Project: VILLAGE APTS
+- Address: 201 E MAIN ST
+- City: BOWLER
+- State: WI
+- ZIP: 54416
+- ZIP extension: 
+- State project ID: 2114
+- Latitude: 44.863143
+- Longitude: -88.980145
+- County FIPS: 55115
+- County from: 2020
+- Tract 2020: 55115100600
+- Tract 2010: 55115100600
+- Tract 2000: 55115980700
+- Tract 1990: 55115980700
+- Place 2020: 09025
+- Place 2010: 09025
+- Place 2000: 09025
+- Place 1990: 2545
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 6
+- Low-income units: 4
+- Units reported: 6
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

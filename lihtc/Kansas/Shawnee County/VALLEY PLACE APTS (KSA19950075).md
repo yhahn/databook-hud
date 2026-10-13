@@ -1,0 +1,85 @@
+# Project: VALLEY PLACE APTS (KSA19950075)
+
+- HUD ID: KSA19950075
+- HUD ID before: 
+- Project: VALLEY PLACE APTS
+- Address: 440 SE ARTER AVE
+- City: TOPEKA
+- State: KS
+- ZIP: 66607
+- ZIP extension: 
+- State project ID: 
+- Latitude: 39.04704
+- Longitude: -95.634405
+- County FIPS: 20177
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20177001100
+- Tract 2000: 20177001100
+- Tract 1990: 20177001100
+- Place 2020: 
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2795
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

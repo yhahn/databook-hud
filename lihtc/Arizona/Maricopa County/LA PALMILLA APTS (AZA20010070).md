@@ -1,0 +1,85 @@
+# Project: LA PALMILLA APTS (AZA20010070)
+
+- HUD ID: AZA20010070
+- HUD ID before: 
+- Project: LA PALMILLA APTS
+- Address: 3838 W CAMELBACK RD
+- City: PHOENIX
+- State: AZ
+- ZIP: 85019
+- ZIP extension: 
+- State project ID: BD-0007
+- Latitude: 33.509596
+- Longitude: -112.141519
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013107102
+- Tract 2010: 04013107102
+- Tract 2000: 04013107102
+- Tract 1990: 04013107100
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 0260
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 267
+- Low-income units: 267
+- Units reported: 267
+- Low-income reported: 267
+- Efficiencies: 0
+- 1-bedroom units: 94
+- 2-bedroom units: 149
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LA PALMILLA APTS (SYL-MAR). FKA SYL-MAR
+- Record status: Existing, unchanged

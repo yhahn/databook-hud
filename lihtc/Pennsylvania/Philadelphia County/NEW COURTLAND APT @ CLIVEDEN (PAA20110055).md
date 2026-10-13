@@ -1,0 +1,85 @@
+# Project: NEW COURTLAND APT @ CLIVEDEN (PAA20110055)
+
+- HUD ID: PAA20110055
+- HUD ID before: 
+- Project: NEW COURTLAND APT @ CLIVEDEN
+- Address: 319 W JOHNSON ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19144
+- ZIP extension: 
+- State project ID: TC20090406
+- Latitude: 40.040447
+- Longitude: -75.188069
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101023600
+- Tract 2010: 42101023600
+- Tract 2000: 42101023600
+- Tract 1990: 42101023600
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 700000
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 62
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2011505. AKA NEW COURTLAND APT AT CLIVEDEN.
+- Record status: Existing, unchanged

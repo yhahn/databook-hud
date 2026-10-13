@@ -1,0 +1,85 @@
+# Project: LEANDER STATION SENIOR VILLAGE (TXA20110844)
+
+- HUD ID: TXA20110844
+- HUD ID before: 
+- Project: LEANDER STATION SENIOR VILLAGE
+- Address: 11450 OLD 2243 W
+- City: LEANDER
+- State: TX
+- ZIP: 78641
+- ZIP extension: 
+- State project ID: TX4665
+- Latitude: 30.579871
+- Longitude: -97.862571
+- County FIPS: 48491
+- County from: 2020
+- Tract 2020: 48491020344
+- Tract 2010: 48491020314
+- Tract 2000: 48491020303
+- Tract 1990: 48491020303
+- Place 2020: 42016
+- Place 2010: 42016
+- Place 2000: 42016
+- Place 1990: 2421
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 116
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 3000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000340.
+- Record status: Existing, unchanged

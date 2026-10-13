@@ -1,0 +1,85 @@
+# Project: FRANKLIN WINDSOR APTS (NYB20110801)
+
+- HUD ID: NYB20110801
+- HUD ID before: 
+- Project: FRANKLIN WINDSOR APTS
+- Address: 40 WINDSOR TER
+- City: WHITE PLAINS
+- State: NY
+- ZIP: 10601
+- ZIP extension: 
+- State project ID: NY-XX-2011
+- Latitude: 41.034055
+- Longitude: -73.760013
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119008802
+- Tract 2010: 36119008800
+- Tract 2000: 36119008800
+- Tract 1990: 36119008800
+- Place 2020: 81677
+- Place 2010: 81677
+- Place 2000: 81677
+- Place 1990: 3970
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 548147
+- Units: 100
+- Low-income units: 98
+- Units reported: 100
+- Low-income reported: 98
+- Efficiencies: 25
+- 1-bedroom units: 74
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

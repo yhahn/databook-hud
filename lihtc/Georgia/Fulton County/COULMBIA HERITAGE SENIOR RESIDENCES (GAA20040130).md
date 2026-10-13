@@ -1,0 +1,85 @@
+# Project: COULMBIA HERITAGE SENIOR RESIDENCES (GAA20040130)
+
+- HUD ID: GAA20040130
+- HUD ID before: 
+- Project: COULMBIA HERITAGE SENIOR RESIDENCES
+- Address: 1900 PERRY BLVD NW
+- City: ATLANTA
+- State: GA
+- ZIP: 30318
+- ZIP extension: 
+- State project ID: GA-02-060
+- Latitude: 33.794343
+- Longitude: -84.449219
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121008702
+- Tract 2010: 13121008700
+- Tract 2000: 13121008701
+- Tract 1990: 13121008701
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 726607
+- Units: 132
+- Low-income units: 78
+- Units reported: 132
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 130
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COLUMBIA HERITAGE SENIOR RESIDENCES.
+- Record status: Existing, unchanged

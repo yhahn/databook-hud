@@ -1,0 +1,85 @@
+# Project: WATERSTONE PLACE (OHA20030280)
+
+- HUD ID: OHA20030280
+- HUD ID before: 
+- Project: WATERSTONE PLACE
+- Address: 1380 ARBOR AVE SE
+- City: WARREN
+- State: OH
+- ZIP: 44484
+- ZIP extension: 
+- State project ID: 030102
+- Latitude: 41.223203
+- Longitude: -80.785607
+- County FIPS: 39155
+- County from: 2020
+- Tract 2020: 39155921500
+- Tract 2010: 39155921500
+- Tract 2000: 39155921500
+- Tract 1990: 39155921500
+- Place 2020: 80892
+- Place 2010: 80892
+- Place 2000: 55916
+- Place 1990: 4480
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 96573
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 39
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003606, OHA2005012.
+- Record status: Existing, unchanged

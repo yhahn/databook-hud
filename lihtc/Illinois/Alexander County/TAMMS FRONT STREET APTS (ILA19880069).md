@@ -1,0 +1,85 @@
+# Project: TAMMS FRONT STREET APTS (ILA19880069)
+
+- HUD ID: ILA19880069
+- HUD ID before: 
+- Project: TAMMS FRONT STREET APTS
+- Address: 306 FRONT ST
+- City: TAMMS
+- State: IL
+- ZIP: 62988
+- ZIP extension: 
+- State project ID: 153-88
+- Latitude: 37.234132
+- Longitude: -89.270337
+- County FIPS: 17003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17003957600
+- Tract 2000: 17003957600
+- Tract 1990: 17003957600
+- Place 2020: 
+- Place 2010: 74457
+- Place 2000: 21605
+- Place 1990: 5665
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 7546
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000960.
+- Record status: Existing, unchanged

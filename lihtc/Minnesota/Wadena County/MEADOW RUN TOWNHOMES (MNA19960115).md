@@ -1,0 +1,85 @@
+# Project: MEADOW RUN TOWNHOMES (MNA19960115)
+
+- HUD ID: MNA19960115
+- HUD ID before: 
+- Project: MEADOW RUN TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: MENAHGA
+- State: MN
+- ZIP: 56464
+- ZIP extension: 
+- State project ID: D0779
+- Latitude: 46.7133
+- Longitude: -94.975
+- County FIPS: 27159
+- County from: 2020
+- Tract 2020: 27159480100
+- Tract 2010: 27159480100
+- Tract 2000: 27159980100
+- Tract 1990: 27159980100
+- Place 2020: 41660
+- Place 2010: 41660
+- Place 2000: 41660
+- Place 1990: 2525
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

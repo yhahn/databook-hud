@@ -1,0 +1,85 @@
+# Project: FOREST PARK (TXA20136007)
+
+- HUD ID: TXA20136007
+- HUD ID before: 
+- Project: FOREST PARK
+- Address: 1088 PARK PLAZA DR.
+- City: AUSTIN
+- State: TX
+- ZIP: 78753
+- ZIP extension: 
+- State project ID: TX1323
+- Latitude: 30.348609
+- Longitude: -97.686373
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453040300
+- Tract 2010: 48453001813
+- Tract 2000: 48453001910
+- Tract 1990: 48453001905
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0210
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 228
+- Low-income units: 228
+- Units reported: 228
+- Low-income reported: 228
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 120
+- 3-bedroom units: 72
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

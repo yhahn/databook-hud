@@ -1,0 +1,85 @@
+# Project: PINECREST APARTMENTS (KYA20050150)
+
+- HUD ID: KYA20050150
+- HUD ID before: 
+- Project: PINECREST APARTMENTS
+- Address: PINECREST PARK
+- City: LOUISA
+- State: KY
+- ZIP: 41230
+- ZIP extension: 
+- State project ID: KY-04-053
+- Latitude: 38.1595
+- Longitude: -82.6733
+- County FIPS: 21127
+- County from: 2020
+- Tract 2020: 21127930400
+- Tract 2010: 21127930100
+- Tract 2000: 21127990100
+- Tract 1990: 21127990100
+- Place 2020: 99999
+- Place 2010: 47854
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

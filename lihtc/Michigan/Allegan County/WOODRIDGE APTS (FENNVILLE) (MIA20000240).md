@@ -1,0 +1,85 @@
+# Project: WOODRIDGE APTS (FENNVILLE) (MIA20000240)
+
+- HUD ID: MIA20000240
+- HUD ID before: 
+- Project: WOODRIDGE APTS (FENNVILLE)
+- Address: 5640 LANDSBURG RD
+- City: FENNVILLE
+- State: MI
+- ZIP: 49408
+- ZIP extension: 
+- State project ID: MI-2349
+- Latitude: 42.601543
+- Longitude: -86.098569
+- County FIPS: 26005
+- County from: 2020
+- Tract 2020: 26005030704
+- Tract 2010: 26005030704
+- Tract 2000: 26005030701
+- Tract 1990: 26005030701
+- Place 2020: 27740
+- Place 2010: 27740
+- Place 2000: 27740
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 51
+- Units reported: 52
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 20
+- 3-bedroom units: 8
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

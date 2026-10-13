@@ -1,0 +1,85 @@
+# Project: PARKWAY RANCH II (TXA00000736)
+
+- HUD ID: TXA00000736
+- HUD ID before: 
+- Project: PARKWAY RANCH II
+- Address: 9922 W MONTGOMERY RD
+- City: HOUSTON
+- State: TX
+- ZIP: 77088
+- ZIP extension: 
+- State project ID: TX4361
+- Latitude: 29.88581
+- Longitude: -95.451473
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201533402
+- Tract 2010: 48201533400
+- Tract 2000: 48201533400
+- Tract 1990: 48201053101
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

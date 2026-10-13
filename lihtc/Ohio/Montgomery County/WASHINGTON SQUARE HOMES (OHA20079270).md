@@ -1,0 +1,85 @@
+# Project: WASHINGTON SQUARE HOMES (OHA20079270)
+
+- HUD ID: OHA20079270
+- HUD ID before: 
+- Project: WASHINGTON SQUARE HOMES
+- Address: 2475 S DIXIE DR
+- City: DAYTON
+- State: OH
+- ZIP: 45409
+- ZIP extension: 
+- State project ID: 05-0087
+- Latitude: 39.718863
+- Longitude: -84.19814
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113020100
+- Tract 2010: 39113020100
+- Tract 2000: 39113020100
+- Tract 1990: 39113020100
+- Place 2020: 40040
+- Place 2010: 40040
+- Place 2000: 40040
+- Place 1990: 2025
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 602061
+- Units: 45
+- Low-income units: 39
+- Units reported: 45
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 13
+- 4-bedroom units: 26
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 240000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006699, OHA2007180.
+- Record status: Existing, unchanged

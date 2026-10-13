@@ -1,0 +1,85 @@
+# Project: THE RESERVES AT PRAIRIE RIDGE II (KSA20140599)
+
+- HUD ID: KSA20140599
+- HUD ID before: 
+- Project: THE RESERVES AT PRAIRIE RIDGE II
+- Address: 3201 N CAMPUS DR
+- City: GARDEN CITY
+- State: KS
+- ZIP: 67846
+- ZIP extension: 
+- State project ID: 60597
+- Latitude: 37.998339
+- Longitude: -100.847634
+- County FIPS: 20055
+- County from: 2020
+- Tract 2020: 20055960404
+- Tract 2010: 20055960404
+- Tract 2000: 20055960400
+- Tract 1990: 20055960400
+- Place 2020: 99999
+- Place 2010: 25325
+- Place 2000: 25325
+- Place 1990: 0985
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

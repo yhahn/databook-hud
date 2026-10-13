@@ -1,0 +1,85 @@
+# Project: HAMILTON HILL II AKA HILLSIDE CROSSIN (NYB20210013)
+
+- HUD ID: NYB20210013
+- HUD ID before: 
+- Project: HAMILTON HILL II AKA HILLSIDE CROSSIN
+- Address: 710 STANLEY STREET
+- City: SCHENECTADY
+- State: NY
+- ZIP: 12307
+- ZIP extension: 
+- State project ID: NY-22-2616
+- Latitude: 42.804914
+- Longitude: -73.937867
+- County FIPS: 36093
+- County from: 2020
+- Tract 2020: 36093020900
+- Tract 2010: 36093020900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 65508
+- Place 2010: 65508
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 85
+- Low-income units: 54
+- Units reported: 85
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 30
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

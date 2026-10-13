@@ -1,0 +1,85 @@
+# Project: 845 BROADWAY APTS (NYA20140005)
+
+- HUD ID: NYA20140005
+- HUD ID before: 
+- Project: 845 BROADWAY APTS
+- Address: 845 BROADWAY
+- City: SCHENECTADY
+- State: NY
+- ZIP: 12305
+- ZIP extension: 
+- State project ID: 20126006
+- Latitude: 42.803352
+- Longitude: -73.952416
+- County FIPS: 36093
+- County from: 2020
+- Tract 2020: 36093021400
+- Tract 2010: 36093021400
+- Tract 2000: 36093021400
+- Tract 1990: 36093021400
+- Place 2020: 65508
+- Place 2010: 65508
+- Place 2000: 65508
+- Place 1990: 3285
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1305959
+- Units: 155
+- Low-income units: 155
+- Units reported: 155
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

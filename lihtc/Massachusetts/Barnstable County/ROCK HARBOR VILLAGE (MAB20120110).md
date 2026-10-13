@@ -1,0 +1,85 @@
+# Project: ROCK HARBOR VILLAGE (MAB20120110)
+
+- HUD ID: MAB20120110
+- HUD ID before: 
+- Project: ROCK HARBOR VILLAGE
+- Address: 9 MAIN ST
+- City: ORLEANS
+- State: MA
+- ZIP: 02653
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 41.789984
+- Longitude: -69.9947
+- County FIPS: 25001
+- County from: 2020
+- Tract 2020: 25001010400
+- Tract 2010: 25001010400
+- Tract 2000: 25001010400
+- Tract 1990: 25001010400
+- Place 2020: 51405
+- Place 2010: 51405
+- Place 2000: 51405
+- Place 1990: 3170
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 530426
+- Units: 100
+- Low-income units: 95
+- Units reported: 100
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

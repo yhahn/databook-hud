@@ -1,0 +1,85 @@
+# Project: SUNNY MEADOWS APTS (CAA20120907)
+
+- HUD ID: CAA20120907
+- HUD ID before: 
+- Project: SUNNY MEADOWS APTS
+- Address: 220 ROSS AVE
+- City: FREEDOM
+- State: CA
+- ZIP: 95019
+- ZIP extension: 
+- State project ID: CA-11-077
+- Latitude: 36.928574
+- Longitude: -121.782323
+- County FIPS: 06087
+- County from: 2020
+- Tract 2020: 06087110602
+- Tract 2010: 06087110600
+- Tract 2000: 06087110600
+- Tract 1990: 06087110600
+- Place 2020: 83668
+- Place 2010: 83668
+- Place 2000: 25576
+- Place 1990: 1075
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1545611
+- Units: 200
+- Low-income units: 198
+- Units reported: 200
+- Low-income reported: 198
+- Efficiencies: 24
+- 1-bedroom units: 32
+- 2-bedroom units: 64
+- 3-bedroom units: 64
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 198
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

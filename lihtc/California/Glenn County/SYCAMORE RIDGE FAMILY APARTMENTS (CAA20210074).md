@@ -1,0 +1,85 @@
+# Project: SYCAMORE RIDGE FAMILY APARTMENTS (CAA20210074)
+
+- HUD ID: CAA20210074
+- HUD ID before: 
+- Project: SYCAMORE RIDGE FAMILY APARTMENTS
+- Address: 1245 WEST SYCAMORE STREET
+- City: WILLOWS
+- State: CA
+- ZIP: 95988
+- ZIP extension: 
+- State project ID: CA-2019-576
+- Latitude: 39.520619
+- Longitude: -122.209822
+- County FIPS: 06021
+- County from: 2020
+- Tract 2020: 06021010402
+- Tract 2010: 06021010400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 85684
+- Place 2010: 85684
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 388495
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Rural
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TOKA HOMES I (AZA20150011)
+
+- HUD ID: AZA20150011
+- HUD ID before: 
+- Project: TOKA HOMES I
+- Address: 51 N BABOQUIVARI CIRCLE
+- City: SELLS
+- State: AZ
+- ZIP: 85364
+- ZIP extension: 
+- State project ID: TC-0800
+- Latitude: 31.919121
+- Longitude: -111.864634
+- County FIPS: 04019
+- County from: 2020
+- Tract 2020: 04019940800
+- Tract 2010: 04019940800
+- Tract 2000: 04027000901
+- Tract 1990: 
+- Place 2020: 65490
+- Place 2010: 65490
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 491776
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 9
+- 3-bedroom units: 18
+- 4-bedroom units: 13
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SKYLINE GARDEN APTS (NYA20010182)
+
+- HUD ID: NYA20010182
+- HUD ID before: 
+- Project: SKYLINE GARDEN APTS
+- Address: 7 LARK ST
+- City: ALBANY
+- State: NY
+- ZIP: 12210
+- ZIP extension: 
+- State project ID: NY-93-1109
+- Latitude: 42.664193
+- Longitude: -73.754857
+- County FIPS: 36001
+- County from: 2020
+- Tract 2020: 36001000202
+- Tract 2010: 36001000200
+- Tract 2000: 36001000200
+- Tract 1990: 36001000200
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0030
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 313590
+- Units: 190
+- Low-income units: 190
+- Units reported: 190
+- Low-income reported: 190
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 103
+- 3-bedroom units: 39
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA1997005.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GRAND VISTA APTS. (UTA19910910)
+
+- HUD ID: UTA19910910
+- HUD ID before: 
+- Project: GRAND VISTA APTS.
+- Address: 620 EAST 100 NORTH
+- City: PAYSON
+- State: UT
+- ZIP: 84651
+- ZIP extension: 
+- State project ID: 1990-03
+- Latitude: 40.044343
+- Longitude: -111.722968
+- County FIPS: 49049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49049003402
+- Tract 2000: 49049003402
+- Tract 1990: 49049003400
+- Place 2020: 
+- Place 2010: 58730
+- Place 2000: 58730
+- Place 1990: 0750
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

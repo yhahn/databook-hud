@@ -1,0 +1,85 @@
+# Project: AUTUMN RIDGE (PAGE COUNTY) (VAA19980268)
+
+- HUD ID: VAA19980268
+- HUD ID before: 
+- Project: AUTUMN RIDGE (PAGE COUNTY)
+- Address: 340 POCAHONTAS AVE
+- City: SHENANDOAH
+- State: VA
+- ZIP: 22849
+- ZIP extension: 
+- State project ID: 918
+- Latitude: 38.488918
+- Longitude: -78.609188
+- County FIPS: 51139
+- County from: 2020
+- Tract 2020: 51139030500
+- Tract 2010: 51139030500
+- Tract 2000: 51139030500
+- Tract 1990: 51139030500
+- Place 2020: 71776
+- Place 2010: 71776
+- Place 2000: 71776
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 54908
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1997005.
+- Record status: Existing, unchanged

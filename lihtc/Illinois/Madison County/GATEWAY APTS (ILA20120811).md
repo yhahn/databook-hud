@@ -1,0 +1,85 @@
+# Project: GATEWAY APTS (ILA20120811)
+
+- HUD ID: ILA20120811
+- HUD ID before: 
+- Project: GATEWAY APTS
+- Address: 1676 MARKET ST
+- City: MADISON
+- State: IL
+- ZIP: 62060
+- ZIP extension: 
+- State project ID: 1028110
+- Latitude: 38.676932
+- Longitude: -90.152942
+- County FIPS: 17119
+- County from: 2020
+- Tract 2020: 17119400600
+- Tract 2010: 17119400600
+- Tract 2000: 17119400600
+- Tract 1990: 17119400600
+- Place 2020: 45993
+- Place 2010: 45993
+- Place 2000: 45993
+- Place 1990: 3445
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1715566
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 50
+- 3-bedroom units: 17
+- 4-bedroom units: 2
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

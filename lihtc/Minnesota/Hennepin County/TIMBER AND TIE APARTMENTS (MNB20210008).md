@@ -1,0 +1,85 @@
+# Project: TIMBER AND TIE APARTMENTS (MNB20210008)
+
+- HUD ID: MNB20210008
+- HUD ID before: 
+- Project: TIMBER AND TIE APARTMENTS
+- Address: 900 14TH AVENUE NORTHEAST
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55413
+- ZIP extension: 5102
+- State project ID: D8462
+- Latitude: 45.0021
+- Longitude: -93.248637
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053102500
+- Tract 2010: 27053102500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1178637
+- Units: 175
+- Low-income units: 175
+- Units reported: 175
+- Low-income reported: 175
+- Efficiencies: 23
+- 1-bedroom units: 59
+- 2-bedroom units: 47
+- 3-bedroom units: 41
+- 4-bedroom units: 5
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

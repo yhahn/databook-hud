@@ -1,0 +1,85 @@
+# Project: EDGEWOOD APTS (FLA20110531)
+
+- HUD ID: FLA20110531
+- HUD ID before: 
+- Project: EDGEWOOD APTS
+- Address: 3325 W 23RD ST
+- City: PANAMA CITY
+- State: FL
+- ZIP: 32405
+- ZIP extension: 
+- State project ID: 2463
+- Latitude: 30.189575
+- Longitude: -85.704603
+- County FIPS: 12005
+- County from: 2020
+- Tract 2020: 12005002400
+- Tract 2010: 12005002400
+- Tract 2000: 12005002400
+- Tract 1990: 12005002400
+- Place 2020: 54700
+- Place 2010: 54700
+- Place 2000: 54700
+- Place 1990: 1675
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 839123
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 42
+- 3-bedroom units: 28
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5465000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011055.
+- Record status: Existing, unchanged

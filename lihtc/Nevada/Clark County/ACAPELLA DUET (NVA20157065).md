@@ -1,0 +1,85 @@
+# Project: ACAPELLA DUET (NVA20157065)
+
+- HUD ID: NVA20157065
+- HUD ID before: 
+- Project: ACAPELLA DUET
+- Address: 5025 MOHAVE AVE
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89104
+- ZIP extension: 
+- State project ID: 13-02
+- Latitude: 36.153884
+- Longitude: -115.064811
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003001611
+- Tract 2010: 32003001611
+- Tract 2000: 32003001611
+- Tract 1990: 32003001603
+- Place 2020: 71400
+- Place 2010: 71400
+- Place 2000: 71400
+- Place 1990: 0110
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

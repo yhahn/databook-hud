@@ -1,0 +1,85 @@
+# Project: ELM PLACE (MAB20110090)
+
+- HUD ID: MAB20110090
+- HUD ID before: 
+- Project: ELM PLACE
+- Address: 1066 CAMBRIDGE ST
+- City: CAMBRIDGE
+- State: MA
+- ZIP: 02139
+- ZIP extension: 
+- State project ID: 1747
+- Latitude: 42.372904
+- Longitude: -71.095797
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017352800
+- Tract 2010: 25017352800
+- Tract 2000: 25017352800
+- Tract 1990: 25017352800
+- Place 2020: 11000
+- Place 2010: 11000
+- Place 2000: 11000
+- Place 1990: 0610
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 229250
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 10
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB20110090.
+- Record status: Existing, unchanged

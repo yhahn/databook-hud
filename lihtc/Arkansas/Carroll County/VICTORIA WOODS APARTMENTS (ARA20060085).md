@@ -1,0 +1,85 @@
+# Project: VICTORIA WOODS APARTMENTS (ARA20060085)
+
+- HUD ID: ARA20060085
+- HUD ID before: 
+- Project: VICTORIA WOODS APARTMENTS
+- Address: 100 VICTORIA WOODS BLVD
+- City: EUREKA SPRINGS
+- State: AR
+- ZIP: 72632
+- ZIP extension: 
+- State project ID: AR-90-04-001
+- Latitude: 36.404528
+- Longitude: -93.747764
+- County FIPS: 05015
+- County from: 2020
+- Tract 2020: 05015950100
+- Tract 2010: 05015950100
+- Tract 2000: 05015950100
+- Tract 1990: 05015950100
+- Place 2020: 22240
+- Place 2010: 22240
+- Place 2000: 22240
+- Place 1990: 0650
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 77081
+- Units: 25
+- Low-income units: 24
+- Units reported: 25
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: O'BRIEN FARM LOT 11 (ALLOC) (VTA20240006)
+
+- HUD ID: VTA20240006
+- HUD ID before: 
+- Project: O'BRIEN FARM LOT 11 (ALLOC)
+- Address: 101 & 109 MAIN ST
+- City: SOUTH BURLINGTON
+- State: VT
+- ZIP: 05403
+- ZIP extension: 
+- State project ID: VT0596
+- Latitude: 44.4727
+- Longitude: -73.2763
+- County FIPS: 50007
+- County from: 2020
+- Tract 2020: 50007003301
+- Tract 2010: 50007003304
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 66175
+- Place 2010: 66175
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 966000
+- Units: 47
+- Low-income units: 32
+- Units reported: 47
+- Low-income reported: 32
+- Efficiencies: 8
+- 1-bedroom units: 27
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

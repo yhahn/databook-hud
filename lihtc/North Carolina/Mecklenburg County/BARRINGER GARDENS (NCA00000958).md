@@ -1,0 +1,85 @@
+# Project: BARRINGER GARDENS (NCA00000958)
+
+- HUD ID: NCA00000958
+- HUD ID before: 
+- Project: BARRINGER GARDENS
+- Address: 1842 WEST BOULEVARD
+- City: CHARLOTTE
+- State: NC
+- ZIP: 28208
+- ZIP extension: 
+- State project ID: 9109034
+- Latitude: 35.214845
+- Longitude: -80.888036
+- County FIPS: 37119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37119003902
+- Tract 2000: 37119003902
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 85
+- Low-income units: 85
+- Units reported: 0
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

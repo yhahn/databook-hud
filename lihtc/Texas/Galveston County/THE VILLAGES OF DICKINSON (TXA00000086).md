@@ -1,0 +1,85 @@
+# Project: THE VILLAGES OF DICKINSON (TXA00000086)
+
+- HUD ID: TXA00000086
+- HUD ID before: 
+- Project: THE VILLAGES OF DICKINSON
+- Address: 406 DEATS RD
+- City: DICKINSON
+- State: TX
+- ZIP: 77539
+- ZIP extension: 
+- State project ID: TX5025
+- Latitude: 29.454859
+- Longitude: -95.077921
+- County FIPS: 48167
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48167720900
+- Tract 2000: 48167720900
+- Tract 1990: 48167121202
+- Place 2020: 
+- Place 2010: 20344
+- Place 2000: 20344
+- Place 1990: 1180
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 
+- Low-income units: 
+- Units reported: 
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FAITH VILLAGE APTS I (OHA20140045)
+
+- HUD ID: OHA20140045
+- HUD ID before: 
+- Project: FAITH VILLAGE APTS I
+- Address: 3227 IMANI DR
+- City: COLUMBUS
+- State: OH
+- ZIP: 43224
+- ZIP extension: 
+- State project ID: OH-13-0166
+- Latitude: 40.034966
+- Longitude: -82.94976
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049007534
+- Tract 2010: 39049007534
+- Tract 2000: 39049007534
+- Tract 1990: 39049007534
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 540061
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 58
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1995115. AKA MARYSVILLE MEADOWS APTS.
+- Record status: Existing, unchanged

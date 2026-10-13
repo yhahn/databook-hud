@@ -1,0 +1,85 @@
+# Project: HCCI PORTFOLIO (WEST 152ND STREET) (NYC20120080)
+
+- HUD ID: NYC20120080
+- HUD ID before: 
+- Project: HCCI PORTFOLIO (WEST 152ND STREET)
+- Address: 263 W 152ND ST
+- City: MANHATTAN
+- State: NY
+- ZIP: 10039
+- ZIP extension: 
+- State project ID: NY-11-032
+- Latitude: 40.827004
+- Longitude: -73.937681
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061023600
+- Tract 2010: 36061023600
+- Tract 2000: 36061023600
+- Tract 1990: 36061023600
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 135352
+- Units: 29
+- Low-income units: 20
+- Units reported: 29
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

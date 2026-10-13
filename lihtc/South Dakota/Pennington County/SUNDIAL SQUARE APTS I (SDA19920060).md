@@ -1,0 +1,85 @@
+# Project: SUNDIAL SQUARE APTS I (SDA19920060)
+
+- HUD ID: SDA19920060
+- HUD ID before: 
+- Project: SUNDIAL SQUARE APTS I
+- Address: 106 WATERLOO ST
+- City: RAPID CITY
+- State: SD
+- ZIP: 57701
+- ZIP extension: 
+- State project ID: SD-0050
+- Latitude: 44.083395
+- Longitude: -103.205514
+- County FIPS: 46103
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 46103010500
+- Tract 2000: 46103010500
+- Tract 1990: 46103010500
+- Place 2020: 
+- Place 2010: 52980
+- Place 2000: 52980
+- Place 1990: 1125
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

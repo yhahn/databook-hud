@@ -1,0 +1,85 @@
+# Project: CHARLES J LUNDERMAN ESTATES (MOA20089115)
+
+- HUD ID: MOA20089115
+- HUD ID before: 
+- Project: CHARLES J LUNDERMAN ESTATES
+- Address: 1803 COMPRESS ST
+- City: CARUTHERSVILLE
+- State: MO
+- ZIP: 63830
+- ZIP extension: 
+- State project ID: 07-073
+- Latitude: 36.17329
+- Longitude: -89.655393
+- County FIPS: 29155
+- County from: 2020
+- Tract 2020: 29155470300
+- Tract 2010: 29155470300
+- Tract 2000: 29155970300
+- Tract 1990: 29155970300
+- Place 2020: 11692
+- Place 2010: 99999
+- Place 2000: 11692
+- Place 1990: 0725
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 12
+- Low-income reported: 15
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

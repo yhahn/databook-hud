@@ -1,0 +1,85 @@
+# Project: GOLDEN RULE APTS II (DCB20070020)
+
+- HUD ID: DCB20070020
+- HUD ID before: 
+- Project: GOLDEN RULE APTS II
+- Address: 901 NEW JERSEY AVE NW
+- City: WASHINGTON
+- State: DC
+- ZIP: 20001
+- ZIP extension: 
+- State project ID: DCB2007020
+- Latitude: 38.90137
+- Longitude: -77.013111
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001004702
+- Tract 2010: 11001004702
+- Tract 2000: 11001004700
+- Tract 1990: 11001004700
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 943159
+- Units: 184
+- Low-income units: 183
+- Units reported: 184
+- Low-income reported: 183
+- Efficiencies: 0
+- 1-bedroom units: 53
+- 2-bedroom units: 112
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 183
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 950000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GROUP APTS, GOLDEN RULE APTS.
+- Record status: Existing, unchanged

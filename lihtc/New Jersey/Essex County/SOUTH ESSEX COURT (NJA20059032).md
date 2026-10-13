@@ -1,0 +1,85 @@
+# Project: SOUTH ESSEX COURT (NJA20059032)
+
+- HUD ID: NJA20059032
+- HUD ID before: 
+- Project: SOUTH ESSEX COURT
+- Address: 325 MECHANIC STREET
+- City: ORANGE CITY
+- State: NJ
+- ZIP: 07050
+- ZIP extension: 
+- State project ID: 2256
+- Latitude: 40.769336
+- Longitude: -74.233825
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013018600
+- Tract 2010: 34013018600
+- Tract 2000: 34013018600
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 55020
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1402883
+- Units: 74
+- Low-income units: 74
+- Units reported: 74
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

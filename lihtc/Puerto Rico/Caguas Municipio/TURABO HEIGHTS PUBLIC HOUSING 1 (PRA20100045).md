@@ -1,0 +1,85 @@
+# Project: TURABO HEIGHTS PUBLIC HOUSING 1 (PRA20100045)
+
+- HUD ID: PRA20100045
+- HUD ID before: 
+- Project: TURABO HEIGHTS PUBLIC HOUSING 1
+- Address: BLD 17
+- City: CAGUAS
+- State: PR
+- ZIP: 
+- ZIP extension: 
+- State project ID: 08-031
+- Latitude: 
+- Longitude: 
+- County FIPS: 72025
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1434998
+- Units: 186
+- Low-income units: 186
+- Units reported: 186
+- Low-income reported: 186
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 32
+- 3-bedroom units: 72
+- 4-bedroom units: 62
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA2010500.
+- Record status: Existing, unchanged

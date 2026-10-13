@@ -1,0 +1,85 @@
+# Project: THE MEETINGHOUSE (WIA20040125)
+
+- HUD ID: WIA20040125
+- HUD ID before: 
+- Project: THE MEETINGHOUSE
+- Address: 10801 W DONNA DR
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53224
+- ZIP extension: 
+- State project ID: 2588
+- Latitude: 43.171039
+- Longitude: -88.04504
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079000201
+- Tract 2010: 55079000201
+- Tract 2000: 55079000201
+- Tract 1990: 55079000200
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 86
+- Units reported: 96
+- Low-income reported: 86
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 42
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MEETINGHOUSE.
+- Record status: Existing, unchanged

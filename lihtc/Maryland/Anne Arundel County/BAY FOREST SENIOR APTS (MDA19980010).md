@@ -1,0 +1,85 @@
+# Project: BAY FOREST SENIOR APTS (MDA19980010)
+
+- HUD ID: MDA19980010
+- HUD ID before: 
+- Project: BAY FOREST SENIOR APTS
+- Address: 930 BAY FOREST CT
+- City: ANNAPOLIS
+- State: MD
+- ZIP: 21403
+- ZIP extension: 
+- State project ID: MD96-03
+- Latitude: 38.949509
+- Longitude: -76.485369
+- County FIPS: 24003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24003706301
+- Tract 2000: 24003706300
+- Tract 1990: 24003706300
+- Place 2020: 
+- Place 2010: 01600
+- Place 2000: 01600
+- Place 1990: 0011
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 90
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

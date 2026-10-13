@@ -1,0 +1,85 @@
+# Project: THE LANDINGS II (CAA20110235)
+
+- HUD ID: CAA20110235
+- HUD ID before: 
+- Project: THE LANDINGS II
+- Address: 1764 JAVA WAY
+- City: CHULA VISTA
+- State: CA
+- ZIP: 91915
+- ZIP extension: 
+- State project ID: CA-10-813
+- Latitude: 32.619468
+- Longitude: -116.959441
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073013321
+- Tract 2010: 06073013314
+- Tract 2000: 06073013313
+- Tract 1990: 06073013305
+- Place 2020: 13392
+- Place 2010: 13392
+- Place 2000: 13392
+- Place 1990: 0525
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 2107945
+- Units: 143
+- Low-income units: 141
+- Units reported: 143
+- Low-income reported: 141
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 143
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011613. AKA LANDINGS II.
+- Record status: Existing, unchanged

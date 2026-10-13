@@ -1,0 +1,85 @@
+# Project: ALDEN BERKLEY TOWNHOMES (MDA20060010)
+
+- HUD ID: MDA20060010
+- HUD ID before: 
+- Project: ALDEN BERKLEY TOWNHOMES
+- Address: 4906 LAKELAND RD
+- City: COLLEGE PARK
+- State: MD
+- ZIP: 20740
+- ZIP extension: 
+- State project ID: MD05-08001
+- Latitude: 38.989556
+- Longitude: -76.931975
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033807000
+- Tract 2010: 24033807000
+- Tract 2000: 24033807000
+- Tract 1990: 24033807000
+- Place 2020: 18750
+- Place 2010: 18750
+- Place 2000: 18750
+- Place 1990: 0220
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 41
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

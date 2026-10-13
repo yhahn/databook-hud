@@ -1,0 +1,85 @@
+# Project: RIVER PARK PLACE (FLA19990185)
+
+- HUD ID: FLA19990185
+- HUD ID before: 
+- Project: RIVER PARK PLACE
+- Address: 790 THIRD CIR
+- City: VERO BEACH
+- State: FL
+- ZIP: 32962
+- ZIP extension: 
+- State project ID: 696
+- Latitude: 27.615062
+- Longitude: -80.381013
+- County FIPS: 12061
+- County from: 2020
+- Tract 2020: 12061050601
+- Tract 2010: 12061050601
+- Tract 2000: 12061050601
+- Tract 1990: 12061050601
+- Place 2020: 74200
+- Place 2010: 74200
+- Place 2000: 74200
+- Place 1990: 2152
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 143
+- Units reported: 144
+- Low-income reported: 143
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 60
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

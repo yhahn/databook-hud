@@ -1,0 +1,85 @@
+# Project: SPRINGFIELD & SPRINGFIELD SENIOR CITIZEN (MIA20040275)
+
+- HUD ID: MIA20040275
+- HUD ID before: 
+- Project: SPRINGFIELD & SPRINGFIELD SENIOR CITIZEN
+- Address: 530 N MICHIGAN AVE
+- City: MANTON
+- State: MI
+- ZIP: 49663
+- ZIP extension: 
+- State project ID: MI-1068
+- Latitude: 44.415865
+- Longitude: -85.398114
+- County FIPS: 26165
+- County from: 2020
+- Tract 2020: 26165380100
+- Tract 2010: 26165380100
+- Tract 2000: 26165980100
+- Tract 1990: 26165980100
+- Place 2020: 50880
+- Place 2010: 50880
+- Place 2000: 50880
+- Place 1990: 1640
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

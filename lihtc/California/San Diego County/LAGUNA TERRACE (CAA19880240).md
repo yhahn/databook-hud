@@ -1,0 +1,85 @@
+# Project: LAGUNA TERRACE (CAA19880240)
+
+- HUD ID: CAA19880240
+- HUD ID before: 
+- Project: LAGUNA TERRACE
+- Address: 1014 LAGUNA DR
+- City: CARLSBAD
+- State: CA
+- ZIP: 92008
+- ZIP extension: 
+- State project ID: CA-88-181
+- Latitude: 33.165428
+- Longitude: -117.34586
+- County FIPS: 06073
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06073017900
+- Tract 2000: 06073017900
+- Tract 1990: 06073017900
+- Place 2020: 
+- Place 2010: 11194
+- Place 2000: 11194
+- Place 1990: 0405
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 26368
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0000905.
+- Record status: Existing, unchanged

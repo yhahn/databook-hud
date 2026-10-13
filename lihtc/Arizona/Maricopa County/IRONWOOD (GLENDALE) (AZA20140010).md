@@ -1,0 +1,85 @@
+# Project: IRONWOOD (GLENDALE) (AZA20140010)
+
+- HUD ID: AZA20140010
+- HUD ID before: 
+- Project: IRONWOOD (GLENDALE)
+- Address: 6738 N 45TH AVE
+- City: GLENDALE
+- State: AZ
+- ZIP: 85301
+- ZIP extension: 
+- State project ID: TC-0692
+- Latitude: 33.535972
+- Longitude: -112.155935
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013093001
+- Tract 2010: 04013093001
+- Tract 2000: 04013093000
+- Tract 1990: 04013093000
+- Place 2020: 27820
+- Place 2010: 27820
+- Place 2000: 27820
+- Place 1990: 0140
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1344402
+- Units: 95
+- Low-income units: 95
+- Units reported: 95
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 65
+- 3-bedroom units: 29
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA NORWOOD VILLAGE
+- Record status: Existing, unchanged

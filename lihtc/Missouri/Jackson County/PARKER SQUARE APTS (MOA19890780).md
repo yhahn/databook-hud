@@ -1,0 +1,85 @@
+# Project: PARKER SQUARE APTS (MOA19890780)
+
+- HUD ID: MOA19890780
+- HUD ID before: 
+- Project: PARKER SQUARE APTS
+- Address: 1051 BASIE ST
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64106
+- ZIP extension: 
+- State project ID: 159010
+- Latitude: 39.100991
+- Longitude: -94.562165
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095015401
+- Tract 2010: 29095015400
+- Tract 2000: 29095001600
+- Tract 1990: 29095001600
+- Place 2020: 38000
+- Place 2010: 38000
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 204
+- Low-income units: 204
+- Units reported: 204
+- Low-income reported: 204
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 108
+- 4-bedroom units: 48
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

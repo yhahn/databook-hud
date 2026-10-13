@@ -1,0 +1,85 @@
+# Project: BULL RUN APTS (COA20000020)
+
+- HUD ID: COA20000020
+- HUD ID before: 
+- Project: BULL RUN APTS
+- Address: 820 MERGANSER DR
+- City: FORT COLLINS
+- State: CO
+- ZIP: 80524
+- ZIP extension: 
+- State project ID: 970062
+- Latitude: 40.597866
+- Longitude: -105.033487
+- County FIPS: 08069
+- County from: 2020
+- Tract 2020: 08069001307
+- Tract 2010: 08069001307
+- Tract 2000: 08069001302
+- Tract 1990: 08069001302
+- Place 2020: 27425
+- Place 2010: 27425
+- Place 2000: 27425
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 175
+- Units reported: 176
+- Low-income reported: 175
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 80
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

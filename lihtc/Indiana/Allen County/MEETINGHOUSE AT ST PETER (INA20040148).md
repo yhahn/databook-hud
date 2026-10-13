@@ -1,0 +1,85 @@
+# Project: MEETINGHOUSE AT ST PETER (INA20040148)
+
+- HUD ID: INA20040148
+- HUD ID before: 
+- Project: MEETINGHOUSE AT ST PETER
+- Address: 611 E DEWALD ST
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46803
+- ZIP extension: 
+- State project ID: IN-02-04500
+- Latitude: 41.065515
+- Longitude: -85.129504
+- County FIPS: 18003
+- County from: 2020
+- Tract 2020: 18003004400
+- Tract 2010: 18003004400
+- Tract 2000: 18003001800
+- Tract 1990: 18003001800
+- Place 2020: 25000
+- Place 2010: 25000
+- Place 2000: 25000
+- Place 1990: 0825
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 443187
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

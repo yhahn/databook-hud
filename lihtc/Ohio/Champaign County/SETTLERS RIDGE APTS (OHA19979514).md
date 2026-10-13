@@ -1,0 +1,85 @@
+# Project: SETTLERS RIDGE APTS (OHA19979514)
+
+- HUD ID: OHA19979514
+- HUD ID before: 
+- Project: SETTLERS RIDGE APTS
+- Address: 941 W STATE RTE 29
+- City: URBANA
+- State: OH
+- ZIP: 43078
+- ZIP extension: 
+- State project ID: 950079
+- Latitude: 40.128114
+- Longitude: -83.771447
+- County FIPS: 39021
+- County from: 2020
+- Tract 2020: 39021010400
+- Tract 2010: 39021010400
+- Tract 2000: 39021010100
+- Tract 1990: 39021010100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 56770
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 241289
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 52
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 511758
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BP NEPTUNE 33 LLC (NYB20213015)
+
+- HUD ID: NYB20213015
+- HUD ID before: 
+- Project: BP NEPTUNE 33 LLC
+- Address: 2750 WEST 33RD STREET
+- City: BROOKLYN
+- State: NY
+- ZIP: 11224
+- ZIP extension: 
+- State project ID: NY-21-2596
+- Latitude: 40.579655
+- Longitude: -74.000699
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047033000
+- Tract 2010: 36047033000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 3268015
+- Units: 200
+- Low-income units: 199
+- Units reported: 200
+- Low-income reported: 199
+- Efficiencies: 53
+- 1-bedroom units: 94
+- 2-bedroom units: 40
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

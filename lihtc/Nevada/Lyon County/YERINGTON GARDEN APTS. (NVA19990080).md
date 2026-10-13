@@ -1,0 +1,85 @@
+# Project: YERINGTON GARDEN APTS. (NVA19990080)
+
+- HUD ID: NVA19990080
+- HUD ID before: 
+- Project: YERINGTON GARDEN APTS.
+- Address: 608 SURPRISE ST.
+- City: YERINGTON
+- State: NV
+- ZIP: 89447
+- ZIP extension: 0000
+- State project ID: 97-87
+- Latitude: 38.984964
+- Longitude: -119.169562
+- County FIPS: 32019
+- County from: 2020
+- Tract 2020: 32019960901
+- Tract 2010: 32019960900
+- Tract 2000: 32019960700
+- Tract 1990: 32019960400
+- Place 2020: 85400
+- Place 2010: 85400
+- Place 2000: 85400
+- Place 1990: 0135
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 75539
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 167406
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

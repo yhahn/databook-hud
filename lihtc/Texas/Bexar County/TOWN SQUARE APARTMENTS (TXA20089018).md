@@ -1,0 +1,85 @@
+# Project: TOWN SQUARE APARTMENTS (TXA20089018)
+
+- HUD ID: TXA20089018
+- HUD ID before: 
+- Project: TOWN SQUARE APARTMENTS
+- Address: 301 CONVERSE CENTER ST
+- City: CONVERSE
+- State: TX
+- ZIP: 78109
+- ZIP extension: 
+- State project ID: TX4439
+- Latitude: 29.513541
+- Longitude: -98.309487
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029131608
+- Tract 2010: 48029131608
+- Tract 2000: 48029131605
+- Tract 1990: 48029121502
+- Place 2020: 16468
+- Place 2010: 16468
+- Place 2000: 16468
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 252
+- Low-income units: 252
+- Units reported: 252
+- Low-income reported: 252
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 114
+- 3-bedroom units: 62
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

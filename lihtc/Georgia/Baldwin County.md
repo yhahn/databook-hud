@@ -1,0 +1,24 @@
+# Tax Credit Projects: Baldwin County, GA
+
+- Level: County
+- Postal code: GA
+- State FIPS: 13
+- County FIPS: 13009
+- Counties: 
+- Projects: 7
+- Units: 542
+- Low-income units: 519
+
+The low-income housing tax credit projects of Baldwin County, Georgia, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [EDGEWOOD PARK APARTMENTS (GAA19960245)](./Baldwin%20County/EDGEWOOD%20PARK%20APARTMENTS%20%28GAA19960245%29.md) | GAA19960245 | MILLEDGEVILLE | 1996 | 57 | 57 |
+| [PECAN HILLS (GAA20060380)](./Baldwin%20County/PECAN%20HILLS%20%28GAA20060380%29.md) | GAA20060380 | MILLEDGEVILLE | 2006 | 54 | 54 |
+| [WATERFORD PLACE (GAA20070305)](./Baldwin%20County/WATERFORD%20PLACE%20%28GAA20070305%29.md) | GAA20070305 | MILLEDGEVILLE | 2007 | 80 | 63 |
+| [BALDWIN PARK (GAA20100010)](./Baldwin%20County/BALDWIN%20PARK%20%28GAA20100010%29.md) | GAA20100010 | MILLEDGEVILLE | 2010 | 56 | 56 |
+| [HERITAGE VISTA (GAA20130988)](./Baldwin%20County/HERITAGE%20VISTA%20%28GAA20130988%29.md) | GAA20130988 | MILLEDGEVILLE | 2013 | 64 | 63 |
+| [CREEKSIDE APARTMENTS (GAA20220009)](./Baldwin%20County/CREEKSIDE%20APARTMENTS%20%28GAA20220009%29.md) | GAA20220009 | MILLEDGEVILLE | 2022 | 60 | 60 |
+| [ORCHARD HILL LANDING (GAA20240037)](./Baldwin%20County/ORCHARD%20HILL%20LANDING%20%28GAA20240037%29.md) | GAA20240037 | MILLEDGEVILLE | 2024 | 171 | 166 |

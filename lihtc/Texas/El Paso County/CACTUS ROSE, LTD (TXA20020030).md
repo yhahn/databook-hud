@@ -1,0 +1,85 @@
+# Project: CACTUS ROSE, LTD (TXA20020030)
+
+- HUD ID: TXA20020030
+- HUD ID before: 
+- Project: CACTUS ROSE, LTD
+- Address: 225 POPLAR ST
+- City: ANTHONY
+- State: TX
+- ZIP: 79821
+- ZIP extension: 
+- State project ID: TX0361
+- Latitude: 31.995787
+- Longitude: -106.603618
+- County FIPS: 48141
+- County from: 2020
+- Tract 2020: 48141010203
+- Tract 2010: 48141010203
+- Tract 2000: 48141010203
+- Tract 1990: 48141010203
+- Place 2020: 03432
+- Place 2010: 03432
+- Place 2000: 03432
+- Place 1990: 0145
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CACTUS ROSE.
+- Record status: Existing, unchanged

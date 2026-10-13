@@ -1,0 +1,85 @@
+# Project: ARVIN SQUARE APTS (CAA20110837)
+
+- HUD ID: CAA20110837
+- HUD ID before: 
+- Project: ARVIN SQUARE APTS
+- Address: 1410 HOOD ST
+- City: ARVIN
+- State: CA
+- ZIP: 93203
+- ZIP extension: 
+- State project ID: CA-09-506
+- Latitude: 35.203706
+- Longitude: -118.841114
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029006303
+- Tract 2010: 06029006303
+- Tract 2000: 06029006302
+- Tract 1990: 06029006300
+- Place 2020: 02924
+- Place 2010: 02924
+- Place 2000: 02924
+- Place 1990: 0139
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 36
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 6120603
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

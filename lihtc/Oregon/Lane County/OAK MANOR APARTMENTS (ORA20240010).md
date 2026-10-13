@@ -1,0 +1,85 @@
+# Project: OAK MANOR APARTMENTS (ORA20240010)
+
+- HUD ID: ORA20240010
+- HUD ID before: 
+- Project: OAK MANOR APARTMENTS
+- Address: 3944 OAK STREET
+- City: FLORENCE
+- State: OR
+- ZIP: 97439
+- ZIP extension: 
+- State project ID: OR-23-11821
+- Latitude: 43.99995
+- Longitude: -124.10381
+- County FIPS: 41039
+- County from: 2020
+- Tract 2020: 41039000706
+- Tract 2010: 41039000706
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26050
+- Place 2010: 26050
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 11
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 60
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

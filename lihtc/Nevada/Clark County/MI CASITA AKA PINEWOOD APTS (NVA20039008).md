@@ -1,0 +1,85 @@
+# Project: MI CASITA AKA PINEWOOD APTS (NVA20039008)
+
+- HUD ID: NVA20039008
+- HUD ID before: 
+- Project: MI CASITA AKA PINEWOOD APTS
+- Address: 3600 SWENSON ST
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89109
+- ZIP extension: 0000
+- State project ID: 03-55
+- Latitude: 36.12397
+- Longitude: -115.145914
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003002404
+- Tract 2010: 32003002404
+- Tract 2000: 32003002404
+- Tract 1990: 
+- Place 2020: 54600
+- Place 2010: 54600
+- Place 2000: 54600
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1865456
+- Units: 755
+- Low-income units: 755
+- Units reported: 755
+- Low-income reported: 755
+- Efficiencies: 40
+- 1-bedroom units: 175
+- 2-bedroom units: 469
+- 3-bedroom units: 80
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

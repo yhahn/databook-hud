@@ -1,0 +1,85 @@
+# Project: TOUSSIN SENIOR APRTMENTS (CAA20110490)
+
+- HUD ID: CAA20110490
+- HUD ID before: 
+- Project: TOUSSIN SENIOR APRTMENTS
+- Address: 10 TOUSSIN AVE
+- City: KENTFIELD
+- State: CA
+- ZIP: 94904
+- ZIP extension: 
+- State project ID: CA-09-198
+- Latitude: 37.959024
+- Longitude: -122.550592
+- County FIPS: 06041
+- County from: 2020
+- Tract 2020: 06041119100
+- Tract 2010: 06041119100
+- Tract 2000: 06041119100
+- Tract 1990: 06041119100
+- Place 2020: 38114
+- Place 2010: 38114
+- Place 2000: 38114
+- Place 1990: 1388
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 301078
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 438244
+- CDBG: Yes
+- CDBG amount: 196337
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 451616
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011629. AKA TOUSSIN SENIOR APTS.
+- Record status: Existing, unchanged

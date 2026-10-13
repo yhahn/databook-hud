@@ -1,0 +1,85 @@
+# Project: RESIDENCES @ WEST PASEO (MOA20060100)
+
+- HUD ID: MOA20060100
+- HUD ID before: 
+- Project: RESIDENCES @ WEST PASEO
+- Address: 2635 PASEO BLVD
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64108
+- ZIP extension: 
+- State project ID: 04-415
+- Latitude: 39.078508
+- Longitude: -94.565233
+- County FIPS: 29095
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29095016200
+- Tract 2000: 29095004100
+- Tract 1990: 29095004100
+- Place 2020: 
+- Place 2010: 38000
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 499378
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

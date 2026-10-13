@@ -1,0 +1,25 @@
+# Tax Credit Projects: Pulaski County, MO
+
+- Level: County
+- Postal code: MO
+- State FIPS: 29
+- County FIPS: 29169
+- Counties: 
+- Projects: 8
+- Units: 392
+- Low-income units: 276
+
+The low-income housing tax credit projects of Pulaski County, Missouri, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [205 EAST TENTH ST BLDGS A1 (MOA19870080)](./Pulaski%20County/205%20EAST%20TENTH%20ST%20BLDGS%20A1%20%28MOA19870080%29.md) | MOA19870080 | DIXON | 1987 | 12 | 12 |
+| [FORREST VIEW VIX APTS (MOA19920210)](./Pulaski%20County/FORREST%20VIEW%20VIX%20APTS%20%28MOA19920210%29.md) | MOA19920210 | DIXON | 1992 | 16 | 16 |
+| [POINTE LOOKOUT (MOA19990165)](./Pulaski%20County/POINTE%20LOOKOUT%20%28MOA19990165%29.md) | MOA19990165 | ST ROBERT | 1999 | 64 | 64 |
+| [POINTE LOOKOUT VILLAS (MOA19999216)](./Pulaski%20County/POINTE%20LOOKOUT%20VILLAS%20%28MOA19999216%29.md) | MOA19999216 | WAYNESVILLE | 1999 | 64 | 64 |
+| [ST ROBERT APTS (MOA20000190)](./Pulaski%20County/ST%20ROBERT%20APTS%20%28MOA20000190%29.md) | MOA20000190 | ST ROBERT | 2000 | 136 | 32 |
+| [SKYVIEW HEIGHTS APTS (MOA20050155)](./Pulaski%20County/SKYVIEW%20HEIGHTS%20APTS%20%28MOA20050155%29.md) | MOA20050155 | WAYNESVILLE | 2005 | 36 | 36 |
+| [WOODLAND HILLS (MOA20140250)](./Pulaski%20County/WOODLAND%20HILLS%20%28MOA20140250%29.md) | MOA20140250 | WAYNESVILLE | 2014 | 48 | 36 |
+| [KEETH VILLAGE (MOA20200009)](./Pulaski%20County/KEETH%20VILLAGE%20%28MOA20200009%29.md) | MOA20200009 | CROCKER | 2020 | 16 | 16 |

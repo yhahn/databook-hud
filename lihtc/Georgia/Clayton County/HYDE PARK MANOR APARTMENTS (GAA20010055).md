@@ -1,0 +1,85 @@
+# Project: HYDE PARK MANOR APARTMENTS (GAA20010055)
+
+- HUD ID: GAA20010055
+- HUD ID before: 
+- Project: HYDE PARK MANOR APARTMENTS
+- Address: 3384 MOUNT ZION RD
+- City: STOCKBRIDGE
+- State: GA
+- ZIP: 30281
+- ZIP extension: 9302
+- State project ID: GA-99-046
+- Latitude: 33.551597
+- Longitude: -84.281529
+- County FIPS: 13063
+- County from: 2020
+- Tract 2020: 13063040632
+- Tract 2010: 13063040616
+- Tract 2000: 13063040610
+- Tract 1990: 13063040603
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 723800
+- Units: 180
+- Low-income units: 144
+- Units reported: 180
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 60
+- 3-bedroom units: 56
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2001170. FKA HYDE PARK MANOR APTS
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CAMPUS VIEW (KSA19950010)
+
+- HUD ID: KSA19950010
+- HUD ID before: 
+- Project: CAMPUS VIEW
+- Address: 310 COLLEGE DR
+- City: GARDEN CITY
+- State: KS
+- ZIP: 67846
+- ZIP extension: 
+- State project ID: 291
+- Latitude: 37.973213
+- Longitude: -100.849277
+- County FIPS: 20055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20055960507
+- Tract 2000: 20055960500
+- Tract 1990: 20055960500
+- Place 2020: 
+- Place 2010: 25325
+- Place 2000: 25325
+- Place 1990: 0985
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 99706
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

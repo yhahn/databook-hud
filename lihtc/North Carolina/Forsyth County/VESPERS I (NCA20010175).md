@@ -1,0 +1,85 @@
+# Project: VESPERS I (NCA20010175)
+
+- HUD ID: NCA20010175
+- HUD ID before: 
+- Project: VESPERS I
+- Address: 1300 WAUGHTOWN ST
+- City: WINSTON SALEM
+- State: NC
+- ZIP: 27107
+- ZIP extension: 
+- State project ID: 1547
+- Latitude: 36.068383
+- Longitude: -80.210254
+- County FIPS: 37067
+- County from: 2020
+- Tract 2020: 37067001800
+- Tract 2010: 37067001800
+- Tract 2000: 37067001800
+- Tract 1990: 37067001800
+- Place 2020: 75000
+- Place 2010: 75000
+- Place 2000: 75000
+- Place 1990: 2785
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 64354
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 239986
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

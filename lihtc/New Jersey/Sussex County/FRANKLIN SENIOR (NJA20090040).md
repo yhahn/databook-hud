@@ -1,0 +1,85 @@
+# Project: FRANKLIN SENIOR (NJA20090040)
+
+- HUD ID: NJA20090040
+- HUD ID before: 
+- Project: FRANKLIN SENIOR
+- Address: 1 MILL STREET
+- City: FRANKLIN
+- State: NJ
+- ZIP: 07416
+- ZIP extension: 
+- State project ID: NJ-0755
+- Latitude: 41.122673
+- Longitude: -74.584977
+- County FIPS: 34037
+- County from: 2020
+- Tract 2020: 34037372900
+- Tract 2010: 34037372900
+- Tract 2000: 34037372900
+- Tract 1990: 34037372900
+- Place 2020: 24930
+- Place 2010: 24930
+- Place 2000: 24930
+- Place 1990: 1875
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 439170
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

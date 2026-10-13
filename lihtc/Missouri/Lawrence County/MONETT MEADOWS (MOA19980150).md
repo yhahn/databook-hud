@@ -1,0 +1,85 @@
+# Project: MONETT MEADOWS (MOA19980150)
+
+- HUD ID: MOA19980150
+- HUD ID before: 
+- Project: MONETT MEADOWS
+- Address: 1004 OLD AIRPORT RD
+- City: MONETT
+- State: MO
+- ZIP: 65708
+- ZIP extension: 
+- State project ID: 97-055
+- Latitude: 36.931028
+- Longitude: -93.902848
+- County FIPS: 29109
+- County from: 2020
+- Tract 2020: 29109470401
+- Tract 2010: 29109470400
+- Tract 2000: 29109970400
+- Tract 1990: 29109970400
+- Place 2020: 49196
+- Place 2010: 49196
+- Place 2000: 49196
+- Place 1990: 2870
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

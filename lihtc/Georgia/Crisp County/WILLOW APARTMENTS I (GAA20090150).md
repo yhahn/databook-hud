@@ -1,0 +1,85 @@
+# Project: WILLOW APARTMENTS I (GAA20090150)
+
+- HUD ID: GAA20090150
+- HUD ID before: 
+- Project: WILLOW APARTMENTS I
+- Address: 1202 BLACKSHEAR RD
+- City: CORDELE
+- State: GA
+- ZIP: 31015
+- ZIP extension: 
+- State project ID: 1991-001
+- Latitude: 31.981154
+- Longitude: -83.768013
+- County FIPS: 13081
+- County from: 2020
+- Tract 2020: 13081010100
+- Tract 2010: 13081010100
+- Tract 2000: 13081980100
+- Tract 1990: 13081980100
+- Place 2020: 19616
+- Place 2010: 19616
+- Place 2000: 19616
+- Place 1990: 0690
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3329078
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1991245.
+- Record status: Updated

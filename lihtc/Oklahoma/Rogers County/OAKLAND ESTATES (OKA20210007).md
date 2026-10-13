@@ -1,0 +1,85 @@
+# Project: OAKLAND ESTATES (OKA20210007)
+
+- HUD ID: OKA20210007
+- HUD ID before: 
+- Project: OAKLAND ESTATES
+- Address: 560 E LOWRY ROAD
+- City: CLAREMORE
+- State: OK
+- ZIP: 74017
+- ZIP extension: 0000
+- State project ID: 190114
+- Latitude: 36.336479
+- Longitude: -95.595147
+- County FIPS: 40131
+- County from: 2020
+- Tract 2020: 40131050303
+- Tract 2010: 40131050303
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 575000
+- Units: 81
+- Low-income units: 81
+- Units reported: 81
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 81
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 8237 JEFFERSON AVE (MOA19880545)
+
+- HUD ID: MOA19880545
+- HUD ID before: 
+- Project: 8237 JEFFERSON AVE
+- Address: 8237 JEFFERSON AVE
+- City: ST LOUIS
+- State: MO
+- ZIP: 63114
+- ZIP extension: 
+- State project ID: 158004
+- Latitude: 38.690774
+- Longitude: -90.335109
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189214300
+- Tract 2010: 29189214300
+- Tract 2000: 29189214300
+- Tract 1990: 29189214300
+- Place 2020: 76246
+- Place 2010: 76246
+- Place 2000: 13330
+- Place 1990: 4405
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CARLISLE PARK APTS II (IAA19890135)
+
+- HUD ID: IAA19890135
+- HUD ID before: 
+- Project: CARLISLE PARK APTS II
+- Address: 1225 HARDIN DR
+- City: CARLISLE
+- State: IA
+- ZIP: 50047
+- ZIP extension: 
+- State project ID: 88-16
+- Latitude: 41.488161
+- Longitude: -93.492453
+- County FIPS: 19181
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19181020400
+- Tract 2000: 19181020400
+- Tract 1990: 19181020400
+- Place 2020: 
+- Place 2010: 10765
+- Place 2000: 10765
+- Place 1990: 0615
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 27216
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA RD PRESERVATION II.
+- Record status: Existing, unchanged

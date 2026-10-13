@@ -1,0 +1,85 @@
+# Project: ELLIOT TWINS (MNB20201011)
+
+- HUD ID: MNB20201011
+- HUD ID before: 
+- Project: ELLIOT TWINS
+- Address: 1212 SOUTH 9TH STREET
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55404
+- ZIP extension: 0000
+- State project ID: D8362
+- Latitude: 44.967846
+- Longitude: -93.256632
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053005901
+- Tract 2010: 27053005901
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1753293
+- Units: 184
+- Low-income units: 184
+- Units reported: 184
+- Low-income reported: 184
+- Efficiencies: 92
+- 1-bedroom units: 92
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 3900000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

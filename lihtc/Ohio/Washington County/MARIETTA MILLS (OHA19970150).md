@@ -1,0 +1,85 @@
+# Project: MARIETTA MILLS (OHA19970150)
+
+- HUD ID: OHA19970150
+- HUD ID before: 
+- Project: MARIETTA MILLS
+- Address: 115 N HART ST
+- City: MARIETTA
+- State: OH
+- ZIP: 45750
+- ZIP extension: 
+- State project ID: 950084
+- Latitude: 39.415834
+- Longitude: -81.440137
+- County FIPS: 39167
+- County from: 2020
+- Tract 2020: 39167021000
+- Tract 2010: 39167021000
+- Tract 2000: 39167021000
+- Tract 1990: 39167021000
+- Place 2020: 47628
+- Place 2010: 47628
+- Place 2000: 47628
+- Place 1990: 2480
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 278516
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 26
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

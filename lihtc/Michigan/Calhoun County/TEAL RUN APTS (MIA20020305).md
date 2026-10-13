@@ -1,0 +1,85 @@
+# Project: TEAL RUN APTS (MIA20020305)
+
+- HUD ID: MIA20020305
+- HUD ID before: 
+- Project: TEAL RUN APTS
+- Address: 5220 HORIZON DR
+- City: BATTLE CREEK
+- State: MI
+- ZIP: 49015
+- ZIP extension: 
+- State project ID: MI-2228
+- Latitude: 42.249672
+- Longitude: -85.19342
+- County FIPS: 26025
+- County from: 2020
+- Tract 2020: 26025001802
+- Tract 2010: 26025001800
+- Tract 2000: 26025001800
+- Tract 1990: 26025001800
+- Place 2020: 05920
+- Place 2010: 05920
+- Place 2000: 05920
+- Place 1990: 0160
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 150
+- Low-income units: 100
+- Units reported: 150
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 70
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

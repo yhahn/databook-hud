@@ -1,0 +1,85 @@
+# Project: POSSESSION SOUND PROPERTIES (WAA20190017)
+
+- HUD ID: WAA20190017
+- HUD ID before: 
+- Project: POSSESSION SOUND PROPERTIES
+- Address: MULTIPLE
+- City: EVERETT
+- State: WA
+- ZIP: 98201
+- ZIP extension: 
+- State project ID: 18-58A-C
+- Latitude: 47.9863
+- Longitude: -122.2142
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061040400
+- Tract 2010: 53061040400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22640
+- Place 2010: 22640
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 548838
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 20
+- 3-bedroom units: 35
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 37
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

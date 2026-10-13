@@ -1,0 +1,85 @@
+# Project: HEARTHSTONE VILLAGE (NDA19980010)
+
+- HUD ID: NDA19980010
+- HUD ID before: 
+- Project: HEARTHSTONE VILLAGE
+- Address: 406 FIRST ST
+- City: HATTON
+- State: ND
+- ZIP: 58240
+- ZIP extension: 
+- State project ID: TC9804
+- Latitude: 47.643324
+- Longitude: -97.461926
+- County FIPS: 38097
+- County from: 2020
+- Tract 2020: 38097970100
+- Tract 2010: 38097970100
+- Tract 2000: 38097970100
+- Tract 1990: 38097970100
+- Place 2020: 36100
+- Place 2010: 36100
+- Place 2000: 11340
+- Place 1990: 0780
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 7104
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

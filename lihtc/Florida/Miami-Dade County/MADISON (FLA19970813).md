@@ -1,0 +1,85 @@
+# Project: MADISON (FLA19970813)
+
+- HUD ID: FLA19970813
+- HUD ID before: 
+- Project: MADISON
+- Address: 259 WASHINGTON AVE
+- City: MIAMI BEACH
+- State: FL
+- ZIP: 33139
+- ZIP extension: 
+- State project ID: 491
+- Latitude: 25.772053
+- Longitude: -80.134833
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086004500
+- Tract 2010: 12086004500
+- Tract 2000: 12086004500
+- Tract 1990: 12025004500
+- Place 2020: 45025
+- Place 2010: 45025
+- Place 2000: 22375
+- Place 1990: 1375
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 4
+- 1-bedroom units: 3
+- 2-bedroom units: 7
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 50000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1997035.
+- Record status: Existing, unchanged

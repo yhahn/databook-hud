@@ -1,0 +1,85 @@
+# Project: PRESERVATION SQUARE (MOA20010195)
+
+- HUD ID: MOA20010195
+- HUD ID before: 
+- Project: PRESERVATION SQUARE
+- Address: 1443 OFALLON ST
+- City: ST LOUIS
+- State: MO
+- ZIP: 
+- ZIP extension: 
+- State project ID: 98149
+- Latitude: 38.639393
+- Longitude: -90.197506
+- County FIPS: 29510
+- County from: 2020
+- Tract 2020: 29510125700
+- Tract 2010: 29510125700
+- Tract 2000: 29510125700
+- Tract 1990: 29510125700
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 475
+- Low-income units: 357
+- Units reported: 475
+- Low-income reported: 357
+- Efficiencies: 0
+- 1-bedroom units: 90
+- 2-bedroom units: 360
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA1999155. AKA OFALLON PLACE123.
+- Record status: Existing, unchanged

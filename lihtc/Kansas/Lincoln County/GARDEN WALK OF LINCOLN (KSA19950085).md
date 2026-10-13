@@ -1,0 +1,85 @@
+# Project: GARDEN WALK OF LINCOLN (KSA19950085)
+
+- HUD ID: KSA19950085
+- HUD ID before: 
+- Project: GARDEN WALK OF LINCOLN
+- Address: 508 N SIXTH ST
+- City: LINCOLN
+- State: KS
+- ZIP: 67455
+- ZIP extension: 
+- State project ID: 60080
+- Latitude: 39.043945
+- Longitude: -98.151592
+- County FIPS: 20105
+- County from: 2020
+- Tract 2020: 20105086100
+- Tract 2010: 20105086100
+- Tract 2000: 20105986100
+- Tract 1990: 20105986100
+- Place 2020: 41300
+- Place 2010: 41300
+- Place 2000: 04225
+- Place 1990: 1620
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 41309
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1995045. AKA MAYBROOK PLACE.
+- Record status: Existing, unchanged

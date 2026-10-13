@@ -1,0 +1,85 @@
+# Project: COURTYARDS AT FISHING CREEK I (MDA19980012)
+
+- HUD ID: MDA19980012
+- HUD ID before: 
+- Project: COURTYARDS AT FISHING CREEK I
+- Address: 3945 GORDON STINNETT AVE
+- City: CHESAPEAKE BEACH
+- State: MD
+- ZIP: 20732
+- ZIP extension: 
+- State project ID: MD93-34
+- Latitude: 38.692897
+- Longitude: -76.538529
+- County FIPS: 24009
+- County from: 2020
+- Tract 2020: 24009860403
+- Tract 2010: 24009860401
+- Tract 2000: 24009860401
+- Tract 1990: 24009860400
+- Place 2020: 15925
+- Place 2010: 15925
+- Place 2000: 15925
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

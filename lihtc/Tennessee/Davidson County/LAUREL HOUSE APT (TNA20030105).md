@@ -1,0 +1,85 @@
+# Project: LAUREL HOUSE APT (TNA20030105)
+
+- HUD ID: TNA20030105
+- HUD ID before: 
+- Project: LAUREL HOUSE APT
+- Address: 1101 LAUREL ST
+- City: NASHVILLE
+- State: TN
+- ZIP: 37203
+- ZIP extension: 
+- State project ID: TN-01-056
+- Latitude: 36.153928
+- Longitude: -86.784306
+- County FIPS: 47037
+- County from: 2020
+- Tract 2020: 47037019502
+- Tract 2010: 47037019500
+- Tract 2000: 47037014500
+- Tract 1990: 47037014500
+- Place 2020: 52006
+- Place 2010: 52006
+- Place 2000: 52006
+- Place 1990: 1016
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 287963
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

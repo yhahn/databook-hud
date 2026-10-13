@@ -1,0 +1,85 @@
+# Project: HOWARD L MILLER SALLISAW APTS (OKA00000220)
+
+- HUD ID: OKA00000220
+- HUD ID before: 
+- Project: HOWARD L MILLER SALLISAW APTS
+- Address: 106 N NO NAME ST
+- City: SALLISAW
+- State: OK
+- ZIP: 74955
+- ZIP extension: 
+- State project ID: 2
+- Latitude: 35.456466
+- Longitude: -94.805275
+- County FIPS: 40135
+- County from: 2020
+- Tract 2020: 40135030303
+- Tract 2010: 40135030302
+- Tract 2000: 40135030300
+- Tract 1990: 40135030300
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 2120
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

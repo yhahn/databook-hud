@@ -1,0 +1,85 @@
+# Project: FAIRWAY (WYA20030030)
+
+- HUD ID: WYA20030030
+- HUD ID before: 
+- Project: FAIRWAY
+- Address: 1020 COUNTRY CLUB RD
+- City: GILLETTE
+- State: WY
+- ZIP: 82718
+- ZIP extension: 
+- State project ID: 01-002
+- Latitude: 44.275132
+- Longitude: -105.487952
+- County FIPS: 56005
+- County from: 2020
+- Tract 2020: 56005000300
+- Tract 2010: 56005000300
+- Tract 2000: 56005000300
+- Tract 1990: 56005952200
+- Place 2020: 31855
+- Place 2010: 31855
+- Place 2000: 31855
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 398469
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 30
+- 3-bedroom units: 15
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 58
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GREEN VISTA (FLA19980055)
+
+- HUD ID: FLA19980055
+- HUD ID before: 
+- Project: GREEN VISTA
+- Address: 18100 NW 68TH AVE
+- City: HIALEAH
+- State: FL
+- ZIP: 33015
+- ZIP extension: 
+- State project ID: 308
+- Latitude: 25.937744
+- Longitude: -80.312174
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086012002
+- Tract 2010: 12086012000
+- Tract 2000: 12086010144
+- Tract 1990: 12025010118
+- Place 2020: 14895
+- Place 2010: 14895
+- Place 2000: 14895
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 54
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1997819.
+- Record status: Existing, unchanged

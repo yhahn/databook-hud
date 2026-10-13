@@ -1,0 +1,85 @@
+# Project: BELMONT HEIGHTS ESTATES II (FLA20030015)
+
+- HUD ID: FLA20030015
+- HUD ID before: 
+- Project: BELMONT HEIGHTS ESTATES II
+- Address: 3540 N 20TH ST
+- City: TAMPA
+- State: FL
+- ZIP: 33605
+- ZIP extension: 
+- State project ID: 76
+- Latitude: 27.976041
+- Longitude: -82.436994
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057003100
+- Tract 2010: 12057003100
+- Tract 2000: 12057003100
+- Tract 1990: 12057003100
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2075
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 201
+- Low-income units: 169
+- Units reported: 201
+- Low-income reported: 169
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 102
+- 3-bedroom units: 58
+- 4-bedroom units: 9
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BELMONT HEIGHTS ESTATES II.
+- Record status: Existing, unchanged

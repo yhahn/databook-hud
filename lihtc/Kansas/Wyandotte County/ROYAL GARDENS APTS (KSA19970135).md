@@ -1,0 +1,85 @@
+# Project: ROYAL GARDENS APTS (KSA19970135)
+
+- HUD ID: KSA19970135
+- HUD ID before: 
+- Project: ROYAL GARDENS APTS
+- Address: 3164 N 61ST ST
+- City: KANSAS CITY
+- State: KS
+- ZIP: 66104
+- ZIP extension: 
+- State project ID: 60052
+- Latitude: 39.144603
+- Longitude: -94.720015
+- County FIPS: 20209
+- County from: 2020
+- Tract 2020: 20209044301
+- Tract 2010: 20209044301
+- Tract 2000: 20209044301
+- Tract 1990: 20209044301
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 1430
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 122962
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1998045.
+- Record status: Existing, unchanged

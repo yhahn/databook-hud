@@ -1,0 +1,85 @@
+# Project: NARROW LANE VILLAS (ALA20040073)
+
+- HUD ID: ALA20040073
+- HUD ID before: 
+- Project: NARROW LANE VILLAS
+- Address: 4581 NARROW LN RD
+- City: MONTGOMERY
+- State: AL
+- ZIP: 36116
+- ZIP extension: 
+- State project ID: AL-01-0815
+- Latitude: 32.315583
+- Longitude: -86.281793
+- County FIPS: 01101
+- County from: 2020
+- Tract 2020: 01101003200
+- Tract 2010: 01101003200
+- Tract 2000: 01101003200
+- Tract 1990: 01101003200
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 1180
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 161982
+- Units: 142
+- Low-income units: 107
+- Units reported: 142
+- Low-income reported: 107
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 76
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 142
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2002025. AKA SUMMIT NARROW LANE VILLAS.
+- Record status: Existing, unchanged

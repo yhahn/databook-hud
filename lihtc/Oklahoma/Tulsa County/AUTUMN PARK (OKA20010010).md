@@ -1,0 +1,85 @@
+# Project: AUTUMN PARK (OKA20010010)
+
+- HUD ID: OKA20010010
+- HUD ID before: 
+- Project: AUTUMN PARK
+- Address: 8401 E 134TH ST S
+- City: BIXBY
+- State: OK
+- ZIP: 74008
+- ZIP extension: 
+- State project ID: 000633
+- Latitude: 35.968512
+- Longitude: -95.885659
+- County FIPS: 40143
+- County from: 2020
+- Tract 2020: 40143007655
+- Tract 2010: 40143007624
+- Tract 2000: 40143007624
+- Tract 1990: 40143007624
+- Place 2020: 06400
+- Place 2010: 06400
+- Place 2000: 06400
+- Place 1990: 0195
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

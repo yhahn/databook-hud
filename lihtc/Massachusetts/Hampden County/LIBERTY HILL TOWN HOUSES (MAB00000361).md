@@ -1,0 +1,85 @@
+# Project: LIBERTY HILL TOWN HOUSES (MAB00000361)
+
+- HUD ID: MAB00000361
+- HUD ID before: 
+- Project: LIBERTY HILL TOWN HOUSES
+- Address: 5 NURSERY ST
+- City: SPRINGFIELD
+- State: MA
+- ZIP: 01104
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.113845
+- Longitude: -72.586214
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013800900
+- Tract 2010: 25013800900
+- Tract 2000: 25013800900
+- Tract 1990: 25013800900
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 4090
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 88
+- Low-income units: 86
+- Units reported: 88
+- Low-income reported: 86
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 17
+- 3-bedroom units: 67
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

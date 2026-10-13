@@ -1,0 +1,85 @@
+# Project: MAURY VILLAGE (WVA20010025)
+
+- HUD ID: WVA20010025
+- HUD ID before: 
+- Project: MAURY VILLAGE
+- Address: 101 MAURY LN
+- City: HURRICANE
+- State: WV
+- ZIP: 25526
+- ZIP extension: 
+- State project ID: WV-00-230
+- Latitude: 38.452659
+- Longitude: -81.95686
+- County FIPS: 54079
+- County from: 2020
+- Tract 2020: 54079020607
+- Tract 2010: 54079020605
+- Tract 2000: 54079020602
+- Tract 1990: 54079020602
+- Place 2020: 79545
+- Place 2010: 79545
+- Place 2000: 39532
+- Place 1990: 1548
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 23
+- 3-bedroom units: 4
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

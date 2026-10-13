@@ -1,0 +1,85 @@
+# Project: VENTANA ESTATES (AZA20020090)
+
+- HUD ID: AZA20020090
+- HUD ID before: 
+- Project: VENTANA ESTATES
+- Address: 9422 E BROADWAY RD
+- City: MESA
+- State: AZ
+- ZIP: 85208
+- ZIP extension: 
+- State project ID: TC-0205
+- Latitude: 33.408
+- Longitude: -111.627709
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013422628
+- Tract 2010: 04013422628
+- Tract 2000: 04013422605
+- Tract 1990: 04013422605
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 46000
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 140
+- Low-income units: 78
+- Units reported: 140
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 37
+- 3-bedroom units: 27
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

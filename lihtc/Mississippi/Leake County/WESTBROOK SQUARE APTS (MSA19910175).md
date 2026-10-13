@@ -1,0 +1,85 @@
+# Project: WESTBROOK SQUARE APTS (MSA19910175)
+
+- HUD ID: MSA19910175
+- HUD ID before: 
+- Project: WESTBROOK SQUARE APTS
+- Address: 1301 HWY 16 W
+- City: CARTHAGE
+- State: MS
+- ZIP: 39051
+- ZIP extension: 
+- State project ID: MS-90-061
+- Latitude: 32.725411
+- Longitude: -89.554363
+- County FIPS: 28079
+- County from: 2020
+- Tract 2020: 28079040600
+- Tract 2010: 28079040600
+- Tract 2000: 28079040300
+- Tract 1990: 28079950300
+- Place 2020: 11780
+- Place 2010: 11780
+- Place 2000: 11780
+- Place 1990: 0200
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

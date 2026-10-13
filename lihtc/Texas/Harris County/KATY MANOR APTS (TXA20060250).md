@@ -1,0 +1,85 @@
+# Project: KATY MANOR APTS (TXA20060250)
+
+- HUD ID: TXA20060250
+- HUD ID before: 
+- Project: KATY MANOR APTS
+- Address: 5360 E FIFTH ST
+- City: KATY
+- State: TX
+- ZIP: 77493
+- ZIP extension: 
+- State project ID: TX0919
+- Latitude: 29.790025
+- Longitude: -95.814318
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201542700
+- Tract 2010: 48201542700
+- Tract 2000: 48201542700
+- Tract 1990: 48201045201
+- Place 2020: 38476
+- Place 2010: 38476
+- Place 2000: 38476
+- Place 1990: 2160
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 123768
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHUGACH COLONY ESTATES (AKA20080005)
+
+- HUD ID: AKA20080005
+- HUD ID before: 
+- Project: CHUGACH COLONY ESTATES
+- Address: 1102 S CHUGACH ST
+- City: PALMER
+- State: AK
+- ZIP: 99645
+- ZIP extension: 
+- State project ID: AK-00-08
+- Latitude: 61.594827
+- Longitude: -149.111077
+- County FIPS: 02170
+- County from: 2020
+- Tract 2020: 02170001201
+- Tract 2010: 02170001201
+- Tract 2000: 02170001200
+- Tract 1990: 02170974900
+- Place 2020: 58660
+- Place 2010: 58660
+- Place 2000: 58660
+- Place 1990: 2510
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 378325
+- Units: 31
+- Low-income units: 28
+- Units reported: 31
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 669382
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

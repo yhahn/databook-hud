@@ -1,0 +1,85 @@
+# Project: JOHN F KENNEDY APTS (MAA20030005)
+
+- HUD ID: MAA20030005
+- HUD ID before: 
+- Project: JOHN F KENNEDY APTS
+- Address: 55 ESSEX ST
+- City: CAMBRIDGE
+- State: MA
+- ZIP: 02139
+- ZIP extension: 
+- State project ID: MA-02-00-001-R
+- Latitude: 42.367514
+- Longitude: -71.101362
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017353000
+- Tract 2010: 25017353000
+- Tract 2000: 25017353000
+- Tract 1990: 25017353000
+- Place 2020: 11000
+- Place 2010: 11000
+- Place 2000: 11000
+- Place 1990: 0610
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 69
+- Low-income units: 69
+- Units reported: 69
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 69
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000340.
+- Record status: Existing, unchanged

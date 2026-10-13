@@ -1,0 +1,85 @@
+# Project: NEW CASTLE TOWNHOMES (MNA20110810)
+
+- HUD ID: MNA20110810
+- HUD ID before: 
+- Project: NEW CASTLE TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: WORTHINGTON
+- State: MN
+- ZIP: 56187
+- ZIP extension: 
+- State project ID: D6236
+- Latitude: 43.6485
+- Longitude: -95.5712
+- County FIPS: 27105
+- County from: 2020
+- Tract 2020: 27105105400
+- Tract 2010: 27105105400
+- Tract 2000: 27105990400
+- Tract 1990: 27105990400
+- Place 2020: 71734
+- Place 2010: 71734
+- Place 2000: 71734
+- Place 1990: 4190
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 548192
+- Units: 30
+- Low-income units: 27
+- Units reported: 30
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 14
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA0000062, MNA0000504.
+- Record status: Existing, unchanged

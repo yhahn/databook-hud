@@ -1,0 +1,85 @@
+# Project: VILLA NUEVA APTS (SAN YSIDRO) (CAA20080910)
+
+- HUD ID: CAA20080910
+- HUD ID before: 
+- Project: VILLA NUEVA APTS (SAN YSIDRO)
+- Address: 3604 BEYER BLVD
+- City: SAN YSIDRO
+- State: CA
+- ZIP: 92173
+- ZIP extension: 
+- State project ID: CA-07-857
+- Latitude: 32.563003
+- Longitude: -117.055843
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073010005
+- Tract 2010: 06073010005
+- Tract 2000: 06073010005
+- Tract 1990: 06073010005
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 2548971
+- Units: 398
+- Low-income units: 395
+- Units reported: 398
+- Low-income reported: 395
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 91
+- 3-bedroom units: 271
+- 4-bedroom units: 36
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

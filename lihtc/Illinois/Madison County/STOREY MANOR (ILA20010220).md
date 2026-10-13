@@ -1,0 +1,85 @@
+# Project: STOREY MANOR (ILA20010220)
+
+- HUD ID: ILA20010220
+- HUD ID before: 
+- Project: STOREY MANOR
+- Address: 40B MANOR DR
+- City: COTTAGE HILLS
+- State: IL
+- ZIP: 62018
+- ZIP extension: 
+- State project ID: 132101
+- Latitude: 38.916496
+- Longitude: -90.091866
+- County FIPS: 17119
+- County from: 2020
+- Tract 2020: 17119401701
+- Tract 2010: 17119401701
+- Tract 2000: 17119401701
+- Tract 1990: 17119401701
+- Place 2020: 01114
+- Place 2010: 01114
+- Place 2000: 01114
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 147275
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 24
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA RINCETON SENIOR HOUSING II.
+- Record status: Existing, unchanged

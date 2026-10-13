@@ -1,0 +1,85 @@
+# Project: RIVERWOOD PLACE (CAA20030445)
+
+- HUD ID: CAA20030445
+- HUD ID before: 
+- Project: RIVERWOOD PLACE
+- Address: 5090 LICK MILL BLVD
+- City: SANTA CLARA
+- State: CA
+- ZIP: 95054
+- ZIP extension: 
+- State project ID: CA-01-036
+- Latitude: 37.40787
+- Longitude: -121.961269
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085505011
+- Tract 2010: 06085505001
+- Tract 2000: 06085505001
+- Tract 1990: 06085505001
+- Place 2020: 69084
+- Place 2010: 69084
+- Place 2000: 69084
+- Place 1990: 2580
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 1298210
+- Units: 148
+- Low-income units: 146
+- Units reported: 148
+- Low-income reported: 146
+- Efficiencies: 146
+- 1-bedroom units: 2
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

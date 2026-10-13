@@ -1,0 +1,85 @@
+# Project: AMERICAN TOBACCO LOFTS II (VAA20221001)
+
+- HUD ID: VAA20221001
+- HUD ID before: 
+- Project: AMERICAN TOBACCO LOFTS II
+- Address: 800 RICHMOND HIGHWAY
+- City: RICHMOND
+- State: VA
+- ZIP: 23224
+- ZIP extension: 
+- State project ID: 10029
+- Latitude: 37.509035
+- Longitude: -77.447833
+- County FIPS: 51760
+- County from: 2020
+- Tract 2020: 51760060700
+- Tract 2010: 51760060700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 854875
+- Units: 147
+- Low-income units: 147
+- Units reported: 147
+- Low-income reported: 147
+- Efficiencies: 
+- 1-bedroom units: 109
+- 2-bedroom units: 37
+- 3-bedroom units: 1
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

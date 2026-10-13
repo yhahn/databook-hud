@@ -1,0 +1,85 @@
+# Project: BRIGANTINE HOMES (NJA20140030)
+
+- HUD ID: NJA20140030
+- HUD ID before: 
+- Project: BRIGANTINE HOMES
+- Address: 1062 BRIGANTINE BLVD.
+- City: ATLANTIC CITY
+- State: NJ
+- ZIP: 08401
+- ZIP extension: 
+- State project ID: 2806
+- Latitude: 39.374483
+- Longitude: -74.43142
+- County FIPS: 34001
+- County from: 2020
+- Tract 2020: 34001001400
+- Tract 2010: 34001001400
+- Tract 2000: 34001001400
+- Tract 1990: 34001001400
+- Place 2020: 02080
+- Place 2010: 02080
+- Place 2000: 02080
+- Place 1990: 0075
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 543370
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

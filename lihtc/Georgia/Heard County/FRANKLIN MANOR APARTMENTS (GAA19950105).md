@@ -1,0 +1,85 @@
+# Project: FRANKLIN MANOR APARTMENTS (GAA19950105)
+
+- HUD ID: GAA19950105
+- HUD ID before: 
+- Project: FRANKLIN MANOR APARTMENTS
+- Address: 770 MARY JOHNSON DR APT B5
+- City: FRANKLIN
+- State: GA
+- ZIP: 30217
+- ZIP extension: 6337
+- State project ID: GA-93-013
+- Latitude: 33.273777
+- Longitude: -85.112832
+- County FIPS: 13149
+- County from: 2020
+- Tract 2020: 13149970100
+- Tract 2010: 13149970100
+- Tract 2000: 13149970100
+- Tract 1990: 13149970100
+- Place 2020: 31292
+- Place 2010: 31292
+- Place 2000: 19672
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: AKA GRANADA PARK.
+- Record status: Existing, unchanged

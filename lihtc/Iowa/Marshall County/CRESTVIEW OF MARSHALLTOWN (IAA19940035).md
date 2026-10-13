@@ -1,0 +1,85 @@
+# Project: CRESTVIEW OF MARSHALLTOWN (IAA19940035)
+
+- HUD ID: IAA19940035
+- HUD ID before: 
+- Project: CRESTVIEW OF MARSHALLTOWN
+- Address: 202 N SECOND AVE
+- City: MARSHALLTOWN
+- State: IA
+- ZIP: 50158
+- ZIP extension: 
+- State project ID: 93-30
+- Latitude: 42.051791
+- Longitude: -92.909867
+- County FIPS: 19127
+- County from: 2020
+- Tract 2020: 19127950500
+- Tract 2010: 19127950500
+- Tract 2000: 19127950500
+- Tract 1990: 19127950500
+- Place 2020: 49755
+- Place 2010: 49755
+- Place 2000: 49755
+- Place 1990: 2685
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 97516
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: JANIE'S GARDEN I (FLA20090050)
+
+- HUD ID: FLA20090050
+- HUD ID before: 
+- Project: JANIE'S GARDEN I
+- Address: 2350 CENTRAL AVE
+- City: SARASOTA
+- State: FL
+- ZIP: 34234
+- ZIP extension: 
+- State project ID: 1989
+- Latitude: 27.357443
+- Longitude: -82.542653
+- County FIPS: 12115
+- County from: 2020
+- Tract 2020: 12115000200
+- Tract 2010: 12115000200
+- Tract 2000: 12115000200
+- Tract 1990: 12115000200
+- Place 2020: 64175
+- Place 2010: 64175
+- Place 2000: 49787
+- Place 1990: 1930
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1155000
+- Units: 86
+- Low-income units: 65
+- Units reported: 86
+- Low-income reported: 65
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 56
+- 3-bedroom units: 9
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

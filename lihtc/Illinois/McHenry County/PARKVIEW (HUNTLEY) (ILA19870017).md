@@ -1,0 +1,85 @@
+# Project: PARKVIEW (HUNTLEY) (ILA19870017)
+
+- HUD ID: ILA19870017
+- HUD ID before: 
+- Project: PARKVIEW (HUNTLEY)
+- Address: 11513 DOUGLAS AVE
+- City: HUNTLEY
+- State: IL
+- ZIP: 60142
+- ZIP extension: 
+- State project ID: 003-87
+- Latitude: 42.173363
+- Longitude: -88.42144
+- County FIPS: 17111
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17111871104
+- Tract 2000: 17111871104
+- Tract 1990: 17111871100
+- Place 2020: 
+- Place 2010: 36750
+- Place 2000: 00685
+- Place 1990: 1325
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 34727
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000725.
+- Record status: Existing, unchanged

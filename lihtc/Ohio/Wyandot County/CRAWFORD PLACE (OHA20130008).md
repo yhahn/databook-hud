@@ -1,0 +1,85 @@
+# Project: CRAWFORD PLACE (OHA20130008)
+
+- HUD ID: OHA20130008
+- HUD ID before: 
+- Project: CRAWFORD PLACE
+- Address: 600 HIGHLAND PKWY
+- City: UPPER SANDUSKY
+- State: OH
+- ZIP: 43351
+- ZIP extension: 
+- State project ID: 110121
+- Latitude: 40.851246
+- Longitude: -83.271594
+- County FIPS: 39175
+- County from: 2020
+- Tract 2020: 39175938300
+- Tract 2010: 39175938300
+- Tract 2000: 39175988300
+- Tract 1990: 39175988300
+- Place 2020: 79044
+- Place 2010: 79044
+- Place 2000: 79044
+- Place 1990: 4360
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2011846, OHA2011025.
+- Record status: Updated

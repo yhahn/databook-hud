@@ -1,0 +1,85 @@
+# Project: PIONEER HOMESTEAD APTS II (WYA19970020)
+
+- HUD ID: WYA19970020
+- HUD ID before: 
+- Project: PIONEER HOMESTEAD APTS II
+- Address: 835 E HANSEN AVE
+- City: JACKSON
+- State: WY
+- ZIP: 83001
+- ZIP extension: 
+- State project ID: 95-011
+- Latitude: 43.476191
+- Longitude: -110.74382
+- County FIPS: 56039
+- County from: 2020
+- Tract 2020: 56039967701
+- Tract 2010: 56039967701
+- Tract 2000: 56039997700
+- Tract 1990: 56039997700
+- Place 2020: 40120
+- Place 2010: 40120
+- Place 2000: 40120
+- Place 1990: 0215
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 113531
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WYA0000055.
+- Record status: Existing, unchanged

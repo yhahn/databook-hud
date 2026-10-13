@@ -1,0 +1,85 @@
+# Project: SENIOR RESIDENCES AT MERCY PARK (GAA20180025)
+
+- HUD ID: GAA20180025
+- HUD ID before: 
+- Project: SENIOR RESIDENCES AT MERCY PARK
+- Address: 5124 PEACHTREE RD
+- City: CHAMBLEE
+- State: GA
+- ZIP: 30341
+- ZIP extension: 3015
+- State project ID: 2015-075
+- Latitude: 33.886919
+- Longitude: -84.309472
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089021208
+- Tract 2010: 13089021208
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 15172
+- Place 2010: 15172
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 750241
+- Units: 79
+- Low-income units: 79
+- Units reported: 79
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 57
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MONMOUTH MANOR (ILA20020145)
+
+- HUD ID: ILA20020145
+- HUD ID before: 
+- Project: MONMOUTH MANOR
+- Address: 1018 N SIXTH ST
+- City: MONMOUTH
+- State: IL
+- ZIP: 61462
+- ZIP extension: 
+- State project ID: 131301
+- Latitude: 40.923335
+- Longitude: -90.640767
+- County FIPS: 17187
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17187870400
+- Tract 2000: 17187870400
+- Tract 1990: 17187870400
+- Place 2020: 
+- Place 2010: 50010
+- Place 2000: 50010
+- Place 1990: 3820
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 84323
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

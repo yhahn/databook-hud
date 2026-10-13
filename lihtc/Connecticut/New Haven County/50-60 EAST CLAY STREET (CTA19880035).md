@@ -1,0 +1,85 @@
+# Project: 50-60 EAST CLAY STREET (CTA19880035)
+
+- HUD ID: CTA19880035
+- HUD ID before: 
+- Project: 50-60 EAST CLAY STREET
+- Address: 50 E CLAY ST
+- City: WATERBURY
+- State: CT
+- ZIP: 06706
+- ZIP extension: 
+- State project ID: CT-88-011
+- Latitude: 41.549243
+- Longitude: -73.037378
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009350500
+- Tract 2010: 09009350500
+- Tract 2000: 09009350500
+- Tract 1990: 09009350500
+- Place 2020: 80000
+- Place 2010: 80000
+- Place 2000: 80000
+- Place 1990: 2460
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CUMBERLAND COURT (PAA20120020)
+
+- HUD ID: PAA20120020
+- HUD ID before: 
+- Project: CUMBERLAND COURT
+- Address: 
+- City: HARRISBURG
+- State: PA
+- ZIP: 17102
+- ZIP extension: 
+- State project ID: TC20110301
+- Latitude: 40.27
+- Longitude: -76.9032
+- County FIPS: 42043
+- County from: 2020
+- Tract 2020: 42043020500
+- Tract 2010: 42043020500
+- Tract 2000: 42043020300
+- Tract 1990: 42043020300
+- Place 2020: 32800
+- Place 2010: 32800
+- Place 2000: 32800
+- Place 1990: 4920
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 746779
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 72
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 108
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

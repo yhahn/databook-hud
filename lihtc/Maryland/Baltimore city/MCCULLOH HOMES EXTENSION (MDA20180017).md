@@ -1,0 +1,85 @@
+# Project: MCCULLOH HOMES EXTENSION (MDA20180017)
+
+- HUD ID: MDA20180017
+- HUD ID before: 
+- Project: MCCULLOH HOMES EXTENSION
+- Address: 501 DOLPHIN STREET AND
+- City: BALTIMORE
+- State: MD
+- ZIP: 21217
+- ZIP extension: 
+- State project ID: MD-14-33001-2
+- Latitude: 39.301073
+- Longitude: -76.627399
+- County FIPS: 24510
+- County from: 2020
+- Tract 2020: 24510170200
+- Tract 2010: 24510170200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 2606000
+- Units: 350
+- Low-income units: 350
+- Units reported: 350
+- Low-income reported: 350
+- Efficiencies: 
+- 1-bedroom units: 200
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Veterans
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

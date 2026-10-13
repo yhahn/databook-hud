@@ -1,0 +1,85 @@
+# Project: EL PASEO APTS (NMA20030010)
+
+- HUD ID: NMA20030010
+- HUD ID before: 
+- Project: EL PASEO APTS
+- Address: 301 EL PUEBLO RD NW
+- City: LOS RANCHOS
+- State: NM
+- ZIP: 87114
+- ZIP extension: 
+- State project ID: 23300
+- Latitude: 35.177335
+- Longitude: -106.626877
+- County FIPS: 35001
+- County from: 2020
+- Tract 2020: 35001003501
+- Tract 2010: 35001003501
+- Tract 2000: 35001003501
+- Tract 1990: 35001003501
+- Place 2020: 43930
+- Place 2010: 43930
+- Place 2000: 02000
+- Place 1990: 0301
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 331364
+- Units: 166
+- Low-income units: 166
+- Units reported: 166
+- Low-income reported: 166
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 46
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NMA2002904.
+- Record status: Existing, unchanged

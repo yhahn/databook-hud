@@ -1,0 +1,85 @@
+# Project: HUSE SCHOOL (MEA20170001)
+
+- HUD ID: MEA20170001
+- HUD ID before: 
+- Project: HUSE SCHOOL
+- Address: 39 ANDREWS ROAD
+- City: BATH
+- State: ME
+- ZIP: 04530
+- ZIP extension: 
+- State project ID: MSHA-RLP-1634
+- Latitude: 43.914323
+- Longitude: -69.825854
+- County FIPS: 23023
+- County from: 2020
+- Tract 2020: 23023970500
+- Tract 2010: 23023970500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 03355
+- Place 2010: 03355
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 621305
+- Units: 59
+- Low-income units: 43
+- Units reported: 59
+- Low-income reported: 43
+- Efficiencies: 5
+- 1-bedroom units: 48
+- 2-bedroom units: 6
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 661250
+- CDBG: Yes
+- CDBG amount: 200000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

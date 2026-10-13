@@ -1,0 +1,85 @@
+# Project: LYDIA MORGAN ELDERLY (COA19970035)
+
+- HUD ID: COA19970035
+- HUD ID before: 
+- Project: LYDIA MORGAN ELDERLY
+- Address: 1450 LINCOLN AVE
+- City: LOUISVILLE
+- State: CO
+- ZIP: 80027
+- ZIP extension: 
+- State project ID: 960023
+- Latitude: 39.984618
+- Longitude: -105.137403
+- County FIPS: 08013
+- County from: 2020
+- Tract 2020: 08013013005
+- Tract 2010: 08013013005
+- Tract 2000: 08013013005
+- Tract 1990: 08013013002
+- Place 2020: 46355
+- Place 2010: 46355
+- Place 2000: 46355
+- Place 1990: 0825
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

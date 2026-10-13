@@ -1,0 +1,85 @@
+# Project: HERITAGE SQUARE (CAA20161025)
+
+- HUD ID: CAA20161025
+- HUD ID before: 
+- Project: HERITAGE SQUARE
+- Address: 762 N. FAIR OAKS AVENUE
+- City: PASADENA
+- State: CA
+- ZIP: 91103
+- ZIP extension: 
+- State project ID: CA-14-154
+- Latitude: 34.159008
+- Longitude: -118.150392
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037462002
+- Tract 2010: 06037462002
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1476589
+- Units: 70
+- Low-income units: 69
+- Units reported: 70
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 70
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 69
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1400000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

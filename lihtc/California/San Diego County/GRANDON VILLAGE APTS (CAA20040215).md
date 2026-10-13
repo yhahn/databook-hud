@@ -1,0 +1,85 @@
+# Project: GRANDON VILLAGE APTS (CAA20040215)
+
+- HUD ID: CAA20040215
+- HUD ID before: 
+- Project: GRANDON VILLAGE APTS
+- Address: 1605 GRANDON AVE
+- City: SAN MARCOS
+- State: CA
+- ZIP: 92078
+- ZIP extension: 
+- State project ID: CA-02-862
+- Latitude: 33.134729
+- Longitude: -117.204397
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073020029
+- Tract 2010: 06073020029
+- Tract 2000: 06073020009
+- Tract 1990: 06073020009
+- Place 2020: 68196
+- Place 2010: 68196
+- Place 2000: 68196
+- Place 1990: 2537
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 817180
+- Units: 161
+- Low-income units: 160
+- Units reported: 161
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 53
+- 2-bedroom units: 108
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

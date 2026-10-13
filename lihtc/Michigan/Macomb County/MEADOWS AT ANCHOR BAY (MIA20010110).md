@@ -1,0 +1,85 @@
+# Project: MEADOWS AT ANCHOR BAY (MIA20010110)
+
+- HUD ID: MIA20010110
+- HUD ID before: 
+- Project: MEADOWS AT ANCHOR BAY
+- Address: 50785 JEFFERSON AVE
+- City: NEW BALTIMORE
+- State: MI
+- ZIP: 48047
+- ZIP extension: 
+- State project ID: MI-985
+- Latitude: 42.673487
+- Longitude: -82.751458
+- County FIPS: 26099
+- County from: 2020
+- Tract 2020: 26099220002
+- Tract 2010: 26099220002
+- Tract 2000: 26099220000
+- Tract 1990: 26099220000
+- Place 2020: 57100
+- Place 2010: 57100
+- Place 2000: 57100
+- Place 1990: 1900
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 78
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

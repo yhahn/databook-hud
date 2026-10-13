@@ -1,0 +1,85 @@
+# Project: CYPRESS GROVE OF LAKE VILLAGE (ARA20185224)
+
+- HUD ID: ARA20185224
+- HUD ID before: 
+- Project: CYPRESS GROVE OF LAKE VILLAGE
+- Address: 188 CYPRESS STREET
+- City: LAKE VILLAGE
+- State: AR
+- ZIP: 
+- ZIP extension: 
+- State project ID: AR-11-04
+- Latitude: 33.339518
+- Longitude: -91.290337
+- County FIPS: 05017
+- County from: 2020
+- Tract 2020: 05017080300
+- Tract 2010: 05017080300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 528277
+- Units: 37
+- Low-income units: 36
+- Units reported: 37
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000536.
+- Record status: Existing, unchanged

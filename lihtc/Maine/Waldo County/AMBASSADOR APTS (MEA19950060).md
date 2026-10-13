@@ -1,0 +1,85 @@
+# Project: AMBASSADOR APTS (MEA19950060)
+
+- HUD ID: MEA19950060
+- HUD ID before: 
+- Project: AMBASSADOR APTS
+- Address: 2 CONGRESS ST
+- City: BELFAST
+- State: ME
+- ZIP: 04915
+- ZIP extension: 
+- State project ID: ME36-H017-165
+- Latitude: 44.424986
+- Longitude: -69.012058
+- County FIPS: 23027
+- County from: 2020
+- Tract 2020: 23027043000
+- Tract 2010: 23027043000
+- Tract 2000: 23027043000
+- Tract 1990: 23027043000
+- Place 2020: 03950
+- Place 2010: 03950
+- Place 2000: 03950
+- Place 1990: 0330
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 42479
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

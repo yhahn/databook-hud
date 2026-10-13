@@ -1,0 +1,85 @@
+# Project: FAIRVIEW WEST (OHA19930130)
+
+- HUD ID: OHA19930130
+- HUD ID before: 
+- Project: FAIRVIEW WEST
+- Address: 1203 WINTHROP LN
+- City: ASHLAND
+- State: OH
+- ZIP: 44805
+- ZIP extension: 
+- State project ID: OH-92-4066
+- Latitude: 40.870684
+- Longitude: -82.338082
+- County FIPS: 39005
+- County from: 2020
+- Tract 2020: 39005970300
+- Tract 2010: 39005970300
+- Tract 2000: 39005970300
+- Tract 1990: 39005970300
+- Place 2020: 02568
+- Place 2010: 02568
+- Place 2000: 02568
+- Place 1990: 0155
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 43650
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RUSHVILLE FAMILY HOUSING (NYA19940260)
+
+- HUD ID: NYA19940260
+- HUD ID before: 
+- Project: RUSHVILLE FAMILY HOUSING
+- Address: 35 HOLLISTER ST
+- City: DUNDEE
+- State: NY
+- ZIP: 14837
+- ZIP extension: 
+- State project ID: 19920065
+- Latitude: 42.522338
+- Longitude: -76.97244
+- County FIPS: 36123
+- County from: 2020
+- Tract 2020: 36123150101
+- Tract 2010: 36123150100
+- Tract 2000: 36123990100
+- Tract 1990: 36123990100
+- Place 2020: 21050
+- Place 2010: 21050
+- Place 2000: 20896
+- Place 1990: 0950
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 11
+- 3-bedroom units: 4
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

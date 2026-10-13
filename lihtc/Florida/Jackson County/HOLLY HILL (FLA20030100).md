@@ -1,0 +1,85 @@
+# Project: HOLLY HILL (FLA20030100)
+
+- HUD ID: FLA20030100
+- HUD ID before: 
+- Project: HOLLY HILL
+- Address: 4414 HOLLY HILL DR
+- City: MARIANNA
+- State: FL
+- ZIP: 32448
+- ZIP extension: 
+- State project ID: 1081
+- Latitude: 30.76287
+- Longitude: -85.228807
+- County FIPS: 12063
+- County from: 2020
+- Tract 2020: 12063210600
+- Tract 2010: 12063210600
+- Tract 2000: 12063980600
+- Tract 1990: 12063980600
+- Place 2020: 43175
+- Place 2010: 43175
+- Place 2000: 43175
+- Place 1990: 1305
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 53
+- Low-income units: 52
+- Units reported: 53
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 25
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

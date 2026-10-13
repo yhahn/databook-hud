@@ -1,0 +1,85 @@
+# Project: LINCOLN MEWS II (VAA20110820)
+
+- HUD ID: VAA20110820
+- HUD ID before: 
+- Project: LINCOLN MEWS II
+- Address: 4015 N AVE
+- City: RICHMOND
+- State: VA
+- ZIP: 23222
+- ZIP extension: 
+- State project ID: 9217
+- Latitude: 37.585377
+- Longitude: -77.439863
+- County FIPS: 51760
+- County from: 2020
+- Tract 2020: 51760010300
+- Tract 2010: 51760010300
+- Tract 2000: 51760010300
+- Tract 1990: 51760010300
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 1035
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 572665
+- Units: 130
+- Low-income units: 130
+- Units reported: 130
+- Low-income reported: 130
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 83
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 4008253
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

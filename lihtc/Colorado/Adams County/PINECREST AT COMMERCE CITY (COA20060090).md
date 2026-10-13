@@ -1,0 +1,85 @@
+# Project: PINECREST AT COMMERCE CITY (COA20060090)
+
+- HUD ID: COA20060090
+- HUD ID before: 
+- Project: PINECREST AT COMMERCE CITY
+- Address: 5655 OLIVE ST
+- City: COMMERCE CITY
+- State: CO
+- ZIP: 80022
+- ZIP extension: 
+- State project ID: 2004003
+- Latitude: 39.799584
+- Longitude: -104.906866
+- County FIPS: 08001
+- County from: 2020
+- Tract 2020: 08001008709
+- Tract 2010: 08001008709
+- Tract 2000: 08001008703
+- Tract 1990: 08001008703
+- Place 2020: 16495
+- Place 2010: 16495
+- Place 2000: 16495
+- Place 1990: 0245
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 728914
+- Units: 112
+- Low-income units: 111
+- Units reported: 112
+- Low-income reported: 111
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 82
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 91
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

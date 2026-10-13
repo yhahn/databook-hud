@@ -1,0 +1,85 @@
+# Project: PEPPERMILL APARTMENTS II (LAA20060050)
+
+- HUD ID: LAA20060050
+- HUD ID before: 
+- Project: PEPPERMILL APARTMENTS II
+- Address: 2700 BEGLIS PARKWAY
+- City: SULPHUR
+- State: LA
+- ZIP: 70663
+- ZIP extension: 0000
+- State project ID: LA-05-083
+- Latitude: 30.279284
+- Longitude: -93.358701
+- County FIPS: 22019
+- County from: 2020
+- Tract 2020: 22019002702
+- Tract 2010: 22019002700
+- Tract 2000: 22019002700
+- Tract 1990: 22019002700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 32978
+- Units: 56
+- Low-income units: 8
+- Units reported: 56
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 4
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Family/Special Needs
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

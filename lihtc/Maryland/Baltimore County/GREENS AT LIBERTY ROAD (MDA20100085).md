@@ -1,0 +1,85 @@
+# Project: GREENS AT LIBERTY ROAD (MDA20100085)
+
+- HUD ID: MDA20100085
+- HUD ID before: 
+- Project: GREENS AT LIBERTY ROAD
+- Address: 9707 LIBERTY RD
+- City: RANDALLSTOWN
+- State: MD
+- ZIP: 21133
+- ZIP extension: 
+- State project ID: MD-10-08
+- Latitude: 39.37889
+- Longitude: -76.81869
+- County FIPS: 24005
+- County from: 2020
+- Tract 2020: 24005402504
+- Tract 2010: 24005402504
+- Tract 2000: 24005402504
+- Tract 1990: 24005402504
+- Place 2020: 64950
+- Place 2010: 64950
+- Place 2000: 64950
+- Place 1990: 0820
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 105
+- Low-income units: 105
+- Units reported: 105
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 81
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

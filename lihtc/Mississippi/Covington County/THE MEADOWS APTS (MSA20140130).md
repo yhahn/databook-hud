@@ -1,0 +1,85 @@
+# Project: THE MEADOWS APTS (MSA20140130)
+
+- HUD ID: MSA20140130
+- HUD ID before: 
+- Project: THE MEADOWS APTS
+- Address: 300 REBECCA RD
+- City: COLLINS
+- State: MS
+- ZIP: 39428
+- ZIP extension: 
+- State project ID: MS-12-1-047
+- Latitude: 31.649896
+- Longitude: -89.572019
+- County FIPS: 28031
+- County from: 2020
+- Tract 2020: 28031950200
+- Tract 2010: 28031950200
+- Tract 2000: 28031950200
+- Tract 1990: 28031950200
+- Place 2020: 15140
+- Place 2010: 15140
+- Place 2000: 15140
+- Place 1990: 0255
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 238131
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 36
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1998588, MSA1998036, MSA1996100. FKA NEW CASTLE APTS
+- Record status: Existing, unchanged

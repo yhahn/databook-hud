@@ -1,0 +1,85 @@
+# Project: LAKEVIEW PARK (TXA20070180)
+
+- HUD ID: TXA20070180
+- HUD ID before: 
+- Project: LAKEVIEW PARK
+- Address: 1816 N STATE HWY 91
+- City: DENISON
+- State: TX
+- ZIP: 75020
+- ZIP extension: 
+- State project ID: TX4283
+- Latitude: 33.773987
+- Longitude: -96.555512
+- County FIPS: 48181
+- County from: 2020
+- Tract 2020: 48181000501
+- Tract 2010: 48181000501
+- Tract 2000: 48181000700
+- Tract 1990: 48181000700
+- Place 2020: 19900
+- Place 2010: 19900
+- Place 2000: 19900
+- Place 1990: 1135
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 463334
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 34
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DENISON LAKEVIEW PARK APTS.
+- Record status: Existing, unchanged

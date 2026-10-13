@@ -1,0 +1,85 @@
+# Project: RENAISSANCE AT CONCORD PLAZA (COA19990105)
+
+- HUD ID: COA19990105
+- HUD ID before: 
+- Project: RENAISSANCE AT CONCORD PLAZA
+- Address: 1775 KENDALL ST
+- City: LAKEWOOD
+- State: CO
+- ZIP: 80214
+- ZIP extension: 
+- State project ID: CO-97-0614
+- Latitude: 39.745144
+- Longitude: -105.066317
+- County FIPS: 08059
+- County from: 2020
+- Tract 2020: 08059011402
+- Tract 2010: 08059011402
+- Tract 2000: 08059011400
+- Tract 1990: 08059011400
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 23135
+- Place 1990: 0760
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 75
+- Units reported: 76
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 40
+- 3-bedroom units: 24
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

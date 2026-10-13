@@ -1,0 +1,85 @@
+# Project: WOODSIDE OAKS (FLA20110537)
+
+- HUD ID: FLA20110537
+- HUD ID before: 
+- Project: WOODSIDE OAKS
+- Address: 26205 SW 144TH AVE
+- City: HOMESTEAD
+- State: FL
+- ZIP: 33032
+- ZIP extension: 
+- State project ID: 2480
+- Latitude: 25.523518
+- Longitude: -80.425943
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010400
+- Tract 2010: 12086010400
+- Tract 2000: 12086010400
+- Tract 1990: 12025010400
+- Place 2020: 58975
+- Place 2010: 58975
+- Place 2000: 26950
+- Place 1990: 0758
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1680000
+- Units: 103
+- Low-income units: 103
+- Units reported: 103
+- Low-income reported: 103
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 73
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5850000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011270.
+- Record status: Existing, unchanged

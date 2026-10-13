@@ -1,0 +1,85 @@
+# Project: T & J INVESTMENTS (WIA19880145)
+
+- HUD ID: WIA19880145
+- HUD ID before: 
+- Project: T & J INVESTMENTS
+- Address: 1275 SHAWANO AVE
+- City: GREEN BAY
+- State: WI
+- ZIP: 54303
+- ZIP extension: 
+- State project ID: 133
+- Latitude: 44.525284
+- Longitude: -88.047079
+- County FIPS: 55009
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55009000401
+- Tract 2000: 55009000401
+- Tract 1990: 55009000401
+- Place 2020: 
+- Place 2010: 31000
+- Place 2000: 31000
+- Place 1990: 1055
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 9
+- Units reported: 12
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: Existing
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

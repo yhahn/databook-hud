@@ -1,0 +1,85 @@
+# Project: VAUGHN VILLAGE II APTS (KYA19969574)
+
+- HUD ID: KYA19969574
+- HUD ID before: 
+- Project: VAUGHN VILLAGE II APTS
+- Address: 1119 NORTHRIDGE DR
+- City: ELIZABETHTOWN
+- State: KY
+- ZIP: 42701
+- ZIP extension: 
+- State project ID: KY-94-011
+- Latitude: 37.720351
+- Longitude: -85.835365
+- County FIPS: 21093
+- County from: 2020
+- Tract 2020: 21093001100
+- Tract 2010: 21093001100
+- Tract 2000: 21093001100
+- Tract 1990: 21093001100
+- Place 2020: 24274
+- Place 2010: 24274
+- Place 2000: 24274
+- Place 1990: 0610
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 1
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

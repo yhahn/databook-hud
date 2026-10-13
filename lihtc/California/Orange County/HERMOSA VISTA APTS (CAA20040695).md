@@ -1,0 +1,85 @@
+# Project: HERMOSA VISTA APTS (CAA20040695)
+
+- HUD ID: CAA20040695
+- HUD ID before: 
+- Project: HERMOSA VISTA APTS
+- Address: 15353 GOLDENWEST ST
+- City: HUNTINGTON BEACH
+- State: CA
+- ZIP: 92647
+- ZIP extension: 
+- State project ID: CA-03-915
+- Latitude: 33.738353
+- Longitude: -118.007187
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059099605
+- Tract 2010: 06059099605
+- Tract 2000: 06059099605
+- Tract 1990: 06059099605
+- Place 2020: 36000
+- Place 2010: 84550
+- Place 2000: 36000
+- Place 1990: 1300
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 424881
+- Units: 88
+- Low-income units: 87
+- Units reported: 88
+- Low-income reported: 87
+- Efficiencies: 8
+- 1-bedroom units: 27
+- 2-bedroom units: 53
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

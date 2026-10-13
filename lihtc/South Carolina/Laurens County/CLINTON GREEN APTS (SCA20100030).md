@@ -1,0 +1,85 @@
+# Project: CLINTON GREEN APTS (SCA20100030)
+
+- HUD ID: SCA20100030
+- HUD ID before: 
+- Project: CLINTON GREEN APTS
+- Address: 100 HOUSER CIR
+- City: CLINTON
+- State: SC
+- ZIP: 29325
+- ZIP extension: 
+- State project ID: SC-09-014
+- Latitude: 34.4579
+- Longitude: -81.8621
+- County FIPS: 45059
+- County from: 2020
+- Tract 2020: 45059920800
+- Tract 2010: 45059920800
+- Tract 2000: 45059980800
+- Tract 1990: 45059980800
+- Place 2020: 15295
+- Place 2010: 15295
+- Place 2000: 15295
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 400464
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 1365130
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

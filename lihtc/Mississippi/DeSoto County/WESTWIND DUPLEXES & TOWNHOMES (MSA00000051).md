@@ -1,0 +1,85 @@
+# Project: WESTWIND DUPLEXES & TOWNHOMES (MSA00000051)
+
+- HUD ID: MSA00000051
+- HUD ID before: 
+- Project: WESTWIND DUPLEXES & TOWNHOMES
+- Address: 1800 JOY CIR
+- City: HORN LAKE
+- State: MS
+- ZIP: 38637
+- ZIP extension: 
+- State project ID: F410010200
+- Latitude: 34.954386
+- Longitude: -90.021295
+- County FIPS: 28033
+- County from: 2020
+- Tract 2020: 28033070322
+- Tract 2010: 28033070322
+- Tract 2000: 28033070322
+- Tract 1990: 28033070320
+- Place 2020: 33700
+- Place 2010: 33700
+- Place 2000: 33700
+- Place 1990: 0578
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

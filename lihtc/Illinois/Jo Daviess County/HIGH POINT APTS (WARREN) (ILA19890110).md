@@ -1,0 +1,85 @@
+# Project: HIGH POINT APTS (WARREN) (ILA19890110)
+
+- HUD ID: ILA19890110
+- HUD ID before: 
+- Project: HIGH POINT APTS (WARREN)
+- Address: 739 W WASHINGTON ST
+- City: WARREN
+- State: IL
+- ZIP: 61087
+- ZIP extension: 
+- State project ID: 257-89
+- Latitude: 42.499199
+- Longitude: -89.994705
+- County FIPS: 17085
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17085020100
+- Tract 2000: 17085020100
+- Tract 1990: 17085020100
+- Place 2020: 
+- Place 2010: 78851
+- Place 2000: 01673
+- Place 1990: 6010
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 11426
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000470.
+- Record status: Existing, unchanged

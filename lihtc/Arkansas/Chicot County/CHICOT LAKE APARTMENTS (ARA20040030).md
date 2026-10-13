@@ -1,0 +1,85 @@
+# Project: CHICOT LAKE APARTMENTS (ARA20040030)
+
+- HUD ID: ARA20040030
+- HUD ID before: 
+- Project: CHICOT LAKE APARTMENTS
+- Address: 920 MULBERRY ST
+- City: LAKE VILLAGE
+- State: AR
+- ZIP: 71653
+- ZIP extension: 
+- State project ID: AR-03-33-001
+- Latitude: 33.323446
+- Longitude: -91.289082
+- County FIPS: 05017
+- County from: 2020
+- Tract 2020: 05017080300
+- Tract 2010: 05017080300
+- Tract 2000: 05017980300
+- Tract 1990: 05017980300
+- Place 2020: 38170
+- Place 2010: 38170
+- Place 2000: 38170
+- Place 1990: 1140
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 44860
+- Units: 44
+- Low-income units: 43
+- Units reported: 44
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

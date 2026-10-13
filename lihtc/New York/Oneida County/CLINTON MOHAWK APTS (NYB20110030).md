@@ -1,0 +1,85 @@
+# Project: CLINTON MOHAWK APTS (NYB20110030)
+
+- HUD ID: NYB20110030
+- HUD ID before: 
+- Project: CLINTON MOHAWK APTS
+- Address: 52 FRANKLIN AVE
+- City: CLINTON
+- State: NY
+- ZIP: 13323
+- ZIP extension: 
+- State project ID: NY-10-1981
+- Latitude: 43.041165
+- Longitude: -75.385734
+- County FIPS: 36065
+- County from: 2020
+- Tract 2020: 36065025002
+- Tract 2010: 36065025002
+- Tract 2000: 36065025002
+- Tract 1990: 36065025002
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 16419
+- Place 1990: 0715
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 269375
+- Units: 140
+- Low-income units: 137
+- Units reported: 140
+- Low-income reported: 137
+- Efficiencies: 0
+- 1-bedroom units: 127
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYB2011523.
+- Record status: Existing, unchanged

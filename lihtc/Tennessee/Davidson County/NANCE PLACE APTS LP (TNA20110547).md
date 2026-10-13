@@ -1,0 +1,85 @@
+# Project: NANCE PLACE APTS LP (TNA20110547)
+
+- HUD ID: TNA20110547
+- HUD ID before: 
+- Project: NANCE PLACE APTS LP
+- Address: 8 ACADEMY PL
+- City: NASHVILLE
+- State: TN
+- ZIP: 37210
+- ZIP extension: 
+- State project ID: TN-08-067
+- Latitude: 36.155362
+- Longitude: -86.765815
+- County FIPS: 47037
+- County from: 2020
+- Tract 2020: 47037019503
+- Tract 2010: 47037019500
+- Tract 2000: 47037014700
+- Tract 1990: 47037014700
+- Place 2020: 52006
+- Place 2010: 52006
+- Place 2000: 52006
+- Place 1990: 1016
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1060992
+- Units: 109
+- Low-income units: 109
+- Units reported: 109
+- Low-income reported: 109
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 9076327
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2011065.
+- Record status: Existing, unchanged

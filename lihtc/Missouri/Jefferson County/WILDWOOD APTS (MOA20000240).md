@@ -1,0 +1,85 @@
+# Project: WILDWOOD APTS (MOA20000240)
+
+- HUD ID: MOA20000240
+- HUD ID before: 
+- Project: WILDWOOD APTS
+- Address: 2025 SIERRA PKWY
+- City: ARNOLD
+- State: MO
+- ZIP: 63010
+- ZIP extension: 
+- State project ID: 99006
+- Latitude: 38.403081
+- Longitude: -90.38702
+- County FIPS: 29099
+- County from: 2020
+- Tract 2020: 29099700117
+- Tract 2010: 29099700117
+- Tract 2000: 29099700108
+- Tract 1990: 29099700106
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 01972
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

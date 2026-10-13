@@ -1,0 +1,85 @@
+# Project: 2030 CRESTON AVENUE LLC (NYC20200001)
+
+- HUD ID: NYC20200001
+- HUD ID before: 
+- Project: 2030 CRESTON AVENUE LLC
+- Address: 2028 CRESTON AVE
+- City: BRONX
+- State: NY
+- ZIP: 10453
+- ZIP extension: 
+- State project ID: 47-3726226
+- Latitude: 40.852037
+- Longitude: -73.905215
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005023501
+- Tract 2010: 36005023501
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1461246
+- Units: 189
+- Low-income units: 94
+- Units reported: 189
+- Low-income reported: 94
+- Efficiencies: 41
+- 1-bedroom units: 75
+- 2-bedroom units: 54
+- 3-bedroom units: 19
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 37
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

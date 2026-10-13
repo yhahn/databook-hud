@@ -1,0 +1,85 @@
+# Project: BISBEE APTS COPPER CITY (AZA19910005)
+
+- HUD ID: AZA19910005
+- HUD ID before: 
+- Project: BISBEE APTS COPPER CITY
+- Address: 500 W MELODY LN
+- City: BISBEE
+- State: AZ
+- ZIP: 85603
+- ZIP extension: 
+- State project ID: AZ-90-00088
+- Latitude: 31.394208
+- Longitude: -109.928353
+- County FIPS: 04003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04003001200
+- Tract 2000: 04003001200
+- Tract 1990: 04003001200
+- Place 2020: 
+- Place 2010: 06260
+- Place 2000: 06260
+- Place 1990: 0025
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COMPASS CENTER RENTON LUTHERAN REGIONAL VETERANS' PROGRAM (WAA20100811)
+
+- HUD ID: WAA20100811
+- HUD ID before: 
+- Project: COMPASS CENTER RENTON LUTHERAN REGIONAL VETERANS' PROGRAM
+- Address: 419 S SECOND ST
+- City: RENTON
+- State: WA
+- ZIP: 98057
+- ZIP extension: 
+- State project ID: WA-08-00109
+- Latitude: 47.480985
+- Longitude: -122.211742
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033025302
+- Tract 2010: 53033025302
+- Tract 2000: 53033025300
+- Tract 1990: 53033025300
+- Place 2020: 57745
+- Place 2010: 57745
+- Place 2000: 08552
+- Place 1990: 1070
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 760130
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 38
+- 1-bedroom units: 1
+- 2-bedroom units: 9
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 47
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 12922202
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA0000172.
+- Record status: Existing, unchanged

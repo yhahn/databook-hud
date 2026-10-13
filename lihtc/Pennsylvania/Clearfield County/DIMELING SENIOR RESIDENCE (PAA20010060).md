@@ -1,0 +1,85 @@
+# Project: DIMELING SENIOR RESIDENCE (PAA20010060)
+
+- HUD ID: PAA20010060
+- HUD ID before: 
+- Project: DIMELING SENIOR RESIDENCE
+- Address: 4 N SECOND ST
+- City: CLEARFIELD
+- State: PA
+- ZIP: 16830
+- ZIP extension: 
+- State project ID: TC19990023
+- Latitude: 41.022151
+- Longitude: -78.438281
+- County FIPS: 42033
+- County from: 2020
+- Tract 2020: 42033331100
+- Tract 2010: 42033331100
+- Tract 2000: 42033331100
+- Tract 1990: 42033331100
+- Place 2020: 14064
+- Place 2010: 14064
+- Place 2000: 14064
+- Place 1990: 2015
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 193944
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1146888
+- CDBG: Yes
+- CDBG amount: 750000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ELMWOOD SQUARE (NJA20220181)
+
+- HUD ID: NJA20220181
+- HUD ID before: 
+- Project: ELMWOOD SQUARE
+- Address: 532 WEST SECOND STREET
+- City: PLAINFIELD CITY
+- State: NJ
+- ZIP: 07060
+- ZIP extension: 
+- State project ID: NJ-99-99
+- Latitude: 40.613419
+- Longitude: -74.428734
+- County FIPS: 34039
+- County from: 2020
+- Tract 2020: 34039039301
+- Tract 2010: 34039039300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59190
+- Place 2010: 59190
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1302273
+- Units: 58
+- Low-income units: 50
+- Units reported: 58
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

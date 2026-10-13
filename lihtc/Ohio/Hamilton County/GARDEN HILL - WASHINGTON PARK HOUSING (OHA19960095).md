@@ -1,0 +1,85 @@
+# Project: GARDEN HILL / WASHINGTON PARK HOUSING (OHA19960095)
+
+- HUD ID: OHA19960095
+- HUD ID before: 
+- Project: GARDEN HILL / WASHINGTON PARK HOUSING
+- Address: 5480 GARDENVIEW LN
+- City: CINCINNATI
+- State: OH
+- ZIP: 45232
+- ZIP extension: 
+- State project ID: OH-96-0134
+- Latitude: 39.191341
+- Longitude: -84.5172
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061008000
+- Tract 2010: 39061008000
+- Tract 2000: 39061008000
+- Tract 1990: 39061008000
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 536730
+- Units: 245
+- Low-income units: 237
+- Units reported: 245
+- Low-income reported: 237
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 74
+- 3-bedroom units: 77
+- 4-bedroom units: 34
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

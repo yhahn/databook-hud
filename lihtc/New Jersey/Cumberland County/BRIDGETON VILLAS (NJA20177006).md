@@ -1,0 +1,85 @@
+# Project: BRIDGETON VILLAS (NJA20177006)
+
+- HUD ID: NJA20177006
+- HUD ID before: 
+- Project: BRIDGETON VILLAS
+- Address: 205 COTTAGE AVE
+- City: BRIDGETON
+- State: NJ
+- ZIP: 08302
+- ZIP extension: 4088
+- State project ID: 41
+- Latitude: 39.42166
+- Longitude: -75.247018
+- County FIPS: 34011
+- County from: 2020
+- Tract 2020: 34011020600
+- Tract 2010: 34011020600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 07600
+- Place 2010: 07600
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 52
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

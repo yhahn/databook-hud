@@ -1,0 +1,85 @@
+# Project: PRESIDIO PALMS II (TXA20120854)
+
+- HUD ID: TXA20120854
+- HUD ID before: 
+- Project: PRESIDIO PALMS II
+- Address: 12950 ALNOR ST
+- City: SAN ELIZARIO
+- State: TX
+- ZIP: 79849
+- ZIP extension: 
+- State project ID: TX4781
+- Latitude: 31.579736
+- Longitude: -106.269435
+- County FIPS: 48141
+- County from: 2020
+- Tract 2020: 48141010412
+- Tract 2010: 48141010407
+- Tract 2000: 48141010403
+- Tract 1990: 48141010403
+- Place 2020: 65360
+- Place 2010: 65360
+- Place 2000: 24000
+- Place 1990: 3971
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 40
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

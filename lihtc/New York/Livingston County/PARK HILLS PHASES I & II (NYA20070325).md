@@ -1,0 +1,85 @@
+# Project: PARK HILLS PHASES I & II (NYA20070325)
+
+- HUD ID: NYA20070325
+- HUD ID before: 
+- Project: PARK HILLS PHASES I & II
+- Address: 52 WILLIAM ST
+- City: DANSVILLE
+- State: NY
+- ZIP: 14437
+- ZIP extension: 
+- State project ID: 20050333
+- Latitude: 42.566663
+- Longitude: -77.691535
+- County FIPS: 36051
+- County from: 2020
+- Tract 2020: 36051031400
+- Tract 2010: 36051031400
+- Tract 2000: 36051031400
+- Tract 1990: 36051031400
+- Place 2020: 19664
+- Place 2010: 19664
+- Place 2000: 19664
+- Place 1990: 0865
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 95816
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 56
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 18
+- 4-bedroom units: 30
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

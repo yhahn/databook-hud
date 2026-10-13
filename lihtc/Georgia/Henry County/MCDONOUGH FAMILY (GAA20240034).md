@@ -1,0 +1,85 @@
+# Project: MCDONOUGH FAMILY (GAA20240034)
+
+- HUD ID: GAA20240034
+- HUD ID before: 
+- Project: MCDONOUGH FAMILY
+- Address: 155 COLA WELCH PARKWAY
+- City: MCDONOUGH
+- State: GA
+- ZIP: 30253
+- ZIP extension: 3354
+- State project ID: 2019-547
+- Latitude: 33.445
+- Longitude: -84.1743
+- County FIPS: 13151
+- County from: 2020
+- Tract 2020: 13151070324
+- Tract 2010: 13151070311
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 48624
+- Place 2010: 48624
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 2240124
+- Units: 288
+- Low-income units: 287
+- Units reported: 288
+- Low-income reported: 287
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 132
+- 3-bedroom units: 120
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

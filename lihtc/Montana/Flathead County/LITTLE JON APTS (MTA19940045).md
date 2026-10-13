@@ -1,0 +1,85 @@
+# Project: LITTLE JON APTS (MTA19940045)
+
+- HUD ID: MTA19940045
+- HUD ID before: 
+- Project: LITTLE JON APTS
+- Address: 1154 GRAND DR
+- City: BIGFORK
+- State: MT
+- ZIP: 59911
+- ZIP extension: 
+- State project ID: 94020
+- Latitude: 48.067183
+- Longitude: -114.080037
+- County FIPS: 30029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 30029001301
+- Tract 2000: 30029001300
+- Tract 1990: 30029001300
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 05875
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 67882
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 21
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MTA1994025.
+- Record status: Updated

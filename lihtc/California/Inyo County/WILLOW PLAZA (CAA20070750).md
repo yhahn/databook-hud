@@ -1,0 +1,85 @@
+# Project: WILLOW PLAZA (CAA20070750)
+
+- HUD ID: CAA20070750
+- HUD ID before: 
+- Project: WILLOW PLAZA
+- Address: 324 WILLOW ST
+- City: BISHOP
+- State: CA
+- ZIP: 93514
+- ZIP extension: 
+- State project ID: CA-06-889
+- Latitude: 37.362749
+- Longitude: -118.390788
+- County FIPS: 06027
+- County from: 2020
+- Tract 2020: 06027000400
+- Tract 2010: 06027000400
+- Tract 2000: 06027000400
+- Tract 1990: 06027000400
+- Place 2020: 06798
+- Place 2010: 06798
+- Place 2000: 06798
+- Place 1990: 0275
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 128572
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

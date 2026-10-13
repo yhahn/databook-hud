@@ -1,0 +1,85 @@
+# Project: SCUDDER HOMES SENIOR URBAN RENEWAL (NJA20080180)
+
+- HUD ID: NJA20080180
+- HUD ID before: 
+- Project: SCUDDER HOMES SENIOR URBAN RENEWAL
+- Address: 195 W KINNEY ST
+- City: NEWARK
+- State: NJ
+- ZIP: 07103
+- ZIP extension: 
+- State project ID: NJ-2195-1
+- Latitude: 40.731398
+- Longitude: -74.185319
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013022800
+- Tract 2010: 34013022800
+- Tract 2000: 34013022800
+- Tract 1990: 34013006300
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2895
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 624115
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

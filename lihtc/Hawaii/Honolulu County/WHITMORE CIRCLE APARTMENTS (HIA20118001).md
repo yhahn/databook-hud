@@ -1,0 +1,85 @@
+# Project: WHITMORE CIRCLE APARTMENTS (HIA20118001)
+
+- HUD ID: HIA20118001
+- HUD ID before: 
+- Project: WHITMORE CIRCLE APARTMENTS
+- Address: 111 CIRCLE MAKAI STREET
+- City: WAHIAWA
+- State: HI
+- ZIP: 96786
+- ZIP extension: 
+- State project ID: HI-2010-007
+- Latitude: 21.508345
+- Longitude: -158.02152
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003009100
+- Tract 2010: 15003009100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 80900
+- Place 2010: 80900
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 479896
+- Units: 44
+- Low-income units: 43
+- Units reported: 44
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

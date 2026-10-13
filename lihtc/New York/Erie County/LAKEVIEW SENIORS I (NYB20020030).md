@@ -1,0 +1,85 @@
+# Project: LAKEVIEW SENIORS I (NYB20020030)
+
+- HUD ID: NYB20020030
+- HUD ID before: 
+- Project: LAKEVIEW SENIORS I
+- Address: 345 TRENTON AVE
+- City: BUFFALO
+- State: NY
+- ZIP: 14201
+- ZIP extension: 
+- State project ID: 1440
+- Latitude: 42.894711
+- Longitude: -78.890262
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029007104
+- Tract 2010: 36029007101
+- Tract 2000: 36029007101
+- Tract 1990: 36029007101
+- Place 2020: 11000
+- Place 2010: 11000
+- Place 2000: 11000
+- Place 1990: 0450
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 138
+- Low-income units: 138
+- Units reported: 138
+- Low-income reported: 138
+- Efficiencies: 0
+- 1-bedroom units: 85
+- 2-bedroom units: 41
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYB2001030.
+- Record status: Existing, unchanged

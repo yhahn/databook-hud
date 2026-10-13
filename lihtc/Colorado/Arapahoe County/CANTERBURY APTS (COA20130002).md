@@ -1,0 +1,85 @@
+# Project: CANTERBURY APTS (COA20130002)
+
+- HUD ID: COA20130002
+- HUD ID before: 
+- Project: CANTERBURY APTS
+- Address: 3600 S DELAWARE ST
+- City: ENGLEWOOD
+- State: CO
+- ZIP: 80110
+- ZIP extension: 
+- State project ID: 9Z01-476
+- Latitude: 39.650635
+- Longitude: -104.992191
+- County FIPS: 08005
+- County from: 2020
+- Tract 2020: 08005006000
+- Tract 2010: 08005006000
+- Tract 2000: 08005006000
+- Tract 1990: 08005006000
+- Place 2020: 24785
+- Place 2010: 24785
+- Place 2000: 24785
+- Place 1990: 0395
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 477296
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

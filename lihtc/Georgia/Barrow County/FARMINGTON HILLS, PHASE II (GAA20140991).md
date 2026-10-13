@@ -1,0 +1,85 @@
+# Project: FARMINGTON HILLS, PHASE II (GAA20140991)
+
+- HUD ID: GAA20140991
+- HUD ID before: 
+- Project: FARMINGTON HILLS, PHASE II
+- Address: 1525 FARMINGTON WAY
+- City: WINDER
+- State: GA
+- ZIP: 30680
+- ZIP extension: 3836
+- State project ID: GA-12-038
+- Latitude: 33.948737
+- Longitude: -83.772616
+- County FIPS: 13013
+- County from: 2020
+- Tract 2020: 13013180501
+- Tract 2010: 13013180501
+- Tract 2000: 13013180500
+- Tract 1990: 13013180500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 07612
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 807072
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 36
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000911, GAA0000147. AKA FARMINGTON HILLS II.
+- Record status: Existing, unchanged

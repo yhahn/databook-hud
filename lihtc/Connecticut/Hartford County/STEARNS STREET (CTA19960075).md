@@ -1,0 +1,85 @@
+# Project: STEARNS STREET (CTA19960075)
+
+- HUD ID: CTA19960075
+- HUD ID before: 
+- Project: STEARNS STREET
+- Address: 57 STEARNS ST
+- City: BRISTOL
+- State: CT
+- ZIP: 06010
+- ZIP extension: 
+- State project ID: CT-96-004
+- Latitude: 41.679136
+- Longitude: -72.938924
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003405100
+- Tract 2010: 09003405100
+- Tract 2000: 09003405100
+- Tract 1990: 09003405100
+- Place 2020: 08420
+- Place 2010: 08420
+- Place 2000: 08420
+- Place 1990: 0230
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 6
+- 1-bedroom units: 6
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

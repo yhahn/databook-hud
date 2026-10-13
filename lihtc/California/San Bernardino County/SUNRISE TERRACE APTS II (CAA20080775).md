@@ -1,0 +1,85 @@
+# Project: SUNRISE TERRACE APTS II (CAA20080775)
+
+- HUD ID: CAA20080775
+- HUD ID before: 
+- Project: SUNRISE TERRACE APTS II
+- Address: 8632 C AVE
+- City: HESPERIA
+- State: CA
+- ZIP: 92345
+- ZIP extension: 
+- State project ID: CA-06-866
+- Latitude: 34.407766
+- Longitude: -117.299861
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071010032
+- Tract 2010: 06071010020
+- Tract 2000: 06071010020
+- Tract 1990: 06071010005
+- Place 2020: 33434
+- Place 2010: 33434
+- Place 2000: 33434
+- Place 1990: 1251
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 690632
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 44
+- 4-bedroom units: 14
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

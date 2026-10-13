@@ -1,0 +1,85 @@
+# Project: WARREN STREET SUPPORTIVE HOUSING (NYA19980230)
+
+- HUD ID: NYA19980230
+- HUD ID before: 
+- Project: WARREN STREET SUPPORTIVE HOUSING
+- Address: 551 WARREN ST
+- City: BROOKLYN
+- State: NY
+- ZIP: 11217
+- ZIP extension: 
+- State project ID: 19970569
+- Latitude: 40.681944
+- Longitude: -73.98185
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047012700
+- Tract 2010: 36047012700
+- Tract 2000: 36047012700
+- Tract 1990: 36047012700
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 67
+- Units reported: 68
+- Low-income reported: 67
+- Efficiencies: 67
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

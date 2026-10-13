@@ -1,0 +1,85 @@
+# Project: BRIDGEPORT ELDERLY APTS (CTA20090005)
+
+- HUD ID: CTA20090005
+- HUD ID before: 
+- Project: BRIDGEPORT ELDERLY APTS
+- Address: 2400 N AVE
+- City: BRIDGEPORT
+- State: CT
+- ZIP: 06604
+- ZIP extension: 
+- State project ID: CT-07-017
+- Latitude: 41.178549
+- Longitude: -73.21635
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001072100
+- Tract 2010: 09001072100
+- Tract 2000: 09001072100
+- Tract 1990: 09001072100
+- Place 2020: 08000
+- Place 2010: 08000
+- Place 2000: 08000
+- Place 1990: 0200
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 250121
+- Units: 85
+- Low-income units: 85
+- Units reported: 85
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 85
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA0000035.
+- Record status: Existing, unchanged

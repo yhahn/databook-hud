@@ -1,0 +1,85 @@
+# Project: RUDY VILLARREAL OAK SQUARE APTS (TXA20070305)
+
+- HUD ID: TXA20070305
+- HUD ID before: 
+- Project: RUDY VILLARREAL OAK SQUARE APTS
+- Address: 309 N NINTH ST
+- City: ALAMO
+- State: TX
+- ZIP: 78516
+- ZIP extension: 
+- State project ID: TX5025
+- Latitude: 26.187216
+- Longitude: -98.118729
+- County FIPS: 48215
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48215021903
+- Tract 2000: 48215021902
+- Tract 1990: 48215021900
+- Place 2020: 
+- Place 2010: 01576
+- Place 2000: 01576
+- Place 1990: 0035
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 571979
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 44
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA POINSETTIA APTS.
+- Record status: Existing, unchanged

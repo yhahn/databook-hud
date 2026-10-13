@@ -1,0 +1,85 @@
+# Project: VILLAS DE RINCON APTS (PRA19990035)
+
+- HUD ID: PRA19990035
+- HUD ID before: 
+- Project: VILLAS DE RINCON APTS
+- Address: KM 3 ST 412
+- City: RINCON
+- State: PR
+- ZIP: 
+- ZIP extension: 
+- State project ID: 98-011
+- Latitude: 
+- Longitude: 
+- County FIPS: 72117
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 155042
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 35
+- 3-bedroom units: 35
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA1999105.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BESS HOME (TXA19890265)
+
+- HUD ID: TXA19890265
+- HUD ID before: 
+- Project: BESS HOME
+- Address: 157 BESS ST
+- City: NEW BRAUNFELS
+- State: TX
+- ZIP: 78130
+- ZIP extension: 
+- State project ID: TX6736
+- Latitude: 29.654539
+- Longitude: -98.050915
+- County FIPS: 48187
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48187210507
+- Tract 2000: 48187210503
+- Tract 1990: 48187210502
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 29384
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

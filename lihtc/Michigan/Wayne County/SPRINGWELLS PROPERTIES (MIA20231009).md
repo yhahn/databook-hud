@@ -1,0 +1,85 @@
+# Project: SPRINGWELLS PROPERTIES (MIA20231009)
+
+- HUD ID: MIA20231009
+- HUD ID before: 
+- Project: SPRINGWELLS PROPERTIES
+- Address: 8729 VERNOR, 2310 CABOT, 2316 LAWNDALE, & 2439 CARSON
+- City: DETROIT
+- State: MI
+- ZIP: 48209
+- ZIP extension: 0000
+- State project ID: 4036
+- Latitude: 42.3068
+- Longitude: -83.1129
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163524200
+- Tract 2010: 26163523800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2025
+- Allocation year note: 
+- Allocation amount: 498489
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 89
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 45
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: No
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 4319840
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

@@ -1,0 +1,85 @@
+# Project: FAMILY TREE + LINCOLN WAY (WAA20144013)
+
+- HUD ID: WAA20144013
+- HUD ID before: 
+- Project: FAMILY TREE + LINCOLN WAY
+- Address: 10110 19TH AVENUE SE
+- City: EVERETT
+- State: WA
+- ZIP: 98208
+- ZIP extension: 
+- State project ID: 13-73AB
+- Latitude: 47.906017
+- Longitude: -122.207276
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061041701
+- Tract 2010: 53061041701
+- Tract 2000: 53029970400
+- Tract 1990: 
+- Place 2020: 22640
+- Place 2010: 22640
+- Place 2000: 50360
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 988752
+- Units: 200
+- Low-income units: 199
+- Units reported: 200
+- Low-income reported: 199
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 121
+- 3-bedroom units: 47
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

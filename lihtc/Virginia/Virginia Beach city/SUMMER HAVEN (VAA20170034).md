@@ -1,0 +1,85 @@
+# Project: SUMMER HAVEN (VAA20170034)
+
+- HUD ID: VAA20170034
+- HUD ID before: 
+- Project: SUMMER HAVEN
+- Address: 800 BAKER ROAD
+- City: VIRGINIA BEACH
+- State: VA
+- ZIP: 23462
+- ZIP extension: 
+- State project ID: 9655
+- Latitude: 36.865283
+- Longitude: -76.178964
+- County FIPS: 51810
+- County from: 2020
+- Tract 2020: 51810040406
+- Tract 2010: 51810040402
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 82000
+- Place 2010: 82000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 649439
+- Units: 57
+- Low-income units: 57
+- Units reported: 57
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 28
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 46
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

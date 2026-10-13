@@ -1,0 +1,85 @@
+# Project: QUARTZSITE SENIOR APTS (AZA20050075)
+
+- HUD ID: AZA20050075
+- HUD ID before: 
+- Project: QUARTZSITE SENIOR APTS
+- Address: 1615 E QUAIL TRAIL ST
+- City: QUARTZSITE
+- State: AZ
+- ZIP: 
+- ZIP extension: 
+- State project ID: TC-0263
+- Latitude: 33.674715
+- Longitude: -114.196776
+- County FIPS: 04012
+- County from: 2020
+- Tract 2020: 04012020503
+- Tract 2010: 04012020502
+- Tract 2000: 04012020500
+- Tract 1990: 04012020500
+- Place 2020: 58010
+- Place 2010: 58010
+- Place 2000: 07310
+- Place 1990: 0283
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 33
+- Units reported: 40
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

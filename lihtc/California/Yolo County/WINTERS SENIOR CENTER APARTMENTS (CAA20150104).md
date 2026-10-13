@@ -1,0 +1,85 @@
+# Project: WINTERS SENIOR CENTER APARTMENTS (CAA20150104)
+
+- HUD ID: CAA20150104
+- HUD ID before: CAA19940485
+- Project: WINTERS SENIOR CENTER APARTMENTS
+- Address: 400 MORGAN STREET
+- City: WINTERS
+- State: CA
+- ZIP: 95694
+- ZIP extension: 
+- State project ID: CA-14-126
+- Latitude: 38.52472
+- Longitude: -121.964119
+- County FIPS: 06113
+- County from: 2020
+- Tract 2020: 06113011304
+- Tract 2010: 06113011300
+- Tract 2000: 06113011300
+- Tract 1990: 
+- Place 2020: 86034
+- Place 2010: 86034
+- Place 2000: 86034
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 332480
+- Units: 38
+- Low-income units: 37
+- Units reported: 38
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS CAA19940485;PIN=CA-93-001
+- Record status: Existing, unchanged

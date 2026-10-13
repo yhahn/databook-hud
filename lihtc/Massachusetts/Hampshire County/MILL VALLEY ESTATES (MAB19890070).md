@@ -1,0 +1,85 @@
+# Project: MILL VALLEY ESTATES (MAB19890070)
+
+- HUD ID: MAB19890070
+- HUD ID before: 
+- Project: MILL VALLEY ESTATES
+- Address: 340 RIVERGLADE DR
+- City: AMHERST
+- State: MA
+- ZIP: 01002
+- ZIP extension: 
+- State project ID: 10004
+- Latitude: 42.346853
+- Longitude: -72.526352
+- County FIPS: 25015
+- County from: 2020
+- Tract 2020: 25015820801
+- Tract 2010: 25015820801
+- Tract 2000: 25015820801
+- Tract 1990: 25015820801
+- Place 2020: 01370
+- Place 2010: 62675
+- Place 2000: 01360
+- Place 1990: 3932
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 148
+- Low-income units: 74
+- Units reported: 148
+- Low-income reported: 74
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FAIRHILLS APTS.
+- Record status: Existing, unchanged

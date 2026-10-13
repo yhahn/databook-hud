@@ -1,0 +1,85 @@
+# Project: DALTON APARTMENTS (MAB20150008)
+
+- HUD ID: MAB20150008
+- HUD ID before: 
+- Project: DALTON APARTMENTS
+- Address: 40 APRIL LANE
+- City: PITTSFIELD
+- State: MA
+- ZIP: 01201
+- ZIP extension: 
+- State project ID: 3230
+- Latitude: 42.435606
+- Longitude: -73.198086
+- County FIPS: 25003
+- County from: 2020
+- Tract 2020: 25003935200
+- Tract 2010: 25003935200
+- Tract 2000: 25003901000
+- Tract 1990: 
+- Place 2020: 53960
+- Place 2010: 53960
+- Place 2000: 53960
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 346470
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 44
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

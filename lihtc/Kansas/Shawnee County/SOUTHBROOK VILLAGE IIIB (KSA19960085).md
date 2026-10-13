@@ -1,0 +1,85 @@
+# Project: SOUTHBROOK VILLAGE IIIB (KSA19960085)
+
+- HUD ID: KSA19960085
+- HUD ID before: 
+- Project: SOUTHBROOK VILLAGE IIIB
+- Address: 5201 SW 34TH ST
+- City: TOPEKA
+- State: KS
+- ZIP: 66614
+- ZIP extension: 
+- State project ID: 60067
+- Latitude: 39.004332
+- Longitude: -95.743697
+- County FIPS: 20177
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20177002602
+- Tract 2000: 20177002602
+- Tract 1990: 20177002602
+- Place 2020: 
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2795
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 204029
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

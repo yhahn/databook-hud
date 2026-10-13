@@ -1,0 +1,85 @@
+# Project: LAURETTE SWEENEY APTS 2 (NHA20110015)
+
+- HUD ID: NHA20110015
+- HUD ID before: 
+- Project: LAURETTE SWEENEY APTS 2
+- Address: 750 S PORTER ST
+- City: MANCHESTER
+- State: NH
+- ZIP: 03103
+- ZIP extension: 
+- State project ID: 197
+- Latitude: 42.960741
+- Longitude: -71.434161
+- County FIPS: 33011
+- County from: 2020
+- Tract 2020: 33011002500
+- Tract 2010: 33011002500
+- Tract 2000: 33011002500
+- Tract 1990: 33011002500
+- Place 2020: 45140
+- Place 2010: 45140
+- Place 2000: 45140
+- Place 1990: 1610
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 420462
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NHA2011507.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WOODSIDE SQUARE APTS (MIA20100075)
+
+- HUD ID: MIA20100075
+- HUD ID before: 
+- Project: WOODSIDE SQUARE APTS
+- Address: 35444 E ALEXANDER ST
+- City: ROMULUS
+- State: MI
+- ZIP: 48174
+- ZIP extension: 
+- State project ID: MI-2352
+- Latitude: 42.262503
+- Longitude: -83.38714
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163585600
+- Tract 2010: 26163585600
+- Tract 2000: 26163585600
+- Tract 1990: 26163585600
+- Place 2020: 69420
+- Place 2010: 69420
+- Place 2000: 69420
+- Place 1990: 2342
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 477275
+- Units: 85
+- Low-income units: 85
+- Units reported: 85
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 59
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1994225.
+- Record status: Existing, unchanged

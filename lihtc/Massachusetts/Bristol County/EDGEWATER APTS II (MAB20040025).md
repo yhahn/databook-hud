@@ -1,0 +1,85 @@
+# Project: EDGEWATER APTS II (MAB20040025)
+
+- HUD ID: MAB20040025
+- HUD ID before: 
+- Project: EDGEWATER APTS II
+- Address: 49 BORDEN ST
+- City: WESTPORT
+- State: MA
+- ZIP: 02790
+- ZIP extension: 
+- State project ID: MA-04-014
+- Latitude: 41.674619
+- Longitude: -71.111718
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005646101
+- Tract 2010: 25005646101
+- Tract 2000: 25005646101
+- Tract 1990: 25005646100
+- Place 2020: 49710
+- Place 2010: 49710
+- Place 2000: 49710
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 27
+- Units reported: 36
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000268.
+- Record status: Existing, unchanged

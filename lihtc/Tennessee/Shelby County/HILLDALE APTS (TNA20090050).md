@@ -1,0 +1,85 @@
+# Project: HILLDALE APTS (TNA20090050)
+
+- HUD ID: TNA20090050
+- HUD ID before: 
+- Project: HILLDALE APTS
+- Address: 3538 WESTLINE DR
+- City: MEMPHIS
+- State: TN
+- ZIP: 38128
+- ZIP extension: 
+- State project ID: TN-07-222
+- Latitude: 35.222539
+- Longitude: -89.947447
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157020544
+- Tract 2010: 47157020512
+- Tract 2000: 47157020512
+- Tract 1990: 47157020510
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 163048
+- Units: 148
+- Low-income units: 148
+- Units reported: 148
+- Low-income reported: 148
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 108
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 139268
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CITYWIDE POTFOLIO - WEST 125TH ST (NYC20130015)
+
+- HUD ID: NYC20130015
+- HUD ID before: 
+- Project: CITYWIDE POTFOLIO - WEST 125TH ST
+- Address: 425 W 125TH ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10027
+- ZIP extension: 
+- State project ID: 9102080
+- Latitude: 40.812387
+- Longitude: -73.955149
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061020901
+- Tract 2010: 36061020901
+- Tract 2000: 36061020901
+- Tract 1990: 36061020901
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 261473
+- Units: 74
+- Low-income units: 72
+- Units reported: 74
+- Low-income reported: 72
+- Efficiencies: 19
+- 1-bedroom units: 10
+- 2-bedroom units: 41
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2616850
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC1992012. AKA ROUND III (NEW YORK CITY).
+- Record status: Existing, unchanged

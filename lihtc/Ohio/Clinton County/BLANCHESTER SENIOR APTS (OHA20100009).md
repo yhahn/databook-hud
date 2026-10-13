@@ -1,0 +1,85 @@
+# Project: BLANCHESTER SENIOR APTS (OHA20100009)
+
+- HUD ID: OHA20100009
+- HUD ID before: 
+- Project: BLANCHESTER SENIOR APTS
+- Address: 34 PANSY RD
+- City: BLANCHESTER
+- State: OH
+- ZIP: 45107
+- ZIP extension: 
+- State project ID: OH-08-0108
+- Latitude: 39.347058
+- Longitude: -83.949425
+- County FIPS: 39027
+- County from: 2020
+- Tract 2020: 39027964800
+- Tract 2010: 39027964800
+- Tract 2000: 39027994800
+- Tract 1990: 39027994800
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 15406
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4432585
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2010816.
+- Record status: Existing, unchanged

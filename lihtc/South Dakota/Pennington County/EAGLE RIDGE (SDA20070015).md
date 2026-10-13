@@ -1,0 +1,85 @@
+# Project: EAGLE RIDGE (SDA20070015)
+
+- HUD ID: SDA20070015
+- HUD ID before: 
+- Project: EAGLE RIDGE
+- Address: 274 BALD EAGLE LN
+- City: RAPID CITY
+- State: SD
+- ZIP: 57701
+- ZIP extension: 
+- State project ID: 00445
+- Latitude: 44.033474
+- Longitude: -103.221856
+- County FIPS: 46103
+- County from: 2020
+- Tract 2020: 46103010905
+- Tract 2010: 46103010905
+- Tract 2000: 46103010901
+- Tract 1990: 46103010901
+- Place 2020: 52980
+- Place 2010: 52980
+- Place 2000: 52980
+- Place 1990: 1125
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 674883
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 49
+- 3-bedroom units: 47
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 96
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

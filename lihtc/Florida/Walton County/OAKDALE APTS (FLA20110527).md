@@ -1,0 +1,85 @@
+# Project: OAKDALE APTS (FLA20110527)
+
+- HUD ID: FLA20110527
+- HUD ID before: 
+- Project: OAKDALE APTS
+- Address: 226 N FIRST ST
+- City: DEFUNIAK SPRINGS
+- State: FL
+- ZIP: 32433
+- ZIP extension: 
+- State project ID: 2300
+- Latitude: 30.719915
+- Longitude: -86.106115
+- County FIPS: 12131
+- County from: 2020
+- Tract 2020: 12131950202
+- Tract 2010: 12131950200
+- Tract 2000: 12131950200
+- Tract 1990: 12131950200
+- Place 2020: 16800
+- Place 2010: 16800
+- Place 2000: 16800
+- Place 1990: 0500
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 155900
+- CDBG: 
+- CDBG amount: 
+- TCAP: Yes
+- TCAP amount: 1316391
+- TCEP: Yes
+- TCEP amount: 5511392
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011175.
+- Record status: Existing, unchanged

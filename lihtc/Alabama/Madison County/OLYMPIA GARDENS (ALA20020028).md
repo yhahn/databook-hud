@@ -1,0 +1,85 @@
+# Project: OLYMPIA GARDENS (ALA20020028)
+
+- HUD ID: ALA20020028
+- HUD ID before: 
+- Project: OLYMPIA GARDENS
+- Address: 3332 MERIDIAN ST N
+- City: HUNTSVILLE
+- State: AL
+- ZIP: 35811
+- ZIP extension: 
+- State project ID: AL-02-0048
+- Latitude: 34.769706
+- Longitude: -86.572294
+- County FIPS: 01089
+- County from: 2020
+- Tract 2020: 01089000203
+- Tract 2010: 01089000201
+- Tract 2000: 01089000201
+- Tract 1990: 01089000201
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 0935
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 307851
+- Units: 48
+- Low-income units: 40
+- Units reported: 48
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 28
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1247500
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2004075.
+- Record status: Existing, unchanged

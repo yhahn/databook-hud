@@ -1,0 +1,85 @@
+# Project: ARROWSMITH APTS (TXA20100816)
+
+- HUD ID: TXA20100816
+- HUD ID before: 
+- Project: ARROWSMITH APTS
+- Address: 5701 WILLIAMS DR
+- City: CORPUS CHRISTI
+- State: TX
+- ZIP: 78412
+- ZIP extension: 
+- State project ID: 
+- Latitude: 27.703284
+- Longitude: -97.369744
+- County FIPS: 48355
+- County from: 2020
+- Tract 2020: 48355003305
+- Tract 2010: 48355003305
+- Tract 2000: 48355003302
+- Tract 1990: 48355003302
+- Place 2020: 17000
+- Place 2010: 17000
+- Place 2000: 17000
+- Place 1990: 0980
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3755601
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000055.
+- Record status: Existing, unchanged

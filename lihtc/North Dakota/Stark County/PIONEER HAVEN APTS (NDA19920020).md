@@ -1,0 +1,85 @@
+# Project: PIONEER HAVEN APTS (NDA19920020)
+
+- HUD ID: NDA19920020
+- HUD ID before: 
+- Project: PIONEER HAVEN APTS
+- Address: 1071 ENTERPRISE AVE
+- City: DICKINSON
+- State: ND
+- ZIP: 58601
+- ZIP extension: 
+- State project ID: ND-91-15
+- Latitude: 46.890892
+- Longitude: -102.775561
+- County FIPS: 38089
+- County from: 2020
+- Tract 2020: 38089963400
+- Tract 2010: 38089963400
+- Tract 2000: 38089963400
+- Tract 1990: 38089963400
+- Place 2020: 19620
+- Place 2010: 19620
+- Place 2000: 19620
+- Place 1990: 0425
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 9923
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

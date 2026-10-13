@@ -1,0 +1,85 @@
+# Project: COTTONWOOD GROVE (CAA19920055)
+
+- HUD ID: CAA19920055
+- HUD ID before: 
+- Project: COTTONWOOD GROVE
+- Address: 732 N CLOVIS AVE
+- City: CLOVIS
+- State: CA
+- ZIP: 93611
+- ZIP extension: 
+- State project ID: CA-91-186
+- Latitude: 36.845468
+- Longitude: -119.702225
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019005513
+- Tract 2010: 06019005513
+- Tract 2000: 06019005513
+- Tract 1990: 06019005502
+- Place 2020: 14218
+- Place 2010: 14218
+- Place 2000: 14218
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 58067
+- Units: 150
+- Low-income units: 30
+- Units reported: 150
+- Low-income reported: 30
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

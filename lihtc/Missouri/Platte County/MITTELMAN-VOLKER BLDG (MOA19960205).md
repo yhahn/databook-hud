@@ -1,0 +1,85 @@
+# Project: MITTELMAN/VOLKER BLDG (MOA19960205)
+
+- HUD ID: MOA19960205
+- HUD ID before: 
+- Project: MITTELMAN/VOLKER BLDG
+- Address: 5 W THIRD ST
+- City: PARKVILLE
+- State: MO
+- ZIP: 64152
+- ZIP extension: 
+- State project ID: 95-020
+- Latitude: 39.190189
+- Longitude: -94.683751
+- County FIPS: 29165
+- County from: 2020
+- Tract 2020: 29165030309
+- Tract 2010: 29165030305
+- Tract 2000: 29165030305
+- Tract 1990: 29165030303
+- Place 2020: 56288
+- Place 2010: 56288
+- Place 2000: 38000
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 1
+- 1-bedroom units: 38
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

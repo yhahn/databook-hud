@@ -1,0 +1,85 @@
+# Project: WILDWOOD APARTMENTS (MNA19950180)
+
+- HUD ID: MNA19950180
+- HUD ID before: 
+- Project: WILDWOOD APARTMENTS
+- Address: 707 IOWA AVE
+- City: MORRIS
+- State: MN
+- ZIP: 56267
+- ZIP extension: 
+- State project ID: D1027
+- Latitude: 45.595331
+- Longitude: -95.90297
+- County FIPS: 27149
+- County from: 2020
+- Tract 2020: 27149480200
+- Tract 2010: 27149480200
+- Tract 2000: 27149980200
+- Tract 1990: 27149980200
+- Place 2020: 44242
+- Place 2010: 44242
+- Place 2000: 44242
+- Place 1990: 2670
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 9
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WILDWOODS APTS.
+- Record status: Existing, unchanged

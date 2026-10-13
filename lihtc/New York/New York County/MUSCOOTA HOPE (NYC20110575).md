@@ -1,0 +1,85 @@
+# Project: MUSCOOTA HOPE (NYC20110575)
+
+- HUD ID: NYC20110575
+- HUD ID before: 
+- Project: MUSCOOTA HOPE
+- Address: 163 E 104TH ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10029
+- ZIP extension: 
+- State project ID: 1002024
+- Latitude: 40.790913
+- Longitude: -73.946738
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061016600
+- Tract 2010: 36061016600
+- Tract 2000: 36061016600
+- Tract 1990: 36061016600
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 662171
+- Units: 63
+- Low-income units: 63
+- Units reported: 63
+- Low-income reported: 63
+- Efficiencies: 17
+- 1-bedroom units: 22
+- 2-bedroom units: 17
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2011065, NYC2010180.
+- Record status: Existing, unchanged

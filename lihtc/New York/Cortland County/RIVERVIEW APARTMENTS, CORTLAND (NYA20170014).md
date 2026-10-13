@@ -1,0 +1,85 @@
+# Project: RIVERVIEW APARTMENTS, CORTLAND (NYA20170014)
+
+- HUD ID: NYA20170014
+- HUD ID before: 
+- Project: RIVERVIEW APARTMENTS, CORTLAND
+- Address: 6-10 RIVERVIEW AVENUE
+- City: CORTLAND
+- State: NY
+- ZIP: 13045
+- ZIP extension: 
+- State project ID: 20146029
+- Latitude: 42.607653
+- Longitude: -76.17445
+- County FIPS: 36023
+- County from: 2020
+- Tract 2020: 36023970500
+- Tract 2010: 36023970500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 18388
+- Place 2010: 18388
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 359886
+- Units: 39
+- Low-income units: 36
+- Units reported: 39
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 36
+- 2-bedroom units: 3
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: Yes
+- Other population named: psychiatric disability
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MEADOW VIEW ESTATES (MOA20110160)
+
+- HUD ID: MOA20110160
+- HUD ID before: 
+- Project: MEADOW VIEW ESTATES
+- Address: 534 MEADOW VIEW CIR
+- City: PECULIAR
+- State: MO
+- ZIP: 64078
+- ZIP extension: 
+- State project ID: 10-927
+- Latitude: 38.7246
+- Longitude: -94.4603
+- County FIPS: 29037
+- County from: 2020
+- Tract 2020: 29037061002
+- Tract 2010: 29037061002
+- Tract 2000: 29037061002
+- Tract 1990: 29037061000
+- Place 2020: 56756
+- Place 2010: 56756
+- Place 2000: 56756
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 603696
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA2011525.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SOUTH POINTE APARTMENTS FKA MARIANNA MANOR AP (ARA20010080)
+
+- HUD ID: ARA20010080
+- HUD ID before: 
+- Project: SOUTH POINTE APARTMENTS FKA MARIANNA MANOR AP
+- Address: 340 CALIFORNIA ST
+- City: MARIANNA
+- State: AR
+- ZIP: 72360
+- ZIP extension: 
+- State project ID: AR-00-55-001
+- Latitude: 34.766298
+- Longitude: -90.769008
+- County FIPS: 05077
+- County from: 2020
+- Tract 2020: 05077470300
+- Tract 2010: 05077470300
+- Tract 2000: 05077970300
+- Tract 1990: 05077970300
+- Place 2020: 44120
+- Place 2010: 44120
+- Place 2000: 44120
+- Place 1990: 1310
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 71683
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 34
+- 3-bedroom units: 36
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA MARIANNA MANOR APTS
+- Record status: Existing, unchanged

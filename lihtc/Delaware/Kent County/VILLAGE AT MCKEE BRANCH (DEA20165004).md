@@ -1,0 +1,85 @@
+# Project: VILLAGE AT MCKEE BRANCH (DEA20165004)
+
+- HUD ID: DEA20165004
+- HUD ID before: 
+- Project: VILLAGE AT MCKEE BRANCH
+- Address: 36 HARMONY LANE
+- City: DOVER
+- State: DE
+- ZIP: 19904
+- ZIP extension: 
+- State project ID: 1403-1
+- Latitude: 39.167078
+- Longitude: -75.559678
+- County FIPS: 10001
+- County from: 2020
+- Tract 2020: 10001040700
+- Tract 2010: 10001040700
+- Tract 2000: 10001040700
+- Tract 1990: 
+- Place 2020: 21200
+- Place 2010: 21200
+- Place 2000: 21200
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 17
+- 3-bedroom units: 49
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

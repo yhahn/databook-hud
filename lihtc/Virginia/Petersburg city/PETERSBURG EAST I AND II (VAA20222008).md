@@ -1,0 +1,85 @@
+# Project: PETERSBURG EAST I AND II (VAA20222008)
+
+- HUD ID: VAA20222008
+- HUD ID before: 
+- Project: PETERSBURG EAST I AND II
+- Address: 110 CROATAN DRIVE AND 2385 NAVAJO COURT
+- City: PETERSBURG
+- State: VA
+- ZIP: 23803
+- ZIP extension: 
+- State project ID: 10201
+- Latitude: 37.23938
+- Longitude: -77.364728
+- County FIPS: 51730
+- County from: 2020
+- Tract 2020: 51730810100
+- Tract 2010: 51730810100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 61832
+- Place 2010: 61832
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1219970
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 
+- 1-bedroom units: 28
+- 2-bedroom units: 88
+- 3-bedroom units: 52
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 168
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

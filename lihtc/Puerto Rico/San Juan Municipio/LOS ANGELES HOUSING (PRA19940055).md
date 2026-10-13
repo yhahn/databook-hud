@@ -1,0 +1,85 @@
+# Project: LOS ANGELES HOUSING (PRA19940055)
+
+- HUD ID: PRA19940055
+- HUD ID before: 
+- Project: LOS ANGELES HOUSING
+- Address: 475 CALLE TRINIDAD ORELLANA
+- City: SAN JUAN
+- State: PR
+- ZIP: 00923
+- ZIP extension: 
+- State project ID: 92-049
+- Latitude: 18.404016
+- Longitude: -66.03378
+- County FIPS: 72127
+- County from: 2020
+- Tract 2020: 72127005601
+- Tract 2010: 72127005601
+- Tract 2000: 72127005601
+- Tract 1990: 72127005601
+- Place 2020: 76770
+- Place 2010: 76770
+- Place 2000: 76770
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 700237
+- Units: 124
+- Low-income units: 124
+- Units reported: 124
+- Low-income reported: 124
+- Efficiencies: 0
+- 1-bedroom units: 124
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA1994015.
+- Record status: Existing, unchanged

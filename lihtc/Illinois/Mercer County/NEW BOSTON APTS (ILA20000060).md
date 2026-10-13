@@ -1,0 +1,85 @@
+# Project: NEW BOSTON APTS (ILA20000060)
+
+- HUD ID: ILA20000060
+- HUD ID before: 
+- Project: NEW BOSTON APTS
+- Address: 208 WALNUT ST
+- City: NEW BOSTON
+- State: IL
+- ZIP: 61272
+- ZIP extension: 
+- State project ID: 118799
+- Latitude: 41.166641
+- Longitude: -90.992679
+- County FIPS: 17131
+- County from: 2020
+- Tract 2020: 17131040200
+- Tract 2010: 17131040200
+- Tract 2000: 17131040200
+- Tract 1990: 17131040200
+- Place 2020: 52220
+- Place 2010: 52220
+- Place 2000: 38739
+- Place 1990: 2955
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 53203
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 4
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NEW BOSTON FAMILY HOUSING.
+- Record status: Existing, unchanged

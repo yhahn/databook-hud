@@ -1,0 +1,85 @@
+# Project: UNITED COMMUNITY VILLAGE (NJA19990075)
+
+- HUD ID: NJA19990075
+- HUD ID before: 
+- Project: UNITED COMMUNITY VILLAGE
+- Address: 332 SOUTH 8TH STREET (#334)
+- City: NEWARK
+- State: NJ
+- ZIP: 07140
+- ZIP extension: 
+- State project ID: NJ-9753
+- Latitude: 40.73819
+- Longitude: -74.199311
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013002800
+- Tract 2010: 34013002800
+- Tract 2000: 34013002800
+- Tract 1990: 34013002800
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2895
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 535726
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 11
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2012822.
+- Record status: Existing, unchanged

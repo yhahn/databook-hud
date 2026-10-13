@@ -1,0 +1,85 @@
+# Project: HEATHER GLENN (FLA20040100)
+
+- HUD ID: FLA20040100
+- HUD ID before: 
+- Project: HEATHER GLENN
+- Address: 1600 HUNT CLUB ST
+- City: FT WALTON BEACH
+- State: FL
+- ZIP: 32547
+- ZIP extension: 
+- State project ID: 1118
+- Latitude: 30.431979
+- Longitude: -86.667554
+- County FIPS: 12091
+- County from: 2020
+- Tract 2020: 12091021901
+- Tract 2010: 12091021900
+- Tract 2000: 12091021900
+- Tract 1990: 12091021900
+- Place 2020: 78800
+- Place 2010: 78800
+- Place 2000: 24475
+- Place 1990: 2294
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 165
+- Units reported: 168
+- Low-income reported: 165
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 72
+- 3-bedroom units: 32
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

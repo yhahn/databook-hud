@@ -1,0 +1,85 @@
+# Project: PRINCESS ANNE TOWNHOUSES (MDA20020090)
+
+- HUD ID: MDA20020090
+- HUD ID before: 
+- Project: PRINCESS ANNE TOWNHOUSES
+- Address: 30475 PINE KNOLL DR
+- City: PRINCESS ANNE
+- State: MD
+- ZIP: 21853
+- ZIP extension: 
+- State project ID: MD01-19001
+- Latitude: 38.211956
+- Longitude: -75.694347
+- County FIPS: 24039
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24039930101
+- Tract 2000: 24039980101
+- Tract 1990: 24039980100
+- Place 2020: 
+- Place 2010: 64000
+- Place 2000: 24850
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

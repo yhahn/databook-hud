@@ -1,0 +1,85 @@
+# Project: COUNTRY VILLAGE APTS (OKA19980035)
+
+- HUD ID: OKA19980035
+- HUD ID before: 
+- Project: COUNTRY VILLAGE APTS
+- Address: 28606 E 141ST ST S
+- City: COWETA
+- State: OK
+- ZIP: 74429
+- ZIP extension: 
+- State project ID: OK-97-0109
+- Latitude: 35.958981
+- Longitude: -95.657786
+- County FIPS: 40145
+- County from: 2020
+- Tract 2020: 40145030605
+- Tract 2010: 40145030602
+- Tract 2000: 40145030602
+- Tract 1990: 40145030602
+- Place 2020: 17800
+- Place 2010: 17800
+- Place 2000: 17800
+- Place 1990: 0585
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 126
+- Low-income units: 124
+- Units reported: 126
+- Low-income reported: 124
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 94
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MOSS PARK (FLA20130009)
+
+- HUD ID: FLA20130009
+- HUD ID before: 
+- Project: MOSS PARK
+- Address: 170 GARDENRIDGE CT
+- City: WINTER SPRINGS
+- State: FL
+- ZIP: 32708
+- ZIP extension: 
+- State project ID: 2473
+- Latitude: 28.699863
+- Longitude: -81.304072
+- County FIPS: 12117
+- County from: 2020
+- Tract 2020: 12117021401
+- Tract 2010: 12117021401
+- Tract 2000: 12117021401
+- Tract 1990: 12117021401
+- Place 2020: 78325
+- Place 2010: 78325
+- Place 2000: 41250
+- Place 1990: 2291
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 99
+- Low-income units: 89
+- Units reported: 99
+- Low-income reported: 89
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

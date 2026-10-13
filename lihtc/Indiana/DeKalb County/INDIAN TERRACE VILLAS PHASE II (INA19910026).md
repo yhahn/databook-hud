@@ -1,0 +1,85 @@
+# Project: INDIAN TERRACE VILLAS PHASE II (INA19910026)
+
+- HUD ID: INA19910026
+- HUD ID before: 
+- Project: INDIAN TERRACE VILLAS PHASE II
+- Address: 1110 HURON WAY
+- City: AUBURN
+- State: IN
+- ZIP: 46706
+- ZIP extension: 
+- State project ID: IN-89-02501
+- Latitude: 41.375963
+- Longitude: -85.033706
+- County FIPS: 18033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18033020400
+- Tract 2000: 18033020400
+- Tract 1990: 18033020400
+- Place 2020: 
+- Place 2010: 02674
+- Place 2000: 02674
+- Place 1990: 0105
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA1991024, INA0001095, INA0001085.
+- Record status: Existing, unchanged

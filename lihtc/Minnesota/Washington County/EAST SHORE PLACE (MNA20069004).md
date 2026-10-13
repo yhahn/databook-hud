@@ -1,0 +1,85 @@
+# Project: EAST SHORE PLACE (MNA20069004)
+
+- HUD ID: MNA20069004
+- HUD ID before: 
+- Project: EAST SHORE PLACE
+- Address: 805 WILDWOOD ROAD
+- City: MAHTOMEDI
+- State: MN
+- ZIP: 55115
+- ZIP extension: 
+- State project ID: D3347
+- Latitude: 45.050418
+- Longitude: -92.980951
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163070303
+- Tract 2010: 27163070303
+- Tract 2000: 27163070303
+- Tract 1990: 27163070302
+- Place 2020: 39428
+- Place 2010: 39428
+- Place 2000: 06058
+- Place 1990: 2405
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 146120
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 61
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AUTUMN RUN APTS (KSA19890005)
+
+- HUD ID: KSA19890005
+- HUD ID before: 
+- Project: AUTUMN RUN APTS
+- Address: 2100 HEATHERWOOD DR
+- City: LAWRENCE
+- State: KS
+- ZIP: 66047
+- ZIP extension: 
+- State project ID: KS89-0001
+- Latitude: 38.945867
+- Longitude: -95.27634
+- County FIPS: 20045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20045000797
+- Tract 2000: 20045000797
+- Tract 1990: 20045000797
+- Place 2020: 
+- Place 2010: 38900
+- Place 2000: 38900
+- Place 1990: 1535
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 54
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

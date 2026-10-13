@@ -1,0 +1,85 @@
+# Project: CROTONA AVENUE ASSOCIATES LP (NYC19999002)
+
+- HUD ID: NYC19999002
+- HUD ID before: 
+- Project: CROTONA AVENUE ASSOCIATES LP
+- Address: 2130 CROTONA AVENUE
+- City: BRONX
+- State: NY
+- ZIP: 10457
+- ZIP extension: 
+- State project ID: 13-4036945
+- Latitude: 40.849459
+- Longitude: -73.887835
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005037100
+- Tract 2010: 36005037100
+- Tract 2000: 36005037100
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 519971
+- Units: 86
+- Low-income units: 85
+- Units reported: 86
+- Low-income reported: 85
+- Efficiencies: 43
+- 1-bedroom units: 0
+- 2-bedroom units: 43
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

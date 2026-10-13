@@ -1,0 +1,85 @@
+# Project: OLYMPUS APARTMENTS (LAA19999014)
+
+- HUD ID: LAA19999014
+- HUD ID before: 
+- Project: OLYMPUS APARTMENTS
+- Address: 4170 OLD GENTILLY ROAD
+- City: JEFFERSON
+- State: LA
+- ZIP: 70121
+- ZIP extension: 0000
+- State project ID: LA-98-026
+- Latitude: 30.002488
+- Longitude: -90.039889
+- County FIPS: 22071
+- County from: 2020
+- Tract 2020: 22071013701
+- Tract 2010: 22071013700
+- Tract 2000: 22071001703
+- Tract 1990: 
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 102
+- Low-income units: 102
+- Units reported: 102
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

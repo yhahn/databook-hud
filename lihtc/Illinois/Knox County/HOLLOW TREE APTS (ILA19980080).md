@@ -1,0 +1,85 @@
+# Project: HOLLOW TREE APTS (ILA19980080)
+
+- HUD ID: ILA19980080
+- HUD ID before: 
+- Project: HOLLOW TREE APTS
+- Address: 1351 W CARL SANDBURG DR
+- City: GALESBURG
+- State: IL
+- ZIP: 61401
+- ZIP extension: 
+- State project ID: 95896
+- Latitude: 40.970974
+- Longitude: -90.392923
+- County FIPS: 17095
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17095000400
+- Tract 2000: 17095000400
+- Tract 1990: 17095000400
+- Place 2020: 
+- Place 2010: 28326
+- Place 2000: 28326
+- Place 1990: 2100
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 312253
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 26
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

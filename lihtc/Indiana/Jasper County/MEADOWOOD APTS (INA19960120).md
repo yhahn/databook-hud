@@ -1,0 +1,85 @@
+# Project: MEADOWOOD APTS (INA19960120)
+
+- HUD ID: INA19960120
+- HUD ID before: 
+- Project: MEADOWOOD APTS
+- Address: 841 KANNAL CT
+- City: RENSSELAER
+- State: IN
+- ZIP: 47978
+- ZIP extension: 
+- State project ID: IN-95-01800
+- Latitude: 40.928399
+- Longitude: -87.160214
+- County FIPS: 18073
+- County from: 2020
+- Tract 2020: 18073101100
+- Tract 2010: 18073101100
+- Tract 2000: 18073991100
+- Tract 1990: 18073991100
+- Place 2020: 63792
+- Place 2010: 63792
+- Place 2000: 14464
+- Place 1990: 2130
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 24
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

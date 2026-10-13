@@ -1,0 +1,85 @@
+# Project: MILLSTONE APTS (INA20110065)
+
+- HUD ID: INA20110065
+- HUD ID before: 
+- Project: MILLSTONE APTS
+- Address: 801 MILLSTONE POINTE DR
+- City: GREENCASTLE
+- State: IN
+- ZIP: 46135
+- ZIP extension: 
+- State project ID: IN-09-01600
+- Latitude: 39.632227
+- Longitude: -86.844791
+- County FIPS: 18133
+- County from: 2020
+- Tract 2020: 18133956301
+- Tract 2010: 18133956300
+- Tract 2000: 18133956300
+- Tract 1990: 18133956300
+- Place 2020: 29358
+- Place 2010: 29358
+- Place 2000: 29358
+- Place 1990: 0970
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 150000
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 4570000
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2011537. AKA MILLSTONE POINTE.
+- Record status: Existing, unchanged

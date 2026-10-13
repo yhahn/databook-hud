@@ -1,0 +1,85 @@
+# Project: QUAIL HOLLOW PHASE I (NHA19990025)
+
+- HUD ID: NHA19990025
+- HUD ID before: 
+- Project: QUAIL HOLLOW PHASE I
+- Address: 365 N MAIN ST
+- City: WEST LEBANON
+- State: NH
+- ZIP: 03784
+- ZIP extension: 
+- State project ID: 76
+- Latitude: 43.680357
+- Longitude: -72.294674
+- County FIPS: 33009
+- County from: 2020
+- Tract 2020: 33009961702
+- Tract 2010: 33009961700
+- Tract 2000: 33009961700
+- Tract 1990: 33009961700
+- Place 2020: 41300
+- Place 2010: 41300
+- Place 2000: 41300
+- Place 1990: 1440
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 50
+- Units reported: 76
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

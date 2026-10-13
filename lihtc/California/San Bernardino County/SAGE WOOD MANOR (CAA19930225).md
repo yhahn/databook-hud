@@ -1,0 +1,85 @@
+# Project: SAGE WOOD MANOR (CAA19930225)
+
+- HUD ID: CAA19930225
+- HUD ID before: 
+- Project: SAGE WOOD MANOR
+- Address: 6215 OCOTILLO AVE
+- City: TWENTYNINE PALMS
+- State: CA
+- ZIP: 92277
+- ZIP extension: 
+- State project ID: CA-91-128
+- Latitude: 34.14069
+- Longitude: -116.052941
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071010433
+- Tract 2010: 06071010421
+- Tract 2000: 06071010414
+- Tract 1990: 06071010408
+- Place 2020: 80994
+- Place 2010: 80994
+- Place 2000: 80994
+- Place 1990: 2971
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 94897
+- Units: 65
+- Low-income units: 65
+- Units reported: 65
+- Low-income reported: 65
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

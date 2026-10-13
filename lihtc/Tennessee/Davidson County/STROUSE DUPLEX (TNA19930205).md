@@ -1,0 +1,85 @@
+# Project: STROUSE DUPLEX (TNA19930205)
+
+- HUD ID: TNA19930205
+- HUD ID before: 
+- Project: STROUSE DUPLEX
+- Address: 956 STROUSE AVE
+- City: NASHVILLE
+- State: TN
+- ZIP: 37206
+- ZIP extension: 
+- State project ID: TN-92-049
+- Latitude: 36.194451
+- Longitude: -86.747768
+- County FIPS: 47037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47037011700
+- Tract 2000: 47037011700
+- Tract 1990: 47037011700
+- Place 2020: 
+- Place 2010: 52006
+- Place 2000: 52006
+- Place 1990: 1016
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 7112
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1993055.
+- Record status: Existing, unchanged

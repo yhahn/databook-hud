@@ -1,0 +1,85 @@
+# Project: TORREY DEL MAR APTS (CAA20020435)
+
+- HUD ID: CAA20020435
+- HUD ID before: 
+- Project: TORREY DEL MAR APTS
+- Address: 13875 CARMEL VALLEY RD
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92130
+- ZIP extension: 
+- State project ID: CA-01-819
+- Latitude: 32.970386
+- Longitude: -117.160248
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073008367
+- Tract 2010: 06073008335
+- Tract 2000: 06073008335
+- Tract 1990: 06073008325
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 604370
+- Units: 112
+- Low-income units: 110
+- Units reported: 112
+- Low-income reported: 110
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 56
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

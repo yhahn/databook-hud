@@ -1,0 +1,25 @@
+# Tax Credit Projects: Coos County, NH
+
+- Level: County
+- Postal code: NH
+- State FIPS: 33
+- County FIPS: 33007
+- Counties: 
+- Projects: 8
+- Units: 326
+- Low-income units: 326
+
+The low-income housing tax credit projects of Coos County, New Hampshire, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [MOUNTAIN VILLAGE APTS (NHA00000019)](./Coos%20County/MOUNTAIN%20VILLAGE%20APTS%20%28NHA00000019%29.md) | NHA00000019 | GROVETON |  | 16 | 16 |
+| [MTN VILLAGE APTS (NHA19920005)](./Coos%20County/MTN%20VILLAGE%20APTS%20%28NHA19920005%29.md) | NHA19920005 | GROVETON | 1992 | 16 | 16 |
+| [COLBY COMMONS (NHA19940010)](./Coos%20County/COLBY%20COMMONS%20%28NHA19940010%29.md) | NHA19940010 | COLEBROOK | 1994 | 28 | 28 |
+| [MCKEE INN (NHA20120005)](./Coos%20County/MCKEE%20INN%20%28NHA20120005%29.md) | NHA20120005 | LANCASTER | 2012 | 35 | 35 |
+| [HIGHLAND HOUSE (NHA20120808)](./Coos%20County/HIGHLAND%20HOUSE%20%28NHA20120808%29.md) | NHA20120808 | WHITEFIELD | 2012 | 36 | 36 |
+| [NOTRE DAME APARTMENTS (NHA20141003)](./Coos%20County/NOTRE%20DAME%20APARTMENTS%20%28NHA20141003%29.md) | NHA20141003 | BERLIN | 2014 | 33 | 33 |
+| [BROOKSIDE PARK (NHA20162001)](./Coos%20County/BROOKSIDE%20PARK%20%28NHA20162001%29.md) | NHA20162001 | BERLIN | 2016 | 120 | 120 |
+| [ST. REGIS HOUSE (NHA20200008)](./Coos%20County/ST.%20REGIS%20HOUSE%20%28NHA20200008%29.md) | NHA20200008 | BERLIN | 2020 | 42 | 42 |

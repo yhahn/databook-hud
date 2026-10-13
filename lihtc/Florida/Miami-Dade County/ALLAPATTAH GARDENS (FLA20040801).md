@@ -1,0 +1,85 @@
+# Project: ALLAPATTAH GARDENS (FLA20040801)
+
+- HUD ID: FLA20040801
+- HUD ID before: 
+- Project: ALLAPATTAH GARDENS
+- Address: 3400 NW 11TH PL
+- City: MIAMI
+- State: FL
+- ZIP: 33127
+- ZIP extension: 
+- State project ID: 1107
+- Latitude: 25.80779
+- Longitude: -80.215426
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086002501
+- Tract 2010: 12086002501
+- Tract 2000: 12086002500
+- Tract 1990: 12025002202
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 45000
+- Place 1990: 1370
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 128
+- Low-income units: 128
+- Units reported: 128
+- Low-income reported: 128
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 100
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

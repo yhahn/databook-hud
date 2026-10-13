@@ -1,0 +1,85 @@
+# Project: GLENBROOK CROSSING (NCA20080085)
+
+- HUD ID: NCA20080085
+- HUD ID before: 
+- Project: GLENBROOK CROSSING
+- Address: 336 DACIAN ROAD
+- City: RALEIGH
+- State: NC
+- ZIP: 27610
+- ZIP extension: 
+- State project ID: 9000679
+- Latitude: 35.768858
+- Longitude: -78.603772
+- County FIPS: 37183
+- County from: 2020
+- Tract 2020: 37183052002
+- Tract 2010: 37183052002
+- Tract 2000: 37183052002
+- Tract 1990: 37183052002
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 2020
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 411254
+- Units: 63
+- Low-income units: 63
+- Units reported: 63
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 46
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

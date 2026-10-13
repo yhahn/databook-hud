@@ -1,0 +1,85 @@
+# Project: VISTA DEL ROBLES APARTMENTS (CAA20240140)
+
+- HUD ID: CAA20240140
+- HUD ID before: 
+- Project: VISTA DEL ROBLES APARTMENTS
+- Address: 310 WEST MAIN STREET
+- City: WOODLAND
+- State: CA
+- ZIP: 95695
+- ZIP extension: 
+- State project ID: CA-2021-116
+- Latitude: 38.677793
+- Longitude: -121.798385
+- County FIPS: 06113
+- County from: 2020
+- Tract 2020: 06113010902
+- Tract 2010: 06113010902
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 86328
+- Place 2010: 86328
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2884565
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 
+- 1-bedroom units: 21
+- 2-bedroom units: 33
+- 3-bedroom units: 18
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

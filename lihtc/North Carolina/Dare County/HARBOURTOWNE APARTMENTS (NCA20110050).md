@@ -1,0 +1,85 @@
+# Project: HARBOURTOWNE APARTMENTS (NCA20110050)
+
+- HUD ID: NCA20110050
+- HUD ID before: 
+- Project: HARBOURTOWNE APARTMENTS
+- Address: 14 HARBOR TOWN DRIVE
+- City: MANTEO
+- State: NC
+- ZIP: 27954
+- ZIP extension: 
+- State project ID: 9107167
+- Latitude: 35.903235
+- Longitude: -75.675578
+- County FIPS: 37055
+- County from: 2020
+- Tract 2020: 37055970601
+- Tract 2010: 37055970601
+- Tract 2000: 37055970600
+- Tract 1990: 37055970600
+- Place 2020: 41060
+- Place 2010: 41060
+- Place 2000: 41060
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 232607
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 27
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

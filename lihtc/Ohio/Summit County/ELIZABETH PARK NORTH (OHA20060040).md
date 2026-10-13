@@ -1,0 +1,85 @@
+# Project: ELIZABETH PARK NORTH (OHA20060040)
+
+- HUD ID: OHA20060040
+- HUD ID before: 
+- Project: ELIZABETH PARK NORTH
+- Address: 212 E N ST
+- City: AKRON
+- State: OH
+- ZIP: 44304
+- ZIP extension: 
+- State project ID: 040009
+- Latitude: 41.089735
+- Longitude: -81.508598
+- County FIPS: 39153
+- County from: 2020
+- Tract 2020: 39153501100
+- Tract 2010: 39153501100
+- Tract 2000: 39153501100
+- Tract 1990: 39153501100
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0035
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 569910
+- Units: 97
+- Low-income units: 49
+- Units reported: 97
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 28
+- 3-bedroom units: 14
+- 4-bedroom units: 49
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

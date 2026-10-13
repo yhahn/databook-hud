@@ -1,0 +1,85 @@
+# Project: DUNEDIN APTS PHASE II (INA19980042)
+
+- HUD ID: INA19980042
+- HUD ID before: 
+- Project: DUNEDIN APTS PHASE II
+- Address: 53880 GENERATIONS DR
+- City: SOUTH BEND
+- State: IN
+- ZIP: 46635
+- ZIP extension: 
+- State project ID: IN-97-02100
+- Latitude: 41.711042
+- Longitude: -86.203566
+- County FIPS: 18141
+- County from: 2020
+- Tract 2020: 18141011309
+- Tract 2010: 18141011301
+- Tract 2000: 18141011301
+- Tract 1990: 18141011301
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 36306
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 300433
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 36
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 50
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

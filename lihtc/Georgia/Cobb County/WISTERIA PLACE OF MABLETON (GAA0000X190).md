@@ -1,0 +1,85 @@
+# Project: WISTERIA PLACE OF MABLETON (GAA0000X190)
+
+- HUD ID: GAA0000X190
+- HUD ID before: 
+- Project: WISTERIA PLACE OF MABLETON
+- Address: 4436 FLOYD RD SW
+- City: MABLETON
+- State: GA
+- ZIP: 30126
+- ZIP extension: 
+- State project ID: 2016-051
+- Latitude: 33.845633
+- Longitude: -84.58399
+- County FIPS: 13067
+- County from: 2020
+- Tract 2020: 13067031414
+- Tract 2010: 13067031404
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 48288
+- Place 2010: 48288
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1000000
+- Units: 140
+- Low-income units: 104
+- Units reported: 140
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

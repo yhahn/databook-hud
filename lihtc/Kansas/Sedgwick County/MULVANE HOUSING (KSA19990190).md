@@ -1,0 +1,85 @@
+# Project: MULVANE HOUSING (KSA19990190)
+
+- HUD ID: KSA19990190
+- HUD ID before: 
+- Project: MULVANE HOUSING
+- Address: 340 E ROCK RD CT
+- City: MULVANE
+- State: KS
+- ZIP: 67110
+- ZIP extension: 
+- State project ID: KS-98-25
+- Latitude: 37.500794
+- Longitude: -97.242637
+- County FIPS: 20173
+- County from: 2020
+- Tract 2020: 20173009902
+- Tract 2010: 20173009900
+- Tract 2000: 20173009900
+- Tract 1990: 20173009900
+- Place 2020: 49100
+- Place 2010: 49100
+- Place 2000: 17800
+- Place 1990: 1985
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 264084
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1999065, KSA0000019. AKA COUNTRY WALK APTS.
+- Record status: Existing, unchanged

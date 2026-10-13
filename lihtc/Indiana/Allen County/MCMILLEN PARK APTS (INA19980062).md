@@ -1,0 +1,85 @@
+# Project: MCMILLEN PARK APTS (INA19980062)
+
+- HUD ID: INA19980062
+- HUD ID before: 
+- Project: MCMILLEN PARK APTS
+- Address: 4209 PLAZA DR
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46806
+- ZIP extension: 
+- State project ID: IN-96-01700
+- Latitude: 41.046139
+- Longitude: -85.112076
+- County FIPS: 18003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18003004000
+- Tract 2000: 18003004000
+- Tract 1990: 18003004000
+- Place 2020: 
+- Place 2010: 25000
+- Place 2000: 25000
+- Place 1990: 0825
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 214
+- Low-income units: 214
+- Units reported: 214
+- Low-income reported: 214
+- Efficiencies: 4
+- 1-bedroom units: 46
+- 2-bedroom units: 167
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 43
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

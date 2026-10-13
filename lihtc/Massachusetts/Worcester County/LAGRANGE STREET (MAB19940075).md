@@ -1,0 +1,85 @@
+# Project: LAGRANGE STREET (MAB19940075)
+
+- HUD ID: MAB19940075
+- HUD ID before: 
+- Project: LAGRANGE STREET
+- Address: 24 LAGRANGE ST
+- City: WORCESTER
+- State: MA
+- ZIP: 01610
+- ZIP extension: 
+- State project ID: 10329
+- Latitude: 42.255166
+- Longitude: -71.809364
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027731300
+- Tract 2010: 25027731300
+- Tract 2000: 25027731300
+- Tract 1990: 25027731300
+- Place 2020: 82000
+- Place 2010: 82000
+- Place 2000: 82000
+- Place 1990: 5030
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 3
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000046.
+- Record status: Existing, unchanged

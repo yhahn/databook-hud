@@ -1,0 +1,85 @@
+# Project: WILLOW POINT APTS I (MSA19990132)
+
+- HUD ID: MSA19990132
+- HUD ID before: 
+- Project: WILLOW POINT APTS I
+- Address: 755 GLENCROSS DR
+- City: JACKSON
+- State: MS
+- ZIP: 39206
+- ZIP extension: 
+- State project ID: MS-97-006
+- Latitude: 32.390242
+- Longitude: -90.163253
+- County FIPS: 28049
+- County from: 2020
+- Tract 2020: 28049010201
+- Tract 2010: 28049010201
+- Tract 2000: 28049010201
+- Tract 1990: 28049010201
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 0615
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 2466829
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1999616, MSA1996130, MSA1998051, MSA1998583, MSA1995165. AKA WILLOW POINT (COVE TOWNHOMES I).
+- Record status: Existing, unchanged

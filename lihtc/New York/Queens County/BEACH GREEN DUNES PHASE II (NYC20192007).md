@@ -1,0 +1,85 @@
+# Project: BEACH GREEN DUNES PHASE II (NYC20192007)
+
+- HUD ID: NYC20192007
+- HUD ID before: 
+- Project: BEACH GREEN DUNES PHASE II
+- Address: 4519 ROCKAWAY BEACH BLVD
+- City: QUEENS
+- State: NY
+- ZIP: 11691
+- ZIP extension: 
+- State project ID: NY1702022
+- Latitude: 40.593447
+- Longitude: -73.776448
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081097204
+- Tract 2010: 36081097204
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1488861
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 89
+- Efficiencies: 14
+- 1-bedroom units: 41
+- 2-bedroom units: 26
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NORTH BERGEN RENAISSANCE I (NJA20120862)
+
+- HUD ID: NJA20120862
+- HUD ID before: 
+- Project: NORTH BERGEN RENAISSANCE I
+- Address: 6201 GRAND AVENUE
+- City: NORTH BERGEN TWP.
+- State: NJ
+- ZIP: 07047
+- ZIP extension: 
+- State project ID: NJ-587
+- Latitude: 40.794236
+- Longitude: -74.023201
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017014502
+- Tract 2010: 34017014502
+- Tract 2000: 34017014500
+- Tract 1990: 34017014500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 2952
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 1032815
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2001065, NJA0000050.
+- Record status: Existing, unchanged

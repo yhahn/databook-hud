@@ -1,0 +1,85 @@
+# Project: ROLLING HILLS APTS (SDA19940065)
+
+- HUD ID: SDA19940065
+- HUD ID before: 
+- Project: ROLLING HILLS APTS
+- Address: 721 S 34TH ST
+- City: SPEARFISH
+- State: SD
+- ZIP: 57783
+- ZIP extension: 
+- State project ID: S/B 1536
+- Latitude: 44.470382
+- Longitude: -103.804757
+- County FIPS: 46081
+- County from: 2020
+- Tract 2020: 46081966304
+- Tract 2010: 46081966302
+- Tract 2000: 46081996300
+- Tract 1990: 46081996300
+- Place 2020: 60020
+- Place 2010: 60020
+- Place 2000: 45715
+- Place 1990: 1240
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

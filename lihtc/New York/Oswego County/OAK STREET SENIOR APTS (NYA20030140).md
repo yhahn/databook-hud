@@ -1,0 +1,85 @@
+# Project: OAK STREET SENIOR APTS (NYA20030140)
+
+- HUD ID: NYA20030140
+- HUD ID before: 
+- Project: OAK STREET SENIOR APTS
+- Address: 205 OAK ST
+- City: FULTON
+- State: NY
+- ZIP: 13069
+- ZIP extension: 
+- State project ID: 20020619
+- Latitude: 43.312346
+- Longitude: -76.417612
+- County FIPS: 36075
+- County from: 2020
+- Tract 2020: 36075021103
+- Tract 2010: 36075021103
+- Tract 2000: 36075021103
+- Tract 1990: 36075021103
+- Place 2020: 27815
+- Place 2010: 27815
+- Place 2000: 27815
+- Place 1990: 1310
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

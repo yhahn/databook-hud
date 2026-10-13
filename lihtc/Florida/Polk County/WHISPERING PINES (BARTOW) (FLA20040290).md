@@ -1,0 +1,85 @@
+# Project: WHISPERING PINES (BARTOW) (FLA20040290)
+
+- HUD ID: FLA20040290
+- HUD ID before: 
+- Project: WHISPERING PINES (BARTOW)
+- Address: 4302 SCOTT DR
+- City: BARTOW
+- State: FL
+- ZIP: 33830
+- ZIP extension: 
+- State project ID: 1152
+- Latitude: 27.953837
+- Longitude: -81.765679
+- County FIPS: 12105
+- County from: 2020
+- Tract 2020: 12105014501
+- Tract 2010: 12105014501
+- Tract 2000: 12105014501
+- Tract 1990: 12105014500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 74775
+- Place 1990: 2160
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 50
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: FARMWORKERS, FISHERMEN
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FAIR WINDS APTS (MDA19930025)
+
+- HUD ID: MDA19930025
+- HUD ID before: 
+- Project: FAIR WINDS APTS
+- Address: 30370 MAPLE ST
+- City: PRINCESS ANNE
+- State: MD
+- ZIP: 21853
+- ZIP extension: 
+- State project ID: MD92-06
+- Latitude: 38.208041
+- Longitude: -75.698056
+- County FIPS: 24039
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24039930101
+- Tract 2000: 24039980101
+- Tract 1990: 24039980100
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 24850
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

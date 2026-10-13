@@ -1,0 +1,85 @@
+# Project: PARSONGE COTTAGE HOME FOR THE AGED (CTA19960070)
+
+- HUD ID: CTA19960070
+- HUD ID before: 
+- Project: PARSONGE COTTAGE HOME FOR THE AGED
+- Address: 88 PARSONAGE RD
+- City: GREENWICH
+- State: CT
+- ZIP: 06830
+- ZIP extension: 
+- State project ID: CT-95-008
+- Latitude: 41.061449
+- Longitude: -73.627222
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001010201
+- Tract 2010: 09001010201
+- Tract 2000: 09001010201
+- Tract 1990: 09001010201
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 29
+- Units reported: 36
+- Low-income reported: 29
+- Efficiencies: 32
+- 1-bedroom units: 4
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PARSONAGE COTTAGE SENIOR RESIDENCE.
+- Record status: Existing, unchanged

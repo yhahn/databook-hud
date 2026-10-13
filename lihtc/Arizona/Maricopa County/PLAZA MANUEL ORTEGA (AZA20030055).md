@@ -1,0 +1,85 @@
+# Project: PLAZA MANUEL ORTEGA (AZA20030055)
+
+- HUD ID: AZA20030055
+- HUD ID before: 
+- Project: PLAZA MANUEL ORTEGA
+- Address: 13613 N MAIN ST
+- City: EL MIRAGE
+- State: AZ
+- ZIP: 85335
+- ZIP extension: 
+- State project ID: TC-0215
+- Latitude: 33.606427
+- Longitude: -112.311513
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013060904
+- Tract 2010: 04013060904
+- Tract 2000: 04013060900
+- Tract 1990: 04013060900
+- Place 2020: 22220
+- Place 2010: 22220
+- Place 2000: 22220
+- Place 1990: 0100
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

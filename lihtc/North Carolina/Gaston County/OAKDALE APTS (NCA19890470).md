@@ -1,0 +1,85 @@
+# Project: OAKDALE APTS (NCA19890470)
+
+- HUD ID: NCA19890470
+- HUD ID before: 
+- Project: OAKDALE APTS
+- Address: 428 N CARPENTER ST
+- City: GASTONIA
+- State: NC
+- ZIP: 28054
+- ZIP extension: 
+- State project ID: 309
+- Latitude: 35.271846
+- Longitude: -81.153494
+- County FIPS: 37071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37071032100
+- Tract 2000: 37071032100
+- Tract 1990: 37071032100
+- Place 2020: 
+- Place 2010: 25580
+- Place 2000: 25580
+- Place 1990: 0990
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 8100
+- Units: 6
+- Low-income units: 6
+- Units reported: 
+- Low-income reported: 6
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

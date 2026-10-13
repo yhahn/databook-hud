@@ -1,0 +1,85 @@
+# Project: GARDEN MANOR APARTMENTS (ARA20110816)
+
+- HUD ID: ARA20110816
+- HUD ID before: 
+- Project: GARDEN MANOR APARTMENTS
+- Address: 399 GARDEN MANOR DR
+- City: JONESBORO
+- State: AR
+- ZIP: 72401
+- ZIP extension: 
+- State project ID: AR-08-03-001
+- Latitude: 35.857901
+- Longitude: -90.700485
+- County FIPS: 05031
+- County from: 2020
+- Tract 2020: 05031000601
+- Tract 2010: 05031000601
+- Tract 2000: 05031000601
+- Tract 1990: 05031000600
+- Place 2020: 35710
+- Place 2010: 35710
+- Place 2000: 35710
+- Place 1990: 1070
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2010010.
+- Record status: Existing, unchanged

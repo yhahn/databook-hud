@@ -1,0 +1,85 @@
+# Project: BEECH STREET FACTORY (PAA20170001)
+
+- HUD ID: PAA20170001
+- HUD ID before: 
+- Project: BEECH STREET FACTORY
+- Address: 341 BEECH ST
+- City: POTTSTOWN
+- State: PA
+- ZIP: 19464
+- ZIP extension: 5691
+- State project ID: TC20150807
+- Latitude: 40.249198
+- Longitude: -75.645277
+- County FIPS: 42091
+- County from: 2020
+- Tract 2020: 42091208906
+- Tract 2010: 42091208906
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 62416
+- Place 2010: 62416
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1156748
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 3
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 43
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: ARTS COMMUNITY
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

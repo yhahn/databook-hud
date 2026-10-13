@@ -1,0 +1,85 @@
+# Project: NORTHWEST GARDENS I (FLA20110528)
+
+- HUD ID: FLA20110528
+- HUD ID before: 
+- Project: NORTHWEST GARDENS I
+- Address: 645 NW TENTH AVE
+- City: FT LAUDERDALE
+- State: FL
+- ZIP: 33311
+- ZIP extension: 
+- State project ID: 2282
+- Latitude: 26.130221
+- Longitude: -80.154769
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011041500
+- Tract 2010: 12011041500
+- Tract 2000: 12011041500
+- Tract 1990: 12011041500
+- Place 2020: 24000
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 0645
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 143
+- Low-income units: 143
+- Units reported: 143
+- Low-income reported: 143
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 50
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 18232500
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011165.
+- Record status: Existing, unchanged

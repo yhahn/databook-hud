@@ -1,0 +1,85 @@
+# Project: HOMES OF LITTLEPAGE TERRACE (CRH 6) (WVA20110809)
+
+- HUD ID: WVA20110809
+- HUD ID before: 
+- Project: HOMES OF LITTLEPAGE TERRACE (CRH 6)
+- Address: 100 MCVEY WAY
+- City: CHARLESTON
+- State: WV
+- ZIP: 25387
+- ZIP extension: 
+- State project ID: 2010-17
+- Latitude: 38.373714
+- Longitude: -81.666756
+- County FIPS: 54039
+- County from: 2020
+- Tract 2020: 54039000100
+- Tract 2010: 54039000100
+- Tract 2000: 54039000600
+- Tract 1990: 54039000600
+- Place 2020: 14600
+- Place 2010: 14600
+- Place 2000: 14600
+- Place 1990: 0280
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 414000
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 15
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 20074
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CHARLESTON REPLACEMENT HOUSEING #6, CRH 6 LITTLEPAGE DOOLEY & MCVEY.
+- Record status: Existing, unchanged

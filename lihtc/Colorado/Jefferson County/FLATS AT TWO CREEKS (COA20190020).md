@@ -1,0 +1,85 @@
+# Project: FLATS AT TWO CREEKS (COA20190020)
+
+- HUD ID: COA20190020
+- HUD ID before: 
+- Project: FLATS AT TWO CREEKS
+- Address: 5885 W. 14TH AVENUE
+- City: LAKEWOOD
+- State: CO
+- ZIP: 80214
+- ZIP extension: 
+- State project ID: CO-19-21
+- Latitude: 39.738699
+- Longitude: -105.061204
+- County FIPS: 08059
+- County from: 2020
+- Tract 2020: 08059011552
+- Tract 2010: 08059011550
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 926313
+- Units: 78
+- Low-income units: 77
+- Units reported: 78
+- Low-income reported: 77
+- Efficiencies: 0
+- 1-bedroom units: 70
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 37
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

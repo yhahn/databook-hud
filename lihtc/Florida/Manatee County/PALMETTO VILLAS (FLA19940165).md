@@ -1,0 +1,85 @@
+# Project: PALMETTO VILLAS (FLA19940165)
+
+- HUD ID: FLA19940165
+- HUD ID before: 
+- Project: PALMETTO VILLAS
+- Address: 2407 13TH AVE DR E
+- City: PALMETTO
+- State: FL
+- ZIP: 34221
+- ZIP extension: 
+- State project ID: 594
+- Latitude: 27.535926
+- Longitude: -82.55084
+- County FIPS: 12081
+- County from: 2020
+- Tract 2020: 12081001501
+- Tract 2010: 12081001501
+- Tract 2000: 12081001501
+- Tract 1990: 12081001501
+- Place 2020: 44175
+- Place 2010: 44175
+- Place 2000: 44175
+- Place 1990: 1360
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 49
+- Low-income units: 48
+- Units reported: 49
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

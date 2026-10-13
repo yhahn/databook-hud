@@ -1,0 +1,85 @@
+# Project: GARDEN TRAIL (FLA20180022)
+
+- HUD ID: FLA20180022
+- HUD ID before: 
+- Project: GARDEN TRAIL
+- Address: 608 ELDRIDGE STREET
+- City: CLEARWATER
+- State: FL
+- ZIP: 33755
+- ZIP extension: 
+- State project ID: 2395
+- Latitude: 27.972798
+- Longitude: -82.798203
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103026101
+- Tract 2010: 12103026101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 12875
+- Place 2010: 12875
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 541355
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 52
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

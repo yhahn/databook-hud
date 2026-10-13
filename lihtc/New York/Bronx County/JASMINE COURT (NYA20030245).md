@@ -1,0 +1,85 @@
+# Project: JASMINE COURT (NYA20030245)
+
+- HUD ID: NYA20030245
+- HUD ID before: 
+- Project: JASMINE COURT
+- Address: 759 E 138TH ST
+- City: BRONX
+- State: NY
+- ZIP: 10454
+- ZIP extension: 
+- State project ID: 20010892
+- Latitude: 40.804355
+- Longitude: -73.91117
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005001902
+- Tract 2010: 36005001900
+- Tract 2000: 36005001100
+- Tract 1990: 36005001100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 85401
+- Units: 115
+- Low-income units: 115
+- Units reported: 115
+- Low-income reported: 115
+- Efficiencies: 114
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 114
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: AIDS/HIV
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

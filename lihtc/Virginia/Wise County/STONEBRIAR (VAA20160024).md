@@ -1,0 +1,85 @@
+# Project: STONEBRIAR (VAA20160024)
+
+- HUD ID: VAA20160024
+- HUD ID before: VAA19980190
+- Project: STONEBRIAR
+- Address: 16600 BROAD STREET
+- City: SAINT PAUL
+- State: VA
+- ZIP: 24283
+- ZIP extension: 
+- State project ID: 4793
+- Latitude: 36.905128
+- Longitude: -82.311044
+- County FIPS: 51195
+- County from: 2020
+- Tract 2020: 51195931700
+- Tract 2010: 51195931700
+- Tract 2000: 51195991700
+- Tract 1990: 
+- Place 2020: 69936
+- Place 2010: 69936
+- Place 2000: 69936
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 76000
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 21
+- 2-bedroom units: 2
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID: VAA19980190
+- Record status: Existing, unchanged

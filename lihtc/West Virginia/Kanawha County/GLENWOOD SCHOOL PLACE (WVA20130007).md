@@ -1,0 +1,85 @@
+# Project: GLENWOOD SCHOOL PLACE (WVA20130007)
+
+- HUD ID: WVA20130007
+- HUD ID before: 
+- Project: GLENWOOD SCHOOL PLACE
+- Address: 810 GRANT ST
+- City: CHARLESTON
+- State: WV
+- ZIP: 25302
+- ZIP extension: 
+- State project ID: 2011-23
+- Latitude: 38.362754
+- Longitude: -81.654693
+- County FIPS: 54039
+- County from: 2020
+- Tract 2020: 54039000700
+- Tract 2010: 54039000700
+- Tract 2000: 54039000700
+- Tract 1990: 54039000700
+- Place 2020: 14600
+- Place 2010: 14600
+- Place 2000: 14600
+- Place 1990: 0280
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 572603
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 3
+- 1-bedroom units: 24
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

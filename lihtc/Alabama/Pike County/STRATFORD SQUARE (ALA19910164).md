@@ -1,0 +1,85 @@
+# Project: STRATFORD SQUARE (ALA19910164)
+
+- HUD ID: ALA19910164
+- HUD ID before: 
+- Project: STRATFORD SQUARE
+- Address: 700 MLK DR
+- City: BRUNDIDGE
+- State: AL
+- ZIP: 36010
+- ZIP extension: 
+- State project ID: AL-91-0078
+- Latitude: 31.727223
+- Longitude: -85.829045
+- County FIPS: 01109
+- County from: 2020
+- Tract 2020: 01109189300
+- Tract 2010: 01109189300
+- Tract 2000: 01109989300
+- Tract 1990: 01109989300
+- Place 2020: 10240
+- Place 2010: 10240
+- Place 2000: 10240
+- Place 1990: 0275
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 37930
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1993105.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VISTA VERDE APTS (COTULLA) (TXA00000609)
+
+- HUD ID: TXA00000609
+- HUD ID before: 
+- Project: VISTA VERDE APTS (COTULLA)
+- Address: 404 MEDINA
+- City: COTULLA
+- State: TX
+- ZIP: 78014
+- ZIP extension: 
+- State project ID: TX1097
+- Latitude: 28.440017
+- Longitude: -99.238688
+- County FIPS: 48283
+- County from: 2020
+- Tract 2020: 48283950301
+- Tract 2010: 48283950300
+- Tract 2000: 48283950100
+- Tract 1990: 48283950100
+- Place 2020: 17216
+- Place 2010: 17216
+- Place 2000: 17216
+- Place 1990: 0995
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA COTULLA RETIREMENT
+- Record status: Existing, unchanged

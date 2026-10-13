@@ -1,0 +1,85 @@
+# Project: THE BLUFFS APTS PHASE II (IAA19960105)
+
+- HUD ID: IAA19960105
+- HUD ID before: 
+- Project: THE BLUFFS APTS PHASE II
+- Address: 2095 NASH BLVD
+- City: COUNCIL BLUFFS
+- State: IA
+- ZIP: 51501
+- ZIP extension: 
+- State project ID: 95-05
+- Latitude: 41.276235
+- Longitude: -95.875734
+- County FIPS: 19155
+- County from: 2020
+- Tract 2020: 19155030200
+- Tract 2010: 19155030200
+- Tract 2000: 19155030200
+- Tract 1990: 19155030200
+- Place 2020: 16860
+- Place 2010: 16860
+- Place 2000: 16860
+- Place 1990: 0945
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 343802
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 54
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

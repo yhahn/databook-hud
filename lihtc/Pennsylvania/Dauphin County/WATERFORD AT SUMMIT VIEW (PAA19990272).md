@@ -1,0 +1,85 @@
+# Project: WATERFORD AT SUMMIT VIEW (PAA19990272)
+
+- HUD ID: PAA19990272
+- HUD ID before: 
+- Project: WATERFORD AT SUMMIT VIEW
+- Address: 8301 PRESIDENTS DR
+- City: HUMMELSTOWN
+- State: PA
+- ZIP: 17036
+- ZIP extension: 
+- State project ID: TC19970042
+- Latitude: 40.264932
+- Longitude: -76.742119
+- County FIPS: 42043
+- County from: 2020
+- Tract 2020: 42043022800
+- Tract 2010: 42043022800
+- Tract 2000: 42043022800
+- Tract 1990: 42043022800
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 966873
+- Units: 132
+- Low-income units: 130
+- Units reported: 132
+- Low-income reported: 130
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 64
+- 3-bedroom units: 68
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2000200.
+- Record status: Existing, unchanged

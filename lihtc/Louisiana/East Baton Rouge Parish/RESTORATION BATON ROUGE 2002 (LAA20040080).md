@@ -1,0 +1,85 @@
+# Project: RESTORATION BATON ROUGE 2002 (LAA20040080)
+
+- HUD ID: LAA20040080
+- HUD ID before: 
+- Project: RESTORATION BATON ROUGE 2002
+- Address: 605 NORTH 33RD STREET
+- City: BATON ROUGE
+- State: LA
+- ZIP: 70802
+- ZIP extension: 0000
+- State project ID: LA-02-074
+- Latitude: 30.453966
+- Longitude: -91.155779
+- County FIPS: 22033
+- County from: 2020
+- Tract 2020: 22033000900
+- Tract 2010: 22033000900
+- Tract 2000: 22033000900
+- Tract 1990: 22033000900
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0095
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 8660
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

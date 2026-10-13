@@ -1,0 +1,85 @@
+# Project: SUNNY HILL (FLA20060130)
+
+- HUD ID: FLA20060130
+- HUD ID before: 
+- Project: SUNNY HILL
+- Address: 760 PITT ST
+- City: CLERMONT
+- State: FL
+- ZIP: 34711
+- ZIP extension: 
+- State project ID: 1585
+- Latitude: 28.557785
+- Longitude: -81.744481
+- County FIPS: 12069
+- County from: 2020
+- Tract 2020: 12069031312
+- Tract 2010: 12069031305
+- Tract 2000: 12069031305
+- Tract 1990: 12069031302
+- Place 2020: 12925
+- Place 2010: 12925
+- Place 2000: 12925
+- Place 1990: 0380
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 68500
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 23
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ROBERTSON ON THE RIVER (MAB20050085)
+
+- HUD ID: MAB20050085
+- HUD ID before: 
+- Project: ROBERTSON ON THE RIVER
+- Address: 120 INGELL ST
+- City: TAUNTON
+- State: MA
+- ZIP: 02780
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 41.887622
+- Longitude: -71.087399
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005614000
+- Tract 2010: 25005614000
+- Tract 2000: 25005614000
+- Tract 1990: 25005614000
+- Place 2020: 69170
+- Place 2010: 69170
+- Place 2000: 69170
+- Place 1990: 4220
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 34
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Yes
+- Other population named: TEEN MOTHERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

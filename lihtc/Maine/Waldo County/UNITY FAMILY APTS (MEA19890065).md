@@ -1,0 +1,85 @@
+# Project: UNITY FAMILY APTS (MEA19890065)
+
+- HUD ID: MEA19890065
+- HUD ID before: 
+- Project: UNITY FAMILY APTS
+- Address: 139 SCHOOL ST
+- City: UNITY
+- State: ME
+- ZIP: 04988
+- ZIP extension: 
+- State project ID: ME-89-00033
+- Latitude: 44.612403
+- Longitude: -69.340761
+- County FIPS: 23027
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 23027046002
+- Tract 2000: 23027046000
+- Tract 1990: 23027046000
+- Place 2020: 
+- Place 2010: 78220
+- Place 2000: 78220
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

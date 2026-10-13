@@ -1,0 +1,85 @@
+# Project: BELLE PRAIRIE (OHA20120015)
+
+- HUD ID: OHA20120015
+- HUD ID before: 
+- Project: BELLE PRAIRIE
+- Address: 110 COLONIAL SQ
+- City: BELPRE
+- State: OH
+- ZIP: 45714
+- ZIP extension: 
+- State project ID: 100056
+- Latitude: 39.28073
+- Longitude: -81.580686
+- County FIPS: 39167
+- County from: 2020
+- Tract 2020: 39167020101
+- Tract 2010: 39167020101
+- Tract 2000: 39167020101
+- Tract 1990: 39167020101
+- Place 2020: 05424
+- Place 2010: 05424
+- Place 2000: 05424
+- Place 1990: 0355
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 22
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 737301
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1988130. AKA COLONIAL SQUARE APTS.
+- Record status: Existing, unchanged

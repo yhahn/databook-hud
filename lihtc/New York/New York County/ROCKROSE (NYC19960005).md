@@ -1,0 +1,85 @@
+# Project: ROCKROSE (NYC19960005)
+
+- HUD ID: NYC19960005
+- HUD ID before: 
+- Project: ROCKROSE
+- Address: 100 JANE ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10014
+- ZIP extension: 
+- State project ID: 11-3239704
+- Latitude: 40.737979
+- Longitude: -74.008158
+- County FIPS: 36061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36061007900
+- Tract 2000: 36061007900
+- Tract 1990: 36061007900
+- Place 2020: 
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 125658
+- Units: 148
+- Low-income units: 30
+- Units reported: 148
+- Low-income reported: 30
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

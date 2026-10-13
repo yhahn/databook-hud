@@ -1,0 +1,85 @@
+# Project: WEXFORD WAY & CARLOW COURT AT EMERALD VISTA (CAA20120924)
+
+- HUD ID: CAA20120924
+- HUD ID before: 
+- Project: WEXFORD WAY & CARLOW COURT AT EMERALD VISTA
+- Address: 6900 MARIPOSA CIR
+- City: DUBLIN
+- State: CA
+- ZIP: 94568
+- ZIP extension: 
+- State project ID: CA-10-849
+- Latitude: 37.715366
+- Longitude: -121.911607
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001450200
+- Tract 2010: 06001450200
+- Tract 2000: 06001450200
+- Tract 1990: 06001450200
+- Place 2020: 20018
+- Place 2010: 20018
+- Place 2000: 20018
+- Place 1990: 0802
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1726777
+- Units: 180
+- Low-income units: 178
+- Units reported: 180
+- Low-income reported: 178
+- Efficiencies: 0
+- 1-bedroom units: 61
+- 2-bedroom units: 67
+- 3-bedroom units: 36
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 151
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

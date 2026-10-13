@@ -1,0 +1,85 @@
+# Project: GREYSTONE APTS (OKA00000195)
+
+- HUD ID: OKA00000195
+- HUD ID before: 
+- Project: GREYSTONE APTS
+- Address: 102 GREYSTONE DR
+- City: WESTVILLE
+- State: OK
+- ZIP: 74965
+- ZIP extension: 
+- State project ID: 13
+- Latitude: 35.994194
+- Longitude: -94.563759
+- County FIPS: 40001
+- County from: 2020
+- Tract 2020: 40001376700
+- Tract 2010: 40001376700
+- Tract 2000: 40001976700
+- Tract 1990: 40001976700
+- Place 2020: 80450
+- Place 2010: 80450
+- Place 2000: 13850
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 34
+- Units reported: 35
+- Low-income reported: 34
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

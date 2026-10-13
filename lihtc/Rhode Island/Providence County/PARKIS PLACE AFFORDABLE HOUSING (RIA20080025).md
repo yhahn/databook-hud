@@ -1,0 +1,85 @@
+# Project: PARKIS PLACE AFFORDABLE HOUSING (RIA20080025)
+
+- HUD ID: RIA20080025
+- HUD ID before: 
+- Project: PARKIS PLACE AFFORDABLE HOUSING
+- Address: 9 PARKIS AVE
+- City: PROVIDENCE
+- State: RI
+- ZIP: 02907
+- ZIP extension: 
+- State project ID: RI00035
+- Latitude: 41.80933
+- Longitude: -71.422036
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007000302
+- Tract 2010: 44007000300
+- Tract 2000: 44007000300
+- Tract 1990: 44007000300
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0400
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 321717
+- Units: 106
+- Low-income units: 106
+- Units reported: 106
+- Low-income reported: 106
+- Efficiencies: 70
+- 1-bedroom units: 36
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

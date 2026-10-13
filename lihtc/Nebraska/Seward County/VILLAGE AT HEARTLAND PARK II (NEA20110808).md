@@ -1,0 +1,85 @@
+# Project: VILLAGE AT HEARTLAND PARK II (NEA20110808)
+
+- HUD ID: NEA20110808
+- HUD ID before: 
+- Project: VILLAGE AT HEARTLAND PARK II
+- Address: 418 VILLAGE CIR
+- City: SEWARD
+- State: NE
+- ZIP: 68434
+- ZIP extension: 
+- State project ID: 7-0733
+- Latitude: 40.928272
+- Longitude: -97.09738
+- County FIPS: 31159
+- County from: 2020
+- Tract 2020: 31159960300
+- Tract 2010: 31159960300
+- Tract 2000: 31159990300
+- Tract 1990: 31159990300
+- Place 2020: 44420
+- Place 2010: 44420
+- Place 2000: 44420
+- Place 1990: 2200
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 188735
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 862290
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

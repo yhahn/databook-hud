@@ -1,0 +1,85 @@
+# Project: BRONZEVILLE ASSOC SENIOR APTS LP (ILB20136002)
+
+- HUD ID: ILB20136002
+- HUD ID before: 
+- Project: BRONZEVILLE ASSOC SENIOR APTS LP
+- Address: 460 E 41ST ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60653
+- ZIP extension: 2758
+- State project ID: IL-12-021
+- Latitude: 41.820429
+- Longitude: -87.613883
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031380200
+- Tract 2010: 17031380200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 97
+- Low-income units: 97
+- Units reported: 97
+- Low-income reported: 97
+- Efficiencies: 
+- 1-bedroom units: 97
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

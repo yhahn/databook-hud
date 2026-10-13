@@ -1,0 +1,85 @@
+# Project: PRESCOTT VALLEY HOUSING (AZA19880050)
+
+- HUD ID: AZA19880050
+- HUD ID before: 
+- Project: PRESCOTT VALLEY HOUSING
+- Address: 3200 N NAVAJO DR
+- City: PRESCOTT VALLEY
+- State: AZ
+- ZIP: 86314
+- ZIP extension: 
+- State project ID: 
+- Latitude: 34.589156
+- Longitude: -112.316488
+- County FIPS: 04025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04025000606
+- Tract 2000: 04025000602
+- Tract 1990: 04025000600
+- Place 2020: 
+- Place 2010: 57450
+- Place 2000: 57450
+- Place 1990: 0282
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

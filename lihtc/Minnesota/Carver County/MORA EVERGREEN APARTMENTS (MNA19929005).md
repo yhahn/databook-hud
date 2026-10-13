@@ -1,0 +1,85 @@
+# Project: MORA EVERGREEN APARTMENTS (MNA19929005)
+
+- HUD ID: MNA19929005
+- HUD ID before: 
+- Project: MORA EVERGREEN APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: MORA
+- State: MN
+- ZIP: 55387
+- ZIP extension: 
+- State project ID: D1025
+- Latitude: 44.8257
+- Longitude: -93.7997
+- County FIPS: 27019
+- County from: 2020
+- Tract 2020: 27019090302
+- Tract 2010: 27019090302
+- Tract 2000: 27065980300
+- Tract 1990: 27065980300
+- Place 2020: 67432
+- Place 2010: 67432
+- Place 2000: 44044
+- Place 1990: 2655
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

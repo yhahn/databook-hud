@@ -1,0 +1,85 @@
+# Project: AZALEA REACH APTS (ORA19990010)
+
+- HUD ID: ORA19990010
+- HUD ID before: 
+- Project: AZALEA REACH APTS
+- Address: 650 OLD COUNTRY RD
+- City: BROOKINGS
+- State: OR
+- ZIP: 97415
+- ZIP extension: 
+- State project ID: 655
+- Latitude: 42.058891
+- Longitude: -124.276086
+- County FIPS: 41015
+- County from: 2020
+- Tract 2020: 41015950301
+- Tract 2010: 41015950301
+- Tract 2000: 41015950301
+- Tract 1990: 41015950200
+- Place 2020: 08650
+- Place 2010: 08650
+- Place 2000: 08650
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 418153
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 200000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

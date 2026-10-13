@@ -1,0 +1,85 @@
+# Project: TRIBECA TOWERS (NYC19949002)
+
+- HUD ID: NYC19949002
+- HUD ID before: 
+- Project: TRIBECA TOWERS
+- Address: 105 DUANE STREET
+- City: NEW YORK
+- State: NY
+- ZIP: 10007
+- ZIP extension: 
+- State project ID: 13-3726820
+- Latitude: 40.715735
+- Longitude: -74.006089
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061003300
+- Tract 2010: 36061003300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 278765
+- Units: 88
+- Low-income units: 71
+- Units reported: 88
+- Low-income reported: 71
+- Efficiencies: 29
+- 1-bedroom units: 42
+- 2-bedroom units: 17
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

@@ -1,0 +1,85 @@
+# Project: WESTMORE (NCA20110180)
+
+- HUD ID: NCA20110180
+- HUD ID before: 
+- Project: WESTMORE
+- Address: 42 WESTMORE DRIVE
+- City: ASHEVILLE
+- State: NC
+- ZIP: 28806
+- ZIP extension: 
+- State project ID: 9104485
+- Latitude: 35.583357
+- Longitude: -82.621215
+- County FIPS: 37021
+- County from: 2020
+- Tract 2020: 37021001300
+- Tract 2010: 37021001300
+- Tract 2000: 37021001200
+- Tract 1990: 37021001300
+- Place 2020: 02140
+- Place 2010: 02140
+- Place 2000: 
+- Place 1990: 0095
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 892171
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 37
+- 3-bedroom units: 20
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2591844
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 11918618
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

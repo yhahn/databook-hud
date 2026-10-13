@@ -1,0 +1,85 @@
+# Project: RIVER ROCK RESIDENCES (MTA20130006)
+
+- HUD ID: MTA20130006
+- HUD ID before: 
+- Project: RIVER ROCK RESIDENCES
+- Address: 3225 BEDROCK DRIVE
+- City: HELENA
+- State: MT
+- ZIP: 59602
+- ZIP extension: 0000
+- State project ID: 13070
+- Latitude: 46.618208
+- Longitude: -112.028383
+- County FIPS: 30049
+- County from: 2020
+- Tract 2020: 30049000503
+- Tract 2010: 30049000502
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 35600
+- Place 2010: 35600
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 616250
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 45
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

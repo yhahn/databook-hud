@@ -1,0 +1,85 @@
+# Project: CHURCHILL SENIOR (MDA20010020)
+
+- HUD ID: MDA20010020
+- HUD ID before: 
+- Project: CHURCHILL SENIOR
+- Address: 21000 FATHER HURLEY BLVD
+- City: GERMANTOWN
+- State: MD
+- ZIP: 20874
+- ZIP extension: 
+- State project ID: MD00-04001
+- Latitude: 39.189766
+- Longitude: -77.27359
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031700308
+- Tract 2010: 24031700308
+- Tract 2000: 24031700308
+- Tract 1990: 24031700307
+- Place 2020: 32025
+- Place 2010: 32025
+- Place 2000: 32025
+- Place 1990: 0402
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 121
+- Low-income units: 121
+- Units reported: 121
+- Low-income reported: 121
+- Efficiencies: 0
+- 1-bedroom units: 103
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

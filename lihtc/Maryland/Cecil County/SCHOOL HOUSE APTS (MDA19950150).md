@@ -1,0 +1,85 @@
+# Project: SCHOOL HOUSE APTS (MDA19950150)
+
+- HUD ID: MDA19950150
+- HUD ID before: 
+- Project: SCHOOL HOUSE APTS
+- Address: 1 OLD SCHOOL HOUSE DR
+- City: PORT DEPOSIT
+- State: MD
+- ZIP: 21904
+- ZIP extension: 
+- State project ID: MD94-06
+- Latitude: 39.619188
+- Longitude: -76.124969
+- County FIPS: 24015
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24015031201
+- Tract 2000: 24015031201
+- Tract 1990: 24015031201
+- Place 2020: 
+- Place 2010: 63075
+- Place 2000: 61150
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

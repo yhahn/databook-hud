@@ -1,0 +1,85 @@
+# Project: SLAVIC VILLAGE HOMES (OHA20089320)
+
+- HUD ID: OHA20089320
+- HUD ID before: 
+- Project: SLAVIC VILLAGE HOMES
+- Address: 3613 E 75TH ST
+- City: CLEVELAND
+- State: OH
+- ZIP: 44105
+- ZIP extension: 
+- State project ID: 06-0040
+- Latitude: 41.460252
+- Longitude: -81.635476
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035198000
+- Tract 2010: 39035115300
+- Tract 2000: 39035115300
+- Tract 1990: 39035115300
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 48705
+- Units: 29
+- Low-income units: 29
+- Units reported: 29
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 21
+- 4-bedroom units: 7
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006704, OHA2008210.
+- Record status: Existing, unchanged

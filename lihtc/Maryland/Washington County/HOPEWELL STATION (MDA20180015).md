@@ -1,0 +1,85 @@
+# Project: HOPEWELL STATION (MDA20180015)
+
+- HUD ID: MDA20180015
+- HUD ID before: 
+- Project: HOPEWELL STATION
+- Address: 11341 CICI WAY
+- City: HAGERSTOWN
+- State: MD
+- ZIP: 21740
+- ZIP extension: 
+- State project ID: MD-17-12001-5
+- Latitude: 39.6327
+- Longitude: -77.7289
+- County FIPS: 24043
+- County from: 2020
+- Tract 2020: 24043010803
+- Tract 2010: 24043000800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 36075
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1454246
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 6
+- 2-bedroom units: 27
+- 3-bedroom units: 21
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

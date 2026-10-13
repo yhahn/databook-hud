@@ -1,0 +1,85 @@
+# Project: MELVIN A (WAA19880135)
+
+- HUD ID: WAA19880135
+- HUD ID before: 
+- Project: MELVIN A
+- Address: 2511 MELVIN AVE
+- City: EVERETT
+- State: WA
+- ZIP: 98203
+- ZIP extension: 
+- State project ID: WA-88-13U
+- Latitude: 47.938864
+- Longitude: -122.198687
+- County FIPS: 53061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53061041400
+- Tract 2000: 53061041400
+- Tract 1990: 53061041400
+- Place 2020: 
+- Place 2010: 22640
+- Place 2000: 22640
+- Place 1990: 0420
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

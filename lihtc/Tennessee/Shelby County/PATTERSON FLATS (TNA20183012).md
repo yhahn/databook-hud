@@ -1,0 +1,85 @@
+# Project: PATTERSON FLATS (TNA20183012)
+
+- HUD ID: TNA20183012
+- HUD ID before: 
+- Project: PATTERSON FLATS
+- Address: 250 GE PATTERSON AVENUE
+- City: MEMPHIS
+- State: TN
+- ZIP: 38126
+- ZIP extension: 
+- State project ID: TN-16-206
+- Latitude: 35.132875
+- Longitude: -90.05379
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157011402
+- Tract 2010: 47157011400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 950354
+- Units: 195
+- Low-income units: 195
+- Units reported: 195
+- Low-income reported: 195
+- Efficiencies: 0
+- 1-bedroom units: 79
+- 2-bedroom units: 114
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

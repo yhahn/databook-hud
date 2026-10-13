@@ -1,0 +1,85 @@
+# Project: LANDING AT PEBBLE CREEK (OKA20070040)
+
+- HUD ID: OKA20070040
+- HUD ID before: 
+- Project: LANDING AT PEBBLE CREEK
+- Address: 294 E PEBBLE CREEK TER
+- City: MUSTANG
+- State: OK
+- ZIP: 73064
+- ZIP extension: 
+- State project ID: 42887
+- Latitude: 35.393351
+- Longitude: -97.720477
+- County FIPS: 40017
+- County from: 2020
+- Tract 2020: 40017301410
+- Tract 2010: 40017301410
+- Tract 2000: 40017301405
+- Tract 1990: 40017301403
+- Place 2020: 50100
+- Place 2010: 50100
+- Place 2000: 50100
+- Place 1990: 1705
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 363315
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 826000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

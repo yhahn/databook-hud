@@ -1,0 +1,85 @@
+# Project: MALLSIDE FOREST (VAA19990366)
+
+- HUD ID: VAA19990366
+- HUD ID before: 
+- Project: MALLSIDE FOREST
+- Address: 816 MALLSIDE FOREST CT
+- City: CHARLOTTESVILLE
+- State: VA
+- ZIP: 22901
+- ZIP extension: 
+- State project ID: 1041
+- Latitude: 38.080223
+- Longitude: -78.468076
+- County FIPS: 51003
+- County from: 2020
+- Tract 2020: 51003010604
+- Tract 2010: 51003010601
+- Tract 2000: 51003010600
+- Tract 1990: 51003010698
+- Place 2020: 67288
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 1043
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 363779
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 68
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1998140.
+- Record status: Existing, unchanged

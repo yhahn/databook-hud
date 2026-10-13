@@ -1,0 +1,85 @@
+# Project: SILAS OAKS (FLA20060154)
+
+- HUD ID: FLA20060154
+- HUD ID before: 
+- Project: SILAS OAKS
+- Address: 1120 SILAS DR SW
+- City: LIVE OAK
+- State: FL
+- ZIP: 32064
+- ZIP extension: 
+- State project ID: 1483
+- Latitude: 30.280408
+- Longitude: -83.001716
+- County FIPS: 12121
+- County from: 2020
+- Tract 2020: 12121970402
+- Tract 2010: 12121970400
+- Tract 2000: 12121970400
+- Tract 1990: 12121970400
+- Place 2020: 40875
+- Place 2010: 40875
+- Place 2000: 40875
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 940000
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 56
+- 3-bedroom units: 42
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 43
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2006120.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: OAK GROVE APTS (MOA19920365)
+
+- HUD ID: MOA19920365
+- HUD ID before: 
+- Project: OAK GROVE APTS
+- Address: 1295 VELMA ST
+- City: POPLAR BLUFF
+- State: MO
+- ZIP: 63901
+- ZIP extension: 
+- State project ID: 91115
+- Latitude: 36.747715
+- Longitude: -90.40829
+- County FIPS: 29023
+- County from: 2020
+- Tract 2020: 29023950800
+- Tract 2010: 29023950800
+- Tract 2000: 29023950800
+- Tract 1990: 29023950800
+- Place 2020: 59096
+- Place 2010: 59096
+- Place 2000: 59096
+- Place 1990: 3500
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

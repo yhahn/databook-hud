@@ -1,0 +1,85 @@
+# Project: CRANFORD LINCOLN APARTMENTS #207 (NJA19939004)
+
+- HUD ID: NJA19939004
+- HUD ID before: 
+- Project: CRANFORD LINCOLN APARTMENTS #207
+- Address: 800 LINCOLN AVE E
+- City: CRANFORD
+- State: NJ
+- ZIP: 07016
+- ZIP extension: 3199
+- State project ID: 0
+- Latitude: 40.654407
+- Longitude: -74.293118
+- County FIPS: 34039
+- County from: 2020
+- Tract 2020: 34039037200
+- Tract 2010: 34039037200
+- Tract 2000: 34039037200
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 15670
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

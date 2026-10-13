@@ -1,0 +1,85 @@
+# Project: HIGHLAND MANOR APARTMENTS (GAA20120801)
+
+- HUD ID: GAA20120801
+- HUD ID before: 
+- Project: HIGHLAND MANOR APARTMENTS
+- Address: 198 N CORNERS PKWY
+- City: CUMMING
+- State: GA
+- ZIP: 30040
+- ZIP extension: 2079
+- State project ID: 2010-065
+- Latitude: 34.215833
+- Longitude: -84.154066
+- County FIPS: 13117
+- County from: 2020
+- Tract 2020: 13117130413
+- Tract 2010: 13117130408
+- Tract 2000: 13117130402
+- Tract 1990: 13117130400
+- Place 2020: 20932
+- Place 2010: 20932
+- Place 2000: 20932
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 41
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1993080, GAA2012095. AKA HIGHLAND MANOR APTS.
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: WATER TOWER PLACE (INA20070220)
+
+- HUD ID: INA20070220
+- HUD ID before: 
+- Project: WATER TOWER PLACE
+- Address: 7201 W 200 N
+- City: DELPHI
+- State: IN
+- ZIP: 46923
+- ZIP extension: 
+- State project ID: IN-06-02400
+- Latitude: 40.576605
+- Longitude: -86.662231
+- County FIPS: 18015
+- County from: 2020
+- Tract 2020: 18015959600
+- Tract 2010: 18015959600
+- Tract 2000: 18015959600
+- Tract 1990: 18015959600
+- Place 2020: 17614
+- Place 2010: 17614
+- Place 2000: 17614
+- Place 1990: 0625
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 269600
+- Units: 32
+- Low-income units: 30
+- Units reported: 32
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

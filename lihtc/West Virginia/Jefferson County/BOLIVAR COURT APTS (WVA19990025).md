@@ -1,0 +1,85 @@
+# Project: BOLIVAR COURT APTS (WVA19990025)
+
+- HUD ID: WVA19990025
+- HUD ID before: 
+- Project: BOLIVAR COURT APTS
+- Address: 501 BOLIVAR CT
+- City: HARPERS FERRY
+- State: WV
+- ZIP: 25425
+- ZIP extension: 
+- State project ID: WV-98-00401
+- Latitude: 39.327487
+- Longitude: -77.753984
+- County FIPS: 54037
+- County from: 2020
+- Tract 2020: 54037972601
+- Tract 2010: 54037972601
+- Tract 2000: 54037972600
+- Tract 1990: 54037972600
+- Place 2020: 08932
+- Place 2010: 08932
+- Place 2000: 08932
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

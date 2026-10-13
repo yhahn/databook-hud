@@ -1,0 +1,85 @@
+# Project: NEWPORT MANOR (VAA19890110)
+
+- HUD ID: VAA19890110
+- HUD ID before: 
+- Project: NEWPORT MANOR
+- Address: 6701 CARNATION ST
+- City: RICHMOND
+- State: VA
+- ZIP: 23225
+- ZIP extension: 
+- State project ID: 1064
+- Latitude: 37.505499
+- Longitude: -77.518328
+- County FIPS: 51760
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 51760071001
+- Tract 2000: 51760071001
+- Tract 1990: 51760071098
+- Place 2020: 
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 1035
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 32695
+- Units: 200
+- Low-income units: 40
+- Units reported: 200
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 180
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

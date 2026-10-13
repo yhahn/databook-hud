@@ -1,0 +1,85 @@
+# Project: WESTMINSTER PL @ CARROLL VLLG (PAA20110105)
+
+- HUD ID: PAA20110105
+- HUD ID before: 
+- Project: WESTMINSTER PL @ CARROLL VLLG
+- Address: 2 TRINITY DR W
+- City: DILLSBURG
+- State: PA
+- ZIP: 17019
+- ZIP extension: 
+- State project ID: TC20090417
+- Latitude: 40.135396
+- Longitude: -77.017811
+- County FIPS: 42133
+- County from: 2020
+- Tract 2020: 42133020422
+- Tract 2010: 42133020420
+- Tract 2000: 42133020410
+- Tract 1990: 42133020410
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 27576
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 392035
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 718753
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2011506. AKA WESTMINSTER PLACE AT CARROLL VILLAGE.
+- Record status: Existing, unchanged

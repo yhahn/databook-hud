@@ -1,0 +1,85 @@
+# Project: PLEASANT STREET PROJECT (INA19920015)
+
+- HUD ID: INA19920015
+- HUD ID before: 
+- Project: PLEASANT STREET PROJECT
+- Address: 1129 PLEASANT ST
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46203
+- ZIP extension: 
+- State project ID: IN-90-04000
+- Latitude: 39.754663
+- Longitude: -86.139304
+- County FIPS: 18097
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18097355900
+- Tract 2000: 18097355900
+- Tract 1990: 18097355900
+- Place 2020: 
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0000095.
+- Record status: Existing, unchanged

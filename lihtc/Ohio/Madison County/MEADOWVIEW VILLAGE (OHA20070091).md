@@ -1,0 +1,85 @@
+# Project: MEADOWVIEW VILLAGE (OHA20070091)
+
+- HUD ID: OHA20070091
+- HUD ID before: 
+- Project: MEADOWVIEW VILLAGE
+- Address: 338 W MAIN ST
+- City: MT STERLING
+- State: OH
+- ZIP: 43143
+- ZIP extension: 
+- State project ID: 050073
+- Latitude: 39.712854
+- Longitude: -83.271678
+- County FIPS: 39097
+- County from: 2020
+- Tract 2020: 39097041200
+- Tract 2010: 39097041200
+- Tract 2000: 39097041200
+- Tract 1990: 39097041200
+- Place 2020: 53046
+- Place 2010: 53046
+- Place 2000: 53046
+- Place 1990: 2835
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007766. AKA MEADOWVIEW SENIOR.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUNSHINE VALLEY APARTMENTS (AZA20160018)
+
+- HUD ID: AZA20160018
+- HUD ID before: 
+- Project: SUNSHINE VALLEY APARTMENTS
+- Address: 1901 S. 20TH AVENUE
+- City: SAFFORD
+- State: AZ
+- ZIP: 85546
+- ZIP extension: 4095
+- State project ID: TC-0829-15
+- Latitude: 32.817957
+- Longitude: -109.732767
+- County FIPS: 04009
+- County from: 2020
+- Tract 2020: 04009961400
+- Tract 2010: 04009961400
+- Tract 2000: 04009991400
+- Tract 1990: 
+- Place 2020: 62000
+- Place 2010: 62000
+- Place 2000: 62000
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 582613
+- Units: 72
+- Low-income units: 70
+- Units reported: 72
+- Low-income reported: 70
+- Efficiencies: 14
+- 1-bedroom units: 46
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 51
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 740000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

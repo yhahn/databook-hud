@@ -1,0 +1,85 @@
+# Project: PARK TRACE (GAA20201041)
+
+- HUD ID: GAA20201041
+- HUD ID before: 
+- Project: PARK TRACE
+- Address: 700 ATLANTA AVENUE
+- City: DECATUR
+- State: GA
+- ZIP: 30030
+- ZIP extension: 3047
+- State project ID: 2018-508
+- Latitude: 33.772519
+- Longitude: -84.302548
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089022501
+- Tract 2010: 13089022500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22052
+- Place 2010: 22052
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 770202
+- Units: 170
+- Low-income units: 169
+- Units reported: 170
+- Low-income reported: 169
+- Efficiencies: 42
+- 1-bedroom units: 127
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

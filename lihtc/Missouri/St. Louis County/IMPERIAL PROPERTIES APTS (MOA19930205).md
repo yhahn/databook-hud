@@ -1,0 +1,85 @@
+# Project: IMPERIAL PROPERTIES APTS (MOA19930205)
+
+- HUD ID: MOA19930205
+- HUD ID before: 
+- Project: IMPERIAL PROPERTIES APTS
+- Address: 20 E ALLISON AVE
+- City: ST LOUIS
+- State: MO
+- ZIP: 63119
+- ZIP extension: 
+- State project ID: 93-001
+- Latitude: 38.607751
+- Longitude: -90.355963
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189218901
+- Tract 2010: 29189218900
+- Tract 2000: 29189218900
+- Tract 1990: 29189218900
+- Place 2020: 78154
+- Place 2010: 78154
+- Place 2000: 08236
+- Place 1990: 3750
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

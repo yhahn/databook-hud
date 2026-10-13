@@ -1,0 +1,85 @@
+# Project: THE GRAND (NYB20221039)
+
+- HUD ID: NYB20221039
+- HUD ID before: 
+- Project: THE GRAND
+- Address: 220 EAST 178TH STREET
+- City: BRONX
+- State: NY
+- ZIP: 10457
+- ZIP extension: 
+- State project ID: NY-24-2497
+- Latitude: 40.850077
+- Longitude: -73.903724
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005023502
+- Tract 2010: 36005023502
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 2913368
+- Units: 138
+- Low-income units: 138
+- Units reported: 138
+- Low-income reported: 138
+- Efficiencies: 56
+- 1-bedroom units: 28
+- 2-bedroom units: 37
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

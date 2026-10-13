@@ -1,0 +1,85 @@
+# Project: OSAGE TRAIL (KSA20080060)
+
+- HUD ID: KSA20080060
+- HUD ID before: 
+- Project: OSAGE TRAIL
+- Address: 15131 S 25TH ST
+- City: PARSONS
+- State: KS
+- ZIP: 
+- ZIP extension: 
+- State project ID: 60484
+- Latitude: 37.3364
+- Longitude: -95.2665
+- County FIPS: 20099
+- County from: 2020
+- Tract 2020: 20099950200
+- Tract 2010: 20099950200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 54675
+- Place 2010: 54675
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 503517
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MENDOTA CREEK APTS.
+- Record status: Existing, unchanged

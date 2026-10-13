@@ -1,0 +1,85 @@
+# Project: JAMAICA PLAIN SCATTERED SITES COOP (MAB20130014)
+
+- HUD ID: MAB20130014
+- HUD ID before: 
+- Project: JAMAICA PLAIN SCATTERED SITES COOP
+- Address: 3 BUCKLEY AVE
+- City: BOSTON
+- State: MA
+- ZIP: 02130
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.322584
+- Longitude: -71.103631
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025120500
+- Tract 2010: 25025120500
+- Tract 2000: 25025120500
+- Tract 1990: 25025120500
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 2
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARKLANDS AT CECILTON (THE) (MDA20156066)
+
+- HUD ID: MDA20156066
+- HUD ID before: 
+- Project: PARKLANDS AT CECILTON (THE)
+- Address: 203 W MAIN ST
+- City: CECILTON
+- State: MD
+- ZIP: 21913
+- ZIP extension: 
+- State project ID: MD-13-06001
+- Latitude: 39.404583
+- Longitude: -75.871919
+- County FIPS: 24015
+- County from: 2020
+- Tract 2020: 24015030100
+- Tract 2010: 24015030100
+- Tract 2000: 24015030100
+- Tract 1990: 24015030100
+- Place 2020: 14325
+- Place 2010: 14325
+- Place 2000: 14325
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

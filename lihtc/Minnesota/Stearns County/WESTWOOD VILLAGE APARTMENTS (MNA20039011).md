@@ -1,0 +1,85 @@
+# Project: WESTWOOD VILLAGE APARTMENTS (MNA20039011)
+
+- HUD ID: MNA20039011
+- HUD ID before: 
+- Project: WESTWOOD VILLAGE APARTMENTS
+- Address: 770 SAVANNA AVE
+- City: SAINT CLOUD
+- State: MN
+- ZIP: 56301
+- ZIP extension: 
+- State project ID: D3093
+- Latitude: 45.565798
+- Longitude: -94.253533
+- County FIPS: 27145
+- County from: 2020
+- Tract 2020: 27145001002
+- Tract 2010: 27145001001
+- Tract 2000: 27145001001
+- Tract 1990: 27145001001
+- Place 2020: 56896
+- Place 2010: 56896
+- Place 2000: 56896
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

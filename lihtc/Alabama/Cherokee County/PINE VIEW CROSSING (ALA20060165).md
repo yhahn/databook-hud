@@ -1,0 +1,85 @@
+# Project: PINE VIEW CROSSING (ALA20060165)
+
+- HUD ID: ALA20060165
+- HUD ID before: 
+- Project: PINE VIEW CROSSING
+- Address: 1052 BAY SPRINGS RD
+- City: CENTRE
+- State: AL
+- ZIP: 35960
+- ZIP extension: 
+- State project ID: AL-06-0016
+- Latitude: 34.162632
+- Longitude: -85.695815
+- County FIPS: 01019
+- County from: 2020
+- Tract 2020: 01019956000
+- Tract 2010: 01019956000
+- Tract 2000: 01019956000
+- Tract 1990: 01019956000
+- Place 2020: 13648
+- Place 2010: 13648
+- Place 2000: 13648
+- Place 1990: 0340
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 455446
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 52
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1580300
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2007115.
+- Record status: Existing, unchanged

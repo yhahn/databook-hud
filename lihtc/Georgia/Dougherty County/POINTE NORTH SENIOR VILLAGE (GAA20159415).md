@@ -1,0 +1,85 @@
+# Project: POINTE NORTH SENIOR VILLAGE (GAA20159415)
+
+- HUD ID: GAA20159415
+- HUD ID before: 
+- Project: POINTE NORTH SENIOR VILLAGE
+- Address: 2703 POINTE NORTH BLVD
+- City: ALBANY
+- State: GA
+- ZIP: 31721
+- ZIP extension: 
+- State project ID: 2013-034
+- Latitude: 31.617539
+- Longitude: -84.22651
+- County FIPS: 13095
+- County from: 2020
+- Tract 2020: 13095010401
+- Tract 2010: 13095010401
+- Tract 2000: 13095010401
+- Tract 1990: 
+- Place 2020: 01052
+- Place 2010: 01052
+- Place 2000: 01052
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

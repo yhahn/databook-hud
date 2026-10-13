@@ -1,0 +1,85 @@
+# Project: RIDGEWOOD TOWERS (ILA20120900)
+
+- HUD ID: ILA20120900
+- HUD ID before: 
+- Project: RIDGEWOOD TOWERS
+- Address: 545 AVE OF THE CITIES
+- City: EAST MOLINE
+- State: IL
+- ZIP: 61244
+- ZIP extension: 
+- State project ID: 1056911
+- Latitude: 41.489879
+- Longitude: -90.449912
+- County FIPS: 17161
+- County from: 2020
+- Tract 2020: 17161020900
+- Tract 2010: 17161020900
+- Tract 2000: 17161020900
+- Tract 1990: 17161020900
+- Place 2020: 22073
+- Place 2010: 22073
+- Place 2000: 22073
+- Place 1990: 1640
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 480049
+- Units: 140
+- Low-income units: 140
+- Units reported: 140
+- Low-income reported: 140
+- Efficiencies: 0
+- 1-bedroom units: 140
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

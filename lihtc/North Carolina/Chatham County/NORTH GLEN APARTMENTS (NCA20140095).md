@@ -1,0 +1,85 @@
+# Project: NORTH GLEN APARTMENTS (NCA20140095)
+
+- HUD ID: NCA20140095
+- HUD ID before: 
+- Project: NORTH GLEN APARTMENTS
+- Address: 1221 WEST 11TH STREET BOX 33
+- City: SILER CITY
+- State: NC
+- ZIP: 27344
+- ZIP extension: 
+- State project ID: 9133934
+- Latitude: 35.733615
+- Longitude: -79.477421
+- County FIPS: 37037
+- County from: 2020
+- Tract 2020: 37037020401
+- Tract 2010: 37037020401
+- Tract 2000: 37037020400
+- Tract 1990: 37037020400
+- Place 2020: 61860
+- Place 2010: 61860
+- Place 2000: 61860
+- Place 1990: 2275
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 168854
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

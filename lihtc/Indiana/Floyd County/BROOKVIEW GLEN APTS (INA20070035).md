@@ -1,0 +1,85 @@
+# Project: BROOKVIEW GLEN APTS (INA20070035)
+
+- HUD ID: INA20070035
+- HUD ID before: 
+- Project: BROOKVIEW GLEN APTS
+- Address: 1810 GRAYBROOK LN
+- City: NEW ALBANY
+- State: IN
+- ZIP: 47150
+- ZIP extension: 
+- State project ID: IN-05-00400
+- Latitude: 38.303076
+- Longitude: -85.8224
+- County FIPS: 18043
+- County from: 2020
+- Tract 2020: 18043070801
+- Tract 2010: 18043070801
+- Tract 2000: 18043070801
+- Tract 1990: 18043070801
+- Place 2020: 52326
+- Place 2010: 52326
+- Place 2000: 52326
+- Place 1990: 1760
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 613800
+- Units: 66
+- Low-income units: 63
+- Units reported: 66
+- Low-income reported: 63
+- Efficiencies: 10
+- 1-bedroom units: 26
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

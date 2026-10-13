@@ -1,0 +1,85 @@
+# Project: WEST WING APTS (NEA20060080)
+
+- HUD ID: NEA20060080
+- HUD ID before: 
+- Project: WEST WING APTS
+- Address: 1802 1/2 17TH AVE
+- City: SCOTTSBLUFF
+- State: NE
+- ZIP: 69361
+- ZIP extension: 
+- State project ID: 7-0636
+- Latitude: 41.864664
+- Longitude: -103.642101
+- County FIPS: 31157
+- County from: 2020
+- Tract 2020: 31157953700
+- Tract 2010: 31157953700
+- Tract 2000: 31157953700
+- Tract 1990: 31157953700
+- Place 2020: 44245
+- Place 2010: 44245
+- Place 2000: 44245
+- Place 1990: 2185
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 110033
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

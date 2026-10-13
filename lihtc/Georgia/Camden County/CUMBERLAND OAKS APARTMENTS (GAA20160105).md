@@ -1,0 +1,85 @@
+# Project: CUMBERLAND OAKS APARTMENTS (GAA20160105)
+
+- HUD ID: GAA20160105
+- HUD ID before: 
+- Project: CUMBERLAND OAKS APARTMENTS
+- Address: 100 MARY POWELL DR
+- City: SAINT MARYS
+- State: GA
+- ZIP: 31558
+- ZIP extension: 9020
+- State project ID: 2015-507
+- Latitude: 30.757696
+- Longitude: -81.57031
+- County FIPS: 13039
+- County from: 2020
+- Tract 2020: 13039010604
+- Tract 2010: 13039010601
+- Tract 2000: 13039010600
+- Tract 1990: 
+- Place 2020: 67984
+- Place 2010: 67984
+- Place 2000: 67984
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 154
+- Low-income units: 154
+- Units reported: 154
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 90
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

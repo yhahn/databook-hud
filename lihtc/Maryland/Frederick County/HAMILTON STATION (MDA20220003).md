@@ -1,0 +1,85 @@
+# Project: HAMILTON STATION (MDA20220003)
+
+- HUD ID: MDA20220003
+- HUD ID before: 
+- Project: HAMILTON STATION
+- Address: 33 HAMILTON AVENUE
+- City: FREDERICK
+- State: MD
+- ZIP: 21230
+- ZIP extension: 
+- State project ID: MD-21-60001-5
+- Latitude: 39.409642
+- Longitude: -77.397702
+- County FIPS: 24021
+- County from: 2020
+- Tract 2020: 24021772200
+- Tract 2010: 24021772200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 30325
+- Place 2010: 30325
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1226157
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 14
+- 2-bedroom units: 38
+- 3-bedroom units: 28
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FREEDOMS PATH AT AUGUSTA (GAA20175171)
+
+- HUD ID: GAA20175171
+- HUD ID before: 
+- Project: FREEDOMS PATH AT AUGUSTA
+- Address: 1798 MARYLAND AVE
+- City: AUGUSTA
+- State: GA
+- ZIP: 30904
+- ZIP extension: 5365
+- State project ID: 2014-049
+- Latitude: 33.465956
+- Longitude: -82.028873
+- County FIPS: 13245
+- County from: 2020
+- Tract 2020: 13245001200
+- Tract 2010: 13245001200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04204
+- Place 2010: 04204
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 
+- Efficiencies: 28
+- 1-bedroom units: 50
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

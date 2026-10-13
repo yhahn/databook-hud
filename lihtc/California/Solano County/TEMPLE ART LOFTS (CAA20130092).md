@@ -1,0 +1,85 @@
+# Project: TEMPLE ART LOFTS (CAA20130092)
+
+- HUD ID: CAA20130092
+- HUD ID before: 
+- Project: TEMPLE ART LOFTS
+- Address: 715 MARIN ST
+- City: VALLEJO
+- State: CA
+- ZIP: 94590
+- ZIP extension: 
+- State project ID: CA-11-861
+- Latitude: 38.102529
+- Longitude: -122.256816
+- County FIPS: 06095
+- County from: 2020
+- Tract 2020: 06095250900
+- Tract 2010: 06095250900
+- Tract 2000: 06095250900
+- Tract 1990: 06095250900
+- Place 2020: 81666
+- Place 2010: 81666
+- Place 2000: 81666
+- Place 1990: 3000
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 351267
+- Units: 29
+- Low-income units: 28
+- Units reported: 29
+- Low-income reported: 28
+- Efficiencies: 9
+- 1-bedroom units: 11
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 495734
+- CDBG: Yes
+- CDBG amount: 400000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

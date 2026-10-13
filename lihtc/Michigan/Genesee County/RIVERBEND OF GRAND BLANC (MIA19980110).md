@@ -1,0 +1,85 @@
+# Project: RIVERBEND OF GRAND BLANC (MIA19980110)
+
+- HUD ID: MIA19980110
+- HUD ID before: 
+- Project: RIVERBEND OF GRAND BLANC
+- Address: 5216 PERRY RD
+- City: GRAND BLANC
+- State: MI
+- ZIP: 48439
+- ZIP extension: 
+- State project ID: MI-2134
+- Latitude: 42.928283
+- Longitude: -83.604651
+- County FIPS: 26049
+- County from: 2020
+- Tract 2020: 26049011209
+- Tract 2010: 26049011209
+- Tract 2000: 26049011209
+- Tract 1990: 26049011203
+- Place 2020: 33280
+- Place 2010: 99999
+- Place 2000: 33280
+- Place 1990: 1070
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 81
+- Units reported: 81
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 77
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GOLFVIEW APTS.
+- Record status: Existing, unchanged

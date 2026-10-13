@@ -1,0 +1,85 @@
+# Project: ROGERS COMMONS (ARA20070783)
+
+- HUD ID: ARA20070783
+- HUD ID before: 
+- Project: ROGERS COMMONS
+- Address: 2200 N 12TH ST
+- City: ROGERS
+- State: AR
+- ZIP: 72756
+- ZIP extension: 
+- State project ID: AR-07-02-001
+- Latitude: 36.353227
+- Longitude: -94.130039
+- County FIPS: 05007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05007020301
+- Tract 2000: 05007020301
+- Tract 1990: 05007020201
+- Place 2020: 
+- Place 2010: 60410
+- Place 2000: 60410
+- Place 1990: 1745
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 309907
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2007043.
+- Record status: Existing, unchanged

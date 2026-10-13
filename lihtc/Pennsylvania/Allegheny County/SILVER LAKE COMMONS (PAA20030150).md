@@ -1,0 +1,85 @@
+# Project: SILVER LAKE COMMONS (PAA20030150)
+
+- HUD ID: PAA20030150
+- HUD ID before: 
+- Project: SILVER LAKE COMMONS
+- Address: 6935 FRANKSTOWN AVE
+- City: PITTSBURGH
+- State: PA
+- ZIP: 15208
+- ZIP extension: 
+- State project ID: TC20010419
+- Latitude: 40.458321
+- Longitude: -79.903343
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003130700
+- Tract 2010: 42003120700
+- Tract 2000: 42003120700
+- Tract 1990: 42003120700
+- Place 2020: 61000
+- Place 2010: 61000
+- Place 2000: 61000
+- Place 1990: 7234
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 551427
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 75
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 150000
+- CDBG: Yes
+- CDBG amount: 1750000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

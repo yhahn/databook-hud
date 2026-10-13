@@ -1,0 +1,85 @@
+# Project: HERITAGE WOODS OF PLAINFIELD (ILA20110918)
+
+- HUD ID: ILA20110918
+- HUD ID before: 
+- Project: HERITAGE WOODS OF PLAINFIELD
+- Address: 1437 N VAN DYKE RD
+- City: PLAINFIELD
+- State: IL
+- ZIP: 60544
+- ZIP extension: 
+- State project ID: 1033710
+- Latitude: 41.6145
+- Longitude: -88.235
+- County FIPS: 17197
+- County from: 2020
+- Tract 2020: 17197880411
+- Tract 2010: 17197880404
+- Tract 2000: 17197880404
+- Tract 1990: 17197880404
+- Place 2020: 07133
+- Place 2010: 60287
+- Place 2000: 60287
+- Place 1990: 4675
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 371465
+- Units: 108
+- Low-income units: 87
+- Units reported: 108
+- Low-income reported: 87
+- Efficiencies: 54
+- 1-bedroom units: 54
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

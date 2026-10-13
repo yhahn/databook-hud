@@ -1,0 +1,85 @@
+# Project: SOUTHEAST PROPERTIES (MOA19980240)
+
+- HUD ID: MOA19980240
+- HUD ID before: 
+- Project: SOUTHEAST PROPERTIES
+- Address: 812 S BENTON ST
+- City: CAPE GIRARDEAU
+- State: MO
+- ZIP: 63703
+- ZIP extension: 
+- State project ID: 96034
+- Latitude: 37.293034
+- Longitude: -89.532426
+- County FIPS: 29031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29031881400
+- Tract 2000: 29031981400
+- Tract 1990: 29031981400
+- Place 2020: 
+- Place 2010: 11242
+- Place 2000: 11242
+- Place 1990: 0695
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

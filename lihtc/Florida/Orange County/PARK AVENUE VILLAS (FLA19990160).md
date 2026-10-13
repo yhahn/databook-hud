@@ -1,0 +1,85 @@
+# Project: PARK AVENUE VILLAS (FLA19990160)
+
+- HUD ID: FLA19990160
+- HUD ID before: 
+- Project: PARK AVENUE VILLAS
+- Address: 48 S PARK AVE
+- City: WINTER GARDEN
+- State: FL
+- ZIP: 34787
+- ZIP extension: 
+- State project ID: 598
+- Latitude: 28.56336
+- Longitude: -81.592055
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095017301
+- Tract 2010: 12095017300
+- Tract 2000: 12095017300
+- Tract 1990: 12095017300
+- Place 2020: 78250
+- Place 2010: 78250
+- Place 2000: 78250
+- Place 1990: 2280
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 118
+- Units reported: 120
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

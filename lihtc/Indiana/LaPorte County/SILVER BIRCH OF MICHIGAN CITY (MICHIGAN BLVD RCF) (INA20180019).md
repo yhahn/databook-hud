@@ -1,0 +1,85 @@
+# Project: SILVER BIRCH OF MICHIGAN CITY (MICHIGAN BLVD RCF) (INA20180019)
+
+- HUD ID: INA20180019
+- HUD ID before: 
+- Project: SILVER BIRCH OF MICHIGAN CITY (MICHIGAN BLVD RCF)
+- Address: 4400 E MICHIGCAN BLVD
+- City: MICHIGAN CITY
+- State: IN
+- ZIP: 46360
+- ZIP extension: 
+- State project ID: IN-16-02500B
+- Latitude: 41.7061
+- Longitude: -86.8795
+- County FIPS: 18091
+- County from: 2020
+- Tract 2020: 18091041300
+- Tract 2010: 18091040700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 48798
+- Place 2010: 48798
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 17000000
+- Units: 119
+- Low-income units: 119
+- Units reported: 119
+- Low-income reported: 119
+- Efficiencies: 35
+- 1-bedroom units: 84
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

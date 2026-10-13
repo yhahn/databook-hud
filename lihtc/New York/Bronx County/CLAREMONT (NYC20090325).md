@@ -1,0 +1,85 @@
+# Project: CLAREMONT (NYC20090325)
+
+- HUD ID: NYC20090325
+- HUD ID before: 
+- Project: CLAREMONT
+- Address: 1421 COLLEGE AVE
+- City: BRONX
+- State: NY
+- ZIP: 10456
+- ZIP extension: 
+- State project ID: NY-08-048
+- Latitude: 40.838138
+- Longitude: -73.910464
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005022500
+- Tract 2010: 36005022500
+- Tract 2000: 36005022500
+- Tract 1990: 36005022500
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 867789
+- Units: 115
+- Low-income units: 114
+- Units reported: 115
+- Low-income reported: 114
+- Efficiencies: 85
+- 1-bedroom units: 16
+- 2-bedroom units: 8
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 15000000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: SUBSTANCE ABUSE
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

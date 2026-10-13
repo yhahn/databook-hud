@@ -1,0 +1,85 @@
+# Project: ARTISAN AT PORT ISABEL (TXA20120835)
+
+- HUD ID: TXA20120835
+- HUD ID before: 
+- Project: ARTISAN AT PORT ISABEL
+- Address: 106 PORT RD
+- City: PORT ISABEL
+- State: TX
+- ZIP: 78578
+- ZIP extension: 
+- State project ID: TX4724
+- Latitude: 26.069537
+- Longitude: -97.219201
+- County FIPS: 48061
+- County from: 2020
+- Tract 2020: 48061012304
+- Tract 2010: 48061012304
+- Tract 2000: 48061012304
+- Tract 1990: 48061012301
+- Place 2020: 58892
+- Place 2010: 58892
+- Place 2000: 58892
+- Place 1990: 3340
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 73
+- Low-income units: 73
+- Units reported: 73
+- Low-income reported: 73
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000686.
+- Record status: Existing, unchanged

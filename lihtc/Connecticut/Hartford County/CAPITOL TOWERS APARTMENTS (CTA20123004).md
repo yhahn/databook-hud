@@ -1,0 +1,85 @@
+# Project: CAPITOL TOWERS APARTMENTS (CTA20123004)
+
+- HUD ID: CTA20123004
+- HUD ID before: 
+- Project: CAPITOL TOWERS APARTMENTS
+- Address: 470 BROAD STREET
+- City: HARTFORD
+- State: CT
+- ZIP: 06106
+- ZIP extension: 
+- State project ID: CT-11-022
+- Latitude: 41.7633
+- Longitude: -72.686435
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003503000
+- Tract 2010: 09003503000
+- Tract 2000: 09003503000
+- Tract 1990: 
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 256961
+- Units: 144
+- Low-income units: 133
+- Units reported: 144
+- Low-income reported: 133
+- Efficiencies: 
+- 1-bedroom units: 136
+- 2-bedroom units: 8
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WILLIAM A PASSAVANT (WIA20110519)
+
+- HUD ID: WIA20110519
+- HUD ID before: 
+- Project: WILLIAM A PASSAVANT
+- Address: 2195 W STATE ST
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53233
+- ZIP extension: 
+- State project ID: 5431
+- Latitude: 43.043091
+- Longitude: -87.940705
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079014800
+- Tract 2010: 55079014800
+- Tract 2000: 55079014800
+- Tract 1990: 55079014800
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 890758
+- Units: 51
+- Low-income units: 5
+- Units reported: 51
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FORREST PLACE APARTMENTS (WVA20231013)
+
+- HUD ID: WVA20231013
+- HUD ID before: 
+- Project: FORREST PLACE APARTMENTS
+- Address: 332 ROUTE 52, NUMBER 34
+- City: KERMIT
+- State: WV
+- ZIP: 25674
+- ZIP extension: 
+- State project ID: WV-21-23
+- Latitude: 37.9216
+- Longitude: -82.3906
+- County FIPS: 54099
+- County from: 2020
+- Tract 2020: 54099021000
+- Tract 2010: 54099021000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 540600
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 
+- 1-bedroom units: 15
+- 2-bedroom units: 24
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

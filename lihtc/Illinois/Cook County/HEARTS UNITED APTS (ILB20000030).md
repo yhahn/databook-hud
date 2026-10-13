@@ -1,0 +1,85 @@
+# Project: HEARTS UNITED APTS (ILB20000030)
+
+- HUD ID: ILB20000030
+- HUD ID before: 
+- Project: HEARTS UNITED APTS
+- Address: 746 E BOWEN AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60653
+- ZIP extension: 
+- State project ID: IL-01-02057
+- Latitude: 41.819658
+- Longitude: -87.607674
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031380100
+- Tract 2010: 17031380100
+- Tract 2000: 17031380100
+- Tract 1990: 17031380100
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 116
+- Low-income units: 87
+- Units reported: 116
+- Low-income reported: 87
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 46
+- 3-bedroom units: 18
+- 4-bedroom units: 17
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

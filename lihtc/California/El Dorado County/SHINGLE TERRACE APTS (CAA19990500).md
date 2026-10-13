@@ -1,0 +1,85 @@
+# Project: SHINGLE TERRACE APTS (CAA19990500)
+
+- HUD ID: CAA19990500
+- HUD ID before: 
+- Project: SHINGLE TERRACE APTS
+- Address: 3840 MARKET CT
+- City: SHINGLE SPRINGS
+- State: CA
+- ZIP: 95682
+- ZIP extension: 
+- State project ID: CA-97-604
+- Latitude: 38.654465
+- Longitude: -120.948864
+- County FIPS: 06017
+- County from: 2020
+- Tract 2020: 06017030804
+- Tract 2010: 06017030804
+- Tract 2000: 06017030804
+- Tract 1990: 06017030804
+- Place 2020: 71554
+- Place 2010: 71554
+- Place 2000: 10256
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 529336
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 32
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

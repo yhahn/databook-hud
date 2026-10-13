@@ -1,0 +1,85 @@
+# Project: CAPTIVA COVE (FLA20180013)
+
+- HUD ID: FLA20180013
+- HUD ID before: 
+- Project: CAPTIVA COVE
+- Address: 1201 S. DIXIE HIGHWAY WEST
+- City: POMPANO BEACH
+- State: FL
+- ZIP: 33060
+- ZIP extension: 
+- State project ID: 2366
+- Latitude: 26.21506
+- Longitude: -80.132185
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011030803
+- Tract 2010: 12011030801
+- Tract 2000: 12011030801
+- Tract 1990: 12011030801
+- Place 2020: 58050
+- Place 2010: 58050
+- Place 2000: 58050
+- Place 1990: 1780
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1423137
+- Units: 264
+- Low-income units: 264
+- Units reported: 264
+- Low-income reported: 264
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 132
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 5000000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

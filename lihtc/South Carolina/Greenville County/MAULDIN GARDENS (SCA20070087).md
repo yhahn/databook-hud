@@ -1,0 +1,85 @@
+# Project: MAULDIN GARDENS (SCA20070087)
+
+- HUD ID: SCA20070087
+- HUD ID before: 
+- Project: MAULDIN GARDENS
+- Address: 330 MILLER RD
+- City: MAULDIN
+- State: SC
+- ZIP: 29662
+- ZIP extension: 
+- State project ID: SC-06-007
+- Latitude: 34.791159
+- Longitude: -82.304857
+- County FIPS: 45045
+- County from: 2020
+- Tract 2020: 45045002903
+- Tract 2010: 45045002903
+- Tract 2000: 45045002903
+- Tract 1990: 45045002903
+- Place 2020: 45115
+- Place 2010: 45115
+- Place 2000: 45115
+- Place 1990: 0900
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 257284
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 16
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

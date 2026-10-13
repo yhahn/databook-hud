@@ -1,0 +1,85 @@
+# Project: VALLEYVIEW ESTATES (MOA20000230)
+
+- HUD ID: MOA20000230
+- HUD ID before: 
+- Project: VALLEYVIEW ESTATES
+- Address: 117 ESTATE LN
+- City: BRANSON WEST
+- State: MO
+- ZIP: 65737
+- ZIP extension: 
+- State project ID: 99-051
+- Latitude: 36.713998
+- Longitude: -93.377237
+- County FIPS: 29209
+- County from: 2020
+- Tract 2020: 29209090605
+- Tract 2010: 29209090602
+- Tract 2000: 29209990300
+- Tract 1990: 29209990300
+- Place 2020: 07989
+- Place 2010: 07989
+- Place 2000: 07966
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

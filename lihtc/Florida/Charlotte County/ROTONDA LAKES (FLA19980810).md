@@ -1,0 +1,85 @@
+# Project: ROTONDA LAKES (FLA19980810)
+
+- HUD ID: FLA19980810
+- HUD ID before: 
+- Project: ROTONDA LAKES
+- Address: 101 ROTONDA LAKES CIR
+- City: ROTONDA WEST
+- State: FL
+- ZIP: 33947
+- ZIP extension: 
+- State project ID: 718
+- Latitude: 26.890849
+- Longitude: -82.300972
+- County FIPS: 12015
+- County from: 2020
+- Tract 2020: 12015030505
+- Tract 2010: 12015030502
+- Tract 2000: 12015030500
+- Tract 1990: 12015030500
+- Place 2020: 61937
+- Place 2010: 61937
+- Place 2000: 61937
+- Place 1990: 1862
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 112
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1998145. AKA ROTONDA WEST.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SAGEBRUSH APTS (TXA00000518)
+
+- HUD ID: TXA00000518
+- HUD ID before: 
+- Project: SAGEBRUSH APTS
+- Address: 218 LYNN GAVIT RD
+- City: BRADY
+- State: TX
+- ZIP: 76825
+- ZIP extension: 
+- State project ID: TX0313
+- Latitude: 31.108731
+- Longitude: -99.336224
+- County FIPS: 48307
+- County from: 2020
+- Tract 2020: 48307950300
+- Tract 2010: 48307950300
+- Tract 2000: 48307950300
+- Tract 1990: 48307950300
+- Place 2020: 09916
+- Place 2010: 09916
+- Place 2000: 09916
+- Place 1990: 0535
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

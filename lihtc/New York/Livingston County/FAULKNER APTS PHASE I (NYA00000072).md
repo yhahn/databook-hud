@@ -1,0 +1,85 @@
+# Project: FAULKNER APTS PHASE I (NYA00000072)
+
+- HUD ID: NYA00000072
+- HUD ID before: 
+- Project: FAULKNER APTS PHASE I
+- Address: 236 MAIN ST
+- City: DANSVILLE
+- State: NY
+- ZIP: 14437
+- ZIP extension: 
+- State project ID: NY-90-0393_00129
+- Latitude: 42.565117
+- Longitude: -77.699789
+- County FIPS: 36051
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36051031400
+- Tract 2000: 36051031400
+- Tract 1990: 36051031400
+- Place 2020: 
+- Place 2010: 19664
+- Place 2000: 19664
+- Place 1990: 0865
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 2
+- 1-bedroom units: 21
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001265.
+- Record status: Existing, unchanged

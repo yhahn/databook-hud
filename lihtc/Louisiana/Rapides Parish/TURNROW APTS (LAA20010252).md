@@ -1,0 +1,85 @@
+# Project: TURNROW APTS (LAA20010252)
+
+- HUD ID: LAA20010252
+- HUD ID before: 
+- Project: TURNROW APTS
+- Address: 2814 HWY 71 S
+- City: LECOMPTE
+- State: LA
+- ZIP: 71346
+- ZIP extension: 
+- State project ID: LA-20-008
+- Latitude: 31.07765
+- Longitude: -92.391786
+- County FIPS: 22079
+- County from: 2020
+- Tract 2020: 22079013300
+- Tract 2010: 22079013300
+- Tract 2000: 22079013300
+- Tract 1990: 22079013300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 14660
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA2001250. AKA TURNROW APTS II.
+- Record status: Existing, unchanged

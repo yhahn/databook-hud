@@ -1,0 +1,85 @@
+# Project: HARFORD COMMONS (MDA19950911)
+
+- HUD ID: MDA19950911
+- HUD ID before: 
+- Project: HARFORD COMMONS
+- Address: 1508 HARFORD AVE
+- City: BALTIMORE
+- State: MD
+- ZIP: 21202
+- ZIP extension: 
+- State project ID: MD93-38
+- Latitude: 39.307903
+- Longitude: -76.600902
+- County FIPS: 24510
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24510090900
+- Tract 2000: 24510090900
+- Tract 1990: 24510090900
+- Place 2020: 
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0025
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 5
+- 1-bedroom units: 25
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA0000205, MDA1995105.
+- Record status: Existing, unchanged

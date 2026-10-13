@@ -1,0 +1,85 @@
+# Project: MUIRWOOD GREENE LTD (WVA20040040)
+
+- HUD ID: WVA20040040
+- HUD ID before: 
+- Project: MUIRWOOD GREENE LTD
+- Address: HC 64
+- City: ROMNEY
+- State: WV
+- ZIP: 26757
+- ZIP extension: 
+- State project ID: WV-02-242
+- Latitude: 39.3667
+- Longitude: -78.7711
+- County FIPS: 54027
+- County from: 2020
+- Tract 2020: 54027968402
+- Tract 2010: 54027968400
+- Tract 2000: 54027968500
+- Tract 1990: 54027968500
+- Place 2020: 70084
+- Place 2010: 70084
+- Place 2000: 70084
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 22
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MUIRWOOD GREENE.
+- Record status: Existing, unchanged

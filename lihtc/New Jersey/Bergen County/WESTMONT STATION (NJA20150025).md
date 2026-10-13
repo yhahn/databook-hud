@@ -1,0 +1,85 @@
+# Project: WESTMONT STATION (NJA20150025)
+
+- HUD ID: NJA20150025
+- HUD ID before: 
+- Project: WESTMONT STATION
+- Address: 1 PASSAIC STREET
+- City: WOOD-RIDGE
+- State: NJ
+- ZIP: 07075
+- ZIP extension: 
+- State project ID: 2869
+- Latitude: 40.865025
+- Longitude: -74.093466
+- County FIPS: 34003
+- County from: 2020
+- Tract 2020: 34003030300
+- Tract 2010: 34003030300
+- Tract 2000: 34003030300
+- Tract 1990: 34003030300
+- Place 2020: 41100
+- Place 2010: 41100
+- Place 2000: 41100
+- Place 1990: 2485
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1750000
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000094, NJA0000018.
+- Record status: Existing, unchanged

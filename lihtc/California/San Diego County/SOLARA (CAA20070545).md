@@ -1,0 +1,85 @@
+# Project: SOLARA (CAA20070545)
+
+- HUD ID: CAA20070545
+- HUD ID before: 
+- Project: SOLARA
+- Address: 13414 COMMUNITY RD
+- City: POWAY
+- State: CA
+- ZIP: 92064
+- ZIP extension: 
+- State project ID: CA-05-064
+- Latitude: 32.959591
+- Longitude: -117.040853
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073017041
+- Tract 2010: 06073017041
+- Tract 2000: 06073017041
+- Tract 1990: 06073017008
+- Place 2020: 58520
+- Place 2010: 58520
+- Place 2000: 58520
+- Place 1990: 2260
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1083296
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 30
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

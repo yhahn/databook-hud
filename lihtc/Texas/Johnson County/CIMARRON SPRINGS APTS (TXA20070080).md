@@ -1,0 +1,85 @@
+# Project: CIMARRON SPRINGS APTS (TXA20070080)
+
+- HUD ID: TXA20070080
+- HUD ID before: 
+- Project: CIMARRON SPRINGS APTS
+- Address: 1302 E KILPATRICK ST
+- City: CLEBURNE
+- State: TX
+- ZIP: 76031
+- ZIP extension: 
+- State project ID: TX4244
+- Latitude: 32.37517
+- Longitude: -97.383927
+- County FIPS: 48251
+- County from: 2020
+- Tract 2020: 48251130900
+- Tract 2010: 48251130900
+- Tract 2000: 48251130900
+- Tract 1990: 48251130900
+- Place 2020: 15364
+- Place 2010: 15364
+- Place 2000: 15364
+- Place 1990: 0860
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1185000
+- Units: 156
+- Low-income units: 149
+- Units reported: 156
+- Low-income reported: 149
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 68
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

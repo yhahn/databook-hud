@@ -1,0 +1,85 @@
+# Project: APPLE VILLAGE APARTMENTS (GAA20134002)
+
+- HUD ID: GAA20134002
+- HUD ID before: 
+- Project: APPLE VILLAGE APARTMENTS
+- Address: 116 NORTH 5TH STREET
+- City: GLENWOOD
+- State: GA
+- ZIP: 30428
+- ZIP extension: 3744
+- State project ID: 2011-521
+- Latitude: 32.186906
+- Longitude: -82.682864
+- County FIPS: 13309
+- County from: 2020
+- Tract 2020: 13309780100
+- Tract 2010: 13309780100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 33392
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 57169
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

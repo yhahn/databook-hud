@@ -1,0 +1,85 @@
+# Project: RAMSEY RUN (GAA20140997)
+
+- HUD ID: GAA20140997
+- HUD ID before: 
+- Project: RAMSEY RUN
+- Address: 100 RAMSEY LANE
+- City: ROCKMART
+- State: GA
+- ZIP: 30153
+- ZIP extension: 
+- State project ID: GA-12-054
+- Latitude: 34.008177
+- Longitude: -85.03569
+- County FIPS: 13233
+- County from: 2020
+- Tract 2020: 13233010700
+- Tract 2010: 13233010700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 66276
+- Place 2010: 66276
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 572618
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000356.
+- Record status: Existing, unchanged

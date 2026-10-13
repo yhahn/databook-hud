@@ -1,0 +1,85 @@
+# Project: WEST STREET APTS (OKA20110507)
+
+- HUD ID: OKA20110507
+- HUD ID before: 
+- Project: WEST STREET APTS
+- Address: 802 W CHOCTAW AVE
+- City: MCALESTER
+- State: OK
+- ZIP: 74501
+- ZIP extension: 
+- State project ID: 090101
+- Latitude: 34.934631
+- Longitude: -95.781978
+- County FIPS: 40121
+- County from: 2020
+- Tract 2020: 40121486400
+- Tract 2010: 40121486400
+- Tract 2000: 40121986200
+- Tract 1990: 40121986200
+- Place 2020: 44800
+- Place 2010: 99999
+- Place 2000: 44800
+- Place 1990: 1490
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 52
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OKA2011110, OKA0000063. AKA WESTRIDGE.
+- Record status: Existing, unchanged

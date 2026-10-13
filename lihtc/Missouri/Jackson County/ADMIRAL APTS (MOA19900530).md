@@ -1,0 +1,85 @@
+# Project: ADMIRAL APTS (MOA19900530)
+
+- HUD ID: MOA19900530
+- HUD ID before: 
+- Project: ADMIRAL APTS
+- Address: 1310 ADMIRAL BLVD
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64106
+- ZIP extension: 
+- State project ID: 900082
+- Latitude: 39.105361
+- Longitude: -94.560744
+- County FIPS: 29095
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29095015400
+- Tract 2000: 29095001500
+- Tract 1990: 29095001500
+- Place 2020: 
+- Place 2010: 38000
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 28
+- Units reported: 34
+- Low-income reported: 28
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ADMIRAL BLVD.
+- Record status: Existing, unchanged

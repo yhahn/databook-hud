@@ -1,0 +1,85 @@
+# Project: CAMBRIDGE COURT APTS (GREENVILLE) (MIA20010045)
+
+- HUD ID: MIA20010045
+- HUD ID before: 
+- Project: CAMBRIDGE COURT APTS (GREENVILLE)
+- Address: 305B S WALNUT ST
+- City: GREENVILLE
+- State: MI
+- ZIP: 48838
+- ZIP extension: 
+- State project ID: MI-1706
+- Latitude: 43.177825
+- Longitude: -85.242556
+- County FIPS: 26117
+- County from: 2020
+- Tract 2020: 26117971300
+- Tract 2010: 26117971300
+- Tract 2000: 26117981300
+- Tract 1990: 26117981300
+- Place 2020: 35100
+- Place 2010: 35100
+- Place 2000: 35100
+- Place 1990: 1110
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 20
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TRIBECA PARK (NYB19990025)
+
+- HUD ID: NYB19990025
+- HUD ID before: 
+- Project: TRIBECA PARK
+- Address: 400 CHAMBERS ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10282
+- ZIP extension: 
+- State project ID: NY-97-1395
+- Latitude: 40.717953
+- Longitude: -74.015055
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061031703
+- Tract 2010: 36061031703
+- Tract 2000: 36061031701
+- Tract 1990: 36061031701
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 396
+- Low-income units: 81
+- Units reported: 396
+- Low-income reported: 81
+- Efficiencies: 52
+- 1-bedroom units: 241
+- 2-bedroom units: 103
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

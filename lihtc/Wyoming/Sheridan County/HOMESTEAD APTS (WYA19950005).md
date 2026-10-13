@@ -1,0 +1,85 @@
+# Project: HOMESTEAD APTS (WYA19950005)
+
+- HUD ID: WYA19950005
+- HUD ID before: 
+- Project: HOMESTEAD APTS
+- Address: 1100 AVOCA CT
+- City: SHERIDAN
+- State: WY
+- ZIP: 82801
+- ZIP extension: 
+- State project ID: WY-94-001
+- Latitude: 44.786168
+- Longitude: -106.946212
+- County FIPS: 56033
+- County from: 2020
+- Tract 2020: 56033000100
+- Tract 2010: 56033000100
+- Tract 2000: 56033000100
+- Tract 1990: 56033953500
+- Place 2020: 69845
+- Place 2010: 69845
+- Place 2000: 69845
+- Place 1990: 0400
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 38796
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

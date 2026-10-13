@@ -1,0 +1,85 @@
+# Project: ORCHARD RIDGE AT JACKSON VILLAGE II (VAA20191021)
+
+- HUD ID: VAA20191021
+- HUD ID before: 
+- Project: ORCHARD RIDGE AT JACKSON VILLAGE II
+- Address: 9401 JEFFERSON DAVIS HIGHWAY
+- City: FREDERICKSBURG
+- State: VA
+- ZIP: 22407
+- ZIP extension: 
+- State project ID: 9889
+- Latitude: 38.216429
+- Longitude: -77.507225
+- County FIPS: 51177
+- County from: 2020
+- Tract 2020: 51177020313
+- Tract 2010: 51177020306
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 394010
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 
+- 1-bedroom units: 18
+- 2-bedroom units: 55
+- 3-bedroom units: 3
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

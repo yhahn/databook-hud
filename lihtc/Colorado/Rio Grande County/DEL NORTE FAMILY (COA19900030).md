@@ -1,0 +1,85 @@
+# Project: DEL NORTE FAMILY (COA19900030)
+
+- HUD ID: COA19900030
+- HUD ID before: 
+- Project: DEL NORTE FAMILY
+- Address: 915 SPRUCE ST
+- City: DEL NORTE
+- State: CO
+- ZIP: 81132
+- ZIP extension: 
+- State project ID: CO-88-001
+- Latitude: 37.674247
+- Longitude: -106.354123
+- County FIPS: 08105
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 08105976800
+- Tract 2000: 08105976800
+- Tract 1990: 08105976800
+- Place 2020: 
+- Place 2010: 19795
+- Place 2000: 19795
+- Place 1990: 0310
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

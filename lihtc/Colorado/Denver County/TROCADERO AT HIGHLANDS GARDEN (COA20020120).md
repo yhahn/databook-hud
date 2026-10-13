@@ -1,0 +1,85 @@
+# Project: TROCADERO AT HIGHLANDS GARDEN (COA20020120)
+
+- HUD ID: COA20020120
+- HUD ID before: 
+- Project: TROCADERO AT HIGHLANDS GARDEN
+- Address: 3707 WINONA CT
+- City: DENVER
+- State: CO
+- ZIP: 80212
+- ZIP extension: 
+- State project ID: 2001506
+- Latitude: 39.768629
+- Longitude: -105.047641
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031000302
+- Tract 2010: 08031000302
+- Tract 2000: 08031000302
+- Tract 1990: 08031000302
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 20000
+- Place 1990: 0320
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 74
+- Low-income units: 20
+- Units reported: 74
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 39
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: DUDLEY VILLAGE SOUTH (MAB20080050)
+
+- HUD ID: MAB20080050
+- HUD ID before: 
+- Project: DUDLEY VILLAGE SOUTH
+- Address: 571 DUDLEY ST
+- City: BOSTON
+- State: MA
+- ZIP: 02125
+- ZIP extension: 
+- State project ID: 1236
+- Latitude: 42.320787
+- Longitude: -71.072219
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025090400
+- Tract 2010: 25025090400
+- Tract 2000: 25025090400
+- Tract 1990: 25025090400
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 434400
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 10
+- 3-bedroom units: 10
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000262. FKA PHASE 2
+- Record status: Existing, unchanged

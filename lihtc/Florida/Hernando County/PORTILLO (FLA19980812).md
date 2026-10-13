@@ -1,0 +1,85 @@
+# Project: PORTILLO (FLA19980812)
+
+- HUD ID: FLA19980812
+- HUD ID before: 
+- Project: PORTILLO
+- Address: 3474 PORTILLO RD
+- City: SPRING HILL
+- State: FL
+- ZIP: 34609
+- ZIP extension: 
+- State project ID: 650
+- Latitude: 28.485189
+- Longitude: -82.543393
+- County FIPS: 12053
+- County from: 2020
+- Tract 2020: 12053041006
+- Tract 2010: 12053041006
+- Tract 2000: 12053041002
+- Tract 1990: 12053001000
+- Place 2020: 68350
+- Place 2010: 68350
+- Place 2000: 68350
+- Place 1990: 2029
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 539500
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AZALEA COURT (GAA20060305)
+
+- HUD ID: GAA20060305
+- HUD ID before: 
+- Project: AZALEA COURT
+- Address: 613 S THOMAS ST
+- City: ALMA
+- State: GA
+- ZIP: 31510
+- ZIP extension: 3129
+- State project ID: GA-05-006
+- Latitude: 31.537877
+- Longitude: -82.466244
+- County FIPS: 13005
+- County from: 2020
+- Tract 2020: 13005970202
+- Tract 2010: 13005970202
+- Tract 2000: 13005970200
+- Tract 1990: 13005970200
+- Place 2020: 01612
+- Place 2010: 01612
+- Place 2000: 01612
+- Place 1990: 0065
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 81150
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 4
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2007015.
+- Record status: Existing, unchanged

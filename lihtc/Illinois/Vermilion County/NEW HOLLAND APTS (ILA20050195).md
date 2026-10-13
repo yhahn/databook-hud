@@ -1,0 +1,85 @@
+# Project: NEW HOLLAND APTS (ILA20050195)
+
+- HUD ID: ILA20050195
+- HUD ID before: 
+- Project: NEW HOLLAND APTS
+- Address: 324 N VERMILION ST
+- City: DANVILLE
+- State: IL
+- ZIP: 61832
+- ZIP extension: 
+- State project ID: 206004
+- Latitude: 40.129604
+- Longitude: -87.630277
+- County FIPS: 17183
+- County from: 2020
+- Tract 2020: 17183000100
+- Tract 2010: 17183000100
+- Tract 2000: 17183000100
+- Tract 1990: 17183000100
+- Place 2020: 18563
+- Place 2010: 18563
+- Place 2000: 18563
+- Place 1990: 1395
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 373036
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 22
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

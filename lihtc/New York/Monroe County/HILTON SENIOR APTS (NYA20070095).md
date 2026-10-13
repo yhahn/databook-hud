@@ -1,0 +1,85 @@
+# Project: HILTON SENIOR APTS (NYA20070095)
+
+- HUD ID: NYA20070095
+- HUD ID before: 
+- Project: HILTON SENIOR APTS
+- Address: 100 LEITH LN
+- City: HILTON
+- State: NY
+- ZIP: 14468
+- ZIP extension: 
+- State project ID: 20040557
+- Latitude: 43.278335
+- Longitude: -77.799947
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055014805
+- Tract 2010: 36055014804
+- Tract 2000: 36055014804
+- Tract 1990: 36055014804
+- Place 2020: 34847
+- Place 2010: 34847
+- Place 2000: 34847
+- Place 1990: 1620
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 242084
+- Units: 69
+- Low-income units: 69
+- Units reported: 69
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 63
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 45
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

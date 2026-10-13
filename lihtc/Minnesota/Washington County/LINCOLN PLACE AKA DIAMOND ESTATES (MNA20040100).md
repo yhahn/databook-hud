@@ -1,0 +1,85 @@
+# Project: LINCOLN PLACE AKA DIAMOND ESTATES (MNA20040100)
+
+- HUD ID: MNA20040100
+- HUD ID before: 
+- Project: LINCOLN PLACE AKA DIAMOND ESTATES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: MAHTOMEDI
+- State: MN
+- ZIP: 55115
+- ZIP extension: 
+- State project ID: D3346
+- Latitude: 45.0635
+- Longitude: -92.9605
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163070304
+- Tract 2010: 27163070304
+- Tract 2000: 27163070304
+- Tract 1990: 27163070302
+- Place 2020: 39428
+- Place 2010: 39428
+- Place 2000: 39428
+- Place 1990: 2405
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 46
+- Units reported: 48
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DIAMOND ESTATES.
+- Record status: Existing, unchanged

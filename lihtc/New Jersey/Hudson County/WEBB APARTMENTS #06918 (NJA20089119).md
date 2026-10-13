@@ -1,0 +1,85 @@
+# Project: WEBB APARTMENTS #06918 (NJA20089119)
+
+- HUD ID: NJA20089119
+- HUD ID before: 
+- Project: WEBB APARTMENTS #06918
+- Address: 450 MARTIN LUTHER KING JR DR
+- City: JERSEY CITY
+- State: NJ
+- ZIP: 07304
+- ZIP extension: 4218
+- State project ID: 02056-SOLAR
+- Latitude: 40.716968
+- Longitude: -74.073528
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017004300
+- Tract 2010: 34017004300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 8
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

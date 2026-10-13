@@ -1,0 +1,85 @@
+# Project: BLUE WATER WORKFORCE HOUSING (FLA20110548)
+
+- HUD ID: FLA20110548
+- HUD ID before: 
+- Project: BLUE WATER WORKFORCE HOUSING
+- Address: 100 BURTON DR
+- City: TAVERNIER
+- State: FL
+- ZIP: 33070
+- ZIP extension: 
+- State project ID: 2460
+- Latitude: 25.018625
+- Longitude: -80.51049
+- County FIPS: 12087
+- County from: 2020
+- Tract 2020: 12087970700
+- Tract 2010: 12087970700
+- Tract 2000: 12087970700
+- Tract 1990: 12087970700
+- Place 2020: 71250
+- Place 2010: 71250
+- Place 2000: 36375
+- Place 1990: 2087
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 900000
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1800000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011020.
+- Record status: Existing, unchanged

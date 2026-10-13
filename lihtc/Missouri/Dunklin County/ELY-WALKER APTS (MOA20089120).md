@@ -1,0 +1,85 @@
+# Project: ELY-WALKER APTS (MOA20089120)
+
+- HUD ID: MOA20089120
+- HUD ID before: 
+- Project: ELY-WALKER APTS
+- Address: 221 S MAIN ST
+- City: KENNETT
+- State: MO
+- ZIP: 63857
+- ZIP extension: 
+- State project ID: 07-071
+- Latitude: 36.235736
+- Longitude: -90.057037
+- County FIPS: 29069
+- County from: 2020
+- Tract 2020: 29069360500
+- Tract 2010: 29069360500
+- Tract 2000: 29069960500
+- Tract 1990: 29069960500
+- Place 2020: 38306
+- Place 2010: 38306
+- Place 2000: 38306
+- Place 1990: 2235
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 45
+- Low-income units: 45
+- Units reported: 27
+- Low-income reported: 45
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

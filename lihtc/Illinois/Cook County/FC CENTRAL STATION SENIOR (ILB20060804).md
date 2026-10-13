@@ -1,0 +1,85 @@
+# Project: FC CENTRAL STATION SENIOR (ILB20060804)
+
+- HUD ID: ILB20060804
+- HUD ID before: 
+- Project: FC CENTRAL STATION SENIOR
+- Address: 1251 S MICHIGAN AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60605
+- ZIP extension: 
+- State project ID: 04-022
+- Latitude: 41.866513
+- Longitude: -87.62384
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031330102
+- Tract 2010: 17031330100
+- Tract 2000: 17031330100
+- Tract 1990: 17031330100
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 506675
+- Units: 91
+- Low-income units: 91
+- Units reported: 91
+- Low-income reported: 91
+- Efficiencies: 6
+- 1-bedroom units: 85
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2006030. AKA CENTRAL STATION LLC TERMINAL TOWER, PARK AT CENTRAL STATION.
+- Record status: Existing, unchanged

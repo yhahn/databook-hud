@@ -1,0 +1,85 @@
+# Project: BRADLEY SQUARE APTS (ARA19980800)
+
+- HUD ID: ARA19980800
+- HUD ID before: 
+- Project: BRADLEY SQUARE APTS
+- Address: 804 ABERNATHY ST
+- City: WARREN
+- State: AR
+- ZIP: 71671
+- ZIP extension: 
+- State project ID: PRAR-97-01
+- Latitude: 33.623297
+- Longitude: -92.060862
+- County FIPS: 05011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05011950100
+- Tract 2000: 05011950100
+- Tract 1990: 05011950100
+- Place 2020: 
+- Place 2010: 73310
+- Place 2000: 73310
+- Place 1990: 2060
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 63104
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 10
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1997667, ARA1997027.
+- Record status: Existing, unchanged

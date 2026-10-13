@@ -1,0 +1,85 @@
+# Project: SPRING HILL HOUSING ASSOC (WYA19880020)
+
+- HUD ID: WYA19880020
+- HUD ID before: 
+- Project: SPRING HILL HOUSING ASSOC
+- Address: 550 S WALSH DR
+- City: CASPER
+- State: WY
+- ZIP: 82609
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.845019
+- Longitude: -106.276734
+- County FIPS: 56025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 56025000502
+- Tract 2000: 56025000502
+- Tract 1990: 56025000400
+- Place 2020: 
+- Place 2010: 13150
+- Place 2000: 13150
+- Place 1990: 0045
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 383033
+- Units: 127
+- Low-income units: 127
+- Units reported: 127
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 127
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

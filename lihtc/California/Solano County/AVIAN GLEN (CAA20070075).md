@@ -1,0 +1,85 @@
+# Project: AVIAN GLEN (CAA20070075)
+
+- HUD ID: CAA20070075
+- HUD ID before: 
+- Project: AVIAN GLEN
+- Address: 301 AVIAN DR
+- City: VALLEJO
+- State: CA
+- ZIP: 94591
+- ZIP extension: 
+- State project ID: CA-04-864
+- Latitude: 38.107739
+- Longitude: -122.206459
+- County FIPS: 06095
+- County from: 2020
+- Tract 2020: 06095250200
+- Tract 2010: 06095250200
+- Tract 2000: 06095250200
+- Tract 1990: 06095250200
+- Place 2020: 81666
+- Place 2010: 81666
+- Place 2000: 81666
+- Place 1990: 3000
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 1162522
+- Units: 87
+- Low-income units: 85
+- Units reported: 87
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 39
+- 3-bedroom units: 37
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

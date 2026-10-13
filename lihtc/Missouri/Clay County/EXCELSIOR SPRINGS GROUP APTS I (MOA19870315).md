@@ -1,0 +1,85 @@
+# Project: EXCELSIOR SPRINGS GROUP APTS I (MOA19870315)
+
+- HUD ID: MOA19870315
+- HUD ID before: 
+- Project: EXCELSIOR SPRINGS GROUP APTS I
+- Address: 520 BENTON AVE
+- City: EXCELSIOR SPRINGS
+- State: MO
+- ZIP: 64024
+- ZIP extension: 
+- State project ID: 01709C
+- Latitude: 39.341394
+- Longitude: -94.217584
+- County FIPS: 29047
+- County from: 2020
+- Tract 2020: 29047021704
+- Tract 2010: 29047021702
+- Tract 2000: 29047021700
+- Tract 1990: 29047021700
+- Place 2020: 23086
+- Place 2010: 23086
+- Place 2000: 23086
+- Place 1990: 1370
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

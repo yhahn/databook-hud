@@ -1,0 +1,85 @@
+# Project: NEW CLAY HOUSE (VAA19920100)
+
+- HUD ID: VAA19920100
+- HUD ID before: 
+- Project: NEW CLAY HOUSE
+- Address: 1125 W CLAY ST
+- City: RICHMOND
+- State: VA
+- ZIP: 23220
+- ZIP extension: 
+- State project ID: 4287
+- Latitude: 37.552982
+- Longitude: -77.450075
+- County FIPS: 51760
+- County from: 2020
+- Tract 2020: 51760040201
+- Tract 2010: 51760040200
+- Tract 2000: 51760040200
+- Tract 1990: 51760040200
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 1035
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 47
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

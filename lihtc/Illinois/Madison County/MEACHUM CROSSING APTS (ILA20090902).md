@@ -1,0 +1,85 @@
+# Project: MEACHUM CROSSING APTS (ILA20090902)
+
+- HUD ID: ILA20090902
+- HUD ID before: 
+- Project: MEACHUM CROSSING APTS
+- Address: 1038 JAMES GRAY ST
+- City: VENICE
+- State: IL
+- ZIP: 62090
+- ZIP extension: 
+- State project ID: 270007
+- Latitude: 38.67901
+- Longitude: -90.171969
+- County FIPS: 17119
+- County from: 2020
+- Tract 2020: 17119400700
+- Tract 2010: 17119400700
+- Tract 2000: 17119400700
+- Tract 1990: 17119400700
+- Place 2020: 77473
+- Place 2010: 77473
+- Place 2000: 77473
+- Place 1990: 5890
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1243389
+- Units: 78
+- Low-income units: 70
+- Units reported: 78
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 45
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000068.
+- Record status: Existing, unchanged

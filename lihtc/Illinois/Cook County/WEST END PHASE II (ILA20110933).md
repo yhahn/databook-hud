@@ -1,0 +1,85 @@
+# Project: WEST END PHASE II (ILA20110933)
+
+- HUD ID: ILA20110933
+- HUD ID before: 
+- Project: WEST END PHASE II
+- Address: 2425 W ADAMS ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60612
+- ZIP extension: 
+- State project ID: 1005910
+- Latitude: 41.878714
+- Longitude: -87.687604
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031280800
+- Tract 2010: 17031280800
+- Tract 2000: 17031280800
+- Tract 1990: 17031280800
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 2215173
+- Units: 112
+- Low-income units: 98
+- Units reported: 112
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 17
+- 3-bedroom units: 81
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 715173
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2011806, ILB2011812, ILA0000104. AKA EAST LAKE.
+- Record status: Existing, unchanged

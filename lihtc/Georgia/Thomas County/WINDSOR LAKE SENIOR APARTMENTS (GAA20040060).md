@@ -1,0 +1,85 @@
+# Project: WINDSOR LAKE SENIOR APARTMENTS (GAA20040060)
+
+- HUD ID: GAA20040060
+- HUD ID before: 
+- Project: WINDSOR LAKE SENIOR APARTMENTS
+- Address: 241 COVE LANDING DR
+- City: THOMASVILLE
+- State: GA
+- ZIP: 31792
+- ZIP extension: 0802
+- State project ID: GA-01-084
+- Latitude: 30.870405
+- Longitude: -83.969091
+- County FIPS: 13275
+- County from: 2020
+- Tract 2020: 13275960501
+- Tract 2010: 13275960500
+- Tract 2000: 13215002700
+- Tract 1990: 13215002700
+- Place 2020: 76224
+- Place 2010: 76224
+- Place 2000: 19007
+- Place 1990: 0660
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 2366100
+- Units: 72
+- Low-income units: 56
+- Units reported: 72
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 66
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

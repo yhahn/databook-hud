@@ -1,0 +1,85 @@
+# Project: THE GLEN AT BELVIDERE (ILA20110938)
+
+- HUD ID: ILA20110938
+- HUD ID before: 
+- Project: THE GLEN AT BELVIDERE
+- Address: 4452 SQUAW PRAIRIE RD
+- City: BELVIDERE
+- State: IL
+- ZIP: 61008
+- ZIP extension: 
+- State project ID: 273107
+- Latitude: 42.291382
+- Longitude: -88.85301
+- County FIPS: 17007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17007010500
+- Tract 2000: 17007010500
+- Tract 1990: 17007010500
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 05092
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1154987
+- Units: 120
+- Low-income units: 96
+- Units reported: 120
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3998548
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000097.
+- Record status: Existing, unchanged

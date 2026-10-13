@@ -1,0 +1,85 @@
+# Project: SCHOOL HOUSE APTS (MINERAL POINT) (WIA19990150)
+
+- HUD ID: WIA19990150
+- HUD ID before: 
+- Project: SCHOOL HOUSE APTS (MINERAL POINT)
+- Address: 530 MAIDEN ST
+- City: MINERAL POINT
+- State: WI
+- ZIP: 53565
+- ZIP extension: 
+- State project ID: 1704
+- Latitude: 42.858893
+- Longitude: -90.185069
+- County FIPS: 55049
+- County from: 2020
+- Tract 2020: 55049950600
+- Tract 2010: 55049950600
+- Tract 2000: 55049950600
+- Tract 1990: 55049950600
+- Place 2020: 53100
+- Place 2010: 53100
+- Place 2000: 53100
+- Place 1990: 1650
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 11
+- Low-income units: 6
+- Units reported: 11
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MINERAL POINT SCHOOL APTS.
+- Record status: Existing, unchanged

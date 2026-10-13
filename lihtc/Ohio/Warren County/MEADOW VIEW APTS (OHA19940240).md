@@ -1,0 +1,85 @@
+# Project: MEADOW VIEW APTS (OHA19940240)
+
+- HUD ID: OHA19940240
+- HUD ID before: 
+- Project: MEADOW VIEW APTS
+- Address: 15 WOODHILL DR
+- City: SPRINGBORO
+- State: OH
+- ZIP: 45066
+- ZIP extension: 
+- State project ID: OH-93-1040
+- Latitude: 39.564925
+- Longitude: -84.254243
+- County FIPS: 39165
+- County from: 2020
+- Tract 2020: 39165030501
+- Tract 2010: 39165030501
+- Tract 2000: 39165030501
+- Tract 1990: 39165030501
+- Place 2020: 74076
+- Place 2010: 74076
+- Place 2000: 28476
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 591250
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 48
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ARV SPRINGBORO VILLAS.
+- Record status: Existing, unchanged

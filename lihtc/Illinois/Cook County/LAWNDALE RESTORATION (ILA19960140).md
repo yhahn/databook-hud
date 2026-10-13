@@ -1,0 +1,85 @@
+# Project: LAWNDALE RESTORATION (ILA19960140)
+
+- HUD ID: ILA19960140
+- HUD ID before: 
+- Project: LAWNDALE RESTORATION
+- Address: 3100 W DOUGLAS BLVD
+- City: CHICAGO
+- State: IL
+- ZIP: 60623
+- ZIP extension: 
+- State project ID: IL-TE-94-200
+- Latitude: 41.863144
+- Longitude: -87.703183
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031843100
+- Tract 2010: 17031843100
+- Tract 2000: 17031291400
+- Tract 1990: 17031291400
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 2935387
+- Units: 1240
+- Low-income units: 1240
+- Units reported: 1240
+- Low-income reported: 1240
+- Efficiencies: 8
+- 1-bedroom units: 101
+- 2-bedroom units: 548
+- 3-bedroom units: 429
+- 4-bedroom units: 154
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

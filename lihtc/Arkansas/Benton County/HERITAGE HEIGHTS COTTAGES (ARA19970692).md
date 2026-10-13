@@ -1,0 +1,85 @@
+# Project: HERITAGE HEIGHTS COTTAGES (ARA19970692)
+
+- HUD ID: ARA19970692
+- HUD ID before: 
+- Project: HERITAGE HEIGHTS COTTAGES
+- Address: 1225 W TULSA
+- City: SILOAM SPRINGS
+- State: AR
+- ZIP: 72761
+- ZIP extension: 
+- State project ID: AR-96-25-001
+- Latitude: 36.177468
+- Longitude: -94.528161
+- County FIPS: 05007
+- County from: 2020
+- Tract 2020: 05007021102
+- Tract 2010: 05007021102
+- Tract 2000: 05007021202
+- Tract 1990: 05007021202
+- Place 2020: 64370
+- Place 2010: 64370
+- Place 2000: 64370
+- Place 1990: 1845
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 102576
+- Units: 85
+- Low-income units: 85
+- Units reported: 85
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1998005, ARA1997671, ARA1997043. AKA SILOAM SPRINGS APTS.
+- Record status: Existing, unchanged

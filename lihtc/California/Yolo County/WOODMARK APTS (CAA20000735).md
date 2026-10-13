@@ -1,0 +1,85 @@
+# Project: WOODMARK APTS (CAA20000735)
+
+- HUD ID: CAA20000735
+- HUD ID before: 
+- Project: WOODMARK APTS
+- Address: 700 KINCHELOE CT
+- City: WOODLAND
+- State: CA
+- ZIP: 95776
+- ZIP extension: 
+- State project ID: CA-99-827
+- Latitude: 38.671695
+- Longitude: -121.731615
+- County FIPS: 06113
+- County from: 2020
+- Tract 2020: 06113011209
+- Tract 2010: 06113011205
+- Tract 2000: 06113011205
+- Tract 1990: 06113011202
+- Place 2020: 86328
+- Place 2010: 86328
+- Place 2000: 86328
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 533157
+- Units: 173
+- Low-income units: 171
+- Units reported: 173
+- Low-income reported: 171
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 108
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

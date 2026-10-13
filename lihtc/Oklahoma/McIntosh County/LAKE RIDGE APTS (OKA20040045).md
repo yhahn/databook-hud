@@ -1,0 +1,85 @@
+# Project: LAKE RIDGE APTS (OKA20040045)
+
+- HUD ID: OKA20040045
+- HUD ID before: 
+- Project: LAKE RIDGE APTS
+- Address: 638 LAKE RDG
+- City: EUFAULA
+- State: OK
+- ZIP: 74432
+- ZIP extension: 
+- State project ID: 020720
+- Latitude: 35.280525
+- Longitude: -95.590047
+- County FIPS: 40091
+- County from: 2020
+- Tract 2020: 40091780200
+- Tract 2010: 40091780200
+- Tract 2000: 40091980200
+- Tract 1990: 40091980200
+- Place 2020: 24650
+- Place 2010: 24650
+- Place 2000: 24650
+- Place 1990: 0800
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

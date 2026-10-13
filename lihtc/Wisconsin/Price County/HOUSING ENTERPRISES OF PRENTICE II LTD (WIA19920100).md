@@ -1,0 +1,85 @@
+# Project: HOUSING ENTERPRISES OF PRENTICE II LTD (WIA19920100)
+
+- HUD ID: WIA19920100
+- HUD ID before: 
+- Project: HOUSING ENTERPRISES OF PRENTICE II LTD
+- Address: 801 PROGRESS ST
+- City: PRENTICE
+- State: WI
+- ZIP: 54556
+- ZIP extension: 
+- State project ID: 1130
+- Latitude: 45.543704
+- Longitude: -90.279641
+- County FIPS: 55099
+- County from: 2020
+- Tract 2020: 55099970700
+- Tract 2010: 55099970700
+- Tract 2000: 55099970700
+- Tract 1990: 55099970700
+- Place 2020: 65325
+- Place 2010: 65325
+- Place 2000: 13175
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: AKA HOUSING ENTERPRISES OF PRENTICE II.
+- Record status: Existing, unchanged

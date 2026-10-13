@@ -1,0 +1,85 @@
+# Project: APARTMENTS AT THE MILL (NJA20153044)
+
+- HUD ID: NJA20153044
+- HUD ID before: 
+- Project: APARTMENTS AT THE MILL
+- Address: 505 MITCHELL AVENUE
+- City: BURLINGTON
+- State: NJ
+- ZIP: 08016
+- ZIP extension: 
+- State project ID: NJ1012-960
+- Latitude: 40.075875
+- Longitude: -74.848535
+- County FIPS: 34005
+- County from: 2020
+- Tract 2020: 34005701203
+- Tract 2010: 34005701203
+- Tract 2000: 34005701203
+- Tract 1990: 34005701203
+- Place 2020: 08920
+- Place 2010: 08920
+- Place 2000: 08920
+- Place 1990: 1355
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1163679
+- Units: 65
+- Low-income units: 65
+- Units reported: 65
+- Low-income reported: 65
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

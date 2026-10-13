@@ -1,0 +1,85 @@
+# Project: WOODFIELD VILLAGE II SENIOR HOUSING (WIA20110095)
+
+- HUD ID: WIA20110095
+- HUD ID before: 
+- Project: WOODFIELD VILLAGE II SENIOR HOUSING
+- Address: 440 HOWARD BLVD
+- City: HOWARD
+- State: WI
+- ZIP: 54313
+- ZIP extension: 
+- State project ID: 5600
+- Latitude: 44.553452
+- Longitude: -88.086383
+- County FIPS: 55009
+- County from: 2020
+- Tract 2020: 55009020505
+- Tract 2010: 55009020503
+- Tract 2000: 55009021302
+- Tract 1990: 55009020501
+- Place 2020: 35950
+- Place 2010: 35950
+- Place 2000: 
+- Place 1990: 1180
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 689381
+- Units: 49
+- Low-income units: 12
+- Units reported: 49
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 443880
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HERITAGE APTS OF BERTRAND (NEA20000020)
+
+- HUD ID: NEA20000020
+- HUD ID before: 
+- Project: HERITAGE APTS OF BERTRAND
+- Address: 510 MASON AVE
+- City: BERTRAND
+- State: NE
+- ZIP: 68927
+- ZIP extension: 
+- State project ID: 7-0445
+- Latitude: 40.525785
+- Longitude: -99.635122
+- County FIPS: 31137
+- County from: 2020
+- Tract 2020: 31137967200
+- Tract 2010: 31137967200
+- Tract 2000: 31137967200
+- Tract 1990: 31137967200
+- Place 2020: 04615
+- Place 2010: 04615
+- Place 2000: 02620
+- Place 1990: 0265
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 22911
+- Units: 5
+- Low-income units: 5
+- Units reported: 5
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

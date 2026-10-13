@@ -1,0 +1,85 @@
+# Project: VANDERBILT APARTMENTS (NCA20070170)
+
+- HUD ID: NCA20070170
+- HUD ID before: 
+- Project: VANDERBILT APARTMENTS
+- Address: 75 HAYWOOD STREET
+- City: ASHEVILLE
+- State: NC
+- ZIP: 28801
+- ZIP extension: 
+- State project ID: 9002246
+- Latitude: 35.596704
+- Longitude: -82.555216
+- County FIPS: 37021
+- County from: 2020
+- Tract 2020: 37021000100
+- Tract 2010: 37021000100
+- Tract 2000: 37021000100
+- Tract 1990: 37021000100
+- Place 2020: 02140
+- Place 2010: 02140
+- Place 2000: 02140
+- Place 1990: 0095
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 696940
+- Units: 123
+- Low-income units: 123
+- Units reported: 123
+- Low-income reported: 123
+- Efficiencies: 42
+- 1-bedroom units: 81
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

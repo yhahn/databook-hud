@@ -1,0 +1,85 @@
+# Project: ALBURGH FAMILY REDEVELOPMENT (VTA20100005)
+
+- HUD ID: VTA20100005
+- HUD ID before: 
+- Project: ALBURGH FAMILY REDEVELOPMENT
+- Address: 12 CARLE ST
+- City: ALBURGH
+- State: VT
+- ZIP: 05440
+- ZIP extension: 
+- State project ID: 0401
+- Latitude: 44.978036
+- Longitude: -73.296424
+- County FIPS: 50013
+- County from: 2020
+- Tract 2020: 50013020100
+- Tract 2010: 50013020100
+- Tract 2000: 50013020100
+- Tract 1990: 50013020100
+- Place 2020: 10675
+- Place 2010: 99999
+- Place 2000: 00625
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 200000
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 5
+- 3-bedroom units: 4
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA ALBURGH FAMILY HOUSING
+- Record status: Existing, unchanged

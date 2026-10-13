@@ -1,0 +1,85 @@
+# Project: KENTSHIRE (NJA20040120)
+
+- HUD ID: NJA20040120
+- HUD ID before: 
+- Project: KENTSHIRE
+- Address: 175 PATERSON AVENUE
+- City: MIDLAND PARK BORO
+- State: NJ
+- ZIP: 07432
+- ZIP extension: 
+- State project ID: NJ-02200-1
+- Latitude: 40.989408
+- Longitude: -74.144673
+- County FIPS: 34003
+- County from: 2020
+- Tract 2020: 34003034001
+- Tract 2010: 34003034000
+- Tract 2000: 34003034000
+- Tract 1990: 34003034000
+- Place 2020: 46110
+- Place 2010: 46110
+- Place 2000: 46110
+- Place 1990: 2715
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 144504
+- Units: 159
+- Low-income units: 32
+- Units reported: 159
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

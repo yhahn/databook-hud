@@ -1,0 +1,85 @@
+# Project: ZACHARY'S CROSSING (OHA20050146)
+
+- HUD ID: OHA20050146
+- HUD ID before: 
+- Project: ZACHARY'S CROSSING
+- Address: 698 LINDEN AVE
+- City: WASHINGTON CH
+- State: OH
+- ZIP: 43160
+- ZIP extension: 
+- State project ID: 030086
+- Latitude: 39.553132
+- Longitude: -83.443207
+- County FIPS: 39047
+- County from: 2020
+- Tract 2020: 39047926100
+- Tract 2010: 39047926100
+- Tract 2000: 39047986100
+- Tract 1990: 39047986100
+- Place 2020: 81718
+- Place 2010: 81718
+- Place 2000: 81214
+- Place 1990: 4495
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 372617
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 20
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

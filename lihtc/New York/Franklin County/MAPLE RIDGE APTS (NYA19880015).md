@@ -1,0 +1,85 @@
+# Project: MAPLE RIDGE APTS (NYA19880015)
+
+- HUD ID: NYA19880015
+- HUD ID before: 
+- Project: MAPLE RIDGE APTS
+- Address: 70 SAWYER AVE
+- City: MALONE
+- State: NY
+- ZIP: 12953
+- ZIP extension: 
+- State project ID: NY-90-0302_00087
+- Latitude: 44.851158
+- Longitude: -74.304107
+- County FIPS: 36033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36033950501
+- Tract 2000: 36033950500
+- Tract 1990: 36033950500
+- Place 2020: 
+- Place 2010: 44710
+- Place 2000: 44710
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

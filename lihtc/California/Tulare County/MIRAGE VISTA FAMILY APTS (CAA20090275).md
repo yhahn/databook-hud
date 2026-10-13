@@ -1,0 +1,85 @@
+# Project: MIRAGE VISTA FAMILY APTS (CAA20090275)
+
+- HUD ID: CAA20090275
+- HUD ID before: 
+- Project: MIRAGE VISTA FAMILY APTS
+- Address: 875 E TERRA BELLA AVE
+- City: PIXLEY
+- State: CA
+- ZIP: 93256
+- ZIP extension: 
+- State project ID: CA-07-028
+- Latitude: 35.964171
+- Longitude: -119.287427
+- County FIPS: 06107
+- County from: 2020
+- Tract 2020: 06107004200
+- Tract 2010: 06107004200
+- Tract 2000: 06107004200
+- Tract 1990: 06107004200
+- Place 2020: 57512
+- Place 2010: 99999
+- Place 2000: 57512
+- Place 1990: 2190
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 677339
+- Units: 55
+- Low-income units: 54
+- Units reported: 55
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 23
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MIRAGE VISTA.
+- Record status: Existing, unchanged

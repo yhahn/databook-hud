@@ -1,0 +1,85 @@
+# Project: WHISPERING HILLS (ILA20120040)
+
+- HUD ID: ILA20120040
+- HUD ID before: 
+- Project: WHISPERING HILLS
+- Address: 110 TAYLOR DR
+- City: PORT BYRON
+- State: IL
+- ZIP: 61275
+- ZIP extension: 
+- State project ID: 1020310
+- Latitude: 41.609559
+- Longitude: -90.334662
+- County FIPS: 17161
+- County from: 2020
+- Tract 2020: 17161020102
+- Tract 2010: 17161020100
+- Tract 2000: 17161020100
+- Tract 1990: 17161020100
+- Place 2020: 61223
+- Place 2010: 61223
+- Place 2000: 16366
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 611843
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1988057, ILA0000755. AKA PORT BYRON HEIGHTS.
+- Record status: Existing, unchanged

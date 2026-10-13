@@ -1,0 +1,85 @@
+# Project: MORGAN HILL RANCH (CAA19980270)
+
+- HUD ID: CAA19980270
+- HUD ID before: 
+- Project: MORGAN HILL RANCH
+- Address: 18555 BUTTERFIELD BLVD
+- City: MORGAN HILL
+- State: CA
+- ZIP: 95037
+- ZIP extension: 
+- State project ID: CA-96-116
+- Latitude: 37.147071
+- Longitude: -121.660977
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085512311
+- Tract 2010: 06085512311
+- Tract 2000: 06085512304
+- Tract 1990: 06085512304
+- Place 2020: 49278
+- Place 2010: 49278
+- Place 2000: 49278
+- Place 1990: 1850
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 775330
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 32
+- 3-bedroom units: 31
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

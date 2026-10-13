@@ -1,0 +1,85 @@
+# Project: NORTH & TALMAN REDEVELOPMENT III (ILA20120006)
+
+- HUD ID: ILA20120006
+- HUD ID before: 
+- Project: NORTH & TALMAN REDEVELOPMENT III
+- Address: 1605 N WASHTENAW AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60647
+- ZIP extension: 
+- State project ID: 1030610
+- Latitude: 41.910454
+- Longitude: -87.694316
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031240700
+- Tract 2010: 17031240700
+- Tract 2000: 17031240700
+- Tract 1990: 17031240700
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1100000
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 12
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

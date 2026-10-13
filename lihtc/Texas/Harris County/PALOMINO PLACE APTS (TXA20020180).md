@@ -1,0 +1,85 @@
+# Project: PALOMINO PLACE APTS (TXA20020180)
+
+- HUD ID: TXA20020180
+- HUD ID before: 
+- Project: PALOMINO PLACE APTS
+- Address: 4400 W AIRPORT BLVD
+- City: HOUSTON
+- State: TX
+- ZIP: 77045
+- ZIP extension: 
+- State project ID: TX0426
+- Latitude: 29.642798
+- Longitude: -95.441166
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201334102
+- Tract 2010: 48201334100
+- Tract 2000: 48201330100
+- Tract 1990: 48201033200
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 272
+- Low-income units: 272
+- Units reported: 272
+- Low-income reported: 272
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARKVIEW MANOR APARTMENTS (ARA20020110)
+
+- HUD ID: ARA20020110
+- HUD ID before: 
+- Project: PARKVIEW MANOR APARTMENTS
+- Address: 206 W SOUTH ST
+- City: CAVE CITY
+- State: AR
+- ZIP: 72521
+- ZIP extension: 
+- State project ID: AR-00-19-001
+- Latitude: 35.938357
+- Longitude: -91.551757
+- County FIPS: 05135
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05135470400
+- Tract 2000: 05135970400
+- Tract 1990: 05135970400
+- Place 2020: 
+- Place 2010: 12280
+- Place 2000: 12280
+- Place 1990: 0355
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 50239
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2001734, ARA2001100, ARA2001097. AKA PARKVIEW MANOR SENIOR CITIZENS APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BERKSHIRES (ILA20100900)
+
+- HUD ID: ILA20100900
+- HUD ID before: 
+- Project: BERKSHIRES
+- Address: 1121 E 1500 N RD
+- City: TAYLORVILLE
+- State: IL
+- ZIP: 62568
+- ZIP extension: 
+- State project ID: 294508
+- Latitude: 39.567361
+- Longitude: -89.309408
+- County FIPS: 17021
+- County from: 2020
+- Tract 2020: 17021958200
+- Tract 2010: 17021958200
+- Tract 2000: 17021958200
+- Tract 1990: 17021958200
+- Place 2020: 99999
+- Place 2010: 74574
+- Place 2000: 09538
+- Place 1990: 3000
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 322256
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1322728
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000096.
+- Record status: Existing, unchanged

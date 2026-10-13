@@ -1,0 +1,85 @@
+# Project: IRVIN COBB APARTMENTS (KYA20192008)
+
+- HUD ID: KYA20192008
+- HUD ID before: 
+- Project: IRVIN COBB APARTMENTS
+- Address: BROADWAY ST.
+- City: PADUCAH
+- State: KY
+- ZIP: 42001
+- ZIP extension: 
+- State project ID: KY-17-017
+- Latitude: 37.0716
+- Longitude: -88.6559
+- County FIPS: 21145
+- County from: 2020
+- Tract 2020: 21145030800
+- Tract 2010: 21145030800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 58836
+- Place 2010: 58836
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 2618559
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 94
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

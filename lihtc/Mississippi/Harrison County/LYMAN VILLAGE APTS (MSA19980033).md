@@ -1,0 +1,85 @@
+# Project: LYMAN VILLAGE APTS (MSA19980033)
+
+- HUD ID: MSA19980033
+- HUD ID before: 
+- Project: LYMAN VILLAGE APTS
+- Address: 14229 OLD HWY 49
+- City: GULFPORT
+- State: MS
+- ZIP: 39503
+- ZIP extension: 
+- State project ID: MS-96-090
+- Latitude: 30.491304
+- Longitude: -89.112033
+- County FIPS: 28047
+- County from: 2020
+- Tract 2020: 28047003507
+- Tract 2010: 28047003504
+- Tract 2000: 28047003503
+- Tract 1990: 28047003500
+- Place 2020: 29700
+- Place 2010: 29700
+- Place 2000: 29700
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 880000
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 47
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SINGLE-PARENT FAMILIES
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1998603.
+- Record status: Existing, unchanged

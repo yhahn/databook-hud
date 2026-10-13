@@ -1,0 +1,85 @@
+# Project: HICKORY HEIGHTS & OAKLAND APARTMENTS (SCA20221004)
+
+- HUD ID: SCA20221004
+- HUD ID before: 
+- Project: HICKORY HEIGHTS & OAKLAND APARTMENTS
+- Address: 1108 CAMBRIDGE STREET
+- City: ABBEVILLE
+- State: SC
+- ZIP: 29620
+- ZIP extension: 0000
+- State project ID: SC-52012
+- Latitude: 34.188214
+- Longitude: -82.363115
+- County FIPS: 45001
+- County from: 2020
+- Tract 2020: 45001950500
+- Tract 2010: 45001950500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 00100
+- Place 2010: 00100
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 675476
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 64
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

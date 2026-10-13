@@ -1,0 +1,85 @@
+# Project: 85 STORIES GROUP 6 (9 SCATTERED SITES) (ORA20203007)
+
+- HUD ID: ORA20203007
+- HUD ID before: 
+- Project: 85 STORIES GROUP 6 (9 SCATTERED SITES)
+- Address: 17225 SE ALDER
+- City: PORTLAND
+- State: OR
+- ZIP: 97233
+- ZIP extension: 
+- State project ID: OR-19-11499
+- Latitude: 45.517806
+- Longitude: -122.485348
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051009703
+- Tract 2010: 41051009702
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 315
+- Low-income units: 315
+- Units reported: 315
+- Low-income reported: 315
+- Efficiencies: 67
+- 1-bedroom units: 122
+- 2-bedroom units: 48
+- 3-bedroom units: 78
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

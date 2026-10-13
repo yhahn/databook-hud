@@ -1,0 +1,85 @@
+# Project: VILLA RAMONA (CAA20040625)
+
+- HUD ID: CAA20040625
+- HUD ID before: 
+- Project: VILLA RAMONA
+- Address: 13030 RAMONA BLVD
+- City: BALDWIN PARK
+- State: CA
+- ZIP: 91706
+- ZIP extension: 
+- State project ID: CA-02-853
+- Latitude: 34.079644
+- Longitude: -117.98819
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037404804
+- Tract 2010: 06037404801
+- Tract 2000: 06037404801
+- Tract 1990: 06037404800
+- Place 2020: 03666
+- Place 2010: 03666
+- Place 2000: 03666
+- Place 1990: 0185
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 522176
+- Units: 71
+- Low-income units: 70
+- Units reported: 71
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 21
+- 3-bedroom units: 22
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

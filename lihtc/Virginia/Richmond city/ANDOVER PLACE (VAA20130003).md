@@ -1,0 +1,85 @@
+# Project: ANDOVER PLACE (VAA20130003)
+
+- HUD ID: VAA20130003
+- HUD ID before: 
+- Project: ANDOVER PLACE
+- Address: 2823 FAIRFIELD AVE
+- City: RICHMOND
+- State: VA
+- ZIP: 23223
+- ZIP extension: 
+- State project ID: 1268
+- Latitude: 37.548999
+- Longitude: -77.396964
+- County FIPS: 51760
+- County from: 2020
+- Tract 2020: 51760020200
+- Tract 2010: 51760020200
+- Tract 2000: 51760020200
+- Tract 1990: 51760020200
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 1035
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 465033
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 186
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: Yes
+- TCAP amount: 1617212
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2013002.
+- Record status: Existing, unchanged

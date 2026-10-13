@@ -1,0 +1,85 @@
+# Project: TALL PINES APARTMENTS (GAA20010090)
+
+- HUD ID: GAA20010090
+- HUD ID before: 
+- Project: TALL PINES APARTMENTS
+- Address: 150 TURNER ST
+- City: LAGRANGE
+- State: GA
+- ZIP: 30240
+- ZIP extension: 1725
+- State project ID: GA-01-503
+- Latitude: 33.055218
+- Longitude: -85.036384
+- County FIPS: 13285
+- County from: 2020
+- Tract 2020: 13285960401
+- Tract 2010: 13285960400
+- Tract 2000: 13285960400
+- Tract 1990: 13285960400
+- Place 2020: 44340
+- Place 2010: 44340
+- Place 2000: 44340
+- Place 1990: 1545
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 70485
+- Units: 115
+- Low-income units: 115
+- Units reported: 115
+- Low-income reported: 115
+- Efficiencies: 18
+- 1-bedroom units: 26
+- 2-bedroom units: 28
+- 3-bedroom units: 35
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

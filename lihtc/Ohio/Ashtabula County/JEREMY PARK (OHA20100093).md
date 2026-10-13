@@ -1,0 +1,85 @@
+# Project: JEREMY PARK (OHA20100093)
+
+- HUD ID: OHA20100093
+- HUD ID before: 
+- Project: JEREMY PARK
+- Address: 61 N MAPLE ST
+- City: ORWELL
+- State: OH
+- ZIP: 44076
+- ZIP extension: 
+- State project ID: 90-0148
+- Latitude: 41.536718
+- Longitude: -80.867988
+- County FIPS: 39007
+- County from: 2020
+- Tract 2020: 39007001401
+- Tract 2010: 39007001400
+- Tract 2000: 39007001400
+- Tract 1990: 39007001498
+- Place 2020: 58856
+- Place 2010: 58856
+- Place 2000: 58856
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 14
+- 1-bedroom units: 20
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1354998
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2010812, OHA2009210.
+- Record status: Existing, unchanged

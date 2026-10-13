@@ -1,0 +1,85 @@
+# Project: TRIBOROUGH PRESERVATION LLC (NYC20161042)
+
+- HUD ID: NYC20161042
+- HUD ID before: 
+- Project: TRIBOROUGH PRESERVATION LLC
+- Address: 510 EAST 156TH STREET
+- City: BRONX
+- State: NY
+- ZIP: 10456
+- ZIP extension: 
+- State project ID: 47-1859803
+- Latitude: 40.819431
+- Longitude: -73.911687
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005006100
+- Tract 2010: 36005007100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 13097877
+- Units: 875
+- Low-income units: 843
+- Units reported: 875
+- Low-income reported: 843
+- Efficiencies: 52
+- 1-bedroom units: 314
+- 2-bedroom units: 206
+- 3-bedroom units: 181
+- 4-bedroom units: 122
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

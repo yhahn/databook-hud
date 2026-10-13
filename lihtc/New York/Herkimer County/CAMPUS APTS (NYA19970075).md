@@ -1,0 +1,85 @@
+# Project: CAMPUS APTS (NYA19970075)
+
+- HUD ID: NYA19970075
+- HUD ID before: 
+- Project: CAMPUS APTS
+- Address: 400 S LITCHFIELD ST
+- City: FRANKFORT
+- State: NY
+- ZIP: 13340
+- ZIP extension: 
+- State project ID: 19960257
+- Latitude: 43.034851
+- Longitude: -75.074411
+- County FIPS: 36043
+- County from: 2020
+- Tract 2020: 36043010201
+- Tract 2010: 36043010201
+- Tract 2000: 36043010201
+- Tract 1990: 36043010201
+- Place 2020: 27188
+- Place 2010: 27188
+- Place 2000: 27188
+- Place 1990: 1264
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

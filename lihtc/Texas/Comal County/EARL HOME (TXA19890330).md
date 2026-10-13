@@ -1,0 +1,85 @@
+# Project: EARL HOME (TXA19890330)
+
+- HUD ID: TXA19890330
+- HUD ID before: 
+- Project: EARL HOME
+- Address: 926 EARL DR
+- City: NEW BRAUNFELS
+- State: TX
+- ZIP: 78130
+- ZIP extension: 
+- State project ID: TX6735
+- Latitude: 29.676158
+- Longitude: -98.117059
+- County FIPS: 48091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48091310404
+- Tract 2000: 48091310402
+- Tract 1990: 48091310402
+- Place 2020: 
+- Place 2010: 50820
+- Place 2000: 50820
+- Place 1990: 2990
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

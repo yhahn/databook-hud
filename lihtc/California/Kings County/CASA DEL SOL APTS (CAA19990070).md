@@ -1,0 +1,85 @@
+# Project: CASA DEL SOL APTS (CAA19990070)
+
+- HUD ID: CAA19990070
+- HUD ID before: 
+- Project: CASA DEL SOL APTS
+- Address: 12184 HANFORD ARMONA RD
+- City: HANFORD
+- State: CA
+- ZIP: 93230
+- ZIP extension: 
+- State project ID: CA-97-013
+- Latitude: 36.314006
+- Longitude: -119.697394
+- County FIPS: 06031
+- County from: 2020
+- Tract 2020: 06031000500
+- Tract 2010: 06031000500
+- Tract 2000: 06031000500
+- Tract 1990: 06031000500
+- Place 2020: 02700
+- Place 2010: 02700
+- Place 2000: 02700
+- Place 1990: 0125
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 662469
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 9
+- 3-bedroom units: 48
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

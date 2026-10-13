@@ -1,0 +1,85 @@
+# Project: LINDEN TERRACE (VTA20070070)
+
+- HUD ID: VTA20070070
+- HUD ID before: 
+- Project: LINDEN TERRACE
+- Address: 160 HOLLY ST
+- City: RUTLAND
+- State: VT
+- ZIP: 05701
+- ZIP extension: 
+- State project ID: 0093
+- Latitude: 43.618522
+- Longitude: -72.985691
+- County FIPS: 50021
+- County from: 2020
+- Tract 2020: 50021963200
+- Tract 2010: 50021963200
+- Tract 2000: 50021963200
+- Tract 1990: 50021963200
+- Place 2020: 61225
+- Place 2010: 61225
+- Place 2000: 61225
+- Place 1990: 2210
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 42775
+- Units: 22
+- Low-income units: 20
+- Units reported: 22
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

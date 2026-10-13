@@ -1,0 +1,85 @@
+# Project: FERRY MUTUAL HOUSING LP (CTA20060055)
+
+- HUD ID: CTA20060055
+- HUD ID before: 
+- Project: FERRY MUTUAL HOUSING LP
+- Address: 309 POPLAR ST
+- City: NEW HAVEN
+- State: CT
+- ZIP: 06513
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.310213
+- Longitude: -72.897133
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009142400
+- Tract 2010: 09009142400
+- Tract 2000: 09009142400
+- Tract 1990: 09009142400
+- Place 2020: 52000
+- Place 2010: 52000
+- Place 2000: 52000
+- Place 1990: 1450
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 22
+- Units reported: 24
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 4
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

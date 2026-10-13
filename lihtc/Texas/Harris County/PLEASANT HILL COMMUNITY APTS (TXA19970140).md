@@ -1,0 +1,85 @@
+# Project: PLEASANT HILL COMMUNITY APTS (TXA19970140)
+
+- HUD ID: TXA19970140
+- HUD ID before: 
+- Project: PLEASANT HILL COMMUNITY APTS
+- Address: 3814 LYONS AVE
+- City: HOUSTON
+- State: TX
+- ZIP: 77020
+- ZIP extension: 
+- State project ID: TX-95-157
+- Latitude: 29.77581
+- Longitude: -95.331878
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201211302
+- Tract 2010: 48201211300
+- Tract 2000: 48201211300
+- Tract 1990: 48201020101
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 165
+- Low-income units: 165
+- Units reported: 165
+- Low-income reported: 165
+- Efficiencies: 40
+- 1-bedroom units: 90
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

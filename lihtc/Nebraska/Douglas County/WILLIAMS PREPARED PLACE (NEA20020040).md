@@ -1,0 +1,85 @@
+# Project: WILLIAMS PREPARED PLACE (NEA20020040)
+
+- HUD ID: NEA20020040
+- HUD ID before: 
+- Project: WILLIAMS PREPARED PLACE
+- Address: 3525 EVANS ST
+- City: OMAHA
+- State: NE
+- ZIP: 68111
+- ZIP extension: 
+- State project ID: 7-0536
+- Latitude: 41.291218
+- Longitude: -95.965172
+- County FIPS: 31055
+- County from: 2020
+- Tract 2020: 31055005902
+- Tract 2010: 31055005902
+- Tract 2000: 31055005902
+- Tract 1990: 31055005902
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 1825
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 120465
+- Units: 19
+- Low-income units: 18
+- Units reported: 19
+- Low-income reported: 18
+- Efficiencies: 19
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

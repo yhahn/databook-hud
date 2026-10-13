@@ -1,0 +1,85 @@
+# Project: GARDEN WALK OF BENTONVILLE FKA FAIRFIELD MANO (ARA20130003)
+
+- HUD ID: ARA20130003
+- HUD ID before: 
+- Project: GARDEN WALK OF BENTONVILLE FKA FAIRFIELD MANO
+- Address: 801 1/2 SE 10TH
+- City: BENTONVILLE
+- State: AR
+- ZIP: 72712
+- ZIP extension: 
+- State project ID: AR-92-20
+- Latitude: 36.36101
+- Longitude: -94.20082
+- County FIPS: 05007
+- County from: 2020
+- Tract 2020: 05007020504
+- Tract 2010: 05007020504
+- Tract 2000: 05007020502
+- Tract 1990: 05007020502
+- Place 2020: 05320
+- Place 2010: 05320
+- Place 2000: 05320
+- Place 1990: 0175
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 182652
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1994040, ARA1992615, ARA1992032. FKA FAIRFIELD MANOR
+- Record status: Existing, unchanged

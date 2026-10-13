@@ -1,0 +1,85 @@
+# Project: ADAMS COURT (NYB20090010)
+
+- HUD ID: NYB20090010
+- HUD ID before: 
+- Project: ADAMS COURT
+- Address: GROVE ST
+- City: HEMPSTEAD
+- State: NY
+- ZIP: 
+- ZIP extension: 
+- State project ID: NY-09-1884
+- Latitude: 40.6967
+- Longitude: -73.6261
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059406801
+- Tract 2010: 36059407000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 33139
+- Place 2010: 33139
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 517908
+- Units: 84
+- Low-income units: 79
+- Units reported: 84
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 38
+- 3-bedroom units: 10
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

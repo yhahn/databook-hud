@@ -1,0 +1,85 @@
+# Project: BAY HILL APTS (WIA20030005)
+
+- HUD ID: WIA20030005
+- HUD ID before: 
+- Project: BAY HILL APTS
+- Address: 633 N 12TH AVE
+- City: STURGEON BAY
+- State: WI
+- ZIP: 54235
+- ZIP extension: 
+- State project ID: 2579
+- Latitude: 44.844535
+- Longitude: -87.364911
+- County FIPS: 55029
+- County from: 2020
+- Tract 2020: 55029100700
+- Tract 2010: 55029100700
+- Tract 2000: 55029980700
+- Tract 1990: 55029980700
+- Place 2020: 77875
+- Place 2010: 77875
+- Place 2000: 77875
+- Place 1990: 2480
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 49
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

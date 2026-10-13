@@ -1,0 +1,85 @@
+# Project: SENECA STREET SPECIAL NEEDS SRO (NYA20070355)
+
+- HUD ID: NYA20070355
+- HUD ID before: 
+- Project: SENECA STREET SPECIAL NEEDS SRO
+- Address: 1603 SENECA ST
+- City: BUFFALO
+- State: NY
+- ZIP: 14210
+- ZIP extension: 
+- State project ID: 20060107
+- Latitude: 42.864485
+- Longitude: -78.821875
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029001100
+- Tract 2010: 36029001100
+- Tract 2000: 36029001100
+- Tract 1990: 36029001100
+- Place 2020: 11000
+- Place 2010: 11000
+- Place 2000: 11000
+- Place 1990: 0450
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 570444
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 75
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 33
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

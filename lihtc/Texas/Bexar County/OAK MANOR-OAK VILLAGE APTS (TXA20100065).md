@@ -1,0 +1,85 @@
+# Project: OAK MANOR/OAK VILLAGE APTS (TXA20100065)
+
+- HUD ID: TXA20100065
+- HUD ID before: 
+- Project: OAK MANOR/OAK VILLAGE APTS
+- Address: 2330 AUSTIN HWY
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78218
+- ZIP extension: 
+- State project ID: 
+- Latitude: 29.507734
+- Longitude: -98.410963
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029120502
+- Tract 2010: 48029120502
+- Tract 2000: 48029120502
+- Tract 1990: 48029120502
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3745
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 229
+- Low-income units: 137
+- Units reported: 229
+- Low-income reported: 137
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 79
+- 3-bedroom units: 80
+- 4-bedroom units: 20
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 12171481
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

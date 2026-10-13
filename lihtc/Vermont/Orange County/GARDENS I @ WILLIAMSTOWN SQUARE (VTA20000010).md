@@ -1,0 +1,85 @@
+# Project: GARDENS I @ WILLIAMSTOWN SQUARE (VTA20000010)
+
+- HUD ID: VTA20000010
+- HUD ID before: 
+- Project: GARDENS I @ WILLIAMSTOWN SQUARE
+- Address: 2844 VT RTE 14
+- City: WILLIAMSTOWN
+- State: VT
+- ZIP: 05679
+- ZIP extension: 
+- State project ID: 0194
+- Latitude: 44.114965
+- Longitude: -72.539333
+- County FIPS: 50017
+- County from: 2020
+- Tract 2020: 50017959200
+- Tract 2010: 50017959200
+- Tract 2000: 50017959200
+- Tract 1990: 50017959200
+- Place 2020: 84100
+- Place 2010: 84100
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 21056
+- Units: 30
+- Low-income units: 7
+- Units reported: 30
+- Low-income reported: 7
+- Efficiencies: 12
+- 1-bedroom units: 15
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GARDENS AT WILLIAMSTOWN SQUARE.
+- Record status: Existing, unchanged

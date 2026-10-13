@@ -1,0 +1,85 @@
+# Project: ARBORS AT BELLEVILLE PARK I (INA20030005)
+
+- HUD ID: INA20030005
+- HUD ID before: 
+- Project: ARBORS AT BELLEVILLE PARK I
+- Address: 23291 BELLEVILLE CIR
+- City: SOUTH BEND
+- State: IN
+- ZIP: 46619
+- ZIP extension: 
+- State project ID: IN-02-00600
+- Latitude: 41.658503
+- Longitude: -86.32
+- County FIPS: 18141
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18141002600
+- Tract 2000: 18141002600
+- Tract 1990: 18141002600
+- Place 2020: 
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2375
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 48
+- 3-bedroom units: 24
+- 4-bedroom units: 16
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

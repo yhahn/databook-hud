@@ -1,0 +1,85 @@
+# Project: LAKOTA POINTE TOWNHOMES PHASE II (OHA19950175)
+
+- HUD ID: OHA19950175
+- HUD ID before: 
+- Project: LAKOTA POINTE TOWNHOMES PHASE II
+- Address: 6549 LAKOTA POINTE LN
+- City: LIBERTY TOWNSHIP
+- State: OH
+- ZIP: 45044
+- ZIP extension: 
+- State project ID: OH-94-4064
+- Latitude: 39.380608
+- Longitude: -84.389948
+- County FIPS: 39017
+- County from: 2020
+- Tract 2020: 39017011120
+- Tract 2010: 39017011120
+- Tract 2000: 39017011106
+- Tract 1990: 39017011106
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 499965
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 40
+- 4-bedroom units: 40
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

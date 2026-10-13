@@ -1,0 +1,85 @@
+# Project: BLUEGRASS PHASE II DEVELOPMENT (KYA20078005)
+
+- HUD ID: KYA20078005
+- HUD ID before: 
+- Project: BLUEGRASS PHASE II DEVELOPMENT
+- Address: E. SIXTH ST.
+- City: LEXINGTON
+- State: KY
+- ZIP: 40505
+- ZIP extension: 1428
+- State project ID: KY-05-012
+- Latitude: 38.0562
+- Longitude: -84.4483
+- County FIPS: 21067
+- County from: 2020
+- Tract 2020: 21067003202
+- Tract 2010: 21067003202
+- Tract 2000: 21067001200
+- Tract 1990: 
+- Place 2020: 46027
+- Place 2010: 46027
+- Place 2000: 46027
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 499200
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

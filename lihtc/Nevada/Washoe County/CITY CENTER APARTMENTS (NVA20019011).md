@@ -1,0 +1,85 @@
+# Project: CITY CENTER APARTMENTS (NVA20019011)
+
+- HUD ID: NVA20019011
+- HUD ID before: NVA00000008
+- Project: CITY CENTER APARTMENTS
+- Address: 160 SINCLAIR STREET
+- City: RENO
+- State: NV
+- ZIP: 89501
+- ZIP extension: 0000
+- State project ID: 00-51
+- Latitude: 39.524407
+- Longitude: -119.808995
+- County FIPS: 32031
+- County from: 2020
+- Tract 2020: 32031000106
+- Tract 2010: 32031000102
+- Tract 2000: 32031000100
+- Tract 1990: 32031000100
+- Place 2020: 60600
+- Place 2010: 60600
+- Place 2000: 60600
+- Place 1990: 0090
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 777267
+- Units: 258
+- Low-income units: 258
+- Units reported: 258
+- Low-income reported: 258
+- Efficiencies: 171
+- 1-bedroom units: 87
+- 2-bedroom units: 0
+- 3-bedroom units: 171
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: SINGLE ROOM OCCUPANCY
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS NVA00000008
+- Record status: Existing, unchanged

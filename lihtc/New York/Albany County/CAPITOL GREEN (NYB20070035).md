@@ -1,0 +1,85 @@
+# Project: CAPITOL GREEN (NYB20070035)
+
+- HUD ID: NYB20070035
+- HUD ID before: 
+- Project: CAPITOL GREEN
+- Address: 400 CENTRAL AVE
+- City: ALBANY
+- State: NY
+- ZIP: 12206
+- ZIP extension: 
+- State project ID: 1662
+- Latitude: 42.667294
+- Longitude: -73.775679
+- County FIPS: 36001
+- County from: 2020
+- Tract 2020: 36001000501
+- Tract 2010: 36001000501
+- Tract 2000: 36001000501
+- Tract 1990: 36001000501
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0030
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 865307
+- Units: 308
+- Low-income units: 298
+- Units reported: 308
+- Low-income reported: 298
+- Efficiencies: 44
+- 1-bedroom units: 176
+- 2-bedroom units: 88
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CENTRAL TOWERS.
+- Record status: Existing, unchanged

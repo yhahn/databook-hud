@@ -1,0 +1,85 @@
+# Project: WHITE BIRCH I APTS (WIA20050155)
+
+- HUD ID: WIA20050155
+- HUD ID before: 
+- Project: WHITE BIRCH I APTS
+- Address: 9001 N 75TH ST
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53223
+- ZIP extension: 
+- State project ID: 3112
+- Latitude: 43.182156
+- Longitude: -88.002408
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079000101
+- Tract 2010: 55079000101
+- Tract 2000: 55079000100
+- Tract 1990: 55079000100
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 151
+- Low-income units: 149
+- Units reported: 151
+- Low-income reported: 149
+- Efficiencies: 0
+- 1-bedroom units: 107
+- 2-bedroom units: 32
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

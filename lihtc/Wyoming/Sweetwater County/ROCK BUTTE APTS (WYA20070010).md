@@ -1,0 +1,85 @@
+# Project: ROCK BUTTE APTS (WYA20070010)
+
+- HUD ID: WYA20070010
+- HUD ID before: 
+- Project: ROCK BUTTE APTS
+- Address: 1430 W TETON BLVD
+- City: GREEN RIVER
+- State: WY
+- ZIP: 82935
+- ZIP extension: 
+- State project ID: 06-002
+- Latitude: 41.502437
+- Longitude: -109.459249
+- County FIPS: 56037
+- County from: 2020
+- Tract 2020: 56037970602
+- Tract 2010: 56037970602
+- Tract 2000: 56037970602
+- Tract 1990: 56037970600
+- Place 2020: 33740
+- Place 2010: 33740
+- Place 2000: 33740
+- Place 1990: 0180
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 274830
+- Units: 69
+- Low-income units: 69
+- Units reported: 69
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 69
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 69
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RAMONA ESTATES (CAA20147499)
+
+- HUD ID: CAA20147499
+- HUD ID before: 
+- Project: RAMONA ESTATES
+- Address: 1935 E 122ND ST
+- City: COMPTON
+- State: CA
+- ZIP: 90222
+- ZIP extension: 
+- State project ID: CA-13-977
+- Latitude: 33.921858
+- Longitude: -118.237518
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037540600
+- Tract 2010: 06037540600
+- Tract 2000: 06037540600
+- Tract 1990: 06037540600
+- Place 2020: 85614
+- Place 2010: 85614
+- Place 2000: 85614
+- Place 1990: 3121
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 59
+- Units reported: 57
+- Low-income reported: 59
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

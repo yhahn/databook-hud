@@ -1,0 +1,85 @@
+# Project: HUGHES AVENUE RESIDENCE (NYC20110811)
+
+- HUD ID: NYC20110811
+- HUD ID before: 
+- Project: HUGHES AVENUE RESIDENCE
+- Address: 614 E 179TH ST
+- City: BRONX
+- State: NY
+- ZIP: 10457
+- ZIP extension: 
+- State project ID: 1002016
+- Latitude: 40.847669
+- Longitude: -73.892122
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005037300
+- Tract 2010: 36005037300
+- Tract 2000: 36005037300
+- Tract 1990: 36005037300
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1125000
+- Units: 91
+- Low-income units: 91
+- Units reported: 91
+- Low-income reported: 91
+- Efficiencies: 73
+- 1-bedroom units: 9
+- 2-bedroom units: 6
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 12880000
+- CDBG: 
+- CDBG amount: 
+- TCAP: Yes
+- TCAP amount: 6159954
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

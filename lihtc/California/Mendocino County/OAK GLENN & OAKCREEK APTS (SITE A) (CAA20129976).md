@@ -1,0 +1,85 @@
+# Project: OAK GLENN & OAKCREEK APTS (SITE A) (CAA20129976)
+
+- HUD ID: CAA20129976
+- HUD ID before: 
+- Project: OAK GLENN & OAKCREEK APTS (SITE A)
+- Address: 1299 LOCUST ST AND 300 CREEKSIDE DRIVE
+- City: WILLITS
+- State: CA
+- ZIP: 95490
+- ZIP extension: 
+- State project ID: CA-11-041
+- Latitude: 39.398505
+- Longitude: -123.354768
+- County FIPS: 06045
+- County from: 2020
+- Tract 2020: 06045010700
+- Tract 2010: 06045010700
+- Tract 2000: 06045010700
+- Tract 1990: 06045010700
+- Place 2020: 85600
+- Place 2010: 85600
+- Place 2000: 85600
+- Place 1990: 3120
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 69
+- Low-income units: 67
+- Units reported: 69
+- Low-income reported: 67
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TORRINGTON APTS (WYA19920005)
+
+- HUD ID: WYA19920005
+- HUD ID before: 
+- Project: TORRINGTON APTS
+- Address: 1309 E 17TH AVE
+- City: TORRINGTON
+- State: WY
+- ZIP: 82240
+- ZIP extension: 
+- State project ID: 91-002
+- Latitude: 42.060961
+- Longitude: -104.169242
+- County FIPS: 56015
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 56015957900
+- Tract 2000: 56015957900
+- Tract 1990: 56015957900
+- Place 2020: 
+- Place 2010: 77530
+- Place 2000: 77530
+- Place 1990: 0450
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 41959
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WYA0000086.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ARBORS AT EASTLAND (INA20050096)
+
+- HUD ID: INA20050096
+- HUD ID before: 
+- Project: ARBORS AT EASTLAND
+- Address: 6649 OLD BOONVILLE HWY
+- City: EVANSVILLE
+- State: IN
+- ZIP: 47715
+- ZIP extension: 
+- State project ID: IN-03-01900
+- Latitude: 38.027299
+- Longitude: -87.471234
+- County FIPS: 18163
+- County from: 2020
+- Tract 2020: 18163010102
+- Tract 2010: 18163010100
+- Tract 2000: 18163010100
+- Tract 1990: 18163010100
+- Place 2020: 22000
+- Place 2010: 99999
+- Place 2000: 22000
+- Place 1990: 0775
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 88
+- 3-bedroom units: 56
+- 4-bedroom units: 24
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2004007.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ASHTABULA HOMES II (OHA20059328)
+
+- HUD ID: OHA20059328
+- HUD ID before: 
+- Project: ASHTABULA HOMES II
+- Address: 5700 NATHAN AVE
+- City: ASHTABULA
+- State: OH
+- ZIP: 44004
+- ZIP extension: 
+- State project ID: 03-0042
+- Latitude: 41.856585
+- Longitude: -80.797994
+- County FIPS: 39007
+- County from: 2020
+- Tract 2020: 39007000703
+- Tract 2010: 39007000703
+- Tract 2000: 39007000703
+- Tract 1990: 39007000703
+- Place 2020: 02638
+- Place 2010: 02638
+- Place 2000: 02638
+- Place 1990: 0165
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 633757
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 10
+- 4-bedroom units: 30
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2004653, OHA2005014.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LAKEVIEW COURT APTS (INA19970164)
+
+- HUD ID: INA19970164
+- HUD ID before: 
+- Project: LAKEVIEW COURT APTS
+- Address: 314 GREAT LAKES DR
+- City: NOBLESVILLE
+- State: IN
+- ZIP: 46060
+- ZIP extension: 
+- State project ID: IN-94-07300
+- Latitude: 40.052047
+- Longitude: -86.021805
+- County FIPS: 18057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18057110509
+- Tract 2000: 18057110502
+- Tract 1990: 18057110502
+- Place 2020: 
+- Place 2010: 54180
+- Place 2000: 54180
+- Place 1990: 1860
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 140
+- Low-income units: 115
+- Units reported: 140
+- Low-income reported: 115
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 72
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA1996100.
+- Record status: Existing, unchanged

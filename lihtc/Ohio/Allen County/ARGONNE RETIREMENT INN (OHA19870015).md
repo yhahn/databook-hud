@@ -1,0 +1,85 @@
+# Project: ARGONNE RETIREMENT INN (OHA19870015)
+
+- HUD ID: OHA19870015
+- HUD ID before: 
+- Project: ARGONNE RETIREMENT INN
+- Address: 201 N ELIZABETH ST
+- City: LIMA
+- State: OH
+- ZIP: 45801
+- ZIP extension: 
+- State project ID: OH-87-0144
+- Latitude: 40.741364
+- Longitude: -84.107035
+- County FIPS: 39003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39003014100
+- Tract 2000: 39003012800
+- Tract 1990: 39003012800
+- Place 2020: 
+- Place 2010: 43554
+- Place 2000: 43554
+- Place 1990: 2205
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 85
+- Low-income units: 77
+- Units reported: 85
+- Low-income reported: 77
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

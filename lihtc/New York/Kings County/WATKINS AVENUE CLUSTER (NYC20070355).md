@@ -1,0 +1,85 @@
+# Project: WATKINS AVENUE CLUSTER (NYC20070355)
+
+- HUD ID: NYC20070355
+- HUD ID before: 
+- Project: WATKINS AVENUE CLUSTER
+- Address: 544 BRISTOL ST
+- City: BROOKLYN
+- State: NY
+- ZIP: 11212
+- ZIP extension: 
+- State project ID: NY0602075
+- Latitude: 40.65762
+- Longitude: -73.909791
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047091600
+- Tract 2010: 36047091600
+- Tract 2000: 36047091600
+- Tract 1990: 36047091600
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 43153
+- Units: 6
+- Low-income units: 4
+- Units reported: 6
+- Low-income reported: 4
+- Efficiencies: 1
+- 1-bedroom units: 5
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 301189
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HARVARD STREET PHASE II (ORA19949002)
+
+- HUD ID: ORA19949002
+- HUD ID before: 
+- Project: HARVARD STREET PHASE II
+- Address: 1592 HARVARD ST
+- City: BANDON
+- State: OR
+- ZIP: 97411
+- ZIP extension: 
+- State project ID: OR-94-11216
+- Latitude: 43.111621
+- Longitude: -124.405326
+- County FIPS: 41011
+- County from: 2020
+- Tract 2020: 41011001002
+- Tract 2010: 41011001000
+- Tract 2000: 41011001000
+- Tract 1990: 41011001000
+- Place 2020: 03800
+- Place 2010: 03800
+- Place 2000: 03800
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

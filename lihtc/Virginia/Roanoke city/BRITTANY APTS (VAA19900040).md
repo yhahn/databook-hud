@@ -1,0 +1,85 @@
+# Project: BRITTANY APTS (VAA19900040)
+
+- HUD ID: VAA19900040
+- HUD ID before: 
+- Project: BRITTANY APTS
+- Address: 410 WESTSIDE BLVD NW
+- City: ROANOKE
+- State: VA
+- ZIP: 24017
+- ZIP extension: 
+- State project ID: 4284
+- Latitude: 37.278506
+- Longitude: -80.003604
+- County FIPS: 51770
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 51770000900
+- Tract 2000: 51770000900
+- Tract 1990: 51770000900
+- Place 2020: 
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 1045
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 94349
+- Units: 197
+- Low-income units: 80
+- Units reported: 197
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BRITTANY APTS WEST.
+- Record status: Existing, unchanged

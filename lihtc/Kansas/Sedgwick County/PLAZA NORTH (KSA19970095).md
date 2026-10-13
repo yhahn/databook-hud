@@ -1,0 +1,85 @@
+# Project: PLAZA NORTH (KSA19970095)
+
+- HUD ID: KSA19970095
+- HUD ID before: 
+- Project: PLAZA NORTH
+- Address: 2113 N MADISON AVE
+- City: WICHITA
+- State: KS
+- ZIP: 67214
+- ZIP extension: 
+- State project ID: KS-95-36
+- Latitude: 37.721264
+- Longitude: -97.310665
+- County FIPS: 20173
+- County from: 2020
+- Tract 2020: 20173000700
+- Tract 2010: 20173000700
+- Tract 2000: 20173000700
+- Tract 1990: 20173000700
+- Place 2020: 79000
+- Place 2010: 79000
+- Place 2000: 79000
+- Place 1990: 3040
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 575640
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 68
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1997055, KSA0000024. AKA 21ST STREET RESIDENCES.
+- Record status: Existing, unchanged

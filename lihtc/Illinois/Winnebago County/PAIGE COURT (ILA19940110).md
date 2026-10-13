@@ -1,0 +1,85 @@
+# Project: PAIGE COURT (ILA19940110)
+
+- HUD ID: ILA19940110
+- HUD ID before: 
+- Project: PAIGE COURT
+- Address: 420 LISTON AVE
+- City: SOUTH BELOIT
+- State: IL
+- ZIP: 61080
+- ZIP extension: 
+- State project ID: 56892
+- Latitude: 42.47867
+- Longitude: -89.045853
+- County FIPS: 17201
+- County from: 2020
+- Tract 2020: 17201004004
+- Tract 2010: 17201004001
+- Tract 2000: 17201004001
+- Tract 1990: 17201004001
+- Place 2020: 70590
+- Place 2010: 70590
+- Place 2000: 65156
+- Place 1990: 5400
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 55019
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

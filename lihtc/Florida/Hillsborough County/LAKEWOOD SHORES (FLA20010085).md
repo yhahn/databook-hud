@@ -1,0 +1,85 @@
+# Project: LAKEWOOD SHORES (FLA20010085)
+
+- HUD ID: FLA20010085
+- HUD ID before: 
+- Project: LAKEWOOD SHORES
+- Address: 1722 LAKEWOOD SHORES LN
+- City: BRANDON
+- State: FL
+- ZIP: 33510
+- ZIP extension: 
+- State project ID: 447
+- Latitude: 27.939865
+- Longitude: -82.311191
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057012212
+- Tract 2010: 12057012212
+- Tract 2000: 12057012205
+- Tract 1990: 12057012201
+- Place 2020: 08150
+- Place 2010: 08150
+- Place 2000: 08150
+- Place 1990: 0225
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 183
+- Units reported: 184
+- Low-income reported: 183
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 92
+- 3-bedroom units: 40
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

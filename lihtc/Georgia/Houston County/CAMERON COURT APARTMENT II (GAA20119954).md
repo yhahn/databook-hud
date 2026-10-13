@@ -1,0 +1,85 @@
+# Project: CAMERON COURT APARTMENT II (GAA20119954)
+
+- HUD ID: GAA20119954
+- HUD ID before: 
+- Project: CAMERON COURT APARTMENT II
+- Address: 1807 MACON RD
+- City: PERRY
+- State: GA
+- ZIP: 31069
+- ZIP extension: 
+- State project ID: 2009-056
+- Latitude: 32.476054
+- Longitude: -83.729971
+- County FIPS: 13153
+- County from: 2020
+- Tract 2020: 13153021206
+- Tract 2010: 13153021202
+- Tract 2000: 13153021200
+- Tract 1990: 13153021200
+- Place 2020: 60340
+- Place 2010: 60340
+- Place 2000: 60340
+- Place 1990: 2210
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 48
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CAMERONURT APTS.
+- Record status: Updated

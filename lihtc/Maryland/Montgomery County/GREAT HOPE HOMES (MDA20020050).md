@@ -1,0 +1,85 @@
+# Project: GREAT HOPE HOMES (MDA20020050)
+
+- HUD ID: MDA20020050
+- HUD ID before: 
+- Project: GREAT HOPE HOMES
+- Address: 900 GOOD HOPE DR
+- City: SILVER SPRING
+- State: MD
+- ZIP: 20905
+- ZIP extension: 
+- State project ID: MD01-26001
+- Latitude: 39.094055
+- Longitude: -76.992672
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031701415
+- Tract 2010: 24031701415
+- Tract 2000: 24031701415
+- Tract 1990: 24031701415
+- Place 2020: 18150
+- Place 2010: 18150
+- Place 2000: 18150
+- Place 1990: 0217
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 30
+- 3-bedroom units: 35
+- 4-bedroom units: 25
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

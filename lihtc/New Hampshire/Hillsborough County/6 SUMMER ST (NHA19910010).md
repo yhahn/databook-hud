@@ -1,0 +1,85 @@
+# Project: 6 SUMMER ST (NHA19910010)
+
+- HUD ID: NHA19910010
+- HUD ID before: 
+- Project: 6 SUMMER ST
+- Address: 6 SUMMER ST
+- City: NASHUA
+- State: NH
+- ZIP: 03064
+- ZIP extension: 
+- State project ID: NH91-005
+- Latitude: 42.767845
+- Longitude: -71.466464
+- County FIPS: 33011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 33011010500
+- Tract 2000: 33011010500
+- Tract 1990: 33011010500
+- Place 2020: 
+- Place 2010: 50260
+- Place 2000: 50260
+- Place 1990: 1770
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 17
+- Low-income units: 17
+- Units reported: 
+- Low-income reported: 17
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

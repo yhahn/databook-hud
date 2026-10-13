@@ -1,0 +1,85 @@
+# Project: NORTHSIDE APARTMENTS I (KYA20080100)
+
+- HUD ID: KYA20080100
+- HUD ID before: 
+- Project: NORTHSIDE APARTMENTS I
+- Address: NORTHSIDE AVE
+- City: SHEPHERDSVILLE
+- State: KY
+- ZIP: 40165
+- ZIP extension: 
+- State project ID: KY-07-055
+- Latitude: 37.9917
+- Longitude: -85.6968
+- County FIPS: 21029
+- County from: 2020
+- Tract 2020: 21029020703
+- Tract 2010: 21029020702
+- Tract 2000: 21029020700
+- Tract 1990: 21029020700
+- Place 2020: 70086
+- Place 2010: 70086
+- Place 2000: 
+- Place 1990: 1795
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 188580
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 20
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

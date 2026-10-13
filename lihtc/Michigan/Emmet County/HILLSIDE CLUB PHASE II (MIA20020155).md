@@ -1,0 +1,85 @@
+# Project: HILLSIDE CLUB PHASE II (MIA20020155)
+
+- HUD ID: MIA20020155
+- HUD ID before: 
+- Project: HILLSIDE CLUB PHASE II
+- Address: 405 VALLEYCREST
+- City: PETOSKEY
+- State: MI
+- ZIP: 49770
+- ZIP extension: 
+- State project ID: MI-1021
+- Latitude: 45.37045
+- Longitude: -84.929043
+- County FIPS: 26047
+- County from: 2020
+- Tract 2020: 26047970700
+- Tract 2010: 26047970700
+- Tract 2000: 26047970700
+- Tract 1990: 26047970700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 63820
+- Place 1990: 2145
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 64
+- Units reported: 104
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 64
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BRISTOL PARK APARTMENTS (ARA19990010)
+
+- HUD ID: ARA19990010
+- HUD ID before: 
+- Project: BRISTOL PARK APARTMENTS
+- Address: 12201 MARA LYNN RD
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72211
+- ZIP extension: 
+- State project ID: AR-97-50
+- Latitude: 34.757888
+- Longitude: -92.408115
+- County FIPS: 05119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05119002209
+- Tract 2000: 05119002205
+- Tract 1990: 05119002205
+- Place 2020: 
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 345480
+- Units: 204
+- Low-income units: 140
+- Units reported: 204
+- Low-income reported: 140
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 195
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LA POSADA APTS (TUCSON) (AZA19990035)
+
+- HUD ID: AZA19990035
+- HUD ID before: 
+- Project: LA POSADA APTS (TUCSON)
+- Address: 6300 S HEADLEY RD
+- City: TUCSON
+- State: AZ
+- ZIP: 85746
+- ZIP extension: 
+- State project ID: TC-0450
+- Latitude: 32.13761
+- Longitude: -111.007125
+- County FIPS: 04019
+- County from: 2020
+- Tract 2020: 04019002508
+- Tract 2010: 04019002506
+- Tract 2000: 04019002506
+- Tract 1990: 04019002502
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 0380
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 125
+- Low-income units: 95
+- Units reported: 125
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 28
+- 3-bedroom units: 71
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TUCSON LA POSADA APTS.
+- Record status: Existing, unchanged

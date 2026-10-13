@@ -1,0 +1,85 @@
+# Project: GREENS AT BRANSON HILLS (MOA20110210)
+
+- HUD ID: MOA20110210
+- HUD ID before: 
+- Project: GREENS AT BRANSON HILLS
+- Address: 110 HARBOUR TOWN DR
+- City: BRANSON
+- State: MO
+- ZIP: 65616
+- ZIP extension: 
+- State project ID: 10-903
+- Latitude: 36.683251
+- Longitude: -93.235267
+- County FIPS: 29213
+- County from: 2020
+- Tract 2020: 29213480208
+- Tract 2010: 29213480201
+- Tract 2000: 29213980100
+- Tract 1990: 29213980100
+- Place 2020: 07966
+- Place 2010: 07966
+- Place 2000: 07966
+- Place 1990: 0495
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 811107
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 54
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA2011531.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SAXONY MANOR (WIA20151014)
+
+- HUD ID: WIA20151014
+- HUD ID before: 
+- Project: SAXONY MANOR
+- Address: 1878 22ND AVE
+- City: KENOSHA
+- State: WI
+- ZIP: 53140
+- ZIP extension: 
+- State project ID: 6014
+- Latitude: 42.622034
+- Longitude: -87.836106
+- County FIPS: 55059
+- County from: 2020
+- Tract 2020: 55059000502
+- Tract 2010: 55059000500
+- Tract 2000: 55059000500
+- Tract 1990: 
+- Place 2020: 39225
+- Place 2010: 39225
+- Place 2000: 39225
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 850000
+- Units: 224
+- Low-income units: 2
+- Units reported: 224
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 224
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

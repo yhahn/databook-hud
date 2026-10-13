@@ -1,0 +1,85 @@
+# Project: KOOLOAULA PHASE II (HIA20161003)
+
+- HUD ID: HIA20161003
+- HUD ID before: 
+- Project: KOOLOAULA PHASE II
+- Address: 91 1159 KEAHUMOA PARKWAY
+- City: EWA BEACH
+- State: HI
+- ZIP: 96706
+- ZIP extension: 
+- State project ID: HI-2014-001
+- Latitude: 21.3261
+- Longitude: -158.0281
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003008410
+- Tract 2010: 15003008410
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 07470
+- Place 2010: 07470
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1031724
+- Units: 188
+- Low-income units: 188
+- Units reported: 188
+- Low-income reported: 188
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 7
+- 3-bedroom units: 2
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

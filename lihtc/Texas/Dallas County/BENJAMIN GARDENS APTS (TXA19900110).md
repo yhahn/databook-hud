@@ -1,0 +1,85 @@
+# Project: BENJAMIN GARDENS APTS (TXA19900110)
+
+- HUD ID: TXA19900110
+- HUD ID before: 
+- Project: BENJAMIN GARDENS APTS
+- Address: 500 W SIXTH ST
+- City: IRVING
+- State: TX
+- ZIP: 75060
+- ZIP extension: 
+- State project ID: TX6894
+- Latitude: 32.808479
+- Longitude: -96.952777
+- County FIPS: 48113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48113015100
+- Tract 2000: 48113015100
+- Tract 1990: 48113015100
+- Place 2020: 
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 2060
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 5
+- 1-bedroom units: 21
+- 2-bedroom units: 45
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

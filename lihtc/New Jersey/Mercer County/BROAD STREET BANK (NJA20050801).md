@@ -1,0 +1,85 @@
+# Project: BROAD STREET BANK (NJA20050801)
+
+- HUD ID: NJA20050801
+- HUD ID before: 
+- Project: BROAD STREET BANK
+- Address: 143 EAST STATE STREET
+- City: TRENTON CITY
+- State: NJ
+- ZIP: 08608
+- ZIP extension: 
+- State project ID: NJ-02093-1
+- Latitude: 40.22003
+- Longitude: -74.763194
+- County FIPS: 34021
+- County from: 2020
+- Tract 2020: 34021000900
+- Tract 2010: 34021000900
+- Tract 2000: 34021000900
+- Tract 1990: 34021000900
+- Place 2020: 74000
+- Place 2010: 74000
+- Place 2000: 74000
+- Place 1990: 3770
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 207614
+- Units: 124
+- Low-income units: 25
+- Units reported: 124
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2007030, NJA2005155.;
+- Record status: Existing, unchanged

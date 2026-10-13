@@ -1,0 +1,85 @@
+# Project: MARIPOSA AT BAY COLONY (TXA20130810)
+
+- HUD ID: TXA20130810
+- HUD ID before: 
+- Project: MARIPOSA AT BAY COLONY
+- Address: 1101 FM 517 RD W
+- City: DICKINSON
+- State: TX
+- ZIP: 77539
+- ZIP extension: 
+- State project ID: TX4788
+- Latitude: 29.439326
+- Longitude: -95.100553
+- County FIPS: 48167
+- County from: 2020
+- Tract 2020: 48167720603
+- Tract 2010: 48167720600
+- Tract 2000: 48167720600
+- Tract 1990: 48167120300
+- Place 2020: 20344
+- Place 2010: 20344
+- Place 2000: 20344
+- Place 1990: 2414
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 195
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

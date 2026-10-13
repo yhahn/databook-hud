@@ -1,0 +1,85 @@
+# Project: CARPENTER'S SQUARE #693 (NJA20049060)
+
+- HUD ID: NJA20049060
+- HUD ID before: 
+- Project: CARPENTER'S SQUARE #693
+- Address: 430 S BROADWAY
+- City: GLOUCESTER CITY
+- State: NJ
+- ZIP: 08030
+- ZIP extension: 2369
+- State project ID: 01332-SOLAR
+- Latitude: 39.888587
+- Longitude: -75.120288
+- County FIPS: 34007
+- County from: 2020
+- Tract 2020: 34007611000
+- Tract 2010: 34007611000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26820
+- Place 2010: 26820
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 101
+- Low-income units: 101
+- Units reported: 101
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 100
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

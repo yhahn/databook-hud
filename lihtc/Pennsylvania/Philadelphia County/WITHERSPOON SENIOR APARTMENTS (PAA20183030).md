@@ -1,0 +1,85 @@
+# Project: WITHERSPOON SENIOR APARTMENTS (PAA20183030)
+
+- HUD ID: PAA20183030
+- HUD ID before: 
+- Project: WITHERSPOON SENIOR APARTMENTS
+- Address: 2050 S 58TH ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19143
+- ZIP extension: 5932
+- State project ID: TC20160831
+- Latitude: 39.93389
+- Longitude: -75.226604
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101006600
+- Tract 2010: 42101006600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1200000
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 60
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: VETERANS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

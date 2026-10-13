@@ -1,0 +1,85 @@
+# Project: SUTTON PLACE (FLA20110520)
+
+- HUD ID: FLA20110520
+- HUD ID before: 
+- Project: SUTTON PLACE
+- Address: 523 NE 23RD CIR
+- City: OCALA
+- State: FL
+- ZIP: 34470
+- ZIP extension: 
+- State project ID: 2390
+- Latitude: 29.192408
+- Longitude: -82.105758
+- County FIPS: 12083
+- County from: 2020
+- Tract 2020: 12083002002
+- Tract 2010: 12083002002
+- Tract 2000: 12083002002
+- Tract 1990: 12083002002
+- Place 2020: 50750
+- Place 2010: 50750
+- Place 2000: 50750
+- Place 1990: 1545
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 130
+- Low-income units: 130
+- Units reported: 130
+- Low-income reported: 130
+- Efficiencies: 0
+- 1-bedroom units: 74
+- 2-bedroom units: 0
+- 3-bedroom units: 32
+- 4-bedroom units: 24
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 155900
+- CDBG: 
+- CDBG amount: 
+- TCAP: Yes
+- TCAP amount: 1040000
+- TCEP: Yes
+- TCEP amount: 9252114
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011235.
+- Record status: Existing, unchanged

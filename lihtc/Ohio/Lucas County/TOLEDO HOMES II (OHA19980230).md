@@ -1,0 +1,85 @@
+# Project: TOLEDO HOMES II (OHA19980230)
+
+- HUD ID: OHA19980230
+- HUD ID before: 
+- Project: TOLEDO HOMES II
+- Address: 662 AVONDALE AVE
+- City: TOLEDO
+- State: OH
+- ZIP: 43604
+- ZIP extension: 
+- State project ID: 960106
+- Latitude: 41.649652
+- Longitude: -83.559467
+- County FIPS: 39095
+- County from: 2020
+- Tract 2020: 39095003300
+- Tract 2010: 39095003300
+- Tract 2000: 39095003300
+- Tract 1990: 39095003300
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 4265
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 380189
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 9
+- 4-bedroom units: 29
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

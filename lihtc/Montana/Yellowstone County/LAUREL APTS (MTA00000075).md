@@ -1,0 +1,85 @@
+# Project: LAUREL APTS (MTA00000075)
+
+- HUD ID: MTA00000075
+- HUD ID before: 
+- Project: LAUREL APTS
+- Address: 421 YELLOWSTONE AVE
+- City: LAUREL
+- State: MT
+- ZIP: 59044
+- ZIP extension: 
+- State project ID: 89030
+- Latitude: 45.662881
+- Longitude: -108.776367
+- County FIPS: 30111
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 30111001901
+- Tract 2000: 30111001900
+- Tract 1990: 30111001900
+- Place 2020: 
+- Place 2010: 42700
+- Place 2000: 42700
+- Place 1990: 0385
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 8
+- Low-income units: 8
+- Units reported: 
+- Low-income reported: 8
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

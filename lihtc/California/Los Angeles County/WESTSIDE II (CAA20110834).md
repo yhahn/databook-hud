@@ -1,0 +1,85 @@
+# Project: WESTSIDE II (CAA20110834)
+
+- HUD ID: CAA20110834
+- HUD ID before: 
+- Project: WESTSIDE II
+- Address: 725 HINDRY AVE
+- City: INGLEWOOD
+- State: CA
+- ZIP: 90301
+- ZIP extension: 
+- State project ID: CA-09-530
+- Latitude: 33.954588
+- Longitude: -118.373755
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037601401
+- Tract 2010: 06037601401
+- Tract 2000: 06037601401
+- Tract 1990: 06037601401
+- Place 2020: 36546
+- Place 2010: 36546
+- Place 2000: 36546
+- Place 1990: 1340
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 196
+- Low-income units: 196
+- Units reported: 196
+- Low-income reported: 196
+- Efficiencies: 196
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 19991497
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

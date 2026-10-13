@@ -1,0 +1,85 @@
+# Project: SANDY CREEK (MEA20000015)
+
+- HUD ID: MEA20000015
+- HUD ID before: 
+- Project: SANDY CREEK
+- Address: 41 SAWYER CIR
+- City: BRIDGTON
+- State: ME
+- ZIP: 04009
+- ZIP extension: 
+- State project ID: ME200001
+- Latitude: 44.032661
+- Longitude: -70.712235
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005016001
+- Tract 2010: 23005016000
+- Tract 2000: 23005016000
+- Tract 1990: 23005016098
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 07135
+- Place 1990: 0580
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 7
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

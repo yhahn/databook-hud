@@ -1,0 +1,85 @@
+# Project: LEGACY WALTON GREEN AKA 15TH STREET DEV PH I (GAA20184190)
+
+- HUD ID: GAA20184190
+- HUD ID before: 
+- Project: LEGACY WALTON GREEN AKA 15TH STREET DEV PH I
+- Address: 1550 15TH ST
+- City: AUGUSTA
+- State: GA
+- ZIP: 30901
+- ZIP extension: 3460
+- State project ID: 2015-045
+- Latitude: 33.461487
+- Longitude: -81.995812
+- County FIPS: 13245
+- County from: 2020
+- Tract 2020: 13245001400
+- Tract 2010: 13245001400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04204
+- Place 2010: 04204
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 56
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

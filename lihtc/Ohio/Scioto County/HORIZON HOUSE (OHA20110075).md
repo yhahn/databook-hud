@@ -1,0 +1,85 @@
+# Project: HORIZON HOUSE (OHA20110075)
+
+- HUD ID: OHA20110075
+- HUD ID before: 
+- Project: HORIZON HOUSE
+- Address: 700 SECOND ST
+- City: PORTSMOUTH
+- State: OH
+- ZIP: 45662
+- ZIP extension: 
+- State project ID: 090083
+- Latitude: 38.73136
+- Longitude: -82.998681
+- County FIPS: 39145
+- County from: 2020
+- Tract 2020: 39145003600
+- Tract 2010: 39145003600
+- Tract 2000: 39145993600
+- Tract 1990: 39145993600
+- Place 2020: 64304
+- Place 2010: 64304
+- Place 2000: 64304
+- Place 1990: 3530
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 5
+- 1-bedroom units: 37
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1591645
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2011862, OHA0000005.
+- Record status: Existing, unchanged

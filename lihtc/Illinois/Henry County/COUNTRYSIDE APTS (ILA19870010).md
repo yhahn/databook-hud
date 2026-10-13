@@ -1,0 +1,85 @@
+# Project: COUNTRYSIDE APTS (ILA19870010)
+
+- HUD ID: ILA19870010
+- HUD ID before: 
+- Project: COUNTRYSIDE APTS
+- Address: 703 ASH DR
+- City: GENESEO
+- State: IL
+- ZIP: 61254
+- ZIP extension: 
+- State project ID: IL-87-001
+- Latitude: 41.468812
+- Longitude: -90.143369
+- County FIPS: 17073
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17073030300
+- Tract 2000: 17073030300
+- Tract 1990: 17073030300
+- Place 2020: 
+- Place 2010: 28846
+- Place 2000: 28846
+- Place 1990: 2130
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 22742
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000360.
+- Record status: Existing, unchanged

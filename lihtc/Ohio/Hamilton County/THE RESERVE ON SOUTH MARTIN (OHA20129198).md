@@ -1,0 +1,85 @@
+# Project: THE RESERVE ON SOUTH MARTIN (OHA20129198)
+
+- HUD ID: OHA20129198
+- HUD ID before: 
+- Project: THE RESERVE ON SOUTH MARTIN
+- Address: 7363 MARTIN STREET
+- City: MT HEALTHY
+- State: OH
+- ZIP: 
+- ZIP extension: 
+- State project ID: 110125
+- Latitude: 39.229911
+- Longitude: -84.542602
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061021702
+- Tract 2010: 39061021702
+- Tract 2000: 39061021702
+- Tract 1990: 39061021700
+- Place 2020: 52752
+- Place 2010: 52752
+- Place 2000: 52752
+- Place 1990: 2820
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 32
+- Units reported: 60
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

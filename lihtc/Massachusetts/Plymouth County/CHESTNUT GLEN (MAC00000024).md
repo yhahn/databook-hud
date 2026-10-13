@@ -1,0 +1,85 @@
+# Project: CHESTNUT GLEN (MAC00000024)
+
+- HUD ID: MAC00000024
+- HUD ID before: 
+- Project: CHESTNUT GLEN
+- Address: 585 CHESTNUT ST
+- City: ABINGTON
+- State: MA
+- ZIP: 02351
+- ZIP extension: 
+- State project ID: MA-11-10077
+- Latitude: 42.124318
+- Longitude: -70.99807
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023520202
+- Tract 2010: 25023520202
+- Tract 2000: 25023520202
+- Tract 1990: 25023520202
+- Place 2020: 00135
+- Place 2010: 00135
+- Place 2000: 00135
+- Place 1990: 0010
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 130
+- Low-income units: 130
+- Units reported: 130
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

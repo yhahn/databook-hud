@@ -1,0 +1,85 @@
+# Project: PRAIRIE WIND APTS (KSA20030170)
+
+- HUD ID: KSA20030170
+- HUD ID before: 
+- Project: PRAIRIE WIND APTS
+- Address: 201 N CEDAR ST
+- City: ESKRIDGE
+- State: KS
+- ZIP: 66423
+- ZIP extension: 
+- State project ID: 60075
+- Latitude: 38.861987
+- Longitude: -96.107813
+- County FIPS: 20197
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20197483200
+- Tract 2000: 20197983200
+- Tract 1990: 20197983200
+- Place 2020: 
+- Place 2010: 21650
+- Place 2000: 21650
+- Place 1990: 0870
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 87160
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2002055. AKA ESKRIDGE HOUSING PHASE I.
+- Record status: Existing, unchanged

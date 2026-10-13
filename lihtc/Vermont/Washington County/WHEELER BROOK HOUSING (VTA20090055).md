@@ -1,0 +1,85 @@
+# Project: WHEELER BROOK HOUSING (VTA20090055)
+
+- HUD ID: VTA20090055
+- HUD ID before: 
+- Project: WHEELER BROOK HOUSING
+- Address: 31 WHEELER BROOK DR
+- City: WARREN
+- State: VT
+- ZIP: 05674
+- ZIP extension: 
+- State project ID: 0362
+- Latitude: 44.141769
+- Longitude: -72.872906
+- County FIPS: 50023
+- County from: 2020
+- Tract 2020: 50023955600
+- Tract 2010: 50023955600
+- Tract 2000: 50023955600
+- Tract 1990: 50023955600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 317453
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 9
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 250000
+- CDBG: Yes
+- CDBG amount: 463000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

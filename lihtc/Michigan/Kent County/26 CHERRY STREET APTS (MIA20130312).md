@@ -1,0 +1,85 @@
+# Project: 26 CHERRY STREET APTS (MIA20130312)
+
+- HUD ID: MIA20130312
+- HUD ID before: 
+- Project: 26 CHERRY STREET APTS
+- Address: 26 CHERRY ST SW
+- City: GRAND RAPIDS
+- State: MI
+- ZIP: 49503
+- ZIP extension: 
+- State project ID: MI-3525
+- Latitude: 42.95949
+- Longitude: -85.668649
+- County FIPS: 26081
+- County from: 2020
+- Tract 2020: 26081002100
+- Tract 2010: 26081002100
+- Tract 2000: 26081002100
+- Tract 1990: 26081002100
+- Place 2020: 34000
+- Place 2010: 34000
+- Place 2000: 34000
+- Place 1990: 1085
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 985922
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

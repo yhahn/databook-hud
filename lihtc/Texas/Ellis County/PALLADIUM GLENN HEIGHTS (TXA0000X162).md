@@ -1,0 +1,85 @@
+# Project: PALLADIUM GLENN HEIGHTS (TXA0000X162)
+
+- HUD ID: TXA0000X162
+- HUD ID before: 
+- Project: PALLADIUM GLENN HEIGHTS
+- Address: 2400 SOUTH HAMPTON ROAD
+- City: GLENN HEIGHTS
+- State: TX
+- ZIP: 75154
+- ZIP extension: 
+- State project ID: TX5273
+- Latitude: 32.540511
+- Longitude: -96.856538
+- County FIPS: 48139
+- County from: 2020
+- Tract 2020: 48139060216
+- Tract 2010: 48139060204
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 29840
+- Place 2010: 29840
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 
+- Units: 270
+- Low-income units: 252
+- Units reported: 270
+- Low-income reported: 252
+- Efficiencies: 0
+- 1-bedroom units: 66
+- 2-bedroom units: 144
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 800000
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

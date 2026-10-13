@@ -1,0 +1,85 @@
+# Project: BEARDSTOWN APTS (ILA19970145)
+
+- HUD ID: ILA19970145
+- HUD ID before: 
+- Project: BEARDSTOWN APTS
+- Address: 600 W FOURTH ST
+- City: BEARDSTOWN
+- State: IL
+- ZIP: 62618
+- ZIP extension: 
+- State project ID: 92696
+- Latitude: 40.013988
+- Longitude: -90.438139
+- County FIPS: 17017
+- County from: 2020
+- Tract 2020: 17017960400
+- Tract 2010: 17017960400
+- Tract 2000: 17017960400
+- Tract 1990: 17017960400
+- Place 2020: 04351
+- Place 2010: 04351
+- Place 2000: 04351
+- Place 1990: 0375
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 14731
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

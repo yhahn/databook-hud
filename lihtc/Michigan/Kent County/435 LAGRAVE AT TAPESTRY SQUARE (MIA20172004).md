@@ -1,0 +1,85 @@
+# Project: 435 LAGRAVE AT TAPESTRY SQUARE (MIA20172004)
+
+- HUD ID: MIA20172004
+- HUD ID before: 
+- Project: 435 LAGRAVE AT TAPESTRY SQUARE
+- Address: 435 LAGRAVE AVENUE SE
+- City: GRAND RAPIDS
+- State: MI
+- ZIP: 49503
+- ZIP extension: 0000
+- State project ID: 3549
+- Latitude: 42.9637
+- Longitude: -85.6609
+- County FIPS: 26081
+- County from: 2020
+- Tract 2020: 26081002800
+- Tract 2010: 26081002100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 34000
+- Place 2010: 34000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 337098
+- Units: 20
+- Low-income units: 16
+- Units reported: 20
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 430000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

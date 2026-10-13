@@ -1,0 +1,85 @@
+# Project: MEDFORD AFFORDABLE HOUSING (WIA20120802)
+
+- HUD ID: WIA20120802
+- HUD ID before: 
+- Project: MEDFORD AFFORDABLE HOUSING
+- Address: 820 RIVER DRIVE
+- City: MEDFORD
+- State: WI
+- ZIP: 54451
+- ZIP extension: 
+- State project ID: 5729
+- Latitude: 45.149051
+- Longitude: -90.352463
+- County FIPS: 55119
+- County from: 2020
+- Tract 2020: 55119960400
+- Tract 2010: 55119960400
+- Tract 2000: 55119980400
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 50425
+- Place 2000: 50425
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 249484
+- Units: 22
+- Low-income units: 10
+- Units reported: 22
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 380000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

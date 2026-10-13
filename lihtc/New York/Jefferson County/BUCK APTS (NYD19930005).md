@@ -1,0 +1,85 @@
+# Project: BUCK APTS (NYD19930005)
+
+- HUD ID: NYD19930005
+- HUD ID before: 
+- Project: BUCK APTS
+- Address: 86 PUBLIC SQ
+- City: WATERTOWN
+- State: NY
+- ZIP: 13601
+- ZIP extension: 
+- State project ID: NYD-08
+- Latitude: 43.974239
+- Longitude: -75.909078
+- County FIPS: 36045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36045062100
+- Tract 2000: 36045062100
+- Tract 1990: 36045062100
+- Place 2020: 
+- Place 2010: 78608
+- Place 2000: 78608
+- Place 1990: 3835
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 4
+- 1-bedroom units: 1
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

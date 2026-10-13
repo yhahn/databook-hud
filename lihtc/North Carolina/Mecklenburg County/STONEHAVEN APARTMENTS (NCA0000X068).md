@@ -1,0 +1,85 @@
+# Project: STONEHAVEN APARTMENTS (NCA0000X068)
+
+- HUD ID: NCA0000X068
+- HUD ID before: 
+- Project: STONEHAVEN APARTMENTS
+- Address: 7000 FERNWOOD DRIVE
+- City: CHARLOTTE
+- State: NC
+- ZIP: 28211
+- ZIP extension: 
+- State project ID: 9197694
+- Latitude: 35.15595
+- Longitude: -80.753601
+- County FIPS: 37119
+- County from: 2020
+- Tract 2020: 37119002007
+- Tract 2010: 37119002003
+- Tract 2000: 37119002003
+- Tract 1990: 
+- Place 2020: 12000
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 523001
+- Units: 240
+- Low-income units: 178
+- Units reported: 240
+- Low-income reported: 178
+- Efficiencies: 0
+- 1-bedroom units: 73
+- 2-bedroom units: 151
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

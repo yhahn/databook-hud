@@ -1,0 +1,85 @@
+# Project: WOODRIDGE POINTE (NCA20190069)
+
+- HUD ID: NCA20190069
+- HUD ID before: 
+- Project: WOODRIDGE POINTE
+- Address: 1536 SANDLAPPER WAY
+- City: WILMINGTON
+- State: NC
+- ZIP: 28412
+- ZIP extension: 
+- State project ID: 9199106
+- Latitude: 34.1473
+- Longitude: -77.9083
+- County FIPS: 37129
+- County from: 2020
+- Tract 2020: 37129012008
+- Tract 2010: 37129012101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 61950
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 682141
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 36
+- 3-bedroom units: 30
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

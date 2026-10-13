@@ -1,0 +1,85 @@
+# Project: LINCOLN VILLAGE - OREGON 1 (ORA20060035)
+
+- HUD ID: ORA20060035
+- HUD ID before: 
+- Project: LINCOLN VILLAGE - OREGON 1
+- Address: 2530 NE 31ST ST
+- City: LINCOLN CITY
+- State: OR
+- ZIP: 97367
+- ZIP extension: 
+- State project ID: 397
+- Latitude: 44.987955
+- Longitude: -124.001392
+- County FIPS: 41041
+- County from: 2020
+- Tract 2020: 41041950304
+- Tract 2010: 41041950304
+- Tract 2000: 41041950300
+- Tract 1990: 41041950300
+- Place 2020: 42600
+- Place 2010: 42600
+- Place 2000: 42600
+- Place 1990: 0648
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 103677
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 10
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA2003050.
+- Record status: Existing, unchanged

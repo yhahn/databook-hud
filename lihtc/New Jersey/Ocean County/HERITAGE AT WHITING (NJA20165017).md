@@ -1,0 +1,85 @@
+# Project: HERITAGE AT WHITING (NJA20165017)
+
+- HUD ID: NJA20165017
+- HUD ID before: 
+- Project: HERITAGE AT WHITING
+- Address: 40 LACEY RD
+- City: WHITING
+- State: NJ
+- ZIP: 08759
+- ZIP extension: 2916
+- State project ID: 02941
+- Latitude: 39.939147
+- Longitude: -74.357882
+- County FIPS: 34029
+- County from: 2020
+- Tract 2020: 34029720001
+- Tract 2010: 34029720001
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 303540
+- Units: 70
+- Low-income units: 69
+- Units reported: 70
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 58
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

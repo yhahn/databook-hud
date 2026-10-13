@@ -1,0 +1,85 @@
+# Project: WESTERN IB GROVES (AZA20039192)
+
+- HUD ID: AZA20039192
+- HUD ID before: 
+- Project: WESTERN IB GROVES
+- Address: 2990 S POWER RD
+- City: MESA
+- State: AZ
+- ZIP: 85212
+- ZIP extension: 
+- State project ID: BD-0008
+- Latitude: 33.362273
+- Longitude: -111.687806
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013422623
+- Tract 2010: 04013422623
+- Tract 2000: 04013422612
+- Tract 1990: 04013422601
+- Place 2020: 27400
+- Place 2010: 27400
+- Place 2000: 27400
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 268
+- Low-income units: 268
+- Units reported: 268
+- Low-income reported: 268
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 212
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000548. AKA WESTERN IB HUNT GROVES.
+- Record status: Existing, unchanged

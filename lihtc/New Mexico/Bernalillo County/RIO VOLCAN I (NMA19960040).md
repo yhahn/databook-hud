@@ -1,0 +1,85 @@
+# Project: RIO VOLCAN I (NMA19960040)
+
+- HUD ID: NMA19960040
+- HUD ID before: 
+- Project: RIO VOLCAN I
+- Address: 1919 LADERA DR NW OFC
+- City: ALBUQUERQUE
+- State: NM
+- ZIP: 87120
+- ZIP extension: 
+- State project ID: 94-3000
+- Latitude: 35.106939
+- Longitude: -106.724234
+- County FIPS: 35001
+- County from: 2020
+- Tract 2020: 35001004742
+- Tract 2010: 35001004742
+- Tract 2000: 35001004731
+- Tract 1990: 35001004711
+- Place 2020: 02000
+- Place 2010: 02000
+- Place 2000: 02000
+- Place 1990: 0015
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

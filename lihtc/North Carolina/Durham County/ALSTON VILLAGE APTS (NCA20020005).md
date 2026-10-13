@@ -1,0 +1,85 @@
+# Project: ALSTON VILLAGE APTS (NCA20020005)
+
+- HUD ID: NCA20020005
+- HUD ID before: 
+- Project: ALSTON VILLAGE APTS
+- Address: 5400 S ALSTON AVE
+- City: DURHAM
+- State: NC
+- ZIP: 27713
+- ZIP extension: 
+- State project ID: 1559
+- Latitude: 35.885722
+- Longitude: -78.885674
+- County FIPS: 37063
+- County from: 2020
+- Tract 2020: 37063002036
+- Tract 2010: 37063002027
+- Tract 2000: 37063002014
+- Tract 1990: 37063002097
+- Place 2020: 19000
+- Place 2010: 99999
+- Place 2000: 19000
+- Place 1990: 0750
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 468492
+- Units: 204
+- Low-income units: 173
+- Units reported: 204
+- Low-income reported: 173
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 84
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

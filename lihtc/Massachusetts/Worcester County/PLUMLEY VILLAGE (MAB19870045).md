@@ -1,0 +1,85 @@
+# Project: PLUMLEY VILLAGE (MAB19870045)
+
+- HUD ID: MAB19870045
+- HUD ID before: 
+- Project: PLUMLEY VILLAGE
+- Address: 16 LAUREL ST
+- City: WORCESTER
+- State: MA
+- ZIP: 01608
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.269304
+- Longitude: -71.795252
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027731802
+- Tract 2010: 25027731800
+- Tract 2000: 25027731800
+- Tract 1990: 25027731800
+- Place 2020: 82000
+- Place 2010: 82000
+- Place 2000: 82000
+- Place 1990: 5030
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 428
+- Low-income units: 423
+- Units reported: 428
+- Low-income reported: 423
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 124
+- 3-bedroom units: 195
+- 4-bedroom units: 97
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

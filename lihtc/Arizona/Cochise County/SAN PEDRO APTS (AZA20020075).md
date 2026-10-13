@@ -1,0 +1,85 @@
+# Project: SAN PEDRO APTS (AZA20020075)
+
+- HUD ID: AZA20020075
+- HUD ID before: 
+- Project: SAN PEDRO APTS
+- Address: 4600 CHARLESTON RD
+- City: SIERRA VISTA
+- State: AZ
+- ZIP: 85635
+- ZIP extension: 
+- State project ID: TC-0203
+- Latitude: 31.560113
+- Longitude: -110.248695
+- County FIPS: 04003
+- County from: 2020
+- Tract 2020: 04003001702
+- Tract 2010: 04003001702
+- Tract 2000: 04003001700
+- Tract 1990: 04003001700
+- Place 2020: 66820
+- Place 2010: 99999
+- Place 2000: 66820
+- Place 1990: 0315
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 63
+- Units reported: 76
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 38
+- 3-bedroom units: 38
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ROSE VILLA APTS (ORA20000095)
+
+- HUD ID: ORA20000095
+- HUD ID before: 
+- Project: ROSE VILLA APTS
+- Address: 2525 NE STEPHENS ST
+- City: ROSEBURG
+- State: OR
+- ZIP: 97470
+- ZIP extension: 
+- State project ID: 1251
+- Latitude: 43.24068
+- Longitude: -123.352572
+- County FIPS: 41019
+- County from: 2020
+- Tract 2020: 41019090001
+- Tract 2010: 41019090000
+- Tract 2000: 41019090000
+- Tract 1990: 41019090000
+- Place 2020: 63650
+- Place 2010: 63650
+- Place 2000: 63650
+- Place 1990: 0982
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 133734
+- Units: 91
+- Low-income units: 91
+- Units reported: 91
+- Low-income reported: 91
+- Efficiencies: 30
+- 1-bedroom units: 25
+- 2-bedroom units: 32
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

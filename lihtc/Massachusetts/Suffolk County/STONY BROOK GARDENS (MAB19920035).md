@@ -1,0 +1,85 @@
+# Project: STONY BROOK GARDENS (MAB19920035)
+
+- HUD ID: MAB19920035
+- HUD ID before: 
+- Project: STONY BROOK GARDENS
+- Address: 99 LAMARTINE ST
+- City: JAMAICA PLAIN
+- State: MA
+- ZIP: 02130
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.320147
+- Longitude: -71.102838
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025120500
+- Tract 2010: 25025120500
+- Tract 2000: 25025120500
+- Tract 1990: 25025120500
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 28
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

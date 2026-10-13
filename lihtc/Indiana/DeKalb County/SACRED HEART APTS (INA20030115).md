@@ -1,0 +1,85 @@
+# Project: SACRED HEART APTS (INA20030115)
+
+- HUD ID: INA20030115
+- HUD ID before: 
+- Project: SACRED HEART APTS
+- Address: 220 S IJAMS ST
+- City: GARRETT
+- State: IN
+- ZIP: 46738
+- ZIP extension: 
+- State project ID: IN-01-03000
+- Latitude: 41.348863
+- Longitude: -85.139527
+- County FIPS: 18033
+- County from: 2020
+- Tract 2020: 18033020601
+- Tract 2010: 18033020601
+- Tract 2000: 18033020600
+- Tract 1990: 18033020600
+- Place 2020: 26386
+- Place 2010: 26386
+- Place 2000: 01288
+- Place 1990: 0900
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 300000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

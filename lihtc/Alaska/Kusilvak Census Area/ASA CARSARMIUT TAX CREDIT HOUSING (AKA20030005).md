@@ -1,0 +1,85 @@
+# Project: ASA CARSARMIUT TAX CREDIT HOUSING (AKA20030005)
+
+- HUD ID: AKA20030005
+- HUD ID before: 
+- Project: ASA CARSARMIUT TAX CREDIT HOUSING
+- Address: OFFICE NUMBER 1
+- City: MOUNTAIN VILLAGE
+- State: AK
+- ZIP: 99632
+- ZIP extension: 
+- State project ID: AK-01-00002
+- Latitude: 62.169509
+- Longitude: -163.871442
+- County FIPS: 02158
+- County from: 2020
+- Tract 2020: 02158000100
+- Tract 2010: 02158000100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51180
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 5
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ATC.
+- Record status: Existing, unchanged

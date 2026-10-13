@@ -1,0 +1,85 @@
+# Project: WINDMILL APARTMENTS (TXA20030445)
+
+- HUD ID: TXA20030445
+- HUD ID before: 
+- Project: WINDMILL APARTMENTS
+- Address: 550 N MONTGOMERY AVE
+- City: GIDDINGS
+- State: TX
+- ZIP: 78942
+- ZIP extension: 
+- State project ID: TX0303
+- Latitude: 30.18488
+- Longitude: -96.921934
+- County FIPS: 48287
+- County from: 2020
+- Tract 2020: 48287000400
+- Tract 2010: 48287000400
+- Tract 2000: 48287980400
+- Tract 1990: 48287980400
+- Place 2020: 29432
+- Place 2010: 29432
+- Place 2000: 29432
+- Place 1990: 1610
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

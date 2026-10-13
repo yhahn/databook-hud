@@ -1,0 +1,85 @@
+# Project: GOLDEN TIDES II (WAA19960040)
+
+- HUD ID: WAA19960040
+- HUD ID before: 
+- Project: GOLDEN TIDES II
+- Address: 9239 BAYSHORE DR NW
+- City: SILVERDALE
+- State: WA
+- ZIP: 98383
+- ZIP extension: 
+- State project ID: 94-31X
+- Latitude: 47.64765
+- Longitude: -122.693545
+- County FIPS: 53035
+- County from: 2020
+- Tract 2020: 53035091201
+- Tract 2010: 53035091201
+- Tract 2000: 53035091201
+- Tract 1990: 53035091201
+- Place 2020: 64365
+- Place 2010: 64365
+- Place 2000: 64365
+- Place 1990: 1171
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 297010
+- Units: 45
+- Low-income units: 44
+- Units reported: 45
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

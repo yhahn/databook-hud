@@ -1,0 +1,85 @@
+# Project: RIVER POINTE AT DRUM HILL SENIOR APTS (NYA20100085)
+
+- HUD ID: NYA20100085
+- HUD ID before: 
+- Project: RIVER POINTE AT DRUM HILL SENIOR APTS
+- Address: 100 RINGGOLD ST
+- City: PEEKSKILL
+- State: NY
+- ZIP: 10566
+- ZIP extension: 
+- State project ID: 20070035
+- Latitude: 41.287264
+- Longitude: -73.923648
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119014100
+- Tract 2010: 36119014100
+- Tract 2000: 36119014100
+- Tract 1990: 36119014100
+- Place 2020: 56979
+- Place 2010: 56979
+- Place 2000: 56979
+- Place 1990: 2800
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 995700
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

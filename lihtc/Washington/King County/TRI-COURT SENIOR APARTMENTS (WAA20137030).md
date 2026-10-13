@@ -1,0 +1,85 @@
+# Project: TRI-COURT SENIOR APARTMENTS (WAA20137030)
+
+- HUD ID: WAA20137030
+- HUD ID before: 
+- Project: TRI-COURT SENIOR APARTMENTS
+- Address: 24420 - 64TH AVENUE SOUTH
+- City: KENT
+- State: WA
+- ZIP: 98032
+- ZIP extension: 
+- State project ID: 11-81A
+- Latitude: 47.382776
+- Longitude: -122.253456
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033029206
+- Tract 2010: 53033029206
+- Tract 2000: 53033029201
+- Tract 1990: 53033029201
+- Place 2020: 35415
+- Place 2010: 35415
+- Place 2000: 35415
+- Place 1990: 0615
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 618164
+- Units: 378
+- Low-income units: 372
+- Units reported: 378
+- Low-income reported: 372
+- Efficiencies: 0
+- 1-bedroom units: 336
+- 2-bedroom units: 42
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA1996095, WAA0000682. AKA MEEKER COURT APTS.
+- Record status: Updated

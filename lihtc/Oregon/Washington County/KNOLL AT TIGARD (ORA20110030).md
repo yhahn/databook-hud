@@ -1,0 +1,85 @@
+# Project: KNOLL AT TIGARD (ORA20110030)
+
+- HUD ID: ORA20110030
+- HUD ID before: 
+- Project: KNOLL AT TIGARD
+- Address: 12291 SW KNOLL DR
+- City: TIGARD
+- State: OR
+- ZIP: 97223
+- ZIP extension: 
+- State project ID: 2908
+- Latitude: 45.430927
+- Longitude: -122.764199
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067030700
+- Tract 2010: 41067030700
+- Tract 2000: 41067030700
+- Tract 1990: 41067030700
+- Place 2020: 73650
+- Place 2010: 73650
+- Place 2000: 73650
+- Place 1990: 1132
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 825000
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1500000
+- CDBG: Yes
+- CDBG amount: 459769
+- TCAP: Yes
+- TCAP amount: 1604917
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA2011506.
+- Record status: Existing, unchanged

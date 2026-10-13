@@ -1,0 +1,85 @@
+# Project: APPLE MANOR APTS (MOA20070015)
+
+- HUD ID: MOA20070015
+- HUD ID before: 
+- Project: APPLE MANOR APTS
+- Address: 301 LEXINGTON RD
+- City: PLEASANT HILL
+- State: MO
+- ZIP: 64080
+- ZIP extension: 
+- State project ID: 06-053
+- Latitude: 38.788565
+- Longitude: -94.260915
+- County FIPS: 29037
+- County from: 2020
+- Tract 2020: 29037060601
+- Tract 2010: 29037060600
+- Tract 2000: 29037060600
+- Tract 1990: 29037060600
+- Place 2020: 58394
+- Place 2010: 58394
+- Place 2000: 03124
+- Place 1990: 3470
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 84125
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 490000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

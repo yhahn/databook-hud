@@ -1,0 +1,85 @@
+# Project: THOMAS VILLAGE (PAA20133260)
+
+- HUD ID: PAA20133260
+- HUD ID before: 
+- Project: THOMAS VILLAGE
+- Address: 5604 COMMUNITY CENTER DR
+- City: GIBSONIA
+- State: PA
+- ZIP: 15044
+- ZIP extension: 6302
+- State project ID: TC20120301
+- Latitude: 40.633891
+- Longitude: -79.938402
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003408001
+- Tract 2010: 42003408001
+- Tract 2000: 42003408001
+- Tract 1990: 42003408001
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 606421
+- Units: 66
+- Low-income units: 65
+- Units reported: 66
+- Low-income reported: 65
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 35
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 65
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

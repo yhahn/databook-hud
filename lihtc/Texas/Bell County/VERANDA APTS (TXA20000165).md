@@ -1,0 +1,85 @@
+# Project: VERANDA APTS (TXA20000165)
+
+- HUD ID: TXA20000165
+- HUD ID before: 
+- Project: VERANDA APTS
+- Address: 1101 N TWIN CREEK DR
+- City: KILLEEN
+- State: TX
+- ZIP: 76543
+- ZIP extension: 
+- State project ID: TX5099
+- Latitude: 31.11482
+- Longitude: -97.68461
+- County FIPS: 48027
+- County from: 2020
+- Tract 2020: 48027022200
+- Tract 2010: 48027022200
+- Tract 2000: 48027022200
+- Tract 1990: 48027022200
+- Place 2020: 39148
+- Place 2010: 39148
+- Place 2000: 39148
+- Place 1990: 2230
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

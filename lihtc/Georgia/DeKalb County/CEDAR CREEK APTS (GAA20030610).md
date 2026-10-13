@@ -1,0 +1,85 @@
+# Project: CEDAR CREEK APTS (GAA20030610)
+
+- HUD ID: GAA20030610
+- HUD ID before: 
+- Project: CEDAR CREEK APTS
+- Address: 3073 CEDAR CREEK PKWY
+- City: DECATUR
+- State: GA
+- ZIP: 30033
+- ZIP extension: 
+- State project ID: GA-01-528
+- Latitude: 33.809143
+- Longitude: -84.267796
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089022205
+- Tract 2010: 13089022204
+- Tract 2000: 13089022200
+- Tract 1990: 13089022200
+- Place 2020: 69392
+- Place 2010: 69392
+- Place 2000: 04644
+- Place 1990: 2557
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 22
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000085. AKA CEDAR CREEK HOUSING.
+- Record status: Existing, unchanged

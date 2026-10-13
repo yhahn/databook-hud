@@ -1,0 +1,85 @@
+# Project: SEAVIEW CLUSTER C (NYC20181039)
+
+- HUD ID: NYC20181039
+- HUD ID before: 
+- Project: SEAVIEW CLUSTER C
+- Address: 155-175 FRIENDSHIP LANE
+- City: STATEN ISLAND
+- State: NY
+- ZIP: 10314
+- ZIP extension: 
+- State project ID: 47-4424215
+- Latitude: 40.595778
+- Longitude: -74.130853
+- County FIPS: 36085
+- County from: 2020
+- Tract 2020: 36085018100
+- Tract 2010: 36085018100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 2924863
+- Units: 161
+- Low-income units: 160
+- Units reported: 161
+- Low-income reported: 160
+- Efficiencies: 82
+- 1-bedroom units: 78
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 80
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

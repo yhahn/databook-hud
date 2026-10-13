@@ -1,0 +1,85 @@
+# Project: OXFORD SQUARE (MIA20080040)
+
+- HUD ID: MIA20080040
+- HUD ID before: 
+- Project: OXFORD SQUARE
+- Address: 34594 LIPKE ST
+- City: CLINTON TOWNSHIP
+- State: MI
+- ZIP: 48035
+- ZIP extension: 
+- State project ID: MI-3162
+- Latitude: 42.552843
+- Longitude: -82.891197
+- County FIPS: 26099
+- County from: 2020
+- Tract 2020: 26099241800
+- Tract 2010: 26099241800
+- Tract 2000: 26099241800
+- Tract 1990: 26099241800
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 16510
+- Place 1990: 0557
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1177064
+- Units: 206
+- Low-income units: 206
+- Units reported: 206
+- Low-income reported: 206
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 144
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA2007110.
+- Record status: Existing, unchanged

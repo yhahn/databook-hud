@@ -1,0 +1,85 @@
+# Project: SANDPIPER APTS (NMA20030035)
+
+- HUD ID: NMA20030035
+- HUD ID before: 
+- Project: SANDPIPER APTS
+- Address: 4401 MONTGOMERY BLVD NE
+- City: ALBUQUERQUE
+- State: NM
+- ZIP: 87109
+- ZIP extension: 
+- State project ID: 13300
+- Latitude: 35.13116
+- Longitude: -106.595301
+- County FIPS: 35001
+- County from: 2020
+- Tract 2020: 35001003733
+- Tract 2010: 35001003733
+- Tract 2000: 35001003733
+- Tract 1990: 35001003797
+- Place 2020: 02000
+- Place 2010: 02000
+- Place 2000: 02000
+- Place 1990: 0015
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 50937
+- Units: 239
+- Low-income units: 235
+- Units reported: 239
+- Low-income reported: 235
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 96
+- 3-bedroom units: 67
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NMA2001900.
+- Record status: Existing, unchanged

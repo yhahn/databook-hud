@@ -1,0 +1,85 @@
+# Project: PLAZA ON THE PLATTE (COA19960145)
+
+- HUD ID: COA19960145
+- HUD ID before: 
+- Project: PLAZA ON THE PLATTE
+- Address: 2508 E PLATTE AVE
+- City: COLORADO SPRINGS
+- State: CO
+- ZIP: 80909
+- ZIP extension: 
+- State project ID: CO-95-056
+- Latitude: 38.839283
+- Longitude: -104.780156
+- County FIPS: 08041
+- County from: 2020
+- Tract 2020: 08041002101
+- Tract 2010: 08041002101
+- Tract 2000: 08041002101
+- Tract 1990: 08041002101
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0240
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 31
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MERCY HOUSING COLORADO V.
+- Record status: Existing, unchanged

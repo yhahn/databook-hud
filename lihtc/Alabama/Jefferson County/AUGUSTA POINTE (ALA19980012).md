@@ -1,0 +1,85 @@
+# Project: AUGUSTA POINTE (ALA19980012)
+
+- HUD ID: ALA19980012
+- HUD ID before: 
+- Project: AUGUSTA POINTE
+- Address: 1522 COOPER HILL RD
+- City: IRONDALE
+- State: AL
+- ZIP: 35210
+- ZIP extension: 
+- State project ID: 1998005-TC
+- Latitude: 33.524575
+- Longitude: -86.726869
+- County FIPS: 01073
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01073005600
+- Tract 2000: 01073005600
+- Tract 1990: 01073005600
+- Place 2020: 
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0185
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 459024
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 40
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 90
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1999015.
+- Record status: Existing, unchanged

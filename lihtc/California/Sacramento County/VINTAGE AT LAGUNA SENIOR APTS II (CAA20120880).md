@@ -1,0 +1,85 @@
+# Project: VINTAGE AT LAGUNA SENIOR APTS II (CAA20120880)
+
+- HUD ID: CAA20120880
+- HUD ID before: 
+- Project: VINTAGE AT LAGUNA SENIOR APTS II
+- Address: 9204 BIG HORN BLVD
+- City: ELK GROVE
+- State: CA
+- ZIP: 95758
+- ZIP extension: 
+- State project ID: CA-11-841
+- Latitude: 38.423834
+- Longitude: -121.407122
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067009639
+- Tract 2010: 06067009639
+- Tract 2000: 06067009613
+- Tract 1990: 06067009603
+- Place 2020: 22020
+- Place 2010: 22020
+- Place 2000: 39173
+- Place 1990: 1418
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 403450
+- Units: 69
+- Low-income units: 68
+- Units reported: 69
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

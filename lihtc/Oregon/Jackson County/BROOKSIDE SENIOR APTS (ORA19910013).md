@@ -1,0 +1,85 @@
+# Project: BROOKSIDE SENIOR APTS (ORA19910013)
+
+- HUD ID: ORA19910013
+- HUD ID before: 
+- Project: BROOKSIDE SENIOR APTS
+- Address: 306 CHERYL LN
+- City: PHOENIX
+- State: OR
+- ZIP: 97535
+- ZIP extension: 
+- State project ID: OR-89-311
+- Latitude: 42.27815
+- Longitude: -122.825284
+- County FIPS: 41029
+- County from: 2020
+- Tract 2020: 41029001602
+- Tract 2010: 41029001602
+- Tract 2000: 41029001600
+- Tract 1990: 41029001600
+- Place 2020: 57500
+- Place 2010: 57500
+- Place 2000: 47000
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 9496
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA1989015.
+- Record status: Existing, unchanged

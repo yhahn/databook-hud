@@ -1,0 +1,85 @@
+# Project: FALLS MEADOWRIDGE TOWNHOMES (MNA20030038)
+
+- HUD ID: MNA20030038
+- HUD ID before: 
+- Project: FALLS MEADOWRIDGE TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: LITTLE FALLS
+- State: MN
+- ZIP: 55102
+- ZIP extension: 
+- State project ID: D2889
+- Latitude: 44.9411
+- Longitude: -93.1115
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123035900
+- Tract 2010: 27123035900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 24
+- 4-bedroom units: 6
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

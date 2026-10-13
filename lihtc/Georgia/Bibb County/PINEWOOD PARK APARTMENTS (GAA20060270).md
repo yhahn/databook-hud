@@ -1,0 +1,85 @@
+# Project: PINEWOOD PARK APARTMENTS (GAA20060270)
+
+- HUD ID: GAA20060270
+- HUD ID before: 
+- Project: PINEWOOD PARK APARTMENTS
+- Address: 4755 MERCER UNIVERSITY DR
+- City: MACON
+- State: GA
+- ZIP: 31210
+- ZIP extension: 5656
+- State project ID: GA-04-035
+- Latitude: 32.827166
+- Longitude: -83.719386
+- County FIPS: 13021
+- County from: 2020
+- Tract 2020: 13021013201
+- Tract 2010: 13021013201
+- Tract 2000: 13021013201
+- Tract 1990: 13021013201
+- Place 2020: 49008
+- Place 2010: 99999
+- Place 2000: 49000
+- Place 1990: 1725
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 749834
+- Units: 148
+- Low-income units: 133
+- Units reported: 148
+- Low-income reported: 133
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 80
+- 3-bedroom units: 38
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WESTCHASE APARTMENTS (SCA20150035)
+
+- HUD ID: SCA20150035
+- HUD ID before: SCA19940105
+- Project: WESTCHASE APARTMENTS
+- Address: 590 PHILLIPS STREET
+- City: CLINTON
+- State: SC
+- ZIP: 29325
+- ZIP extension: 
+- State project ID: SC-51-410
+- Latitude: 34.483132
+- Longitude: -81.874834
+- County FIPS: 45059
+- County from: 2020
+- Tract 2020: 45059920600
+- Tract 2010: 45059920600
+- Tract 2000: 45059980600
+- Tract 1990: 
+- Place 2020: 15295
+- Place 2010: 15295
+- Place 2000: 15295
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 238100
+- Units: 85
+- Low-income units: 85
+- Units reported: 85
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 33
+- 3-bedroom units: 34
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS SCA19940105;PIN=SC-92-039
+- Record status: Existing, unchanged

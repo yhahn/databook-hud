@@ -1,0 +1,85 @@
+# Project: PALISADES CLUB APARTMENTS (GAA20010077)
+
+- HUD ID: GAA20010077
+- HUD ID before: 
+- Project: PALISADES CLUB APARTMENTS
+- Address: 2255 SATELLITE BLVD
+- City: DULUTH
+- State: GA
+- ZIP: 30097
+- ZIP extension: 6221
+- State project ID: GA-99-504
+- Latitude: 33.981345
+- Longitude: -84.092981
+- County FIPS: 13135
+- County from: 2020
+- Tract 2020: 13135050236
+- Tract 2010: 13135050217
+- Tract 2000: 13135050204
+- Tract 1990: 13135050204
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 24600
+- Place 1990: 0915
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 268
+- Low-income units: 194
+- Units reported: 268
+- Low-income reported: 194
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 104
+- 3-bedroom units: 60
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2000095, GAA2001080.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: KATHLEEN MANOR (MOA20030080)
+
+- HUD ID: MOA20030080
+- HUD ID before: 
+- Project: KATHLEEN MANOR
+- Address: 117 S NEW MADRID ST
+- City: SIKESTON
+- State: MO
+- ZIP: 63801
+- ZIP extension: 
+- State project ID: 03-020
+- Latitude: 36.875471
+- Longitude: -89.588843
+- County FIPS: 29201
+- County from: 2020
+- Tract 2020: 29201781201
+- Tract 2010: 29201781200
+- Tract 2000: 29201981200
+- Tract 1990: 29201980500
+- Place 2020: 67790
+- Place 2010: 67790
+- Place 2000: 67790
+- Place 1990: 4000
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

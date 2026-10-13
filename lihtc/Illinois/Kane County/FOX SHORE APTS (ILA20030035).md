@@ -1,0 +1,85 @@
+# Project: FOX SHORE APTS (ILA20030035)
+
+- HUD ID: ILA20030035
+- HUD ID before: 
+- Project: FOX SHORE APTS
+- Address: 430 N RIVER ST
+- City: AURORA
+- State: IL
+- ZIP: 60506
+- ZIP extension: 
+- State project ID: 142102
+- Latitude: 41.765656
+- Longitude: -88.3116
+- County FIPS: 17089
+- County from: 2020
+- Tract 2020: 17089853200
+- Tract 2010: 17089853200
+- Tract 2000: 17089853200
+- Tract 1990: 17089853200
+- Place 2020: 03012
+- Place 2010: 03012
+- Place 2000: 03012
+- Place 1990: 0280
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 293507
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 49
+- 2-bedroom units: 35
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 50
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COMMUNITY HOUSING PARTNERS VIII.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MEADOWLARK TOWN HOUSES (WIA19950135)
+
+- HUD ID: WIA19950135
+- HUD ID before: 
+- Project: MEADOWLARK TOWN HOUSES
+- Address: 230 N ST
+- City: DANE
+- State: WI
+- ZIP: 53529
+- ZIP extension: 
+- State project ID: 1592
+- Latitude: 43.252222
+- Longitude: -89.503108
+- County FIPS: 55025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55025013200
+- Tract 2000: 55025013200
+- Tract 1990: 55025013200
+- Place 2020: 
+- Place 2010: 18700
+- Place 2000: 18700
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 15
+- Units reported: 16
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

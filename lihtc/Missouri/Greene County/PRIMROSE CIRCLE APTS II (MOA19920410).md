@@ -1,0 +1,85 @@
+# Project: PRIMROSE CIRCLE APTS II (MOA19920410)
+
+- HUD ID: MOA19920410
+- HUD ID before: 
+- Project: PRIMROSE CIRCLE APTS II
+- Address: 2161 E MACS CT
+- City: SPRINGFIELD
+- State: MO
+- ZIP: 65804
+- ZIP extension: 
+- State project ID: 91-119
+- Latitude: 37.14741
+- Longitude: -93.254606
+- County FIPS: 29077
+- County from: 2020
+- Tract 2020: 29077002600
+- Tract 2010: 29077002600
+- Tract 2000: 29077002600
+- Tract 1990: 29077002600
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 4075
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 12
+- Units reported: 24
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

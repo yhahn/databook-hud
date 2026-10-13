@@ -1,0 +1,85 @@
+# Project: CALIFORNIA PLACE APARTMENTS F.K.A. BLOCK 7 DOWNTOWN APARTMENTS (CAA20230020)
+
+- HUD ID: CAA20230020
+- HUD ID before: 
+- Project: CALIFORNIA PLACE APARTMENTS F.K.A. BLOCK 7 DOWNTOWN APARTMENTS
+- Address: 1575 CALIFORNIA STREET
+- City: REDDING
+- State: CA
+- ZIP: 96001
+- ZIP extension: 
+- State project ID: CA-2020-579
+- Latitude: 40.583357
+- Longitude: -122.391629
+- County FIPS: 06089
+- County from: 2020
+- Tract 2020: 06089010100
+- Tract 2010: 06089010100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59920
+- Place 2010: 59920
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2912577
+- Units: 78
+- Low-income units: 77
+- Units reported: 78
+- Low-income reported: 77
+- Efficiencies: 
+- 1-bedroom units: 15
+- 2-bedroom units: 63
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HEARTHSIDE LAFAYETTE (GAA20193175)
+
+- HUD ID: GAA20193175
+- HUD ID before: 
+- Project: HEARTHSIDE LAFAYETTE
+- Address: 105 MEETING PLACE DRIVE
+- City: FAYETTEVILLE
+- State: GA
+- ZIP: 30214
+- ZIP extension: 
+- State project ID: 2016-052
+- Latitude: 33.44893
+- Longitude: -84.463154
+- County FIPS: 13113
+- County from: 2020
+- Tract 2020: 13113140404
+- Tract 2010: 13113140404
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 28968
+- Place 2010: 28968
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 
+- Units: 125
+- Low-income units: 75
+- Units reported: 125
+- Low-income reported: 75
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

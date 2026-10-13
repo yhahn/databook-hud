@@ -1,0 +1,85 @@
+# Project: ZBIKOWSKI PARK (CTA20161005)
+
+- HUD ID: CTA20161005
+- HUD ID before: 
+- Project: ZBIKOWSKI PARK
+- Address: 10 SALLADIN ROAD, ALSO LILLIAN, ARMAND, + ROLLINSON RDS. AND LAKE AVE.
+- City: BRISTOL
+- State: CT
+- ZIP: 06010
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.657988
+- Longitude: -72.924196
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003405500
+- Tract 2010: 09003405500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 08420
+- Place 2010: 08420
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 324994
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 68
+- 3-bedroom units: 14
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 77
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

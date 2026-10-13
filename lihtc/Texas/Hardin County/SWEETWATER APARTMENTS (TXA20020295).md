@@ -1,0 +1,85 @@
+# Project: SWEETWATER APARTMENTS (TXA20020295)
+
+- HUD ID: TXA20020295
+- HUD ID before: 
+- Project: SWEETWATER APARTMENTS
+- Address: 865 HIGHWAY 105 W
+- City: SOUR LAKE
+- State: TX
+- ZIP: 77659
+- ZIP extension: 
+- State project ID: TX0289
+- Latitude: 30.140503
+- Longitude: -94.416625
+- County FIPS: 48199
+- County from: 2020
+- Tract 2020: 48199030200
+- Tract 2010: 48199030200
+- Tract 2000: 48199030200
+- Tract 1990: 48199030200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 57752
+- Place 1990: 3995
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CONSTITUTION HILL IV (BUILDING THE DREAM) (RIA20040900)
+
+- HUD ID: RIA20040900
+- HUD ID before: 
+- Project: CONSTITUTION HILL IV (BUILDING THE DREAM)
+- Address: 165 CTR ST
+- City: WOONSOCKET
+- State: RI
+- ZIP: 02895
+- ZIP extension: 
+- State project ID: RI00024
+- Latitude: 41.998861
+- Longitude: -71.521192
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007017600
+- Tract 2010: 44007017600
+- Tract 2000: 44007017600
+- Tract 1990: 44007017600
+- Place 2020: 80780
+- Place 2010: 80780
+- Place 2000: 80780
+- Place 1990: 0560
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 1
+- 3-bedroom units: 6
+- 4-bedroom units: 2
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS RIA2003035, RIA2004025, RIA2003030. AKA CONSTITUTION HILL IV.
+- Record status: Existing, unchanged

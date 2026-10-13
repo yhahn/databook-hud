@@ -1,0 +1,85 @@
+# Project: WASHINGTON COLUMNS (VAA20020255)
+
+- HUD ID: VAA20020255
+- HUD ID before: 
+- Project: WASHINGTON COLUMNS
+- Address: 647 W WASHINGTON ST
+- City: PETERSBURG
+- State: VA
+- ZIP: 23803
+- ZIP extension: 
+- State project ID: 8805
+- Latitude: 37.225838
+- Longitude: -77.41442
+- County FIPS: 51730
+- County from: 2020
+- Tract 2020: 51730810300
+- Tract 2010: 51730810300
+- Tract 2000: 51730810300
+- Tract 1990: 51730810300
+- Place 2020: 61832
+- Place 2010: 61832
+- Place 2000: 61832
+- Place 1990: 0960
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 367197
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

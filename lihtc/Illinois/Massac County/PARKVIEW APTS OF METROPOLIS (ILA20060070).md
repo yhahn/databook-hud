@@ -1,0 +1,85 @@
+# Project: PARKVIEW APTS OF METROPOLIS (ILA20060070)
+
+- HUD ID: ILA20060070
+- HUD ID before: 
+- Project: PARKVIEW APTS OF METROPOLIS
+- Address: 1055 E EIGHTH ST
+- City: METROPOLIS
+- State: IL
+- ZIP: 62960
+- ZIP extension: 
+- State project ID: 224205
+- Latitude: 37.148917
+- Longitude: -88.718089
+- County FIPS: 17127
+- County from: 2020
+- Tract 2020: 17127970400
+- Tract 2010: 17127970400
+- Tract 2000: 17127970400
+- Tract 1990: 17127970400
+- Place 2020: 48645
+- Place 2010: 48645
+- Place 2000: 48645
+- Place 1990: 3705
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 466531
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 20
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2350000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

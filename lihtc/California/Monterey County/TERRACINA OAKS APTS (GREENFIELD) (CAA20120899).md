@@ -1,0 +1,85 @@
+# Project: TERRACINA OAKS APTS (GREENFIELD) (CAA20120899)
+
+- HUD ID: CAA20120899
+- HUD ID before: 
+- Project: TERRACINA OAKS APTS (GREENFIELD)
+- Address: 252 13TH ST
+- City: GREENFIELD
+- State: CA
+- ZIP: 93927
+- ZIP extension: 
+- State project ID: CA-11-133
+- Latitude: 36.3385
+- Longitude: -121.2805
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053011204
+- Tract 2010: 06053011204
+- Tract 2000: 06053011201
+- Tract 1990: 06053011200
+- Place 2020: 30994
+- Place 2010: 30994
+- Place 2000: 30994
+- Place 1990: 1160
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 657160
+- Units: 41
+- Low-income units: 40
+- Units reported: 41
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 17
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: Yes
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GREENFIELD PACIFIC ASSOC.
+- Record status: Existing, unchanged

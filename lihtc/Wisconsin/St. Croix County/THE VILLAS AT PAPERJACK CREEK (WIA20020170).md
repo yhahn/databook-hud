@@ -1,0 +1,85 @@
+# Project: THE VILLAS AT PAPERJACK CREEK (WIA20020170)
+
+- HUD ID: WIA20020170
+- HUD ID before: 
+- Project: THE VILLAS AT PAPERJACK CREEK
+- Address: 938 MONETTE AVE
+- City: NEW RICHMOND
+- State: WI
+- ZIP: 54017
+- ZIP extension: 
+- State project ID: 2502
+- Latitude: 45.113812
+- Longitude: -92.544663
+- County FIPS: 55109
+- County from: 2020
+- Tract 2020: 55109120501
+- Tract 2010: 55109120501
+- Tract 2000: 55109120500
+- Tract 1990: 55109120500
+- Place 2020: 57100
+- Place 2010: 57100
+- Place 2000: 57100
+- Place 1990: 1810
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 39
+- Units reported: 44
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 26
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

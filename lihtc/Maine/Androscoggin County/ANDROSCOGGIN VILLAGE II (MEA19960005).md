@@ -1,0 +1,85 @@
+# Project: ANDROSCOGGIN VILLAGE II (MEA19960005)
+
+- HUD ID: MEA19960005
+- HUD ID before: 
+- Project: ANDROSCOGGIN VILLAGE II
+- Address: 9 NORTHERN AVE
+- City: AUBURN
+- State: ME
+- ZIP: 04210
+- ZIP extension: 
+- State project ID: MSHA-TXCR-1093
+- Latitude: 44.112238
+- Longitude: -70.221322
+- County FIPS: 23001
+- County from: 2020
+- Tract 2020: 23001010200
+- Tract 2010: 23001010200
+- Tract 2000: 23001010200
+- Tract 1990: 23001010200
+- Place 2020: 02060
+- Place 2010: 02060
+- Place 2000: 02060
+- Place 1990: 0200
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

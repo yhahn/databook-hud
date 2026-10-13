@@ -1,0 +1,85 @@
+# Project: BEND IN THE WOODS ESTATES (INA19960170)
+
+- HUD ID: INA19960170
+- HUD ID before: 
+- Project: BEND IN THE WOODS ESTATES
+- Address: 1701 SMITH ST
+- City: LOGANSPORT
+- State: IN
+- ZIP: 46947
+- ZIP extension: 
+- State project ID: IN-95-00800
+- Latitude: 40.768667
+- Longitude: -86.348412
+- County FIPS: 18017
+- County from: 2020
+- Tract 2020: 18017950900
+- Tract 2010: 18017950900
+- Tract 2000: 18017950900
+- Tract 1990: 18017950900
+- Place 2020: 44658
+- Place 2010: 44658
+- Place 2000: 44658
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 243548
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

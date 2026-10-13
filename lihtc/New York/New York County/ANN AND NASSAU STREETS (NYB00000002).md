@@ -1,0 +1,85 @@
+# Project: ANN AND NASSAU STREETS (NYB00000002)
+
+- HUD ID: NYB00000002
+- HUD ID before: 
+- Project: ANN AND NASSAU STREETS
+- Address: 111 NASSAU ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10038
+- ZIP extension: 
+- State project ID: NY-11-2029
+- Latitude: 40.710886
+- Longitude: -74.007262
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061001501
+- Tract 2010: 36061001501
+- Tract 2000: 36061001501
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 412020
+- Units: 168
+- Low-income units: 34
+- Units reported: 168
+- Low-income reported: 34
+- Efficiencies: 89
+- 1-bedroom units: 62
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ASHTON POINT (FLA20020010)
+
+- HUD ID: FLA20020010
+- HUD ID before: 
+- Project: ASHTON POINT
+- Address: 6305 WILLIAMSON BLVD.
+- City: PORT ORANGE
+- State: FL
+- ZIP: 32128
+- ZIP extension: 
+- State project ID: 50
+- Latitude: 29.071719
+- Longitude: -81.020971
+- County FIPS: 12127
+- County from: 2020
+- Tract 2020: 12127083210
+- Tract 2010: 12127083208
+- Tract 2000: 12127083204
+- Tract 1990: 12127083201
+- Place 2020: 58575
+- Place 2010: 58575
+- Place 2000: 16525
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 855511
+- Units: 268
+- Low-income units: 268
+- Units reported: 268
+- Low-income reported: 268
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 124
+- 3-bedroom units: 104
+- 4-bedroom units: 40
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

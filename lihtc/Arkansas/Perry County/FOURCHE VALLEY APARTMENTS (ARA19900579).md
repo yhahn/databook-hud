@@ -1,0 +1,85 @@
+# Project: FOURCHE VALLEY APARTMENTS (ARA19900579)
+
+- HUD ID: ARA19900579
+- HUD ID before: 
+- Project: FOURCHE VALLEY APARTMENTS
+- Address: 200 W VALLEY
+- City: PERRYVILLE
+- State: AR
+- ZIP: 72126
+- ZIP extension: 
+- State project ID: AR-90-28
+- Latitude: 35.012564
+- Longitude: -92.800391
+- County FIPS: 05105
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05105952800
+- Tract 2000: 05105952800
+- Tract 1990: 05105952800
+- Place 2020: 
+- Place 2010: 54710
+- Place 2000: 00250
+- Place 1990: 1605
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 30814
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1990035, ARA1990033.
+- Record status: Existing, unchanged

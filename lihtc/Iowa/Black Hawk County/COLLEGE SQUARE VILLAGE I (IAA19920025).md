@@ -1,0 +1,85 @@
+# Project: COLLEGE SQUARE VILLAGE I (IAA19920025)
+
+- HUD ID: IAA19920025
+- HUD ID before: 
+- Project: COLLEGE SQUARE VILLAGE I
+- Address: 1207 MAPLEWOOD DR
+- City: CEDAR FALLS
+- State: IA
+- ZIP: 50613
+- ZIP extension: 
+- State project ID: 91-24
+- Latitude: 42.509299
+- Longitude: -92.432656
+- County FIPS: 19013
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19013002500
+- Tract 2000: 19013002500
+- Tract 1990: 19013002500
+- Place 2020: 
+- Place 2010: 11755
+- Place 2000: 11755
+- Place 1990: 0665
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 156760
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TUPELO TRACE APTS (MSA20040047)
+
+- HUD ID: MSA20040047
+- HUD ID before: 
+- Project: TUPELO TRACE APTS
+- Address: 3545 MITCHELL RD
+- City: TUPELO
+- State: MS
+- ZIP: 38801
+- ZIP extension: 
+- State project ID: MS-03-036
+- Latitude: 34.220688
+- Longitude: -88.765735
+- County FIPS: 28081
+- County from: 2020
+- Tract 2020: 28081950401
+- Tract 2010: 28081950401
+- Tract 2000: 28081950400
+- Tract 1990: 28081950400
+- Place 2020: 74840
+- Place 2010: 74840
+- Place 2000: 67200
+- Place 1990: 1345
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 421093
+- Units: 200
+- Low-income units: 198
+- Units reported: 200
+- Low-income reported: 198
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 76
+- 3-bedroom units: 88
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2004658.
+- Record status: Existing, unchanged

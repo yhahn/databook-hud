@@ -1,0 +1,85 @@
+# Project: MEADOWCREST APTS (ALA19910134)
+
+- HUD ID: ALA19910134
+- HUD ID before: 
+- Project: MEADOWCREST APTS
+- Address: 79 MEADOW CREST DR
+- City: LUVERNE
+- State: AL
+- ZIP: 36049
+- ZIP extension: 
+- State project ID: AL-91-0029
+- Latitude: 31.691794
+- Longitude: -86.265218
+- County FIPS: 01041
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01041963700
+- Tract 2000: 01041963700
+- Tract 1990: 01041963700
+- Place 2020: 
+- Place 2010: 44728
+- Place 2000: 30160
+- Place 1990: 1080
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 47339
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1992065, ALA1991212, ALA1991131.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TOWPATH SENIOR (NYB20110803)
+
+- HUD ID: NYB20110803
+- HUD ID before: 
+- Project: TOWPATH SENIOR
+- Address: 201 CANAL ST
+- City: PALMYRA
+- State: NY
+- ZIP: 14522
+- ZIP extension: 
+- State project ID: NY-11-2060
+- Latitude: 43.065612
+- Longitude: -77.231195
+- County FIPS: 36117
+- County from: 2020
+- Tract 2020: 36117020700
+- Tract 2010: 36117020700
+- Tract 2000: 36117020700
+- Tract 1990: 36117020700
+- Place 2020: 56187
+- Place 2010: 56187
+- Place 2000: 56187
+- Place 1990: 2775
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 265176
+- Units: 97
+- Low-income units: 97
+- Units reported: 97
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 97
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

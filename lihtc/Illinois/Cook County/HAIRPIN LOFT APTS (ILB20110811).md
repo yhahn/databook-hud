@@ -1,0 +1,85 @@
+# Project: HAIRPIN LOFT APTS (ILB20110811)
+
+- HUD ID: ILB20110811
+- HUD ID before: 
+- Project: HAIRPIN LOFT APTS
+- Address: 3414 W DIVERSEY AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60647
+- ZIP extension: 
+- State project ID: IL-10-02001
+- Latitude: 41.932125
+- Longitude: -87.712501
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031210602
+- Tract 2010: 17031210602
+- Tract 2000: 17031210600
+- Tract 1990: 17031210600
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 310503
+- Units: 28
+- Low-income units: 25
+- Units reported: 28
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2011805.;
+- Record status: Existing, unchanged

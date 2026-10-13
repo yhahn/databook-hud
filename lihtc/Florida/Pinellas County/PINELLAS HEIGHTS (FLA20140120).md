@@ -1,0 +1,85 @@
+# Project: PINELLAS HEIGHTS (FLA20140120)
+
+- HUD ID: FLA20140120
+- HUD ID before: 
+- Project: PINELLAS HEIGHTS
+- Address: 11411 ULMERTON RD
+- City: LARGO
+- State: FL
+- ZIP: 33778
+- ZIP extension: 
+- State project ID: 2607
+- Latitude: 27.894899
+- Longitude: -82.797817
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103025307
+- Tract 2010: 12103025307
+- Tract 2000: 12103025301
+- Tract 1990: 12103025301
+- Place 2020: 39425
+- Place 2010: 39425
+- Place 2000: 39425
+- Place 1990: 1175
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 153
+- Low-income units: 153
+- Units reported: 153
+- Low-income reported: 153
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

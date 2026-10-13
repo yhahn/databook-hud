@@ -1,0 +1,85 @@
+# Project: KAPOLEI HO'OLIMALIMA (HIA20019004)
+
+- HUD ID: HIA20019004
+- HUD ID before: 
+- Project: KAPOLEI HO'OLIMALIMA
+- Address: 91 1000 KUIPUAKUKUI ST
+- City: KAPOLEI
+- State: HI
+- ZIP: 96707
+- ZIP extension: 
+- State project ID: HI-1999-005
+- Latitude: 21.3413
+- Longitude: -158.0865
+- County FIPS: 15003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 15003008622
+- Tract 2000: 15003008604
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 30300
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 700000
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 38
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

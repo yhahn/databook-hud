@@ -1,0 +1,85 @@
+# Project: CITY LINE (VAA20231004)
+
+- HUD ID: VAA20231004
+- HUD ID before: 
+- Project: CITY LINE
+- Address: 155-A MYTILENE DRIVE
+- City: NEWPORT NEWS
+- State: VA
+- ZIP: 23605
+- ZIP extension: 
+- State project ID: 1230
+- Latitude: 37.018448
+- Longitude: -76.421118
+- County FIPS: 51700
+- County from: 2020
+- Tract 2020: 51700031300
+- Tract 2010: 51700031300
+- Tract 2000: 51650010400
+- Tract 1990: 51650010400
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 35000
+- Place 1990: 0590
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 2312306
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 101
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2006105. AKA DARBYTOWN MEADOWS.
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: PRIOR CROSSING (MNA20162032)
+
+- HUD ID: MNA20162032
+- HUD ID before: 
+- Project: PRIOR CROSSING
+- Address: 1949 UNIVERSITY AVE W
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55104
+- ZIP extension: 
+- State project ID: D7595
+- Latitude: 44.957943
+- Longitude: -93.181828
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123031900
+- Tract 2010: 27123031900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 354850
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 44
+- 1-bedroom units: 
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 44
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

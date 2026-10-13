@@ -1,0 +1,85 @@
+# Project: PALMS APTS (CAA19990405)
+
+- HUD ID: CAA19990405
+- HUD ID before: 
+- Project: PALMS APTS
+- Address: 1920 BATSON AVE
+- City: ROWLAND HEIGHTS
+- State: CA
+- ZIP: 91748
+- ZIP extension: 
+- State project ID: CA-98-938
+- Latitude: 33.984603
+- Longitude: -117.903711
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037408724
+- Tract 2010: 06037408724
+- Tract 2000: 06037408721
+- Tract 1990: 06037408721
+- Place 2020: 63218
+- Place 2010: 63218
+- Place 2000: 63218
+- Place 1990: 2412
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 631675
+- Units: 332
+- Low-income units: 332
+- Units reported: 332
+- Low-income reported: 332
+- Efficiencies: 0
+- 1-bedroom units: 98
+- 2-bedroom units: 232
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

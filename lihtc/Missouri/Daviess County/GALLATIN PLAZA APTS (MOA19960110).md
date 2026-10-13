@@ -1,0 +1,85 @@
+# Project: GALLATIN PLAZA APTS (MOA19960110)
+
+- HUD ID: MOA19960110
+- HUD ID before: 
+- Project: GALLATIN PLAZA APTS
+- Address: 101 E ELM ST
+- City: GALLATIN
+- State: MO
+- ZIP: 64640
+- ZIP extension: 
+- State project ID: 95090
+- Latitude: 39.902817
+- Longitude: -93.958417
+- County FIPS: 29061
+- County from: 2020
+- Tract 2020: 29061470200
+- Tract 2010: 29061470200
+- Tract 2000: 29061970200
+- Tract 1990: 29061970200
+- Place 2020: 26308
+- Place 2010: 26308
+- Place 2000: 00910
+- Place 1990: 1570
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

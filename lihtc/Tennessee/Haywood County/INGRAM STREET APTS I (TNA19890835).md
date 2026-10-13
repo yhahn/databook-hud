@@ -1,0 +1,85 @@
+# Project: INGRAM STREET APTS I (TNA19890835)
+
+- HUD ID: TNA19890835
+- HUD ID before: 
+- Project: INGRAM STREET APTS I
+- Address: 1016 INGRAM ST
+- City: BROWNSVILLE
+- State: TN
+- ZIP: 38012
+- ZIP extension: 
+- State project ID: TN-89-044
+- Latitude: 35.604302
+- Longitude: -89.270474
+- County FIPS: 47075
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47075930301
+- Tract 2000: 47075980300
+- Tract 1990: 47075980300
+- Place 2020: 
+- Place 2010: 08920
+- Place 2000: 08920
+- Place 1990: 0175
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 9474
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1989350. AKA INGRAM 4 APT.
+- Record status: Existing, unchanged

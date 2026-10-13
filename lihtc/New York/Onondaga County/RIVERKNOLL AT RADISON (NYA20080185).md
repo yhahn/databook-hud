@@ -1,0 +1,85 @@
+# Project: RIVERKNOLL AT RADISON (NYA20080185)
+
+- HUD ID: NYA20080185
+- HUD ID before: 
+- Project: RIVERKNOLL AT RADISON
+- Address: 3261 RIVER KNOLL DR S
+- City: LYSANDER
+- State: NY
+- ZIP: 13027
+- ZIP extension: 
+- State project ID: 20050328
+- Latitude: 43.169553
+- Longitude: -76.285418
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067011500
+- Tract 2010: 36067011500
+- Tract 2000: 36067011500
+- Tract 1990: 36067011500
+- Place 2020: 60455
+- Place 2010: 99999
+- Place 2000: 04198
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 763310
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 80
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

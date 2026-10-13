@@ -1,0 +1,85 @@
+# Project: APARTMENTS AT NORTH POINT (VAA19980263)
+
+- HUD ID: VAA19980263
+- HUD ID before: 
+- Project: APARTMENTS AT NORTH POINT
+- Address: 11695 N POINT CT
+- City: RESTON
+- State: VA
+- ZIP: 20194
+- ZIP extension: 
+- State project ID: 1067
+- Latitude: 38.980108
+- Longitude: -77.350639
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059480504
+- Tract 2010: 51059480504
+- Tract 2000: 51059480500
+- Tract 1990: 51059480500
+- Place 2020: 66672
+- Place 2010: 66672
+- Place 2000: 66672
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 291412
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA NORTHPOINT AFF;
+- Record status: Existing, unchanged

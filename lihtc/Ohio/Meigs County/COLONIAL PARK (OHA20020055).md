@@ -1,0 +1,85 @@
+# Project: COLONIAL PARK (OHA20020055)
+
+- HUD ID: OHA20020055
+- HUD ID before: 
+- Project: COLONIAL PARK
+- Address: 300 MULBERRY AVE
+- City: POMEROY
+- State: OH
+- ZIP: 45769
+- ZIP extension: 
+- State project ID: 000063
+- Latitude: 39.031276
+- Longitude: -82.039356
+- County FIPS: 39105
+- County from: 2020
+- Tract 2020: 39105964500
+- Tract 2010: 39105964500
+- Tract 2000: 39105964500
+- Tract 1990: 39105964500
+- Place 2020: 64024
+- Place 2010: 64024
+- Place 2000: 64024
+- Place 1990: 3510
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 53897
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

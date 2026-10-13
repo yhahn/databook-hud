@@ -1,0 +1,85 @@
+# Project: KELLY ROAD (CTA20090030)
+
+- HUD ID: CTA20090030
+- HUD ID before: 
+- Project: KELLY ROAD
+- Address: 25 GERBER RD E
+- City: SOUTH WINDSOR
+- State: CT
+- ZIP: 
+- ZIP extension: 
+- State project ID: CT-08-010
+- Latitude: 41.822456
+- Longitude: -72.506727
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003487201
+- Tract 2010: 09003487201
+- Tract 2000: 09003487200
+- Tract 1990: 09003487200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 854474
+- Units: 88
+- Low-income units: 66
+- Units reported: 88
+- Low-income reported: 66
+- Efficiencies: 1
+- 1-bedroom units: 27
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1735000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA0000160. AKA HILLCREST.
+- Record status: Existing, unchanged

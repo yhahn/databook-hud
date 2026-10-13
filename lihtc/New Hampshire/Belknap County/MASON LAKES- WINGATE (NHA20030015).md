@@ -1,0 +1,85 @@
+# Project: MASON LAKES/ WINGATE (NHA20030015)
+
+- HUD ID: NHA20030015
+- HUD ID before: 
+- Project: MASON LAKES/ WINGATE
+- Address: 103 BLUEBERRY LN
+- City: LACONIA
+- State: NH
+- ZIP: 03246
+- ZIP extension: 
+- State project ID: NH36M000027
+- Latitude: 43.540433
+- Longitude: -71.484633
+- County FIPS: 33001
+- County from: 2020
+- Tract 2020: 33001966000
+- Tract 2010: 33001966000
+- Tract 2000: 33001966000
+- Tract 1990: 33001966000
+- Place 2020: 40180
+- Place 2010: 40180
+- Place 2000: 40180
+- Place 1990: 1390
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 44
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

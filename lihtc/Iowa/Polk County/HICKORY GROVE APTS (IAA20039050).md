@@ -1,0 +1,85 @@
+# Project: HICKORY GROVE APTS (IAA20039050)
+
+- HUD ID: IAA20039050
+- HUD ID before: 
+- Project: HICKORY GROVE APTS
+- Address: 4010 E 42ND ST
+- City: DES MOINES
+- State: IA
+- ZIP: 50317
+- ZIP extension: 
+- State project ID: 02-28
+- Latitude: 41.633091
+- Longitude: -93.532322
+- County FIPS: 19153
+- County from: 2020
+- Tract 2020: 19153000101
+- Tract 2010: 19153000101
+- Tract 2000: 19153000101
+- Tract 1990: 19153000101
+- Place 2020: 21000
+- Place 2010: 21000
+- Place 2000: 21000
+- Place 1990: 1130
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

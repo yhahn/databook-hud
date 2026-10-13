@@ -1,0 +1,85 @@
+# Project: VILLAGE AT WASHINGTON SQUARE (ORA20020075)
+
+- HUD ID: ORA20020075
+- HUD ID before: 
+- Project: VILLAGE AT WASHINGTON SQUARE
+- Address: 11159 SW HALL BLVD
+- City: TIGARD
+- State: OR
+- ZIP: 97223
+- ZIP extension: 
+- State project ID: 16
+- Latitude: 45.439328
+- Longitude: -122.765619
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067030900
+- Tract 2010: 41067030900
+- Tract 2000: 41067030900
+- Tract 1990: 41067030900
+- Place 2020: 73650
+- Place 2010: 73650
+- Place 2000: 05350
+- Place 1990: 1132
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 233069
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 1
+- 1-bedroom units: 7
+- 2-bedroom units: 5
+- 3-bedroom units: 7
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

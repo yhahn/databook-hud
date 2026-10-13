@@ -1,0 +1,85 @@
+# Project: COTTONWOOD PLACE (CAA20161014)
+
+- HUD ID: CAA20161014
+- HUD ID before: 
+- Project: COTTONWOOD PLACE
+- Address: 24115 COTTONWOOD AVENUE
+- City: MORENO VALLEY
+- State: CA
+- ZIP: 92553
+- ZIP extension: 
+- State project ID: CA-15-864
+- Latitude: 33.924387
+- Longitude: -117.242055
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065042516
+- Tract 2010: 06065042516
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 49270
+- Place 2010: 49270
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 492704
+- Units: 109
+- Low-income units: 108
+- Units reported: 109
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 55
+- 4-bedroom units: 54
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 108
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 646250
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

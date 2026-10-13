@@ -1,0 +1,85 @@
+# Project: VIVIENDAS APTS LP (MAA20010045)
+
+- HUD ID: MAA20010045
+- HUD ID before: 
+- Project: VIVIENDAS APTS LP
+- Address: 100 E DEDHAM ST
+- City: BOSTON
+- State: MA
+- ZIP: 02118
+- ZIP extension: 
+- State project ID: 00-007
+- Latitude: 42.338439
+- Longitude: -71.068343
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025071201
+- Tract 2010: 25025071201
+- Tract 2000: 25025071200
+- Tract 1990: 25025071200
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 181
+- Low-income units: 181
+- Units reported: 181
+- Low-income reported: 181
+- Efficiencies: 11
+- 1-bedroom units: 52
+- 2-bedroom units: 64
+- 3-bedroom units: 24
+- 4-bedroom units: 30
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000673.
+- Record status: Existing, unchanged

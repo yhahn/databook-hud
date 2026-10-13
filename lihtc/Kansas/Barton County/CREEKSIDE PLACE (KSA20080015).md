@@ -1,0 +1,85 @@
+# Project: CREEKSIDE PLACE (KSA20080015)
+
+- HUD ID: KSA20080015
+- HUD ID before: 
+- Project: CREEKSIDE PLACE
+- Address: 2012 32ND ST
+- City: GREAT BEND
+- State: KS
+- ZIP: 67530
+- ZIP extension: 
+- State project ID: 60493
+- Latitude: 38.382898
+- Longitude: -98.766261
+- County FIPS: 20009
+- County from: 2020
+- Tract 2020: 20009971400
+- Tract 2010: 20009971400
+- Tract 2000: 20009971400
+- Tract 1990: 20009971400
+- Place 2020: 28300
+- Place 2010: 28300
+- Place 2000: 28300
+- Place 1990: 1090
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 171675
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

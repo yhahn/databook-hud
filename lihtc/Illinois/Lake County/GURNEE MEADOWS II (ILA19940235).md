@@ -1,0 +1,85 @@
+# Project: GURNEE MEADOWS II (ILA19940235)
+
+- HUD ID: ILA19940235
+- HUD ID before: 
+- Project: GURNEE MEADOWS II
+- Address: 1380 PAULY DR
+- City: GURNEE
+- State: IL
+- ZIP: 60031
+- ZIP extension: 
+- State project ID: 66193
+- Latitude: 42.379953
+- Longitude: -87.9345
+- County FIPS: 17097
+- County from: 2020
+- Tract 2020: 17097861508
+- Tract 2010: 17097861508
+- Tract 2000: 17097861508
+- Tract 1990: 17097861501
+- Place 2020: 32018
+- Place 2010: 32018
+- Place 2000: 32018
+- Place 1990: 2385
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 459022
+- Units: 95
+- Low-income units: 95
+- Units reported: 95
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

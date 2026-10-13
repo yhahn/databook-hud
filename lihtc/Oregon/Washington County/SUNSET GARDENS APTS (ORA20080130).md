@@ -1,0 +1,85 @@
+# Project: SUNSET GARDENS APTS (ORA20080130)
+
+- HUD ID: ORA20080130
+- HUD ID before: 
+- Project: SUNSET GARDENS APTS
+- Address: 951 SE 13TH AVE
+- City: HILLSBORO
+- State: OR
+- ZIP: 97123
+- ZIP extension: 
+- State project ID: OR97-009
+- Latitude: 45.512287
+- Longitude: -122.969208
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067032410
+- Tract 2010: 41067032410
+- Tract 2000: 41067032403
+- Tract 1990: 41067032403
+- Place 2020: 34100
+- Place 2010: 34100
+- Place 2000: 34100
+- Place 1990: 0520
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 322836
+- Units: 101
+- Low-income units: 100
+- Units reported: 101
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 96
+- 3-bedroom units: 2
+- 4-bedroom units: 3
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 99
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA1998127. AKA PROYECTO ADELANTES FAMILIAS.
+- Record status: Existing, unchanged

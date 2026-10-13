@@ -1,0 +1,85 @@
+# Project: WATER'S EDGE (RIA20060050)
+
+- HUD ID: RIA20060050
+- HUD ID before: 
+- Project: WATER'S EDGE
+- Address: 130 CASWELL ST
+- City: NARRAGANSETT
+- State: RI
+- ZIP: 02882
+- ZIP extension: 
+- State project ID: RI00054
+- Latitude: 41.42674
+- Longitude: -71.461753
+- County FIPS: 44009
+- County from: 2020
+- Tract 2020: 44009051503
+- Tract 2010: 44009051503
+- Tract 2000: 44009051503
+- Tract 1990: 44009051501
+- Place 2020: 48700
+- Place 2010: 48700
+- Place 2000: 48700
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 172509
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 8
+- 1-bedroom units: 16
+- 2-bedroom units: 6
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS RIA1989015. FKA DRIFTWOOD APTS
+- Record status: Existing, unchanged

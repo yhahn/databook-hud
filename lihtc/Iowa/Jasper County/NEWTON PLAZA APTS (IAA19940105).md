@@ -1,0 +1,85 @@
+# Project: NEWTON PLAZA APTS (IAA19940105)
+
+- HUD ID: IAA19940105
+- HUD ID before: 
+- Project: NEWTON PLAZA APTS
+- Address: 901 S 13TH AVE E
+- City: NEWTON
+- State: IA
+- ZIP: 50208
+- ZIP extension: 
+- State project ID: 93-29
+- Latitude: 41.688234
+- Longitude: -93.041653
+- County FIPS: 19099
+- County from: 2020
+- Tract 2020: 19099040500
+- Tract 2010: 19099040500
+- Tract 2000: 19099040500
+- Tract 1990: 19099040500
+- Place 2020: 56505
+- Place 2010: 56505
+- Place 2000: 56505
+- Place 1990: 3070
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 34002
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

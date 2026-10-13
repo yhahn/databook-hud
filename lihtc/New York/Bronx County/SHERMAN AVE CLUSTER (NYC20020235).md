@@ -1,0 +1,85 @@
+# Project: SHERMAN AVE CLUSTER (NYC20020235)
+
+- HUD ID: NYC20020235
+- HUD ID before: 
+- Project: SHERMAN AVE CLUSTER
+- Address: 1194 SHERMAN AVE
+- City: BRONX
+- State: NY
+- ZIP: 10456
+- ZIP extension: 
+- State project ID: NY0102068
+- Latitude: 40.833353
+- Longitude: -73.915907
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005018101
+- Tract 2010: 36005018101
+- Tract 2000: 36005018100
+- Tract 1990: 36005018100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 109204
+- Units: 37
+- Low-income units: 28
+- Units reported: 37
+- Low-income reported: 28
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VILLAGE OF SEVEN MORNINGS FKA CONWAY SENIOR C (ARA19990313)
+
+- HUD ID: ARA19990313
+- HUD ID before: 
+- Project: VILLAGE OF SEVEN MORNINGS FKA CONWAY SENIOR C
+- Address: 1400 HARKRIDER ST
+- City: CONWAY
+- State: AR
+- ZIP: 72034
+- ZIP extension: 
+- State project ID: AR-98-05-001
+- Latitude: 35.09835
+- Longitude: -92.43792
+- County FIPS: 05045
+- County from: 2020
+- Tract 2020: 05045030701
+- Tract 2010: 05045030701
+- Tract 2000: 05045030700
+- Tract 1990: 05045030700
+- Place 2020: 15190
+- Place 2010: 15190
+- Place 2000: 15190
+- Place 1990: 0440
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 211185
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 2
+- 1-bedroom units: 46
+- 2-bedroom units: 3
+- 3-bedroom units: 19
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1999073. FKA CONWAY SENIOR CITIZENS
+- Record status: Existing, unchanged

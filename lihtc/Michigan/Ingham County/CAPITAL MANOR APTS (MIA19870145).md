@@ -1,0 +1,85 @@
+# Project: CAPITAL MANOR APTS (MIA19870145)
+
+- HUD ID: MIA19870145
+- HUD ID before: 
+- Project: CAPITAL MANOR APTS
+- Address: 515 S CHESTNUT ST
+- City: LANSING
+- State: MI
+- ZIP: 48933
+- ZIP extension: 
+- State project ID: MI-756
+- Latitude: 42.72855
+- Longitude: -84.558329
+- County FIPS: 26065
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26065006700
+- Tract 2000: 26065001500
+- Tract 1990: 26065001500
+- Place 2020: 
+- Place 2010: 46000
+- Place 2000: 46000
+- Place 1990: 1485
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 16
+- Units reported: 72
+- Low-income reported: 16
+- Efficiencies: 23
+- 1-bedroom units: 34
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CAPITAL MANOR APTS PARTNRSHP.
+- Record status: Existing, unchanged

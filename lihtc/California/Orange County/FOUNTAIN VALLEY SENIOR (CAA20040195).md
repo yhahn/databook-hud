@@ -1,0 +1,85 @@
+# Project: FOUNTAIN VALLEY SENIOR (CAA20040195)
+
+- HUD ID: CAA20040195
+- HUD ID before: 
+- Project: FOUNTAIN VALLEY SENIOR
+- Address: 17911 BUSHARD ST
+- City: FOUNTAIN VALLEY
+- State: CA
+- ZIP: 92708
+- ZIP extension: 
+- State project ID: CA-02-037
+- Latitude: 33.702435
+- Longitude: -117.963192
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059099234
+- Tract 2010: 06059099234
+- Tract 2000: 06059099234
+- Tract 1990: 06059099234
+- Place 2020: 25380
+- Place 2010: 25380
+- Place 2000: 25380
+- Place 1990: 1065
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 1317517
+- Units: 156
+- Low-income units: 154
+- Units reported: 156
+- Low-income reported: 154
+- Efficiencies: 0
+- 1-bedroom units: 124
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA THE JASMINE AT FOUNDERS VILLAGE.
+- Record status: Existing, unchanged

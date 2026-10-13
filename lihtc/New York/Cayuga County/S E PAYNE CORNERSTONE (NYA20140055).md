@@ -1,0 +1,85 @@
+# Project: S E PAYNE CORNERSTONE (NYA20140055)
+
+- HUD ID: NYA20140055
+- HUD ID before: 
+- Project: S E PAYNE CORNERSTONE
+- Address: 8 JAMES ST
+- City: AUBURN
+- State: NY
+- ZIP: 13021
+- ZIP extension: 
+- State project ID: 20116230
+- Latitude: 42.929861
+- Longitude: -76.571809
+- County FIPS: 36011
+- County from: 2020
+- Tract 2020: 36011042100
+- Tract 2010: 36011042100
+- Tract 2000: 36011041900
+- Tract 1990: 36011041900
+- Place 2020: 03078
+- Place 2010: 03078
+- Place 2000: 03078
+- Place 1990: 0180
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 770000
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

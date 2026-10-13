@@ -1,0 +1,85 @@
+# Project: NORTHWARD BUILDING (AKA20019031)
+
+- HUD ID: AKA20019031
+- HUD ID before: 
+- Project: NORTHWARD BUILDING
+- Address: 455 THIRD AVENUE
+- City: FAIRBANKS
+- State: AK
+- ZIP: 99701
+- ZIP extension: 
+- State project ID: AK-99-04
+- Latitude: 64.842999
+- Longitude: -147.715992
+- County FIPS: 02090
+- County from: 2020
+- Tract 2020: 02090000100
+- Tract 2010: 02090000100
+- Tract 2000: 02016000200
+- Tract 1990: 
+- Place 2020: 24230
+- Place 2010: 24230
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 287928
+- Units: 177
+- Low-income units: 16
+- Units reported: 177
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

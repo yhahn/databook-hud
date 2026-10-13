@@ -1,0 +1,85 @@
+# Project: MAYFAIR COMMONS SENIOR BLDG (ILB19970030)
+
+- HUD ID: ILB19970030
+- HUD ID before: 
+- Project: MAYFAIR COMMONS SENIOR BLDG
+- Address: 4444 W LAWRENCE AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60630
+- ZIP extension: 
+- State project ID: IL-TC-95-007
+- Latitude: 41.968301
+- Longitude: -87.739694
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031140400
+- Tract 2010: 17031140400
+- Tract 2000: 17031140400
+- Tract 1990: 17031140400
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 97
+- Low-income units: 97
+- Units reported: 97
+- Low-income reported: 97
+- Efficiencies: 11
+- 1-bedroom units: 57
+- 2-bedroom units: 29
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

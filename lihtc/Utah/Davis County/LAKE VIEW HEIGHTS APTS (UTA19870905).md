@@ -1,0 +1,85 @@
+# Project: LAKE VIEW HEIGHTS APTS (UTA19870905)
+
+- HUD ID: UTA19870905
+- HUD ID before: 
+- Project: LAKE VIEW HEIGHTS APTS
+- Address: 1755 S 200 E
+- City: CLEARFIELD
+- State: UT
+- ZIP: 84015
+- ZIP extension: 
+- State project ID: 1987-03
+- Latitude: 41.088072
+- Longitude: -112.022483
+- County FIPS: 49011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49011125405
+- Tract 2000: 49011125404
+- Tract 1990: 49011125402
+- Place 2020: 
+- Place 2010: 13850
+- Place 2000: 13850
+- Place 1990: 0135
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 83
+- Low-income units: 83
+- Units reported: 83
+- Low-income reported: 83
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

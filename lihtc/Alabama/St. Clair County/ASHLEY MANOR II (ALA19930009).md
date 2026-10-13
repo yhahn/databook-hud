@@ -1,0 +1,85 @@
+# Project: ASHLEY MANOR II (ALA19930009)
+
+- HUD ID: ALA19930009
+- HUD ID before: 
+- Project: ASHLEY MANOR II
+- Address: 925 ASHLEY DR
+- City: MOODY
+- State: AL
+- ZIP: 35004
+- ZIP extension: 
+- State project ID: AL-93-0056
+- Latitude: 33.591301
+- Longitude: -86.499645
+- County FIPS: 01115
+- County from: 2020
+- Tract 2020: 01115040104
+- Tract 2010: 01115040104
+- Tract 2000: 01115040101
+- Tract 1990: 01115040101
+- Place 2020: 51096
+- Place 2010: 51096
+- Place 2000: 02320
+- Place 1990: 1183
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 98100
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 56
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1210000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1994020.
+- Record status: Existing, unchanged

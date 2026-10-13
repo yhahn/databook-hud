@@ -1,0 +1,85 @@
+# Project: PEBBLE BROOKE APTS (OHA20010145)
+
+- HUD ID: OHA20010145
+- HUD ID before: 
+- Project: PEBBLE BROOKE APTS
+- Address: 1279 PEBBLE BROOKE TRAIL
+- City: MILFORD
+- State: OH
+- ZIP: 45150
+- ZIP extension: 
+- State project ID: 990069
+- Latitude: 39.191212
+- Longitude: -84.228777
+- County FIPS: 39025
+- County from: 2020
+- Tract 2020: 39025040703
+- Tract 2010: 39025040701
+- Tract 2000: 39025040402
+- Tract 1990: 39025040402
+- Place 2020: 53032
+- Place 2010: 53032
+- Place 2000: 53032
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 666820
+- Units: 260
+- Low-income units: 260
+- Units reported: 252
+- Low-income reported: 260
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 130
+- 3-bedroom units: 130
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

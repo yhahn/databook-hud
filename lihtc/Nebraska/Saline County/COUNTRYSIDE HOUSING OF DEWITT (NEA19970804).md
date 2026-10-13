@@ -1,0 +1,85 @@
+# Project: COUNTRYSIDE HOUSING OF DEWITT (NEA19970804)
+
+- HUD ID: NEA19970804
+- HUD ID before: 
+- Project: COUNTRYSIDE HOUSING OF DEWITT
+- Address: 907 W LANCASTER AVE
+- City: DE WITT
+- State: NE
+- ZIP: 68341
+- ZIP extension: 
+- State project ID: 7-0356
+- Latitude: 40.396436
+- Longitude: -96.931649
+- County FIPS: 31151
+- County from: 2020
+- Tract 2020: 31151960900
+- Tract 2010: 31151960900
+- Tract 2000: 31151990900
+- Tract 1990: 31151990900
+- Place 2020: 13015
+- Place 2010: 13015
+- Place 2000: 13015
+- Place 1990: 2630
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 18872
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA1995025.
+- Record status: Existing, unchanged

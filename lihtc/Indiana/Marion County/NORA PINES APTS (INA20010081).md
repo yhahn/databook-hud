@@ -1,0 +1,85 @@
+# Project: NORA PINES APTS (INA20010081)
+
+- HUD ID: INA20010081
+- HUD ID before: 
+- Project: NORA PINES APTS
+- Address: 8921 COMPTON ST
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46240
+- ZIP extension: 
+- State project ID: IN-01-02100
+- Latitude: 39.918032
+- Longitude: -86.139593
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097320206
+- Tract 2010: 18097320204
+- Tract 2000: 18097320204
+- Tract 1990: 18097320204
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 254
+- Low-income units: 241
+- Units reported: 254
+- Low-income reported: 241
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 128
+- 3-bedroom units: 54
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 82
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2002047.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: YORKSHIRE TERRACE APTS. (NVA19970050)
+
+- HUD ID: NVA19970050
+- HUD ID before: 
+- Project: YORKSHIRE TERRACE APTS.
+- Address: 7900 GOLDEN VALLEY RD.
+- City: RENO
+- State: NV
+- ZIP: 89506
+- ZIP extension: 0000
+- State project ID: 95-61
+- Latitude: 39.6497
+- Longitude: -119.855
+- County FIPS: 32031
+- County from: 2020
+- Tract 2020: 32031002611
+- Tract 2010: 32031002611
+- Tract 2000: 32031002609
+- Tract 1990: 32031002402
+- Place 2020: 41800
+- Place 2010: 41800
+- Place 2000: 60600
+- Place 1990: 0090
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 230487
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

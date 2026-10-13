@@ -1,0 +1,85 @@
+# Project: VISTA DEL RIO (CAA20130114)
+
+- HUD ID: CAA20130114
+- HUD ID before: 
+- Project: VISTA DEL RIO
+- Address: 1600 W MEMORY LN
+- City: SANTA ANA
+- State: CA
+- ZIP: 92706
+- ZIP extension: 
+- State project ID: CA-11-105
+- Latitude: 33.773912
+- Longitude: -117.890025
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059089107
+- Tract 2010: 06059089107
+- Tract 2000: 06059089107
+- Tract 1990: 06059089101
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 29000
+- Place 1990: 1110
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 526779
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 15
+- 1-bedroom units: 20
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

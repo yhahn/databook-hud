@@ -1,0 +1,85 @@
+# Project: CADENCE SQUARE (NYA20130277)
+
+- HUD ID: NYA20130277
+- HUD ID before: 
+- Project: CADENCE SQUARE
+- Address: 400 FT HILL AVE
+- City: CANANDAIGUA
+- State: NY
+- ZIP: 14424
+- ZIP extension: 
+- State project ID: 20116044
+- Latitude: 42.900925
+- Longitude: -77.270868
+- County FIPS: 36069
+- County from: 2020
+- Tract 2020: 36069050900
+- Tract 2010: 36069050900
+- Tract 2000: 36069050900
+- Tract 1990: 36069050900
+- Place 2020: 12144
+- Place 2010: 12144
+- Place 2000: 12144
+- Place 1990: 0490
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 472921
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: VETERANS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

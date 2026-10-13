@@ -1,0 +1,85 @@
+# Project: DENVER APTS (IAA19870035)
+
+- HUD ID: IAA19870035
+- HUD ID before: 
+- Project: DENVER APTS
+- Address: 201 DONNA ST
+- City: DENVER
+- State: IA
+- ZIP: 50622
+- ZIP extension: 
+- State project ID: 87-01
+- Latitude: 42.66682
+- Longitude: -92.335158
+- County FIPS: 19017
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19017004600
+- Tract 2000: 19017004600
+- Tract 1990: 19017004600
+- Place 2020: 
+- Place 2010: 20035
+- Place 2000: 20035
+- Place 1990: 1120
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 6139
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

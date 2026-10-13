@@ -1,0 +1,85 @@
+# Project: MADISON REYNOLDSTOWN (GAA20240031)
+
+- HUD ID: GAA20240031
+- HUD ID before: 
+- Project: MADISON REYNOLDSTOWN
+- Address: 872 MEMORIAL DRIVE
+- City: ATLANTA (FULTON)
+- State: GA
+- ZIP: 30316
+- ZIP extension: 1210
+- State project ID: 2020-503
+- Latitude: 33.746761
+- Longitude: -84.358896
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121003200
+- Tract 2010: 13121003200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 1561857
+- Units: 116
+- Low-income units: 116
+- Units reported: 116
+- Low-income reported: 116
+- Efficiencies: 0
+- 1-bedroom units: 71
+- 2-bedroom units: 36
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

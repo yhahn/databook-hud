@@ -1,0 +1,85 @@
+# Project: RIVERSIDE MANOR APARTMENTS (MIA20150013)
+
+- HUD ID: MIA20150013
+- HUD ID before: 
+- Project: RIVERSIDE MANOR APARTMENTS
+- Address: 544 N. MAIN STREET
+- City: AU GRES
+- State: MI
+- ZIP: 48703
+- ZIP extension: 0000
+- State project ID: 3654
+- Latitude: 44.053712
+- Longitude: -83.686012
+- County FIPS: 26011
+- County from: 2020
+- Tract 2020: 26011970400
+- Tract 2010: 26011970400
+- Tract 2000: 26011970400
+- Tract 1990: 
+- Place 2020: 04120
+- Place 2010: 04120
+- Place 2000: 04120
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 193394
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 14
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

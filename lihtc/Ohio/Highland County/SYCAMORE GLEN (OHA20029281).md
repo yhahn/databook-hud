@@ -1,0 +1,85 @@
+# Project: SYCAMORE GLEN (OHA20029281)
+
+- HUD ID: OHA20029281
+- HUD ID before: 
+- Project: SYCAMORE GLEN
+- Address: 1134 SYCAMORE CIR
+- City: GREENFIELD
+- State: OH
+- ZIP: 45123
+- ZIP extension: 
+- State project ID: 000053
+- Latitude: 39.352201
+- Longitude: -83.399873
+- County FIPS: 39071
+- County from: 2020
+- Tract 2020: 39071954400
+- Tract 2010: 39071954400
+- Tract 2000: 39071954400
+- Tract 1990: 39071954400
+- Place 2020: 32088
+- Place 2010: 32088
+- Place 2000: 32088
+- Place 1990: 1650
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 213264
+- Units: 36
+- Low-income units: 28
+- Units reported: 36
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 33
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 451000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SINGLE PARENTS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006675, OHA2002175.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ELM COURT APTS (WYA20080010)
+
+- HUD ID: WYA20080010
+- HUD ID before: 
+- Project: ELM COURT APTS
+- Address: 822 N GURLEY AVE
+- City: GILLETTE
+- State: WY
+- ZIP: 82716
+- ZIP extension: 
+- State project ID: 06-004
+- Latitude: 44.303255
+- Longitude: -105.489056
+- County FIPS: 56005
+- County from: 2020
+- Tract 2020: 56005000702
+- Tract 2010: 56005000700
+- Tract 2000: 56005000700
+- Tract 1990: 56005952100
+- Place 2020: 31855
+- Place 2010: 31855
+- Place 2000: 31855
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 689791
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 31
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 71
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WYA0000040.
+- Record status: Existing, unchanged

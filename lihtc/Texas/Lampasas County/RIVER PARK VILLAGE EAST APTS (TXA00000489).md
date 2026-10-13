@@ -1,0 +1,85 @@
+# Project: RIVER PARK VILLAGE EAST APTS (TXA00000489)
+
+- HUD ID: TXA00000489
+- HUD ID before: 
+- Project: RIVER PARK VILLAGE EAST APTS
+- Address: 1309 CENTRAL TEXAS EXPY
+- City: LAMPASAS
+- State: TX
+- ZIP: 76550
+- ZIP extension: 
+- State project ID: TX4533
+- Latitude: 31.060811
+- Longitude: -98.166346
+- County FIPS: 48281
+- County from: 2020
+- Tract 2020: 48281950400
+- Tract 2010: 48281950400
+- Tract 2000: 48281950400
+- Tract 1990: 48281950400
+- Place 2020: 41188
+- Place 2010: 41188
+- Place 2000: 41188
+- Place 1990: 2380
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

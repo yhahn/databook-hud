@@ -1,0 +1,85 @@
+# Project: ARCADE COUNTRY ESTATES (NYA20010040)
+
+- HUD ID: NYA20010040
+- HUD ID before: 
+- Project: ARCADE COUNTRY ESTATES
+- Address: 101 DOUGLASS DR
+- City: ARCADE
+- State: NY
+- ZIP: 14009
+- ZIP extension: 
+- State project ID: NY-99-0013_00966
+- Latitude: 42.538264
+- Longitude: -78.427474
+- County FIPS: 36121
+- County from: 2020
+- Tract 2020: 36121971000
+- Tract 2010: 36121971000
+- Tract 2000: 36121991000
+- Tract 1990: 36121991000
+- Place 2020: 02407
+- Place 2010: 02407
+- Place 2000: 02407
+- Place 1990: 0135
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

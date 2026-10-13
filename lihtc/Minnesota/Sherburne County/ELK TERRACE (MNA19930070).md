@@ -1,0 +1,85 @@
+# Project: ELK TERRACE (MNA19930070)
+
+- HUD ID: MNA19930070
+- HUD ID before: 
+- Project: ELK TERRACE
+- Address: 385 HOLT AVE
+- City: ELK RIVER
+- State: MN
+- ZIP: 55330
+- ZIP extension: 
+- State project ID: D0498
+- Latitude: 45.304876
+- Longitude: -93.564104
+- County FIPS: 27141
+- County from: 2020
+- Tract 2020: 27141030506
+- Tract 2010: 27141030502
+- Tract 2000: 27141030502
+- Tract 1990: 27141030500
+- Place 2020: 18674
+- Place 2010: 18674
+- Place 2000: 18674
+- Place 1990: 1145
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

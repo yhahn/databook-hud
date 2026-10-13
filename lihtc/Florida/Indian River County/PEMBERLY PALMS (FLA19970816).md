@@ -1,0 +1,85 @@
+# Project: PEMBERLY PALMS (FLA19970816)
+
+- HUD ID: FLA19970816
+- HUD ID before: 
+- Project: PEMBERLY PALMS
+- Address: 840 5TH AVENUE
+- City: VERO BEACH
+- State: FL
+- ZIP: 32960
+- ZIP extension: 
+- State project ID: 419
+- Latitude: 27.616249
+- Longitude: -80.383087
+- County FIPS: 12061
+- County from: 2020
+- Tract 2020: 12061050601
+- Tract 2010: 12061050601
+- Tract 2000: 12061050601
+- Tract 1990: 12061050601
+- Place 2020: 74200
+- Place 2010: 74200
+- Place 2000: 74200
+- Place 1990: 2152
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 1186819
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 96
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

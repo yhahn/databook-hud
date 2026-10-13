@@ -1,0 +1,85 @@
+# Project: LINCOLN PLACE III (OHA19930180)
+
+- HUD ID: OHA19930180
+- HUD ID before: 
+- Project: LINCOLN PLACE III
+- Address: 1378 S LINCOLN AVE
+- City: SALEM
+- State: OH
+- ZIP: 44460
+- ZIP extension: 
+- State project ID: OH-92-1011
+- Latitude: 40.888858
+- Longitude: -80.846488
+- County FIPS: 39029
+- County from: 2020
+- Tract 2020: 39029950500
+- Tract 2010: 39029950500
+- Tract 2000: 39029950500
+- Tract 1990: 39029950500
+- Place 2020: 69834
+- Place 2010: 69834
+- Place 2000: 69834
+- Place 1990: 3815
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 53250
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

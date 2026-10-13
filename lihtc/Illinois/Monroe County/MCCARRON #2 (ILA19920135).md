@@ -1,0 +1,85 @@
+# Project: MCCARRON #2 (ILA19920135)
+
+- HUD ID: ILA19920135
+- HUD ID before: 
+- Project: MCCARRON #2
+- Address: 120 COUNTRY RDG
+- City: COLUMBIA
+- State: IL
+- ZIP: 62236
+- ZIP extension: 
+- State project ID: 37391
+- Latitude: 38.422065
+- Longitude: -90.170612
+- County FIPS: 17133
+- County from: 2020
+- Tract 2020: 17133600102
+- Tract 2010: 17133600102
+- Tract 2000: 17133600100
+- Tract 1990: 17133600100
+- Place 2020: 15833
+- Place 2010: 15833
+- Place 2000: 15833
+- Place 1990: 1220
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 8886
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

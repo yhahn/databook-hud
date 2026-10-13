@@ -1,0 +1,85 @@
+# Project: BASALT RIDGE APARTMENTS (WAA20171006)
+
+- HUD ID: WAA20171006
+- HUD ID before: 
+- Project: BASALT RIDGE APARTMENTS
+- Address: 13660 WEST 6TH AVE.
+- City: AIRWAY HEIGHTS
+- State: WA
+- ZIP: 99001
+- ZIP extension: 
+- State project ID: 16-138A
+- Latitude: 47.650132
+- Longitude: -117.600646
+- County FIPS: 53063
+- County from: 2020
+- Tract 2020: 53063010401
+- Tract 2010: 53063010401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 00905
+- Place 2010: 00905
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1294962
+- Units: 240
+- Low-income units: 238
+- Units reported: 240
+- Low-income reported: 238
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 144
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

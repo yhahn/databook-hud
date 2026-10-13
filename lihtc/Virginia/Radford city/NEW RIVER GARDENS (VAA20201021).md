@@ -1,0 +1,85 @@
+# Project: NEW RIVER GARDENS (VAA20201021)
+
+- HUD ID: VAA20201021
+- HUD ID before: 
+- Project: NEW RIVER GARDENS
+- Address: 100 JEFFRIES DRIVE
+- City: RADFORD
+- State: VA
+- ZIP: 24141
+- ZIP extension: 
+- State project ID: 1062
+- Latitude: 37.106775
+- Longitude: -80.584065
+- County FIPS: 51750
+- County from: 2020
+- Tract 2020: 51750010201
+- Tract 2010: 51750010200
+- Tract 2000: 51750010200
+- Tract 1990: 51750010200
+- Place 2020: 65392
+- Place 2010: 65392
+- Place 2000: 65392
+- Place 1990: 1015
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 376783
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

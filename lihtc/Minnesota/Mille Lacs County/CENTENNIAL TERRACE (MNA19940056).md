@@ -1,0 +1,85 @@
+# Project: CENTENNIAL TERRACE (MNA19940056)
+
+- HUD ID: MNA19940056
+- HUD ID before: 
+- Project: CENTENNIAL TERRACE
+- Address: 380 1ST ST NE
+- City: MILACA
+- State: MN
+- ZIP: 56353
+- ZIP extension: 
+- State project ID: D0792
+- Latitude: 45.755766
+- Longitude: -93.647483
+- County FIPS: 27095
+- County from: 2020
+- Tract 2020: 27095170500
+- Tract 2010: 27095170500
+- Tract 2000: 27095970500
+- Tract 1990: 27095970500
+- Place 2020: 42110
+- Place 2010: 42110
+- Place 2000: 42110
+- Place 1990: 2555
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

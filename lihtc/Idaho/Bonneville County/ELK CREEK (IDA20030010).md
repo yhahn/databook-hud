@@ -1,0 +1,85 @@
+# Project: ELK CREEK (IDA20030010)
+
+- HUD ID: IDA20030010
+- HUD ID before: 
+- Project: ELK CREEK
+- Address: 1960 MARTHA AVENUE
+- City: IDAHO FALLS
+- State: ID
+- ZIP: 83404
+- ZIP extension: 
+- State project ID: HC0107
+- Latitude: 43.46522
+- Longitude: -111.994531
+- County FIPS: 16019
+- County from: 2020
+- Tract 2020: 16019970503
+- Tract 2010: 16019970503
+- Tract 2000: 16019970503
+- Tract 1990: 16019970500
+- Place 2020: 39700
+- Place 2010: 39700
+- Place 2000: 39700
+- Place 1990: 0030
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 279551
+- Units: 60
+- Low-income units: 58
+- Units reported: 60
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 36
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

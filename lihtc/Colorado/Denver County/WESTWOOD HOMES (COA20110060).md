@@ -1,0 +1,85 @@
+# Project: WESTWOOD HOMES (COA20110060)
+
+- HUD ID: COA20110060
+- HUD ID before: 
+- Project: WESTWOOD HOMES
+- Address: 3401 W KENTUCKY AVE
+- City: DENVER
+- State: CO
+- ZIP: 80219
+- ZIP extension: 
+- State project ID: CO-10-501
+- Latitude: 39.700491
+- Longitude: -105.031273
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031004506
+- Tract 2010: 08031004506
+- Tract 2000: 08031004502
+- Tract 1990: 08031004502
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 20000
+- Place 1990: 0320
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 184
+- Units reported: 184
+- Low-income reported: 184
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 92
+- 3-bedroom units: 44
+- 4-bedroom units: 22
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS COA2011500.
+- Record status: Existing, unchanged

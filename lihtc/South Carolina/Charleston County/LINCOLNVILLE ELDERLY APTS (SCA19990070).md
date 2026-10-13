@@ -1,0 +1,85 @@
+# Project: LINCOLNVILLE ELDERLY APTS (SCA19990070)
+
+- HUD ID: SCA19990070
+- HUD ID before: 
+- Project: LINCOLNVILLE ELDERLY APTS
+- Address: 501 SLIDEL ST
+- City: LINCOLNVILLE
+- State: SC
+- ZIP: 29484
+- ZIP extension: 
+- State project ID: SC-97-007
+- Latitude: 33.005252
+- Longitude: -80.158395
+- County FIPS: 45019
+- County from: 2020
+- Tract 2020: 45019003106
+- Tract 2010: 45019003106
+- Tract 2000: 45019003106
+- Tract 1990: 45015020704
+- Place 2020: 41740
+- Place 2010: 41740
+- Place 2000: 39220
+- Place 1990: 0724
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 181962
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

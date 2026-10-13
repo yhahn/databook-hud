@@ -1,0 +1,85 @@
+# Project: THE COURTYARDS AT MILILANI MAUKA (HIA20078008)
+
+- HUD ID: HIA20078008
+- HUD ID before: 
+- Project: THE COURTYARDS AT MILILANI MAUKA
+- Address: 95 1021 KOOLANI DRIVE
+- City: MILILANI
+- State: HI
+- ZIP: 96789
+- ZIP extension: 
+- State project ID: HI-2005-003
+- Latitude: 21.4585
+- Longitude: -158.0125
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003008941
+- Tract 2010: 15003008907
+- Tract 2000: 15003008907
+- Tract 1990: 
+- Place 2020: 51050
+- Place 2010: 51050
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 778105
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WOODSTOCK III (TXA19890590)
+
+- HUD ID: TXA19890590
+- HUD ID before: 
+- Project: WOODSTOCK III
+- Address: 174 LUNDAY LN
+- City: BURLESON
+- State: TX
+- ZIP: 76028
+- ZIP extension: 
+- State project ID: TX6798
+- Latitude: 32.552198
+- Longitude: -97.220517
+- County FIPS: 48439
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48439111301
+- Tract 2000: 48439111301
+- Tract 1990: 48439111301
+- Place 2020: 
+- Place 2010: 61568
+- Place 2000: 27000
+- Place 1990: 3504
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

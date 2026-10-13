@@ -1,0 +1,85 @@
+# Project: BROOKS HILL APARTMENTS (GAA19920010)
+
+- HUD ID: GAA19920010
+- HUD ID before: 
+- Project: BROOKS HILL APARTMENTS
+- Address: 185 PENLAND ST
+- City: ELLIJAY
+- State: GA
+- ZIP: 30540
+- ZIP extension: 3377
+- State project ID: GA-91-046
+- Latitude: 34.705238
+- Longitude: -84.485558
+- County FIPS: 13123
+- County from: 2020
+- Tract 2020: 13123080302
+- Tract 2010: 13123080300
+- Tract 2000: 13123080300
+- Tract 1990: 13123980200
+- Place 2020: 27092
+- Place 2010: 27092
+- Place 2000: 25356
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

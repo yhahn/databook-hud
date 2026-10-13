@@ -1,0 +1,85 @@
+# Project: COSTA AZUL SENIOR APARTMENTS (CAA20173001)
+
+- HUD ID: CAA20173001
+- HUD ID before: 
+- Project: COSTA AZUL SENIOR APARTMENTS
+- Address: 10829 FULTON WELLS AVE.
+- City: SANTA FE SPRINGS
+- State: CA
+- ZIP: 90670
+- ZIP extension: 
+- State project ID: CA-2016-988
+- Latitude: 33.93405
+- Longitude: -118.076406
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037504200
+- Tract 2010: 06037502802
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69154
+- Place 2010: 69154
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 211798
+- Units: 280
+- Low-income units: 56
+- Units reported: 280
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 224
+- 2-bedroom units: 56
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

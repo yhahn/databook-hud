@@ -1,0 +1,85 @@
+# Project: MENSCH MGMT INC (NYA00000121)
+
+- HUD ID: NYA00000121
+- HUD ID before: 
+- Project: MENSCH MGMT INC
+- Address: 6 FARRINGTON ST
+- City: NEWBURGH
+- State: NY
+- ZIP: 12550
+- ZIP extension: 
+- State project ID: NY-90-0462_00150
+- Latitude: 41.505157
+- Longitude: -74.010756
+- County FIPS: 36071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36071000400
+- Tract 2000: 36071000400
+- Tract 1990: 36071000400
+- Place 2020: 
+- Place 2010: 50034
+- Place 2000: 50034
+- Place 1990: 2455
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001465.
+- Record status: Existing, unchanged

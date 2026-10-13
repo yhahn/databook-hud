@@ -1,0 +1,85 @@
+# Project: EXODUS APTS (OHA19880175)
+
+- HUD ID: OHA19880175
+- HUD ID before: 
+- Project: EXODUS APTS
+- Address: 1047 ALDEN AVE
+- City: YOUNGSTOWN
+- State: OH
+- ZIP: 44505
+- ZIP extension: 
+- State project ID: OH-88-0185
+- Latitude: 41.11539
+- Longitude: -80.603492
+- County FIPS: 39099
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39099800400
+- Tract 2000: 39099800400
+- Tract 1990: 39099800400
+- Place 2020: 
+- Place 2010: 88000
+- Place 2000: 88000
+- Place 1990: 4845
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CREEKSTONE APTS (ALA20130003)
+
+- HUD ID: ALA20130003
+- HUD ID before: 
+- Project: CREEKSTONE APTS
+- Address: 1570 LAWRENCE ST E
+- City: RUSSELLVILLE
+- State: AL
+- ZIP: 35654
+- ZIP extension: 
+- State project ID: 2012074-TC
+- Latitude: 34.490343
+- Longitude: -87.716367
+- County FIPS: 01059
+- County from: 2020
+- Tract 2020: 01059972900
+- Tract 2010: 01059972900
+- Tract 2000: 01059972900
+- Tract 1990: 01059972900
+- Place 2020: 67056
+- Place 2010: 67056
+- Place 2000: 67056
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 487555
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 20
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

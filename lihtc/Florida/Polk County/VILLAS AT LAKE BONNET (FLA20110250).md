@@ -1,0 +1,85 @@
+# Project: VILLAS AT LAKE BONNET (FLA20110250)
+
+- HUD ID: FLA20110250
+- HUD ID before: 
+- Project: VILLAS AT LAKE BONNET
+- Address: 303 N BRUNNELL PKWY
+- City: LAKELAND
+- State: FL
+- ZIP: 33815
+- ZIP extension: 
+- State project ID: 2179
+- Latitude: 28.04518
+- Longitude: -81.979889
+- County FIPS: 12105
+- County from: 2020
+- Tract 2020: 12105011000
+- Tract 2010: 12105011000
+- Tract 2000: 12105011000
+- Tract 1990: 12105011000
+- Place 2020: 38250
+- Place 2010: 38250
+- Place 2000: 38250
+- Place 1990: 1136
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1262469
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 171028
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011544.
+- Record status: Existing, unchanged

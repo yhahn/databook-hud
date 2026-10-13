@@ -1,0 +1,85 @@
+# Project: PRESTWICK SQUARE OF NEW ALBANY II (INA19930147)
+
+- HUD ID: INA19930147
+- HUD ID before: 
+- Project: PRESTWICK SQUARE OF NEW ALBANY II
+- Address: 4100 PRESTWICK SQ
+- City: NEW ALBANY
+- State: IN
+- ZIP: 47150
+- ZIP extension: 
+- State project ID: IN-91-15000
+- Latitude: 38.341012
+- Longitude: -85.812713
+- County FIPS: 18043
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18043071006
+- Tract 2000: 18043071001
+- Tract 1990: 18043071001
+- Place 2020: 
+- Place 2010: 52326
+- Place 2000: 52326
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

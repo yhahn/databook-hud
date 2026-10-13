@@ -1,0 +1,85 @@
+# Project: THE FALLS (SCA20010100)
+
+- HUD ID: SCA20010100
+- HUD ID before: 
+- Project: THE FALLS
+- Address: 810 DEARBORN ST
+- City: GREAT FALLS
+- State: SC
+- ZIP: 29055
+- ZIP extension: 
+- State project ID: SC-99-015
+- Latitude: 34.567197
+- Longitude: -80.890044
+- County FIPS: 45023
+- County from: 2020
+- Tract 2020: 45023021000
+- Tract 2010: 45023021000
+- Tract 2000: 45023021000
+- Tract 1990: 45023021000
+- Place 2020: 30490
+- Place 2010: 30490
+- Place 2000: 30490
+- Place 1990: 0552
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 37962
+- Units: 10
+- Low-income units: 8
+- Units reported: 10
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 3
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 119000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CATAWBA FALLS APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SCENIC VIEW TOWNHOMES (MNA20009010)
+
+- HUD ID: MNA20009010
+- HUD ID before: 
+- Project: SCENIC VIEW TOWNHOMES
+- Address: 1108 SCENIC VIEW CT
+- City: RUSHFORD
+- State: MN
+- ZIP: 55971
+- ZIP extension: 
+- State project ID: D1892
+- Latitude: 43.819641
+- Longitude: -91.762144
+- County FIPS: 27045
+- County from: 2020
+- Tract 2020: 27045960100
+- Tract 2010: 27045960100
+- Tract 2000: 27045960100
+- Tract 1990: 27045960100
+- Place 2020: 56284
+- Place 2010: 56284
+- Place 2000: 50596
+- Place 1990: 3315
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 19
+- Units reported: 20
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

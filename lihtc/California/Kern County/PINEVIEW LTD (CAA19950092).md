@@ -1,0 +1,85 @@
+# Project: PINEVIEW LTD (CAA19950092)
+
+- HUD ID: CAA19950092
+- HUD ID before: 
+- Project: PINEVIEW LTD
+- Address: 4301 FRUITVALE AVE
+- City: BAKERSFIELD
+- State: CA
+- ZIP: 93308
+- ZIP extension: 
+- State project ID: CA-94-059
+- Latitude: 35.399195
+- Longitude: -119.074599
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029000506
+- Tract 2010: 06029000506
+- Tract 2000: 06029000506
+- Tract 1990: 06029000502
+- Place 2020: 03526
+- Place 2010: 03526
+- Place 2000: 03526
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 821192
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

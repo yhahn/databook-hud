@@ -1,0 +1,85 @@
+# Project: CROSSOVER TERRACE APTS PHASE I (ARA19950642)
+
+- HUD ID: ARA19950642
+- HUD ID before: 
+- Project: CROSSOVER TERRACE APTS PHASE I
+- Address: 4081 N JOHNELL DR
+- City: FAYETTEVILLE
+- State: AR
+- ZIP: 72703
+- ZIP extension: 
+- State project ID: AR-94-19-001
+- Latitude: 36.124562
+- Longitude: -94.119526
+- County FIPS: 05143
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05143010102
+- Tract 2000: 05143010102
+- Tract 1990: 05143010102
+- Place 2020: 
+- Place 2010: 23290
+- Place 2000: 23290
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 175060
+- Units: 84
+- Low-income units: 84
+- Units reported: 48
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1995030, ARA1995027.
+- Record status: Existing, unchanged

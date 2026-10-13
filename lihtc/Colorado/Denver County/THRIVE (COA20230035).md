@@ -1,0 +1,85 @@
+# Project: THRIVE (COA20230035)
+
+- HUD ID: COA20230035
+- HUD ID before: 
+- Project: THRIVE
+- Address: 2660 WEST HOLDEN PLACE
+- City: DENVER
+- State: CO
+- ZIP: 80204
+- ZIP extension: 
+- State project ID: CO-23-35
+- Latitude: 39.735431
+- Longitude: -105.020527
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031000800
+- Tract 2010: 08031000800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2368075
+- Units: 105
+- Low-income units: 105
+- Units reported: 105
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 33
+- 3-bedroom units: 34
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

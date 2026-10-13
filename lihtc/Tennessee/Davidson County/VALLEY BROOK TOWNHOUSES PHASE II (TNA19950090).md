@@ -1,0 +1,85 @@
+# Project: VALLEY BROOK TOWNHOUSES PHASE II (TNA19950090)
+
+- HUD ID: TNA19950090
+- HUD ID before: 
+- Project: VALLEY BROOK TOWNHOUSES PHASE II
+- Address: 520 ZERMATT AVE
+- City: NASHVILLE
+- State: TN
+- ZIP: 37211
+- ZIP extension: 
+- State project ID: TN-93-049
+- Latitude: 36.043617
+- Longitude: -86.719448
+- County FIPS: 47037
+- County from: 2020
+- Tract 2020: 47037019116
+- Tract 2010: 47037019116
+- Tract 2000: 47037019107
+- Tract 1990: 47037019102
+- Place 2020: 52006
+- Place 2010: 52006
+- Place 2000: 52006
+- Place 1990: 1016
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 634733
+- Units: 140
+- Low-income units: 140
+- Units reported: 140
+- Low-income reported: 140
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 70
+- 3-bedroom units: 70
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

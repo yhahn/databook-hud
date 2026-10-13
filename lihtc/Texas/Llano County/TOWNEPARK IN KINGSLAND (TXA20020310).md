@@ -1,0 +1,85 @@
+# Project: TOWNEPARK IN KINGSLAND (TXA20020310)
+
+- HUD ID: TXA20020310
+- HUD ID before: 
+- Project: TOWNEPARK IN KINGSLAND
+- Address: 101 TOWNEPARK DR
+- City: KINGSLAND
+- State: TX
+- ZIP: 78639
+- ZIP extension: 
+- State project ID: TX0105
+- Latitude: 30.656567
+- Longitude: -98.446444
+- County FIPS: 48299
+- County from: 2020
+- Tract 2020: 48299970501
+- Tract 2010: 48299970500
+- Tract 2000: 48299970500
+- Tract 1990: 48299970500
+- Place 2020: 39304
+- Place 2010: 39304
+- Place 2000: 39304
+- Place 1990: 2233
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

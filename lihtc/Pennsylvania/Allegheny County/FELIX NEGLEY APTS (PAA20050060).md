@@ -1,0 +1,85 @@
+# Project: FELIX NEGLEY APTS (PAA20050060)
+
+- HUD ID: PAA20050060
+- HUD ID before: 
+- Project: FELIX NEGLEY APTS
+- Address: 800 MILL ST
+- City: TARENTUM
+- State: PA
+- ZIP: 15084
+- ZIP extension: 
+- State project ID: TC20030422
+- Latitude: 40.602727
+- Longitude: -79.758252
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003403500
+- Tract 2010: 42003403500
+- Tract 2000: 42003403500
+- Tract 1990: 42003403500
+- Place 2020: 76104
+- Place 2010: 76104
+- Place 2000: 76104
+- Place 1990: 8178
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 341227
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 397800
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

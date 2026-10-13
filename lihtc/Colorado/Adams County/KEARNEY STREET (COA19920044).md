@@ -1,0 +1,85 @@
+# Project: KEARNEY STREET (COA19920044)
+
+- HUD ID: COA19920044
+- HUD ID before: 
+- Project: KEARNEY STREET
+- Address: 6598 KEARNEY ST
+- City: COMMERCE CITY
+- State: CO
+- ZIP: 80022
+- ZIP extension: 
+- State project ID: 9Z00-447
+- Latitude: 39.816537
+- Longitude: -104.917324
+- County FIPS: 08001
+- County from: 2020
+- Tract 2020: 08001008705
+- Tract 2010: 08001008705
+- Tract 2000: 08001008705
+- Tract 1990: 08001008705
+- Place 2020: 16495
+- Place 2010: 16495
+- Place 2000: 16495
+- Place 1990: 0245
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

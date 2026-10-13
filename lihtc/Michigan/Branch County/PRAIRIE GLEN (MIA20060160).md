@@ -1,0 +1,85 @@
+# Project: PRAIRIE GLEN (MIA20060160)
+
+- HUD ID: MIA20060160
+- HUD ID before: 
+- Project: PRAIRIE GLEN
+- Address: 80 GLENN AVE
+- City: QUINCY
+- State: MI
+- ZIP: 49082
+- ZIP extension: 
+- State project ID: MI-2120
+- Latitude: 41.937973
+- Longitude: -84.880506
+- County FIPS: 26023
+- County from: 2020
+- Tract 2020: 26023950800
+- Tract 2010: 26023950800
+- Tract 2000: 26023950800
+- Tract 1990: 26023950800
+- Place 2020: 66640
+- Place 2010: 66640
+- Place 2000: 66640
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 197426
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1990400, MIA1989335.
+- Record status: Existing, unchanged

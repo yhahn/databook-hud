@@ -1,0 +1,85 @@
+# Project: TC - AMSTERDAM NAS (NYB20230031)
+
+- HUD ID: NYB20230031
+- HUD ID before: 
+- Project: TC - AMSTERDAM NAS
+- Address: 52-52 DIVISION STREET 95 DIVISION STREET
+- City: AMSTERDAM
+- State: NY
+- ZIP: 12010
+- ZIP extension: 
+- State project ID: NY-24-2766
+- Latitude: 42.940195
+- Longitude: -74.195116
+- County FIPS: 36057
+- County from: 2020
+- Tract 2020: 36057070200
+- Tract 2010: 36057070200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02066
+- Place 2010: 02066
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1684095
+- Units: 195
+- Low-income units: 190
+- Units reported: 195
+- Low-income reported: 190
+- Efficiencies: 25
+- 1-bedroom units: 156
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

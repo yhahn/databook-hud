@@ -1,0 +1,85 @@
+# Project: LIVMOOR PORTFOLIO LLC (NYB20231016)
+
+- HUD ID: NYB20231016
+- HUD ID before: 
+- Project: LIVMOOR PORTFOLIO LLC
+- Address: 2-8 NATHANIEL DRIVE
+- City: SCOTTSVILLE
+- State: NY
+- ZIP: 14546
+- ZIP extension: 
+- State project ID: NY-23-3521
+- Latitude: 43.026952
+- Longitude: -77.75533
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055014700
+- Tract 2010: 36055014700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 65959
+- Place 2010: 65959
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 35412
+- Units: 203
+- Low-income units: 185
+- Units reported: 203
+- Low-income reported: 185
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 57
+- 3-bedroom units: 125
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 121
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

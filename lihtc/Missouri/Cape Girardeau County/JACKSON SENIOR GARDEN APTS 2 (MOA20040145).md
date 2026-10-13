@@ -1,0 +1,85 @@
+# Project: JACKSON SENIOR GARDEN APTS 2 (MOA20040145)
+
+- HUD ID: MOA20040145
+- HUD ID before: 
+- Project: JACKSON SENIOR GARDEN APTS 2
+- Address: 2900 E MAIN ST
+- City: JACKSON
+- State: MO
+- ZIP: 63755
+- ZIP extension: 
+- State project ID: 03-075
+- Latitude: 37.379907
+- Longitude: -89.634264
+- County FIPS: 29031
+- County from: 2020
+- Tract 2020: 29031880501
+- Tract 2010: 29031880500
+- Tract 2000: 29031980500
+- Tract 1990: 29031980500
+- Place 2020: 35648
+- Place 2010: 35648
+- Place 2000: 11242
+- Place 1990: 2150
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA JACKSON SENIOR GARDEN APTS II.
+- Record status: Existing, unchanged

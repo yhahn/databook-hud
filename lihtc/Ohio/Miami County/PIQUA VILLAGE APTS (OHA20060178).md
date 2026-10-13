@@ -1,0 +1,85 @@
+# Project: PIQUA VILLAGE APTS (OHA20060178)
+
+- HUD ID: OHA20060178
+- HUD ID before: 
+- Project: PIQUA VILLAGE APTS
+- Address: 1345 COVINGTON AVE
+- City: PIQUA
+- State: OH
+- ZIP: 45356
+- ZIP extension: 
+- State project ID: 050174
+- Latitude: 40.142241
+- Longitude: -84.262914
+- County FIPS: 39109
+- County from: 2020
+- Tract 2020: 39109315002
+- Tract 2010: 39109315002
+- Tract 2000: 39109315002
+- Tract 1990: 39109315002
+- Place 2020: 62848
+- Place 2010: 62848
+- Place 2000: 62848
+- Place 1990: 3455
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 65
+- Low-income units: 65
+- Units reported: 65
+- Low-income reported: 65
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 22
+- 3-bedroom units: 8
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006696, OHA1988445.
+- Record status: Existing, unchanged

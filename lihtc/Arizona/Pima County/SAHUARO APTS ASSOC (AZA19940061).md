@@ -1,0 +1,85 @@
+# Project: SAHUARO APTS ASSOC (AZA19940061)
+
+- HUD ID: AZA19940061
+- HUD ID before: 
+- Project: SAHUARO APTS ASSOC
+- Address: 510 W SAHUARO ST
+- City: TUCSON
+- State: AZ
+- ZIP: 85705
+- ZIP extension: 
+- State project ID: TC-0089
+- Latitude: 32.249373
+- Longitude: -110.979798
+- County FIPS: 04019
+- County from: 2020
+- Tract 2020: 04019001302
+- Tract 2010: 04019001302
+- Tract 2000: 04019001302
+- Tract 1990: 04019001302
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 0380
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 7
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000591, AZA1994055.
+- Record status: Existing, unchanged

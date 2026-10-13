@@ -1,0 +1,85 @@
+# Project: WESCOTT, THE (WAA20050255)
+
+- HUD ID: WAA20050255
+- HUD ID before: 
+- Project: WESCOTT, THE
+- Address: 421 E HARRISON AVE
+- City: SUNNYSIDE
+- State: WA
+- ZIP: 98944
+- ZIP extension: 
+- State project ID: 04-23
+- Latitude: 46.319921
+- Longitude: -120.015395
+- County FIPS: 53077
+- County from: 2020
+- Tract 2020: 53077002006
+- Tract 2010: 53077002002
+- Tract 2000: 53077002002
+- Tract 1990: 53077002002
+- Place 2020: 68750
+- Place 2010: 68750
+- Place 2000: 
+- Place 1990: 1275
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 310500
+- Units: 26
+- Low-income units: 25
+- Units reported: 26
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 13
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

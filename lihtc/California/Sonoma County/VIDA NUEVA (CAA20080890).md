@@ -1,0 +1,85 @@
+# Project: VIDA NUEVA (CAA20080890)
+
+- HUD ID: CAA20080890
+- HUD ID before: 
+- Project: VIDA NUEVA
+- Address: 705 ROHNERT PARK EXPY W
+- City: ROHNERT PARK
+- State: CA
+- ZIP: 94928
+- ZIP extension: 
+- State project ID: CA-07-820
+- Latitude: 38.348854
+- Longitude: -122.727592
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097151206
+- Tract 2010: 06097151201
+- Tract 2000: 06097151201
+- Tract 1990: 06097151201
+- Place 2020: 62546
+- Place 2010: 62546
+- Place 2000: 16560
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 332932
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 10
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

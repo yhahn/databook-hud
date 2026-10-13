@@ -1,0 +1,85 @@
+# Project: JACLEN TOWER (MAB20130013)
+
+- HUD ID: MAB20130013
+- HUD ID before: 
+- Project: JACLEN TOWER
+- Address: 215 RANTOUL ST
+- City: BEVERLY
+- State: MA
+- ZIP: 01915
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.548798
+- Longitude: -70.883597
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009217401
+- Tract 2010: 25009217400
+- Tract 2000: 25009217400
+- Tract 1990: 25009217400
+- Place 2020: 05595
+- Place 2010: 05595
+- Place 2000: 05595
+- Place 1990: 0390
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

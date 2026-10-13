@@ -1,0 +1,85 @@
+# Project: SWANN MEADOWS APTS (SCA20030082)
+
+- HUD ID: SCA20030082
+- HUD ID before: 
+- Project: SWANN MEADOWS APTS
+- Address: 1091 PARKLAND PL RD
+- City: GREENWOOD
+- State: SC
+- ZIP: 29646
+- ZIP extension: 
+- State project ID: SC-02-028
+- Latitude: 34.199598
+- Longitude: -82.092217
+- County FIPS: 45047
+- County from: 2020
+- Tract 2020: 45047970702
+- Tract 2010: 45047970702
+- Tract 2000: 45047970700
+- Tract 1990: 45047970700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 50290
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 67539
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 56
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 300273
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

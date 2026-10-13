@@ -1,0 +1,85 @@
+# Project: LEXINGTON AVENUE FAMILY APARTMENTS (CAA20160035)
+
+- HUD ID: CAA20160035
+- HUD ID before: 
+- Project: LEXINGTON AVENUE FAMILY APARTMENTS
+- Address: 5568 LEXINGTON AVENUE
+- City: SAN JOSE
+- State: CA
+- ZIP: 95123
+- ZIP extension: 
+- State project ID: CA-14-851
+- Latitude: 37.251612
+- Longitude: -121.798813
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085512058
+- Tract 2010: 06085512033
+- Tract 2000: 06085512014
+- Tract 1990: 
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1083461
+- Units: 134
+- Low-income units: 133
+- Units reported: 134
+- Low-income reported: 133
+- Efficiencies: 0
+- 1-bedroom units: 74
+- 2-bedroom units: 59
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TIMBERS APTS I (LAA19890150)
+
+- HUD ID: LAA19890150
+- HUD ID before: 
+- Project: TIMBERS APTS I
+- Address: 1616 ARKANSAS RD
+- City: WEST MONROE
+- State: LA
+- ZIP: 71291
+- ZIP extension: 
+- State project ID: LA-89-014
+- Latitude: 32.53403
+- Longitude: -92.166404
+- County FIPS: 22073
+- County from: 2020
+- Tract 2020: 22073005203
+- Tract 2010: 22073005203
+- Tract 2000: 22073005202
+- Tract 1990: 22073005202
+- Place 2020: 80955
+- Place 2010: 80955
+- Place 2000: 15605
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 58
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Existing
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

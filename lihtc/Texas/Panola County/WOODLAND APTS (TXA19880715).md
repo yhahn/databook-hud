@@ -1,0 +1,85 @@
+# Project: WOODLAND APTS (TXA19880715)
+
+- HUD ID: TXA19880715
+- HUD ID before: 
+- Project: WOODLAND APTS
+- Address: 700 COTTAGE RD
+- City: CARTHAGE
+- State: TX
+- ZIP: 75633
+- ZIP extension: 
+- State project ID: TX6386
+- Latitude: 32.168356
+- Longitude: -94.350166
+- County FIPS: 48365
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48365950400
+- Tract 2000: 48365950400
+- Tract 1990: 48365950400
+- Place 2020: 
+- Place 2010: 13108
+- Place 2000: 13108
+- Place 1990: 0745
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

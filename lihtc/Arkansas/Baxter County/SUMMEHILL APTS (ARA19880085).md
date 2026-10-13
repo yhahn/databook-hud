@@ -1,0 +1,85 @@
+# Project: SUMMEHILL APTS (ARA19880085)
+
+- HUD ID: ARA19880085
+- HUD ID before: 
+- Project: SUMMEHILL APTS
+- Address: 605 SUMMERHILL DR
+- City: GASSVILLE
+- State: AR
+- ZIP: 72635
+- ZIP extension: 
+- State project ID: AR-88-71
+- Latitude: 36.290699
+- Longitude: -92.485083
+- County FIPS: 05005
+- County from: 2020
+- Tract 2020: 05005950900
+- Tract 2010: 05005950900
+- Tract 2000: 05005950900
+- Tract 1990: 05005950900
+- Place 2020: 26050
+- Place 2010: 26050
+- Place 2000: 15490
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

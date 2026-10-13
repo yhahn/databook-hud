@@ -1,0 +1,85 @@
+# Project: SAMISH WAY REDEVELOPMENT (WAA20210026)
+
+- HUD ID: WAA20210026
+- HUD ID before: 
+- Project: SAMISH WAY REDEVELOPMENT
+- Address: 1000 OTIS STREET
+- City: BELLINGHAM
+- State: WA
+- ZIP: 98225
+- ZIP extension: 
+- State project ID: 19-27
+- Latitude: 48.738508
+- Longitude: -122.471116
+- County FIPS: 53073
+- County from: 2020
+- Tract 2020: 53073001000
+- Tract 2010: 53073001000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 05280
+- Place 2010: 05280
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1661382
+- Units: 69
+- Low-income units: 69
+- Units reported: 69
+- Low-income reported: 69
+- Efficiencies: 26
+- 1-bedroom units: 30
+- 2-bedroom units: 8
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 37
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

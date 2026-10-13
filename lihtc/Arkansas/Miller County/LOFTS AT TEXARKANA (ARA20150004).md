@@ -1,0 +1,85 @@
+# Project: LOFTS AT TEXARKANA (ARA20150004)
+
+- HUD ID: ARA20150004
+- HUD ID before: 
+- Project: LOFTS AT TEXARKANA
+- Address: 620 E 3RD ST
+- City: TEXARKANA
+- State: AR
+- ZIP: 71854
+- ZIP extension: 
+- State project ID: AR-13-05
+- Latitude: 33.425013
+- Longitude: -94.037389
+- County FIPS: 05091
+- County from: 2020
+- Tract 2020: 05091020400
+- Tract 2010: 05091020400
+- Tract 2000: 05091020400
+- Tract 1990: 
+- Place 2020: 68810
+- Place 2010: 68810
+- Place 2000: 68810
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 625000
+- Units: 47
+- Low-income units: 46
+- Units reported: 47
+- Low-income reported: 46
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

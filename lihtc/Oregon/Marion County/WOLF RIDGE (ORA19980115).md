@@ -1,0 +1,85 @@
+# Project: WOLF RIDGE (ORA19980115)
+
+- HUD ID: ORA19980115
+- HUD ID before: 
+- Project: WOLF RIDGE
+- Address: 1301 E SANTIAM ST
+- City: STAYTON
+- State: OR
+- ZIP: 97383
+- ZIP extension: 
+- State project ID: X001-135A
+- Latitude: 44.802677
+- Longitude: -122.780734
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047010701
+- Tract 2010: 41047010701
+- Tract 2000: 41047010701
+- Tract 1990: 41047010700
+- Place 2020: 70200
+- Place 2010: 70200
+- Place 2000: 70200
+- Place 1990: 1095
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 340328
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 27
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 760106
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

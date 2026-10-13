@@ -1,0 +1,85 @@
+# Project: DUPLEX (NCA19870050)
+
+- HUD ID: NCA19870050
+- HUD ID before: 
+- Project: DUPLEX
+- Address: 101 BRACE ST
+- City: HERTFORD
+- State: NC
+- ZIP: 27944
+- ZIP extension: 
+- State project ID: 84
+- Latitude: 36.186417
+- Longitude: -76.469497
+- County FIPS: 37143
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37143920201
+- Tract 2000: 37143980200
+- Tract 1990: 37143980200
+- Place 2020: 
+- Place 2010: 30900
+- Place 2000: 30900
+- Place 1990: 
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 1728
+- Units: 2
+- Low-income units: 2
+- Units reported: 
+- Low-income reported: 2
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

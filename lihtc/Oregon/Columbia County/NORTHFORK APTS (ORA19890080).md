@@ -1,0 +1,85 @@
+# Project: NORTHFORK APTS (ORA19890080)
+
+- HUD ID: ORA19890080
+- HUD ID before: 
+- Project: NORTHFORK APTS
+- Address: 544 N TENTH ST
+- City: ST HELENS
+- State: OR
+- ZIP: 97051
+- ZIP extension: 
+- State project ID: OR88-255
+- Latitude: 45.870261
+- Longitude: -122.811374
+- County FIPS: 41009
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41009970500
+- Tract 2000: 41009970500
+- Tract 1990: 41009970500
+- Place 2020: 
+- Place 2010: 64600
+- Place 2000: 14750
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 19
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MISSION GATEWAY (CAA20060030)
+
+- HUD ID: CAA20060030
+- HUD ID before: 
+- Project: MISSION GATEWAY
+- Address: 33155 MISSION BLVD
+- City: UNION CITY
+- State: CA
+- ZIP: 94587
+- ZIP extension: 
+- State project ID: CA-03-846
+- Latitude: 37.60805
+- Longitude: -122.022543
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001440301
+- Tract 2010: 06001440301
+- Tract 2000: 06001440301
+- Tract 1990: 06001440301
+- Place 2020: 81204
+- Place 2010: 81204
+- Place 2000: 81204
+- Place 1990: 2985
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1400908
+- Units: 121
+- Low-income units: 120
+- Units reported: 121
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 58
+- 3-bedroom units: 38
+- 4-bedroom units: 11
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

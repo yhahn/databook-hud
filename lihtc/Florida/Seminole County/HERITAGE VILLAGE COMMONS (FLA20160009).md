@@ -1,0 +1,85 @@
+# Project: HERITAGE VILLAGE COMMONS (FLA20160009)
+
+- HUD ID: FLA20160009
+- HUD ID before: 
+- Project: HERITAGE VILLAGE COMMONS
+- Address: 247 ORANGE AVENUE
+- City: LONGWOOD
+- State: FL
+- ZIP: 32750
+- ZIP extension: 
+- State project ID: 2622
+- Latitude: 28.703923
+- Longitude: -81.343238
+- County FIPS: 12117
+- County from: 2020
+- Tract 2020: 12117021507
+- Tract 2010: 12117021502
+- Tract 2000: 12117021502
+- Tract 1990: 
+- Place 2020: 41250
+- Place 2010: 41250
+- Place 2000: 41250
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1510000
+- Units: 123
+- Low-income units: 123
+- Units reported: 123
+- Low-income reported: 123
+- Efficiencies: 0
+- 1-bedroom units: 63
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

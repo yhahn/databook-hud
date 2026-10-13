@@ -1,0 +1,85 @@
+# Project: SANDSTONE SQUARE (MNA19929009)
+
+- HUD ID: MNA19929009
+- HUD ID before: 
+- Project: SANDSTONE SQUARE
+- Address: 231 MINNESOTA ST
+- City: SANDSTONE
+- State: MN
+- ZIP: 55072
+- ZIP extension: 
+- State project ID: D1381
+- Latitude: 46.12555
+- Longitude: -92.867572
+- County FIPS: 27115
+- County from: 2020
+- Tract 2020: 27115950402
+- Tract 2010: 27115950400
+- Tract 2000: 27115950400
+- Tract 1990: 27115950400
+- Place 2020: 58396
+- Place 2010: 58396
+- Place 2000: 58396
+- Place 1990: 3460
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HICKORY FALLS APARTMENTS (GAA20040020)
+
+- HUD ID: GAA20040020
+- HUD ID before: 
+- Project: HICKORY FALLS APARTMENTS
+- Address: 801 HICKORY LEVEL RD
+- City: VILLA RICA
+- State: GA
+- ZIP: 30180
+- ZIP extension: 
+- State project ID: GA-02-533
+- Latitude: 33.716411
+- Longitude: -84.94431
+- County FIPS: 13045
+- County from: 2020
+- Tract 2020: 13045910103
+- Tract 2010: 13045910103
+- Tract 2000: 13045990102
+- Tract 1990: 13045990100
+- Place 2020: 79528
+- Place 2010: 79528
+- Place 2000: 79528
+- Place 1990: 2940
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 220
+- Low-income units: 176
+- Units reported: 220
+- Low-income reported: 176
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

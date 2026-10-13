@@ -1,0 +1,85 @@
+# Project: LINCOLN TERRACE APARTMENTS (ARA19980020)
+
+- HUD ID: ARA19980020
+- HUD ID before: 
+- Project: LINCOLN TERRACE APARTMENTS
+- Address: 803 E PRIDEMORE
+- City: LINCOLN
+- State: AR
+- ZIP: 72744
+- ZIP extension: 
+- State project ID: AR-98-13
+- Latitude: 35.947958
+- Longitude: -94.414096
+- County FIPS: 05143
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05143010504
+- Tract 2000: 05143010504
+- Tract 1990: 05143010504
+- Place 2020: 
+- Place 2010: 39970
+- Place 2000: 39970
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 38966
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BECKWOOD MANOR FOUR.
+- Record status: Existing, unchanged

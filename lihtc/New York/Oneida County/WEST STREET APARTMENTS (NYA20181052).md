@@ -1,0 +1,85 @@
+# Project: WEST STREET APARTMENTS (NYA20181052)
+
+- HUD ID: NYA20181052
+- HUD ID before: 
+- Project: WEST STREET APARTMENTS
+- Address: 1013 WEST STREET
+- City: UTICA
+- State: NY
+- ZIP: 13501
+- ZIP extension: 
+- State project ID: 20156021
+- Latitude: 43.096906
+- Longitude: -75.232088
+- County FIPS: 36065
+- County from: 2020
+- Tract 2020: 36065020300
+- Tract 2010: 36065020300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76540
+- Place 2010: 76540
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 1030324
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 36
+- 2-bedroom units: 6
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 42
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 180000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: Yes
+- Other population named: SMI
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

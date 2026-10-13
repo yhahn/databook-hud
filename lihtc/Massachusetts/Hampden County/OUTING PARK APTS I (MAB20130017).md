@@ -1,0 +1,85 @@
+# Project: OUTING PARK APTS I (MAB20130017)
+
+- HUD ID: MAB20130017
+- HUD ID before: 
+- Project: OUTING PARK APTS I
+- Address: 37 SARATOGA ST
+- City: SPRINGFIELD
+- State: MA
+- ZIP: 01105
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.095866
+- Longitude: -72.580192
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013802000
+- Tract 2010: 25013802000
+- Tract 2000: 25013802000
+- Tract 1990: 25013802000
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 4090
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 94
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HOLLYWOOD APTS I.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARKWOOD (VAA20220022)
+
+- HUD ID: VAA20220022
+- HUD ID before: 
+- Project: PARKWOOD
+- Address: 3421 GLEN CARLYN DRIVE, #100
+- City: FALLS CHURCH
+- State: VA
+- ZIP: 22041
+- ZIP extension: 
+- State project ID: 4509
+- Latitude: 38.85113
+- Longitude: -77.142002
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059451601
+- Tract 2010: 51059451601
+- Tract 2000: 51059451600
+- Tract 1990: 51059451600
+- Place 2020: 04088
+- Place 2010: 04088
+- Place 2000: 04088
+- Place 1990: 0062
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1876002
+- Units: 225
+- Low-income units: 225
+- Units reported: 225
+- Low-income reported: 225
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 173
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 135
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

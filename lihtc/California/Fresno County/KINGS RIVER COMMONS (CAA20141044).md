@@ -1,0 +1,85 @@
+# Project: KINGS RIVER COMMONS (CAA20141044)
+
+- HUD ID: CAA20141044
+- HUD ID before: 
+- Project: KINGS RIVER COMMONS
+- Address: 2020 E. DINUBA AVENUE
+- City: REEDLEY
+- State: CA
+- ZIP: 93654
+- ZIP extension: 
+- State project ID: CA-13-012
+- Latitude: 36.589804
+- Longitude: -119.426243
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019006301
+- Tract 2010: 06019006300
+- Tract 2000: 06019006300
+- Tract 1990: 
+- Place 2020: 60242
+- Place 2010: 60242
+- Place 2000: 60242
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 686973
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 27
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 59
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1700000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

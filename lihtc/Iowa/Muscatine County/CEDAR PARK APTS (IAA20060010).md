@@ -1,0 +1,85 @@
+# Project: CEDAR PARK APTS (IAA20060010)
+
+- HUD ID: IAA20060010
+- HUD ID before: 
+- Project: CEDAR PARK APTS
+- Address: 1816 LOGAN ST
+- City: MUSCATINE
+- State: IA
+- ZIP: 52761
+- ZIP extension: 
+- State project ID: 04-27
+- Latitude: 41.433068
+- Longitude: -91.065113
+- County FIPS: 19139
+- County from: 2020
+- Tract 2020: 19139050500
+- Tract 2010: 19139050500
+- Tract 2000: 19139050500
+- Tract 1990: 19139050500
+- Place 2020: 55110
+- Place 2010: 55110
+- Place 2000: 55110
+- Place 1990: 2990
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 232312
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2005010. AKA CEDAR PARK PRESERVATION.
+- Record status: Existing, unchanged

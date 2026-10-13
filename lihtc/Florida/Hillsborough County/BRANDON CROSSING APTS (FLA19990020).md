@@ -1,0 +1,85 @@
+# Project: BRANDON CROSSING APTS (FLA19990020)
+
+- HUD ID: FLA19990020
+- HUD ID before: 
+- Project: BRANDON CROSSING APTS
+- Address: 2023 BRANDON CROSSING CIR
+- City: BRANDON
+- State: FL
+- ZIP: 33511
+- ZIP extension: 
+- State project ID: 95
+- Latitude: 27.928493
+- Longitude: -82.316238
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057013316
+- Tract 2010: 12057013316
+- Tract 2000: 12057013306
+- Tract 1990: 12057013301
+- Place 2020: 08150
+- Place 2010: 08150
+- Place 2000: 08150
+- Place 1990: 0225
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 199
+- Units reported: 200
+- Low-income reported: 199
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 132
+- 3-bedroom units: 68
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

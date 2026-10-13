@@ -1,0 +1,85 @@
+# Project: WALNUT GROVE APTS (INA20030141)
+
+- HUD ID: INA20030141
+- HUD ID before: 
+- Project: WALNUT GROVE APTS
+- Address: 3100 S WALNUT ST PIKE
+- City: BLOOMINGTON
+- State: IN
+- ZIP: 47401
+- ZIP extension: 
+- State project ID: IN-02-03700
+- Latitude: 39.129458
+- Longitude: -86.527025
+- County FIPS: 18105
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18105001102
+- Tract 2000: 18105001102
+- Tract 1990: 18105001100
+- Place 2020: 
+- Place 2010: 05860
+- Place 2000: 05860
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 190
+- Low-income units: 180
+- Units reported: 190
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 190
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 137
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2002007. AKA WILLOW MANOR APTS. FKA ARBOR GLENN APTS
+- Record status: Existing, unchanged

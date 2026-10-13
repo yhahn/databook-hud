@@ -1,0 +1,85 @@
+# Project: BROAD & HIGH STREETS (PAA19870275)
+
+- HUD ID: PAA19870275
+- HUD ID before: 
+- Project: BROAD & HIGH STREETS
+- Address: 604 HIGH ST
+- City: BETHLEHEM
+- State: PA
+- ZIP: 18018
+- ZIP extension: 
+- State project ID: TC1987-0065
+- Latitude: 40.622318
+- Longitude: -75.373048
+- County FIPS: 42095
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42095010800
+- Tract 2000: 42095010800
+- Tract 1990: 42095010800
+- Place 2020: 
+- Place 2010: 06088
+- Place 2000: 06088
+- Place 1990: 0855
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 17506
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ROLLING MEADOWS (NCA20070110)
+
+- HUD ID: NCA20070110
+- HUD ID before: 
+- Project: ROLLING MEADOWS
+- Address: 1960 BOONE STREET
+- City: ROCKY MOUNT
+- State: NC
+- ZIP: 27803
+- ZIP extension: 
+- State project ID: 9000653
+- Latitude: 35.918104
+- Longitude: -77.811962
+- County FIPS: 37127
+- County from: 2020
+- Tract 2020: 37127010200
+- Tract 2010: 37127010200
+- Tract 2000: 37127010200
+- Tract 1990: 37127010200
+- Place 2020: 57500
+- Place 2010: 57500
+- Place 2000: 57500
+- Place 1990: 2115
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 260515
+- Units: 131
+- Low-income units: 130
+- Units reported: 131
+- Low-income reported: 130
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 52
+- 3-bedroom units: 51
+- 4-bedroom units: 13
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

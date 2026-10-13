@@ -1,0 +1,85 @@
+# Project: QUAKER MEADOW (PAA20110080)
+
+- HUD ID: PAA20110080
+- HUD ID before: 
+- Project: QUAKER MEADOW
+- Address: 378 QUAKER CIR
+- City: HERMITAGE
+- State: PA
+- ZIP: 16148
+- ZIP extension: 
+- State project ID: TC20100509
+- Latitude: 41.2495
+- Longitude: -80.4206
+- County FIPS: 42085
+- County from: 2020
+- Tract 2020: 42085031300
+- Tract 2010: 42085031300
+- Tract 2000: 42085031300
+- Tract 1990: 42085031300
+- Place 2020: 34064
+- Place 2010: 34064
+- Place 2000: 34064
+- Place 1990: 5050
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 5319514
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 20
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5319514
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2011513.
+- Record status: Existing, unchanged

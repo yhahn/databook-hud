@@ -1,0 +1,85 @@
+# Project: VILLAS AT LAKEWOOD (WAA20143036)
+
+- HUD ID: WAA20143036
+- HUD ID before: 
+- Project: VILLAS AT LAKEWOOD
+- Address: 16800 27TH AVE NE
+- City: MARYSVILLE
+- State: WA
+- ZIP: 98271
+- ZIP extension: 
+- State project ID: 12-99A
+- Latitude: 48.146814
+- Longitude: -122.194014
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061053102
+- Tract 2010: 53061053102
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43955
+- Place 2010: 43955
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1057148
+- Units: 240
+- Low-income units: 238
+- Units reported: 240
+- Low-income reported: 238
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 143
+- 3-bedroom units: 61
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 38
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

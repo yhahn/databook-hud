@@ -1,0 +1,85 @@
+# Project: 2907 W MUHAMMAD ALI BLVD (KYA19920045)
+
+- HUD ID: KYA19920045
+- HUD ID before: 
+- Project: 2907 W MUHAMMAD ALI BLVD
+- Address: 2907 W MUHAMMAD ALI BLVD
+- City: LOUISVILLE
+- State: KY
+- ZIP: 40212
+- ZIP extension: 
+- State project ID: KY-91-059
+- Latitude: 38.25594
+- Longitude: -85.799296
+- County FIPS: 21111
+- County from: 2020
+- Tract 2020: 21111000600
+- Tract 2010: 21111000600
+- Tract 2000: 21111000600
+- Tract 1990: 21111000600
+- Place 2020: 48000
+- Place 2010: 48006
+- Place 2000: 48000
+- Place 1990: 1230
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

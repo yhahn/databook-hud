@@ -1,0 +1,85 @@
+# Project: BENNETTSVILLE LOFTS (SCA20030020)
+
+- HUD ID: SCA20030020
+- HUD ID before: 
+- Project: BENNETTSVILLE LOFTS
+- Address: 100 E MAIN ST
+- City: BENNETTSVILLE
+- State: SC
+- ZIP: 29512
+- ZIP extension: 
+- State project ID: SC-01-053
+- Latitude: 34.616478
+- Longitude: -79.684298
+- County FIPS: 45069
+- County from: 2020
+- Tract 2020: 45069960301
+- Tract 2010: 45069960301
+- Tract 2000: 45069960301
+- Tract 1990: 45069960200
+- Place 2020: 05680
+- Place 2010: 05680
+- Place 2000: 05680
+- Place 1990: 0110
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 151703
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 14
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 400000
+- CDBG: Yes
+- CDBG amount: 330000
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

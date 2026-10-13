@@ -1,0 +1,85 @@
+# Project: TROY VILLAGE APTS (MOA19920445)
+
+- HUD ID: MOA19920445
+- HUD ID before: 
+- Project: TROY VILLAGE APTS
+- Address: 1216 FORSYTHE CIR
+- City: TROY
+- State: MO
+- ZIP: 63379
+- ZIP extension: 
+- State project ID: 91-116
+- Latitude: 38.974587
+- Longitude: -90.988066
+- County FIPS: 29113
+- County from: 2020
+- Tract 2020: 29113810305
+- Tract 2010: 29113810301
+- Tract 2000: 29113810301
+- Tract 1990: 29113810300
+- Place 2020: 73942
+- Place 2010: 73942
+- Place 2000: 73942
+- Place 1990: 4275
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

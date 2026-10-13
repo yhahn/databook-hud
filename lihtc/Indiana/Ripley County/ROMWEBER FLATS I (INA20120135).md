@@ -1,0 +1,85 @@
+# Project: ROMWEBER FLATS I (INA20120135)
+
+- HUD ID: INA20120135
+- HUD ID before: 
+- Project: ROMWEBER FLATS I
+- Address: 322 S ST
+- City: BATESVILLE
+- State: IN
+- ZIP: 47006
+- ZIP extension: 
+- State project ID: IN-10-05100
+- Latitude: 39.296651
+- Longitude: -85.221228
+- County FIPS: 18137
+- County from: 2020
+- Tract 2020: 18137968500
+- Tract 2010: 18137968500
+- Tract 2000: 18137968500
+- Tract 1990: 18137968500
+- Place 2020: 03664
+- Place 2010: 03664
+- Place 2000: 03664
+- Place 1990: 0135
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1011310
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

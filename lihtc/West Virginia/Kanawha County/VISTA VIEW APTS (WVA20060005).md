@@ -1,0 +1,85 @@
+# Project: VISTA VIEW APTS (WVA20060005)
+
+- HUD ID: WVA20060005
+- HUD ID before: 
+- Project: VISTA VIEW APTS
+- Address: 1300 RENAISSANCE CIR
+- City: CHARLESTON
+- State: WV
+- ZIP: 25311
+- ZIP extension: 
+- State project ID: WV-06-300
+- Latitude: 38.349528
+- Longitude: -81.617189
+- County FIPS: 54039
+- County from: 2020
+- Tract 2020: 54039001100
+- Tract 2010: 54039001100
+- Tract 2000: 54039001100
+- Tract 1990: 54039001100
+- Place 2020: 14600
+- Place 2010: 14600
+- Place 2000: 14600
+- Place 1990: 0280
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 333
+- Low-income units: 331
+- Units reported: 333
+- Low-income reported: 331
+- Efficiencies: 15
+- 1-bedroom units: 151
+- 2-bedroom units: 116
+- 3-bedroom units: 48
+- 4-bedroom units: 3
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

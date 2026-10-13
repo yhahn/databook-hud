@@ -1,0 +1,85 @@
+# Project: VINEYARDS AT EL DORADO PHASE II (ARA20120950)
+
+- HUD ID: ARA20120950
+- HUD ID before: 
+- Project: VINEYARDS AT EL DORADO PHASE II
+- Address: 550 BEVERLY DR
+- City: EL DORADO
+- State: AR
+- ZIP: 71730
+- ZIP extension: 
+- State project ID: 858
+- Latitude: 33.196
+- Longitude: -92.6906
+- County FIPS: 05139
+- County from: 2020
+- Tract 2020: 05139950900
+- Tract 2010: 05139950900
+- Tract 2000: 05139950900
+- Tract 1990: 05139950900
+- Place 2020: 21070
+- Place 2010: 21070
+- Place 2000: 21070
+- Place 1990: 0615
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 1
+- 1-bedroom units: 6
+- 2-bedroom units: 17
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000537, ARA0000255.
+- Record status: Existing, unchanged

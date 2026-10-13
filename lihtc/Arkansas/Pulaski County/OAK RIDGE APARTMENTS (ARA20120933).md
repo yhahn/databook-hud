@@ -1,0 +1,85 @@
+# Project: OAK RIDGE APARTMENTS (ARA20120933)
+
+- HUD ID: ARA20120933
+- HUD ID before: 
+- Project: OAK RIDGE APARTMENTS
+- Address: 6201 MABELVALE CUT OFF
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72209
+- ZIP extension: 
+- State project ID: AR-10-10
+- Latitude: 34.65457
+- Longitude: -92.348017
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119004106
+- Tract 2010: 05119004106
+- Tract 2000: 05119004106
+- Tract 1990: 05119004106
+- Place 2020: 41000
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 26
+- 3-bedroom units: 5
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000517, ARA0000130. AKA OAK RIDGE II.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUNSHINE CANYON (MIA20040270)
+
+- HUD ID: MIA20040270
+- HUD ID before: 
+- Project: SUNSHINE CANYON
+- Address: 636 W MAIN ST
+- City: STANTON
+- State: MI
+- ZIP: 48888
+- ZIP extension: 
+- State project ID: MI-2225
+- Latitude: 43.292753
+- Longitude: -85.090531
+- County FIPS: 26117
+- County from: 2020
+- Tract 2020: 26117970800
+- Tract 2010: 26117970800
+- Tract 2000: 26117980800
+- Tract 1990: 26117980800
+- Place 2020: 76220
+- Place 2010: 76220
+- Place 2000: 73100
+- Place 1990: 2565
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

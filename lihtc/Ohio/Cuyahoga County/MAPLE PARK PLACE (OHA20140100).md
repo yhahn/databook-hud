@@ -1,0 +1,85 @@
+# Project: MAPLE PARK PLACE (OHA20140100)
+
+- HUD ID: OHA20140100
+- HUD ID before: 
+- Project: MAPLE PARK PLACE
+- Address: 16000 MAPLE PARK DR
+- City: MAPLE HEIGHTS
+- State: OH
+- ZIP: 44137
+- ZIP extension: 
+- State project ID: 120107
+- Latitude: 41.400529
+- Longitude: -81.56885
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035171205
+- Tract 2010: 39035171205
+- Tract 2000: 39035171205
+- Tract 1990: 39035171205
+- Place 2020: 47306
+- Place 2010: 47306
+- Place 2000: 47306
+- Place 1990: 2455
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 270158
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

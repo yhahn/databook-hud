@@ -1,0 +1,85 @@
+# Project: AUTUMN PARK (ORA20050010)
+
+- HUD ID: ORA20050010
+- HUD ID before: 
+- Project: AUTUMN PARK
+- Address: 10900 SW WILSONVILLE RD
+- City: WILSONVILLE
+- State: OR
+- ZIP: 97070
+- ZIP extension: 
+- State project ID: OR-527
+- Latitude: 45.300817
+- Longitude: -122.788366
+- County FIPS: 41005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41005022708
+- Tract 2000: 41005022704
+- Tract 1990: 41005022701
+- Place 2020: 
+- Place 2010: 82800
+- Place 2000: 82800
+- Place 1990: 1233
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 192633
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 80
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA1989005.
+- Record status: Existing, unchanged

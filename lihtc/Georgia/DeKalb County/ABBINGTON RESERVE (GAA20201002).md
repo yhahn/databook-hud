@@ -1,0 +1,85 @@
+# Project: ABBINGTON RESERVE (GAA20201002)
+
+- HUD ID: GAA20201002
+- HUD ID before: 
+- Project: ABBINGTON RESERVE
+- Address: 3051 LUMBY DRIVE
+- City: DECATUR
+- State: GA
+- ZIP: 30034
+- ZIP extension: 3830
+- State project ID: 2018-504
+- Latitude: 33.70144
+- Longitude: -84.265491
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089023410
+- Tract 2010: 13089023410
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59080
+- Place 2010: 59080
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 1495863
+- Units: 238
+- Low-income units: 238
+- Units reported: 238
+- Low-income reported: 238
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

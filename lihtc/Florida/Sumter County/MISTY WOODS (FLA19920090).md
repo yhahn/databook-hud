@@ -1,0 +1,85 @@
+# Project: MISTY WOODS (FLA19920090)
+
+- HUD ID: FLA19920090
+- HUD ID before: 
+- Project: MISTY WOODS
+- Address: 205 JUMPER DR N
+- City: BUSHNELL
+- State: FL
+- ZIP: 33513
+- ZIP extension: 
+- State project ID: 520
+- Latitude: 28.678856
+- Longitude: -82.114456
+- County FIPS: 12119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12119910402
+- Tract 2000: 12119990400
+- Tract 1990: 12119990400
+- Place 2020: 
+- Place 2010: 09625
+- Place 2000: 09625
+- Place 1990: 1147
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

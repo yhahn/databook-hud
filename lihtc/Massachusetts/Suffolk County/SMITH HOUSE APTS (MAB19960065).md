@@ -1,0 +1,85 @@
+# Project: SMITH HOUSE APTS (MAB19960065)
+
+- HUD ID: MAB19960065
+- HUD ID before: 
+- Project: SMITH HOUSE APTS
+- Address: 757 SHAWMUT AVE
+- City: ROXBURY
+- State: MA
+- ZIP: 02119
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.331776
+- Longitude: -71.084515
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025080401
+- Tract 2010: 25025080401
+- Tract 2000: 25025080500
+- Tract 1990: 25025080500
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 132
+- Low-income units: 132
+- Units reported: 132
+- Low-income reported: 132
+- Efficiencies: 0
+- 1-bedroom units: 132
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SMITH HOUSE II.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FAIRSIDE APTS (NYA20030070)
+
+- HUD ID: NYA20030070
+- HUD ID before: 
+- Project: FAIRSIDE APTS
+- Address: 5 CASEY LN
+- City: BATH
+- State: NY
+- ZIP: 14810
+- ZIP extension: 
+- State project ID: 20010792
+- Latitude: 42.341407
+- Longitude: -77.310744
+- County FIPS: 36101
+- County from: 2020
+- Tract 2020: 36101961200
+- Tract 2010: 36101961200
+- Tract 2000: 36101961200
+- Tract 1990: 36101961200
+- Place 2020: 04759
+- Place 2010: 04759
+- Place 2000: 04759
+- Place 1990: 0245
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

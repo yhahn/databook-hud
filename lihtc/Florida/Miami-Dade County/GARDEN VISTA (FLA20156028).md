@@ -1,0 +1,85 @@
+# Project: GARDEN VISTA (FLA20156028)
+
+- HUD ID: FLA20156028
+- HUD ID before: 
+- Project: GARDEN VISTA
+- Address: 4601 NW 183RD STREET
+- City: MIAMI GARDENS
+- State: FL
+- ZIP: 33055
+- ZIP extension: 
+- State project ID: 2717
+- Latitude: 25.940022
+- Longitude: -80.275315
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010010
+- Tract 2010: 12086010010
+- Tract 2000: 12086010010
+- Tract 1990: 12025010008
+- Place 2020: 45060
+- Place 2010: 45060
+- Place 2000: 10650
+- Place 1990: 0295
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 698202
+- Units: 150
+- Low-income units: 149
+- Units reported: 150
+- Low-income reported: 149
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 106
+- 3-bedroom units: 29
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

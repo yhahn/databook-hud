@@ -1,0 +1,85 @@
+# Project: COSTA VIZCAYA (TXA20089004)
+
+- HUD ID: TXA20089004
+- HUD ID before: 
+- Project: COSTA VIZCAYA
+- Address: 12020 N GESSNER RD
+- City: HOUSTON
+- State: TX
+- ZIP: 77064
+- ZIP extension: 
+- State project ID: TX4518
+- Latitude: 29.947957
+- Longitude: -95.546516
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201551502
+- Tract 2010: 48201551500
+- Tract 2000: 48201551500
+- Tract 1990: 48201054110
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 252
+- Low-income units: 252
+- Units reported: 252
+- Low-income reported: 252
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 132
+- 3-bedroom units: 96
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 1500000
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

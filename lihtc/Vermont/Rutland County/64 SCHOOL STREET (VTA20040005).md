@@ -1,0 +1,85 @@
+# Project: 64 SCHOOL STREET (VTA20040005)
+
+- HUD ID: VTA20040005
+- HUD ID before: 
+- Project: 64 SCHOOL STREET
+- Address: 64 SCHOOL ST
+- City: RUTLAND
+- State: VT
+- ZIP: 05701
+- ZIP extension: 
+- State project ID: 0262
+- Latitude: 43.604955
+- Longitude: -72.984938
+- County FIPS: 50021
+- County from: 2020
+- Tract 2020: 50021963300
+- Tract 2010: 50021963300
+- Tract 2000: 50021963300
+- Tract 1990: 50021963300
+- Place 2020: 61225
+- Place 2010: 61225
+- Place 2000: 61225
+- Place 1990: 2210
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 61190
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 2
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

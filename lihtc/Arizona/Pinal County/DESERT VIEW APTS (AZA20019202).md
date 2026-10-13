@@ -1,0 +1,85 @@
+# Project: DESERT VIEW APTS (AZA20019202)
+
+- HUD ID: AZA20019202
+- HUD ID before: 
+- Project: DESERT VIEW APTS
+- Address: 904 N WASHINGTON ST
+- City: COOLIDGE
+- State: AZ
+- ZIP: 85128
+- ZIP extension: 
+- State project ID: TC-0179
+- Latitude: 32.987563
+- Longitude: -111.512095
+- County FIPS: 04021
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04021001000
+- Tract 2000: 04021001000
+- Tract 1990: 04021001000
+- Place 2020: 
+- Place 2010: 15500
+- Place 2000: 15500
+- Place 1990: 0070
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 44
+- Units reported: 46
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 13
+- 3-bedroom units: 29
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000546.
+- Record status: Existing, unchanged

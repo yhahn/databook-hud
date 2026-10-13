@@ -1,0 +1,85 @@
+# Project: BAY BERRY POINT (MAB19920005)
+
+- HUD ID: MAB19920005
+- HUD ID before: 
+- Project: BAY BERRY POINT
+- Address: 60 BEACH RD
+- City: SALISBURY
+- State: MA
+- ZIP: 01952
+- ZIP extension: 
+- State project ID: 10270
+- Latitude: 42.838926
+- Longitude: -70.849992
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009267104
+- Tract 2010: 25009267101
+- Tract 2000: 25009267101
+- Tract 1990: 25009267100
+- Place 2020: 59210
+- Place 2010: 59210
+- Place 2000: 59210
+- Place 1990: 3675
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 27
+- Units reported: 30
+- Low-income reported: 27
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

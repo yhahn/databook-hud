@@ -1,0 +1,85 @@
+# Project: WILDBERRY VILLAGE APTS (ILA00000123)
+
+- HUD ID: ILA00000123
+- HUD ID before: 
+- Project: WILDBERRY VILLAGE APTS
+- Address: 5725 FOREST HILLS RD
+- City: ROCKFORD
+- State: IL
+- ZIP: 61114
+- ZIP extension: 
+- State project ID: 1091713
+- Latitude: 42.308178
+- Longitude: -89.04382
+- County FIPS: 17201
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17201000403
+- Tract 2000: 17201000403
+- Tract 1990: 17201000403
+- Place 2020: 
+- Place 2010: 65000
+- Place 2000: 45031
+- Place 1990: 4965
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 863169
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

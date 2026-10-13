@@ -1,0 +1,85 @@
+# Project: NEWBURY POINTE II (INA20110070)
+
+- HUD ID: INA20110070
+- HUD ID before: 
+- Project: NEWBURY POINTE II
+- Address: 1301 CTR CROSS ST
+- City: EDINBURGH
+- State: IN
+- ZIP: 46124
+- ZIP extension: 
+- State project ID: IN-10-02700
+- Latitude: 39.357159
+- Longitude: -85.950538
+- County FIPS: 18145
+- County from: 2020
+- Tract 2020: 18145710900
+- Tract 2010: 18145710900
+- Tract 2000: 18145710900
+- Tract 1990: 18145710900
+- Place 2020: 20404
+- Place 2010: 20404
+- Place 2000: 20404
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 444284
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 2451766
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2011533.
+- Record status: Existing, unchanged

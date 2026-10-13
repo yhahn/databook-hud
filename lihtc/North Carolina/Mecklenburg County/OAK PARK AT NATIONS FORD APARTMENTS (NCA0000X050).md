@@ -1,0 +1,85 @@
+# Project: OAK PARK AT NATIONS FORD APARTMENTS (NCA0000X050)
+
+- HUD ID: NCA0000X050
+- HUD ID before: 
+- Project: OAK PARK AT NATIONS FORD APARTMENTS
+- Address: 103 DINADAN DRIVE
+- City: CHARLOTTE
+- State: NC
+- ZIP: 28217
+- ZIP extension: 
+- State project ID: 9197695
+- Latitude: 35.138316
+- Longitude: -80.892272
+- County FIPS: 37119
+- County from: 2020
+- Tract 2020: 37119003808
+- Tract 2010: 37119003808
+- Tract 2000: 37119003804
+- Tract 1990: 
+- Place 2020: 12000
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 623718
+- Units: 202
+- Low-income units: 161
+- Units reported: 202
+- Low-income reported: 161
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 94
+- 3-bedroom units: 67
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

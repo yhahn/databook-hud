@@ -1,0 +1,85 @@
+# Project: RED LAKE HOMES IX (MNA20030160)
+
+- HUD ID: MNA20030160
+- HUD ID before: 
+- Project: RED LAKE HOMES IX
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: RED LAKE
+- State: MN
+- ZIP: 56671
+- ZIP extension: 
+- State project ID: D3131
+- Latitude: 48.0269
+- Longitude: -95.1373
+- County FIPS: 27007
+- County from: 2020
+- Tract 2020: 27007940001
+- Tract 2010: 27007940001
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 37656
+- Place 2010: 37656
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 27
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

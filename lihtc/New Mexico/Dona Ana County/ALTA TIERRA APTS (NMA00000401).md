@@ -1,0 +1,85 @@
+# Project: ALTA TIERRA APTS (NMA00000401)
+
+- HUD ID: NMA00000401
+- HUD ID before: 
+- Project: ALTA TIERRA APTS
+- Address: 1500 E MADRID AVE
+- City: LAS CRUCES
+- State: NM
+- ZIP: 88001
+- ZIP extension: 
+- State project ID: 00609
+- Latitude: 32.331148
+- Longitude: -106.770625
+- County FIPS: 35013
+- County from: 2020
+- Tract 2020: 35013000102
+- Tract 2010: 35013000102
+- Tract 2000: 35013000102
+- Tract 1990: 35013000102
+- Place 2020: 39380
+- Place 2010: 39380
+- Place 2000: 39380
+- Place 1990: 0220
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARK NORTH ASSOC (NYA19930205)
+
+- HUD ID: NYA19930205
+- HUD ID before: 
+- Project: PARK NORTH ASSOC
+- Address: 1836 ADAM CLAYTON POWELL JR BLVD
+- City: NEW YORK
+- State: NY
+- ZIP: 10026
+- ZIP extension: 
+- State project ID: 19910831
+- Latitude: 40.800354
+- Longitude: -73.954971
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061021600
+- Tract 2010: 36061021600
+- Tract 2000: 36061021600
+- Tract 1990: 36061021600
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 89
+- Low-income units: 35
+- Units reported: 89
+- Low-income reported: 35
+- Efficiencies: 4
+- 1-bedroom units: 12
+- 2-bedroom units: 9
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

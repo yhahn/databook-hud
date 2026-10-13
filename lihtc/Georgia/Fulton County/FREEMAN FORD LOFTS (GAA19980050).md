@@ -1,0 +1,85 @@
+# Project: FREEMAN FORD LOFTS (GAA19980050)
+
+- HUD ID: GAA19980050
+- HUD ID before: 
+- Project: FREEMAN FORD LOFTS
+- Address: 75 JOHN WESLEY DOBBS AVE NE
+- City: ATLANTA
+- State: GA
+- ZIP: 30303
+- ZIP extension: 
+- State project ID: GA-96-505
+- Latitude: 33.756946
+- Longitude: -84.384956
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011901
+- Tract 2010: 13121011900
+- Tract 2000: 13121002700
+- Tract 1990: 13121002700
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 27
+- Low-income units: 6
+- Units reported: 27
+- Low-income reported: 6
+- Efficiencies: 2
+- 1-bedroom units: 2
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

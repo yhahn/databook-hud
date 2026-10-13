@@ -1,0 +1,85 @@
+# Project: PARKVIEW APARTMENTS (WAA19969050)
+
+- HUD ID: WAA19969050
+- HUD ID before: 
+- Project: PARKVIEW APARTMENTS
+- Address: 1138 WEST 10TH, BLDG A-K
+- City: KENNEWICK
+- State: WA
+- ZIP: 99336
+- ZIP extension: 
+- State project ID: 94-33A
+- Latitude: 46.198718
+- Longitude: -119.135157
+- County FIPS: 53005
+- County from: 2020
+- Tract 2020: 53005011202
+- Tract 2010: 53005011200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 35275
+- Place 2010: 35275
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 540914
+- Units: 110
+- Low-income units: 107
+- Units reported: 110
+- Low-income reported: 107
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

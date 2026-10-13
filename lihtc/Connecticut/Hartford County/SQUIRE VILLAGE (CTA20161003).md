@@ -1,0 +1,85 @@
+# Project: SQUIRE VILLAGE (CTA20161003)
+
+- HUD ID: CTA20161003
+- HUD ID before: 
+- Project: SQUIRE VILLAGE
+- Address: 48 SPENCER STREET
+- City: MANCHESTER
+- State: CT
+- ZIP: 06040
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.767693
+- Longitude: -72.562612
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003515102
+- Tract 2010: 09003515102
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 44690
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 2658300
+- Units: 379
+- Low-income units: 379
+- Units reported: 379
+- Low-income reported: 379
+- Efficiencies: 0
+- 1-bedroom units: 101
+- 2-bedroom units: 200
+- 3-bedroom units: 78
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 175
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

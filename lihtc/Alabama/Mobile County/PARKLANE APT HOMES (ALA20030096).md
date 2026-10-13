@@ -1,0 +1,85 @@
+# Project: PARKLANE APT HOMES (ALA20030096)
+
+- HUD ID: ALA20030096
+- HUD ID before: 
+- Project: PARKLANE APT HOMES
+- Address: 6725 ZEIGLER BLVD
+- City: MOBILE
+- State: AL
+- ZIP: 36608
+- ZIP extension: 
+- State project ID: AL-01-0810
+- Latitude: 30.708533
+- Longitude: -88.199962
+- County FIPS: 01097
+- County from: 2020
+- Tract 2020: 01097003404
+- Tract 2010: 01097003404
+- Tract 2000: 01097003404
+- Tract 1990: 01097003404
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 1165
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 144353
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 56
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 112
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2002035.
+- Record status: Existing, unchanged

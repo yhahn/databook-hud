@@ -1,0 +1,85 @@
+# Project: LOGAN PARK (WAA20020080)
+
+- HUD ID: WAA20020080
+- HUD ID before: 
+- Project: LOGAN PARK
+- Address: 701 SAPP ROAD
+- City: SEDRO-WOOLLEY
+- State: WA
+- ZIP: 98284
+- ZIP extension: 
+- State project ID: 01-85
+- Latitude: 48.520859
+- Longitude: -122.230499
+- County FIPS: 53057
+- County from: 2020
+- Tract 2020: 53057951503
+- Tract 2010: 53057951500
+- Tract 2000: 53057951500
+- Tract 1990: 53057951500
+- Place 2020: 63210
+- Place 2010: 63210
+- Place 2000: 63210
+- Place 1990: 1150
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 538200
+- Units: 47
+- Low-income units: 46
+- Units reported: 47
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: Farmworkers
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

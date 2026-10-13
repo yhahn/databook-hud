@@ -1,0 +1,85 @@
+# Project: FORT VANCOUVER TERRACE (WAA20039055)
+
+- HUD ID: WAA20039055
+- HUD ID before: 
+- Project: FORT VANCOUVER TERRACE
+- Address: 4710 PLOMONDON ST
+- City: VANCOUVER
+- State: WA
+- ZIP: 98661
+- ZIP extension: 6178
+- State project ID: 02-18A
+- Latitude: 45.643717
+- Longitude: -122.621044
+- County FIPS: 53011
+- County from: 2020
+- Tract 2020: 53011041600
+- Tract 2010: 53011041600
+- Tract 2000: 53011041600
+- Tract 1990: 
+- Place 2020: 74060
+- Place 2010: 74060
+- Place 2000: 74060
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 392791
+- Units: 131
+- Low-income units: 130
+- Units reported: 131
+- Low-income reported: 130
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 33
+- 3-bedroom units: 62
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

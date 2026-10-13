@@ -1,0 +1,85 @@
+# Project: MILLER GROVE (SCA20070095)
+
+- HUD ID: SCA20070095
+- HUD ID before: 
+- Project: MILLER GROVE
+- Address: 2017 MILLER ST
+- City: LANCASTER
+- State: SC
+- ZIP: 29720
+- ZIP extension: 
+- State project ID: SC-05-026
+- Latitude: 34.714764
+- Longitude: -80.761504
+- County FIPS: 45057
+- County from: 2020
+- Tract 2020: 45057010700
+- Tract 2010: 45057010700
+- Tract 2000: 45057010700
+- Tract 1990: 45057010700
+- Place 2020: 39895
+- Place 2010: 39895
+- Place 2000: 39895
+- Place 1990: 0745
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 422040
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 28
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 460000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA2002110.
+- Record status: Existing, unchanged

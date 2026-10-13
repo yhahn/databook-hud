@@ -1,0 +1,85 @@
+# Project: STAUNTON COMMONS (OHA20070149)
+
+- HUD ID: OHA20070149
+- HUD ID before: 
+- Project: STAUNTON COMMONS
+- Address: 510 W WATER ST
+- City: TROY
+- State: OH
+- ZIP: 45373
+- ZIP extension: 
+- State project ID: 050064
+- Latitude: 40.042721
+- Longitude: -84.207759
+- County FIPS: 39109
+- County from: 2020
+- Tract 2020: 39109365301
+- Tract 2010: 39109365301
+- Tract 2000: 39109365301
+- Tract 1990: 39109365301
+- Place 2020: 77588
+- Place 2010: 77588
+- Place 2000: 77588
+- Place 1990: 4300
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 22
+- 3-bedroom units: 8
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007738.
+- Record status: Existing, unchanged

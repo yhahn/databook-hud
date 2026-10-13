@@ -1,0 +1,85 @@
+# Project: WAUREGAN HOTEL (CTA20060005)
+
+- HUD ID: CTA20060005
+- HUD ID before: 
+- Project: WAUREGAN HOTEL
+- Address: 192 MAIN ST
+- City: NORWICH
+- State: CT
+- ZIP: 06360
+- ZIP extension: 
+- State project ID: CT-03-001
+- Latitude: 41.524477
+- Longitude: -72.075735
+- County FIPS: 09011
+- County from: 2020
+- Tract 2020: 09011696800
+- Tract 2010: 09011696800
+- Tract 2000: 09011696800
+- Tract 1990: 09011696800
+- Place 2020: 56200
+- Place 2010: 56200
+- Place 2000: 56200
+- Place 1990: 1650
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1166725
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 9
+- 1-bedroom units: 60
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WAUREGAN DEVELOPMENT.
+- Record status: Existing, unchanged

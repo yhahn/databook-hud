@@ -1,0 +1,85 @@
+# Project: DENALI RIDGE APARTMENTS (SDA20221002)
+
+- HUD ID: SDA20221002
+- HUD ID before: 
+- Project: DENALI RIDGE APARTMENTS
+- Address: 208 EAST 7TH STREET
+- City: PIERRE
+- State: SD
+- ZIP: 57501
+- ZIP extension: 
+- State project ID: 03332
+- Latitude: 44.381371
+- Longitude: -100.348358
+- County FIPS: 46065
+- County from: 2020
+- Tract 2020: 46065977700
+- Tract 2010: 46065977700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 49600
+- Place 2010: 49600
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 378515
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 530000
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

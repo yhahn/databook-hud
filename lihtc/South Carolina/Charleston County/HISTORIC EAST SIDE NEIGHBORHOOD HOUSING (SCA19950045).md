@@ -1,0 +1,85 @@
+# Project: HISTORIC EAST SIDE NEIGHBORHOOD HOUSING (SCA19950045)
+
+- HUD ID: SCA19950045
+- HUD ID before: 
+- Project: HISTORIC EAST SIDE NEIGHBORHOOD HOUSING
+- Address: 93 COLUMBUS ST
+- City: CHARLESTON
+- State: SC
+- ZIP: 29403
+- ZIP extension: 
+- State project ID: SC-93-042
+- Latitude: 32.795334
+- Longitude: -79.938106
+- County FIPS: 45019
+- County from: 2020
+- Tract 2020: 45019000900
+- Tract 2010: 45019000900
+- Tract 2000: 45019000900
+- Tract 1990: 45019000900
+- Place 2020: 13330
+- Place 2010: 13330
+- Place 2000: 13330
+- Place 1990: 0245
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 119588
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 3
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 396456
+- CDBG: Yes
+- CDBG amount: 50000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA1995509.
+- Record status: Existing, unchanged

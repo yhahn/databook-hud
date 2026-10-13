@@ -1,0 +1,85 @@
+# Project: DEVINE MANOR SENIOR CITIZENS (TXA19920065)
+
+- HUD ID: TXA19920065
+- HUD ID before: 
+- Project: DEVINE MANOR SENIOR CITIZENS
+- Address: 112 DIXON DR
+- City: DEVINE
+- State: TX
+- ZIP: 78016
+- ZIP extension: 
+- State project ID: TX1062
+- Latitude: 29.150371
+- Longitude: -98.89302
+- County FIPS: 48325
+- County from: 2020
+- Tract 2020: 48325000802
+- Tract 2010: 48325000800
+- Tract 2000: 48325990800
+- Tract 1990: 48325990600
+- Place 2020: 20152
+- Place 2010: 20152
+- Place 2000: 20152
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

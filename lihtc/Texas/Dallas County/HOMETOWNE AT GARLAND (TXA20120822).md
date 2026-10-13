@@ -1,0 +1,85 @@
+# Project: HOMETOWNE AT GARLAND (TXA20120822)
+
+- HUD ID: TXA20120822
+- HUD ID before: 
+- Project: HOMETOWNE AT GARLAND
+- Address: 1520 CASTLE DR
+- City: GARLAND
+- State: TX
+- ZIP: 75040
+- ZIP extension: 
+- State project ID: TX4757
+- Latitude: 32.921924
+- Longitude: -96.610715
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113018121
+- Tract 2010: 48113018121
+- Tract 2000: 48113018121
+- Tract 1990: 48113018106
+- Place 2020: 29000
+- Place 2010: 29000
+- Place 2000: 29000
+- Place 1990: 1580
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000716.
+- Record status: Existing, unchanged

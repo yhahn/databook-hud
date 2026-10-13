@@ -1,0 +1,85 @@
+# Project: PUNGO VILLAGE (NCA19919277)
+
+- HUD ID: NCA19919277
+- HUD ID before: 
+- Project: PUNGO VILLAGE
+- Address: 928 PUNGO VILLAGE ROAD
+- City: BELHAVEN
+- State: NC
+- ZIP: 27810
+- ZIP extension: 
+- State project ID: 9001385
+- Latitude: 35.552142
+- Longitude: -76.63053
+- County FIPS: 37013
+- County from: 2020
+- Tract 2020: 37013930102
+- Tract 2010: 37013930100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04640
+- Place 2010: 04640
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 71052
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

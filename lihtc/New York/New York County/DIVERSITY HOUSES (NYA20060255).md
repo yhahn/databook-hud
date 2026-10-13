@@ -1,0 +1,85 @@
+# Project: DIVERSITY HOUSES (NYA20060255)
+
+- HUD ID: NYA20060255
+- HUD ID before: 
+- Project: DIVERSITY HOUSES
+- Address: 229 E THIRD ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10009
+- ZIP extension: 
+- State project ID: 20020585
+- Latitude: 40.722405
+- Longitude: -73.981872
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061002601
+- Tract 2010: 36061002601
+- Tract 2000: 36061002601
+- Tract 1990: 36061002601
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 872568
+- Units: 46
+- Low-income units: 46
+- Units reported: 44
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 21
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

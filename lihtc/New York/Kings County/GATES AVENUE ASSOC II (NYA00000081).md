@@ -1,0 +1,85 @@
+# Project: GATES AVENUE ASSOC II (NYA00000081)
+
+- HUD ID: NYA00000081
+- HUD ID before: 
+- Project: GATES AVENUE ASSOC II
+- Address: 650 GATES AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11221
+- ZIP extension: 
+- State project ID: NY-90-0450_00142
+- Latitude: 40.687401
+- Longitude: -73.938892
+- County FIPS: 36047
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36047027700
+- Tract 2000: 36047027700
+- Tract 1990: 36047027700
+- Place 2020: 
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 48
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001300.
+- Record status: Existing, unchanged

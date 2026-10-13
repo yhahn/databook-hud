@@ -1,0 +1,85 @@
+# Project: TOTEM VILLA APTS (CAA20070645)
+
+- HUD ID: CAA20070645
+- HUD ID before: 
+- Project: TOTEM VILLA APTS
+- Address: 1085 US HWY 101 N
+- City: CRESCENT CITY
+- State: CA
+- ZIP: 95531
+- ZIP extension: 
+- State project ID: CA-06-828
+- Latitude: 41.766409
+- Longitude: -124.19358
+- County FIPS: 06015
+- County from: 2020
+- Tract 2020: 06015000102
+- Tract 2010: 06015000102
+- Tract 2000: 06015000102
+- Tract 1990: 06015000100
+- Place 2020: 17022
+- Place 2010: 17022
+- Place 2000: 06150
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 172934
+- Units: 38
+- Low-income units: 37
+- Units reported: 38
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 11
+- 3-bedroom units: 17
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TOTEM VILLAS.
+- Record status: Existing, unchanged

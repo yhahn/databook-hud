@@ -1,0 +1,85 @@
+# Project: MILLPOND MANOR (MIA19960140)
+
+- HUD ID: MIA19960140
+- HUD ID before: 
+- Project: MILLPOND MANOR
+- Address: 201 E ELIZABETH ST
+- City: FENTON
+- State: MI
+- ZIP: 48430
+- ZIP extension: 
+- State project ID: MI-941
+- Latitude: 42.792716
+- Longitude: -83.704074
+- County FIPS: 26049
+- County from: 2020
+- Tract 2020: 26049013206
+- Tract 2010: 26049013204
+- Tract 2000: 26049013204
+- Tract 1990: 26049013100
+- Place 2020: 27760
+- Place 2010: 27760
+- Place 2000: 27760
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 65
+- Low-income units: 64
+- Units reported: 65
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 58
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

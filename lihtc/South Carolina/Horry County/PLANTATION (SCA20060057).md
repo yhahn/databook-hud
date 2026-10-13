@@ -1,0 +1,85 @@
+# Project: PLANTATION (SCA20060057)
+
+- HUD ID: SCA20060057
+- HUD ID before: 
+- Project: PLANTATION
+- Address: 200 RITTENHOUSE RD
+- City: MYRTLE BEACH
+- State: SC
+- ZIP: 29588
+- ZIP extension: 
+- State project ID: SC-05-031
+- Latitude: 33.68044
+- Longitude: -78.997316
+- County FIPS: 45051
+- County from: 2020
+- Tract 2020: 45051051502
+- Tract 2010: 45051051502
+- Tract 2000: 45051051500
+- Tract 1990: 45051051500
+- Place 2020: 67390
+- Place 2010: 67390
+- Place 2000: 49075
+- Place 1990: 1312
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 446749
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 20
+- 3-bedroom units: 28
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA2006569, SCA2007125.
+- Record status: Existing, unchanged

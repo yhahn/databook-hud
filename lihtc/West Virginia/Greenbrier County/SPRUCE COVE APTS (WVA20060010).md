@@ -1,0 +1,85 @@
+# Project: SPRUCE COVE APTS (WVA20060010)
+
+- HUD ID: WVA20060010
+- HUD ID before: 
+- Project: SPRUCE COVE APTS
+- Address: 444 NORTHRIDGE DR
+- City: LEWISBURG
+- State: WV
+- ZIP: 24901
+- ZIP extension: 
+- State project ID: WV-04-268
+- Latitude: 37.826383
+- Longitude: -80.413954
+- County FIPS: 54025
+- County from: 2020
+- Tract 2020: 54025950402
+- Tract 2010: 54025950400
+- Tract 2000: 54025950400
+- Tract 1990: 54025950400
+- Place 2020: 46636
+- Place 2010: 46636
+- Place 2000: 26692
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 40
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HOPE LANDING APTS (WVA20000050)
+
+- HUD ID: WVA20000050
+- HUD ID before: 
+- Project: HOPE LANDING APTS
+- Address: 104 BROWN ST
+- City: MT HOPE
+- State: WV
+- ZIP: 25880
+- ZIP extension: 
+- State project ID: WV-99-211
+- Latitude: 37.891401
+- Longitude: -81.169965
+- County FIPS: 54019
+- County from: 2020
+- Tract 2020: 54019020500
+- Tract 2010: 54019020500
+- Tract 2000: 54019020500
+- Tract 1990: 54019020500
+- Place 2020: 56404
+- Place 2010: 56404
+- Place 2000: 56404
+- Place 1990: 1110
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 1
+- 1-bedroom units: 21
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

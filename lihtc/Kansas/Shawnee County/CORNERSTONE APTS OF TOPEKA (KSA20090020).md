@@ -1,0 +1,85 @@
+# Project: CORNERSTONE APTS OF TOPEKA (KSA20090020)
+
+- HUD ID: KSA20090020
+- HUD ID before: 
+- Project: CORNERSTONE APTS OF TOPEKA
+- Address: 2123 SE 13TH ST
+- City: TOPEKA
+- State: KS
+- ZIP: 66607
+- ZIP extension: 
+- State project ID: 60492
+- Latitude: 39.03328
+- Longitude: -95.64824
+- County FIPS: 20177
+- County from: 2020
+- Tract 2020: 20177003100
+- Tract 2010: 20177003100
+- Tract 2000: 20177003100
+- Tract 1990: 20177003100
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2795
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 191004
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

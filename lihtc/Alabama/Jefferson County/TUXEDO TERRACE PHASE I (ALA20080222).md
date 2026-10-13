@@ -1,0 +1,85 @@
+# Project: TUXEDO TERRACE PHASE I (ALA20080222)
+
+- HUD ID: ALA20080222
+- HUD ID before: 
+- Project: TUXEDO TERRACE PHASE I
+- Address: 2035 AVE Q
+- City: BIRMINGHAM
+- State: AL
+- ZIP: 35218
+- ZIP extension: 
+- State project ID: AL-07-0025
+- Latitude: 33.507466
+- Longitude: -86.887145
+- County FIPS: 01073
+- County from: 2020
+- Tract 2020: 01073003200
+- Tract 2010: 01073003200
+- Tract 2000: 01073003200
+- Tract 1990: 01073003200
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0185
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1176000
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 48
+- 3-bedroom units: 28
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 112
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2009059, ALA2009546. FKA TUXEDO COURT RENTAL PHASE I
+- Record status: Existing, unchanged

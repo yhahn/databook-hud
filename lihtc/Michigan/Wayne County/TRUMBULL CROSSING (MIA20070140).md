@@ -1,0 +1,85 @@
+# Project: TRUMBULL CROSSING (MIA20070140)
+
+- HUD ID: MIA20070140
+- HUD ID before: 
+- Project: TRUMBULL CROSSING
+- Address: 5500 TRUMBULL ST
+- City: DETROIT
+- State: MI
+- ZIP: 48208
+- ZIP extension: 
+- State project ID: MI-300
+- Latitude: 42.357023
+- Longitude: -83.081318
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163522400
+- Tract 2010: 26163522400
+- Tract 2000: 26163522400
+- Tract 1990: 26163522400
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 22000
+- Place 1990: 0680
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1062242
+- Units: 245
+- Low-income units: 244
+- Units reported: 245
+- Low-income reported: 244
+- Efficiencies: 0
+- 1-bedroom units: 137
+- 2-bedroom units: 88
+- 3-bedroom units: 14
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 220
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 5000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1989340.
+- Record status: Updated

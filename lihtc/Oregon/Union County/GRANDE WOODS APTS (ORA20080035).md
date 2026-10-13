@@ -1,0 +1,85 @@
+# Project: GRANDE WOODS APTS (ORA20080035)
+
+- HUD ID: ORA20080035
+- HUD ID before: 
+- Project: GRANDE WOODS APTS
+- Address: 2005B GEKELER LN
+- City: LA GRANDE
+- State: OR
+- ZIP: 97850
+- ZIP extension: 
+- State project ID: H029-139
+- Latitude: 45.312151
+- Longitude: -118.083679
+- County FIPS: 41061
+- County from: 2020
+- Tract 2020: 41061970700
+- Tract 2010: 41061970700
+- Tract 2000: 41061970700
+- Tract 1990: 41061970700
+- Place 2020: 40350
+- Place 2010: 40350
+- Place 2000: 40350
+- Place 1990: 0630
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 188217
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 41
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BURBANK SENIOR ARTIST COLONY (CAA20050055)
+
+- HUD ID: CAA20050055
+- HUD ID before: 
+- Project: BURBANK SENIOR ARTIST COLONY
+- Address: 240 E VERDUGO AVE
+- City: BURBANK
+- State: CA
+- ZIP: 91502
+- ZIP extension: 
+- State project ID: CA-02-860
+- Latitude: 34.17926
+- Longitude: -118.304865
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037310705
+- Tract 2010: 06037310702
+- Tract 2000: 06037310702
+- Tract 1990: 06037310700
+- Place 2020: 08954
+- Place 2010: 08954
+- Place 2000: 08954
+- Place 1990: 0340
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 253942
+- Units: 141
+- Low-income units: 43
+- Units reported: 141
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

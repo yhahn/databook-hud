@@ -1,0 +1,85 @@
+# Project: HERNDON HARBOR HOUSE I (VAA19990110)
+
+- HUD ID: VAA19990110
+- HUD ID before: 
+- Project: HERNDON HARBOR HOUSE I
+- Address: 873 GRACE ST
+- City: HERNDON
+- State: VA
+- ZIP: 20170
+- ZIP extension: 
+- State project ID: 6642
+- Latitude: 38.973716
+- Longitude: -77.389238
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059480901
+- Tract 2010: 51059480901
+- Tract 2000: 51059480900
+- Tract 1990: 51059480900
+- Place 2020: 36648
+- Place 2010: 36648
+- Place 2000: 36648
+- Place 1990: 0615
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 200425
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

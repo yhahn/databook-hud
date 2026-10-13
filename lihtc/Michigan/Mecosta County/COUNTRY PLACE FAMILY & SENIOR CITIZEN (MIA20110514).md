@@ -1,0 +1,85 @@
+# Project: COUNTRY PLACE FAMILY & SENIOR CITIZEN (MIA20110514)
+
+- HUD ID: MIA20110514
+- HUD ID before: 
+- Project: COUNTRY PLACE FAMILY & SENIOR CITIZEN
+- Address: 815 COUNTRY WAY
+- City: BIG RAPIDS
+- State: MI
+- ZIP: 49307
+- ZIP extension: 
+- State project ID: MI-3335
+- Latitude: 43.710033
+- Longitude: -85.466028
+- County FIPS: 26107
+- County from: 2020
+- Tract 2020: 26107960500
+- Tract 2010: 26107960500
+- Tract 2000: 26107960500
+- Tract 1990: 26107960500
+- Place 2020: 08300
+- Place 2010: 08300
+- Place 2000: 08300
+- Place 1990: 0255
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 209176
+- Units: 68
+- Low-income units: 67
+- Units reported: 68
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3308999
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA2011040, MIA1990125, MIA1990120, MIA1990115, MIA1989215. AKA COUNTRY PLACE SENIOR APTS, COUNTRY PLACE - OPEN FAMILY.
+- Record status: Existing, unchanged

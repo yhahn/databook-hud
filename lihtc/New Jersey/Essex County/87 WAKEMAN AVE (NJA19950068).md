@@ -1,0 +1,85 @@
+# Project: 87 WAKEMAN AVE (NJA19950068)
+
+- HUD ID: NJA19950068
+- HUD ID before: 
+- Project: 87 WAKEMAN AVE
+- Address: 87 WAKEMAN AVE
+- City: NEWARK
+- State: NJ
+- ZIP: 07104
+- ZIP extension: 
+- State project ID: 
+- Latitude: 40.76458
+- Longitude: -74.167394
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013009300
+- Tract 2010: 34013009300
+- Tract 2000: 34013009300
+- Tract 1990: 34013009300
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2895
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 
+- Low-income units: 
+- Units reported: 
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000100.
+- Record status: Existing, unchanged

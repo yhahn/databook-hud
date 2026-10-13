@@ -1,0 +1,85 @@
+# Project: SPANISH JON'S APARTMENTS (ARA20099020)
+
+- HUD ID: ARA20099020
+- HUD ID before: 
+- Project: SPANISH JON'S APARTMENTS
+- Address: 5001 W 65TH ST
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72209
+- ZIP extension: 
+- State project ID: 794
+- Latitude: 34.690129
+- Longitude: -92.331843
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119002002
+- Tract 2010: 05119002002
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 41000
+- Place 2010: 41000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 313561
+- Units: 224
+- Low-income units: 224
+- Units reported: 224
+- Low-income reported: 224
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 96
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

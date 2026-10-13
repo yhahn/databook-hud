@@ -1,0 +1,85 @@
+# Project: NORWICH COMMONS (GAA20140995)
+
+- HUD ID: GAA20140995
+- HUD ID before: 
+- Project: NORWICH COMMONS
+- Address: 3400 NORWICH ST
+- City: BRUNSWICK
+- State: GA
+- ZIP: 31520
+- ZIP extension: 3940
+- State project ID: GA-12-004
+- Latitude: 31.175385
+- Longitude: -81.500444
+- County FIPS: 13127
+- County from: 2020
+- Tract 2020: 13127000702
+- Tract 2010: 13127000700
+- Tract 2000: 13127000700
+- Tract 1990: 13127000700
+- Place 2020: 11560
+- Place 2010: 11560
+- Place 2000: 11560
+- Place 1990: 0390
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 36
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000304.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THE BOARDWALK (WIA20030110)
+
+- HUD ID: WIA20030110
+- HUD ID before: 
+- Project: THE BOARDWALK
+- Address: 232 BRIDGE ST
+- City: BURLINGTON
+- State: WI
+- ZIP: 53105
+- ZIP extension: 
+- State project ID: 2609
+- Latitude: 42.677583
+- Longitude: -88.271613
+- County FIPS: 55101
+- County from: 2020
+- Tract 2020: 55101002402
+- Tract 2010: 55101002402
+- Tract 2000: 55101002402
+- Tract 1990: 55101002402
+- Place 2020: 11200
+- Place 2010: 11200
+- Place 2000: 10425
+- Place 1990: 0390
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 128
+- Low-income units: 26
+- Units reported: 128
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 68
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BOARDWALK.
+- Record status: Existing, unchanged

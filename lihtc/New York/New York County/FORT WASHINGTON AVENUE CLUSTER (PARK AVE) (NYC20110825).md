@@ -1,0 +1,85 @@
+# Project: FORT WASHINGTON AVENUE CLUSTER (PARK AVE) (NYC20110825)
+
+- HUD ID: NYC20110825
+- HUD ID before: 
+- Project: FORT WASHINGTON AVENUE CLUSTER (PARK AVE)
+- Address: 1267 PARK AVE
+- City: NEW YORK
+- State: NY
+- ZIP: 10029
+- ZIP extension: 
+- State project ID: 0902067
+- Latitude: 40.78747
+- Longitude: -73.951513
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061015802
+- Tract 2010: 36061015802
+- Tract 2000: 36061015802
+- Tract 1990: 36061015802
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 167553
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 2
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 816773
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2009100.
+- Record status: Existing, unchanged

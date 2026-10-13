@@ -1,0 +1,85 @@
+# Project: PALMS AT GLENDALE (AZA19940047)
+
+- HUD ID: AZA19940047
+- HUD ID before: 
+- Project: PALMS AT GLENDALE
+- Address: 6112 N 67TH AVE
+- City: GLENDALE
+- State: AZ
+- ZIP: 85301
+- ZIP extension: 
+- State project ID: TC-0092
+- Latitude: 33.526422
+- Longitude: -112.20329
+- County FIPS: 04013
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04013092718
+- Tract 2000: 04013092714
+- Tract 1990: 04013092705
+- Place 2020: 
+- Place 2010: 27820
+- Place 2000: 27820
+- Place 1990: 0140
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 80
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000580, AZA1994060.
+- Record status: Existing, unchanged

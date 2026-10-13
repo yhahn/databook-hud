@@ -1,0 +1,85 @@
+# Project: HORN LAKE ESTATES (MSA20040043)
+
+- HUD ID: MSA20040043
+- HUD ID before: 
+- Project: HORN LAKE ESTATES
+- Address: 1600 SOUTHERN VILLAS DR
+- City: HORN LAKE
+- State: MS
+- ZIP: 38637
+- ZIP extension: 
+- State project ID: MS-03-003
+- Latitude: 34.954582
+- Longitude: -90.017817
+- County FIPS: 28033
+- County from: 2020
+- Tract 2020: 28033070322
+- Tract 2010: 28033070322
+- Tract 2000: 28033070322
+- Tract 1990: 28033070320
+- Place 2020: 33700
+- Place 2010: 33700
+- Place 2000: 33700
+- Place 1990: 0578
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 37
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2004659.
+- Record status: Existing, unchanged

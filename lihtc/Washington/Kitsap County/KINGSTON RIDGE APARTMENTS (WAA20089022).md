@@ -1,0 +1,85 @@
+# Project: KINGSTON RIDGE APARTMENTS (WAA20089022)
+
+- HUD ID: WAA20089022
+- HUD ID before: 
+- Project: KINGSTON RIDGE APARTMENTS
+- Address: 26659 MYRTLE LANE
+- City: KINGSTON
+- State: WA
+- ZIP: 98346
+- ZIP extension: 
+- State project ID: 07-88A
+- Latitude: 47.804384
+- Longitude: -122.507211
+- County FIPS: 53035
+- County from: 2020
+- Tract 2020: 53035090102
+- Tract 2010: 53035090102
+- Tract 2000: 53035090102
+- Tract 1990: 53035090102
+- Place 2020: 35870
+- Place 2010: 35870
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 69328
+- Units: 43
+- Low-income units: 22
+- Units reported: 43
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 32
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

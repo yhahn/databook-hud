@@ -1,0 +1,85 @@
+# Project: PENINSULA BUILDING 1B LLC (NYC20221031)
+
+- HUD ID: NYC20221031
+- HUD ID before: 
+- Project: PENINSULA BUILDING 1B LLC
+- Address: 720 TIFFANY STREET
+- City: BRONX
+- State: NY
+- ZIP: 10474
+- ZIP extension: 
+- State project ID: 27-0000070
+- Latitude: 40.814566
+- Longitude: -73.891105
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005009301
+- Tract 2010: 36005009300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 3879011
+- Units: 183
+- Low-income units: 182
+- Units reported: 183
+- Low-income reported: 182
+- Efficiencies: 38
+- 1-bedroom units: 61
+- 2-bedroom units: 60
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

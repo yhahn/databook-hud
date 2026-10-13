@@ -1,0 +1,85 @@
+# Project: HERON CREEK APARTMENTS (WAA20070095)
+
+- HUD ID: WAA20070095
+- HUD ID before: 
+- Project: HERON CREEK APARTMENTS
+- Address: 222 EAST 9TH AVE
+- City: MOSES LAKE
+- State: WA
+- ZIP: 98837
+- ZIP extension: 
+- State project ID: 06-95A
+- Latitude: 47.123972
+- Longitude: -119.27048
+- County FIPS: 53025
+- County from: 2020
+- Tract 2020: 53025011102
+- Tract 2010: 53025011100
+- Tract 2000: 53025980900
+- Tract 1990: 53025981100
+- Place 2020: 47245
+- Place 2010: 47245
+- Place 2000: 
+- Place 1990: 0805
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 394060
+- Units: 96
+- Low-income units: 94
+- Units reported: 96
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 48
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 38
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

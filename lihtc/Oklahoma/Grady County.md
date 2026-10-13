@@ -1,0 +1,24 @@
+# Tax Credit Projects: Grady County, OK
+
+- Level: County
+- Postal code: OK
+- State FIPS: 40
+- County FIPS: 40051
+- Counties: 
+- Projects: 7
+- Units: 339
+- Low-income units: 322
+
+The low-income housing tax credit projects of Grady County, Oklahoma, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [SHADOW WOOD APTS (OKA00000445)](./Grady%20County/SHADOW%20WOOD%20APTS%20%28OKA00000445%29.md) | OKA00000445 | CHICKASHA |  | 60 | 60 |
+| [LILLIE MAE RETIREMENT VILLAGE (OKA19999398)](./Grady%20County/LILLIE%20MAE%20RETIREMENT%20VILLAGE%20%28OKA19999398%29.md) | OKA19999398 | CHICKASHA | 1999 | 48 | 48 |
+| [RUSH CREEK VILLAGE (OKA20010090)](./Grady%20County/RUSH%20CREEK%20VILLAGE%20%28OKA20010090%29.md) | OKA20010090 | RUSH SPRINGS | 2001 | 24 | 24 |
+| [AUTUMN BROOKE APTS (OKA20030010)](./Grady%20County/AUTUMN%20BROOKE%20APTS%20%28OKA20030010%29.md) | OKA20030010 | CHICKASHA | 2003 | 77 | 60 |
+| [CHICKASHA VILLA (OKA20050045)](./Grady%20County/CHICKASHA%20VILLA%20%28OKA20050045%29.md) | OKA20050045 | CHICKASHA | 2005 | 46 | 46 |
+| [CHICKASHA SENIOR (OKA20070020)](./Grady%20County/CHICKASHA%20SENIOR%20%28OKA20070020%29.md) | OKA20070020 | CHICKASHA | 2007 | 48 | 48 |
+| [CHICKASHA HOTEL (OKA20129051)](./Grady%20County/CHICKASHA%20HOTEL%20%28OKA20129051%29.md) | OKA20129051 | CHICKASHA | 2012 | 36 | 36 |

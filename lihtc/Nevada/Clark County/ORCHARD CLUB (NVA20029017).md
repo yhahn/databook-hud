@@ -1,0 +1,85 @@
+# Project: ORCHARD CLUB (NVA20029017)
+
+- HUD ID: NVA20029017
+- HUD ID before: NVA00000027
+- Project: ORCHARD CLUB
+- Address: 1220 TREE LINE DR
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89117
+- ZIP extension: 0000
+- State project ID: 00-57
+- Latitude: 36.157504
+- Longitude: -115.039784
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003004923
+- Tract 2010: 32003004923
+- Tract 2000: 32003004923
+- Tract 1990: 32003004903
+- Place 2020: 71400
+- Place 2010: 71400
+- Place 2000: 71400
+- Place 1990: 0110
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 825894
+- Units: 342
+- Low-income units: 338
+- Units reported: 342
+- Low-income reported: 338
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 174
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 20000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: HANDICAPPED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS NVA00000027
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HALE HOALOHA (HIA20019002)
+
+- HUD ID: HIA20019002
+- HUD ID before: 
+- Project: HALE HOALOHA
+- Address: 119 W LANIKAULA ST
+- City: HILO
+- State: HI
+- ZIP: 96720
+- ZIP extension: 
+- State project ID: HI-1999-002
+- Latitude: 19.705306
+- Longitude: -155.077881
+- County FIPS: 15001
+- County from: 2020
+- Tract 2020: 15001020500
+- Tract 2010: 15001020500
+- Tract 2000: 15001020500
+- Tract 1990: 
+- Place 2020: 14650
+- Place 2010: 14650
+- Place 2000: 14650
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 252163
+- Units: 81
+- Low-income units: 80
+- Units reported: 81
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 30
+- 3-bedroom units: 29
+- 4-bedroom units: 9
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

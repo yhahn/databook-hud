@@ -1,0 +1,85 @@
+# Project: RAMBLEWOOD APTS (TNA20060195)
+
+- HUD ID: TNA20060195
+- HUD ID before: 
+- Project: RAMBLEWOOD APTS
+- Address: 2404 RAMBLEWOOD DR
+- City: CLARKSVILLE
+- State: TN
+- ZIP: 37040
+- ZIP extension: 
+- State project ID: TN-06-200
+- Latitude: 36.470756
+- Longitude: -87.373617
+- County FIPS: 47125
+- County from: 2020
+- Tract 2020: 47125101600
+- Tract 2010: 47125101600
+- Tract 2000: 47125101600
+- Tract 1990: 47125101600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 188578
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 72
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA RAMBLEWOOD II.
+- Record status: Updated

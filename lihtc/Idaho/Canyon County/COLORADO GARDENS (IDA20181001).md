@@ -1,0 +1,85 @@
+# Project: COLORADO GARDENS (IDA20181001)
+
+- HUD ID: IDA20181001
+- HUD ID before: 
+- Project: COLORADO GARDENS
+- Address: 1007 SOUTH ELDER STREET
+- City: NAMPS
+- State: ID
+- ZIP: 83687
+- ZIP extension: 
+- State project ID: HC1702
+- Latitude: 43.559209
+- Longitude: -116.56027
+- County FIPS: 16027
+- County from: 2020
+- Tract 2020: 16027020505
+- Tract 2010: 16027020504
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 56260
+- Place 2010: 56260
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 776054
+- Units: 50
+- Low-income units: 45
+- Units reported: 50
+- Low-income reported: 45
+- Efficiencies: 16
+- 1-bedroom units: 18
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 45
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

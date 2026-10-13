@@ -1,0 +1,85 @@
+# Project: MOLER/VANBUREN DEVELOPMENT (OHA20030180)
+
+- HUD ID: OHA20030180
+- HUD ID before: 
+- Project: MOLER/VANBUREN DEVELOPMENT
+- Address: 1969 OAKDALE AVE
+- City: DAYTON
+- State: OH
+- ZIP: 45420
+- ZIP extension: 
+- State project ID: 020098
+- Latitude: 39.720674
+- Longitude: -84.140323
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113021100
+- Tract 2010: 39113021100
+- Tract 2000: 39113021100
+- Tract 1990: 39113021100
+- Place 2020: 40040
+- Place 2010: 40040
+- Place 2000: 40040
+- Place 1990: 2025
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 79559
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003614, OHA2004172.
+- Record status: Existing, unchanged

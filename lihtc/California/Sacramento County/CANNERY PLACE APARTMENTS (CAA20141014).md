@@ -1,0 +1,85 @@
+# Project: CANNERY PLACE APARTMENTS (CAA20141014)
+
+- HUD ID: CAA20141014
+- HUD ID before: 
+- Project: CANNERY PLACE APARTMENTS
+- Address: 601 CANNERY AVENUE
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95811
+- ZIP extension: 
+- State project ID: CA-12-850
+- Latitude: 38.598235
+- Longitude: -121.491504
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067005301
+- Tract 2010: 06067005301
+- Tract 2000: 06067005300
+- Tract 1990: 
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1471419
+- Units: 180
+- Low-income units: 178
+- Units reported: 180
+- Low-income reported: 178
+- Efficiencies: 0
+- 1-bedroom units: 90
+- 2-bedroom units: 90
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 36
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1800000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,25 @@
+# Tax Credit Projects: Perry County, AL
+
+- Level: County
+- Postal code: AL
+- State FIPS: 01
+- County FIPS: 01105
+- Counties: 
+- Projects: 8
+- Units: 235
+- Low-income units: 235
+
+The low-income housing tax credit projects of Perry County, Alabama, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [WOODBEND APTS (ALA19900200)](./Perry%20County/WOODBEND%20APTS%20%28ALA19900200%29.md) | ALA19900200 | UNIONTOWN | 1990 | 19 | 19 |
+| [WOODLAWN TERRACE (ALA19910215)](./Perry%20County/WOODLAWN%20TERRACE%20%28ALA19910215%29.md) | ALA19910215 | UNIONTOWN | 1991 | 15 | 15 |
+| [MEADOWS APTS I (ALA19919231)](./Perry%20County/MEADOWS%20APTS%20I%20%28ALA19919231%29.md) | ALA19919231 | UNIONTOWN | 1991 | 24 | 24 |
+| [MEADOWS APTS II (ALA19950087)](./Perry%20County/MEADOWS%20APTS%20II%20%28ALA19950087%29.md) | ALA19950087 | UNIONTOWN | 1995 | 24 | 24 |
+| [JACKSON-JOHNSON TOWNHOMES (ALA19960062)](./Perry%20County/JACKSON-JOHNSON%20TOWNHOMES%20%28ALA19960062%29.md) | ALA19960062 | MARION | 1996 | 42 | 42 |
+| [BELLEMEADE APTS (ALA20000022)](./Perry%20County/BELLEMEADE%20APTS%20%28ALA20000022%29.md) | ALA20000022 | MARION | 2000 | 28 | 28 |
+| [CANEBRAKE APTS (ALA20050012)](./Perry%20County/CANEBRAKE%20APTS%20%28ALA20050012%29.md) | ALA20050012 | UNIONTOWN | 2005 | 36 | 36 |
+| [PERRY RIDGE APTS (ALA20110574)](./Perry%20County/PERRY%20RIDGE%20APTS%20%28ALA20110574%29.md) | ALA20110574 | MARION | 2011 | 47 | 47 |

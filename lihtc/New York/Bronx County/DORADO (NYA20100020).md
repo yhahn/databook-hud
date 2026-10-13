@@ -1,0 +1,85 @@
+# Project: DORADO (NYA20100020)
+
+- HUD ID: NYA20100020
+- HUD ID before: 
+- Project: DORADO
+- Address: 3055 THIRD AVE
+- City: BRONX
+- State: NY
+- ZIP: 10451
+- ZIP extension: 
+- State project ID: 20060048
+- Latitude: 40.820328
+- Longitude: -73.912952
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005006900
+- Tract 2010: 36005006900
+- Tract 2000: 36005006900
+- Tract 1990: 36005006900
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 628673
+- Units: 58
+- Low-income units: 57
+- Units reported: 58
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 31
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

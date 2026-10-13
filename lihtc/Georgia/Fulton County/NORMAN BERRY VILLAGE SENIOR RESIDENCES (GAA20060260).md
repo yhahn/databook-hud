@@ -1,0 +1,85 @@
+# Project: NORMAN BERRY VILLAGE SENIOR RESIDENCES (GAA20060260)
+
+- HUD ID: GAA20060260
+- HUD ID before: 
+- Project: NORMAN BERRY VILLAGE SENIOR RESIDENCES
+- Address: 2840 NORMAN BERRY DR
+- City: EAST POINT
+- State: GA
+- ZIP: 30344
+- ZIP extension: 3523
+- State project ID: GA-04-027
+- Latitude: 33.67804
+- Longitude: -84.426969
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011000
+- Tract 2010: 13121011000
+- Tract 2000: 13121011000
+- Tract 1990: 13121011000
+- Place 2020: 25720
+- Place 2010: 25720
+- Place 2000: 25720
+- Place 1990: 0960
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 821500
+- Units: 119
+- Low-income units: 93
+- Units reported: 119
+- Low-income reported: 93
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 71
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

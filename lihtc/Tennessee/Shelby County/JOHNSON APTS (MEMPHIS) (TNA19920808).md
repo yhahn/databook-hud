@@ -1,0 +1,85 @@
+# Project: JOHNSON APTS (MEMPHIS) (TNA19920808)
+
+- HUD ID: TNA19920808
+- HUD ID before: 
+- Project: JOHNSON APTS (MEMPHIS)
+- Address: 3200 JOHNSON AVE
+- City: MEMPHIS
+- State: TN
+- ZIP: 38112
+- ZIP extension: 
+- State project ID: TN-92-022
+- Latitude: 35.141877
+- Longitude: -89.954621
+- County FIPS: 47157
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47157002800
+- Tract 2000: 47157002800
+- Tract 1990: 47157002800
+- Place 2020: 
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 990
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1992030.
+- Record status: Existing, unchanged

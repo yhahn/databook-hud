@@ -1,0 +1,85 @@
+# Project: EL PATIO HOTEL (CAA20110125)
+
+- HUD ID: CAA20110125
+- HUD ID before: 
+- Project: EL PATIO HOTEL
+- Address: 167 S PALM ST
+- City: VENTURA
+- State: CA
+- ZIP: 93001
+- ZIP extension: 
+- State project ID: CA-09-594
+- Latitude: 34.278712
+- Longitude: -119.29637
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111002400
+- Tract 2010: 06111002400
+- Tract 2000: 06111002400
+- Tract 1990: 06111002400
+- Place 2020: 65042
+- Place 2010: 65042
+- Place 2000: 65042
+- Place 1990: 2460
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 41
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 407970
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2845091
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011587.
+- Record status: Existing, unchanged

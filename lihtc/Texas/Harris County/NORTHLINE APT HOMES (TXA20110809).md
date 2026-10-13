@@ -1,0 +1,85 @@
+# Project: NORTHLINE APT HOMES (TXA20110809)
+
+- HUD ID: TXA20110809
+- HUD ID before: 
+- Project: NORTHLINE APT HOMES
+- Address: 7211 NORTHLINE DR
+- City: HOUSTON
+- State: TX
+- ZIP: 77076
+- ZIP extension: 
+- State project ID: TX4706
+- Latitude: 29.866261
+- Longitude: -95.397981
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201221502
+- Tract 2010: 48201221500
+- Tract 2000: 48201221500
+- Tract 1990: 48201052302
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 172
+- Low-income units: 172
+- Units reported: 172
+- Low-income reported: 172
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 68
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000734.
+- Record status: Existing, unchanged

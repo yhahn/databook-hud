@@ -1,0 +1,85 @@
+# Project: HANCOCK HOUSE (ILA20110920)
+
+- HUD ID: ILA20110920
+- HUD ID before: 
+- Project: HANCOCK HOUSE
+- Address: 12045 S EMERALD AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60628
+- ZIP extension: 
+- State project ID: 294409
+- Latitude: 41.675032
+- Longitude: -87.640896
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031530501
+- Tract 2010: 17031530501
+- Tract 2000: 17031530500
+- Tract 1990: 17031530500
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1538
+- Units: 89
+- Low-income units: 80
+- Units reported: 89
+- Low-income reported: 80
+- Efficiencies: 13
+- 1-bedroom units: 76
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 11289940
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

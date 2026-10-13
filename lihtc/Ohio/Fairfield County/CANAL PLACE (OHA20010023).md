@@ -1,0 +1,85 @@
+# Project: CANAL PLACE (OHA20010023)
+
+- HUD ID: OHA20010023
+- HUD ID before: 
+- Project: CANAL PLACE
+- Address: 107 S COLUMBUS ST
+- City: LANCASTER
+- State: OH
+- ZIP: 43130
+- ZIP extension: 
+- State project ID: 98-0067
+- Latitude: 39.713421
+- Longitude: -82.604831
+- County FIPS: 39045
+- County from: 2020
+- Tract 2020: 39045032000
+- Tract 2010: 39045032000
+- Tract 2000: 39045032000
+- Tract 1990: 39045032000
+- Place 2020: 41720
+- Place 2010: 41720
+- Place 2000: 41720
+- Place 1990: 2125
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 191004
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 2
+- 1-bedroom units: 23
+- 2-bedroom units: 10
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 301000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2000025.
+- Record status: Existing, unchanged

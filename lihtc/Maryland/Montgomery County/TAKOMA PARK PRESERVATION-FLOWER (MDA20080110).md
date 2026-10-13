@@ -1,0 +1,85 @@
+# Project: TAKOMA PARK PRESERVATION-FLOWER (MDA20080110)
+
+- HUD ID: MDA20080110
+- HUD ID before: 
+- Project: TAKOMA PARK PRESERVATION-FLOWER
+- Address: 8624 FLOWER AVE
+- City: TAKOMA PARK
+- State: MD
+- ZIP: 20912
+- ZIP extension: 
+- State project ID: MD07-10001
+- Latitude: 38.996908
+- Longitude: -77.003468
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031701702
+- Tract 2010: 24031701702
+- Tract 2000: 24031701702
+- Tract 1990: 24031701702
+- Place 2020: 76650
+- Place 2010: 76650
+- Place 2000: 72450
+- Place 1990: 0950
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 27
+- Low-income units: 24
+- Units reported: 27
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

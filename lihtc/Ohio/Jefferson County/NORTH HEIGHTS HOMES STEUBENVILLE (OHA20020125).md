@@ -1,0 +1,85 @@
+# Project: NORTH HEIGHTS HOMES STEUBENVILLE (OHA20020125)
+
+- HUD ID: OHA20020125
+- HUD ID before: 
+- Project: NORTH HEIGHTS HOMES STEUBENVILLE
+- Address: 637 N FIFTH ST
+- City: STEUBENVILLE
+- State: OH
+- ZIP: 43952
+- ZIP extension: 
+- State project ID: 000078
+- Latitude: 40.367593
+- Longitude: -80.612924
+- County FIPS: 39081
+- County from: 2020
+- Tract 2020: 39081000200
+- Tract 2010: 39081000200
+- Tract 2000: 39081000200
+- Tract 1990: 39081000200
+- Place 2020: 74608
+- Place 2010: 74608
+- Place 2000: 74608
+- Place 1990: 4115
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 38867
+- Units: 6
+- Low-income units: 3
+- Units reported: 6
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SINGLE PARENTS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

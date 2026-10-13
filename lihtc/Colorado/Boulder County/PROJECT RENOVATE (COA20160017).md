@@ -1,0 +1,85 @@
+# Project: PROJECT RENOVATE (COA20160017)
+
+- HUD ID: COA20160017
+- HUD ID before: 
+- Project: PROJECT RENOVATE
+- Address: VARIOUS
+- City: BOULDER
+- State: CO
+- ZIP: 80302
+- ZIP extension: 
+- State project ID: CO-16-19
+- Latitude: 40.0288
+- Longitude: -105.288
+- County FIPS: 08013
+- County from: 2020
+- Tract 2020: 08013012201
+- Tract 2010: 08013012101
+- Tract 2000: 08013012101
+- Tract 1990: 
+- Place 2020: 07850
+- Place 2010: 07850
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 2564569
+- Units: 279
+- Low-income units: 279
+- Units reported: 279
+- Low-income reported: 279
+- Efficiencies: 58
+- 1-bedroom units: 103
+- 2-bedroom units: 74
+- 3-bedroom units: 37
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

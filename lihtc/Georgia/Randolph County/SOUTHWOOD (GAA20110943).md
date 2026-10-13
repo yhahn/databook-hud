@@ -1,0 +1,85 @@
+# Project: SOUTHWOOD (GAA20110943)
+
+- HUD ID: GAA20110943
+- HUD ID before: 
+- Project: SOUTHWOOD
+- Address: 2688 CALHOUN ST
+- City: SHELLMAN
+- State: GA
+- ZIP: 39886
+- ZIP extension: 3050
+- State project ID: GA-08-010
+- Latitude: 31.747951
+- Longitude: -84.614057
+- County FIPS: 13243
+- County from: 2020
+- Tract 2020: 13243790100
+- Tract 2010: 13243790100
+- Tract 2000: 13243990100
+- Tract 1990: 13243990100
+- Place 2020: 70120
+- Place 2010: 70120
+- Place 2000: 70120
+- Place 1990: 2595
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000385.
+- Record status: Existing, unchanged

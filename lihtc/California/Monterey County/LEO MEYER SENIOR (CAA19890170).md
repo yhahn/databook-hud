@@ -1,0 +1,85 @@
+# Project: LEO MEYER SENIOR (CAA19890170)
+
+- HUD ID: CAA19890170
+- HUD ID before: 
+- Project: LEO MEYER SENIOR
+- Address: 425 QUEEN ST
+- City: KING CITY
+- State: CA
+- ZIP: 93930
+- ZIP extension: 
+- State project ID: CA-89-248
+- Latitude: 36.217806
+- Longitude: -121.132887
+- County FIPS: 06053
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06053011304
+- Tract 2000: 06053011301
+- Tract 1990: 06053011300
+- Place 2020: 
+- Place 2010: 38520
+- Place 2000: 38520
+- Place 1990: 1400
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 191400
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0000870.
+- Record status: Existing, unchanged

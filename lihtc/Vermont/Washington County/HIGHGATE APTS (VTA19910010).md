@@ -1,0 +1,85 @@
+# Project: HIGHGATE APTS (VTA19910010)
+
+- HUD ID: VTA19910010
+- HUD ID before: 
+- Project: HIGHGATE APTS
+- Address: 106 HIGHGATE DR
+- City: BARRE
+- State: VT
+- ZIP: 
+- ZIP extension: 
+- State project ID: 0074
+- Latitude: 44.2011
+- Longitude: -72.4974
+- County FIPS: 50023
+- County from: 2020
+- Tract 2020: 50023955100
+- Tract 2010: 50023955100
+- Tract 2000: 50023955200
+- Tract 1990: 50023955200
+- Place 2020: 03175
+- Place 2010: 03175
+- Place 2000: 03175
+- Place 1990: 0140
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 233968
+- Units: 120
+- Low-income units: 87
+- Units reported: 120
+- Low-income reported: 87
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 62
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

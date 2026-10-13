@@ -1,0 +1,85 @@
+# Project: POND VIEW III (MAB20110145)
+
+- HUD ID: MAB20110145
+- HUD ID before: 
+- Project: POND VIEW III
+- Address: 147 ESSEX AVE
+- City: GLOUCESTER
+- State: MA
+- ZIP: 01930
+- ZIP extension: 
+- State project ID: 2252
+- Latitude: 42.613894
+- Longitude: -70.689736
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009221902
+- Tract 2010: 25009221902
+- Tract 2000: 25009221900
+- Tract 1990: 25009221900
+- Place 2020: 26150
+- Place 2010: 26150
+- Place 2000: 26150
+- Place 1990: 1430
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 689303
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 21
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB20110145. FKA LEPAGE VILLAGE
+- Record status: Existing, unchanged

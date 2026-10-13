@@ -1,0 +1,85 @@
+# Project: CROWN HOMES OF PARSONS (KSA20050135)
+
+- HUD ID: KSA20050135
+- HUD ID before: 
+- Project: CROWN HOMES OF PARSONS
+- Address: 1900 BELMONT AVE
+- City: PARSONS
+- State: KS
+- ZIP: 67357
+- ZIP extension: 
+- State project ID: 60427
+- Latitude: 37.33884
+- Longitude: -95.264168
+- County FIPS: 20099
+- County from: 2020
+- Tract 2020: 20099950200
+- Tract 2010: 20099950200
+- Tract 2000: 20099950200
+- Tract 1990: 20099950200
+- Place 2020: 54675
+- Place 2010: 54675
+- Place 2000: 54675
+- Place 1990: 2245
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 121020
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2006040.
+- Record status: Existing, unchanged

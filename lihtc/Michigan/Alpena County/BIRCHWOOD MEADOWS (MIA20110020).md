@@ -1,0 +1,85 @@
+# Project: BIRCHWOOD MEADOWS (MIA20110020)
+
+- HUD ID: MIA20110020
+- HUD ID before: 
+- Project: BIRCHWOOD MEADOWS
+- Address: 2550 GRANT ST
+- City: ALPENA
+- State: MI
+- ZIP: 49707
+- ZIP extension: 
+- State project ID: MI-577
+- Latitude: 45.047012
+- Longitude: -83.459626
+- County FIPS: 26007
+- County from: 2020
+- Tract 2020: 26007000700
+- Tract 2010: 26007000700
+- Tract 2000: 26007000700
+- Tract 1990: 26007000700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 01740
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 227548
+- Units: 112
+- Low-income units: 104
+- Units reported: 112
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 38
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2809661
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA2011522.
+- Record status: Existing, unchanged

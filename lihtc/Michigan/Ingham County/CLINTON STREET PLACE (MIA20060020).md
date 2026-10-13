@@ -1,0 +1,85 @@
+# Project: CLINTON STREET PLACE (MIA20060020)
+
+- HUD ID: MIA20060020
+- HUD ID before: 
+- Project: CLINTON STREET PLACE
+- Address: 839 S CLINTON ST
+- City: STOCKBRIDGE
+- State: MI
+- ZIP: 49285
+- ZIP extension: 
+- State project ID: MI-3055
+- Latitude: 42.442649
+- Longitude: -84.179838
+- County FIPS: 26065
+- County from: 2020
+- Tract 2020: 26065006002
+- Tract 2010: 26065006002
+- Tract 2000: 26065006000
+- Tract 1990: 26065006000
+- Place 2020: 76560
+- Place 2010: 76560
+- Place 2000: 76560
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 48225
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1990085, MIA1990090.
+- Record status: Existing, unchanged

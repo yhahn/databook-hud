@@ -1,0 +1,85 @@
+# Project: CADILLAC SHORES (MIA20141001)
+
+- HUD ID: MIA20141001
+- HUD ID before: 
+- Project: CADILLAC SHORES
+- Address: 600 CADILLAC SHORES DRIVE
+- City: CADILLAC
+- State: MI
+- ZIP: 49601
+- ZIP extension: 0000
+- State project ID: 565
+- Latitude: 44.234898
+- Longitude: -85.410569
+- County FIPS: 26165
+- County from: 2020
+- Tract 2020: 26165380500
+- Tract 2010: 26165380500
+- Tract 2000: 26165980500
+- Tract 1990: 
+- Place 2020: 12320
+- Place 2010: 12320
+- Place 2000: 12320
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 259552
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 66
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 3744398
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

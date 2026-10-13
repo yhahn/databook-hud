@@ -1,0 +1,85 @@
+# Project: GOLD RUSH APTS PHASE I (AZA19980036)
+
+- HUD ID: AZA19980036
+- HUD ID before: 
+- Project: GOLD RUSH APTS PHASE I
+- Address: 2030 PROSPECTOR CT
+- City: BULLHEAD CITY
+- State: AZ
+- ZIP: 86442
+- ZIP extension: 
+- State project ID: TC-0118
+- Latitude: 35.106859
+- Longitude: -114.570625
+- County FIPS: 04015
+- County from: 2020
+- Tract 2020: 04015951504
+- Tract 2010: 04015951502
+- Tract 2000: 04015951500
+- Tract 1990: 04015951500
+- Place 2020: 08220
+- Place 2010: 08220
+- Place 2000: 08220
+- Place 1990: 0031
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA1998596, AZA1998030. AKA BELLA VITA I.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GARDENS OF TRAVILLE SENIOR APTS (MDA20040032)
+
+- HUD ID: MDA20040032
+- HUD ID before: 
+- Project: GARDENS OF TRAVILLE SENIOR APTS
+- Address: 14431 TRAVILLE GARDENS CIR
+- City: ROCKVILLE
+- State: MD
+- ZIP: 20850
+- ZIP extension: 
+- State project ID: MD02-15001
+- Latitude: 39.094614
+- Longitude: -77.20319
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031701221
+- Tract 2010: 24031701221
+- Tract 2000: 24031701209
+- Tract 1990: 24031701209
+- Place 2020: 56875
+- Place 2010: 56875
+- Place 2000: 56875
+- Place 1990: 0792
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 230
+- Low-income units: 187
+- Units reported: 230
+- Low-income reported: 187
+- Efficiencies: 0
+- 1-bedroom units: 118
+- 2-bedroom units: 112
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

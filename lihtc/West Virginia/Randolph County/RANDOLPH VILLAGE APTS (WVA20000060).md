@@ -1,0 +1,85 @@
+# Project: RANDOLPH VILLAGE APTS (WVA20000060)
+
+- HUD ID: WVA20000060
+- HUD ID before: 
+- Project: RANDOLPH VILLAGE APTS
+- Address: 302 NATHAN ST
+- City: ELKINS
+- State: WV
+- ZIP: 26241
+- ZIP extension: 
+- State project ID: WV-99-215
+- Latitude: 38.933146
+- Longitude: -79.866453
+- County FIPS: 54083
+- County from: 2020
+- Tract 2020: 54083966200
+- Tract 2010: 54083966200
+- Tract 2000: 54083966200
+- Tract 1990: 54083966200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 24580
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

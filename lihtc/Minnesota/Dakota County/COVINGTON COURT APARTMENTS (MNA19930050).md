@@ -1,0 +1,85 @@
+# Project: COVINGTON COURT APARTMENTS (MNA19930050)
+
+- HUD ID: MNA19930050
+- HUD ID before: 
+- Project: COVINGTON COURT APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: WEST SAINT PAUL
+- State: MN
+- ZIP: 55118
+- ZIP extension: 
+- State project ID: D1743
+- Latitude: 44.8977
+- Longitude: -93.1009
+- County FIPS: 27037
+- County from: 2020
+- Tract 2020: 27037060103
+- Tract 2010: 27037060103
+- Tract 2000: 27123034200
+- Tract 1990: 27123034200
+- Place 2020: 69700
+- Place 2010: 69700
+- Place 2000: 58000
+- Place 1990: 3425
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 158
+- Units reported: 160
+- Low-income reported: 158
+- Efficiencies: 0
+- 1-bedroom units: 100
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

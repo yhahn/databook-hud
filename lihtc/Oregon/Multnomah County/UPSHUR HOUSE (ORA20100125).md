@@ -1,0 +1,85 @@
+# Project: UPSHUR HOUSE (ORA20100125)
+
+- HUD ID: ORA20100125
+- HUD ID before: 
+- Project: UPSHUR HOUSE
+- Address: 2650 NW UPSHUR ST
+- City: PORTLAND
+- State: OR
+- ZIP: 97210
+- ZIP extension: 
+- State project ID: OR09-760
+- Latitude: 45.536272
+- Longitude: -122.705688
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051004500
+- Tract 2010: 41051004500
+- Tract 2000: 41051004500
+- Tract 1990: 41051004500
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 464993
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

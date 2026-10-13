@@ -1,0 +1,85 @@
+# Project: BERKSHIRE COURT APTS (LAA20020007)
+
+- HUD ID: LAA20020007
+- HUD ID before: 
+- Project: BERKSHIRE COURT APTS
+- Address: 2100 BLOCK N. HEARNE AVE
+- City: SHREVEPORT
+- State: LA
+- ZIP: 71101
+- ZIP extension: 0000
+- State project ID: LA-00-043
+- Latitude: 32.5112
+- Longitude: -93.7462
+- County FIPS: 22017
+- County from: 2020
+- Tract 2020: 22017025300
+- Tract 2010: 22017025300
+- Tract 2000: 22017020200
+- Tract 1990: 
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 29529
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

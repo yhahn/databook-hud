@@ -1,0 +1,85 @@
+# Project: GREENWAY APTS (NYB20110047)
+
+- HUD ID: NYB20110047
+- HUD ID before: 
+- Project: GREENWAY APTS
+- Address: 3134 BURRWOOD DR
+- City: BALDWINSVILLE
+- State: NY
+- ZIP: 13027
+- ZIP extension: 
+- State project ID: NY-11-2039
+- Latitude: 43.191392
+- Longitude: -76.290499
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067011401
+- Tract 2010: 36067011401
+- Tract 2000: 36067011401
+- Tract 1990: 36067011401
+- Place 2020: 60455
+- Place 2010: 99999
+- Place 2000: 04198
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 646062
+- Units: 208
+- Low-income units: 203
+- Units reported: 208
+- Low-income reported: 203
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

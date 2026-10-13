@@ -1,0 +1,85 @@
+# Project: CORTLAND CROWN HOMES (NYA20080085)
+
+- HUD ID: NYA20080085
+- HUD ID before: 
+- Project: CORTLAND CROWN HOMES
+- Address: 5 UNION ST
+- City: CORTLAND
+- State: NY
+- ZIP: 13045
+- ZIP extension: 
+- State project ID: 20060135
+- Latitude: 42.592825
+- Longitude: -76.180367
+- County FIPS: 36023
+- County from: 2020
+- Tract 2020: 36023970900
+- Tract 2010: 36023970900
+- Tract 2000: 36023990900
+- Tract 1990: 36023990900
+- Place 2020: 18388
+- Place 2010: 18388
+- Place 2000: 18388
+- Place 1990: 0820
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 581989
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 8
+- 3-bedroom units: 17
+- 4-bedroom units: 3
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1375000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

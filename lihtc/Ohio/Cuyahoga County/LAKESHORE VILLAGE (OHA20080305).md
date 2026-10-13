@@ -1,0 +1,85 @@
+# Project: LAKESHORE VILLAGE (OHA20080305)
+
+- HUD ID: OHA20080305
+- HUD ID before: 
+- Project: LAKESHORE VILLAGE
+- Address: 16111 LAKE SHORE BLVD
+- City: CLEVELAND
+- State: OH
+- ZIP: 44110
+- ZIP extension: 
+- State project ID: 080015
+- Latitude: 41.579827
+- Longitude: -81.568431
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035117201
+- Tract 2010: 39035117201
+- Tract 2000: 39035117201
+- Tract 1990: 39035117201
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 102
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 65
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2009100.
+- Record status: Existing, unchanged

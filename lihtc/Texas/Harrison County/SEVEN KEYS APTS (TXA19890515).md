@@ -1,0 +1,85 @@
+# Project: SEVEN KEYS APTS (TXA19890515)
+
+- HUD ID: TXA19890515
+- HUD ID before: 
+- Project: SEVEN KEYS APTS
+- Address: 2107 W PINECREST DR
+- City: MARSHALL
+- State: TX
+- ZIP: 75670
+- ZIP extension: 
+- State project ID: TX6782
+- Latitude: 32.526498
+- Longitude: -94.385915
+- County FIPS: 48203
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48203020402
+- Tract 2000: 48203020402
+- Tract 1990: 48203020402
+- Place 2020: 
+- Place 2010: 46776
+- Place 2000: 46776
+- Place 1990: 2690
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Existing
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

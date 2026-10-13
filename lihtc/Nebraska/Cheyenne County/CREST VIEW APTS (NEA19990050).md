@@ -1,0 +1,85 @@
+# Project: CREST VIEW APTS (NEA19990050)
+
+- HUD ID: NEA19990050
+- HUD ID before: 
+- Project: CREST VIEW APTS
+- Address: 2730 11TH AVE
+- City: SIDNEY
+- State: NE
+- ZIP: 69162
+- ZIP extension: 
+- State project ID: 67159
+- Latitude: 41.125131
+- Longitude: -102.976795
+- County FIPS: 31033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31033955000
+- Tract 2000: 31033955000
+- Tract 1990: 31033955000
+- Place 2020: 
+- Place 2010: 45295
+- Place 2000: 45295
+- Place 1990: 2230
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 74300
+- Units: 48
+- Low-income units: 36
+- Units reported: 48
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

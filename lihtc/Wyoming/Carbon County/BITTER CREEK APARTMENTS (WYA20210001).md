@@ -1,0 +1,85 @@
+# Project: BITTER CREEK APARTMENTS (WYA20210001)
+
+- HUD ID: WYA20210001
+- HUD ID before: 
+- Project: BITTER CREEK APARTMENTS
+- Address: 434 HUGUS STREET
+- City: RAWLINS
+- State: WY
+- ZIP: 82301
+- ZIP extension: 
+- State project ID: WY-20-699
+- Latitude: 41.783086
+- Longitude: -107.226605
+- County FIPS: 56007
+- County from: 2020
+- Tract 2020: 56007967700
+- Tract 2010: 56007967700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63900
+- Place 2010: 63900
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 27
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

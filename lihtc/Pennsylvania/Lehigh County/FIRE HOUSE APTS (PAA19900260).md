@@ -1,0 +1,85 @@
+# Project: FIRE HOUSE APTS (PAA19900260)
+
+- HUD ID: PAA19900260
+- HUD ID before: 
+- Project: FIRE HOUSE APTS
+- Address: 116 CHURCH ST
+- City: CATASAUQUA
+- State: PA
+- ZIP: 18032
+- ZIP extension: 
+- State project ID: PA-90-0107
+- Latitude: 40.653166
+- Longitude: -75.473153
+- County FIPS: 42077
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42077005901
+- Tract 2000: 42077005901
+- Tract 1990: 42077005901
+- Place 2020: 
+- Place 2010: 11720
+- Place 2000: 11720
+- Place 1990: 1640
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 5
+- Low-income units: 5
+- Units reported: 5
+- Low-income reported: 5
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

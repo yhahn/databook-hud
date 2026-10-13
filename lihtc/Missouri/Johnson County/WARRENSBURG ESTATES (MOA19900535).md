@@ -1,0 +1,85 @@
+# Project: WARRENSBURG ESTATES (MOA19900535)
+
+- HUD ID: MOA19900535
+- HUD ID before: 
+- Project: WARRENSBURG ESTATES
+- Address: 602 SPRING RIDGE RD
+- City: WARRENSBURG
+- State: MO
+- ZIP: 64093
+- ZIP extension: 
+- State project ID: 169081
+- Latitude: 38.757093
+- Longitude: -93.758941
+- County FIPS: 29101
+- County from: 2020
+- Tract 2020: 29101960402
+- Tract 2010: 29101960400
+- Tract 2000: 29101960400
+- Tract 1990: 29101960400
+- Place 2020: 77092
+- Place 2010: 99999
+- Place 2000: 77092
+- Place 1990: 4445
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

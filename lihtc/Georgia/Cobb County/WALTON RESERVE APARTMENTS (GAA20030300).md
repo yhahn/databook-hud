@@ -1,0 +1,85 @@
+# Project: WALTON RESERVE APARTMENTS (GAA20030300)
+
+- HUD ID: GAA20030300
+- HUD ID before: 
+- Project: WALTON RESERVE APARTMENTS
+- Address: 7075 WALTON RESERVE LN
+- City: AUSTELL
+- State: GA
+- ZIP: 30168
+- ZIP extension: 2504
+- State project ID: GA-02-52(B)
+- Latitude: 33.782062
+- Longitude: -84.602462
+- County FIPS: 13067
+- County from: 2020
+- Tract 2020: 13067031320
+- Tract 2010: 13067031310
+- Tract 2000: 13067031310
+- Tract 1990: 13067031305
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 635961
+- Units: 249
+- Low-income units: 249
+- Units reported: 249
+- Low-income reported: 249
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 160
+- 3-bedroom units: 58
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2004050.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUNSET BAY (FLA20020235)
+
+- HUD ID: FLA20020235
+- HUD ID before: 
+- Project: SUNSET BAY
+- Address: 10030 SW 224TH ST
+- City: CUTLER BAY
+- State: FL
+- ZIP: 33190
+- ZIP extension: 
+- State project ID: 835
+- Latitude: 25.558976
+- Longitude: -80.353005
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010626
+- Tract 2010: 12086010617
+- Tract 2000: 12086010602
+- Tract 1990: 12025010602
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 15975
+- Place 1990: 0758
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 308
+- Low-income units: 308
+- Units reported: 308
+- Low-income reported: 308
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 149
+- 3-bedroom units: 114
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

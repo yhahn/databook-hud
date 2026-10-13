@@ -1,0 +1,85 @@
+# Project: SUMMIT CREST APARTMENTS (NVA20070020)
+
+- HUD ID: NVA20070020
+- HUD ID before: 
+- Project: SUMMIT CREST APARTMENTS
+- Address: 921 MICA DRIVE
+- City: CARSON CITY
+- State: NV
+- ZIP: 89705
+- ZIP extension: 0000
+- State project ID: 06-07
+- Latitude: 39.091098
+- Longitude: -119.778977
+- County FIPS: 32005
+- County from: 2020
+- Tract 2020: 32005002000
+- Tract 2010: 32005002000
+- Tract 2000: 32005000200
+- Tract 1990: 32005000298
+- Place 2020: 35275
+- Place 2010: 35275
+- Place 2000: 35275
+- Place 1990: 0061
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 496077
+- Units: 28
+- Low-income units: 27
+- Units reported: 28
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 150000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

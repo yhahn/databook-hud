@@ -1,0 +1,85 @@
+# Project: WESTRIDGE APARTMENTS (ARA20030100)
+
+- HUD ID: ARA20030100
+- HUD ID before: 
+- Project: WESTRIDGE APARTMENTS
+- Address: 202 SHANNON RD
+- City: GRADY
+- State: AR
+- ZIP: 71644
+- ZIP extension: 
+- State project ID: AR-03-23
+- Latitude: 34.068837
+- Longitude: -91.701881
+- County FIPS: 05079
+- County from: 2020
+- Tract 2020: 05079960600
+- Tract 2010: 05079960600
+- Tract 2000: 05079960200
+- Tract 1990: 05079960200
+- Place 2020: 27790
+- Place 2010: 27790
+- Place 2000: 27730
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 33716
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 4
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

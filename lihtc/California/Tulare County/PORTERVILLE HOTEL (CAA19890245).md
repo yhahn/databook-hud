@@ -1,0 +1,85 @@
+# Project: PORTERVILLE HOTEL (CAA19890245)
+
+- HUD ID: CAA19890245
+- HUD ID before: 
+- Project: PORTERVILLE HOTEL
+- Address: 14 N MAIN ST
+- City: PORTERVILLE
+- State: CA
+- ZIP: 93257
+- ZIP extension: 
+- State project ID: CA-89-041
+- Latitude: 36.065268
+- Longitude: -119.016142
+- County FIPS: 06107
+- County from: 2020
+- Tract 2020: 06107003802
+- Tract 2010: 06107003802
+- Tract 2000: 06107003802
+- Tract 1990: 06107003800
+- Place 2020: 58240
+- Place 2010: 58240
+- Place 2000: 58240
+- Place 1990: 2245
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 179538
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0001225.
+- Record status: Existing, unchanged

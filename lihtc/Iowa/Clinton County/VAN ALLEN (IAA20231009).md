@@ -1,0 +1,85 @@
+# Project: VAN ALLEN (IAA20231009)
+
+- HUD ID: IAA20231009
+- HUD ID before: 
+- Project: VAN ALLEN
+- Address: 200 5TH AVE S
+- City: CLINTON
+- State: IA
+- ZIP: 52732
+- ZIP extension: 4309
+- State project ID: 21-11
+- Latitude: 41.841371
+- Longitude: -90.188257
+- County FIPS: 19045
+- County from: 2020
+- Tract 2020: 19045000100
+- Tract 2010: 19045000100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14430
+- Place 2010: 14430
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 207524
+- Units: 19
+- Low-income units: 17
+- Units reported: 19
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

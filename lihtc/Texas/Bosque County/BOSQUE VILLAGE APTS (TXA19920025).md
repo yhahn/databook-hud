@@ -1,0 +1,85 @@
+# Project: BOSQUE VILLAGE APTS (TXA19920025)
+
+- HUD ID: TXA19920025
+- HUD ID before: 
+- Project: BOSQUE VILLAGE APTS
+- Address: 110 S AVE M
+- City: CLIFTON
+- State: TX
+- ZIP: 76634
+- ZIP extension: 
+- State project ID: TX1025
+- Latitude: 31.780091
+- Longitude: -97.582297
+- County FIPS: 48035
+- County from: 2020
+- Tract 2020: 48035950500
+- Tract 2010: 48035950500
+- Tract 2000: 48035950500
+- Tract 1990: 48035950700
+- Place 2020: 15472
+- Place 2010: 15472
+- Place 2000: 15472
+- Place 1990: 0870
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA1989275. AKA BOSQUE VILLAGE APTS PAR.
+- Record status: Existing, unchanged

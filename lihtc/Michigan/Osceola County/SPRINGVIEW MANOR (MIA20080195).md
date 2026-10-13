@@ -1,0 +1,85 @@
+# Project: SPRINGVIEW MANOR (MIA20080195)
+
+- HUD ID: MIA20080195
+- HUD ID before: 
+- Project: SPRINGVIEW MANOR
+- Address: 479 W JEFFERSON ST
+- City: EVART
+- State: MI
+- ZIP: 49631
+- ZIP extension: 
+- State project ID: MI-1835
+- Latitude: 43.910198
+- Longitude: -85.264182
+- County FIPS: 26133
+- County from: 2020
+- Tract 2020: 26133970400
+- Tract 2010: 26133970400
+- Tract 2000: 26133970400
+- Tract 1990: 26133970400
+- Place 2020: 26640
+- Place 2010: 26640
+- Place 2000: 26640
+- Place 1990: 0860
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 49342
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1989265.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PERLEY PLACE (NHA19970070)
+
+- HUD ID: NHA19970070
+- HUD ID before: 
+- Project: PERLEY PLACE
+- Address: 64 PERLEY ST
+- City: CONCORD
+- State: NH
+- ZIP: 03301
+- ZIP extension: 
+- State project ID: 63
+- Latitude: 43.196065
+- Longitude: -71.538056
+- County FIPS: 33013
+- County from: 2020
+- Tract 2020: 33013032200
+- Tract 2010: 33013032200
+- Tract 2000: 33013032200
+- Tract 1990: 33013032200
+- Place 2020: 14200
+- Place 2010: 14200
+- Place 2000: 14200
+- Place 1990: 0520
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 3
+- 3-bedroom units: 4
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

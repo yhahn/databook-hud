@@ -1,0 +1,85 @@
+# Project: 822 EVERHARD ST (MIA19880030)
+
+- HUD ID: MIA19880030
+- HUD ID before: 
+- Project: 822 EVERHARD ST
+- Address: 822 EVERHARD ST
+- City: JACKSON
+- State: MI
+- ZIP: 49203
+- ZIP extension: 
+- State project ID: MI-1623
+- Latitude: 42.240239
+- Longitude: -84.401822
+- County FIPS: 26075
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26075001100
+- Tract 2000: 26075001100
+- Tract 1990: 26075001100
+- Place 2020: 
+- Place 2010: 41420
+- Place 2000: 41420
+- Place 1990: 1360
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

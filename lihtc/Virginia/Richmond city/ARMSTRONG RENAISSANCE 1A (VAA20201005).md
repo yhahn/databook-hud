@@ -1,0 +1,85 @@
+# Project: ARMSTRONG RENAISSANCE 1A (VAA20201005)
+
+- HUD ID: VAA20201005
+- HUD ID before: 
+- Project: ARMSTRONG RENAISSANCE 1A
+- Address: 1665 NORTH 31ST STREET
+- City: RICHMOND
+- State: VA
+- ZIP: 23223
+- ZIP extension: 
+- State project ID: 9716
+- Latitude: 37.540677
+- Longitude: -77.401197
+- County FIPS: 51760
+- County from: 2020
+- Tract 2020: 51760020900
+- Tract 2010: 51760020900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 775127
+- Units: 60
+- Low-income units: 50
+- Units reported: 60
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 8
+- 2-bedroom units: 33
+- 3-bedroom units: 19
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 38
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

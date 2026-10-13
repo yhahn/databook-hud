@@ -1,0 +1,85 @@
+# Project: AUBURN APTS (MSA19910010)
+
+- HUD ID: MSA19910010
+- HUD ID before: 
+- Project: AUBURN APTS
+- Address: 206 IVY AVE
+- City: LOUISVILLE
+- State: MS
+- ZIP: 39339
+- ZIP extension: 
+- State project ID: MS-91-003
+- Latitude: 33.135518
+- Longitude: -89.05294
+- County FIPS: 28159
+- County from: 2020
+- Tract 2020: 28159950400
+- Tract 2010: 28159950400
+- Tract 2000: 28159950400
+- Tract 1990: 28159950400
+- Place 2020: 42280
+- Place 2010: 42280
+- Place 2000: 42280
+- Place 1990: 0705
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

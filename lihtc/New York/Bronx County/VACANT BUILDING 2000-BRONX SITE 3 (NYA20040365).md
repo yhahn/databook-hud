@@ -1,0 +1,85 @@
+# Project: VACANT BUILDING 2000-BRONX SITE 3 (NYA20040365)
+
+- HUD ID: NYA20040365
+- HUD ID before: 
+- Project: VACANT BUILDING 2000-BRONX SITE 3
+- Address: 958 PROSPECT AVE
+- City: BRONX
+- State: NY
+- ZIP: 10459
+- ZIP extension: 
+- State project ID: 20010866
+- Latitude: 40.822586
+- Longitude: -73.900171
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005012901
+- Tract 2010: 36005012901
+- Tract 2000: 36005012901
+- Tract 1990: 36005012901
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 375473
+- Units: 32
+- Low-income units: 2
+- Units reported: 32
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

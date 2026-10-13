@@ -1,0 +1,85 @@
+# Project: GUARDIAN MANOR (NDA19970020)
+
+- HUD ID: NDA19970020
+- HUD ID before: 
+- Project: GUARDIAN MANOR
+- Address: 3205 FOURTH ST SW
+- City: MINOT
+- State: ND
+- ZIP: 58701
+- ZIP extension: 
+- State project ID: 96-07
+- Latitude: 48.201164
+- Longitude: -101.298673
+- County FIPS: 38101
+- County from: 2020
+- Tract 2020: 38101010601
+- Tract 2010: 38101010600
+- Tract 2000: 38101010600
+- Tract 1990: 38101010600
+- Place 2020: 53380
+- Place 2010: 53380
+- Place 2000: 53380
+- Place 1990: 1140
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 104182
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

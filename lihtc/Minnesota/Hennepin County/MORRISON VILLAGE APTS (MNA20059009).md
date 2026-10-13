@@ -1,0 +1,85 @@
+# Project: MORRISON VILLAGE APTS (MNA20059009)
+
+- HUD ID: MNA20059009
+- HUD ID before: 
+- Project: MORRISON VILLAGE APTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55408
+- ZIP extension: 
+- State project ID: D0882
+- Latitude: 44.9452
+- Longitude: -93.2932
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053008100
+- Tract 2010: 27053008100
+- Tract 2000: 27053007801
+- Tract 1990: 27053007100
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 2585
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 57
+- Low-income units: 52
+- Units reported: 57
+- Low-income reported: 52
+- Efficiencies: 8
+- 1-bedroom units: 4
+- 2-bedroom units: 24
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA1988095.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUWANEE HOUSE (GAA19960804)
+
+- HUD ID: GAA19960804
+- HUD ID before: 
+- Project: SUWANEE HOUSE
+- Address: 101 S 7TH ST
+- City: CORDELE
+- State: GA
+- ZIP: 31015
+- ZIP extension: 4206
+- State project ID: GA-94-005
+- Latitude: 31.968619
+- Longitude: -83.782868
+- County FIPS: 13081
+- County from: 2020
+- Tract 2020: 13081010300
+- Tract 2010: 13081010300
+- Tract 2000: 13081980300
+- Tract 1990: 13081980300
+- Place 2020: 19616
+- Place 2010: 19616
+- Place 2000: 19616
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

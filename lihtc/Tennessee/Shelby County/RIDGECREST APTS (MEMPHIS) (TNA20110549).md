@@ -1,0 +1,85 @@
+# Project: RIDGECREST APTS (MEMPHIS) (TNA20110549)
+
+- HUD ID: TNA20110549
+- HUD ID before: 
+- Project: RIDGECREST APTS (MEMPHIS)
+- Address: 2532 WOODCLIFF DR
+- City: MEMPHIS
+- State: TN
+- ZIP: 38127
+- ZIP extension: 
+- State project ID: TN-08-204
+- Latitude: 35.204263
+- Longitude: -89.978439
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157010220
+- Tract 2010: 47157010220
+- Tract 2000: 47157010220
+- Tract 1990: 47157010220
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 413395
+- Units: 256
+- Low-income units: 256
+- Units reported: 256
+- Low-income reported: 256
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 112
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 2947279
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2011090.
+- Record status: Existing, unchanged

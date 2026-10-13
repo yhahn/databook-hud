@@ -1,0 +1,85 @@
+# Project: MIDWAY MANOR APTS (SCA20100078)
+
+- HUD ID: SCA20100078
+- HUD ID before: 
+- Project: MIDWAY MANOR APTS
+- Address: 199 MILL ST
+- City: PELZER
+- State: SC
+- ZIP: 29669
+- ZIP extension: 
+- State project ID: SC-50-838
+- Latitude: 34.648847
+- Longitude: -82.471683
+- County FIPS: 45007
+- County from: 2020
+- Tract 2020: 45007010300
+- Tract 2010: 45007010300
+- Tract 2000: 45007010300
+- Tract 1990: 45007010300
+- Place 2020: 76345
+- Place 2010: 76345
+- Place 2000: 55465
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 112777
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 38
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NEW MIDWAY MANOR APTS.
+- Record status: Existing, unchanged

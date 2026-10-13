@@ -1,0 +1,85 @@
+# Project: JAMAICA PLAIN APTS (MAB20110110)
+
+- HUD ID: MAB20110110
+- HUD ID before: 
+- Project: JAMAICA PLAIN APTS
+- Address: 48 SCHOOL ST
+- City: BOSTON
+- State: MA
+- ZIP: 02108
+- ZIP extension: 
+- State project ID: 00-200
+- Latitude: 42.357637
+- Longitude: -71.059852
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025070102
+- Tract 2010: 25025070101
+- Tract 2000: 25025070100
+- Tract 1990: 25025070100
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 103
+- Low-income units: 103
+- Units reported: 103
+- Low-income reported: 103
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 20
+- 3-bedroom units: 53
+- 4-bedroom units: 21
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 9940517
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB20110110, MAB1993075.
+- Record status: Existing, unchanged

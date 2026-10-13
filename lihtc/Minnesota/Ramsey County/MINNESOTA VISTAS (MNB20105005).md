@@ -1,0 +1,85 @@
+# Project: MINNESOTA VISTAS (MNB20105005)
+
+- HUD ID: MNB20105005
+- HUD ID before: 
+- Project: MINNESOTA VISTAS
+- Address: 46 EAST FOURTH STREET
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55101
+- ZIP extension: 1121
+- State project ID: D5961
+- Latitude: 44.945272
+- Longitude: -93.092415
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123034201
+- Tract 2010: 27123034201
+- Tract 2000: 27123034200
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 58000
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 297833
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 8
+- 1-bedroom units: 49
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 3113939
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

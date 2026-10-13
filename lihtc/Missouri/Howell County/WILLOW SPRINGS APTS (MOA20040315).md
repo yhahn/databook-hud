@@ -1,0 +1,85 @@
+# Project: WILLOW SPRINGS APTS (MOA20040315)
+
+- HUD ID: MOA20040315
+- HUD ID before: 
+- Project: WILLOW SPRINGS APTS
+- Address: 2700 STATE RTE 76
+- City: WILLOW SPRINGS
+- State: MO
+- ZIP: 65793
+- ZIP extension: 
+- State project ID: MO-03-032
+- Latitude: 36.982212
+- Longitude: -91.986458
+- County FIPS: 29091
+- County from: 2020
+- Tract 2020: 29091090101
+- Tract 2010: 29091090100
+- Tract 2000: 29091990100
+- Tract 1990: 29091990100
+- Place 2020: 80098
+- Place 2010: 80098
+- Place 2000: 80098
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

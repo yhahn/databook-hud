@@ -1,0 +1,85 @@
+# Project: HAYMARKET LOFTS (WIA20171010)
+
+- HUD ID: WIA20171010
+- HUD ID before: 
+- Project: HAYMARKET LOFTS
+- Address: 1300 N VEL R PHILLIPS AVE- 1ST FLOOR
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53212
+- ZIP extension: 
+- State project ID: 6121
+- Latitude: 43.047357
+- Longitude: -87.915633
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079014100
+- Tract 2010: 55079014100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 791814
+- Units: 72
+- Low-income units: 60
+- Units reported: 72
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 29
+- 3-bedroom units: 20
+- 4-bedroom units: 9
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

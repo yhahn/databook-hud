@@ -1,0 +1,85 @@
+# Project: WILLOE ROCK APTS (OKA00000550)
+
+- HUD ID: OKA00000550
+- HUD ID before: 
+- Project: WILLOE ROCK APTS
+- Address: 5700 HAZEL RD
+- City: BARTLESVILLE
+- State: OK
+- ZIP: 74006
+- ZIP extension: 
+- State project ID: OK-88-1104-026
+- Latitude: 36.737791
+- Longitude: -95.910446
+- County FIPS: 40147
+- County from: 2020
+- Tract 2020: 40147000601
+- Tract 2010: 40147000600
+- Tract 2000: 40147000600
+- Tract 1990: 40147000600
+- Place 2020: 04450
+- Place 2010: 04450
+- Place 2000: 04450
+- Place 1990: 0145
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

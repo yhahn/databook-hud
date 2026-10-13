@@ -1,0 +1,85 @@
+# Project: CHAPEL RIDGE OF FORT SMITH (ARA20000724)
+
+- HUD ID: ARA20000724
+- HUD ID before: 
+- Project: CHAPEL RIDGE OF FORT SMITH
+- Address: 7500 JENNY LIND RD
+- City: FORT SMITH
+- State: AR
+- ZIP: 72908
+- ZIP extension: 
+- State project ID: PRAR-99-11
+- Latitude: 35.314335
+- Longitude: -94.41325
+- County FIPS: 05131
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05131001303
+- Tract 2000: 05131001303
+- Tract 1990: 05131001303
+- Place 2020: 
+- Place 2010: 24550
+- Place 2000: 24550
+- Place 1990: 0700
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 250000
+- Units: 84
+- Low-income units: 66
+- Units reported: 84
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 32
+- 3-bedroom units: 16
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2000006.
+- Record status: Existing, unchanged

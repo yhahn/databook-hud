@@ -1,0 +1,85 @@
+# Project: FAIRFIELD RETIREMENT (TXA19900180)
+
+- HUD ID: TXA19900180
+- HUD ID before: 
+- Project: FAIRFIELD RETIREMENT
+- Address: 216 OAK ST
+- City: FAIRFIELD
+- State: TX
+- ZIP: 75840
+- ZIP extension: 
+- State project ID: TX6785
+- Latitude: 31.724633
+- Longitude: -96.146307
+- County FIPS: 48161
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48161000100
+- Tract 2000: 48161980200
+- Tract 1990: 48161980200
+- Place 2020: 
+- Place 2010: 25104
+- Place 2000: 25104
+- Place 1990: 1405
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

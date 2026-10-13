@@ -1,0 +1,85 @@
+# Project: ADAMS CROSSING II (MDA20170001)
+
+- HUD ID: MDA20170001
+- HUD ID before: 
+- Project: ADAMS CROSSING II
+- Address: 12330 VIVIAN ADAMS DRIVE
+- City: WALDORF
+- State: MD
+- ZIP: 20601
+- ZIP extension: 
+- State project ID: MD-15-27
+- Latitude: 38.622732
+- Longitude: -76.885741
+- County FIPS: 24017
+- County from: 2020
+- Tract 2020: 24017850802
+- Tract 2010: 24017850802
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 81175
+- Place 2010: 81175
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 429235
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 
+- 1-bedroom units: 0
+- 2-bedroom units: 84
+- 3-bedroom units: 36
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

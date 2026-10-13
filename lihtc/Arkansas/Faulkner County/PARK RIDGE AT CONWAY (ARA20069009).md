@@ -1,0 +1,85 @@
+# Project: PARK RIDGE AT CONWAY (ARA20069009)
+
+- HUD ID: ARA20069009
+- HUD ID before: 
+- Project: PARK RIDGE AT CONWAY
+- Address: 1930 RICH SMITH LN
+- City: CONWAY
+- State: AR
+- ZIP: 72032
+- ZIP extension: 
+- State project ID: 378
+- Latitude: 35.099936
+- Longitude: -92.399858
+- County FIPS: 05045
+- County from: 2020
+- Tract 2020: 05045030403
+- Tract 2010: 05045030403
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 15190
+- Place 2010: 15190
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 300000
+- Units: 48
+- Low-income units: 38
+- Units reported: 48
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

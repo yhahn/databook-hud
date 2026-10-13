@@ -1,0 +1,22 @@
+# Tax Credit Projects: Franklin County, AR
+
+- Level: County
+- Postal code: AR
+- State FIPS: 05
+- County FIPS: 05047
+- Counties: 
+- Projects: 5
+- Units: 195
+- Low-income units: 194
+
+The low-income housing tax credit projects of Franklin County, Arkansas, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [SAVANNAH PARK OF ALTUS FKA SUNNYFIELD APARTME (ARA19940631)](./Franklin%20County/SAVANNAH%20PARK%20OF%20ALTUS%20FKA%20SUNNYFIELD%20APARTME%20%28ARA19940631%29.md) | ARA19940631 | ALTUS | 1994 | 22 | 22 |
+| [GARDEN WALK OF OZARK FKA HILLVIEW (ARA20010739)](./Franklin%20County/GARDEN%20WALK%20OF%20OZARK%20FKA%20HILLVIEW%20%28ARA20010739%29.md) | ARA20010739 | OZARK | 2001 | 24 | 24 |
+| [GARDEN WALK ON 2ND (ARA20152004)](./Franklin%20County/GARDEN%20WALK%20ON%202ND%20%28ARA20152004%29.md) | ARA20152004 | OZARK | 2015 | 45 | 44 |
+| [SAVANNAH PARK OF CHARLESTON I & II (ARA20173016)](./Franklin%20County/SAVANNAH%20PARK%20OF%20CHARLESTON%20I%20%26%20II%20%28ARA20173016%29.md) | ARA20173016 | CHARLESTON | 2017 | 52 | 52 |
+| [SAVANNAH PARK OF CHARLESTON I AND II (ARA20174022)](./Franklin%20County/SAVANNAH%20PARK%20OF%20CHARLESTON%20I%20AND%20II%20%28ARA20174022%29.md) | ARA20174022 | CHARLESTON | 2017 | 52 | 52 |

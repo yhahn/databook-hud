@@ -1,0 +1,85 @@
+# Project: ONE GREENWAY FKA PARCEL 24 AFF RENTAL(FKA PHI+ II) (MAB20150018)
+
+- HUD ID: MAB20150018
+- HUD ID before: 
+- Project: ONE GREENWAY FKA PARCEL 24 AFF RENTAL(FKA PHI+ II)
+- Address: KNEELAND AND HUDSON STREETS
+- City: BOSTON
+- State: MA
+- ZIP: 02111
+- ZIP extension: 
+- State project ID: 3200
+- Latitude: 42.3511
+- Longitude: -71.0559
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025070202
+- Tract 2010: 25025070101
+- Tract 2000: 25025070100
+- Tract 1990: 
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 2306628
+- Units: 95
+- Low-income units: 95
+- Units reported: 95
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 50
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1500000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

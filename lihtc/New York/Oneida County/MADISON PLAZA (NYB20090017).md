@@ -1,0 +1,85 @@
+# Project: MADISON PLAZA (NYB20090017)
+
+- HUD ID: NYB20090017
+- HUD ID before: 
+- Project: MADISON PLAZA
+- Address: 100 N MADISON ST
+- City: ROME
+- State: NY
+- ZIP: 13440
+- ZIP extension: 
+- State project ID: NY-09-1883
+- Latitude: 43.214344
+- Longitude: -75.46318
+- County FIPS: 36065
+- County from: 2020
+- Tract 2020: 36065026300
+- Tract 2010: 36065026300
+- Tract 2000: 36065021800
+- Tract 1990: 36065021800
+- Place 2020: 63418
+- Place 2010: 63418
+- Place 2000: 63418
+- Place 1990: 3120
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 388595
+- Units: 127
+- Low-income units: 120
+- Units reported: 127
+- Low-income reported: 120
+- Efficiencies: 29
+- 1-bedroom units: 48
+- 2-bedroom units: 50
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 5368171
+- TCEP: Yes
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYB2009501.
+- Record status: Existing, unchanged

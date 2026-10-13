@@ -1,0 +1,85 @@
+# Project: CRYSTAL ESTATES (MSA20110020)
+
+- HUD ID: MSA20110020
+- HUD ID before: 
+- Project: CRYSTAL ESTATES
+- Address: 105 BUIE DR
+- City: CRYSTAL SPRINGS
+- State: MS
+- ZIP: 39059
+- ZIP extension: 
+- State project ID: MS-07-2-064
+- Latitude: 31.9856
+- Longitude: -90.3295
+- County FIPS: 28029
+- County from: 2020
+- Tract 2020: 28029950101
+- Tract 2010: 28029950100
+- Tract 2000: 28029950100
+- Tract 1990: 28029950100
+- Place 2020: 17060
+- Place 2010: 17060
+- Place 2000: 17060
+- Place 1990: 0310
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 908772
+- Units: 50
+- Low-income units: 48
+- Units reported: 50
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 24
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2011687.
+- Record status: Existing, unchanged

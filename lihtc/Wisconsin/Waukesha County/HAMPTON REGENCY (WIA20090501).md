@@ -1,0 +1,85 @@
+# Project: HAMPTON REGENCY (WIA20090501)
+
+- HUD ID: WIA20090501
+- HUD ID before: 
+- Project: HAMPTON REGENCY
+- Address: 12999 W HAMPTON AVE
+- City: BUTLER
+- State: WI
+- ZIP: 53007
+- ZIP extension: 
+- State project ID: 5447
+- Latitude: 43.10449
+- Longitude: -88.074871
+- County FIPS: 55133
+- County from: 2020
+- Tract 2020: 55133200600
+- Tract 2010: 55133200600
+- Tract 2000: 55133200600
+- Tract 1990: 55133200600
+- Place 2020: 11475
+- Place 2010: 11475
+- Place 2000: 11475
+- Place 1990: 0395
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 613959
+- Units: 120
+- Low-income units: 2
+- Units reported: 120
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

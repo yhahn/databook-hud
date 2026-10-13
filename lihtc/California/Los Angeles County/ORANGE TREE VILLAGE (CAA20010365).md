@@ -1,0 +1,85 @@
+# Project: ORANGE TREE VILLAGE (CAA20010365)
+
+- HUD ID: CAA20010365
+- HUD ID before: 
+- Project: ORANGE TREE VILLAGE
+- Address: 2418 E EL SEGUNDO BLVD
+- City: COMPTON
+- State: CA
+- ZIP: 90222
+- ZIP extension: 
+- State project ID: CA-99-251
+- Latitude: 33.916039
+- Longitude: -118.227963
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037541500
+- Tract 2010: 06037541500
+- Tract 2000: 06037541500
+- Tract 1990: 06037541500
+- Place 2020: 85614
+- Place 2010: 85614
+- Place 2000: 85614
+- Place 1990: 3121
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 363728
+- Units: 21
+- Low-income units: 20
+- Units reported: 21
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

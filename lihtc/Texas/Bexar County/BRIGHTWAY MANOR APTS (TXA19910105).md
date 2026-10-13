@@ -1,0 +1,85 @@
+# Project: BRIGHTWAY MANOR APTS (TXA19910105)
+
+- HUD ID: TXA19910105
+- HUD ID before: 
+- Project: BRIGHTWAY MANOR APTS
+- Address: 322 RECOLETA RD
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78216
+- ZIP extension: 
+- State project ID: TX6632
+- Latitude: 29.493429
+- Longitude: -98.497989
+- County FIPS: 48029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48029190901
+- Tract 2000: 48029190901
+- Tract 1990: 48029190900
+- Place 2020: 
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3745
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 2
+- 1-bedroom units: 9
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

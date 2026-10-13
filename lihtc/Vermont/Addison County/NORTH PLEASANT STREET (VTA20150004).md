@@ -1,0 +1,85 @@
+# Project: NORTH PLEASANT STREET (VTA20150004)
+
+- HUD ID: VTA20150004
+- HUD ID before: 
+- Project: NORTH PLEASANT STREET
+- Address: 31, 51, 56 JOHN GRAHAM COURT
+- City: MIDDLEBURY
+- State: VT
+- ZIP: 05753
+- ZIP extension: 
+- State project ID: 471
+- Latitude: 44.016063
+- Longitude: -73.166478
+- County FIPS: 50001
+- County from: 2020
+- Tract 2020: 50001960700
+- Tract 2010: 50001960700
+- Tract 2000: 50001960700
+- Tract 1990: 
+- Place 2020: 44275
+- Place 2010: 44275
+- Place 2000: 44275
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 395000
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 1
+- 1-bedroom units: 5
+- 2-bedroom units: 13
+- 3-bedroom units: 2
+- 4-bedroom units: 1
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 328108
+- CDBG: Yes
+- CDBG amount: 620000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

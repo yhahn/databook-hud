@@ -1,0 +1,85 @@
+# Project: RIVER PAUAHI APARTMENTS (HIA20161005)
+
+- HUD ID: HIA20161005
+- HUD ID before: 
+- Project: RIVER PAUAHI APARTMENTS
+- Address: 1155 RIVER STREET
+- City: HONOLULU
+- State: HI
+- ZIP: 96817
+- ZIP extension: 
+- State project ID: HI-2016-001
+- Latitude: 21.313691
+- Longitude: -157.862592
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003005200
+- Tract 2010: 15003005200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71550
+- Place 2010: 71550
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 417094
+- Units: 49
+- Low-income units: 48
+- Units reported: 49
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

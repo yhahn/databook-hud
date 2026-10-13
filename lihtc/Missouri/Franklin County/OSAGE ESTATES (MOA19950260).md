@@ -1,0 +1,85 @@
+# Project: OSAGE ESTATES (MOA19950260)
+
+- HUD ID: MOA19950260
+- HUD ID before: 
+- Project: OSAGE ESTATES
+- Address: 2615 LISA LN
+- City: PACIFIC
+- State: MO
+- ZIP: 63069
+- ZIP extension: 
+- State project ID: 94003
+- Latitude: 38.484571
+- Longitude: -90.776043
+- County FIPS: 29071
+- County from: 2020
+- Tract 2020: 29071800704
+- Tract 2010: 29071800701
+- Tract 2000: 29071800701
+- Tract 1990: 29071800700
+- Place 2020: 55910
+- Place 2010: 55910
+- Place 2000: 28918
+- Place 1990: 3290
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 48
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

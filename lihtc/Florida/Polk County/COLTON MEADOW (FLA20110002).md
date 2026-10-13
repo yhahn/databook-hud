@@ -1,0 +1,85 @@
+# Project: COLTON MEADOW (FLA20110002)
+
+- HUD ID: FLA20110002
+- HUD ID before: 
+- Project: COLTON MEADOW
+- Address: 1919 W TENTH ST
+- City: LAKELAND
+- State: FL
+- ZIP: 33805
+- ZIP extension: 
+- State project ID: 2224
+- Latitude: 28.062454
+- Longitude: -81.985759
+- County FIPS: 12105
+- County from: 2020
+- Tract 2020: 12105011100
+- Tract 2010: 12105011100
+- Tract 2000: 12105011100
+- Tract 1990: 12105011100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 38250
+- Place 1990: 1136
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 50
+- 3-bedroom units: 20
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 155900
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 10050213
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2010023, FLA2010504.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GEORGIA AYERS (FLA20138098)
+
+- HUD ID: FLA20138098
+- HUD ID before: 
+- Project: GEORGIA AYERS
+- Address: 13280 PORT SAID ROAD
+- City: OPA LOCKA
+- State: FL
+- ZIP: 33054
+- ZIP extension: 
+- State project ID: 2399
+- Latitude: 25.894965
+- Longitude: -80.252865
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086000508
+- Tract 2010: 12086000503
+- Tract 2000: 12086000503
+- Tract 1990: 12025000503
+- Place 2020: 51650
+- Place 2010: 51650
+- Place 2000: 30000
+- Place 1990: 1585
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 542020
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

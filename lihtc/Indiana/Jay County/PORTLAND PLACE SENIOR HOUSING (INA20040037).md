@@ -1,0 +1,85 @@
+# Project: PORTLAND PLACE SENIOR HOUSING (INA20040037)
+
+- HUD ID: INA20040037
+- HUD ID before: 
+- Project: PORTLAND PLACE SENIOR HOUSING
+- Address: 430 W LAFAYETTE ST
+- City: PORTLAND
+- State: IN
+- ZIP: 47371
+- ZIP extension: 
+- State project ID: IN-02-02200
+- Latitude: 40.444843
+- Longitude: -84.985061
+- County FIPS: 18075
+- County from: 2020
+- Tract 2020: 18075963100
+- Tract 2010: 18075963100
+- Tract 2000: 18075963100
+- Tract 1990: 18075963100
+- Place 2020: 61236
+- Place 2010: 61236
+- Place 2000: 61236
+- Place 1990: 2090
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 27
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

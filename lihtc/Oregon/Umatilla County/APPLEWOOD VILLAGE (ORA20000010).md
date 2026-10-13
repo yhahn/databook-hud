@@ -1,0 +1,85 @@
+# Project: APPLEWOOD VILLAGE (ORA20000010)
+
+- HUD ID: ORA20000010
+- HUD ID before: 
+- Project: APPLEWOOD VILLAGE
+- Address: 595 NW 12TH ST
+- City: HERMISTON
+- State: OR
+- ZIP: 97838
+- ZIP extension: 
+- State project ID: 641
+- Latitude: 45.844223
+- Longitude: -119.312964
+- County FIPS: 41059
+- County from: 2020
+- Tract 2020: 41059951000
+- Tract 2010: 41059951000
+- Tract 2000: 41059951000
+- Tract 1990: 41059951000
+- Place 2020: 33700
+- Place 2010: 33700
+- Place 2000: 33700
+- Place 1990: 0515
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 372616
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 400000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

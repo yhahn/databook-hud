@@ -1,0 +1,85 @@
+# Project: SHERWOOD APARTMENTS (MTA20220003)
+
+- HUD ID: MTA20220003
+- HUD ID before: 
+- Project: SHERWOOD APARTMENTS
+- Address: 325 S MAIN STREET
+- City: LIVINGSTON
+- State: MT
+- ZIP: 59047
+- ZIP extension: 0000
+- State project ID: 21080
+- Latitude: 45.658559
+- Longitude: -110.556568
+- County FIPS: 30067
+- County from: 2020
+- Tract 2020: 30067000300
+- Tract 2010: 30067000300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43975
+- Place 2010: 43975
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 379929
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

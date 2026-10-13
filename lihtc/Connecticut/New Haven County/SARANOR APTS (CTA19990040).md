@@ -1,0 +1,85 @@
+# Project: SARANOR APTS (CTA19990040)
+
+- HUD ID: CTA19990040
+- HUD ID before: 
+- Project: SARANOR APTS
+- Address: 119 PLATT ST
+- City: MILFORD
+- State: CT
+- ZIP: 06460
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.210232
+- Longitude: -73.020093
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009151000
+- Tract 2010: 09009151000
+- Tract 2000: 09009151000
+- Tract 1990: 09009151000
+- Place 2020: 47515
+- Place 2010: 47515
+- Place 2000: 47515
+- Place 1990: 1270
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

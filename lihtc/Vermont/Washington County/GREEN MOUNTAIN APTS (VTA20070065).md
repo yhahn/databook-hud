@@ -1,0 +1,85 @@
+# Project: GREEN MOUNTAIN APTS (VTA20070065)
+
+- HUD ID: VTA20070065
+- HUD ID before: 
+- Project: GREEN MOUNTAIN APTS
+- Address: 144 WALL ST
+- City: NORTHFIELD
+- State: VT
+- ZIP: 05663
+- ZIP extension: 
+- State project ID: 0334
+- Latitude: 44.148769
+- Longitude: -72.659449
+- County FIPS: 50023
+- County from: 2020
+- Tract 2020: 50023955502
+- Tract 2010: 50023955500
+- Tract 2000: 50023955500
+- Tract 1990: 50023955500
+- Place 2020: 50200
+- Place 2010: 50200
+- Place 2000: 50200
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 105085
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VTA2006045.
+- Record status: Existing, unchanged

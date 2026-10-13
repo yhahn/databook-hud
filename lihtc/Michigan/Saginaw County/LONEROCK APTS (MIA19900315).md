@@ -1,0 +1,85 @@
+# Project: LONEROCK APTS (MIA19900315)
+
+- HUD ID: MIA19900315
+- HUD ID before: 
+- Project: LONEROCK APTS
+- Address: 608 N FOURTH ST
+- City: CHESANING
+- State: MI
+- ZIP: 48616
+- ZIP extension: 
+- State project ID: MI-1976
+- Latitude: 43.192324
+- Longitude: -84.128956
+- County FIPS: 26145
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26145012700
+- Tract 2000: 26145012700
+- Tract 1990: 26145012700
+- Place 2020: 
+- Place 2010: 15140
+- Place 2000: 15140
+- Place 1990: 0500
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1990320.
+- Record status: Existing, unchanged

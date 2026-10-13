@@ -1,0 +1,85 @@
+# Project: RIVERSIDE PARK APARTMENTS II FKA PARK PLAZA I (ARA20130009)
+
+- HUD ID: ARA20130009
+- HUD ID before: 
+- Project: RIVERSIDE PARK APARTMENTS II FKA PARK PLAZA I
+- Address: 3950 E SERVICE RD
+- City: WEST MEMPHIS
+- State: AR
+- ZIP: 72301
+- ZIP extension: 
+- State project ID: AR-95-19
+- Latitude: 35.148108
+- Longitude: -90.132463
+- County FIPS: 05035
+- County from: 2020
+- Tract 2020: 05035030602
+- Tract 2010: 05035030600
+- Tract 2000: 05035030600
+- Tract 1990: 05035030300
+- Place 2020: 74540
+- Place 2010: 74540
+- Place 2000: 01457
+- Place 1990: 3005
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 581811
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 1
+- 1-bedroom units: 1
+- 2-bedroom units: 52
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

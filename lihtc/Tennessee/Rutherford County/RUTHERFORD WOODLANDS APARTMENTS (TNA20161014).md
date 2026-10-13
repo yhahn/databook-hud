@@ -1,0 +1,85 @@
+# Project: RUTHERFORD WOODLANDS APARTMENTS (TNA20161014)
+
+- HUD ID: TNA20161014
+- HUD ID before: 
+- Project: RUTHERFORD WOODLANDS APARTMENTS
+- Address: 1310 N RUTHERFORD BOULEVARD
+- City: MURFREESBORO
+- State: TN
+- ZIP: 37130
+- ZIP extension: 
+- State project ID: TN-15-202
+- Latitude: 35.867973
+- Longitude: -86.351294
+- County FIPS: 47149
+- County from: 2020
+- Tract 2020: 47149041407
+- Tract 2010: 47149041403
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51560
+- Place 2010: 51560
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

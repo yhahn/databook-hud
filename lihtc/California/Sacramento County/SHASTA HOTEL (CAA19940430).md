@@ -1,0 +1,85 @@
+# Project: SHASTA HOTEL (CAA19940430)
+
+- HUD ID: CAA19940430
+- HUD ID before: 
+- Project: SHASTA HOTEL
+- Address: 1017 TENTH ST
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95814
+- ZIP extension: 
+- State project ID: CA-92-194
+- Latitude: 38.579699
+- Longitude: -121.493529
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067001103
+- Tract 2010: 06067001101
+- Tract 2000: 06067001000
+- Tract 1990: 06067001000
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 64000
+- Place 1990: 2420
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 531451
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 80
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SHASTA HOTEL CORPORATION.
+- Record status: Existing, unchanged

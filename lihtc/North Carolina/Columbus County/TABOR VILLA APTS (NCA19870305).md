@@ -1,0 +1,85 @@
+# Project: TABOR VILLA APTS (NCA19870305)
+
+- HUD ID: NCA19870305
+- HUD ID before: 
+- Project: TABOR VILLA APTS
+- Address: 605 GREEN SEA RD
+- City: TABOR CITY
+- State: NC
+- ZIP: 28463
+- ZIP extension: 
+- State project ID: 45
+- Latitude: 34.141927
+- Longitude: -78.881062
+- County FIPS: 37047
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37047931200
+- Tract 2000: 37047991200
+- Tract 1990: 37047991200
+- Place 2020: 
+- Place 2010: 66520
+- Place 2000: 66520
+- Place 1990: 
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 58501
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

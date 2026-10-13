@@ -1,0 +1,85 @@
+# Project: LONDON SQUARE APTS (WIA19930105)
+
+- HUD ID: WIA19930105
+- HUD ID before: 
+- Project: LONDON SQUARE APTS
+- Address: 3300 LONDON RD
+- City: EAU CLAIRE
+- State: WI
+- ZIP: 54701
+- ZIP extension: 
+- State project ID: 1465
+- Latitude: 44.78539
+- Longitude: -91.463413
+- County FIPS: 55035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55035000803
+- Tract 2000: 55035000803
+- Tract 1990: 55035000800
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 22300
+- Place 1990: 0770
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA EAU CLAIRE LONDON SQUARE.
+- Record status: Existing, unchanged

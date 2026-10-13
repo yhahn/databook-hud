@@ -1,0 +1,85 @@
+# Project: MANCHESTER HOPE (PAA19990130)
+
+- HUD ID: PAA19990130
+- HUD ID before: 
+- Project: MANCHESTER HOPE
+- Address: 1406 W N AVE
+- City: PITTSBURGH
+- State: PA
+- ZIP: 15233
+- ZIP extension: 
+- State project ID: TC19960029
+- Latitude: 40.452372
+- Longitude: -80.025899
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003565200
+- Tract 2010: 42003210700
+- Tract 2000: 42003210700
+- Tract 1990: 42003210700
+- Place 2020: 61000
+- Place 2010: 61000
+- Place 2000: 61000
+- Place 1990: 7234
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 266401
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 7
+- 3-bedroom units: 11
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: PREVIOUSLY LISTED AS PAA1997145.
+- Record status: Existing, unchanged

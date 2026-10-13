@@ -1,0 +1,85 @@
+# Project: ROCKEFELLER PARK APTS (OHA20010170)
+
+- HUD ID: OHA20010170
+- HUD ID before: 
+- Project: ROCKEFELLER PARK APTS
+- Address: 1588 ANSEL RD
+- City: CLEVELAND
+- State: OH
+- ZIP: 44106
+- ZIP extension: 
+- State project ID: 000153
+- Latitude: 41.513397
+- Longitude: -81.619758
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035118602
+- Tract 2010: 39035118602
+- Tract 2000: 39035118602
+- Tract 1990: 39035118602
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 135306
+- Units: 130
+- Low-income units: 129
+- Units reported: 130
+- Low-income reported: 129
+- Efficiencies: 17
+- 1-bedroom units: 83
+- 2-bedroom units: 29
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

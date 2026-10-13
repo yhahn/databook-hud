@@ -1,0 +1,85 @@
+# Project: PROSPECT HILL APTS (MAB20090050)
+
+- HUD ID: MAB20090050
+- HUD ID before: 
+- Project: PROSPECT HILL APTS
+- Address: 33 MONTGOMERY ST
+- City: WESTFIELD
+- State: MA
+- ZIP: 01085
+- ZIP extension: 
+- State project ID: 1210
+- Latitude: 42.1337
+- Longitude: -72.746158
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013812800
+- Tract 2010: 25013812800
+- Tract 2000: 25013812800
+- Tract 1990: 25013812800
+- Place 2020: 76030
+- Place 2010: 76030
+- Place 2000: 76030
+- Place 1990: 4690
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 288302
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 11
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 400000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000517.
+- Record status: Existing, unchanged

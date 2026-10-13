@@ -1,0 +1,85 @@
+# Project: HAMPDEN SQUARE (MNA20019004)
+
+- HUD ID: MNA20019004
+- HUD ID before: 
+- Project: HAMPDEN SQUARE
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55114
+- ZIP extension: 
+- State project ID: D2873
+- Latitude: 44.9601
+- Longitude: -93.1977
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123031900
+- Tract 2010: 27123033200
+- Tract 2000: 27123031900
+- Tract 1990: 27123031900
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 58000
+- Place 1990: 3425
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 86
+- Low-income units: 86
+- Units reported: 86
+- Low-income reported: 86
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 37
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

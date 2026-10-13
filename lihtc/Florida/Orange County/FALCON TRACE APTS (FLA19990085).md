@@ -1,0 +1,85 @@
+# Project: FALCON TRACE APTS (FLA19990085)
+
+- HUD ID: FLA19990085
+- HUD ID before: 
+- Project: FALCON TRACE APTS
+- Address: 1612 PEREGRINE FALCONS WAY
+- City: ORLANDO
+- State: FL
+- ZIP: 32837
+- ZIP extension: 
+- State project ID: 260
+- Latitude: 28.362442
+- Longitude: -81.40138
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095017021
+- Tract 2010: 12095017014
+- Tract 2000: 12095017007
+- Tract 1990: 12095017002
+- Place 2020: 67270
+- Place 2010: 67270
+- Place 2000: 32967
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 252
+- Low-income units: 251
+- Units reported: 252
+- Low-income reported: 251
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 132
+- 3-bedroom units: 56
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

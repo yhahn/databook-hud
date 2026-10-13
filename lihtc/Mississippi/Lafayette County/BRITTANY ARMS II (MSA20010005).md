@@ -1,0 +1,85 @@
+# Project: BRITTANY ARMS II (MSA20010005)
+
+- HUD ID: MSA20010005
+- HUD ID before: 
+- Project: BRITTANY ARMS II
+- Address: 501 BRITTANY DR
+- City: OXFORD
+- State: MS
+- ZIP: 38655
+- ZIP extension: 
+- State project ID: MS-99-046
+- Latitude: 34.364157
+- Longitude: -89.482516
+- County FIPS: 28071
+- County from: 2020
+- Tract 2020: 28071950100
+- Tract 2010: 28071950100
+- Tract 2000: 28071950100
+- Tract 1990: 28071950100
+- Place 2020: 54840
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 344341
+- Units: 40
+- Low-income units: 38
+- Units reported: 40
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 39
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1999025, MSA1999020. AKA BRITTANY ESTATES.
+- Record status: Existing, unchanged

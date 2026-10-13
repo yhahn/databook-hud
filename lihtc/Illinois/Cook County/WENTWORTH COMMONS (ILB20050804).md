@@ -1,0 +1,85 @@
+# Project: WENTWORTH COMMONS (ILB20050804)
+
+- HUD ID: ILB20050804
+- HUD ID before: 
+- Project: WENTWORTH COMMONS
+- Address: 11045 S WENTWORTH AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60628
+- ZIP extension: 
+- State project ID: IL-03-02071
+- Latitude: 41.693273
+- Longitude: -87.627703
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031491000
+- Tract 2010: 17031491000
+- Tract 2000: 17031491000
+- Tract 1990: 17031491000
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 725000
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 24
+- 1-bedroom units: 0
+- 2-bedroom units: 9
+- 3-bedroom units: 15
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2005035.
+- Record status: Existing, unchanged

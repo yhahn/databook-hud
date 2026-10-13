@@ -1,0 +1,85 @@
+# Project: PUTNAM SQUARE (CTA19910030)
+
+- HUD ID: CTA19910030
+- HUD ID before: 
+- Project: PUTNAM SQUARE
+- Address: 1428 MAIN ST
+- City: BRIDGEPORT
+- State: CT
+- ZIP: 06604
+- ZIP extension: 
+- State project ID: CT-89-004
+- Latitude: 41.182837
+- Longitude: -73.190705
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001070600
+- Tract 2010: 09001070600
+- Tract 2000: 09001070600
+- Tract 1990: 09001070600
+- Place 2020: 08000
+- Place 2010: 08000
+- Place 2000: 08000
+- Place 1990: 0200
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

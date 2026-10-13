@@ -1,0 +1,85 @@
+# Project: DOWLING GARDENS (NYA19950145)
+
+- HUD ID: NYA19950145
+- HUD ID before: 
+- Project: DOWLING GARDENS
+- Address: 190 KINGS HWY
+- City: TAPPAN
+- State: NY
+- ZIP: 10983
+- ZIP extension: 
+- State project ID: 19930547
+- Latitude: 41.026486
+- Longitude: -73.945395
+- County FIPS: 36087
+- County from: 2020
+- Tract 2020: 36087013401
+- Tract 2010: 36087013401
+- Tract 2000: 36087013400
+- Tract 1990: 36087013400
+- Place 2020: 73154
+- Place 2010: 73154
+- Place 2000: 73154
+- Place 1990: 3573
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 111
+- Low-income units: 47
+- Units reported: 111
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

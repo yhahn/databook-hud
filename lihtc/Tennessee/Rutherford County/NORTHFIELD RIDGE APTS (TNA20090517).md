@@ -1,0 +1,85 @@
+# Project: NORTHFIELD RIDGE APTS (TNA20090517)
+
+- HUD ID: TNA20090517
+- HUD ID before: 
+- Project: NORTHFIELD RIDGE APTS
+- Address: 2032 EMPRESS DR
+- City: MURFREESBORO
+- State: TN
+- ZIP: 37130
+- ZIP extension: 
+- State project ID: TN-09-122
+- Latitude: 35.8743
+- Longitude: -86.367398
+- County FIPS: 47149
+- County from: 2020
+- Tract 2020: 47149041401
+- Tract 2010: 47149041401
+- Tract 2000: 47149041400
+- Tract 1990: 47149041400
+- Place 2020: 51560
+- Place 2010: 51560
+- Place 2000: 51560
+- Place 1990: 1010
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 967030
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 84
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2009072.
+- Record status: Existing, unchanged

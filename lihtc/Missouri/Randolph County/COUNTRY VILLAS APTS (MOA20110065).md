@@ -1,0 +1,85 @@
+# Project: COUNTRY VILLAS APTS (MOA20110065)
+
+- HUD ID: MOA20110065
+- HUD ID before: 
+- Project: COUNTRY VILLAS APTS
+- Address: 2251 SILVA LN
+- City: MOBERLY
+- State: MO
+- ZIP: 65270
+- ZIP extension: 
+- State project ID: 09-014
+- Latitude: 39.447982
+- Longitude: -92.4278
+- County FIPS: 29175
+- County from: 2020
+- Tract 2020: 29175490300
+- Tract 2010: 29175490300
+- Tract 2000: 29175990300
+- Tract 1990: 29175990300
+- Place 2020: 49034
+- Place 2010: 49034
+- Place 2000: 49034
+- Place 1990: 2850
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 670000
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 750000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA2011520.
+- Record status: Existing, unchanged

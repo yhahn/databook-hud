@@ -1,0 +1,85 @@
+# Project: TIMBER SPRINGS APTS (NCA20109088)
+
+- HUD ID: NCA20109088
+- HUD ID before: 
+- Project: TIMBER SPRINGS APTS
+- Address: 100 TIMBER SPRINGS CT
+- City: HOLLY SPRINGS
+- State: NC
+- ZIP: 27540
+- ZIP extension: 9248
+- State project ID: 9001086
+- Latitude: 35.654477
+- Longitude: -78.826952
+- County FIPS: 37183
+- County from: 2020
+- Tract 2020: 37183053204
+- Tract 2010: 37183053204
+- Tract 2000: 37183053200
+- Tract 1990: 37183053200
+- Place 2020: 32260
+- Place 2010: 32260
+- Place 2000: 10740
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 67220
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

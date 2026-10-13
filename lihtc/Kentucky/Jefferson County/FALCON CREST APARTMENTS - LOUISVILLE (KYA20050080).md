@@ -1,0 +1,85 @@
+# Project: FALCON CREST APARTMENTS - LOUISVILLE (KYA20050080)
+
+- HUD ID: KYA20050080
+- HUD ID before: 
+- Project: FALCON CREST APARTMENTS - LOUISVILLE
+- Address: FALCON CREST DRIVE
+- City: LOUISVILLE
+- State: KY
+- ZIP: 40219
+- ZIP extension: 
+- State project ID: KY-06-104
+- Latitude: 38.1437
+- Longitude: -85.6748
+- County FIPS: 21111
+- County from: 2020
+- Tract 2020: 21111011906
+- Tract 2010: 21111011906
+- Tract 2000: 21111011906
+- Tract 1990: 21111011905
+- Place 2020: 48006
+- Place 2010: 48006
+- Place 2000: 
+- Place 1990: 1485
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 208
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 104
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

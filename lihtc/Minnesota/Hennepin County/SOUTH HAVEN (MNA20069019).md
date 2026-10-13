@@ -1,0 +1,85 @@
+# Project: SOUTH HAVEN (MNA20069019)
+
+- HUD ID: MNA20069019
+- HUD ID before: 
+- Project: SOUTH HAVEN
+- Address: 3400 PARKLAWN AVE
+- City: EDINA
+- State: MN
+- ZIP: 55435
+- ZIP extension: 
+- State project ID: D3287
+- Latitude: 44.868383
+- Longitude: -93.322959
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053024004
+- Tract 2010: 27053024004
+- Tract 2000: 27053024004
+- Tract 1990: 27053024002
+- Place 2020: 18188
+- Place 2010: 18188
+- Place 2000: 18188
+- Place 1990: 1105
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 259075
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 100
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

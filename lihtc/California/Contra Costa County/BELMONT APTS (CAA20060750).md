@@ -1,0 +1,85 @@
+# Project: BELMONT APTS (CAA20060750)
+
+- HUD ID: CAA20060750
+- HUD ID before: 
+- Project: BELMONT APTS
+- Address: 1010 POWER AVE
+- City: PITTSBURG
+- State: CA
+- ZIP: 94565
+- ZIP extension: 
+- State project ID: CA-05-815
+- Latitude: 38.02093
+- Longitude: -121.903298
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013311000
+- Tract 2010: 06013311000
+- Tract 2000: 06013311000
+- Tract 1990: 06013311000
+- Place 2020: 57456
+- Place 2010: 57456
+- Place 2000: 57456
+- Place 1990: 2175
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1214636
+- Units: 224
+- Low-income units: 219
+- Units reported: 224
+- Low-income reported: 219
+- Efficiencies: 0
+- 1-bedroom units: 87
+- 2-bedroom units: 134
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

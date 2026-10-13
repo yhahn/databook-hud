@@ -1,0 +1,85 @@
+# Project: VILLA CAPRI I (FLA20130017)
+
+- HUD ID: FLA20130017
+- HUD ID before: 
+- Project: VILLA CAPRI I
+- Address: 14500 SW 280TH ST
+- City: HOMESTEAD
+- State: FL
+- ZIP: 33032
+- ZIP extension: 
+- State project ID: 2501
+- Latitude: 25.506626
+- Longitude: -80.426283
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010805
+- Tract 2010: 12086010801
+- Tract 2000: 12086010800
+- Tract 1990: 12025010800
+- Place 2020: 39950
+- Place 2010: 39950
+- Place 2000: 39950
+- Place 1990: 1458
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 220
+- Low-income units: 220
+- Units reported: 220
+- Low-income reported: 220
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2330000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

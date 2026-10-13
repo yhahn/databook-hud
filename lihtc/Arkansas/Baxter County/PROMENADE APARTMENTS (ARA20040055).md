@@ -1,0 +1,85 @@
+# Project: PROMENADE APARTMENTS (ARA20040055)
+
+- HUD ID: ARA20040055
+- HUD ID before: 
+- Project: PROMENADE APARTMENTS
+- Address: 550 E 4TH ST
+- City: MOUNTAIN HOME
+- State: AR
+- ZIP: 72653
+- ZIP extension: 
+- State project ID: AR-87-03-001
+- Latitude: 36.336842
+- Longitude: -92.378254
+- County FIPS: 05005
+- County from: 2020
+- Tract 2020: 05005950200
+- Tract 2010: 05005950200
+- Tract 2000: 05005950200
+- Tract 1990: 05005950200
+- Place 2020: 47390
+- Place 2010: 47390
+- Place 2000: 47390
+- Place 1990: 1405
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 61884
+- Units: 46
+- Low-income units: 45
+- Units reported: 46
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

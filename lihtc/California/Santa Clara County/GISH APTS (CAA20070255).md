@@ -1,0 +1,85 @@
+# Project: GISH APTS (CAA20070255)
+
+- HUD ID: CAA20070255
+- HUD ID before: 
+- Project: GISH APTS
+- Address: 35 E GISH RD
+- City: SAN JOSE
+- State: CA
+- ZIP: 95112
+- ZIP extension: 
+- State project ID: CA-05-873
+- Latitude: 37.362134
+- Longitude: -121.909238
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085505100
+- Tract 2010: 06085505100
+- Tract 2000: 06085505100
+- Tract 1990: 06085505100
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 2510
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 623199
+- Units: 35
+- Low-income units: 34
+- Units reported: 35
+- Low-income reported: 34
+- Efficiencies: 9
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

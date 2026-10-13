@@ -1,0 +1,85 @@
+# Project: SHADY CREEK APTS OF FOREMAN (ARA20030750)
+
+- HUD ID: ARA20030750
+- HUD ID before: 
+- Project: SHADY CREEK APTS OF FOREMAN
+- Address: 204 S FOURTH ST
+- City: FOREMAN
+- State: AR
+- ZIP: 71836
+- ZIP extension: 
+- State project ID: AR-03-22-001
+- Latitude: 33.717996
+- Longitude: -94.3991
+- County FIPS: 05081
+- County from: 2020
+- Tract 2020: 05081030200
+- Tract 2010: 05081030200
+- Tract 2000: 05081030200
+- Tract 1990: 05081030200
+- Place 2020: 24250
+- Place 2010: 24250
+- Place 2000: 24250
+- Place 1990: 0687
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 74344
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 300000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2003082, ARA1987025.
+- Record status: Existing, unchanged

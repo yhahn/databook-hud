@@ -1,0 +1,85 @@
+# Project: LION CREEK CROSSINGS PHASE III (CAA20080475)
+
+- HUD ID: CAA20080475
+- HUD ID before: 
+- Project: LION CREEK CROSSINGS PHASE III
+- Address: 928 66TH AVE
+- City: OAKLAND
+- State: CA
+- ZIP: 94621
+- ZIP extension: 
+- State project ID: CA-06-846
+- Latitude: 37.757197
+- Longitude: -122.199873
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001408800
+- Tract 2010: 06001408800
+- Tract 2000: 06001408800
+- Tract 1990: 06001408800
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1970
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1755338
+- Units: 106
+- Low-income units: 105
+- Units reported: 106
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 34
+- 3-bedroom units: 45
+- 4-bedroom units: 14
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 105
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 3815000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WELLSTON MANOR II (OHA20080282)
+
+- HUD ID: OHA20080282
+- HUD ID before: 
+- Project: WELLSTON MANOR II
+- Address: 700 W D ST
+- City: WELLSTON
+- State: OH
+- ZIP: 45692
+- ZIP extension: 
+- State project ID: 020052
+- Latitude: 39.127821
+- Longitude: -82.544641
+- County FIPS: 39079
+- County from: 2020
+- Tract 2020: 39079957300
+- Tract 2010: 39079957300
+- Tract 2000: 39079957300
+- Tract 1990: 39079957300
+- Place 2020: 82712
+- Place 2010: 82712
+- Place 2000: 16434
+- Place 1990: 4550
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 28
+- Units reported: 34
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 505000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2008787, OHA2004280. AKA WELLSTON MANOR.
+- Record status: Existing, unchanged

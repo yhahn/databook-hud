@@ -1,0 +1,85 @@
+# Project: ROOSEVELT FAMILY APTS (CAA20090355)
+
+- HUD ID: CAA20090355
+- HUD ID before: 
+- Project: ROOSEVELT FAMILY APTS
+- Address: 750 GRANDE AVE
+- City: NIPOMO
+- State: CA
+- ZIP: 93444
+- ZIP extension: 
+- State project ID: CA-07-033
+- Latitude: 35.029395
+- Longitude: -120.487233
+- County FIPS: 06079
+- County from: 2020
+- Tract 2020: 06079012404
+- Tract 2010: 06079012402
+- Tract 2000: 06079012402
+- Tract 1990: 06079012300
+- Place 2020: 51476
+- Place 2010: 51476
+- Place 2000: 51476
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1162216
+- Units: 52
+- Low-income units: 51
+- Units reported: 52
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 24
+- 4-bedroom units: 28
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

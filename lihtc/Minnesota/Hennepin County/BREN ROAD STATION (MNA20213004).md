@@ -1,0 +1,85 @@
+# Project: BREN ROAD STATION (MNA20213004)
+
+- HUD ID: MNA20213004
+- HUD ID before: 
+- Project: BREN ROAD STATION
+- Address: 11001 BREN ROAD EAST
+- City: MINNETONKA
+- State: MN
+- ZIP: 55343
+- ZIP extension: 
+- State project ID: D8150
+- Latitude: 44.89868
+- Longitude: -93.414727
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053026104
+- Tract 2010: 27053026104
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43252
+- Place 2010: 43252
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 2058212
+- Units: 262
+- Low-income units: 262
+- Units reported: 262
+- Low-income reported: 262
+- Efficiencies: 
+- 1-bedroom units: 59
+- 2-bedroom units: 149
+- 3-bedroom units: 54
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

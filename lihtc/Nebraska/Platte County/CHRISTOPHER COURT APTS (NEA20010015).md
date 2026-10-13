@@ -1,0 +1,85 @@
+# Project: CHRISTOPHER COURT APTS (NEA20010015)
+
+- HUD ID: NEA20010015
+- HUD ID before: 
+- Project: CHRISTOPHER COURT APTS
+- Address: 209 27TH ST
+- City: COLUMBUS
+- State: NE
+- ZIP: 68601
+- ZIP extension: 
+- State project ID: 67164
+- Latitude: 41.442077
+- Longitude: -97.32865
+- County FIPS: 31141
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31141965400
+- Tract 2000: 31141985400
+- Tract 1990: 31141985400
+- Place 2020: 
+- Place 2010: 10110
+- Place 2000: 10110
+- Place 1990: 0545
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 30386
+- Units: 24
+- Low-income units: 12
+- Units reported: 24
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WOODSIDE VILLAGE APTS (VAA20090002)
+
+- HUD ID: VAA20090002
+- HUD ID before: 
+- Project: WOODSIDE VILLAGE APTS
+- Address: 1321 PINEY FOREST RD
+- City: DANVILLE
+- State: VA
+- ZIP: 24540
+- ZIP extension: 
+- State project ID: 4082
+- Latitude: 36.629718
+- Longitude: -79.397825
+- County FIPS: 51590
+- County from: 2020
+- Tract 2020: 51590000100
+- Tract 2010: 51590000100
+- Tract 2000: 51590000100
+- Tract 1990: 51590000100
+- Place 2020: 21344
+- Place 2010: 21344
+- Place 2000: 21344
+- Place 1990: 0370
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 92
+- 3-bedroom units: 52
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: Yes
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 5073212
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2005784.
+- Record status: Existing, unchanged

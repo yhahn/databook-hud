@@ -1,0 +1,85 @@
+# Project: CEDAR WOODS APTS (HILLSBORO) (OHA20100010)
+
+- HUD ID: OHA20100010
+- HUD ID before: 
+- Project: CEDAR WOODS APTS (HILLSBORO)
+- Address: 220 CEDAR WOODS DR
+- City: HILLSBORO
+- State: OH
+- ZIP: 45133
+- ZIP extension: 
+- State project ID: 080097
+- Latitude: 39.22913
+- Longitude: -83.613481
+- County FIPS: 39071
+- County from: 2020
+- Tract 2020: 39071954800
+- Tract 2010: 39071954800
+- Tract 2000: 39071954800
+- Tract 1990: 39071954800
+- Place 2020: 35560
+- Place 2010: 35560
+- Place 2000: 35560
+- Place 1990: 1840
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 42
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 38
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 600000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HILLSBORO CEDAR WOODS.
+- Record status: Existing, unchanged

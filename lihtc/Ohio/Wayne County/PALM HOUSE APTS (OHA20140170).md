@@ -1,0 +1,85 @@
+# Project: PALM HOUSE APTS (OHA20140170)
+
+- HUD ID: OHA20140170
+- HUD ID before: 
+- Project: PALM HOUSE APTS
+- Address: 1173 REBECCA ST
+- City: WOOSTER
+- State: OH
+- ZIP: 44691
+- ZIP extension: 
+- State project ID: 120059
+- Latitude: 40.799694
+- Longitude: -81.922622
+- County FIPS: 39169
+- County from: 2020
+- Tract 2020: 39169000500
+- Tract 2010: 39169000500
+- Tract 2000: 39169000500
+- Tract 1990: 39169000500
+- Place 2020: 86548
+- Place 2010: 86548
+- Place 2000: 86548
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 677559
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

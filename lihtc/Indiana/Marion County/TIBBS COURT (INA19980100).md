@@ -1,0 +1,85 @@
+# Project: TIBBS COURT (INA19980100)
+
+- HUD ID: INA19980100
+- HUD ID before: 
+- Project: TIBBS COURT
+- Address: 706 KING AVE
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46222
+- ZIP extension: 
+- State project ID: IN-96-01800
+- Latitude: 39.77727
+- Longitude: -86.204003
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097341600
+- Tract 2010: 18097341600
+- Tract 2000: 18097341600
+- Tract 1990: 18097341600
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 38
+- 4-bedroom units: 11
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

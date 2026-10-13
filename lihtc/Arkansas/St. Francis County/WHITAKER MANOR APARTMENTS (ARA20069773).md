@@ -1,0 +1,85 @@
+# Project: WHITAKER MANOR APARTMENTS (ARA20069773)
+
+- HUD ID: ARA20069773
+- HUD ID before: 
+- Project: WHITAKER MANOR APARTMENTS
+- Address: 119 HADLEY DR
+- City: MADISON
+- State: AR
+- ZIP: 72359
+- ZIP extension: 
+- State project ID: 650
+- Latitude: 35.027
+- Longitude: -90.8685
+- County FIPS: 05123
+- County from: 2020
+- Tract 2020: 05123960202
+- Tract 2010: 05123960200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43280
+- Place 2010: 43280
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 97158
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 20
+- 3-bedroom units: 12
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

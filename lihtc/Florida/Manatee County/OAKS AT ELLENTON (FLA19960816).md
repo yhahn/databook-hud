@@ -1,0 +1,85 @@
+# Project: OAKS AT ELLENTON (FLA19960816)
+
+- HUD ID: FLA19960816
+- HUD ID before: 
+- Project: OAKS AT ELLENTON
+- Address: 1651 36TH AVE E
+- City: ELLENTON
+- State: FL
+- ZIP: 34222
+- ZIP extension: 
+- State project ID: 559
+- Latitude: 27.528786
+- Longitude: -82.528336
+- County FIPS: 12081
+- County from: 2020
+- Tract 2020: 12081001904
+- Tract 2010: 12081001904
+- Tract 2000: 12081001904
+- Tract 1990: 12081001904
+- Place 2020: 20375
+- Place 2010: 20375
+- Place 2000: 20375
+- Place 1990: 0578
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 88
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

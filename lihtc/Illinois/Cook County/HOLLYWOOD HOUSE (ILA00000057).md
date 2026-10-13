@@ -1,0 +1,85 @@
+# Project: HOLLYWOOD HOUSE (ILA00000057)
+
+- HUD ID: ILA00000057
+- HUD ID before: 
+- Project: HOLLYWOOD HOUSE
+- Address: 5700 N SHERIDAN RD
+- City: CHICAGO
+- State: IL
+- ZIP: 60660
+- ZIP extension: 
+- State project ID: 290808
+- Latitude: 41.985823
+- Longitude: -87.655475
+- County FIPS: 17031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17031030604
+- Tract 2000: 17031030600
+- Tract 1990: 17031030600
+- Place 2020: 
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 872003
+- Units: 197
+- Low-income units: 177
+- Units reported: 197
+- Low-income reported: 177
+- Efficiencies: 88
+- 1-bedroom units: 89
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

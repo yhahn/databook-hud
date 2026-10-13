@@ -1,0 +1,85 @@
+# Project: CHAPEL OAKS (INA19990017)
+
+- HUD ID: INA19990017
+- HUD ID before: 
+- Project: CHAPEL OAKS
+- Address: 730 OAKLAWN CT
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46803
+- ZIP extension: 
+- State project ID: IN-01-05000
+- Latitude: 41.069399
+- Longitude: -85.127234
+- County FIPS: 18003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18003001700
+- Tract 2000: 18003001700
+- Tract 1990: 18003001700
+- Place 2020: 
+- Place 2010: 25000
+- Place 2000: 25000
+- Place 1990: 0825
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 320
+- Low-income units: 320
+- Units reported: 320
+- Low-income reported: 320
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 126
+- 3-bedroom units: 129
+- 4-bedroom units: 31
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 160
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

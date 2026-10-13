@@ -1,0 +1,85 @@
+# Project: FORRESTER GARDENS (ALA20040052)
+
+- HUD ID: ALA20040052
+- HUD ID before: 
+- Project: FORRESTER GARDENS
+- Address: 1350 JAMES I HARRISON JR PKWY E
+- City: TUSCALOOSA
+- State: AL
+- ZIP: 35405
+- ZIP extension: 
+- State project ID: AL-01-0816
+- Latitude: 33.177642
+- Longitude: -87.51781
+- County FIPS: 01125
+- County from: 2020
+- Tract 2020: 01125012306
+- Tract 2010: 01125012303
+- Tract 2000: 01125012303
+- Tract 1990: 01125010801
+- Place 2020: 77256
+- Place 2010: 77256
+- Place 2000: 77256
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 172535
+- Units: 152
+- Low-income units: 145
+- Units reported: 152
+- Low-income reported: 145
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 92
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 152
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SUMMIT FORRESTER GARDENS.
+- Record status: Existing, unchanged

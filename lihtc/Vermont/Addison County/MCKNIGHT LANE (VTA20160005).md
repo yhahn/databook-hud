@@ -1,0 +1,85 @@
+# Project: MCKNIGHT LANE (VTA20160005)
+
+- HUD ID: VTA20160005
+- HUD ID before: 
+- Project: MCKNIGHT LANE
+- Address: 7-10, 20, 22, 23, 25, 32, 34, 41, 43, 55 + 57 MCKNIGHT LANE
+- City: WALTHAM
+- State: VT
+- ZIP: 05491
+- ZIP extension: 
+- State project ID: VT-04-92
+- Latitude: 44.0946
+- Longitude: -73.261
+- County FIPS: 50001
+- County from: 2020
+- Tract 2020: 50001960400
+- Tract 2010: 50001960400
+- Tract 2000: 50001960400
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 231000
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 440000
+- CDBG: Yes
+- CDBG amount: 493000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

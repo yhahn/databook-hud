@@ -1,0 +1,85 @@
+# Project: KENWYN (MAB00000643)
+
+- HUD ID: MAB00000643
+- HUD ID before: 
+- Project: KENWYN
+- Address: 6 KENWOOD PARK
+- City: SPRINGFIELD
+- State: MA
+- ZIP: 01108
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.087242
+- Longitude: -72.562544
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013802200
+- Tract 2010: 25013802200
+- Tract 2000: 25013802200
+- Tract 1990: 25013802200
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 4090
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 27
+- Low-income units: 23
+- Units reported: 27
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

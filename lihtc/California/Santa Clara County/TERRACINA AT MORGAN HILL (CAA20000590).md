@@ -1,0 +1,85 @@
+# Project: TERRACINA AT MORGAN HILL (CAA20000590)
+
+- HUD ID: CAA20000590
+- HUD ID before: 
+- Project: TERRACINA AT MORGAN HILL
+- Address: 230 E DUNNE AVE
+- City: MORGAN HILL
+- State: CA
+- ZIP: 95037
+- ZIP extension: 
+- State project ID: CA-98-105
+- Latitude: 37.126417
+- Longitude: -121.64641
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085512310
+- Tract 2010: 06085512310
+- Tract 2000: 06085512304
+- Tract 1990: 06085512304
+- Place 2020: 49278
+- Place 2010: 49278
+- Place 2000: 49278
+- Place 1990: 1850
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 477148
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1996115. FKA TERRACINA AT MORGAN HILL I & II
+- Record status: Existing, unchanged

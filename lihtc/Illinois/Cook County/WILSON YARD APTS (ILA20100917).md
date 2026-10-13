@@ -1,0 +1,85 @@
+# Project: WILSON YARD APTS (ILA20100917)
+
+- HUD ID: ILA20100917
+- HUD ID before: 
+- Project: WILSON YARD APTS
+- Address: 1026 W MONTROSE AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60613
+- ZIP extension: 
+- State project ID: 223405
+- Latitude: 41.961948
+- Longitude: -87.6558
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031830700
+- Tract 2010: 17031830700
+- Tract 2000: 17031031600
+- Tract 1990: 17031031600
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1700000
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 10
+- 3-bedroom units: 48
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 62
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000109.
+- Record status: Existing, unchanged

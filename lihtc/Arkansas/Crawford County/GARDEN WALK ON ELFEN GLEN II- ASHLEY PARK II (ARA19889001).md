@@ -1,0 +1,85 @@
+# Project: GARDEN WALK ON ELFEN GLEN II/ ASHLEY PARK II (ARA19889001)
+
+- HUD ID: ARA19889001
+- HUD ID before: 
+- Project: GARDEN WALK ON ELFEN GLEN II/ ASHLEY PARK II
+- Address: 1608 ELFEN GLEN
+- City: VAN BUREN
+- State: AR
+- ZIP: 72956
+- ZIP extension: 
+- State project ID: 132
+- Latitude: 35.455971
+- Longitude: -94.365146
+- County FIPS: 05033
+- County from: 2020
+- Tract 2020: 05033020302
+- Tract 2010: 05033020302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71480
+- Place 2010: 71480
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 420774
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 16
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

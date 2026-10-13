@@ -1,0 +1,85 @@
+# Project: PRAIRIE VILLAGE RESIDENCES II (KSA19980040)
+
+- HUD ID: KSA19980040
+- HUD ID before: 
+- Project: PRAIRIE VILLAGE RESIDENCES II
+- Address: 1300 E 33RD AVE
+- City: HUTCHINSON
+- State: KS
+- ZIP: 67502
+- ZIP extension: 
+- State project ID: 60176
+- Latitude: 38.091118
+- Longitude: -97.906659
+- County FIPS: 20155
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20155000300
+- Tract 2000: 20155000300
+- Tract 1990: 20155000300
+- Place 2020: 
+- Place 2010: 33625
+- Place 2000: 33625
+- Place 1990: 1350
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 163262
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

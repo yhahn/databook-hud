@@ -1,0 +1,85 @@
+# Project: LANGLEY GARDEN APTS (MDA19990067)
+
+- HUD ID: MDA19990067
+- HUD ID before: 
+- Project: LANGLEY GARDEN APTS
+- Address: 8200 NEW HAMPSHIRE AVE
+- City: HYATTSVILLE
+- State: MD
+- ZIP: 
+- ZIP extension: 
+- State project ID: MD96-18
+- Latitude: 38.9929
+- Longitude: -76.9789
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033805700
+- Tract 2010: 24033805700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 45525
+- Place 2010: 45525
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 204
+- Low-income units: 204
+- Units reported: 204
+- Low-income reported: 204
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 142
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

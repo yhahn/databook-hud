@@ -1,0 +1,85 @@
+# Project: NEW FREEDOM APTS (PAA19990170)
+
+- HUD ID: PAA19990170
+- HUD ID before: 
+- Project: NEW FREEDOM APTS
+- Address: 178 SPRINGWOOD DR
+- City: NEW FREEDOM
+- State: PA
+- ZIP: 17349
+- ZIP extension: 
+- State project ID: TC19980029
+- Latitude: 39.739989
+- Longitude: -76.69784
+- County FIPS: 42133
+- County from: 2020
+- Tract 2020: 42133023821
+- Tract 2010: 42133023821
+- Tract 2000: 42133023821
+- Tract 1990: 42133023820
+- Place 2020: 53568
+- Place 2010: 53568
+- Place 2000: 53568
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 203111
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

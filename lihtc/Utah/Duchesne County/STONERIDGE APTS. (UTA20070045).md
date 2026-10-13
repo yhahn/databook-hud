@@ -1,0 +1,85 @@
+# Project: STONERIDGE APTS. (UTA20070045)
+
+- HUD ID: UTA20070045
+- HUD ID before: 
+- Project: STONERIDGE APTS.
+- Address: 158 EAST 800 SOUTH
+- City: ROOSEVELT
+- State: UT
+- ZIP: 84066
+- ZIP extension: 0000
+- State project ID: 2006-09
+- Latitude: 40.287805
+- Longitude: -109.989866
+- County FIPS: 49013
+- County from: 2020
+- Tract 2020: 49013940501
+- Tract 2010: 49013940500
+- Tract 2000: 49013940500
+- Tract 1990: 49013991400
+- Place 2020: 64670
+- Place 2010: 64670
+- Place 2000: 64670
+- Place 1990: 0840
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 205370
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

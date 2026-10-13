@@ -1,0 +1,85 @@
+# Project: PINE TREE PARK APARTMENTS (MNA19930190)
+
+- HUD ID: MNA19930190
+- HUD ID before: 
+- Project: PINE TREE PARK APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55104
+- ZIP extension: 
+- State project ID: D1602
+- Latitude: 44.9511
+- Longitude: -93.1606
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123033400
+- Tract 2010: 27123033400
+- Tract 2000: 27123031802
+- Tract 1990: 27123031802
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 58000
+- Place 1990: 3425
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 199
+- Low-income units: 180
+- Units reported: 199
+- Low-income reported: 180
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NOKOMIS HTS.
+- Record status: Existing, unchanged

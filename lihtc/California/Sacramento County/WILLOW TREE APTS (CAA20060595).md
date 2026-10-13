@@ -1,0 +1,85 @@
+# Project: WILLOW TREE APTS (CAA20060595)
+
+- HUD ID: CAA20060595
+- HUD ID before: 
+- Project: WILLOW TREE APTS
+- Address: 4300 NORWOOD AVE
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95838
+- ZIP extension: 
+- State project ID: CA-05-850
+- Latitude: 38.645965
+- Longitude: -121.456691
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067006704
+- Tract 2010: 06067006701
+- Tract 2000: 06067006701
+- Tract 1990: 06067006701
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 64000
+- Place 1990: 2420
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 277747
+- Units: 108
+- Low-income units: 106
+- Units reported: 108
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 48
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

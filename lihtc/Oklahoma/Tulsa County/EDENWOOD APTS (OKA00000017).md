@@ -1,0 +1,85 @@
+# Project: EDENWOOD APTS (OKA00000017)
+
+- HUD ID: OKA00000017
+- HUD ID before: 
+- Project: EDENWOOD APTS
+- Address: 2189 N HARTFORD AVE
+- City: TULSA
+- State: OK
+- ZIP: 74106
+- ZIP extension: 
+- State project ID: 060128
+- Latitude: 36.186332
+- Longitude: -95.984343
+- County FIPS: 40143
+- County from: 2020
+- Tract 2020: 40143011400
+- Tract 2010: 40143000600
+- Tract 2000: 40143000600
+- Tract 1990: 40143000600
+- Place 2020: 75000
+- Place 2010: 75000
+- Place 2000: 75000
+- Place 1990: 2465
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 191
+- Low-income units: 191
+- Units reported: 191
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

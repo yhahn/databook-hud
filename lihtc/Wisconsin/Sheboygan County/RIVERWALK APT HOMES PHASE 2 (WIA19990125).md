@@ -1,0 +1,85 @@
+# Project: RIVERWALK APT HOMES PHASE 2 (WIA19990125)
+
+- HUD ID: WIA19990125
+- HUD ID before: 
+- Project: RIVERWALK APT HOMES PHASE 2
+- Address: 828 N WATER ST
+- City: SHEBOYGAN
+- State: WI
+- ZIP: 53081
+- ZIP extension: 
+- State project ID: 2300
+- Latitude: 43.754155
+- Longitude: -87.71824
+- County FIPS: 55117
+- County from: 2020
+- Tract 2020: 55117000500
+- Tract 2010: 55117000500
+- Tract 2000: 55117000500
+- Tract 1990: 55117000500
+- Place 2020: 72975
+- Place 2010: 72975
+- Place 2000: 72975
+- Place 1990: 2300
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 10
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA RIVERWALK APTS HOMES PHASE II.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SPRING GROVE APTS (ILB20110268)
+
+- HUD ID: ILB20110268
+- HUD ID before: 
+- Project: SPRING GROVE APTS
+- Address: 4554 S DREXEL BLVD
+- City: CHICAGO
+- State: IL
+- ZIP: 60653
+- ZIP extension: 
+- State project ID: 1041110
+- Latitude: 41.812256
+- Longitude: -87.604626
+- County FIPS: 17031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17031390300
+- Tract 2000: 17031390300
+- Tract 1990: 17031390300
+- Place 2020: 
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 11774874
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 26
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB1988080.
+- Record status: Existing, unchanged

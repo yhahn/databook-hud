@@ -1,0 +1,85 @@
+# Project: MARIPOSA AT RIVER BEND APTSNT HOMES (TXA00000398)
+
+- HUD ID: TXA00000398
+- HUD ID before: 
+- Project: MARIPOSA AT RIVER BEND APTSNT HOMES
+- Address: 121 RIVER BEND DR
+- City: GEORGETOWN
+- State: TX
+- ZIP: 78628
+- ZIP extension: 
+- State project ID: TX4220
+- Latitude: 30.66433
+- Longitude: -97.686052
+- County FIPS: 48491
+- County from: 2020
+- Tract 2020: 48491020114
+- Tract 2010: 48491020114
+- Tract 2000: 48491020102
+- Tract 1990: 48491020102
+- Place 2020: 29336
+- Place 2010: 29336
+- Place 2000: 29336
+- Place 1990: 1600
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 198
+- Low-income units: 198
+- Units reported: 198
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

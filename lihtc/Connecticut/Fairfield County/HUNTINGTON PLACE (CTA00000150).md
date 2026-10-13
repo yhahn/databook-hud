@@ -1,0 +1,85 @@
+# Project: HUNTINGTON PLACE (CTA00000150)
+
+- HUD ID: CTA00000150
+- HUD ID before: 
+- Project: HUNTINGTON PLACE
+- Address: 1235 HUNTINGTON TPKE
+- City: TRUMBULL
+- State: CT
+- ZIP: 06611
+- ZIP extension: 
+- State project ID: 
+- Latitude: 41.225879
+- Longitude: -73.16564
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001090500
+- Tract 2010: 09001090500
+- Tract 2000: 09001090500
+- Tract 1990: 09001090500
+- Place 2020: 77278
+- Place 2010: 77270
+- Place 2000: 77270
+- Place 1990: 2350
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

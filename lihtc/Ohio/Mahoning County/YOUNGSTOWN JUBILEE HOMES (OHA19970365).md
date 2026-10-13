@@ -1,0 +1,85 @@
+# Project: YOUNGSTOWN JUBILEE HOMES (OHA19970365)
+
+- HUD ID: OHA19970365
+- HUD ID before: 
+- Project: YOUNGSTOWN JUBILEE HOMES
+- Address: 1701 FOREST VIEW DR
+- City: YOUNGSTOWN
+- State: OH
+- ZIP: 44505
+- ZIP extension: 
+- State project ID: OH-95-0093
+- Latitude: 41.122961
+- Longitude: -80.617238
+- County FIPS: 39099
+- County from: 2020
+- Tract 2020: 39099800501
+- Tract 2010: 39099800500
+- Tract 2000: 39099800500
+- Tract 1990: 39099800500
+- Place 2020: 88000
+- Place 2010: 88000
+- Place 2000: 88000
+- Place 1990: 4845
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 283607
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 17
+- 4-bedroom units: 13
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CUSHMAN ARMS APTS (SCA19870012)
+
+- HUD ID: SCA19870012
+- HUD ID before: 
+- Project: CUSHMAN ARMS APTS
+- Address: 650 CUSHMAN DR
+- City: AIKEN
+- State: SC
+- ZIP: 29801
+- ZIP extension: 
+- State project ID: SC-87-003
+- Latitude: 33.575825
+- Longitude: -81.721486
+- County FIPS: 45003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45003021400
+- Tract 2000: 45003021400
+- Tract 1990: 45003021400
+- Place 2020: 
+- Place 2010: 00550
+- Place 2000: 00550
+- Place 1990: 0010
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 88187
+- Units: 34
+- Low-income units: 31
+- Units reported: 34
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

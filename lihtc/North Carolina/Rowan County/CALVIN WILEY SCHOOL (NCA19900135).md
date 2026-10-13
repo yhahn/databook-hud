@@ -1,0 +1,85 @@
+# Project: CALVIN WILEY SCHOOL (NCA19900135)
+
+- HUD ID: NCA19900135
+- HUD ID before: 
+- Project: CALVIN WILEY SCHOOL
+- Address: 211 RIDGE AVE
+- City: SALISBURY
+- State: NC
+- ZIP: 28144
+- ZIP extension: 
+- State project ID: 310
+- Latitude: 35.66296
+- Longitude: -80.485701
+- County FIPS: 37159
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37159050300
+- Tract 2000: 37159050300
+- Tract 1990: 37159050300
+- Place 2020: 
+- Place 2010: 58860
+- Place 2000: 58860
+- Place 1990: 2195
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 236277
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 4
+- 1-bedroom units: 59
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

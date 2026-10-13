@@ -1,0 +1,85 @@
+# Project: ST. EDMUND'S VILLAGE, LLC (ILB20000802)
+
+- HUD ID: ILB20000802
+- HUD ID before: 
+- Project: ST. EDMUND'S VILLAGE, LLC
+- Address: 6253 S MICHIGAN AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60619
+- ZIP extension: 
+- State project ID: TC 99-027
+- Latitude: 41.780865
+- Longitude: -87.621898
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031400800
+- Tract 2010: 17031400800
+- Tract 2000: 17031400800
+- Tract 1990: 17031400800
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 230
+- Low-income units: 230
+- Units reported: 230
+- Low-income reported: 230
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 138
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 186
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2000055.
+- Record status: Existing, unchanged

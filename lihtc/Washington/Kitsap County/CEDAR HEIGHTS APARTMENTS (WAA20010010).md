@@ -1,0 +1,85 @@
+# Project: CEDAR HEIGHTS APARTMENTS (WAA20010010)
+
+- HUD ID: WAA20010010
+- HUD ID before: 
+- Project: CEDAR HEIGHTS APARTMENTS
+- Address: 333 LIPPERT DRIVE WEST
+- City: PORT ORCHARD
+- State: WA
+- ZIP: 98366
+- ZIP extension: 
+- State project ID: 00-55
+- Latitude: 47.518463
+- Longitude: -122.65382
+- County FIPS: 53035
+- County from: 2020
+- Tract 2020: 53035092200
+- Tract 2010: 53035092200
+- Tract 2000: 53035092200
+- Tract 1990: 53035092200
+- Place 2020: 55785
+- Place 2010: 55785
+- Place 2000: 55785
+- Place 1990: 1000
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 98116
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 30
+- 3-bedroom units: 6
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

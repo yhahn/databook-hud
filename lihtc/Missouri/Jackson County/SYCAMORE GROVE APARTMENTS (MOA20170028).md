@@ -1,0 +1,85 @@
+# Project: SYCAMORE GROVE APARTMENTS (MOA20170028)
+
+- HUD ID: MOA20170028
+- HUD ID before: 
+- Project: SYCAMORE GROVE APARTMENTS
+- Address: 2920 E. 17TH STREET
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64127
+- ZIP extension: 0000
+- State project ID: 13-412
+- Latitude: 39.092273
+- Longitude: -94.548438
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095016000
+- Tract 2010: 29095016000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 38000
+- Place 2010: 38000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 558709
+- Units: 179
+- Low-income units: 179
+- Units reported: 179
+- Low-income reported: 179
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 80
+- 3-bedroom units: 48
+- 4-bedroom units: 11
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Handicapped
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BUSCH CROSSING (SCA20030025)
+
+- HUD ID: SCA20030025
+- HUD ID before: 
+- Project: BUSCH CROSSING
+- Address: 600 CARVER TER NE
+- City: AIKEN
+- State: SC
+- ZIP: 29801
+- ZIP extension: 
+- State project ID: SC-01-030
+- Latitude: 33.565791
+- Longitude: -81.699868
+- County FIPS: 45003
+- County from: 2020
+- Tract 2020: 45003021402
+- Tract 2010: 45003021400
+- Tract 2000: 45003021400
+- Tract 1990: 45003021400
+- Place 2020: 00550
+- Place 2010: 00550
+- Place 2000: 00550
+- Place 1990: 0010
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 221790
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 16
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BRYN MAWR/BELLE SHORE APTS (ILB19989001)
+
+- HUD ID: ILB19989001
+- HUD ID before: 
+- Project: BRYN MAWR/BELLE SHORE APTS
+- Address: 1062 W BRYN MAWR AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60660
+- ZIP extension: 4602
+- State project ID: IL-97-020
+- Latitude: 41.983824
+- Longitude: -87.65749
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031030603
+- Tract 2010: 17031030603
+- Tract 2000: 17031030600
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 371
+- Low-income units: 359
+- Units reported: 371
+- Low-income reported: 359
+- Efficiencies: 336
+- 1-bedroom units: 35
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

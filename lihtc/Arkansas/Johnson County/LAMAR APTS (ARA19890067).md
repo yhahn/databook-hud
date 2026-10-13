@@ -1,0 +1,85 @@
+# Project: LAMAR APTS (ARA19890067)
+
+- HUD ID: ARA19890067
+- HUD ID before: 
+- Project: LAMAR APTS
+- Address: 299 N CUMBERLAND ST
+- City: LAMAR
+- State: AR
+- ZIP: 72846
+- ZIP extension: 
+- State project ID: AR-89-15
+- Latitude: 35.444487
+- Longitude: -93.385265
+- County FIPS: 05071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05071952200
+- Tract 2000: 05071952200
+- Tract 1990: 05071952200
+- Place 2020: 
+- Place 2010: 38290
+- Place 2000: 37300
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1989566.
+- Record status: Existing, unchanged

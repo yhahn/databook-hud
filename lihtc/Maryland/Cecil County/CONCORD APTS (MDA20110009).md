@@ -1,0 +1,85 @@
+# Project: CONCORD APTS (MDA20110009)
+
+- HUD ID: MDA20110009
+- HUD ID before: 
+- Project: CONCORD APTS
+- Address: 100 CONCORD DR
+- City: PERRYVILLE
+- State: MD
+- ZIP: 21903
+- ZIP extension: 
+- State project ID: MD10-06001
+- Latitude: 39.562214
+- Longitude: -76.072508
+- County FIPS: 24015
+- County from: 2020
+- Tract 2020: 24015031202
+- Tract 2010: 24015031202
+- Tract 2000: 24015031202
+- Tract 1990: 24015031202
+- Place 2020: 61150
+- Place 2010: 61150
+- Place 2000: 61150
+- Place 1990: 0760
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 118
+- Low-income units: 118
+- Units reported: 118
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 90
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

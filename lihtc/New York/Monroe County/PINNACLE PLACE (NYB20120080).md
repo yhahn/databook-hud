@@ -1,0 +1,85 @@
+# Project: PINNACLE PLACE (NYB20120080)
+
+- HUD ID: NYB20120080
+- HUD ID before: 
+- Project: PINNACLE PLACE
+- Address: 919 CLINTON AVE
+- City: ROCHESTER
+- State: NY
+- ZIP: 14620
+- ZIP extension: 
+- State project ID: 2114
+- Latitude: 43.140066
+- Longitude: -77.596591
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055003300
+- Tract 2010: 36055003300
+- Tract 2000: 36055003300
+- Tract 1990: 36055003300
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 3100
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1109917
+- Units: 407
+- Low-income units: 405
+- Units reported: 407
+- Low-income reported: 405
+- Efficiencies: 71
+- 1-bedroom units: 336
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

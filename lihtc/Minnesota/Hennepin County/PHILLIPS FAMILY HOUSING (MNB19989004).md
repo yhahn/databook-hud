@@ -1,0 +1,85 @@
+# Project: PHILLIPS FAMILY HOUSING (MNB19989004)
+
+- HUD ID: MNB19989004
+- HUD ID before: 
+- Project: PHILLIPS FAMILY HOUSING
+- Address: 2714 CHICAGO AVENUE
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55407
+- ZIP extension: 3779
+- State project ID: D1863
+- Latitude: 44.953118
+- Longitude: -93.26286
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053126000
+- Tract 2010: 27053126000
+- Tract 2000: 27053007802
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 449140
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 89
+- Efficiencies: 1
+- 1-bedroom units: 21
+- 2-bedroom units: 36
+- 3-bedroom units: 20
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

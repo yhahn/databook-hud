@@ -1,0 +1,85 @@
+# Project: CLOVER GARDENS (CTA20211002)
+
+- HUD ID: CTA20211002
+- HUD ID before: 
+- Project: CLOVER GARDENS
+- Address: 834, 846, 852 ASYLUM AVE, 1 HUNTINGTON ST
+- City: HARTFORD
+- State: CT
+- ZIP: 06105
+- ZIP extension: 
+- State project ID: CT-19-403
+- Latitude: 41.77006
+- Longitude: -72.692657
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003503300
+- Tract 2010: 09003503300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 358958
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 8
+- 1-bedroom units: 19
+- 2-bedroom units: 3
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

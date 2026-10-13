@@ -1,0 +1,85 @@
+# Project: CREEKWOOD VILLAGE APTS (ALA20040042)
+
+- HUD ID: ALA20040042
+- HUD ID before: 
+- Project: CREEKWOOD VILLAGE APTS
+- Address: 1750 40TH AVE
+- City: TUSCALOOSA
+- State: AL
+- ZIP: 35401
+- ZIP extension: 
+- State project ID: AL-01-0807
+- Latitude: 33.19809
+- Longitude: -87.588872
+- County FIPS: 01125
+- County from: 2020
+- Tract 2020: 01125011703
+- Tract 2010: 01125011703
+- Tract 2000: 01125011703
+- Tract 1990: 01125011702
+- Place 2020: 77256
+- Place 2010: 77256
+- Place 2000: 77256
+- Place 1990: 1720
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 147400
+- Units: 125
+- Low-income units: 117
+- Units reported: 125
+- Low-income reported: 117
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 25
+- 3-bedroom units: 64
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 125
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2002020. AKA SUMMIT CREEKWOOD.
+- Record status: Existing, unchanged

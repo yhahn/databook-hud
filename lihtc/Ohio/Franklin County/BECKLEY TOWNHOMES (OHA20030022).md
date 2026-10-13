@@ -1,0 +1,85 @@
+# Project: BECKLEY TOWNHOMES (OHA20030022)
+
+- HUD ID: OHA20030022
+- HUD ID before: 
+- Project: BECKLEY TOWNHOMES
+- Address: 4748 BAYVIEW PL
+- City: COLUMBUS
+- State: OH
+- ZIP: 43230
+- ZIP extension: 
+- State project ID: 020093
+- Latitude: 40.049683
+- Longitude: -82.894897
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049007494
+- Tract 2010: 39049007494
+- Tract 2000: 39049007491
+- Tract 1990: 39049007490
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 1465
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 57079
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 38
+- 3-bedroom units: 4
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003631, OHA2004065.
+- Record status: Existing, unchanged

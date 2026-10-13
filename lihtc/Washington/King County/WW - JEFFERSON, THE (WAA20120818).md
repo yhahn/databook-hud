@@ -1,0 +1,85 @@
+# Project: WW - JEFFERSON, THE (WAA20120818)
+
+- HUD ID: WAA20120818
+- HUD ID before: 
+- Project: WW - JEFFERSON, THE
+- Address: 1206 E. JEFFERSON ST.
+- City: SEATTLE
+- State: WA
+- ZIP: 98122
+- ZIP extension: 
+- State project ID: 10-91A
+- Latitude: 47.606357
+- Longitude: -122.31654
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033008600
+- Tract 2010: 53033008600
+- Tract 2000: 53033008600
+- Tract 1990: 53033008600
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 1140
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 412755
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: Previously listed as WAA0000811.
+- Record status: Updated

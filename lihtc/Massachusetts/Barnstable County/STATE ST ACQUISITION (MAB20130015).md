@@ -1,0 +1,85 @@
+# Project: STATE ST ACQUISITION (MAB20130015)
+
+- HUD ID: MAB20130015
+- HUD ID before: 
+- Project: STATE ST ACQUISITION
+- Address: 78 SAINTS LANDING
+- City: BREWSTER
+- State: MA
+- ZIP: 02631
+- ZIP extension: 
+- State project ID: 
+- Latitude: 41.763702
+- Longitude: -70.101576
+- County FIPS: 25001
+- County from: 2020
+- Tract 2020: 25001010800
+- Tract 2010: 25001010800
+- Tract 2000: 25001010800
+- Tract 1990: 25001010800
+- Place 2020: 07945
+- Place 2010: 07945
+- Place 2000: 07945
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 66
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA ST ANDREW'S HOME
+- Record status: Existing, unchanged

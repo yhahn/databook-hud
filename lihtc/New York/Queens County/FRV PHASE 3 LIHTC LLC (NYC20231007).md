@@ -1,0 +1,85 @@
+# Project: FRV PHASE 3 LIHTC LLC (NYC20231007)
+
+- HUD ID: NYC20231007
+- HUD ID before: 
+- Project: FRV PHASE 3 LIHTC LLC
+- Address: 1626 VILLAGE LN
+- City: FAR ROCKAWAY
+- State: NY
+- ZIP: 11691
+- ZIP extension: 
+- State project ID: 27-0000074
+- Latitude: 40.6019
+- Longitude: -73.7628
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081103202
+- Tract 2010: 36081100802
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 7229206
+- Units: 354
+- Low-income units: 353
+- Units reported: 354
+- Low-income reported: 353
+- Efficiencies: 42
+- 1-bedroom units: 102
+- 2-bedroom units: 163
+- 3-bedroom units: 46
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 60
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: Yes
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

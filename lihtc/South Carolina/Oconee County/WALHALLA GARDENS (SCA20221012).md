@@ -1,0 +1,85 @@
+# Project: WALHALLA GARDENS (SCA20221012)
+
+- HUD ID: SCA20221012
+- HUD ID before: 
+- Project: WALHALLA GARDENS
+- Address: 100 WALHALLA GARDEN CIRCLE #9
+- City: WALHALLA
+- State: SC
+- ZIP: 29691
+- ZIP extension: 0000
+- State project ID: SC-20005
+- Latitude: 34.772281
+- Longitude: -83.076168
+- County FIPS: 45073
+- County from: 2020
+- Tract 2020: 45073030404
+- Tract 2010: 45073030401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 74095
+- Place 2010: 74095
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 501380
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

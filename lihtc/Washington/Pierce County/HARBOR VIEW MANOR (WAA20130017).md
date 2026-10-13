@@ -1,0 +1,85 @@
+# Project: HARBOR VIEW MANOR (WAA20130017)
+
+- HUD ID: WAA20130017
+- HUD ID before: 
+- Project: HARBOR VIEW MANOR
+- Address: 919 SOUTH FAWCETT AVE
+- City: TACOMA
+- State: WA
+- ZIP: 98402
+- ZIP extension: 
+- State project ID: 11-18
+- Latitude: 47.254036
+- Longitude: -122.442987
+- County FIPS: 53053
+- County from: 2020
+- Tract 2020: 53053061601
+- Tract 2010: 53053061601
+- Tract 2000: 53053061601
+- Tract 1990: 53053061601
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 1280
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1380241
+- Units: 169
+- Low-income units: 159
+- Units reported: 169
+- Low-income reported: 159
+- Efficiencies: 91
+- 1-bedroom units: 78
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA0000307. AKA HARBORVIEW MANOR.
+- Record status: Updated

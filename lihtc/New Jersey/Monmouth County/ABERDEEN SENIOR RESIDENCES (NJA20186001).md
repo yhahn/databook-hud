@@ -1,0 +1,85 @@
+# Project: ABERDEEN SENIOR RESIDENCES (NJA20186001)
+
+- HUD ID: NJA20186001
+- HUD ID before: 
+- Project: ABERDEEN SENIOR RESIDENCES
+- Address: 100 CHURCH ST
+- City: ABERDEEN
+- State: NJ
+- ZIP: 07747
+- ZIP extension: 2366
+- State project ID: 03051-1
+- Latitude: 40.409102
+- Longitude: -74.229975
+- County FIPS: 34025
+- County from: 2020
+- Tract 2020: 34025802700
+- Tract 2010: 34025803000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71280
+- Place 2010: 44520
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 83478
+- Units: 74
+- Low-income units: 74
+- Units reported: 74
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 66
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

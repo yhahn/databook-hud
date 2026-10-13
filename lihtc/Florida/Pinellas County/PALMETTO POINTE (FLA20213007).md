@@ -1,0 +1,85 @@
+# Project: PALMETTO POINTE (FLA20213007)
+
+- HUD ID: FLA20213007
+- HUD ID before: 
+- Project: PALMETTO POINTE
+- Address: 7875 49TH STREET NORTH
+- City: PINELLAS PARK
+- State: FL
+- ZIP: 33781
+- ZIP extension: 
+- State project ID: FL-16-3019
+- Latitude: 27.843987
+- Longitude: -82.699771
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103024907
+- Tract 2010: 12103024902
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 56975
+- Place 2010: 56975
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 638366
+- Units: 82
+- Low-income units: 82
+- Units reported: 82
+- Low-income reported: 82
+- Efficiencies: 
+- 1-bedroom units: 6
+- 2-bedroom units: 48
+- 3-bedroom units: 28
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 7983192
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

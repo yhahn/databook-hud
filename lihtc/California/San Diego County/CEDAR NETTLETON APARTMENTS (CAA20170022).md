@@ -1,0 +1,85 @@
+# Project: CEDAR NETTLETON APARTMENTS (CAA20170022)
+
+- HUD ID: CAA20170022
+- HUD ID before: 
+- Project: CEDAR NETTLETON APARTMENTS
+- Address: 245 CEDAR ROAD
+- City: VISTA
+- State: CA
+- ZIP: 92083
+- ZIP extension: 
+- State project ID: CA-16-914
+- Latitude: 33.189545
+- Longitude: -117.283729
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073018519
+- Tract 2010: 06073018519
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 82996
+- Place 2010: 82996
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 448827
+- Units: 68
+- Low-income units: 67
+- Units reported: 68
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 36
+- 4-bedroom units: 14
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

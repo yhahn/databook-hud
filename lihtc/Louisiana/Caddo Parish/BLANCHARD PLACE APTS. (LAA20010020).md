@@ -1,0 +1,85 @@
+# Project: BLANCHARD PLACE APTS. (LAA20010020)
+
+- HUD ID: LAA20010020
+- HUD ID before: 
+- Project: BLANCHARD PLACE APTS.
+- Address: 3900 ROY ROAD
+- City: BLANCHARD
+- State: LA
+- ZIP: 71107
+- ZIP extension: 0000
+- State project ID: LA-00-024
+- Latitude: 32.580011
+- Longitude: -93.84596
+- County FIPS: 22017
+- County from: 2020
+- Tract 2020: 22017025405
+- Tract 2010: 22017025405
+- Tract 2000: 22017024502
+- Tract 1990: 22017024502
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 07730
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 22853
+- Units: 32
+- Low-income units: 8
+- Units reported: 32
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA2001018, LAA1997017, LAA1997015. FKA BLANCHARD PLACE APTS PHASES I & II;
+- Record status: Existing, unchanged

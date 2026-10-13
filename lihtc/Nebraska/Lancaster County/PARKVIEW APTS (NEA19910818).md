@@ -1,0 +1,85 @@
+# Project: PARKVIEW APTS (NEA19910818)
+
+- HUD ID: NEA19910818
+- HUD ID before: 
+- Project: PARKVIEW APTS
+- Address: 5145 O ST
+- City: LINCOLN
+- State: NE
+- ZIP: 68510
+- ZIP extension: 
+- State project ID: 67102
+- Latitude: 40.813223
+- Longitude: -96.649573
+- County FIPS: 31109
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31109001400
+- Tract 2000: 31109001400
+- Tract 1990: 31109001400
+- Place 2020: 
+- Place 2010: 28000
+- Place 2000: 28000
+- Place 1990: 1425
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 48797
+- Units: 108
+- Low-income units: 44
+- Units reported: 108
+- Low-income reported: 44
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

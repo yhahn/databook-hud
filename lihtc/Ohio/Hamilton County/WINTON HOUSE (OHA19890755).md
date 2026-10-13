@@ -1,0 +1,85 @@
+# Project: WINTON HOUSE (OHA19890755)
+
+- HUD ID: OHA19890755
+- HUD ID before: 
+- Project: WINTON HOUSE
+- Address: 1150 WAYCROSS RD
+- City: CINCINNATI
+- State: OH
+- ZIP: 45240
+- ZIP extension: 
+- State project ID: OH-89-0509
+- Latitude: 39.283759
+- Longitude: -84.52085
+- County FIPS: 39061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39061021505
+- Tract 2000: 39061021505
+- Tract 1990: 39061021505
+- Place 2020: 
+- Place 2010: 27706
+- Place 2000: 27706
+- Place 1990: 1402
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 109
+- Units reported: 120
+- Low-income reported: 109
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

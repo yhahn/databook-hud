@@ -1,0 +1,85 @@
+# Project: FAMILIES FIRST (ARA20020050)
+
+- HUD ID: ARA20020050
+- HUD ID before: 
+- Project: FAMILIES FIRST
+- Address: 719 N ARRINGTON DR
+- City: WEST MEMPHIS
+- State: AR
+- ZIP: 72301
+- ZIP extension: 
+- State project ID: AR-00-10-001
+- Latitude: 35.126909
+- Longitude: -90.201464
+- County FIPS: 05035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05035030600
+- Tract 2000: 05035030102
+- Tract 1990: 05035030100
+- Place 2020: 
+- Place 2010: 74540
+- Place 2000: 74540
+- Place 1990: 3005
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 188295
+- Units: 51
+- Low-income units: 40
+- Units reported: 51
+- Low-income reported: 40
+- Efficiencies: 3
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 30
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

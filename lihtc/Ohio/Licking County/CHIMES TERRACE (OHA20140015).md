@@ -1,0 +1,85 @@
+# Project: CHIMES TERRACE (OHA20140015)
+
+- HUD ID: OHA20140015
+- HUD ID before: 
+- Project: CHIMES TERRACE
+- Address: 65 S WILLIAMS ST
+- City: JOHNSTOWN
+- State: OH
+- ZIP: 43031
+- ZIP extension: 
+- State project ID: 110014
+- Latitude: 40.151528
+- Longitude: -82.686204
+- County FIPS: 39089
+- County from: 2020
+- Tract 2020: 39089755302
+- Tract 2010: 39089755300
+- Tract 2000: 39089755300
+- Tract 1990: 39089755300
+- Place 2020: 39340
+- Place 2010: 39340
+- Place 2000: 39340
+- Place 1990: 1995
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 444154
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

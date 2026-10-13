@@ -1,0 +1,85 @@
+# Project: WESTWIND OF LAMESA (TXA0000X200)
+
+- HUD ID: TXA0000X200
+- HUD ID before: 
+- Project: WESTWIND OF LAMESA
+- Address: 211 NE 7TH STREET
+- City: LAMESA
+- State: TX
+- ZIP: 79331
+- ZIP extension: 
+- State project ID: TX5337
+- Latitude: 32.739552
+- Longitude: -101.951371
+- County FIPS: 48115
+- County from: 2020
+- Tract 2020: 48115950401
+- Tract 2010: 48115950401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 41164
+- Place 2010: 41164
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 64
+- Units reported: 80
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

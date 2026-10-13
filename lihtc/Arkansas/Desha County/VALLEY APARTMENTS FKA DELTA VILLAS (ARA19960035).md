@@ -1,0 +1,85 @@
+# Project: VALLEY APARTMENTS FKA DELTA VILLAS (ARA19960035)
+
+- HUD ID: ARA19960035
+- HUD ID before: 
+- Project: VALLEY APARTMENTS FKA DELTA VILLAS
+- Address: 301 ROBINWOOD LN
+- City: MCGEHEE
+- State: AR
+- ZIP: 71654
+- ZIP extension: 
+- State project ID: AR-95-13
+- Latitude: 33.620287
+- Longitude: -91.395152
+- County FIPS: 05041
+- County from: 2020
+- Tract 2020: 05041950400
+- Tract 2010: 05041950400
+- Tract 2000: 05041950400
+- Tract 1990: 05041950400
+- Place 2020: 42770
+- Place 2010: 42770
+- Place 2000: 42770
+- Place 1990: 1250
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 106128
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA DELTA VILLAS
+- Record status: Existing, unchanged

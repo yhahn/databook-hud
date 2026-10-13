@@ -1,0 +1,85 @@
+# Project: ADMIRAL LANDING 4-FKA FOXCHASE ILLAGE (MDA20221001)
+
+- HUD ID: MDA20221001
+- HUD ID before: 
+- Project: ADMIRAL LANDING 4-FKA FOXCHASE ILLAGE
+- Address: 45965. 45975 FOXCHASE DRIVE
+- City: GREAT MILLS
+- State: MD
+- ZIP: 29634
+- ZIP extension: 
+- State project ID: MD-89-15001-3
+- Latitude: 34.6516
+- Longitude: -82.8196
+- County FIPS: 45077
+- County from: 2020
+- Tract 2020: 45077011202
+- Tract 2010: 45077011202
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 15040
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 579406
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 55
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

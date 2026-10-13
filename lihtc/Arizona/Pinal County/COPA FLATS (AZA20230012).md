@@ -1,0 +1,85 @@
+# Project: COPA FLATS (AZA20230012)
+
+- HUD ID: AZA20230012
+- HUD ID before: 
+- Project: COPA FLATS
+- Address: 17485 N PORTER ROAD
+- City: MARICOPA
+- State: AZ
+- ZIP: 85138
+- ZIP extension: 
+- State project ID: BD-0106-21
+- Latitude: 33.03838
+- Longitude: -112.01266
+- County FIPS: 04021
+- County from: 2020
+- Tract 2020: 04021001714
+- Tract 2010: 04021001711
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 44410
+- Place 2010: 44410
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 4263189
+- Units: 312
+- Low-income units: 312
+- Units reported: 312
+- Low-income reported: 312
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 108
+- 3-bedroom units: 156
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

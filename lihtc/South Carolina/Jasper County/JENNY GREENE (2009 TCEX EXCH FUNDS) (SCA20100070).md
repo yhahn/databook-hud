@@ -1,0 +1,85 @@
+# Project: JENNY GREENE (2009 TCEX EXCH FUNDS) (SCA20100070)
+
+- HUD ID: SCA20100070
+- HUD ID before: 
+- Project: JENNY GREENE (2009 TCEX EXCH FUNDS)
+- Address: 22 THATCHER RD
+- City: HARDEEVILLE
+- State: SC
+- ZIP: 29927
+- ZIP extension: 
+- State project ID: SC-09-007
+- Latitude: 32.3442
+- Longitude: -81.0938
+- County FIPS: 45053
+- County from: 2020
+- Tract 2020: 45053950301
+- Tract 2010: 45053950300
+- Tract 2000: 45053950300
+- Tract 1990: 45053950300
+- Place 2020: 99999
+- Place 2010: 32245
+- Place 2000: 32245
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 780000
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 14
+- 3-bedroom units: 12
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 6630000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

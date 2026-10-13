@@ -1,0 +1,85 @@
+# Project: LIBRARY COURT SENIOR HOUSING (OHA20110095)
+
+- HUD ID: OHA20110095
+- HUD ID before: 
+- Project: LIBRARY COURT SENIOR HOUSING
+- Address: 16301 CHAGRIN BLVD
+- City: SHAKER HEIGHTS
+- State: OH
+- ZIP: 44120
+- ZIP extension: 
+- State project ID: 090093
+- Latitude: 41.464617
+- Longitude: -81.567157
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035183402
+- Tract 2010: 39035183402
+- Tract 2000: 39035183402
+- Tract 1990: 39035183402
+- Place 2020: 71682
+- Place 2010: 71682
+- Place 2000: 71682
+- Place 1990: 3905
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2318915
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2011863.
+- Record status: Existing, unchanged

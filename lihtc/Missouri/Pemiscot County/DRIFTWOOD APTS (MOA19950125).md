@@ -1,0 +1,85 @@
+# Project: DRIFTWOOD APTS (MOA19950125)
+
+- HUD ID: MOA19950125
+- HUD ID before: 
+- Project: DRIFTWOOD APTS
+- Address: 813 DRIFTWOOD EST
+- City: HAYTI
+- State: MO
+- ZIP: 63851
+- ZIP extension: 
+- State project ID: 94112
+- Latitude: 36.226752
+- Longitude: -89.755467
+- County FIPS: 29155
+- County from: 2020
+- Tract 2020: 29155470200
+- Tract 2010: 29155470200
+- Tract 2000: 29155970200
+- Tract 1990: 29155970200
+- Place 2020: 31132
+- Place 2010: 31132
+- Place 2000: 31132
+- Place 1990: 1900
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

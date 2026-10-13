@@ -1,0 +1,85 @@
+# Project: HEARTHSIDE AT PEACHTREE CITY (GAA20130013)
+
+- HUD ID: GAA20130013
+- HUD ID before: 
+- Project: HEARTHSIDE AT PEACHTREE CITY
+- Address: 1000 NEWGATE ROAD
+- City: PEACHTREE CITY
+- State: GA
+- ZIP: 32069
+- ZIP extension: 
+- State project ID: GA-11-050
+- Latitude: 33.437115
+- Longitude: -84.593151
+- County FIPS: 13113
+- County from: 2020
+- Tract 2020: 13113140207
+- Tract 2010: 13113140207
+- Tract 2000: 13113140205
+- Tract 1990: 13113140202
+- Place 2020: 59724
+- Place 2010: 59724
+- Place 2000: 59724
+- Place 1990: 2177
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 930000
+- Units: 84
+- Low-income units: 82
+- Units reported: 84
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 80
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000213. AKA HEARTHSIDE AT PTC.
+- Record status: Existing, unchanged

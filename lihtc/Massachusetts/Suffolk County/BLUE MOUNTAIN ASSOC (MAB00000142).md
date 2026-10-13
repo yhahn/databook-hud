@@ -1,0 +1,85 @@
+# Project: BLUE MOUNTAIN ASSOC (MAB00000142)
+
+- HUD ID: MAB00000142
+- HUD ID before: 
+- Project: BLUE MOUNTAIN ASSOC
+- Address: 80 WASHINGTON ST
+- City: DORCHESTER
+- State: MA
+- ZIP: 02121
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.305986
+- Longitude: -71.08094
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025090200
+- Tract 2010: 25025090200
+- Tract 2000: 25025090200
+- Tract 1990: 25025090200
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 217
+- Low-income units: 217
+- Units reported: 217
+- Low-income reported: 217
+- Efficiencies: 0
+- 1-bedroom units: 105
+- 2-bedroom units: 72
+- 3-bedroom units: 19
+- 4-bedroom units: 20
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

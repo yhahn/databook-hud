@@ -1,0 +1,85 @@
+# Project: WINDSOR CROSSING SENIOR APTS (MDA20030094)
+
+- HUD ID: MDA20030094
+- HUD ID before: 
+- Project: WINDSOR CROSSING SENIOR APTS
+- Address: 4866 EASTERN LN
+- City: SUITLAND
+- State: MD
+- ZIP: 
+- ZIP extension: 
+- State project ID: MD01-23001
+- Latitude: 38.847554
+- Longitude: -76.918931
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033802002
+- Tract 2010: 24033802002
+- Tract 2000: 24033802002
+- Tract 1990: 24033802002
+- Place 2020: 75725
+- Place 2010: 75725
+- Place 2000: 75762
+- Place 1990: 0940
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 125
+- Low-income units: 125
+- Units reported: 125
+- Low-income reported: 125
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

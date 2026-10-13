@@ -1,0 +1,85 @@
+# Project: BEC PHASE II RESYNDICATION (NYC20194003)
+
+- HUD ID: NYC20194003
+- HUD ID before: 
+- Project: BEC PHASE II RESYNDICATION
+- Address: 152 ALBANY AVENUE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11213
+- ZIP extension: 
+- State project ID: NY 95 02 014
+- Latitude: 40.675429
+- Longitude: -73.939058
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047031100
+- Tract 2010: 36047031100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 2613565
+- Units: 475
+- Low-income units: 423
+- Units reported: 475
+- Low-income reported: 423
+- Efficiencies: 110
+- 1-bedroom units: 107
+- 2-bedroom units: 213
+- 3-bedroom units: 43
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

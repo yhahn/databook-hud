@@ -1,0 +1,85 @@
+# Project: PIEDMONT APTS (OAKLAND) (CAA20120844)
+
+- HUD ID: CAA20120844
+- HUD ID before: 
+- Project: PIEDMONT APTS (OAKLAND)
+- Address: 215 W MACARTHUR BLVD
+- City: OAKLAND
+- State: CA
+- ZIP: 94611
+- ZIP extension: 
+- State project ID: CA-12-805
+- Latitude: 37.822877
+- Longitude: -122.256533
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001403501
+- Tract 2010: 06001403501
+- Tract 2000: 06001403500
+- Tract 1990: 06001403500
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1970
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 953508
+- Units: 250
+- Low-income units: 247
+- Units reported: 250
+- Low-income reported: 247
+- Efficiencies: 33
+- 1-bedroom units: 193
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: Yes
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1996090.
+- Record status: Existing, unchanged

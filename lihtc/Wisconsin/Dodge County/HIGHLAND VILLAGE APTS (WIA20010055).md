@@ -1,0 +1,85 @@
+# Project: HIGHLAND VILLAGE APTS (WIA20010055)
+
+- HUD ID: WIA20010055
+- HUD ID before: 
+- Project: HIGHLAND VILLAGE APTS
+- Address: 117 HOMESTEAD LN
+- City: WATERTOWN
+- State: WI
+- ZIP: 53098
+- ZIP extension: 
+- State project ID: 2389
+- Latitude: 43.202851
+- Longitude: -88.696524
+- County FIPS: 55027
+- County from: 2020
+- Tract 2020: 55027961900
+- Tract 2010: 55027961900
+- Tract 2000: 55027961900
+- Tract 1990: 55027961900
+- Place 2020: 83975
+- Place 2010: 83975
+- Place 2000: 83975
+- Place 1990: 2660
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 49
+- Low-income units: 48
+- Units reported: 49
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

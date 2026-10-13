@@ -1,0 +1,85 @@
+# Project: CATALUNYA APARTMENTS (AZA20150002)
+
+- HUD ID: AZA20150002
+- HUD ID before: 
+- Project: CATALUNYA APARTMENTS
+- Address: 5180 EAST 22ND STREET
+- City: TUCSON
+- State: AZ
+- ZIP: 85711
+- ZIP extension: 
+- State project ID: BD-0066
+- Latitude: 32.206682
+- Longitude: -110.881542
+- County FIPS: 04019
+- County from: 2020
+- Tract 2020: 04019003502
+- Tract 2010: 04019003502
+- Tract 2000: 04019003502
+- Tract 1990: 
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 386207
+- Units: 140
+- Low-income units: 140
+- Units reported: 140
+- Low-income reported: 140
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 104
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

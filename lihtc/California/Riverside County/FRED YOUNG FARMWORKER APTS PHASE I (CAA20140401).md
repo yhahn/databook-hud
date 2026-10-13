@@ -1,0 +1,85 @@
+# Project: FRED YOUNG FARMWORKER APTS PHASE I (CAA20140401)
+
+- HUD ID: CAA20140401
+- HUD ID before: 
+- Project: FRED YOUNG FARMWORKER APTS PHASE I
+- Address: 83801 DR CARREON BLVD
+- City: INDIO
+- State: CA
+- ZIP: 92201
+- ZIP extension: 
+- State project ID: CA-12-826
+- Latitude: 33.707573
+- Longitude: -116.203888
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065049501
+- Tract 2010: 06065049500
+- Tract 2000: 06065045400
+- Tract 1990: 06065045400
+- Place 2020: 36448
+- Place 2010: 36448
+- Place 2000: 36448
+- Place 1990: 1330
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 880673
+- Units: 85
+- Low-income units: 84
+- Units reported: 85
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 33
+- 3-bedroom units: 28
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: Yes
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

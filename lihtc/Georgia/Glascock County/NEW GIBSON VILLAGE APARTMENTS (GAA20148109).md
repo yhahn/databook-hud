@@ -1,0 +1,85 @@
+# Project: NEW GIBSON VILLAGE APARTMENTS (GAA20148109)
+
+- HUD ID: GAA20148109
+- HUD ID before: 
+- Project: NEW GIBSON VILLAGE APARTMENTS
+- Address: 388 PROJECT ST
+- City: GIBSON
+- State: GA
+- ZIP: 30810
+- ZIP extension: 4006
+- State project ID: 2011-516
+- Latitude: 33.232117
+- Longitude: -82.600722
+- County FIPS: 13125
+- County from: 2020
+- Tract 2020: 13125010100
+- Tract 2010: 13125010100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 32748
+- Place 2010: 32748
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

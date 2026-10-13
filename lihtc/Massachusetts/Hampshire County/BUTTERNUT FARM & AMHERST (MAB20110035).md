@@ -1,0 +1,85 @@
+# Project: BUTTERNUT FARM & AMHERST (MAB20110035)
+
+- HUD ID: MAB20110035
+- HUD ID before: 
+- Project: BUTTERNUT FARM & AMHERST
+- Address: 12 LONGMEADOW DR
+- City: AMHERST
+- State: MA
+- ZIP: 01002
+- ZIP extension: 
+- State project ID: 1722
+- Latitude: 42.334345
+- Longitude: -72.524475
+- County FIPS: 25015
+- County from: 2020
+- Tract 2020: 25015820801
+- Tract 2010: 25015820801
+- Tract 2000: 25015820801
+- Tract 1990: 25015820801
+- Place 2020: 01370
+- Place 2010: 62675
+- Place 2000: 01360
+- Place 1990: 3932
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 14
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 715000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 6529566
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB20110035. AKA BUTTERNUT PROPERTIES.
+- Record status: Existing, unchanged

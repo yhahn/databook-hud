@@ -1,0 +1,85 @@
+# Project: VILLAGE AT SCULL CREEK (ARA20070045)
+
+- HUD ID: ARA20070045
+- HUD ID before: 
+- Project: VILLAGE AT SCULL CREEK
+- Address: 2619 N QUALITY LN
+- City: FAYETTEVILLE
+- State: AR
+- ZIP: 72703
+- ZIP extension: 
+- State project ID: AR-05-20
+- Latitude: 36.099487
+- Longitude: -94.164045
+- County FIPS: 05143
+- County from: 2020
+- Tract 2020: 05143010703
+- Tract 2010: 05143010701
+- Tract 2000: 05143010701
+- Tract 1990: 05143010701
+- Place 2020: 23290
+- Place 2010: 23290
+- Place 2000: 23290
+- Place 1990: 0670
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 400000
+- Units: 54
+- Low-income units: 43
+- Units reported: 54
+- Low-income reported: 43
+- Efficiencies: 7
+- 1-bedroom units: 9
+- 2-bedroom units: 45
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

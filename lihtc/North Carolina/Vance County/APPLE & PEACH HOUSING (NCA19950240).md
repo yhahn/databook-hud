@@ -1,0 +1,85 @@
+# Project: APPLE & PEACH HOUSING (NCA19950240)
+
+- HUD ID: NCA19950240
+- HUD ID before: 
+- Project: APPLE & PEACH HOUSING
+- Address: 135 APPLE ST
+- City: HENDERSON
+- State: NC
+- ZIP: 27536
+- ZIP extension: 
+- State project ID: 1288
+- Latitude: 36.339555
+- Longitude: -78.393386
+- County FIPS: 37181
+- County from: 2020
+- Tract 2020: 37181960600
+- Tract 2010: 37181960600
+- Tract 2000: 37181960600
+- Tract 1990: 37181960600
+- Place 2020: 30660
+- Place 2010: 30660
+- Place 2000: 30660
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 8313
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

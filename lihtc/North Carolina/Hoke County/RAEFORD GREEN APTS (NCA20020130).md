@@ -1,0 +1,85 @@
+# Project: RAEFORD GREEN APTS (NCA20020130)
+
+- HUD ID: NCA20020130
+- HUD ID before: 
+- Project: RAEFORD GREEN APTS
+- Address: 300 WEST SOUTHERN AVENUE
+- City: RAEFORD
+- State: NC
+- ZIP: 28376
+- ZIP extension: 
+- State project ID: 9002258
+- Latitude: 34.971994
+- Longitude: -79.228153
+- County FIPS: 37093
+- County from: 2020
+- Tract 2020: 37093970300
+- Tract 2010: 37093970300
+- Tract 2000: 37093970300
+- Tract 1990: 37093970300
+- Place 2020: 54580
+- Place 2010: 54580
+- Place 2000: 54580
+- Place 1990: 2015
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 207910
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 32
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

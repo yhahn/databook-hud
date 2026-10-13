@@ -1,0 +1,85 @@
+# Project: WALKER TERRACE (MEA20060060)
+
+- HUD ID: MEA20060060
+- HUD ID before: 
+- Project: WALKER TERRACE
+- Address: 1 WALKER ST
+- City: PORTLAND
+- State: ME
+- ZIP: 04102
+- ZIP extension: 
+- State project ID: MSHA-RLP-1417
+- Latitude: 43.652921
+- Longitude: -70.26987
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005001000
+- Tract 2010: 23005001000
+- Tract 2000: 23005001000
+- Tract 1990: 23005001000
+- Place 2020: 60545
+- Place 2010: 60545
+- Place 2000: 60545
+- Place 1990: 3750
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 184993
+- Units: 40
+- Low-income units: 22
+- Units reported: 40
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 602000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

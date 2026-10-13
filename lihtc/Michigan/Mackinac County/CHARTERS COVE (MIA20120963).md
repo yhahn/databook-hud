@@ -1,0 +1,85 @@
+# Project: CHARTERS COVE (MIA20120963)
+
+- HUD ID: MIA20120963
+- HUD ID before: 
+- Project: CHARTERS COVE
+- Address: 280 FERRY LN
+- City: ST IGNACE
+- State: MI
+- ZIP: 49781
+- ZIP extension: 
+- State project ID: MI-1737
+- Latitude: 45.854875
+- Longitude: -84.713008
+- County FIPS: 26097
+- County from: 2020
+- Tract 2020: 26097950500
+- Tract 2010: 26097950500
+- Tract 2000: 26097950500
+- Tract 1990: 26097950500
+- Place 2020: 70840
+- Place 2010: 70840
+- Place 2000: 50280
+- Place 1990: 2390
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 279037
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1988060.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARC TERRACE (VTA20210005)
+
+- HUD ID: VTA20210005
+- HUD ID before: 
+- Project: PARC TERRACE
+- Address: 10 MANSEAU STREET
+- City: WINOOSKI
+- State: VT
+- ZIP: 05404
+- ZIP extension: 
+- State project ID: VT-05-55
+- Latitude: 44.493154
+- Longitude: -73.177734
+- County FIPS: 50007
+- County from: 2020
+- Tract 2020: 50007002501
+- Tract 2010: 50007002500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 85150
+- Place 2010: 85150
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 925000
+- Units: 45
+- Low-income units: 33
+- Units reported: 45
+- Low-income reported: 33
+- Efficiencies: 16
+- 1-bedroom units: 19
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

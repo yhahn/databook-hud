@@ -1,0 +1,85 @@
+# Project: IMBODEN VILLA APARTMENTS (ARA19900583)
+
+- HUD ID: ARA19900583
+- HUD ID before: 
+- Project: IMBODEN VILLA APARTMENTS
+- Address: 190 PLATEAU LN
+- City: IMBODEN
+- State: AR
+- ZIP: 72455
+- ZIP extension: 
+- State project ID: AR-90-05
+- Latitude: 36.294925
+- Longitude: -91.044545
+- County FIPS: 05121
+- County from: 2020
+- Tract 2020: 05121960202
+- Tract 2010: 05121960200
+- Tract 2000: 05121960200
+- Tract 1990: 05121960200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 56540
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 16030
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1990060, ARA1990057.
+- Record status: Existing, unchanged

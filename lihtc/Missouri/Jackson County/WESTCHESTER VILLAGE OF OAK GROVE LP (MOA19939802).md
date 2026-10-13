@@ -1,0 +1,85 @@
+# Project: WESTCHESTER VILLAGE OF OAK GROVE LP (MOA19939802)
+
+- HUD ID: MOA19939802
+- HUD ID before: 
+- Project: WESTCHESTER VILLAGE OF OAK GROVE LP
+- Address: 400 SE SEVENTH ST
+- City: OAK GROVE
+- State: MO
+- ZIP: 64075
+- ZIP extension: 
+- State project ID: 91020
+- Latitude: 39.009849
+- Longitude: -94.12592
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095014004
+- Tract 2010: 29095014004
+- Tract 2000: 29095014003
+- Tract 1990: 29095014000
+- Place 2020: 53624
+- Place 2010: 53624
+- Place 2000: 53624
+- Place 1990: 3160
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 33
+- Low-income units: 33
+- Units reported: 29
+- Low-income reported: 33
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

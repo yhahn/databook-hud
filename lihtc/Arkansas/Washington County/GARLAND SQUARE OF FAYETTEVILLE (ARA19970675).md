@@ -1,0 +1,85 @@
+# Project: GARLAND SQUARE OF FAYETTEVILLE (ARA19970675)
+
+- HUD ID: ARA19970675
+- HUD ID before: 
+- Project: GARLAND SQUARE OF FAYETTEVILLE
+- Address: 1140 W CATO SPRINGS RD
+- City: FAYETTEVILLE
+- State: AR
+- ZIP: 72701
+- ZIP extension: 
+- State project ID: PRAR-96-17
+- Latitude: 36.04153
+- Longitude: -94.177121
+- County FIPS: 05143
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05143011101
+- Tract 2000: 05143011101
+- Tract 1990: 05143011101
+- Place 2020: 
+- Place 2010: 23290
+- Place 2000: 23290
+- Place 1990: 0670
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 228200
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 30
+- 3-bedroom units: 16
+- 4-bedroom units: 2
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1997042.
+- Record status: Existing, unchanged

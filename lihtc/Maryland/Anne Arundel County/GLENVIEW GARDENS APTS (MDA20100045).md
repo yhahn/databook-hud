@@ -1,0 +1,85 @@
+# Project: GLENVIEW GARDENS APTS (MDA20100045)
+
+- HUD ID: MDA20100045
+- HUD ID before: 
+- Project: GLENVIEW GARDENS APTS
+- Address: 7987 NOLPARK CT
+- City: GLEN BURNIE
+- State: MD
+- ZIP: 21061
+- ZIP extension: 
+- State project ID: MD09-12001
+- Latitude: 39.130624
+- Longitude: -76.633328
+- County FIPS: 24003
+- County from: 2020
+- Tract 2020: 24003730514
+- Tract 2010: 24003730505
+- Tract 2000: 24003730503
+- Tract 1990: 24003730503
+- Place 2020: 32650
+- Place 2010: 32650
+- Place 2000: 73550
+- Place 1990: 0922
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 204
+- Low-income units: 202
+- Units reported: 204
+- Low-income reported: 202
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

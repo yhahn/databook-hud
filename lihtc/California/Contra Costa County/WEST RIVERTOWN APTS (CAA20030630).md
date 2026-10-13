@@ -1,0 +1,85 @@
+# Project: WEST RIVERTOWN APTS (CAA20030630)
+
+- HUD ID: CAA20030630
+- HUD ID before: 
+- Project: WEST RIVERTOWN APTS
+- Address: 811 W FOURTH ST
+- City: ANTIOCH
+- State: CA
+- ZIP: 94509
+- ZIP extension: 
+- State project ID: CA-01-054
+- Latitude: 38.015305
+- Longitude: -121.816135
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013305000
+- Tract 2010: 06013305000
+- Tract 2000: 06013305000
+- Tract 1990: 06013305000
+- Place 2020: 02252
+- Place 2010: 02252
+- Place 2000: 02252
+- Place 1990: 0085
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 794793
+- Units: 57
+- Low-income units: 56
+- Units reported: 57
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 28
+- 3-bedroom units: 21
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

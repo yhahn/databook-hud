@@ -1,0 +1,85 @@
+# Project: VISTA NUEVA APTS (CAA19990695)
+
+- HUD ID: CAA19990695
+- HUD ID before: 
+- Project: VISTA NUEVA APTS
+- Address: 130 S LA FAYETTE PARK PL
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90057
+- ZIP extension: 
+- State project ID: CA-97-064
+- Latitude: 34.069875
+- Longitude: -118.278584
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037208620
+- Tract 2010: 06037208620
+- Tract 2000: 06037208620
+- Tract 1990: 06037208600
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 415781
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 9
+- 3-bedroom units: 11
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AURORA ESTATES (MOA20240002)
+
+- HUD ID: MOA20240002
+- HUD ID before: 
+- Project: AURORA ESTATES
+- Address: TBD
+- City: PACIFIC
+- State: MO
+- ZIP: 63069
+- ZIP extension: 0000
+- State project ID: 21-092
+- Latitude: 38.4567
+- Longitude: -90.8488
+- County FIPS: 29071
+- County from: 2020
+- Tract 2020: 29071800703
+- Tract 2010: 29071800701
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 28918
+- Place 2010: 28918
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 1080000
+- Units: 46
+- Low-income units: 41
+- Units reported: 46
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 46
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

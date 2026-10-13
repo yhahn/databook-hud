@@ -1,0 +1,85 @@
+# Project: EHPC EIGHTY NINE PHASE I (MOA19890624)
+
+- HUD ID: MOA19890624
+- HUD ID before: 
+- Project: EHPC EIGHTY NINE PHASE I
+- Address: 5979 LAURETTE AVE
+- City: ST LOUIS
+- State: MO
+- ZIP: 63135
+- ZIP extension: 
+- State project ID: 169344
+- Latitude: 38.729738
+- Longitude: -90.293018
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189212400
+- Tract 2010: 29189212400
+- Tract 2000: 29189212400
+- Tract 1990: 29189212400
+- Place 2020: 23986
+- Place 2010: 23986
+- Place 2000: 16822
+- Place 1990: 3105
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA1989628, MOA1989632, MOA1989636, MOA1989640, MOA1989644, MOA1989648, MOA1989652, MOA1989656, MOA1989660, MOA1989664, MOA1989668.
+- Record status: Existing, unchanged

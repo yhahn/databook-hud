@@ -1,0 +1,85 @@
+# Project: GULFSTREAM (FLA20000070)
+
+- HUD ID: FLA20000070
+- HUD ID before: 
+- Project: GULFSTREAM
+- Address: 10 NW TENTH CT
+- City: DANIA
+- State: FL
+- ZIP: 33004
+- ZIP extension: 
+- State project ID: 319
+- Latitude: 26.052321
+- Longitude: -80.150152
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011080500
+- Tract 2010: 12011080500
+- Tract 2000: 12011080500
+- Tract 1990: 12011080500
+- Place 2020: 16335
+- Place 2010: 16335
+- Place 2000: 16325
+- Place 1990: 0470
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 96
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

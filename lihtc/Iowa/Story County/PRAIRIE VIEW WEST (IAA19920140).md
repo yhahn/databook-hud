@@ -1,0 +1,85 @@
+# Project: PRAIRIE VIEW WEST (IAA19920140)
+
+- HUD ID: IAA19920140
+- HUD ID before: 
+- Project: PRAIRIE VIEW WEST
+- Address: 2001 PRAIRIE VIEW W
+- City: AMES
+- State: IA
+- ZIP: 50010
+- ZIP extension: 
+- State project ID: 91-57
+- Latitude: 42.04221
+- Longitude: -93.637115
+- County FIPS: 19169
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19169000400
+- Tract 2000: 19169000400
+- Tract 1990: 19169000400
+- Place 2020: 
+- Place 2010: 01855
+- Place 2000: 01855
+- Place 1990: 0115
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 30496
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

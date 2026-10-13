@@ -1,0 +1,85 @@
+# Project: EAGLE'S NEST APTS (COA20000040)
+
+- HUD ID: COA20000040
+- HUD ID before: 
+- Project: EAGLE'S NEST APTS
+- Address: 1041 W 24TH ST
+- City: RIFLE
+- State: CO
+- ZIP: 81650
+- ZIP extension: 
+- State project ID: CO-98-0023
+- Latitude: 39.551951
+- Longitude: -107.788924
+- County FIPS: 08045
+- County from: 2020
+- Tract 2020: 08045952001
+- Tract 2010: 08045952001
+- Tract 2000: 08045952000
+- Tract 1990: 08045952000
+- Place 2020: 64255
+- Place 2010: 64255
+- Place 2000: 64255
+- Place 1990: 1125
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 13
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA 30 EAGLES NEST RIFLE.
+- Record status: Existing, unchanged

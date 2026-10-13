@@ -1,0 +1,85 @@
+# Project: HANSBERRY SQUARE OF LEGENDS SOUTH - 8142 (ILB20079004)
+
+- HUD ID: ILB20079004
+- HUD ID before: 
+- Project: HANSBERRY SQUARE OF LEGENDS SOUTH - 8142
+- Address: 4034 S STATE ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60609
+- ZIP extension: 2932
+- State project ID: TC-05-013
+- Latitude: 41.821405
+- Longitude: -87.626653
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031380600
+- Tract 2010: 17031380500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 115
+- Low-income units: 100
+- Units reported: 115
+- Low-income reported: 100
+- Efficiencies: 
+- 1-bedroom units: 11
+- 2-bedroom units: 36
+- 3-bedroom units: 64
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 55
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHERRY STREET HEIGHTS (CTA19950020)
+
+- HUD ID: CTA19950020
+- HUD ID before: 
+- Project: CHERRY STREET HEIGHTS
+- Address: 63 CHERRY ST
+- City: WATERBURY
+- State: CT
+- ZIP: 06702
+- ZIP extension: 
+- State project ID: CT-91-055
+- Latitude: 41.555886
+- Longitude: -73.034367
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009350101
+- Tract 2010: 09009350100
+- Tract 2000: 09009350100
+- Tract 1990: 09009350100
+- Place 2020: 80000
+- Place 2010: 80000
+- Place 2000: 80000
+- Place 1990: 2460
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA1991010.
+- Record status: Existing, unchanged

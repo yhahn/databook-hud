@@ -1,0 +1,85 @@
+# Project: SIERRA CREST SENIOR APTS (NVA20050030)
+
+- HUD ID: NVA20050030
+- HUD ID before: 
+- Project: SIERRA CREST SENIOR APTS
+- Address: 795 PRATER WAY
+- City: SPARKS
+- State: NV
+- ZIP: 89431
+- ZIP extension: 0000
+- State project ID: 03-04
+- Latitude: 39.540213
+- Longitude: -119.752355
+- County FIPS: 32031
+- County from: 2020
+- Tract 2020: 32031003001
+- Tract 2010: 32031003000
+- Tract 2000: 32031003000
+- Tract 1990: 32031003000
+- Place 2020: 68400
+- Place 2010: 68400
+- Place 2000: 68400
+- Place 1990: 0100
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 553802
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 27
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 72
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NVA2004065.
+- Record status: Existing, unchanged

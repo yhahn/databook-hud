@@ -1,0 +1,85 @@
+# Project: ARBOR PLACE (FLA19980005)
+
+- HUD ID: FLA19980005
+- HUD ID before: 
+- Project: ARBOR PLACE
+- Address: 1915 E 131ST AVE
+- City: TAMPA
+- State: FL
+- ZIP: 33612
+- ZIP extension: 
+- State project ID: 40
+- Latitude: 28.065384
+- Longitude: -82.437441
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057010816
+- Tract 2010: 12057010816
+- Tract 2000: 12057010806
+- Tract 1990: 12057010806
+- Place 2020: 73163
+- Place 2010: 73163
+- Place 2000: 71000
+- Place 1990: 2127
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 2
+- 1-bedroom units: 19
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1997817.
+- Record status: Existing, unchanged

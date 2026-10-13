@@ -1,0 +1,85 @@
+# Project: MERIDIAN GREENE (OHA20059335)
+
+- HUD ID: OHA20059335
+- HUD ID before: 
+- Project: MERIDIAN GREENE
+- Address: 105 MERIDIAN WAY
+- City: WINTERSVILLE
+- State: OH
+- ZIP: 43953
+- ZIP extension: 
+- State project ID: 030091
+- Latitude: 40.366738
+- Longitude: -80.696568
+- County FIPS: 39081
+- County from: 2020
+- Tract 2020: 39081001200
+- Tract 2010: 39081001200
+- Tract 2000: 39081011700
+- Tract 1990: 39081011700
+- Place 2020: 86184
+- Place 2010: 86184
+- Place 2000: 74608
+- Place 1990: 0513
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 472978
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 66
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 570000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003608, OHA2005094.
+- Record status: Existing, unchanged

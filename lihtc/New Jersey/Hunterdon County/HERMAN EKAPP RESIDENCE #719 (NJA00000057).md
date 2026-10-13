@@ -1,0 +1,85 @@
+# Project: HERMAN EKAPP RESIDENCE #719 (NJA00000057)
+
+- HUD ID: NJA00000057
+- HUD ID before: 
+- Project: HERMAN EKAPP RESIDENCE #719
+- Address: 62 CHURCH ST
+- City: FLEMINGTON
+- State: NJ
+- ZIP: 08822
+- ZIP extension: 
+- State project ID: NJ-04-71
+- Latitude: 40.505866
+- Longitude: -74.855174
+- County FIPS: 34019
+- County from: 2020
+- Tract 2020: 34019011400
+- Tract 2010: 34019011400
+- Tract 2000: 34019011400
+- Tract 1990: 34019011400
+- Place 2020: 23700
+- Place 2010: 23700
+- Place 2000: 23700
+- Place 1990: 1825
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

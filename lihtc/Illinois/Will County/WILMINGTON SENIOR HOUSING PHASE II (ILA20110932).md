@@ -1,0 +1,85 @@
+# Project: WILMINGTON SENIOR HOUSING PHASE II (ILA20110932)
+
+- HUD ID: ILA20110932
+- HUD ID before: 
+- Project: WILMINGTON SENIOR HOUSING PHASE II
+- Address: 440 ANNS CIR
+- City: WILMINGTON
+- State: IL
+- ZIP: 60481
+- ZIP extension: 
+- State project ID: 286008
+- Latitude: 41.293346
+- Longitude: -88.149426
+- County FIPS: 17197
+- County from: 2020
+- Tract 2020: 17197883401
+- Tract 2010: 17197883401
+- Tract 2000: 17197883400
+- Tract 1990: 17197883400
+- Place 2020: 82101
+- Place 2010: 82101
+- Place 2000: 07770
+- Place 1990: 6260
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 586246
+- Units: 42
+- Low-income units: 40
+- Units reported: 42
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1976140
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000108.
+- Record status: Existing, unchanged

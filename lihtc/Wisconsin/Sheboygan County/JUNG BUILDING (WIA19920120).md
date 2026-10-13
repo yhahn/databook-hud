@@ -1,0 +1,85 @@
+# Project: JUNG BUILDING (WIA19920120)
+
+- HUD ID: WIA19920120
+- HUD ID before: 
+- Project: JUNG BUILDING
+- Address: 620 S EIGHTH ST
+- City: SHEBOYGAN
+- State: WI
+- ZIP: 53081
+- ZIP extension: 
+- State project ID: 1350
+- Latitude: 43.747914
+- Longitude: -87.713169
+- County FIPS: 55117
+- County from: 2020
+- Tract 2020: 55117011400
+- Tract 2010: 55117011400
+- Tract 2000: 55117000600
+- Tract 1990: 55117000600
+- Place 2020: 72975
+- Place 2010: 72975
+- Place 2000: 72975
+- Place 1990: 2300
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 53
+- Low-income units: 33
+- Units reported: 53
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SHEBOYGAN JUNG INC.
+- Record status: Existing, unchanged

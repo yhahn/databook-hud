@@ -1,0 +1,85 @@
+# Project: GREGORY PLACE (TXA19870195)
+
+- HUD ID: TXA19870195
+- HUD ID before: 
+- Project: GREGORY PLACE
+- Address: 912 CHURCH ST
+- City: GALVESTON
+- State: TX
+- ZIP: 77550
+- ZIP extension: 
+- State project ID: TX6155
+- Latitude: 29.308
+- Longitude: -94.777485
+- County FIPS: 48167
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48167724300
+- Tract 2000: 48167724300
+- Tract 1990: 48167123200
+- Place 2020: 
+- Place 2010: 28068
+- Place 2000: 28068
+- Place 1990: 1570
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 11
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

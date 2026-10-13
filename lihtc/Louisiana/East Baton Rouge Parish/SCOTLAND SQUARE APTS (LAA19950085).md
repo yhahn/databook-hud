@@ -1,0 +1,85 @@
+# Project: SCOTLAND SQUARE APTS (LAA19950085)
+
+- HUD ID: LAA19950085
+- HUD ID before: 
+- Project: SCOTLAND SQUARE APTS
+- Address: 1900 BLOUNT RD
+- City: BATON ROUGE
+- State: LA
+- ZIP: 70807
+- ZIP extension: 
+- State project ID: LA-89-007
+- Latitude: 30.544801
+- Longitude: -91.171935
+- County FIPS: 22033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22033003101
+- Tract 2000: 22033003101
+- Tract 1990: 22033003101
+- Place 2020: 
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0095
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 175
+- Low-income units: 175
+- Units reported: 175
+- Low-income reported: 175
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 35
+- 3-bedroom units: 124
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1989135.
+- Record status: Existing, unchanged

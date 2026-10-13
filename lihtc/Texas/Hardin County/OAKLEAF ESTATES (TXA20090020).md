@@ -1,0 +1,85 @@
+# Project: OAKLEAF ESTATES (TXA20090020)
+
+- HUD ID: TXA20090020
+- HUD ID before: 
+- Project: OAKLEAF ESTATES
+- Address: 1195 HWY 327 E
+- City: SILSBEE
+- State: TX
+- ZIP: 77656
+- ZIP extension: 
+- State project ID: TX4619
+- Latitude: 30.340765
+- Longitude: -94.160195
+- County FIPS: 48199
+- County from: 2020
+- Tract 2020: 48199030700
+- Tract 2010: 48199030700
+- Tract 2000: 48199030700
+- Tract 1990: 48199030700
+- Place 2020: 67832
+- Place 2010: 67832
+- Place 2000: 67832
+- Place 1990: 3935
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 40
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SILSBEE OAKLEAF ESTATES.
+- Record status: Existing, unchanged

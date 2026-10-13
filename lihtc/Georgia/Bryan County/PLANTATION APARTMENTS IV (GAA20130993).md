@@ -1,0 +1,85 @@
+# Project: PLANTATION APARTMENTS IV (GAA20130993)
+
+- HUD ID: GAA20130993
+- HUD ID before: 
+- Project: PLANTATION APARTMENTS IV
+- Address: 201 CASEY DR
+- City: RICHMOND HILL
+- State: GA
+- ZIP: 31324
+- ZIP extension: 3522
+- State project ID: GA-11-004
+- Latitude: 31.922005
+- Longitude: -81.320025
+- County FIPS: 13029
+- County from: 2020
+- Tract 2020: 13029920303
+- Tract 2010: 13029920303
+- Tract 2000: 13029920300
+- Tract 1990: 13029920300
+- Place 2020: 65044
+- Place 2010: 65044
+- Place 2000: 65044
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 522260
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1991195, GAA0000340.
+- Record status: Existing, unchanged

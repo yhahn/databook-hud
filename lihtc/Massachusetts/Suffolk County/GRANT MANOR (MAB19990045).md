@@ -1,0 +1,85 @@
+# Project: GRANT MANOR (MAB19990045)
+
+- HUD ID: MAB19990045
+- HUD ID before: 
+- Project: GRANT MANOR
+- Address: 1812 WASHINGTON ST
+- City: BOSTON
+- State: MA
+- ZIP: 02118
+- ZIP extension: 
+- State project ID: 94-018
+- Latitude: 42.33572
+- Longitude: -71.077664
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025080401
+- Tract 2010: 25025080401
+- Tract 2000: 25025080400
+- Tract 1990: 25025080400
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 181
+- Low-income units: 151
+- Units reported: 181
+- Low-income reported: 151
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 73
+- 3-bedroom units: 32
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

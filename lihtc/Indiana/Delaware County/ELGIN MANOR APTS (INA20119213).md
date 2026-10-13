@@ -1,0 +1,85 @@
+# Project: ELGIN MANOR APTS (INA20119213)
+
+- HUD ID: INA20119213
+- HUD ID before: 
+- Project: ELGIN MANOR APTS
+- Address: 2573 N ELGIN ST
+- City: MUNCIE
+- State: IN
+- ZIP: 47303
+- ZIP extension: 
+- State project ID: IN-09-03200
+- Latitude: 40.215609
+- Longitude: -85.365768
+- County FIPS: 18035
+- County from: 2020
+- Tract 2020: 18035001200
+- Tract 2010: 18035001200
+- Tract 2000: 18035001200
+- Tract 1990: 18035001200
+- Place 2020: 51876
+- Place 2010: 51876
+- Place 2000: 51876
+- Place 1990: 1735
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 474647
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 56
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: YAVAPAI-APACHE NATION #3 (AZA20080080)
+
+- HUD ID: AZA20080080
+- HUD ID before: 
+- Project: YAVAPAI-APACHE NATION #3
+- Address: 420 HASTIN NEZ
+- City: CAMP VERDE
+- State: AZ
+- ZIP: 86322
+- ZIP extension: 
+- State project ID: TC-0384
+- Latitude: 34.606931
+- Longitude: -111.905233
+- County FIPS: 04025
+- County from: 2020
+- Tract 2020: 04025001601
+- Tract 2010: 04025001601
+- Tract 2000: 04025001600
+- Tract 1990: 04025001600
+- Place 2020: 09690
+- Place 2010: 09690
+- Place 2000: 09690
+- Place 1990: 0036
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 885318
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 24
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: NATIVE AMERICANS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

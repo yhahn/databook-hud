@@ -1,0 +1,85 @@
+# Project: HASTINGS MEADOW APTS (MIA20070070)
+
+- HUD ID: MIA20070070
+- HUD ID before: 
+- Project: HASTINGS MEADOW APTS
+- Address: 1536 N E ST
+- City: HASTINGS
+- State: MI
+- ZIP: 49058
+- ZIP extension: 
+- State project ID: MI-1909
+- Latitude: 42.661954
+- Longitude: -85.282055
+- County FIPS: 26015
+- County from: 2020
+- Tract 2020: 26015011302
+- Tract 2010: 26015011300
+- Tract 2000: 26015011300
+- Tract 1990: 26015011300
+- Place 2020: 37120
+- Place 2010: 37120
+- Place 2000: 37120
+- Place 1990: 1200
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 69566
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1991205. AKA HASTINGS MEADOWS II.
+- Record status: Existing, unchanged

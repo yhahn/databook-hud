@@ -1,0 +1,24 @@
+# Tax Credit Projects: Jackson County, AR
+
+- Level: County
+- Postal code: AR
+- State FIPS: 05
+- County FIPS: 05067
+- Counties: 
+- Projects: 7
+- Units: 267
+- Low-income units: 266
+
+The low-income housing tax credit projects of Jackson County, Arkansas, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [ASHTON PARK APARTMENTS (ARA19900575)](./Jackson%20County/ASHTON%20PARK%20APARTMENTS%20%28ARA19900575%29.md) | ARA19900575 | NEWPORT | 1990 | 24 | 24 |
+| [VILLAGE CREEK APARTMENTS (ARA19900595)](./Jackson%20County/VILLAGE%20CREEK%20APARTMENTS%20%28ARA19900595%29.md) | ARA19900595 | NEWPORT | 1990 | 32 | 32 |
+| [RIVERVIEW APTS - TUCKERMAN (ARA19990065)](./Jackson%20County/RIVERVIEW%20APTS%20-%20TUCKERMAN%20%28ARA19990065%29.md) | ARA19990065 | TUCKERMAN | 1999 | 25 | 25 |
+| [CRDC JACKSON HOMES (ARA19990701)](./Jackson%20County/CRDC%20JACKSON%20HOMES%20%28ARA19990701%29.md) | ARA19990701 | TUCKERMAN | 1999 | 10 | 10 |
+| [KENMONT APARTMENTS (ARA20010070)](./Jackson%20County/KENMONT%20APARTMENTS%20%28ARA20010070%29.md) | ARA20010070 | NEWPORT | 2001 | 42 | 41 |
+| [HARMONY PLACE (ARA20174112)](./Jackson%20County/HARMONY%20PLACE%20%28ARA20174112%29.md) | ARA20174112 | NEWPORT | 2017 | 70 | 70 |
+| [WHITE RIVER APARTMENTS (ARA20183223)](./Jackson%20County/WHITE%20RIVER%20APARTMENTS%20%28ARA20183223%29.md) | ARA20183223 | DIAZ | 2018 | 64 | 64 |

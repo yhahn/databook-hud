@@ -1,0 +1,85 @@
+# Project: ASHFORD PARK (INA20184161)
+
+- HUD ID: INA20184161
+- HUD ID before: 
+- Project: ASHFORD PARK
+- Address: 1616 10TH ST
+- City: COLUMBUS
+- State: IN
+- ZIP: 47201
+- ZIP extension: 
+- State project ID: IN-16-02100
+- Latitude: 39.208651
+- Longitude: -85.907628
+- County FIPS: 18005
+- County from: 2020
+- Tract 2020: 18005010100
+- Tract 2010: 18005010100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14734
+- Place 2010: 14734
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 470000
+- Units: 294
+- Low-income units: 209
+- Units reported: 294
+- Low-income reported: 209
+- Efficiencies: 0
+- 1-bedroom units: 73
+- 2-bedroom units: 96
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 10TH ST PROJECT (PAA19930005)
+
+- HUD ID: PAA19930005
+- HUD ID before: 
+- Project: 10TH ST PROJECT
+- Address: 34 N TENTH ST
+- City: ALLENTOWN
+- State: PA
+- ZIP: 18101
+- ZIP extension: 
+- State project ID: TC1991-0213
+- Latitude: 40.601477
+- Longitude: -75.478602
+- County FIPS: 42077
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42077001800
+- Tract 2000: 42077001800
+- Tract 1990: 42077001800
+- Place 2020: 
+- Place 2010: 02000
+- Place 2000: 02000
+- Place 1990: 0165
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 181625
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 19
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HIDDEN COVE (GAA19990453)
+
+- HUD ID: GAA19990453
+- HUD ID before: 
+- Project: HIDDEN COVE
+- Address: 1900 STANTON DELOWE CONNECTOR
+- City: EAST POINT
+- State: GA
+- ZIP: 30344
+- ZIP extension: 
+- State project ID: GA-97-027
+- Latitude: 33.698487
+- Longitude: -84.452235
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011203
+- Tract 2010: 13121011201
+- Tract 2000: 13121011201
+- Tract 1990: 13121011201
+- Place 2020: 25720
+- Place 2010: 25720
+- Place 2000: 04000
+- Place 1990: 0960
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 164
+- Low-income units: 164
+- Units reported: 164
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000225.
+- Record status: Existing, unchanged

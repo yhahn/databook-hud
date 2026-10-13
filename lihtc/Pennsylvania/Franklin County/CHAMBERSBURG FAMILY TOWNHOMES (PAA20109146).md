@@ -1,0 +1,85 @@
+# Project: CHAMBERSBURG FAMILY TOWNHOMES (PAA20109146)
+
+- HUD ID: PAA20109146
+- HUD ID before: 
+- Project: CHAMBERSBURG FAMILY TOWNHOMES
+- Address: 
+- City: CHAMBERSBURG
+- State: PA
+- ZIP: 17201
+- ZIP extension: 
+- State project ID: TC20090501
+- Latitude: 39.9349
+- Longitude: -77.6443
+- County FIPS: 42055
+- County from: 2020
+- Tract 2020: 42055010900
+- Tract 2010: 42055010900
+- Tract 2000: 42055011000
+- Tract 1990: 42055011000
+- Place 2020: 12536
+- Place 2010: 12536
+- Place 2000: 12536
+- Place 1990: 1745
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 7099294
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

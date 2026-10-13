@@ -1,0 +1,85 @@
+# Project: NUHILL PROPERTIES (ILA19910197)
+
+- HUD ID: ILA19910197
+- HUD ID before: 
+- Project: NUHILL PROPERTIES
+- Address: 4617 N PROSPECT RD
+- City: PEORIA HEIGHTS
+- State: IL
+- ZIP: 61616
+- ZIP extension: 
+- State project ID: 425-91
+- Latitude: 40.743758
+- Longitude: -89.57424
+- County FIPS: 17143
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17143004200
+- Tract 2000: 17143004200
+- Tract 1990: 17143004200
+- Place 2020: 
+- Place 2010: 59026
+- Place 2000: 59000
+- Place 1990: 4595
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 17074
+- Units: 7
+- Low-income units: 7
+- Units reported: 7
+- Low-income reported: 7
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 2
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000705.
+- Record status: Existing, unchanged

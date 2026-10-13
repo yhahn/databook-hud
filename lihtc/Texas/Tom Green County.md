@@ -1,0 +1,25 @@
+# Tax Credit Projects: Tom Green County, TX
+
+- Level: County
+- Postal code: TX
+- State FIPS: 48
+- County FIPS: 48451
+- Counties: 
+- Projects: 8
+- Units: 812
+- Low-income units: 784
+
+The low-income housing tax credit projects of Tom Green County, Texas, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [KIRBY PARK VILLAS (TXA0000X039)](./Tom%20Green%20County/KIRBY%20PARK%20VILLAS%20%28TXA0000X039%29.md) | TXA0000X039 | SAN ANGELO |  | 72 | 56 |
+| [OAK TRAILS (TXA0000X058)](./Tom%20Green%20County/OAK%20TRAILS%20%28TXA0000X058%29.md) | TXA0000X058 | SAN ANGELO |  | 48 | 48 |
+| [BENT TREE APTS (SAN ANGELO) (TXA19990010)](./Tom%20Green%20County/BENT%20TREE%20APTS%20%28SAN%20ANGELO%29%20%28TXA19990010%29.md) | TXA19990010 | SAN ANGELO | 1999 | 112 | 112 |
+| [NUEVA VISTA APTS (TXA20060400)](./Tom%20Green%20County/NUEVA%20VISTA%20APTS%20%28TXA20060400%29.md) | TXA20060400 | SAN ANGELO | 2006 | 160 | 160 |
+| [RIVER POINTE APTS (TXA20070300)](./Tom%20Green%20County/RIVER%20POINTE%20APTS%20%28TXA20070300%29.md) | TXA20070300 | SAN ANGELO | 2007 | 204 | 204 |
+| [RIVER PLACE APTS (TXA20100075)](./Tom%20Green%20County/RIVER%20PLACE%20APTS%20%28TXA20100075%29.md) | TXA20100075 | SAN ANGELO | 2010 | 120 | 120 |
+| [NOAH ESTATES (TXA20120010)](./Tom%20Green%20County/NOAH%20ESTATES%20%28TXA20120010%29.md) | TXA20120010 | SAN ANGELO | 2012 | 36 | 36 |
+| [GLENN PARK APARTMENTS (TXA20211820)](./Tom%20Green%20County/GLENN%20PARK%20APARTMENTS%20%28TXA20211820%29.md) | TXA20211820 | SAN ANGELO | 2021 | 60 | 48 |

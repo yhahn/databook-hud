@@ -1,0 +1,85 @@
+# Project: VICTORIA GREEN (CAA20040610)
+
+- HUD ID: CAA20040610
+- HUD ID before: 
+- Project: VICTORIA GREEN
+- Address: 163 PARADISE DR
+- City: HERCULES
+- State: CA
+- ZIP: 94547
+- ZIP extension: 
+- State project ID: CA-02-866
+- Latitude: 38.022449
+- Longitude: -122.270352
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013392300
+- Tract 2010: 06013392300
+- Tract 2000: 06013359101
+- Tract 1990: 06013359101
+- Place 2020: 33308
+- Place 2010: 33308
+- Place 2000: 33308
+- Place 1990: 2160
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 769200
+- Units: 132
+- Low-income units: 105
+- Units reported: 132
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 76
+- 3-bedroom units: 26
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

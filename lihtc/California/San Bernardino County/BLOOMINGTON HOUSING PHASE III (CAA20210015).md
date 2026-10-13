@@ -1,0 +1,85 @@
+# Project: BLOOMINGTON HOUSING PHASE III (CAA20210015)
+
+- HUD ID: CAA20210015
+- HUD ID before: 
+- Project: BLOOMINGTON HOUSING PHASE III
+- Address: 17906 VALLEY BOULEVARD
+- City: BLOOMINGTON
+- State: CA
+- ZIP: 92316
+- ZIP extension: 
+- State project ID: CA-2019-059
+- Latitude: 34.070592
+- Longitude: -117.413809
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071003302
+- Tract 2010: 06071003302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 07064
+- Place 2010: 07064
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 2500000
+- Units: 98
+- Low-income units: 97
+- Units reported: 98
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 59
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: UNDER OUR WING APTS (PAA20050165)
+
+- HUD ID: PAA20050165
+- HUD ID before: 
+- Project: UNDER OUR WING APTS
+- Address: 124 W CUNNINGHAM ST
+- City: BUTLER
+- State: PA
+- ZIP: 16001
+- ZIP extension: 
+- State project ID: TC20030623
+- Latitude: 40.859992
+- Longitude: -79.896209
+- County FIPS: 42019
+- County from: 2020
+- Tract 2020: 42019902400
+- Tract 2010: 42019902400
+- Tract 2000: 42019902400
+- Tract 1990: 42019902400
+- Place 2020: 10464
+- Place 2010: 10464
+- Place 2000: 10464
+- Place 1990: 1425
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 237193
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 24
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1600000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

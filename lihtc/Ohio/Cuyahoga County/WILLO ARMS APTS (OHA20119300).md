@@ -1,0 +1,85 @@
+# Project: WILLO ARMS APTS (OHA20119300)
+
+- HUD ID: OHA20119300
+- HUD ID before: 
+- Project: WILLO ARMS APTS
+- Address: 26980 SIDNEY DR
+- City: EUCLID
+- State: OH
+- ZIP: 44132
+- ZIP extension: 
+- State project ID: 070183
+- Latitude: 41.593959
+- Longitude: -81.497134
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035196200
+- Tract 2010: 39035196200
+- Tract 2000: 39035152606
+- Tract 1990: 39035152606
+- Place 2020: 25704
+- Place 2010: 25704
+- Place 2000: 25704
+- Place 1990: 1320
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 740
+- Low-income units: 729
+- Units reported: 740
+- Low-income reported: 729
+- Efficiencies: 0
+- 1-bedroom units: 176
+- 2-bedroom units: 393
+- 3-bedroom units: 166
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2008783.
+- Record status: Existing, unchanged

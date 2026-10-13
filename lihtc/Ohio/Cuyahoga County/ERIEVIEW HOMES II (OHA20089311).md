@@ -1,0 +1,85 @@
+# Project: ERIEVIEW HOMES II (OHA20089311)
+
+- HUD ID: OHA20089311
+- HUD ID before: 
+- Project: ERIEVIEW HOMES II
+- Address: 3223 E 119TH ST
+- City: CLEVELAND
+- State: OH
+- ZIP: 44120
+- ZIP extension: 
+- State project ID: 060050
+- Latitude: 41.470584
+- Longitude: -81.599109
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035119800
+- Tract 2010: 39035119800
+- Tract 2000: 39035119800
+- Tract 1990: 39035119800
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 57
+- Low-income units: 57
+- Units reported: 57
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 41
+- 4-bedroom units: 16
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007735.
+- Record status: Existing, unchanged

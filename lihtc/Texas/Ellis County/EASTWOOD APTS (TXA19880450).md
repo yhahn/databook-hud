@@ -1,0 +1,85 @@
+# Project: EASTWOOD APTS (TXA19880450)
+
+- HUD ID: TXA19880450
+- HUD ID before: 
+- Project: EASTWOOD APTS
+- Address: 110 N 14TH ST
+- City: MIDLOTHIAN
+- State: TX
+- ZIP: 76065
+- ZIP extension: 
+- State project ID: TX6401
+- Latitude: 32.482757
+- Longitude: -96.987344
+- County FIPS: 48139
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48139060702
+- Tract 2000: 48139060700
+- Tract 1990: 48139060700
+- Place 2020: 
+- Place 2010: 48096
+- Place 2000: 13492
+- Place 1990: 2815
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

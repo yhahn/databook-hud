@@ -1,0 +1,85 @@
+# Project: HAYS PLAZA (KSA19960010)
+
+- HUD ID: KSA19960010
+- HUD ID before: 
+- Project: HAYS PLAZA
+- Address: 1005 W 28TH ST
+- City: HAYS
+- State: KS
+- ZIP: 67601
+- ZIP extension: 
+- State project ID: 60286
+- Latitude: 38.887185
+- Longitude: -99.337469
+- County FIPS: 20051
+- County from: 2020
+- Tract 2020: 20051072802
+- Tract 2010: 20051072800
+- Tract 2000: 20051972800
+- Tract 1990: 20051972800
+- Place 2020: 31100
+- Place 2010: 31100
+- Place 2000: 31100
+- Place 1990: 1210
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 46778
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 1
+- 1-bedroom units: 32
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

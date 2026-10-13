@@ -1,0 +1,23 @@
+# Tax Credit Projects: Barren County, KY
+
+- Level: County
+- Postal code: KY
+- State FIPS: 21
+- County FIPS: 21009
+- Counties: 
+- Projects: 6
+- Units: 191
+- Low-income units: 191
+
+The low-income housing tax credit projects of Barren County, Kentucky, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [HAPPY VALLEY MANOR APARTMENTS (KYA20050095)](./Barren%20County/HAPPY%20VALLEY%20MANOR%20APARTMENTS%20%28KYA20050095%29.md) | KYA20050095 | CAVE CITY | 2005 | 24 | 24 |
+| [LIBERTY SCHOOL APARTMENTS (KYA20050115)](./Barren%20County/LIBERTY%20SCHOOL%20APARTMENTS%20%28KYA20050115%29.md) | KYA20050115 | GLASGOW | 2005 | 20 | 20 |
+| [BLUEGRASS PLACE I APARTMENTS (KYA20050613)](./Barren%20County/BLUEGRASS%20PLACE%20I%20APARTMENTS%20%28KYA20050613%29.md) | KYA20050613 | GLASGOW | 2005 | 48 | 48 |
+| [BLUEGRASS PLACE II APARTMENTS (KYA20050616)](./Barren%20County/BLUEGRASS%20PLACE%20II%20APARTMENTS%20%28KYA20050616%29.md) | KYA20050616 | GLASGOW | 2005 | 36 | 36 |
+| [GLASGOW GRADED SCHOOL APARTMENTS (KYA20100030)](./Barren%20County/GLASGOW%20GRADED%20SCHOOL%20APARTMENTS%20%28KYA20100030%29.md) | KYA20100030 | GLASGOW | 2010 | 23 | 23 |
+| [MADDOX MANOR (KYA20211011)](./Barren%20County/MADDOX%20MANOR%20%28KYA20211011%29.md) | KYA20211011 | GLASGOW | 2021 | 40 | 40 |

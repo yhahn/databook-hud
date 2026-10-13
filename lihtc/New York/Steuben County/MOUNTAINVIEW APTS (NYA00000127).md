@@ -1,0 +1,85 @@
+# Project: MOUNTAINVIEW APTS (NYA00000127)
+
+- HUD ID: NYA00000127
+- HUD ID before: 
+- Project: MOUNTAINVIEW APTS
+- Address: 19 MAY ST
+- City: BATH
+- State: NY
+- ZIP: 14810
+- ZIP extension: 
+- State project ID: NY-90-0864_00214
+- Latitude: 42.332384
+- Longitude: -77.304271
+- County FIPS: 36101
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36101961200
+- Tract 2000: 36101961200
+- Tract 1990: 36101961200
+- Place 2020: 
+- Place 2010: 04759
+- Place 2000: 04759
+- Place 1990: 0245
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001490.
+- Record status: Existing, unchanged

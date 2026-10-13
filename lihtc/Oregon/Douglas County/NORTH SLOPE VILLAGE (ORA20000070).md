@@ -1,0 +1,85 @@
+# Project: NORTH SLOPE VILLAGE (ORA20000070)
+
+- HUD ID: ORA20000070
+- HUD ID before: 
+- Project: NORTH SLOPE VILLAGE
+- Address: 1007 W SIXTH AVE
+- City: SUTHERLIN
+- State: OR
+- ZIP: 97479
+- ZIP extension: 
+- State project ID: 1138
+- Latitude: 43.390202
+- Longitude: -123.328713
+- County FIPS: 41019
+- County from: 2020
+- Tract 2020: 41019050001
+- Tract 2010: 41019050001
+- Tract 2000: 41019050001
+- Tract 1990: 41019050000
+- Place 2020: 71650
+- Place 2010: 71650
+- Place 2000: 54000
+- Place 1990: 1115
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 77000
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 450000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

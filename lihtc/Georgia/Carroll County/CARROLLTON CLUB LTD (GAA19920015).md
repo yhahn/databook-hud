@@ -1,0 +1,85 @@
+# Project: CARROLLTON CLUB LTD (GAA19920015)
+
+- HUD ID: GAA19920015
+- HUD ID before: 
+- Project: CARROLLTON CLUB LTD
+- Address: 1130 CEDAR ST
+- City: CARROLLTON
+- State: GA
+- ZIP: 30117
+- ZIP extension: 2500
+- State project ID: GA-91-009
+- Latitude: 33.583305
+- Longitude: -85.052725
+- County FIPS: 13045
+- County from: 2020
+- Tract 2020: 13045910705
+- Tract 2010: 13045910701
+- Tract 2000: 13045990701
+- Tract 1990: 13045990700
+- Place 2020: 13492
+- Place 2010: 13492
+- Place 2000: 13492
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WATERFORD AT CYPRESS LAKE (FLA19950808)
+
+- HUD ID: FLA19950808
+- HUD ID before: 
+- Project: WATERFORD AT CYPRESS LAKE
+- Address: 4733 WEST WATERS AVENUE
+- City: TAMPA
+- State: FL
+- ZIP: 33614
+- ZIP extension: 
+- State project ID: 923
+- Latitude: 28.025716
+- Longitude: -82.521924
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057011806
+- Tract 2010: 12057011803
+- Tract 2000: 12057011803
+- Tract 1990: 12057011801
+- Place 2020: 20108
+- Place 2010: 20108
+- Place 2000: 20108
+- Place 1990: 2217
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 1763333
+- Units: 450
+- Low-income units: 450
+- Units reported: 450
+- Low-income reported: 450
+- Efficiencies: 0
+- 1-bedroom units: 98
+- 2-bedroom units: 292
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

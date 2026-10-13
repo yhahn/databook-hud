@@ -1,0 +1,24 @@
+# Tax Credit Projects: Nodaway County, MO
+
+- Level: County
+- Postal code: MO
+- State FIPS: 29
+- County FIPS: 29147
+- Counties: 
+- Projects: 7
+- Units: 304
+- Low-income units: 287
+
+The low-income housing tax credit projects of Nodaway County, Missouri, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [MARYVILLE PROPERTIES (MOA19920340)](./Nodaway%20County/MARYVILLE%20PROPERTIES%20%28MOA19920340%29.md) | MOA19920340 | MARYVILLE | 1992 | 24 | 24 |
+| [MARYVILLE MEADOWS (MOA19990120)](./Nodaway%20County/MARYVILLE%20MEADOWS%20%28MOA19990120%29.md) | MOA19990120 | MARYVILLE | 1999 | 48 | 48 |
+| [AUTUMN HOUSE (MOA20040030)](./Nodaway%20County/AUTUMN%20HOUSE%20%28MOA20040030%29.md) | MOA20040030 | MARYVILLE | 2004 | 98 | 98 |
+| [VILLAS AT THE SUMMIT (MOA20070205)](./Nodaway%20County/VILLAS%20AT%20THE%20SUMMIT%20%28MOA20070205%29.md) | MOA20070205 | MARYVILLE | 2007 | 38 | 36 |
+| [SOUTHVIEW APTS (MOA20130021)](./Nodaway%20County/SOUTHVIEW%20APTS%20%28MOA20130021%29.md) | MOA20130021 | MARYVILLE | 2013 | 40 | 32 |
+| [VILLAS AT THE SUMMIT PHASE II (MOA20140220)](./Nodaway%20County/VILLAS%20AT%20THE%20SUMMIT%20PHASE%20II%20%28MOA20140220%29.md) | MOA20140220 | MARYVILLE | 2014 | 24 | 24 |
+| [SOUTHVIEW APARTMENTS PHASE II (MOA20160033)](./Nodaway%20County/SOUTHVIEW%20APARTMENTS%20PHASE%20II%20%28MOA20160033%29.md) | MOA20160033 | MARYVILLE | 2016 | 32 | 25 |

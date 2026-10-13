@@ -1,0 +1,85 @@
+# Project: WOODLAND PINES DEVELOPMENT (LAA20030065)
+
+- HUD ID: LAA20030065
+- HUD ID before: 
+- Project: WOODLAND PINES DEVELOPMENT
+- Address: 510 QUEEN CARTER CT
+- City: LAKE CHARLES
+- State: LA
+- ZIP: 70615
+- ZIP extension: 
+- State project ID: LA-03-019
+- Latitude: 30.250382
+- Longitude: -93.148253
+- County FIPS: 22019
+- County from: 2020
+- Tract 2020: 22019001401
+- Tract 2010: 22019001400
+- Tract 2000: 22019001400
+- Tract 1990: 22019001400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 41155
+- Place 1990: 0715
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 22
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

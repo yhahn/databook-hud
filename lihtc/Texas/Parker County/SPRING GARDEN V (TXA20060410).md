@@ -1,0 +1,85 @@
+# Project: SPRING GARDEN V (TXA20060410)
+
+- HUD ID: TXA20060410
+- HUD ID before: 
+- Project: SPRING GARDEN V
+- Address: 1015 MARC PL
+- City: SPRINGTOWN
+- State: TX
+- ZIP: 76082
+- ZIP extension: 
+- State project ID: TX4274
+- Latitude: 32.966427
+- Longitude: -97.668942
+- County FIPS: 48367
+- County from: 2020
+- Tract 2020: 48367140403
+- Tract 2010: 48367140403
+- Tract 2000: 48367140403
+- Tract 1990: 48367140401
+- Place 2020: 69800
+- Place 2010: 69800
+- Place 2000: 61604
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 297367
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 14
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

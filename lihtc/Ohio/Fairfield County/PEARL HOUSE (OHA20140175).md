@@ -1,0 +1,85 @@
+# Project: PEARL HOUSE (OHA20140175)
+
+- HUD ID: OHA20140175
+- HUD ID before: 
+- Project: PEARL HOUSE
+- Address: 218 W CHESTNUT ST
+- City: LANCASTER
+- State: OH
+- ZIP: 43130
+- ZIP extension: 
+- State project ID: 120063
+- Latitude: 39.712387
+- Longitude: -82.605473
+- County FIPS: 39045
+- County from: 2020
+- Tract 2020: 39045032000
+- Tract 2010: 39045032000
+- Tract 2000: 39045032000
+- Tract 1990: 39045032000
+- Place 2020: 41720
+- Place 2010: 41720
+- Place 2000: 41720
+- Place 1990: 2125
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 499123
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

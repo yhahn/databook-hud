@@ -1,0 +1,85 @@
+# Project: SHADY LANE APTS (CAA20120135)
+
+- HUD ID: CAA20120135
+- HUD ID before: 
+- Project: SHADY LANE APTS
+- Address: 2401 SHADY LN
+- City: ANDERSON
+- State: CA
+- ZIP: 96007
+- ZIP extension: 
+- State project ID: CA-11-894
+- Latitude: 40.452249
+- Longitude: -122.283274
+- County FIPS: 06089
+- County from: 2020
+- Tract 2020: 06089012102
+- Tract 2010: 06089012102
+- Tract 2000: 06089012100
+- Tract 1990: 06089012100
+- Place 2020: 02042
+- Place 2010: 02042
+- Place 2000: 02042
+- Place 1990: 0075
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 125248
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 10
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1994365.
+- Record status: Existing, unchanged

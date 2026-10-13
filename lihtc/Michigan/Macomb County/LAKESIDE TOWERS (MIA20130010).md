@@ -1,0 +1,85 @@
+# Project: LAKESIDE TOWERS (MIA20130010)
+
+- HUD ID: MIA20130010
+- HUD ID before: 
+- Project: LAKESIDE TOWERS
+- Address: 15000 SHORELINE DR
+- City: STERLING HEIGHTS
+- State: MI
+- ZIP: 48313
+- ZIP extension: 
+- State project ID: MI-3512
+- Latitude: 42.619652
+- Longitude: -82.975469
+- County FIPS: 26099
+- County from: 2020
+- Tract 2020: 26099230000
+- Tract 2010: 26099230000
+- Tract 2000: 26099230000
+- Tract 1990: 26099230000
+- Place 2020: 76460
+- Place 2010: 76460
+- Place 2000: 76460
+- Place 1990: 2583
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1193313
+- Units: 115
+- Low-income units: 114
+- Units reported: 115
+- Low-income reported: 114
+- Efficiencies: 0
+- 1-bedroom units: 109
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

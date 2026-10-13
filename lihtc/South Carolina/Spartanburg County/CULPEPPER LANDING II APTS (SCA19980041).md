@@ -1,0 +1,85 @@
+# Project: CULPEPPER LANDING II APTS (SCA19980041)
+
+- HUD ID: SCA19980041
+- HUD ID before: 
+- Project: CULPEPPER LANDING II APTS
+- Address: 201 CULPEPPER LANDING DR
+- City: DUNCAN
+- State: SC
+- ZIP: 29334
+- ZIP extension: 
+- State project ID: SC-97-020
+- Latitude: 34.926651
+- Longitude: -82.115278
+- County FIPS: 45083
+- County from: 2020
+- Tract 2020: 45083023101
+- Tract 2010: 45083023101
+- Tract 2000: 45083023101
+- Tract 1990: 45083023101
+- Place 2020: 21265
+- Place 2010: 21265
+- Place 2000: 21265
+- Place 1990: 0385
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 284065
+- Units: 85
+- Low-income units: 72
+- Units reported: 85
+- Low-income reported: 72
+- Efficiencies: 1
+- 1-bedroom units: 12
+- 2-bedroom units: 48
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 59
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

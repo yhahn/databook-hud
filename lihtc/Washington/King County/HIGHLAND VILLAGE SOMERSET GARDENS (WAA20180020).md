@@ -1,0 +1,85 @@
+# Project: HIGHLAND VILLAGE SOMERSET GARDENS (WAA20180020)
+
+- HUD ID: WAA20180020
+- HUD ID before: 
+- Project: HIGHLAND VILLAGE SOMERSET GARDENS
+- Address: 14500 NE 29TH PLACE
+- City: BELLEVUE
+- State: WA
+- ZIP: 98007
+- ZIP extension: 
+- State project ID: 18-39A
+- Latitude: 47.633892
+- Longitude: -122.145991
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033022804
+- Tract 2010: 53033022801
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 05210
+- Place 2010: 05210
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 2626878
+- Units: 286
+- Low-income units: 283
+- Units reported: 286
+- Low-income reported: 283
+- Efficiencies: 0
+- 1-bedroom units: 144
+- 2-bedroom units: 95
+- 3-bedroom units: 47
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 37
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

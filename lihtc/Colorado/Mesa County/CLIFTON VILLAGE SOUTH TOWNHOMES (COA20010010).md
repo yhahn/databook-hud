@@ -1,0 +1,85 @@
+# Project: CLIFTON VILLAGE SOUTH TOWNHOMES (COA20010010)
+
+- HUD ID: COA20010010
+- HUD ID before: 
+- Project: CLIFTON VILLAGE SOUTH TOWNHOMES
+- Address: 3206 MESA AVE
+- City: CLIFTON
+- State: CO
+- ZIP: 81520
+- ZIP extension: 
+- State project ID: CO-01-502
+- Latitude: 39.082565
+- Longitude: -108.458074
+- County FIPS: 08077
+- County from: 2020
+- Tract 2020: 08077001705
+- Tract 2010: 08077001705
+- Tract 2000: 08077001705
+- Tract 1990: 08077001701
+- Place 2020: 15165
+- Place 2010: 15165
+- Place 2000: 15165
+- Place 1990: 0221
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 119
+- Low-income units: 114
+- Units reported: 119
+- Low-income reported: 114
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 25
+- 3-bedroom units: 94
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WILLOW GROVE (CLIFTON).
+- Record status: Existing, unchanged

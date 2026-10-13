@@ -1,0 +1,85 @@
+# Project: VANTAGE APARTMENTS (WAA20144016)
+
+- HUD ID: WAA20144016
+- HUD ID before: 
+- Project: VANTAGE APARTMENTS
+- Address: 12909 MUKILTEO SPEEDWAY
+- City: LYNNWOOD
+- State: WA
+- ZIP: 98037
+- ZIP extension: 
+- State project ID: 12-80A
+- Latitude: 47.880603
+- Longitude: -122.278266
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061041901
+- Tract 2010: 53061041901
+- Tract 2000: 53061041901
+- Tract 1990: 53061041901
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 22640
+- Place 1990: 0953
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1245135
+- Units: 201
+- Low-income units: 199
+- Units reported: 201
+- Low-income reported: 199
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 60
+- 3-bedroom units: 63
+- 4-bedroom units: 71
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 31
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Updated

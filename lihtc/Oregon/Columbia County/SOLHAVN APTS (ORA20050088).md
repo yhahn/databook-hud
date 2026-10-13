@@ -1,0 +1,85 @@
+# Project: SOLHAVN APTS (ORA20050088)
+
+- HUD ID: ORA20050088
+- HUD ID before: 
+- Project: SOLHAVN APTS
+- Address: 500 SW BELAIR DR
+- City: CLATSKANIE
+- State: OR
+- ZIP: 97016
+- ZIP extension: 
+- State project ID: OR-04-00000500A
+- Latitude: 46.104615
+- Longitude: -123.210102
+- County FIPS: 41009
+- County from: 2020
+- Tract 2020: 41009970201
+- Tract 2010: 41009970200
+- Tract 2000: 41009970200
+- Tract 1990: 41009970200
+- Place 2020: 13750
+- Place 2010: 13750
+- Place 2000: 13750
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 136567
+- Units: 57
+- Low-income units: 57
+- Units reported: 57
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

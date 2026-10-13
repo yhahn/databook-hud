@@ -1,0 +1,85 @@
+# Project: SONGBIRD VILLAGE (ORA20000105)
+
+- HUD ID: ORA20000105
+- HUD ID before: 
+- Project: SONGBIRD VILLAGE
+- Address: 215 21ST ST SE
+- City: ALBANY
+- State: OR
+- ZIP: 97322
+- ZIP extension: 
+- State project ID: X001-268A
+- Latitude: 44.621593
+- Longitude: -123.099771
+- County FIPS: 41043
+- County from: 2020
+- Tract 2020: 41043020802
+- Tract 2010: 41043020802
+- Tract 2000: 41043020800
+- Tract 1990: 41043020800
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0010
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 425000
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 13
+- 3-bedroom units: 5
+- 4-bedroom units: 18
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 385000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

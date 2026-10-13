@@ -1,0 +1,85 @@
+# Project: RIDGE CLUB II (FLA19950020)
+
+- HUD ID: FLA19950020
+- HUD ID before: 
+- Project: RIDGE CLUB II
+- Address: 4602 OAK HAVEN DR
+- City: ORLANDO
+- State: FL
+- ZIP: 32839
+- ZIP extension: 
+- State project ID: 689
+- Latitude: 28.473447
+- Longitude: -81.436913
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016911
+- Tract 2010: 12095016903
+- Tract 2000: 12095016903
+- Tract 1990: 12095014500
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 50638
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 156
+- Low-income units: 156
+- Units reported: 156
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 72
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

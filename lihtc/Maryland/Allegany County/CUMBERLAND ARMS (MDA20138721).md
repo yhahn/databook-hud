@@ -1,0 +1,85 @@
+# Project: CUMBERLAND ARMS (MDA20138721)
+
+- HUD ID: MDA20138721
+- HUD ID before: 
+- Project: CUMBERLAND ARMS
+- Address: 10 N LIBERTY STREET
+- City: CUMBERLAND
+- State: MD
+- ZIP: 21502
+- ZIP extension: 
+- State project ID: MD-13-24
+- Latitude: 39.651567
+- Longitude: -78.762039
+- County FIPS: 24001
+- County from: 2020
+- Tract 2020: 24001001000
+- Tract 2010: 24001001000
+- Tract 2000: 24001001000
+- Tract 1990: 
+- Place 2020: 21325
+- Place 2010: 21325
+- Place 2000: 21325
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 344188
+- Units: 69
+- Low-income units: 69
+- Units reported: 69
+- Low-income reported: 69
+- Efficiencies: 
+- 1-bedroom units: 59
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

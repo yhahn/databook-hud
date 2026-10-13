@@ -1,0 +1,85 @@
+# Project: PRIMROSE AT PASADENA APTS (TXA20050275)
+
+- HUD ID: TXA20050275
+- HUD ID before: 
+- Project: PRIMROSE AT PASADENA APTS
+- Address: 2122 E SAM HOUSTON PKWY S
+- City: PASADENA
+- State: TX
+- ZIP: 77503
+- ZIP extension: 
+- State project ID: TX4147
+- Latitude: 29.679557
+- Longitude: -95.15615
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201323900
+- Tract 2010: 48201323900
+- Tract 2000: 48201323900
+- Tract 1990: 48201035801
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 56000
+- Place 1990: 3200
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 248
+- Low-income units: 248
+- Units reported: 248
+- Low-income reported: 248
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

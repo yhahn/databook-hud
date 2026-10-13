@@ -1,0 +1,85 @@
+# Project: SPRING RIVER APTS (ARA19940135)
+
+- HUD ID: ARA19940135
+- HUD ID before: 
+- Project: SPRING RIVER APTS
+- Address: 710 E MAIN ST
+- City: HARDY
+- State: AR
+- ZIP: 72542
+- ZIP extension: 
+- State project ID: AR-93-12-001
+- Latitude: 36.314335
+- Longitude: -91.47236
+- County FIPS: 05135
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05135470200
+- Tract 2000: 05135970200
+- Tract 1990: 05135970200
+- Place 2020: 
+- Place 2010: 29920
+- Place 2000: 13472
+- Place 1990: 0383
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 45604
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

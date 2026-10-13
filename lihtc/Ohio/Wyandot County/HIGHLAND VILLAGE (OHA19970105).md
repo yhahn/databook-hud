@@ -1,0 +1,85 @@
+# Project: HIGHLAND VILLAGE (OHA19970105)
+
+- HUD ID: OHA19970105
+- HUD ID before: 
+- Project: HIGHLAND VILLAGE
+- Address: 210 RICHARDSON DR
+- City: UPPER SANDUSKY
+- State: OH
+- ZIP: 43351
+- ZIP extension: 
+- State project ID: 950081
+- Latitude: 40.850361
+- Longitude: -83.277128
+- County FIPS: 39175
+- County from: 2020
+- Tract 2020: 39175938300
+- Tract 2010: 39175938300
+- Tract 2000: 39175988300
+- Tract 1990: 39175988300
+- Place 2020: 79044
+- Place 2010: 79044
+- Place 2000: 79044
+- Place 1990: 4360
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 265559
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

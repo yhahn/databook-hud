@@ -1,0 +1,85 @@
+# Project: MAD RIVER MEADOWS (VTA20050025)
+
+- HUD ID: VTA20050025
+- HUD ID before: 
+- Project: MAD RIVER MEADOWS
+- Address: 144 BUTCHER HOUSE DR
+- City: WAITSFIELD
+- State: VT
+- ZIP: 05673
+- ZIP extension: 
+- State project ID: 0097
+- Latitude: 44.18106
+- Longitude: -72.835879
+- County FIPS: 50023
+- County from: 2020
+- Tract 2020: 50023955700
+- Tract 2010: 50023955700
+- Tract 2000: 50023955700
+- Tract 1990: 50023955700
+- Place 2020: 75250
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 65492
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 8
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COURT PLAZA SENIOR APTS (NYA20039246)
+
+- HUD ID: NYA20039246
+- HUD ID before: 
+- Project: COURT PLAZA SENIOR APTS
+- Address: 1 HOPPEN DR
+- City: CENTRAL ISLIP
+- State: NY
+- ZIP: 11722
+- ZIP extension: 
+- State project ID: 20011178
+- Latitude: 40.766277
+- Longitude: -73.194846
+- County FIPS: 36103
+- County from: 2020
+- Tract 2020: 36103146300
+- Tract 2010: 36103146300
+- Tract 2000: 36103146300
+- Tract 1990: 36103146300
+- Place 2020: 13552
+- Place 2010: 13552
+- Place 2000: 13552
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 101
+- 2-bedroom units: 51
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

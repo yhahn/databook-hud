@@ -1,0 +1,85 @@
+# Project: PARKWAY MANOR (ILA19890129)
+
+- HUD ID: ILA19890129
+- HUD ID before: 
+- Project: PARKWAY MANOR
+- Address: 504 E HENDELMEYER AVE
+- City: EFFINGHAM
+- State: IL
+- ZIP: 62401
+- ZIP extension: 
+- State project ID: 141-89
+- Latitude: 39.103608
+- Longitude: -88.536655
+- County FIPS: 17049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17049950600
+- Tract 2000: 17049950600
+- Tract 1990: 17049959700
+- Place 2020: 
+- Place 2010: 22736
+- Place 2000: 22736
+- Place 1990: 5690
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 60480
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000730.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COLLEGE DRIVE TOWNHOUSES (MNA20090821)
+
+- HUD ID: MNA20090821
+- HUD ID before: 
+- Project: COLLEGE DRIVE TOWNHOUSES
+- Address: 701-757 BRIAN LN
+- City: BRAINERD
+- State: MN
+- ZIP: 56401
+- ZIP extension: 
+- State project ID: D0216
+- Latitude: 46.348925
+- Longitude: -94.210693
+- County FIPS: 27035
+- County from: 2020
+- Tract 2020: 27035951303
+- Tract 2010: 27035951302
+- Tract 2000: 27035951300
+- Tract 1990: 27035951300
+- Place 2020: 07300
+- Place 2010: 07300
+- Place 2000: 04042
+- Place 1990: 0225
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 222909
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 800000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA0000025.
+- Record status: Existing, unchanged

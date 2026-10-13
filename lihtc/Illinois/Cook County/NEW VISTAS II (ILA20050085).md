@@ -1,0 +1,85 @@
+# Project: NEW VISTAS II (ILA20050085)
+
+- HUD ID: ILA20050085
+- HUD ID before: 
+- Project: NEW VISTAS II
+- Address: 6909 S CRANDON AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60649
+- ZIP extension: 
+- State project ID: 006804
+- Latitude: 41.769717
+- Longitude: -87.569667
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031430102
+- Tract 2010: 17031430102
+- Tract 2000: 17031430100
+- Tract 1990: 17031430100
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 383236
+- Units: 154
+- Low-income units: 154
+- Units reported: 154
+- Low-income reported: 154
+- Efficiencies: 6
+- 1-bedroom units: 89
+- 2-bedroom units: 47
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: Yes
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

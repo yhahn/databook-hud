@@ -1,0 +1,85 @@
+# Project: CASTELLANI MEADOWS (VAA20000065)
+
+- HUD ID: VAA20000065
+- HUD ID before: 
+- Project: CASTELLANI MEADOWS
+- Address: 14069 KEEPERS PARK
+- City: CENTREVILLE
+- State: VA
+- ZIP: 20121
+- ZIP extension: 
+- State project ID: 941
+- Latitude: 38.83367
+- Longitude: -77.433399
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059491303
+- Tract 2010: 51059491303
+- Tract 2000: 51059491300
+- Tract 1990: 51059491300
+- Place 2020: 14440
+- Place 2010: 14440
+- Place 2000: 14440
+- Place 1990: 0216
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 113963
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

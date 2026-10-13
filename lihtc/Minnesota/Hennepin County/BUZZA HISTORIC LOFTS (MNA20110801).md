@@ -1,0 +1,85 @@
+# Project: BUZZA HISTORIC LOFTS (MNA20110801)
+
+- HUD ID: MNA20110801
+- HUD ID before: 
+- Project: BUZZA HISTORIC LOFTS
+- Address: 1006 WEST LAKE STREET
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55408
+- ZIP extension: 2860
+- State project ID: D7550
+- Latitude: 44.948526
+- Longitude: -93.292004
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053007700
+- Tract 2010: 27053007700
+- Tract 2000: 27053007700
+- Tract 1990: 27053007700
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 2585
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1089285
+- Units: 136
+- Low-income units: 136
+- Units reported: 136
+- Low-income reported: 136
+- Efficiencies: 1
+- 1-bedroom units: 100
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: No
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: RIDGEVIEW DRIVE APTS (OKA19970055)
+
+- HUD ID: OKA19970055
+- HUD ID before: 
+- Project: RIDGEVIEW DRIVE APTS
+- Address: 1036 RIDGEVIEW DR
+- City: MADILL
+- State: OK
+- ZIP: 73446
+- ZIP extension: 
+- State project ID: 960822
+- Latitude: 34.100238
+- Longitude: -96.774841
+- County FIPS: 40095
+- County from: 2020
+- Tract 2020: 40095094700
+- Tract 2010: 40095094700
+- Tract 2000: 40095994700
+- Tract 1990: 40095994700
+- Place 2020: 45750
+- Place 2010: 45750
+- Place 2000: 45750
+- Place 1990: 1520
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

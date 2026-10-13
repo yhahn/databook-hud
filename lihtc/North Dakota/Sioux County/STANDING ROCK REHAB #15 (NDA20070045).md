@@ -1,0 +1,85 @@
+# Project: STANDING ROCK REHAB #15 (NDA20070045)
+
+- HUD ID: NDA20070045
+- HUD ID before: 
+- Project: STANDING ROCK REHAB #15
+- Address: 1333 92ND ST
+- City: FORT YATES
+- State: ND
+- ZIP: 58538
+- ZIP extension: 
+- State project ID: TC0518
+- Latitude: 46.088288
+- Longitude: -100.65907
+- County FIPS: 38085
+- County from: 2020
+- Tract 2020: 38085940900
+- Tract 2010: 38085940900
+- Tract 2000: 38085940300
+- Tract 1990: 38085966000
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 12020
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 196386
+- Units: 20
+- Low-income units: 20
+- Units reported: 19
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 11
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

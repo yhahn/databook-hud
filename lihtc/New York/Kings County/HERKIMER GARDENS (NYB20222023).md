@@ -1,0 +1,85 @@
+# Project: HERKIMER GARDENS (NYB20222023)
+
+- HUD ID: NYB20222023
+- HUD ID before: 
+- Project: HERKIMER GARDENS
+- Address: 491 HERKIMER STREET
+- City: BROOKLYN
+- State: NY
+- ZIP: 11111
+- ZIP extension: 
+- State project ID: NY-22-2676
+- Latitude: 40.679119
+- Longitude: -73.937133
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047027100
+- Tract 2010: 36047027100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2084613
+- Units: 121
+- Low-income units: 120
+- Units reported: 121
+- Low-income reported: 120
+- Efficiencies: 68
+- 1-bedroom units: 52
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 142682122
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

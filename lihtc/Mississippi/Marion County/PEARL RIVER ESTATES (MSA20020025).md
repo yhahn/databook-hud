@@ -1,0 +1,85 @@
+# Project: PEARL RIVER ESTATES (MSA20020025)
+
+- HUD ID: MSA20020025
+- HUD ID before: 
+- Project: PEARL RIVER ESTATES
+- Address: 1518 HALE ST
+- City: COLUMBIA
+- State: MS
+- ZIP: 39429
+- ZIP extension: 
+- State project ID: MS-00-017
+- Latitude: 31.268623
+- Longitude: -89.839589
+- County FIPS: 28091
+- County from: 2020
+- Tract 2020: 28091950300
+- Tract 2010: 28091950300
+- Tract 2000: 28091950300
+- Tract 1990: 28091950300
+- Place 2020: 15340
+- Place 2010: 15340
+- Place 2000: 15340
+- Place 1990: 0260
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 292042
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 19
+- 4-bedroom units: 21
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2002635.
+- Record status: Existing, unchanged

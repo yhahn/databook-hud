@@ -1,0 +1,85 @@
+# Project: HUNTER'S RUN APARTMENTS (GAA19920085)
+
+- HUD ID: GAA19920085
+- HUD ID before: 
+- Project: HUNTER'S RUN APARTMENTS
+- Address: 701 LUPO LN
+- City: DOUGLAS
+- State: GA
+- ZIP: 31533
+- ZIP extension: 
+- State project ID: 1991-050
+- Latitude: 31.500927
+- Longitude: -82.832538
+- County FIPS: 13069
+- County from: 2020
+- Tract 2020: 13069010802
+- Tract 2010: 13069010802
+- Tract 2000: 13069990800
+- Tract 1990: 13069990800
+- Place 2020: 23872
+- Place 2010: 23872
+- Place 2000: 23872
+- Place 1990: 0890
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

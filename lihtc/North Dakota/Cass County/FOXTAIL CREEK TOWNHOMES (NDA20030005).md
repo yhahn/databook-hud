@@ -1,0 +1,85 @@
+# Project: FOXTAIL CREEK TOWNHOMES (NDA20030005)
+
+- HUD ID: NDA20030005
+- HUD ID before: 
+- Project: FOXTAIL CREEK TOWNHOMES
+- Address: 3740 42ND ST S
+- City: FARGO
+- State: ND
+- ZIP: 58104
+- ZIP extension: 
+- State project ID: TC0115
+- Latitude: 46.821602
+- Longitude: -96.850831
+- County FIPS: 38017
+- County from: 2020
+- Tract 2020: 38017040504
+- Tract 2010: 38017040500
+- Tract 2000: 38017040500
+- Tract 1990: 38017040500
+- Place 2020: 25700
+- Place 2010: 25700
+- Place 2000: 09320
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 190881
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 10
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

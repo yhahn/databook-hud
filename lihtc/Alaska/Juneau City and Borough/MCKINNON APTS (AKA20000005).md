@@ -1,0 +1,85 @@
+# Project: MCKINNON APTS (AKA20000005)
+
+- HUD ID: AKA20000005
+- HUD ID before: 
+- Project: MCKINNON APTS
+- Address: 236 THIRD ST
+- City: JUNEAU
+- State: AK
+- ZIP: 99801
+- ZIP extension: 
+- State project ID: AK-99-00005
+- Latitude: 58.301917
+- Longitude: -134.408463
+- County FIPS: 02110
+- County from: 2020
+- Tract 2020: 02110000500
+- Tract 2010: 02110000500
+- Tract 2000: 02110000500
+- Tract 1990: 02110976900
+- Place 2020: 36400
+- Place 2010: 36400
+- Place 2000: 36400
+- Place 1990: 1510
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 17
+- 1-bedroom units: 6
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

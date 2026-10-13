@@ -1,0 +1,85 @@
+# Project: SANTA FE OAKS I (FLA20070812)
+
+- HUD ID: FLA20070812
+- HUD ID before: 
+- Project: SANTA FE OAKS I
+- Address: 8203 NW 31ST AVE
+- City: GAINESVILLE
+- State: FL
+- ZIP: 32606
+- ZIP extension: 
+- State project ID: 752
+- Latitude: 29.680558
+- Longitude: -82.429744
+- County FIPS: 12001
+- County from: 2020
+- Tract 2020: 12001001701
+- Tract 2010: 12001001701
+- Tract 2000: 12001001701
+- Tract 1990: 12001001700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 66
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1991095. AKA SANTA FE TOWNHOMES.
+- Record status: Existing, unchanged

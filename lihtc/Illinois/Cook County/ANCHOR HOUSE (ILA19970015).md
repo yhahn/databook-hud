@@ -1,0 +1,85 @@
+# Project: ANCHOR HOUSE (ILA19970015)
+
+- HUD ID: ILA19970015
+- HUD ID before: 
+- Project: ANCHOR HOUSE
+- Address: 1200 W 76TH ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60620
+- ZIP extension: 
+- State project ID: 77895
+- Latitude: 41.756221
+- Longitude: -87.654802
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031710200
+- Tract 2010: 17031710200
+- Tract 2000: 17031710200
+- Tract 1990: 17031710200
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 823420
+- Units: 115
+- Low-income units: 115
+- Units reported: 115
+- Low-income reported: 115
+- Efficiencies: 54
+- 1-bedroom units: 33
+- 2-bedroom units: 23
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

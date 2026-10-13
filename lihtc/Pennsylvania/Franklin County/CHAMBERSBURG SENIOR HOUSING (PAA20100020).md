@@ -1,0 +1,85 @@
+# Project: CHAMBERSBURG SENIOR HOUSING (PAA20100020)
+
+- HUD ID: PAA20100020
+- HUD ID before: 
+- Project: CHAMBERSBURG SENIOR HOUSING
+- Address: 78 W WASHINGTON ST
+- City: CHAMBERSBURG
+- State: PA
+- ZIP: 17201
+- ZIP extension: 
+- State project ID: TC20090513
+- Latitude: 39.934373
+- Longitude: -77.663809
+- County FIPS: 42055
+- County from: 2020
+- Tract 2020: 42055011000
+- Tract 2010: 42055011000
+- Tract 2000: 42055011000
+- Tract 1990: 42055011000
+- Place 2020: 12536
+- Place 2010: 12536
+- Place 2000: 12536
+- Place 1990: 1745
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 4063212
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4063212
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

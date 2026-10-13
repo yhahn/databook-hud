@@ -1,0 +1,85 @@
+# Project: SIERRA ROYALE (TXA20050330)
+
+- HUD ID: TXA20050330
+- HUD ID before: 
+- Project: SIERRA ROYALE
+- Address: 630 WRIGHT AVENUE
+- City: ROBSTOWN
+- State: TX
+- ZIP: 78380
+- ZIP extension: 
+- State project ID: TX4099
+- Latitude: 27.785304
+- Longitude: -97.659574
+- County FIPS: 48355
+- County from: 2020
+- Tract 2020: 48355005606
+- Tract 2010: 48355005602
+- Tract 2000: 48355005602
+- Tract 1990: 48355005602
+- Place 2020: 62600
+- Place 2010: 62600
+- Place 2000: 52404
+- Place 1990: 3600
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 68
+- Units reported: 76
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 34
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 1849736
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: OLEN JONES SENIOR APTS (CAA20040370)
+
+- HUD ID: CAA20040370
+- HUD ID before: 
+- Project: OLEN JONES SENIOR APTS
+- Address: 7125 AMETHYST AVE
+- City: RANCHO CUCAMONGA
+- State: CA
+- ZIP: 91701
+- ZIP extension: 
+- State project ID: CA-02-870
+- Latitude: 34.124618
+- Longitude: -117.59801
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071002023
+- Tract 2010: 06071002023
+- Tract 2000: 06071002005
+- Tract 1990: 06071002005
+- Place 2020: 59451
+- Place 2010: 59451
+- Place 2000: 59451
+- Place 1990: 2278
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 395081
+- Units: 96
+- Low-income units: 95
+- Units reported: 96
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 86
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA OLEN JONES SENIOR COMMUNITY.
+- Record status: Existing, unchanged

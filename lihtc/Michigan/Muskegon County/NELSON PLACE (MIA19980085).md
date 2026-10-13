@@ -1,0 +1,85 @@
+# Project: NELSON PLACE (MIA19980085)
+
+- HUD ID: MIA19980085
+- HUD ID before: 
+- Project: NELSON PLACE
+- Address: 350 HOUSTON AVE
+- City: MUSKEGON
+- State: MI
+- ZIP: 49441
+- ZIP extension: 
+- State project ID: MI-953
+- Latitude: 43.230969
+- Longitude: -86.25222
+- County FIPS: 26121
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26121004200
+- Tract 2000: 26121000602
+- Tract 1990: 26121000602
+- Place 2020: 
+- Place 2010: 56320
+- Place 2000: 56320
+- Place 1990: 1875
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 101
+- Low-income units: 100
+- Units reported: 101
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 90
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

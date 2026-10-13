@@ -1,0 +1,24 @@
+# Tax Credit Projects: Shelby County, IL
+
+- Level: County
+- Postal code: IL
+- State FIPS: 17
+- County FIPS: 17173
+- Counties: 
+- Projects: 7
+- Units: 157
+- Low-income units: 156
+
+The low-income housing tax credit projects of Shelby County, Illinois, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [CORNERSTONE APTS (ILA19890101)](./Shelby%20County/CORNERSTONE%20APTS%20%28ILA19890101%29.md) | ILA19890101 | SHELBYVILLE | 1989 | 12 | 12 |
+| [ELMS (ILA19890109)](./Shelby%20County/ELMS%20%28ILA19890109%29.md) | ILA19890109 | FINDLAY | 1989 | 16 | 16 |
+| [MARTIN LAMPLIGHTER (WINDSOR) (ILA19890116)](./Shelby%20County/MARTIN%20LAMPLIGHTER%20%28WINDSOR%29%20%28ILA19890116%29.md) | ILA19890116 | WINDSOR | 1989 | 24 | 24 |
+| [COUNTRY PLACE APTS (MOWEAQUA) II (ILA19930235)](./Shelby%20County/COUNTRY%20PLACE%20APTS%20%28MOWEAQUA%29%20II%20%28ILA19930235%29.md) | ILA19930235 | MOWEAQUA | 1993 | 16 | 16 |
+| [HEINLEIN SQUARE APTS (ILA19960110)](./Shelby%20County/HEINLEIN%20SQUARE%20APTS%20%28ILA19960110%29.md) | ILA19960110 | SHELBYVILLE | 1996 | 24 | 24 |
+| [SHELBYVILLE APTS (ILA19970105)](./Shelby%20County/SHELBYVILLE%20APTS%20%28ILA19970105%29.md) | ILA19970105 | SHELBYVILLE | 1997 | 35 | 34 |
+| [SHELBYVILLE HOMES (ILA20100902)](./Shelby%20County/SHELBYVILLE%20HOMES%20%28ILA20100902%29.md) | ILA20100902 | SHELBYVILLE | 2010 | 30 | 30 |

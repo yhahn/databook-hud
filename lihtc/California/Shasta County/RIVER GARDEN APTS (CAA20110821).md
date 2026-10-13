@@ -1,0 +1,85 @@
+# Project: RIVER GARDEN APTS (CAA20110821)
+
+- HUD ID: CAA20110821
+- HUD ID before: 
+- Project: RIVER GARDEN APTS
+- Address: 3195 BRIARWOOD DR
+- City: ANDERSON
+- State: CA
+- ZIP: 96007
+- ZIP extension: 
+- State project ID: CA-10-504
+- Latitude: 40.466992
+- Longitude: -122.29431
+- County FIPS: 06089
+- County from: 2020
+- Tract 2020: 06089012101
+- Tract 2010: 06089012101
+- Tract 2000: 06089012100
+- Tract 1990: 06089012100
+- Place 2020: 02042
+- Place 2010: 02042
+- Place 2000: 02042
+- Place 1990: 0075
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 108
+- Low-income units: 106
+- Units reported: 108
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3264339
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

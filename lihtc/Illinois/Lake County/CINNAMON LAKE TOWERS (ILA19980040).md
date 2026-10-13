@@ -1,0 +1,85 @@
+# Project: CINNAMON LAKE TOWERS (ILA19980040)
+
+- HUD ID: ILA19980040
+- HUD ID before: 
+- Project: CINNAMON LAKE TOWERS
+- Address: 2701 W GLEN FLORA AVE
+- City: WAUKEGAN
+- State: IL
+- ZIP: 60085
+- ZIP extension: 
+- State project ID: 30397
+- Latitude: 42.377798
+- Longitude: -87.866957
+- County FIPS: 17097
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17097861902
+- Tract 2000: 17097861902
+- Tract 1990: 17097861902
+- Place 2020: 
+- Place 2010: 79293
+- Place 2000: 32018
+- Place 1990: 6075
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 589594
+- Units: 274
+- Low-income units: 274
+- Units reported: 274
+- Low-income reported: 274
+- Efficiencies: 25
+- 1-bedroom units: 148
+- 2-bedroom units: 101
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1998035.
+- Record status: Existing, unchanged

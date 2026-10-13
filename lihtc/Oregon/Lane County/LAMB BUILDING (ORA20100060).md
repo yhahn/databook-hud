@@ -1,0 +1,85 @@
+# Project: LAMB BUILDING (ORA20100060)
+
+- HUD ID: ORA20100060
+- HUD ID before: 
+- Project: LAMB BUILDING
+- Address: 1135 HAYES ST
+- City: EUGENE
+- State: OR
+- ZIP: 97402
+- ZIP extension: 
+- State project ID: OR10-013
+- Latitude: 44.047452
+- Longitude: -123.121426
+- County FIPS: 41039
+- County from: 2020
+- Tract 2020: 41039004403
+- Tract 2010: 41039004403
+- Tract 2000: 41039004403
+- Tract 1990: 41039004403
+- Place 2020: 23850
+- Place 2010: 23850
+- Place 2000: 23850
+- Place 1990: 0360
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 530000
+- Units: 35
+- Low-income units: 34
+- Units reported: 35
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: HIV, RELEASED OFFENDERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

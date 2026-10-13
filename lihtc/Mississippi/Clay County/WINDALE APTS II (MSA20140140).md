@@ -1,0 +1,85 @@
+# Project: WINDALE APTS II (MSA20140140)
+
+- HUD ID: MSA20140140
+- HUD ID before: 
+- Project: WINDALE APTS II
+- Address: 530 WINDALE DR
+- City: WEST POINT
+- State: MS
+- ZIP: 39773
+- ZIP extension: 
+- State project ID: MS-12-1-033
+- Latitude: 33.617983
+- Longitude: -88.655148
+- County FIPS: 28025
+- County from: 2020
+- Tract 2020: 28025950100
+- Tract 2010: 28025950300
+- Tract 2000: 28025950300
+- Tract 1990: 28025950300
+- Place 2020: 99999
+- Place 2010: 79120
+- Place 2000: 79120
+- Place 1990: 1455
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 725316
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 20
+- 3-bedroom units: 24
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

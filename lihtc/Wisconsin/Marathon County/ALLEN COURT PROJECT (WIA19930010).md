@@ -1,0 +1,85 @@
+# Project: ALLEN COURT PROJECT (WIA19930010)
+
+- HUD ID: WIA19930010
+- HUD ID before: 
+- Project: ALLEN COURT PROJECT
+- Address: 108 DEGNER ST
+- City: ATHENS
+- State: WI
+- ZIP: 54411
+- ZIP extension: 
+- State project ID: 1341
+- Latitude: 45.034331
+- Longitude: -90.07228
+- County FIPS: 55073
+- County from: 2020
+- Tract 2020: 55073002301
+- Tract 2010: 55073002300
+- Tract 2000: 55073002300
+- Tract 1990: 55073002300
+- Place 2020: 03550
+- Place 2010: 03550
+- Place 2000: 03550
+- Place 1990: 0110
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 8
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

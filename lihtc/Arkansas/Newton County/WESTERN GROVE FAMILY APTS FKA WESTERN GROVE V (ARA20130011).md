@@ -1,0 +1,85 @@
+# Project: WESTERN GROVE FAMILY APTS FKA WESTERN GROVE V (ARA20130011)
+
+- HUD ID: ARA20130011
+- HUD ID before: 
+- Project: WESTERN GROVE FAMILY APTS FKA WESTERN GROVE V
+- Address: 200 SHAMROCK LN
+- City: WESTERN GROVE
+- State: AR
+- ZIP: 72685
+- ZIP extension: 
+- State project ID: AR-95-15
+- Latitude: 36.10259
+- Longitude: -92.96582
+- County FIPS: 05101
+- County from: 2020
+- Tract 2020: 05101180100
+- Tract 2010: 05101180100
+- Tract 2000: 05101980100
+- Tract 1990: 05101980100
+- Place 2020: 74330
+- Place 2010: 74330
+- Place 2000: 34900
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 201017
+- Units: 26
+- Low-income units: 25
+- Units reported: 26
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 13
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1996080. FKA WESTERN GROVE VILLAS
+- Record status: Existing, unchanged

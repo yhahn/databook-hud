@@ -1,0 +1,85 @@
+# Project: DALLAS NORTH APTS (TXA19960070)
+
+- HUD ID: TXA19960070
+- HUD ID before: 
+- Project: DALLAS NORTH APTS
+- Address: 5557 ALPHA RD
+- City: DALLAS
+- State: TX
+- ZIP: 75240
+- ZIP extension: 
+- State project ID: TX1263
+- Latitude: 32.933055
+- Longitude: -96.81215
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113013615
+- Tract 2010: 48113013615
+- Tract 2000: 48113013615
+- Tract 1990: 48113013615
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1085
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 206
+- Low-income units: 206
+- Units reported: 206
+- Low-income reported: 206
+- Efficiencies: 0
+- 1-bedroom units: 110
+- 2-bedroom units: 88
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CMA II.
+- Record status: Existing, unchanged

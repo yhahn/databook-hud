@@ -1,0 +1,22 @@
+# Tax Credit Projects: Queen Anne's County, MD
+
+- Level: County
+- Postal code: MD
+- State FIPS: 24
+- County FIPS: 24035
+- Counties: 
+- Projects: 5
+- Units: 288
+- Low-income units: 274
+
+The low-income housing tax credit projects of Queen Anne's County, Maryland, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [RENAISSANCE CHASE APTS (MDA19950135)](./Queen%20Anne%27s%20County/RENAISSANCE%20CHASE%20APTS%20%28MDA19950135%29.md) | MDA19950135 | CENTREVILLE | 1995 | 32 | 32 |
+| [THE VILLAGES AT SLIPPERY HILL (MDA20210075)](./Queen%20Anne%27s%20County/THE%20VILLAGES%20AT%20SLIPPERY%20HILL%20%28MDA20210075%29.md) | MDA20210075 | GRASONVILLE | 2021 | 66 | 59 |
+| [THE WILLOWS AT CENTREVILLE (MDA20220011)](./Queen%20Anne%27s%20County/THE%20WILLOWS%20AT%20CENTREVILLE%20%28MDA20220011%29.md) | MDA20220011 | CENTREVILLE | 2022 | 70 | 63 |
+| [VILLAGES AT SLIPPERY HILL III SENIOR (MDA20240033)](./Queen%20Anne%27s%20County/VILLAGES%20AT%20SLIPPERY%20HILL%20III%20SENIOR%20%28MDA20240033%29.md) | MDA20240033 | GRASONVILLE | 2024 | 54 | 54 |
+| [VILLAGES AT SLIPPERY HILL, PHASE II (MDA20240034)](./Queen%20Anne%27s%20County/VILLAGES%20AT%20SLIPPERY%20HILL,%20PHASE%20II%20%28MDA20240034%29.md) | MDA20240034 | GRASONVILLE | 2024 | 66 | 66 |

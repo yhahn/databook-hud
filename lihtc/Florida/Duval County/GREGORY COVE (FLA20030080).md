@@ -1,0 +1,85 @@
+# Project: GREGORY COVE (FLA20030080)
+
+- HUD ID: FLA20030080
+- HUD ID before: 
+- Project: GREGORY COVE
+- Address: 5601 EDENFIELD RD
+- City: JACKSONVILLE
+- State: FL
+- ZIP: 32277
+- ZIP extension: 
+- State project ID: 1097
+- Latitude: 30.3808
+- Longitude: -81.606796
+- County FIPS: 12031
+- County from: 2020
+- Tract 2020: 12031014704
+- Tract 2010: 12031014701
+- Tract 2000: 12031014701
+- Tract 1990: 12031014700
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1003
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 288
+- Low-income units: 286
+- Units reported: 288
+- Low-income reported: 286
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 120
+- 3-bedroom units: 96
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

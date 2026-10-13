@@ -1,0 +1,85 @@
+# Project: MERCY HOLLY PARK WEST (COA19990085)
+
+- HUD ID: COA19990085
+- HUD ID before: 
+- Project: MERCY HOLLY PARK WEST
+- Address: 5520 E 60TH AVE
+- City: COMMERCE CITY
+- State: CO
+- ZIP: 80022
+- ZIP extension: 
+- State project ID: 980045
+- Latitude: 39.805415
+- Longitude: -104.922823
+- County FIPS: 08001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 08001008709
+- Tract 2000: 08001008703
+- Tract 1990: 08001008703
+- Place 2020: 
+- Place 2010: 16495
+- Place 2000: 16495
+- Place 1990: 0245
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 48
+- 3-bedroom units: 12
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

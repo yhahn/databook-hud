@@ -1,0 +1,85 @@
+# Project: ORCHARD AT HILLTOP -FKA HILLTOP AND EUCLID FAMILY (CAA20221110)
+
+- HUD ID: CAA20221110
+- HUD ID before: 
+- Project: ORCHARD AT HILLTOP -FKA HILLTOP AND EUCLID FAMILY
+- Address: 5012, 5032, 5052 HILLTOP DRIVE
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92102
+- ZIP extension: 
+- State project ID: CA-2020-500
+- Latitude: 32.715164
+- Longitude: -117.086216
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073003404
+- Tract 2010: 06073003404
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2343038
+- Units: 113
+- Low-income units: 111
+- Units reported: 113
+- Low-income reported: 111
+- Efficiencies: 14
+- 1-bedroom units: 23
+- 2-bedroom units: 37
+- 3-bedroom units: 21
+- 4-bedroom units: 18
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

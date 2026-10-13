@@ -1,0 +1,85 @@
+# Project: JENNA TERRACE APTS (OHA19960125)
+
+- HUD ID: OHA19960125
+- HUD ID before: 
+- Project: JENNA TERRACE APTS
+- Address: 3152 FULMER RD
+- City: LORAIN
+- State: OH
+- ZIP: 44053
+- ZIP extension: 
+- State project ID: OH-95-0023
+- Latitude: 41.442006
+- Longitude: -82.22775
+- County FIPS: 39093
+- County from: 2020
+- Tract 2020: 39093097202
+- Tract 2010: 39093097200
+- Tract 2000: 39093022602
+- Tract 1990: 39093022602
+- Place 2020: 44856
+- Place 2010: 44856
+- Place 2000: 01798
+- Place 1990: 2285
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 198182
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 48
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

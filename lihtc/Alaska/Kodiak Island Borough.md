@@ -1,0 +1,25 @@
+# Tax Credit Projects: Kodiak Island Borough, AK
+
+- Level: County
+- Postal code: AK
+- State FIPS: 02
+- County FIPS: 02150
+- Counties: 
+- Projects: 8
+- Units: 486
+- Low-income units: 458
+
+The low-income housing tax credit projects of Kodiak Island Borough, Alaska, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [CHRISTENSON RD PORTFOLIO PHASE I (AKA20090005)](./Kodiak%20Island%20Borough/CHRISTENSON%20RD%20PORTFOLIO%20PHASE%20I%20%28AKA20090005%29.md) | AKA20090005 | KODIAK | 2009 | 128 | 126 |
+| [APD HOUSING PARTNERS 18 (AKA20109001)](./Kodiak%20Island%20Borough/APD%20HOUSING%20PARTNERS%2018%20%28AKA20109001%29.md) | AKA20109001 | KODIAK | 2010 | 128 | 126 |
+| [CHRISTENSON RD PORTFOLIO PHASE II (AKA20110007)](./Kodiak%20Island%20Borough/CHRISTENSON%20RD%20PORTFOLIO%20PHASE%20II%20%28AKA20110007%29.md) | AKA20110007 | KODIAK | 2011 | 110 | 110 |
+| [MILL BAY TOWNHOMES, LLC (AKA20183036)](./Kodiak%20Island%20Borough/MILL%20BAY%20TOWNHOMES,%20LLC%20%28AKA20183036%29.md) | AKA20183036 | KODIAK | 2018 | 20 | 16 |
+| [SPRUCE CAPE HOMES (AKA20201002)](./Kodiak%20Island%20Borough/SPRUCE%20CAPE%20HOMES%20%28AKA20201002%29.md) | AKA20201002 | KODIAK | 2020 | 30 | 24 |
+| [SPRUCE CAPE HOMES II (AKA20201003)](./Kodiak%20Island%20Borough/SPRUCE%20CAPE%20HOMES%20II%20%28AKA20201003%29.md) | AKA20201003 | KODIAK | 2020 | 20 | 16 |
+| [SPRUCE CAPE I (AKA20203005)](./Kodiak%20Island%20Borough/SPRUCE%20CAPE%20I%20%28AKA20203005%29.md) | AKA20203005 | KODIAK | 2020 | 30 | 24 |
+| [SPRUCE CAPE II (AKA20203006)](./Kodiak%20Island%20Borough/SPRUCE%20CAPE%20II%20%28AKA20203006%29.md) | AKA20203006 | KODIAK | 2020 | 20 | 16 |

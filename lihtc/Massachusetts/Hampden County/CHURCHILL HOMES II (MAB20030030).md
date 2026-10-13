@@ -1,0 +1,85 @@
+# Project: CHURCHILL HOMES II (MAB20030030)
+
+- HUD ID: MAB20030030
+- HUD ID before: 
+- Project: CHURCHILL HOMES II
+- Address: 334 ELM ST
+- City: HOLYOKE
+- State: MA
+- ZIP: 01040
+- ZIP extension: 
+- State project ID: MA-00-5021
+- Latitude: 42.20067
+- Longitude: -72.617697
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013812104
+- Tract 2010: 25013811600
+- Tract 2000: 25013811600
+- Tract 1990: 25013811600
+- Place 2020: 30840
+- Place 2010: 30840
+- Place 2000: 30840
+- Place 1990: 1830
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 34
+- 4-bedroom units: 8
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB2001025.
+- Record status: Existing, unchanged

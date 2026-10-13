@@ -1,0 +1,85 @@
+# Project: VILLA DEREMER (NDA20000025)
+
+- HUD ID: NDA20000025
+- HUD ID before: 
+- Project: VILLA DEREMER
+- Address: 808 W FIFTH ST
+- City: GRAFTON
+- State: ND
+- ZIP: 58237
+- ZIP extension: 
+- State project ID: TC0008
+- Latitude: 48.419934
+- Longitude: -97.427566
+- County FIPS: 38099
+- County from: 2020
+- Tract 2020: 38099958000
+- Tract 2010: 38099958000
+- Tract 2000: 38099958000
+- Tract 1990: 38099958000
+- Place 2020: 99999
+- Place 2010: 31820
+- Place 2000: 31820
+- Place 1990: 0685
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 9963
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHERRYWOOD APTS (OHA20030032)
+
+- HUD ID: OHA20030032
+- HUD ID before: 
+- Project: CHERRYWOOD APTS
+- Address: 722 CHAMPLAIN ST
+- City: TOLEDO
+- State: OH
+- ZIP: 43604
+- ZIP extension: 
+- State project ID: OH-01-0102
+- Latitude: 41.66123
+- Longitude: -83.533367
+- County FIPS: 39095
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39095002900
+- Tract 2000: 39095002900
+- Tract 1990: 39095002900
+- Place 2020: 
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 4265
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 180040
+- Units: 172
+- Low-income units: 172
+- Units reported: 172
+- Low-income reported: 172
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1989120.
+- Record status: Existing, unchanged

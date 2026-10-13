@@ -1,0 +1,85 @@
+# Project: SPRINGFORD GARDENS APTS. (FKA) ELKTON MANOR AND SCHOOL HOUSE APTS. (MDA20201007)
+
+- HUD ID: MDA20201007
+- HUD ID before: 
+- Project: SPRINGFORD GARDENS APTS. (FKA) ELKTON MANOR AND SCHOOL HOUSE APTS.
+- Address: 1 WHITEHALL CIRCLE
+- City: PORT DEPOSIT
+- State: MD
+- ZIP: 21904
+- ZIP extension: 
+- State project ID: MD-94-14001-5 AND MD-94-06001-5
+- Latitude: 39.6213
+- Longitude: -76.0945
+- County FIPS: 24015
+- County from: 2020
+- Tract 2020: 24015031201
+- Tract 2010: 24015031201
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 61150
+- Place 2010: 61150
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1165342
+- Units: 69
+- Low-income units: 69
+- Units reported: 69
+- Low-income reported: 69
+- Efficiencies: 
+- 1-bedroom units: 10
+- 2-bedroom units: 37
+- 3-bedroom units: 22
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

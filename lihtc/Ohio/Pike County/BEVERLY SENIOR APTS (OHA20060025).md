@@ -1,0 +1,85 @@
+# Project: BEVERLY SENIOR APTS (OHA20060025)
+
+- HUD ID: OHA20060025
+- HUD ID before: 
+- Project: BEVERLY SENIOR APTS
+- Address: 401 BEVERLY AVE
+- City: WAVERLY
+- State: OH
+- ZIP: 45690
+- ZIP extension: 
+- State project ID: 040064
+- Latitude: 39.129724
+- Longitude: -82.974057
+- County FIPS: 39131
+- County from: 2020
+- Tract 2020: 39131952400
+- Tract 2010: 39131952400
+- Tract 2000: 39131952400
+- Tract 1990: 39131952400
+- Place 2020: 81935
+- Place 2010: 81935
+- Place 2000: 81942
+- Place 1990: 4520
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 239430
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

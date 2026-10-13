@@ -1,0 +1,85 @@
+# Project: EASTGATE VILLAGE (TXA19880445)
+
+- HUD ID: TXA19880445
+- HUD ID before: 
+- Project: EASTGATE VILLAGE
+- Address: 619 CEDAR ST
+- City: FORNEY
+- State: TX
+- ZIP: 75126
+- ZIP extension: 
+- State project ID: TX6399
+- Latitude: 32.750098
+- Longitude: -96.463798
+- County FIPS: 48257
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48257050206
+- Tract 2000: 48257050202
+- Tract 1990: 48257050200
+- Place 2020: 
+- Place 2010: 26604
+- Place 2000: 17504
+- Place 1990: 1485
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 12
+- Construction: Existing
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

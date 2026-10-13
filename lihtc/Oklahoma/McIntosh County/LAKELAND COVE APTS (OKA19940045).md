@@ -1,0 +1,85 @@
+# Project: LAKELAND COVE APTS (OKA19940045)
+
+- HUD ID: OKA19940045
+- HUD ID before: 
+- Project: LAKELAND COVE APTS
+- Address: 424 LAKELAND COVE TER
+- City: EUFAULA
+- State: OK
+- ZIP: 74432
+- ZIP extension: 
+- State project ID: OK-93-06-006
+- Latitude: 35.279584
+- Longitude: -95.587392
+- County FIPS: 40091
+- County from: 2020
+- Tract 2020: 40091780200
+- Tract 2010: 40091780200
+- Tract 2000: 40091980200
+- Tract 1990: 40091980200
+- Place 2020: 24650
+- Place 2010: 24650
+- Place 2000: 24650
+- Place 1990: 0800
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

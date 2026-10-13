@@ -1,0 +1,85 @@
+# Project: BUTTONWOOD TRAILS (ILA20140005)
+
+- HUD ID: ILA20140005
+- HUD ID before: 
+- Project: BUTTONWOOD TRAILS
+- Address: 455 SE TENTH AVE
+- City: ALEDO
+- State: IL
+- ZIP: 61231
+- ZIP extension: 
+- State project ID: 1041711
+- Latitude: 41.198699
+- Longitude: -90.739263
+- County FIPS: 17131
+- County from: 2020
+- Tract 2020: 17131040300
+- Tract 2010: 17131040300
+- Tract 2000: 17131040300
+- Tract 1990: 17131040300
+- Place 2020: 00646
+- Place 2010: 00646
+- Place 2000: 00646
+- Place 1990: 0040
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 830638
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 20
+- 4-bedroom units: 10
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

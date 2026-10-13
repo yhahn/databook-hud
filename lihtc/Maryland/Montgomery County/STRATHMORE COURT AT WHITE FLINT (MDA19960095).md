@@ -1,0 +1,85 @@
+# Project: STRATHMORE COURT AT WHITE FLINT (MDA19960095)
+
+- HUD ID: MDA19960095
+- HUD ID before: 
+- Project: STRATHMORE COURT AT WHITE FLINT
+- Address: 5440 MARINELLI RD
+- City: NORTH BETHESDA
+- State: MD
+- ZIP: 20852
+- ZIP extension: 
+- State project ID: MD96-20
+- Latitude: 39.047378
+- Longitude: -77.110607
+- County FIPS: 24031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24031701216
+- Tract 2000: 24031701204
+- Tract 1990: 24031701204
+- Place 2020: 
+- Place 2010: 56337
+- Place 2000: 56337
+- Place 1990: 0677
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

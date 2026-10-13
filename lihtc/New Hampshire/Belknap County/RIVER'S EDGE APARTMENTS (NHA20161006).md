@@ -1,0 +1,85 @@
+# Project: RIVER'S EDGE APARTMENTS (NHA20161006)
+
+- HUD ID: NHA20161006
+- HUD ID before: 
+- Project: RIVER'S EDGE APARTMENTS
+- Address: 126 UNION AVENUE
+- City: LACONIA
+- State: NH
+- ZIP: 03246
+- ZIP extension: 
+- State project ID: 1032
+- Latitude: 43.528315
+- Longitude: -71.467082
+- County FIPS: 33001
+- County from: 2020
+- Tract 2020: 33001965900
+- Tract 2010: 33001965900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 40180
+- Place 2010: 40180
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 535883
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1418284
+- CDBG: Yes
+- CDBG amount: 230000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

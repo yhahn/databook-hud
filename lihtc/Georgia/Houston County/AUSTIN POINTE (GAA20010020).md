@@ -1,0 +1,85 @@
+# Project: AUSTIN POINTE (GAA20010020)
+
+- HUD ID: GAA20010020
+- HUD ID before: 
+- Project: AUSTIN POINTE
+- Address: 115 AUSTIN AVE
+- City: WARNER ROBINS
+- State: GA
+- ZIP: 31088
+- ZIP extension: 2590
+- State project ID: GA-99-023
+- Latitude: 32.616897
+- Longitude: -83.656584
+- County FIPS: 13153
+- County from: 2020
+- Tract 2020: 13153021001
+- Tract 2010: 13153021000
+- Tract 2000: 13153021000
+- Tract 1990: 13153021000
+- Place 2020: 80508
+- Place 2010: 80508
+- Place 2000: 80508
+- Place 1990: 2970
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 63
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

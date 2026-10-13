@@ -1,0 +1,85 @@
+# Project: COLORADO CITY APTS II (TXA20000020)
+
+- HUD ID: TXA20000020
+- HUD ID before: 
+- Project: COLORADO CITY APTS II
+- Address: 2330 N STATE HWY 208
+- City: COLORADO CITY
+- State: TX
+- ZIP: 79512
+- ZIP extension: 
+- State project ID: TX2194
+- Latitude: 32.412939
+- Longitude: -100.860171
+- County FIPS: 48335
+- County from: 2020
+- Tract 2020: 48335950200
+- Tract 2010: 48335950200
+- Tract 2000: 48335950200
+- Tract 1990: 48335950200
+- Place 2020: 16120
+- Place 2010: 16120
+- Place 2000: 16120
+- Place 1990: 0920
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

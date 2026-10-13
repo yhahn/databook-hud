@@ -1,0 +1,85 @@
+# Project: RIVER TO RIVER OF ANNA, SLF (ILA20119993)
+
+- HUD ID: ILA20119993
+- HUD ID before: 
+- Project: RIVER TO RIVER OF ANNA, SLF
+- Address: 151 DENNY DR
+- City: ANNA
+- State: IL
+- ZIP: 62906
+- ZIP extension: 
+- State project ID: 1038010
+- Latitude: 37.488885
+- Longitude: -89.125896
+- County FIPS: 17181
+- County from: 2020
+- Tract 2020: 17181950400
+- Tract 2010: 17181950100
+- Tract 2000: 17181950100
+- Tract 1990: 17181950100
+- Place 2020: 01543
+- Place 2010: 99999
+- Place 2000: 01543
+- Place 1990: 1170
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 3675565
+- Units: 50
+- Low-income units: 35
+- Units reported: 50
+- Low-income reported: 35
+- Efficiencies: 8
+- 1-bedroom units: 37
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3675565
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

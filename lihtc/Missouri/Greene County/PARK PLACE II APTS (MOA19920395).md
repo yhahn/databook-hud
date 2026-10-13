@@ -1,0 +1,85 @@
+# Project: PARK PLACE II APTS (MOA19920395)
+
+- HUD ID: MOA19920395
+- HUD ID before: 
+- Project: PARK PLACE II APTS
+- Address: 2940 W WALNUT LAWN ST
+- City: SPRINGFIELD
+- State: MO
+- ZIP: 65807
+- ZIP extension: 
+- State project ID: 92019
+- Latitude: 37.152901
+- Longitude: -93.337659
+- County FIPS: 29077
+- County from: 2020
+- Tract 2020: 29077003004
+- Tract 2010: 29077003002
+- Tract 2000: 29077003002
+- Tract 1990: 29077001600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 70000
+- Place 1990: 4075
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PARK PLACE APTS II.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MARINER'S VILLAGE (OSPREY LANDING, INISHMORE) (NHA19950005)
+
+- HUD ID: NHA19950005
+- HUD ID before: 
+- Project: MARINER'S VILLAGE (OSPREY LANDING, INISHMORE)
+- Address: 40 BLUE HERON DR
+- City: PORTSMOUTH
+- State: NH
+- ZIP: 03801
+- ZIP extension: 
+- State project ID: LIH-94-2
+- Latitude: 43.08756
+- Longitude: -70.780843
+- County FIPS: 33015
+- County from: 2020
+- Tract 2020: 33015107100
+- Tract 2010: 33015107100
+- Tract 2000: 33015069400
+- Tract 1990: 33015069400
+- Place 2020: 62900
+- Place 2010: 62900
+- Place 2000: 62900
+- Place 1990: 2170
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 30
+- 3-bedroom units: 24
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

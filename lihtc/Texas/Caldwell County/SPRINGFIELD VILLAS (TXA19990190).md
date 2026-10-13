@@ -1,0 +1,85 @@
+# Project: SPRINGFIELD VILLAS (TXA19990190)
+
+- HUD ID: TXA19990190
+- HUD ID before: 
+- Project: SPRINGFIELD VILLAS
+- Address: 1300 PANCHO ST
+- City: LOCKHART
+- State: TX
+- ZIP: 78644
+- ZIP extension: 
+- State project ID: TX1831
+- Latitude: 29.872973
+- Longitude: -97.661603
+- County FIPS: 48055
+- County from: 2020
+- Tract 2020: 48055960200
+- Tract 2010: 48055960200
+- Tract 2000: 48055960200
+- Tract 1990: 48055960200
+- Place 2020: 43240
+- Place 2010: 43240
+- Place 2000: 43240
+- Place 1990: 2500
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 16
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

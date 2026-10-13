@@ -1,0 +1,85 @@
+# Project: TREMONT-ANTHONY PROJECT (NYA19990215)
+
+- HUD ID: NYA19990215
+- HUD ID before: 
+- Project: TREMONT-ANTHONY PROJECT
+- Address: 1911 ANTHONY AVE
+- City: BRONX
+- State: NY
+- ZIP: 10457
+- ZIP extension: 
+- State project ID: 19980421
+- Latitude: 40.848893
+- Longitude: -73.902973
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005023502
+- Tract 2010: 36005023502
+- Tract 2000: 36005023502
+- Tract 1990: 36005023502
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 31
+- Low-income units: 24
+- Units reported: 31
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 5
+- 3-bedroom units: 12
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TREMONT ANTHONY PROJECT.
+- Record status: Existing, unchanged

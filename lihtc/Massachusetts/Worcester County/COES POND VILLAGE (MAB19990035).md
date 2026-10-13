@@ -1,0 +1,85 @@
+# Project: COES POND VILLAGE (MAB19990035)
+
+- HUD ID: MAB19990035
+- HUD ID before: 
+- Project: COES POND VILLAGE
+- Address: 39 FIRST ST
+- City: WORCESTER
+- State: MA
+- ZIP: 01602
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.25379
+- Longitude: -71.850574
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027731002
+- Tract 2010: 25027731002
+- Tract 2000: 25027731000
+- Tract 1990: 25027731000
+- Place 2020: 82000
+- Place 2010: 82000
+- Place 2000: 82000
+- Place 1990: 5030
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 250
+- Low-income units: 227
+- Units reported: 250
+- Low-income reported: 227
+- Efficiencies: 0
+- 1-bedroom units: 203
+- 2-bedroom units: 47
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

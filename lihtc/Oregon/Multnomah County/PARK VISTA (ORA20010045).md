@@ -1,0 +1,85 @@
+# Project: PARK VISTA (ORA20010045)
+
+- HUD ID: ORA20010045
+- HUD ID before: 
+- Project: PARK VISTA
+- Address: 10914 SE STARK ST
+- City: PORTLAND
+- State: OR
+- ZIP: 97216
+- ZIP extension: 
+- State project ID: 1179
+- Latitude: 45.518833
+- Longitude: -122.551262
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051008203
+- Tract 2010: 41051008202
+- Tract 2000: 41051008202
+- Tract 1990: 41051008202
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 488098
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 7
+- 1-bedroom units: 17
+- 2-bedroom units: 8
+- 3-bedroom units: 17
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

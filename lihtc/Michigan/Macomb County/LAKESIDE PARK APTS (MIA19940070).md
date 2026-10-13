@@ -1,0 +1,85 @@
+# Project: LAKESIDE PARK APTS (MIA19940070)
+
+- HUD ID: MIA19940070
+- HUD ID before: 
+- Project: LAKESIDE PARK APTS
+- Address: 46280 LAKESIDE PARK DR
+- City: SHELBY TOWNSHIP
+- State: MI
+- ZIP: 48315
+- ZIP extension: 
+- State project ID: MI-1961
+- Latitude: 42.636442
+- Longitude: -82.974582
+- County FIPS: 26099
+- County from: 2020
+- Tract 2020: 26099227300
+- Tract 2010: 26099227300
+- Tract 2000: 26099227300
+- Tract 1990: 26099226000
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 72818
+- Place 1990: 2454
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 112
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

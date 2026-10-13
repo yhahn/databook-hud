@@ -1,0 +1,85 @@
+# Project: ARMSTRONG PLACE SENIOR HOUSING (CAA20100030)
+
+- HUD ID: CAA20100030
+- HUD ID before: 
+- Project: ARMSTRONG PLACE SENIOR HOUSING
+- Address: 5600 THIRD ST
+- City: SAN FRANCISCO
+- State: CA
+- ZIP: 94124
+- ZIP extension: 
+- State project ID: CA-08-860
+- Latitude: 37.726761
+- Longitude: -122.393978
+- County FIPS: 06075
+- County from: 2020
+- Tract 2020: 06075023300
+- Tract 2010: 06075023300
+- Tract 2000: 06075023300
+- Tract 1990: 06075023300
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 2485
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1260800
+- Units: 116
+- Low-income units: 115
+- Units reported: 116
+- Low-income reported: 115
+- Efficiencies: 12
+- 1-bedroom units: 103
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 115
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

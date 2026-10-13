@@ -1,0 +1,85 @@
+# Project: AUTUMN WOODS APTS (OKA20140020)
+
+- HUD ID: OKA20140020
+- HUD ID before: 
+- Project: AUTUMN WOODS APTS
+- Address: 701 S FILMORE AVE
+- City: WAGONER
+- State: OK
+- ZIP: 74467
+- ZIP extension: 
+- State project ID: 120761
+- Latitude: 35.953508
+- Longitude: -95.384867
+- County FIPS: 40145
+- County from: 2020
+- Tract 2020: 40145030102
+- Tract 2010: 40145030102
+- Tract 2000: 40145030100
+- Tract 1990: 40145030100
+- Place 2020: 77850
+- Place 2010: 77850
+- Place 2000: 77850
+- Place 1990: 2525
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 20250000
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 30
+- 3-bedroom units: 44
+- 4-bedroom units: 19
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

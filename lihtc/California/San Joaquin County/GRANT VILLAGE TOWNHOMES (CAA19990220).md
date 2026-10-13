@@ -1,0 +1,85 @@
+# Project: GRANT VILLAGE TOWNHOMES (CAA19990220)
+
+- HUD ID: CAA19990220
+- HUD ID before: 
+- Project: GRANT VILLAGE TOWNHOMES
+- Address: 2040 S GRANT ST
+- City: STOCKTON
+- State: CA
+- ZIP: 95206
+- ZIP extension: 
+- State project ID: CA-96-237
+- Latitude: 37.932626
+- Longitude: -121.274746
+- County FIPS: 06077
+- County from: 2020
+- Tract 2020: 06077002300
+- Tract 2010: 06077002300
+- Tract 2000: 06077002300
+- Tract 1990: 06077002300
+- Place 2020: 75000
+- Place 2010: 75000
+- Place 2000: 75000
+- Place 1990: 2805
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 388934
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

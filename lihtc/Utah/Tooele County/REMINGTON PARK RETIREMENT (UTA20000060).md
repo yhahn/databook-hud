@@ -1,0 +1,85 @@
+# Project: REMINGTON PARK RETIREMENT (UTA20000060)
+
+- HUD ID: UTA20000060
+- HUD ID before: 
+- Project: REMINGTON PARK RETIREMENT
+- Address: 495 WEST UTAH AVENUE
+- City: TOOELE
+- State: UT
+- ZIP: 84074
+- ZIP extension: 0000
+- State project ID: 1998-04
+- Latitude: 40.534181
+- Longitude: -112.312476
+- County FIPS: 49045
+- County from: 2020
+- Tract 2020: 49045131102
+- Tract 2010: 49045131100
+- Tract 2000: 49045131100
+- Tract 1990: 49045131100
+- Place 2020: 76680
+- Place 2010: 76680
+- Place 2000: 76680
+- Place 1990: 0990
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 242633
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: Mentally Ill
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

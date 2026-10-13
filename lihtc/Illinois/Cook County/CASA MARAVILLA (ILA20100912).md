@@ -1,0 +1,85 @@
+# Project: CASA MARAVILLA (ILA20100912)
+
+- HUD ID: ILA20100912
+- HUD ID before: 
+- Project: CASA MARAVILLA
+- Address: 2021 S MORGAN ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60608
+- ZIP extension: 
+- State project ID: 285808
+- Latitude: 41.854522
+- Longitude: -87.651239
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031310300
+- Tract 2010: 17031310300
+- Tract 2000: 17031310300
+- Tract 1990: 17031310300
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1593171
+- Units: 73
+- Low-income units: 73
+- Units reported: 73
+- Low-income reported: 73
+- Efficiencies: 29
+- 1-bedroom units: 31
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000043.
+- Record status: Existing, unchanged

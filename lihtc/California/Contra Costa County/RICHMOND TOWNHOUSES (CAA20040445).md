@@ -1,0 +1,85 @@
+# Project: RICHMOND TOWNHOUSES (CAA20040445)
+
+- HUD ID: CAA20040445
+- HUD ID before: 
+- Project: RICHMOND TOWNHOUSES
+- Address: 2989 PULLMAN AVE
+- City: RICHMOND
+- State: CA
+- ZIP: 94804
+- ZIP extension: 
+- State project ID: CA-03-075
+- Latitude: 37.928442
+- Longitude: -122.341849
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013381000
+- Tract 2010: 06013381000
+- Tract 2000: 06013381000
+- Tract 1990: 06013381000
+- Place 2020: 60620
+- Place 2010: 60620
+- Place 2000: 60620
+- Place 1990: 2330
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1689135
+- Units: 199
+- Low-income units: 198
+- Units reported: 199
+- Low-income reported: 198
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 112
+- 3-bedroom units: 30
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

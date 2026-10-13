@@ -1,0 +1,85 @@
+# Project: WOODROW LANE HOUSE (ORA19910055)
+
+- HUD ID: ORA19910055
+- HUD ID before: 
+- Project: WOODROW LANE HOUSE
+- Address: 1193 WOODROW LN
+- City: MEDFORD
+- State: OR
+- ZIP: 97504
+- ZIP extension: 
+- State project ID: OR89-318
+- Latitude: 42.33957
+- Longitude: -122.857387
+- County FIPS: 41029
+- County from: 2020
+- Tract 2020: 41029000502
+- Tract 2010: 41029000502
+- Tract 2000: 41029000500
+- Tract 1990: 41029000500
+- Place 2020: 47000
+- Place 2010: 47000
+- Place 2000: 47000
+- Place 1990: 0720
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 1796
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

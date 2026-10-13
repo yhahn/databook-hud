@@ -1,0 +1,85 @@
+# Project: AUGUST WILSON PLACE (WAA20153025)
+
+- HUD ID: WAA20153025
+- HUD ID before: 
+- Project: AUGUST WILSON PLACE
+- Address: 204 111TH AVENUE NE
+- City: BELLEVUE
+- State: WA
+- ZIP: 98004
+- ZIP extension: 
+- State project ID: 13-20
+- Latitude: 47.612011
+- Longitude: -122.192036
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033023808
+- Tract 2010: 53033023804
+- Tract 2000: 53033023802
+- Tract 1990: 53033023802
+- Place 2020: 05210
+- Place 2010: 05210
+- Place 2000: 05210
+- Place 1990: 0075
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1007383
+- Units: 57
+- Low-income units: 56
+- Units reported: 57
+- Low-income reported: 56
+- Efficiencies: 47
+- 1-bedroom units: 0
+- 2-bedroom units: 5
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

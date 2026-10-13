@@ -1,0 +1,85 @@
+# Project: LAKE WASHINGTON APARTMENTS (WAA20143016)
+
+- HUD ID: WAA20143016
+- HUD ID before: 
+- Project: LAKE WASHINGTON APARTMENTS
+- Address: 9061 SEWARD PARK AVENUE SOUTH
+- City: SEATTLE
+- State: WA
+- ZIP: 98118
+- ZIP extension: 
+- State project ID: 13-120A
+- Latitude: 47.522022
+- Longitude: -122.264705
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033011802
+- Tract 2010: 53033011800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1602284
+- Units: 379
+- Low-income units: 377
+- Units reported: 379
+- Low-income reported: 377
+- Efficiencies: 
+- 1-bedroom units: 111
+- 2-bedroom units: 244
+- 3-bedroom units: 24
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

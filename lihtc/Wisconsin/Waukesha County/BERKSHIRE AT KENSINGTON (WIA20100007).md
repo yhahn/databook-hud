@@ -1,0 +1,85 @@
+# Project: BERKSHIRE AT KENSINGTON (WIA20100007)
+
+- HUD ID: WIA20100007
+- HUD ID before: 
+- Project: BERKSHIRE AT KENSINGTON
+- Address: 1800 KENSINGTON BLDG 1
+- City: WAUKESHA
+- State: WI
+- ZIP: 53188
+- ZIP extension: 
+- State project ID: 5537
+- Latitude: 43.001427
+- Longitude: -88.255117
+- County FIPS: 55133
+- County from: 2020
+- Tract 2020: 55133202203
+- Tract 2010: 55133202202
+- Tract 2000: 55133202202
+- Tract 1990: 55133202200
+- Place 2020: 84250
+- Place 2010: 84250
+- Place 2000: 84250
+- Place 1990: 2665
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1240744
+- Units: 177
+- Low-income units: 84
+- Units reported: 177
+- Low-income reported: 84
+- Efficiencies: 8
+- 1-bedroom units: 97
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 51
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 245000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

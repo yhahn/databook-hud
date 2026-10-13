@@ -1,0 +1,85 @@
+# Project: SUN GARDEN - WORTHINGTON APTS (OKA00000495)
+
+- HUD ID: OKA00000495
+- HUD ID before: 
+- Project: SUN GARDEN - WORTHINGTON APTS
+- Address: 11813 E 21ST CT
+- City: TULSA
+- State: OK
+- ZIP: 74129
+- ZIP extension: 
+- State project ID: OK-88-0610-012
+- Latitude: 36.132348
+- Longitude: -95.84479
+- County FIPS: 40143
+- County from: 2020
+- Tract 2020: 40143007306
+- Tract 2010: 40143007306
+- Tract 2000: 40143007306
+- Tract 1990: 40143007306
+- Place 2020: 75000
+- Place 2010: 75000
+- Place 2000: 75000
+- Place 1990: 2465
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 203
+- Low-income units: 199
+- Units reported: 203
+- Low-income reported: 199
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OKA0000490.
+- Record status: Existing, unchanged

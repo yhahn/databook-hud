@@ -1,0 +1,85 @@
+# Project: WORKER HOUSING/EAST LIVERPOOL HOMES (OHA20010230)
+
+- HUD ID: OHA20010230
+- HUD ID before: 
+- Project: WORKER HOUSING/EAST LIVERPOOL HOMES
+- Address: 417 PUTNAM ST
+- City: EAST LIVERPOOL
+- State: OH
+- ZIP: 43920
+- ZIP extension: 
+- State project ID: 990027
+- Latitude: 40.640251
+- Longitude: -80.52868
+- County FIPS: 39029
+- County from: 2020
+- Tract 2020: 39029952200
+- Tract 2010: 39029952200
+- Tract 2000: 39029952200
+- Tract 1990: 39029952200
+- Place 2020: 23730
+- Place 2010: 23730
+- Place 2000: 23730
+- Place 1990: 1235
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 323252
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 16
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

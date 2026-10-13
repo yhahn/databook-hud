@@ -1,0 +1,85 @@
+# Project: ADDISON TERRACE PH 1 (PAA20142002)
+
+- HUD ID: PAA20142002
+- HUD ID before: 
+- Project: ADDISON TERRACE PH 1
+- Address: 2136 ELMORE ST
+- City: PITTSBURGH
+- State: PA
+- ZIP: 15219
+- ZIP extension: 5316
+- State project ID: TC20130101
+- Latitude: 40.446943
+- Longitude: -79.978612
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003050100
+- Tract 2010: 42003050100
+- Tract 2000: 42003051100
+- Tract 1990: 
+- Place 2020: 61000
+- Place 2010: 61000
+- Place 2000: 61000
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1941155
+- Units: 186
+- Low-income units: 149
+- Units reported: 186
+- Low-income reported: 149
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 93
+- 3-bedroom units: 80
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 149
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

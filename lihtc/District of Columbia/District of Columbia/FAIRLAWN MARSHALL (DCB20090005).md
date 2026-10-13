@@ -1,0 +1,85 @@
+# Project: FAIRLAWN MARSHALL (DCB20090005)
+
+- HUD ID: DCB20090005
+- HUD ID before: 
+- Project: FAIRLAWN MARSHALL
+- Address: 2834 Q ST SE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20020
+- ZIP extension: 
+- State project ID: DCB-2009010
+- Latitude: 38.870911
+- Longitude: -76.96605
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001007604
+- Tract 2010: 11001007604
+- Tract 2000: 11001007604
+- Tract 1990: 11001007604
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 106835
+- Units: 98
+- Low-income units: 98
+- Units reported: 98
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 67
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DUDLEY SCATTERED SITES.
+- Record status: Existing, unchanged

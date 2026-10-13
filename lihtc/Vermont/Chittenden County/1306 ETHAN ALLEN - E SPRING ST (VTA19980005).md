@@ -1,0 +1,85 @@
+# Project: 1306 ETHAN ALLEN / E SPRING ST (VTA19980005)
+
+- HUD ID: VTA19980005
+- HUD ID before: 
+- Project: 1306 ETHAN ALLEN / E SPRING ST
+- Address: 1306 ETHAN ALLEN AVE
+- City: COLCHESTER
+- State: VT
+- ZIP: 05446
+- ZIP extension: 
+- State project ID: 0004
+- Latitude: 44.506488
+- Longitude: -73.144408
+- County FIPS: 50007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 50007002701
+- Tract 2000: 50007002200
+- Tract 1990: 50007002200
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 102548
+- Units: 42
+- Low-income units: 32
+- Units reported: 42
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 18
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA ETHAN ALLEN AVE & EAST SPRING
+- Record status: Existing, unchanged

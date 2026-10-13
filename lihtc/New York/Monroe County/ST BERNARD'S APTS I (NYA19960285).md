@@ -1,0 +1,85 @@
+# Project: ST BERNARD'S APTS I (NYA19960285)
+
+- HUD ID: NYA19960285
+- HUD ID before: 
+- Project: ST BERNARD'S APTS I
+- Address: 2260 LAKE AVE
+- City: ROCHESTER
+- State: NY
+- ZIP: 14612
+- ZIP extension: 
+- State project ID: 19940973
+- Latitude: 43.209137
+- Longitude: -77.629637
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055008600
+- Tract 2010: 36055008600
+- Tract 2000: 36055008600
+- Tract 1990: 36055008600
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 3100
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 9
+- 1-bedroom units: 37
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

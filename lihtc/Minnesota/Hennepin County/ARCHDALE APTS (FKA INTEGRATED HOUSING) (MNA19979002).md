@@ -1,0 +1,85 @@
+# Project: ARCHDALE APTS (FKA INTEGRATED HOUSING) (MNA19979002)
+
+- HUD ID: MNA19979002
+- HUD ID before: 
+- Project: ARCHDALE APTS (FKA INTEGRATED HOUSING)
+- Address: 1600 1ST AVE S
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55403
+- ZIP extension: 
+- State project ID: D0820
+- Latitude: 44.967226
+- Longitude: -93.276697
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053105204
+- Tract 2010: 27053105204
+- Tract 2000: 27053105200
+- Tract 1990: 27053004300
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 2585
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 25
+- 1-bedroom units: 5
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA INTEGRATED HOUSING
+- Record status: Existing, unchanged

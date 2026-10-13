@@ -1,0 +1,85 @@
+# Project: SAN FERNANDO COMMUNITY HOUSING (CAA20132004)
+
+- HUD ID: CAA20132004
+- HUD ID before: 
+- Project: SAN FERNANDO COMMUNITY HOUSING
+- Address: 133 PARK AVENUE
+- City: SAN FERNANDO
+- State: CA
+- ZIP: 91340
+- ZIP extension: 
+- State project ID: CA-11-903
+- Latitude: 34.28027
+- Longitude: -118.436007
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037320201
+- Tract 2010: 06037320201
+- Tract 2000: 06037320200
+- Tract 1990: 
+- Place 2020: 66140
+- Place 2010: 66140
+- Place 2000: 66140
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 513910
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 4200000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

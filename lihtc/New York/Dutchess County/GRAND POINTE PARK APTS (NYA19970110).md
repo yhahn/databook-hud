@@ -1,0 +1,85 @@
+# Project: GRAND POINTE PARK APTS (NYA19970110)
+
+- HUD ID: NYA19970110
+- HUD ID before: 
+- Project: GRAND POINTE PARK APTS
+- Address: 
+- City: POUGHKEEPSIE
+- State: NY
+- ZIP: 
+- ZIP extension: 
+- State project ID: NY-95-0289_00787
+- Latitude: 
+- Longitude: 
+- County FIPS: 36027
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 156
+- Low-income units: 156
+- Units reported: 156
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 80
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NY STATE APTS BUILDERS I.
+- Record status: Existing, unchanged

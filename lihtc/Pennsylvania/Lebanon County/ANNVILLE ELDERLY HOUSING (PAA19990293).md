@@ -1,0 +1,85 @@
+# Project: ANNVILLE ELDERLY HOUSING (PAA19990293)
+
+- HUD ID: PAA19990293
+- HUD ID before: 
+- Project: ANNVILLE ELDERLY HOUSING
+- Address: 301 W NEW ST
+- City: ANNVILLE
+- State: PA
+- ZIP: 17003
+- ZIP extension: 
+- State project ID: TC19980064
+- Latitude: 40.331517
+- Longitude: -76.522092
+- County FIPS: 42075
+- County from: 2020
+- Tract 2020: 42075002500
+- Tract 2010: 42075002500
+- Tract 2000: 42075002500
+- Tract 1990: 42075002500
+- Place 2020: 02608
+- Place 2010: 02608
+- Place 2000: 02608
+- Place 1990: 0230
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 145317
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 534534
+- CDBG: Yes
+- CDBG amount: 2500
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2000010.
+- Record status: Existing, unchanged

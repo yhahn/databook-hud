@@ -1,0 +1,85 @@
+# Project: COOSA BEND APTS (ALA19940065)
+
+- HUD ID: ALA19940065
+- HUD ID before: 
+- Project: COOSA BEND APTS
+- Address: 407 N FOURTH PL
+- City: GADSDEN
+- State: AL
+- ZIP: 35901
+- ZIP extension: 
+- State project ID: AL-94-0025
+- Latitude: 34.020554
+- Longitude: -86.000757
+- County FIPS: 01055
+- County from: 2020
+- Tract 2020: 01055000200
+- Tract 2010: 01055000200
+- Tract 2000: 01055000200
+- Tract 1990: 01055000200
+- Place 2020: 28696
+- Place 2010: 28696
+- Place 2000: 28696
+- Place 1990: 0685
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 56540
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 25
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 50
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CENTRAL LANDINGS AT TOWN CENTER (FLA20200004)
+
+- HUD ID: FLA20200004
+- HUD ID before: 
+- Project: CENTRAL LANDINGS AT TOWN CENTER
+- Address: 1465 CENTRAL AVENUE
+- City: PALM COAST
+- State: FL
+- ZIP: 32164
+- ZIP extension: 
+- State project ID: 3250
+- Latitude: 29.4469
+- Longitude: -81.1944
+- County FIPS: 12035
+- County from: 2020
+- Tract 2020: 12035060213
+- Tract 2010: 12035060208
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 54200
+- Place 2010: 54200
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1035348
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 
+- 1-bedroom units: 96
+- 2-bedroom units: 24
+- 3-bedroom units: 30
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 150
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

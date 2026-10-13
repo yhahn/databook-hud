@@ -1,0 +1,85 @@
+# Project: ROBINWOOD APTS AT KERNERSVILLE (NCA19890565)
+
+- HUD ID: NCA19890565
+- HUD ID before: 
+- Project: ROBINWOOD APTS AT KERNERSVILLE
+- Address: 230 HOPKINS RD
+- City: KERNERSVILLE
+- State: NC
+- ZIP: 27284
+- ZIP extension: 
+- State project ID: 89
+- Latitude: 36.114148
+- Longitude: -80.096771
+- County FIPS: 37067
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37067003004
+- Tract 2000: 37067003001
+- Tract 1990: 37067003001
+- Place 2020: 
+- Place 2010: 35600
+- Place 2000: 35600
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 186440
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

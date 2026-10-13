@@ -1,0 +1,85 @@
+# Project: GREEN CITY APTS (MOA19940150)
+
+- HUD ID: MOA19940150
+- HUD ID before: 
+- Project: GREEN CITY APTS
+- Address: 400 N FRIDAY ST
+- City: GREEN CITY
+- State: MO
+- ZIP: 63545
+- ZIP extension: 
+- State project ID: 93048
+- Latitude: 40.271298
+- Longitude: -92.95052
+- County FIPS: 29211
+- County from: 2020
+- Tract 2020: 29211480100
+- Tract 2010: 29211480100
+- Tract 2000: 29211980100
+- Tract 1990: 29211980100
+- Place 2020: 29134
+- Place 2010: 29134
+- Place 2000: 29116
+- Place 1990: 1775
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

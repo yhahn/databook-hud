@@ -1,0 +1,85 @@
+# Project: AMBER VALLEY ESTATES (WYA20010010)
+
+- HUD ID: WYA20010010
+- HUD ID before: 
+- Project: AMBER VALLEY ESTATES
+- Address: 736 FULTON ST
+- City: MILLS
+- State: WY
+- ZIP: 
+- ZIP extension: 
+- State project ID: 00-005
+- Latitude: 42.8335
+- Longitude: -106.396
+- County FIPS: 56025
+- County from: 2020
+- Tract 2020: 56025001100
+- Tract 2010: 56025001100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 53460
+- Place 2010: 53460
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 241810
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 18
+- 3-bedroom units: 10
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

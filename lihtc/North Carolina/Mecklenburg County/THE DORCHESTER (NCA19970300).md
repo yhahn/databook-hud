@@ -1,0 +1,85 @@
+# Project: THE DORCHESTER (NCA19970300)
+
+- HUD ID: NCA19970300
+- HUD ID before: 
+- Project: THE DORCHESTER
+- Address: 12920 DORMAN ROAD
+- City: PINEVILLE
+- State: NC
+- ZIP: 28134
+- ZIP extension: 
+- State project ID: 9000949
+- Latitude: 35.067761
+- Longitude: -80.884351
+- County FIPS: 37119
+- County from: 2020
+- Tract 2020: 37119005867
+- Tract 2010: 37119005825
+- Tract 2000: 37119005806
+- Tract 1990: 37119005806
+- Place 2020: 52220
+- Place 2010: 52220
+- Place 2000: 
+- Place 1990: 0480
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 410460
+- Units: 102
+- Low-income units: 99
+- Units reported: 102
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

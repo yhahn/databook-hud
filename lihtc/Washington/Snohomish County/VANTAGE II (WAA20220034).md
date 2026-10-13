@@ -1,0 +1,85 @@
+# Project: VANTAGE II (WAA20220034)
+
+- HUD ID: WAA20220034
+- HUD ID before: 
+- Project: VANTAGE II
+- Address: 12909 MUKILTEO SPEEDWAY
+- City: LYNNWOOD
+- State: WA
+- ZIP: 98087
+- ZIP extension: 
+- State project ID: 18-129A
+- Latitude: 47.880603
+- Longitude: -122.278266
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061041901
+- Tract 2010: 53061041901
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 2361053
+- Units: 176
+- Low-income units: 174
+- Units reported: 176
+- Low-income reported: 174
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 84
+- 3-bedroom units: 57
+- 4-bedroom units: 17
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

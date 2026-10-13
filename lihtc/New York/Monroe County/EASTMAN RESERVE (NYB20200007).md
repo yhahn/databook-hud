@@ -1,0 +1,85 @@
+# Project: EASTMAN RESERVE (NYB20200007)
+
+- HUD ID: NYB20200007
+- HUD ID before: 
+- Project: EASTMAN RESERVE
+- Address: 50 GOODWILL STREET
+- City: ROCHESTER
+- State: NY
+- ZIP: 14615
+- ZIP extension: 
+- State project ID: NY-18-2554
+- Latitude: 43.201382
+- Longitude: -77.637244
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055001900
+- Tract 2010: 36055001900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 188
+- Low-income units: 135
+- Units reported: 188
+- Low-income reported: 135
+- Efficiencies: 1
+- 1-bedroom units: 80
+- 2-bedroom units: 73
+- 3-bedroom units: 33
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RUSK SENIORS APARTMENTS (TXA00001047)
+
+- HUD ID: TXA00001047
+- HUD ID before: 
+- Project: RUSK SENIORS APARTMENTS
+- Address: 275 CHEROKEE
+- City: RUSK
+- State: TX
+- ZIP: 75785
+- ZIP extension: 
+- State project ID: TX1175
+- Latitude: 31.803781
+- Longitude: -95.156753
+- County FIPS: 48073
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48073950900
+- Tract 2000: 48073950900
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 63848
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000516;
+- Record status: Existing, unchanged

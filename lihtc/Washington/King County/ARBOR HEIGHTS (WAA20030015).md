@@ -1,0 +1,85 @@
+# Project: ARBOR HEIGHTS (WAA20030015)
+
+- HUD ID: WAA20030015
+- HUD ID before: 
+- Project: ARBOR HEIGHTS
+- Address: 135 SW 116TH ST
+- City: SEATTLE
+- State: WA
+- ZIP: 98146
+- ZIP extension: 
+- State project ID: 03-44
+- Latitude: 47.499302
+- Longitude: -122.335178
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033026802
+- Tract 2010: 53033026802
+- Tract 2000: 53033026802
+- Tract 1990: 53033026800
+- Place 2020: 08850
+- Place 2010: 99999
+- Place 2000: 78225
+- Place 1990: 1434
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 661242
+- Units: 97
+- Low-income units: 96
+- Units reported: 97
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 47
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

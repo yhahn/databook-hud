@@ -1,0 +1,85 @@
+# Project: ARTISAN HEIGHTS APTS (WVA20100005)
+
+- HUD ID: WVA20100005
+- HUD ID before: 
+- Project: ARTISAN HEIGHTS APTS
+- Address: 834 28TH ST
+- City: HUNTINGTON
+- State: WV
+- ZIP: 25705
+- ZIP extension: 
+- State project ID: WV-10-16
+- Latitude: 38.41973
+- Longitude: -82.408683
+- County FIPS: 54011
+- County from: 2020
+- Tract 2020: 54011001800
+- Tract 2010: 54011001800
+- Tract 2000: 54011001800
+- Tract 1990: 54011001800
+- Place 2020: 39460
+- Place 2010: 39460
+- Place 2000: 39460
+- Place 1990: 0760
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

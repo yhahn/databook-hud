@@ -1,0 +1,85 @@
+# Project: WOODBRIDGE POND APT (MIA19930325)
+
+- HUD ID: MIA19930325
+- HUD ID before: 
+- Project: WOODBRIDGE POND APT
+- Address: 37333 N WOODBRIDGE CIR
+- City: WESTLAND
+- State: MI
+- ZIP: 48185
+- ZIP extension: 
+- State project ID: MI-2336
+- Latitude: 42.34391
+- Longitude: -83.408974
+- County FIPS: 26163
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26163565300
+- Tract 2000: 26163565300
+- Tract 1990: 26163567500
+- Place 2020: 
+- Place 2010: 86000
+- Place 2000: 86000
+- Place 1990: 2827
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 112
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HERITAGE GREEN APARTMENTS (GAA20030220)
+
+- HUD ID: GAA20030220
+- HUD ID before: 
+- Project: HERITAGE GREEN APARTMENTS
+- Address: 2891 SPRINGDALE RD SW
+- City: ATLANTA
+- State: GA
+- ZIP: 30315
+- ZIP extension: 7800
+- State project ID: GA-02-035
+- Latitude: 33.676521
+- Longitude: -84.415956
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121007400
+- Tract 2010: 13121007400
+- Tract 2000: 13121007400
+- Tract 1990: 13121007400
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 218573
+- Units: 108
+- Low-income units: 87
+- Units reported: 108
+- Low-income reported: 87
+- Efficiencies: 4
+- 1-bedroom units: 56
+- 2-bedroom units: 41
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2006035, GAA2006215.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WESTFIELD ESTATES (MAB19980110)
+
+- HUD ID: MAB19980110
+- HUD ID before: 
+- Project: WESTFIELD ESTATES
+- Address: 11 AUNA DR
+- City: BROCKTON
+- State: MA
+- ZIP: 02301
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.080844
+- Longitude: -71.038275
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023510700
+- Tract 2010: 25023510700
+- Tract 2000: 25023510700
+- Tract 1990: 25023510700
+- Place 2020: 09000
+- Place 2010: 09000
+- Place 2000: 09000
+- Place 1990: 0540
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

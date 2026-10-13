@@ -1,0 +1,85 @@
+# Project: DISCOVERY VIEW (WAA19939039)
+
+- HUD ID: WAA19939039
+- HUD ID before: 
+- Project: DISCOVERY VIEW
+- Address: 1051 HANCOCK STREET
+- City: PORT TOWNSEND
+- State: WA
+- ZIP: 98368
+- ZIP extension: 
+- State project ID: 90-18X
+- Latitude: 48.107606
+- Longitude: -122.794885
+- County FIPS: 53031
+- County from: 2020
+- Tract 2020: 53031950603
+- Tract 2010: 53031950601
+- Tract 2000: 53031950601
+- Tract 1990: 53031950600
+- Place 2020: 55855
+- Place 2010: 55855
+- Place 2000: 55855
+- Place 1990: 1005
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 110080
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 1
+- 1-bedroom units: 43
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

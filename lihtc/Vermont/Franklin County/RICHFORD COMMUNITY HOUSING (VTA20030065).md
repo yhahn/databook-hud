@@ -1,0 +1,85 @@
+# Project: RICHFORD COMMUNITY HOUSING (VTA20030065)
+
+- HUD ID: VTA20030065
+- HUD ID before: 
+- Project: RICHFORD COMMUNITY HOUSING
+- Address: 140 INTERVALE AVE
+- City: RICHFORD
+- State: VT
+- ZIP: 05476
+- ZIP extension: 
+- State project ID: 0236
+- Latitude: 44.996059
+- Longitude: -72.675412
+- County FIPS: 50011
+- County from: 2020
+- Tract 2020: 50011010300
+- Tract 2010: 50011010300
+- Tract 2000: 50011010300
+- Tract 1990: 50011010300
+- Place 2020: 59050
+- Place 2010: 59050
+- Place 2000: 
+- Place 1990: 2120
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 93330
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 5
+- 3-bedroom units: 2
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ACADEMY LN APTS.
+- Record status: Existing, unchanged

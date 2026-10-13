@@ -1,0 +1,85 @@
+# Project: BROADWAY SENIOR VILLAGE (OKA20240001)
+
+- HUD ID: OKA20240001
+- HUD ID before: 
+- Project: BROADWAY SENIOR VILLAGE
+- Address: 900 W BROADWAY AVE
+- City: SEMINOLE
+- State: OK
+- ZIP: 74868
+- ZIP extension: 0000
+- State project ID: 230934
+- Latitude: 35.224966
+- Longitude: -96.680865
+- County FIPS: 40133
+- County from: 2020
+- Tract 2020: 40133583500
+- Tract 2010: 40133583500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 66350
+- Place 2010: 66350
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 607587
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 46
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

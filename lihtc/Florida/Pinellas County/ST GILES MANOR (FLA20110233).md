@@ -1,0 +1,85 @@
+# Project: ST GILES MANOR (FLA20110233)
+
+- HUD ID: FLA20110233
+- HUD ID before: 
+- Project: ST GILES MANOR
+- Address: 5041 82ND AVE N
+- City: PINELLAS PARK
+- State: FL
+- ZIP: 33781
+- ZIP extension: 
+- State project ID: 1932
+- Latitude: 27.846685
+- Longitude: -82.702436
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103024906
+- Tract 2010: 12103024906
+- Tract 2000: 12103024906
+- Tract 1990: 12103024906
+- Place 2020: 56975
+- Place 2010: 56975
+- Place 2000: 56975
+- Place 1990: 1750
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 106
+- Low-income units: 106
+- Units reported: 106
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 106
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 12838965
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

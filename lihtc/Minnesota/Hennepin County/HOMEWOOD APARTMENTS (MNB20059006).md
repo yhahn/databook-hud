@@ -1,0 +1,85 @@
+# Project: HOMEWOOD APARTMENTS (MNB20059006)
+
+- HUD ID: MNB20059006
+- HUD ID before: 
+- Project: HOMEWOOD APARTMENTS
+- Address: 1239 SHERIDAN AVENUE NORTH
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55411
+- ZIP extension: 3670
+- State project ID: D3640
+- Latitude: 44.991081
+- Longitude: -93.312308
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053003200
+- Tract 2010: 27053003200
+- Tract 2000: 27053003200
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 203412
+- Units: 36
+- Low-income units: 33
+- Units reported: 36
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 2526000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 429642
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

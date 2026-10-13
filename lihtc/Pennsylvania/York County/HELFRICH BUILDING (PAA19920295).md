@@ -1,0 +1,85 @@
+# Project: HELFRICH BUILDING (PAA19920295)
+
+- HUD ID: PAA19920295
+- HUD ID before: 
+- Project: HELFRICH BUILDING
+- Address: 236 S GEORGE ST
+- City: YORK
+- State: PA
+- ZIP: 17401
+- ZIP extension: 
+- State project ID: TC1992-0152
+- Latitude: 39.958968
+- Longitude: -76.726089
+- County FIPS: 42133
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42133000100
+- Tract 2000: 42133000100
+- Tract 1990: 42133000100
+- Place 2020: 
+- Place 2010: 87048
+- Place 2000: 87048
+- Place 1990: 9034
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 31061
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 6
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SILVER CREEK VILLAGE SENIOR APTS (WIA20000145)
+
+- HUD ID: WIA20000145
+- HUD ID before: 
+- Project: SILVER CREEK VILLAGE SENIOR APTS
+- Address: 2455 W SILVER SPRING DR
+- City: GLENDALE
+- State: WI
+- ZIP: 53209
+- ZIP extension: 
+- State project ID: 1752
+- Latitude: 43.118835
+- Longitude: -87.941615
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079060200
+- Tract 2010: 55079060200
+- Tract 2000: 55079060200
+- Tract 1990: 55079060200
+- Place 2020: 29400
+- Place 2010: 29400
+- Place 2000: 29400
+- Place 1990: 1010
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 65
+- Low-income units: 28
+- Units reported: 65
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 29
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GLENDALE SENIOR APTS.
+- Record status: Existing, unchanged

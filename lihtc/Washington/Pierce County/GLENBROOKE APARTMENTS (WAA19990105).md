@@ -1,0 +1,85 @@
+# Project: GLENBROOKE APARTMENTS (WAA19990105)
+
+- HUD ID: WAA19990105
+- HUD ID before: 
+- Project: GLENBROOKE APARTMENTS
+- Address: 701 43RD AVENUE SE
+- City: PUYALLUP
+- State: WA
+- ZIP: 98371
+- ZIP extension: 
+- State project ID: 96-60A
+- Latitude: 47.151284
+- Longitude: -122.283752
+- County FIPS: 53053
+- County from: 2020
+- Tract 2020: 53053071207
+- Tract 2010: 53053071207
+- Tract 2000: 53053071207
+- Tract 1990: 53053071203
+- Place 2020: 56695
+- Place 2010: 56695
+- Place 2000: 56695
+- Place 1990: 1207
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 517326
+- Units: 225
+- Low-income units: 223
+- Units reported: 225
+- Low-income reported: 223
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 136
+- 3-bedroom units: 35
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA1998085.
+- Record status: Updated

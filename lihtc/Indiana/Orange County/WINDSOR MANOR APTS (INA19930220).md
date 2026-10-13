@@ -1,0 +1,85 @@
+# Project: WINDSOR MANOR APTS (INA19930220)
+
+- HUD ID: INA19930220
+- HUD ID before: 
+- Project: WINDSOR MANOR APTS
+- Address: 1200 N DANIEL LN
+- City: PAOLI
+- State: IN
+- ZIP: 47454
+- ZIP extension: 
+- State project ID: IN-92-03000
+- Latitude: 38.569921
+- Longitude: -86.469245
+- County FIPS: 18117
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18117951400
+- Tract 2000: 18117951400
+- Tract 1990: 18117951400
+- Place 2020: 
+- Place 2010: 57780
+- Place 2000: 57780
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

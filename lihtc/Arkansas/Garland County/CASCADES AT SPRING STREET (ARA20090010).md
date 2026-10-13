@@ -1,0 +1,85 @@
+# Project: CASCADES AT SPRING STREET (ARA20090010)
+
+- HUD ID: ARA20090010
+- HUD ID before: 
+- Project: CASCADES AT SPRING STREET
+- Address: 1510 SPRING ST
+- City: HOT SPRINGS
+- State: AR
+- ZIP: 71901
+- ZIP extension: 
+- State project ID: AR-07-05-001
+- Latitude: 34.512894
+- Longitude: -93.031367
+- County FIPS: 05051
+- County from: 2020
+- Tract 2020: 05051010602
+- Tract 2010: 05051010600
+- Tract 2000: 05051010600
+- Tract 1990: 05051010600
+- Place 2020: 33400
+- Place 2010: 33400
+- Place 2000: 33400
+- Place 1990: 0985
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 439508
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHAPEL LANE APTS (INA19900017)
+
+- HUD ID: INA19900017
+- HUD ID before: 
+- Project: CHAPEL LANE APTS
+- Address: 107 CHAPEL LN
+- City: ASHLEY
+- State: IN
+- ZIP: 46705
+- ZIP extension: 
+- State project ID: IN-89-05801
+- Latitude: 41.522878
+- Longitude: -85.063159
+- County FIPS: 18033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18033020100
+- Tract 2000: 18033020100
+- Tract 1990: 18033020100
+- Place 2020: 
+- Place 2010: 02458
+- Place 2000: 02458
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0000890.
+- Record status: Existing, unchanged

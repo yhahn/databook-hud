@@ -1,0 +1,85 @@
+# Project: HARTFORD SQUARE APTS (INA20040026)
+
+- HUD ID: INA20040026
+- HUD ID before: 
+- Project: HARTFORD SQUARE APTS
+- Address: 202 E CHESTNUT ST
+- City: HARTFORD CITY
+- State: IN
+- ZIP: 47348
+- ZIP extension: 
+- State project ID: IN-02-01500
+- Latitude: 40.449354
+- Longitude: -85.366155
+- County FIPS: 18009
+- County from: 2020
+- Tract 2020: 18009975300
+- Tract 2010: 18009975300
+- Tract 2000: 18009975300
+- Tract 1990: 18009975300
+- Place 2020: 32242
+- Place 2010: 32242
+- Place 2000: 32242
+- Place 1990: 1055
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 276574
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 1
+- 1-bedroom units: 2
+- 2-bedroom units: 20
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

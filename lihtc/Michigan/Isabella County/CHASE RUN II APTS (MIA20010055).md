@@ -1,0 +1,85 @@
+# Project: CHASE RUN II APTS (MIA20010055)
+
+- HUD ID: MIA20010055
+- HUD ID before: 
+- Project: CHASE RUN II APTS
+- Address: 3760 S ISABELLA RD
+- City: MT PLEASANT
+- State: MI
+- ZIP: 48858
+- ZIP extension: 
+- State project ID: MI-1739
+- Latitude: 43.585505
+- Longitude: -84.747748
+- County FIPS: 26073
+- County from: 2020
+- Tract 2020: 26073000600
+- Tract 2010: 26073000600
+- Tract 2000: 26073951100
+- Tract 1990: 26073951100
+- Place 2020: 56020
+- Place 2010: 56020
+- Place 2000: 56020
+- Place 1990: 1855
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 28
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

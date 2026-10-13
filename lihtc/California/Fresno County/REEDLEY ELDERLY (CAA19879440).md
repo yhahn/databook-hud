@@ -1,0 +1,85 @@
+# Project: REEDLEY ELDERLY (CAA19879440)
+
+- HUD ID: CAA19879440
+- HUD ID before: 
+- Project: REEDLEY ELDERLY
+- Address: 172 S E AVE
+- City: REEDLEY
+- State: CA
+- ZIP: 93654
+- ZIP extension: 
+- State project ID: CA-88-058
+- Latitude: 36.59645
+- Longitude: -119.44398
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019006602
+- Tract 2010: 06019006602
+- Tract 2000: 06019006602
+- Tract 1990: 06019006602
+- Place 2020: 60242
+- Place 2010: 60242
+- Place 2000: 60242
+- Place 1990: 2315
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA00001275.
+- Record status: Existing, unchanged

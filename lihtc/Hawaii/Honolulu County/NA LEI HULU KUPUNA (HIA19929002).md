@@ -1,0 +1,85 @@
+# Project: NA LEI HULU KUPUNA (HIA19929002)
+
+- HUD ID: HIA19929002
+- HUD ID before: 
+- Project: NA LEI HULU KUPUNA
+- Address: 610 COOKE ST
+- City: HONOLULU
+- State: HI
+- ZIP: 96813
+- ZIP extension: 
+- State project ID: HI-1991-004
+- Latitude: 21.299757
+- Longitude: -157.857505
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003003801
+- Tract 2010: 15003003800
+- Tract 2000: 15003003800
+- Tract 1990: 
+- Place 2020: 71550
+- Place 2010: 71550
+- Place 2000: 17000
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 619416
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 75
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

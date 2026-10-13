@@ -1,0 +1,85 @@
+# Project: COUNTRY VIEW APTS (MCBAIN) (MIA20030075)
+
+- HUD ID: MIA20030075
+- HUD ID before: 
+- Project: COUNTRY VIEW APTS (MCBAIN)
+- Address: 225 S PINE ST
+- City: MC BAIN
+- State: MI
+- ZIP: 49657
+- ZIP extension: 
+- State project ID: MI-2361
+- Latitude: 44.189662
+- Longitude: -85.213408
+- County FIPS: 26113
+- County from: 2020
+- Tract 2020: 26113960300
+- Tract 2010: 26113960300
+- Tract 2000: 26113960300
+- Tract 1990: 26113960300
+- Place 2020: 49980
+- Place 2010: 49980
+- Place 2000: 49980
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 37
+- Low-income units: 35
+- Units reported: 37
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WILLOW MANOR AT CABIN BRANCH (MDA20240036)
+
+- HUD ID: MDA20240036
+- HUD ID before: 
+- Project: WILLOW MANOR AT CABIN BRANCH
+- Address: 13510 LITTLE SENECA PARKWAY
+- City: CLARKSBURG
+- State: MD
+- ZIP: 20841
+- ZIP extension: 
+- State project ID: MD-21-24001
+- Latitude: 39.2377
+- Longitude: -77.3004
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031700317
+- Tract 2010: 24031700312
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 17350
+- Place 2010: 17350
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 11748869
+- Units: 125
+- Low-income units: 125
+- Units reported: 125
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 76
+- 2-bedroom units: 49
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

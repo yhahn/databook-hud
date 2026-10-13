@@ -1,0 +1,85 @@
+# Project: CAMBRIA COMMONS (NYA00000052)
+
+- HUD ID: NYA00000052
+- HUD ID before: 
+- Project: CAMBRIA COMMONS
+- Address: 5801 UNICORN DR
+- City: SANBORN
+- State: NY
+- ZIP: 14132
+- ZIP extension: 
+- State project ID: NY-90-1323_00363
+- Latitude: 43.140895
+- Longitude: -78.836385
+- County FIPS: 36063
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36063024303
+- Tract 2000: 36063024303
+- Tract 1990: 36063024303
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 18
+- Units reported: 24
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001185.
+- Record status: Existing, unchanged

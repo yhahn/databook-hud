@@ -1,0 +1,85 @@
+# Project: RIVER CITIES REDEVELOPMENT LLC (WIA20100060)
+
+- HUD ID: WIA20100060
+- HUD ID before: 
+- Project: RIVER CITIES REDEVELOPMENT LLC
+- Address: 330 W MAIN ST
+- City: OMRO
+- State: WI
+- ZIP: 54963
+- ZIP extension: 
+- State project ID: 5404
+- Latitude: 44.039317
+- Longitude: -88.747533
+- County FIPS: 55139
+- County from: 2020
+- Tract 2020: 55139002002
+- Tract 2010: 55139002000
+- Tract 2000: 55139002000
+- Tract 1990: 55139002000
+- Place 2020: 59875
+- Place 2010: 59875
+- Place 2000: 59875
+- Place 1990: 1895
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 650909
+- Units: 61
+- Low-income units: 2
+- Units reported: 61
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 348480
+- CDBG: 
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 9999
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MANNA CREST HOMES (OHA19960155)
+
+- HUD ID: OHA19960155
+- HUD ID before: 
+- Project: MANNA CREST HOMES
+- Address: 2087 GOLDEN LEAF LN
+- City: COLUMBUS
+- State: OH
+- ZIP: 43223
+- ZIP extension: 
+- State project ID: 947161
+- Latitude: 39.922198
+- Longitude: -83.051694
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049008340
+- Tract 2010: 39049008340
+- Tract 2000: 39049008340
+- Tract 1990: 39049008340
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 287959
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 17
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

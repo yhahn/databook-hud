@@ -1,0 +1,85 @@
+# Project: OAK TIMBERS-FORT WORTH SOUTH (TXA20070255)
+
+- HUD ID: TXA20070255
+- HUD ID before: 
+- Project: OAK TIMBERS-FORT WORTH SOUTH
+- Address: 308 E TERRELL AVE
+- City: FORT WORTH
+- State: TX
+- ZIP: 76104
+- ZIP extension: 
+- State project ID: TX4256
+- Latitude: 32.735336
+- Longitude: -97.324193
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439123100
+- Tract 2010: 48439123100
+- Tract 2000: 48439103300
+- Tract 1990: 48439103300
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1500
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1200000
+- Units: 168
+- Low-income units: 160
+- Units reported: 168
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 84
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

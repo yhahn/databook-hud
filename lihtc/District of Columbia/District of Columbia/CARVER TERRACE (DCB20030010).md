@@ -1,0 +1,85 @@
+# Project: CARVER TERRACE (DCB20030010)
+
+- HUD ID: DCB20030010
+- HUD ID before: 
+- Project: CARVER TERRACE
+- Address: 2026 MARYLAND AVE NE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20002
+- ZIP extension: 
+- State project ID: DCB2003010
+- Latitude: 38.903994
+- Longitude: -76.974403
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001008903
+- Tract 2010: 11001008903
+- Tract 2000: 11001008903
+- Tract 1990: 11001008903
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 312
+- Low-income units: 312
+- Units reported: 312
+- Low-income reported: 312
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

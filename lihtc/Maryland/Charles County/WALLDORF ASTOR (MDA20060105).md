@@ -1,0 +1,85 @@
+# Project: WALLDORF ASTOR (MDA20060105)
+
+- HUD ID: MDA20060105
+- HUD ID before: 
+- Project: WALLDORF ASTOR
+- Address: 3605 MOSES WAY
+- City: WALDORF
+- State: MD
+- ZIP: 20602
+- ZIP extension: 
+- State project ID: MD04-20001
+- Latitude: 38.613984
+- Longitude: -76.890398
+- County FIPS: 24017
+- County from: 2020
+- Tract 2020: 24017850901
+- Tract 2010: 24017850901
+- Tract 2000: 24017850901
+- Tract 1990: 24017850901
+- Place 2020: 81175
+- Place 2010: 81175
+- Place 2000: 69350
+- Place 1990: 0858
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 59
+- 2-bedroom units: 37
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

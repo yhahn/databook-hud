@@ -1,0 +1,85 @@
+# Project: SPRING TREE APTS (ORA20000120)
+
+- HUD ID: ORA20000120
+- HUD ID before: 
+- Project: SPRING TREE APTS
+- Address: 650 SE 162ND AVE
+- City: PORTLAND
+- State: OR
+- ZIP: 97233
+- ZIP extension: 
+- State project ID: X001-411
+- Latitude: 45.517874
+- Longitude: -122.496257
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051009703
+- Tract 2010: 41051009702
+- Tract 2000: 41051009702
+- Tract 1990: 41051009702
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 31250
+- Place 1990: 0913
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 154714
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 52
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

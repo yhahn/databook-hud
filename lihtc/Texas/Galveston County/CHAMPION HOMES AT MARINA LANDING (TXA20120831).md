@@ -1,0 +1,85 @@
+# Project: CHAMPION HOMES AT MARINA LANDING (TXA20120831)
+
+- HUD ID: TXA20120831
+- HUD ID before: 
+- Project: CHAMPION HOMES AT MARINA LANDING
+- Address: 7302 HEARDS LN
+- City: GALVESTON
+- State: TX
+- ZIP: 77551
+- ZIP extension: 
+- State project ID: TX4708
+- Latitude: 29.273659
+- Longitude: -94.845957
+- County FIPS: 48167
+- County from: 2020
+- Tract 2020: 48167725800
+- Tract 2010: 48167725800
+- Tract 2000: 48167725800
+- Tract 1990: 48167125100
+- Place 2020: 28068
+- Place 2010: 28068
+- Place 2000: 28068
+- Place 1990: 1570
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 256
+- Low-income units: 256
+- Units reported: 256
+- Low-income reported: 256
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 10987246
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000697, TXA0000120. AKA CHAMPION HOMES AT BAY WALK.
+- Record status: Existing, unchanged

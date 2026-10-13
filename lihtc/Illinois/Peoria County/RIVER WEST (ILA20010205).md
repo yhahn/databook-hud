@@ -1,0 +1,85 @@
+# Project: RIVER WEST (ILA20010205)
+
+- HUD ID: ILA20010205
+- HUD ID before: 
+- Project: RIVER WEST
+- Address: 312 S MERRIMAN ST
+- City: PEORIA
+- State: IL
+- ZIP: 61605
+- ZIP extension: 
+- State project ID: 124599
+- Latitude: 40.685146
+- Longitude: -89.605109
+- County FIPS: 17143
+- County from: 2020
+- Tract 2020: 17143000900
+- Tract 2010: 17143000900
+- Tract 2000: 17143000900
+- Tract 1990: 17143000900
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 4590
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 2544404
+- Units: 200
+- Low-income units: 153
+- Units reported: 200
+- Low-income reported: 153
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 66
+- 3-bedroom units: 56
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NEW SOUTHTOWN.
+- Record status: Existing, unchanged

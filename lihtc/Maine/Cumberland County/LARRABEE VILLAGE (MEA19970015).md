@@ -1,0 +1,85 @@
+# Project: LARRABEE VILLAGE (MEA19970015)
+
+- HUD ID: MEA19970015
+- HUD ID before: 
+- Project: LARRABEE VILLAGE
+- Address: 30 LIZA HARMON DR
+- City: WESTBROOK
+- State: ME
+- ZIP: 04092
+- ZIP extension: 
+- State project ID: 9500006
+- Latitude: 43.678972
+- Longitude: -70.335836
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005002800
+- Tract 2010: 23005002800
+- Tract 2000: 23005002800
+- Tract 1990: 23005002800
+- Place 2020: 82105
+- Place 2010: 82105
+- Place 2000: 82105
+- Place 1990: 4960
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 150
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

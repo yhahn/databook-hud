@@ -1,0 +1,85 @@
+# Project: NORTH CREEK APTS (TXA19940195)
+
+- HUD ID: TXA19940195
+- HUD ID before: 
+- Project: NORTH CREEK APTS
+- Address: 9387 PINYON TREE LN
+- City: DALLAS
+- State: TX
+- ZIP: 75243
+- ZIP extension: 
+- State project ID: TX-91-129
+- Latitude: 32.914357
+- Longitude: -96.735897
+- County FIPS: 48113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48113019016
+- Tract 2000: 48113019016
+- Tract 1990: 48113019016
+- Place 2020: 
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1085
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 158
+- Low-income units: 158
+- Units reported: 158
+- Low-income reported: 158
+- Efficiencies: 94
+- 1-bedroom units: 64
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

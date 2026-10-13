@@ -1,0 +1,85 @@
+# Project: EAST TEX PINES APTS (TXA20070135)
+
+- HUD ID: TXA20070135
+- HUD ID before: 
+- Project: EAST TEX PINES APTS
+- Address: 6200 GREENS RD
+- City: HUMBLE
+- State: TX
+- ZIP: 77396
+- ZIP extension: 
+- State project ID: 60623
+- Latitude: 29.952044
+- Longitude: -95.295452
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201241502
+- Tract 2010: 48201241500
+- Tract 2000: 48201240200
+- Tract 1990: 48201024001
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1132098
+- Units: 250
+- Low-income units: 250
+- Units reported: 250
+- Low-income reported: 250
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 136
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

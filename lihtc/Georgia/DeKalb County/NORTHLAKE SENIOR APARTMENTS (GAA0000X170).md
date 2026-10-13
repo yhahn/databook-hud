@@ -1,0 +1,85 @@
+# Project: NORTHLAKE SENIOR APARTMENTS (GAA0000X170)
+
+- HUD ID: GAA0000X170
+- HUD ID before: 
+- Project: NORTHLAKE SENIOR APARTMENTS
+- Address: 2152 NORTHLAKE PKWY
+- City: TUCKER
+- State: GA
+- ZIP: 30084
+- ZIP extension: 4114
+- State project ID: 2016-054
+- Latitude: 33.847513
+- Longitude: -84.244801
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089021819
+- Tract 2010: 13089021810
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 77652
+- Place 2010: 77652
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 958424
+- Units: 90
+- Low-income units: 72
+- Units reported: 90
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 45
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

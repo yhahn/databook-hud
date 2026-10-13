@@ -1,0 +1,85 @@
+# Project: BAY VIEW HOMES PHASE I (NYC20100035)
+
+- HUD ID: NYC20100035
+- HUD ID before: 
+- Project: BAY VIEW HOMES PHASE I
+- Address: 2045 ROCKAWAY PKWY
+- City: BROOKLYN
+- State: NY
+- ZIP: 11236
+- ZIP extension: 
+- State project ID: 1102170
+- Latitude: 40.633303
+- Longitude: -73.88873
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047103401
+- Tract 2010: 36047103400
+- Tract 2000: 36047103400
+- Tract 1990: 36047103400
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1439155
+- Units: 404
+- Low-income units: 404
+- Units reported: 404
+- Low-income reported: 404
+- Efficiencies: 75
+- 1-bedroom units: 120
+- 2-bedroom units: 70
+- 3-bedroom units: 103
+- 4-bedroom units: 36
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

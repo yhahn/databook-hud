@@ -1,0 +1,85 @@
+# Project: CHERRY RIDGE APARTMENTS (MNA20089004)
+
+- HUD ID: MNA20089004
+- HUD ID before: 
+- Project: CHERRY RIDGE APARTMENTS
+- Address: 101 GLENWOOD AVE
+- City: MANKATO
+- State: MN
+- ZIP: 56001
+- ZIP extension: 
+- State project ID: D0722
+- Latitude: 44.15999
+- Longitude: -94.001638
+- County FIPS: 27013
+- County from: 2020
+- Tract 2020: 27013171202
+- Tract 2010: 27013171202
+- Tract 2000: 27013971200
+- Tract 1990: 27013971200
+- Place 2020: 39878
+- Place 2010: 39878
+- Place 2000: 39878
+- Place 1990: 2420
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 208620
+- Units: 83
+- Low-income units: 63
+- Units reported: 83
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 43
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 734000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA1990020.
+- Record status: Existing, unchanged

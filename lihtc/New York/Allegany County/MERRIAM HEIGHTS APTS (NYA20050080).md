@@ -1,0 +1,85 @@
+# Project: MERRIAM HEIGHTS APTS (NYA20050080)
+
+- HUD ID: NYA20050080
+- HUD ID before: 
+- Project: MERRIAM HEIGHTS APTS
+- Address: 200 MERRIAM HTS
+- City: WELLSVILLE
+- State: NY
+- ZIP: 14895
+- ZIP extension: 
+- State project ID: 20030303
+- Latitude: 42.119754
+- Longitude: -77.924388
+- County FIPS: 36003
+- County from: 2020
+- Tract 2020: 36003950900
+- Tract 2010: 36003950900
+- Tract 2000: 36003950900
+- Tract 1990: 36003950900
+- Place 2020: 79092
+- Place 2010: 99999
+- Place 2000: 02143
+- Place 1990: 0105
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

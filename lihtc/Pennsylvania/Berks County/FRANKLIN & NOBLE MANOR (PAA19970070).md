@@ -1,0 +1,85 @@
+# Project: FRANKLIN & NOBLE MANOR (PAA19970070)
+
+- HUD ID: PAA19970070
+- HUD ID before: 
+- Project: FRANKLIN & NOBLE MANOR
+- Address: 43 E NOBLE AVE
+- City: SHOEMAKERSVILLE
+- State: PA
+- ZIP: 19555
+- ZIP extension: 
+- State project ID: TC19960096
+- Latitude: 40.501546
+- Longitude: -75.96864
+- County FIPS: 42011
+- County from: 2020
+- Tract 2020: 42011013702
+- Tract 2010: 42011013702
+- Tract 2000: 42011013700
+- Tract 1990: 42011013700
+- Place 2020: 70464
+- Place 2010: 70464
+- Place 2000: 70464
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 96823
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

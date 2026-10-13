@@ -1,0 +1,85 @@
+# Project: LINWOOD MILL (MAB20120075)
+
+- HUD ID: MAB20120075
+- HUD ID before: 
+- Project: LINWOOD MILL
+- Address: 670 LINWOOD AVE
+- City: WHITINSVILLE
+- State: MA
+- ZIP: 01588
+- ZIP extension: 
+- State project ID: 27-3940505
+- Latitude: 42.098652
+- Longitude: -71.64611
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027750200
+- Tract 2010: 25027750200
+- Tract 2000: 25027750200
+- Tract 1990: 25027750200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 79495
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1010100
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 16
+- 1-bedroom units: 46
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

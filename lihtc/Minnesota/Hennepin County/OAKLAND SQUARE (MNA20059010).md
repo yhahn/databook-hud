@@ -1,0 +1,85 @@
+# Project: OAKLAND SQUARE (MNA20059010)
+
+- HUD ID: MNA20059010
+- HUD ID before: 
+- Project: OAKLAND SQUARE
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55407
+- ZIP extension: 
+- State project ID: D0879
+- Latitude: 44.9441
+- Longitude: -93.2562
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053008500
+- Tract 2010: 27053008500
+- Tract 2000: 27053107100
+- Tract 1990: 27053006900
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 2585
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 19
+- 3-bedroom units: 10
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

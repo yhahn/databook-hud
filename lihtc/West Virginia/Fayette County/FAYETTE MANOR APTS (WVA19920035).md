@@ -1,0 +1,85 @@
+# Project: FAYETTE MANOR APTS (WVA19920035)
+
+- HUD ID: WVA19920035
+- HUD ID before: 
+- Project: FAYETTE MANOR APTS
+- Address: 1300 VIRGINIA ST
+- City: OAK HILL
+- State: WV
+- ZIP: 25901
+- ZIP extension: 
+- State project ID: WV-92-118
+- Latitude: 37.985472
+- Longitude: -81.146517
+- County FIPS: 54019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 54019020202
+- Tract 2000: 54019020200
+- Tract 1990: 54019020200
+- Place 2020: 
+- Place 2010: 60028
+- Place 2000: 27028
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

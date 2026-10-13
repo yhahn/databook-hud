@@ -1,0 +1,85 @@
+# Project: KELLEY'S FIELD (VTA20150003)
+
+- HUD ID: VTA20150003
+- HUD ID before: 
+- Project: KELLEY'S FIELD
+- Address: 87 KELLEY'S FIELD ROAD
+- City: HINESBURG
+- State: VT
+- ZIP: 05461
+- ZIP extension: 
+- State project ID: 463
+- Latitude: 44.330601
+- Longitude: -73.109167
+- County FIPS: 50007
+- County from: 2020
+- Tract 2020: 50007003502
+- Tract 2010: 50007003502
+- Tract 2000: 50007003502
+- Tract 1990: 
+- Place 2020: 33400
+- Place 2010: 33400
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 134000
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 24
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 225000
+- CDBG: Yes
+- CDBG amount: 475000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

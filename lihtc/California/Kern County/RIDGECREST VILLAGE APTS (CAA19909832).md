@@ -1,0 +1,85 @@
+# Project: RIDGECREST VILLAGE APTS (CAA19909832)
+
+- HUD ID: CAA19909832
+- HUD ID before: 
+- Project: RIDGECREST VILLAGE APTS
+- Address: 1021 PERDEW AVE
+- City: RIDGECREST
+- State: CA
+- ZIP: 93555
+- ZIP extension: 
+- State project ID: CA-88-102
+- Latitude: 35.648778
+- Longitude: -117.690113
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029005405
+- Tract 2010: 06029005401
+- Tract 2000: 06029005401
+- Tract 1990: 06029005401
+- Place 2020: 60704
+- Place 2010: 60704
+- Place 2000: 60704
+- Place 1990: 2335
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA00001285.
+- Record status: Existing, unchanged

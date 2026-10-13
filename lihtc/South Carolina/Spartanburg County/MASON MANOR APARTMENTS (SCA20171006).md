@@ -1,0 +1,85 @@
+# Project: MASON MANOR APARTMENTS (SCA20171006)
+
+- HUD ID: SCA20171006
+- HUD ID before: 
+- Project: MASON MANOR APARTMENTS
+- Address: 305 ROBERT MASON CIRCLE
+- City: BOILING SPRINGS
+- State: SC
+- ZIP: 29316
+- ZIP extension: 
+- State project ID: SC-16-027
+- Latitude: 35.057796
+- Longitude: -81.966333
+- County FIPS: 45083
+- County from: 2020
+- Tract 2020: 45083022405
+- Tract 2010: 45083022405
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 07345
+- Place 2010: 07345
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 675854
+- Units: 98
+- Low-income units: 98
+- Units reported: 98
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 98
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 37
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Older Persons
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

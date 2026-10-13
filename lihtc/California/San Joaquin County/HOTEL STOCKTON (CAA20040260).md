@@ -1,0 +1,85 @@
+# Project: HOTEL STOCKTON (CAA20040260)
+
+- HUD ID: CAA20040260
+- HUD ID before: 
+- Project: HOTEL STOCKTON
+- Address: 133 E WEBER AVE
+- City: STOCKTON
+- State: CA
+- ZIP: 95202
+- ZIP extension: 
+- State project ID: CA-02-244
+- Latitude: 37.954087
+- Longitude: -121.289529
+- County FIPS: 06077
+- County from: 2020
+- Tract 2020: 06077000102
+- Tract 2010: 06077000100
+- Tract 2000: 06077000100
+- Tract 1990: 06077000100
+- Place 2020: 75000
+- Place 2010: 75000
+- Place 2000: 75000
+- Place 1990: 2805
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 1250790
+- Units: 156
+- Low-income units: 155
+- Units reported: 156
+- Low-income reported: 155
+- Efficiencies: 96
+- 1-bedroom units: 60
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

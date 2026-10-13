@@ -1,0 +1,85 @@
+# Project: HENRY WILLIAMS (VAA20130015)
+
+- HUD ID: VAA20130015
+- HUD ID before: 
+- Project: HENRY WILLIAMS
+- Address: 555 S S ST
+- City: PETERSBURG
+- State: VA
+- ZIP: 23803
+- ZIP extension: 
+- State project ID: 2053
+- Latitude: 37.220159
+- Longitude: -77.413315
+- County FIPS: 51730
+- County from: 2020
+- Tract 2020: 51730810600
+- Tract 2010: 51730810600
+- Tract 2000: 51730810600
+- Tract 1990: 51730810600
+- Place 2020: 61832
+- Place 2010: 61832
+- Place 2000: 61832
+- Place 1990: 0960
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 868413
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA OWENS COURT.
+- Record status: Existing, unchanged

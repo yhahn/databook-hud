@@ -1,0 +1,85 @@
+# Project: VILLAGE APTS OF BRAZIL (INA19920180)
+
+- HUD ID: INA19920180
+- HUD ID before: 
+- Project: VILLAGE APTS OF BRAZIL
+- Address: 1011 S FOREST AVE
+- City: BRAZIL
+- State: IN
+- ZIP: 47834
+- ZIP extension: 
+- State project ID: IN-90-06300
+- Latitude: 39.513541
+- Longitude: -87.125607
+- County FIPS: 18021
+- County from: 2020
+- Tract 2020: 18021040100
+- Tract 2010: 18021040100
+- Tract 2000: 18021040100
+- Tract 1990: 18021040100
+- Place 2020: 07174
+- Place 2010: 07174
+- Place 2000: 07174
+- Place 1990: 0240
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GLACIER MANOR (MTA20090020)
+
+- HUD ID: MTA20090020
+- HUD ID before: 
+- Project: GLACIER MANOR
+- Address: 506 1ST AVENUE WEST
+- City: KALISPELL
+- State: MT
+- ZIP: 59901
+- ZIP extension: 0000
+- State project ID: 08070
+- Latitude: 48.193505
+- Longitude: -114.313766
+- County FIPS: 30029
+- County from: 2020
+- Tract 2020: 30029001000
+- Tract 2010: 30029001000
+- Tract 2000: 30029001000
+- Tract 1990: 30029001000
+- Place 2020: 40075
+- Place 2010: 40075
+- Place 2000: 40075
+- Place 1990: 0375
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 183000
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 61
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

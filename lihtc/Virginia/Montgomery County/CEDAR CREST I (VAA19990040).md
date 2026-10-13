@@ -1,0 +1,85 @@
+# Project: CEDAR CREST I (VAA19990040)
+
+- HUD ID: VAA19990040
+- HUD ID before: 
+- Project: CEDAR CREST I
+- Address: 596 CEDAR HILL DR
+- City: BLACKSBURG
+- State: VA
+- ZIP: 24060
+- ZIP extension: 
+- State project ID: 6589
+- Latitude: 37.20608
+- Longitude: -80.391482
+- County FIPS: 51121
+- County from: 2020
+- Tract 2020: 51121020702
+- Tract 2010: 51121020700
+- Tract 2000: 51121020700
+- Tract 1990: 51121020700
+- Place 2020: 07784
+- Place 2010: 07784
+- Place 2000: 07784
+- Place 1990: 0100
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 224317
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA0000025. AKA BLACKSBURG DUPLEXES.
+- Record status: Existing, unchanged

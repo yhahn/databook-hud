@@ -1,0 +1,85 @@
+# Project: LAUREL HOMES V (OHA20060135)
+
+- HUD ID: OHA20060135
+- HUD ID before: 
+- Project: LAUREL HOMES V
+- Address: 738 DAVID ST
+- City: CINCINNATI
+- State: OH
+- ZIP: 45214
+- ZIP extension: 
+- State project ID: 040015
+- Latitude: 39.111958
+- Longitude: -84.525521
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061026400
+- Tract 2010: 39061026400
+- Tract 2000: 39061000301
+- Tract 1990: 39061000301
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 106
+- Low-income units: 53
+- Units reported: 106
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 47
+- 3-bedroom units: 29
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HAMILTON VILLAGE (FLA19940100)
+
+- HUD ID: FLA19940100
+- HUD ID before: 
+- Project: HAMILTON VILLAGE
+- Address: 1203 PLUM ST
+- City: JENNINGS
+- State: FL
+- ZIP: 32053
+- ZIP extension: 
+- State project ID: 324
+- Latitude: 30.605681
+- Longitude: -83.102945
+- County FIPS: 12047
+- County from: 2020
+- Tract 2020: 12047960202
+- Tract 2010: 12047960200
+- Tract 2000: 12047980200
+- Tract 1990: 12047980200
+- Place 2020: 35525
+- Place 2010: 35525
+- Place 2000: 35525
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GREENBRIAR APTS.
+- Record status: Existing, unchanged

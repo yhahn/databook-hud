@@ -1,0 +1,85 @@
+# Project: GLORIETA GARDENS (FLA19930805)
+
+- HUD ID: FLA19930805
+- HUD ID before: 
+- Project: GLORIETA GARDENS
+- Address: 13180 PORT SAID RD
+- City: OPA LOCKA
+- State: FL
+- ZIP: 33054
+- ZIP extension: 
+- State project ID: 286
+- Latitude: 25.894017
+- Longitude: -80.252826
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086000508
+- Tract 2010: 12086000503
+- Tract 2000: 12086000503
+- Tract 1990: 12025000503
+- Place 2020: 51650
+- Place 2010: 51650
+- Place 2000: 30000
+- Place 1990: 1585
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 328
+- Low-income units: 328
+- Units reported: 328
+- Low-income reported: 328
+- Efficiencies: 0
+- 1-bedroom units: 55
+- 2-bedroom units: 211
+- 3-bedroom units: 54
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 4887091
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1993065. AKA GARDENS - ASWAN & ALEXANDRIA EAST & WEST, GARDENS APTS., FKA GARDENS - ASWAN AND ALEXANDRIA EAST AND WEST
+- Record status: Existing, unchanged

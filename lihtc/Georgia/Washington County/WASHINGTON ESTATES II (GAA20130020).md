@@ -1,0 +1,85 @@
+# Project: WASHINGTON ESTATES II (GAA20130020)
+
+- HUD ID: GAA20130020
+- HUD ID before: 
+- Project: WASHINGTON ESTATES II
+- Address: 101 WASHINGTON DR
+- City: TENNILLE
+- State: GA
+- ZIP: 31089
+- ZIP extension: 4159
+- State project ID: GA-11-039
+- Latitude: 32.95367
+- Longitude: -82.815231
+- County FIPS: 13303
+- County from: 2020
+- Tract 2020: 13303950300
+- Tract 2010: 13303950300
+- Tract 2000: 13303950300
+- Tract 1990: 13303950300
+- Place 2020: 75888
+- Place 2010: 75888
+- Place 2000: 68208
+- Place 1990: 2515
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 619900
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 15
+- 4-bedroom units: 25
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000453.
+- Record status: Existing, unchanged

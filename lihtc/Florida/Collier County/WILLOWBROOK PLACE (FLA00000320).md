@@ -1,0 +1,85 @@
+# Project: WILLOWBROOK PLACE (FLA00000320)
+
+- HUD ID: FLA00000320
+- HUD ID before: 
+- Project: WILLOWBROOK PLACE
+- Address: 913 N 18TH ST
+- City: IMMOKALEE
+- State: FL
+- ZIP: 34142
+- ZIP extension: 
+- State project ID: 972
+- Latitude: 26.431523
+- Longitude: -81.438005
+- County FIPS: 12021
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12021011301
+- Tract 2000: 12021011300
+- Tract 1990: 12021011300
+- Place 2020: 
+- Place 2010: 33250
+- Place 2000: 33250
+- Place 1990: 0945
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA WILLOWBROOK PL
+- Record status: Existing, unchanged

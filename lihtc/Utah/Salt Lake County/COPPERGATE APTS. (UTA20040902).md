@@ -1,0 +1,85 @@
+# Project: COPPERGATE APTS. (UTA20040902)
+
+- HUD ID: UTA20040902
+- HUD ID before: 
+- Project: COPPERGATE APTS.
+- Address: 8870 SOUTH STATE STREET
+- City: SANDY
+- State: UT
+- ZIP: 84070
+- ZIP extension: 
+- State project ID: 2004-40
+- Latitude: 40.590411
+- Longitude: -111.891099
+- County FIPS: 49035
+- County from: 2020
+- Tract 2020: 49035112402
+- Tract 2010: 49035112402
+- Tract 2000: 49035112402
+- Tract 1990: 49035112402
+- Place 2020: 67440
+- Place 2010: 67440
+- Place 2000: 67440
+- Place 1990: 0580
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 132
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

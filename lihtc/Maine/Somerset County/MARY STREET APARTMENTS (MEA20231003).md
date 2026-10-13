@@ -1,0 +1,85 @@
+# Project: MARY STREET APARTMENTS (MEA20231003)
+
+- HUD ID: MEA20231003
+- HUD ID before: 
+- Project: MARY STREET APARTMENTS
+- Address: 26 MARY STREET
+- City: SKOWHEGAN
+- State: ME
+- ZIP: 04976
+- ZIP extension: 
+- State project ID: MSHARLP1697
+- Latitude: 44.760508
+- Longitude: -69.738534
+- County FIPS: 23025
+- County from: 2020
+- Tract 2020: 23025966601
+- Tract 2010: 23025966600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 68875
+- Place 2010: 68875
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 679307
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 4
+- 1-bedroom units: 12
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: Yes
+- Affordability years: 45
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

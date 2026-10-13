@@ -1,0 +1,85 @@
+# Project: DOGWOOD PLACE APTS (TNA20040804)
+
+- HUD ID: TNA20040804
+- HUD ID before: 
+- Project: DOGWOOD PLACE APTS
+- Address: 201 EADS ST
+- City: EAST RIDGE
+- State: TN
+- ZIP: 37412
+- ZIP extension: 
+- State project ID: TN-02-003
+- Latitude: 35.004763
+- Longitude: -85.189081
+- County FIPS: 47065
+- County from: 2020
+- Tract 2020: 47065011442
+- Tract 2010: 47065011442
+- Tract 2000: 47065011442
+- Tract 1990: 47065003400
+- Place 2020: 22720
+- Place 2010: 22720
+- Place 2000: 14000
+- Place 1990: 0245
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 693501
+- Units: 140
+- Low-income units: 140
+- Units reported: 140
+- Low-income reported: 140
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 100
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2005035, TNA2004115.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LIVE OAK - MEADOWS (FLA20110125)
+
+- HUD ID: FLA20110125
+- HUD ID before: 
+- Project: LIVE OAK - MEADOWS
+- Address: 1600 HELVENSTON ST SE
+- City: LIVE OAK
+- State: FL
+- ZIP: 32064
+- ZIP extension: 
+- State project ID: 2464
+- Latitude: 30.286471
+- Longitude: -82.965508
+- County FIPS: 12121
+- County from: 2020
+- Tract 2020: 12121970100
+- Tract 2010: 12121970100
+- Tract 2000: 12121970100
+- Tract 1990: 12121970100
+- Place 2020: 40875
+- Place 2010: 40875
+- Place 2000: 40875
+- Place 1990: 1230
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 300000
+- Units: 87
+- Low-income units: 87
+- Units reported: 87
+- Low-income reported: 87
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 37
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011545.
+- Record status: Existing, unchanged

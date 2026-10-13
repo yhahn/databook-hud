@@ -1,0 +1,85 @@
+# Project: SUNFLOWER APTS MEDICINE LODGE (KSA19910500)
+
+- HUD ID: KSA19910500
+- HUD ID before: 
+- Project: SUNFLOWER APTS MEDICINE LODGE
+- Address: 600 CURRY LN
+- City: MEDICINE LODGE
+- State: KS
+- ZIP: 67104
+- ZIP extension: 
+- State project ID: KS-0314
+- Latitude: 37.290485
+- Longitude: -98.57168
+- County FIPS: 20007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20007968100
+- Tract 2000: 20007968100
+- Tract 1990: 20007968100
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 34550
+- Place 1990: 1840
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 10637
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1991065, KSA1991032, KSA0000090. AKA MEDICINE LODGE SUNFLOWER APTS.
+- Record status: Existing, unchanged

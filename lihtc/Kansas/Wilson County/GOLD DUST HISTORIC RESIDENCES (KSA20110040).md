@@ -1,0 +1,85 @@
+# Project: GOLD DUST HISTORIC RESIDENCES (KSA20110040)
+
+- HUD ID: KSA20110040
+- HUD ID before: 
+- Project: GOLD DUST HISTORIC RESIDENCES
+- Address: 402 N SEVENTH ST
+- City: FREDONIA
+- State: KS
+- ZIP: 66736
+- ZIP extension: 
+- State project ID: 60546
+- Latitude: 37.533826
+- Longitude: -95.826305
+- County FIPS: 20205
+- County from: 2020
+- Tract 2020: 20205097300
+- Tract 2010: 20205097300
+- Tract 2000: 20205997300
+- Tract 1990: 20205997300
+- Place 2020: 24575
+- Place 2010: 24575
+- Place 2000: 24575
+- Place 1990: 0945
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2011551.
+- Record status: Existing, unchanged

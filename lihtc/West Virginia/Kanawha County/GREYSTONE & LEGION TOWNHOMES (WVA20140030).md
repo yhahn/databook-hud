@@ -1,0 +1,85 @@
+# Project: GREYSTONE & LEGION TOWNHOMES (WVA20140030)
+
+- HUD ID: WVA20140030
+- HUD ID before: 
+- Project: GREYSTONE & LEGION TOWNHOMES
+- Address: 1904 WASHINGTON ST W
+- City: CHARLESTON
+- State: WV
+- ZIP: 25387
+- ZIP extension: 
+- State project ID: 2012-9
+- Latitude: 38.376077
+- Longitude: -81.66595
+- County FIPS: 54039
+- County from: 2020
+- Tract 2020: 54039000200
+- Tract 2010: 54039000200
+- Tract 2000: 54039000200
+- Tract 1990: 54039000200
+- Place 2020: 14600
+- Place 2010: 14600
+- Place 2000: 14600
+- Place 1990: 0280
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 610000
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CHARLESTON REPLACEMENTS HOUSING LP 8.
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: WINGATE AT BELLE MEADOWS (OHA20100150)
+
+- HUD ID: OHA20100150
+- HUD ID before: 
+- Project: WINGATE AT BELLE MEADOWS
+- Address: 414 OUTER BELLE RD
+- City: TROTWOOD
+- State: OH
+- ZIP: 45426
+- ZIP extension: 
+- State project ID: 040102
+- Latitude: 39.820455
+- Longitude: -84.29958
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113070101
+- Tract 2010: 39113070101
+- Tract 2000: 39113070101
+- Tract 1990: 39113070101
+- Place 2020: 77504
+- Place 2010: 77504
+- Place 2000: 21000
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 283997
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 132
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2010825, OHA2006255. AKA SHILOH SPRINGS.
+- Record status: Existing, unchanged

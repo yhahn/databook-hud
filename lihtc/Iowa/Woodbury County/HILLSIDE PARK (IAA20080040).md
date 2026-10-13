@@ -1,0 +1,85 @@
+# Project: HILLSIDE PARK (IAA20080040)
+
+- HUD ID: IAA20080040
+- HUD ID before: 
+- Project: HILLSIDE PARK
+- Address: 2800 W FOURTH ST
+- City: SIOUX CITY
+- State: IA
+- ZIP: 51103
+- ZIP extension: 
+- State project ID: 07-42
+- Latitude: 42.499556
+- Longitude: -96.446552
+- County FIPS: 19193
+- County from: 2020
+- Tract 2020: 19193000700
+- Tract 2010: 19193000700
+- Tract 2000: 19193000700
+- Tract 1990: 19193000700
+- Place 2020: 73335
+- Place 2010: 73335
+- Place 2000: 73335
+- Place 1990: 3980
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 407765
+- Units: 102
+- Low-income units: 101
+- Units reported: 102
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 56
+- 3-bedroom units: 30
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SIOUX CITY LEASED HOUSING ASSOC I.
+- Record status: Existing, unchanged

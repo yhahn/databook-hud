@@ -1,0 +1,85 @@
+# Project: BROADWAY VANTAGE (ORA20080010)
+
+- HUD ID: ORA20080010
+- HUD ID before: 
+- Project: BROADWAY VANTAGE
+- Address: 8238 NE BROADWAY ST
+- City: PORTLAND
+- State: OR
+- ZIP: 97220
+- ZIP extension: 
+- State project ID: 2567
+- Latitude: 45.534839
+- Longitude: -122.578477
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051002903
+- Tract 2010: 41051002903
+- Tract 2000: 41051002903
+- Tract 1990: 41051002903
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 46730
+- Place 1990: 0905
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 700000
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 1
+- 1-bedroom units: 11
+- 2-bedroom units: 30
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 43
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

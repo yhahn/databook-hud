@@ -1,0 +1,85 @@
+# Project: BROOKSTONE APTS (OHA20000020)
+
+- HUD ID: OHA20000020
+- HUD ID before: 
+- Project: BROOKSTONE APTS
+- Address: 500 GUNNTOWN RD
+- City: BELLEFONTAINE
+- State: OH
+- ZIP: 43311
+- ZIP extension: 
+- State project ID: 980015
+- Latitude: 40.329057
+- Longitude: -83.754638
+- County FIPS: 39091
+- County from: 2020
+- Tract 2020: 39091004400
+- Tract 2010: 39091004400
+- Tract 2000: 39091984400
+- Tract 1990: 39091984400
+- Place 2020: 05130
+- Place 2010: 05130
+- Place 2000: 05130
+- Place 1990: 0320
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 211932
+- Units: 96
+- Low-income units: 82
+- Units reported: 96
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

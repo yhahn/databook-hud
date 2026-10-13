@@ -1,0 +1,85 @@
+# Project: COTTONWOOD ESTATES PHASES I & II (WYA19960030)
+
+- HUD ID: WYA19960030
+- HUD ID before: 
+- Project: COTTONWOOD ESTATES PHASES I & II
+- Address: 3585 GILA BND
+- City: CASPER
+- State: WY
+- ZIP: 82604
+- ZIP extension: 
+- State project ID: 94-002
+- Latitude: 42.812712
+- Longitude: -106.41993
+- County FIPS: 56025
+- County from: 2020
+- Tract 2020: 56025001700
+- Tract 2010: 56025001700
+- Tract 2000: 56025001700
+- Tract 1990: 56025001500
+- Place 2020: 13150
+- Place 2010: 13150
+- Place 2000: 13150
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 618808
+- Units: 79
+- Low-income units: 79
+- Units reported: 79
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 39
+- 4-bedroom units: 40
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 79
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WYA1996005, WYA0000025, WYA0000020.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PEAKS AT HOT SPRINGS (ARA20080075)
+
+- HUD ID: ARA20080075
+- HUD ID before: 
+- Project: PEAKS AT HOT SPRINGS
+- Address: 431 LAKE HAMILTON DR
+- City: HOT SPRINGS
+- State: AR
+- ZIP: 71913
+- ZIP extension: 
+- State project ID: AR-06-15
+- Latitude: 34.446685
+- Longitude: -93.073223
+- County FIPS: 05051
+- County from: 2020
+- Tract 2020: 05051011701
+- Tract 2010: 05051011700
+- Tract 2000: 05051011700
+- Tract 1990: 05051011700
+- Place 2020: 33400
+- Place 2010: 33400
+- Place 2000: 33400
+- Place 1990: 0985
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 400000
+- Units: 48
+- Low-income units: 38
+- Units reported: 48
+- Low-income reported: 38
+- Efficiencies: 1
+- 1-bedroom units: 6
+- 2-bedroom units: 17
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2009065. FKA PEAKS AT HOT SPRINGS PHASES I & II
+- Record status: Existing, unchanged

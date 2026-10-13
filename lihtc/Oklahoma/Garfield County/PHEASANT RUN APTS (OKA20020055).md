@@ -1,0 +1,85 @@
+# Project: PHEASANT RUN APTS (OKA20020055)
+
+- HUD ID: OKA20020055
+- HUD ID before: 
+- Project: PHEASANT RUN APTS
+- Address: 6102 W CHESTNUT AVE
+- City: ENID
+- State: OK
+- ZIP: 73703
+- ZIP extension: 
+- State project ID: 010209
+- Latitude: 36.405503
+- Longitude: -97.948593
+- County FIPS: 40047
+- County from: 2020
+- Tract 2020: 40047001604
+- Tract 2010: 40047001601
+- Tract 2000: 40047001000
+- Tract 1990: 40047001000
+- Place 2020: 23950
+- Place 2010: 23950
+- Place 2000: 23950
+- Place 1990: 0790
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 48
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

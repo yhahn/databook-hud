@@ -1,0 +1,85 @@
+# Project: WENTWORTH APTS II (FLA20000190)
+
+- HUD ID: FLA20000190
+- HUD ID before: 
+- Project: WENTWORTH APTS II
+- Address: 10112 EASTMAR COMMONS BLVD
+- City: ORLANDO
+- State: FL
+- ZIP: 32825
+- ZIP extension: 
+- State project ID: 938
+- Latitude: 28.544896
+- Longitude: -81.239939
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016724
+- Tract 2010: 12095016724
+- Tract 2000: 12095016718
+- Tract 1990: 12095016707
+- Place 2020: 00410
+- Place 2010: 00410
+- Place 2000: 73075
+- Place 1990: 2126
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 264
+- Low-income units: 262
+- Units reported: 264
+- Low-income reported: 262
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 128
+- 3-bedroom units: 88
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

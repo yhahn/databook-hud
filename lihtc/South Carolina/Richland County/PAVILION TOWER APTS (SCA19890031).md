@@ -1,0 +1,85 @@
+# Project: PAVILION TOWER APTS (SCA19890031)
+
+- HUD ID: SCA19890031
+- HUD ID before: 
+- Project: PAVILION TOWER APTS
+- Address: 2001 PAVILION TOWER CIR
+- City: COLUMBIA
+- State: SC
+- ZIP: 29201
+- ZIP extension: 
+- State project ID: SC-88-096
+- Latitude: 34.0068
+- Longitude: -81.0434
+- County FIPS: 45079
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45079001600
+- Tract 2000: 45079001600
+- Tract 1990: 45079001600
+- Place 2020: 
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0305
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 240
+- Low-income units: 48
+- Units reported: 240
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA0000010.
+- Record status: Existing, unchanged

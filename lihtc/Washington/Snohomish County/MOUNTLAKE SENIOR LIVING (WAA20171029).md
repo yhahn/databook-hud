@@ -1,0 +1,85 @@
+# Project: MOUNTLAKE SENIOR LIVING (WAA20171029)
+
+- HUD ID: WAA20171029
+- HUD ID before: 
+- Project: MOUNTLAKE SENIOR LIVING
+- Address: 5525 244TH STREET SW
+- City: MOUNTLAKE TERRACE
+- State: WA
+- ZIP: 98043
+- ZIP extension: 
+- State project ID: 15-97A
+- Latitude: 47.777696
+- Longitude: -122.307797
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061051100
+- Tract 2010: 53061051100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 47490
+- Place 2010: 47490
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 107680
+- Units: 96
+- Low-income units: 20
+- Units reported: 96
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 45
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

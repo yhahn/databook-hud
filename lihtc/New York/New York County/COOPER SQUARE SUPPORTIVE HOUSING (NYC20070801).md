@@ -1,0 +1,85 @@
+# Project: COOPER SQUARE SUPPORTIVE HOUSING (NYC20070801)
+
+- HUD ID: NYC20070801
+- HUD ID before: 
+- Project: COOPER SQUARE SUPPORTIVE HOUSING
+- Address: 29 E SECOND ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10003
+- ZIP extension: 
+- State project ID: 0802021
+- Latitude: 40.724943
+- Longitude: -73.990833
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061003602
+- Tract 2010: 36061003602
+- Tract 2000: 36061003602
+- Tract 1990: 36061003602
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 75000
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 53
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 53
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 934560
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2008100, NYC2007501, NYC2007062.
+- Record status: Existing, unchanged

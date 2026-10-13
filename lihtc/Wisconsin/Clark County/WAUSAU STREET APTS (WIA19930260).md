@@ -1,0 +1,85 @@
+# Project: WAUSAU STREET APTS (WIA19930260)
+
+- HUD ID: WIA19930260
+- HUD ID before: 
+- Project: WAUSAU STREET APTS
+- Address: 511 W WAUSAU ST
+- City: COLBY
+- State: WI
+- ZIP: 54421
+- ZIP extension: 
+- State project ID: 1550
+- Latitude: 44.910342
+- Longitude: -90.321721
+- County FIPS: 55019
+- County from: 2020
+- Tract 2020: 55019950100
+- Tract 2010: 55019950100
+- Tract 2000: 55019950100
+- Tract 1990: 55019950100
+- Place 2020: 16150
+- Place 2010: 16150
+- Place 2000: 00100
+- Place 1990: 0005
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

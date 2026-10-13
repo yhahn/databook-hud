@@ -1,0 +1,85 @@
+# Project: DAYTON MEADOWS (COA19960055)
+
+- HUD ID: COA19960055
+- HUD ID before: 
+- Project: DAYTON MEADOWS
+- Address: 1749 S DAYTON ST
+- City: AURORA
+- State: CO
+- ZIP: 80247
+- ZIP extension: 
+- State project ID: CO-94-010
+- Latitude: 39.684828
+- Longitude: -104.875463
+- County FIPS: 08005
+- County from: 2020
+- Tract 2020: 08005086900
+- Tract 2010: 08005086900
+- Tract 2000: 08005007060
+- Tract 1990: 08005007012
+- Place 2020: 27950
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0055
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 60
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

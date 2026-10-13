@@ -1,0 +1,85 @@
+# Project: CRYSTAL GLEN APTS (MELROSE) (OHA19990065)
+
+- HUD ID: OHA19990065
+- HUD ID before: 
+- Project: CRYSTAL GLEN APTS (MELROSE)
+- Address: 1231 CRYSTAL GLEN BLVD
+- City: FINDLAY
+- State: OH
+- ZIP: 45840
+- ZIP extension: 
+- State project ID: 97-0094
+- Latitude: 41.067218
+- Longitude: -83.628144
+- County FIPS: 39063
+- County from: 2020
+- Tract 2020: 39063000600
+- Tract 2010: 39063000600
+- Tract 2000: 39063000600
+- Tract 1990: 39063000600
+- Place 2020: 27048
+- Place 2010: 27048
+- Place 2000: 27048
+- Place 1990: 1380
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 379555
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIVERCREST APARTMENTS (GAA19970235)
+
+- HUD ID: GAA19970235
+- HUD ID before: 
+- Project: RIVERCREST APARTMENTS
+- Address: 525 DON CUTLER SR DR
+- City: ALBANY
+- State: GA
+- ZIP: 31705
+- ZIP extension: 1282
+- State project ID: 1996-115
+- Latitude: 31.584981
+- Longitude: -84.13753
+- County FIPS: 13095
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 13095000200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 01052
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 153
+- Low-income units: 153
+- Units reported: 104
+- Low-income reported: 153
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 153
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1998100.
+- Record status: Updated

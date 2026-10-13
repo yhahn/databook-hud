@@ -1,0 +1,85 @@
+# Project: HALSVILLE SENIOR APTS (MOA19950160)
+
+- HUD ID: MOA19950160
+- HUD ID before: 
+- Project: HALSVILLE SENIOR APTS
+- Address: 109 ELAINE AVE
+- City: HALLSVILLE
+- State: MO
+- ZIP: 65255
+- ZIP extension: 
+- State project ID: 95-131
+- Latitude: 39.118588
+- Longitude: -92.22166
+- County FIPS: 29019
+- County from: 2020
+- Tract 2020: 29019001904
+- Tract 2010: 29019001902
+- Tract 2000: 29019001902
+- Tract 1990: 29019001902
+- Place 2020: 29998
+- Place 2010: 29998
+- Place 2000: 29998
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA Q & E #1 LP.
+- Record status: Existing, unchanged

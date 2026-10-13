@@ -1,0 +1,85 @@
+# Project: OAKS SENIOR COMMUNITY (PAA20010140)
+
+- HUD ID: PAA20010140
+- HUD ID before: 
+- Project: OAKS SENIOR COMMUNITY
+- Address: 3698 GRACE AVE
+- City: CRESCO
+- State: PA
+- ZIP: 18326
+- ZIP extension: 
+- State project ID: TC19990042
+- Latitude: 41.1981
+- Longitude: -75.2453
+- County FIPS: 42089
+- County from: 2020
+- Tract 2020: 42089300201
+- Tract 2010: 42089300201
+- Tract 2000: 42089300200
+- Tract 1990: 42089300200
+- Place 2020: 51344
+- Place 2010: 51344
+- Place 2000: 51344
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 270512
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

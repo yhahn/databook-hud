@@ -1,0 +1,85 @@
+# Project: TUALATIN VIEW APTS I (ORA19930065)
+
+- HUD ID: ORA19930065
+- HUD ID before: 
+- Project: TUALATIN VIEW APTS I
+- Address: 18480 SW BOONES FERRY RD
+- City: PORTLAND
+- State: OR
+- ZIP: 97224
+- ZIP extension: 
+- State project ID: OR91-405
+- Latitude: 45.386258
+- Longitude: -122.75742
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067032005
+- Tract 2010: 41067032005
+- Tract 2000: 41067032002
+- Tract 1990: 41067032000
+- Place 2020: 21250
+- Place 2010: 21250
+- Place 2000: 21250
+- Place 1990: 1150
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 227551
+- Units: 210
+- Low-income units: 210
+- Units reported: 210
+- Low-income reported: 210
+- Efficiencies: 16
+- 1-bedroom units: 74
+- 2-bedroom units: 80
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

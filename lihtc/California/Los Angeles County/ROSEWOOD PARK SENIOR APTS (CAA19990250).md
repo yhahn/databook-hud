@@ -1,0 +1,85 @@
+# Project: ROSEWOOD PARK SENIOR APTS (CAA19990250)
+
+- HUD ID: CAA19990250
+- HUD ID before: 
+- Project: ROSEWOOD PARK SENIOR APTS
+- Address: 2230 S EASTERN AVE
+- City: COMMERCE
+- State: CA
+- ZIP: 90040
+- ZIP extension: 
+- State project ID: CA-99-881
+- Latitude: 34.004993
+- Longitude: -118.158786
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037532303
+- Tract 2010: 06037532303
+- Tract 2000: 06037532303
+- Tract 1990: 06037532000
+- Place 2020: 14974
+- Place 2010: 14974
+- Place 2000: 14974
+- Place 1990: 1820
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 202552
+- Units: 94
+- Low-income units: 93
+- Units reported: 94
+- Low-income reported: 93
+- Efficiencies: 0
+- 1-bedroom units: 73
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

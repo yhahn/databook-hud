@@ -1,0 +1,85 @@
+# Project: NORTHBROOKS APRATMENTS (LAA20130003)
+
+- HUD ID: LAA20130003
+- HUD ID before: 
+- Project: NORTHBROOKS APRATMENTS
+- Address: 2002 MARTIN LUTHER KING EXTENSION
+- City: WINNSBORO
+- State: LA
+- ZIP: 71295
+- ZIP extension: 0000
+- State project ID: LA-12-019
+- Latitude: 32.1534
+- Longitude: -91.7168
+- County FIPS: 22041
+- County from: 2020
+- Tract 2020: 22041950300
+- Tract 2010: 22041950300
+- Tract 2000: 22041950300
+- Tract 1990: 22041950300
+- Place 2020: 82495
+- Place 2010: 82495
+- Place 2000: 
+- Place 1990: 1450
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

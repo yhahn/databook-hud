@@ -1,0 +1,85 @@
+# Project: GRACE GARDEN (NDA20190002)
+
+- HUD ID: NDA20190002
+- HUD ID before: 
+- Project: GRACE GARDEN
+- Address: 1480 16TH STREET E
+- City: WEST FARGO
+- State: ND
+- ZIP: 58078
+- ZIP extension: 0000
+- State project ID: TC-18-08
+- Latitude: 46.858768
+- Longitude: -96.875308
+- County FIPS: 38017
+- County from: 2020
+- Tract 2020: 38017010110
+- Tract 2010: 38017010108
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 84780
+- Place 2010: 84780
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 672500
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 14
+- 3-bedroom units: 6
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 325549
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

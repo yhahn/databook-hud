@@ -1,0 +1,85 @@
+# Project: ARROWLEAF VILLAGE (WAA20110816)
+
+- HUD ID: WAA20110816
+- HUD ID before: 
+- Project: ARROWLEAF VILLAGE
+- Address: 380 S ASPEN
+- City: AIRWAY HEIGHTS
+- State: WA
+- ZIP: 99001
+- ZIP extension: 
+- State project ID: 09-33
+- Latitude: 47.652698
+- Longitude: -117.598034
+- County FIPS: 53063
+- County from: 2020
+- Tract 2020: 53063010401
+- Tract 2010: 53063010401
+- Tract 2000: 53063010401
+- Tract 1990: 53063010401
+- Place 2020: 00905
+- Place 2010: 00905
+- Place 2000: 00905
+- Place 1990: 0010
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 558210
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 27
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 9489578
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

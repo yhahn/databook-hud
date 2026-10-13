@@ -1,0 +1,85 @@
+# Project: RIVERVIEW BLUFFS (OHA20060190)
+
+- HUD ID: OHA20060190
+- HUD ID before: 
+- Project: RIVERVIEW BLUFFS
+- Address: 112 RIVER VALLEY BLVD
+- City: NEW RICHMOND
+- State: OH
+- ZIP: 45157
+- ZIP extension: 
+- State project ID: 040033
+- Latitude: 38.969382
+- Longitude: -84.284344
+- County FIPS: 39025
+- County from: 2020
+- Tract 2020: 39025041600
+- Tract 2010: 39025041600
+- Tract 2000: 39025041600
+- Tract 1990: 39025041600
+- Place 2020: 55384
+- Place 2010: 55384
+- Place 2000: 55384
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 36
+- Units reported: 40
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

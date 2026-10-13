@@ -1,0 +1,85 @@
+# Project: NEWPORT HEIGHTS 3A (RIA20060020)
+
+- HUD ID: RIA20060020
+- HUD ID before: 
+- Project: NEWPORT HEIGHTS 3A
+- Address: 26 JOHN H CHAFEE BLVD
+- City: NEWPORT
+- State: RI
+- ZIP: 02840
+- ZIP extension: 
+- State project ID: RI00114
+- Latitude: 41.514602
+- Longitude: -71.311767
+- County FIPS: 44005
+- County from: 2020
+- Tract 2020: 44005040500
+- Tract 2010: 44005040500
+- Tract 2000: 44005040500
+- Tract 1990: 44005040500
+- Place 2020: 49960
+- Place 2010: 49960
+- Place 2000: 49960
+- Place 1990: 0310
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 448204
+- Units: 44
+- Low-income units: 34
+- Units reported: 44
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 13
+- 3-bedroom units: 23
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

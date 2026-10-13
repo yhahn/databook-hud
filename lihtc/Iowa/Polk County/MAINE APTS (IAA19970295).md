@@ -1,0 +1,85 @@
+# Project: MAINE APTS (IAA19970295)
+
+- HUD ID: IAA19970295
+- HUD ID before: 
+- Project: MAINE APTS
+- Address: 1635 SIXTH AVE
+- City: DES MOINES
+- State: IA
+- ZIP: 50314
+- ZIP extension: 
+- State project ID: 96-18
+- Latitude: 41.608938
+- Longitude: -93.625581
+- County FIPS: 19153
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19153004900
+- Tract 2000: 19153004900
+- Tract 1990: 19153004900
+- Place 2020: 
+- Place 2010: 21000
+- Place 2000: 21000
+- Place 1990: 1130
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 178990
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 6
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA1998070.
+- Record status: Existing, unchanged

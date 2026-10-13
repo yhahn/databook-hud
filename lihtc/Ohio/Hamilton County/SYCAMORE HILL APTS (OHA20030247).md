@@ -1,0 +1,85 @@
+# Project: SYCAMORE HILL APTS (OHA20030247)
+
+- HUD ID: OHA20030247
+- HUD ID before: 
+- Project: SYCAMORE HILL APTS
+- Address: 1725 SYCAMORE ST
+- City: CINCINNATI
+- State: OH
+- ZIP: 45202
+- ZIP extension: 
+- State project ID: 020059
+- Latitude: 39.114514
+- Longitude: -84.510865
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061001700
+- Tract 2010: 39061001700
+- Tract 2000: 39061001700
+- Tract 1990: 39061001700
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 199292
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 1
+- 1-bedroom units: 2
+- 2-bedroom units: 3
+- 3-bedroom units: 6
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2004267, OHA2003245.
+- Record status: Existing, unchanged

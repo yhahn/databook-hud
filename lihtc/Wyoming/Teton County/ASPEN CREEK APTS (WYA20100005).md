@@ -1,0 +1,85 @@
+# Project: ASPEN CREEK APTS (WYA20100005)
+
+- HUD ID: WYA20100005
+- HUD ID before: 
+- Project: ASPEN CREEK APTS
+- Address: 2000 CORNER CREEK LN
+- City: JACKSON
+- State: WY
+- ZIP: 83001
+- ZIP extension: 
+- State project ID: 09-008
+- Latitude: 43.458703
+- Longitude: -110.80561
+- County FIPS: 56039
+- County from: 2020
+- Tract 2020: 56039967802
+- Tract 2010: 56039967800
+- Tract 2000: 56039997800
+- Tract 1990: 56039997800
+- Place 2020: 40120
+- Place 2010: 40120
+- Place 2000: 40120
+- Place 1990: 0215
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 225180
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

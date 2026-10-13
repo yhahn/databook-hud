@@ -1,0 +1,85 @@
+# Project: LANDON TRACE TOWNHOMES (FLA19990030)
+
+- HUD ID: FLA19990030
+- HUD ID before: 
+- Project: LANDON TRACE TOWNHOMES
+- Address: 1813 BUCHANAN BAY CIR
+- City: ORLANDO
+- State: FL
+- ZIP: 32839
+- ZIP extension: 
+- State project ID: 115
+- Latitude: 28.49318
+- Longitude: -81.408275
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095014502
+- Tract 2010: 12095014502
+- Tract 2000: 12095014502
+- Tract 1990: 12095014500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 53000
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 228
+- Low-income units: 228
+- Units reported: 228
+- Low-income reported: 228
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 228
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

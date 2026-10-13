@@ -1,0 +1,85 @@
+# Project: WOOLSON BLOCK (VTA20200008)
+
+- HUD ID: VTA20200008
+- HUD ID before: 
+- Project: WOOLSON BLOCK
+- Address: 31-41 MAIN STREET
+- City: SPRINGFIELD
+- State: VT
+- ZIP: 05156
+- ZIP extension: 
+- State project ID: VT-05-21
+- Latitude: 43.298693
+- Longitude: -72.482209
+- County FIPS: 50027
+- County from: 2020
+- Tract 2020: 50027966600
+- Tract 2010: 50027966600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69475
+- Place 2010: 69475
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 445000
+- Units: 20
+- Low-income units: 19
+- Units reported: 20
+- Low-income reported: 19
+- Efficiencies: 7
+- 1-bedroom units: 11
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 125000
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

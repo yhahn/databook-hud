@@ -1,0 +1,85 @@
+# Project: OGDEN HEIGHTS SENIOR (DHC) (NYB20100022)
+
+- HUD ID: NYB20100022
+- HUD ID before: 
+- Project: OGDEN HEIGHTS SENIOR (DHC)
+- Address: 2539 SPENCERPORT RD
+- City: SPENCERPORT
+- State: NY
+- ZIP: 14559
+- ZIP extension: 
+- State project ID: NY-09-1905
+- Latitude: 43.18072
+- Longitude: -77.769675
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055014906
+- Tract 2010: 36055014906
+- Tract 2000: 36055014904
+- Tract 1990: 36055014904
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 70189
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 353426
+- Units: 89
+- Low-income units: 78
+- Units reported: 89
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 71
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYB2010510. AKA OGDEN HEIGHTS SENIOR.
+- Record status: Existing, unchanged

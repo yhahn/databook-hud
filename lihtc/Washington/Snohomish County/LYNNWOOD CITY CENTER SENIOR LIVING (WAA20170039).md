@@ -1,0 +1,85 @@
+# Project: LYNNWOOD CITY CENTER SENIOR LIVING (WAA20170039)
+
+- HUD ID: WAA20170039
+- HUD ID before: 
+- Project: LYNNWOOD CITY CENTER SENIOR LIVING
+- Address: 19501-40TH AVENUE WEST
+- City: LYNNWOOD
+- State: WA
+- ZIP: 98036
+- ZIP extension: 
+- State project ID: 13-122A
+- Latitude: 47.822186
+- Longitude: -122.286819
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061051702
+- Tract 2010: 53061051702
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 40840
+- Place 2010: 40840
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 305652
+- Units: 308
+- Low-income units: 62
+- Units reported: 308
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

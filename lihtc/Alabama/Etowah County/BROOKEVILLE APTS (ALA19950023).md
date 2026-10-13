@@ -1,0 +1,85 @@
+# Project: BROOKEVILLE APTS (ALA19950023)
+
+- HUD ID: ALA19950023
+- HUD ID before: 
+- Project: BROOKEVILLE APTS
+- Address: 337 W AIR DEPOT RD
+- City: GADSDEN
+- State: AL
+- ZIP: 35903
+- ZIP extension: 
+- State project ID: AL-95-0061
+- Latitude: 33.964954
+- Longitude: -85.949007
+- County FIPS: 01055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01055001700
+- Tract 2000: 01055001700
+- Tract 1990: 01055001700
+- Place 2020: 
+- Place 2010: 28696
+- Place 2000: 28696
+- Place 1990: 0685
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 197500
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 900000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1996010. AKA ETOWAH ASSOC.
+- Record status: Existing, unchanged

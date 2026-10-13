@@ -1,0 +1,85 @@
+# Project: HUDSON SQUARE APTS (LAA19920055)
+
+- HUD ID: LAA19920055
+- HUD ID before: 
+- Project: HUDSON SQUARE APTS
+- Address: 10210 AVE L
+- City: BATON ROUGE
+- State: LA
+- ZIP: 70807
+- ZIP extension: 
+- State project ID: LA-91-004
+- Latitude: 30.537046
+- Longitude: -91.200555
+- County FIPS: 22033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22033003000
+- Tract 2000: 22033003000
+- Tract 1990: 22033000100
+- Place 2020: 
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0095
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 82
+- Low-income units: 82
+- Units reported: 82
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 64
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1992050.
+- Record status: Existing, unchanged

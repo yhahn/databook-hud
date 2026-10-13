@@ -1,0 +1,85 @@
+# Project: EL CENTRO SENIOR VILLAS PHASE II (CAA20090177)
+
+- HUD ID: CAA20090177
+- HUD ID before: 
+- Project: EL CENTRO SENIOR VILLAS PHASE II
+- Address: 579 PARK AVE
+- City: EL CENTRO
+- State: CA
+- ZIP: 92243
+- ZIP extension: 
+- State project ID: CA-09-510
+- Latitude: 32.795695
+- Longitude: -115.556647
+- County FIPS: 06025
+- County from: 2020
+- Tract 2020: 06025011500
+- Tract 2010: 06025011500
+- Tract 2000: 06025011500
+- Tract 1990: 06025011500
+- Place 2020: 21782
+- Place 2010: 21782
+- Place 2000: 21782
+- Place 1990: 0855
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 10000
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2009501.
+- Record status: Existing, unchanged

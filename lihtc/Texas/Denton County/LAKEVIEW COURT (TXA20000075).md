@@ -1,0 +1,85 @@
+# Project: LAKEVIEW COURT (TXA20000075)
+
+- HUD ID: TXA20000075
+- HUD ID before: 
+- Project: LAKEVIEW COURT
+- Address: 204 MAIN ST
+- City: LITTLE ELM
+- State: TX
+- ZIP: 75068
+- ZIP extension: 
+- State project ID: TX1740
+- Latitude: 33.162522
+- Longitude: -96.939365
+- County FIPS: 48121
+- County from: 2020
+- Tract 2020: 48121020126
+- Tract 2010: 48121020114
+- Tract 2000: 48121020102
+- Tract 1990: 48121020102
+- Place 2020: 43012
+- Place 2010: 43012
+- Place 2000: 17852
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA1989475. FKA ONE MAIN PLACE
+- Record status: Existing, unchanged

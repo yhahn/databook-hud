@@ -1,0 +1,85 @@
+# Project: COBB PARK TOWNHOMES (TXA20020050)
+
+- HUD ID: TXA20020050
+- HUD ID before: 
+- Project: COBB PARK TOWNHOMES
+- Address: 2450 E BERRY ST S
+- City: FORT WORTH
+- State: TX
+- ZIP: 76119
+- ZIP extension: 
+- State project ID: TX1426
+- Latitude: 32.7007
+- Longitude: -97.2896
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439104605
+- Tract 2010: 48439104605
+- Tract 2000: 48439104604
+- Tract 1990: 48439104604
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1500
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 172
+- Low-income units: 172
+- Units reported: 172
+- Low-income reported: 172
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

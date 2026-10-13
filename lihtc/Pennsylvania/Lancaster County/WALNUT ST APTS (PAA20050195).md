@@ -1,0 +1,85 @@
+# Project: WALNUT ST APTS (PAA20050195)
+
+- HUD ID: PAA20050195
+- HUD ID before: 
+- Project: WALNUT ST APTS
+- Address: 117 S WALNUT ST
+- City: LITITZ
+- State: PA
+- ZIP: 17543
+- ZIP extension: 
+- State project ID: TC2003-0628
+- Latitude: 40.154709
+- Longitude: -76.310494
+- County FIPS: 42071
+- County from: 2020
+- Tract 2020: 42071012002
+- Tract 2010: 42071012002
+- Tract 2000: 42071012002
+- Tract 1990: 42071012002
+- Place 2020: 43816
+- Place 2010: 43816
+- Place 2000: 43816
+- Place 1990: 5900
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 205187
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 13
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 450000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

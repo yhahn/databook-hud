@@ -1,0 +1,85 @@
+# Project: WARREN HOMES II (OHA19999545)
+
+- HUD ID: OHA19999545
+- HUD ID before: 
+- Project: WARREN HOMES II
+- Address: 2194 BENTON ST SE
+- City: WARREN
+- State: OH
+- ZIP: 44484
+- ZIP extension: 
+- State project ID: 970019
+- Latitude: 41.214464
+- Longitude: -80.791604
+- County FIPS: 39155
+- County from: 2020
+- Tract 2020: 39155934000
+- Tract 2010: 39155920500
+- Tract 2000: 39155920500
+- Tract 1990: 39155920500
+- Place 2020: 80892
+- Place 2010: 80892
+- Place 2000: 07583
+- Place 1990: 4480
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 391244
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 13
+- 4-bedroom units: 27
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 300500
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

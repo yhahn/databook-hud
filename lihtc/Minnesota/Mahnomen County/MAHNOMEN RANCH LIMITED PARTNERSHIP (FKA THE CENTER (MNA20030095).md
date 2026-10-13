@@ -1,0 +1,85 @@
+# Project: MAHNOMEN RANCH LIMITED PARTNERSHIP (FKA THE CENTER (MNA20030095)
+
+- HUD ID: MNA20030095
+- HUD ID before: 
+- Project: MAHNOMEN RANCH LIMITED PARTNERSHIP (FKA THE CENTER
+- Address: 2425 30TH AVE
+- City: MAHNOMEN
+- State: MN
+- ZIP: 56557
+- ZIP extension: 
+- State project ID: D3088
+- Latitude: 47.3257
+- Longitude: -95.9359
+- County FIPS: 27087
+- County from: 2020
+- Tract 2020: 27087940100
+- Tract 2010: 27087940100
+- Tract 2000: 27087960100
+- Tract 1990: 27087960100
+- Place 2020: 04348
+- Place 2010: 04348
+- Place 2000: 04672
+- Place 1990: 2400
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 26
+- Units reported: 28
+- Low-income reported: 26
+- Efficiencies: 24
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SINGLES
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA THE CENTER
+- Record status: Existing, unchanged

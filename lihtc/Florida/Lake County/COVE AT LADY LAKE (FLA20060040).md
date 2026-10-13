@@ -1,0 +1,85 @@
+# Project: COVE AT LADY LAKE (FLA20060040)
+
+- HUD ID: FLA20060040
+- HUD ID before: 
+- Project: COVE AT LADY LAKE
+- Address: 735 S US HWY 441
+- City: LADY LAKE
+- State: FL
+- ZIP: 32159
+- ZIP extension: 
+- State project ID: 1447
+- Latitude: 28.901325
+- Longitude: -81.912582
+- County FIPS: 12069
+- County from: 2020
+- Tract 2020: 12069030409
+- Tract 2010: 12069030411
+- Tract 2000: 12069030403
+- Tract 1990: 12069030401
+- Place 2020: 37375
+- Place 2010: 37375
+- Place 2000: 24975
+- Place 1990: 1095
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 923203
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 80
+- 3-bedroom units: 32
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

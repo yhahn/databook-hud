@@ -1,0 +1,85 @@
+# Project: DOROTHY DAY RESIDENCE (MNA20191007)
+
+- HUD ID: MNA20191007
+- HUD ID before: 
+- Project: DOROTHY DAY RESIDENCE
+- Address: 183 OLD 6TH STREET WEST
+- City: ST. PAUL
+- State: MN
+- ZIP: 55102
+- ZIP extension: 
+- State project ID: D7890
+- Latitude: 44.946665
+- Longitude: -93.101431
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123034204
+- Tract 2010: 27123034202
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1555145
+- Units: 177
+- Low-income units: 177
+- Units reported: 177
+- Low-income reported: 177
+- Efficiencies: 177
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 101
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

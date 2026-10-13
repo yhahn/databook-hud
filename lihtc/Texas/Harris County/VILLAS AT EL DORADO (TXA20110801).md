@@ -1,0 +1,85 @@
+# Project: VILLAS AT EL DORADO (TXA20110801)
+
+- HUD ID: TXA20110801
+- HUD ID before: 
+- Project: VILLAS AT EL DORADO
+- Address: 220 W EL DORADO BLVD
+- City: FRIENDSWOOD
+- State: TX
+- ZIP: 77546
+- ZIP extension: 
+- State project ID: TX4703
+- Latitude: 29.54965
+- Longitude: -95.159442
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201350601
+- Tract 2010: 48201350601
+- Tract 2000: 48201350600
+- Tract 1990: 48201037200
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 27648
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 159
+- Low-income units: 159
+- Units reported: 159
+- Low-income reported: 159
+- Efficiencies: 0
+- 1-bedroom units: 93
+- 2-bedroom units: 66
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000762.
+- Record status: Existing, unchanged

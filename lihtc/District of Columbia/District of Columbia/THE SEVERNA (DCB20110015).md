@@ -1,0 +1,85 @@
+# Project: THE SEVERNA (DCB20110015)
+
+- HUD ID: DCB20110015
+- HUD ID before: 
+- Project: THE SEVERNA
+- Address: 1001 FIRST ST NW
+- City: WASHINGTON
+- State: DC
+- ZIP: 20001
+- ZIP extension: 
+- State project ID: DCB2011025
+- Latitude: 38.902526
+- Longitude: -77.011939
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001004704
+- Tract 2010: 11001004701
+- Tract 2000: 11001004700
+- Tract 1990: 11001004700
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 995000
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 5
+- 1-bedroom units: 28
+- 2-bedroom units: 11
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DCB2011504. AKA SEVERNA APTS.
+- Record status: Existing, unchanged

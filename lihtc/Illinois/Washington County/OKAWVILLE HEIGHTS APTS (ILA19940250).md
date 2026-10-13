@@ -1,0 +1,85 @@
+# Project: OKAWVILLE HEIGHTS APTS (ILA19940250)
+
+- HUD ID: ILA19940250
+- HUD ID before: 
+- Project: OKAWVILLE HEIGHTS APTS
+- Address: 300 N MILL ST
+- City: OKAWVILLE
+- State: IL
+- ZIP: 62271
+- ZIP extension: 
+- State project ID: 68594
+- Latitude: 38.432188
+- Longitude: -89.547515
+- County FIPS: 17189
+- County from: 2020
+- Tract 2020: 17189950200
+- Tract 2010: 17189950200
+- Tract 2000: 17189950200
+- Tract 1990: 17189950200
+- Place 2020: 55470
+- Place 2010: 55470
+- Place 2000: 00230
+- Place 1990: 4355
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 11361
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1994105. AKA OKAWVILLE APTS.
+- Record status: Existing, unchanged

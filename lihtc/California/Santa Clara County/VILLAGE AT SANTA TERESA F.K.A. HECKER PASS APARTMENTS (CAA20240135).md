@@ -1,0 +1,85 @@
+# Project: VILLAGE AT SANTA TERESA F.K.A. HECKER PASS APARTMENTS (CAA20240135)
+
+- HUD ID: CAA20240135
+- HUD ID before: 
+- Project: VILLAGE AT SANTA TERESA F.K.A. HECKER PASS APARTMENTS
+- Address: 1520 HECKER PASS HIGHWAY
+- City: GILROY
+- State: CA
+- ZIP: 95020
+- ZIP extension: 
+- State project ID: CA-2021-512
+- Latitude: 37.012544
+- Longitude: -121.601605
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085512510
+- Tract 2010: 06085512510
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 29504
+- Place 2010: 29504
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1602210
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 55
+- 3-bedroom units: 45
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

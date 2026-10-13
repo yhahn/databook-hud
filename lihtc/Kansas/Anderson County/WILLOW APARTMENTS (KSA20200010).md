@@ -1,0 +1,85 @@
+# Project: WILLOW APARTMENTS (KSA20200010)
+
+- HUD ID: KSA20200010
+- HUD ID before: 
+- Project: WILLOW APARTMENTS
+- Address: 310 S. WILLOW STREET
+- City: GARNETT
+- State: KS
+- ZIP: 66032
+- ZIP extension: 
+- State project ID: -16-68071
+- Latitude: 38.282315
+- Longitude: -95.230747
+- County FIPS: 20003
+- County from: 2020
+- Tract 2020: 20003953600
+- Tract 2010: 20003953600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 25925
+- Place 2010: 25925
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 194135
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 7
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

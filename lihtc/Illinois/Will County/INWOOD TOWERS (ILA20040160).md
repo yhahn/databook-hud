@@ -1,0 +1,85 @@
+# Project: INWOOD TOWERS (ILA20040160)
+
+- HUD ID: ILA20040160
+- HUD ID before: 
+- Project: INWOOD TOWERS
+- Address: 247 CATERPILLAR DR
+- City: JOLIET
+- State: IL
+- ZIP: 60436
+- ZIP extension: 
+- State project ID: 34903
+- Latitude: 41.519007
+- Longitude: -88.146826
+- County FIPS: 17197
+- County from: 2020
+- Tract 2020: 17197883210
+- Tract 2010: 17197883210
+- Tract 2000: 17197883207
+- Tract 1990: 17197883207
+- Place 2020: 38570
+- Place 2010: 38570
+- Place 2000: 12476
+- Place 1990: 2865
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 359360
+- Units: 134
+- Low-income units: 134
+- Units reported: 134
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 134
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA THE PARK TOWERS.
+- Record status: Existing, unchanged

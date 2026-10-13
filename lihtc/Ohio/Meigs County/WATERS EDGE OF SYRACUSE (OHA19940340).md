@@ -1,0 +1,85 @@
+# Project: WATERS EDGE OF SYRACUSE (OHA19940340)
+
+- HUD ID: OHA19940340
+- HUD ID before: 
+- Project: WATERS EDGE OF SYRACUSE
+- Address: 2070 STATE RTE 124
+- City: RACINE
+- State: OH
+- ZIP: 45771
+- ZIP extension: 
+- State project ID: 932062
+- Latitude: 39.004898
+- Longitude: -81.978917
+- County FIPS: 39105
+- County from: 2020
+- Tract 2020: 39105964500
+- Tract 2010: 39105964500
+- Tract 2000: 39105964500
+- Tract 1990: 39105964500
+- Place 2020: 76050
+- Place 2010: 76050
+- Place 2000: 64024
+- Place 1990: 3510
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 27000
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WATER'S EDGE OF SYRACUSE.
+- Record status: Existing, unchanged

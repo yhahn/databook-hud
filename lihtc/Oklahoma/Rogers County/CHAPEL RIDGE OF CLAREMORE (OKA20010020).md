@@ -1,0 +1,85 @@
+# Project: CHAPEL RIDGE OF CLAREMORE (OKA20010020)
+
+- HUD ID: OKA20010020
+- HUD ID before: 
+- Project: CHAPEL RIDGE OF CLAREMORE
+- Address: 2500 FREDERICK RD
+- City: CLAREMORE
+- State: OK
+- ZIP: 74019
+- ZIP extension: 
+- State project ID: OK-00-08-52
+- Latitude: 36.28154
+- Longitude: -95.632603
+- County FIPS: 40131
+- County from: 2020
+- Tract 2020: 40131050101
+- Tract 2010: 40131050101
+- Tract 2000: 40131050101
+- Tract 1990: 40131050101
+- Place 2020: 14700
+- Place 2010: 14700
+- Place 2000: 14700
+- Place 1990: 0500
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 72
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LAWNDALE PLAZA (ILA00000113)
+
+- HUD ID: ILA00000113
+- HUD ID before: 
+- Project: LAWNDALE PLAZA
+- Address: 3158 W ROOSEVELT RD
+- City: CHICAGO
+- State: IL
+- ZIP: 60612
+- ZIP extension: 
+- State project ID: 10006
+- Latitude: 41.866603
+- Longitude: -87.704893
+- County FIPS: 17031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17031838600
+- Tract 2000: 17031290300
+- Tract 1990: 17031290300
+- Place 2020: 
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 2840062
+- Units: 198
+- Low-income units: 198
+- Units reported: 198
+- Low-income reported: 198
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 12
+- 3-bedroom units: 66
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 2840062
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

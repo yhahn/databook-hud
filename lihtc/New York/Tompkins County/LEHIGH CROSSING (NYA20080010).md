@@ -1,0 +1,85 @@
+# Project: LEHIGH CROSSING (NYA20080010)
+
+- HUD ID: NYA20080010
+- HUD ID before: 
+- Project: LEHIGH CROSSING
+- Address: 15 COOK ST
+- City: FREEVILLE
+- State: NY
+- ZIP: 13068
+- ZIP extension: 
+- State project ID: 20070053
+- Latitude: 42.514715
+- Longitude: -76.343517
+- County FIPS: 36109
+- County from: 2020
+- Tract 2020: 36109002100
+- Tract 2010: 36109002100
+- Tract 2000: 36109002100
+- Tract 1990: 36109002100
+- Place 2020: 27529
+- Place 2010: 27529
+- Place 2000: 27529
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 186019
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA1991205.
+- Record status: Existing, unchanged

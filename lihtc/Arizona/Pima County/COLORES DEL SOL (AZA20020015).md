@@ -1,0 +1,85 @@
+# Project: COLORES DEL SOL (AZA20020015)
+
+- HUD ID: AZA20020015
+- HUD ID before: 
+- Project: COLORES DEL SOL
+- Address: 5933 S SIXTH AVE
+- City: TUCSON
+- State: AZ
+- ZIP: 85706
+- ZIP extension: 
+- State project ID: TC-0195
+- Latitude: 32.144028
+- Longitude: -110.967811
+- County FIPS: 04019
+- County from: 2020
+- Tract 2020: 04019003702
+- Tract 2010: 04019003702
+- Tract 2000: 04019003702
+- Tract 1990: 04019003702
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 0380
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 125
+- Low-income units: 98
+- Units reported: 125
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 58
+- 3-bedroom units: 58
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000537.
+- Record status: Existing, unchanged

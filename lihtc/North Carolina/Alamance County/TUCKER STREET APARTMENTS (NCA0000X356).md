@@ -1,0 +1,85 @@
+# Project: TUCKER STREET APARTMENTS (NCA0000X356)
+
+- HUD ID: NCA0000X356
+- HUD ID before: 
+- Project: TUCKER STREET APARTMENTS
+- Address: 615 CENTER AVE
+- City: BURLINGTON
+- State: NC
+- ZIP: 27215
+- ZIP extension: 
+- State project ID: 9264324
+- Latitude: 36.080283
+- Longitude: -79.442152
+- County FIPS: 37001
+- County from: 2020
+- Tract 2020: 37001020100
+- Tract 2010: 37001020100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 09060
+- Place 2010: 09060
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 546804
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 51
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

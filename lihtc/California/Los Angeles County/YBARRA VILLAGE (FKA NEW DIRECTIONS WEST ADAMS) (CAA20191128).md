@@ -1,0 +1,85 @@
+# Project: YBARRA VILLAGE (FKA NEW DIRECTIONS WEST ADAMS) (CAA20191128)
+
+- HUD ID: CAA20191128
+- HUD ID before: 
+- Project: YBARRA VILLAGE (FKA NEW DIRECTIONS WEST ADAMS)
+- Address: 3015 - 3031 SOUTH WEST VIEW STREET
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90016
+- ZIP extension: 
+- State project ID: CA-2017-025
+- Latitude: 34.026401
+- Longitude: -118.353126
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037219700
+- Tract 2010: 06037219700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 2376620
+- Units: 64
+- Low-income units: 63
+- Units reported: 64
+- Low-income reported: 63
+- Efficiencies: 
+- 1-bedroom units: 51
+- 2-bedroom units: 13
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 46
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

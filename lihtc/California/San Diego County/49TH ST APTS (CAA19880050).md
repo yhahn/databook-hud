@@ -1,0 +1,85 @@
+# Project: 49TH ST APTS (CAA19880050)
+
+- HUD ID: CAA19880050
+- HUD ID before: 
+- Project: 49TH ST APTS
+- Address: 340 S 49TH ST
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92113
+- ZIP extension: 
+- State project ID: CA-88-100
+- Latitude: 32.701612
+- Longitude: -117.089511
+- County FIPS: 06073
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06073003305
+- Tract 2000: 06073003302
+- Tract 1990: 06073003300
+- Place 2020: 
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 55350
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0000180.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CROSS CREEK APTS III (OKA20119511)
+
+- HUD ID: OKA20119511
+- HUD ID before: 
+- Project: CROSS CREEK APTS III
+- Address: 6600 E 390 RD APT 6
+- City: OOLOGAH
+- State: OK
+- ZIP: 74053
+- ZIP extension: 
+- State project ID: OK-89-015
+- Latitude: 36.452205
+- Longitude: -95.711097
+- County FIPS: 40131
+- County from: 2020
+- Tract 2020: 40131050801
+- Tract 2010: 40131050801
+- Tract 2000: 40131050801
+- Tract 1990: 40131050401
+- Place 2020: 55750
+- Place 2010: 55750
+- Place 2000: 55700
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

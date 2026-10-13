@@ -1,0 +1,85 @@
+# Project: WINTER STREET HOUSING (MAB20060080)
+
+- HUD ID: MAB20060080
+- HUD ID before: 
+- Project: WINTER STREET HOUSING
+- Address: 81 WINTER ST
+- City: HAVERHILL
+- State: MA
+- ZIP: 01830
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.777507
+- Longitude: -71.079517
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009260100
+- Tract 2010: 25009260100
+- Tract 2000: 25009260100
+- Tract 1990: 25009260100
+- Place 2020: 29405
+- Place 2010: 29405
+- Place 2000: 29405
+- Place 1990: 1710
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 
+- Efficiencies: 52
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: Yes
+- CDBG amount: 100000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

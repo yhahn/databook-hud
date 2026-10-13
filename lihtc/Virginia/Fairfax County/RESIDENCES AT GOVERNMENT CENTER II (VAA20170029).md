@@ -1,0 +1,85 @@
+# Project: RESIDENCES AT GOVERNMENT CENTER II (VAA20170029)
+
+- HUD ID: VAA20170029
+- HUD ID before: 
+- Project: RESIDENCES AT GOVERNMENT CENTER II
+- Address: 11851 MONUMENT DRIVE
+- City: FAIRFAX
+- State: VA
+- ZIP: 22030
+- ZIP extension: 
+- State project ID: 9702
+- Latitude: 38.85616
+- Longitude: -77.353501
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059491703
+- Tract 2010: 51059491703
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26875
+- Place 2010: 26875
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 727426
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 20
+- 1-bedroom units: 56
+- 2-bedroom units: 36
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

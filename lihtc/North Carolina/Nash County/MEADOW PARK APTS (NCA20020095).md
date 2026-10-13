@@ -1,0 +1,85 @@
+# Project: MEADOW PARK APTS (NCA20020095)
+
+- HUD ID: NCA20020095
+- HUD ID before: 
+- Project: MEADOW PARK APTS
+- Address: 313 MEADOW PARK DRIVE
+- City: NASHVILLE
+- State: NC
+- ZIP: 27856
+- ZIP extension: 
+- State project ID: 9001298
+- Latitude: 35.963316
+- Longitude: -77.966678
+- County FIPS: 37127
+- County from: 2020
+- Tract 2020: 37127011103
+- Tract 2010: 37127011102
+- Tract 2000: 37127011100
+- Tract 1990: 37127011100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 1765
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 96078
+- Units: 25
+- Low-income units: 24
+- Units reported: 25
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

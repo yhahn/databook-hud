@@ -1,0 +1,85 @@
+# Project: RIDGECREST APTS (CAA19990774)
+
+- HUD ID: CAA19990774
+- HUD ID before: 
+- Project: RIDGECREST APTS
+- Address: 3250 PANORAMA RD
+- City: RIVERSIDE
+- State: CA
+- ZIP: 92506
+- ZIP extension: 
+- State project ID: CA-99-851
+- Latitude: 33.963784
+- Longitude: -117.379093
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065031100
+- Tract 2010: 06065031100
+- Tract 2000: 06065031100
+- Tract 1990: 06065031100
+- Place 2020: 62000
+- Place 2010: 62000
+- Place 2000: 62000
+- Place 1990: 2370
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 278420
+- Units: 148
+- Low-income units: 147
+- Units reported: 148
+- Low-income reported: 147
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 68
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

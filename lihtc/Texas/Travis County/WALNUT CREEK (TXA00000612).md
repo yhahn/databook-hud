@@ -1,0 +1,85 @@
+# Project: WALNUT CREEK (TXA00000612)
+
+- HUD ID: TXA00000612
+- HUD ID before: 
+- Project: WALNUT CREEK
+- Address: 6409 SPRINGDALE RD
+- City: AUSTIN
+- State: TX
+- ZIP: 78723
+- ZIP extension: 
+- State project ID: TX0059
+- Latitude: 30.306701
+- Longitude: -97.669616
+- County FIPS: 48453
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48453002108
+- Tract 2000: 48453002108
+- Tract 1990: 48453002108
+- Place 2020: 
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0210
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 98
+- Low-income units: 98
+- Units reported: 98
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

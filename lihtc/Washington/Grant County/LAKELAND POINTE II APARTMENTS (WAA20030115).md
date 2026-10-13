@@ -1,0 +1,85 @@
+# Project: LAKELAND POINTE II APARTMENTS (WAA20030115)
+
+- HUD ID: WAA20030115
+- HUD ID before: 
+- Project: LAKELAND POINTE II APARTMENTS
+- Address: 801 NORTH EVELYN DRIVE
+- City: MOSES LAKE
+- State: WA
+- ZIP: 98837
+- ZIP extension: 
+- State project ID: 01-80
+- Latitude: 47.140764
+- Longitude: -119.285901
+- County FIPS: 53025
+- County from: 2020
+- Tract 2020: 53025010903
+- Tract 2010: 53025010902
+- Tract 2000: 53025980900
+- Tract 1990: 53025980900
+- Place 2020: 47245
+- Place 2010: 47245
+- Place 2000: 47245
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 253500
+- Units: 26
+- Low-income units: 25
+- Units reported: 26
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 11
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: LARGE FAMILY
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

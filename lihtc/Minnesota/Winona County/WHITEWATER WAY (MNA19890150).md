@@ -1,0 +1,85 @@
+# Project: WHITEWATER WAY (MNA19890150)
+
+- HUD ID: MNA19890150
+- HUD ID before: 
+- Project: WHITEWATER WAY
+- Address: 418 WABASHA AVE
+- City: ST CHARLES
+- State: MN
+- ZIP: 55972
+- ZIP extension: 
+- State project ID: MN-89-010
+- Latitude: 43.973872
+- Longitude: -92.068234
+- County FIPS: 27169
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27169671000
+- Tract 2000: 27169971000
+- Tract 1990: 27169971000
+- Place 2020: 
+- Place 2010: 56788
+- Place 2000: 56788
+- Place 1990: 3370
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

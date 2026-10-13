@@ -1,0 +1,85 @@
+# Project: KENSINGTON ASSOC APTS II (TNA20080511)
+
+- HUD ID: TNA20080511
+- HUD ID before: 
+- Project: KENSINGTON ASSOC APTS II
+- Address: 427 TAMMY DR
+- City: POWELL
+- State: TN
+- ZIP: 37849
+- ZIP extension: 
+- State project ID: TN-08-215
+- Latitude: 36.053011
+- Longitude: -84.007384
+- County FIPS: 47093
+- County from: 2020
+- Tract 2020: 47093006102
+- Tract 2010: 47093006102
+- Tract 2000: 47093006102
+- Tract 1990: 47093006102
+- Place 2020: 60480
+- Place 2010: 99999
+- Place 2000: 40000
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 107732
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2008053.
+- Record status: Existing, unchanged

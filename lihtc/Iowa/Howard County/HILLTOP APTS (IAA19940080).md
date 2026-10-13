@@ -1,0 +1,85 @@
+# Project: HILLTOP APTS (IAA19940080)
+
+- HUD ID: IAA19940080
+- HUD ID before: IAA19940080
+- Project: HILLTOP APTS
+- Address: 454 N MILLER ST
+- City: LIME SPRINGS
+- State: IA
+- ZIP: 52155
+- ZIP extension: 
+- State project ID: 93-07
+- Latitude: 43.452678
+- Longitude: -92.278639
+- County FIPS: 19089
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19089960200
+- Tract 2000: 19089960200
+- Tract 1990: 19089960200
+- Place 2020: 
+- Place 2010: 45165
+- Place 2000: 45165
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 18292
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS IAA19940080;PIN=93-07;
+- Record status: Existing, unchanged

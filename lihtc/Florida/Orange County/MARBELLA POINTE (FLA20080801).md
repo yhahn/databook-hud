@@ -1,0 +1,85 @@
+# Project: MARBELLA POINTE (FLA20080801)
+
+- HUD ID: FLA20080801
+- HUD ID before: 
+- Project: MARBELLA POINTE
+- Address: 7528 MARBELLA POINTE DRIVE
+- City: ORLANDO
+- State: FL
+- ZIP: 32822
+- ZIP extension: 
+- State project ID: 1853
+- Latitude: 28.504571
+- Longitude: -81.286166
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095013505
+- Tract 2010: 12095013505
+- Tract 2000: 12095013505
+- Tract 1990: 12095013501
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 53000
+- Place 1990: 1600
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 812235
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 0
+- 3-bedroom units: 76
+- 4-bedroom units: 24
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

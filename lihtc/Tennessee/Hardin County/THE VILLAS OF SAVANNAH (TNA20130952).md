@@ -1,0 +1,85 @@
+# Project: THE VILLAS OF SAVANNAH (TNA20130952)
+
+- HUD ID: TNA20130952
+- HUD ID before: 
+- Project: THE VILLAS OF SAVANNAH
+- Address: 170 STERLING LN
+- City: SAVANNAH
+- State: TN
+- ZIP: 38372
+- ZIP extension: 
+- State project ID: TN-12-444
+- Latitude: 35.2327
+- Longitude: -88.2268
+- County FIPS: 47071
+- County from: 2020
+- Tract 2020: 47071920401
+- Tract 2010: 47071920300
+- Tract 2000: 47071980400
+- Tract 1990: 47071980400
+- Place 2020: 66720
+- Place 2010: 66720
+- Place 2000: 66720
+- Place 1990: 1265
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

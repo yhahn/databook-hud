@@ -1,0 +1,85 @@
+# Project: SANDHILL APTS (ORA20100105)
+
+- HUD ID: ORA20100105
+- HUD ID before: 
+- Project: SANDHILL APTS
+- Address: 150 S WAHANNA RD
+- City: SEASIDE
+- State: OR
+- ZIP: 97138
+- ZIP extension: 
+- State project ID: R000-003
+- Latitude: 45.992348
+- Longitude: -123.912253
+- County FIPS: 41007
+- County from: 2020
+- Tract 2020: 41007950900
+- Tract 2010: 41007950900
+- Tract 2000: 41007950900
+- Tract 1990: 41007950900
+- Place 2020: 65950
+- Place 2010: 65950
+- Place 2000: 65950
+- Place 1990: 1035
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 294401
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2502406
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

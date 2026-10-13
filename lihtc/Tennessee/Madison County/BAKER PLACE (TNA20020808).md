@@ -1,0 +1,85 @@
+# Project: BAKER PLACE (TNA20020808)
+
+- HUD ID: TNA20020808
+- HUD ID before: 
+- Project: BAKER PLACE
+- Address: 216 HALE ST
+- City: JACKSON
+- State: TN
+- ZIP: 38301
+- ZIP extension: 
+- State project ID: TN-00-015
+- Latitude: 35.622392
+- Longitude: -88.81671
+- County FIPS: 47113
+- County from: 2020
+- Tract 2020: 47113000800
+- Tract 2010: 47113000800
+- Tract 2000: 47113000800
+- Tract 1990: 47113000800
+- Place 2020: 37640
+- Place 2010: 37640
+- Place 2000: 37640
+- Place 1990: 0705
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 287810
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 23
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2003015, TNA2002130.
+- Record status: Existing, unchanged

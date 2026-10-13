@@ -1,0 +1,85 @@
+# Project: AMBER RUN OF WARRENTON (GAA19940010)
+
+- HUD ID: GAA19940010
+- HUD ID before: 
+- Project: AMBER RUN OF WARRENTON
+- Address: 101 AMBER RUN CT
+- City: WARRENTON
+- State: GA
+- ZIP: 30828
+- ZIP extension: 8859
+- State project ID: GA-92-020
+- Latitude: 33.41222
+- Longitude: -82.651682
+- County FIPS: 13301
+- County from: 2020
+- Tract 2020: 13301970400
+- Tract 2010: 13301970400
+- Tract 2000: 13301970400
+- Tract 1990: 13301970400
+- Place 2020: 80592
+- Place 2010: 80592
+- Place 2000: 80592
+- Place 1990: 2975
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

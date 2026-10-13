@@ -1,0 +1,85 @@
+# Project: DE ANZA APTS II (CAA20120856)
+
+- HUD ID: CAA20120856
+- HUD ID before: 
+- Project: DE ANZA APTS II
+- Address: 444 ROCKWOOD AVE
+- City: CALEXICO
+- State: CA
+- ZIP: 92231
+- ZIP extension: 
+- State project ID: CA-11-906
+- Latitude: 32.669348
+- Longitude: -115.496088
+- County FIPS: 06025
+- County from: 2020
+- Tract 2020: 06025012101
+- Tract 2010: 06025012100
+- Tract 2000: 06025012100
+- Tract 1990: 06025012100
+- Place 2020: 09710
+- Place 2010: 09710
+- Place 2000: 09710
+- Place 1990: 0365
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 365224
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 53
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 53
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 5000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA EL QUINTERO APTS.
+- Record status: Existing, unchanged

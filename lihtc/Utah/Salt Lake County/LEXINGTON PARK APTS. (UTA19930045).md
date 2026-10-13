@@ -1,0 +1,85 @@
+# Project: LEXINGTON PARK APTS. (UTA19930045)
+
+- HUD ID: UTA19930045
+- HUD ID before: 
+- Project: LEXINGTON PARK APTS.
+- Address: 2293 LEXINGTON PARK DRIVE
+- City: WEST VALLEY CITY
+- State: UT
+- ZIP: 84119
+- ZIP extension: 0000
+- State project ID: 1991-03
+- Latitude: 40.691881
+- Longitude: -111.948712
+- County FIPS: 49035
+- County from: 2020
+- Tract 2020: 49035113314
+- Tract 2010: 49035113306
+- Tract 2000: 49035113306
+- Tract 1990: 49035113306
+- Place 2020: 83470
+- Place 2010: 83470
+- Place 2000: 83470
+- Place 1990: 1082
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 319980
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

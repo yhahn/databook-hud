@@ -1,0 +1,85 @@
+# Project: GREEN TWIG VILLAS (MNB20161008)
+
+- HUD ID: MNB20161008
+- HUD ID before: 
+- Project: GREEN TWIG VILLAS
+- Address: 13865 UPPER 58TH STREET NORTH
+- City: STILLWATER
+- State: MN
+- ZIP: 55082
+- ZIP extension: 7061
+- State project ID: D7912
+- Latitude: 45.032539
+- Longitude: -92.825016
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163070706
+- Tract 2010: 27163070701
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 47914
+- Place 2010: 47914
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 330057
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 27
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

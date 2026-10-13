@@ -1,0 +1,85 @@
+# Project: 12TH AND ELATI RESIDENCES (COA20080005)
+
+- HUD ID: COA20080005
+- HUD ID before: 
+- Project: 12TH AND ELATI RESIDENCES
+- Address: 420 W 12TH AVE
+- City: DENVER
+- State: CO
+- ZIP: 80204
+- ZIP extension: 
+- State project ID: 2005036
+- Latitude: 39.735126
+- Longitude: -104.993638
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031002000
+- Tract 2010: 08031002000
+- Tract 2000: 08031002000
+- Tract 1990: 08031002000
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 20000
+- Place 1990: 0320
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1046668
+- Units: 63
+- Low-income units: 63
+- Units reported: 63
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 53
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

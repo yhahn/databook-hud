@@ -1,0 +1,85 @@
+# Project: LIBERTY PLAZA (OHA20070077)
+
+- HUD ID: OHA20070077
+- HUD ID before: 
+- Project: LIBERTY PLAZA
+- Address: 253 ABBEYVILLE RD
+- City: MEDINA
+- State: OH
+- ZIP: 44256
+- ZIP extension: 
+- State project ID: 05-0103
+- Latitude: 41.143281
+- Longitude: -81.89396
+- County FIPS: 39103
+- County from: 2020
+- Tract 2020: 39103408201
+- Tract 2010: 39103408201
+- Tract 2000: 39103408200
+- Tract 1990: 39103408200
+- Place 2020: 48790
+- Place 2010: 48790
+- Place 2000: 48790
+- Place 1990: 2560
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 106
+- Low-income units: 106
+- Units reported: 106
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 76
+- 3-bedroom units: 22
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007753. AKA LIBERTY PLAZA II.
+- Record status: Existing, unchanged

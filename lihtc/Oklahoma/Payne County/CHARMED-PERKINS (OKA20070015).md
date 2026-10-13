@@ -1,0 +1,85 @@
+# Project: CHARMED-PERKINS (OKA20070015)
+
+- HUD ID: OKA20070015
+- HUD ID before: 
+- Project: CHARMED-PERKINS
+- Address: 213 LYNN COMBS BLVD
+- City: PERKINS
+- State: OK
+- ZIP: 74059
+- ZIP extension: 
+- State project ID: 060101
+- Latitude: 35.973113
+- Longitude: -97.021807
+- County FIPS: 40119
+- County from: 2020
+- Tract 2020: 40119011104
+- Tract 2010: 40119011102
+- Tract 2000: 40119011100
+- Tract 1990: 40119011100
+- Place 2020: 58150
+- Place 2010: 58150
+- Place 2000: 29400
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 456670
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 580000
+- CDBG: Yes
+- CDBG amount: 705000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

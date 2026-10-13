@@ -1,0 +1,85 @@
+# Project: SHADY LANE APTS (MSA20140110)
+
+- HUD ID: MSA20140110
+- HUD ID before: 
+- Project: SHADY LANE APTS
+- Address: 740 SHADY DR
+- City: YAZOO CITY
+- State: MS
+- ZIP: 39194
+- ZIP extension: 
+- State project ID: MS-14-T-001
+- Latitude: 32.864271
+- Longitude: -90.414478
+- County FIPS: 28163
+- County from: 2020
+- Tract 2020: 28163950300
+- Tract 2010: 28163950300
+- Tract 2000: 28163950300
+- Tract 1990: 28163950300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 81520
+- Place 1990: 1480
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 355873
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 60
+- 3-bedroom units: 48
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BUCCANEER VILLAS (FLA19930030)
+
+- HUD ID: FLA19930030
+- HUD ID before: 
+- Project: BUCCANEER VILLAS
+- Address: 1100 LIME ST
+- City: FERNANDINA BEACH
+- State: FL
+- ZIP: 32034
+- ZIP extension: 
+- State project ID: 114
+- Latitude: 30.655107
+- Longitude: -81.457764
+- County FIPS: 12089
+- County from: 2020
+- Tract 2020: 12089050204
+- Tract 2010: 12089050202
+- Tract 2000: 12089050200
+- Tract 1990: 12089050200
+- Place 2020: 22175
+- Place 2010: 22175
+- Place 2000: 22175
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 46
+- Units reported: 48
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

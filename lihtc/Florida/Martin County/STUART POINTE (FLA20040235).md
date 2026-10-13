@@ -1,0 +1,85 @@
+# Project: STUART POINTE (FLA20040235)
+
+- HUD ID: FLA20040235
+- HUD ID before: 
+- Project: STUART POINTE
+- Address: 3521 NW TREASURE COAST DR
+- City: JENSEN BEACH
+- State: FL
+- ZIP: 34957
+- ZIP extension: 
+- State project ID: 1100
+- Latitude: 27.248545
+- Longitude: -80.276716
+- County FIPS: 12085
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12085000300
+- Tract 2000: 12085000300
+- Tract 1990: 12085000300
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 49750
+- Place 1990: 1524
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 192
+- Low-income units: 191
+- Units reported: 192
+- Low-income reported: 191
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 96
+- 3-bedroom units: 16
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

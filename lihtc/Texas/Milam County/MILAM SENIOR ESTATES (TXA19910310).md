@@ -1,0 +1,85 @@
+# Project: MILAM SENIOR ESTATES (TXA19910310)
+
+- HUD ID: TXA19910310
+- HUD ID before: 
+- Project: MILAM SENIOR ESTATES
+- Address: 1100 N CROCKETT AVE
+- City: CAMERON
+- State: TX
+- ZIP: 76520
+- ZIP extension: 
+- State project ID: TX0941
+- Latitude: 30.859248
+- Longitude: -96.976143
+- County FIPS: 48331
+- County from: 2020
+- Tract 2020: 48331950402
+- Tract 2010: 48331950402
+- Tract 2000: 48331950400
+- Tract 1990: 48331950400
+- Place 2020: 12040
+- Place 2010: 12040
+- Place 2000: 12040
+- Place 1990: 0695
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

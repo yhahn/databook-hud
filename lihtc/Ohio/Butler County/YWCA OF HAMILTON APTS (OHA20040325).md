@@ -1,0 +1,85 @@
+# Project: YWCA OF HAMILTON APTS (OHA20040325)
+
+- HUD ID: OHA20040325
+- HUD ID before: 
+- Project: YWCA OF HAMILTON APTS
+- Address: 244 DAYTON ST
+- City: HAMILTON
+- State: OH
+- ZIP: 45011
+- ZIP extension: 
+- State project ID: 020015
+- Latitude: 39.401671
+- Longitude: -84.559963
+- County FIPS: 39017
+- County from: 2020
+- Tract 2020: 39017014600
+- Tract 2010: 39017014600
+- Tract 2000: 39017000701
+- Tract 1990: 39017000701
+- Place 2020: 33012
+- Place 2010: 33012
+- Place 2000: 33012
+- Place 1990: 1705
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 37
+- Units reported: 38
+- Low-income reported: 37
+- Efficiencies: 38
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 251000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

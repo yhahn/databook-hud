@@ -1,0 +1,85 @@
+# Project: SOUTHWOOD CROSSING APTS II (TXA20070260)
+
+- HUD ID: TXA20070260
+- HUD ID before: 
+- Project: SOUTHWOOD CROSSING APTS II
+- Address: 3901 HWY 73
+- City: PORT ARTHUR
+- State: TX
+- ZIP: 77642
+- ZIP extension: 
+- State project ID: TX4414
+- Latitude: 29.927799
+- Longitude: -93.944033
+- County FIPS: 48245
+- County from: 2020
+- Tract 2020: 48245007002
+- Tract 2010: 48245007002
+- Tract 2000: 48245007002
+- Tract 1990: 48245007002
+- Place 2020: 58820
+- Place 2010: 58820
+- Place 2000: 58820
+- Place 1990: 3335
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 540416
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 40
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

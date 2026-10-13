@@ -1,0 +1,85 @@
+# Project: POINSETTIA APTS (CAA19890328)
+
+- HUD ID: CAA19890328
+- HUD ID before: 
+- Project: POINSETTIA APTS
+- Address: 1530 N POINSETTIA PL
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90046
+- ZIP extension: 
+- State project ID: CA-89-349
+- Latitude: 34.098637
+- Longitude: -118.347671
+- County FIPS: 06037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06037189904
+- Tract 2000: 06037189901
+- Tract 1990: 06037189901
+- Place 2020: 
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 115553
+- Units: 136
+- Low-income units: 28
+- Units reported: 136
+- Low-income reported: 28
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MAIN STREET HOUSES (NYA19950230)
+
+- HUD ID: NYA19950230
+- HUD ID before: 
+- Project: MAIN STREET HOUSES
+- Address: 62 MAIN ST
+- City: SOUTH FALLSBURG
+- State: NY
+- ZIP: 12779
+- ZIP extension: 
+- State project ID: 19901544
+- Latitude: 41.708781
+- Longitude: -74.629119
+- County FIPS: 36105
+- County from: 2020
+- Tract 2020: 36105951000
+- Tract 2010: 36105951000
+- Tract 2000: 36105951000
+- Tract 1990: 36105951000
+- Place 2020: 68968
+- Place 2010: 68968
+- Place 2000: 68968
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 28
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

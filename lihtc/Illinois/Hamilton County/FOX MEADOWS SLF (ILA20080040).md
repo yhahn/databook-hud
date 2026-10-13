@@ -1,0 +1,85 @@
+# Project: FOX MEADOWS SLF (ILA20080040)
+
+- HUD ID: ILA20080040
+- HUD ID before: 
+- Project: FOX MEADOWS SLF
+- Address: 605 S MARSHALL AVE
+- City: MC LEANSBORO
+- State: IL
+- ZIP: 62859
+- ZIP extension: 
+- State project ID: 279407
+- Latitude: 38.088386
+- Longitude: -88.541014
+- County FIPS: 17065
+- County from: 2020
+- Tract 2020: 17065973100
+- Tract 2010: 17065973100
+- Tract 2000: 17065973100
+- Tract 1990: 17065973100
+- Place 2020: 45824
+- Place 2010: 45824
+- Place 2000: 45824
+- Place 1990: 3415
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1465715
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 21
+- 1-bedroom units: 20
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HERITAGE WOODS OF MCLEANSBORO.
+- Record status: Existing, unchanged

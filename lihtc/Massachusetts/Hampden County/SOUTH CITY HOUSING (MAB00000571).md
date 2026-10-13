@@ -1,0 +1,85 @@
+# Project: SOUTH CITY HOUSING (MAB00000571)
+
+- HUD ID: MAB00000571
+- HUD ID before: 
+- Project: SOUTH CITY HOUSING
+- Address: 344 MAIN ST
+- City: HOLYOKE
+- State: MA
+- ZIP: 01040
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.199728
+- Longitude: -72.607005
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013811500
+- Tract 2010: 25013811500
+- Tract 2000: 25013811500
+- Tract 1990: 25013811500
+- Place 2020: 30840
+- Place 2010: 30840
+- Place 2000: 30840
+- Place 1990: 1830
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 38
+- 3-bedroom units: 18
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

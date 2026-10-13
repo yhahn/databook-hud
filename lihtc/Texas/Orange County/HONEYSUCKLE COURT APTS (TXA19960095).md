@@ -1,0 +1,85 @@
+# Project: HONEYSUCKLE COURT APTS (TXA19960095)
+
+- HUD ID: TXA19960095
+- HUD ID before: 
+- Project: HONEYSUCKLE COURT APTS
+- Address: 600 S MAIN ST
+- City: VIDOR
+- State: TX
+- ZIP: 77662
+- ZIP extension: 
+- State project ID: TX1279
+- Latitude: 30.117821
+- Longitude: -94.009209
+- County FIPS: 48361
+- County from: 2020
+- Tract 2020: 48361022000
+- Tract 2010: 48361022000
+- Tract 2000: 48361022000
+- Tract 1990: 48361022000
+- Place 2020: 75476
+- Place 2010: 75476
+- Place 2000: 63200
+- Place 1990: 4407
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

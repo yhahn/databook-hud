@@ -1,0 +1,85 @@
+# Project: MUSICIANS TOWERS (OHA19890440)
+
+- HUD ID: OHA19890440
+- HUD ID before: 
+- Project: MUSICIANS TOWERS
+- Address: 2727 LANCASHIRE RD
+- City: CLEVELAND HEIGHTS
+- State: OH
+- ZIP: 44106
+- ZIP extension: 
+- State project ID: OH-89-0421
+- Latitude: 41.5087
+- Longitude: -81.582645
+- County FIPS: 39035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39035141100
+- Tract 2000: 39035141100
+- Tract 1990: 39035141100
+- Place 2020: 
+- Place 2010: 16014
+- Place 2000: 16014
+- Place 1990: 0905
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

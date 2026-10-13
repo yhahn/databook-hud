@@ -1,0 +1,85 @@
+# Project: LINCOLN PARK 1-B (OHA20080130)
+
+- HUD ID: OHA20080130
+- HUD ID before: 
+- Project: LINCOLN PARK 1-B
+- Address: 314 LINCOLN PARK CIR
+- City: SPRINGFIELD
+- State: OH
+- ZIP: 45505
+- ZIP extension: 
+- State project ID: 060159
+- Latitude: 39.902883
+- Longitude: -83.806051
+- County FIPS: 39023
+- County from: 2020
+- Tract 2020: 39023001200
+- Tract 2010: 39023001200
+- Tract 2000: 39023001200
+- Tract 1990: 39023001200
+- Place 2020: 74118
+- Place 2010: 74118
+- Place 2000: 74118
+- Place 1990: 4100
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 41
+- 3-bedroom units: 4
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

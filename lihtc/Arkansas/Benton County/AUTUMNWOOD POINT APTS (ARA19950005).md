@@ -1,0 +1,85 @@
+# Project: AUTUMNWOOD POINT APTS (ARA19950005)
+
+- HUD ID: ARA19950005
+- HUD ID before: 
+- Project: AUTUMNWOOD POINT APTS
+- Address: 908 W GREEN ACRES DR
+- City: ROGERS
+- State: AR
+- ZIP: 72758
+- ZIP extension: 
+- State project ID: AR-95-05
+- Latitude: 36.306553
+- Longitude: -94.129169
+- County FIPS: 05007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05007020404
+- Tract 2000: 05007020403
+- Tract 1990: 05007020403
+- Place 2020: 
+- Place 2010: 60410
+- Place 2000: 41720
+- Place 1990: 1745
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 138402
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ROGERS SENIOR CITIZEN APTS.
+- Record status: Existing, unchanged

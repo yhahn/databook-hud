@@ -1,0 +1,85 @@
+# Project: ALLEN CANAL (VTA19990005)
+
+- HUD ID: VTA19990005
+- HUD ID before: 
+- Project: ALLEN CANAL
+- Address: 51 W ALLEN ST
+- City: WINOOSKI
+- State: VT
+- ZIP: 05404
+- ZIP extension: 
+- State project ID: 0013
+- Latitude: 44.491596
+- Longitude: -73.188678
+- County FIPS: 50007
+- County from: 2020
+- Tract 2020: 50007002502
+- Tract 2010: 50007002500
+- Tract 2000: 50007002500
+- Tract 1990: 50007002500
+- Place 2020: 85150
+- Place 2010: 85150
+- Place 2000: 85150
+- Place 1990: 3160
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 28610
+- Units: 17
+- Low-income units: 16
+- Units reported: 17
+- Low-income reported: 16
+- Efficiencies: 1
+- 1-bedroom units: 3
+- 2-bedroom units: 0
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

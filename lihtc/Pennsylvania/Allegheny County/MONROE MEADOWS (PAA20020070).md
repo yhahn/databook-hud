@@ -1,0 +1,85 @@
+# Project: MONROE MEADOWS (PAA20020070)
+
+- HUD ID: PAA20020070
+- HUD ID before: 
+- Project: MONROE MEADOWS
+- Address: 200 TREFOIL CT
+- City: MONROEVILLE
+- State: PA
+- ZIP: 15146
+- ZIP extension: 
+- State project ID: TC20000039
+- Latitude: 40.425224
+- Longitude: -79.759643
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003521301
+- Tract 2010: 42003521301
+- Tract 2000: 42003521301
+- Tract 1990: 42003521301
+- Place 2020: 50528
+- Place 2010: 50528
+- Place 2000: 52330
+- Place 1990: 6685
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 431238
+- Units: 48
+- Low-income units: 39
+- Units reported: 48
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1928820
+- CDBG: Yes
+- CDBG amount: 940500
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

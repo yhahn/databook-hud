@@ -1,0 +1,85 @@
+# Project: COLONIAL SQUARE (PAA19940105)
+
+- HUD ID: PAA19940105
+- HUD ID before: 
+- Project: COLONIAL SQUARE
+- Address: 45 W PHILLIPS ST
+- City: COALDALE
+- State: PA
+- ZIP: 18218
+- ZIP extension: 
+- State project ID: TC19920075
+- Latitude: 40.822675
+- Longitude: -75.908059
+- County FIPS: 42107
+- County from: 2020
+- Tract 2020: 42107002800
+- Tract 2010: 42107002800
+- Tract 2000: 42107002800
+- Tract 1990: 42107002800
+- Place 2020: 14600
+- Place 2010: 14600
+- Place 2000: 14600
+- Place 1990: 2105
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 62421
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Existing, unchanged

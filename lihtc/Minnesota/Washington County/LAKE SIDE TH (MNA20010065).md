@@ -1,0 +1,85 @@
+# Project: LAKE SIDE TH (MNA20010065)
+
+- HUD ID: MNA20010065
+- HUD ID before: 
+- Project: LAKE SIDE TH
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: WOODBURY
+- State: MN
+- ZIP: 55129
+- ZIP extension: 
+- State project ID: D2733
+- Latitude: 44.8909
+- Longitude: -92.8829
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163071022
+- Tract 2010: 27163071018
+- Tract 2000: 27163071017
+- Tract 1990: 27163071005
+- Place 2020: 71428
+- Place 2010: 71428
+- Place 2000: 71428
+- Place 1990: 4173
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 32
+- Units reported: 36
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 15
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LAKESIDE TOWN HOMES.
+- Record status: Existing, unchanged

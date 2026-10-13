@@ -1,0 +1,85 @@
+# Project: LAKES OF GEORGETOWN (INA20040047)
+
+- HUD ID: INA20040047
+- HUD ID before: 
+- Project: LAKES OF GEORGETOWN
+- Address: 6335 SANDYSIDE DR S
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46268
+- ZIP extension: 
+- State project ID: IN-01-02000
+- Latitude: 39.870032
+- Longitude: -86.243495
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097310203
+- Tract 2010: 18097310203
+- Tract 2000: 18097310202
+- Tract 1990: 18097310200
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 368256
+- Units: 208
+- Low-income units: 152
+- Units reported: 208
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 76
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

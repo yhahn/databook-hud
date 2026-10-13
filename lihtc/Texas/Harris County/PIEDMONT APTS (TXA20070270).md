@@ -1,0 +1,85 @@
+# Project: PIEDMONT APTS (TXA20070270)
+
+- HUD ID: TXA20070270
+- HUD ID before: 
+- Project: PIEDMONT APTS
+- Address: 7510 DECKER DR
+- City: BAYTOWN
+- State: TX
+- ZIP: 77520
+- ZIP extension: 
+- State project ID: TX4341
+- Latitude: 29.789659
+- Longitude: -95.050557
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201253202
+- Tract 2010: 48201253200
+- Tract 2000: 48201253200
+- Tract 1990: 48201026100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 06128
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1069209
+- Units: 250
+- Low-income units: 250
+- Units reported: 250
+- Low-income reported: 250
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 112
+- 3-bedroom units: 86
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ALBANY RAD (GAA20220001)
+
+- HUD ID: GAA20220001
+- HUD ID before: 
+- Project: ALBANY RAD
+- Address: 600 W TIFT AVE
+- City: ALBANY
+- State: GA
+- ZIP: 31705
+- ZIP extension: 0000
+- State project ID: 2018-543
+- Latitude: 31.584422
+- Longitude: -84.16198
+- County FIPS: 13095
+- County from: 2020
+- Tract 2020: 13095000800
+- Tract 2010: 13095000800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 01052
+- Place 2010: 01052
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 1124028
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 13
+- 1-bedroom units: 90
+- 2-bedroom units: 99
+- 3-bedroom units: 66
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

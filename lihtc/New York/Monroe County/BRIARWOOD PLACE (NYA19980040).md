@@ -1,0 +1,85 @@
+# Project: BRIARWOOD PLACE (NYA19980040)
+
+- HUD ID: NYA19980040
+- HUD ID before: 
+- Project: BRIARWOOD PLACE
+- Address: 8 NATHANIEL DR
+- City: SCOTTSVILLE
+- State: NY
+- ZIP: 14546
+- ZIP extension: 
+- State project ID: 19970437
+- Latitude: 43.026582
+- Longitude: -77.755147
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055014700
+- Tract 2010: 36055014700
+- Tract 2000: 36055014700
+- Tract 1990: 36055014700
+- Place 2020: 65959
+- Place 2010: 65959
+- Place 2000: 65959
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

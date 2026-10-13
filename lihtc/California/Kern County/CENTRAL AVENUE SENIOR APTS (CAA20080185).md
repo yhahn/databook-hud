@@ -1,0 +1,85 @@
+# Project: CENTRAL AVENUE SENIOR APTS (CAA20080185)
+
+- HUD ID: CAA20080185
+- HUD ID before: 
+- Project: CENTRAL AVENUE SENIOR APTS
+- Address: 300 CENTRAL AVE
+- City: WASCO
+- State: CA
+- ZIP: 93280
+- ZIP extension: 
+- State project ID: CA-06-914
+- Latitude: 35.599028
+- Longitude: -119.357928
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029004403
+- Tract 2010: 06029004401
+- Tract 2000: 06029004401
+- Tract 1990: 06029004400
+- Place 2020: 83542
+- Place 2010: 83542
+- Place 2000: 83542
+- Place 1990: 3045
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 250695
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

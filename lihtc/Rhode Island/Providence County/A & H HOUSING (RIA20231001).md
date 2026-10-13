@@ -1,0 +1,85 @@
+# Project: A & H HOUSING (RIA20231001)
+
+- HUD ID: RIA20231001
+- HUD ID before: 
+- Project: A & H HOUSING
+- Address: 5 MAIN STREET
+- City: CUMBERLAND
+- State: RI
+- ZIP: 02864
+- ZIP extension: 
+- State project ID: RI-23-208
+- Latitude: 41.914164
+- Longitude: -71.399618
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007011200
+- Tract 2010: 44007011200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 72500
+- Place 2010: 72500
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 79
+- Low-income units: 79
+- Units reported: 79
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 23
+- 3-bedroom units: 32
+- 4-bedroom units: 7
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 33
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

@@ -1,0 +1,85 @@
+# Project: BRIARWOOD APTS - TULLAHOMA (TNA20040801)
+
+- HUD ID: TNA20040801
+- HUD ID before: 
+- Project: BRIARWOOD APTS - TULLAHOMA
+- Address: 121 SILVER ST
+- City: TULLAHOMA
+- State: TN
+- ZIP: 37388
+- ZIP extension: 
+- State project ID: TN-02-033
+- Latitude: 35.374149
+- Longitude: -86.186642
+- County FIPS: 47031
+- County from: 2020
+- Tract 2020: 47031970900
+- Tract 2010: 47031970900
+- Tract 2000: 47031970900
+- Tract 1990: 47031970900
+- Place 2020: 75320
+- Place 2010: 75320
+- Place 2000: 75320
+- Place 1990: 1465
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 456497
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 56
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

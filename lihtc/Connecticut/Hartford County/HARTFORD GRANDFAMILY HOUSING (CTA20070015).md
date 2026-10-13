@@ -1,0 +1,85 @@
+# Project: HARTFORD GRANDFAMILY HOUSING (CTA20070015)
+
+- HUD ID: CTA20070015
+- HUD ID before: 
+- Project: HARTFORD GRANDFAMILY HOUSING
+- Address: 35 CLARK ST
+- City: HARTFORD
+- State: CT
+- ZIP: 06120
+- ZIP extension: 
+- State project ID: CT-05-012
+- Latitude: 41.785927
+- Longitude: -72.677885
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003501300
+- Tract 2010: 09003501300
+- Tract 2000: 09003501300
+- Tract 1990: 09003501300
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 0970
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 644878
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 6
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 863444
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA0000120. AKA GENERATIONS APTS, 35 CLARK STREET LP.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUSTAINABLE FELLWOOD PHASE III (GAA20110135)
+
+- HUD ID: GAA20110135
+- HUD ID before: 
+- Project: SUSTAINABLE FELLWOOD PHASE III
+- Address: 40 EAGLE ST
+- City: SAVANNAH
+- State: GA
+- ZIP: 31415
+- ZIP extension: 
+- State project ID: 0017-111
+- Latitude: 32.086465
+- Longitude: -81.115273
+- County FIPS: 13051
+- County from: 2020
+- Tract 2020: 13051000601
+- Tract 2010: 13051000601
+- Tract 2000: 13051000601
+- Tract 1990: 13051000601
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 69000
+- Place 1990: 2540
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 70
+- Units reported: 100
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

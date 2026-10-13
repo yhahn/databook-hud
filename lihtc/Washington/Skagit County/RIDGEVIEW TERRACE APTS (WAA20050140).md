@@ -1,0 +1,85 @@
+# Project: RIDGEVIEW TERRACE APTS (WAA20050140)
+
+- HUD ID: WAA20050140
+- HUD ID before: 
+- Project: RIDGEVIEW TERRACE APTS
+- Address: 1500 WILLIAM WAY
+- City: MT VERNON
+- State: WA
+- ZIP: 98273
+- ZIP extension: 
+- State project ID: WA-04-00192
+- Latitude: 48.43254
+- Longitude: -122.322184
+- County FIPS: 53057
+- County from: 2020
+- Tract 2020: 53057952200
+- Tract 2010: 53057952200
+- Tract 2000: 53057952200
+- Tract 1990: 53057952200
+- Place 2020: 47560
+- Place 2010: 47560
+- Place 2000: 47560
+- Place 1990: 0820
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 241772
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 73
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 68
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

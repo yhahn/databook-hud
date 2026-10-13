@@ -1,0 +1,85 @@
+# Project: IW WEST (WIA20050065)
+
+- HUD ID: WIA20050065
+- HUD ID before: 
+- Project: IW WEST
+- Address: 333 E SEVENTH ST
+- City: WESTFIELD
+- State: WI
+- ZIP: 53964
+- ZIP extension: 
+- State project ID: 3077
+- Latitude: 43.879169
+- Longitude: -89.486667
+- County FIPS: 55077
+- County from: 2020
+- Tract 2020: 55077960500
+- Tract 2010: 55077960500
+- Tract 2000: 55077990500
+- Tract 1990: 55077990500
+- Place 2020: 85575
+- Place 2010: 85575
+- Place 2000: 60875
+- Place 1990: 2740
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

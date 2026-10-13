@@ -1,0 +1,85 @@
+# Project: CRESTON PARKVIEW APARTMENTS (NYE20201014)
+
+- HUD ID: NYE20201014
+- HUD ID before: 
+- Project: CRESTON PARKVIEW APARTMENTS
+- Address: 2519 CRESTON AVE
+- City: BRONX
+- State: NY
+- ZIP: 10468
+- ZIP extension: 
+- State project ID: 82-3345545
+- Latitude: 40.863324
+- Longitude: -73.89797
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005040100
+- Tract 2010: 36005040100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1461246
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 21
+- 1-bedroom units: 36
+- 2-bedroom units: 27
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 57
+- Affordable over 30 years: Yes
+- Affordability years: 60
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

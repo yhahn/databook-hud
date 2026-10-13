@@ -1,0 +1,85 @@
+# Project: WOODLAND TOWNHOMES (MNB19989005)
+
+- HUD ID: MNB19989005
+- HUD ID before: 
+- Project: WOODLAND TOWNHOMES
+- Address: 951 WOODLAND DRIVE
+- City: MAHTOMEDI
+- State: MN
+- ZIP: 55115
+- ZIP extension: 1479
+- State project ID: D2472
+- Latitude: 45.04714
+- Longitude: -92.983543
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163070303
+- Tract 2010: 27163070303
+- Tract 2000: 27163070303
+- Tract 1990: 
+- Place 2020: 39428
+- Place 2010: 39428
+- Place 2000: 39428
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 250000
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

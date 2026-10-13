@@ -1,0 +1,85 @@
+# Project: VILLAS DE SONORA SENIOR HOUSING (AZA20070135)
+
+- HUD ID: AZA20070135
+- HUD ID before: 
+- Project: VILLAS DE SONORA SENIOR HOUSING
+- Address: 507 W ALSDORF RD
+- City: ELOY
+- State: AZ
+- ZIP: 85131
+- ZIP extension: 
+- State project ID: TC-0314
+- Latitude: 32.748343
+- Longitude: -111.564519
+- County FIPS: 04021
+- County from: 2020
+- Tract 2020: 04021001900
+- Tract 2010: 04021001900
+- Tract 2000: 04021001900
+- Tract 1990: 04021001900
+- Place 2020: 22360
+- Place 2010: 22360
+- Place 2000: 10530
+- Place 1990: 0105
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 520847
+- Units: 36
+- Low-income units: 31
+- Units reported: 36
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

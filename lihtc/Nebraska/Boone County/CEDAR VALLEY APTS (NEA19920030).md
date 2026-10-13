@@ -1,0 +1,85 @@
+# Project: CEDAR VALLEY APTS (NEA19920030)
+
+- HUD ID: NEA19920030
+- HUD ID before: 
+- Project: CEDAR VALLEY APTS
+- Address: 613 W DAYTON ST
+- City: CEDAR RAPIDS
+- State: NE
+- ZIP: 68627
+- ZIP extension: 
+- State project ID: 7-0153
+- Latitude: 41.561036
+- Longitude: -98.151461
+- County FIPS: 31011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31011960100
+- Tract 2000: 31011980100
+- Tract 1990: 31011980100
+- Place 2020: 
+- Place 2010: 08220
+- Place 2000: 08220
+- Place 1990: 2145
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 9250
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

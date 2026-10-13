@@ -1,0 +1,85 @@
+# Project: THE TERRACE APARTMENTS (ILA20220051)
+
+- HUD ID: ILA20220051
+- HUD ID before: 
+- Project: THE TERRACE APARTMENTS
+- Address: 2321 HALSTED RD
+- City: ROCKFORD
+- State: IL
+- ZIP: 61103
+- ZIP extension: 
+- State project ID: 1174722
+- Latitude: 42.310405
+- Longitude: -89.094445
+- County FIPS: 17201
+- County from: 2020
+- Tract 2020: 17201003604
+- Tract 2010: 17201003604
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 826133
+- Units: 128
+- Low-income units: 128
+- Units reported: 128
+- Low-income reported: 128
+- Efficiencies: 0
+- 1-bedroom units: 127
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: Yes
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NEW SETON KENTON (OHA20090235)
+
+- HUD ID: OHA20090235
+- HUD ID before: 
+- Project: NEW SETON KENTON
+- Address: 699 MORNINGSIDE DR
+- City: KENTON
+- State: OH
+- ZIP: 43326
+- ZIP extension: 
+- State project ID: 090124
+- Latitude: 40.655209
+- Longitude: -83.590868
+- County FIPS: 39065
+- County from: 2020
+- Tract 2020: 39065000200
+- Tract 2010: 39065000200
+- Tract 2000: 39065983200
+- Tract 1990: 39065983200
+- Place 2020: 39886
+- Place 2010: 39886
+- Place 2000: 39886
+- Place 1990: 2020
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 220379
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

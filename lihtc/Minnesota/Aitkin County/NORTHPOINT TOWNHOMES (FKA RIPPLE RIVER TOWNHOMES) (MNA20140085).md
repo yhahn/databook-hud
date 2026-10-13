@@ -1,0 +1,85 @@
+# Project: NORTHPOINT TOWNHOMES (FKA RIPPLE RIVER TOWNHOMES) (MNA20140085)
+
+- HUD ID: MNA20140085
+- HUD ID before: 
+- Project: NORTHPOINT TOWNHOMES (FKA RIPPLE RIVER TOWNHOMES)
+- Address: 610 AIR PARK DR
+- City: AITKIN
+- State: MN
+- ZIP: 56431
+- ZIP extension: 
+- State project ID: D0005
+- Latitude: 46.536862
+- Longitude: -93.700645
+- County FIPS: 27001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27001770300
+- Tract 2000: 27001990300
+- Tract 1990: 27001990500
+- Place 2020: 
+- Place 2010: 00460
+- Place 2000: 00460
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 348120
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 22
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

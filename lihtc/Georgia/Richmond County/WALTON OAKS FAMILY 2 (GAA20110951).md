@@ -1,0 +1,85 @@
+# Project: WALTON OAKS FAMILY 2 (GAA20110951)
+
+- HUD ID: GAA20110951
+- HUD ID before: 
+- Project: WALTON OAKS FAMILY 2
+- Address: 401 FAIRHOPE ST
+- City: AUGUSTA
+- State: GA
+- ZIP: 30901
+- ZIP extension: 1911
+- State project ID: GA-12-019
+- Latitude: 33.464643
+- Longitude: -81.935508
+- County FIPS: 13245
+- County from: 2020
+- Tract 2020: 13245010601
+- Tract 2010: 13245010600
+- Tract 2000: 13245010600
+- Tract 1990: 13245010600
+- Place 2020: 04204
+- Place 2010: 04204
+- Place 2000: 04204
+- Place 1990: 0927
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 106
+- Low-income units: 106
+- Units reported: 106
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 66
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000442.;
+- Record status: Existing, unchanged

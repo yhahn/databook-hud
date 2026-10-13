@@ -1,0 +1,85 @@
+# Project: PARKVIEW APTS - PINE BLUFF (ARA19940100)
+
+- HUD ID: ARA19940100
+- HUD ID before: 
+- Project: PARKVIEW APTS - PINE BLUFF
+- Address: 300 W 13TH AVE
+- City: PINE BLUFF
+- State: AR
+- ZIP: 71601
+- ZIP extension: 
+- State project ID: FRAR-94-20
+- Latitude: 34.216221
+- Longitude: -92.005722
+- County FIPS: 05069
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05069001000
+- Tract 2000: 05069001000
+- Tract 1990: 05069001000
+- Place 2020: 
+- Place 2010: 55310
+- Place 2000: 55310
+- Place 1990: 1615
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 3
+- 1-bedroom units: 12
+- 2-bedroom units: 10
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SINGLE PARENTS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

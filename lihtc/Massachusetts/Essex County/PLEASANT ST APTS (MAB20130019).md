@@ -1,0 +1,85 @@
+# Project: PLEASANT ST APTS (MAB20130019)
+
+- HUD ID: MAB20130019
+- HUD ID before: 
+- Project: PLEASANT ST APTS
+- Address: 60 PLEASANT ST
+- City: BEVERLY
+- State: MA
+- ZIP: 01915
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.546084
+- Longitude: -70.885287
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009217402
+- Tract 2010: 25009217400
+- Tract 2000: 25009217400
+- Tract 1990: 25009217400
+- Place 2020: 05595
+- Place 2010: 05595
+- Place 2000: 05595
+- Place 1990: 0390
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 
+- Efficiencies: 33
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 250000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

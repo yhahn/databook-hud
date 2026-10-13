@@ -1,0 +1,85 @@
+# Project: LOCKHART ELDERLY (PAA20060090)
+
+- HUD ID: PAA20060090
+- HUD ID before: 
+- Project: LOCKHART ELDERLY
+- Address: 104 W LOCKHART ST
+- City: SAYRE
+- State: PA
+- ZIP: 18840
+- ZIP extension: 
+- State project ID: TC20040427
+- Latitude: 41.981466
+- Longitude: -76.514778
+- County FIPS: 42015
+- County from: 2020
+- Tract 2020: 42015950300
+- Tract 2010: 42015950300
+- Tract 2000: 42015980300
+- Tract 1990: 42015980300
+- Place 2020: 68096
+- Place 2010: 68096
+- Place 2000: 68096
+- Place 1990: 7672
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 114866
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: Yes
+- CDBG amount: 100000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

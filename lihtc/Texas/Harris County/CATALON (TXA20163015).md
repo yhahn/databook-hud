@@ -1,0 +1,85 @@
+# Project: CATALON (TXA20163015)
+
+- HUD ID: TXA20163015
+- HUD ID before: 
+- Project: CATALON
+- Address: 6013 QUEENSTON BLVD
+- City: HOUSTON
+- State: TX
+- ZIP: 77084
+- ZIP extension: 
+- State project ID: TX4995
+- Latitude: 29.860658
+- Longitude: -95.669847
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201541500
+- Tract 2010: 48201541500
+- Tract 2000: 48201541500
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 142
+- Low-income units: 119
+- Units reported: 142
+- Low-income reported: 119
+- Efficiencies: 0
+- 1-bedroom units: 63
+- 2-bedroom units: 63
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 60
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

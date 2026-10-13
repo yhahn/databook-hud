@@ -1,0 +1,85 @@
+# Project: HEATHER OAKS APTS (MOA19910315)
+
+- HUD ID: MOA19910315
+- HUD ID before: 
+- Project: HEATHER OAKS APTS
+- Address: 1000 SE PRAIRIE LN
+- City: OAK GROVE
+- State: MO
+- ZIP: 64075
+- ZIP extension: 
+- State project ID: 169211
+- Latitude: 39.007183
+- Longitude: -94.116302
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095014005
+- Tract 2010: 29095014005
+- Tract 2000: 29095014003
+- Tract 1990: 29095014000
+- Place 2020: 53624
+- Place 2010: 53624
+- Place 2000: 53624
+- Place 1990: 3160
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ELM CREEK APTS (SCA19990035)
+
+- HUD ID: SCA19990035
+- HUD ID before: 
+- Project: ELM CREEK APTS
+- Address: 295 N LAWRENCE AVE
+- City: SWANSEA
+- State: SC
+- ZIP: 29160
+- ZIP extension: 
+- State project ID: SC-97-006
+- Latitude: 33.739733
+- Longitude: -81.097046
+- County FIPS: 45063
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45063020802
+- Tract 2000: 45063020800
+- Tract 1990: 45063020800
+- Place 2020: 
+- Place 2010: 70675
+- Place 2000: 28780
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 198846
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 400000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SWANSEA APTS.
+- Record status: Existing, unchanged

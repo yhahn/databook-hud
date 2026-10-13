@@ -1,0 +1,85 @@
+# Project: PETERSON PLACE APTS (TXA19960120)
+
+- HUD ID: TXA19960120
+- HUD ID before: 
+- Project: PETERSON PLACE APTS
+- Address: 5423 PETERSON LN
+- City: DALLAS
+- State: TX
+- ZIP: 75240
+- ZIP extension: 
+- State project ID: TX1226
+- Latitude: 32.930771
+- Longitude: -96.814477
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113013626
+- Tract 2010: 48113013626
+- Tract 2000: 48113013614
+- Tract 1990: 48113013614
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 01240
+- Place 1990: 1085
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 16
+- 1-bedroom units: 64
+- 2-bedroom units: 72
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CMA I.
+- Record status: Existing, unchanged

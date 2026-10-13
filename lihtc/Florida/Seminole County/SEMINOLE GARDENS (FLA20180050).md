@@ -1,0 +1,85 @@
+# Project: SEMINOLE GARDENS (FLA20180050)
+
+- HUD ID: FLA20180050
+- HUD ID before: 
+- Project: SEMINOLE GARDENS
+- Address: 1600 WEST 5TH STREET
+- City: SANFORD
+- State: FL
+- ZIP: 32771
+- ZIP extension: 
+- State project ID: 2559
+- Latitude: 28.80817
+- Longitude: -81.284316
+- County FIPS: 12117
+- County from: 2020
+- Tract 2020: 12117020500
+- Tract 2010: 12117020500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63650
+- Place 2010: 63650
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 518563
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 69
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

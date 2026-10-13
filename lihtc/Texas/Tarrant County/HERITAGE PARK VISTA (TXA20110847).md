@@ -1,0 +1,85 @@
+# Project: HERITAGE PARK VISTA (TXA20110847)
+
+- HUD ID: TXA20110847
+- HUD ID before: 
+- Project: HERITAGE PARK VISTA
+- Address: 8729 RAY WHITE RD
+- City: FORT WORTH
+- State: TX
+- ZIP: 76244
+- ZIP extension: 
+- State project ID: TX-742610542
+- Latitude: 32.898263
+- Longitude: -97.272826
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439113946
+- Tract 2010: 48439113921
+- Tract 2000: 48439113914
+- Tract 1990: 48439113903
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 140
+- Low-income units: 140
+- Units reported: 140
+- Low-income reported: 140
+- Efficiencies: 0
+- 1-bedroom units: 70
+- 2-bedroom units: 70
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 10707151
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000275.
+- Record status: Existing, unchanged

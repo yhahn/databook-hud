@@ -1,0 +1,85 @@
+# Project: ALMA PLAZA (CAA20120008)
+
+- HUD ID: CAA20120008
+- HUD ID before: 
+- Project: ALMA PLAZA
+- Address: 3445 ALMA ST
+- City: PALO ALTO
+- State: CA
+- ZIP: 94306
+- ZIP extension: 
+- State project ID: CA-11-821
+- Latitude: 37.419114
+- Longitude: -122.124812
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085510803
+- Tract 2010: 06085510803
+- Tract 2000: 06085510803
+- Tract 1990: 06085510803
+- Place 2020: 55282
+- Place 2010: 55282
+- Place 2000: 55282
+- Place 1990: 2090
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 209114
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

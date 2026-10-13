@@ -1,0 +1,85 @@
+# Project: SAN FERNANDO COMMUNITY HOUSING (CAA20138490)
+
+- HUD ID: CAA20138490
+- HUD ID before: 
+- Project: SAN FERNANDO COMMUNITY HOUSING
+- Address: 133 PARK AVE
+- City: SAN FERNANDO
+- State: CA
+- ZIP: 91340
+- ZIP extension: 
+- State project ID: CA-11-903
+- Latitude: 34.28027
+- Longitude: -118.436007
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037320201
+- Tract 2010: 06037320201
+- Tract 2000: 06037320200
+- Tract 1990: 06037320200
+- Place 2020: 66140
+- Place 2010: 66140
+- Place 2000: 66140
+- Place 1990: 2480
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

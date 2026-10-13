@@ -1,0 +1,85 @@
+# Project: SHASTA VILLA APTS (CAA19950101)
+
+- HUD ID: CAA19950101
+- HUD ID before: 
+- Project: SHASTA VILLA APTS
+- Address: 232 N SHASTA AVE
+- City: FARMERSVILLE
+- State: CA
+- ZIP: 93223
+- ZIP extension: 
+- State project ID: CA-94-901
+- Latitude: 36.29847
+- Longitude: -119.21061
+- County FIPS: 06107
+- County from: 2020
+- Tract 2020: 06107001601
+- Tract 2010: 06107001601
+- Tract 2000: 06107001601
+- Tract 1990: 06107001600
+- Place 2020: 23616
+- Place 2010: 23616
+- Place 2000: 23616
+- Place 1990: 0986
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 57686
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

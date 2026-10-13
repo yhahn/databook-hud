@@ -1,0 +1,85 @@
+# Project: MARBACH MANOR APTS (TXA19980135)
+
+- HUD ID: TXA19980135
+- HUD ID before: 
+- Project: MARBACH MANOR APTS
+- Address: 7203 MARBACH RD
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78227
+- ZIP extension: 
+- State project ID: TX-96-144
+- Latitude: 29.417916
+- Longitude: -98.631544
+- County FIPS: 48029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48029171700
+- Tract 2000: 48029171700
+- Tract 1990: 48029171700
+- Place 2020: 
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3745
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 123
+- Low-income units: 123
+- Units reported: 123
+- Low-income reported: 123
+- Efficiencies: 2
+- 1-bedroom units: 33
+- 2-bedroom units: 80
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FORREST VIEW VIX APTS (MOA19920210)
+
+- HUD ID: MOA19920210
+- HUD ID before: 
+- Project: FORREST VIEW VIX APTS
+- Address: HC 60 BOX 59
+- City: DIXON
+- State: MO
+- ZIP: 65459
+- ZIP extension: 
+- State project ID: 92035
+- Latitude: 37.9776
+- Longitude: -92.0851
+- County FIPS: 29169
+- County from: 2020
+- Tract 2020: 29169470101
+- Tract 2010: 29169470101
+- Tract 2000: 29169970100
+- Tract 1990: 29169970100
+- Place 2020: 19630
+- Place 2010: 19630
+- Place 2000: 17344
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BONTERRA APTS HOMES (CAA20110831)
+
+- HUD ID: CAA20110831
+- HUD ID before: 
+- Project: BONTERRA APTS HOMES
+- Address: 551 DISCOVERY LN
+- City: BREA
+- State: CA
+- ZIP: 92821
+- ZIP extension: 
+- State project ID: CA-09-546
+- Latitude: 33.926515
+- Longitude: -117.852983
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059021832
+- Tract 2010: 06059021815
+- Tract 2000: 06059001503
+- Tract 1990: 06059001503
+- Place 2020: 08100
+- Place 2010: 08100
+- Place 2000: 08100
+- Place 1990: 0325
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1115487
+- Units: 94
+- Low-income units: 93
+- Units reported: 94
+- Low-income reported: 93
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 34
+- 3-bedroom units: 39
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 65
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 7741681
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

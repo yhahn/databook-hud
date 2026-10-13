@@ -1,0 +1,85 @@
+# Project: BARTON COMMONS (FKA EAST STREET APTS.) (CTA20161001)
+
+- HUD ID: CTA20161001
+- HUD ID before: 
+- Project: BARTON COMMONS (FKA EAST STREET APTS.)
+- Address: 34 EAST STREET
+- City: NEW MILFORD
+- State: CT
+- ZIP: 06776
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.578992
+- Longitude: -73.408392
+- County FIPS: 09005
+- County from: 2020
+- Tract 2020: 09005425700
+- Tract 2010: 09005253600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 52560
+- Place 2010: 52560
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 674653
+- Units: 38
+- Low-income units: 30
+- Units reported: 38
+- Low-income reported: 30
+- Efficiencies: 4
+- 1-bedroom units: 15
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

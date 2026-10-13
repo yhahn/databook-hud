@@ -1,0 +1,85 @@
+# Project: SALEM SENIOR VILLAGE (NJA20060120)
+
+- HUD ID: NJA20060120
+- HUD ID before: 
+- Project: SALEM SENIOR VILLAGE
+- Address: 155 WEST BROADWAY
+- City: SALEM CITY
+- State: NJ
+- ZIP: 08079
+- ZIP extension: 
+- State project ID: NJ-01427-1
+- Latitude: 39.571991
+- Longitude: -75.468046
+- County FIPS: 34033
+- County from: 2020
+- Tract 2020: 34033022100
+- Tract 2010: 34033022100
+- Tract 2000: 34033022100
+- Tract 1990: 34033022100
+- Place 2020: 65490
+- Place 2010: 65490
+- Place 2000: 65490
+- Place 1990: 3465
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 930175
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

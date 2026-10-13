@@ -1,0 +1,85 @@
+# Project: PINEVIEW APTS (ORA19990120)
+
+- HUD ID: ORA19990120
+- HUD ID before: 
+- Project: PINEVIEW APTS
+- Address: 304 W ALDER ST
+- City: JOSEPH
+- State: OR
+- ZIP: 97846
+- ZIP extension: 
+- State project ID: X001-257
+- Latitude: 45.356056
+- Longitude: -117.232899
+- County FIPS: 41063
+- County from: 2020
+- Tract 2020: 41063960100
+- Tract 2010: 41063960100
+- Tract 2000: 41063960100
+- Tract 1990: 41063960100
+- Place 2020: 37900
+- Place 2010: 37900
+- Place 2000: 37900
+- Place 1990: 0600
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 52907
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WAGON WHEEL SENIOR HOUSING (IAA19990356)
+
+- HUD ID: IAA19990356
+- HUD ID before: 
+- Project: WAGON WHEEL SENIOR HOUSING
+- Address: 208 S CT ST
+- City: FAIRFIELD
+- State: IA
+- ZIP: 52556
+- ZIP extension: 
+- State project ID: 97-53
+- Latitude: 41.005185
+- Longitude: -91.96268
+- County FIPS: 19101
+- County from: 2020
+- Tract 2020: 19101090400
+- Tract 2010: 19101090400
+- Tract 2000: 19101990400
+- Tract 1990: 19101990400
+- Place 2020: 26445
+- Place 2010: 26445
+- Place 2000: 26445
+- Place 1990: 1435
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 153780
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 33
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2000140.
+- Record status: Existing, unchanged

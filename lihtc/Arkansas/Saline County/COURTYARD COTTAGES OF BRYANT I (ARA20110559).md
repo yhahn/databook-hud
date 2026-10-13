@@ -1,0 +1,85 @@
+# Project: COURTYARD COTTAGES OF BRYANT I (ARA20110559)
+
+- HUD ID: ARA20110559
+- HUD ID before: 
+- Project: COURTYARD COTTAGES OF BRYANT I
+- Address: 601 COURTYARD COTTAGE CIR
+- City: BRYANT
+- State: AR
+- ZIP: 72022
+- ZIP extension: 
+- State project ID: AR-09-12-002
+- Latitude: 34.634714
+- Longitude: -92.501297
+- County FIPS: 05125
+- County from: 2020
+- Tract 2020: 05125010519
+- Tract 2010: 05125010510
+- Tract 2000: 05125010510
+- Tract 1990: 05125010504
+- Place 2020: 09460
+- Place 2010: 09460
+- Place 2000: 00580
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 1
+- 1-bedroom units: 15
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 450000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000030, ARA0000547.
+- Record status: Existing, unchanged

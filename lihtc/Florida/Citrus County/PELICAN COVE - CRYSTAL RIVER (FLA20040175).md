@@ -1,0 +1,85 @@
+# Project: PELICAN COVE - CRYSTAL RIVER (FLA20040175)
+
+- HUD ID: FLA20040175
+- HUD ID before: 
+- Project: PELICAN COVE - CRYSTAL RIVER
+- Address: 9826 W ARMS DR
+- City: CRYSTAL RIVER
+- State: FL
+- ZIP: 34429
+- ZIP extension: 
+- State project ID: 1169
+- Latitude: 28.868324
+- Longitude: -82.598294
+- County FIPS: 12017
+- County from: 2020
+- Tract 2020: 12017450502
+- Tract 2010: 12017450500
+- Tract 2000: 12017980500
+- Tract 1990: 12017980500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 15775
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 85
+- Low-income units: 85
+- Units reported: 85
+- Low-income reported: 85
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

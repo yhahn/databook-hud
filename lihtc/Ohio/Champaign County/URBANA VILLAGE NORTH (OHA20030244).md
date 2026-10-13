@@ -1,0 +1,85 @@
+# Project: URBANA VILLAGE NORTH (OHA20030244)
+
+- HUD ID: OHA20030244
+- HUD ID before: 
+- Project: URBANA VILLAGE NORTH
+- Address: 718 GWYNNE ST
+- City: URBANA
+- State: OH
+- ZIP: 43078
+- ZIP extension: 
+- State project ID: 020101
+- Latitude: 40.113847
+- Longitude: -83.767753
+- County FIPS: 39021
+- County from: 2020
+- Tract 2020: 39021010400
+- Tract 2010: 39021010400
+- Tract 2000: 39021010400
+- Tract 1990: 39021010400
+- Place 2020: 79072
+- Place 2010: 79072
+- Place 2000: 79072
+- Place 1990: 4365
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 47191
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 21
+- 3-bedroom units: 15
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003596, OHA2004269.
+- Record status: Existing, unchanged

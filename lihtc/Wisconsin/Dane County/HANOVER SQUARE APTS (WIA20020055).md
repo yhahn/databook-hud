@@ -1,0 +1,85 @@
+# Project: HANOVER SQUARE APTS (WIA20020055)
+
+- HUD ID: WIA20020055
+- HUD ID before: 
+- Project: HANOVER SQUARE APTS
+- Address: 2502 OLD CAMDEN SQ
+- City: MADISON
+- State: WI
+- ZIP: 53718
+- ZIP extension: 
+- State project ID: 2482
+- Latitude: 43.1328
+- Longitude: -89.287796
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025011405
+- Tract 2010: 55025011402
+- Tract 2000: 55025011400
+- Tract 1990: 55025011400
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 65
+- Low-income units: 57
+- Units reported: 65
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 26
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

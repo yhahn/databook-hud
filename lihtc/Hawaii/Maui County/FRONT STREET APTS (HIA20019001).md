@@ -1,0 +1,85 @@
+# Project: FRONT STREET APTS (HIA20019001)
+
+- HUD ID: HIA20019001
+- HUD ID before: 
+- Project: FRONT STREET APTS
+- Address: 2001 KENUI PL
+- City: LAHAINA
+- State: HI
+- ZIP: 96761
+- ZIP extension: 
+- State project ID: HI-1999-001
+- Latitude: 20.881331
+- Longitude: -156.682439
+- County FIPS: 15009
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 15009031404
+- Tract 2000: 15009031401
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 42950
+- Place 2000: 42950
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 1200000
+- Units: 142
+- Low-income units: 141
+- Units reported: 142
+- Low-income reported: 141
+- Efficiencies: 1
+- 1-bedroom units: 8
+- 2-bedroom units: 4
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

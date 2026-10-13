@@ -1,0 +1,85 @@
+# Project: HOLLY VILLAGE APTS (GAA19950160)
+
+- HUD ID: GAA19950160
+- HUD ID before: 
+- Project: HOLLY VILLAGE APTS
+- Address: 128 HOLLY ST
+- City: BUCHANAN
+- State: GA
+- ZIP: 30113
+- ZIP extension: 
+- State project ID: 1994-051
+- Latitude: 33.799637
+- Longitude: -85.180586
+- County FIPS: 13143
+- County from: 2020
+- Tract 2020: 13143010303
+- Tract 2010: 13143010302
+- Tract 2000: 13143980300
+- Tract 1990: 13143980300
+- Place 2020: 11616
+- Place 2010: 11616
+- Place 2000: 10132
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

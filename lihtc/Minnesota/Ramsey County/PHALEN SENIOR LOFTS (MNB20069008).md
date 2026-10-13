@@ -1,0 +1,85 @@
+# Project: PHALEN SENIOR LOFTS (MNB20069008)
+
+- HUD ID: MNB20069008
+- HUD ID before: 
+- Project: PHALEN SENIOR LOFTS
+- Address: 635 PHALEN BOULEVARD
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55130
+- ZIP extension: 5306
+- State project ID: D3921
+- Latitude: 44.966178
+- Longitude: -93.074154
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123031500
+- Tract 2010: 27123031500
+- Tract 2000: 27123031500
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 58000
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 367992
+- Units: 73
+- Low-income units: 73
+- Units reported: 73
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 39
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 3800000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

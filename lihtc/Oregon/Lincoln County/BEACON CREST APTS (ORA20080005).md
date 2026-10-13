@@ -1,0 +1,85 @@
+# Project: BEACON CREST APTS (ORA20080005)
+
+- HUD ID: ORA20080005
+- HUD ID before: 
+- Project: BEACON CREST APTS
+- Address: 2897 NE 47TH ST
+- City: LINCOLN CITY
+- State: OR
+- ZIP: 97367
+- ZIP extension: 
+- State project ID: 557
+- Latitude: 45.000332
+- Longitude: -123.997597
+- County FIPS: 41041
+- County from: 2020
+- Tract 2020: 41041950303
+- Tract 2010: 41041950303
+- Tract 2000: 41041950300
+- Tract 1990: 41041950300
+- Place 2020: 42600
+- Place 2010: 42600
+- Place 2000: 42600
+- Place 1990: 0648
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 700000
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 10
+- 3-bedroom units: 16
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 453400
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: KINGS HIGHWAY PHASE II (PAA20010090)
+
+- HUD ID: PAA20010090
+- HUD ID before: 
+- Project: KINGS HIGHWAY PHASE II
+- Address: 2953 FRANKFORD AVE
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19134
+- ZIP extension: 
+- State project ID: TC19990044
+- Latitude: 39.990173
+- Longitude: -75.116198
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101017800
+- Tract 2010: 42101017800
+- Tract 2000: 42101017800
+- Tract 1990: 42101017800
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 463677
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 5
+- 3-bedroom units: 18
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 341000
+- CDBG: Yes
+- CDBG amount: 832932
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

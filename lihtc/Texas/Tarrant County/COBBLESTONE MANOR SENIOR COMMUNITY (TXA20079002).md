@@ -1,0 +1,85 @@
+# Project: COBBLESTONE MANOR SENIOR COMMUNITY (TXA20079002)
+
+- HUD ID: TXA20079002
+- HUD ID before: 
+- Project: COBBLESTONE MANOR SENIOR COMMUNITY
+- Address: 8201 SARTAIN DR
+- City: FORT WORTH
+- State: TX
+- ZIP: 76120
+- ZIP extension: 
+- State project ID: TX4317
+- Latitude: 32.766694
+- Longitude: -97.176497
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439106521
+- Tract 2010: 48439106511
+- Tract 2000: 48439106511
+- Tract 1990: 48439106511
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1500
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 220
+- Low-income units: 180
+- Units reported: 220
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 172
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

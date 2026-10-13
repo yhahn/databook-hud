@@ -1,0 +1,85 @@
+# Project: NAPA RIDGE (MOA20040220)
+
+- HUD ID: MOA20040220
+- HUD ID before: 
+- Project: NAPA RIDGE
+- Address: 661 NAPA CIR
+- City: CAPE GIRARDEAU
+- State: MO
+- ZIP: 63703
+- ZIP extension: 
+- State project ID: 03-073
+- Latitude: 37.29715
+- Longitude: -89.539831
+- County FIPS: 29031
+- County from: 2020
+- Tract 2020: 29031881600
+- Tract 2010: 29031881600
+- Tract 2000: 29031981600
+- Tract 1990: 29031981600
+- Place 2020: 11242
+- Place 2010: 11242
+- Place 2000: 11242
+- Place 1990: 0695
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VISTA RIDGE, LIMITED PARTNERSHIP (MNA20201032)
+
+- HUD ID: MNA20201032
+- HUD ID before: 
+- Project: VISTA RIDGE, LIMITED PARTNERSHIP
+- Address: 861 VISTA BOULEVARD
+- City: WACONIA
+- State: MN
+- ZIP: 55387
+- ZIP extension: 
+- State project ID: D8141
+- Latitude: 44.848544
+- Longitude: -93.769605
+- County FIPS: 27019
+- County from: 2020
+- Tract 2020: 27019090303
+- Tract 2010: 27019090301
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67432
+- Place 2010: 67432
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 988257
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MEADOW BROOK APARTMENTS #06406 (NJA20079090)
+
+- HUD ID: NJA20079090
+- HUD ID before: 
+- Project: MEADOW BROOK APARTMENTS #06406
+- Address: 25 PINE ST
+- City: TINTON FALLS
+- State: NJ
+- ZIP: 07753
+- ZIP extension: 8400
+- State project ID: PM01434
+- Latitude: 40.240394
+- Longitude: -74.08235
+- County FIPS: 34025
+- County from: 2020
+- Tract 2020: 34025804802
+- Tract 2010: 34025804800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 73020
+- Place 2010: 73020
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 96
+- Low-income units: 95
+- Units reported: 96
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 58
+- 2-bedroom units: 37
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

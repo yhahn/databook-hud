@@ -1,0 +1,85 @@
+# Project: COAL HILL MANOR (ARA19970030)
+
+- HUD ID: ARA19970030
+- HUD ID before: 
+- Project: COAL HILL MANOR
+- Address: 1206 CAROLINA ST
+- City: COAL HILL
+- State: AR
+- ZIP: 72832
+- ZIP extension: 
+- State project ID: AR-95-16
+- Latitude: 35.433518
+- Longitude: -93.661936
+- County FIPS: 05071
+- County from: 2020
+- Tract 2020: 05071951800
+- Tract 2010: 05071951800
+- Tract 2000: 05071951800
+- Tract 1990: 05071951800
+- Place 2020: 14500
+- Place 2010: 14500
+- Place 2000: 14500
+- Place 1990: 0420
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 39972
+- Units: 21
+- Low-income units: 20
+- Units reported: 21
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

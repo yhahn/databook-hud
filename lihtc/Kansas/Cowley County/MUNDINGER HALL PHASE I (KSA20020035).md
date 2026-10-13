@@ -1,0 +1,85 @@
+# Project: MUNDINGER HALL PHASE I (KSA20020035)
+
+- HUD ID: KSA20020035
+- HUD ID before: 
+- Project: MUNDINGER HALL PHASE I
+- Address: 1315 E SIXTH AVE
+- City: WINFIELD
+- State: KS
+- ZIP: 67156
+- ZIP extension: 
+- State project ID: 60094
+- Latitude: 37.243501
+- Longitude: -96.981815
+- County FIPS: 20035
+- County from: 2020
+- Tract 2020: 20035493500
+- Tract 2010: 20035493500
+- Tract 2000: 20035993500
+- Tract 1990: 20035993500
+- Place 2020: 79950
+- Place 2010: 79950
+- Place 2000: 79950
+- Place 1990: 3090
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 102608
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

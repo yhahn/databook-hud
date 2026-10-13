@@ -1,0 +1,85 @@
+# Project: SILVER MEADOWS ESTATES (UTA19960900)
+
+- HUD ID: UTA19960900
+- HUD ID before: 
+- Project: SILVER MEADOWS ESTATES
+- Address: 1935 COOKE DRIVE
+- City: PARK CITY
+- State: UT
+- ZIP: 84068
+- ZIP extension: 0000
+- State project ID: 1994-22
+- Latitude: 40.665901
+- Longitude: -111.495341
+- County FIPS: 49043
+- County from: 2020
+- Tract 2020: 49043964402
+- Tract 2010: 49043964402
+- Tract 2000: 49043994400
+- Tract 1990: 49043994400
+- Place 2020: 58070
+- Place 2010: 58070
+- Place 2000: 58070
+- Place 1990: 0740
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 190029
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

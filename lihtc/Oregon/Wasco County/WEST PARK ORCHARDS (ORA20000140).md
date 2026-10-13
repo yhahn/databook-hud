@@ -1,0 +1,85 @@
+# Project: WEST PARK ORCHARDS (ORA20000140)
+
+- HUD ID: ORA20000140
+- HUD ID before: 
+- Project: WEST PARK ORCHARDS
+- Address: 1711 W 13TH ST
+- City: THE DALLES
+- State: OR
+- ZIP: 97058
+- ZIP extension: 
+- State project ID: 1407
+- Latitude: 45.59595
+- Longitude: -121.191695
+- County FIPS: 41065
+- County from: 2020
+- Tract 2020: 41065970300
+- Tract 2010: 41065970300
+- Tract 2000: 41065970300
+- Tract 1990: 41065970300
+- Place 2020: 72950
+- Place 2010: 72950
+- Place 2000: 13425
+- Place 1990: 0187
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 184300
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 275000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

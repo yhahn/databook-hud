@@ -1,0 +1,85 @@
+# Project: COLONIAL VILLAGE WEST (VAA20191006)
+
+- HUD ID: VAA20191006
+- HUD ID before: 
+- Project: COLONIAL VILLAGE WEST
+- Address: 2111 NORTH KEY BOULEVARD
+- City: ARLINGTON
+- State: VA
+- ZIP: 22201
+- ZIP extension: 
+- State project ID: 952
+- Latitude: 38.893382
+- Longitude: -77.085366
+- County FIPS: 51013
+- County from: 2020
+- Tract 2020: 51013101602
+- Tract 2010: 51013101602
+- Tract 2000: 51013101600
+- Tract 1990: 51013101600
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0056
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 800025
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 15
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2002050.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FREEDOM HEIGHTS (GAA20180006)
+
+- HUD ID: GAA20180006
+- HUD ID before: 
+- Project: FREEDOM HEIGHTS
+- Address: 4301 BEMISS RD.
+- City: VALDOSTA
+- State: GA
+- ZIP: 31605
+- ZIP extension: 
+- State project ID: 2016-038
+- Latitude: 30.918212
+- Longitude: -83.255972
+- County FIPS: 13185
+- County from: 2020
+- Tract 2020: 13185010103
+- Tract 2010: 13185010103
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 06968
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 823105
+- Units: 88
+- Low-income units: 57
+- Units reported: 88
+- Low-income reported: 57
+- Efficiencies: 
+- 1-bedroom units: 9
+- 2-bedroom units: 31
+- 3-bedroom units: 17
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

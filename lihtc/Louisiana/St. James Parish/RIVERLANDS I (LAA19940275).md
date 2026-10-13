@@ -1,0 +1,85 @@
+# Project: RIVERLANDS I (LAA19940275)
+
+- HUD ID: LAA19940275
+- HUD ID before: 
+- Project: RIVERLANDS I
+- Address: 3893 W LONGVIEW RD
+- City: PAULINA
+- State: LA
+- ZIP: 70763
+- ZIP extension: 
+- State project ID: LA-93-027
+- Latitude: 30.039839
+- Longitude: -90.745123
+- County FIPS: 22093
+- County from: 2020
+- Tract 2020: 22093040300
+- Tract 2010: 22093040300
+- Tract 2000: 22093040300
+- Tract 1990: 22093040300
+- Place 2020: 30900
+- Place 2010: 30900
+- Place 2000: 46720
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIVERDALE APTS (PAA19900400)
+
+- HUD ID: PAA19900400
+- HUD ID before: 
+- Project: RIVERDALE APTS
+- Address: 692 S BROAD ST
+- City: JERSEY SHORE
+- State: PA
+- ZIP: 17740
+- ZIP extension: 
+- State project ID: TC19900009
+- Latitude: 41.190568
+- Longitude: -77.258425
+- County FIPS: 42081
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42081011900
+- Tract 2000: 42081011900
+- Tract 1990: 42081011900
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 38128
+- Place 1990: 5441
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 45442
+- Units: 24
+- Low-income units: 15
+- Units reported: 24
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

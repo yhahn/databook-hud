@@ -1,0 +1,85 @@
+# Project: GREENTREE VILLAGE APTS (DEA20010002)
+
+- HUD ID: DEA20010002
+- HUD ID before: 
+- Project: GREENTREE VILLAGE APTS
+- Address: 1000 CEDARTREE LN
+- City: CLAYMONT
+- State: DE
+- ZIP: 19703
+- ZIP extension: 
+- State project ID: DE-200005
+- Latitude: 39.814706
+- Longitude: -75.461813
+- County FIPS: 10003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 10003010101
+- Tract 2000: 10003010101
+- Tract 1990: 10003010101
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 15310
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 162230
+- Units: 286
+- Low-income units: 229
+- Units reported: 286
+- Low-income reported: 229
+- Efficiencies: 0
+- 1-bedroom units: 88
+- 2-bedroom units: 169
+- 3-bedroom units: 29
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DEA2000025. AKA CLAYMONT GREENTREE PROPERTIES.
+- Record status: Existing, unchanged

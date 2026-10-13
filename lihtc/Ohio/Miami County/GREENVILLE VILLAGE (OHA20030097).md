@@ -1,0 +1,85 @@
+# Project: GREENVILLE VILLAGE (OHA20030097)
+
+- HUD ID: OHA20030097
+- HUD ID before: 
+- Project: GREENVILLE VILLAGE
+- Address: 5 JULIE CT
+- City: COVINGTON
+- State: OH
+- ZIP: 45318
+- ZIP extension: 
+- State project ID: 020095
+- Latitude: 40.108249
+- Longitude: -84.353034
+- County FIPS: 39109
+- County from: 2020
+- Tract 2020: 39109325000
+- Tract 2010: 39109325000
+- Tract 2000: 39109325000
+- Tract 1990: 39109325000
+- Place 2020: 19050
+- Place 2010: 19050
+- Place 2000: 19050
+- Place 1990: 1025
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 45866
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 13
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003633, OHA2004133.
+- Record status: Existing, unchanged

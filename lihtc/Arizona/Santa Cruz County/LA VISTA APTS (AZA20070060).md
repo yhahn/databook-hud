@@ -1,0 +1,85 @@
+# Project: LA VISTA APTS (AZA20070060)
+
+- HUD ID: AZA20070060
+- HUD ID before: 
+- Project: LA VISTA APTS
+- Address: 300 W GOLD HILL RD
+- City: NOGALES
+- State: AZ
+- ZIP: 85621
+- ZIP extension: 
+- State project ID: TC-0322
+- Latitude: 31.386551
+- Longitude: -110.942382
+- County FIPS: 04023
+- County from: 2020
+- Tract 2020: 04023966301
+- Tract 2010: 04023966301
+- Tract 2000: 04023996300
+- Tract 1990: 04023996300
+- Place 2020: 49640
+- Place 2010: 49640
+- Place 2000: 49640
+- Place 1990: 0235
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 256094
+- Units: 24
+- Low-income units: 22
+- Units reported: 24
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

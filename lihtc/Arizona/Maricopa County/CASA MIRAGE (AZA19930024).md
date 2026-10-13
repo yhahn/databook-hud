@@ -1,0 +1,85 @@
+# Project: CASA MIRAGE (AZA19930024)
+
+- HUD ID: AZA19930024
+- HUD ID before: 
+- Project: CASA MIRAGE
+- Address: 12235 W THUNDERBIRD RD
+- City: EL MIRAGE
+- State: AZ
+- ZIP: 85335
+- ZIP extension: 
+- State project ID: TC-0063
+- Latitude: 33.6088
+- Longitude: -112.324582
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013060903
+- Tract 2010: 04013060903
+- Tract 2000: 04013060900
+- Tract 1990: 04013060900
+- Place 2020: 22220
+- Place 2010: 22220
+- Place 2000: 22220
+- Place 1990: 0100
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 126
+- Low-income units: 126
+- Units reported: 126
+- Low-income reported: 126
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 30
+- 3-bedroom units: 32
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000547, AZA1993015.
+- Record status: Existing, unchanged

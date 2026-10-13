@@ -1,0 +1,85 @@
+# Project: TOWNE WEST MANOR (GAA20020225)
+
+- HUD ID: GAA20020225
+- HUD ID before: 
+- Project: TOWNE WEST MANOR
+- Address: 330 BROWNLEE RD SW
+- City: ATLANTA
+- State: GA
+- ZIP: 30311
+- ZIP extension: 
+- State project ID: 2001-506
+- Latitude: 33.747229
+- Longitude: -84.497313
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121008103
+- Tract 2010: 13121008102
+- Tract 2000: 13121008102
+- Tract 1990: 13121008102
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 106
+- Low-income units: 81
+- Units reported: 106
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 102
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2002030. AKA DELMONTE TOWNHOMES.
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: WILLOW TREE GROVE (WAA20120821)
+
+- HUD ID: WAA20120821
+- HUD ID before: 
+- Project: WILLOW TREE GROVE
+- Address: 2129 MALTBY RD
+- City: BOTHELL
+- State: WA
+- ZIP: 98012
+- ZIP extension: 
+- State project ID: WA-11-00255
+- Latitude: 47.809568
+- Longitude: -122.204201
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061051936
+- Tract 2010: 53061051924
+- Tract 2000: 53061051920
+- Tract 1990: 53061051910
+- Place 2020: 07390
+- Place 2010: 07380
+- Place 2000: 45865
+- Place 1990: 0881
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 759496
+- Units: 181
+- Low-income units: 179
+- Units reported: 181
+- Low-income reported: 179
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 46
+- 4-bedroom units: 63
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA0000775.
+- Record status: Existing, unchanged

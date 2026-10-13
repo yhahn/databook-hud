@@ -1,0 +1,85 @@
+# Project: HOMETOWN HARBOR EAST MOLINE (ILA00000004)
+
+- HUD ID: ILA00000004
+- HUD ID before: 
+- Project: HOMETOWN HARBOR EAST MOLINE
+- Address: 1011 49TH AVE
+- City: EAST MOLINE
+- State: IL
+- ZIP: 61244
+- ZIP extension: 
+- State project ID: 294608
+- Latitude: 41.481295
+- Longitude: -90.436948
+- County FIPS: 17161
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17161021000
+- Tract 2000: 17161021000
+- Tract 1990: 17161021000
+- Place 2020: 
+- Place 2010: 22073
+- Place 2000: 22073
+- Place 1990: 1640
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 9474709
+- Units: 82
+- Low-income units: 82
+- Units reported: 82
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 9474975
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

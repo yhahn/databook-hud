@@ -1,0 +1,85 @@
+# Project: URBAN HOLLOW (OHA20070167)
+
+- HUD ID: OHA20070167
+- HUD ID before: 
+- Project: URBAN HOLLOW
+- Address: 3385 URBAN HOLLOW CT
+- City: URBANCREST
+- State: OH
+- ZIP: 43123
+- ZIP extension: 
+- State project ID: 050027
+- Latitude: 39.902168
+- Longitude: -83.08242
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049009600
+- Tract 2010: 39049009600
+- Tract 2000: 39049009600
+- Tract 1990: 39049009600
+- Place 2020: 79100
+- Place 2010: 79100
+- Place 2000: 32592
+- Place 1990: 1675
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 158
+- Low-income units: 158
+- Units reported: 158
+- Low-income reported: 158
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 94
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007749.
+- Record status: Existing, unchanged

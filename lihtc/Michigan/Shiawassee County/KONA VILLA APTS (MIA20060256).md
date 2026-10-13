@@ -1,0 +1,85 @@
+# Project: KONA VILLA APTS (MIA20060256)
+
+- HUD ID: MIA20060256
+- HUD ID before: 
+- Project: KONA VILLA APTS
+- Address: 1299 S SHIAWASSEE ST
+- City: OWOSSO
+- State: MI
+- ZIP: 48867
+- ZIP extension: 
+- State project ID: MI-618
+- Latitude: 42.983457
+- Longitude: -84.176741
+- County FIPS: 26155
+- County from: 2020
+- Tract 2020: 26155030800
+- Tract 2010: 26155030800
+- Tract 2000: 26155030800
+- Tract 1990: 26155030800
+- Place 2020: 61940
+- Place 2010: 61940
+- Place 2000: 61940
+- Place 1990: 2055
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 229892
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 78
+- 2-bedroom units: 30
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

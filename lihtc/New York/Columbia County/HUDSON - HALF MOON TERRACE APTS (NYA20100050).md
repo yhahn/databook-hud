@@ -1,0 +1,85 @@
+# Project: HUDSON / HALF MOON TERRACE APTS (NYA20100050)
+
+- HUD ID: NYA20100050
+- HUD ID before: 
+- Project: HUDSON / HALF MOON TERRACE APTS
+- Address: 15 N FRONT ST
+- City: HUDSON
+- State: NY
+- ZIP: 12534
+- ZIP extension: 
+- State project ID: 20096054
+- Latitude: 42.256859
+- Longitude: -73.795536
+- County FIPS: 36021
+- County from: 2020
+- Tract 2020: 36021001300
+- Tract 2010: 36021001300
+- Tract 2000: 36021991300
+- Tract 1990: 36021991300
+- Place 2020: 35969
+- Place 2010: 35969
+- Place 2000: 35969
+- Place 1990: 1680
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1430000
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 84
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 1831443
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HUDSON TERRACE APTS.
+- Record status: Existing, unchanged

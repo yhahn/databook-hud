@@ -1,0 +1,85 @@
+# Project: HOPESOURCE SCATTERED SITE PROJECT (WAA20110833)
+
+- HUD ID: WAA20110833
+- HUD ID before: 
+- Project: HOPESOURCE SCATTERED SITE PROJECT
+- Address: 401 E CHERRY LN
+- City: ELLENSBURG
+- State: WA
+- ZIP: 98926
+- ZIP extension: 
+- State project ID: 09-33
+- Latitude: 46.986685
+- Longitude: -120.542544
+- County FIPS: 53037
+- County from: 2020
+- Tract 2020: 53037975402
+- Tract 2010: 53037975402
+- Tract 2000: 53037975402
+- Tract 1990: 53037975400
+- Place 2020: 21240
+- Place 2010: 21240
+- Place 2000: 21240
+- Place 1990: 0380
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 703867
+- Units: 95
+- Low-income units: 95
+- Units reported: 95
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 69
+- 2-bedroom units: 24
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 86
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 11965742
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA0000328. AKA BUILDING A - BUILDING J.
+- Record status: Existing, unchanged

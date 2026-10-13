@@ -1,0 +1,85 @@
+# Project: ARLINGTON HEIGHTS II (OHA20080015)
+
+- HUD ID: OHA20080015
+- HUD ID before: 
+- Project: ARLINGTON HEIGHTS II
+- Address: 752W BROADWAY ST
+- City: YOUNGSTOWN
+- State: OH
+- ZIP: 44510
+- ZIP extension: 
+- State project ID: 060017
+- Latitude: 41.116719
+- Longitude: -80.662406
+- County FIPS: 39099
+- County from: 2020
+- Tract 2020: 39099814000
+- Tract 2010: 39099814000
+- Tract 2000: 39099803500
+- Tract 1990: 39099803500
+- Place 2020: 88000
+- Place 2010: 88000
+- Place 2000: 88000
+- Place 1990: 4845
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 29
+- Low-income units: 29
+- Units reported: 29
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 29
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

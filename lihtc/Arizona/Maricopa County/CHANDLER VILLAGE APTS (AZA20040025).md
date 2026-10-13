@@ -1,0 +1,85 @@
+# Project: CHANDLER VILLAGE APTS (AZA20040025)
+
+- HUD ID: AZA20040025
+- HUD ID before: 
+- Project: CHANDLER VILLAGE APTS
+- Address: 598 N MCQUEEN RD
+- City: CHANDLER
+- State: AZ
+- ZIP: 85225
+- ZIP extension: 
+- State project ID: TC-0232
+- Latitude: 33.31341
+- Longitude: -111.824404
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013522904
+- Tract 2010: 04013522904
+- Tract 2000: 04013522902
+- Tract 1990: 04013522902
+- Place 2020: 12000
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 0050
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 127
+- Low-income units: 127
+- Units reported: 127
+- Low-income reported: 127
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 29
+- 3-bedroom units: 54
+- 4-bedroom units: 23
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA1988010.
+- Record status: Existing, unchanged

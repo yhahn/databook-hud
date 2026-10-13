@@ -1,0 +1,85 @@
+# Project: LINCOLN FIELDS (FLA20130008)
+
+- HUD ID: FLA20130008
+- HUD ID before: 
+- Project: LINCOLN FIELDS
+- Address: 2020 NW 63RD ST
+- City: MIAMI
+- State: FL
+- ZIP: 33147
+- ZIP extension: 
+- State project ID: 2529
+- Latitude: 25.831929
+- Longitude: -80.230206
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086001502
+- Tract 2010: 12086001502
+- Tract 2000: 12086001502
+- Tract 1990: 12025001502
+- Place 2020: 25987
+- Place 2010: 25987
+- Place 2000: 25987
+- Place 1990: 0737
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 214
+- Low-income units: 213
+- Units reported: 214
+- Low-income reported: 213
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

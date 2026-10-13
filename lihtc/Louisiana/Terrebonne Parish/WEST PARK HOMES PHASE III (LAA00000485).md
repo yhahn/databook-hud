@@ -1,0 +1,85 @@
+# Project: WEST PARK HOMES PHASE III (LAA00000485)
+
+- HUD ID: LAA00000485
+- HUD ID before: 
+- Project: WEST PARK HOMES PHASE III
+- Address: 4325 W PARK AVE
+- City: GRAY
+- State: LA
+- ZIP: 70359
+- ZIP extension: 
+- State project ID: LA-06-444
+- Latitude: 29.672552
+- Longitude: -90.776156
+- County FIPS: 22109
+- County from: 2020
+- Tract 2020: 22109000201
+- Tract 2010: 22109000201
+- Tract 2000: 22109000201
+- Tract 1990: 22109000200
+- Place 2020: 31180
+- Place 2010: 31180
+- Place 2000: 05210
+- Place 1990: 0105
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

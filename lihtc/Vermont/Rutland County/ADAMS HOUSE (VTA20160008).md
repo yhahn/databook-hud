@@ -1,0 +1,85 @@
+# Project: ADAMS HOUSE (VTA20160008)
+
+- HUD ID: VTA20160008
+- HUD ID before: VTA19960005
+- Project: ADAMS HOUSE
+- Address: 5-7 SOUTH PARK PLACE
+- City: FAIR HAVEN
+- State: VT
+- ZIP: 05743
+- ZIP extension: 
+- State project ID: VT-04-82
+- Latitude: 43.592614
+- Longitude: -73.265738
+- County FIPS: 50021
+- County from: 2020
+- Tract 2020: 50021963700
+- Tract 2010: 50021963700
+- Tract 2000: 50021963700
+- Tract 1990: 
+- Place 2020: 25450
+- Place 2010: 25450
+- Place 2000: 25450
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 65161
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 337000
+- CDBG: Yes
+- CDBG amount: 218664
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS VTA19960005 AND STATE_ID IS 0010
+- Record status: Existing, unchanged

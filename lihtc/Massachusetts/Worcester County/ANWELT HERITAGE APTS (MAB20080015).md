@@ -1,0 +1,85 @@
+# Project: ANWELT HERITAGE APTS (MAB20080015)
+
+- HUD ID: MAB20080015
+- HUD ID before: 
+- Project: ANWELT HERITAGE APTS
+- Address: 1 OAK HILL RD
+- City: FITCHBURG
+- State: MA
+- ZIP: 01420
+- ZIP extension: 
+- State project ID: 1615
+- Latitude: 42.581052
+- Longitude: -71.821732
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027710500
+- Tract 2010: 25027710500
+- Tract 2000: 25027710300
+- Tract 1990: 25027710300
+- Place 2020: 23875
+- Place 2010: 23875
+- Place 2000: 23875
+- Place 1990: 1280
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1000000
+- Units: 86
+- Low-income units: 70
+- Units reported: 86
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000091.
+- Record status: Existing, unchanged

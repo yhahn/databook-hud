@@ -1,0 +1,85 @@
+# Project: BARRINGER'S TRACE (NCA20160006)
+
+- HUD ID: NCA20160006
+- HUD ID before: 
+- Project: BARRINGER'S TRACE
+- Address: 901 ROSS CIRCLE
+- City: MT PLEASANT
+- State: NC
+- ZIP: 28124
+- ZIP extension: 
+- State project ID: 9168333
+- Latitude: 35.3696
+- Longitude: -80.4144
+- County FIPS: 37025
+- County from: 2020
+- Tract 2020: 37025041701
+- Tract 2010: 37025041701
+- Tract 2000: 37025041700
+- Tract 1990: 37025041700
+- Place 2020: 45140
+- Place 2010: 45140
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 462585
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 38
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

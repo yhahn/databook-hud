@@ -1,0 +1,85 @@
+# Project: NOBLE CREEK APTS (CAA20050737)
+
+- HUD ID: CAA20050737
+- HUD ID before: 
+- Project: NOBLE CREEK APTS
+- Address: 755 XENIA AVE
+- City: BEAUMONT
+- State: CA
+- ZIP: 92223
+- ZIP extension: 
+- State project ID: CA-04-913
+- Latitude: 33.931964
+- Longitude: -116.955119
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065043821
+- Tract 2010: 06065043821
+- Tract 2000: 06065043805
+- Tract 1990: 06065043805
+- Place 2020: 04758
+- Place 2010: 04758
+- Place 2000: 04758
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 213363
+- Units: 108
+- Low-income units: 107
+- Units reported: 108
+- Low-income reported: 107
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 60
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

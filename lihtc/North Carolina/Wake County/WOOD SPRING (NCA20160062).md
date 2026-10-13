@@ -1,0 +1,85 @@
+# Project: WOOD SPRING (NCA20160062)
+
+- HUD ID: NCA20160062
+- HUD ID before: 
+- Project: WOOD SPRING
+- Address: 1806 JAMES SLAUGHTER ROAD
+- City: FUQUAY VARINA
+- State: NC
+- ZIP: 27526
+- ZIP extension: 
+- State project ID: 9168069
+- Latitude: 35.606439
+- Longitude: -78.802814
+- County FIPS: 37183
+- County from: 2020
+- Tract 2020: 37183053105
+- Tract 2010: 37183053105
+- Tract 2000: 37183053101
+- Tract 1990: 37183053101
+- Place 2020: 25300
+- Place 2010: 25300
+- Place 2000: 25300
+- Place 1990: 0965
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 401280
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: Yes
+- HOME: Yes
+- HOME amount: 1000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

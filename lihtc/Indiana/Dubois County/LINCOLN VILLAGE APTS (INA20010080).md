@@ -1,0 +1,85 @@
+# Project: LINCOLN VILLAGE APTS (INA20010080)
+
+- HUD ID: INA20010080
+- HUD ID before: 
+- Project: LINCOLN VILLAGE APTS
+- Address: 506 PLEASANT VIEW DR
+- City: HUNTINGBURG
+- State: IN
+- ZIP: 47542
+- ZIP extension: 
+- State project ID: IN-00-01700
+- Latitude: 38.309232
+- Longitude: -86.952426
+- County FIPS: 18037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18037953800
+- Tract 2000: 18037953800
+- Tract 1990: 18037953800
+- Place 2020: 
+- Place 2010: 35284
+- Place 2000: 35284
+- Place 1990: 1125
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 2
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2000052. AKA LINCOLN HILLS DEVELOPMENT CORP.
+- Record status: Existing, unchanged

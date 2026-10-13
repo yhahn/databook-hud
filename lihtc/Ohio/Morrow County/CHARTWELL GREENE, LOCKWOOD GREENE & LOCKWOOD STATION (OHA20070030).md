@@ -1,0 +1,85 @@
+# Project: CHARTWELL GREENE, LOCKWOOD GREENE & LOCKWOOD STATION (OHA20070030)
+
+- HUD ID: OHA20070030
+- HUD ID before: 
+- Project: CHARTWELL GREENE, LOCKWOOD GREENE & LOCKWOOD STATION
+- Address: 556 LEE ST
+- City: MT GILEAD
+- State: OH
+- ZIP: 43338
+- ZIP extension: 
+- State project ID: 05-0109
+- Latitude: 40.553187
+- Longitude: -82.846843
+- County FIPS: 39117
+- County from: 2020
+- Tract 2020: 39117965201
+- Tract 2010: 39117965200
+- Tract 2000: 39117985200
+- Tract 1990: 39117985200
+- Place 2020: 52738
+- Place 2010: 52738
+- Place 2000: 24598
+- Place 1990: 2815
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 733001
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 33
+- 4-bedroom units: 29
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

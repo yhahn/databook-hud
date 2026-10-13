@@ -1,0 +1,85 @@
+# Project: OCEAN GREEN SENIOR (NJA00000066)
+
+- HUD ID: NJA00000066
+- HUD ID before: 
+- Project: OCEAN GREEN SENIOR
+- Address: 748 OCEAN AVE
+- City: JERSEY CITY
+- State: NJ
+- ZIP: 07305
+- ZIP extension: 
+- State project ID: NJ1012-962
+- Latitude: 40.71135
+- Longitude: -74.075248
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017004500
+- Tract 2010: 34017004500
+- Tract 2000: 34017004500
+- Tract 1990: 34017004500
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 2290
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

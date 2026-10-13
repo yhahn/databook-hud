@@ -1,0 +1,85 @@
+# Project: FOSTER COLLIER GORDON MANOR (ARA20160004)
+
+- HUD ID: ARA20160004
+- HUD ID before: 
+- Project: FOSTER COLLIER GORDON MANOR
+- Address: 100 SARAH SAULS DR
+- City: MARIANNA
+- State: AR
+- ZIP: 72360
+- ZIP extension: 
+- State project ID: AR1403001-013
+- Latitude: 34.762655
+- Longitude: -90.753663
+- County FIPS: 05077
+- County from: 2020
+- Tract 2020: 05077470300
+- Tract 2010: 05077470300
+- Tract 2000: 05077970300
+- Tract 1990: 
+- Place 2020: 44120
+- Place 2010: 44120
+- Place 2000: 44120
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 331537
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 19
+- 3-bedroom units: 8
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: Disabled 4
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

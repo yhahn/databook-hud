@@ -1,0 +1,85 @@
+# Project: PRINCETON WOODS (VAA20020551)
+
+- HUD ID: VAA20020551
+- HUD ID before: 
+- Project: PRINCETON WOODS
+- Address: 3455 DRY POWDER CIR
+- City: DUMFRIES
+- State: VA
+- ZIP: 22026
+- ZIP extension: 
+- State project ID: 6997
+- Latitude: 38.580136
+- Longitude: -77.314582
+- County FIPS: 51153
+- County from: 2020
+- Tract 2020: 51153901015
+- Tract 2010: 51153901008
+- Tract 2000: 51153901008
+- Tract 1990: 51153901098
+- Place 2020: 15176
+- Place 2010: 15176
+- Place 2000: 
+- Place 1990: 0818
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 814635
+- Units: 276
+- Low-income units: 276
+- Units reported: 276
+- Low-income reported: 276
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 192
+- 3-bedroom units: 84
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2001165. AKA PRINCETON COMMONS APTS.
+- Record status: Existing, unchanged

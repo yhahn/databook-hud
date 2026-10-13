@@ -1,0 +1,85 @@
+# Project: MEDGAR EVERS HOUSES (NYC20060039)
+
+- HUD ID: NYC20060039
+- HUD ID before: 
+- Project: MEDGAR EVERS HOUSES
+- Address: 715 GATES AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11221
+- ZIP extension: 
+- State project ID: NY0302127
+- Latitude: 40.68795
+- Longitude: -73.936971
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047027700
+- Tract 2010: 36047027700
+- Tract 2000: 36047027700
+- Tract 1990: 36047027700
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 62864
+- Units: 32
+- Low-income units: 26
+- Units reported: 32
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 10
+- 3-bedroom units: 11
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GRACE PLACE (VAA20020075)
+
+- HUD ID: VAA20020075
+- HUD ID before: 
+- Project: GRACE PLACE
+- Address: 205 N FOURTH ST
+- City: RICHMOND
+- State: VA
+- ZIP: 23219
+- ZIP extension: 
+- State project ID: 989
+- Latitude: 37.542878
+- Longitude: -77.438659
+- County FIPS: 51760
+- County from: 2020
+- Tract 2020: 51760030501
+- Tract 2010: 51760030500
+- Tract 2000: 51760030500
+- Tract 1990: 51760030500
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 1035
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 130530
+- Units: 58
+- Low-income units: 52
+- Units reported: 58
+- Low-income reported: 52
+- Efficiencies: 9
+- 1-bedroom units: 26
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

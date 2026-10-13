@@ -1,0 +1,85 @@
+# Project: HERITAGE VILLAS (INDIAN RIVER) (FLA20080110)
+
+- HUD ID: FLA20080110
+- HUD ID before: 
+- Project: HERITAGE VILLAS (INDIAN RIVER)
+- Address: 4049 44TH MNR
+- City: VERO BEACH
+- State: FL
+- ZIP: 32967
+- ZIP extension: 
+- State project ID: 1780
+- Latitude: 27.674708
+- Longitude: -80.424591
+- County FIPS: 12061
+- County from: 2020
+- Tract 2020: 12061050304
+- Tract 2010: 12061050302
+- Tract 2000: 12061050302
+- Tract 1990: 12061050302
+- Place 2020: 25925
+- Place 2010: 25925
+- Place 2000: 25925
+- Place 1990: 0735
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 460862
+- Units: 116
+- Low-income units: 116
+- Units reported: 116
+- Low-income reported: 116
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 78
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

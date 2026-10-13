@@ -1,0 +1,85 @@
+# Project: SORRENTO AT MIRAMAR (FLA20180052)
+
+- HUD ID: FLA20180052
+- HUD ID before: 
+- Project: SORRENTO AT MIRAMAR
+- Address: 8991 SW 41ST STREET
+- City: MIRAMAR
+- State: FL
+- ZIP: 33025
+- ZIP extension: 
+- State project ID: 2493
+- Latitude: 25.972294
+- Longitude: -80.263881
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011110323
+- Tract 2010: 12011110323
+- Tract 2000: 12011110318
+- Tract 1990: 12011110300
+- Place 2020: 45975
+- Place 2010: 45975
+- Place 2000: 45975
+- Place 1990: 1700
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1160893
+- Units: 320
+- Low-income units: 320
+- Units reported: 320
+- Low-income reported: 320
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 164
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 3900000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

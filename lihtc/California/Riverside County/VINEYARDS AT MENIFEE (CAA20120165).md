@@ -1,0 +1,85 @@
+# Project: VINEYARDS AT MENIFEE (CAA20120165)
+
+- HUD ID: CAA20120165
+- HUD ID before: 
+- Project: VINEYARDS AT MENIFEE
+- Address: 29930 WINTER HAWK RD
+- City: MENIFEE
+- State: CA
+- ZIP: 92586
+- ZIP extension: 
+- State project ID: CA-10-140
+- Latitude: 33.686227
+- Longitude: -117.192818
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065042708
+- Tract 2010: 06065042708
+- Tract 2000: 06065042708
+- Tract 1990: 06065042702
+- Place 2020: 46842
+- Place 2010: 46842
+- Place 2000: 75826
+- Place 1990: 2823
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1582433
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 16
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 64
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1100000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

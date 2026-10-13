@@ -1,0 +1,85 @@
+# Project: ENGLEWOOD GARDENS (ILB19960015)
+
+- HUD ID: ILB19960015
+- HUD ID before: 
+- Project: ENGLEWOOD GARDENS
+- Address: 7000 S EGGLESTON AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60621
+- ZIP extension: 
+- State project ID: IL-TC-95-012
+- Latitude: 41.767115
+- Longitude: -87.63622
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031681200
+- Tract 2010: 17031681200
+- Tract 2000: 17031681200
+- Tract 1990: 17031681200
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 167
+- Low-income units: 167
+- Units reported: 167
+- Low-income reported: 167
+- Efficiencies: 13
+- 1-bedroom units: 70
+- 2-bedroom units: 57
+- 3-bedroom units: 27
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

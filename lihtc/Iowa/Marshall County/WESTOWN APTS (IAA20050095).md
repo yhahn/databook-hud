@@ -1,0 +1,85 @@
+# Project: WESTOWN APTS (IAA20050095)
+
+- HUD ID: IAA20050095
+- HUD ID before: 
+- Project: WESTOWN APTS
+- Address: 122 W MAIN ST
+- City: MARSHALLTOWN
+- State: IA
+- ZIP: 50158
+- ZIP extension: 
+- State project ID: 03-25
+- Latitude: 42.04901
+- Longitude: -92.914996
+- County FIPS: 19127
+- County from: 2020
+- Tract 2020: 19127950600
+- Tract 2010: 19127950600
+- Tract 2000: 19127950600
+- Tract 1990: 19127950600
+- Place 2020: 49755
+- Place 2010: 49755
+- Place 2000: 49755
+- Place 1990: 2685
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 350000
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LINN VALLEY APTS.
+- Record status: Existing, unchanged

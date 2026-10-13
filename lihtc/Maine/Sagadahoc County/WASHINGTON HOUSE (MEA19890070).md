@@ -1,0 +1,85 @@
+# Project: WASHINGTON HOUSE (MEA19890070)
+
+- HUD ID: MEA19890070
+- HUD ID before: 
+- Project: WASHINGTON HOUSE
+- Address: 809 WASHINGTON ST
+- City: BATH
+- State: ME
+- ZIP: 04530
+- ZIP extension: 
+- State project ID: ME-89-00042
+- Latitude: 43.912694
+- Longitude: -69.816835
+- County FIPS: 23023
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 23023970500
+- Tract 2000: 23023980500
+- Tract 1990: 23023980500
+- Place 2020: 
+- Place 2010: 03355
+- Place 2000: 03355
+- Place 1990: 0300
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 53
+- Low-income units: 52
+- Units reported: 53
+- Low-income reported: 52
+- Efficiencies: 9
+- 1-bedroom units: 42
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

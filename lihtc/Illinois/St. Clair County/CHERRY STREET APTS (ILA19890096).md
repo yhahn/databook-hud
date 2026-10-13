@@ -1,0 +1,85 @@
+# Project: CHERRY STREET APTS (ILA19890096)
+
+- HUD ID: ILA19890096
+- HUD ID before: 
+- Project: CHERRY STREET APTS
+- Address: 526 CHERRY ST
+- City: LEBANON
+- State: IL
+- ZIP: 62254
+- ZIP extension: 
+- State project ID: 301-89
+- Latitude: 38.599523
+- Longitude: -89.803311
+- County FIPS: 17163
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17163504302
+- Tract 2000: 17163504302
+- Tract 1990: 17163504302
+- Place 2020: 
+- Place 2010: 42496
+- Place 2000: 42496
+- Place 1990: 3165
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 3209
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000290.
+- Record status: Existing, unchanged

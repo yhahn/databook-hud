@@ -1,0 +1,85 @@
+# Project: ALICE GRIFFITH PHASE 1 (CAA20170008)
+
+- HUD ID: CAA20170008
+- HUD ID before: 
+- Project: ALICE GRIFFITH PHASE 1
+- Address: 2600 ARELIOUS WALKER DRIVE
+- City: SAN FRANCISCO
+- State: CA
+- ZIP: 94124
+- ZIP extension: 
+- State project ID: CA-14-895
+- Latitude: 37.7143
+- Longitude: -122.385
+- County FIPS: 06075
+- County from: 2020
+- Tract 2020: 06075023400
+- Tract 2010: 06075061000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 2303589
+- Units: 93
+- Low-income units: 88
+- Units reported: 93
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 51
+- 3-bedroom units: 7
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 86
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

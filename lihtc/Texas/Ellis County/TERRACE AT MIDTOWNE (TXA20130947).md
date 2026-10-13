@@ -1,0 +1,85 @@
+# Project: TERRACE AT MIDTOWNE (TXA20130947)
+
+- HUD ID: TXA20130947
+- HUD ID before: 
+- Project: TERRACE AT MIDTOWNE
+- Address: 991 ABIGAIL WAY
+- City: MIDLOTHIAN
+- State: TX
+- ZIP: 76065
+- ZIP extension: 
+- State project ID: TX4804
+- Latitude: 32.474548
+- Longitude: -96.990884
+- County FIPS: 48139
+- County from: 2020
+- Tract 2020: 48139060801
+- Tract 2010: 48139060801
+- Tract 2000: 48139060800
+- Tract 1990: 48139060800
+- Place 2020: 48096
+- Place 2010: 48096
+- Place 2000: 30464
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 92
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 95
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

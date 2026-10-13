@@ -1,0 +1,85 @@
+# Project: VICTORIAN INN (ORA19960065)
+
+- HUD ID: ORA19960065
+- HUD ID before: 
+- Project: VICTORIAN INN
+- Address: 2621 E BURNSIDE ST
+- City: PORTLAND
+- State: OR
+- ZIP: 97214
+- ZIP extension: 
+- State project ID: 1380
+- Latitude: 45.523019
+- Longitude: -122.63905
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051002002
+- Tract 2010: 41051002000
+- Tract 2000: 41051002000
+- Tract 1990: 41051002000
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 239980
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA0000045. AKA THE VICTORIAN APT.
+- Record status: Existing, unchanged

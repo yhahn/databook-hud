@@ -1,0 +1,85 @@
+# Project: SWEETWATER POINT (GAA20240044)
+
+- HUD ID: GAA20240044
+- HUD ID before: 
+- Project: SWEETWATER POINT
+- Address: 6125 STEWART PARKWAY
+- City: DOUGLASVILLE
+- State: GA
+- ZIP: 30135
+- ZIP extension: 0000
+- State project ID: 2020-521
+- Latitude: 33.721071
+- Longitude: -84.773719
+- County FIPS: 13097
+- County from: 2020
+- Tract 2020: 13097080505
+- Tract 2010: 13097080505
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23900
+- Place 2010: 23900
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 978301
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 55
+- 2-bedroom units: 41
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

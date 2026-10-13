@@ -1,0 +1,85 @@
+# Project: FLETCHER GARDENS (COA20060035)
+
+- HUD ID: COA20060035
+- HUD ID before: 
+- Project: FLETCHER GARDENS
+- Address: 1401 EMPORIA ST
+- City: AURORA
+- State: CO
+- ZIP: 80010
+- ZIP extension: 
+- State project ID: 0029-004
+- Latitude: 39.738285
+- Longitude: -104.874269
+- County FIPS: 08005
+- County from: 2020
+- Tract 2020: 08005007302
+- Tract 2010: 08005007302
+- Tract 2000: 08005007300
+- Tract 1990: 08005007300
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0055
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 278616
+- Units: 93
+- Low-income units: 93
+- Units reported: 93
+- Low-income reported: 93
+- Efficiencies: 0
+- 1-bedroom units: 93
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

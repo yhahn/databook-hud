@@ -1,0 +1,85 @@
+# Project: VILLANOVA APTS (OKA20089091)
+
+- HUD ID: OKA20089091
+- HUD ID before: 
+- Project: VILLANOVA APTS
+- Address: 305 NW FOURTH ST
+- City: LAWTON
+- State: OK
+- ZIP: 73507
+- ZIP extension: 
+- State project ID: 060111
+- Latitude: 34.613003
+- Longitude: -98.393442
+- County FIPS: 40031
+- County from: 2020
+- Tract 2020: 40031001100
+- Tract 2010: 40031001100
+- Tract 2000: 40031001100
+- Tract 1990: 40031001100
+- Place 2020: 41850
+- Place 2010: 41850
+- Place 2000: 41850
+- Place 1990: 1405
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 61
+- Units reported: 64
+- Low-income reported: 61
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

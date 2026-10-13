@@ -1,0 +1,85 @@
+# Project: LEGACY COMMONS II (CAA20181050)
+
+- HUD ID: CAA20181050
+- HUD ID before: 
+- Project: LEGACY COMMONS II
+- Address: 2255 S. PLUMAS STREET
+- City: FRESNO
+- State: CA
+- ZIP: 93706
+- ZIP extension: 
+- State project ID: CA-2016-148
+- Latitude: 36.719056
+- Longitude: -119.810991
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019000902
+- Tract 2010: 06019000902
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 1094460
+- Units: 64
+- Low-income units: 63
+- Units reported: 64
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 20
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 43
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TIMBERFALLS APARTMENTS (GAA19990210)
+
+- HUD ID: GAA19990210
+- HUD ID before: 
+- Project: TIMBERFALLS APARTMENTS
+- Address: 700 TIMBERFALLS CT
+- City: THOMASTON
+- State: GA
+- ZIP: 30286
+- ZIP extension: 2929
+- State project ID: GA-97-023
+- Latitude: 32.906695
+- Longitude: -84.340956
+- County FIPS: 13293
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 13293010201
+- Tract 2000: 13293990201
+- Tract 1990: 13293990200
+- Place 2020: 
+- Place 2010: 76168
+- Place 2000: 36416
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

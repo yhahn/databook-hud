@@ -1,0 +1,85 @@
+# Project: CHALET VILLAGE PHASE I (MSA19910056)
+
+- HUD ID: MSA19910056
+- HUD ID before: 
+- Project: CHALET VILLAGE PHASE I
+- Address: 530 HIAWATHA ST
+- City: JACKSON
+- State: MS
+- ZIP: 39204
+- ZIP extension: 
+- State project ID: MS-91-022
+- Latitude: 32.292332
+- Longitude: -90.196084
+- County FIPS: 28049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 28049003000
+- Tract 2000: 28049003000
+- Tract 1990: 28049003000
+- Place 2020: 
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 0615
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1991506, MSA0000170.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHESTNUT STREET HOUSING DEVELOPMENT (ARA19920025)
+
+- HUD ID: ARA19920025
+- HUD ID before: 
+- Project: CHESTNUT STREET HOUSING DEVELOPMENT
+- Address: 800 S CHESTNUT ST
+- City: PINE BLUFF
+- State: AR
+- ZIP: 71601
+- ZIP extension: 
+- State project ID: AR-92-01-001
+- Latitude: 34.222184
+- Longitude: -92.005647
+- County FIPS: 05069
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05069001000
+- Tract 2000: 05069001000
+- Tract 1990: 05069001000
+- Place 2020: 
+- Place 2010: 55310
+- Place 2000: 55310
+- Place 1990: 1615
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 10
+- 3-bedroom units: 4
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

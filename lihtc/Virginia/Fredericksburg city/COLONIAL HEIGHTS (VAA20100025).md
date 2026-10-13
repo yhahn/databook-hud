@@ -1,0 +1,85 @@
+# Project: COLONIAL HEIGHTS (VAA20100025)
+
+- HUD ID: VAA20100025
+- HUD ID before: 
+- Project: COLONIAL HEIGHTS
+- Address: 200 CHARLES ST
+- City: FREDERICKSBURG
+- State: VA
+- ZIP: 22401
+- ZIP extension: 
+- State project ID: 5307
+- Latitude: 38.294717
+- Longitude: -77.456732
+- County FIPS: 51630
+- County from: 2020
+- Tract 2020: 51630000400
+- Tract 2010: 51630000400
+- Tract 2000: 51630000400
+- Tract 1990: 51630000498
+- Place 2020: 29744
+- Place 2010: 29744
+- Place 2000: 29744
+- Place 1990: 0505
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 180000
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 8
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

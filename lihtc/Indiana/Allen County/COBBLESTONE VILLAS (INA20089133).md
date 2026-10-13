@@ -1,0 +1,85 @@
+# Project: COBBLESTONE VILLAS (INA20089133)
+
+- HUD ID: INA20089133
+- HUD ID before: 
+- Project: COBBLESTONE VILLAS
+- Address: 1920 HOBSON RD
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46805
+- ZIP extension: 
+- State project ID: IN-08-04000
+- Latitude: 41.094098
+- Longitude: -85.098166
+- County FIPS: 18003
+- County from: 2020
+- Tract 2020: 18003003500
+- Tract 2010: 18003003500
+- Tract 2000: 18003003500
+- Tract 1990: 18003003500
+- Place 2020: 25000
+- Place 2010: 25000
+- Place 2000: 25000
+- Place 1990: 0825
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 159
+- Units reported: 168
+- Low-income reported: 159
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: UNIVERSITY AVENUE AFFORDABLE HOUSING PRO (TNA20000055)
+
+- HUD ID: TNA20000055
+- HUD ID before: 
+- Project: UNIVERSITY AVENUE AFFORDABLE HOUSING PRO
+- Address: 1225 UNIVERSITY AVE
+- City: KNOXVILLE
+- State: TN
+- ZIP: 37921
+- ZIP extension: 
+- State project ID: TN-98-041
+- Latitude: 35.970922
+- Longitude: -83.935064
+- County FIPS: 47093
+- County from: 2020
+- Tract 2020: 47093007000
+- Tract 2010: 47093007000
+- Tract 2000: 47093001300
+- Tract 1990: 47093001300
+- Place 2020: 40000
+- Place 2010: 40000
+- Place 2000: 40000
+- Place 1990: 0760
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 354928
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 20
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

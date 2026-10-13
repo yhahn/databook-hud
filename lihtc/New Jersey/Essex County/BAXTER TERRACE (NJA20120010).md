@@ -1,0 +1,85 @@
+# Project: BAXTER TERRACE (NJA20120010)
+
+- HUD ID: NJA20120010
+- HUD ID before: 
+- Project: BAXTER TERRACE
+- Address: 2 WELLINGTON WAY
+- City: NEWARK
+- State: NJ
+- ZIP: 07103
+- ZIP extension: 3913
+- State project ID: 02591-1
+- Latitude: 40.745332
+- Longitude: -74.178365
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013001000
+- Tract 2010: 34013001000
+- Tract 2000: 34013001000
+- Tract 1990: 34013001000
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2895
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 1193561
+- Units: 90
+- Low-income units: 89
+- Units reported: 90
+- Low-income reported: 89
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 69
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000542, NJA0000513.
+- Record status: Updated

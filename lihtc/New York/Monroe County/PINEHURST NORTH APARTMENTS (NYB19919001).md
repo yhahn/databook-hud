@@ -1,0 +1,85 @@
+# Project: PINEHURST NORTH APARTMENTS (NYB19919001)
+
+- HUD ID: NYB19919001
+- HUD ID before: 
+- Project: PINEHURST NORTH APARTMENTS
+- Address: 1000 PINE TRAIL
+- City: HONEOYE FALLS
+- State: NY
+- ZIP: 14472
+- ZIP extension: 
+- State project ID: NY-95-1225
+- Latitude: 42.946878
+- Longitude: -77.601694
+- County FIPS: 36055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36055012401
+- Tract 2000: 36055012400
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 35364
+- Place 2000: 35364
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 30804
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 53
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

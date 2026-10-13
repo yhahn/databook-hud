@@ -1,0 +1,85 @@
+# Project: SHEFFIELD MEADOWS APTS (OHA19970250)
+
+- HUD ID: OHA19970250
+- HUD ID before: 
+- Project: SHEFFIELD MEADOWS APTS
+- Address: 4854 ONEIL BLVD
+- City: LORAIN
+- State: OH
+- ZIP: 44055
+- ZIP extension: 
+- State project ID: 950100
+- Latitude: 41.42386
+- Longitude: -82.152586
+- County FIPS: 39093
+- County from: 2020
+- Tract 2020: 39093024000
+- Tract 2010: 39093024000
+- Tract 2000: 39093024000
+- Tract 1990: 39093024000
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 44856
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 265510
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

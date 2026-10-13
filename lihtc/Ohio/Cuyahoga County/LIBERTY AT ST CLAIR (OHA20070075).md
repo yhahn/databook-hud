@@ -1,0 +1,85 @@
+# Project: LIBERTY AT ST CLAIR (OHA20070075)
+
+- HUD ID: OHA20070075
+- HUD ID before: 
+- Project: LIBERTY AT ST CLAIR
+- Address: 10004 ST CLAIR AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44108
+- ZIP extension: 
+- State project ID: 050055
+- Latitude: 41.53655
+- Longitude: -81.619983
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035116400
+- Tract 2010: 39035116400
+- Tract 2000: 39035116400
+- Tract 1990: 39035116400
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 829562
+- Units: 88
+- Low-income units: 72
+- Units reported: 88
+- Low-income reported: 72
+- Efficiencies: 88
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 750000
+- CDBG: Yes
+- CDBG amount: 500000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

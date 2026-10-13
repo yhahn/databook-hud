@@ -1,0 +1,85 @@
+# Project: 1310 KENTUCKY ST (KYA19930110)
+
+- HUD ID: KYA19930110
+- HUD ID before: 
+- Project: 1310 KENTUCKY ST
+- Address: 1310 KENTUCKY ST
+- City: BOWLING GREEN
+- State: KY
+- ZIP: 42101
+- ZIP extension: 
+- State project ID: KY-93-043
+- Latitude: 36.990711
+- Longitude: -86.451225
+- County FIPS: 21227
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 21227010100
+- Tract 2000: 21227010100
+- Tract 1990: 21227010100
+- Place 2020: 
+- Place 2010: 08902
+- Place 2000: 08902
+- Place 1990: 0200
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

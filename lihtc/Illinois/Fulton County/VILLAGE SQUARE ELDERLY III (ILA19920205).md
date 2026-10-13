@@ -1,0 +1,85 @@
+# Project: VILLAGE SQUARE ELDERLY III (ILA19920205)
+
+- HUD ID: ILA19920205
+- HUD ID before: 
+- Project: VILLAGE SQUARE ELDERLY III
+- Address: 1628 E MYRTLE ST
+- City: CANTON
+- State: IL
+- ZIP: 61520
+- ZIP extension: 
+- State project ID: 43991
+- Latitude: 40.564623
+- Longitude: -90.007076
+- County FIPS: 17057
+- County from: 2020
+- Tract 2020: 17057953600
+- Tract 2010: 17057953600
+- Tract 2000: 17057953600
+- Tract 1990: 17057953600
+- Place 2020: 11007
+- Place 2010: 11007
+- Place 2000: 11007
+- Place 1990: 0845
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 21249
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

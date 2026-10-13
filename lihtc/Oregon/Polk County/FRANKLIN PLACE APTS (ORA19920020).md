@@ -1,0 +1,85 @@
+# Project: FRANKLIN PLACE APTS (ORA19920020)
+
+- HUD ID: ORA19920020
+- HUD ID before: 
+- Project: FRANKLIN PLACE APTS
+- Address: 317 ECOLS ST S
+- City: MONMOUTH
+- State: OR
+- ZIP: 97361
+- ZIP extension: 
+- State project ID: OR92-222
+- Latitude: 44.846212
+- Longitude: -123.231547
+- County FIPS: 41053
+- County from: 2020
+- Tract 2020: 41053020304
+- Tract 2010: 41053020304
+- Tract 2000: 41053020301
+- Tract 1990: 41053020301
+- Place 2020: 49550
+- Place 2010: 49550
+- Place 2000: 36150
+- Place 1990: 0765
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 72670
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 14
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

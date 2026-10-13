@@ -1,0 +1,85 @@
+# Project: PROSPECT HOUSE (OHA20069765)
+
+- HUD ID: OHA20069765
+- HUD ID before: 
+- Project: PROSPECT HOUSE
+- Address: 245 S PROSPECT ST
+- City: RAVENNA
+- State: OH
+- ZIP: 44266
+- ZIP extension: 
+- State project ID: 040028
+- Latitude: 41.156316
+- Longitude: -81.241377
+- County FIPS: 39133
+- County from: 2020
+- Tract 2020: 39133601000
+- Tract 2010: 39133601000
+- Tract 2000: 39133601000
+- Tract 1990: 39133601000
+- Place 2020: 65592
+- Place 2010: 65592
+- Place 2000: 65592
+- Place 1990: 3595
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 245283
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 66
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007746, OHA2006180.
+- Record status: Existing, unchanged

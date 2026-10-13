@@ -1,0 +1,85 @@
+# Project: FAYETTE HILLS II APTS (WVA20080800)
+
+- HUD ID: WVA20080800
+- HUD ID before: 
+- Project: FAYETTE HILLS II APTS
+- Address: 75 LAUREL PL
+- City: FAYETTEVILLE
+- State: WV
+- ZIP: 25840
+- ZIP extension: 
+- State project ID: WV-07-306
+- Latitude: 38.047703
+- Longitude: -81.123619
+- County FIPS: 54019
+- County from: 2020
+- Tract 2020: 54019020101
+- Tract 2010: 54019020202
+- Tract 2000: 54019020200
+- Tract 1990: 54019020200
+- Place 2020: 27028
+- Place 2010: 99999
+- Place 2000: 27028
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 67
+- Units reported: 68
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 56
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WVA0000085.
+- Record status: Existing, unchanged

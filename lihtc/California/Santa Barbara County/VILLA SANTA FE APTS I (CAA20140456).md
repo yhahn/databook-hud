@@ -1,0 +1,85 @@
+# Project: VILLA SANTA FE APTS I (CAA20140456)
+
+- HUD ID: CAA20140456
+- HUD ID before: 
+- Project: VILLA SANTA FE APTS I
+- Address: 418 SANTA FE PL
+- City: SANTA BARBARA
+- State: CA
+- ZIP: 93109
+- ZIP extension: 
+- State project ID: CA-12-887
+- Latitude: 34.402619
+- Longitude: -119.713594
+- County FIPS: 06083
+- County from: 2020
+- Tract 2020: 06083001203
+- Tract 2010: 06083001203
+- Tract 2000: 06083001203
+- Tract 1990: 06083001203
+- Place 2020: 69070
+- Place 2010: 69070
+- Place 2000: 69070
+- Place 1990: 2575
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 574781
+- Units: 107
+- Low-income units: 102
+- Units reported: 107
+- Low-income reported: 102
+- Efficiencies: 0
+- 1-bedroom units: 106
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

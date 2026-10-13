@@ -1,0 +1,85 @@
+# Project: DE ANZA HOTEL (CAA19980125)
+
+- HUD ID: CAA19980125
+- HUD ID before: 
+- Project: DE ANZA HOTEL
+- Address: 233 E FOURTH ST
+- City: CALEXICO
+- State: CA
+- ZIP: 92231
+- ZIP extension: 
+- State project ID: CA-96-217
+- Latitude: 32.668959
+- Longitude: -115.495617
+- County FIPS: 06025
+- County from: 2020
+- Tract 2020: 06025012101
+- Tract 2010: 06025012100
+- Tract 2000: 06025012100
+- Tract 1990: 06025012100
+- Place 2020: 09710
+- Place 2010: 09710
+- Place 2000: 09710
+- Place 1990: 0365
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 477522
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: STAYTON ELDER MANOR (ORA19980110)
+
+- HUD ID: ORA19980110
+- HUD ID before: 
+- Project: STAYTON ELDER MANOR
+- Address: 660 W IDA ST
+- City: STAYTON
+- State: OR
+- ZIP: 97383
+- ZIP extension: 
+- State project ID: X001-260
+- Latitude: 44.797033
+- Longitude: -122.800517
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047010701
+- Tract 2010: 41047010701
+- Tract 2000: 41047010701
+- Tract 1990: 41047010700
+- Place 2020: 70200
+- Place 2010: 70200
+- Place 2000: 70200
+- Place 1990: 1095
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 167169
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 267153
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

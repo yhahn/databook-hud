@@ -1,0 +1,85 @@
+# Project: TILL BUILDING (MAB20080100)
+
+- HUD ID: MAB20080100
+- HUD ID before: 
+- Project: TILL BUILDING
+- Address: 241 BROADWAY
+- City: CHELSEA
+- State: MA
+- ZIP: 02150
+- ZIP extension: 
+- State project ID: MA-1154
+- Latitude: 42.390447
+- Longitude: -71.037881
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025160200
+- Tract 2010: 25025160200
+- Tract 2000: 25025160200
+- Tract 1990: 25025160200
+- Place 2020: 13205
+- Place 2010: 13205
+- Place 2000: 13205
+- Place 1990: 0700
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 320850
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 19
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB2007085, MAB0000652.;
+- Record status: Existing, unchanged

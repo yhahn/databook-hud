@@ -1,0 +1,85 @@
+# Project: CARIBBEAN WEST (FLA19950803)
+
+- HUD ID: FLA19950803
+- HUD ID before: 
+- Project: CARIBBEAN WEST
+- Address: 12140 SW 200TH ST.
+- City: SOUTH MIAMI HEIGHTS
+- State: FL
+- ZIP: 33177
+- ZIP extension: 
+- State project ID: 132
+- Latitude: 25.580728
+- Longitude: -80.387732
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010213
+- Tract 2010: 12086010210
+- Tract 2000: 12086010203
+- Tract 1990: 12025010203
+- Place 2020: 67575
+- Place 2010: 67575
+- Place 2000: 26950
+- Place 1990: 2007
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 1480000
+- Units: 102
+- Low-income units: 102
+- Units reported: 102
+- Low-income reported: 102
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 44
+- 3-bedroom units: 50
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1480000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

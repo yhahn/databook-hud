@@ -1,0 +1,85 @@
+# Project: PIEDMONT PINE APARTMENTS (GAA19900215)
+
+- HUD ID: GAA19900215
+- HUD ID before: 
+- Project: PIEDMONT PINE APARTMENTS
+- Address: 825 PIEDMONT WOODS CIR
+- City: BARNESVILLE
+- State: GA
+- ZIP: 30204
+- ZIP extension: 
+- State project ID: GA-89-052
+- Latitude: 33.044232
+- Longitude: -84.139209
+- County FIPS: 13171
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 13171970200
+- Tract 2000: 13171970200
+- Tract 1990: 13171970200
+- Place 2020: 
+- Place 2010: 05344
+- Place 2000: 05344
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PIEDMONT DEVELOPMENT CO OF LAMAR.
+- Record status: Existing, unchanged

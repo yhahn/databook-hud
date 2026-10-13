@@ -1,0 +1,85 @@
+# Project: EPHRATA FAMILY HOUSING (PAA19990082)
+
+- HUD ID: PAA19990082
+- HUD ID before: 
+- Project: EPHRATA FAMILY HOUSING
+- Address: 10 W LOCUST ST
+- City: EPHRATA
+- State: PA
+- ZIP: 17522
+- ZIP extension: 
+- State project ID: TC19980060
+- Latitude: 40.180079
+- Longitude: -76.176032
+- County FIPS: 42071
+- County from: 2020
+- Tract 2020: 42071012301
+- Tract 2010: 42071012301
+- Tract 2000: 42071012301
+- Tract 1990: 42071012301
+- Place 2020: 23832
+- Place 2010: 23832
+- Place 2000: 23832
+- Place 1990: 3675
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 80364
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 9
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2000050.
+- Record status: Existing, unchanged

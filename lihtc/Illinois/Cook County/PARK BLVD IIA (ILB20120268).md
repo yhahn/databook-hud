@@ -1,0 +1,85 @@
+# Project: PARK BLVD IIA (ILB20120268)
+
+- HUD ID: ILB20120268
+- HUD ID before: 
+- Project: PARK BLVD IIA
+- Address: 3622 S STATE ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60609
+- ZIP extension: 
+- State project ID: 17334080720000
+- Latitude: 41.828136
+- Longitude: -87.626748
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031351500
+- Tract 2010: 17031351500
+- Tract 2000: 17031351500
+- Tract 1990: 17031351500
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 128
+- Low-income units: 99
+- Units reported: 128
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 4
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COTTAGES OF MARTINSBURG (WVA19970005)
+
+- HUD ID: WVA19970005
+- HUD ID before: 
+- Project: COTTAGES OF MARTINSBURG
+- Address: 17 COTTAGE RD
+- City: MARTINSBURG
+- State: WV
+- ZIP: 25404
+- ZIP extension: 
+- State project ID: WV-95-01001
+- Latitude: 39.47909
+- Longitude: -77.940001
+- County FIPS: 54003
+- County from: 2020
+- Tract 2020: 54003971402
+- Tract 2010: 54003971400
+- Tract 2000: 54003971400
+- Tract 1990: 54003971400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 52060
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WVA0000185.
+- Record status: Existing, unchanged

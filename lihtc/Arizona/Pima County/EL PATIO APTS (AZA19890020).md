@@ -1,0 +1,85 @@
+# Project: EL PATIO APTS (AZA19890020)
+
+- HUD ID: AZA19890020
+- HUD ID before: 
+- Project: EL PATIO APTS
+- Address: 1347 E BENSON HWY
+- City: TUCSON
+- State: AZ
+- ZIP: 85714
+- ZIP extension: 
+- State project ID: 
+- Latitude: 32.177095
+- Longitude: -110.951315
+- County FIPS: 04019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04019002201
+- Tract 2000: 04019002200
+- Tract 1990: 04019002200
+- Place 2020: 
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 0380
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

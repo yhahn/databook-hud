@@ -1,0 +1,85 @@
+# Project: MOLINE ENTERPRISE LIVE-WORK LOFTS (ILA20120002)
+
+- HUD ID: ILA20120002
+- HUD ID before: 
+- Project: MOLINE ENTERPRISE LIVE-WORK LOFTS
+- Address: 1809 RIVER DR
+- City: MOLINE
+- State: IL
+- ZIP: 61265
+- ZIP extension: 
+- State project ID: 10338
+- Latitude: 41.509805
+- Longitude: -90.51359
+- County FIPS: 17161
+- County from: 2020
+- Tract 2020: 17161022300
+- Tract 2010: 17161022300
+- Tract 2000: 17161022300
+- Tract 1990: 17161022300
+- Place 2020: 49867
+- Place 2010: 49867
+- Place 2000: 49867
+- Place 1990: 3805
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1075000
+- Units: 69
+- Low-income units: 50
+- Units reported: 69
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 26
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 6541910
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

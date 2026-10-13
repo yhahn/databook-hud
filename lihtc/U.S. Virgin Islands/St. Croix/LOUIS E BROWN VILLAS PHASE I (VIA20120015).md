@@ -1,0 +1,85 @@
+# Project: LOUIS E BROWN VILLAS PHASE I (VIA20120015)
+
+- HUD ID: VIA20120015
+- HUD ID before: 
+- Project: LOUIS E BROWN VILLAS PHASE I
+- Address: 1000 LOUIS BROWN
+- City: FREDERIKSTED
+- State: VI
+- ZIP: 
+- ZIP extension: 
+- State project ID: 
+- Latitude: 
+- Longitude: 
+- County FIPS: 78010
+- County from: 2020
+- Tract 2020: 78010971400
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 77568
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 3000000
+- Units: 101
+- Low-income units: 100
+- Units reported: 101
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 50
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 77
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LOUIS E BROWN I.
+- Record status: Existing, unchanged

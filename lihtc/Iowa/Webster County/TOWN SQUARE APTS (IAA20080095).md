@@ -1,0 +1,85 @@
+# Project: TOWN SQUARE APTS (IAA20080095)
+
+- HUD ID: IAA20080095
+- HUD ID before: 
+- Project: TOWN SQUARE APTS
+- Address: 328 CENTRAL AVE
+- City: FORT DODGE
+- State: IA
+- ZIP: 50501
+- ZIP extension: 
+- State project ID: 07-10
+- Latitude: 42.504399
+- Longitude: -94.193718
+- County FIPS: 19187
+- County from: 2020
+- Tract 2020: 19187000700
+- Tract 2010: 19187000700
+- Tract 2000: 19187000700
+- Tract 1990: 19187000700
+- Place 2020: 28515
+- Place 2010: 28515
+- Place 2000: 28515
+- Place 1990: 1515
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 310426
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

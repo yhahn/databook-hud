@@ -1,0 +1,85 @@
+# Project: OTERO VILLAGE (NMA20010035)
+
+- HUD ID: NMA20010035
+- HUD ID before: 
+- Project: OTERO VILLAGE
+- Address: 2553 FIRST ST
+- City: ALAMOGORDO
+- State: NM
+- ZIP: 88310
+- ZIP extension: 
+- State project ID: 00295
+- Latitude: 32.846679
+- Longitude: -106.084496
+- County FIPS: 35035
+- County from: 2020
+- Tract 2020: 35035000601
+- Tract 2010: 35035000601
+- Tract 2000: 35035000401
+- Tract 1990: 35035000401
+- Place 2020: 32940
+- Place 2010: 32940
+- Place 2000: 01780
+- Place 1990: 0010
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

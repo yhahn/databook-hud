@@ -1,0 +1,85 @@
+# Project: VICTORIA POINTE (FLA19950810)
+
+- HUD ID: FLA19950810
+- HUD ID before: 
+- Project: VICTORIA POINTE
+- Address: 3950 S SUMTER BLVD
+- City: NORTH PORT
+- State: FL
+- ZIP: 34287
+- ZIP extension: 
+- State project ID: 888
+- Latitude: 27.05098
+- Longitude: -82.21628
+- County FIPS: 12115
+- County from: 2020
+- Tract 2020: 12115002737
+- Tract 2010: 12115002711
+- Tract 2000: 12115002711
+- Tract 1990: 12115002702
+- Place 2020: 49675
+- Place 2010: 49675
+- Place 2000: 49675
+- Place 1990: 1520
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

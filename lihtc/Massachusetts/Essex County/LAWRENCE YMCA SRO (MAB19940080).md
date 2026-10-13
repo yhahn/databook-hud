@@ -1,0 +1,85 @@
+# Project: LAWRENCE YMCA SRO (MAB19940080)
+
+- HUD ID: MAB19940080
+- HUD ID before: 
+- Project: LAWRENCE YMCA SRO
+- Address: 40 LAWRENCE ST
+- City: LAWRENCE
+- State: MA
+- ZIP: 01840
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.709157
+- Longitude: -71.162294
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009250100
+- Tract 2010: 25009250100
+- Tract 2000: 25009250100
+- Tract 1990: 25009250100
+- Place 2020: 34550
+- Place 2010: 34550
+- Place 2000: 34550
+- Place 1990: 2030
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 73
+- Low-income units: 73
+- Units reported: 73
+- Low-income reported: 73
+- Efficiencies: 73
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

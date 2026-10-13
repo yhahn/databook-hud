@@ -1,0 +1,85 @@
+# Project: LANTERN WOODS APTS (IAA19890160)
+
+- HUD ID: IAA19890160
+- HUD ID before: 
+- Project: LANTERN WOODS APTS
+- Address: 1605 COLLINS ST
+- City: WEBSTER CITY
+- State: IA
+- ZIP: 50595
+- ZIP extension: 
+- State project ID: 88-08
+- Latitude: 42.463077
+- Longitude: -93.843259
+- County FIPS: 19079
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19079960400
+- Tract 2000: 19079960400
+- Tract 1990: 19079960400
+- Place 2020: 
+- Place 2010: 83145
+- Place 2000: 83145
+- Place 1990: 4500
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 27028
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LANTERN GROVE APTS.
+- Record status: Existing, unchanged

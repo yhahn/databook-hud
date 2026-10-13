@@ -1,0 +1,85 @@
+# Project: HARVARD RANCH APTS FOR SENIORS (ILA19960105)
+
+- HUD ID: ILA19960105
+- HUD ID before: 
+- Project: HARVARD RANCH APTS FOR SENIORS
+- Address: 820 W METZEN ST
+- City: HARVARD
+- State: IL
+- ZIP: 60033
+- ZIP extension: 
+- State project ID: 75694
+- Latitude: 42.418373
+- Longitude: -88.62703
+- County FIPS: 17111
+- County from: 2020
+- Tract 2020: 17111870302
+- Tract 2010: 17111870302
+- Tract 2000: 17111870300
+- Tract 1990: 17111870300
+- Place 2020: 33331
+- Place 2010: 33331
+- Place 2000: 33331
+- Place 1990: 2475
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 362427
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

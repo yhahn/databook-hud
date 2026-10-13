@@ -1,0 +1,85 @@
+# Project: CATOCTIN VIEW APTS (MDA20211002)
+
+- HUD ID: MDA20211002
+- HUD ID before: 
+- Project: CATOCTIN VIEW APTS
+- Address: 800 MOTTER AVENUE
+- City: FREDERICK
+- State: MD
+- ZIP: 21701
+- ZIP extension: 
+- State project ID: MD-18-28001-7
+- Latitude: 39.424757
+- Longitude: -77.410661
+- County FIPS: 24021
+- County from: 2020
+- Tract 2020: 24021750801
+- Tract 2010: 24021750801
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 30325
+- Place 2010: 30325
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1077922
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 
+- 1-bedroom units: 76
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 76
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: Yes
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

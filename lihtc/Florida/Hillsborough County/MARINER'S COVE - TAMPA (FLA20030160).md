@@ -1,0 +1,85 @@
+# Project: MARINER'S COVE - TAMPA (FLA20030160)
+
+- HUD ID: FLA20030160
+- HUD ID before: 
+- Project: MARINER'S COVE - TAMPA
+- Address: 4012 MARINERS COVE CT
+- City: TAMPA
+- State: FL
+- ZIP: 33610
+- ZIP extension: 
+- State project ID: 1184
+- Latitude: 27.98164
+- Longitude: -82.345694
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057012103
+- Tract 2010: 12057012103
+- Tract 2000: 12057012103
+- Tract 1990: 12057012103
+- Place 2020: 19212
+- Place 2010: 19212
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 208
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 100
+- 3-bedroom units: 84
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

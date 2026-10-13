@@ -1,0 +1,85 @@
+# Project: JAZZ DISTRICT APTS PHASE II (MOA20060148)
+
+- HUD ID: MOA20060148
+- HUD ID before: 
+- Project: JAZZ DISTRICT APTS PHASE II
+- Address: 1851 PASEO BLVD
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64108
+- ZIP extension: 
+- State project ID: 04-057
+- Latitude: 39.09035
+- Longitude: -94.564313
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095016100
+- Tract 2010: 29095016100
+- Tract 2000: 29095003200
+- Tract 1990: 29095003200
+- Place 2020: 38000
+- Place 2010: 38000
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 464253
+- Units: 59
+- Low-income units: 39
+- Units reported: 59
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1741677
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

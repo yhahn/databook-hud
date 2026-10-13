@@ -1,0 +1,85 @@
+# Project: ENCLAVE ON WOODBRIDGE (FLA20050112)
+
+- HUD ID: FLA20050112
+- HUD ID before: 
+- Project: ENCLAVE ON WOODBRIDGE
+- Address: 95150 WOODBRIDGE PKWY
+- City: FERNANDINA BEACH
+- State: FL
+- ZIP: 32034
+- ZIP extension: 
+- State project ID: 1437
+- Latitude: 30.606081
+- Longitude: -81.513828
+- County FIPS: 12089
+- County from: 2020
+- Tract 2020: 12089050308
+- Tract 2010: 12089050303
+- Tract 2000: 12089050303
+- Tract 1990: 12089050300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 79175
+- Place 1990: 2297
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 470284
+- Units: 192
+- Low-income units: 148
+- Units reported: 192
+- Low-income reported: 148
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 112
+- 3-bedroom units: 32
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA NASSAU CLUB
+- Record status: Existing, unchanged

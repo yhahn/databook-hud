@@ -1,0 +1,85 @@
+# Project: WHEATON APTS (MOA19980285)
+
+- HUD ID: MOA19980285
+- HUD ID before: 
+- Project: WHEATON APTS
+- Address: 300 HILL ST
+- City: WHEATON
+- State: MO
+- ZIP: 64874
+- ZIP extension: 
+- State project ID: 96-052
+- Latitude: 36.761486
+- Longitude: -94.04855
+- County FIPS: 29009
+- County from: 2020
+- Tract 2020: 29009960201
+- Tract 2010: 29009960200
+- Tract 2000: 29009960200
+- Tract 1990: 29009960200
+- Place 2020: 79126
+- Place 2010: 79126
+- Place 2000: 49196
+- Place 1990: 3570
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WHEATON/BLUE RIDGE APTS.
+- Record status: Existing, unchanged

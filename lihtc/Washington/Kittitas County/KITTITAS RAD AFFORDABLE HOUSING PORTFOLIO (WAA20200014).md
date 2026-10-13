@@ -1,0 +1,85 @@
+# Project: KITTITAS RAD AFFORDABLE HOUSING PORTFOLIO (WAA20200014)
+
+- HUD ID: WAA20200014
+- HUD ID before: 
+- Project: KITTITAS RAD AFFORDABLE HOUSING PORTFOLIO
+- Address: 107 W. 11TH AVE
+- City: ELLENSBURG
+- State: WA
+- ZIP: 98926
+- ZIP extension: 
+- State project ID: 18-75A
+- Latitude: 47.002959
+- Longitude: -120.547307
+- County FIPS: 53037
+- County from: 2020
+- Tract 2020: 53037975500
+- Tract 2010: 53037975500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 21240
+- Place 2010: 21240
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 797044
+- Units: 110
+- Low-income units: 109
+- Units reported: 110
+- Low-income reported: 109
+- Efficiencies: 10
+- 1-bedroom units: 22
+- 2-bedroom units: 40
+- 3-bedroom units: 34
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 31
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

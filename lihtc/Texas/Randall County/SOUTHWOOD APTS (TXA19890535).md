@@ -1,0 +1,85 @@
+# Project: SOUTHWOOD APTS (TXA19890535)
+
+- HUD ID: TXA19890535
+- HUD ID before: 
+- Project: SOUTHWOOD APTS
+- Address: 5700 CANYON DR
+- City: AMARILLO
+- State: TX
+- ZIP: 79109
+- ZIP extension: 
+- State project ID: TX6808
+- Latitude: 35.149143
+- Longitude: -101.885306
+- County FIPS: 48381
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48381021300
+- Tract 2000: 48381021300
+- Tract 1990: 48381021300
+- Place 2020: 
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0100
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

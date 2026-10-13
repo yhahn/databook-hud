@@ -1,0 +1,85 @@
+# Project: SARGEANT WEST (MAB20050100)
+
+- HUD ID: MAB20050100
+- HUD ID before: 
+- Project: SARGEANT WEST
+- Address: 63 JACKSON ST
+- City: HOLYOKE
+- State: MA
+- ZIP: 01040
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.197385
+- Longitude: -72.614379
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013811600
+- Tract 2010: 25013811600
+- Tract 2000: 25013811600
+- Tract 1990: 25013811600
+- Place 2020: 30840
+- Place 2010: 30840
+- Place 2000: 30840
+- Place 1990: 1830
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 154
+- Low-income units: 154
+- Units reported: 154
+- Low-income reported: 154
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 46
+- 3-bedroom units: 41
+- 4-bedroom units: 11
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SARGEANT HOLYOKE LLC.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: STEBBINS - PROSPECT (NYC20110573)
+
+- HUD ID: NYC20110573
+- HUD ID before: 
+- Project: STEBBINS - PROSPECT
+- Address: 758 E 168TH ST
+- City: BRONX
+- State: NY
+- ZIP: 10456
+- ZIP extension: 
+- State project ID: 0902034
+- Latitude: 40.829212
+- Longitude: -73.901326
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005013500
+- Tract 2010: 36005013500
+- Tract 2000: 36005013500
+- Tract 1990: 36005013500
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1162111
+- Units: 100
+- Low-income units: 98
+- Units reported: 100
+- Low-income reported: 98
+- Efficiencies: 2
+- 1-bedroom units: 39
+- 2-bedroom units: 31
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 27
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1038976
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2011095, NYC2009300.
+- Record status: Existing, unchanged

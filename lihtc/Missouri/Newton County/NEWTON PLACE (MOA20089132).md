@@ -1,0 +1,85 @@
+# Project: NEWTON PLACE (MOA20089132)
+
+- HUD ID: MOA20089132
+- HUD ID before: 
+- Project: NEWTON PLACE
+- Address: 106 N WASHINGTON ST
+- City: NEOSHO
+- State: MO
+- ZIP: 64850
+- ZIP extension: 
+- State project ID: 07-099
+- Latitude: 36.869722
+- Longitude: -94.367416
+- County FIPS: 29145
+- County from: 2020
+- Tract 2020: 29145020100
+- Tract 2010: 29145020100
+- Tract 2000: 29145020100
+- Tract 1990: 29145020100
+- Place 2020: 51572
+- Place 2010: 51572
+- Place 2000: 51572
+- Place 1990: 3005
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 14
+- Low-income reported: 15
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

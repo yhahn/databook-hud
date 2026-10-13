@@ -1,0 +1,85 @@
+# Project: VILLA TORRE FAMILY APTS PHASE 2 (CAA20039674)
+
+- HUD ID: CAA20039674
+- HUD ID before: 
+- Project: VILLA TORRE FAMILY APTS PHASE 2
+- Address: 965 S SIXTH ST
+- City: SAN JOSE
+- State: CA
+- ZIP: 95112
+- ZIP extension: 
+- State project ID: CA-01-861
+- Latitude: 37.32413
+- Longitude: -121.874617
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085503112
+- Tract 2010: 06085503112
+- Tract 2000: 06085503112
+- Tract 1990: 06085503101
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 2510
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 88
+- Low-income units: 87
+- Units reported: 88
+- Low-income reported: 87
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

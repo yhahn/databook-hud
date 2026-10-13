@@ -1,0 +1,85 @@
+# Project: HOTEL SAN CARLOS (AZA19960035)
+
+- HUD ID: AZA19960035
+- HUD ID before: 
+- Project: HOTEL SAN CARLOS
+- Address: 106 E FIRST ST
+- City: YUMA
+- State: AZ
+- ZIP: 85364
+- ZIP extension: 
+- State project ID: AZ-95-0116
+- Latitude: 32.725519
+- Longitude: -114.617614
+- County FIPS: 04027
+- County from: 2020
+- Tract 2020: 04027000100
+- Tract 2010: 04027000100
+- Tract 2000: 04027000100
+- Tract 1990: 04027000100
+- Place 2020: 85540
+- Place 2010: 85540
+- Place 2000: 85540
+- Place 1990: 0415
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 29
+- 1-bedroom units: 31
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

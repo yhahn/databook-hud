@@ -1,0 +1,85 @@
+# Project: WILLCOX SENIOR APTS (AZA19930075)
+
+- HUD ID: AZA19930075
+- HUD ID before: 
+- Project: WILLCOX SENIOR APTS
+- Address: 457 W SCOTT ST
+- City: WILLCOX
+- State: AZ
+- ZIP: 85643
+- ZIP extension: 
+- State project ID: TC-0074
+- Latitude: 32.266248
+- Longitude: -109.835058
+- County FIPS: 04003
+- County from: 2020
+- Tract 2020: 04003000202
+- Tract 2010: 04003000202
+- Tract 2000: 04003000200
+- Tract 1990: 04003000200
+- Place 2020: 83090
+- Place 2010: 83090
+- Place 2000: 83090
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000501.
+- Record status: Existing, unchanged

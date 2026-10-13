@@ -1,0 +1,85 @@
+# Project: 29TH ST APTS (CAA00000100)
+
+- HUD ID: CAA00000100
+- HUD ID before: 
+- Project: 29TH ST APTS
+- Address: 402 S 29TH ST
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92113
+- ZIP extension: 
+- State project ID: CA-87-044
+- Latitude: 32.702176
+- Longitude: -117.131898
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073003901
+- Tract 2010: 06073003901
+- Tract 2000: 06073003901
+- Tract 1990: 06073003900
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 5
+- Low-income units: 5
+- Units reported: 5
+- Low-income reported: 5
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

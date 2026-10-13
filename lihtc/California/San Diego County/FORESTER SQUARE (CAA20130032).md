@@ -1,0 +1,85 @@
+# Project: FORESTER SQUARE (CAA20130032)
+
+- HUD ID: CAA20130032
+- HUD ID before: 
+- Project: FORESTER SQUARE
+- Address: 9570 VIA ZAPADOR
+- City: SANTEE
+- State: CA
+- ZIP: 92071
+- ZIP extension: 
+- State project ID: CA-11-887
+- Latitude: 32.835482
+- Longitude: -116.988486
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073016616
+- Tract 2010: 06073016616
+- Tract 2000: 06073016616
+- Tract 1990: 06073016602
+- Place 2020: 70224
+- Place 2010: 70224
+- Place 2000: 21712
+- Place 1990: 2623
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 477553
+- Units: 44
+- Low-income units: 43
+- Units reported: 44
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 12
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 490000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

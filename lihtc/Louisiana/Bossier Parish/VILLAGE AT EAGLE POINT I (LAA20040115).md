@@ -1,0 +1,85 @@
+# Project: VILLAGE AT EAGLE POINT I (LAA20040115)
+
+- HUD ID: LAA20040115
+- HUD ID before: 
+- Project: VILLAGE AT EAGLE POINT I
+- Address: 2334 RIVERWOOD
+- City: BOSSIER CITY
+- State: LA
+- ZIP: 71111
+- ZIP extension: 0000
+- State project ID: LA-03-005
+- Latitude: 32.540517
+- Longitude: -93.71912
+- County FIPS: 22015
+- County from: 2020
+- Tract 2020: 22015010500
+- Tract 2010: 22015010500
+- Tract 2000: 22015010500
+- Tract 1990: 22015010500
+- Place 2020: 08920
+- Place 2010: 08920
+- Place 2000: 08920
+- Place 1990: 0140
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 271573
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

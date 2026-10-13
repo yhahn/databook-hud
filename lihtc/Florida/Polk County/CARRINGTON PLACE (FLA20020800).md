@@ -1,0 +1,85 @@
+# Project: CARRINGTON PLACE (FLA20020800)
+
+- HUD ID: FLA20020800
+- HUD ID before: 
+- Project: CARRINGTON PLACE
+- Address: 1141 KETTLES AVE
+- City: LAKELAND
+- State: FL
+- ZIP: 
+- ZIP extension: 
+- State project ID: 226
+- Latitude: 28.058225
+- Longitude: -81.963258
+- County FIPS: 12105
+- County from: 2020
+- Tract 2020: 12105011202
+- Tract 2010: 12105011202
+- Tract 2000: 12105011202
+- Tract 1990: 12105011202
+- Place 2020: 38250
+- Place 2010: 38250
+- Place 2000: 38250
+- Place 1990: 1136
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 19
+- 3-bedroom units: 9
+- 4-bedroom units: 12
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

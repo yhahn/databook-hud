@@ -1,0 +1,85 @@
+# Project: 919 @ CROSS LINK (NCA0000X594)
+
+- HUD ID: NCA0000X594
+- HUD ID before: 
+- Project: 919 @ CROSS LINK
+- Address: 919 CROSS LINK RD
+- City: RALEIGH
+- State: NC
+- ZIP: 27610
+- ZIP extension: 
+- State project ID: 9287668
+- Latitude: 35.742347
+- Longitude: -78.62414
+- County FIPS: 37183
+- County from: 2020
+- Tract 2020: 37183052101
+- Tract 2010: 37183052101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 142
+- Low-income units: 142
+- Units reported: 142
+- Low-income reported: 142
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 80
+- 3-bedroom units: 46
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 142
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

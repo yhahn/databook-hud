@@ -1,0 +1,85 @@
+# Project: T BUILDING (NYC20212032)
+
+- HUD ID: NYC20212032
+- HUD ID before: 
+- Project: T BUILDING
+- Address: 82-41 PARSONS BOULEVARD
+- City: QUEENS
+- State: NY
+- ZIP: 11432
+- ZIP extension: 
+- State project ID: NY 19 02 015
+- Latitude: 40.717323
+- Longitude: -73.808039
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081126700
+- Tract 2010: 36081126700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 3700000
+- Units: 200
+- Low-income units: 149
+- Units reported: 200
+- Low-income reported: 149
+- Efficiencies: 90
+- 1-bedroom units: 49
+- 2-bedroom units: 53
+- 3-bedroom units: 7
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

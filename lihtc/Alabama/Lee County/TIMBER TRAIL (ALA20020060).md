@@ -1,0 +1,85 @@
+# Project: TIMBER TRAIL (ALA20020060)
+
+- HUD ID: ALA20020060
+- HUD ID before: 
+- Project: TIMBER TRAIL
+- Address: 1372 COMMERCE DR
+- City: AUBURN
+- State: AL
+- ZIP: 36830
+- ZIP extension: 
+- State project ID: AL-02-0007
+- Latitude: 32.634781
+- Longitude: -85.440959
+- County FIPS: 01081
+- County from: 2020
+- Tract 2020: 01081041102
+- Tract 2010: 01081041100
+- Tract 2000: 01081041100
+- Tract 1990: 01081041100
+- Place 2020: 03076
+- Place 2010: 03076
+- Place 2000: 03076
+- Place 1990: 1310
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 339494
+- Units: 56
+- Low-income units: 47
+- Units reported: 56
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 56
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1182947
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2004100. AKA APARTMENTS HOUSING OF AUBURN.
+- Record status: Existing, unchanged

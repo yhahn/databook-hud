@@ -1,0 +1,85 @@
+# Project: ROLLING HILLS APTS (CAA20110405)
+
+- HUD ID: CAA20110405
+- HUD ID before: 
+- Project: ROLLING HILLS APTS
+- Address: 971 LAS TABLAS RD
+- City: TEMPLETON
+- State: CA
+- ZIP: 93465
+- ZIP extension: 
+- State project ID: CA-10-517
+- Latitude: 35.554219
+- Longitude: -120.715471
+- County FIPS: 06079
+- County from: 2020
+- Tract 2020: 06079012707
+- Tract 2010: 06079012704
+- Tract 2000: 06079012704
+- Tract 1990: 06079010000
+- Place 2020: 78162
+- Place 2010: 78162
+- Place 2000: 03064
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 194913
+- Units: 53
+- Low-income units: 52
+- Units reported: 53
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 32
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 46
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 414959
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011593.
+- Record status: Existing, unchanged

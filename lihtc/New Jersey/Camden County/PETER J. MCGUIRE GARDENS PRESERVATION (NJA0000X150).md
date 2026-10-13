@@ -1,0 +1,85 @@
+# Project: PETER J. MCGUIRE GARDENS PRESERVATION (NJA0000X150)
+
+- HUD ID: NJA0000X150
+- HUD ID before: 
+- Project: PETER J. MCGUIRE GARDENS PRESERVATION
+- Address: 20000 WESTMINSTER AVENUE
+- City: CAMDEN CITY
+- State: NJ
+- ZIP: 08105
+- ZIP extension: 
+- State project ID: 3270
+- Latitude: 39.9492
+- Longitude: -75.0862
+- County FIPS: 34007
+- County from: 2020
+- Tract 2020: 34007601101
+- Tract 2010: 34007601101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 10000
+- Place 2010: 10000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1310428
+- Units: 252
+- Low-income units: 252
+- Units reported: 252
+- Low-income reported: 252
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

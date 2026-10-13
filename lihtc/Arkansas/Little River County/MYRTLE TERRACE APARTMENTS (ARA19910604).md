@@ -1,0 +1,85 @@
+# Project: MYRTLE TERRACE APARTMENTS (ARA19910604)
+
+- HUD ID: ARA19910604
+- HUD ID before: 
+- Project: MYRTLE TERRACE APARTMENTS
+- Address: 1360 CONSTITUTION AVE
+- City: ASHDOWN
+- State: AR
+- ZIP: 71822
+- ZIP extension: 
+- State project ID: AR-90-33
+- Latitude: 33.683936
+- Longitude: -94.135767
+- County FIPS: 05081
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05081030102
+- Tract 2000: 05081030102
+- Tract 1990: 05081030100
+- Place 2020: 
+- Place 2010: 02380
+- Place 2000: 02380
+- Place 1990: 0075
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 37179
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1991050.
+- Record status: Existing, unchanged

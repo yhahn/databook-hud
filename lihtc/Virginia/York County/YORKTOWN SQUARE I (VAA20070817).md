@@ -1,0 +1,85 @@
+# Project: YORKTOWN SQUARE I (VAA20070817)
+
+- HUD ID: VAA20070817
+- HUD ID before: 
+- Project: YORKTOWN SQUARE I
+- Address: 101 WHITT CT
+- City: YORKTOWN
+- State: VA
+- ZIP: 23690
+- ZIP extension: 
+- State project ID: 9059
+- Latitude: 37.228183
+- Longitude: -76.521867
+- County FIPS: 51199
+- County from: 2020
+- Tract 2020: 51199050500
+- Tract 2010: 51199050500
+- Tract 2000: 51199050500
+- Tract 1990: 51199050500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 88240
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 294259
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 36
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2006127.
+- Record status: Existing, unchanged

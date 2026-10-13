@@ -1,0 +1,85 @@
+# Project: HITE HOUSE (PAA19990108)
+
+- HUD ID: PAA19990108
+- HUD ID before: 
+- Project: HITE HOUSE
+- Address: 121 W MAIN ST
+- City: STOYSTOWN
+- State: PA
+- ZIP: 15563
+- ZIP extension: 
+- State project ID: TC19980012
+- Latitude: 40.103561
+- Longitude: -78.954339
+- County FIPS: 42111
+- County from: 2020
+- Tract 2020: 42111020500
+- Tract 2010: 42111020500
+- Tract 2000: 42111020500
+- Tract 1990: 42111020500
+- Place 2020: 74672
+- Place 2010: 74672
+- Place 2000: 35608
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 160711
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 957600
+- CDBG: Yes
+- CDBG amount: 11300
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2000070.
+- Record status: Existing, unchanged

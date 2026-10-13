@@ -1,0 +1,85 @@
+# Project: YOUNG BURLINGTON APTS (CAA20110829)
+
+- HUD ID: CAA20110829
+- HUD ID before: 
+- Project: YOUNG BURLINGTON APTS
+- Address: 820 S BURLINGTON AVE
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90057
+- ZIP extension: 
+- State project ID: CA-09-593
+- Latitude: 34.052768
+- Longitude: -118.274645
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037209403
+- Tract 2010: 06037209403
+- Tract 2000: 06037209403
+- Tract 1990: 06037209403
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 21
+- Low-income units: 20
+- Units reported: 21
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1845000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 7411209
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

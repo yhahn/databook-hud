@@ -1,0 +1,85 @@
+# Project: GOLDEN DOMES APTS (WIA20020045)
+
+- HUD ID: WIA20020045
+- HUD ID before: 
+- Project: GOLDEN DOMES APTS
+- Address: 1645 S FIFTH ST
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53204
+- ZIP extension: 
+- State project ID: 2517
+- Latitude: 43.013338
+- Longitude: -87.917018
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079016600
+- Tract 2010: 55079016600
+- Tract 2000: 55079016600
+- Tract 1990: 55079016600
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 106
+- Low-income units: 106
+- Units reported: 106
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 44
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

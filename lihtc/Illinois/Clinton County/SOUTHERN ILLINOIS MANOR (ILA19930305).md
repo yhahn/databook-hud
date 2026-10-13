@@ -1,0 +1,85 @@
+# Project: SOUTHERN ILLINOIS MANOR (ILA19930305)
+
+- HUD ID: ILA19930305
+- HUD ID before: 
+- Project: SOUTHERN ILLINOIS MANOR
+- Address: 111 E ILLINOIS ST
+- City: NEW BADEN
+- State: IL
+- ZIP: 62265
+- ZIP extension: 
+- State project ID: 61493
+- Latitude: 38.533873
+- Longitude: -89.699188
+- County FIPS: 17027
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17027900602
+- Tract 2000: 17027900600
+- Tract 1990: 17027900600
+- Place 2020: 
+- Place 2010: 52142
+- Place 2000: 00555
+- Place 1990: 4055
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 18133
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 3
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1993030. AKA 804 N 6TH ST DUPLEX.
+- Record status: Existing, unchanged

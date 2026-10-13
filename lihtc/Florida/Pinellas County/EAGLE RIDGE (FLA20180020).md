@@ -1,0 +1,85 @@
+# Project: EAGLE RIDGE (FLA20180020)
+
+- HUD ID: FLA20180020
+- HUD ID before: 
+- Project: EAGLE RIDGE
+- Address: 745 TALON BOULEVARD
+- City: TARPON SPRINGS
+- State: FL
+- ZIP: 34689
+- ZIP extension: 
+- State project ID: 2632
+- Latitude: 28.1552
+- Longitude: -82.7411
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103027404
+- Tract 2010: 12103027401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71150
+- Place 2010: 19206
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1660000
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 27
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

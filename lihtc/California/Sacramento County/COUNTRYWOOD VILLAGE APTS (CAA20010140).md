@@ -1,0 +1,85 @@
+# Project: COUNTRYWOOD VILLAGE APTS (CAA20010140)
+
+- HUD ID: CAA20010140
+- HUD ID before: 
+- Project: COUNTRYWOOD VILLAGE APTS
+- Address: 5500 MACK RD
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95823
+- ZIP extension: 
+- State project ID: CA-00-906
+- Latitude: 38.474036
+- Longitude: -121.436451
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067009640
+- Tract 2010: 06067009606
+- Tract 2000: 06067009606
+- Tract 1990: 06067009602
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 64000
+- Place 1990: 2420
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 487427
+- Units: 292
+- Low-income units: 289
+- Units reported: 292
+- Low-income reported: 289
+- Efficiencies: 0
+- 1-bedroom units: 116
+- 2-bedroom units: 176
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

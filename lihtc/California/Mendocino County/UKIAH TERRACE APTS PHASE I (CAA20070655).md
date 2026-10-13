@@ -1,0 +1,85 @@
+# Project: UKIAH TERRACE APTS PHASE I (CAA20070655)
+
+- HUD ID: CAA20070655
+- HUD ID before: 
+- Project: UKIAH TERRACE APTS PHASE I
+- Address: 1164 MULBERRY ST
+- City: UKIAH
+- State: CA
+- ZIP: 95482
+- ZIP extension: 
+- State project ID: CA-07-824
+- Latitude: 39.135543
+- Longitude: -123.206181
+- County FIPS: 06045
+- County from: 2020
+- Tract 2020: 06045011600
+- Tract 2010: 06045011600
+- Tract 2000: 06045011600
+- Tract 1990: 06045011600
+- Place 2020: 81134
+- Place 2010: 81134
+- Place 2000: 81134
+- Place 1990: 2980
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 186777
+- Units: 41
+- Low-income units: 40
+- Units reported: 41
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1991151, CAA0001550.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BAKERY VILLAGE (NJA20120940)
+
+- HUD ID: NJA20120940
+- HUD ID before: 
+- Project: BAKERY VILLAGE
+- Address: 1 4TH AVENUE
+- City: NEWARK
+- State: NJ
+- ZIP: 07107
+- ZIP extension: 
+- State project ID: NJ-9748
+- Latitude: 40.756403
+- Longitude: -74.166051
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013009200
+- Tract 2010: 34013009200
+- Tract 2000: 34013000700
+- Tract 1990: 34013000700
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2895
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 1499699
+- Units: 123
+- Low-income units: 123
+- Units reported: 123
+- Low-income reported: 123
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 49
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1999010, NJA1998125.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SKYLAND APTS (NCA19930365)
+
+- HUD ID: NCA19930365
+- HUD ID before: 
+- Project: SKYLAND APTS
+- Address: 406 506 LOWER CREEK ROAD
+- City: LENOIR
+- State: NC
+- ZIP: 28645
+- ZIP extension: 
+- State project ID: 9001366
+- Latitude: 35.9175
+- Longitude: -81.5389
+- County FIPS: 37027
+- County from: 2020
+- Tract 2020: 37027030200
+- Tract 2010: 37027030100
+- Tract 2000: 37027030100
+- Tract 1990: 37027030500
+- Place 2020: 25380
+- Place 2010: 37760
+- Place 2000: 
+- Place 1990: 1435
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 39950
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 22
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

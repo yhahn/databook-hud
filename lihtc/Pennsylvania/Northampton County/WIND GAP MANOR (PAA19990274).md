@@ -1,0 +1,85 @@
+# Project: WIND GAP MANOR (PAA19990274)
+
+- HUD ID: PAA19990274
+- HUD ID before: 
+- Project: WIND GAP MANOR
+- Address: 665 ALPHA RD
+- City: WIND GAP
+- State: PA
+- ZIP: 18091
+- ZIP extension: 
+- State project ID: TC19980130
+- Latitude: 40.854396
+- Longitude: -75.28875
+- County FIPS: 42095
+- County from: 2020
+- Tract 2020: 42095015700
+- Tract 2010: 42095015700
+- Tract 2000: 42095015700
+- Tract 1990: 42095015700
+- Place 2020: 85664
+- Place 2010: 85664
+- Place 2000: 85664
+- Place 1990: 8940
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 186856
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 957159
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2000220.
+- Record status: Existing, unchanged

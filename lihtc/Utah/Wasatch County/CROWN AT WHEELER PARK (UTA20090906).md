@@ -1,0 +1,85 @@
+# Project: CROWN AT WHEELER PARK (UTA20090906)
+
+- HUD ID: UTA20090906
+- HUD ID before: 
+- Project: CROWN AT WHEELER PARK
+- Address: 271 EAST 2110 SOUTH
+- City: HEBER CITY
+- State: UT
+- ZIP: 84032
+- ZIP extension: 0000
+- State project ID: 2009-04
+- Latitude: 40.481861
+- Longitude: -111.409357
+- County FIPS: 49051
+- County from: 2020
+- Tract 2020: 49051960204
+- Tract 2010: 49051940500
+- Tract 2000: 49051992200
+- Tract 1990: 49051992400
+- Place 2020: 34200
+- Place 2010: 34200
+- Place 2000: 18140
+- Place 1990: 0340
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 94478
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

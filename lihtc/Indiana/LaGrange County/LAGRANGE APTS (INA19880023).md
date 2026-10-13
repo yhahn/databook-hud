@@ -1,0 +1,85 @@
+# Project: LAGRANGE APTS (INA19880023)
+
+- HUD ID: INA19880023
+- HUD ID before: 
+- Project: LAGRANGE APTS
+- Address: 300 S MOUNTAIN ST
+- City: LAGRANGE
+- State: IN
+- ZIP: 46761
+- ZIP extension: 
+- State project ID: IN-88-46001
+- Latitude: 41.641983
+- Longitude: -85.420705
+- County FIPS: 18087
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18087970200
+- Tract 2000: 18087970200
+- Tract 1990: 18087970200
+- Place 2020: 
+- Place 2010: 40860
+- Place 2000: 40860
+- Place 1990: 1295
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001125.
+- Record status: Existing, unchanged

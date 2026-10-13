@@ -1,0 +1,85 @@
+# Project: SHADOWBROOK APTS (CAA20000530)
+
+- HUD ID: CAA20000530
+- HUD ID before: 
+- Project: SHADOWBROOK APTS
+- Address: 1839 NELSON BLVD
+- City: SELMA
+- State: CA
+- ZIP: 93662
+- ZIP extension: 
+- State project ID: CA-99-824
+- Latitude: 36.585051
+- Longitude: -119.60808
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019007004
+- Tract 2010: 06019007004
+- Tract 2000: 06019007004
+- Tract 1990: 06019007001
+- Place 2020: 70882
+- Place 2010: 70882
+- Place 2000: 38562
+- Place 1990: 2670
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 303061
+- Units: 193
+- Low-income units: 191
+- Units reported: 193
+- Low-income reported: 191
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 124
+- 3-bedroom units: 24
+- 4-bedroom units: 13
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: JVL RENAISSANCE I (MOA20010130)
+
+- HUD ID: MOA20010130
+- HUD ID before: 
+- Project: JVL RENAISSANCE I
+- Address: 2801 DAYTON ST
+- City: ST LOUIS
+- State: MO
+- ZIP: 63106
+- ZIP extension: 
+- State project ID: 99140
+- Latitude: 38.642287
+- Longitude: -90.215888
+- County FIPS: 29510
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29510121200
+- Tract 2000: 29510121200
+- Tract 1990: 29510121200
+- Place 2020: 
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 135
+- Low-income units: 135
+- Units reported: 135
+- Low-income reported: 135
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 48
+- 3-bedroom units: 44
+- 4-bedroom units: 26
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

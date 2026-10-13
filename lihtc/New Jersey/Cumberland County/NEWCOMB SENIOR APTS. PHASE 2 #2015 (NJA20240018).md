@@ -1,0 +1,85 @@
+# Project: NEWCOMB SENIOR APTS. PHASE 2 #2015 (NJA20240018)
+
+- HUD ID: NJA20240018
+- HUD ID before: 
+- Project: NEWCOMB SENIOR APTS. PHASE 2 #2015
+- Address: 925 ELANDIS AVE SUITE E
+- City: VINELAND
+- State: NJ
+- ZIP: 08360
+- ZIP extension: 4867
+- State project ID: 07983-1
+- Latitude: 39.4852
+- Longitude: -75.0252
+- County FIPS: 34011
+- County from: 2020
+- Tract 2020: 34011041101
+- Tract 2010: 34011041100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76070
+- Place 2010: 76070
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 1650000
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

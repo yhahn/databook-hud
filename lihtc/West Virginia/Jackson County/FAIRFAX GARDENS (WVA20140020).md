@@ -1,0 +1,85 @@
+# Project: FAIRFAX GARDENS (WVA20140020)
+
+- HUD ID: WVA20140020
+- HUD ID before: 
+- Project: FAIRFAX GARDENS
+- Address: 101 FAIRFAX CT
+- City: RIPLEY
+- State: WV
+- ZIP: 25271
+- ZIP extension: 
+- State project ID: 2012-26
+- Latitude: 38.808611
+- Longitude: -81.698827
+- County FIPS: 54035
+- County from: 2020
+- Tract 2020: 54035963600
+- Tract 2010: 54035963600
+- Tract 2000: 54035963600
+- Tract 1990: 54035963600
+- Place 2020: 68596
+- Place 2010: 68596
+- Place 2000: 68596
+- Place 1990: 1375
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 233367
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FAIRFAX ELDERLY HOUSING.
+- Record status: Existing, unchanged

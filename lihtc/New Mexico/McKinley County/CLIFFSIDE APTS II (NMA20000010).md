@@ -1,0 +1,85 @@
+# Project: CLIFFSIDE APTS II (NMA20000010)
+
+- HUD ID: NMA20000010
+- HUD ID before: 
+- Project: CLIFFSIDE APTS II
+- Address: 621 DANI DR
+- City: GALLUP
+- State: NM
+- ZIP: 87301
+- ZIP extension: 
+- State project ID: NM-99-0300
+- Latitude: 35.512605
+- Longitude: -108.762644
+- County FIPS: 35031
+- County from: 2020
+- Tract 2020: 35031945201
+- Tract 2010: 35031945200
+- Tract 2000: 35031945200
+- Tract 1990: 35031972500
+- Place 2020: 28460
+- Place 2010: 28460
+- Place 2000: 28460
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

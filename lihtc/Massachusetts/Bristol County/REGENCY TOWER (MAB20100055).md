@@ -1,0 +1,85 @@
+# Project: REGENCY TOWER (MAB20100055)
+
+- HUD ID: MAB20100055
+- HUD ID before: 
+- Project: REGENCY TOWER
+- Address: 800 PLEASANT ST
+- City: NEW BEDFORD
+- State: MA
+- ZIP: 02740
+- ZIP extension: 
+- State project ID: 979
+- Latitude: 41.63737
+- Longitude: -70.927077
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005651800
+- Tract 2010: 25005651800
+- Tract 2000: 25005651800
+- Tract 1990: 25005651800
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 45000
+- Place 1990: 2770
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 758000
+- Units: 129
+- Low-income units: 33
+- Units reported: 129
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 80
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB1987050. AKA REGENCY APTS.
+- Record status: Existing, unchanged

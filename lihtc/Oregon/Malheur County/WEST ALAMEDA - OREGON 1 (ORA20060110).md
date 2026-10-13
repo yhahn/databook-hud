@@ -1,0 +1,85 @@
+# Project: WEST ALAMEDA - OREGON 1 (ORA20060110)
+
+- HUD ID: ORA20060110
+- HUD ID before: 
+- Project: WEST ALAMEDA - OREGON 1
+- Address: 833 ALAMEDA DR
+- City: ONTARIO
+- State: OR
+- ZIP: 97914
+- ZIP extension: 
+- State project ID: 466
+- Latitude: 44.020821
+- Longitude: -116.983314
+- County FIPS: 41045
+- County from: 2020
+- Tract 2020: 41045970300
+- Tract 2010: 41045970300
+- Tract 2000: 41045970300
+- Tract 1990: 41045970300
+- Place 2020: 54900
+- Place 2010: 54900
+- Place 2000: 54900
+- Place 1990: 0865
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 68504
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA2003105.
+- Record status: Existing, unchanged

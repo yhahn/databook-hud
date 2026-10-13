@@ -1,0 +1,85 @@
+# Project: CALKINS COMMONS (COA20220009)
+
+- HUD ID: COA20220009
+- HUD ID before: 
+- Project: CALKINS COMMONS
+- Address: 121 E. FIRST STREET
+- City: CORTEZ
+- State: CO
+- ZIP: 81321
+- ZIP extension: 
+- State project ID: CO-22-12
+- Latitude: 37.34742
+- Longitude: -108.583274
+- County FIPS: 08083
+- County from: 2020
+- Tract 2020: 08083969400
+- Tract 2010: 08083969400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 17375
+- Place 2010: 17375
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1305885
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 20
+- 2-bedroom units: 22
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 800000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 757873
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

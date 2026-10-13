@@ -1,0 +1,85 @@
+# Project: GLADYS MCCOY VILLAGE (ORA20120065)
+
+- HUD ID: ORA20120065
+- HUD ID before: 
+- Project: GLADYS MCCOY VILLAGE
+- Address: 4430 NE MLK JR BLVD
+- City: PORTLAND
+- State: OR
+- ZIP: 97211
+- ZIP extension: 
+- State project ID: 893
+- Latitude: 45.555107
+- Longitude: -122.66145
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051003302
+- Tract 2010: 41051003302
+- Tract 2000: 41051003302
+- Tract 1990: 41051003302
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 870000
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 20
+- 3-bedroom units: 15
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 54
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: CHILDREN/YOUTH
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA1998065. AKA MCCOY VILLAGE.
+- Record status: Existing, unchanged

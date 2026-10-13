@@ -1,0 +1,85 @@
+# Project: 36TH ST & BROADWAY APTS (CAA20110830)
+
+- HUD ID: CAA20110830
+- HUD ID before: 
+- Project: 36TH ST & BROADWAY APTS
+- Address: 4775 S BROADWAY
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90037
+- ZIP extension: 
+- State project ID: CA-09-558
+- Latitude: 33.999623
+- Longitude: -118.278527
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037231902
+- Tract 2010: 06037231900
+- Tract 2000: 06037231900
+- Tract 1990: 06037231900
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 27
+- Low-income units: 25
+- Units reported: 27
+- Low-income reported: 25
+- Efficiencies: 12
+- 1-bedroom units: 8
+- 2-bedroom units: 6
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2938772
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 3323946
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

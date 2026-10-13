@@ -1,0 +1,85 @@
+# Project: WILLOW TREE VILLAGE (WVA20109804)
+
+- HUD ID: WVA20109804
+- HUD ID before: 
+- Project: WILLOW TREE VILLAGE
+- Address: 140 WILLOW TREE WAY
+- City: HURRICANE
+- State: WV
+- ZIP: 25526
+- ZIP extension: 
+- State project ID: WV-08-10
+- Latitude: 38.443656
+- Longitude: -82.017119
+- County FIPS: 54079
+- County from: 2020
+- Tract 2020: 54079020300
+- Tract 2010: 54079020300
+- Tract 2000: 54079020603
+- Tract 1990: 54079020603
+- Place 2020: 39532
+- Place 2010: 39532
+- Place 2000: 19516
+- Place 1990: 0765
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 47
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

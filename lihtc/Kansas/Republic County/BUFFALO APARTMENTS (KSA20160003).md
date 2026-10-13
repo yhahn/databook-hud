@@ -1,0 +1,85 @@
+# Project: BUFFALO APARTMENTS (KSA20160003)
+
+- HUD ID: KSA20160003
+- HUD ID before: 
+- Project: BUFFALO APARTMENTS
+- Address: 915 18TH STREET
+- City: BELLEVILLE
+- State: KS
+- ZIP: 66935
+- ZIP extension: 
+- State project ID: KS-14-02
+- Latitude: 39.824165
+- Longitude: -97.63419
+- County FIPS: 20157
+- County from: 2020
+- Tract 2020: 20157978300
+- Tract 2010: 20157978300
+- Tract 2000: 20157978300
+- Tract 1990: 
+- Place 2020: 05600
+- Place 2010: 05600
+- Place 2000: 05600
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 504060
+- Units: 52
+- Low-income units: 42
+- Units reported: 52
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 17
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

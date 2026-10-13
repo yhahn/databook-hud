@@ -1,0 +1,85 @@
+# Project: STARWOOD APTS (NYA20070370)
+
+- HUD ID: NYA20070370
+- HUD ID before: 
+- Project: STARWOOD APTS
+- Address: 845 STARBUCK AVE
+- City: WATERTOWN
+- State: NY
+- ZIP: 13601
+- ZIP extension: 
+- State project ID: 20050322
+- Latitude: 43.987912
+- Longitude: -75.896111
+- County FIPS: 36045
+- County from: 2020
+- Tract 2020: 36045061300
+- Tract 2010: 36045061300
+- Tract 2000: 36045061300
+- Tract 1990: 36045061300
+- Place 2020: 78608
+- Place 2010: 78608
+- Place 2000: 78608
+- Place 1990: 3835
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 499000
+- Units: 91
+- Low-income units: 39
+- Units reported: 91
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 25
+- 3-bedroom units: 54
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

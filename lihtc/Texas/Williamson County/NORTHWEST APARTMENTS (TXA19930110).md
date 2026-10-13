@@ -1,0 +1,85 @@
+# Project: NORTHWEST APARTMENTS (TXA19930110)
+
+- HUD ID: TXA19930110
+- HUD ID before: 
+- Project: NORTHWEST APARTMENTS
+- Address: 1623 NORTHWEST BLVD
+- City: GEORGETOWN
+- State: TX
+- ZIP: 78628
+- ZIP extension: 
+- State project ID: TX1708
+- Latitude: 30.658511
+- Longitude: -97.678831
+- County FIPS: 48491
+- County from: 2020
+- Tract 2020: 48491020114
+- Tract 2010: 48491020114
+- Tract 2000: 48491020102
+- Tract 1990: 48491020102
+- Place 2020: 29336
+- Place 2010: 29336
+- Place 2000: 29336
+- Place 1990: 1600
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

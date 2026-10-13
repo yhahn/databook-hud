@@ -1,0 +1,85 @@
+# Project: HERITAGE SQUARE APTS (SCA20080048)
+
+- HUD ID: SCA20080048
+- HUD ID before: 
+- Project: HERITAGE SQUARE APTS
+- Address: 2604 MYRTLE ST
+- City: NEWBERRY
+- State: SC
+- ZIP: 29108
+- ZIP extension: 
+- State project ID: SC-50-710
+- Latitude: 34.283572
+- Longitude: -81.602047
+- County FIPS: 45071
+- County from: 2020
+- Tract 2020: 45071950203
+- Tract 2010: 45071950202
+- Tract 2000: 45071950200
+- Tract 1990: 45071950200
+- Place 2020: 49570
+- Place 2010: 49570
+- Place 2000: 49570
+- Place 1990: 0955
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 118197
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 26
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NEW HERITAGE SQUARE APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ROLLING GREEN APTS (OKA00000425)
+
+- HUD ID: OKA00000425
+- HUD ID before: 
+- Project: ROLLING GREEN APTS
+- Address: 400 E DANFORTH RD
+- City: EDMOND
+- State: OK
+- ZIP: 73034
+- ZIP extension: 
+- State project ID: OK-87-0605
+- Latitude: 35.66712
+- Longitude: -97.475978
+- County FIPS: 40109
+- County from: 2020
+- Tract 2020: 40109108208
+- Tract 2010: 40109108208
+- Tract 2000: 40109108208
+- Tract 1990: 40109108208
+- Place 2020: 23200
+- Place 2010: 23200
+- Place 2000: 23200
+- Place 1990: 0755
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 166
+- Low-income units: 166
+- Units reported: 166
+- Low-income reported: 166
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ROLLING GREEN HOUSING.
+- Record status: Existing, unchanged

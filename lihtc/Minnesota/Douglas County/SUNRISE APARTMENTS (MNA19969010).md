@@ -1,0 +1,85 @@
+# Project: SUNRISE APARTMENTS (MNA19969010)
+
+- HUD ID: MNA19969010
+- HUD ID before: 
+- Project: SUNRISE APARTMENTS
+- Address: 1616 7TH AVE E
+- City: ALEXANDRIA
+- State: MN
+- ZIP: 56308
+- ZIP extension: 
+- State project ID: D0028
+- Latitude: 45.884445
+- Longitude: -95.35236
+- County FIPS: 27041
+- County from: 2020
+- Tract 2020: 27041450602
+- Tract 2010: 27041450600
+- Tract 2000: 27041950600
+- Tract 1990: 27041950600
+- Place 2020: 00928
+- Place 2010: 00928
+- Place 2000: 00928
+- Place 1990: 0065
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 17
+- Units reported: 18
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 13
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ORCHARD PARK II (MAB19980060)
+
+- HUD ID: MAB19980060
+- HUD ID before: 
+- Project: ORCHARD PARK II
+- Address: 120 EUSTIS ST
+- City: ROXBURY
+- State: MA
+- ZIP: 02119
+- ZIP extension: 
+- State project ID: 04-6002284
+- Latitude: 42.329258
+- Longitude: -71.078537
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025080300
+- Tract 2010: 25025080300
+- Tract 2000: 25025080300
+- Tract 1990: 25025080300
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 126
+- Low-income units: 95
+- Units reported: 126
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 41
+- 3-bedroom units: 53
+- 4-bedroom units: 20
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB1997075.
+- Record status: Existing, unchanged

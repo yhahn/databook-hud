@@ -1,0 +1,85 @@
+# Project: GRANITE CLUB ACRES PHASE I (MIA20020130)
+
+- HUD ID: MIA20020130
+- HUD ID before: 
+- Project: GRANITE CLUB ACRES PHASE I
+- Address: 700 GERALD CT
+- City: MIDLAND
+- State: MI
+- ZIP: 48642
+- ZIP extension: 
+- State project ID: MI-1870
+- Latitude: 43.606327
+- Longitude: -84.178569
+- County FIPS: 26111
+- County from: 2020
+- Tract 2020: 26111290600
+- Tract 2010: 26111290600
+- Tract 2000: 26111290600
+- Tract 1990: 26111290600
+- Place 2020: 53780
+- Place 2010: 53780
+- Place 2000: 53780
+- Place 1990: 1770
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 5
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

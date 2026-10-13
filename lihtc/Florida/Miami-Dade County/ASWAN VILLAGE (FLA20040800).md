@@ -1,0 +1,85 @@
+# Project: ASWAN VILLAGE (FLA20040800)
+
+- HUD ID: FLA20040800
+- HUD ID before: 
+- Project: ASWAN VILLAGE
+- Address: 13105 NORTHWEST 30TH AVENUE
+- City: OPA LOCKA
+- State: FL
+- ZIP: 33054
+- ZIP extension: 
+- State project ID: 1304
+- Latitude: 25.893339
+- Longitude: -80.247347
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086000508
+- Tract 2010: 12086000503
+- Tract 2000: 12086000503
+- Tract 1990: 12025000503
+- Place 2020: 51650
+- Place 2010: 51650
+- Place 2000: 30000
+- Place 1990: 1585
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 637828
+- Units: 216
+- Low-income units: 216
+- Units reported: 216
+- Low-income reported: 216
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 132
+- 3-bedroom units: 84
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

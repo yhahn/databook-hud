@@ -1,0 +1,85 @@
+# Project: THE KIRA AKA 153-19 JAMAICA AVE (NYB20213047)
+
+- HUD ID: NYB20213047
+- HUD ID before: 
+- Project: THE KIRA AKA 153-19 JAMAICA AVE
+- Address: 153-24 90TH ROAD
+- City: JAMAICA
+- State: NY
+- ZIP: 11432
+- ZIP extension: 
+- State project ID: NY-21-2593
+- Latitude: 40.703336
+- Longitude: -73.80164
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081024000
+- Tract 2010: 36081024000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2539348
+- Units: 139
+- Low-income units: 138
+- Units reported: 139
+- Low-income reported: 138
+- Efficiencies: 37
+- 1-bedroom units: 64
+- 2-bedroom units: 38
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

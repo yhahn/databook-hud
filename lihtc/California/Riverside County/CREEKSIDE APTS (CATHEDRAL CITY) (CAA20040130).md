@@ -1,0 +1,85 @@
+# Project: CREEKSIDE APTS (CATHEDRAL CITY) (CAA20040130)
+
+- HUD ID: CAA20040130
+- HUD ID before: 
+- Project: CREEKSIDE APTS (CATHEDRAL CITY)
+- Address: 68200 33RD AVE
+- City: CATHEDRAL CITY
+- State: CA
+- ZIP: 92234
+- ZIP extension: 
+- State project ID: CA-03-816
+- Latitude: 33.808804
+- Longitude: -116.473149
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065044907
+- Tract 2010: 06065044907
+- Tract 2000: 06065044907
+- Tract 1990: 06065044802
+- Place 2020: 12048
+- Place 2010: 12048
+- Place 2000: 12048
+- Place 1990: 2085
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 714054
+- Units: 185
+- Low-income units: 184
+- Units reported: 185
+- Low-income reported: 184
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 105
+- 4-bedroom units: 40
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

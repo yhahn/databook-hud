@@ -1,0 +1,85 @@
+# Project: PARK LAKE HEMPSTEAD, LP (NYB20220021)
+
+- HUD ID: NYB20220021
+- HUD ID before: 
+- Project: PARK LAKE HEMPSTEAD, LP
+- Address: 295 SOUTH FRANKLIN STREET
+- City: HEMPSTEAD
+- State: NY
+- ZIP: 11550
+- ZIP extension: 
+- State project ID: NY-07-3529
+- Latitude: 40.696394
+- Longitude: -73.622261
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059407000
+- Tract 2010: 36059407000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 33139
+- Place 2010: 33139
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 240
+- Low-income units: 238
+- Units reported: 240
+- Low-income reported: 238
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 134
+- 3-bedroom units: 106
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

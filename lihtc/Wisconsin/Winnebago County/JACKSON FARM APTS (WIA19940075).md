@@ -1,0 +1,85 @@
+# Project: JACKSON FARM APTS (WIA19940075)
+
+- HUD ID: WIA19940075
+- HUD ID before: 
+- Project: JACKSON FARM APTS
+- Address: 3409 LOGAN DR
+- City: OSHKOSH
+- State: WI
+- ZIP: 54901
+- ZIP extension: 
+- State project ID: 1461
+- Latitude: 44.063786
+- Longitude: -88.545382
+- County FIPS: 55139
+- County from: 2020
+- Tract 2020: 55139001700
+- Tract 2010: 55139001700
+- Tract 2000: 55139001700
+- Tract 1990: 55139001700
+- Place 2020: 60500
+- Place 2010: 60500
+- Place 2000: 60500
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

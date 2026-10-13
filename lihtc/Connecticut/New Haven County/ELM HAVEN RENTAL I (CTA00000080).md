@@ -1,0 +1,85 @@
+# Project: ELM HAVEN RENTAL I (CTA00000080)
+
+- HUD ID: CTA00000080
+- HUD ID before: 
+- Project: ELM HAVEN RENTAL I
+- Address: 69 WEBSTER ST
+- City: NEW HAVEN
+- State: CT
+- ZIP: 06511
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.317383
+- Longitude: -72.931419
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009141600
+- Tract 2010: 09009141600
+- Tract 2000: 09009141600
+- Tract 1990: 09009141600
+- Place 2020: 52000
+- Place 2010: 52000
+- Place 2000: 52000
+- Place 1990: 1450
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 236
+- Low-income units: 227
+- Units reported: 236
+- Low-income reported: 227
+- Efficiencies: 85
+- 1-bedroom units: 88
+- 2-bedroom units: 38
+- 3-bedroom units: 22
+- 4-bedroom units: 3
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HISTORIC GUND BREWERY LOFTS (WIA20070050)
+
+- HUD ID: WIA20070050
+- HUD ID before: 
+- Project: HISTORIC GUND BREWERY LOFTS
+- Address: 2130 SOUTH AVE
+- City: LA CROSSE
+- State: WI
+- ZIP: 54601
+- ZIP extension: 
+- State project ID: 5115
+- Latitude: 43.792743
+- Longitude: -91.243378
+- County FIPS: 55063
+- County from: 2020
+- Tract 2020: 55063000900
+- Tract 2010: 55063000900
+- Tract 2000: 55063000900
+- Tract 1990: 55063000900
+- Place 2020: 40775
+- Place 2010: 40775
+- Place 2000: 40775
+- Place 1990: 1325
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 750000
+- Units: 86
+- Low-income units: 38
+- Units reported: 86
+- Low-income reported: 38
+- Efficiencies: 3
+- 1-bedroom units: 40
+- 2-bedroom units: 36
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

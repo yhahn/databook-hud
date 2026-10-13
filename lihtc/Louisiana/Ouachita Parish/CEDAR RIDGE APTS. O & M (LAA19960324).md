@@ -1,0 +1,85 @@
+# Project: CEDAR RIDGE APTS. O & M (LAA19960324)
+
+- HUD ID: LAA19960324
+- HUD ID before: 
+- Project: CEDAR RIDGE APTS. O & M
+- Address: 142 LUEBENIA ST
+- City: CALHOUN
+- State: LA
+- ZIP: 71225
+- ZIP extension: 0000
+- State project ID: LA-95-024
+- Latitude: 32.475307
+- Longitude: -92.352355
+- County FIPS: 22073
+- County from: 2020
+- Tract 2020: 22073010402
+- Tract 2010: 22073010400
+- Tract 2000: 22073010400
+- Tract 1990: 22073010400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 25625
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 5
+- 3-bedroom units: 6
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1996065. AKA CEDAR RIDGE APTS (CALHOUN).;
+- Record status: Existing, unchanged

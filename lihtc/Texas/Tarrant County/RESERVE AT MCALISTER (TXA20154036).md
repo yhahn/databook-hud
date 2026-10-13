@@ -1,0 +1,85 @@
+# Project: RESERVE AT MCALISTER (TXA20154036)
+
+- HUD ID: TXA20154036
+- HUD ID before: 
+- Project: RESERVE AT MCALISTER
+- Address: 432 ARCHBURY ROAD
+- City: BURLESON
+- State: TX
+- ZIP: 
+- ZIP extension: 
+- State project ID: TX4944
+- Latitude: 32.573609
+- Longitude: -97.328259
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439111029
+- Tract 2010: 48439111016
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 124
+- Low-income units: 112
+- Units reported: 124
+- Low-income reported: 112
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BAYSIDE COURT (FLA20120010)
+
+- HUD ID: FLA20120010
+- HUD ID before: 
+- Project: BAYSIDE COURT
+- Address: 1760 CLEARWATER LARGO RD
+- City: CLEARWATER
+- State: FL
+- ZIP: 33756
+- ZIP extension: 
+- State project ID: 2498
+- Latitude: 27.932629
+- Longitude: -82.795865
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103025505
+- Tract 2010: 12103025505
+- Tract 2000: 12103025504
+- Tract 1990: 12103025504
+- Place 2020: 39425
+- Place 2010: 39425
+- Place 2000: 05075
+- Place 1990: 1175
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 241800
+- Units: 144
+- Low-income units: 58
+- Units reported: 144
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 96
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

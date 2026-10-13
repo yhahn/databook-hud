@@ -1,0 +1,85 @@
+# Project: APOLLO PLAZA APTS. (LAA19950005)
+
+- HUD ID: LAA19950005
+- HUD ID before: 
+- Project: APOLLO PLAZA APTS.
+- Address: 583 MIDDLECREEK ROAD
+- City: MANY
+- State: LA
+- ZIP: 71449
+- ZIP extension: 0000
+- State project ID: LA-93-006
+- Latitude: 31.570339
+- Longitude: -93.463668
+- County FIPS: 22085
+- County from: 2020
+- Tract 2020: 22085000500
+- Tract 2010: 22085000500
+- Tract 2000: 22085980500
+- Tract 1990: 22085980500
+- Place 2020: 48470
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 0830
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 2702
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Multi-Family
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

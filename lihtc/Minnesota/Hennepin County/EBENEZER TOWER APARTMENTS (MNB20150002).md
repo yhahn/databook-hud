@@ -1,0 +1,85 @@
+# Project: EBENEZER TOWER APARTMENTS (MNB20150002)
+
+- HUD ID: MNB20150002
+- HUD ID before: 
+- Project: EBENEZER TOWER APARTMENTS
+- Address: 2523 PORTLAND AVENUE SOUTH
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55404
+- ZIP extension: 4438
+- State project ID: D3370
+- Latitude: 44.956925
+- Longitude: -93.267448
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053126000
+- Tract 2010: 27053126000
+- Tract 2000: 27053107100
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1170022
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 71
+- 1-bedroom units: 119
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 125
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 4584854
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

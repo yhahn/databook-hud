@@ -1,0 +1,85 @@
+# Project: KINGS COURT APTS (ILA19980175)
+
+- HUD ID: ILA19980175
+- HUD ID before: 
+- Project: KINGS COURT APTS
+- Address: 2801 W GRANDVILLE AVE
+- City: WAUKEGAN
+- State: IL
+- ZIP: 60085
+- ZIP extension: 
+- State project ID: 30798
+- Latitude: 42.373801
+- Longitude: -87.869708
+- County FIPS: 17097
+- County from: 2020
+- Tract 2020: 17097861902
+- Tract 2010: 17097861902
+- Tract 2000: 17097861902
+- Tract 1990: 17097861902
+- Place 2020: 79293
+- Place 2010: 79293
+- Place 2000: 32018
+- Place 1990: 6075
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 275000
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 98
+- 2-bedroom units: 70
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

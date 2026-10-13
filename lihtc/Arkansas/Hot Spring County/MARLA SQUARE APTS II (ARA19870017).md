@@ -1,0 +1,85 @@
+# Project: MARLA SQUARE APTS II (ARA19870017)
+
+- HUD ID: ARA19870017
+- HUD ID before: 
+- Project: MARLA SQUARE APTS II
+- Address: 825 SULPHUR SPRINGS RD
+- City: MALVERN
+- State: AR
+- ZIP: 72104
+- ZIP extension: 
+- State project ID: AR-87-02
+- Latitude: 34.349985
+- Longitude: -92.802195
+- County FIPS: 05059
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05059020400
+- Tract 2000: 05059020400
+- Tract 1990: 05059020400
+- Place 2020: 
+- Place 2010: 43610
+- Place 2000: 43610
+- Place 1990: 1290
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1987552.
+- Record status: Existing, unchanged

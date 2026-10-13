@@ -1,0 +1,85 @@
+# Project: PARKVIEW APTS. (LAA19930090)
+
+- HUD ID: LAA19930090
+- HUD ID before: 
+- Project: PARKVIEW APTS.
+- Address: 1101 RICHWOOD RD. NO. 2
+- City: MONROE
+- State: LA
+- ZIP: 71201
+- ZIP extension: 0000
+- State project ID: LA-91-006
+- Latitude: 32.437698
+- Longitude: -92.09719
+- County FIPS: 22073
+- County from: 2020
+- Tract 2020: 22073011000
+- Tract 2010: 22073011000
+- Tract 2000: 22073010601
+- Tract 1990: 
+- Place 2020: 51410
+- Place 2010: 51410
+- Place 2000: 51410
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 17812
+- Units: 225
+- Low-income units: 225
+- Units reported: 225
+- Low-income reported: 225
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: Rehabilitation
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

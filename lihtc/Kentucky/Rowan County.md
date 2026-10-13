@@ -1,0 +1,23 @@
+# Tax Credit Projects: Rowan County, KY
+
+- Level: County
+- Postal code: KY
+- State FIPS: 21
+- County FIPS: 21205
+- Counties: 
+- Projects: 6
+- Units: 190
+- Low-income units: 190
+
+The low-income housing tax credit projects of Rowan County, Kentucky, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [MCBRAYER MANOR APARTMENTS (KYA19950120)](./Rowan%20County/MCBRAYER%20MANOR%20APARTMENTS%20%28KYA19950120%29.md) | KYA19950120 | CLEARFIELD | 1995 | 24 | 24 |
+| [CLEARFIELD MANOR APARTMENTS PHASE II (KYA20050035)](./Rowan%20County/CLEARFIELD%20MANOR%20APARTMENTS%20PHASE%20II%20%28KYA20050035%29.md) | KYA20050035 | CLEARFIELD | 2005 | 40 | 40 |
+| [MOREHEAD INSPIRATION CENTER (KYA20070055)](./Rowan%20County/MOREHEAD%20INSPIRATION%20CENTER%20%28KYA20070055%29.md) | KYA20070055 | MOREHEAD | 2007 | 38 | 38 |
+| [BOODRY PLACE APARTMENTS (KYA20080040)](./Rowan%20County/BOODRY%20PLACE%20APARTMENTS%20%28KYA20080040%29.md) | KYA20080040 | MOREHEAD | 2008 | 32 | 32 |
+| [KDVA HOMES 07 (KYA20114016)](./Rowan%20County/KDVA%20HOMES%2007%20%28KYA20114016%29.md) | KYA20114016 | MOREHEAD | 2011 | 26 | 26 |
+| [HORIZON VILLAGE (KYA20171007)](./Rowan%20County/HORIZON%20VILLAGE%20%28KYA20171007%29.md) | KYA20171007 | MOREHEAD | 2017 | 30 | 30 |

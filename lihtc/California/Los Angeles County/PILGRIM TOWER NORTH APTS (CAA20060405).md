@@ -1,0 +1,85 @@
+# Project: PILGRIM TOWER NORTH APTS (CAA20060405)
+
+- HUD ID: CAA20060405
+- HUD ID before: 
+- Project: PILGRIM TOWER NORTH APTS
+- Address: 560 E VILLA ST
+- City: PASADENA
+- State: CA
+- ZIP: 91101
+- ZIP extension: 
+- State project ID: CA-04-862
+- Latitude: 34.154059
+- Longitude: -118.138945
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037462201
+- Tract 2010: 06037462201
+- Tract 2000: 06037462200
+- Tract 1990: 06037462200
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 56000
+- Place 1990: 2125
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 654452
+- Units: 258
+- Low-income units: 255
+- Units reported: 258
+- Low-income reported: 255
+- Efficiencies: 0
+- 1-bedroom units: 258
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

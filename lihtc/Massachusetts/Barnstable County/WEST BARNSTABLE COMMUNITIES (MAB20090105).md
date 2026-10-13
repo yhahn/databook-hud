@@ -1,0 +1,85 @@
+# Project: WEST BARNSTABLE COMMUNITIES (MAB20090105)
+
+- HUD ID: MAB20090105
+- HUD ID before: 
+- Project: WEST BARNSTABLE COMMUNITIES
+- Address: 2239 IYANNOUGH RD
+- City: WEST BARNSTABLE
+- State: MA
+- ZIP: 02668
+- ZIP extension: 
+- State project ID: 1655
+- Latitude: 41.690653
+- Longitude: -70.34044
+- County FIPS: 25001
+- County from: 2020
+- Tract 2020: 25001012200
+- Tract 2010: 25001012200
+- Tract 2000: 25001012200
+- Tract 1990: 25001012200
+- Place 2020: 03690
+- Place 2010: 03690
+- Place 2000: 03600
+- Place 1990: 0265
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 630000
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 18
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000688.
+- Record status: Existing, unchanged

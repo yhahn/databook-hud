@@ -1,0 +1,25 @@
+# Tax Credit Projects: Macon County, AL
+
+- Level: County
+- Postal code: AL
+- State FIPS: 01
+- County FIPS: 01087
+- Counties: 
+- Projects: 8
+- Units: 381
+- Low-income units: 381
+
+The low-income housing tax credit projects of Macon County, Alabama, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [CYPRESS VILLAGE APTS (ALA19910055)](./Macon%20County/CYPRESS%20VILLAGE%20APTS%20%28ALA19910055%29.md) | ALA19910055 | TUSKEGEE | 1991 | 28 | 28 |
+| [PINECREST APTS (ALA19930093)](./Macon%20County/PINECREST%20APTS%20%28ALA19930093%29.md) | ALA19930093 | TUSKEGEE | 1993 | 36 | 36 |
+| [WINDOVER APTS (ALA19950185)](./Macon%20County/WINDOVER%20APTS%20%28ALA19950185%29.md) | ALA19950185 | TUSKEGEE | 1995 | 40 | 40 |
+| [PLEASANT SPRINGS APTS (ALA19960187)](./Macon%20County/PLEASANT%20SPRINGS%20APTS%20%28ALA19960187%29.md) | ALA19960187 | TUSKEGEE | 1996 | 52 | 52 |
+| [PATHWAY APTS (ALA19970102)](./Macon%20County/PATHWAY%20APTS%20%28ALA19970102%29.md) | ALA19970102 | TUSKEGEE | 1997 | 40 | 40 |
+| [CAPRICORN APTS (ALA20000047)](./Macon%20County/CAPRICORN%20APTS%20%28ALA20000047%29.md) | ALA20000047 | TUSKEGEE | 2000 | 51 | 51 |
+| [THE SOJOURNER APTS (ALA20030125)](./Macon%20County/THE%20SOJOURNER%20APTS%20%28ALA20030125%29.md) | ALA20030125 | TUSKEGEE | 2003 | 100 | 100 |
+| [LAKESHORE APTS (ALA20080025)](./Macon%20County/LAKESHORE%20APTS%20%28ALA20080025%29.md) | ALA20080025 | TUSKEGEE | 2008 | 34 | 34 |

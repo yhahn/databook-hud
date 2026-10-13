@@ -1,0 +1,85 @@
+# Project: GATEWAY PLAZA APTS (TXA20120825)
+
+- HUD ID: TXA20120825
+- HUD ID before: 
+- Project: GATEWAY PLAZA APTS
+- Address: 1701 TRADEWINDS BLVD
+- City: MIDLAND
+- State: TX
+- ZIP: 79706
+- ZIP extension: 
+- State project ID: TX4741
+- Latitude: 31.963132
+- Longitude: -102.149058
+- County FIPS: 48329
+- County from: 2020
+- Tract 2020: 48329010126
+- Tract 2010: 48329010114
+- Tract 2000: 48329010111
+- Tract 1990: 48329010111
+- Place 2020: 48072
+- Place 2010: 48072
+- Place 2000: 48072
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000708.
+- Record status: Existing, unchanged

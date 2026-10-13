@@ -1,0 +1,85 @@
+# Project: COLLEGE GREENWOOD DUPLEX (TNA19900065)
+
+- HUD ID: TNA19900065
+- HUD ID before: 
+- Project: COLLEGE GREENWOOD DUPLEX
+- Address: 1102 E COLLEGE ST
+- City: UNION CITY
+- State: TN
+- ZIP: 38261
+- ZIP extension: 
+- State project ID: TN-90-038
+- Latitude: 36.428639
+- Longitude: -89.044547
+- County FIPS: 47131
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47131965600
+- Tract 2000: 47131965600
+- Tract 1990: 47131965600
+- Place 2020: 
+- Place 2010: 75940
+- Place 2000: 75940
+- Place 1990: 1475
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 3330
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

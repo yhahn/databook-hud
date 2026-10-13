@@ -1,0 +1,85 @@
+# Project: CLAYTON PROVIDENCE HOUSE (NJA20050045)
+
+- HUD ID: NJA20050045
+- HUD ID before: 
+- Project: CLAYTON PROVIDENCE HOUSE
+- Address: 927 DELSEA DRIVE
+- City: CLAYTON
+- State: NJ
+- ZIP: 08312
+- ZIP extension: 
+- State project ID: NJ-684
+- Latitude: 39.668254
+- Longitude: -75.094291
+- County FIPS: 34015
+- County from: 2020
+- Tract 2020: 34015501501
+- Tract 2010: 34015501500
+- Tract 2000: 34015501500
+- Tract 1990: 34015501500
+- Place 2020: 13360
+- Place 2010: 13360
+- Place 2000: 13360
+- Place 1990: 1475
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 406769
+- Units: 101
+- Low-income units: 101
+- Units reported: 101
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 102
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2012926.
+- Record status: Existing, unchanged

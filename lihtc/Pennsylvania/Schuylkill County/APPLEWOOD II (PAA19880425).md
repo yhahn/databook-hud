@@ -1,0 +1,85 @@
+# Project: APPLEWOOD II (PAA19880425)
+
+- HUD ID: PAA19880425
+- HUD ID before: 
+- Project: APPLEWOOD II
+- Address: 210 E MARKET ST
+- City: ORWIGSBURG
+- State: PA
+- ZIP: 17961
+- ZIP extension: 
+- State project ID: PA-88-0046
+- Latitude: 40.654347
+- Longitude: -76.09961
+- County FIPS: 42107
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42107003100
+- Tract 2000: 42107003100
+- Tract 1990: 42107003100
+- Place 2020: 
+- Place 2010: 57184
+- Place 2000: 57184
+- Place 1990: 7024
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

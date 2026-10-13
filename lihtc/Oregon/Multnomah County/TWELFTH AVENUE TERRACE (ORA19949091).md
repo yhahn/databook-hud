@@ -1,0 +1,85 @@
+# Project: TWELFTH AVENUE TERRACE (ORA19949091)
+
+- HUD ID: ORA19949091
+- HUD ID before: 
+- Project: TWELFTH AVENUE TERRACE
+- Address: 1529 SW 12TH AVE
+- City: PORTLAND
+- State: OR
+- ZIP: 97201
+- ZIP extension: 
+- State project ID: OR92-130
+- Latitude: 45.51498
+- Longitude: -122.687412
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051005500
+- Tract 2010: 41051005500
+- Tract 2000: 41051005500
+- Tract 1990: 41051005500
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 119
+- Low-income units: 100
+- Units reported: 119
+- Low-income reported: 100
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

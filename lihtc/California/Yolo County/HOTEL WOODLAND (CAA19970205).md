@@ -1,0 +1,85 @@
+# Project: HOTEL WOODLAND (CAA19970205)
+
+- HUD ID: CAA19970205
+- HUD ID before: 
+- Project: HOTEL WOODLAND
+- Address: 426 MAIN ST
+- City: WOODLAND
+- State: CA
+- ZIP: 95695
+- ZIP extension: 
+- State project ID: CA-95-012
+- Latitude: 38.6768
+- Longitude: -121.773369
+- County FIPS: 06113
+- County from: 2020
+- Tract 2020: 06113011001
+- Tract 2010: 06113011101
+- Tract 2000: 06113011001
+- Tract 1990: 06113011001
+- Place 2020: 86328
+- Place 2010: 86328
+- Place 2000: 86328
+- Place 1990: 3150
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 296611
+- Units: 76
+- Low-income units: 75
+- Units reported: 76
+- Low-income reported: 75
+- Efficiencies: 76
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

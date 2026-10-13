@@ -1,0 +1,85 @@
+# Project: 100 CHENANGO PLACE (NYB20161001)
+
+- HUD ID: NYB20161001
+- HUD ID before: 
+- Project: 100 CHENANGO PLACE
+- Address: 100 CHENANGO PL
+- City: BINGHAMTON
+- State: NY
+- ZIP: 13901
+- ZIP extension: 
+- State project ID: 2340
+- Latitude: 42.101863
+- Longitude: -75.909315
+- County FIPS: 36007
+- County from: 2020
+- Tract 2020: 36007001200
+- Tract 2010: 36007001200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 06607
+- Place 2010: 06607
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 417027
+- Units: 144
+- Low-income units: 141
+- Units reported: 144
+- Low-income reported: 141
+- Efficiencies: 56
+- 1-bedroom units: 88
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

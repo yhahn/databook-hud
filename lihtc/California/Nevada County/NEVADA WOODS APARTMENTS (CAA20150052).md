@@ -1,0 +1,85 @@
+# Project: NEVADA WOODS APARTMENTS (CAA20150052)
+
+- HUD ID: CAA20150052
+- HUD ID before: CAA19940500
+- Project: NEVADA WOODS APARTMENTS
+- Address: 360 SUTTON WAY
+- City: GRASS VALLEY
+- State: CA
+- ZIP: 95945
+- ZIP extension: 
+- State project ID: CA-14-091
+- Latitude: 39.230913
+- Longitude: -121.035773
+- County FIPS: 06057
+- County from: 2020
+- Tract 2020: 06057000601
+- Tract 2010: 06057000600
+- Tract 2000: 06057000600
+- Tract 1990: 
+- Place 2020: 30798
+- Place 2010: 30798
+- Place 2000: 30798
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 571380
+- Units: 78
+- Low-income units: 77
+- Units reported: 78
+- Low-income reported: 77
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 30
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 68
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS CAA19940500;PIN=CA-92-060
+- Record status: Existing, unchanged

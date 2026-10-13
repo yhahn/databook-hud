@@ -1,0 +1,85 @@
+# Project: CHELSEA GARDENS APTS (CAA19990753)
+
+- HUD ID: CAA19990753
+- HUD ID before: 
+- Project: CHELSEA GARDENS APTS
+- Address: 1220 MCMINN AVE
+- City: SANTA ROSA
+- State: CA
+- ZIP: 95407
+- ZIP extension: 
+- State project ID: CA-99-923
+- Latitude: 38.424679
+- Longitude: -122.731501
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097153103
+- Tract 2010: 06097153103
+- Tract 2000: 06097153101
+- Tract 1990: 06097153100
+- Place 2020: 70098
+- Place 2010: 70098
+- Place 2000: 62868
+- Place 1990: 2395
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 209616
+- Units: 120
+- Low-income units: 118
+- Units reported: 120
+- Low-income reported: 118
+- Efficiencies: 12
+- 1-bedroom units: 60
+- 2-bedroom units: 46
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

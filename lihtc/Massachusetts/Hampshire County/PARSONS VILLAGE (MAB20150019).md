@@ -1,0 +1,85 @@
+# Project: PARSONS VILLAGE (MAB20150019)
+
+- HUD ID: MAB20150019
+- HUD ID before: 
+- Project: PARSONS VILLAGE
+- Address: 71 PARSONS STREET (FORMERLY CALLED 69 PARSONS)
+- City: EASTHAMPTON
+- State: MA
+- ZIP: 01027
+- ZIP extension: 
+- State project ID: 2923
+- Latitude: 42.2721
+- Longitude: -72.6749
+- County FIPS: 25015
+- County from: 2020
+- Tract 2020: 25015822402
+- Tract 2010: 25015822402
+- Tract 2000: 25015822402
+- Tract 1990: 
+- Place 2020: 19370
+- Place 2010: 19370
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 674670
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 4
+- 1-bedroom units: 8
+- 2-bedroom units: 18
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

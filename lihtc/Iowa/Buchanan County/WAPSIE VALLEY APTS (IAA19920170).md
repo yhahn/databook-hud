@@ -1,0 +1,85 @@
+# Project: WAPSIE VALLEY APTS (IAA19920170)
+
+- HUD ID: IAA19920170
+- HUD ID before: 
+- Project: WAPSIE VALLEY APTS
+- Address: 201 16TH AVE NW
+- City: INDEPENDENCE
+- State: IA
+- ZIP: 50644
+- ZIP extension: 
+- State project ID: 91-49
+- Latitude: 42.46963
+- Longitude: -91.912903
+- County FIPS: 19019
+- County from: 2020
+- Tract 2020: 19019950400
+- Tract 2010: 19019950400
+- Tract 2000: 19019950400
+- Tract 1990: 19019950400
+- Place 2020: 38100
+- Place 2010: 38100
+- Place 2000: 38100
+- Place 1990: 2020
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 14852
+- Units: 16
+- Low-income units: 15
+- Units reported: 16
+- Low-income reported: 15
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA TOWNHOUSES OF INDEPENDENCE
+- Record status: Existing, unchanged

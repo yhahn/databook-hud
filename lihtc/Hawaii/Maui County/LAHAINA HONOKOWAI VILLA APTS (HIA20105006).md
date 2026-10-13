@@ -1,0 +1,85 @@
+# Project: LAHAINA HONOKOWAI VILLA APTS (HIA20105006)
+
+- HUD ID: HIA20105006
+- HUD ID before: 
+- Project: LAHAINA HONOKOWAI VILLA APTS
+- Address: 3535 LOWER HONOAPIILANI RD
+- City: LAHAINA
+- State: HI
+- ZIP: 96761
+- ZIP extension: 
+- State project ID: HI-2009-007
+- Latitude: 20.951313
+- Longitude: -156.687263
+- County FIPS: 15009
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 15009031503
+- Tract 2000: 15009031500
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 54100
+- Place 2000: 54100
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 6545000
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

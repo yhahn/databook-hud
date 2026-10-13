@@ -1,0 +1,85 @@
+# Project: HARTSVILLE GARDEN APTS (2009 TCEX EXCH ) (SCA20110035)
+
+- HUD ID: SCA20110035
+- HUD ID before: 
+- Project: HARTSVILLE GARDEN APTS (2009 TCEX EXCH )
+- Address: 780 TAILWIND LN
+- City: HARTSVILLE
+- State: SC
+- ZIP: 29550
+- ZIP extension: 
+- State project ID: SC-09-150
+- Latitude: 34.3542
+- Longitude: -80.054232
+- County FIPS: 45031
+- County from: 2020
+- Tract 2020: 45031010600
+- Tract 2010: 45031010600
+- Tract 2000: 45031010600
+- Tract 1990: 45031010600
+- Place 2020: 32560
+- Place 2010: 32560
+- Place 2000: 32560
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 669280
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 36
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 900000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 5688880
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

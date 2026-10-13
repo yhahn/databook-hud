@@ -1,0 +1,85 @@
+# Project: CHESTNUT LINDEN COURT (CAA20030125)
+
+- HUD ID: CAA20030125
+- HUD ID before: 
+- Project: CHESTNUT LINDEN COURT
+- Address: 1060 W GRAND AVE
+- City: OAKLAND
+- State: CA
+- ZIP: 94607
+- ZIP extension: 
+- State project ID: CA-01-097
+- Latitude: 37.815349
+- Longitude: -122.28203
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001401600
+- Tract 2010: 06001401600
+- Tract 2000: 06001401600
+- Tract 1990: 06001401600
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1970
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 2363769
+- Units: 151
+- Low-income units: 149
+- Units reported: 151
+- Low-income reported: 149
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 59
+- 3-bedroom units: 59
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

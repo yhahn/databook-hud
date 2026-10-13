@@ -1,0 +1,85 @@
+# Project: GARDENS OF DECKER LAKE (TXA19980080)
+
+- HUD ID: TXA19980080
+- HUD ID before: 
+- Project: GARDENS OF DECKER LAKE
+- Address: 7000 DECKER LN
+- City: AUSTIN
+- State: TX
+- ZIP: 78724
+- ZIP extension: 
+- State project ID: TX-96-082
+- Latitude: 30.295017
+- Longitude: -97.625765
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453002222
+- Tract 2010: 48453002202
+- Tract 2000: 48453002202
+- Tract 1990: 48453002202
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0210
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 150
+- Units reported: 200
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 60
+- 3-bedroom units: 80
+- 4-bedroom units: 40
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

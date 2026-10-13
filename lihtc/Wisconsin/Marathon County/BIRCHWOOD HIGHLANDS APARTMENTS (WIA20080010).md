@@ -1,0 +1,85 @@
+# Project: BIRCHWOOD HIGHLANDS APARTMENTS (WIA20080010)
+
+- HUD ID: WIA20080010
+- HUD ID before: 
+- Project: BIRCHWOOD HIGHLANDS APARTMENTS
+- Address: 8005 BIRCH ST
+- City: WESTON
+- State: WI
+- ZIP: 54476
+- ZIP extension: 
+- State project ID: 5283
+- Latitude: 44.883977
+- Longitude: -89.582108
+- County FIPS: 55073
+- County from: 2020
+- Tract 2020: 55073001106
+- Tract 2010: 55073001102
+- Tract 2000: 55073001102
+- Tract 1990: 55073001102
+- Place 2020: 86025
+- Place 2010: 86025
+- Place 2000: 86025
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 86982
+- Units: 71
+- Low-income units: 4
+- Units reported: 71
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 66
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

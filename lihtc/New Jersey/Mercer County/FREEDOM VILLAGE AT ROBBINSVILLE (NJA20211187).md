@@ -1,0 +1,85 @@
+# Project: FREEDOM VILLAGE AT ROBBINSVILLE (NJA20211187)
+
+- HUD ID: NJA20211187
+- HUD ID before: 
+- Project: FREEDOM VILLAGE AT ROBBINSVILLE
+- Address: COMMERCE SQUARE SOUTH AND ROUTE 33
+- City: ROBBINSVILLE TWP.
+- State: NJ
+- ZIP: 08691
+- ZIP extension: 
+- State project ID: NJ-99-99
+- Latitude: 40.2154
+- Longitude: -74.5828
+- County FIPS: 34021
+- County from: 2020
+- Tract 2020: 34021004309
+- Tract 2010: 34021004309
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1400000
+- Units: 72
+- Low-income units: 42
+- Units reported: 72
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

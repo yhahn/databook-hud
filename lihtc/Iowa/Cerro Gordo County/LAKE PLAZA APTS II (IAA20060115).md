@@ -1,0 +1,85 @@
+# Project: LAKE PLAZA APTS II (IAA20060115)
+
+- HUD ID: IAA20060115
+- HUD ID before: 
+- Project: LAKE PLAZA APTS II
+- Address: 20 N FOURTH ST
+- City: CLEAR LAKE
+- State: IA
+- ZIP: 50428
+- ZIP extension: 
+- State project ID: 05-29
+- Latitude: 43.136783
+- Longitude: -93.380995
+- County FIPS: 19033
+- County from: 2020
+- Tract 2020: 19033950800
+- Tract 2010: 19033950800
+- Tract 2000: 19033950800
+- Tract 1990: 19033950800
+- Place 2020: 14025
+- Place 2010: 14025
+- Place 2000: 14025
+- Place 1990: 0790
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 164280
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

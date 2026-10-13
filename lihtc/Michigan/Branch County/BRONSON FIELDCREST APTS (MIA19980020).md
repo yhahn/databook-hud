@@ -1,0 +1,85 @@
+# Project: BRONSON FIELDCREST APTS (MIA19980020)
+
+- HUD ID: MIA19980020
+- HUD ID before: 
+- Project: BRONSON FIELDCREST APTS
+- Address: 151 WAYNE ST
+- City: BRONSON
+- State: MI
+- ZIP: 49028
+- ZIP extension: 
+- State project ID: MI-1694
+- Latitude: 41.871309
+- Longitude: -85.184833
+- County FIPS: 26023
+- County from: 2020
+- Tract 2020: 26023951200
+- Tract 2010: 26023951200
+- Tract 2000: 26023951200
+- Tract 1990: 26023951200
+- Place 2020: 10860
+- Place 2010: 10860
+- Place 2000: 10860
+- Place 1990: 0330
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

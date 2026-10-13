@@ -1,0 +1,85 @@
+# Project: AMMONOOSUC GREEN (NHA20010005)
+
+- HUD ID: NHA20010005
+- HUD ID before: 
+- Project: AMMONOOSUC GREEN
+- Address: 155 MAIN ST
+- City: LITTLETON
+- State: NH
+- ZIP: 03561
+- ZIP extension: 
+- State project ID: 99
+- Latitude: 44.30721
+- Longitude: -71.776201
+- County FIPS: 33009
+- County from: 2020
+- Tract 2020: 33009960102
+- Tract 2010: 33009960100
+- Tract 2000: 33009960100
+- Tract 1990: 33009960100
+- Place 2020: 42500
+- Place 2010: 42500
+- Place 2000: 42500
+- Place 1990: 1520
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 10
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HICKORY CROSSING (OKA19980065)
+
+- HUD ID: OKA19980065
+- HUD ID before: 
+- Project: HICKORY CROSSING
+- Address: 2101 S HICKORY ST
+- City: SAPULPA
+- State: OK
+- ZIP: 74066
+- ZIP extension: 
+- State project ID: 970723
+- Latitude: 35.9739
+- Longitude: -96.118609
+- County FIPS: 40037
+- County from: 2020
+- Tract 2020: 40037020603
+- Tract 2010: 40037020601
+- Tract 2000: 40037020601
+- Tract 1990: 40037020600
+- Place 2020: 65400
+- Place 2010: 65400
+- Place 2000: 39000
+- Place 1990: 2135
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OKA1999080.
+- Record status: Updated

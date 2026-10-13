@@ -1,0 +1,85 @@
+# Project: SMITH HILL VISIONS (RIA20050040)
+
+- HUD ID: RIA20050040
+- HUD ID before: 
+- Project: SMITH HILL VISIONS
+- Address: 80 GODDARD ST
+- City: PROVIDENCE
+- State: RI
+- ZIP: 02908
+- ZIP extension: 
+- State project ID: RI00108
+- Latitude: 41.834474
+- Longitude: -71.420666
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007002600
+- Tract 2010: 44007002600
+- Tract 2000: 44007002600
+- Tract 1990: 44007002600
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0400
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 455294
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 10
+- 3-bedroom units: 13
+- 4-bedroom units: 2
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS RIA2004050.
+- Record status: Existing, unchanged

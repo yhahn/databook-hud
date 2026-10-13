@@ -1,0 +1,85 @@
+# Project: GREAT FALLS (NJA20140060)
+
+- HUD ID: NJA20140060
+- HUD ID before: 
+- Project: GREAT FALLS
+- Address: 24-25 MILL STREET AND 33-35 VAN HOUTEN ST.
+- City: PATERSON
+- State: NJ
+- ZIP: 07501
+- ZIP extension: 
+- State project ID: 2914
+- Latitude: 40.9193
+- Longitude: -74.1709
+- County FIPS: 34031
+- County from: 2020
+- Tract 2020: 34031183200
+- Tract 2010: 34031183200
+- Tract 2000: 34031181800
+- Tract 1990: 34031181800
+- Place 2020: 57000
+- Place 2010: 57000
+- Place 2000: 57000
+- Place 1990: 3115
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 756110
+- Units: 145
+- Low-income units: 139
+- Units reported: 145
+- Low-income reported: 139
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CLOISTERS III (PAA20070035)
+
+- HUD ID: PAA20070035
+- HUD ID before: 
+- Project: CLOISTERS III
+- Address: 3900 HAVERFORD AVE
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19104
+- ZIP extension: 
+- State project ID: TC20050617
+- Latitude: 39.963002
+- Longitude: -75.199628
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101010800
+- Tract 2010: 42101010800
+- Tract 2000: 42101010800
+- Tract 1990: 42101010800
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1183268
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 19
+- 3-bedroom units: 24
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: Yes
+- CDBG amount: 218624
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WALDEN VIEW APTS (NYA00000171)
+
+- HUD ID: NYA00000171
+- HUD ID before: 
+- Project: WALDEN VIEW APTS
+- Address: 33 OAK ST
+- City: WALDEN
+- State: NY
+- ZIP: 12586
+- ZIP extension: 
+- State project ID: NY-90-0471_00406
+- Latitude: 41.562254
+- Longitude: -74.191131
+- County FIPS: 36071
+- County from: 2020
+- Tract 2020: 36071010702
+- Tract 2010: 36071010700
+- Tract 2000: 36071010700
+- Tract 1990: 36071010700
+- Place 2020: 77849
+- Place 2010: 77849
+- Place 2000: 77849
+- Place 1990: 3770
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 12
+- Units reported: 60
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001665.
+- Record status: Existing, unchanged

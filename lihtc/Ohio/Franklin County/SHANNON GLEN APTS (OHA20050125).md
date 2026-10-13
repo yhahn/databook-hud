@@ -1,0 +1,85 @@
+# Project: SHANNON GLEN APTS (OHA20050125)
+
+- HUD ID: OHA20050125
+- HUD ID before: 
+- Project: SHANNON GLEN APTS
+- Address: 5685 BALDOYLE WAY
+- City: CANAL WINCHESTER
+- State: OH
+- ZIP: 43110
+- ZIP extension: 
+- State project ID: 020139
+- Latitude: 39.894193
+- Longitude: -82.844939
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049010201
+- Tract 2010: 39049010200
+- Tract 2000: 39049009492
+- Tract 1990: 39049009374
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 210
+- Low-income units: 210
+- Units reported: 210
+- Low-income reported: 210
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 88
+- 3-bedroom units: 74
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2004646, OHA2004248.
+- Record status: Existing, unchanged

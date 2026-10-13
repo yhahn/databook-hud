@@ -1,0 +1,85 @@
+# Project: CHANDLER HEIGHTS II (DEA20160001)
+
+- HUD ID: DEA20160001
+- HUD ID before: 
+- Project: CHANDLER HEIGHTS II
+- Address: CLEMENTINE COURT
+- City: SEAFORD
+- State: DE
+- ZIP: 19973
+- ZIP extension: 
+- State project ID: 1519-1
+- Latitude: 38.669
+- Longitude: -75.6072
+- County FIPS: 10005
+- County from: 2020
+- Tract 2020: 10005050406
+- Tract 2010: 10005050406
+- Tract 2000: 10005050402
+- Tract 1990: 
+- Place 2020: 64320
+- Place 2010: 64320
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 0
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

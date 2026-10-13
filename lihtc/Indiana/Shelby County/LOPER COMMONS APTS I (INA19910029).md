@@ -1,0 +1,85 @@
+# Project: LOPER COMMONS APTS I (INA19910029)
+
+- HUD ID: INA19910029
+- HUD ID before: 
+- Project: LOPER COMMONS APTS I
+- Address: 919 LEWIS CREEK LN
+- City: SHELBYVILLE
+- State: IN
+- ZIP: 46176
+- ZIP extension: 
+- State project ID: IN-90-02101
+- Latitude: 39.510978
+- Longitude: -85.762781
+- County FIPS: 18145
+- County from: 2020
+- Tract 2020: 18145710700
+- Tract 2010: 18145710700
+- Tract 2000: 18145710700
+- Tract 1990: 18145710700
+- Place 2020: 69318
+- Place 2010: 69318
+- Place 2000: 69318
+- Place 1990: 2325
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 98
+- Low-income units: 96
+- Units reported: 98
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 32
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001175.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GENESIS EAST APTS (MIA20000100)
+
+- HUD ID: MIA20000100
+- HUD ID before: 
+- Project: GENESIS EAST APTS
+- Address: 4382 WALNUT HILLS DR SE
+- City: KENTWOOD
+- State: MI
+- ZIP: 49512
+- ZIP extension: 
+- State project ID: MI-1437
+- Latitude: 42.884282
+- Longitude: -85.599114
+- County FIPS: 26081
+- County from: 2020
+- Tract 2020: 26081012612
+- Tract 2010: 26081012607
+- Tract 2000: 26081012603
+- Tract 1990: 26081012602
+- Place 2020: 42820
+- Place 2010: 42820
+- Place 2000: 34000
+- Place 1990: 1392
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

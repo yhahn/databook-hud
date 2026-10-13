@@ -1,0 +1,85 @@
+# Project: CASA SALDANA (TXA20060125)
+
+- HUD ID: TXA20060125
+- HUD ID before: 
+- Project: CASA SALDANA
+- Address: 1225 N FM 491
+- City: MERCEDES
+- State: TX
+- ZIP: 78570
+- ZIP extension: 
+- State project ID: TX4060
+- Latitude: 26.169828
+- Longitude: -97.910514
+- County FIPS: 48215
+- County from: 2020
+- Tract 2020: 48215023104
+- Tract 2010: 48215023104
+- Tract 2000: 48215023000
+- Tract 1990: 48215023000
+- Place 2020: 47700
+- Place 2010: 47700
+- Place 2000: 47700
+- Place 1990: 2765
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 1182999
+- Units: 196
+- Low-income units: 156
+- Units reported: 196
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 88
+- 3-bedroom units: 68
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CASA KORIMA APTS.
+- Record status: Existing, unchanged

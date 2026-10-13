@@ -1,0 +1,85 @@
+# Project: LAMBERT COMMUNITY HOUSING (MSA19970052)
+
+- HUD ID: MSA19970052
+- HUD ID before: 
+- Project: LAMBERT COMMUNITY HOUSING
+- Address: 1120 11TH ST
+- City: LAMBERT
+- State: MS
+- ZIP: 38643
+- ZIP extension: 
+- State project ID: MS-96-107
+- Latitude: 34.201082
+- Longitude: -90.289493
+- County FIPS: 28119
+- County from: 2020
+- Tract 2020: 28119950300
+- Tract 2010: 28119950300
+- Tract 2000: 28119950300
+- Tract 1990: 28119950300
+- Place 2020: 39080
+- Place 2010: 39080
+- Place 2000: 16940
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 35
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SINGLE-PARENT FAMILIES
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1997572.
+- Record status: Existing, unchanged

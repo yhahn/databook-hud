@@ -1,0 +1,85 @@
+# Project: PINE TOWN APARTMENTS (NYB20110059)
+
+- HUD ID: NYB20110059
+- HUD ID before: 
+- Project: PINE TOWN APARTMENTS
+- Address: 37 PINE ST
+- City: OCEANSIDE
+- State: NY
+- ZIP: 11572
+- ZIP extension: 
+- State project ID: 2023
+- Latitude: 40.640687
+- Longitude: -73.636308
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059413200
+- Tract 2010: 36059413200
+- Tract 2000: 36059413200
+- Tract 1990: 36059413200
+- Place 2020: 54441
+- Place 2010: 54441
+- Place 2000: 54441
+- Place 1990: 2650
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 992510
+- Units: 130
+- Low-income units: 129
+- Units reported: 130
+- Low-income reported: 129
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 38
+- 3-bedroom units: 74
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

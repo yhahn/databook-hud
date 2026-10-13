@@ -1,0 +1,85 @@
+# Project: EVERGREEN GARDEN APTS (ORA19900045)
+
+- HUD ID: ORA19900045
+- HUD ID before: 
+- Project: EVERGREEN GARDEN APTS
+- Address: 3810 12TH ST
+- City: TILLAMOOK
+- State: OR
+- ZIP: 97141
+- ZIP extension: 
+- State project ID: OR89-249
+- Latitude: 45.448888
+- Longitude: -123.820701
+- County FIPS: 41057
+- County from: 2020
+- Tract 2020: 41057960402
+- Tract 2010: 41057960400
+- Tract 2000: 41057960400
+- Tract 1990: 41057960400
+- Place 2020: 73700
+- Place 2010: 73700
+- Place 2000: 73700
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 44173
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

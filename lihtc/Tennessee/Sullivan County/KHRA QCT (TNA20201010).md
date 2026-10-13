@@ -1,0 +1,85 @@
+# Project: KHRA QCT (TNA20201010)
+
+- HUD ID: TNA20201010
+- HUD ID before: 
+- Project: KHRA QCT
+- Address: SCATTERED SITES - SEE ATTACHED LISTING
+- City: KINGSPORT
+- State: TN
+- ZIP: 37660
+- ZIP extension: 
+- State project ID: TN-18-234
+- Latitude: 36.5327
+- Longitude: -82.554
+- County FIPS: 47163
+- County from: 2020
+- Tract 2020: 47163040200
+- Tract 2010: 47163040200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 39560
+- Place 2010: 39560
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 9501881
+- Units: 207
+- Low-income units: 207
+- Units reported: 207
+- Low-income reported: 207
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 105
+- 3-bedroom units: 74
+- 4-bedroom units: 15
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

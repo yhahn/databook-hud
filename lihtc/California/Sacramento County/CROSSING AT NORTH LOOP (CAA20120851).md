@@ -1,0 +1,85 @@
+# Project: CROSSING AT NORTH LOOP (CAA20120851)
+
+- HUD ID: CAA20120851
+- HUD ID before: 
+- Project: CROSSING AT NORTH LOOP
+- Address: 3930 TARMIGAN DR
+- City: ANTELOPE
+- State: CA
+- ZIP: 95843
+- ZIP extension: 
+- State project ID: CA-11-922
+- Latitude: 38.717725
+- Longitude: -121.372504
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067007430
+- Tract 2010: 06067007430
+- Tract 2000: 06067007418
+- Tract 1990: 06067007410
+- Place 2020: 02210
+- Place 2010: 02210
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 402414
+- Units: 112
+- Low-income units: 111
+- Units reported: 112
+- Low-income reported: 111
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 56
+- 3-bedroom units: 26
+- 4-bedroom units: 8
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 45
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1996181. AKA ANTELOPE PACIFIC ASSOC. FKA TARMIGAN TERRACE
+- Record status: Existing, unchanged

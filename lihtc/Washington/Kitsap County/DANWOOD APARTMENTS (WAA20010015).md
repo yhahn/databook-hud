@@ -1,0 +1,85 @@
+# Project: DANWOOD APARTMENTS (WAA20010015)
+
+- HUD ID: WAA20010015
+- HUD ID before: 
+- Project: DANWOOD APARTMENTS
+- Address: 9711 DANWOOD LANE NW
+- City: SILVERDALE
+- State: WA
+- ZIP: 98383
+- ZIP extension: 
+- State project ID: 00-68
+- Latitude: 47.652031
+- Longitude: -122.695982
+- County FIPS: 53035
+- County from: 2020
+- Tract 2020: 53035091201
+- Tract 2010: 53035091201
+- Tract 2000: 53035091201
+- Tract 1990: 53035091201
+- Place 2020: 64365
+- Place 2010: 64365
+- Place 2000: 64365
+- Place 1990: 1171
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 106987
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 28
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

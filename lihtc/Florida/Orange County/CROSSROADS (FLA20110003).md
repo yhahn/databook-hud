@@ -1,0 +1,85 @@
+# Project: CROSSROADS (FLA20110003)
+
+- HUD ID: FLA20110003
+- HUD ID before: 
+- Project: CROSSROADS
+- Address: 4381 CROSSROADS CT
+- City: ORLANDO
+- State: FL
+- ZIP: 32811
+- ZIP extension: 
+- State project ID: 2505
+- Latitude: 28.50929
+- Longitude: -81.432394
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095014605
+- Tract 2010: 12095014605
+- Tract 2000: 12095014605
+- Tract 1990: 12095014602
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1600
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 348450
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 52
+- 3-bedroom units: 42
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2010503, FLA2010027.
+- Record status: Existing, unchanged

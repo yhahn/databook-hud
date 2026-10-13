@@ -1,0 +1,85 @@
+# Project: MARTIN LUTHER KING HOPE VI (PAA20030095)
+
+- HUD ID: PAA20030095
+- HUD ID before: 
+- Project: MARTIN LUTHER KING HOPE VI
+- Address: 1207 CHRISTIAN ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19147
+- ZIP extension: 
+- State project ID: TC20000006
+- Latitude: 39.939748
+- Longitude: -75.162657
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101001800
+- Tract 2010: 42101001800
+- Tract 2000: 42101001800
+- Tract 1990: 42101001800
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 684737
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 8
+- 3-bedroom units: 17
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 2495384
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MARTIN LUTHER KING HOPE II.
+- Record status: Existing, unchanged

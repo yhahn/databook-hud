@@ -1,0 +1,85 @@
+# Project: LA INMACULADA ELDERLY CENTER (PRA20050065)
+
+- HUD ID: PRA20050065
+- HUD ID before: 
+- Project: LA INMACULADA ELDERLY CENTER
+- Address: 1715 AVE PONCE DE LEON
+- City: SAN JUAN
+- State: PR
+- ZIP: 00909
+- ZIP extension: 
+- State project ID: 03-003
+- Latitude: 18.4424
+- Longitude: -66.0657
+- County FIPS: 72127
+- County from: 2020
+- Tract 2020: 72127002400
+- Tract 2010: 72127002300
+- Tract 2000: 72127002400
+- Tract 1990: 72127002400
+- Place 2020: 76770
+- Place 2010: 76770
+- Place 2000: 76770
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1140000
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA2005020.
+- Record status: Existing, unchanged

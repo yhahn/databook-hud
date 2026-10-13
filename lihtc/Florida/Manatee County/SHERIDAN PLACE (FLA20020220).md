@@ -1,0 +1,85 @@
+# Project: SHERIDAN PLACE (FLA20020220)
+
+- HUD ID: FLA20020220
+- HUD ID before: 
+- Project: SHERIDAN PLACE
+- Address: 601 26TH AVE W
+- City: BRADENTON
+- State: FL
+- ZIP: 34205
+- ZIP extension: 
+- State project ID: 1026
+- Latitude: 27.476966
+- Longitude: -82.568472
+- County FIPS: 12081
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12081000105
+- Tract 2000: 12081000104
+- Tract 1990: 12081000104
+- Place 2020: 
+- Place 2010: 67258
+- Place 2000: 07950
+- Place 1990: 2221
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 145
+- Low-income units: 145
+- Units reported: 145
+- Low-income reported: 145
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 81
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

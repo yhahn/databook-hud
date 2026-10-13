@@ -1,0 +1,85 @@
+# Project: SAN PEDRO TERRACE APTS (AZA20020080)
+
+- HUD ID: AZA20020080
+- HUD ID before: 
+- Project: SAN PEDRO TERRACE APTS
+- Address: 351 E PEARL ST
+- City: BENSON
+- State: AZ
+- ZIP: 85602
+- ZIP extension: 
+- State project ID: TC-0223
+- Latitude: 31.970803
+- Longitude: -110.292718
+- County FIPS: 04003
+- County from: 2020
+- Tract 2020: 04003000301
+- Tract 2010: 04003000301
+- Tract 2000: 04003000300
+- Tract 1990: 04003000300
+- Place 2020: 05770
+- Place 2010: 05770
+- Place 2000: 05770
+- Place 1990: 0020
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 42
+- Units reported: 48
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 19
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WESTLAKE APARTMENTS FKA 619 WESTLAKE (CAA20231109)
+
+- HUD ID: CAA20231109
+- HUD ID before: 
+- Project: WESTLAKE APARTMENTS FKA 619 WESTLAKE
+- Address: 619 SOUTH WESTLAKE AVENUE
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90057
+- ZIP extension: 
+- State project ID: CA-2021-529
+- Latitude: 34.058288
+- Longitude: -118.274329
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037208903
+- Tract 2010: 06037208903
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2639545
+- Units: 78
+- Low-income units: 77
+- Units reported: 78
+- Low-income reported: 77
+- Efficiencies: 
+- 1-bedroom units: 38
+- 2-bedroom units: 20
+- 3-bedroom units: 20
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

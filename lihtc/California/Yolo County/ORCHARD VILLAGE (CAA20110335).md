@@ -1,0 +1,85 @@
+# Project: ORCHARD VILLAGE (CAA20110335)
+
+- HUD ID: CAA20110335
+- HUD ID before: 
+- Project: ORCHARD VILLAGE
+- Address: 955 RAILROAD AVE
+- City: WINTERS
+- State: CA
+- ZIP: 95694
+- ZIP extension: 
+- State project ID: CA-09-228
+- Latitude: 38.529435
+- Longitude: -121.970873
+- County FIPS: 06113
+- County from: 2020
+- Tract 2020: 06113011301
+- Tract 2010: 06113011300
+- Tract 2000: 06113011300
+- Tract 1990: 06113011300
+- Place 2020: 86034
+- Place 2010: 86034
+- Place 2000: 86034
+- Place 1990: 3135
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1689547
+- Units: 74
+- Low-income units: 73
+- Units reported: 74
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 26
+- 3-bedroom units: 32
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 73
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2500000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011622.
+- Record status: Existing, unchanged

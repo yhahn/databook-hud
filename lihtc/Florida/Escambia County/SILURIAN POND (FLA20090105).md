@@ -1,0 +1,85 @@
+# Project: SILURIAN POND (FLA20090105)
+
+- HUD ID: FLA20090105
+- HUD ID before: 
+- Project: SILURIAN POND
+- Address: 2800 HOLLYWOOD AVE
+- City: PENSACOLA
+- State: FL
+- ZIP: 32505
+- ZIP extension: 
+- State project ID: 1744
+- Latitude: 30.445009
+- Longitude: -87.259893
+- County FIPS: 12033
+- County from: 2020
+- Tract 2020: 12033003100
+- Tract 2010: 12033003100
+- Tract 2000: 12033003100
+- Tract 1990: 12033003100
+- Place 2020: 08300
+- Place 2010: 08300
+- Place 2000: 08300
+- Place 1990: 0234
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 367467
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

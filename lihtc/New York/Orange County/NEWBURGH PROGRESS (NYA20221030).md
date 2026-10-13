@@ -1,0 +1,85 @@
+# Project: NEWBURGH PROGRESS (NYA20221030)
+
+- HUD ID: NYA20221030
+- HUD ID before: 
+- Project: NEWBURGH PROGRESS
+- Address: 35 DUBOIS STREET
+- City: NEWBURGH
+- State: NY
+- ZIP: 12550
+- ZIP extension: 
+- State project ID: 20186044
+- Latitude: 41.501605
+- Longitude: -74.015539
+- County FIPS: 36071
+- County from: 2020
+- Tract 2020: 36071000301
+- Tract 2010: 36071000300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50034
+- Place 2010: 50034
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1322295
+- Units: 61
+- Low-income units: 51
+- Units reported: 61
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 17
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 43
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2487266
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Substance, juvenile conviction
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

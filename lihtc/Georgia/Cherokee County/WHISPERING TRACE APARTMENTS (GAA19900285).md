@@ -1,0 +1,85 @@
+# Project: WHISPERING TRACE APARTMENTS (GAA19900285)
+
+- HUD ID: GAA19900285
+- HUD ID before: 
+- Project: WHISPERING TRACE APARTMENTS
+- Address: 131 BENTLEY PKWY
+- City: WOODSTOCK
+- State: GA
+- ZIP: 30188
+- ZIP extension: 
+- State project ID: GA-88-205
+- Latitude: 34.09904
+- Longitude: -84.51355
+- County FIPS: 13057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 13057090904
+- Tract 2000: 13057090903
+- Tract 1990: 13057090903
+- Place 2020: 
+- Place 2010: 84176
+- Place 2000: 84176
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 77
+- Low-income units: 40
+- Units reported: 77
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

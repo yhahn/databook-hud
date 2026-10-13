@@ -1,0 +1,85 @@
+# Project: WHISTLESTOP VIEW APTS (PAA20165053)
+
+- HUD ID: PAA20165053
+- HUD ID before: 
+- Project: WHISTLESTOP VIEW APTS
+- Address: 443 W HIGH ST
+- City: ELIZABETHTOWN
+- State: PA
+- ZIP: 17002
+- ZIP extension: 3140
+- State project ID: TC20150106
+- Latitude: 40.148598
+- Longitude: -76.61321
+- County FIPS: 42071
+- County from: 2020
+- Tract 2020: 42071010701
+- Tract 2010: 42071010701
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23016
+- Place 2010: 23016
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 103928
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 37
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Updated

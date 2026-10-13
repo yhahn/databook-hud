@@ -1,0 +1,85 @@
+# Project: GREENS AT ENGLISH CONSUL (MDA20140722)
+
+- HUD ID: MDA20140722
+- HUD ID before: 
+- Project: GREENS AT ENGLISH CONSUL
+- Address: 4120 OAK RD
+- City: LANSDOWNE
+- State: MD
+- ZIP: 21227
+- ZIP extension: 
+- State project ID: MD-12-20
+- Latitude: 39.237996
+- Longitude: -76.643027
+- County FIPS: 24005
+- County from: 2020
+- Tract 2020: 24005430101
+- Tract 2010: 24005430101
+- Tract 2000: 24005430101
+- Tract 1990: 24005430101
+- Place 2020: 04050
+- Place 2010: 04050
+- Place 2000: 45662
+- Place 1990: 0545
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA0000009.
+- Record status: Existing, unchanged

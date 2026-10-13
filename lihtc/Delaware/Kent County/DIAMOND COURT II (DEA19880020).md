@@ -1,0 +1,85 @@
+# Project: DIAMOND COURT II (DEA19880020)
+
+- HUD ID: DEA19880020
+- HUD ID before: 
+- Project: DIAMOND COURT II
+- Address: 35 DIAMOND CT
+- City: HARRINGTON
+- State: DE
+- ZIP: 19952
+- ZIP extension: 
+- State project ID: DETC8813001
+- Latitude: 38.920939
+- Longitude: -75.57064
+- County FIPS: 10001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 10001043000
+- Tract 2000: 10001043000
+- Tract 1990: 10001043000
+- Place 2020: 
+- Place 2010: 33120
+- Place 2000: 33120
+- Place 1990: 0125
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 62140
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BLADES DIAMOND COURT II.
+- Record status: Existing, unchanged

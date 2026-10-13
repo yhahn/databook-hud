@@ -1,0 +1,85 @@
+# Project: HEAVENLY VISION SENIOR HOUSING LP (CAA20000753)
+
+- HUD ID: CAA20000753
+- HUD ID before: 
+- Project: HEAVENLY VISION SENIOR HOUSING LP
+- Address: 9500 S BROADWAY
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90003
+- ZIP extension: 
+- State project ID: CA-97-080
+- Latitude: 33.950085
+- Longitude: -118.277928
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037240500
+- Tract 2010: 06037240500
+- Tract 2000: 06037240500
+- Tract 1990: 06037240500
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 328676
+- Units: 46
+- Low-income units: 45
+- Units reported: 46
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUMMER TOWN ESTATES III DE, LLC (GUA20184001)
+
+- HUD ID: GUA20184001
+- HUD ID before: 
+- Project: SUMMER TOWN ESTATES III DE, LLC
+- Address: 111 CHALAN PIPITAS
+- City: DEDEDO
+- State: GU
+- ZIP: 96929
+- ZIP extension: 
+- State project ID: GU-18-00
+- Latitude: 13.5338
+- Longitude: -144.8772
+- County FIPS: 66010
+- County from: 2020
+- Tract 2020: 66010950502
+- Tract 2010: 66010950502
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 47800
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 33
+- 4-bedroom units: 33
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 66
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SOUTH CITY IV (TNA20220007)
+
+- HUD ID: TNA20220007
+- HUD ID before: 
+- Project: SOUTH CITY IV
+- Address: 365 VANCE AVE
+- City: MEMPHIS
+- State: TN
+- ZIP: 38126
+- ZIP extension: 
+- State project ID: TN-20-006
+- Latitude: 35.135071
+- Longitude: -90.049717
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157011402
+- Tract 2010: 47157011400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 13768623
+- Units: 138
+- Low-income units: 138
+- Units reported: 138
+- Low-income reported: 138
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 88
+- 3-bedroom units: 12
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

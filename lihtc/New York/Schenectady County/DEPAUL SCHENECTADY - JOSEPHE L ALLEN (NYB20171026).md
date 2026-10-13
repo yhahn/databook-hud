@@ -1,0 +1,85 @@
+# Project: DEPAUL SCHENECTADY - JOSEPHE L ALLEN (NYB20171026)
+
+- HUD ID: NYB20171026
+- HUD ID before: 
+- Project: DEPAUL SCHENECTADY - JOSEPHE L ALLEN
+- Address: 780 ALBANY ST
+- City: SCHENECTADY
+- State: NY
+- ZIP: 12307
+- ZIP extension: 
+- State project ID: NY-15-2324
+- Latitude: 42.80706
+- Longitude: -73.936815
+- County FIPS: 36093
+- County from: 2020
+- Tract 2020: 36093021002
+- Tract 2010: 36093021002
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 65508
+- Place 2010: 65508
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 627784
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 1
+- 1-bedroom units: 46
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 5023465
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

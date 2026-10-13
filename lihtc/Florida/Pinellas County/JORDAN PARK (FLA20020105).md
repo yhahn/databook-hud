@@ -1,0 +1,85 @@
+# Project: JORDAN PARK (FLA20020105)
+
+- HUD ID: FLA20020105
+- HUD ID before: 
+- Project: JORDAN PARK
+- Address: 2240 NINTH AVE S
+- City: ST PETERSBURG
+- State: FL
+- ZIP: 33712
+- ZIP extension: 
+- State project ID: 402
+- Latitude: 27.760934
+- Longitude: -82.663546
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103028700
+- Tract 2010: 12103028700
+- Tract 2000: 12103020900
+- Tract 1990: 12103020995
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 1900
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 237
+- Low-income units: 237
+- Units reported: 237
+- Low-income reported: 237
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 109
+- 3-bedroom units: 90
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

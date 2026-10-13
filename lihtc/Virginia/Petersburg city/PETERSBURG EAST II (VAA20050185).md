@@ -1,0 +1,85 @@
+# Project: PETERSBURG EAST II (VAA20050185)
+
+- HUD ID: VAA20050185
+- HUD ID before: 
+- Project: PETERSBURG EAST II
+- Address: 2376 NAVAJO CT
+- City: PETERSBURG
+- State: VA
+- ZIP: 23803
+- ZIP extension: 
+- State project ID: 4186
+- Latitude: 37.237247
+- Longitude: -77.362585
+- County FIPS: 51730
+- County from: 2020
+- Tract 2020: 51730810100
+- Tract 2010: 51730810100
+- Tract 2000: 51730810100
+- Tract 1990: 51730810100
+- Place 2020: 61832
+- Place 2010: 61832
+- Place 2000: 61832
+- Place 1990: 0960
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 466610
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 40
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

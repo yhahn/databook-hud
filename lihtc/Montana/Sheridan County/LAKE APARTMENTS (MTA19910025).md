@@ -1,0 +1,85 @@
+# Project: LAKE APARTMENTS (MTA19910025)
+
+- HUD ID: MTA19910025
+- HUD ID before: 
+- Project: LAKE APARTMENTS
+- Address: 116 MAIN STREET
+- City: MEDICINE LAKE
+- State: MT
+- ZIP: 59247
+- ZIP extension: 0000
+- State project ID: 91050
+- Latitude: 48.501716
+- Longitude: -104.507171
+- County FIPS: 30091
+- County from: 2020
+- Tract 2020: 30091090400
+- Tract 2010: 30091090400
+- Tract 2000: 30091090100
+- Tract 1990: 30091950100
+- Place 2020: 48775
+- Place 2010: 48775
+- Place 2000: 48775
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 37230
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Undesignated
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MTA0000070.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ACADEMY PARK APTS (MEA19950005)
+
+- HUD ID: MEA19950005
+- HUD ID before: 
+- Project: ACADEMY PARK APTS
+- Address: 28 ACADEMY ST
+- City: PRESQUE ISLE
+- State: ME
+- ZIP: 04769
+- ZIP extension: 
+- State project ID: ME36-H017-337
+- Latitude: 46.678813
+- Longitude: -68.01193
+- County FIPS: 23003
+- County from: 2020
+- Tract 2020: 23003951900
+- Tract 2010: 23003951900
+- Tract 2000: 23003951900
+- Tract 1990: 23003951900
+- Place 2020: 60825
+- Place 2010: 60825
+- Place 2000: 60825
+- Place 1990: 3770
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 48045
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

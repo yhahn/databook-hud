@@ -1,0 +1,85 @@
+# Project: WALNUT HILL APTS (OHA20060247)
+
+- HUD ID: OHA20060247
+- HUD ID before: 
+- Project: WALNUT HILL APTS
+- Address: 428 E WALNUT ST
+- City: ST PARIS
+- State: OH
+- ZIP: 43072
+- ZIP extension: 
+- State project ID: 040063
+- Latitude: 40.12609
+- Longitude: -83.95321
+- County FIPS: 39021
+- County from: 2020
+- Tract 2020: 39021010200
+- Tract 2010: 39021010200
+- Tract 2000: 39021010200
+- Tract 1990: 39021010200
+- Place 2020: 69708
+- Place 2010: 69708
+- Place 2000: 14296
+- Place 1990: 3810
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 140702
+- Units: 28
+- Low-income units: 27
+- Units reported: 28
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 20
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006707, OHA2005136.
+- Record status: Existing, unchanged

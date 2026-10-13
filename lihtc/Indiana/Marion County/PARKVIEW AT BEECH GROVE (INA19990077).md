@@ -1,0 +1,85 @@
+# Project: PARKVIEW AT BEECH GROVE (INA19990077)
+
+- HUD ID: INA19990077
+- HUD ID before: 
+- Project: PARKVIEW AT BEECH GROVE
+- Address: 3641 DANDELION AVE
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46203
+- ZIP extension: 
+- State project ID: IN-00-10000
+- Latitude: 39.715042
+- Longitude: -86.074891
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097390102
+- Tract 2010: 18097390102
+- Tract 2000: 18097390100
+- Tract 1990: 18097390100
+- Place 2020: 04204
+- Place 2010: 04204
+- Place 2000: 04204
+- Place 1990: 1145
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 373247
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 120
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 80
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MCGREGOR WOODS APTS.
+- Record status: Existing, unchanged

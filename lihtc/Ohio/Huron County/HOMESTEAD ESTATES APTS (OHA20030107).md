@@ -1,0 +1,85 @@
+# Project: HOMESTEAD ESTATES APTS (OHA20030107)
+
+- HUD ID: OHA20030107
+- HUD ID before: 
+- Project: HOMESTEAD ESTATES APTS
+- Address: 55 NW ST
+- City: NORWALK
+- State: OH
+- ZIP: 44857
+- ZIP extension: 
+- State project ID: OH-02-0011
+- Latitude: 41.241053
+- Longitude: -82.634208
+- County FIPS: 39077
+- County from: 2020
+- Tract 2020: 39077915700
+- Tract 2010: 39077915700
+- Tract 2000: 39077995700
+- Tract 1990: 39077995700
+- Place 2020: 57302
+- Place 2010: 57302
+- Place 2000: 57302
+- Place 1990: 3185
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 34450
+- Units: 24
+- Low-income units: 20
+- Units reported: 24
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003623, OHA2004138.
+- Record status: Existing, unchanged

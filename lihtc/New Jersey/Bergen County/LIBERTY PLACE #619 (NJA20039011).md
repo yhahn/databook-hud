@@ -1,0 +1,85 @@
+# Project: LIBERTY PLACE #619 (NJA20039011)
+
+- HUD ID: NJA20039011
+- HUD ID before: 
+- Project: LIBERTY PLACE #619
+- Address: 101 CEDAR ST
+- City: FORT LEE
+- State: NJ
+- ZIP: 07024
+- ZIP extension: 7037
+- State project ID: 01347-1
+- Latitude: 40.84976
+- Longitude: -73.965697
+- County FIPS: 34003
+- County from: 2020
+- Tract 2020: 34003019202
+- Tract 2010: 34003019202
+- Tract 2000: 34003019202
+- Tract 1990: 
+- Place 2020: 24420
+- Place 2010: 24420
+- Place 2000: 24420
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 34
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

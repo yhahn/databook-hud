@@ -1,0 +1,85 @@
+# Project: POST STREET APTS (CAA20060747)
+
+- HUD ID: CAA20060747
+- HUD ID before: 
+- Project: POST STREET APTS
+- Address: 1030 POST ST
+- City: SAN FRANCISCO
+- State: CA
+- ZIP: 94109
+- ZIP extension: 
+- State project ID: CA-05-914
+- Latitude: 37.787127
+- Longitude: -122.418782
+- County FIPS: 06075
+- County from: 2020
+- Tract 2020: 06075012002
+- Tract 2010: 06075012000
+- Tract 2000: 06075012000
+- Tract 1990: 06075012000
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 2485
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 371681
+- Units: 64
+- Low-income units: 58
+- Units reported: 64
+- Low-income reported: 58
+- Efficiencies: 10
+- 1-bedroom units: 49
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

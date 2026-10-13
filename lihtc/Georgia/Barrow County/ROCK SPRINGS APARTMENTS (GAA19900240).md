@@ -1,0 +1,85 @@
+# Project: ROCK SPRINGS APARTMENTS (GAA19900240)
+
+- HUD ID: GAA19900240
+- HUD ID before: 
+- Project: ROCK SPRINGS APARTMENTS
+- Address: 604 BOSS HARDY RD
+- City: WINDER
+- State: GA
+- ZIP: 30680
+- ZIP extension: 
+- State project ID: GA-89-011
+- Latitude: 34.041519
+- Longitude: -83.783919
+- County FIPS: 13013
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 13013180105
+- Tract 2000: 13013180101
+- Tract 1990: 13013180100
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 04140
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VILLA HERMOSA APTS (TXA20040395)
+
+- HUD ID: TXA20040395
+- HUD ID before: 
+- Project: VILLA HERMOSA APTS
+- Address: 1015 E CROCKETT ST
+- City: CRYSTAL CITY
+- State: TX
+- ZIP: 78839
+- ZIP extension: 
+- State project ID: TX3219
+- Latitude: 28.688073
+- Longitude: -99.821454
+- County FIPS: 48507
+- County from: 2020
+- Tract 2020: 48507950301
+- Tract 2010: 48507950301
+- Tract 2000: 48507950301
+- Tract 1990: 48507950300
+- Place 2020: 18020
+- Place 2010: 18020
+- Place 2000: 18020
+- Place 1990: 1050
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

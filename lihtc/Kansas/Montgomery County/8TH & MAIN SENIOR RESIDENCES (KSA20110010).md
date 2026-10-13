@@ -1,0 +1,85 @@
+# Project: 8TH & MAIN SENIOR RESIDENCES (KSA20110010)
+
+- HUD ID: KSA20110010
+- HUD ID before: 
+- Project: 8TH & MAIN SENIOR RESIDENCES
+- Address: 123 W MAIN ST
+- City: INDEPENDENCE
+- State: KS
+- ZIP: 67301
+- ZIP extension: 
+- State project ID: 60552
+- Latitude: 37.223113
+- Longitude: -95.707
+- County FIPS: 20125
+- County from: 2020
+- Tract 2020: 20125950400
+- Tract 2010: 20125950400
+- Tract 2000: 20125950400
+- Tract 1990: 20125950400
+- Place 2020: 33875
+- Place 2010: 33875
+- Place 2000: 33875
+- Place 1990: 1355
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 389773
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2011550.
+- Record status: Existing, unchanged

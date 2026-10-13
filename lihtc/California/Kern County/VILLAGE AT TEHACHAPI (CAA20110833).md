@@ -1,0 +1,85 @@
+# Project: VILLAGE AT TEHACHAPI (CAA20110833)
+
+- HUD ID: CAA20110833
+- HUD ID before: 
+- Project: VILLAGE AT TEHACHAPI
+- Address: 200 N MILL ST
+- City: TEHACHAPI
+- State: CA
+- ZIP: 93561
+- ZIP extension: 
+- State project ID: CA-09-537
+- Latitude: 35.134097
+- Longitude: -118.451742
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029006101
+- Tract 2010: 06029006100
+- Tract 2000: 06029006100
+- Tract 1990: 06029006100
+- Place 2020: 78092
+- Place 2010: 78092
+- Place 2000: 78092
+- Place 1990: 2873
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 80
+- Units reported: 81
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 41
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 68
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 9866895
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VILLAGE AT TEHACHAPI FAMILY APTS.
+- Record status: Existing, unchanged

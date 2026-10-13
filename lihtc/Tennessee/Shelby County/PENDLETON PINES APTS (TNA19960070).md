@@ -1,0 +1,85 @@
+# Project: PENDLETON PINES APTS (TNA19960070)
+
+- HUD ID: TNA19960070
+- HUD ID before: 
+- Project: PENDLETON PINES APTS
+- Address: 2305 PENDLETON ST
+- City: MEMPHIS
+- State: TN
+- ZIP: 38114
+- ZIP extension: 
+- State project ID: TN-94-037
+- Latitude: 35.082212
+- Longitude: -89.972111
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157008110
+- Tract 2010: 47157008110
+- Tract 2000: 47157008110
+- Tract 1990: 47157008110
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 287747
+- Units: 182
+- Low-income units: 182
+- Units reported: 182
+- Low-income reported: 182
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 150
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 37
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

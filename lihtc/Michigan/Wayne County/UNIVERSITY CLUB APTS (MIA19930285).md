@@ -1,0 +1,85 @@
+# Project: UNIVERSITY CLUB APTS (MIA19930285)
+
+- HUD ID: MIA19930285
+- HUD ID before: 
+- Project: UNIVERSITY CLUB APTS
+- Address: 4747 THIRD ST
+- City: DETROIT
+- State: MI
+- ZIP: 48201
+- ZIP extension: 
+- State project ID: MI-882
+- Latitude: 42.352887
+- Longitude: -83.070638
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163520200
+- Tract 2010: 26163520200
+- Tract 2000: 26163520200
+- Tract 1990: 26163520200
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 22000
+- Place 1990: 0680
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 36
+- Units reported: 120
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 96
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: loan paid off
+- Data note: 
+- Record status: Existing, unchanged

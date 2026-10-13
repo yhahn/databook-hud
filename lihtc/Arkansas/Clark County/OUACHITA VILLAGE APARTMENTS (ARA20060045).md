@@ -1,0 +1,85 @@
+# Project: OUACHITA VILLAGE APARTMENTS (ARA20060045)
+
+- HUD ID: ARA20060045
+- HUD ID before: 
+- Project: OUACHITA VILLAGE APARTMENTS
+- Address: 11 CYPRESS RD
+- City: ARKADELPHIA
+- State: AR
+- ZIP: 71923
+- ZIP extension: 
+- State project ID: AR-04-18-001
+- Latitude: 34.124222
+- Longitude: -93.08663
+- County FIPS: 05019
+- County from: 2020
+- Tract 2020: 05019953601
+- Tract 2010: 05019953601
+- Tract 2000: 05019953600
+- Tract 1990: 05019953600
+- Place 2020: 01870
+- Place 2010: 01870
+- Place 2000: 01870
+- Place 1990: 0065
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 154920
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 1
+- 1-bedroom units: 69
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

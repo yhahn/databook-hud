@@ -1,0 +1,24 @@
+# Tax Credit Projects: Colleton County, SC
+
+- Level: County
+- Postal code: SC
+- State FIPS: 45
+- County FIPS: 45029
+- Counties: 
+- Projects: 7
+- Units: 286
+- Low-income units: 286
+
+The low-income housing tax credit projects of Colleton County, South Carolina, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [MEADOW CREEK APTS (SCA19950050)](./Colleton%20County/MEADOW%20CREEK%20APTS%20%28SCA19950050%29.md) | SCA19950050 | WALTERBORO | 1995 | 30 | 30 |
+| [CAMBRIDGE POINTE APTS (SCA20040035)](./Colleton%20County/CAMBRIDGE%20POINTE%20APTS%20%28SCA20040035%29.md) | SCA20040035 | WALTERBORO | 2004 | 40 | 40 |
+| [EDISTO TERRACE APTS (SCA20070047)](./Colleton%20County/EDISTO%20TERRACE%20APTS%20%28SCA20070047%29.md) | SCA20070047 | WALTERBORO | 2007 | 48 | 48 |
+| [MAGNOLIA VILLAGE APTS (SCA20080062)](./Colleton%20County/MAGNOLIA%20VILLAGE%20APTS%20%28SCA20080062%29.md) | SCA20080062 | WALTERBORO | 2008 | 24 | 24 |
+| [HILLCREST APARTMENTS (SCA20150014)](./Colleton%20County/HILLCREST%20APARTMENTS%20%28SCA20150014%29.md) | SCA20150014 | WALTERBORO | 2015 | 32 | 32 |
+| [BAY MEADOWS APARTMENTS (SCA20160018)](./Colleton%20County/BAY%20MEADOWS%20APARTMENTS%20%28SCA20160018%29.md) | SCA20160018 | WALTERBORO | 2016 | 48 | 48 |
+| [LINCOLN APARTMENTS (SCA20231007)](./Colleton%20County/LINCOLN%20APARTMENTS%20%28SCA20231007%29.md) | SCA20231007 | WALTERBORO | 2023 | 64 | 64 |

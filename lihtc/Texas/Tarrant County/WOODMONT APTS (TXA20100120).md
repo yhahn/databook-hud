@@ -1,0 +1,85 @@
+# Project: WOODMONT APTS (TXA20100120)
+
+- HUD ID: TXA20100120
+- HUD ID before: 
+- Project: WOODMONT APTS
+- Address: 1021 OAK GROVE RD
+- City: FORT WORTH
+- State: TX
+- ZIP: 76115
+- ZIP extension: 
+- State project ID: TX4573
+- Latitude: 32.669588
+- Longitude: -97.311741
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439105901
+- Tract 2010: 48439105901
+- Tract 2000: 48439105900
+- Tract 1990: 48439105900
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1500
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 252
+- Low-income units: 252
+- Units reported: 252
+- Low-income reported: 252
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 133
+- 3-bedroom units: 96
+- 4-bedroom units: 12
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 316000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

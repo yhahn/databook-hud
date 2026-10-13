@@ -1,0 +1,25 @@
+# Tax Credit Projects: Uintah County, UT
+
+- Level: County
+- Postal code: UT
+- State FIPS: 49
+- County FIPS: 49047
+- Counties: 
+- Projects: 8
+- Units: 157
+- Low-income units: 156
+
+The low-income housing tax credit projects of Uintah County, Utah, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [VERNAL CROWN 97 (UTA19980080)](./Uintah%20County/VERNAL%20CROWN%2097%20%28UTA19980080%29.md) | UTA19980080 | VERNAL | 1998 | 7 | 7 |
+| [ASHLEY VALLEY APTS. (UTA19990005)](./Uintah%20County/ASHLEY%20VALLEY%20APTS.%20%28UTA19990005%29.md) | UTA19990005 | VERNAL | 1999 | 32 | 31 |
+| [TLC EAST (UTA20050075)](./Uintah%20County/TLC%20EAST%20%28UTA20050075%29.md) | UTA20050075 | VERNAL | 2005 | 8 | 8 |
+| [CROWN AT MEADOW VILLAGE (UTA20070015)](./Uintah%20County/CROWN%20AT%20MEADOW%20VILLAGE%20%28UTA20070015%29.md) | UTA20070015 | VERNAL | 2007 | 4 | 4 |
+| [UNITY PLACE (UTA20070900)](./Uintah%20County/UNITY%20PLACE%20%28UTA20070900%29.md) | UTA20070900 | VERNAL | 2007 | 22 | 22 |
+| [CROWN AT SPRING MEADOWS (UTA20100909)](./Uintah%20County/CROWN%20AT%20SPRING%20MEADOWS%20%28UTA20100909%29.md) | UTA20100909 | VERNAL | 2010 | 4 | 4 |
+| [VERNAL GARDENS APARTMENTS (UTA20110901)](./Uintah%20County/VERNAL%20GARDENS%20APARTMENTS%20%28UTA20110901%29.md) | UTA20110901 | VERNAL | 2011 | 48 | 48 |
+| [VERNAL GARDENS II (UTA20150009)](./Uintah%20County/VERNAL%20GARDENS%20II%20%28UTA20150009%29.md) | UTA20150009 | VERNAL | 2015 | 32 | 32 |

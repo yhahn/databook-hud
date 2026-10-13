@@ -1,0 +1,85 @@
+# Project: SKYVIEW APARTMENTS (NVA19940035)
+
+- HUD ID: NVA19940035
+- HUD ID before: 
+- Project: SKYVIEW APARTMENTS
+- Address: 1590 SKY VALLEY DRIVE
+- City: RENO
+- State: NV
+- ZIP: 89503
+- ZIP extension: 0000
+- State project ID: 92-5
+- Latitude: 39.522059
+- Longitude: -119.852517
+- County FIPS: 32031
+- County from: 2020
+- Tract 2020: 32031001203
+- Tract 2010: 32031001202
+- Tract 2000: 32031001200
+- Tract 1990: 32031001200
+- Place 2020: 60600
+- Place 2010: 60600
+- Place 2000: 60600
+- Place 1990: 0090
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 275931
+- Units: 100
+- Low-income units: 55
+- Units reported: 100
+- Low-income reported: 55
+- Efficiencies: 9
+- 1-bedroom units: 15
+- 2-bedroom units: 16
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: HANDICAPPED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NVA1993015.
+- Record status: Existing, unchanged

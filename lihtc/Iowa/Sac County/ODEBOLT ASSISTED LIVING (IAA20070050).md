@@ -1,0 +1,85 @@
+# Project: ODEBOLT ASSISTED LIVING (IAA20070050)
+
+- HUD ID: IAA20070050
+- HUD ID before: 
+- Project: ODEBOLT ASSISTED LIVING
+- Address: 799 S DES MOINES ST
+- City: ODEBOLT
+- State: IA
+- ZIP: 51458
+- ZIP extension: 
+- State project ID: 06-26
+- Latitude: 42.304756
+- Longitude: -95.245046
+- County FIPS: 19161
+- County from: 2020
+- Tract 2020: 19161080200
+- Tract 2010: 19161080200
+- Tract 2000: 19161980200
+- Tract 1990: 19161980200
+- Place 2020: 58575
+- Place 2010: 58575
+- Place 2000: 58575
+- Place 1990: 3160
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 74165
+- Units: 10
+- Low-income units: 9
+- Units reported: 10
+- Low-income reported: 9
+- Efficiencies: 8
+- 1-bedroom units: 2
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

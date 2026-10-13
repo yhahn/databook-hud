@@ -1,0 +1,85 @@
+# Project: STURBRIDGE GREEN (OHA20140200)
+
+- HUD ID: OHA20140200
+- HUD ID before: 
+- Project: STURBRIDGE GREEN
+- Address: 3715 STURBRIDGE CT
+- City: HILLIARD
+- State: OH
+- ZIP: 43026
+- ZIP extension: 
+- State project ID: 130089
+- Latitude: 40.027954
+- Longitude: -83.163262
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049010602
+- Tract 2010: 39049010602
+- Tract 2000: 39049007932
+- Tract 1990: 39049007930
+- Place 2020: 35476
+- Place 2010: 35476
+- Place 2000: 18000
+- Place 1990: 1830
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 543543
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

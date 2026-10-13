@@ -1,0 +1,85 @@
+# Project: NORTHEASTERN TOWERS ANNEX (NYE20201028)
+
+- HUD ID: NYE20201028
+- HUD ID before: 
+- Project: NORTHEASTERN TOWERS ANNEX
+- Address: 161-11 132ND AVENUE
+- City: QUEENS
+- State: NY
+- ZIP: 11434
+- ZIP extension: 
+- State project ID: 81-4673705
+- Latitude: 40.674896
+- Longitude: -73.777964
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081029400
+- Tract 2010: 36081029400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 3648429
+- Units: 159
+- Low-income units: 158
+- Units reported: 159
+- Low-income reported: 158
+- Efficiencies: 58
+- 1-bedroom units: 100
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: INDIANA MANOR TOWNHOMES (ILB20040807)
+
+- HUD ID: ILB20040807
+- HUD ID before: 
+- Project: INDIANA MANOR TOWNHOMES
+- Address: 4324 S INDIANA AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60653
+- ZIP extension: 
+- State project ID: 20-10-102
+- Latitude: 41.816027
+- Longitude: -87.621595
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031844600
+- Tract 2010: 17031380700
+- Tract 2000: 17031380700
+- Tract 1990: 17031380700
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 65
+- Low-income units: 65
+- Units reported: 65
+- Low-income reported: 65
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 10
+- 3-bedroom units: 40
+- 4-bedroom units: 9
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2004803.
+- Record status: Existing, unchanged

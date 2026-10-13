@@ -1,0 +1,85 @@
+# Project: LINDEN TERRACE II, LLC (NYC20231022)
+
+- HUD ID: NYC20231022
+- HUD ID before: 
+- Project: LINDEN TERRACE II, LLC
+- Address: 573 EMERALD STREET
+- City: BROOKLYN
+- State: NY
+- ZIP: 11208
+- ZIP extension: 
+- State project ID: 27-0000068
+- Latitude: 40.668589
+- Longitude: -73.858574
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047122000
+- Tract 2010: 36047122000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2753440
+- Units: 160
+- Low-income units: 159
+- Units reported: 160
+- Low-income reported: 159
+- Efficiencies: 110
+- 1-bedroom units: 6
+- 2-bedroom units: 53
+- 3-bedroom units: 5
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: CASA DE VALLEJO APTS (CAA20060700)
+
+- HUD ID: CAA20060700
+- HUD ID before: 
+- Project: CASA DE VALLEJO APTS
+- Address: 1825 SONOMA BLVD
+- City: VALLEJO
+- State: CA
+- ZIP: 94590
+- ZIP extension: 
+- State project ID: CA-05-901
+- Latitude: 38.102658
+- Longitude: -122.255136
+- County FIPS: 06095
+- County from: 2020
+- Tract 2020: 06095250900
+- Tract 2010: 06095250900
+- Tract 2000: 06095250900
+- Tract 1990: 06095250900
+- Place 2020: 81666
+- Place 2010: 81666
+- Place 2000: 81666
+- Place 1990: 3000
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 512034
+- Units: 136
+- Low-income units: 136
+- Units reported: 136
+- Low-income reported: 136
+- Efficiencies: 90
+- 1-bedroom units: 46
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

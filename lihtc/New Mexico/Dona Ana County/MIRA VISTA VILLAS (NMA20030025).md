@@ -1,0 +1,85 @@
+# Project: MIRA VISTA VILLAS (NMA20030025)
+
+- HUD ID: NMA20030025
+- HUD ID before: 
+- Project: MIRA VISTA VILLAS
+- Address: 2141 N SOLANO DR
+- City: LAS CRUCES
+- State: NM
+- ZIP: 88001
+- ZIP extension: 
+- State project ID: 00344
+- Latitude: 32.327288
+- Longitude: -106.77879
+- County FIPS: 35013
+- County from: 2020
+- Tract 2020: 35013000401
+- Tract 2010: 35013000401
+- Tract 2000: 35013000401
+- Tract 1990: 35013000401
+- Place 2020: 39380
+- Place 2010: 39380
+- Place 2000: 39380
+- Place 1990: 0220
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 60
+- Units reported: 76
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

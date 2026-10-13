@@ -1,0 +1,85 @@
+# Project: SOUTH BETHLEHEM HOUSE APTS (PAA19960235)
+
+- HUD ID: PAA19960235
+- HUD ID before: 
+- Project: SOUTH BETHLEHEM HOUSE APTS
+- Address: 200 HAMILTON ST
+- City: NEW BETHLEHEM
+- State: PA
+- ZIP: 16242
+- ZIP extension: 
+- State project ID: TC1994-0078
+- Latitude: 40.998756
+- Longitude: -79.340626
+- County FIPS: 42005
+- County from: 2020
+- Tract 2020: 42005950100
+- Tract 2010: 42005950100
+- Tract 2000: 42005980100
+- Tract 1990: 42005980100
+- Place 2020: 71976
+- Place 2010: 71976
+- Place 2000: 18400
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 52091
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

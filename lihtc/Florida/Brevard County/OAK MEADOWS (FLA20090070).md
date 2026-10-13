@@ -1,0 +1,85 @@
+# Project: OAK MEADOWS (FLA20090070)
+
+- HUD ID: FLA20090070
+- HUD ID before: 
+- Project: OAK MEADOWS
+- Address: 1605 FLOWER MOUND LN
+- City: COCOA
+- State: FL
+- ZIP: 32922
+- ZIP extension: 
+- State project ID: 1698
+- Latitude: 28.369109
+- Longitude: -80.757636
+- County FIPS: 12009
+- County from: 2020
+- Tract 2020: 12009062402
+- Tract 2010: 12009062400
+- Tract 2000: 12009062400
+- Tract 1990: 12009062400
+- Place 2020: 13150
+- Place 2010: 13225
+- Place 2000: 13150
+- Place 1990: 0395
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 770927
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 60
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

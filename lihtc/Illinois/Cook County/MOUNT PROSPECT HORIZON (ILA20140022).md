@@ -1,0 +1,85 @@
+# Project: MOUNT PROSPECT HORIZON (ILA20140022)
+
+- HUD ID: ILA20140022
+- HUD ID before: 
+- Project: MOUNT PROSPECT HORIZON
+- Address: 1703 E KENSINGTON RD
+- City: MT PROSPECT
+- State: IL
+- ZIP: 60056
+- ZIP extension: 
+- State project ID: 1074212
+- Latitude: 42.080453
+- Longitude: -87.904473
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031802702
+- Tract 2010: 17031802702
+- Tract 2000: 17031802702
+- Tract 1990: 17031802702
+- Place 2020: 51089
+- Place 2010: 51089
+- Place 2000: 19642
+- Place 1990: 3930
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 14112822
+- Units: 91
+- Low-income units: 91
+- Units reported: 91
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 70
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

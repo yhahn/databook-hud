@@ -1,0 +1,85 @@
+# Project: HOLZHAS APTS (IAA19900075)
+
+- HUD ID: IAA19900075
+- HUD ID before: 
+- Project: HOLZHAS APTS
+- Address: 121 E TILDEN ST
+- City: POSTVILLE
+- State: IA
+- ZIP: 52162
+- ZIP extension: 
+- State project ID: 90-05
+- Latitude: 43.084771
+- Longitude: -91.567065
+- County FIPS: 19005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19005960500
+- Tract 2000: 19005960500
+- Tract 1990: 19005960500
+- Place 2020: 
+- Place 2010: 64290
+- Place 2000: 64290
+- Place 1990: 3475
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 7540
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

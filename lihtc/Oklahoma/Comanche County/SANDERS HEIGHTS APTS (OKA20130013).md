@@ -1,0 +1,85 @@
+# Project: SANDERS HEIGHTS APTS (OKA20130013)
+
+- HUD ID: OKA20130013
+- HUD ID before: 
+- Project: SANDERS HEIGHTS APTS
+- Address: 1507 SW TENNESSEE AVE
+- City: LAWTON
+- State: OK
+- ZIP: 73501
+- ZIP extension: 
+- State project ID: 120750
+- Latitude: 34.582991
+- Longitude: -98.410933
+- County FIPS: 40031
+- County from: 2020
+- Tract 2020: 40031001600
+- Tract 2010: 40031001600
+- Tract 2000: 40031001600
+- Tract 1990: 40031001600
+- Place 2020: 41850
+- Place 2010: 41850
+- Place 2000: 41850
+- Place 1990: 1405
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 4610419
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 17
+- 3-bedroom units: 30
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

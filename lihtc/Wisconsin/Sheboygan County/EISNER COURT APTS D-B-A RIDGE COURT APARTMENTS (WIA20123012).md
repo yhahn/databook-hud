@@ -1,0 +1,85 @@
+# Project: EISNER COURT APTS D/B/A RIDGE COURT APARTMENTS (WIA20123012)
+
+- HUD ID: WIA20123012
+- HUD ID before: 
+- Project: EISNER COURT APTS D/B/A RIDGE COURT APARTMENTS
+- Address: 3427 EISNER COURT
+- City: SHEBOYGAN
+- State: WI
+- ZIP: 53803
+- ZIP extension: 
+- State project ID: 5703
+- Latitude: 43.782026
+- Longitude: -87.723247
+- County FIPS: 55117
+- County from: 2020
+- Tract 2020: 55117000202
+- Tract 2010: 55117000202
+- Tract 2000: 55117000200
+- Tract 1990: 
+- Place 2020: 72975
+- Place 2010: 72975
+- Place 2000: 72975
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 338141
+- Units: 72
+- Low-income units: 2
+- Units reported: 72
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 64
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

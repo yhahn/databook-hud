@@ -1,0 +1,85 @@
+# Project: SPRING CREEK APTS 2 (MTA20110035)
+
+- HUD ID: MTA20110035
+- HUD ID before: 
+- Project: SPRING CREEK APTS 2
+- Address: 20 APPLEWAY DR
+- City: KALISPELL
+- State: MT
+- ZIP: 59901
+- ZIP extension: 
+- State project ID: MT-09-020
+- Latitude: 48.197171
+- Longitude: -114.332216
+- County FIPS: 30029
+- County from: 2020
+- Tract 2020: 30029000901
+- Tract 2010: 30029000900
+- Tract 2000: 30029000900
+- Tract 1990: 30029000900
+- Place 2020: 40075
+- Place 2010: 40075
+- Place 2000: 40075
+- Place 1990: 0375
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 661750
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 670000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MTA2011512.
+- Record status: Existing, unchanged

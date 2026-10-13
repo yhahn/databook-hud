@@ -1,0 +1,85 @@
+# Project: TRAIL RIDGE APTS (COA19920051)
+
+- HUD ID: COA19920051
+- HUD ID before: 
+- Project: TRAIL RIDGE APTS
+- Address: 1250 COMMUNITY DR
+- City: ESTES PARK
+- State: CO
+- ZIP: 80517
+- ZIP extension: 
+- State project ID: 9Z00-504
+- Latitude: 40.364326
+- Longitude: -105.502703
+- County FIPS: 08069
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 08069002802
+- Tract 2000: 08069002800
+- Tract 1990: 08069002800
+- Place 2020: 
+- Place 2010: 25115
+- Place 2000: 25115
+- Place 1990: 0405
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

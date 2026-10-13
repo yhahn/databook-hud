@@ -1,0 +1,85 @@
+# Project: DIC EAGLES NEST - CARROLLTON (GAA19960225)
+
+- HUD ID: GAA19960225
+- HUD ID before: 
+- Project: DIC EAGLES NEST - CARROLLTON
+- Address: 300 BLEDSOE ST
+- City: CARROLLTON
+- State: GA
+- ZIP: 30117
+- ZIP extension: 
+- State project ID: GA-95-028
+- Latitude: 33.571821
+- Longitude: -85.05882
+- County FIPS: 13045
+- County from: 2020
+- Tract 2020: 13045911001
+- Tract 2010: 13045911000
+- Tract 2000: 13045991000
+- Tract 1990: 13045991000
+- Place 2020: 13492
+- Place 2010: 13492
+- Place 2000: 13492
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1997035. AKA DORCHESTER-EAGLE.
+- Record status: Existing, unchanged

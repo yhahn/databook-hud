@@ -1,0 +1,85 @@
+# Project: JOHN WESLEY VILLAGE III (NYA20009261)
+
+- HUD ID: NYA20009261
+- HUD ID before: 
+- Project: JOHN WESLEY VILLAGE III
+- Address: 1400 ALDERSGATE
+- City: RIVERHEAD
+- State: NY
+- ZIP: 11901
+- ZIP extension: 
+- State project ID: 20030432
+- Latitude: 40.93798
+- Longitude: -72.673502
+- County FIPS: 36103
+- County from: 2020
+- Tract 2020: 36103169903
+- Tract 2010: 36103169901
+- Tract 2000: 36103169900
+- Tract 1990: 36103169900
+- Place 2020: 61973
+- Place 2010: 61973
+- Place 2000: 02374
+- Place 1990: 3085
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 71
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA2004120.
+- Record status: Existing, unchanged

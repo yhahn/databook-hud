@@ -1,0 +1,85 @@
+# Project: VILLAS OF FOREST HILL (TXA20060095)
+
+- HUD ID: TXA20060095
+- HUD ID before: 
+- Project: VILLAS OF FOREST HILL
+- Address: 7415 FOREST HILL DR
+- City: FOREST HILL
+- State: TX
+- ZIP: 76140
+- ZIP extension: 
+- State project ID: TX4119
+- Latitude: 32.647761
+- Longitude: -97.269726
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439106004
+- Tract 2010: 48439111102
+- Tract 2000: 48439111102
+- Tract 1990: 48439111102
+- Place 2020: 27000
+- Place 2010: 26544
+- Place 2000: 26544
+- Place 1990: 1480
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 424859
+- Units: 100
+- Low-income units: 78
+- Units reported: 100
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 51
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

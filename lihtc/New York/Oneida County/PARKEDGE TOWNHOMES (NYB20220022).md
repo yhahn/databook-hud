@@ -1,0 +1,85 @@
+# Project: PARKEDGE TOWNHOMES (NYB20220022)
+
+- HUD ID: NYB20220022
+- HUD ID before: 
+- Project: PARKEDGE TOWNHOMES
+- Address: 116 PARKEDGE DRIVE
+- City: UTICA
+- State: NY
+- ZIP: 13502
+- ZIP extension: 
+- State project ID: NY-23-2731
+- Latitude: 43.1235
+- Longitude: -75.2193
+- County FIPS: 36065
+- County from: 2020
+- Tract 2020: 36065021601
+- Tract 2010: 36065021602
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76540
+- Place 2010: 76540
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 185
+- Low-income units: 156
+- Units reported: 185
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 84
+- 3-bedroom units: 51
+- 4-bedroom units: 49
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CARDONA SENIOR (IDA20090010)
+
+- HUD ID: IDA20090010
+- HUD ID before: 
+- Project: CARDONA SENIOR
+- Address: 4846 HAWTHORNE ROAD
+- City: CHUBBUCK
+- State: ID
+- ZIP: 83202
+- ZIP extension: 
+- State project ID: HC0803
+- Latitude: 42.921762
+- Longitude: -112.476018
+- County FIPS: 16005
+- County from: 2020
+- Tract 2020: 16005000301
+- Tract 2010: 16005000300
+- Tract 2000: 16005000300
+- Tract 1990: 16005000300
+- Place 2020: 14680
+- Place 2010: 14680
+- Place 2000: 14680
+- Place 1990: 0150
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 446706
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 37
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 393100
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PINE VALLEY APTS (MIA20040200)
+
+- HUD ID: MIA20040200
+- HUD ID before: 
+- Project: PINE VALLEY APTS
+- Address: 1050 CANARIS ST
+- City: CONSTANTINE
+- State: MI
+- ZIP: 49042
+- ZIP extension: 
+- State project ID: MI-2114
+- Latitude: 41.83237
+- Longitude: -85.663538
+- County FIPS: 26149
+- County from: 2020
+- Tract 2020: 26149041101
+- Tract 2010: 26149041101
+- Tract 2000: 26149041100
+- Tract 1990: 26149041100
+- Place 2020: 17840
+- Place 2010: 17840
+- Place 2000: 17840
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1987220.
+- Record status: Existing, unchanged

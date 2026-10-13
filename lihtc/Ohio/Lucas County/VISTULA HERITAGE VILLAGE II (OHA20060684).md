@@ -1,0 +1,85 @@
+# Project: VISTULA HERITAGE VILLAGE II (OHA20060684)
+
+- HUD ID: OHA20060684
+- HUD ID before: 
+- Project: VISTULA HERITAGE VILLAGE II
+- Address: 617 MULBERRY ST
+- City: TOLEDO
+- State: OH
+- ZIP: 43604
+- ZIP extension: 
+- State project ID: 030128
+- Latitude: 41.661483
+- Longitude: -83.523513
+- County FIPS: 39095
+- County from: 2020
+- Tract 2020: 39095003000
+- Tract 2010: 39095003000
+- Tract 2000: 39095003000
+- Tract 1990: 39095003000
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 4265
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 165
+- Low-income units: 165
+- Units reported: 165
+- Low-income reported: 165
+- Efficiencies: 14
+- 1-bedroom units: 76
+- 2-bedroom units: 54
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006246, OHA2006245, OHA1992305.
+- Record status: Existing, unchanged

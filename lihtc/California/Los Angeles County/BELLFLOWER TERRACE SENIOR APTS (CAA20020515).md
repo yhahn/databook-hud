@@ -1,0 +1,85 @@
+# Project: BELLFLOWER TERRACE SENIOR APTS (CAA20020515)
+
+- HUD ID: CAA20020515
+- HUD ID before: 
+- Project: BELLFLOWER TERRACE SENIOR APTS
+- Address: 9920 FLORA VISTA ST
+- City: BELLFLOWER
+- State: CA
+- ZIP: 90706
+- ZIP extension: 
+- State project ID: CA-01-925
+- Latitude: 33.885477
+- Longitude: -118.12343
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037554105
+- Tract 2010: 06037554105
+- Tract 2000: 06037554102
+- Tract 1990: 06037554100
+- Place 2020: 04982
+- Place 2010: 04982
+- Place 2000: 04982
+- Place 1990: 0215
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 744875
+- Units: 180
+- Low-income units: 178
+- Units reported: 180
+- Low-income reported: 178
+- Efficiencies: 0
+- 1-bedroom units: 166
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA 9920 FLORA VISTA LP.
+- Record status: Existing, unchanged

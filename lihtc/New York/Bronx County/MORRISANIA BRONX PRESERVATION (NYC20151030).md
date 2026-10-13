@@ -1,0 +1,85 @@
+# Project: MORRISANIA BRONX PRESERVATION (NYC20151030)
+
+- HUD ID: NYC20151030
+- HUD ID before: 
+- Project: MORRISANIA BRONX PRESERVATION
+- Address: 1009 MORRIS AVENUE
+- City: BRONX
+- State: NY
+- ZIP: 10456
+- ZIP extension: 
+- State project ID: 46-5699762
+- Latitude: 40.828989
+- Longitude: -73.916815
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005018302
+- Tract 2010: 36005018302
+- Tract 2000: 36005018300
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 5044481
+- Units: 675
+- Low-income units: 627
+- Units reported: 675
+- Low-income reported: 627
+- Efficiencies: 2
+- 1-bedroom units: 214
+- 2-bedroom units: 251
+- 3-bedroom units: 151
+- 4-bedroom units: 57
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

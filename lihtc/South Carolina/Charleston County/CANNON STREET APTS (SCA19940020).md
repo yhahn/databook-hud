@@ -1,0 +1,85 @@
+# Project: CANNON STREET APTS (SCA19940020)
+
+- HUD ID: SCA19940020
+- HUD ID before: 
+- Project: CANNON STREET APTS
+- Address: 188 ST PHILIP ST
+- City: CHARLESTON
+- State: SC
+- ZIP: 29403
+- ZIP extension: 
+- State project ID: SC-92-025
+- Latitude: 32.791588
+- Longitude: -79.94176
+- County FIPS: 45019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45019000700
+- Tract 2000: 45019000700
+- Tract 1990: 45019000700
+- Place 2020: 
+- Place 2010: 13330
+- Place 2000: 13330
+- Place 1990: 0245
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 81381
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 50
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA1994025. FORECLOSED.
+- Record status: Existing, unchanged

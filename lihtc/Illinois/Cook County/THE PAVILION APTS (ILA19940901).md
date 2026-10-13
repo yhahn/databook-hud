@@ -1,0 +1,85 @@
+# Project: THE PAVILION APTS (ILA19940901)
+
+- HUD ID: ILA19940901
+- HUD ID before: 
+- Project: THE PAVILION APTS
+- Address: 5441 NE RIVER RD
+- City: CHICAGO
+- State: IL
+- ZIP: 60656
+- ZIP extension: 
+- State project ID: 91695
+- Latitude: 41.978075
+- Longitude: -87.846356
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031760801
+- Tract 2010: 17031760801
+- Tract 2000: 17031760800
+- Tract 1990: 17031760800
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 61091
+- Units: 1114
+- Low-income units: 1114
+- Units reported: 1114
+- Low-income reported: 1114
+- Efficiencies: 183
+- 1-bedroom units: 636
+- 2-bedroom units: 283
+- 3-bedroom units: 9
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000098.
+- Record status: Existing, unchanged

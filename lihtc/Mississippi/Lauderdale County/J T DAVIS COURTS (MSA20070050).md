@@ -1,0 +1,85 @@
+# Project: J T DAVIS COURTS (MSA20070050)
+
+- HUD ID: MSA20070050
+- HUD ID before: 
+- Project: J T DAVIS COURTS
+- Address: 3916 PAULDING ST
+- City: MERIDIAN
+- State: MS
+- ZIP: 39307
+- ZIP extension: 
+- State project ID: MS-05-045
+- Latitude: 32.36188
+- Longitude: -88.717007
+- County FIPS: 28075
+- County from: 2020
+- Tract 2020: 28075000600
+- Tract 2010: 28075000600
+- Tract 2000: 28075000600
+- Tract 1990: 28075000600
+- Place 2020: 46640
+- Place 2010: 46640
+- Place 2000: 46640
+- Place 1990: 0805
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 356277
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 37
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

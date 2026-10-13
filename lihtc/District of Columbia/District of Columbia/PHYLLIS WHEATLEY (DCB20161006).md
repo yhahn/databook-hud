@@ -1,0 +1,85 @@
+# Project: PHYLLIS WHEATLEY (DCB20161006)
+
+- HUD ID: DCB20161006
+- HUD ID before: 
+- Project: PHYLLIS WHEATLEY
+- Address: 901 RHODE ISLAND AVENUE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20001
+- ZIP extension: 
+- State project ID: DCB2017045
+- Latitude: 38.911817
+- Longitude: -77.024086
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001004901
+- Tract 2010: 11001004901
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 886206
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 84
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Special Needs
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

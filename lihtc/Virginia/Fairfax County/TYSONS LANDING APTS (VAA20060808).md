@@ -1,0 +1,85 @@
+# Project: TYSONS LANDING APTS (VAA20060808)
+
+- HUD ID: VAA20060808
+- HUD ID before: 
+- Project: TYSONS LANDING APTS
+- Address: 1916 TYSONS LANDING CT
+- City: MC LEAN
+- State: VA
+- ZIP: 22102
+- ZIP extension: 
+- State project ID: 4119
+- Latitude: 38.916134
+- Longitude: -77.209799
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059471201
+- Tract 2010: 51059471201
+- Tract 2000: 51059471200
+- Tract 1990: 51059471200
+- Place 2020: 79950
+- Place 2010: 79950
+- Place 2000: 48376
+- Place 1990: 1252
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 239000
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 17
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2005222.
+- Record status: Existing, unchanged

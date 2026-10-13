@@ -1,0 +1,85 @@
+# Project: DYE HOUSE (CTA20110010)
+
+- HUD ID: CTA20110010
+- HUD ID before: 
+- Project: DYE HOUSE
+- Address: 190 PINE ST
+- City: MANCHESTER
+- State: CT
+- ZIP: 06040
+- ZIP extension: 
+- State project ID: E-08-019
+- Latitude: 41.766868
+- Longitude: -72.530443
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003514600
+- Tract 2010: 09003514600
+- Tract 2000: 09003514600
+- Tract 1990: 09003514600
+- Place 2020: 44690
+- Place 2010: 44690
+- Place 2000: 13435
+- Place 1990: 0353
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1175654
+- Units: 57
+- Low-income units: 57
+- Units reported: 57
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 31
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 9993059
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DYE HOUSE ASSOC LLC.
+- Record status: Existing, unchanged

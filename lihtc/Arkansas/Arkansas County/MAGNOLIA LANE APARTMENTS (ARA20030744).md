@@ -1,0 +1,85 @@
+# Project: MAGNOLIA LANE APARTMENTS (ARA20030744)
+
+- HUD ID: ARA20030744
+- HUD ID before: 
+- Project: MAGNOLIA LANE APARTMENTS
+- Address: 300 MAGNOLIA LN
+- City: DEWITT
+- State: AR
+- ZIP: 72042
+- ZIP extension: 
+- State project ID: AR-03-16
+- Latitude: 34.281376
+- Longitude: -91.339857
+- County FIPS: 05001
+- County from: 2020
+- Tract 2020: 05001480700
+- Tract 2010: 05001480700
+- Tract 2000: 05001980700
+- Tract 1990: 05001980700
+- Place 2020: 18790
+- Place 2010: 18790
+- Place 2000: 18790
+- Place 1990: 0560
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 34149
+- Units: 20
+- Low-income units: 19
+- Units reported: 20
+- Low-income reported: 19
+- Efficiencies: 1
+- 1-bedroom units: 10
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2003052.
+- Record status: Existing, unchanged

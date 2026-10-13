@@ -1,0 +1,85 @@
+# Project: BELFRY APARTMENTS (MNB20230001)
+
+- HUD ID: MNB20230001
+- HUD ID before: 
+- Project: BELFRY APARTMENTS
+- Address: 3901 CHICAGO AVENUE
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55407
+- ZIP extension: 2614
+- State project ID: D8426
+- Latitude: 44.932345
+- Longitude: -93.262276
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053009600
+- Tract 2010: 27053009600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 1128676
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 17
+- 1-bedroom units: 3
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 1
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: Yes
+- Affordability years: 25
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

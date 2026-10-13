@@ -1,0 +1,85 @@
+# Project: BARTON VILLAGE (GAA19930010)
+
+- HUD ID: GAA19930010
+- HUD ID before: 
+- Project: BARTON VILLAGE
+- Address: 18222 MORGAN RD
+- City: ARLINGTON
+- State: GA
+- ZIP: 39813
+- ZIP extension: 8050
+- State project ID: GA-91-109
+- Latitude: 31.445859
+- Longitude: -84.719233
+- County FIPS: 13037
+- County from: 2020
+- Tract 2020: 13037950200
+- Tract 2010: 13037950200
+- Tract 2000: 13037950200
+- Tract 1990: 13037950300
+- Place 2020: 02928
+- Place 2010: 02928
+- Place 2000: 02928
+- Place 1990: 0990
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 18
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

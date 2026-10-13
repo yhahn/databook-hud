@@ -1,0 +1,85 @@
+# Project: RESIDENCES AT DR. KING BOULEVARD (FLA20222010)
+
+- HUD ID: FLA20222010
+- HUD ID before: 
+- Project: RESIDENCES AT DR. KING BOULEVARD
+- Address: SCATTERED SITES
+- City: MIAMI
+- State: FL
+- ZIP: 33147
+- ZIP extension: 
+- State project ID: FL-18-3091
+- Latitude: 25.8535
+- Longitude: -80.2338
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086001003
+- Tract 2010: 12086001003
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76487
+- Place 2010: 76487
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 2436070
+- Units: 120
+- Low-income units: 108
+- Units reported: 120
+- Low-income reported: 108
+- Efficiencies: 
+- 1-bedroom units: 120
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

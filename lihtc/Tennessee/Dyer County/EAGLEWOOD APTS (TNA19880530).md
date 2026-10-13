@@ -1,0 +1,85 @@
+# Project: EAGLEWOOD APTS (TNA19880530)
+
+- HUD ID: TNA19880530
+- HUD ID before: 
+- Project: EAGLEWOOD APTS
+- Address: 600 EAGLEWOOD DR
+- City: DYERSBURG
+- State: TN
+- ZIP: 38024
+- ZIP extension: 
+- State project ID: TN-88-042
+- Latitude: 36.053752
+- Longitude: -89.378986
+- County FIPS: 47045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47045964300
+- Tract 2000: 47045964300
+- Tract 1990: 47045964300
+- Place 2020: 
+- Place 2010: 22200
+- Place 2000: 22200
+- Place 1990: 0420
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 69769
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA EAGLEWOOD V.
+- Record status: Existing, unchanged

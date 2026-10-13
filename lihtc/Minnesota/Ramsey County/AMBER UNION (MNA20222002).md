@@ -1,0 +1,85 @@
+# Project: AMBER UNION (MNA20222002)
+
+- HUD ID: MNA20222002
+- HUD ID before: 
+- Project: AMBER UNION
+- Address: 1667 SNELLING AVENUE NORTH
+- City: FALCON HEIGHTS
+- State: MN
+- ZIP: 55108
+- ZIP extension: 
+- State project ID: D8266
+- Latitude: 44.991143
+- Longitude: -93.166988
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123042001
+- Tract 2010: 27123042001
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 20420
+- Place 2010: 20420
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2050278
+- Units: 125
+- Low-income units: 125
+- Units reported: 125
+- Low-income reported: 125
+- Efficiencies: 19
+- 1-bedroom units: 11
+- 2-bedroom units: 59
+- 3-bedroom units: 28
+- 4-bedroom units: 8
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

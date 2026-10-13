@@ -1,0 +1,85 @@
+# Project: RIVERWOOD PARK APARTMENTS (GAA19980105)
+
+- HUD ID: GAA19980105
+- HUD ID before: 
+- Project: RIVERWOOD PARK APARTMENTS
+- Address: 525 W 13TH ST NE
+- City: ROME
+- State: GA
+- ZIP: 30165
+- ZIP extension: 2698
+- State project ID: GA-96-078
+- Latitude: 34.26692
+- Longitude: -85.176923
+- County FIPS: 13115
+- County from: 2020
+- Tract 2020: 13115001100
+- Tract 2010: 13115001100
+- Tract 2000: 13115001100
+- Tract 1990: 13115001100
+- Place 2020: 66668
+- Place 2010: 66668
+- Place 2000: 66668
+- Place 1990: 2455
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 598120
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 40
+- 4-bedroom units: 20
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1997240, GAA1999080.
+- Record status: Existing, unchanged

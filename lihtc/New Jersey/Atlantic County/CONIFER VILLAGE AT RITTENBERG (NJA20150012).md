@@ -1,0 +1,85 @@
+# Project: CONIFER VILLAGE AT RITTENBERG (NJA20150012)
+
+- HUD ID: NJA20150012
+- HUD ID before: 
+- Project: CONIFER VILLAGE AT RITTENBERG
+- Address: 528 PHILADELPHIA AVE.
+- City: EGG HARBOR
+- State: NJ
+- ZIP: 08215
+- ZIP extension: 
+- State project ID: 2704
+- Latitude: 39.534568
+- Longitude: -74.640582
+- County FIPS: 34001
+- County from: 2020
+- Tract 2020: 34001010600
+- Tract 2010: 34001010600
+- Tract 2000: 34001010600
+- Tract 1990: 34001010600
+- Place 2020: 20350
+- Place 2010: 20350
+- Place 2000: 20350
+- Place 1990: 1705
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1369830
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000002.
+- Record status: Existing, unchanged

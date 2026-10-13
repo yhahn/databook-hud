@@ -1,0 +1,85 @@
+# Project: ROCKWOOD GARDENS (PAA19930280)
+
+- HUD ID: PAA19930280
+- HUD ID before: 
+- Project: ROCKWOOD GARDENS
+- Address: 740 SOMERSET AVE
+- City: ROCKWOOD
+- State: PA
+- ZIP: 15557
+- ZIP extension: 
+- State project ID: TC19930027
+- Latitude: 39.918698
+- Longitude: -79.155232
+- County FIPS: 42111
+- County from: 2020
+- Tract 2020: 42111021800
+- Tract 2010: 42111021800
+- Tract 2000: 42111021800
+- Tract 1990: 42111021800
+- Place 2020: 65736
+- Place 2010: 65736
+- Place 2000: 11624
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 11365
+- Units: 10
+- Low-income units: 9
+- Units reported: 10
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Existing, unchanged

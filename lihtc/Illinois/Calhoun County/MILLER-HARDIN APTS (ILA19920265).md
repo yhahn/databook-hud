@@ -1,0 +1,85 @@
+# Project: MILLER-HARDIN APTS (ILA19920265)
+
+- HUD ID: ILA19920265
+- HUD ID before: 
+- Project: MILLER-HARDIN APTS
+- Address: 201 EARLEY ST
+- City: HARDIN
+- State: IL
+- ZIP: 62047
+- ZIP extension: 
+- State project ID: 52292
+- Latitude: 39.158854
+- Longitude: -90.622394
+- County FIPS: 17013
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17013951200
+- Tract 2000: 17013951200
+- Tract 1990: 17013951200
+- Place 2020: 
+- Place 2010: 32850
+- Place 2000: 32395
+- Place 1990: 2450
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 16770
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION. AKA MILLER HARDIN APTS.
+- Record status: Existing, unchanged

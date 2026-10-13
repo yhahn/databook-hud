@@ -1,0 +1,85 @@
+# Project: MALCOLM X-Z ASSOCIATES - 144 W. 144TH STREET (NYC19980804)
+
+- HUD ID: NYC19980804
+- HUD ID before: 
+- Project: MALCOLM X-Z ASSOCIATES - 144 W. 144TH STREET
+- Address: 144 WEST 144TH STREET
+- City: NEW YORK
+- State: NY
+- ZIP: 10030
+- ZIP extension: 
+- State project ID: 11-3381030
+- Latitude: 40.820304
+- Longitude: -73.938445
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061023200
+- Tract 2010: 36061023200
+- Tract 2000: 36061023200
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 20857
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 1
+- 1-bedroom units: 4
+- 2-bedroom units: 4
+- 3-bedroom units: 6
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

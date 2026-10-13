@@ -1,0 +1,85 @@
+# Project: HUBBARD WOODS MHLP (CTA19960025)
+
+- HUD ID: CTA19960025
+- HUD ID before: 
+- Project: HUBBARD WOODS MHLP
+- Address: 43 APPLE TREE LN
+- City: GUILFORD
+- State: CT
+- ZIP: 06437
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.301281
+- Longitude: -72.693732
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009190302
+- Tract 2010: 09009190302
+- Tract 2000: 09009190302
+- Tract 1990: 09009190302
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 13
+- Low-income units: 11
+- Units reported: 13
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 4
+- 3-bedroom units: 5
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HUBBARD WOODS MUTUAL HOUSING.
+- Record status: Existing, unchanged

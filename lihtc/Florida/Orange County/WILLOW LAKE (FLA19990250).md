@@ -1,0 +1,85 @@
+# Project: WILLOW LAKE (FLA19990250)
+
+- HUD ID: FLA19990250
+- HUD ID before: 
+- Project: WILLOW LAKE
+- Address: 500 MONICA ROSE DR
+- City: APOPKA
+- State: FL
+- ZIP: 32703
+- ZIP extension: 
+- State project ID: 971
+- Latitude: 28.670869
+- Longitude: -81.472759
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095017503
+- Tract 2010: 12095017503
+- Tract 2000: 12095017503
+- Tract 1990: 12095017502
+- Place 2020: 01700
+- Place 2010: 01700
+- Place 2000: 01700
+- Place 1990: 0035
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 428
+- Low-income units: 428
+- Units reported: 428
+- Low-income reported: 428
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 228
+- 3-bedroom units: 128
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

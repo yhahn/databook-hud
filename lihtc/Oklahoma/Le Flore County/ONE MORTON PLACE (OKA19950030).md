@@ -1,0 +1,85 @@
+# Project: ONE MORTON PLACE (OKA19950030)
+
+- HUD ID: OKA19950030
+- HUD ID before: 
+- Project: ONE MORTON PLACE
+- Address: 100 FOURTH ST
+- City: TALIHINA
+- State: OK
+- ZIP: 74571
+- ZIP extension: 
+- State project ID: OK-94-08-26
+- Latitude: 34.75513
+- Longitude: -95.041808
+- County FIPS: 40079
+- County from: 2020
+- Tract 2020: 40079040700
+- Tract 2010: 40079040700
+- Tract 2000: 40079040700
+- Tract 1990: 40079040700
+- Place 2020: 72250
+- Place 2010: 72250
+- Place 2000: 72250
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OKA0000315.
+- Record status: Existing, unchanged

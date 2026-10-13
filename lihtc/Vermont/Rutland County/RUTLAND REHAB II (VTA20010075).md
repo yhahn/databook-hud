@@ -1,0 +1,85 @@
+# Project: RUTLAND REHAB II (VTA20010075)
+
+- HUD ID: VTA20010075
+- HUD ID before: 
+- Project: RUTLAND REHAB II
+- Address: 52 WILLIAMS ST
+- City: RUTLAND
+- State: VT
+- ZIP: 05701
+- ZIP extension: 
+- State project ID: 0213
+- Latitude: 43.610918
+- Longitude: -72.978094
+- County FIPS: 50021
+- County from: 2020
+- Tract 2020: 50021963100
+- Tract 2010: 50021963100
+- Tract 2000: 50021963100
+- Tract 1990: 50021963100
+- Place 2020: 61225
+- Place 2010: 61225
+- Place 2000: 61225
+- Place 1990: 2210
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 20491
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 24
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VTA2001070.
+- Record status: Existing, unchanged

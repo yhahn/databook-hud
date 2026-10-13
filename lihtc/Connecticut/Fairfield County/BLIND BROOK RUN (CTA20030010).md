@@ -1,0 +1,85 @@
+# Project: BLIND BROOK RUN (CTA20030010)
+
+- HUD ID: CTA20030010
+- HUD ID before: 
+- Project: BLIND BROOK RUN
+- Address: 23 WILLIAM ST
+- City: DANBURY
+- State: CT
+- ZIP: 06810
+- ZIP extension: 
+- State project ID: 
+- Latitude: 41.3896
+- Longitude: -73.454905
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001210600
+- Tract 2010: 09001210600
+- Tract 2000: 09001210600
+- Tract 1990: 09001210600
+- Place 2020: 18430
+- Place 2010: 18430
+- Place 2000: 18430
+- Place 1990: 0530
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 2
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

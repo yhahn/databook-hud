@@ -1,0 +1,85 @@
+# Project: SUMMIT RIDGE APTS (ALA19940247)
+
+- HUD ID: ALA19940247
+- HUD ID before: 
+- Project: SUMMIT RIDGE APTS
+- Address: 149 HAVERSHAM DR
+- City: BIRMINGHAM
+- State: AL
+- ZIP: 35215
+- ZIP extension: 
+- State project ID: AL-94-0035
+- Latitude: 33.665463
+- Longitude: -86.688666
+- County FIPS: 01073
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01073011210
+- Tract 2000: 01073011210
+- Tract 1990: 01073011210
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 07000
+- Place 1990: 1394
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 373025
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 94
+- 3-bedroom units: 80
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 200
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1995130.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CASTLEGATE APTS (COA20070010)
+
+- HUD ID: COA20070010
+- HUD ID before: 
+- Project: CASTLEGATE APTS
+- Address: 6925 W 84TH WAY
+- City: ARVADA
+- State: CO
+- ZIP: 80003
+- ZIP extension: 
+- State project ID: 2005511
+- Latitude: 39.850244
+- Longitude: -105.074401
+- County FIPS: 08059
+- County from: 2020
+- Tract 2020: 08059009833
+- Tract 2010: 08059009833
+- Tract 2000: 08059009833
+- Tract 1990: 08059009812
+- Place 2020: 03455
+- Place 2010: 03455
+- Place 2000: 03455
+- Place 1990: 0040
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 504
+- Low-income units: 378
+- Units reported: 504
+- Low-income reported: 378
+- Efficiencies: 0
+- 1-bedroom units: 198
+- 2-bedroom units: 198
+- 3-bedroom units: 78
+- 4-bedroom units: 30
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

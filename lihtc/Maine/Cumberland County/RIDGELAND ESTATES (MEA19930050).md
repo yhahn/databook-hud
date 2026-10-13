@@ -1,0 +1,85 @@
+# Project: RIDGELAND ESTATES (MEA19930050)
+
+- HUD ID: MEA19930050
+- HUD ID before: 
+- Project: RIDGELAND ESTATES
+- Address: 109 RIDGELAND AVE
+- City: SOUTH PORTLAND
+- State: ME
+- ZIP: 04106
+- ZIP extension: 
+- State project ID: ME-92-00059
+- Latitude: 43.631569
+- Longitude: -70.285098
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005003100
+- Tract 2010: 23005003100
+- Tract 2000: 23005003100
+- Tract 1990: 23005003100
+- Place 2020: 71990
+- Place 2010: 71990
+- Place 2000: 71990
+- Place 1990: 4230
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

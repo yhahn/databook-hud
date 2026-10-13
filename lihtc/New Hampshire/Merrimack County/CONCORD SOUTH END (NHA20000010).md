@@ -1,0 +1,85 @@
+# Project: CONCORD SOUTH END (NHA20000010)
+
+- HUD ID: NHA20000010
+- HUD ID before: 
+- Project: CONCORD SOUTH END
+- Address: 57 CENTRE ST
+- City: CONCORD
+- State: NH
+- ZIP: 03301
+- ZIP extension: 
+- State project ID: 90
+- Latitude: 43.206587
+- Longitude: -71.541814
+- County FIPS: 33013
+- County from: 2020
+- Tract 2020: 33013032300
+- Tract 2010: 33013032300
+- Tract 2000: 33013032300
+- Tract 1990: 33013032300
+- Place 2020: 14200
+- Place 2010: 14200
+- Place 2000: 14200
+- Place 1990: 0520
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 4
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SOUTH END 2000.
+- Record status: Existing, unchanged

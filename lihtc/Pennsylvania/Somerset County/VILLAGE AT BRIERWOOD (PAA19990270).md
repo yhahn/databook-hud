@@ -1,0 +1,85 @@
+# Project: VILLAGE AT BRIERWOOD (PAA19990270)
+
+- HUD ID: PAA19990270
+- HUD ID before: 
+- Project: VILLAGE AT BRIERWOOD
+- Address: 1518 BRIERWOOD DR
+- City: SOMERSET
+- State: PA
+- ZIP: 15501
+- ZIP extension: 
+- State project ID: TC19980056
+- Latitude: 39.991877
+- Longitude: -79.089876
+- County FIPS: 42111
+- County from: 2020
+- Tract 2020: 42111021000
+- Tract 2010: 42111021000
+- Tract 2000: 42111021000
+- Tract 1990: 42111021000
+- Place 2020: 71776
+- Place 2010: 71776
+- Place 2000: 71776
+- Place 1990: 7870
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 75944
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 493826
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

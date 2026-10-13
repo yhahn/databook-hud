@@ -1,0 +1,85 @@
+# Project: STERLINGTON MANOR I (LAA20010215)
+
+- HUD ID: LAA20010215
+- HUD ID before: 
+- Project: STERLINGTON MANOR I
+- Address: 605 HARVEY AVENUE BUILDING 1
+- City: STERLINGTON
+- State: LA
+- ZIP: 71280
+- ZIP extension: 0000
+- State project ID: LA-00-012
+- Latitude: 32.695398
+- Longitude: -92.071461
+- County FIPS: 22073
+- County from: 2020
+- Tract 2020: 22073010302
+- Tract 2010: 22073010302
+- Tract 2000: 22073010302
+- Tract 1990: 22073010302
+- Place 2020: 73255
+- Place 2010: 73255
+- Place 2000: 73255
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 16938
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

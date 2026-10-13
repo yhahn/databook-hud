@@ -1,0 +1,85 @@
+# Project: BRYAN COMMUNITY APTS (OHA20120020)
+
+- HUD ID: OHA20120020
+- HUD ID before: 
+- Project: BRYAN COMMUNITY APTS
+- Address: 936 E WILSON ST
+- City: BRYAN
+- State: OH
+- ZIP: 43506
+- ZIP extension: 
+- State project ID: 100013
+- Latitude: 41.470789
+- Longitude: -84.537494
+- County FIPS: 39171
+- County from: 2020
+- Tract 2020: 39171950600
+- Tract 2010: 39171950600
+- Tract 2000: 39171950600
+- Tract 1990: 39171950600
+- Place 2020: 09792
+- Place 2010: 09792
+- Place 2000: 09792
+- Place 1990: 0575
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 700000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BRYAN COMMUNITY HOUSING.
+- Record status: Existing, unchanged

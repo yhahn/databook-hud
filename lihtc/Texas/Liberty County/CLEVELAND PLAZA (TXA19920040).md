@@ -1,0 +1,85 @@
+# Project: CLEVELAND PLAZA (TXA19920040)
+
+- HUD ID: TXA19920040
+- HUD ID before: 
+- Project: CLEVELAND PLAZA
+- Address: 915 E HANSON ST
+- City: CLEVELAND
+- State: TX
+- ZIP: 77327
+- ZIP extension: 
+- State project ID: TX0936
+- Latitude: 30.338904
+- Longitude: -95.078226
+- County FIPS: 48291
+- County from: 2020
+- Tract 2020: 48291700303
+- Tract 2010: 48291700300
+- Tract 2000: 48291700300
+- Tract 1990: 48291100202
+- Place 2020: 15436
+- Place 2010: 15436
+- Place 2000: 15436
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

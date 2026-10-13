@@ -1,0 +1,25 @@
+# Tax Credit Projects: Cambria County, PA
+
+- Level: County
+- Postal code: PA
+- State FIPS: 42
+- County FIPS: 42021
+- Counties: 
+- Projects: 8
+- Units: 294
+- Low-income units: 294
+
+The low-income housing tax credit projects of Cambria County, Pennsylvania, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [NANTY GLO HOUSE (PAA19910475)](./Cambria%20County/NANTY%20GLO%20HOUSE%20%28PAA19910475%29.md) | PAA19910475 | NANTY GLO | 1991 | 36 | 36 |
+| [SUMMIT APTS (PAA19920280)](./Cambria%20County/SUMMIT%20APTS%20%28PAA19920280%29.md) | PAA19920280 | CRESSON | 1992 | 24 | 24 |
+| [PATTON MEADOWS COMMONS (PAA19940197)](./Cambria%20County/PATTON%20MEADOWS%20COMMONS%20%28PAA19940197%29.md) | PAA19940197 | PATTON | 1994 | 48 | 48 |
+| [PATTON TERRACE COMMONS (PAA19940198)](./Cambria%20County/PATTON%20TERRACE%20COMMONS%20%28PAA19940198%29.md) | PAA19940198 | PATTON | 1994 | 59 | 59 |
+| [CRAWFORD COMMONS (PAA19960050)](./Cambria%20County/CRAWFORD%20COMMONS%20%28PAA19960050%29.md) | PAA19960050 | NORTHERN CAMBRIA | 1996 | 11 | 11 |
+| [CHANDLER SCHOOL APTS (PAA20040030)](./Cambria%20County/CHANDLER%20SCHOOL%20APTS%20%28PAA20040030%29.md) | PAA20040030 | JOHNSTOWN | 2004 | 23 | 23 |
+| [CROSSROADS MEADOW (PAA20070040)](./Cambria%20County/CROSSROADS%20MEADOW%20%28PAA20070040%29.md) | PAA20070040 | EBENSBURG | 2007 | 50 | 50 |
+| [ROXBURY PLACE (PAA20191009)](./Cambria%20County/ROXBURY%20PLACE%20%28PAA20191009%29.md) | PAA20191009 | JOHNSTOWN | 2019 | 43 | 43 |

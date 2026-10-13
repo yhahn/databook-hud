@@ -1,0 +1,85 @@
+# Project: LOWER WOODVILLE HEIGHTS I (MSA19980031)
+
+- HUD ID: MSA19980031
+- HUD ID before: 
+- Project: LOWER WOODVILLE HEIGHTS I
+- Address: 137 LEWIS DR
+- City: NATCHEZ
+- State: MS
+- ZIP: 39120
+- ZIP extension: 
+- State project ID: MS-96-094
+- Latitude: 31.528416
+- Longitude: -91.410058
+- County FIPS: 28001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 28001000800
+- Tract 2000: 28001000800
+- Tract 1990: 28001000800
+- Place 2020: 
+- Place 2010: 50440
+- Place 2000: 50440
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SINGLE-PARENT FAMILIES
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1998605. AKA LOWER WOODVILLE HEIGHTS APTS.
+- Record status: Existing, unchanged

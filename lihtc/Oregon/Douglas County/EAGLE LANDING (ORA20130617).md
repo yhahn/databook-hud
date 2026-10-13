@@ -1,0 +1,85 @@
+# Project: EAGLE LANDING (ORA20130617)
+
+- HUD ID: ORA20130617
+- HUD ID before: 
+- Project: EAGLE LANDING
+- Address: 913 NW GARDEN VALLEY BLVD
+- City: ROSEBURG
+- State: OR
+- ZIP: 97471
+- ZIP extension: 
+- State project ID: 2999
+- Latitude: 43.2281
+- Longitude: -123.365982
+- County FIPS: 41019
+- County from: 2020
+- Tract 2020: 41019080002
+- Tract 2010: 41019080000
+- Tract 2000: 41019080000
+- Tract 1990: 41019080000
+- Place 2020: 63650
+- Place 2010: 63650
+- Place 2000: 63650
+- Place 1990: 0980
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 754400
+- Units: 55
+- Low-income units: 54
+- Units reported: 55
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 8
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 900000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: VETERANS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

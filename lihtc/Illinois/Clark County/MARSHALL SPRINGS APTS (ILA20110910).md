@@ -1,0 +1,85 @@
+# Project: MARSHALL SPRINGS APTS (ILA20110910)
+
+- HUD ID: ILA20110910
+- HUD ID before: 
+- Project: MARSHALL SPRINGS APTS
+- Address: 114 MAPLE ST
+- City: MARSHALL
+- State: IL
+- ZIP: 62441
+- ZIP extension: 
+- State project ID: 1003108
+- Latitude: 39.386269
+- Longitude: -87.699558
+- County FIPS: 17023
+- County from: 2020
+- Tract 2020: 17023060200
+- Tract 2010: 17023060200
+- Tract 2000: 17023060200
+- Tract 1990: 17023060200
+- Place 2020: 47163
+- Place 2010: 47163
+- Place 2000: 47163
+- Place 1990: 3580
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 997905
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 14
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1350315
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

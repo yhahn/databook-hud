@@ -1,0 +1,85 @@
+# Project: FOREST GROVE APARTMENTS (WAA20000165)
+
+- HUD ID: WAA20000165
+- HUD ID before: 
+- Project: FOREST GROVE APARTMENTS
+- Address: 5701 30TH AVENUE SE
+- City: LACEY
+- State: WA
+- ZIP: 98503
+- ZIP extension: 
+- State project ID: 99-94A
+- Latitude: 47.020014
+- Longitude: -122.80766
+- County FIPS: 53067
+- County from: 2020
+- Tract 2020: 53067011422
+- Tract 2010: 53067011420
+- Tract 2000: 53067011420
+- Tract 1990: 53067011400
+- Place 2020: 36745
+- Place 2010: 36745
+- Place 2000: 36745
+- Place 1990: 0643
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 227896
+- Units: 116
+- Low-income units: 115
+- Units reported: 116
+- Low-income reported: 115
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 104
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: MILLARD SENIOR RESIDENCES (NEA20110824)
+
+- HUD ID: NEA20110824
+- HUD ID before: 
+- Project: MILLARD SENIOR RESIDENCES
+- Address: 15625 S ST
+- City: OMAHA
+- State: NE
+- ZIP: 68135
+- ZIP extension: 
+- State project ID: 7-0749
+- Latitude: 41.202339
+- Longitude: -96.158976
+- County FIPS: 31055
+- County from: 2020
+- Tract 2020: 31055007461
+- Tract 2010: 31055007461
+- Tract 2000: 31055007461
+- Tract 1990: 31055007418
+- Place 2020: 37000
+- Place 2010: 99999
+- Place 2000: 37000
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 674096
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1544026
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MILLARD SENIOR MANOR.
+- Record status: Existing, unchanged

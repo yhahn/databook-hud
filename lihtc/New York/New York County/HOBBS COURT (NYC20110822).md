@@ -1,0 +1,85 @@
+# Project: HOBBS COURT (NYC20110822)
+
+- HUD ID: NYC20110822
+- HUD ID before: 
+- Project: HOBBS COURT
+- Address: 315 E 102ND ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10029
+- ZIP extension: 
+- State project ID: 0902124
+- Latitude: 40.788079
+- Longitude: -73.943911
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061016400
+- Tract 2010: 36061016400
+- Tract 2000: 36061016400
+- Tract 1990: 36061016400
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1059196
+- Units: 884
+- Low-income units: 884
+- Units reported: 884
+- Low-income reported: 884
+- Efficiencies: 0
+- 1-bedroom units: 118
+- 2-bedroom units: 653
+- 3-bedroom units: 113
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CLEVELAND SUMMIT APTS (TNA19880505)
+
+- HUD ID: TNA19880505
+- HUD ID before: 
+- Project: CLEVELAND SUMMIT APTS
+- Address: 44 INMAN ST
+- City: CLEVELAND
+- State: TN
+- ZIP: 37311
+- ZIP extension: 
+- State project ID: TN-88-111
+- Latitude: 35.158997
+- Longitude: -84.875527
+- County FIPS: 47011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47011010500
+- Tract 2000: 47011010500
+- Tract 1990: 47011010500
+- Place 2020: 
+- Place 2010: 15400
+- Place 2000: 15400
+- Place 1990: 0255
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 94211
+- Units: 79
+- Low-income units: 77
+- Units reported: 79
+- Low-income reported: 77
+- Efficiencies: 69
+- 1-bedroom units: 10
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

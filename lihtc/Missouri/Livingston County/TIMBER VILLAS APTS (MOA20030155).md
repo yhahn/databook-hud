@@ -1,0 +1,85 @@
+# Project: TIMBER VILLAS APTS (MOA20030155)
+
+- HUD ID: MOA20030155
+- HUD ID before: 
+- Project: TIMBER VILLAS APTS
+- Address: 2602 N WASHINGTON ST
+- City: CHILLICOTHE
+- State: MO
+- ZIP: 64601
+- ZIP extension: 
+- State project ID: 02-052
+- Latitude: 39.815845
+- Longitude: -93.553011
+- County FIPS: 29117
+- County from: 2020
+- Tract 2020: 29117480300
+- Tract 2010: 29117480300
+- Tract 2000: 29117980300
+- Tract 1990: 29117980300
+- Place 2020: 13690
+- Place 2010: 13690
+- Place 2000: 13690
+- Place 1990: 0805
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

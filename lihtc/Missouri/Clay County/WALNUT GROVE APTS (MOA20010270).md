@@ -1,0 +1,85 @@
+# Project: WALNUT GROVE APTS (MOA20010270)
+
+- HUD ID: MOA20010270
+- HUD ID before: 
+- Project: WALNUT GROVE APTS
+- Address: 3121 NE 37TH ST
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64117
+- ZIP extension: 
+- State project ID: 00-404
+- Latitude: 39.161584
+- Longitude: -94.543624
+- County FIPS: 29047
+- County from: 2020
+- Tract 2020: 29047020500
+- Tract 2010: 29047020500
+- Tract 2000: 29047020500
+- Tract 1990: 29047020500
+- Place 2020: 38000
+- Place 2010: 38000
+- Place 2000: 02800
+- Place 1990: 2220
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 182
+- Low-income units: 182
+- Units reported: 182
+- Low-income reported: 182
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 83
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

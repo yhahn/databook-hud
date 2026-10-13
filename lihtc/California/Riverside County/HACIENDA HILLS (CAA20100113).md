@@ -1,0 +1,85 @@
+# Project: HACIENDA HILLS (CAA20100113)
+
+- HUD ID: CAA20100113
+- HUD ID before: 
+- Project: HACIENDA HILLS
+- Address: 67150 HACIENDA AVE
+- City: DESERT HOT SPRINGS
+- State: CA
+- ZIP: 92240
+- ZIP extension: 
+- State project ID: CA-10-806
+- Latitude: 33.954315
+- Longitude: -116.490061
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065044510
+- Tract 2010: 06065044510
+- Tract 2000: 06065044510
+- Tract 1990: 06065044502
+- Place 2020: 18996
+- Place 2010: 18996
+- Place 2000: 18996
+- Place 1990: 0765
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 375210
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2010531.
+- Record status: Existing, unchanged

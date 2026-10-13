@@ -1,0 +1,85 @@
+# Project: MAYFLOWER APTS (MAB19970070)
+
+- HUD ID: MAB19970070
+- HUD ID before: 
+- Project: MAYFLOWER APTS
+- Address: 193 HILDRETH ST
+- City: LOWELL
+- State: MA
+- ZIP: 01850
+- ZIP extension: 
+- State project ID: 04-3339000
+- Latitude: 42.658497
+- Longitude: -71.307532
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017310300
+- Tract 2010: 25017310300
+- Tract 2000: 25017310300
+- Tract 1990: 25017310300
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 2180
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 86
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

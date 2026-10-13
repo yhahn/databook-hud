@@ -1,0 +1,85 @@
+# Project: OBERY COURT PHASE I (MDA20100060)
+
+- HUD ID: MDA20100060
+- HUD ID before: 
+- Project: OBERY COURT PHASE I
+- Address: 112 CLAY ST
+- City: ANNAPOLIS
+- State: MD
+- ZIP: 21401
+- ZIP extension: 
+- State project ID: MD-08-140
+- Latitude: 38.979914
+- Longitude: -76.498986
+- County FIPS: 24003
+- County from: 2020
+- Tract 2020: 24003706102
+- Tract 2010: 24003706101
+- Tract 2000: 24003706101
+- Tract 1990: 24003706101
+- Place 2020: 01600
+- Place 2010: 01600
+- Place 2000: 01600
+- Place 1990: 0011
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 22
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COLLEGE CREEK PHASE II.
+- Record status: Existing, unchanged

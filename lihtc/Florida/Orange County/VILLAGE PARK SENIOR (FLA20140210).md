@@ -1,0 +1,85 @@
+# Project: VILLAGE PARK SENIOR (FLA20140210)
+
+- HUD ID: FLA20140210
+- HUD ID before: 
+- Project: VILLAGE PARK SENIOR
+- Address: 550 N DENNING DR
+- City: WINTER PARK
+- State: FL
+- ZIP: 32789
+- ZIP extension: 
+- State project ID: 2586
+- Latitude: 28.601623
+- Longitude: -81.360895
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095015901
+- Tract 2010: 12095015901
+- Tract 2000: 12095015901
+- Tract 1990: 12095015901
+- Place 2020: 78300
+- Place 2010: 78300
+- Place 2000: 42575
+- Place 1990: 2290
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 105
+- Low-income units: 100
+- Units reported: 105
+- Low-income reported: 100
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

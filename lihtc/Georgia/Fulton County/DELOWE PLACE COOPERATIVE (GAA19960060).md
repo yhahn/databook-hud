@@ -1,0 +1,85 @@
+# Project: DELOWE PLACE COOPERATIVE (GAA19960060)
+
+- HUD ID: GAA19960060
+- HUD ID before: 
+- Project: DELOWE PLACE COOPERATIVE
+- Address: 2327 DELOWE DR
+- City: EAST POINT
+- State: GA
+- ZIP: 30344
+- ZIP extension: 
+- State project ID: GA-94-035
+- Latitude: 33.691648
+- Longitude: -84.457529
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011301
+- Tract 2010: 13121011301
+- Tract 2000: 13121011301
+- Tract 1990: 13121011301
+- Place 2020: 25720
+- Place 2010: 25720
+- Place 2000: 04000
+- Place 1990: 0960
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 85
+- Low-income units: 84
+- Units reported: 85
+- Low-income reported: 84
+- Efficiencies: 5
+- 1-bedroom units: 56
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

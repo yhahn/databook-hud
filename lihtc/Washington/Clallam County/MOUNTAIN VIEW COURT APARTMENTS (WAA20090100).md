@@ -1,0 +1,85 @@
+# Project: MOUNTAIN VIEW COURT APARTMENTS (WAA20090100)
+
+- HUD ID: WAA20090100
+- HUD ID before: 
+- Project: MOUNTAIN VIEW COURT APARTMENTS
+- Address: 303 S 5TH AVE
+- City: SEQUIM
+- State: WA
+- ZIP: 98382
+- ZIP extension: 
+- State project ID: 07-148G
+- Latitude: 48.077376
+- Longitude: -123.113368
+- County FIPS: 53009
+- County from: 2020
+- Tract 2020: 53009002100
+- Tract 2010: 53009002100
+- Tract 2000: 53009982100
+- Tract 1990: 
+- Place 2020: 63385
+- Place 2010: 63385
+- Place 2000: 63385
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 153695
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 38
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

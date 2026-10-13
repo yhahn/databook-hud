@@ -1,0 +1,85 @@
+# Project: KENYON PROPERTIES I (PAA19900327)
+
+- HUD ID: PAA19900327
+- HUD ID before: 
+- Project: KENYON PROPERTIES I
+- Address: 701 SWISSVALE AVE
+- City: WILKINSBURG
+- State: PA
+- ZIP: 15221
+- ZIP extension: 
+- State project ID: TC1990-0180
+- Latitude: 40.439044
+- Longitude: -79.879297
+- County FIPS: 42003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42003561000
+- Tract 2000: 42003561000
+- Tract 1990: 42003561000
+- Place 2020: 
+- Place 2010: 85188
+- Place 2000: 85188
+- Place 1990: 8910
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 88195
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 1
+- 1-bedroom units: 7
+- 2-bedroom units: 15
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1992170.
+- Record status: Existing, unchanged

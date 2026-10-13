@@ -1,0 +1,85 @@
+# Project: HAMPTON POINT (FLA20050070)
+
+- HUD ID: FLA20050070
+- HUD ID before: 
+- Project: HAMPTON POINT
+- Address: 2511 LUTHER RD
+- City: PORT CHARLOTTE
+- State: FL
+- ZIP: 33983
+- ZIP extension: 
+- State project ID: 1015
+- Latitude: 26.991306
+- Longitude: -82.026675
+- County FIPS: 12015
+- County from: 2020
+- Tract 2020: 12015020101
+- Tract 2010: 12015020101
+- Tract 2000: 12015020100
+- Tract 1990: 12015020100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 28800
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 284
+- Low-income units: 284
+- Units reported: 284
+- Low-income reported: 284
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 116
+- 3-bedroom units: 128
+- 4-bedroom units: 40
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

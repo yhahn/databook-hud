@@ -1,0 +1,85 @@
+# Project: TRAIL WEST APTS (OHA20099284)
+
+- HUD ID: OHA20099284
+- HUD ID before: 
+- Project: TRAIL WEST APTS
+- Address: 36 WESTON
+- City: NEWARK
+- State: OH
+- ZIP: 43055
+- ZIP extension: 
+- State project ID: 070114
+- Latitude: 40.044261
+- Longitude: -82.470936
+- County FIPS: 39089
+- County from: 2020
+- Tract 2020: 39089753301
+- Tract 2010: 39089753300
+- Tract 2000: 39089753300
+- Tract 1990: 39089753300
+- Place 2020: 54040
+- Place 2010: 54040
+- Place 2000: 31402
+- Place 1990: 2925
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 86
+- Low-income units: 86
+- Units reported: 86
+- Low-income reported: 86
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2008780.
+- Record status: Existing, unchanged

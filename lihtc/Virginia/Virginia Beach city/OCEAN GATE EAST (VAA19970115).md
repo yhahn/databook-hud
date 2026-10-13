@@ -1,0 +1,85 @@
+# Project: OCEAN GATE EAST (VAA19970115)
+
+- HUD ID: VAA19970115
+- HUD ID before: 
+- Project: OCEAN GATE EAST
+- Address: 1453 GATE TREE CT
+- City: VIRGINIA BEACH
+- State: VA
+- ZIP: 23454
+- ZIP extension: 
+- State project ID: 4560
+- Latitude: 36.799479
+- Longitude: -76.010268
+- County FIPS: 51810
+- County from: 2020
+- Tract 2020: 51810045408
+- Tract 2010: 51810045408
+- Tract 2000: 51810045408
+- Tract 1990: 51810045408
+- Place 2020: 82000
+- Place 2010: 82000
+- Place 2000: 82000
+- Place 1990: 1280
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 728218
+- Units: 174
+- Low-income units: 174
+- Units reported: 174
+- Low-income reported: 174
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 120
+- 3-bedroom units: 54
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1997110, VAA0000065. FKA OCEAN GATE WEST
+- Record status: Existing, unchanged

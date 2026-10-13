@@ -1,0 +1,85 @@
+# Project: CANDLELIGHT APTS (NYA19960110)
+
+- HUD ID: NYA19960110
+- HUD ID before: 
+- Project: CANDLELIGHT APTS
+- Address: 6 CANDLELIGHT CIR
+- City: LIVERPOOL
+- State: NY
+- ZIP: 13090
+- ZIP extension: 
+- State project ID: 19950612
+- Latitude: 43.129033
+- Longitude: -76.213505
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067011102
+- Tract 2010: 36067011102
+- Tract 2000: 36067011102
+- Tract 1990: 36067011102
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 244
+- Low-income units: 147
+- Units reported: 244
+- Low-income reported: 147
+- Efficiencies: 2
+- 1-bedroom units: 31
+- 2-bedroom units: 114
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

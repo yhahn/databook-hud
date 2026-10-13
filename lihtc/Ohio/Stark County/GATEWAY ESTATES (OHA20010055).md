@@ -1,0 +1,85 @@
+# Project: GATEWAY ESTATES (OHA20010055)
+
+- HUD ID: OHA20010055
+- HUD ID before: 
+- Project: GATEWAY ESTATES
+- Address: 1700 GATEWAY BLVD SE
+- City: CANTON
+- State: OH
+- ZIP: 44707
+- ZIP extension: 
+- State project ID: 00-0056
+- Latitude: 40.779353
+- Longitude: -81.368029
+- County FIPS: 39151
+- County from: 2020
+- Tract 2020: 39151702300
+- Tract 2010: 39151702300
+- Tract 2000: 39151702300
+- Tract 1990: 39151702300
+- Place 2020: 12000
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 0705
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 188591
+- Units: 40
+- Low-income units: 36
+- Units reported: 40
+- Low-income reported: 36
+- Efficiencies: 36
+- 1-bedroom units: 3
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 301000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

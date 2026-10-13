@@ -1,0 +1,85 @@
+# Project: JACKSON HILLS APTS (CAA20110195)
+
+- HUD ID: CAA20110195
+- HUD ID before: 
+- Project: JACKSON HILLS APTS
+- Address: 300 NEW YORK RANCH RD
+- City: JACKSON
+- State: CA
+- ZIP: 95642
+- ZIP extension: 
+- State project ID: CA-09-610
+- Latitude: 38.357301
+- Longitude: -120.766786
+- County FIPS: 06005
+- County from: 2020
+- Tract 2020: 06005000402
+- Tract 2010: 06005000402
+- Tract 2000: 06005000402
+- Tract 1990: 06005000400
+- Place 2020: 36980
+- Place 2010: 36980
+- Place 2000: 36980
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 86
+- Low-income units: 80
+- Units reported: 86
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 59
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 8148080
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011565.
+- Record status: Existing, unchanged

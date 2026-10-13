@@ -1,0 +1,85 @@
+# Project: SUNSHINE PARK APARTMENTS (ORA20230010)
+
+- HUD ID: ORA20230010
+- HUD ID before: 
+- Project: SUNSHINE PARK APARTMENTS
+- Address: 152 SUNSHINE ROAD
+- City: ROSEBURG
+- State: OR
+- ZIP: 97470
+- ZIP extension: 
+- State project ID: OR-21-11578
+- Latitude: 43.219738
+- Longitude: -123.279372
+- County FIPS: 41019
+- County from: 2020
+- Tract 2020: 41019120001
+- Tract 2010: 41019120000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63650
+- Place 2010: 63650
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1933358
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 83
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

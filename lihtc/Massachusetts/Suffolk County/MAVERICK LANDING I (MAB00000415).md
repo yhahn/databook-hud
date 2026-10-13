@@ -1,0 +1,85 @@
+# Project: MAVERICK LANDING I (MAB00000415)
+
+- HUD ID: MAB00000415
+- HUD ID before: 
+- Project: MAVERICK LANDING I
+- Address: 31 LIVERPOOL ST
+- City: EAST BOSTON
+- State: MA
+- ZIP: 02128
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.370776
+- Longitude: -71.041797
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025050300
+- Tract 2010: 25025050300
+- Tract 2000: 25025050300
+- Tract 1990: 25025050300
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 150
+- Low-income units: 116
+- Units reported: 150
+- Low-income reported: 116
+- Efficiencies: 0
+- 1-bedroom units: 66
+- 2-bedroom units: 57
+- 3-bedroom units: 20
+- 4-bedroom units: 7
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

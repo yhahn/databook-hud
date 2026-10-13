@@ -1,0 +1,85 @@
+# Project: FOUNDERS WAY (NYA20220010)
+
+- HUD ID: NYA20220010
+- HUD ID before: 
+- Project: FOUNDERS WAY
+- Address: 320 W BUFFALO ST
+- City: ITHACA
+- State: NY
+- ZIP: 14850
+- ZIP extension: 
+- State project ID: 20200235
+- Latitude: 42.44137
+- Longitude: -76.502329
+- County FIPS: 36109
+- County from: 2020
+- Tract 2020: 36109000800
+- Tract 2010: 36109000800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 38077
+- Place 2010: 38077
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1090300
+- Units: 75
+- Low-income units: 60
+- Units reported: 75
+- Low-income reported: 60
+- Efficiencies: 7
+- 1-bedroom units: 34
+- 2-bedroom units: 23
+- 3-bedroom units: 10
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2229900
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: YOUTH LEAVING FOSTER CARE/OTHER
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

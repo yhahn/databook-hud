@@ -1,0 +1,85 @@
+# Project: SABAL CHASE (FLA20010180)
+
+- HUD ID: FLA20010180
+- HUD ID before: 
+- Project: SABAL CHASE
+- Address: 100 CORNER DR
+- City: FORT PIERCE
+- State: FL
+- ZIP: 34947
+- ZIP extension: 
+- State project ID: 726
+- Latitude: 27.426031
+- Longitude: -80.37548
+- County FIPS: 12111
+- County from: 2020
+- Tract 2020: 12111380700
+- Tract 2010: 12111380700
+- Tract 2000: 12111000700
+- Tract 1990: 12111000700
+- Place 2020: 24300
+- Place 2010: 24300
+- Place 2000: 24300
+- Place 1990: 0668
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 340
+- Low-income units: 340
+- Units reported: 340
+- Low-income reported: 340
+- Efficiencies: 0
+- 1-bedroom units: 68
+- 2-bedroom units: 164
+- 3-bedroom units: 108
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

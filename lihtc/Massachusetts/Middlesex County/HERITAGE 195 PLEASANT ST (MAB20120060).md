@@ -1,0 +1,85 @@
+# Project: HERITAGE 195 PLEASANT ST (MAB20120060)
+
+- HUD ID: MAB20120060
+- HUD ID before: 
+- Project: HERITAGE 195 PLEASANT ST
+- Address: 195 PLEASANT ST
+- City: MALDEN
+- State: MA
+- ZIP: 02148
+- ZIP extension: 
+- State project ID: 203695041
+- Latitude: 42.427368
+- Longitude: -71.072063
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017341301
+- Tract 2010: 25017341300
+- Tract 2000: 25017341300
+- Tract 1990: 25017341300
+- Place 2020: 37875
+- Place 2010: 37875
+- Place 2000: 37875
+- Place 1990: 2230
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 491939
+- Units: 176
+- Low-income units: 156
+- Units reported: 176
+- Low-income reported: 156
+- Efficiencies: 32
+- 1-bedroom units: 144
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

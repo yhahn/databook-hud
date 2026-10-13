@@ -1,0 +1,85 @@
+# Project: PARK AT WOODWIND LAKES (TXA20020185)
+
+- HUD ID: TXA20020185
+- HUD ID before: 
+- Project: PARK AT WOODWIND LAKES
+- Address: 14333 PHILIPPINE ST
+- City: HOUSTON
+- State: TX
+- ZIP: 77040
+- ZIP extension: 
+- State project ID: TX0113
+- Latitude: 29.88569
+- Longitude: -95.53856
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201534204
+- Tract 2010: 48201534202
+- Tract 2000: 48201534200
+- Tract 1990: 48201054120
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 35000
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 86
+- Units reported: 144
+- Low-income reported: 86
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA WINDFERN II TOWNHOMES
+- Record status: Existing, unchanged

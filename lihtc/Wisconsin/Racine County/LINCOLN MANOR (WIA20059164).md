@@ -1,0 +1,85 @@
+# Project: LINCOLN MANOR (WIA20059164)
+
+- HUD ID: WIA20059164
+- HUD ID before: 
+- Project: LINCOLN MANOR
+- Address: 5809 16TH ST
+- City: MT PLEASANT
+- State: WI
+- ZIP: 53406
+- ZIP extension: 
+- State project ID: 5009
+- Latitude: 42.712656
+- Longitude: -87.852607
+- County FIPS: 55101
+- County from: 2020
+- Tract 2020: 55101001701
+- Tract 2010: 55101001701
+- Tract 2000: 55101001701
+- Tract 1990: 55101001704
+- Place 2020: 54875
+- Place 2010: 54875
+- Place 2000: 66000
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 113
+- Units reported: 120
+- Low-income reported: 113
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WIA0000024. PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

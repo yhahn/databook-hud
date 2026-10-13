@@ -1,0 +1,85 @@
+# Project: COUNTRY VIEW APARTMENTS (INA20230010)
+
+- HUD ID: INA20230010
+- HUD ID before: 
+- Project: COUNTRY VIEW APARTMENTS
+- Address: 2500 S ROCKPORT ROAD
+- City: BLOOMINGTON
+- State: IN
+- ZIP: 47403
+- ZIP extension: 
+- State project ID: 2022A-B-008
+- Latitude: 39.141436
+- Longitude: -86.54399
+- County FIPS: 18105
+- County from: 2020
+- Tract 2020: 18105000402
+- Tract 2010: 18105000402
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 05860
+- Place 2010: 05860
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 13000000
+- Units: 206
+- Low-income units: 206
+- Units reported: 206
+- Low-income reported: 206
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 144
+- 3-bedroom units: 24
+- 4-bedroom units: 2
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

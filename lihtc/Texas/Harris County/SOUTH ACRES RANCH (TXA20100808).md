@@ -1,0 +1,85 @@
+# Project: SOUTH ACRES RANCH (TXA20100808)
+
+- HUD ID: TXA20100808
+- HUD ID before: 
+- Project: SOUTH ACRES RANCH
+- Address: 11409 SCOTT ST
+- City: HOUSTON
+- State: TX
+- ZIP: 77047
+- ZIP extension: 
+- State project ID: TX4623
+- Latitude: 29.63634
+- Longitude: -95.367976
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201331502
+- Tract 2010: 48201331500
+- Tract 2000: 48201331500
+- Tract 1990: 48201034000
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 77
+- Units reported: 81
+- Low-income reported: 77
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 80
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000525.
+- Record status: Existing, unchanged

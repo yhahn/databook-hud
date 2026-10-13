@@ -1,0 +1,85 @@
+# Project: SOUTHWEST HORIZON RANCH (COA20000090)
+
+- HUD ID: COA20000090
+- HUD ID before: 
+- Project: SOUTHWEST HORIZON RANCH
+- Address: 44 TWIN PINES LN
+- City: DURANGO
+- State: CO
+- ZIP: 81303
+- ZIP extension: 
+- State project ID: CO-98-0011
+- Latitude: 37.220264
+- Longitude: -107.788732
+- County FIPS: 08067
+- County from: 2020
+- Tract 2020: 08067970703
+- Tract 2010: 08067970703
+- Tract 2000: 08067970702
+- Tract 1990: 08067970600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 22035
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 46
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

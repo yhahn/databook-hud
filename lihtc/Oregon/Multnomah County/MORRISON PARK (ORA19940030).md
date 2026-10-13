@@ -1,0 +1,85 @@
+# Project: MORRISON PARK (ORA19940030)
+
+- HUD ID: ORA19940030
+- HUD ID before: 
+- Project: MORRISON PARK
+- Address: 803 SW MORRISON ST
+- City: PORTLAND
+- State: OR
+- ZIP: 97205
+- ZIP extension: 
+- State project ID: 1116
+- Latitude: 45.51977
+- Longitude: -122.680532
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051010602
+- Tract 2010: 41051010600
+- Tract 2000: 41051005300
+- Tract 1990: 41051005300
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 302145
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA0000029. AKA WHITMARSH APTS.
+- Record status: Existing, unchanged

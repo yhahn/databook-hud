@@ -1,0 +1,85 @@
+# Project: BLUFFS APTS (ORA20000015)
+
+- HUD ID: ORA20000015
+- HUD ID before: 
+- Project: BLUFFS APTS
+- Address: 340 SW RIMROCK WAY
+- City: REDMOND
+- State: OR
+- ZIP: 97756
+- ZIP extension: 
+- State project ID: X001-406
+- Latitude: 44.274435
+- Longitude: -121.189059
+- County FIPS: 41017
+- County from: 2020
+- Tract 2020: 41017000902
+- Tract 2010: 41017000900
+- Tract 2000: 41017991000
+- Tract 1990: 41017991000
+- Place 2020: 61200
+- Place 2010: 61200
+- Place 2000: 61200
+- Place 1990: 0945
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 146597
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 18
+- 1-bedroom units: 43
+- 2-bedroom units: 27
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

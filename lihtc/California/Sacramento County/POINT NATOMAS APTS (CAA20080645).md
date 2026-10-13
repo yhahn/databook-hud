@@ -1,0 +1,85 @@
+# Project: POINT NATOMAS APTS (CAA20080645)
+
+- HUD ID: CAA20080645
+- HUD ID before: 
+- Project: POINT NATOMAS APTS
+- Address: 801 SAN JUAN RD
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95834
+- ZIP extension: 
+- State project ID: CA-07-809
+- Latitude: 38.628819
+- Longitude: -121.481215
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067007021
+- Tract 2010: 06067007004
+- Tract 2000: 06067007004
+- Tract 1990: 06067007004
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 64000
+- Place 1990: 2420
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1235346
+- Units: 337
+- Low-income units: 335
+- Units reported: 337
+- Low-income reported: 335
+- Efficiencies: 0
+- 1-bedroom units: 82
+- 2-bedroom units: 255
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 68
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

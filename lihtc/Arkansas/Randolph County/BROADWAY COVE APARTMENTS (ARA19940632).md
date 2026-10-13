@@ -1,0 +1,85 @@
+# Project: BROADWAY COVE APARTMENTS (ARA19940632)
+
+- HUD ID: ARA19940632
+- HUD ID before: 
+- Project: BROADWAY COVE APARTMENTS
+- Address: 33 BROADWAY CV
+- City: MAYNARD
+- State: AR
+- ZIP: 72444
+- ZIP extension: 
+- State project ID: AR-93-05
+- Latitude: 36.418979
+- Longitude: -90.905171
+- County FIPS: 05121
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05121960100
+- Tract 2000: 05121960100
+- Tract 1990: 05121960100
+- Place 2020: 
+- Place 2010: 44780
+- Place 2000: 06040
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 40225
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1994020, ARA1994017. AKA EVERGREEN FOUR.
+- Record status: Existing, unchanged

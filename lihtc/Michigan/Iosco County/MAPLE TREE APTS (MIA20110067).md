@@ -1,0 +1,85 @@
+# Project: MAPLE TREE APTS (MIA20110067)
+
+- HUD ID: MIA20110067
+- HUD ID before: 
+- Project: MAPLE TREE APTS
+- Address: 400 GRANT ST
+- City: EAST TAWAS
+- State: MI
+- ZIP: 48730
+- ZIP extension: 
+- State project ID: MI-3410
+- Latitude: 44.284725
+- Longitude: -83.481286
+- County FIPS: 26069
+- County from: 2020
+- Tract 2020: 26069000201
+- Tract 2010: 26069000200
+- Tract 2000: 26069990700
+- Tract 1990: 26069990700
+- Place 2020: 24420
+- Place 2010: 24420
+- Place 2000: 04280
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 745127
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MAPLE TREE APTS 2008.
+- Record status: Existing, unchanged

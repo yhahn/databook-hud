@@ -1,0 +1,85 @@
+# Project: CORDOVA MEADOWS APTS (CAA19970552)
+
+- HUD ID: CAA19970552
+- HUD ID before: 
+- Project: CORDOVA MEADOWS APTS
+- Address: 2312 SIERRA MADRE CT
+- City: RANCHO CORDOVA
+- State: CA
+- ZIP: 95670
+- ZIP extension: 
+- State project ID: CA-96-247
+- Latitude: 38.603421
+- Longitude: -121.304541
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067008913
+- Tract 2010: 06067008913
+- Tract 2000: 06067008913
+- Tract 1990: 06067008904
+- Place 2020: 59444
+- Place 2010: 59444
+- Place 2000: 59444
+- Place 1990: 2277
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 793424
+- Units: 184
+- Low-income units: 183
+- Units reported: 184
+- Low-income reported: 183
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 102
+- 3-bedroom units: 50
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

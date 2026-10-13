@@ -1,0 +1,85 @@
+# Project: CAPITOL HILL APARTMENTS (COA20180003)
+
+- HUD ID: COA20180003
+- HUD ID before: 
+- Project: CAPITOL HILL APARTMENTS
+- Address: 701 E. 14TH AVE.
+- City: DENVER
+- State: CO
+- ZIP: 80203
+- ZIP extension: 
+- State project ID: CO-18-37
+- Latitude: 39.738614
+- Longitude: -104.978421
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031002708
+- Tract 2010: 08031002703
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 890624
+- Units: 121
+- Low-income units: 121
+- Units reported: 121
+- Low-income reported: 121
+- Efficiencies: 52
+- 1-bedroom units: 41
+- 2-bedroom units: 20
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

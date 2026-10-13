@@ -1,0 +1,85 @@
+# Project: SHELBINA I APTS (MOA20030145)
+
+- HUD ID: MOA20030145
+- HUD ID before: 
+- Project: SHELBINA I APTS
+- Address: 605 N CTR ST
+- City: SHELBINA
+- State: MO
+- ZIP: 63468
+- ZIP extension: 
+- State project ID: 03-030
+- Latitude: 39.700278
+- Longitude: -92.038317
+- County FIPS: 29205
+- County from: 2020
+- Tract 2020: 29205450200
+- Tract 2010: 29205450200
+- Tract 2000: 29205950200
+- Tract 1990: 29205950200
+- Place 2020: 67178
+- Place 2010: 67178
+- Place 2000: 33760
+- Place 1990: 3965
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 15
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SHELBINA APTS I.
+- Record status: Existing, unchanged

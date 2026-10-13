@@ -1,0 +1,85 @@
+# Project: LAKE ROAD APARTMENTS (NCA20060135)
+
+- HUD ID: NCA20060135
+- HUD ID before: 
+- Project: LAKE ROAD APARTMENTS
+- Address: 308 TAYLOR AVENUE
+- City: HIGH POINT
+- State: NC
+- ZIP: 27260
+- ZIP extension: 
+- State project ID: 9002330
+- Latitude: 35.948558
+- Longitude: -80.007691
+- County FIPS: 37081
+- County from: 2020
+- Tract 2020: 37081014300
+- Tract 2010: 37081014300
+- Tract 2000: 37081014300
+- Tract 1990: 37081014300
+- Place 2020: 31400
+- Place 2010: 31400
+- Place 2000: 31400
+- Place 1990: 1195
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 213289
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 63
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

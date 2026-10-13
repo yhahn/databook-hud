@@ -1,0 +1,85 @@
+# Project: 1890 ANDREWS AVENUE (NYC20174001)
+
+- HUD ID: NYC20174001
+- HUD ID before: 
+- Project: 1890 ANDREWS AVENUE
+- Address: 1890 ANDREWS AVENUE
+- City: NEW YORK
+- State: NY
+- ZIP: 10453
+- ZIP extension: 
+- State project ID: NY1502024
+- Latitude: 40.853542
+- Longitude: -73.91368
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005024501
+- Tract 2010: 36005024501
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 737126
+- Units: 55
+- Low-income units: 47
+- Units reported: 55
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 23
+- 3-bedroom units: 5
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

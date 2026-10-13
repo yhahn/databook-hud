@@ -1,0 +1,85 @@
+# Project: FURNACE CREEK MANOR (PAA19950060)
+
+- HUD ID: PAA19950060
+- HUD ID before: 
+- Project: FURNACE CREEK MANOR
+- Address: 270 S FREEMAN ST
+- City: ROBESONIA
+- State: PA
+- ZIP: 19551
+- ZIP extension: 
+- State project ID: TC19940093
+- Latitude: 40.346008
+- Longitude: -76.134236
+- County FIPS: 42011
+- County from: 2020
+- Tract 2020: 42011010500
+- Tract 2010: 42011010500
+- Tract 2000: 42011010500
+- Tract 1990: 42011010500
+- Place 2020: 65336
+- Place 2010: 65336
+- Place 2000: 65336
+- Place 1990: 8964
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 59892
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

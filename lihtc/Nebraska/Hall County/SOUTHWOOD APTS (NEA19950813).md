@@ -1,0 +1,85 @@
+# Project: SOUTHWOOD APTS (NEA19950813)
+
+- HUD ID: NEA19950813
+- HUD ID before: 
+- Project: SOUTHWOOD APTS
+- Address: 725 W HEDDE ST
+- City: GRAND ISLAND
+- State: NE
+- ZIP: 68801
+- ZIP extension: 
+- State project ID: 7-0282
+- Latitude: 40.90573
+- Longitude: -98.346739
+- County FIPS: 31079
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31079000900
+- Tract 2000: 31079000900
+- Tract 1990: 31079000900
+- Place 2020: 
+- Place 2010: 19595
+- Place 2000: 19595
+- Place 1990: 1045
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 80624
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CEDAR CREEK II (VAA19890035)
+
+- HUD ID: VAA19890035
+- HUD ID before: 
+- Project: CEDAR CREEK II
+- Address: 7601 MAIN ST
+- City: MIDDLETOWN
+- State: VA
+- ZIP: 22645
+- ZIP extension: 
+- State project ID: 9698
+- Latitude: 39.033313
+- Longitude: -78.273095
+- County FIPS: 51069
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 51069050700
+- Tract 2000: 51069050700
+- Tract 1990: 51069050700
+- Place 2020: 
+- Place 2010: 51512
+- Place 2000: 51512
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 68175
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 25
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

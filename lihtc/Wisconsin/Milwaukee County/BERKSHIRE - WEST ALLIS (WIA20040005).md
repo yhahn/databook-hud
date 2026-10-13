@@ -1,0 +1,85 @@
+# Project: BERKSHIRE - WEST ALLIS (WIA20040005)
+
+- HUD ID: WIA20040005
+- HUD ID before: 
+- Project: BERKSHIRE - WEST ALLIS
+- Address: 1414 S 65TH ST
+- City: WEST ALLIS
+- State: WI
+- ZIP: 53214
+- ZIP extension: 
+- State project ID: 3029
+- Latitude: 43.016533
+- Longitude: -87.992945
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079100200
+- Tract 2010: 55079100200
+- Tract 2000: 55079100200
+- Tract 1990: 55079100200
+- Place 2020: 85300
+- Place 2010: 85300
+- Place 2000: 85300
+- Place 1990: 2720
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 79
+- Low-income units: 79
+- Units reported: 79
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 29
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

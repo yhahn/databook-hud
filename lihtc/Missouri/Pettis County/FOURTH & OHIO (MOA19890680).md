@@ -1,0 +1,85 @@
+# Project: FOURTH & OHIO (MOA19890680)
+
+- HUD ID: MOA19890680
+- HUD ID before: 
+- Project: FOURTH & OHIO
+- Address: 224 S OHIO AVE
+- City: SEDALIA
+- State: MO
+- ZIP: 65301
+- ZIP extension: 
+- State project ID: 169134
+- Latitude: 38.709018
+- Longitude: -93.228301
+- County FIPS: 29159
+- County from: 2020
+- Tract 2020: 29159480900
+- Tract 2010: 29159480900
+- Tract 2000: 29159980900
+- Tract 1990: 29159980900
+- Place 2020: 66440
+- Place 2010: 66440
+- Place 2000: 66440
+- Place 1990: 3935
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 62
+- Units reported: 68
+- Low-income reported: 62
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

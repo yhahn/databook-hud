@@ -1,0 +1,85 @@
+# Project: VALLEYVIEW PHASE II (OHA20090160)
+
+- HUD ID: OHA20090160
+- HUD ID before: 
+- Project: VALLEYVIEW PHASE II
+- Address: 2556 W SIXTH ST
+- City: CLEVELAND
+- State: OH
+- ZIP: 44113
+- ZIP extension: 
+- State project ID: 070002
+- Latitude: 41.478545
+- Longitude: -81.680317
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035197800
+- Tract 2010: 39035104200
+- Tract 2000: 39035104701
+- Tract 1990: 39035104701
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 90085
+- Units: 87
+- Low-income units: 58
+- Units reported: 87
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 63
+- 3-bedroom units: 22
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

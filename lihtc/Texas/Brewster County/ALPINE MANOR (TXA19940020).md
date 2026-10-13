@@ -1,0 +1,85 @@
+# Project: ALPINE MANOR (TXA19940020)
+
+- HUD ID: TXA19940020
+- HUD ID before: 
+- Project: ALPINE MANOR
+- Address: 1001 FIGHTING BUCK AVE
+- City: ALPINE
+- State: TX
+- ZIP: 79830
+- ZIP extension: 
+- State project ID: TX1112
+- Latitude: 30.367042
+- Longitude: -103.662132
+- County FIPS: 48043
+- County from: 2020
+- Tract 2020: 48043950300
+- Tract 2010: 48043950300
+- Tract 2000: 48043950300
+- Tract 1990: 48043950300
+- Place 2020: 02104
+- Place 2010: 02104
+- Place 2000: 02104
+- Place 1990: 0070
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

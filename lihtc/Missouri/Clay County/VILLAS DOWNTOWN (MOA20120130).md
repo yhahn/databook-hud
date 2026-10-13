@@ -1,0 +1,85 @@
+# Project: VILLAS DOWNTOWN (MOA20120130)
+
+- HUD ID: MOA20120130
+- HUD ID before: 
+- Project: VILLAS DOWNTOWN
+- Address: 201 E EXCELSIOR ST
+- City: EXCELSIOR SPRINGS
+- State: MO
+- ZIP: 64024
+- ZIP extension: 
+- State project ID: 11-012
+- Latitude: 39.342704
+- Longitude: -94.222343
+- County FIPS: 29047
+- County from: 2020
+- Tract 2020: 29047021704
+- Tract 2010: 29047021702
+- Tract 2000: 29047021700
+- Tract 1990: 29047021700
+- Place 2020: 23086
+- Place 2010: 23086
+- Place 2000: 23086
+- Place 1990: 1370
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 764340
+- Units: 39
+- Low-income units: 38
+- Units reported: 39
+- Low-income reported: 38
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

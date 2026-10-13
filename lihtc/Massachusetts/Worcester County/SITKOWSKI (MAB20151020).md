@@ -1,0 +1,85 @@
+# Project: SITKOWSKI (MAB20151020)
+
+- HUD ID: MAB20151020
+- HUD ID before: 
+- Project: SITKOWSKI
+- Address: 29 NEGUS STREET
+- City: WEBSTER
+- State: MA
+- ZIP: 01570
+- ZIP extension: 
+- State project ID: MA15-10224
+- Latitude: 42.048986
+- Longitude: -71.880313
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027754300
+- Tract 2010: 25027754300
+- Tract 2000: 25027754300
+- Tract 1990: 
+- Place 2020: 73930
+- Place 2010: 73930
+- Place 2000: 73930
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 653122
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 37
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

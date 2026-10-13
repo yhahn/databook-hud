@@ -1,0 +1,85 @@
+# Project: RENAISSANCE ST LUKE SLF (ILB20090811)
+
+- HUD ID: ILB20090811
+- HUD ID before: 
+- Project: RENAISSANCE ST LUKE SLF
+- Address: 1501 W MELROSE ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60657
+- ZIP extension: 
+- State project ID: TC-2508
+- Latitude: 41.940495
+- Longitude: -87.666252
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031062400
+- Tract 2010: 17031062400
+- Tract 2000: 17031062400
+- Tract 1990: 17031062400
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 107
+- Low-income units: 97
+- Units reported: 107
+- Low-income reported: 97
+- Efficiencies: 99
+- 1-bedroom units: 8
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2009806. AKA GREENVIE.
+- Record status: Existing, unchanged

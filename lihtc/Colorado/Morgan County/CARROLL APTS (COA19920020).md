@@ -1,0 +1,85 @@
+# Project: CARROLL APTS (COA19920020)
+
+- HUD ID: COA19920020
+- HUD ID before: 
+- Project: CARROLL APTS
+- Address: 418 EDISON ST
+- City: BRUSH
+- State: CO
+- ZIP: 80723
+- ZIP extension: 
+- State project ID: CO92-003
+- Latitude: 40.255659
+- Longitude: -103.615735
+- County FIPS: 08087
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 08087000700
+- Tract 2000: 08087000700
+- Tract 1990: 08087994600
+- Place 2020: 
+- Place 2010: 09555
+- Place 2000: 09555
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 2
+- 1-bedroom units: 4
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

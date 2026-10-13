@@ -1,0 +1,85 @@
+# Project: PLAZA AT LYRIC (FLA20160022)
+
+- HUD ID: FLA20160022
+- HUD ID before: 
+- Project: PLAZA AT LYRIC
+- Address: 919 NW 2ND AVENUE
+- City: MIAMI
+- State: FL
+- ZIP: 33136
+- ZIP extension: 
+- State project ID: 2746
+- Latitude: 25.782882
+- Longitude: -80.197838
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086003400
+- Tract 2010: 12086003400
+- Tract 2000: 12086003400
+- Tract 1990: 
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 45000
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1595086
+- Units: 158
+- Low-income units: 158
+- Units reported: 158
+- Low-income reported: 158
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 79
+- 3-bedroom units: 46
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

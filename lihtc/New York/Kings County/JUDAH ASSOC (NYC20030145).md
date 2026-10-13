@@ -1,0 +1,85 @@
+# Project: JUDAH ASSOC (NYC20030145)
+
+- HUD ID: NYC20030145
+- HUD ID before: 
+- Project: JUDAH ASSOC
+- Address: 234 SPENCER ST
+- City: BROOKLYN
+- State: NY
+- ZIP: 11205
+- ZIP extension: 
+- State project ID: NY0202047
+- Latitude: 40.691362
+- Longitude: -73.954749
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047024100
+- Tract 2010: 36047024100
+- Tract 2000: 36047024100
+- Tract 1990: 36047024100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 437381
+- Units: 55
+- Low-income units: 42
+- Units reported: 55
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ABYSINNIAN DEVELOPMENT.
+- Record status: Existing, unchanged

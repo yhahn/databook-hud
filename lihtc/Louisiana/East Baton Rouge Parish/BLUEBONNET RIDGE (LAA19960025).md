@@ -1,0 +1,85 @@
+# Project: BLUEBONNET RIDGE (LAA19960025)
+
+- HUD ID: LAA19960025
+- HUD ID before: 
+- Project: BLUEBONNET RIDGE
+- Address: 10624 GLENSTONE AVE
+- City: BATON ROUGE
+- State: LA
+- ZIP: 70810
+- ZIP extension: 0000
+- State project ID: LA-94-045
+- Latitude: 30.366094
+- Longitude: -91.103524
+- County FIPS: 22033
+- County from: 2020
+- Tract 2020: 22033004020
+- Tract 2010: 22033004006
+- Tract 2000: 22033004006
+- Tract 1990: 22033004006
+- Place 2020: 56855
+- Place 2010: 56855
+- Place 2000: 56855
+- Place 1990: 1002
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 52499
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

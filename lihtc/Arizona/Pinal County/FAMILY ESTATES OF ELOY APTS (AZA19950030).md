@@ -1,0 +1,85 @@
+# Project: FAMILY ESTATES OF ELOY APTS (AZA19950030)
+
+- HUD ID: AZA19950030
+- HUD ID before: 
+- Project: FAMILY ESTATES OF ELOY APTS
+- Address: 701 N A ST
+- City: ELOY
+- State: AZ
+- ZIP: 85131
+- ZIP extension: 
+- State project ID: AZ-94-0106
+- Latitude: 32.756433
+- Longitude: -111.557049
+- County FIPS: 04021
+- County from: 2020
+- Tract 2020: 04021002004
+- Tract 2010: 04021002003
+- Tract 2000: 04021002000
+- Tract 1990: 04021002000
+- Place 2020: 22360
+- Place 2010: 22360
+- Place 2000: 10530
+- Place 1990: 0105
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000503, AZA0000060.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HERITAGE PINES (FLA20010070)
+
+- HUD ID: FLA20010070
+- HUD ID before: 
+- Project: HERITAGE PINES
+- Address: 10501 CROSS CREEK BLVD
+- City: TAMPA
+- State: FL
+- ZIP: 33647
+- ZIP extension: 
+- State project ID: 347
+- Latitude: 28.146591
+- Longitude: -82.307613
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057010210
+- Tract 2010: 12057010210
+- Tract 2000: 12057010206
+- Tract 1990: 12057010201
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 340
+- Low-income units: 340
+- Units reported: 340
+- Low-income reported: 340
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 128
+- 3-bedroom units: 96
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

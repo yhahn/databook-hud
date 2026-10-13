@@ -1,0 +1,85 @@
+# Project: CATES RESIDENCE (MOA19900330)
+
+- HUD ID: MOA19900330
+- HUD ID before: 
+- Project: CATES RESIDENCE
+- Address: 6318 CATES AVE
+- City: UNIVERSITY CITY
+- State: MO
+- ZIP: 63130
+- ZIP extension: 
+- State project ID: 90-050
+- Latitude: 38.659216
+- Longitude: -90.302374
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189216102
+- Tract 2010: 29189216100
+- Tract 2000: 29189216100
+- Tract 1990: 29189216100
+- Place 2020: 75220
+- Place 2010: 75220
+- Place 2000: 75220
+- Place 1990: 4320
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

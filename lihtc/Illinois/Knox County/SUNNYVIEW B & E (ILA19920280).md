@@ -1,0 +1,85 @@
+# Project: SUNNYVIEW B & E (ILA19920280)
+
+- HUD ID: ILA19920280
+- HUD ID before: 
+- Project: SUNNYVIEW B & E
+- Address: 421 E WILLARD ST
+- City: WATAGA
+- State: IL
+- ZIP: 61488
+- ZIP extension: 
+- State project ID: 41892
+- Latitude: 41.024465
+- Longitude: -90.272408
+- County FIPS: 17095
+- County from: 2020
+- Tract 2020: 17095000200
+- Tract 2010: 17095000200
+- Tract 2000: 17095000200
+- Tract 1990: 17095000200
+- Place 2020: 79124
+- Place 2010: 79124
+- Place 2000: 34007
+- Place 1990: 6045
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 18722
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MAPLECREST APTS.
+- Record status: Existing, unchanged

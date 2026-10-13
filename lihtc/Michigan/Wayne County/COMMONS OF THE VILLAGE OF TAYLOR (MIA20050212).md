@@ -1,0 +1,85 @@
+# Project: COMMONS OF THE VILLAGE OF TAYLOR (MIA20050212)
+
+- HUD ID: MIA20050212
+- HUD ID before: 
+- Project: COMMONS OF THE VILLAGE OF TAYLOR
+- Address: 26121 EUREKA RD
+- City: TAYLOR
+- State: MI
+- ZIP: 48180
+- ZIP extension: 
+- State project ID: MI-1011
+- Latitude: 42.196738
+- Longitude: -83.291127
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163584802
+- Tract 2010: 26163584800
+- Tract 2000: 26163584800
+- Tract 1990: 26163584800
+- Place 2020: 79000
+- Place 2010: 79000
+- Place 2000: 79000
+- Place 1990: 2633
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 589075
+- Units: 134
+- Low-income units: 134
+- Units reported: 134
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 65
+- 2-bedroom units: 69
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LAS PALOMAS (AZA19960046)
+
+- HUD ID: AZA19960046
+- HUD ID before: 
+- Project: LAS PALOMAS
+- Address: 499 S CARMICHAEL AVE
+- City: SIERRA VISTA
+- State: AZ
+- ZIP: 85635
+- ZIP extension: 
+- State project ID: TC-0120
+- Latitude: 31.549812
+- Longitude: -110.299575
+- County FIPS: 04003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04003001501
+- Tract 2000: 04003001500
+- Tract 1990: 04003001500
+- Place 2020: 
+- Place 2010: 66820
+- Place 2000: 66820
+- Place 1990: 0315
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 44
+- 4-bedroom units: 44
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000516, AZA1996050.
+- Record status: Existing, unchanged

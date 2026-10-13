@@ -1,0 +1,85 @@
+# Project: HERITAGE VILLAGE LAMBERTVILLE APTS (NJA20120897)
+
+- HUD ID: NJA20120897
+- HUD ID before: 
+- Project: HERITAGE VILLAGE LAMBERTVILLE APTS
+- Address: 258 BRUNSWICK AVE
+- City: LAMBERTVILLE
+- State: NJ
+- ZIP: 08530
+- ZIP extension: 
+- State project ID: NJ-0696
+- Latitude: 40.363472
+- Longitude: -74.932147
+- County FIPS: 34019
+- County from: 2020
+- Tract 2020: 34019011900
+- Tract 2010: 34019011900
+- Tract 2000: 34019011900
+- Tract 1990: 34019011900
+- Place 2020: 38610
+- Place 2010: 38610
+- Place 2000: 38610
+- Place 1990: 2370
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 87
+- Low-income units: 87
+- Units reported: 87
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 77
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2005230, NJA2005080.
+- Record status: Existing, unchanged

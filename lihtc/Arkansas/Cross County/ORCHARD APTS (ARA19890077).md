@@ -1,0 +1,85 @@
+# Project: ORCHARD APTS (ARA19890077)
+
+- HUD ID: ARA19890077
+- HUD ID before: 
+- Project: ORCHARD APTS
+- Address: 3218 HWY 42
+- City: CHERRY VALLEY
+- State: AR
+- ZIP: 72324
+- ZIP extension: 
+- State project ID: AR-89-24
+- Latitude: 35.402539
+- Longitude: -90.755838
+- County FIPS: 05037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05037950200
+- Tract 2000: 05037950200
+- Tract 1990: 05037950200
+- Place 2020: 
+- Place 2010: 13540
+- Place 2000: 13540
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1989563, ARA1989075.
+- Record status: Existing, unchanged

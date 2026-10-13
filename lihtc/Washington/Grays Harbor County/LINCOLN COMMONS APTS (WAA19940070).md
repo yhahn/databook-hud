@@ -1,0 +1,85 @@
+# Project: LINCOLN COMMONS APTS (WAA19940070)
+
+- HUD ID: WAA19940070
+- HUD ID before: 
+- Project: LINCOLN COMMONS APTS
+- Address: 1001 LINCOLN ST
+- City: HOQUIAM
+- State: WA
+- ZIP: 98550
+- ZIP extension: 
+- State project ID: 92-06DDD
+- Latitude: 46.989124
+- Longitude: -123.885982
+- County FIPS: 53027
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53027001400
+- Tract 2000: 53027001400
+- Tract 1990: 53027001400
+- Place 2020: 
+- Place 2010: 32300
+- Place 2000: 32300
+- Place 1990: 0560
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 352369
+- Units: 60
+- Low-income units: 42
+- Units reported: 60
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 33
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LARGE FAMILY
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FAIRWIND APTS.
+- Record status: Existing, unchanged

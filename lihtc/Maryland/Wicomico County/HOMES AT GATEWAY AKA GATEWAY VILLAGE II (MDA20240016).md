@@ -1,0 +1,85 @@
+# Project: HOMES AT GATEWAY AKA GATEWAY VILLAGE II (MDA20240016)
+
+- HUD ID: MDA20240016
+- HUD ID before: 
+- Project: HOMES AT GATEWAY AKA GATEWAY VILLAGE II
+- Address: 939 GATEWAY STREET
+- City: SALISBURY
+- State: MD
+- ZIP: 21081
+- ZIP extension: 
+- State project ID: MD-98-06001-5
+- Latitude: 38.373495
+- Longitude: -75.614855
+- County FIPS: 24045
+- County from: 2020
+- Tract 2020: 24045010200
+- Tract 2010: 24045010200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69925
+- Place 2010: 69925
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 668299
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 44
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

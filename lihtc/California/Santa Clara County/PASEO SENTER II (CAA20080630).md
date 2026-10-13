@@ -1,0 +1,85 @@
+# Project: PASEO SENTER II (CAA20080630)
+
+- HUD ID: CAA20080630
+- HUD ID before: 
+- Project: PASEO SENTER II
+- Address: 1908 SENTER RD
+- City: SAN JOSE
+- State: CA
+- ZIP: 95112
+- ZIP extension: 
+- State project ID: CA-05-916
+- Latitude: 37.314881
+- Longitude: -121.854766
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085503122
+- Tract 2010: 06085503122
+- Tract 2000: 06085503103
+- Tract 1990: 06085503103
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 2510
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1307413
+- Units: 101
+- Low-income units: 99
+- Units reported: 101
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 46
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 99
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

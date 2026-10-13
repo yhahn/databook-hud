@@ -1,0 +1,85 @@
+# Project: SAN CRISTOBAL APTS (SAN JUAN) (PRA19990085)
+
+- HUD ID: PRA19990085
+- HUD ID before: 
+- Project: SAN CRISTOBAL APTS (SAN JUAN)
+- Address: 450 CALLE NORZAGARAY
+- City: SAN JUAN
+- State: PR
+- ZIP: 00901
+- ZIP extension: 
+- State project ID: 98-008
+- Latitude: 18.46773
+- Longitude: -66.11269
+- County FIPS: 72127
+- County from: 2020
+- Tract 2020: 72127000400
+- Tract 2010: 72127000400
+- Tract 2000: 72127000400
+- Tract 1990: 72127000400
+- Place 2020: 76770
+- Place 2010: 76770
+- Place 2000: 76770
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 155657
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 7
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA1999020.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SANDPEBBLE (FLA19980809)
+
+- HUD ID: FLA19980809
+- HUD ID before: 
+- Project: SANDPEBBLE
+- Address: 2700 52ND AVE N
+- City: ST PETERSBURG
+- State: FL
+- ZIP: 33714
+- ZIP extension: 
+- State project ID: 746
+- Latitude: 27.819134
+- Longitude: -82.669876
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103024603
+- Tract 2010: 12103024602
+- Tract 2000: 12103024602
+- Tract 1990: 12103024600
+- Place 2020: 39775
+- Place 2010: 39775
+- Place 2000: 63000
+- Place 1990: 1208
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

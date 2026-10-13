@@ -1,0 +1,85 @@
+# Project: GRAND MESA APTS OF FRUITA (COA20070050)
+
+- HUD ID: COA20070050
+- HUD ID before: 
+- Project: GRAND MESA APTS OF FRUITA
+- Address: 150 S SYCAMORE ST
+- City: FRUITA
+- State: CO
+- ZIP: 81521
+- ZIP extension: 
+- State project ID: 2005004
+- Latitude: 39.157963
+- Longitude: -108.724104
+- County FIPS: 08077
+- County from: 2020
+- Tract 2020: 08077001504
+- Tract 2010: 08077001501
+- Tract 2000: 08077001501
+- Tract 1990: 08077001500
+- Place 2020: 28745
+- Place 2010: 28745
+- Place 2000: 28745
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 138814
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

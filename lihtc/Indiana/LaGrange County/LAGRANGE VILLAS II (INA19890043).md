@@ -1,0 +1,85 @@
+# Project: LAGRANGE VILLAS II (INA19890043)
+
+- HUD ID: INA19890043
+- HUD ID before: 
+- Project: LAGRANGE VILLAS II
+- Address: 340 W FACTORY ST
+- City: LAGRANGE
+- State: IN
+- ZIP: 46761
+- ZIP extension: 
+- State project ID: IN-89-03301
+- Latitude: 41.645968
+- Longitude: -85.422599
+- County FIPS: 18087
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18087970200
+- Tract 2000: 18087970200
+- Tract 1990: 18087970200
+- Place 2020: 
+- Place 2010: 40860
+- Place 2000: 40860
+- Place 1990: 1295
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001135.
+- Record status: Existing, unchanged

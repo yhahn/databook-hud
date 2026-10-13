@@ -1,0 +1,85 @@
+# Project: ALBEMARLE CENTRAL SCHOOL APARTMENTS (NCA20160001)
+
+- HUD ID: NCA20160001
+- HUD ID before: 
+- Project: ALBEMARLE CENTRAL SCHOOL APARTMENTS
+- Address: 219 E NORTH STREET
+- City: ALBEMARLE
+- State: NC
+- ZIP: 28001
+- ZIP extension: 
+- State project ID: 9167524
+- Latitude: 35.352038
+- Longitude: -80.19579
+- County FIPS: 37167
+- County from: 2020
+- Tract 2020: 37167931204
+- Tract 2010: 37167931201
+- Tract 2000: 37167990400
+- Tract 1990: 37167990400
+- Place 2020: 00680
+- Place 2010: 00680
+- Place 2000: 00680
+- Place 1990: 0030
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 400500
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 6
+- 1-bedroom units: 41
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

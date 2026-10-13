@@ -1,0 +1,85 @@
+# Project: EAGLEWOOD APTS (AKA19970010)
+
+- HUD ID: AKA19970010
+- HUD ID before: 
+- Project: EAGLEWOOD APTS
+- Address: 1800 NORTHWOOD DR
+- City: JUNEAU
+- State: AK
+- ZIP: 99801
+- ZIP extension: 
+- State project ID: AK-96-00016
+- Latitude: 58.360365
+- Longitude: -134.509792
+- County FIPS: 02110
+- County from: 2020
+- Tract 2020: 02110000400
+- Tract 2010: 02110000400
+- Tract 2000: 02110000400
+- Tract 1990: 02110976900
+- Place 2020: 36400
+- Place 2010: 36400
+- Place 2000: 36400
+- Place 1990: 1510
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LOFTS AT PONEMAH MILLS (THE) (CTA20170001)
+
+- HUD ID: CTA20170001
+- HUD ID before: 
+- Project: LOFTS AT PONEMAH MILLS (THE)
+- Address: 607 NORWICH AVENUE
+- City: NORWICH
+- State: CT
+- ZIP: 06380
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.570545
+- Longitude: -72.048392
+- County FIPS: 09011
+- County from: 2020
+- Tract 2020: 09011696100
+- Tract 2010: 09011696100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 56200
+- Place 2010: 56200
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 430136
+- Units: 116
+- Low-income units: 70
+- Units reported: 116
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 66
+- 3-bedroom units: 3
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

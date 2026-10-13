@@ -1,0 +1,85 @@
+# Project: VILLA CAPRI APTS (INA20030146)
+
+- HUD ID: INA20030146
+- HUD ID before: 
+- Project: VILLA CAPRI APTS
+- Address: 2015 FOX POINT TRAIL
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46816
+- ZIP extension: 
+- State project ID: IN-01-03400
+- Latitude: 41.009661
+- Longitude: -85.109352
+- County FIPS: 18003
+- County from: 2020
+- Tract 2020: 18003011304
+- Tract 2010: 18003011304
+- Tract 2000: 18003011304
+- Tract 1990: 18003011304
+- Place 2020: 25000
+- Place 2010: 25000
+- Place 2000: 25000
+- Place 1990: 0825
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 91776
+- Units: 171
+- Low-income units: 171
+- Units reported: 171
+- Low-income reported: 171
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 86
+- 3-bedroom units: 55
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WHISPERING PINES APTS PHASE II (MIA20040330)
+
+- HUD ID: MIA20040330
+- HUD ID before: 
+- Project: WHISPERING PINES APTS PHASE II
+- Address: 60 SAUK RIVER DR
+- City: COLDWATER
+- State: MI
+- ZIP: 49036
+- ZIP extension: 
+- State project ID: MI-2303
+- Latitude: 41.933501
+- Longitude: -84.984657
+- County FIPS: 26023
+- County from: 2020
+- Tract 2020: 26023951400
+- Tract 2010: 26023951400
+- Tract 2000: 26023950700
+- Tract 1990: 26023950700
+- Place 2020: 17020
+- Place 2010: 17020
+- Place 2000: 17020
+- Place 1990: 0565
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

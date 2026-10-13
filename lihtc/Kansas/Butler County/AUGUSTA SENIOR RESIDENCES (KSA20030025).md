@@ -1,0 +1,85 @@
+# Project: AUGUSTA SENIOR RESIDENCES (KSA20030025)
+
+- HUD ID: KSA20030025
+- HUD ID before: 
+- Project: AUGUSTA SENIOR RESIDENCES
+- Address: 1515 CLUBHOUSE DR
+- City: AUGUSTA
+- State: KS
+- ZIP: 67010
+- ZIP extension: 
+- State project ID: 60198
+- Latitude: 37.690652
+- Longitude: -96.968586
+- County FIPS: 20015
+- County from: 2020
+- Tract 2020: 20015020700
+- Tract 2010: 20015020700
+- Tract 2000: 20015020700
+- Tract 1990: 20015020700
+- Place 2020: 03300
+- Place 2010: 03300
+- Place 2000: 03300
+- Place 1990: 0160
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 54532
+- Units: 48
+- Low-income units: 44
+- Units reported: 48
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2003131, KSA2003130. AKA COUNTRY CLUB TOWER.
+- Record status: Existing, unchanged

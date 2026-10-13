@@ -1,0 +1,85 @@
+# Project: COUNTRY CREEK APTS (OHA19960067)
+
+- HUD ID: OHA19960067
+- HUD ID before: 
+- Project: COUNTRY CREEK APTS
+- Address: 1500 COLLEGE DR
+- City: TOLEDO
+- State: OH
+- ZIP: 43607
+- ZIP extension: 
+- State project ID: OH-94-9210
+- Latitude: 41.655082
+- Longitude: -83.622849
+- County FIPS: 39095
+- County from: 2020
+- Tract 2020: 39095007501
+- Tract 2010: 39095007500
+- Tract 2000: 39095007500
+- Tract 1990: 39095007500
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 4265
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 317923
+- Units: 229
+- Low-income units: 229
+- Units reported: 229
+- Low-income reported: 229
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

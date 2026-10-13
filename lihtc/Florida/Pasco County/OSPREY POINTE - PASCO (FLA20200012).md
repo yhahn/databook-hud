@@ -1,0 +1,85 @@
+# Project: OSPREY POINTE - PASCO (FLA20200012)
+
+- HUD ID: FLA20200012
+- HUD ID before: 
+- Project: OSPREY POINTE - PASCO
+- Address: 12870 COURTYARD ESTATES BOULEVARD
+- City: DADE CITY
+- State: FL
+- ZIP: 33525
+- ZIP extension: 
+- State project ID: 3079
+- Latitude: 28.3686
+- Longitude: -82.2122
+- County FIPS: 12101
+- County from: 2020
+- Tract 2020: 12101032602
+- Tract 2010: 12101032500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 16125
+- Place 2010: 16125
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 860191
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 
+- 1-bedroom units: 18
+- 2-bedroom units: 62
+- 3-bedroom units: 30
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 110
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

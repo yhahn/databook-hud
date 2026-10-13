@@ -1,0 +1,85 @@
+# Project: BILLINGS PIONEER VILLAGE (OKA19930020)
+
+- HUD ID: OKA19930020
+- HUD ID before: 
+- Project: BILLINGS PIONEER VILLAGE
+- Address: 210 N BROADWAY
+- City: BILLINGS
+- State: OK
+- ZIP: 74630
+- ZIP extension: 
+- State project ID: 920005
+- Latitude: 36.530419
+- Longitude: -97.44513
+- County FIPS: 40103
+- County from: 2020
+- Tract 2020: 40103957100
+- Tract 2010: 40103957100
+- Tract 2000: 40103957100
+- Tract 1990: 40103956700
+- Place 2020: 06100
+- Place 2010: 06100
+- Place 2000: 06100
+- Place 1990: 0185
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HOBSON WAY FAMILY HOUSING (CAA19960055)
+
+- HUD ID: CAA19960055
+- HUD ID before: 
+- Project: HOBSON WAY FAMILY HOUSING
+- Address: 500 HOBSON WAY
+- City: OXNARD
+- State: CA
+- ZIP: 93030
+- ZIP extension: 
+- State project ID: CA-95-108
+- Latitude: 34.197685
+- Longitude: -119.187759
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111008601
+- Tract 2010: 06111008600
+- Tract 2000: 06111003402
+- Tract 1990: 06111003402
+- Place 2020: 54652
+- Place 2010: 54652
+- Place 2000: 54652
+- Place 1990: 2050
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 873525
+- Units: 64
+- Low-income units: 63
+- Units reported: 64
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 37
+- 4-bedroom units: 9
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CASA SAN JUAN.
+- Record status: Existing, unchanged

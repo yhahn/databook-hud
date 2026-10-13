@@ -1,0 +1,85 @@
+# Project: HILL TOP HOMES (TXA19910230)
+
+- HUD ID: TXA19910230
+- HUD ID before: 
+- Project: HILL TOP HOMES
+- Address: 3200 S CTR ST
+- City: ARLINGTON
+- State: TX
+- ZIP: 76014
+- ZIP extension: 
+- State project ID: TX6886
+- Latitude: 32.693724
+- Longitude: -97.108085
+- County FIPS: 48439
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48439111524
+- Tract 2000: 48439111524
+- Tract 1990: 48439111524
+- Place 2020: 
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0175
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 84
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

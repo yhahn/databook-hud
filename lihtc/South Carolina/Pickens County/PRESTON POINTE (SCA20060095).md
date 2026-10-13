@@ -1,0 +1,85 @@
+# Project: PRESTON POINTE (SCA20060095)
+
+- HUD ID: SCA20060095
+- HUD ID before: 
+- Project: PRESTON POINTE
+- Address: 201 TRAM LAW CT
+- City: CENTRAL
+- State: SC
+- ZIP: 29630
+- ZIP extension: 
+- State project ID: SC-04-062
+- Latitude: 34.69156
+- Longitude: -82.788811
+- County FIPS: 45077
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45077011203
+- Tract 2000: 45077011203
+- Tract 1990: 45077011203
+- Place 2020: 
+- Place 2010: 14950
+- Place 2000: 14950
+- Place 1990: 0275
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 355182
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: WITHDRAWN FROM PROGRAM.
+- Record status: Existing, unchanged

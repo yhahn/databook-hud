@@ -1,0 +1,85 @@
+# Project: BRICKGATE APARTMENTS (UTA20130002)
+
+- HUD ID: UTA20130002
+- HUD ID before: 
+- Project: BRICKGATE APARTMENTS
+- Address: 129 WEST FIRECLAY AVENUE
+- City: MURRAY
+- State: UT
+- ZIP: 84107
+- ZIP extension: 0000
+- State project ID: 2014-22
+- Latitude: 40.677804
+- Longitude: -111.895296
+- County FIPS: 49035
+- County from: 2020
+- Tract 2020: 49035112101
+- Tract 2010: 49035112100
+- Tract 2000: 49035112100
+- Tract 1990: 49035112100
+- Place 2020: 53230
+- Place 2010: 53230
+- Place 2000: 53230
+- Place 1990: 0640
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 885279
+- Units: 268
+- Low-income units: 267
+- Units reported: 268
+- Low-income reported: 267
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 133
+- 3-bedroom units: 87
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

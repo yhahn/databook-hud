@@ -1,0 +1,85 @@
+# Project: THE BRIA APARTMENTS (FKA146TH EAST WEST) (ORA20220006)
+
+- HUD ID: ORA20220006
+- HUD ID before: 
+- Project: THE BRIA APARTMENTS (FKA146TH EAST WEST)
+- Address: 20 NE 146TH AVENUE
+- City: PORTLAND
+- State: OR
+- ZIP: 97230
+- ZIP extension: 
+- State project ID: OR-21-11678
+- Latitude: 45.52259
+- Longitude: -122.512987
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051009302
+- Tract 2010: 41051009302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 116
+- Low-income units: 115
+- Units reported: 116
+- Low-income reported: 115
+- Efficiencies: 0
+- 1-bedroom units: 92
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

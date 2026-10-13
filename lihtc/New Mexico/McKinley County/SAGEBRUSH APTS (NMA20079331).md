@@ -1,0 +1,85 @@
+# Project: SAGEBRUSH APTS (NMA20079331)
+
+- HUD ID: NMA20079331
+- HUD ID before: 
+- Project: SAGEBRUSH APTS
+- Address: 650 DANI DRIVE
+- City: GALLUP
+- State: NM
+- ZIP: 87301
+- ZIP extension: 
+- State project ID: NM-06-3700
+- Latitude: 35.512609
+- Longitude: -108.763053
+- County FIPS: 35031
+- County from: 2020
+- Tract 2020: 35031945201
+- Tract 2010: 35031945200
+- Tract 2000: 35031945500
+- Tract 1990: 35031972500
+- Place 2020: 28460
+- Place 2010: 28460
+- Place 2000: 28460
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

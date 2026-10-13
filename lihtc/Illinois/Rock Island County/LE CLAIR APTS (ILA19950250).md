@@ -1,0 +1,85 @@
+# Project: LE CLAIR APTS (ILA19950250)
+
+- HUD ID: ILA19950250
+- HUD ID before: 
+- Project: LE CLAIR APTS
+- Address: 421 19TH ST
+- City: MOLINE
+- State: IL
+- ZIP: 61265
+- ZIP extension: 
+- State project ID: TC-93-602
+- Latitude: 41.508465
+- Longitude: -90.511456
+- County FIPS: 17161
+- County from: 2020
+- Tract 2020: 17161022300
+- Tract 2010: 17161022300
+- Tract 2000: 17161022300
+- Tract 1990: 17161022300
+- Place 2020: 49867
+- Place 2010: 49867
+- Place 2000: 49867
+- Place 1990: 3805
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 715940
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 68
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1995115. AKA LECLAIR APTS.
+- Record status: Existing, unchanged

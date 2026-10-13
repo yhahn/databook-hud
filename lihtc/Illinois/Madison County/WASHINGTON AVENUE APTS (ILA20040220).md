@@ -1,0 +1,85 @@
+# Project: WASHINGTON AVENUE APTS (ILA20040220)
+
+- HUD ID: ILA20040220
+- HUD ID before: 
+- Project: WASHINGTON AVENUE APTS
+- Address: 1530 MARKET ST
+- City: MADISON
+- State: IL
+- ZIP: 62060
+- ZIP extension: 
+- State project ID: 139802
+- Latitude: 38.677468
+- Longitude: -90.157489
+- County FIPS: 17119
+- County from: 2020
+- Tract 2020: 17119400600
+- Tract 2010: 17119400700
+- Tract 2000: 17119400700
+- Tract 1990: 17119400700
+- Place 2020: 45993
+- Place 2010: 77473
+- Place 2000: 77473
+- Place 1990: 5890
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 1282269
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

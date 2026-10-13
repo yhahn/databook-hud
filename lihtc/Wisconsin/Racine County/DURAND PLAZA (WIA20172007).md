@@ -1,0 +1,85 @@
+# Project: DURAND PLAZA (WIA20172007)
+
+- HUD ID: WIA20172007
+- HUD ID before: 
+- Project: DURAND PLAZA
+- Address: 3003 DURAND AVE
+- City: RACINE
+- State: WI
+- ZIP: 53403
+- ZIP extension: 
+- State project ID: 6291
+- Latitude: 42.696743
+- Longitude: -87.815951
+- County FIPS: 55101
+- County from: 2020
+- Tract 2020: 55101000800
+- Tract 2010: 55101000800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 234024
+- Units: 72
+- Low-income units: 2
+- Units reported: 72
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

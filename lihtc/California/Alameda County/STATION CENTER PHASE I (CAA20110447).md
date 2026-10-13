@@ -1,0 +1,85 @@
+# Project: STATION CENTER PHASE I (CAA20110447)
+
+- HUD ID: CAA20110447
+- HUD ID before: 
+- Project: STATION CENTER PHASE I
+- Address: 34888 11TH ST
+- City: UNION CITY
+- State: CA
+- ZIP: 94587
+- ZIP extension: 
+- State project ID: CA-09-830
+- Latitude: 37.590445
+- Longitude: -122.01529
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001440338
+- Tract 2010: 06001440335
+- Tract 2000: 06001440309
+- Tract 1990: 06001440309
+- Place 2020: 81204
+- Place 2010: 81204
+- Place 2000: 81204
+- Place 1990: 2985
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1155957
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 54
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 99
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA STATION CENTER.
+- Record status: Existing, unchanged

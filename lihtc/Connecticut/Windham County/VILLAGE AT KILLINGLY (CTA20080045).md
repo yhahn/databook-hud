@@ -1,0 +1,85 @@
+# Project: VILLAGE AT KILLINGLY (CTA20080045)
+
+- HUD ID: CTA20080045
+- HUD ID before: 
+- Project: VILLAGE AT KILLINGLY
+- Address: 501 LINDENWOOD DR
+- City: DAYVILLE
+- State: CT
+- ZIP: 06241
+- ZIP extension: 
+- State project ID: CT-06-009
+- Latitude: 41.844985
+- Longitude: -71.906915
+- County FIPS: 09015
+- County from: 2020
+- Tract 2020: 09015904400
+- Tract 2010: 09015904400
+- Tract 2000: 09015904400
+- Tract 1990: 09015904400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 18780
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 494272
+- Units: 116
+- Low-income units: 112
+- Units reported: 116
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 66
+- 3-bedroom units: 35
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA0000055. AKA DAYVILLE AFFORDABLE HOUSING.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VILLAGE AT FOX CREEK (TXA19990235)
+
+- HUD ID: TXA19990235
+- HUD ID before: 
+- Project: VILLAGE AT FOX CREEK
+- Address: 2900 ILLINOIS AVE
+- City: KILLEEN
+- State: TX
+- ZIP: 76543
+- ZIP extension: 
+- State project ID: TX1693
+- Latitude: 31.092648
+- Longitude: -97.710934
+- County FIPS: 48027
+- County from: 2020
+- Tract 2020: 48027022401
+- Tract 2010: 48027022401
+- Tract 2000: 48027022401
+- Tract 1990: 48027022400
+- Place 2020: 39148
+- Place 2010: 39148
+- Place 2000: 39148
+- Place 1990: 2230
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 128
+- Low-income units: 128
+- Units reported: 128
+- Low-income reported: 128
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA THE WILLIAMSBU
+- Record status: Existing, unchanged

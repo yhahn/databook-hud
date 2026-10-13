@@ -1,0 +1,85 @@
+# Project: HVM ALTA VISTA APTS (TXA00000040)
+
+- HUD ID: TXA00000040
+- HUD ID before: 
+- Project: HVM ALTA VISTA APTS
+- Address: 1001 PECAN VALLEY DR
+- City: MARBLE FALLS
+- State: TX
+- ZIP: 78654
+- ZIP extension: 
+- State project ID: 
+- Latitude: 30.562394
+- Longitude: -98.286494
+- County FIPS: 48053
+- County from: 2020
+- Tract 2020: 48053960701
+- Tract 2010: 48053960700
+- Tract 2000: 48053960700
+- Tract 1990: 48053960700
+- Place 2020: 46584
+- Place 2010: 46584
+- Place 2000: 46584
+- Place 1990: 2660
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 400528
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2936283
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

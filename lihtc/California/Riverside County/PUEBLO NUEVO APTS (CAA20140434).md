@@ -1,0 +1,85 @@
+# Project: PUEBLO NUEVO APTS (CAA20140434)
+
+- HUD ID: CAA20140434
+- HUD ID before: 
+- Project: PUEBLO NUEVO APTS
+- Address: 1492 ORCHARD AVE
+- City: COACHELLA
+- State: CA
+- ZIP: 92236
+- ZIP extension: 
+- State project ID: CA-12-137
+- Latitude: 33.676035
+- Longitude: -116.173083
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065045706
+- Tract 2010: 06065045706
+- Tract 2000: 06065045706
+- Tract 1990: 06065045701
+- Place 2020: 14260
+- Place 2010: 14260
+- Place 2000: 14260
+- Place 1990: 0555
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 222030
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 20
+- 4-bedroom units: 20
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 37
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: Yes
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

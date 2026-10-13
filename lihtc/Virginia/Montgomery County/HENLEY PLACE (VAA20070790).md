@@ -1,0 +1,85 @@
+# Project: HENLEY PLACE (VAA20070790)
+
+- HUD ID: VAA20070790
+- HUD ID before: 
+- Project: HENLEY PLACE
+- Address: 1215 SILVER LAKE RD
+- City: CHRISTIANSBURG
+- State: VA
+- ZIP: 24073
+- ZIP extension: 
+- State project ID: 9033
+- Latitude: 37.128433
+- Longitude: -80.43086
+- County FIPS: 51121
+- County from: 2020
+- Tract 2020: 51121021101
+- Tract 2010: 51121021100
+- Tract 2000: 51121021100
+- Tract 1990: 51121021100
+- Place 2020: 16608
+- Place 2010: 16608
+- Place 2000: 16608
+- Place 1990: 0260
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 524482
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 9
+- 3-bedroom units: 27
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2006111.
+- Record status: Existing, unchanged

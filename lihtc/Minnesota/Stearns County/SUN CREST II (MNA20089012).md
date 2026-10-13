@@ -1,0 +1,85 @@
+# Project: SUN CREST II (MNA20089012)
+
+- HUD ID: MNA20089012
+- HUD ID before: 
+- Project: SUN CREST II
+- Address: 503 SUNCREST DR
+- City: AVON
+- State: MN
+- ZIP: 56310
+- ZIP extension: 
+- State project ID: D0102
+- Latitude: 45.614963
+- Longitude: -94.450957
+- County FIPS: 27145
+- County from: 2020
+- Tract 2020: 27145010401
+- Tract 2010: 27145010401
+- Tract 2000: 27145010401
+- Tract 1990: 27145010401
+- Place 2020: 03070
+- Place 2010: 03070
+- Place 2000: 03070
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 31351
+- Units: 12
+- Low-income units: 11
+- Units reported: 12
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 9
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 149999
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BRICKSTONE APTS.
+- Record status: Existing, unchanged

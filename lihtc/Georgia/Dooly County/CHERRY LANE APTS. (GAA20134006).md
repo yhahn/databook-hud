@@ -1,0 +1,85 @@
+# Project: CHERRY LANE APTS. (GAA20134006)
+
+- HUD ID: GAA20134006
+- HUD ID before: 
+- Project: CHERRY LANE APTS.
+- Address: 616 CHERRY ST
+- City: UNADILLA
+- State: GA
+- ZIP: 31091
+- ZIP extension: 3773
+- State project ID: 2011-518
+- Latitude: 32.256521
+- Longitude: -83.733254
+- County FIPS: 13093
+- County from: 2020
+- Tract 2020: 13093970100
+- Tract 2010: 13093970100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 78156
+- Place 2010: 78156
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 40655
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

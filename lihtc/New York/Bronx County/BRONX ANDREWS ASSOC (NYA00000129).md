@@ -1,0 +1,85 @@
+# Project: BRONX ANDREWS ASSOC (NYA00000129)
+
+- HUD ID: NYA00000129
+- HUD ID before: 
+- Project: BRONX ANDREWS ASSOC
+- Address: 2341 ANDREWS AVE
+- City: BRONX
+- State: NY
+- ZIP: 10468
+- ZIP extension: 
+- State project ID: NY-90-0372_00113
+- Latitude: 40.862279
+- Longitude: -73.906856
+- County FIPS: 36005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36005025500
+- Tract 2000: 36005025500
+- Tract 1990: 36005025500
+- Place 2020: 
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 10
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001500.
+- Record status: Existing, unchanged

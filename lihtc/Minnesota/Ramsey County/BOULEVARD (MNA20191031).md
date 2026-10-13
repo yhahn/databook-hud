@@ -1,0 +1,85 @@
+# Project: BOULEVARD (MNA20191031)
+
+- HUD ID: MNA20191031
+- HUD ID before: 
+- Project: BOULEVARD
+- Address: 2901 MOUNDS VIEW BOULEVARD
+- City: MOUNDS VIEW
+- State: MN
+- ZIP: 55112
+- ZIP extension: 
+- State project ID: D8022
+- Latitude: 45.113588
+- Longitude: -93.222663
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123041001
+- Tract 2010: 27123041001
+- Tract 2000: 27053111400
+- Tract 1990: 27053011300
+- Place 2020: 44530
+- Place 2010: 44530
+- Place 2000: 43000
+- Place 1990: 2585
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 404859
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 9
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 497975
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

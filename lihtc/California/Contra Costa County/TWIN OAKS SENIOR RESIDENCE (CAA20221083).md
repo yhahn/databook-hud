@@ -1,0 +1,85 @@
+# Project: TWIN OAKS SENIOR RESIDENCE (CAA20221083)
+
+- HUD ID: CAA20221083
+- HUD ID before: 
+- Project: TWIN OAKS SENIOR RESIDENCE
+- Address: 2605 MAIN STREET
+- City: OAKLEY
+- State: CA
+- ZIP: 94561
+- ZIP extension: 
+- State project ID: CA-2020-426
+- Latitude: 37.997613
+- Longitude: -121.728742
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013302005
+- Tract 2010: 06013302005
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 53070
+- Place 2010: 53070
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1815929
+- Units: 130
+- Low-income units: 129
+- Units reported: 130
+- Low-income reported: 129
+- Efficiencies: 
+- 1-bedroom units: 98
+- 2-bedroom units: 32
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

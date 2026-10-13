@@ -1,0 +1,85 @@
+# Project: MEADOWLANE APTS REDEVELOPMENT (VTA20090035)
+
+- HUD ID: VTA20090035
+- HUD ID before: 
+- Project: MEADOWLANE APTS REDEVELOPMENT
+- Address: 36 VILLEMAIRE LN
+- City: MILTON
+- State: VT
+- ZIP: 05468
+- ZIP extension: 
+- State project ID: 0104
+- Latitude: 44.626604
+- Longitude: -73.113722
+- County FIPS: 50007
+- County from: 2020
+- Tract 2020: 50007002103
+- Tract 2010: 50007002102
+- Tract 2000: 50007002102
+- Tract 1990: 50007002100
+- Place 2020: 45175
+- Place 2010: 45175
+- Place 2000: 45175
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 326000
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: Yes
+- HOME amount: 362178
+- CDBG: Yes
+- CDBG amount: 322695
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VTA1987005. AKA MEADOWLANE APTS.
+- Record status: Existing, unchanged

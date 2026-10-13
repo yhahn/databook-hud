@@ -1,0 +1,85 @@
+# Project: VISTA VILLA (MIA19940195)
+
+- HUD ID: MIA19940195
+- HUD ID before: 
+- Project: VISTA VILLA
+- Address: 3622 HESS AVE
+- City: SAGINAW
+- State: MI
+- ZIP: 48601
+- ZIP extension: 
+- State project ID: MI-906
+- Latitude: 43.400201
+- Longitude: -83.916682
+- County FIPS: 26145
+- County from: 2020
+- Tract 2020: 26145011001
+- Tract 2010: 26145011000
+- Tract 2000: 26145011000
+- Tract 1990: 26145011000
+- Place 2020: 11555
+- Place 2010: 11555
+- Place 2000: 11555
+- Place 1990: 0363
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 66
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RANDALL COURT REDEVELOPMENT, LLC (WIA20170010)
+
+- HUD ID: WIA20170010
+- HUD ID before: 
+- Project: RANDALL COURT REDEVELOPMENT, LLC
+- Address: 218 E RANDALL ST
+- City: APPLETON
+- State: WI
+- ZIP: 54911
+- ZIP extension: 
+- State project ID: 6068
+- Latitude: 44.273985
+- Longitude: -88.403403
+- County FIPS: 55087
+- County from: 2020
+- Tract 2020: 55087011300
+- Tract 2010: 55087011300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02375
+- Place 2010: 02375
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 745000
+- Units: 118
+- Low-income units: 4
+- Units reported: 118
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 5
+- 3-bedroom units: 10
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

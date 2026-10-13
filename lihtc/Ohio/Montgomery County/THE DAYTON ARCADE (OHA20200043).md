@@ -1,0 +1,85 @@
+# Project: THE DAYTON ARCADE (OHA20200043)
+
+- HUD ID: OHA20200043
+- HUD ID before: 
+- Project: THE DAYTON ARCADE
+- Address: 34 W 4TH STREET
+- City: DAYTON
+- State: OH
+- ZIP: 45402
+- ZIP extension: 2025
+- State project ID: 180219
+- Latitude: 39.757855
+- Longitude: -84.192002
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113001501
+- Tract 2010: 39113001501
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 21000
+- Place 2010: 21000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 2250000
+- Units: 103
+- Low-income units: 103
+- Units reported: 103
+- Low-income reported: 103
+- Efficiencies: 0
+- 1-bedroom units: 78
+- 2-bedroom units: 16
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

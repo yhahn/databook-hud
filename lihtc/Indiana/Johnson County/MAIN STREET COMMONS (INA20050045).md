@@ -1,0 +1,85 @@
+# Project: MAIN STREET COMMONS (INA20050045)
+
+- HUD ID: INA20050045
+- HUD ID before: 
+- Project: MAIN STREET COMMONS
+- Address: 635 E MAIN ST
+- City: GREENWOOD
+- State: IN
+- ZIP: 46143
+- ZIP extension: 
+- State project ID: IN-03-01100
+- Latitude: 39.613857
+- Longitude: -86.093807
+- County FIPS: 18081
+- County from: 2020
+- Tract 2020: 18081610204
+- Tract 2010: 18081610202
+- Tract 2000: 18081610202
+- Tract 1990: 18081610202
+- Place 2020: 29898
+- Place 2010: 29898
+- Place 2000: 29898
+- Place 1990: 1010
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 458995
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

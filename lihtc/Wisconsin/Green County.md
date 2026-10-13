@@ -1,0 +1,24 @@
+# Tax Credit Projects: Green County, WI
+
+- Level: County
+- Postal code: WI
+- State FIPS: 55
+- County FIPS: 55045
+- Counties: 
+- Projects: 7
+- Units: 242
+- Low-income units: 137
+
+The low-income housing tax credit projects of Green County, Wisconsin, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [MONROE ELDERLY HOUSING (WIA19890145)](./Green%20County/MONROE%20ELDERLY%20HOUSING%20%28WIA19890145%29.md) | WIA19890145 | MONROE | 1989 | 22 | 22 |
+| [BROOK VIEW APTS (WIA19960015)](./Green%20County/BROOK%20VIEW%20APTS%20%28WIA19960015%29.md) | WIA19960015 | MONROE | 1996 | 24 | 24 |
+| [BROOK VIEW APTS II (WIA19970010)](./Green%20County/BROOK%20VIEW%20APTS%20II%20%28WIA19970010%29.md) | WIA19970010 | MONROE | 1997 | 18 | 18 |
+| [NEW GLARUS SCHOOL APTS (WIA19970115)](./Green%20County/NEW%20GLARUS%20SCHOOL%20APTS%20%28WIA19970115%29.md) | WIA19970115 | NEW GLARUS | 1997 | 24 | 16 |
+| [TWINING VALLEY APTS (WIA19970190)](./Green%20County/TWINING%20VALLEY%20APTS%20%28WIA19970190%29.md) | WIA19970190 | MONROE | 1997 | 24 | 24 |
+| [BRODHEAD SENIOR VILLAGE (WIA20060015)](./Green%20County/BRODHEAD%20SENIOR%20VILLAGE%20%28WIA20060015%29.md) | WIA20060015 | BRODHEAD | 2006 | 25 | 23 |
+| [SHELTER WI PROPERTIES (WIA20100963)](./Green%20County/SHELTER%20WI%20PROPERTIES%20%28WIA20100963%29.md) | WIA20100963 | ALBANY | 2010 | 105 | 10 |

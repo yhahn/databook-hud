@@ -1,0 +1,85 @@
+# Project: QUAIL COURT APTS (ORA20000085)
+
+- HUD ID: ORA20000085
+- HUD ID before: 
+- Project: QUAIL COURT APTS
+- Address: 800 S IMPERIAL AVE
+- City: BURNS
+- State: OR
+- ZIP: 97720
+- ZIP extension: 
+- State project ID: X001-328
+- Latitude: 43.578618
+- Longitude: -119.064372
+- County FIPS: 41025
+- County from: 2020
+- Tract 2020: 41025960101
+- Tract 2010: 41025960100
+- Tract 2000: 41025980100
+- Tract 1990: 41025980100
+- Place 2020: 09800
+- Place 2010: 09800
+- Place 2000: 09800
+- Place 1990: 0135
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 360000
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 14
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

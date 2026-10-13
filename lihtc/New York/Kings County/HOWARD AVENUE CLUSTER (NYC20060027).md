@@ -1,0 +1,85 @@
+# Project: HOWARD AVENUE CLUSTER (NYC20060027)
+
+- HUD ID: NYC20060027
+- HUD ID before: 
+- Project: HOWARD AVENUE CLUSTER
+- Address: 447 BAINBRIDGE ST
+- City: BROOKLYN
+- State: NY
+- ZIP: 11233
+- ZIP extension: 
+- State project ID: NY0602086
+- Latitude: 40.682529
+- Longitude: -73.918925
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047037700
+- Tract 2010: 36047037700
+- Tract 2000: 36047037700
+- Tract 1990: 36047037700
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 50769
+- Units: 7
+- Low-income units: 5
+- Units reported: 7
+- Low-income reported: 5
+- Efficiencies: 3
+- 1-bedroom units: 3
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 504244
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

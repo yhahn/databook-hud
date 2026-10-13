@@ -1,0 +1,85 @@
+# Project: HERITAGE PARK FKA BERRYVILLE APTS (ARA19980689)
+
+- HUD ID: ARA19980689
+- HUD ID before: 
+- Project: HERITAGE PARK FKA BERRYVILLE APTS
+- Address: 402 BOHANNON ST
+- City: BERRYVILLE
+- State: AR
+- ZIP: 72616
+- ZIP extension: 
+- State project ID: AR-96-49
+- Latitude: 36.360003
+- Longitude: -93.567162
+- County FIPS: 05015
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05015950300
+- Tract 2000: 05015950300
+- Tract 1990: 05015950300
+- Place 2020: 
+- Place 2010: 05560
+- Place 2000: 05560
+- Place 1990: 0180
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 105767
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1998016, ARA1996010. FKA BERRYVILLE APTS
+- Record status: Existing, unchanged

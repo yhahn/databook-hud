@@ -1,0 +1,85 @@
+# Project: THE REBUILDING LIVES CENTER (NEA20120801)
+
+- HUD ID: NEA20120801
+- HUD ID before: 
+- Project: THE REBUILDING LIVES CENTER
+- Address: 2020 AVE J E
+- City: OMAHA
+- State: NE
+- ZIP: 68110
+- ZIP extension: 
+- State project ID: 7-0751
+- Latitude: 41.283291
+- Longitude: -95.904547
+- County FIPS: 31055
+- County from: 2020
+- Tract 2020: 31055000500
+- Tract 2010: 31055000500
+- Tract 2000: 31055000500
+- Tract 1990: 31055000500
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 1825
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 659486
+- Units: 96
+- Low-income units: 93
+- Units reported: 96
+- Low-income reported: 93
+- Efficiencies: 96
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

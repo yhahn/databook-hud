@@ -1,0 +1,85 @@
+# Project: YAVAPAI-APACHE HOMES VI (AZA20170016)
+
+- HUD ID: AZA20170016
+- HUD ID before: 
+- Project: YAVAPAI-APACHE HOMES VI
+- Address: VARIOUS ALONG E. CHERRY CREEK RD., RIVER WAY, + WATER CIRCLE
+- City: CAMP VERDE
+- State: AZ
+- ZIP: 86322
+- ZIP extension: 8248
+- State project ID: TC-0859-16
+- Latitude: 34.6
+- Longitude: -111.9016
+- County FIPS: 04025
+- County from: 2020
+- Tract 2020: 04025001601
+- Tract 2010: 04025001601
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 09690
+- Place 2010: 09690
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 859200
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 30
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Households with Children
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

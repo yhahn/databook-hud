@@ -1,0 +1,85 @@
+# Project: CYPRESS RIDGE (CAA20040140)
+
+- HUD ID: CAA20040140
+- HUD ID before: 
+- Project: CYPRESS RIDGE
+- Address: 2239 MEDA AVE
+- City: SANTA ROSA
+- State: CA
+- ZIP: 95404
+- ZIP extension: 
+- State project ID: CA-02-175
+- Latitude: 38.419992
+- Longitude: -122.697818
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097151403
+- Tract 2010: 06097151401
+- Tract 2000: 06097151401
+- Tract 1990: 06097151400
+- Place 2020: 70098
+- Place 2010: 70098
+- Place 2000: 70098
+- Place 1990: 2615
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 1642481
+- Units: 122
+- Low-income units: 120
+- Units reported: 122
+- Low-income reported: 120
+- Efficiencies: 6
+- 1-bedroom units: 14
+- 2-bedroom units: 40
+- 3-bedroom units: 56
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

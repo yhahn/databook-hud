@@ -1,0 +1,85 @@
+# Project: HOUSING ENTERPRISES OF WABENO II (WIA19920115)
+
+- HUD ID: WIA19920115
+- HUD ID before: 
+- Project: HOUSING ENTERPRISES OF WABENO II
+- Address: 1769 MAPLE AVE
+- City: WABENO
+- State: WI
+- ZIP: 54566
+- ZIP extension: 
+- State project ID: 1150
+- Latitude: 45.437327
+- Longitude: -88.644987
+- County FIPS: 55041
+- County from: 2020
+- Tract 2020: 55041950200
+- Tract 2010: 55041950200
+- Tract 2000: 55041950200
+- Tract 1990: 55041950200
+- Place 2020: 83000
+- Place 2010: 83000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

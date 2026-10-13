@@ -1,0 +1,85 @@
+# Project: VIA DEL MAR (CAA20050655)
+
+- HUD ID: CAA20050655
+- HUD ID before: 
+- Project: VIA DEL MAR
+- Address: 124 W BEACH ST
+- City: WATSONVILLE
+- State: CA
+- ZIP: 95076
+- ZIP extension: 
+- State project ID: CA-04-822
+- Latitude: 36.909032
+- Longitude: -121.759066
+- County FIPS: 06087
+- County from: 2020
+- Tract 2020: 06087110401
+- Tract 2010: 06087110400
+- Tract 2000: 06087110400
+- Tract 1990: 06053014498
+- Place 2020: 83668
+- Place 2010: 83668
+- Place 2000: 83668
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 451413
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 20
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

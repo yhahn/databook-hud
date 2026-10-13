@@ -1,0 +1,85 @@
+# Project: HILLSBORO APTS (ILA20030065)
+
+- HUD ID: ILA20030065
+- HUD ID before: 
+- Project: HILLSBORO APTS
+- Address: 104 INDEPENDENCE DR
+- City: HILLSBORO
+- State: IL
+- ZIP: 62049
+- ZIP extension: 
+- State project ID: 137901
+- Latitude: 39.165369
+- Longitude: -89.481346
+- County FIPS: 17135
+- County from: 2020
+- Tract 2020: 17135957900
+- Tract 2010: 17135957900
+- Tract 2000: 17135957900
+- Tract 1990: 17135957900
+- Place 2020: 35047
+- Place 2010: 35047
+- Place 2000: 35047
+- Place 1990: 2610
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 189323
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

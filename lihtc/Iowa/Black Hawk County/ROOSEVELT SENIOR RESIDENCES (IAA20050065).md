@@ -1,0 +1,85 @@
+# Project: ROOSEVELT SENIOR RESIDENCES (IAA20050065)
+
+- HUD ID: IAA20050065
+- HUD ID before: 
+- Project: ROOSEVELT SENIOR RESIDENCES
+- Address: 200 E ARLINGTON ST
+- City: WATERLOO
+- State: IA
+- ZIP: 50703
+- ZIP extension: 
+- State project ID: 04-12
+- Latitude: 42.51823
+- Longitude: -92.336476
+- County FIPS: 19013
+- County from: 2020
+- Tract 2020: 19013001701
+- Tract 2010: 19013001701
+- Tract 2000: 19013001701
+- Tract 1990: 19013001701
+- Place 2020: 82425
+- Place 2010: 82425
+- Place 2000: 82425
+- Place 1990: 4455
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 234389
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ROOSEVELT HOUSING DEVELOPMENT.
+- Record status: Existing, unchanged

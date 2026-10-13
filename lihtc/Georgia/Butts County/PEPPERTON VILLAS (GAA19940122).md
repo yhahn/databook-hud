@@ -1,0 +1,85 @@
+# Project: PEPPERTON VILLAS (GAA19940122)
+
+- HUD ID: GAA19940122
+- HUD ID before: 
+- Project: PEPPERTON VILLAS
+- Address: 127 HARPER ST
+- City: JACKSON
+- State: GA
+- ZIP: 30233
+- ZIP extension: 
+- State project ID: 1993-008
+- Latitude: 33.29129
+- Longitude: -83.944497
+- County FIPS: 13035
+- County from: 2020
+- Tract 2020: 13035150201
+- Tract 2010: 13035150200
+- Tract 2000: 13035150200
+- Tract 1990: 13035150200
+- Place 2020: 41596
+- Place 2010: 41596
+- Place 2000: 30312
+- Place 1990: 1465
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1995220, GAA1994125. AKA CARRIAGE CROSSING.
+- Record status: Updated

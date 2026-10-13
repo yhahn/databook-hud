@@ -1,0 +1,85 @@
+# Project: TAYLOR FARMS (TXA20110832)
+
+- HUD ID: TXA20110832
+- HUD ID before: 
+- Project: TAYLOR FARMS
+- Address: 32 PINNACLE PARK BLVD
+- City: DALLAS
+- State: TX
+- ZIP: 
+- ZIP extension: 
+- State project ID: TX4653
+- Latitude: 32.7386
+- Longitude: -96.8868
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113019900
+- Tract 2010: 48113019900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 15796
+- Place 2010: 15796
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 88
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000575.
+- Record status: Existing, unchanged

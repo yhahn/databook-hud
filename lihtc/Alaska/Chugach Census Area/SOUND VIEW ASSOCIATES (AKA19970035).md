@@ -1,0 +1,85 @@
+# Project: SOUND VIEW ASSOCIATES (AKA19970035)
+
+- HUD ID: AKA19970035
+- HUD ID before: 
+- Project: SOUND VIEW ASSOCIATES
+- Address: 454 W. HANAGITA
+- City: VALDEZ
+- State: AK
+- ZIP: 99686
+- ZIP extension: 
+- State project ID: AK-97-00049
+- Latitude: 60.5803
+- Longitude: -147.6901
+- County FIPS: 02063
+- County from: 2020
+- Tract 2020: 02063000300
+- Tract 2010: 02261000300
+- Tract 2000: 02261000300
+- Tract 1990: 02261986200
+- Place 2020: 82200
+- Place 2010: 82200
+- Place 2000: 12970
+- Place 1990: 0820
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

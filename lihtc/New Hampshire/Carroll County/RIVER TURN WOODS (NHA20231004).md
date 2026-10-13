@@ -1,0 +1,85 @@
+# Project: RIVER TURN WOODS (NHA20231004)
+
+- HUD ID: NHA20231004
+- HUD ID before: 
+- Project: RIVER TURN WOODS
+- Address: 36 COUNCIL ROAD
+- City: CONWAY
+- State: NH
+- ZIP: 03813
+- ZIP extension: 
+- State project ID: NH-99-99
+- Latitude: 44.132
+- Longitude: -71.0506
+- County FIPS: 33003
+- County from: 2020
+- Tract 2020: 33003955302
+- Tract 2010: 33003955300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14580
+- Place 2010: 53860
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 800000
+- Units: 40
+- Low-income units: 30
+- Units reported: 40
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: Yes
+- Affordability years: 60
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2972000
+- CDBG: Yes
+- CDBG amount: 1740000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 700000
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: General Occupancy
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

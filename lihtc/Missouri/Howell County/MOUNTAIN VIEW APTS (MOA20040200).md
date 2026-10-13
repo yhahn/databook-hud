@@ -1,0 +1,85 @@
+# Project: MOUNTAIN VIEW APTS (MOA20040200)
+
+- HUD ID: MOA20040200
+- HUD ID before: 
+- Project: MOUNTAIN VIEW APTS
+- Address: 403 E JAMES ST
+- City: MOUNTAIN VIEW
+- State: MO
+- ZIP: 65548
+- ZIP extension: 
+- State project ID: 04-005
+- Latitude: 36.990539
+- Longitude: -91.698251
+- County FIPS: 29091
+- County from: 2020
+- Tract 2020: 29091090200
+- Tract 2010: 29091090200
+- Tract 2000: 29091990200
+- Tract 1990: 29091990200
+- Place 2020: 50438
+- Place 2010: 50438
+- Place 2000: 50438
+- Place 1990: 2960
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

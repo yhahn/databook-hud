@@ -1,0 +1,85 @@
+# Project: CEDAR RIDGE TOWNHOMES (TNA19940015)
+
+- HUD ID: TNA19940015
+- HUD ID before: 
+- Project: CEDAR RIDGE TOWNHOMES
+- Address: 101 MADISON DR
+- City: LA VERGNE
+- State: TN
+- ZIP: 37086
+- ZIP extension: 
+- State project ID: TN-93-021
+- Latitude: 36.000077
+- Longitude: -86.606207
+- County FIPS: 47149
+- County from: 2020
+- Tract 2020: 47149040812
+- Tract 2010: 47149040805
+- Tract 2000: 47149040803
+- Tract 1990: 47149040301
+- Place 2020: 41200
+- Place 2010: 41200
+- Place 2000: 41200
+- Place 1990: 1320
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 660845
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 150
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

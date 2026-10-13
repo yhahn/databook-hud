@@ -1,0 +1,85 @@
+# Project: VILLA VALLARTA (TXA19950440)
+
+- HUD ID: TXA19950440
+- HUD ID before: 
+- Project: VILLA VALLARTA
+- Address: 600 FAIRGROUND RD
+- City: RIO GRANDE CITY
+- State: TX
+- ZIP: 78582
+- ZIP extension: 
+- State project ID: TX1281
+- Latitude: 26.386785
+- Longitude: -98.830507
+- County FIPS: 48427
+- County from: 2020
+- Tract 2020: 48427950602
+- Tract 2010: 48427950600
+- Tract 2000: 48427950600
+- Tract 1990: 48427950600
+- Place 2020: 62168
+- Place 2010: 62168
+- Place 2000: 62168
+- Place 1990: 3555
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SULPHUR SPRINGS II (LAA20020070)
+
+- HUD ID: LAA20020070
+- HUD ID before: 
+- Project: SULPHUR SPRINGS II
+- Address: 700 HENNING DRIVE
+- City: SULPHUR
+- State: LA
+- ZIP: 70663
+- ZIP extension: 0000
+- State project ID: LA-00-077
+- Latitude: 30.218172
+- Longitude: -93.372345
+- County FIPS: 22019
+- County from: 2020
+- Tract 2020: 22019003000
+- Tract 2010: 22019003000
+- Tract 2000: 22019003000
+- Tract 1990: 22019003000
+- Place 2020: 73640
+- Place 2010: 73640
+- Place 2000: 73640
+- Place 1990: 1310
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 288671
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

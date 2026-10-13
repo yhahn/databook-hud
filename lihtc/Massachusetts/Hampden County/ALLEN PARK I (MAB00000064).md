@@ -1,0 +1,85 @@
+# Project: ALLEN PARK I (MAB00000064)
+
+- HUD ID: MAB00000064
+- HUD ID before: 
+- Project: ALLEN PARK I
+- Address: 251 ALLEN PARK RD
+- City: SPRINGFIELD
+- State: MA
+- ZIP: 01118
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.090548
+- Longitude: -72.50651
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013801605
+- Tract 2010: 25013801605
+- Tract 2000: 25013801605
+- Tract 1990: 25013801605
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 4090
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 170
+- Low-income units: 105
+- Units reported: 170
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 118
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

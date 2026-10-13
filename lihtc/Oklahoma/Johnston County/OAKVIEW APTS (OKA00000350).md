@@ -1,0 +1,85 @@
+# Project: OAKVIEW APTS (OKA00000350)
+
+- HUD ID: OKA00000350
+- HUD ID before: 
+- Project: OAKVIEW APTS
+- Address: RR 1 BOX 90
+- City: TISHOMINGO
+- State: OK
+- ZIP: 73460
+- ZIP extension: 
+- State project ID: OK-89-066
+- Latitude: 34.3335
+- Longitude: -96.6764
+- County FIPS: 40069
+- County from: 2020
+- Tract 2020: 40069660201
+- Tract 2010: 40069660200
+- Tract 2000: 40069990200
+- Tract 1990: 40069990200
+- Place 2020: 73900
+- Place 2010: 73900
+- Place 2000: 73900
+- Place 1990: 2445
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

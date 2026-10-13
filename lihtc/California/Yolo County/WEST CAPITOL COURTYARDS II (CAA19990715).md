@@ -1,0 +1,85 @@
+# Project: WEST CAPITOL COURTYARDS II (CAA19990715)
+
+- HUD ID: CAA19990715
+- HUD ID before: 
+- Project: WEST CAPITOL COURTYARDS II
+- Address: 2455 W CAPITOL AVE
+- City: WEST SACRAMENTO
+- State: CA
+- ZIP: 95691
+- ZIP extension: 
+- State project ID: CA-98-918
+- Latitude: 38.579303
+- Longitude: -121.543763
+- County FIPS: 06113
+- County from: 2020
+- Tract 2020: 06113010203
+- Tract 2010: 06113010203
+- Tract 2000: 06113010203
+- Tract 1990: 06113010203
+- Place 2020: 84816
+- Place 2010: 84816
+- Place 2000: 84816
+- Place 1990: 3098
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 344651
+- Units: 74
+- Low-income units: 74
+- Units reported: 74
+- Low-income reported: 74
+- Efficiencies: 3
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 16
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WEST CAPITOL COURTYARD II.
+- Record status: Existing, unchanged

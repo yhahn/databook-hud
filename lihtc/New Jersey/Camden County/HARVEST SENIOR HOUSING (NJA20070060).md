@@ -1,0 +1,85 @@
+# Project: HARVEST SENIOR HOUSING (NJA20070060)
+
+- HUD ID: NJA20070060
+- HUD ID before: 
+- Project: HARVEST SENIOR HOUSING
+- Address: 1115 GIBBSBORO ROAD
+- City: LINDENWOLD BORO
+- State: NJ
+- ZIP: 08021
+- ZIP extension: 
+- State project ID: NJ-2435-1
+- Latitude: 39.826482
+- Longitude: -74.973781
+- County FIPS: 34007
+- County from: 2020
+- Tract 2020: 34007607701
+- Tract 2010: 34007607701
+- Tract 2000: 34007607701
+- Tract 1990: 34007607700
+- Place 2020: 40440
+- Place 2010: 40440
+- Place 2000: 40440
+- Place 1990: 2445
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 91
+- Low-income units: 91
+- Units reported: 91
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 74
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2012899.
+- Record status: Existing, unchanged

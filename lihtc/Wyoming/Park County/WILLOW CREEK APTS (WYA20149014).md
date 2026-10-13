@@ -1,0 +1,85 @@
+# Project: WILLOW CREEK APTS (WYA20149014)
+
+- HUD ID: WYA20149014
+- HUD ID before: 
+- Project: WILLOW CREEK APTS
+- Address: 2730 COUGAR AVE
+- City: CODY
+- State: WY
+- ZIP: 82414
+- ZIP extension: 
+- State project ID: 13-006
+- Latitude: 44.529515
+- Longitude: -109.037123
+- County FIPS: 56029
+- County from: 2020
+- Tract 2020: 56029965402
+- Tract 2010: 56029965400
+- Tract 2000: 56029995400
+- Tract 1990: 56029995400
+- Place 2020: 15760
+- Place 2010: 15760
+- Place 2000: 15760
+- Place 1990: 0065
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 7
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

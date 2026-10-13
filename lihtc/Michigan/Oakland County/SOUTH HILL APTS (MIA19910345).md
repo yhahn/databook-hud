@@ -1,0 +1,85 @@
+# Project: SOUTH HILL APTS (MIA19910345)
+
+- HUD ID: MIA19910345
+- HUD ID before: 
+- Project: SOUTH HILL APTS
+- Address: 585 GWENDOLYN BLVD
+- City: MILFORD
+- State: MI
+- ZIP: 48381
+- ZIP extension: 
+- State project ID: MI-614
+- Latitude: 42.578507
+- Longitude: -83.597519
+- County FIPS: 26125
+- County from: 2020
+- Tract 2020: 26125132500
+- Tract 2010: 26125132500
+- Tract 2000: 26125132500
+- Tract 1990: 26125132500
+- Place 2020: 53960
+- Place 2010: 53960
+- Place 2000: 53960
+- Place 1990: 1780
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 64
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: REALLOCATION BUT NO INFO ON EARLIER RECORD.
+- Record status: Existing, unchanged

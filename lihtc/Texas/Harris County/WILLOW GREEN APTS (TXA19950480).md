@@ -1,0 +1,85 @@
+# Project: WILLOW GREEN APTS (TXA19950480)
+
+- HUD ID: TXA19950480
+- HUD ID before: 
+- Project: WILLOW GREEN APTS
+- Address: 8301 WILLOW PL DR N
+- City: HOUSTON
+- State: TX
+- ZIP: 77070
+- ZIP extension: 
+- State project ID: TX1200
+- Latitude: 29.96183
+- Longitude: -95.553891
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201552603
+- Tract 2010: 48201552601
+- Tract 2000: 48201552600
+- Tract 1990: 48201055122
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 77935
+- Units: 336
+- Low-income units: 336
+- Units reported: 336
+- Low-income reported: 336
+- Efficiencies: 0
+- 1-bedroom units: 88
+- 2-bedroom units: 168
+- 3-bedroom units: 80
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

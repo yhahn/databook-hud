@@ -1,0 +1,85 @@
+# Project: FIRST WARD PLACE RECAP PHASE I (NCA20230060)
+
+- HUD ID: NCA20230060
+- HUD ID before: 
+- Project: FIRST WARD PLACE RECAP PHASE I
+- Address: 501 EAST 8TH STREET
+- City: CHARLOTTE
+- State: NC
+- ZIP: 28202
+- ZIP extension: 
+- State project ID: 9272316
+- Latitude: 35.22692
+- Longitude: -80.834496
+- County FIPS: 37119
+- County from: 2020
+- Tract 2020: 37119000600
+- Tract 2010: 37119000600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 12000
+- Place 2010: 12000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 995656
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 33
+- 3-bedroom units: 23
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: AMERICAN HOUSE APTS (PAA19960015)
+
+- HUD ID: PAA19960015
+- HUD ID before: 
+- Project: AMERICAN HOUSE APTS
+- Address: 26 N MARKET ST
+- City: MECHANICSBURG
+- State: PA
+- ZIP: 17055
+- ZIP extension: 
+- State project ID: TC1995-0007
+- Latitude: 40.213911
+- Longitude: -77.008121
+- County FIPS: 42041
+- County from: 2020
+- Tract 2020: 42041011400
+- Tract 2010: 42041011400
+- Tract 2000: 42041011400
+- Tract 1990: 42041011400
+- Place 2020: 48376
+- Place 2010: 48376
+- Place 2000: 48376
+- Place 1990: 6353
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 102146
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

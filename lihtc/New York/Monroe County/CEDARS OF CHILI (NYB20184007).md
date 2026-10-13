@@ -1,0 +1,85 @@
+# Project: CEDARS OF CHILI (NYB20184007)
+
+- HUD ID: NYB20184007
+- HUD ID before: 
+- Project: CEDARS OF CHILI
+- Address: 002-014 BLUE SPRUCE DR
+- City: ROCHESTER
+- State: NY
+- ZIP: 14624
+- ZIP extension: 
+- State project ID: NY-15-2313
+- Latitude: 43.099267
+- Longitude: -77.752797
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055014602
+- Tract 2010: 36055014602
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1343458
+- Units: 321
+- Low-income units: 303
+- Units reported: 321
+- Low-income reported: 303
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 158
+- 3-bedroom units: 49
+- 4-bedroom units: 17
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

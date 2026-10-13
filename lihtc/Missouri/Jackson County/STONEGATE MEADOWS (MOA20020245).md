@@ -1,0 +1,85 @@
+# Project: STONEGATE MEADOWS (MOA20020245)
+
+- HUD ID: MOA20020245
+- HUD ID before: 
+- Project: STONEGATE MEADOWS
+- Address: 10413 E 42ND ST
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64133
+- ZIP extension: 
+- State project ID: 01-436
+- Latitude: 39.046223
+- Longitude: -94.455432
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095010702
+- Tract 2010: 29095010702
+- Tract 2000: 29095010702
+- Tract 1990: 29095010702
+- Place 2020: 38000
+- Place 2010: 38000
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 366
+- Low-income units: 364
+- Units reported: 366
+- Low-income reported: 364
+- Efficiencies: 0
+- 1-bedroom units: 98
+- 2-bedroom units: 161
+- 3-bedroom units: 90
+- 4-bedroom units: 17
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

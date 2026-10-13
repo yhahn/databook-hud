@@ -1,0 +1,85 @@
+# Project: MERRITT HERITAGE (TXA0000X049)
+
+- HUD ID: TXA0000X049
+- HUD ID before: 
+- Project: MERRITT HERITAGE
+- Address: 4700 WILLIAMS DRIVE
+- City: GEORGETOWN
+- State: TX
+- ZIP: 78633
+- ZIP extension: 
+- State project ID: TX5161
+- Latitude: 30.685238
+- Longitude: -97.721067
+- County FIPS: 48491
+- County from: 2020
+- Tract 2020: 48491020109
+- Tract 2010: 48491020109
+- Tract 2000: 48491020101
+- Tract 1990: 
+- Place 2020: 29336
+- Place 2010: 29336
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 
+- Units: 244
+- Low-income units: 122
+- Units reported: 244
+- Low-income reported: 122
+- Efficiencies: 24
+- 1-bedroom units: 98
+- 2-bedroom units: 122
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 63
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 4000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: PARKE PLACE APTS (INA20000055)
+
+- HUD ID: INA20000055
+- HUD ID before: 
+- Project: PARKE PLACE APTS
+- Address: 106 S MARKET ST
+- City: ROCKVILLE
+- State: IN
+- ZIP: 47872
+- ZIP extension: 
+- State project ID: IN-99-00900
+- Latitude: 39.762439
+- Longitude: -87.229385
+- County FIPS: 18121
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18121030300
+- Tract 2000: 18121030300
+- Tract 1990: 18121030300
+- Place 2020: 
+- Place 2010: 65520
+- Place 2000: 48132
+- Place 1990: 2190
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 2
+- 1-bedroom units: 13
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

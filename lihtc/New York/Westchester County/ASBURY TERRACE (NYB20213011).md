@@ -1,0 +1,85 @@
+# Project: ASBURY TERRACE (NYB20213011)
+
+- HUD ID: NYB20213011
+- HUD ID before: 
+- Project: ASBURY TERRACE
+- Address: ONE RIVER PLAZA
+- City: TARRYTOWN
+- State: NY
+- ZIP: 10591
+- ZIP extension: 
+- State project ID: NY-21-2736
+- Latitude: 41.077636
+- Longitude: -73.863635
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119011500
+- Tract 2010: 36119011500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 73176
+- Place 2010: 73176
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 347380
+- Units: 107
+- Low-income units: 56
+- Units reported: 107
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 25
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

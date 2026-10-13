@@ -1,0 +1,85 @@
+# Project: SUMMITWOODS II (CTA20110020)
+
+- HUD ID: CTA20110020
+- HUD ID before: 
+- Project: SUMMITWOODS II
+- Address: 15 MOPSIC CT
+- City: NORWICH
+- State: CT
+- ZIP: 06360
+- ZIP extension: 
+- State project ID: E-08-007
+- Latitude: 41.51935
+- Longitude: -72.085124
+- County FIPS: 09011
+- County from: 2020
+- Tract 2020: 09011696701
+- Tract 2010: 09011696700
+- Tract 2000: 09011696700
+- Tract 1990: 09011696700
+- Place 2020: 56200
+- Place 2010: 56200
+- Place 2000: 56200
+- Place 1990: 1650
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 542579
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3723294
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

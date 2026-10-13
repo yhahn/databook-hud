@@ -1,0 +1,85 @@
+# Project: NEW PROVIDENCE AFFORDABLE SENIOR HOUSING (NJA20120863)
+
+- HUD ID: NJA20120863
+- HUD ID before: 
+- Project: NEW PROVIDENCE AFFORDABLE SENIOR HOUSING
+- Address: 101 ACADEMY STREET
+- City: NEW PROVIDENCE BORO
+- State: NJ
+- ZIP: 07974
+- ZIP extension: 
+- State project ID: NJ-403
+- Latitude: 40.707448
+- Longitude: -74.404419
+- County FIPS: 34039
+- County from: 2020
+- Tract 2020: 34039038104
+- Tract 2010: 34039038102
+- Tract 2000: 34039038102
+- Tract 1990: 34039038102
+- Place 2020: 51810
+- Place 2010: 51810
+- Place 2000: 51810
+- Place 1990: 2925
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 202013
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1996080, NJA0000055.
+- Record status: Existing, unchanged

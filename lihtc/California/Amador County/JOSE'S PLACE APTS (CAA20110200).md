@@ -1,0 +1,85 @@
+# Project: JOSE'S PLACE APTS (CAA20110200)
+
+- HUD ID: CAA20110200
+- HUD ID before: 
+- Project: JOSE'S PLACE APTS
+- Address: 154 N ARROYO SECO ST
+- City: IONE
+- State: CA
+- ZIP: 95640
+- ZIP extension: 
+- State project ID: CA-09-575
+- Latitude: 38.354218
+- Longitude: -120.93222
+- County FIPS: 06005
+- County from: 2020
+- Tract 2020: 06005000303
+- Tract 2010: 06005000303
+- Tract 2000: 06005000302
+- Tract 1990: 06005000300
+- Place 2020: 36672
+- Place 2010: 36672
+- Place 2000: 36672
+- Place 1990: 1345
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 43
+- Units reported: 44
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1823620
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011599, CAA1988235.
+- Record status: Existing, unchanged

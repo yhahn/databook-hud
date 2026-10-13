@@ -1,0 +1,85 @@
+# Project: MADERA ARMS (CAA19910040)
+
+- HUD ID: CAA19910040
+- HUD ID before: 
+- Project: MADERA ARMS
+- Address: 1725 E CLEVELAND AVE
+- City: MADERA
+- State: CA
+- ZIP: 93638
+- ZIP extension: 
+- State project ID: CA-91-178
+- Latitude: 36.974729
+- Longitude: -120.044096
+- County FIPS: 06039
+- County from: 2020
+- Tract 2020: 06039000517
+- Tract 2010: 06039000508
+- Tract 2000: 06039000508
+- Tract 1990: 06039000505
+- Place 2020: 45022
+- Place 2010: 45022
+- Place 2000: 07379
+- Place 1990: 0296
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 123
+- Low-income units: 123
+- Units reported: 123
+- Low-income reported: 123
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 64
+- 3-bedroom units: 59
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

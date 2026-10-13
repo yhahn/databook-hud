@@ -1,0 +1,85 @@
+# Project: SIESTA POINTE (FLA19980808)
+
+- HUD ID: FLA19980808
+- HUD ID before: 
+- Project: SIESTA POINTE
+- Address: 5800 NW 186TH STREET
+- City: MIAMI
+- State: FL
+- ZIP: 33015
+- ZIP extension: 
+- State project ID: 772
+- Latitude: 25.942242
+- Longitude: -80.295578
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086011702
+- Tract 2010: 12086011700
+- Tract 2000: 12086010143
+- Tract 1990: 12025010007
+- Place 2020: 14895
+- Place 2010: 14895
+- Place 2000: 14895
+- Place 1990: 0295
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 1143269
+- Units: 392
+- Low-income units: 392
+- Units reported: 392
+- Low-income reported: 392
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 176
+- 3-bedroom units: 176
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

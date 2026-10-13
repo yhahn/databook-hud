@@ -1,0 +1,85 @@
+# Project: SUNNY ACRES (NMA20040042)
+
+- HUD ID: NMA20040042
+- HUD ID before: 
+- Project: SUNNY ACRES
+- Address: 2821 MOUNTAIN RD NW
+- City: ALBUQUERQUE
+- State: NM
+- ZIP: 87104
+- ZIP extension: 
+- State project ID: 33900
+- Latitude: 35.099544
+- Longitude: -106.680628
+- County FIPS: 35001
+- County from: 2020
+- Tract 2020: 35001004800
+- Tract 2010: 35001002500
+- Tract 2000: 35001002500
+- Tract 1990: 35001002500
+- Place 2020: 02000
+- Place 2010: 02000
+- Place 2000: 02000
+- Place 1990: 0015
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 118062
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 8
+- 3-bedroom units: 36
+- 4-bedroom units: 15
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NMA2003904.
+- Record status: Existing, unchanged

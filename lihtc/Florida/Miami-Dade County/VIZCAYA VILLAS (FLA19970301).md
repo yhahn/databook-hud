@@ -1,0 +1,85 @@
+# Project: VIZCAYA VILLAS (FLA19970301)
+
+- HUD ID: FLA19970301
+- HUD ID before: 
+- Project: VIZCAYA VILLAS
+- Address: 8005 NW EIGHTH ST
+- City: MIAMI
+- State: FL
+- ZIP: 33126
+- ZIP extension: 
+- State project ID: 907
+- Latitude: 25.77836
+- Longitude: -80.325799
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086009030
+- Tract 2010: 12086009030
+- Tract 2000: 12086009013
+- Tract 1990: 12025009004
+- Place 2020: 24562
+- Place 2010: 24562
+- Place 2000: 24562
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 174
+- Low-income units: 174
+- Units reported: 174
+- Low-income reported: 174
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 95
+- 3-bedroom units: 31
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1998190.
+- Record status: Existing, unchanged

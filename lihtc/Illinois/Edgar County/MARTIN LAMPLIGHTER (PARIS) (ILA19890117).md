@@ -1,0 +1,85 @@
+# Project: MARTIN LAMPLIGHTER (PARIS) (ILA19890117)
+
+- HUD ID: ILA19890117
+- HUD ID before: 
+- Project: MARTIN LAMPLIGHTER (PARIS)
+- Address: 526 NE BAYARD ST
+- City: PARIS
+- State: IL
+- ZIP: 61944
+- ZIP extension: 
+- State project ID: 227-89
+- Latitude: 39.611231
+- Longitude: -87.685555
+- County FIPS: 17045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17045070400
+- Tract 2000: 17045070400
+- Tract 1990: 17045070400
+- Place 2020: 
+- Place 2010: 57628
+- Place 2000: 57628
+- Place 1990: 4520
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 9706
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000615.
+- Record status: Existing, unchanged

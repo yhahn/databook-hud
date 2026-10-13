@@ -1,0 +1,85 @@
+# Project: 1933 DICKEY AVENUE (ILA19890082)
+
+- HUD ID: ILA19890082
+- HUD ID before: 
+- Project: 1933 DICKEY AVENUE
+- Address: 1933 DICKEY AVE
+- City: NORTH CHICAGO
+- State: IL
+- ZIP: 60064
+- ZIP extension: 
+- State project ID: 251-89
+- Latitude: 42.324116
+- Longitude: -87.857106
+- County FIPS: 17097
+- County from: 2020
+- Tract 2020: 17097863201
+- Tract 2010: 17097863201
+- Tract 2000: 17097863201
+- Tract 1990: 17097863201
+- Place 2020: 53559
+- Place 2010: 53559
+- Place 2000: 53559
+- Place 1990: 4195
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 1667
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000075.
+- Record status: Existing, unchanged

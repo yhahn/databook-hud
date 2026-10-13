@@ -1,0 +1,85 @@
+# Project: SILVER OAKS VILLAGE (FLA20050154)
+
+- HUD ID: FLA20050154
+- HUD ID before: 
+- Project: SILVER OAKS VILLAGE
+- Address: 3480 NE 48TH TER
+- City: SILVER SPRINGS
+- State: FL
+- ZIP: 34488
+- ZIP extension: 
+- State project ID: 1391
+- Latitude: 29.221157
+- Longitude: -82.067676
+- County FIPS: 12083
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12083001402
+- Tract 2000: 12083001402
+- Tract 1990: 12083001402
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 50750
+- Place 1990: 1545
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 260
+- Low-income units: 260
+- Units reported: 260
+- Low-income reported: 260
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 242
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

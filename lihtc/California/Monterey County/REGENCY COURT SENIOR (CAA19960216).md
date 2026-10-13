@@ -1,0 +1,85 @@
+# Project: REGENCY COURT SENIOR (CAA19960216)
+
+- HUD ID: CAA19960216
+- HUD ID before: 
+- Project: REGENCY COURT SENIOR
+- Address: 472 REGENCY CIR
+- City: SALINAS
+- State: CA
+- ZIP: 93906
+- ZIP extension: 
+- State project ID: CA-97-938
+- Latitude: 36.711706
+- Longitude: -121.649803
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053000103
+- Tract 2010: 06053000103
+- Tract 2000: 06053000103
+- Tract 1990: 06053000100
+- Place 2020: 64224
+- Place 2010: 64224
+- Place 2000: 64224
+- Place 1990: 2435
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 282969
+- Units: 119
+- Low-income units: 119
+- Units reported: 119
+- Low-income reported: 119
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

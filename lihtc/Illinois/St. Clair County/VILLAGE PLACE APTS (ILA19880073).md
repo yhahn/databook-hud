@@ -1,0 +1,85 @@
+# Project: VILLAGE PLACE APTS (ILA19880073)
+
+- HUD ID: ILA19880073
+- HUD ID before: 
+- Project: VILLAGE PLACE APTS
+- Address: 304 COOPER DR
+- City: CAHOKIA
+- State: IL
+- ZIP: 62206
+- ZIP extension: 
+- State project ID: 177-88
+- Latitude: 38.566804
+- Longitude: -90.177117
+- County FIPS: 17163
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17163502602
+- Tract 2000: 17163502602
+- Tract 1990: 17163502602
+- Place 2020: 
+- Place 2010: 10370
+- Place 2000: 10370
+- Place 1990: 0785
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 40961
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000023.
+- Record status: Existing, unchanged

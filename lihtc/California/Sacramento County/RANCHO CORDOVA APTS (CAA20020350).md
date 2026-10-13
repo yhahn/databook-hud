@@ -1,0 +1,85 @@
+# Project: RANCHO CORDOVA APTS (CAA20020350)
+
+- HUD ID: CAA20020350
+- HUD ID before: 
+- Project: RANCHO CORDOVA APTS
+- Address: 10685 COLOMA RD
+- City: RANCHO CORDOVA
+- State: CA
+- ZIP: 95670
+- ZIP extension: 
+- State project ID: CA-01-882
+- Latitude: 38.612495
+- Longitude: -121.290008
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067008913
+- Tract 2010: 06067008913
+- Tract 2000: 06067008913
+- Tract 1990: 06067008904
+- Place 2020: 59444
+- Place 2010: 59444
+- Place 2000: 59444
+- Place 1990: 2277
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 202874
+- Units: 95
+- Low-income units: 91
+- Units reported: 95
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 43
+- 3-bedroom units: 38
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARK VIEW AT WOODLAWN (MDA19990100)
+
+- HUD ID: MDA19990100
+- HUD ID before: 
+- Project: PARK VIEW AT WOODLAWN
+- Address: 2020 FEATHERBED LN
+- City: WOODLAWN
+- State: MD
+- ZIP: 21207
+- ZIP extension: 
+- State project ID: MD97-15
+- Latitude: 39.327516
+- Longitude: -76.738826
+- County FIPS: 24005
+- County from: 2020
+- Tract 2020: 24005402405
+- Tract 2010: 24005402405
+- Tract 2000: 24005402405
+- Tract 1990: 24005402405
+- Place 2020: 47450
+- Place 2010: 47450
+- Place 2000: 47450
+- Place 1990: 0579
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 101
+- Low-income units: 100
+- Units reported: 101
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 95
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

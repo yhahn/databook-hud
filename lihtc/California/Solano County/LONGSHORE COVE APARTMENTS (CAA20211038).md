@@ -1,0 +1,85 @@
+# Project: LONGSHORE COVE APARTMENTS (CAA20211038)
+
+- HUD ID: CAA20211038
+- HUD ID before: 
+- Project: LONGSHORE COVE APARTMENTS
+- Address: 201 MAINE STREET
+- City: VALLEJO
+- State: CA
+- ZIP: 94590
+- ZIP extension: 
+- State project ID: CA-2019-498
+- Latitude: 38.099262
+- Longitude: -122.25908
+- County FIPS: 06095
+- County from: 2020
+- Tract 2020: 06095250900
+- Tract 2010: 06095250900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 81666
+- Place 2010: 81666
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 3026654
+- Units: 236
+- Low-income units: 234
+- Units reported: 236
+- Low-income reported: 234
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 128
+- 3-bedroom units: 68
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 150
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: Previously listed as CAA19990345, CAA19990350
+- Record status: Existing, unchanged

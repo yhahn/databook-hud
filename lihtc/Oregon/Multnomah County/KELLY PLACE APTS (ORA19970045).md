@@ -1,0 +1,85 @@
+# Project: KELLY PLACE APTS (ORA19970045)
+
+- HUD ID: ORA19970045
+- HUD ID before: 
+- Project: KELLY PLACE APTS
+- Address: 1215 NE KELLY AVE
+- City: GRESHAM
+- State: OR
+- ZIP: 97030
+- ZIP extension: 
+- State project ID: X001-136A
+- Latitude: 45.505938
+- Longitude: -122.426228
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051010001
+- Tract 2010: 41051010001
+- Tract 2000: 41051010001
+- Tract 1990: 41051010000
+- Place 2020: 31250
+- Place 2010: 31250
+- Place 2000: 31250
+- Place 1990: 0465
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 181908
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 5
+- 3-bedroom units: 8
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

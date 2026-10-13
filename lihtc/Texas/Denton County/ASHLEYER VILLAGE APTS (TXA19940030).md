@@ -1,0 +1,85 @@
+# Project: ASHLEYER VILLAGE APTS (TXA19940030)
+
+- HUD ID: TXA19940030
+- HUD ID before: 
+- Project: ASHLEYER VILLAGE APTS
+- Address: 155 W OVERLY DR
+- City: LAKE DALLAS
+- State: TX
+- ZIP: 75065
+- ZIP extension: 
+- State project ID: TX-92-011
+- Latitude: 33.126472
+- Longitude: -97.030959
+- County FIPS: 48121
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48121021403
+- Tract 2000: 48121021403
+- Tract 1990: 48121021403
+- Place 2020: 
+- Place 2010: 40516
+- Place 2000: 16696
+- Place 1990: 2332
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 184
+- Units reported: 184
+- Low-income reported: 184
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 120
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

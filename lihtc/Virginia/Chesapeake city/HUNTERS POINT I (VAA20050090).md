@@ -1,0 +1,85 @@
+# Project: HUNTERS POINT I (VAA20050090)
+
+- HUD ID: VAA20050090
+- HUD ID before: 
+- Project: HUNTERS POINT I
+- Address: 4200 REID ST
+- City: CHESAPEAKE
+- State: VA
+- ZIP: 23324
+- ZIP extension: 
+- State project ID: 8819
+- Latitude: 36.781912
+- Longitude: -76.2722
+- County FIPS: 51550
+- County from: 2020
+- Tract 2020: 51550020700
+- Tract 2010: 51550020700
+- Tract 2000: 51550020700
+- Tract 1990: 51550020700
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0242
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 241399
+- Units: 124
+- Low-income units: 124
+- Units reported: 124
+- Low-income reported: 124
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 64
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WILMUND PARK APTS LLLP.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: STATELY MANOR APTS (MNA19880145)
+
+- HUD ID: MNA19880145
+- HUD ID before: 
+- Project: STATELY MANOR APTS
+- Address: 1535 DARLING DR
+- City: WORTHINGTON
+- State: MN
+- ZIP: 56187
+- ZIP extension: 
+- State project ID: MN-87033
+- Latitude: 43.636359
+- Longitude: -95.590665
+- County FIPS: 27105
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27105105400
+- Tract 2000: 27105990400
+- Tract 1990: 27105990400
+- Place 2020: 
+- Place 2010: 71734
+- Place 2000: 71734
+- Place 1990: 4190
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

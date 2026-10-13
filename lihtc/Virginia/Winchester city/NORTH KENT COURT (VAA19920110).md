@@ -1,0 +1,85 @@
+# Project: NORTH KENT COURT (VAA19920110)
+
+- HUD ID: VAA19920110
+- HUD ID before: 
+- Project: NORTH KENT COURT
+- Address: 431 W LN
+- City: WINCHESTER
+- State: VA
+- ZIP: 22601
+- ZIP extension: 
+- State project ID: 1066
+- Latitude: 39.188253
+- Longitude: -78.159947
+- County FIPS: 51840
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 51840000100
+- Tract 2000: 51840000100
+- Tract 1990: 51840000198
+- Place 2020: 
+- Place 2010: 86720
+- Place 2000: 86720
+- Place 1990: 1345
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 34944
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NORTH KENTURT APTS.
+- Record status: Existing, unchanged

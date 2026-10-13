@@ -1,0 +1,85 @@
+# Project: HERITAGE PARK 1A (MNB20039004)
+
+- HUD ID: MNB20039004
+- HUD ID before: 
+- Project: HERITAGE PARK 1A
+- Address: 1000 OLSON MEMORIAL HIGHWAY
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55411
+- ZIP extension: 4132
+- State project ID: D2961
+- Latitude: 44.984615
+- Longitude: -93.292497
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053103400
+- Tract 2010: 27053103400
+- Tract 2000: 27053103400
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 716951
+- Units: 120
+- Low-income units: 90
+- Units reported: 120
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 56
+- 3-bedroom units: 23
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: General Occupancy
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: GASTON AVENUE APARTMENTS (WVA20190002)
+
+- HUD ID: WVA20190002
+- HUD ID before: 
+- Project: GASTON AVENUE APARTMENTS
+- Address: 200 GASTON AVENUE
+- City: FAIRMONT
+- State: WV
+- ZIP: 26554
+- ZIP extension: 
+- State project ID: WV-17-18
+- Latitude: 39.480966
+- Longitude: -80.146057
+- County FIPS: 54049
+- County from: 2020
+- Tract 2020: 54049020100
+- Tract 2010: 54049020100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26452
+- Place 2010: 26452
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 310000
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 532000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

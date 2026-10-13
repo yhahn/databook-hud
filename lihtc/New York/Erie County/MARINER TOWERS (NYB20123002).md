@@ -1,0 +1,85 @@
+# Project: MARINER TOWERS (NYB20123002)
+
+- HUD ID: NYB20123002
+- HUD ID before: 
+- Project: MARINER TOWERS
+- Address: 186 EFNER ST
+- City: BUFFALO
+- State: NY
+- ZIP: 14201
+- ZIP extension: 
+- State project ID: NY-12-2097
+- Latitude: 42.893096
+- Longitude: -78.8904
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029007104
+- Tract 2010: 36029007101
+- Tract 2000: 36029007101
+- Tract 1990: 
+- Place 2020: 11000
+- Place 2010: 11000
+- Place 2000: 11000
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1588559
+- Units: 292
+- Low-income units: 292
+- Units reported: 292
+- Low-income reported: 292
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 114
+- 3-bedroom units: 94
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIPLEY MANOR (MSA19900136)
+
+- HUD ID: MSA19900136
+- HUD ID before: 
+- Project: RIPLEY MANOR
+- Address: 226 MARKET ST
+- City: RIPLEY
+- State: MS
+- ZIP: 38663
+- ZIP extension: 
+- State project ID: 
+- Latitude: 34.742412
+- Longitude: -88.948666
+- County FIPS: 28139
+- County from: 2020
+- Tract 2020: 28139950300
+- Tract 2010: 28139950300
+- Tract 2000: 28139950300
+- Tract 1990: 28139950300
+- Place 2020: 62600
+- Place 2010: 62600
+- Place 2000: 62600
+- Place 1990: 1110
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA0000625.
+- Record status: Existing, unchanged

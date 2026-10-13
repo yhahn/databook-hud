@@ -1,0 +1,85 @@
+# Project: WESTWIND VILLAGE APARTMENTS (MTA19950030)
+
+- HUD ID: MTA19950030
+- HUD ID before: 
+- Project: WESTWIND VILLAGE APARTMENTS
+- Address: 206 COOPER LANE
+- City: KALISPELL
+- State: MT
+- ZIP: 59901
+- ZIP extension: 0000
+- State project ID: 94010
+- Latitude: 48.202546
+- Longitude: -114.338842
+- County FIPS: 30029
+- County from: 2020
+- Tract 2020: 30029000901
+- Tract 2010: 30029000900
+- Tract 2000: 30029000900
+- Tract 1990: 30029000900
+- Place 2020: 40075
+- Place 2010: 40075
+- Place 2000: 40075
+- Place 1990: 0375
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 68533
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 31
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

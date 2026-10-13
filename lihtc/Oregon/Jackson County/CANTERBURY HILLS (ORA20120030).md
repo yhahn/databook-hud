@@ -1,0 +1,85 @@
+# Project: CANTERBURY HILLS (ORA20120030)
+
+- HUD ID: ORA20120030
+- HUD ID before: 
+- Project: CANTERBURY HILLS
+- Address: 3696 ARROWHEAD DR
+- City: MEDFORD
+- State: OR
+- ZIP: 97504
+- ZIP extension: 
+- State project ID: 2961
+- Latitude: 42.370068
+- Longitude: -122.850988
+- County FIPS: 41029
+- County from: 2020
+- Tract 2020: 41029001200
+- Tract 2010: 41029001200
+- Tract 2000: 41029001200
+- Tract 1990: 41029001200
+- Place 2020: 47000
+- Place 2010: 47000
+- Place 2000: 47000
+- Place 1990: 0720
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 870000
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 14
+- 1-bedroom units: 7
+- 2-bedroom units: 17
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 600000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

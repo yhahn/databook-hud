@@ -1,0 +1,85 @@
+# Project: DESOTO LANDING (FLA20070055)
+
+- HUD ID: FLA20070055
+- HUD ID before: 
+- Project: DESOTO LANDING
+- Address: 2019 SE HERON CV
+- City: ARCADIA
+- State: FL
+- ZIP: 34266
+- ZIP extension: 
+- State project ID: 1557
+- Latitude: 27.1824
+- Longitude: -81.8574
+- County FIPS: 12027
+- County from: 2020
+- Tract 2020: 12027010102
+- Tract 2010: 12027010301
+- Tract 2000: 12027980100
+- Tract 1990: 12027980100
+- Place 2020: 67355
+- Place 2010: 67355
+- Place 2000: 01750
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 431873
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 24
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS, FISHERMEN
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: KENSINGTON OF KISSIMMEE (FLA19990120)
+
+- HUD ID: FLA19990120
+- HUD ID before: 
+- Project: KENSINGTON OF KISSIMMEE
+- Address: 1700 KENYON CIR
+- City: KISSIMMEE
+- State: FL
+- ZIP: 34741
+- ZIP extension: 
+- State project ID: 409
+- Latitude: 28.324139
+- Longitude: -81.422874
+- County FIPS: 12097
+- County from: 2020
+- Tract 2020: 12097041900
+- Tract 2010: 12097041900
+- Tract 2000: 12097041900
+- Tract 1990: 12097040203
+- Place 2020: 36950
+- Place 2010: 36950
+- Place 2000: 36950
+- Place 1990: 1075
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 289
+- Low-income units: 289
+- Units reported: 289
+- Low-income reported: 289
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 121
+- 3-bedroom units: 108
+- 4-bedroom units: 36
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

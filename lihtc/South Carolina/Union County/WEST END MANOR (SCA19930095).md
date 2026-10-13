@@ -1,0 +1,85 @@
+# Project: WEST END MANOR (SCA19930095)
+
+- HUD ID: SCA19930095
+- HUD ID before: 
+- Project: WEST END MANOR
+- Address: 629 RICE AVE EXT
+- City: UNION
+- State: SC
+- ZIP: 29379
+- ZIP extension: 
+- State project ID: SC-92-013
+- Latitude: 34.719063
+- Longitude: -81.646122
+- County FIPS: 45087
+- County from: 2020
+- Tract 2020: 45087030100
+- Tract 2010: 45087030100
+- Tract 2000: 45087030100
+- Tract 1990: 45087030100
+- Place 2020: 73105
+- Place 2010: 73105
+- Place 2000: 73105
+- Place 1990: 1455
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 44920
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: THE LANDING APARTMENTS FKA. HOMESTEAD FAMILY (WIA20160014)
+
+- HUD ID: WIA20160014
+- HUD ID before: 
+- Project: THE LANDING APARTMENTS FKA. HOMESTEAD FAMILY
+- Address: 390 E COLOME ST
+- City: CHIPPEWA FALLS
+- State: WI
+- ZIP: 54729
+- ZIP extension: 
+- State project ID: 6092
+- Latitude: 44.911884
+- Longitude: -91.394042
+- County FIPS: 55017
+- County from: 2020
+- Tract 2020: 55017010700
+- Tract 2010: 55017010200
+- Tract 2000: 55017010500
+- Tract 1990: 
+- Place 2020: 14575
+- Place 2010: 14575
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 371487
+- Units: 40
+- Low-income units: 10
+- Units reported: 40
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 18
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 150000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

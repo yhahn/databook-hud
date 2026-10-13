@@ -1,0 +1,85 @@
+# Project: SOUTHLAWN APTS II (NEA19990120)
+
+- HUD ID: NEA19990120
+- HUD ID before: 
+- Project: SOUTHLAWN APTS II
+- Address: 1830 ADA ST
+- City: GRAND ISLAND
+- State: NE
+- ZIP: 68803
+- ZIP extension: 
+- State project ID: 67156
+- Latitude: 40.903717
+- Longitude: -98.369993
+- County FIPS: 31079
+- County from: 2020
+- Tract 2020: 31079000800
+- Tract 2010: 31079000800
+- Tract 2000: 31079000800
+- Tract 1990: 31079000800
+- Place 2020: 19595
+- Place 2010: 19595
+- Place 2000: 19595
+- Place 1990: 1045
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 14662
+- Units: 16
+- Low-income units: 7
+- Units reported: 16
+- Low-income reported: 7
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SOUTHLAWN APTS.
+- Record status: Existing, unchanged

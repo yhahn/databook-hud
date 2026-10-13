@@ -1,0 +1,85 @@
+# Project: HARVEST HILL APTS (MIA20020150)
+
+- HUD ID: MIA20020150
+- HUD ID before: 
+- Project: HARVEST HILL APTS
+- Address: 100 CHILDSDALE AVE NE
+- City: ROCKFORD
+- State: MI
+- ZIP: 49341
+- ZIP extension: 
+- State project ID: MI-1908
+- Latitude: 43.11722
+- Longitude: -85.570326
+- County FIPS: 26081
+- County from: 2020
+- Tract 2020: 26081010700
+- Tract 2010: 26081010700
+- Tract 2000: 26081010700
+- Tract 1990: 26081010700
+- Place 2020: 69080
+- Place 2010: 69080
+- Place 2000: 69080
+- Place 1990: 2325
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

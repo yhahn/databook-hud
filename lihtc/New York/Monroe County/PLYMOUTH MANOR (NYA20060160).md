@@ -1,0 +1,85 @@
+# Project: PLYMOUTH MANOR (NYA20060160)
+
+- HUD ID: NYA20060160
+- HUD ID before: 
+- Project: PLYMOUTH MANOR
+- Address: 787 EXCHANGE ST
+- City: ROCHESTER
+- State: NY
+- ZIP: 14608
+- ZIP extension: 
+- State project ID: 20040436
+- Latitude: 43.140961
+- Longitude: -77.61832
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055006500
+- Tract 2010: 36055006500
+- Tract 2000: 36055006500
+- Tract 1990: 36055006500
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 3100
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 802500
+- Units: 67
+- Low-income units: 67
+- Units reported: 67
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 30
+- 4-bedroom units: 17
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

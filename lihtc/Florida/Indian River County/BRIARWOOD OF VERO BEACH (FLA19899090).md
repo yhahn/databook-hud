@@ -1,0 +1,85 @@
+# Project: BRIARWOOD OF VERO BEACH (FLA19899090)
+
+- HUD ID: FLA19899090
+- HUD ID before: 
+- Project: BRIARWOOD OF VERO BEACH
+- Address: 4049 44TH MNR
+- City: VERO BEACH
+- State: FL
+- ZIP: 32967
+- ZIP extension: 
+- State project ID: 105
+- Latitude: 27.674708
+- Longitude: -80.424591
+- County FIPS: 12061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12061050302
+- Tract 2000: 12061050302
+- Tract 1990: 12061050302
+- Place 2020: 
+- Place 2010: 25925
+- Place 2000: 25925
+- Place 1990: 0735
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

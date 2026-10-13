@@ -1,0 +1,85 @@
+# Project: COSTA MIRADA (TXA20070100)
+
+- HUD ID: TXA20070100
+- HUD ID before: 
+- Project: COSTA MIRADA
+- Address: 9323 SOMERSET RD
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78211
+- ZIP extension: 
+- State project ID: TX4348
+- Latitude: 29.329894
+- Longitude: -98.572803
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029161000
+- Tract 2010: 48029161000
+- Tract 2000: 48029161000
+- Tract 1990: 48029161085
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3745
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 885339
+- Units: 212
+- Low-income units: 211
+- Units reported: 212
+- Low-income reported: 211
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 116
+- 3-bedroom units: 84
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

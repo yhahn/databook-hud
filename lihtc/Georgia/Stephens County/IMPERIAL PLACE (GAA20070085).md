@@ -1,0 +1,85 @@
+# Project: IMPERIAL PLACE (GAA20070085)
+
+- HUD ID: GAA20070085
+- HUD ID before: 
+- Project: IMPERIAL PLACE
+- Address: 130 ELLEN CT
+- City: TOCCOA
+- State: GA
+- ZIP: 30577
+- ZIP extension: 8736
+- State project ID: GA-05-033
+- Latitude: 34.560528
+- Longitude: -83.299383
+- County FIPS: 13257
+- County from: 2020
+- Tract 2020: 13257970302
+- Tract 2010: 13257970302
+- Tract 2000: 13257970300
+- Tract 1990: 13257970300
+- Place 2020: 76756
+- Place 2010: 76756
+- Place 2000: 76756
+- Place 1990: 2835
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 329432
+- Units: 60
+- Low-income units: 53
+- Units reported: 60
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MT OLIVET (PAA20040095)
+
+- HUD ID: PAA20040095
+- HUD ID before: 
+- Project: MT OLIVET
+- Address: 642 N 41ST ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19104
+- ZIP extension: 
+- State project ID: TC20020303
+- Latitude: 39.963681
+- Longitude: -75.205957
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101010600
+- Tract 2010: 42101010600
+- Tract 2000: 42101010600
+- Tract 1990: 42101010600
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 809981
+- Units: 161
+- Low-income units: 161
+- Units reported: 161
+- Low-income reported: 161
+- Efficiencies: 0
+- 1-bedroom units: 151
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

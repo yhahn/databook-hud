@@ -1,0 +1,85 @@
+# Project: VERDE VISTA APTS (AZA19980070)
+
+- HUD ID: AZA19980070
+- HUD ID before: 
+- Project: VERDE VISTA APTS
+- Address: 1720 E ELM ST
+- City: COTTONWOOD
+- State: AZ
+- ZIP: 86326
+- ZIP extension: 
+- State project ID: TC-0128
+- Latitude: 34.72152
+- Longitude: -112.007249
+- County FIPS: 04025
+- County from: 2020
+- Tract 2020: 04025002007
+- Tract 2010: 04025002004
+- Tract 2000: 04025002000
+- Tract 1990: 04025002000
+- Place 2020: 16410
+- Place 2010: 16410
+- Place 2000: 09690
+- Place 1990: 0074
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 42
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

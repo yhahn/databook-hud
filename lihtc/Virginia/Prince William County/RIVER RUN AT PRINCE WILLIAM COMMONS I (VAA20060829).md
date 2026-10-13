@@ -1,0 +1,85 @@
+# Project: RIVER RUN AT PRINCE WILLIAM COMMONS I (VAA20060829)
+
+- HUD ID: VAA20060829
+- HUD ID before: 
+- Project: RIVER RUN AT PRINCE WILLIAM COMMONS I
+- Address: 13910 HEDGEWOOD DR
+- City: WOODBRIDGE
+- State: VA
+- ZIP: 22193
+- ZIP extension: 
+- State project ID: 6434
+- Latitude: 38.651236
+- Longitude: -77.320074
+- County FIPS: 51153
+- County from: 2020
+- Tract 2020: 51153900403
+- Tract 2010: 51153900403
+- Tract 2000: 51153900403
+- Tract 1990: 51153900403
+- Place 2020: 21088
+- Place 2010: 21088
+- Place 2000: 21088
+- Place 1990: 0357
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 442226
+- Units: 200
+- Low-income units: 199
+- Units reported: 200
+- Low-income reported: 199
+- Efficiencies: 0
+- 1-bedroom units: 147
+- 2-bedroom units: 53
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1999225. AKA ACCOMACK MANOR.
+- Record status: Existing, unchanged

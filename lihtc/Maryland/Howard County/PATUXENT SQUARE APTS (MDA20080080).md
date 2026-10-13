@@ -1,0 +1,85 @@
+# Project: PATUXENT SQUARE APTS (MDA20080080)
+
+- HUD ID: MDA20080080
+- HUD ID before: 
+- Project: PATUXENT SQUARE APTS
+- Address: 9900 WASHINGTON BLVD N
+- City: LAUREL
+- State: MD
+- ZIP: 20723
+- ZIP extension: 
+- State project ID: MD06-15001
+- Latitude: 39.113792
+- Longitude: -76.834298
+- County FIPS: 24027
+- County from: 2020
+- Tract 2020: 24027606907
+- Tract 2010: 24027606907
+- Tract 2000: 24027606903
+- Tract 1990: 24027606903
+- Place 2020: 56725
+- Place 2010: 70525
+- Place 2000: 56725
+- Place 1990: 0692
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

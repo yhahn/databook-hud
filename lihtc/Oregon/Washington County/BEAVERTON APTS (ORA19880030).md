@@ -1,0 +1,85 @@
+# Project: BEAVERTON APTS (ORA19880030)
+
+- HUD ID: ORA19880030
+- HUD ID before: 
+- Project: BEAVERTON APTS
+- Address: 11815 SW FIFTH ST
+- City: BEAVERTON
+- State: OR
+- ZIP: 97005
+- ZIP extension: 
+- State project ID: OR88-187
+- Latitude: 45.482984
+- Longitude: -122.798722
+- County FIPS: 41067
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41067031100
+- Tract 2000: 41067031100
+- Tract 1990: 41067031100
+- Place 2020: 
+- Place 2010: 05350
+- Place 2000: 05350
+- Place 1990: 0095
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

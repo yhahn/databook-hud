@@ -1,0 +1,85 @@
+# Project: VILLAGE APTS OF EFFINGHAM II (ILA19980190)
+
+- HUD ID: ILA19980190
+- HUD ID before: 
+- Project: VILLAGE APTS OF EFFINGHAM II
+- Address: 101 E HENDELMEYER AVE
+- City: EFFINGHAM
+- State: IL
+- ZIP: 62401
+- ZIP extension: 
+- State project ID: TC-1008-96
+- Latitude: 39.103418
+- Longitude: -88.541724
+- County FIPS: 17049
+- County from: 2020
+- Tract 2020: 17049950600
+- Tract 2010: 17049950600
+- Tract 2000: 17049950600
+- Tract 1990: 17049959700
+- Place 2020: 22736
+- Place 2010: 22736
+- Place 2000: 22736
+- Place 1990: 5690
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 159745
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 14
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1998155.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BROOKSIDE VILLAGE (FARMINGTON) (MEA20140271)
+
+- HUD ID: MEA20140271
+- HUD ID before: 
+- Project: BROOKSIDE VILLAGE (FARMINGTON)
+- Address: 112 WILLOW SPRINGS DR
+- City: FARMINGTON
+- State: ME
+- ZIP: 04938
+- ZIP extension: 
+- State project ID: MSHARLP1542
+- Latitude: 44.682895
+- Longitude: -70.156504
+- County FIPS: 23007
+- County from: 2020
+- Tract 2020: 23007971202
+- Tract 2010: 23007971200
+- Tract 2000: 23007991200
+- Tract 1990: 23007991200
+- Place 2020: 24740
+- Place 2010: 24740
+- Place 2000: 24740
+- Place 1990: 1580
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 191840
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

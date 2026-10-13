@@ -1,0 +1,85 @@
+# Project: ENGLAND DRIVE SF HOUSING (LAA20080120)
+
+- HUD ID: LAA20080120
+- HUD ID before: 
+- Project: ENGLAND DRIVE SF HOUSING
+- Address: 2913 SUMMERWOOD LN
+- City: ALEXANDRIA
+- State: LA
+- ZIP: 71303
+- ZIP extension: 0000
+- State project ID: LA-06-333
+- Latitude: 31.314909
+- Longitude: -92.480723
+- County FIPS: 22079
+- County from: 2020
+- Tract 2020: 22079010502
+- Tract 2010: 22079010500
+- Tract 2000: 22079010500
+- Tract 1990: 22079010500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 00975
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 20505
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA2008115. AKA ENGLAND DRIVE SINGLE FAMILY HOUSING SUBDIVISION.;
+- Record status: Existing, unchanged

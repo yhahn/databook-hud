@@ -1,0 +1,85 @@
+# Project: JACKSON WOODS APARTMENTS (KYA20110681)
+
+- HUD ID: KYA20110681
+- HUD ID before: 
+- Project: JACKSON WOODS APARTMENTS
+- Address: SOUTH JACKSON ST.
+- City: LOUISVILLE
+- State: KY
+- ZIP: 40204
+- ZIP extension: 
+- State project ID: KY-09-072
+- Latitude: 38.2392
+- Longitude: -85.7269
+- County FIPS: 21111
+- County from: 2020
+- Tract 2020: 21111006400
+- Tract 2010: 21111006400
+- Tract 2000: 21111006400
+- Tract 1990: 21111006500
+- Place 2020: 48000
+- Place 2010: 48006
+- Place 2000: 
+- Place 1990: 1230
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 4351821
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 32
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

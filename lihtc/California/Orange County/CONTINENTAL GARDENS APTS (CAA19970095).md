@@ -1,0 +1,85 @@
+# Project: CONTINENTAL GARDENS APTS (CAA19970095)
+
+- HUD ID: CAA19970095
+- HUD ID before: 
+- Project: CONTINENTAL GARDENS APTS
+- Address: 8101 CERRITOS AVE
+- City: STANTON
+- State: CA
+- ZIP: 90680
+- ZIP extension: 
+- State project ID: CA-97-944
+- Latitude: 33.810345
+- Longitude: -117.99105
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059087803
+- Tract 2010: 06059087803
+- Tract 2000: 06059087803
+- Tract 1990: 06059087803
+- Place 2020: 73962
+- Place 2010: 73962
+- Place 2000: 02000
+- Place 1990: 2800
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 608416
+- Units: 298
+- Low-income units: 298
+- Units reported: 298
+- Low-income reported: 298
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 268
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

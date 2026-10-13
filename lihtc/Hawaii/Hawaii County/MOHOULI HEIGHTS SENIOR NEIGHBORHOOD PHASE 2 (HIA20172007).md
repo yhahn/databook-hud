@@ -1,0 +1,85 @@
+# Project: MOHOULI HEIGHTS SENIOR NEIGHBORHOOD PHASE 2 (HIA20172007)
+
+- HUD ID: HIA20172007
+- HUD ID before: 
+- Project: MOHOULI HEIGHTS SENIOR NEIGHBORHOOD PHASE 2
+- Address: 565 KUPUNA PLACE
+- City: HILO
+- State: HI
+- ZIP: 96720
+- ZIP extension: 
+- State project ID: HI-2015-003
+- Latitude: 19.703778
+- Longitude: -155.095662
+- County FIPS: 15001
+- County from: 2020
+- Tract 2020: 15001020802
+- Tract 2010: 15001020802
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14650
+- Place 2010: 14650
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 588800
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 
+- 1-bedroom units: 30
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

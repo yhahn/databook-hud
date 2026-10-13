@@ -1,0 +1,85 @@
+# Project: HONEYBROOK GREENE (OHA20100090)
+
+- HUD ID: OHA20100090
+- HUD ID before: 
+- Project: HONEYBROOK GREENE
+- Address: 194 PLEASANTVIEW DR
+- City: UTICA
+- State: OH
+- ZIP: 43080
+- ZIP extension: 
+- State project ID: 080132
+- Latitude: 40.24395
+- Longitude: -82.443733
+- County FIPS: 39089
+- County from: 2020
+- Tract 2020: 39089754700
+- Tract 2010: 39089754700
+- Tract 2000: 39089754700
+- Tract 1990: 39089754700
+- Place 2020: 79114
+- Place 2010: 79114
+- Place 2000: 69652
+- Place 1990: 4375
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

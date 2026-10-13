@@ -1,0 +1,85 @@
+# Project: OLD PUBLIC SCHOOL APT (TNA19910807)
+
+- HUD ID: TNA19910807
+- HUD ID before: 
+- Project: OLD PUBLIC SCHOOL APT
+- Address: 225 JACKSON AVE
+- City: LAWRENCEBURG
+- State: TN
+- ZIP: 38464
+- ZIP extension: 
+- State project ID: TN-90-006
+- Latitude: 35.236802
+- Longitude: -87.32966
+- County FIPS: 47099
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47099960402
+- Tract 2000: 47099960400
+- Tract 1990: 47099960400
+- Place 2020: 
+- Place 2010: 41340
+- Place 2000: 41340
+- Place 1990: 0785
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 110329
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1991155. AKA PUBLIC SCHOOL APTS.
+- Record status: Existing, unchanged

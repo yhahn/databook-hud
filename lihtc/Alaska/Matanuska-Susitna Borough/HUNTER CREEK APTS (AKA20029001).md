@@ -1,0 +1,85 @@
+# Project: HUNTER CREEK APTS (AKA20029001)
+
+- HUD ID: AKA20029001
+- HUD ID before: 
+- Project: HUNTER CREEK APTS
+- Address: 855 WEST FERN AVENUE
+- City: PALMER
+- State: AK
+- ZIP: 99645
+- ZIP extension: 
+- State project ID: AK-01-01
+- Latitude: 61.596391
+- Longitude: -149.130897
+- County FIPS: 02170
+- County from: 2020
+- Tract 2020: 02170001202
+- Tract 2010: 02170001202
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 58660
+- Place 2010: 58660
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 359165
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

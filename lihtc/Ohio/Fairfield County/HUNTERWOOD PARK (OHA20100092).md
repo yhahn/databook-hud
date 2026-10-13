@@ -1,0 +1,85 @@
+# Project: HUNTERWOOD PARK (OHA20100092)
+
+- HUD ID: OHA20100092
+- HUD ID before: 
+- Project: HUNTERWOOD PARK
+- Address: 330 TRACE DR
+- City: LANCASTER
+- State: OH
+- ZIP: 43130
+- ZIP extension: 
+- State project ID: 080164
+- Latitude: 39.709184
+- Longitude: -82.624149
+- County FIPS: 39045
+- County from: 2020
+- Tract 2020: 39045031600
+- Tract 2010: 39045031600
+- Tract 2000: 39045031600
+- Tract 1990: 39045031600
+- Place 2020: 41720
+- Place 2010: 41720
+- Place 2000: 41720
+- Place 1990: 2125
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 101
+- Low-income units: 101
+- Units reported: 101
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 31
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 61
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 600000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 814431
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2010830, OHA2009205.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PENDLEON PROPERTIES (SCA20120805)
+
+- HUD ID: SCA20120805
+- HUD ID before: 
+- Project: PENDLEON PROPERTIES
+- Address: 210 KIRK LN
+- City: PENDLETON
+- State: SC
+- ZIP: 29670
+- ZIP extension: 
+- State project ID: SC-11-019
+- Latitude: 34.641688
+- Longitude: -82.781056
+- County FIPS: 45007
+- County from: 2020
+- Tract 2020: 45007010701
+- Tract 2010: 45007010700
+- Tract 2000: 45007010700
+- Tract 1990: 45007010700
+- Place 2020: 55645
+- Place 2010: 55645
+- Place 2000: 14950
+- Place 1990: 1090
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 369181
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 18
+- 3-bedroom units: 8
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

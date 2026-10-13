@@ -1,0 +1,85 @@
+# Project: BAYVIEW TOWERS (CTA20123002)
+
+- HUD ID: CTA20123002
+- HUD ID before: 
+- Project: BAYVIEW TOWERS
+- Address: 300 TRESSER BOULEVARD
+- City: STAMFORD
+- State: CT
+- ZIP: 06901
+- ZIP extension: 
+- State project ID: CT-11-016
+- Latitude: 41.052923
+- Longitude: -73.533512
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001021702
+- Tract 2010: 09001021700
+- Tract 2000: 09001021700
+- Tract 1990: 
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 768139
+- Units: 200
+- Low-income units: 190
+- Units reported: 200
+- Low-income reported: 190
+- Efficiencies: 
+- 1-bedroom units: 40
+- 2-bedroom units: 120
+- 3-bedroom units: 32
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

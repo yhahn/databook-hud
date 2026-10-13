@@ -1,0 +1,85 @@
+# Project: FOUNTAIN RIDGE (COA19990050)
+
+- HUD ID: COA19990050
+- HUD ID before: 
+- Project: FOUNTAIN RIDGE
+- Address: 390 COMANCHE VILLAGE DR
+- City: FOUNTAIN
+- State: CO
+- ZIP: 80817
+- ZIP extension: 
+- State project ID: 970057
+- Latitude: 38.697188
+- Longitude: -104.699966
+- County FIPS: 08041
+- County from: 2020
+- Tract 2020: 08041004512
+- Tract 2010: 08041004508
+- Tract 2000: 08041004508
+- Tract 1990: 08041004508
+- Place 2020: 27865
+- Place 2010: 27865
+- Place 2000: 27865
+- Place 1990: 0475
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 17
+- Units reported: 36
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

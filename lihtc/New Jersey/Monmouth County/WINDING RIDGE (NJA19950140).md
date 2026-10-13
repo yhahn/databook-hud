@@ -1,0 +1,85 @@
+# Project: WINDING RIDGE (NJA19950140)
+
+- HUD ID: NJA19950140
+- HUD ID before: 
+- Project: WINDING RIDGE
+- Address: WINDING RIDGE CIRCLE
+- City: NEPTUNE TWP.
+- State: NJ
+- ZIP: 07753
+- ZIP extension: 
+- State project ID: NJ-400
+- Latitude: 40.2182
+- Longitude: -74.0608
+- County FIPS: 34025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 34025807800
+- Tract 2000: 34025807700
+- Tract 1990: 34025807700
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 728549
+- Units: 98
+- Low-income units: 97
+- Units reported: 98
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NEPTUNE VENTURE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: EAGLE'S VIEW APTS (OHA19940115)
+
+- HUD ID: OHA19940115
+- HUD ID before: 
+- Project: EAGLE'S VIEW APTS
+- Address: 5501 KENNEDY AVE
+- City: CINCINNATI
+- State: OH
+- ZIP: 45213
+- ZIP extension: 
+- State project ID: OH-92-6109
+- Latitude: 39.172435
+- Longitude: -84.419491
+- County FIPS: 39061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39061005702
+- Tract 2000: 39061005702
+- Tract 1990: 39061005702
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 498000
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 284 SOUTH COLUMBUS AVENUE (NYA19950040)
+
+- HUD ID: NYA19950040
+- HUD ID before: 
+- Project: 284 SOUTH COLUMBUS AVENUE
+- Address: 284 S COLUMBUS AVE
+- City: MT VERNON
+- State: NY
+- ZIP: 10553
+- ZIP extension: 
+- State project ID: 19931114
+- Latitude: 40.907189
+- Longitude: -73.821376
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119003300
+- Tract 2010: 36119003300
+- Tract 2000: 36119003300
+- Tract 1990: 36119003300
+- Place 2020: 49121
+- Place 2010: 49121
+- Place 2000: 49121
+- Place 1990: 2390
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 65
+- Units reported: 76
+- Low-income reported: 65
+- Efficiencies: 5
+- 1-bedroom units: 29
+- 2-bedroom units: 26
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

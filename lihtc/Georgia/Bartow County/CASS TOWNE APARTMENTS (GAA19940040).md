@@ -1,0 +1,85 @@
+# Project: CASS TOWNE APARTMENTS (GAA19940040)
+
+- HUD ID: GAA19940040
+- HUD ID before: 
+- Project: CASS TOWNE APARTMENTS
+- Address: 1341 CASSVILLE RD NW
+- City: CARTERSVILLE
+- State: GA
+- ZIP: 30120
+- ZIP extension: 4886
+- State project ID: GA-93-022
+- Latitude: 34.230029
+- Longitude: -84.856494
+- County FIPS: 13015
+- County from: 2020
+- Tract 2020: 13015960406
+- Tract 2010: 13015960402
+- Tract 2000: 13015960400
+- Tract 1990: 13015960400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 13688
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

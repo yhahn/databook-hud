@@ -1,0 +1,85 @@
+# Project: CAROLINA CRESENT AND CONNECTICUT CRESCENT (NJA20150007)
+
+- HUD ID: NJA20150007
+- HUD ID before: 
+- Project: CAROLINA CRESENT AND CONNECTICUT CRESCENT
+- Address: 1353 MEDITERRANEAN AVE
+- City: ATLANTIC CITY
+- State: NJ
+- ZIP: 08401
+- ZIP extension: 4523
+- State project ID: 02859
+- Latitude: 39.366664
+- Longitude: -74.430335
+- County FIPS: 34001
+- County from: 2020
+- Tract 2020: 34001001500
+- Tract 2010: 34001001500
+- Tract 2000: 34001001500
+- Tract 1990: 
+- Place 2020: 02080
+- Place 2010: 02080
+- Place 2000: 02080
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1497998
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

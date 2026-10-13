@@ -1,0 +1,85 @@
+# Project: SACRED HEART APTS (MAB20100060)
+
+- HUD ID: MAB20100060
+- HUD ID before: 
+- Project: SACRED HEART APTS
+- Address: 23 HAWLEY ST
+- City: LAWRENCE
+- State: MA
+- ZIP: 01843
+- ZIP extension: 
+- State project ID: 2265
+- Latitude: 42.689094
+- Longitude: -71.16019
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009251800
+- Tract 2010: 25009251800
+- Tract 2000: 25009251800
+- Tract 1990: 25009251800
+- Place 2020: 34550
+- Place 2010: 34550
+- Place 2000: 34550
+- Place 1990: 2030
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 922573
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

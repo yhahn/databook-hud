@@ -1,0 +1,85 @@
+# Project: BIG CEDAR APARTMENTS (ARA20040005)
+
+- HUD ID: ARA20040005
+- HUD ID before: 
+- Project: BIG CEDAR APARTMENTS
+- Address: 315 N INDUSTRIAL PARK RD
+- City: HARRISON
+- State: AR
+- ZIP: 72601
+- ZIP extension: 
+- State project ID: AR-03-28-001
+- Latitude: 36.25196
+- Longitude: -93.141792
+- County FIPS: 05009
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05009790501
+- Tract 2000: 05009990500
+- Tract 1990: 05009990500
+- Place 2020: 
+- Place 2010: 30460
+- Place 2000: 30460
+- Place 1990: 0905
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 100517
+- Units: 44
+- Low-income units: 43
+- Units reported: 44
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

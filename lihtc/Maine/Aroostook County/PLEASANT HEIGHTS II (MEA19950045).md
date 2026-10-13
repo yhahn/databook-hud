@@ -1,0 +1,85 @@
+# Project: PLEASANT HEIGHTS II (MEA19950045)
+
+- HUD ID: MEA19950045
+- HUD ID before: 
+- Project: PLEASANT HEIGHTS II
+- Address: 3 THIBODEAU ST
+- City: FORT KENT
+- State: ME
+- ZIP: 04743
+- ZIP extension: 
+- State project ID: ME36-H017-058
+- Latitude: 47.247193
+- Longitude: -68.599051
+- County FIPS: 23003
+- County from: 2020
+- Tract 2020: 23003950600
+- Tract 2010: 23003950600
+- Tract 2000: 23003950600
+- Tract 1990: 23003950600
+- Place 2020: 25720
+- Place 2010: 25720
+- Place 2000: 25720
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

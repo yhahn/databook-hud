@@ -1,0 +1,85 @@
+# Project: PARK CREST TERRACE APTS (PAA00000198)
+
+- HUD ID: PAA00000198
+- HUD ID before: 
+- Project: PARK CREST TERRACE APTS
+- Address: 1400 MARTIN ST
+- City: STATE COLLEGE
+- State: PA
+- ZIP: 16803
+- ZIP extension: 
+- State project ID: TC19930066
+- Latitude: 40.802775
+- Longitude: -77.888775
+- County FIPS: 42027
+- County from: 2020
+- Tract 2020: 42027011503
+- Tract 2010: 42027011502
+- Tract 2000: 42027011500
+- Tract 1990: 42027011500
+- Place 2020: 58036
+- Place 2010: 58036
+- Place 2000: 58036
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

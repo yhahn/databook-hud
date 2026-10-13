@@ -1,0 +1,85 @@
+# Project: LANTERN PARK APTS (TAMA) (IAA19930120)
+
+- HUD ID: IAA19930120
+- HUD ID before: 
+- Project: LANTERN PARK APTS (TAMA)
+- Address: 1301 SESAME DR
+- City: TAMA
+- State: IA
+- ZIP: 52339
+- ZIP extension: 
+- State project ID: 92-34
+- Latitude: 41.971323
+- Longitude: -92.589559
+- County FIPS: 19171
+- County from: 2020
+- Tract 2020: 19171290500
+- Tract 2010: 19171290500
+- Tract 2000: 19171990500
+- Tract 1990: 19171990500
+- Place 2020: 77115
+- Place 2010: 77115
+- Place 2000: 77115
+- Place 1990: 4185
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 31254
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TAMA IHA APTS.
+- Record status: Existing, unchanged

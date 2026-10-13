@@ -1,0 +1,85 @@
+# Project: REFLECTIONS AT BLUESTONE SENIORS HOUSING CAMPUS I (INA20120125)
+
+- HUD ID: INA20120125
+- HUD ID before: 
+- Project: REFLECTIONS AT BLUESTONE SENIORS HOUSING CAMPUS I
+- Address: 1419 N BLUE RD
+- City: GREENFIELD
+- State: IN
+- ZIP: 46140
+- ZIP extension: 
+- State project ID: IN-10-10900
+- Latitude: 39.805767
+- Longitude: -85.746577
+- County FIPS: 18059
+- County from: 2020
+- Tract 2020: 18059410302
+- Tract 2010: 18059410300
+- Tract 2000: 18059410300
+- Tract 1990: 18059410300
+- Place 2020: 29520
+- Place 2010: 29520
+- Place 2000: 29520
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 2296005
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 12
+- 1-bedroom units: 30
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 3324386
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2012120, INA2012115.
+- Record status: Existing, unchanged

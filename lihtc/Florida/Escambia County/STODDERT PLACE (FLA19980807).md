@@ -1,0 +1,85 @@
+# Project: STODDERT PLACE (FLA19980807)
+
+- HUD ID: FLA19980807
+- HUD ID before: 
+- Project: STODDERT PLACE
+- Address: 150 TIGER LILY DR
+- City: PENSACOLA
+- State: FL
+- ZIP: 32506
+- ZIP extension: 
+- State project ID: 809
+- Latitude: 30.369731
+- Longitude: -87.357251
+- County FIPS: 12033
+- County from: 2020
+- Tract 2020: 12033002605
+- Tract 2010: 12033002605
+- Tract 2000: 12033002600
+- Tract 1990: 12033002601
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 538840
+- Units: 320
+- Low-income units: 252
+- Units reported: 320
+- Low-income reported: 252
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 129
+- 3-bedroom units: 167
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2200000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

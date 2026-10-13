@@ -1,0 +1,85 @@
+# Project: BAYONNE SENIOR RESIDENCE (NJA20120939)
+
+- HUD ID: NJA20120939
+- HUD ID before: 
+- Project: BAYONNE SENIOR RESIDENCE
+- Address: 44 WEST 32ND STREET
+- City: BAYONNE
+- State: NJ
+- ZIP: 07002
+- ZIP extension: 
+- State project ID: NJ-99-61
+- Latitude: 40.671907
+- Longitude: -74.114379
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017010400
+- Tract 2010: 34017010400
+- Tract 2000: 34017010400
+- Tract 1990: 34017010400
+- Place 2020: 03580
+- Place 2010: 03580
+- Place 2000: 03580
+- Place 1990: 1135
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 177037
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2001115, NJA2001010.
+- Record status: Existing, unchanged

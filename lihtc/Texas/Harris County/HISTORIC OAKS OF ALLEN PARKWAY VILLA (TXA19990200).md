@@ -1,0 +1,85 @@
+# Project: HISTORIC OAKS OF ALLEN PARKWAY VILLA (TXA19990200)
+
+- HUD ID: TXA19990200
+- HUD ID before: 
+- Project: HISTORIC OAKS OF ALLEN PARKWAY VILLA
+- Address: 1600 ALLEN PKWY
+- City: HOUSTON
+- State: TX
+- ZIP: 77019
+- ZIP extension: 
+- State project ID: TX1748
+- Latitude: 29.761347
+- Longitude: -95.383102
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201410102
+- Tract 2010: 48201410100
+- Tract 2000: 48201410100
+- Tract 1990: 48201040026
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 155
+- Low-income units: 155
+- Units reported: 155
+- Low-income reported: 155
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HISTORIC OAKS OF ALLEN PKWY VILLAGE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COUNTRYSIDE TOWNHOUSES (MNA19870055)
+
+- HUD ID: MNA19870055
+- HUD ID before: 
+- Project: COUNTRYSIDE TOWNHOUSES
+- Address: 1305 JOHNSON ST
+- City: FAIRMONT
+- State: MN
+- ZIP: 56031
+- ZIP extension: 
+- State project ID: MN-87-043
+- Latitude: 43.637804
+- Longitude: -94.444895
+- County FIPS: 27091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27091790600
+- Tract 2000: 27091990600
+- Tract 1990: 27091990600
+- Place 2020: 
+- Place 2010: 20330
+- Place 2000: 20330
+- Place 1990: 1240
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

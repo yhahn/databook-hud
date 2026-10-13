@@ -1,0 +1,85 @@
+# Project: FOUR SEASONS AT HAWTHORNE (INA20060078)
+
+- HUD ID: INA20060078
+- HUD ID before: 
+- Project: FOUR SEASONS AT HAWTHORNE
+- Address: 2115 N HAWTHORNE LN
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46218
+- ZIP extension: 
+- State project ID: IN-05-00200
+- Latitude: 39.7969
+- Longitude: -86.078376
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097360101
+- Tract 2010: 18097360101
+- Tract 2000: 18097360101
+- Tract 1990: 18097360101
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 598200
+- Units: 60
+- Low-income units: 53
+- Units reported: 60
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA 21ST STREET SENIORS
+- Record status: Existing, unchanged

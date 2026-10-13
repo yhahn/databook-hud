@@ -1,0 +1,85 @@
+# Project: SHIPS WATCH/RIVER'S EDGE (MAB19880130)
+
+- HUD ID: MAB19880130
+- HUD ID before: 
+- Project: SHIPS WATCH/RIVER'S EDGE
+- Address: 4001 N MAIN ST
+- City: FALL RIVER
+- State: MA
+- ZIP: 02720
+- ZIP extension: 
+- State project ID: 10161
+- Latitude: 41.749575
+- Longitude: -71.123466
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005642500
+- Tract 2010: 25005642500
+- Tract 2000: 25005642500
+- Tract 1990: 25005642500
+- Place 2020: 23000
+- Place 2010: 23000
+- Place 2000: 23000
+- Place 1990: 1220
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 99
+- Low-income units: 20
+- Units reported: 99
+- Low-income reported: 20
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

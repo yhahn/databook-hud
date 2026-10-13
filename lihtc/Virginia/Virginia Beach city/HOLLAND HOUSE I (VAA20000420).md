@@ -1,0 +1,85 @@
+# Project: HOLLAND HOUSE I (VAA20000420)
+
+- HUD ID: VAA20000420
+- HUD ID before: 
+- Project: HOLLAND HOUSE I
+- Address: 721 CHIMNEY HILL PKWY
+- City: VIRGINIA BEACH
+- State: VA
+- ZIP: 23462
+- ZIP extension: 
+- State project ID: 6537
+- Latitude: 36.813124
+- Longitude: -76.10284
+- County FIPS: 51810
+- County from: 2020
+- Tract 2020: 51810045809
+- Tract 2010: 51810045809
+- Tract 2000: 51810045809
+- Tract 1990: 51810045804
+- Place 2020: 82000
+- Place 2010: 82000
+- Place 2000: 82000
+- Place 1990: 1280
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 459820
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 52
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1999120.
+- Record status: Existing, unchanged

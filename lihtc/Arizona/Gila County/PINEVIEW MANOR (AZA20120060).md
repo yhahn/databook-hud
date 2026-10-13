@@ -1,0 +1,85 @@
+# Project: PINEVIEW MANOR (AZA20120060)
+
+- HUD ID: AZA20120060
+- HUD ID before: 
+- Project: PINEVIEW MANOR
+- Address: 304 S CLARK RD
+- City: PAYSON
+- State: AZ
+- ZIP: 85541
+- ZIP extension: 
+- State project ID: TC-0529-10
+- Latitude: 34.237671
+- Longitude: -111.318041
+- County FIPS: 04007
+- County from: 2020
+- Tract 2020: 04007000500
+- Tract 2010: 04007000500
+- Tract 2000: 04007000500
+- Tract 1990: 04007980500
+- Place 2020: 53700
+- Place 2010: 53700
+- Place 2000: 53700
+- Place 1990: 0252
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 728302
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 8
+- 1-bedroom units: 36
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 37
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

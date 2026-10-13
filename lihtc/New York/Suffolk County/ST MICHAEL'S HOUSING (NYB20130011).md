@@ -1,0 +1,85 @@
+# Project: ST MICHAEL'S HOUSING (NYB20130011)
+
+- HUD ID: NYB20130011
+- HUD ID before: 
+- Project: ST MICHAEL'S HOUSING
+- Address: 488 MONTAUK HWY
+- City: AMAGANSETT
+- State: NY
+- ZIP: 11930
+- ZIP extension: 
+- State project ID: NY-11-2049
+- Latitude: 40.979852
+- Longitude: -72.130491
+- County FIPS: 36103
+- County from: 2020
+- Tract 2020: 36103201006
+- Tract 2010: 36103201003
+- Tract 2000: 36103201003
+- Tract 1990: 36103201003
+- Place 2020: 01594
+- Place 2010: 01594
+- Place 2000: 01594
+- Place 1990: 0981
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 383493
+- Units: 41
+- Low-income units: 40
+- Units reported: 41
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ST MICHAEL'S HOUSING - WINDMILL.
+- Record status: Existing, unchanged

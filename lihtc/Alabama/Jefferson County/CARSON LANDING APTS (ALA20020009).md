@@ -1,0 +1,85 @@
+# Project: CARSON LANDING APTS (ALA20020009)
+
+- HUD ID: ALA20020009
+- HUD ID before: 
+- Project: CARSON LANDING APTS
+- Address: 740 15TH CT NW APT 100
+- City: CENTER POINT
+- State: AL
+- ZIP: 35215
+- ZIP extension: 
+- State project ID: AL-02-0017
+- Latitude: 33.625687
+- Longitude: -86.70698
+- County FIPS: 01073
+- County from: 2020
+- Tract 2020: 01073011803
+- Tract 2010: 01073011803
+- Tract 2000: 01073011803
+- Tract 1990: 01073011803
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0335
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 491882
+- Units: 72
+- Low-income units: 61
+- Units reported: 72
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 36
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 72
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2004020.
+- Record status: Existing, unchanged

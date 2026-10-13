@@ -1,0 +1,85 @@
+# Project: SCHNEIDER APTS (TXA19870305)
+
+- HUD ID: TXA19870305
+- HUD ID before: 
+- Project: SCHNEIDER APTS
+- Address: 120 S RUSSELL ST
+- City: PAMPA
+- State: TX
+- ZIP: 79065
+- ZIP extension: 
+- State project ID: TX6173
+- Latitude: 35.534837
+- Longitude: -100.962427
+- County FIPS: 48179
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48179950700
+- Tract 2000: 48179950700
+- Tract 1990: 48179950700
+- Place 2020: 
+- Place 2010: 54912
+- Place 2000: 54912
+- Place 1990: 3175
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

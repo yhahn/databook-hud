@@ -1,0 +1,85 @@
+# Project: FOURTH STREET LOFTS, LP (MOA20050062)
+
+- HUD ID: MOA20050062
+- HUD ID before: 
+- Project: FOURTH STREET LOFTS, LP
+- Address: 216 N FOURTH ST
+- City: ST JOSEPH
+- State: MO
+- ZIP: 64501
+- ZIP extension: 
+- State project ID: 04-075
+- Latitude: 39.767824
+- Longitude: -94.855678
+- County FIPS: 29021
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29021001200
+- Tract 2000: 29021001200
+- Tract 1990: 29021001200
+- Place 2020: 
+- Place 2010: 64550
+- Place 2000: 64550
+- Place 1990: 3865
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 411411
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA2005060.
+- Record status: Existing, unchanged

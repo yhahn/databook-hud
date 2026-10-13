@@ -1,0 +1,85 @@
+# Project: HIGHRIDGE APTS (ALA19960052)
+
+- HUD ID: ALA19960052
+- HUD ID before: 
+- Project: HIGHRIDGE APTS
+- Address: 162 SCENIC DR
+- City: DOUBLE SPRINGS
+- State: AL
+- ZIP: 35553
+- ZIP extension: 
+- State project ID: AL-96-0094
+- Latitude: 34.134153
+- Longitude: -87.401076
+- County FIPS: 01133
+- County from: 2020
+- Tract 2020: 01133965601
+- Tract 2010: 01133965600
+- Tract 2000: 01133995600
+- Tract 1990: 01133995600
+- Place 2020: 21280
+- Place 2010: 21280
+- Place 2000: 21280
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 26246
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1997080.
+- Record status: Existing, unchanged

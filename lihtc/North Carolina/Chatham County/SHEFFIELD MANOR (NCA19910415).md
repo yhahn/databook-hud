@@ -1,0 +1,85 @@
+# Project: SHEFFIELD MANOR (NCA19910415)
+
+- HUD ID: NCA19910415
+- HUD ID before: 
+- Project: SHEFFIELD MANOR
+- Address: 813 SHEFFIELD DRIVE
+- City: SILER CITY
+- State: NC
+- ZIP: 27344
+- ZIP extension: 
+- State project ID: 9001273
+- Latitude: 35.728373
+- Longitude: -79.452653
+- County FIPS: 37037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37037020402
+- Tract 2000: 37037020400
+- Tract 1990: 37037020400
+- Place 2020: 
+- Place 2010: 61860
+- Place 2000: 61860
+- Place 1990: 2275
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 62065
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

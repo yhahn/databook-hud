@@ -1,0 +1,85 @@
+# Project: ULCO BLUFFS APARTMENTS (NCA20120080)
+
+- HUD ID: NCA20120080
+- HUD ID before: 
+- Project: ULCO BLUFFS APARTMENTS
+- Address: 55 ULCO BLUFFS DRIVE
+- City: FRANKLIN
+- State: NC
+- ZIP: 28734
+- ZIP extension: 
+- State project ID: 9118749
+- Latitude: 35.174166
+- Longitude: -83.380366
+- County FIPS: 37113
+- County from: 2020
+- Tract 2020: 37113970304
+- Tract 2010: 37113970301
+- Tract 2000: 37113970300
+- Tract 1990: 37113970300
+- Place 2020: 24640
+- Place 2010: 24640
+- Place 2000: 24640
+- Place 1990: 0945
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 71690
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

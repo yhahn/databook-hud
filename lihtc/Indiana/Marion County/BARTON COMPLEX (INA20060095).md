@@ -1,0 +1,85 @@
+# Project: BARTON COMPLEX (INA20060095)
+
+- HUD ID: INA20060095
+- HUD ID before: 
+- Project: BARTON COMPLEX
+- Address: 210 E MICHIGAN ST
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46204
+- ZIP extension: 
+- State project ID: IN-04-02800
+- Latitude: 39.774185
+- Longitude: -86.153791
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097354201
+- Tract 2010: 18097354200
+- Tract 2000: 18097354200
+- Tract 1990: 18097354200
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 360750
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 10
+- 1-bedroom units: 1
+- 2-bedroom units: 17
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BARTON CENTER.
+- Record status: Existing, unchanged

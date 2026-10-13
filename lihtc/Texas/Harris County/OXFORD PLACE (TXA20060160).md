@@ -1,0 +1,85 @@
+# Project: OXFORD PLACE (TXA20060160)
+
+- HUD ID: TXA20060160
+- HUD ID before: 
+- Project: OXFORD PLACE
+- Address: 605 BERRY RD
+- City: HOUSTON
+- State: TX
+- ZIP: 77022
+- ZIP extension: 
+- State project ID: TX4064
+- Latitude: 29.837736
+- Longitude: -95.368143
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201220600
+- Tract 2010: 48201220600
+- Tract 2000: 48201220600
+- Tract 1990: 48201052101
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 1200000
+- Units: 250
+- Low-income units: 200
+- Units reported: 250
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 98
+- 3-bedroom units: 112
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

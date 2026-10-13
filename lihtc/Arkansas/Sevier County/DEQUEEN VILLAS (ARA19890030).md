@@ -1,0 +1,85 @@
+# Project: DEQUEEN VILLAS (ARA19890030)
+
+- HUD ID: ARA19890030
+- HUD ID before: 
+- Project: DEQUEEN VILLAS
+- Address: 100 S TREATING PLANT RD
+- City: DE QUEEN
+- State: AR
+- ZIP: 71832
+- ZIP extension: 
+- State project ID: AR-89-25
+- Latitude: 34.037531
+- Longitude: -94.365088
+- County FIPS: 05133
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05133080200
+- Tract 2000: 05133980300
+- Tract 1990: 05133980300
+- Place 2020: 
+- Place 2010: 18490
+- Place 2000: 18490
+- Place 1990: 0540
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 9
+- Units reported: 36
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

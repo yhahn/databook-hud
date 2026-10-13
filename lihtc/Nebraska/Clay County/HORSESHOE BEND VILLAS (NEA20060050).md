@@ -1,0 +1,85 @@
+# Project: HORSESHOE BEND VILLAS (NEA20060050)
+
+- HUD ID: NEA20060050
+- HUD ID before: 
+- Project: HORSESHOE BEND VILLAS
+- Address: 206 E LINCOLN ST APT B
+- City: SUTTON
+- State: NE
+- ZIP: 68979
+- ZIP extension: 
+- State project ID: 7-0618
+- Latitude: 40.614082
+- Longitude: -97.858105
+- County FIPS: 31035
+- County from: 2020
+- Tract 2020: 31035962100
+- Tract 2010: 31035962100
+- Tract 2000: 31035992100
+- Tract 1990: 31035992100
+- Place 2020: 47955
+- Place 2010: 47955
+- Place 2000: 21345
+- Place 1990: 2375
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 68761
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SUTTON HORSESHOE BEND VILLAS.
+- Record status: Existing, unchanged

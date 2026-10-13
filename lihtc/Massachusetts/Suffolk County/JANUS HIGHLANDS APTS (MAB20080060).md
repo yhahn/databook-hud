@@ -1,0 +1,85 @@
+# Project: JANUS HIGHLANDS APTS (MAB20080060)
+
+- HUD ID: MAB20080060
+- HUD ID before: 
+- Project: JANUS HIGHLANDS APTS
+- Address: 21 GERRISH AVE
+- City: CHELSEA
+- State: MA
+- ZIP: 02150
+- ZIP extension: 
+- State project ID: 1626
+- Latitude: 42.393953
+- Longitude: -71.030201
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025160102
+- Tract 2010: 25025160101
+- Tract 2000: 25025160100
+- Tract 1990: 25025160100
+- Place 2020: 13205
+- Place 2010: 13205
+- Place 2000: 13205
+- Place 1990: 0700
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 608850
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 29
+- 3-bedroom units: 5
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 570000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000334. AKA JANUS HIGHLAND APTS.
+- Record status: Existing, unchanged

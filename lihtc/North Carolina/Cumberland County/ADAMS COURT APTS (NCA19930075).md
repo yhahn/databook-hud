@@ -1,0 +1,85 @@
+# Project: ADAMS COURT APTS (NCA19930075)
+
+- HUD ID: NCA19930075
+- HUD ID before: 
+- Project: ADAMS COURT APTS
+- Address: 1033 APPAMATTOX CT
+- City: FAYETTEVILLE
+- State: NC
+- ZIP: 28305
+- ZIP extension: 
+- State project ID: 703
+- Latitude: 35.064252
+- Longitude: -78.897268
+- County FIPS: 37051
+- County from: 2020
+- Tract 2020: 37051000800
+- Tract 2010: 37051000800
+- Tract 2000: 37051000800
+- Tract 1990: 37051000800
+- Place 2020: 22920
+- Place 2010: 22920
+- Place 2000: 22920
+- Place 1990: 0910
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 146366
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

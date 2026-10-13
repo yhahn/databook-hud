@@ -1,0 +1,85 @@
+# Project: PIONEER APTS (NEA19890818)
+
+- HUD ID: NEA19890818
+- HUD ID before: 
+- Project: PIONEER APTS
+- Address: 1007 FIFTH ST
+- City: AURORA
+- State: NE
+- ZIP: 68818
+- ZIP extension: 
+- State project ID: 7-0068
+- Latitude: 40.865989
+- Longitude: -98.0121
+- County FIPS: 31081
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31081969300
+- Tract 2000: 31081989300
+- Tract 1990: 31081989300
+- Place 2020: 
+- Place 2010: 02690
+- Place 2000: 02690
+- Place 1990: 0130
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 5032
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA0000385.
+- Record status: Existing, unchanged

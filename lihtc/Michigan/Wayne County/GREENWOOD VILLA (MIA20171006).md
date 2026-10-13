@@ -1,0 +1,85 @@
+# Project: GREENWOOD VILLA (MIA20171006)
+
+- HUD ID: MIA20171006
+- HUD ID before: 
+- Project: GREENWOOD VILLA
+- Address: 7600 NANKIN COURT
+- City: WESTLAND
+- State: MI
+- ZIP: 48185
+- ZIP extension: 0000
+- State project ID: 508
+- Latitude: 42.342972
+- Longitude: -83.39419
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163565301
+- Tract 2010: 26163565300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 86000
+- Place 2010: 86000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 976257
+- Units: 298
+- Low-income units: 291
+- Units reported: 298
+- Low-income reported: 291
+- Efficiencies: 0
+- 1-bedroom units: 204
+- 2-bedroom units: 84
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

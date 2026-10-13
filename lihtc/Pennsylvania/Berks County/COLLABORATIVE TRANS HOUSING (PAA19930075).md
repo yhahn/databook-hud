@@ -1,0 +1,85 @@
+# Project: COLLABORATIVE TRANS HOUSING (PAA19930075)
+
+- HUD ID: PAA19930075
+- HUD ID before: 
+- Project: COLLABORATIVE TRANS HOUSING
+- Address: 821 SCHUYLKILL AVE
+- City: READING
+- State: PA
+- ZIP: 19601
+- ZIP extension: 
+- State project ID: TC1991-0150
+- Latitude: 40.348177
+- Longitude: -75.941625
+- County FIPS: 42011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42011001100
+- Tract 2000: 42011001100
+- Tract 1990: 42011001100
+- Place 2020: 
+- Place 2010: 63624
+- Place 2000: 63624
+- Place 1990: 7418
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 99605
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

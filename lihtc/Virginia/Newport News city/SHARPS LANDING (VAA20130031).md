@@ -1,0 +1,85 @@
+# Project: SHARPS LANDING (VAA20130031)
+
+- HUD ID: VAA20130031
+- HUD ID before: 
+- Project: SHARPS LANDING
+- Address: 151 CANDLEWOOD WAY
+- City: NEWPORT NEWS
+- State: VA
+- ZIP: 23606
+- ZIP extension: 
+- State project ID: 9485
+- Latitude: 37.078708
+- Longitude: -76.479958
+- County FIPS: 51700
+- County from: 2020
+- Tract 2020: 51700032134
+- Tract 2010: 51700032127
+- Tract 2000: 51700032115
+- Tract 1990: 51700032111
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 56000
+- Place 1990: 0860
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 415642
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 164
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

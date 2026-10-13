@@ -1,0 +1,85 @@
+# Project: FRANKLIN WOODS (NHA19950025)
+
+- HUD ID: NHA19950025
+- HUD ID before: 
+- Project: FRANKLIN WOODS
+- Address: 4 DANIEL WEBSTER DR
+- City: FRANKLIN
+- State: NH
+- ZIP: 03235
+- ZIP extension: 
+- State project ID: NH-94-LIH-FW
+- Latitude: 43.451748
+- Longitude: -71.658775
+- County FIPS: 33013
+- County from: 2020
+- Tract 2020: 33013043002
+- Tract 2010: 33013043002
+- Tract 2000: 33013043002
+- Tract 1990: 33013043098
+- Place 2020: 27380
+- Place 2010: 27380
+- Place 2000: 27380
+- Place 1990: 0880
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

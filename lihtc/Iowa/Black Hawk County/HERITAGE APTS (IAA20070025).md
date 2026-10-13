@@ -1,0 +1,85 @@
+# Project: HERITAGE APTS (IAA20070025)
+
+- HUD ID: IAA20070025
+- HUD ID before: 
+- Project: HERITAGE APTS
+- Address: 65 CONGER ST
+- City: WATERLOO
+- State: IA
+- ZIP: 50703
+- ZIP extension: 
+- State project ID: 06-46
+- Latitude: 42.513269
+- Longitude: -92.337287
+- County FIPS: 19013
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19013001800
+- Tract 2000: 19013001800
+- Tract 1990: 19013001800
+- Place 2020: 
+- Place 2010: 82425
+- Place 2000: 82425
+- Place 1990: 4455
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 506836
+- Units: 101
+- Low-income units: 101
+- Units reported: 101
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 53
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 75
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LITTLETON TOWN & COUNTRY I (NHA20109030)
+
+- HUD ID: NHA20109030
+- HUD ID before: 
+- Project: LITTLETON TOWN & COUNTRY I
+- Address: 58 COUNTRY LN
+- City: LITTLETON
+- State: NH
+- ZIP: 03561
+- ZIP extension: 
+- State project ID: 156
+- Latitude: 44.315175
+- Longitude: -71.75992
+- County FIPS: 33009
+- County from: 2020
+- Tract 2020: 33009960101
+- Tract 2010: 33009960100
+- Tract 2000: 33009960100
+- Tract 1990: 33009960100
+- Place 2020: 42500
+- Place 2010: 42500
+- Place 2000: 42500
+- Place 1990: 1520
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4500000
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

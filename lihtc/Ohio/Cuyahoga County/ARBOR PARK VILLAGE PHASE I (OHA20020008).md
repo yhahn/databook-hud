@@ -1,0 +1,85 @@
+# Project: ARBOR PARK VILLAGE PHASE I (OHA20020008)
+
+- HUD ID: OHA20020008
+- HUD ID before: 
+- Project: ARBOR PARK VILLAGE PHASE I
+- Address: 2454 E 36TH ST
+- City: CLEVELAND
+- State: OH
+- ZIP: 44115
+- ZIP extension: 
+- State project ID: 010103
+- Latitude: 41.492802
+- Longitude: -81.663074
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035108701
+- Tract 2010: 39035109701
+- Tract 2000: 39035109700
+- Tract 1990: 39035109700
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 1778021
+- Units: 282
+- Low-income units: 280
+- Units reported: 282
+- Low-income reported: 280
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 82
+- 3-bedroom units: 131
+- 4-bedroom units: 15
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003007, OHA2002030.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WEST RIVER VALLEY ASSISTED LIVING PHASE II (VTA20130275)
+
+- HUD ID: VTA20130275
+- HUD ID before: 
+- Project: WEST RIVER VALLEY ASSISTED LIVING PHASE II
+- Address: 461 GRAFTON RD
+- City: TOWNSHEND
+- State: VT
+- ZIP: 05353
+- ZIP extension: 
+- State project ID: 0458
+- Latitude: 43.051699
+- Longitude: -72.666468
+- County FIPS: 50025
+- County from: 2020
+- Tract 2020: 50025967200
+- Tract 2010: 50025967200
+- Tract 2000: 50025967200
+- Tract 1990: 50025967200
+- Place 2020: 73225
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 140000
+- Units: 12
+- Low-income units: 6
+- Units reported: 12
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: Yes
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: Yes
+- HOME amount: 375000
+- CDBG: Yes
+- CDBG amount: 619000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

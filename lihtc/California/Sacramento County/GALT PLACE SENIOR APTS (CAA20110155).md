@@ -1,0 +1,85 @@
+# Project: GALT PLACE SENIOR APTS (CAA20110155)
+
+- HUD ID: CAA20110155
+- HUD ID before: 
+- Project: GALT PLACE SENIOR APTS
+- Address: 400 D ST
+- City: GALT
+- State: CA
+- ZIP: 95632
+- ZIP extension: 
+- State project ID: CA-09-525
+- Latitude: 38.251072
+- Longitude: -121.305139
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067009504
+- Tract 2010: 06067009504
+- Tract 2000: 06067009504
+- Tract 1990: 06067009500
+- Place 2020: 28112
+- Place 2010: 28112
+- Place 2000: 28112
+- Place 1990: 1100
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 80
+- Units reported: 81
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 68
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 11521252
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011644.
+- Record status: Existing, unchanged

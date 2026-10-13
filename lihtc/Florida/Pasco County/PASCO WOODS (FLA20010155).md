@@ -1,0 +1,85 @@
+# Project: PASCO WOODS (FLA20010155)
+
+- HUD ID: FLA20010155
+- HUD ID before: 
+- Project: PASCO WOODS
+- Address: 6050 RYERSON CIR
+- City: WESLEY CHAPEL
+- State: FL
+- ZIP: 33544
+- ZIP extension: 
+- State project ID: 617
+- Latitude: 28.247841
+- Longitude: -82.350372
+- County FIPS: 12101
+- County from: 2020
+- Tract 2020: 12101032006
+- Tract 2010: 12101032006
+- Tract 2000: 12101032002
+- Tract 1990: 12101032002
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 75875
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 198
+- Units reported: 200
+- Low-income reported: 198
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 100
+- 3-bedroom units: 100
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

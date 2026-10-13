@@ -1,0 +1,85 @@
+# Project: TRINITY TOWERS WEST (FLA20160024)
+
+- HUD ID: FLA20160024
+- HUD ID before: 
+- Project: TRINITY TOWERS WEST
+- Address: 650 EAST STRAWBRIDGE AVENUE
+- City: MELBOURNE
+- State: FL
+- ZIP: 32901
+- ZIP extension: 
+- State project ID: 2695
+- Latitude: 28.079591
+- Longitude: -80.609997
+- County FIPS: 12009
+- County from: 2020
+- Tract 2020: 12009064800
+- Tract 2010: 12009064800
+- Tract 2000: 12009064800
+- Tract 1990: 
+- Place 2020: 43975
+- Place 2010: 43975
+- Place 2000: 43975
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1003828
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 64
+- 1-bedroom units: 128
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

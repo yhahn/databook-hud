@@ -1,0 +1,85 @@
+# Project: CASA VELASQUEZ (CAA19950035)
+
+- HUD ID: CAA19950035
+- HUD ID before: 
+- Project: CASA VELASQUEZ
+- Address: 2440 BARRY ST
+- City: CAMARILLO
+- State: CA
+- ZIP: 93010
+- ZIP extension: 
+- State project ID: CA-94-149
+- Latitude: 34.219337
+- Longitude: -119.037287
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111005403
+- Tract 2010: 06111005403
+- Tract 2000: 06111005403
+- Tract 1990: 06111005402
+- Place 2020: 10046
+- Place 2010: 10046
+- Place 2000: 10046
+- Place 1990: 0379
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 138639
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PRAIRIE RANCH APTS (TXA00000456)
+
+- HUD ID: TXA00000456
+- HUD ID before: 
+- Project: PRAIRIE RANCH APTS
+- Address: 4950 PRAIRIE RANCH DR
+- City: GRAND PRAIRIE
+- State: TX
+- ZIP: 75052
+- ZIP extension: 
+- State project ID: TX4171
+- Latitude: 32.652286
+- Longitude: -97.060497
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439111555
+- Tract 2010: 48439111539
+- Tract 2000: 48439111518
+- Tract 1990: 48439111518
+- Place 2020: 30464
+- Place 2010: 30464
+- Place 2000: 04000
+- Place 1990: 0175
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 174
+- Low-income units: 174
+- Units reported: 174
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

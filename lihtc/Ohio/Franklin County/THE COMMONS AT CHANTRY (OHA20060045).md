@@ -1,0 +1,85 @@
+# Project: THE COMMONS AT CHANTRY (OHA20060045)
+
+- HUD ID: OHA20060045
+- HUD ID before: 
+- Project: THE COMMONS AT CHANTRY
+- Address: 5500 MILLERSFIELD DR
+- City: COLUMBUS
+- State: OH
+- ZIP: 43232
+- ZIP extension: 
+- State project ID: 04-0016
+- Latitude: 39.926302
+- Longitude: -82.844218
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049009392
+- Tract 2010: 39049009374
+- Tract 2000: 39049009374
+- Tract 1990: 39049009374
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 08532
+- Place 1990: 0960
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 796981
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 24
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CHANTRY PLACE.
+- Record status: Existing, unchanged

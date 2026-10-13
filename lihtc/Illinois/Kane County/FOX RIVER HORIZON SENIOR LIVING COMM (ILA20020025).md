@@ -1,0 +1,85 @@
+# Project: FOX RIVER HORIZON SENIOR LIVING COMM (ILA20020025)
+
+- HUD ID: ILA20020025
+- HUD ID before: 
+- Project: FOX RIVER HORIZON SENIOR LIVING COMM
+- Address: 785 FLETCHER DR
+- City: ELGIN
+- State: IL
+- ZIP: 60123
+- ZIP extension: 
+- State project ID: 128600
+- Latitude: 42.054158
+- Longitude: -88.334608
+- County FIPS: 17089
+- County from: 2020
+- Tract 2020: 17089851910
+- Tract 2010: 17089851910
+- Tract 2000: 17089851903
+- Tract 1990: 17089851903
+- Place 2020: 23074
+- Place 2010: 23074
+- Place 2000: 23074
+- Place 1990: 1720
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 293237
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

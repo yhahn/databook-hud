@@ -1,0 +1,85 @@
+# Project: OAKS TRAIL (FLA20000120)
+
+- HUD ID: FLA20000120
+- HUD ID before: 
+- Project: OAKS TRAIL
+- Address: 1300 NE OAK ST
+- City: ARCADIA
+- State: FL
+- ZIP: 34266
+- ZIP extension: 
+- State project ID: 565
+- Latitude: 27.212629
+- Longitude: -81.846016
+- County FIPS: 12027
+- County from: 2020
+- Tract 2020: 12027010200
+- Tract 2010: 12027010200
+- Tract 2000: 12027980200
+- Tract 1990: 12027980200
+- Place 2020: 01750
+- Place 2010: 01750
+- Place 2000: 01750
+- Place 1990: 0040
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 123
+- Low-income units: 123
+- Units reported: 123
+- Low-income reported: 123
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 46
+- 3-bedroom units: 77
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

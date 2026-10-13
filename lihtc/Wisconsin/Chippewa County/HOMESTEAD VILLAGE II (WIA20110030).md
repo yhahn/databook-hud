@@ -1,0 +1,85 @@
+# Project: HOMESTEAD VILLAGE II (WIA20110030)
+
+- HUD ID: WIA20110030
+- HUD ID before: 
+- Project: HOMESTEAD VILLAGE II
+- Address: 320 E COLOME
+- City: CHIPPEWA FALLS
+- State: WI
+- ZIP: 54729
+- ZIP extension: 
+- State project ID: 5622
+- Latitude: 44.911844
+- Longitude: -91.39434
+- County FIPS: 55017
+- County from: 2020
+- Tract 2020: 55017010700
+- Tract 2010: 55017010200
+- Tract 2000: 55017010500
+- Tract 1990: 55017010200
+- Place 2020: 14575
+- Place 2010: 14575
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 289660
+- Units: 24
+- Low-income units: 10
+- Units reported: 24
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 472000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

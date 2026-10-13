@@ -1,0 +1,85 @@
+# Project: LAWNDALE BOND (ILB20087001)
+
+- HUD ID: ILB20087001
+- HUD ID before: 
+- Project: LAWNDALE BOND
+- Address: 3225 W DOUGLAS BLVD
+- City: CHICAGO
+- State: IL
+- ZIP: 60623
+- ZIP extension: 1750
+- State project ID: IL-07-029
+- Latitude: 41.862365
+- Longitude: -87.706514
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031841500
+- Tract 2010: 17031841500
+- Tract 2000: 17031291300
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 170
+- Low-income units: 143
+- Units reported: 170
+- Low-income reported: 143
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 83
+- 3-bedroom units: 64
+- 4-bedroom units: 20
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

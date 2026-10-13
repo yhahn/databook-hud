@@ -1,0 +1,85 @@
+# Project: FOREST GLEN APTS (KSA20020120)
+
+- HUD ID: KSA20020120
+- HUD ID before: 
+- Project: FOREST GLEN APTS
+- Address: 511 N 64TH TER
+- City: KANSAS CITY
+- State: KS
+- ZIP: 66102
+- ZIP extension: 
+- State project ID: 60238
+- Latitude: 39.108824
+- Longitude: -94.727557
+- County FIPS: 20209
+- County from: 2020
+- Tract 2020: 20209043905
+- Tract 2010: 20209043905
+- Tract 2000: 20209043905
+- Tract 1990: 20209043901
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 1430
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 488504
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 76
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1987010, KSA2003065.
+- Record status: Existing, unchanged

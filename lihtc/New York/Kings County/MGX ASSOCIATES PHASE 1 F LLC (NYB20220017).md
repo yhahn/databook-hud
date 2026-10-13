@@ -1,0 +1,85 @@
+# Project: MGX ASSOCIATES PHASE 1 F LLC (NYB20220017)
+
+- HUD ID: NYB20220017
+- HUD ID before: 
+- Project: MGX ASSOCIATES PHASE 1 F LLC
+- Address: 461 CHESTER STREET
+- City: BROOKLYN
+- State: NY
+- ZIP: 11212
+- ZIP extension: 
+- State project ID: NY-23-2653
+- Latitude: 40.660288
+- Longitude: -73.9091
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047091600
+- Tract 2010: 36047091600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 174
+- Low-income units: 173
+- Units reported: 174
+- Low-income reported: 173
+- Efficiencies: 55
+- 1-bedroom units: 67
+- 2-bedroom units: 35
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

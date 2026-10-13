@@ -1,0 +1,85 @@
+# Project: APPLEGATE (VTA19980020)
+
+- HUD ID: VTA19980020
+- HUD ID before: 
+- Project: APPLEGATE
+- Address: 98 ORCHARD RD
+- City: BENNINGTON
+- State: VT
+- ZIP: 05201
+- ZIP extension: 
+- State project ID: 0014
+- Latitude: 42.897735
+- Longitude: -73.203814
+- County FIPS: 50003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 50003970900
+- Tract 2000: 50003970900
+- Tract 1990: 50003970900
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 230000
+- Units: 103
+- Low-income units: 74
+- Units reported: 103
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 58
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ALTA WESTGATE (FLA20070801)
+
+- HUD ID: FLA20070801
+- HUD ID before: 
+- Project: ALTA WESTGATE
+- Address: 2411 N HIAWASSEE RD
+- City: ORLANDO
+- State: FL
+- ZIP: 32818
+- ZIP extension: 
+- State project ID: 1639
+- Latitude: 28.574759
+- Longitude: -81.475822
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095012201
+- Tract 2010: 12095012201
+- Tract 2000: 12095012201
+- Tract 1990: 12095012200
+- Place 2020: 56825
+- Place 2010: 56825
+- Place 2000: 56825
+- Place 1990: 1746
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 120
+- 3-bedroom units: 120
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

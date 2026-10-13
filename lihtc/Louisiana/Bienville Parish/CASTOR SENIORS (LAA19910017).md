@@ -1,0 +1,85 @@
+# Project: CASTOR SENIORS (LAA19910017)
+
+- HUD ID: LAA19910017
+- HUD ID before: 
+- Project: CASTOR SENIORS
+- Address: 200 RIDGE ROAD
+- City: CASTOR
+- State: LA
+- ZIP: 71016
+- ZIP extension: 0000
+- State project ID: LA-91-002
+- Latitude: 32.250344
+- Longitude: -93.163368
+- County FIPS: 22013
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22013970400
+- Tract 2000: 22013970400
+- Tract 1990: 22013970400
+- Place 2020: 
+- Place 2010: 13260
+- Place 2000: 13260
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 16
+- Low-income units: 4
+- Units reported: 16
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1991015. AKA CASTAR SRS APTS.
+- Record status: Existing, unchanged

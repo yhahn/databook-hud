@@ -1,0 +1,85 @@
+# Project: WALKER ROSA APTS (TNA20080095)
+
+- HUD ID: TNA20080095
+- HUD ID before: 
+- Project: WALKER ROSA APTS
+- Address: 1040 TIP TOP AVE
+- City: KINGSPORT
+- State: TN
+- ZIP: 37665
+- ZIP extension: 
+- State project ID: TN-09-108
+- Latitude: 36.574482
+- Longitude: -82.568825
+- County FIPS: 47163
+- County from: 2020
+- Tract 2020: 47163040500
+- Tract 2010: 47163040500
+- Tract 2000: 47163040500
+- Tract 1990: 47163040500
+- Place 2020: 39560
+- Place 2010: 39560
+- Place 2000: 39560
+- Place 1990: 0750
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 441639
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 27
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 788229
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WOODLAND CREEK APTS (TXA20154057)
+
+- HUD ID: TXA20154057
+- HUD ID before: 
+- Project: WOODLAND CREEK APTS
+- Address: 11641 LEOPARD ST
+- City: CORPUS CHRISTI
+- State: TX
+- ZIP: 78410
+- ZIP extension: 
+- State project ID: TX4952
+- Latitude: 27.850909
+- Longitude: -97.595397
+- County FIPS: 48355
+- County from: 2020
+- Tract 2020: 48355003601
+- Tract 2010: 48355003601
+- Tract 2000: 48355003601
+- Tract 1990: 48355003601
+- Place 2020: 17000
+- Place 2010: 17000
+- Place 2000: 17000
+- Place 1990: 0980
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

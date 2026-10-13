@@ -1,0 +1,85 @@
+# Project: VADNAIS LINCOLN (MNA20211026)
+
+- HUD ID: MNA20211026
+- HUD ID before: 
+- Project: VADNAIS LINCOLN
+- Address: 1080-1097 COUNTY ROAD D EAST
+- City: VADNAIS HEIGHTS
+- State: MN
+- ZIP: 55109
+- ZIP extension: 
+- State project ID: D8368
+- Latitude: 45.036033
+- Longitude: -93.054968
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123040606
+- Tract 2010: 27123040604
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 66460
+- Place 2010: 66460
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 718163
+- Units: 83
+- Low-income units: 83
+- Units reported: 83
+- Low-income reported: 83
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 62
+- 3-bedroom units: 21
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: N
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

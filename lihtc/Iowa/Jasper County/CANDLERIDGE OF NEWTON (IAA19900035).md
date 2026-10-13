@@ -1,0 +1,85 @@
+# Project: CANDLERIDGE OF NEWTON (IAA19900035)
+
+- HUD ID: IAA19900035
+- HUD ID before: 
+- Project: CANDLERIDGE OF NEWTON
+- Address: 1224 N FOURTH AVE W
+- City: NEWTON
+- State: IA
+- ZIP: 50208
+- ZIP extension: 
+- State project ID: 89-19
+- Latitude: 41.702916
+- Longitude: -93.068727
+- County FIPS: 19099
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19099040300
+- Tract 2000: 19099040300
+- Tract 1990: 19099040300
+- Place 2020: 
+- Place 2010: 56505
+- Place 2000: 42870
+- Place 1990: 3070
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 21695
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

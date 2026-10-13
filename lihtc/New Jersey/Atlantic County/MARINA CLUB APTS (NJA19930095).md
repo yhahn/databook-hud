@@ -1,0 +1,85 @@
+# Project: MARINA CLUB APTS (NJA19930095)
+
+- HUD ID: NJA19930095
+- HUD ID before: 
+- Project: MARINA CLUB APTS
+- Address: 655 ABSECON BLVD
+- City: ATLANTIC CITY
+- State: NJ
+- ZIP: 08401
+- ZIP extension: 
+- State project ID: 
+- Latitude: 39.371029
+- Longitude: -74.430248
+- County FIPS: 34001
+- County from: 2020
+- Tract 2020: 34001001400
+- Tract 2010: 34001001400
+- Tract 2000: 34001001400
+- Tract 1990: 34001001400
+- Place 2020: 02080
+- Place 2010: 02080
+- Place 2000: 02080
+- Place 1990: 0075
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 161
+- Low-income units: 107
+- Units reported: 161
+- Low-income reported: 107
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

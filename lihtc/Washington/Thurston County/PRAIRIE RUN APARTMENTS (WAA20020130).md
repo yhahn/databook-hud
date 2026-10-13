@@ -1,0 +1,85 @@
+# Project: PRAIRIE RUN APARTMENTS (WAA20020130)
+
+- HUD ID: WAA20020130
+- HUD ID before: 
+- Project: PRAIRIE RUN APARTMENTS
+- Address: 205 MOUNTAIN VIEW ROAD
+- City: YELM
+- State: WA
+- ZIP: 98597
+- ZIP extension: 
+- State project ID: 01-65
+- Latitude: 46.952061
+- Longitude: -122.622465
+- County FIPS: 53067
+- County from: 2020
+- Tract 2020: 53067012422
+- Tract 2010: 53067012411
+- Tract 2000: 53067012410
+- Tract 1990: 53067012400
+- Place 2020: 80220
+- Place 2010: 80220
+- Place 2000: 80220
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 145015
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: LARGE FAMILY
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

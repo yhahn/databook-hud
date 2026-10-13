@@ -1,0 +1,85 @@
+# Project: CWILLIAMS BROOKS (MDA20110008)
+
+- HUD ID: MDA20110008
+- HUD ID before: 
+- Project: CWILLIAMS BROOKS
+- Address: 45 W BALTIMORE ST
+- City: HAGERSTOWN
+- State: MD
+- ZIP: 21740
+- ZIP extension: 
+- State project ID: MD10-13001
+- Latitude: 39.639235
+- Longitude: -77.723921
+- County FIPS: 24043
+- County from: 2020
+- Tract 2020: 24043000800
+- Tract 2010: 24043000800
+- Tract 2000: 24043000800
+- Tract 1990: 24043000800
+- Place 2020: 36075
+- Place 2010: 36075
+- Place 2000: 36075
+- Place 1990: 0450
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CW BROOKS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GREENS OF TURFWAY TOWNHOMES (KYA19920247)
+
+- HUD ID: KYA19920247
+- HUD ID before: 
+- Project: GREENS OF TURFWAY TOWNHOMES
+- Address: 6058 CELTIC ASH AVE
+- City: FLORENCE
+- State: KY
+- ZIP: 41042
+- ZIP extension: 
+- State project ID: KY-91-055
+- Latitude: 39.009928
+- Longitude: -84.6187
+- County FIPS: 21015
+- County from: 2020
+- Tract 2020: 21015070102
+- Tract 2010: 21015070100
+- Tract 2000: 21015070100
+- Tract 1990: 21015070100
+- Place 2020: 27982
+- Place 2010: 27982
+- Place 2000: 27982
+- Place 1990: 0690
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 87
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KYA1992518, KYA0000570, KYA1992055.
+- Record status: Existing, unchanged

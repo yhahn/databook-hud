@@ -1,0 +1,85 @@
+# Project: ASH PARK APTS (TXA19950030)
+
+- HUD ID: TXA19950030
+- HUD ID before: 
+- Project: ASH PARK APTS
+- Address: 601 E ASH LN
+- City: EULESS
+- State: TX
+- ZIP: 76039
+- ZIP extension: 
+- State project ID: TX1159
+- Latitude: 32.85919
+- Longitude: -97.072969
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439113521
+- Tract 2010: 48439113518
+- Tract 2000: 48439113515
+- Tract 1990: 48439113508
+- Place 2020: 24768
+- Place 2010: 24768
+- Place 2000: 24768
+- Place 1990: 1380
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 250
+- Low-income units: 250
+- Units reported: 250
+- Low-income reported: 250
+- Efficiencies: 0
+- 1-bedroom units: 112
+- 2-bedroom units: 106
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: OTHER POPULATION
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ASH LANE APTS.
+- Record status: Existing, unchanged

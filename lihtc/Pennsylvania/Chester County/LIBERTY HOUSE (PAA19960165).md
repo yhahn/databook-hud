@@ -1,0 +1,85 @@
+# Project: LIBERTY HOUSE (PAA19960165)
+
+- HUD ID: PAA19960165
+- HUD ID before: 
+- Project: LIBERTY HOUSE
+- Address: 100 LIBERTY HOUSE LN
+- City: PHOENIXVILLE
+- State: PA
+- ZIP: 19460
+- ZIP extension: 
+- State project ID: TC19950005
+- Latitude: 40.118499
+- Longitude: -75.542638
+- County FIPS: 42029
+- County from: 2020
+- Tract 2020: 42029300502
+- Tract 2010: 42029300502
+- Tract 2000: 42029300500
+- Tract 1990: 42029300500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 356039
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 28
+- 1-bedroom units: 13
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1150000
+- CDBG: Yes
+- CDBG amount: 100000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

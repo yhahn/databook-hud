@@ -1,0 +1,85 @@
+# Project: OAK TOWERS (MOA20180017)
+
+- HUD ID: MOA20180017
+- HUD ID before: 
+- Project: OAK TOWERS
+- Address: 700 NORTH GARTH
+- City: COLUMBIA
+- State: MO
+- ZIP: 65203
+- ZIP extension: 0000
+- State project ID: 16-401
+- Latitude: 38.959822
+- Longitude: -92.338529
+- County FIPS: 29019
+- County from: 2020
+- Tract 2020: 29019002100
+- Tract 2010: 29019002100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 15670
+- Place 2010: 15670
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 577912
+- Units: 147
+- Low-income units: 147
+- Units reported: 147
+- Low-income reported: 147
+- Efficiencies: 77
+- 1-bedroom units: 70
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Handicapped
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

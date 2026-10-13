@@ -1,0 +1,85 @@
+# Project: SUTTER TERRACE (CAA19980510)
+
+- HUD ID: CAA19980510
+- HUD ID before: 
+- Project: SUTTER TERRACE
+- Address: 6725 FIDDYMENT RD
+- City: ROSEVILLE
+- State: CA
+- ZIP: 95747
+- ZIP extension: 
+- State project ID: CA-99-838
+- Latitude: 38.754334
+- Longitude: -121.358283
+- County FIPS: 06061
+- County from: 2020
+- Tract 2020: 06061021047
+- Tract 2010: 06061021035
+- Tract 2000: 06061021007
+- Tract 1990: 06061021001
+- Place 2020: 62938
+- Place 2010: 62938
+- Place 2000: 62938
+- Place 1990: 2405
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 229129
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1998505.
+- Record status: Existing, unchanged

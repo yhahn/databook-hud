@@ -1,0 +1,85 @@
+# Project: COMMONS OF AVALON (THE) (MDA20170006)
+
+- HUD ID: MDA20170006
+- HUD ID before: 
+- Project: COMMONS OF AVALON (THE)
+- Address: HAMPSHIRE DRIVE
+- City: FREDERICK
+- State: MD
+- ZIP: 21702
+- ZIP extension: 
+- State project ID: MD-14-37
+- Latitude: 39.4507
+- Longitude: -77.4452
+- County FIPS: 24021
+- County from: 2020
+- Tract 2020: 24021751202
+- Tract 2010: 24021751202
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 30325
+- Place 2010: 30325
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 693081
+- Units: 114
+- Low-income units: 114
+- Units reported: 114
+- Low-income reported: 114
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 103
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

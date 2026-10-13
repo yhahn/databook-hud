@@ -1,0 +1,85 @@
+# Project: PEBBLE CREEK APARTMENTS (ARA20110812)
+
+- HUD ID: ARA20110812
+- HUD ID before: 
+- Project: PEBBLE CREEK APARTMENTS
+- Address: 301 PEBBLE CREEK DR
+- City: MOUNTAIN VIEW
+- State: AR
+- ZIP: 72560
+- ZIP extension: 
+- State project ID: AR-09-32-001
+- Latitude: 35.864453
+- Longitude: -92.125392
+- County FIPS: 05137
+- County from: 2020
+- Tract 2020: 05137950203
+- Tract 2010: 05137950202
+- Tract 2000: 05137950200
+- Tract 1990: 05137950200
+- Place 2020: 47540
+- Place 2010: 47540
+- Place 2000: 47540
+- Place 1990: 1415
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1994627, ARA1994111, ARA1993060.
+- Record status: Existing, unchanged

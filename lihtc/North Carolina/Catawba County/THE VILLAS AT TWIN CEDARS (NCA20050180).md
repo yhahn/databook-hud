@@ -1,0 +1,85 @@
+# Project: THE VILLAS AT TWIN CEDARS (NCA20050180)
+
+- HUD ID: NCA20050180
+- HUD ID before: 
+- Project: THE VILLAS AT TWIN CEDARS
+- Address: 1866 20TH AVENUE DR NE
+- City: HICKORY
+- State: NC
+- ZIP: 28601
+- ZIP extension: 0504
+- State project ID: 9002318
+- Latitude: 35.758669
+- Longitude: -81.297389
+- County FIPS: 37035
+- County from: 2020
+- Tract 2020: 37035010403
+- Tract 2010: 37035010401
+- Tract 2000: 37035010401
+- Tract 1990: 37035010400
+- Place 2020: 31060
+- Place 2010: 31060
+- Place 2000: 
+- Place 1990: 1175
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 274598
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 27
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

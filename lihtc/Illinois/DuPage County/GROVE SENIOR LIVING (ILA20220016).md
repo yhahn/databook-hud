@@ -1,0 +1,85 @@
+# Project: GROVE SENIOR LIVING (ILA20220016)
+
+- HUD ID: ILA20220016
+- HUD ID before: 
+- Project: GROVE SENIOR LIVING
+- Address: 3737 HIGHLAND AVENUE
+- City: DOWNERS GROVE
+- State: IL
+- ZIP: 60515
+- ZIP extension: 
+- State project ID: 231105
+- Latitude: 41.819993
+- Longitude: -88.010031
+- County FIPS: 17043
+- County from: 2020
+- Tract 2020: 17043844402
+- Tract 2010: 17043844402
+- Tract 2000: 17043844402
+- Tract 1990: 17043844400
+- Place 2020: 20591
+- Place 2010: 20591
+- Place 2000: 20591
+- Place 1990: 1540
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 338700
+- Units: 269
+- Low-income units: 269
+- Units reported: 269
+- Low-income reported: 269
+- Efficiencies: 0
+- 1-bedroom units: 254
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: Yes
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

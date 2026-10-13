@@ -1,0 +1,85 @@
+# Project: CANTERBURY HOUSE APARTMENTS (SLIDELL) (LAA20090030)
+
+- HUD ID: LAA20090030
+- HUD ID before: 
+- Project: CANTERBURY HOUSE APARTMENTS (SLIDELL)
+- Address: 301 SPARTAN DRIVE, SLIDELL
+- City: SLIDELL
+- State: LA
+- ZIP: 70458
+- ZIP extension: 0000
+- State project ID: LA-06-123
+- Latitude: 30.24721
+- Longitude: -89.791963
+- County FIPS: 22103
+- County from: 2020
+- Tract 2020: 22103040801
+- Tract 2010: 22103040801
+- Tract 2000: 22103041104
+- Tract 1990: 22103040801
+- Place 2020: 70805
+- Place 2010: 70805
+- Place 2000: 
+- Place 1990: 1280
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 271078
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 6
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Multi-Family
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

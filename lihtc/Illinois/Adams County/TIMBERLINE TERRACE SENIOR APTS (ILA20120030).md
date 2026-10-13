@@ -1,0 +1,85 @@
+# Project: TIMBERLINE TERRACE SENIOR APTS (ILA20120030)
+
+- HUD ID: ILA20120030
+- HUD ID before: 
+- Project: TIMBERLINE TERRACE SENIOR APTS
+- Address: 4611 STATE ST
+- City: QUINCY
+- State: IL
+- ZIP: 62305
+- ZIP extension: 
+- State project ID: 1048711
+- Latitude: 39.925795
+- Longitude: -91.342981
+- County FIPS: 17001
+- County from: 2020
+- Tract 2020: 17001001100
+- Tract 2010: 17001001100
+- Tract 2000: 17001001100
+- Tract 1990: 17001001100
+- Place 2020: 62367
+- Place 2010: 62367
+- Place 2000: 62367
+- Place 1990: 4780
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 509958
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 42
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

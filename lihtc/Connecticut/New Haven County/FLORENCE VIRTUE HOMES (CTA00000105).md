@@ -1,0 +1,85 @@
+# Project: FLORENCE VIRTUE HOMES (CTA00000105)
+
+- HUD ID: CTA00000105
+- HUD ID before: 
+- Project: FLORENCE VIRTUE HOMES
+- Address: 37 ORCHARD PL
+- City: NEW HAVEN
+- State: CT
+- ZIP: 06511
+- ZIP extension: 
+- State project ID: 
+- Latitude: 41.318273
+- Longitude: -72.935866
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009141600
+- Tract 2010: 09009141600
+- Tract 2000: 09009141600
+- Tract 1990: 09009141600
+- Place 2020: 52000
+- Place 2010: 52000
+- Place 2000: 52000
+- Place 1990: 1450
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 129
+- Low-income units: 95
+- Units reported: 129
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 56
+- 3-bedroom units: 43
+- 4-bedroom units: 16
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

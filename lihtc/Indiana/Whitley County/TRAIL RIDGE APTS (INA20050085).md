@@ -1,0 +1,85 @@
+# Project: TRAIL RIDGE APTS (INA20050085)
+
+- HUD ID: INA20050085
+- HUD ID before: 
+- Project: TRAIL RIDGE APTS
+- Address: 675 W BUSINESS 30
+- City: COLUMBIA CITY
+- State: IN
+- ZIP: 46725
+- ZIP extension: 
+- State project ID: IN-04-03000
+- Latitude: 41.157233
+- Longitude: -85.498846
+- County FIPS: 18183
+- County from: 2020
+- Tract 2020: 18183050500
+- Tract 2010: 18183050500
+- Tract 2000: 18183050500
+- Tract 1990: 18183050500
+- Place 2020: 14716
+- Place 2010: 14716
+- Place 2000: 14716
+- Place 1990: 0510
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 199686
+- Units: 40
+- Low-income units: 35
+- Units reported: 40
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 20
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

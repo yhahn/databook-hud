@@ -1,0 +1,85 @@
+# Project: SUNDOME (FLA00000675)
+
+- HUD ID: FLA00000675
+- HUD ID before: 
+- Project: SUNDOME
+- Address: 13106 N 22ND ST
+- City: TAMPA
+- State: FL
+- ZIP: 33612
+- ZIP extension: 
+- State project ID: FL-88-076
+- Latitude: 28.066333
+- Longitude: -82.434857
+- County FIPS: 12057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12057010815
+- Tract 2000: 12057010806
+- Tract 1990: 12057010806
+- Place 2020: 
+- Place 2010: 73163
+- Place 2000: 71000
+- Place 1990: 2127
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

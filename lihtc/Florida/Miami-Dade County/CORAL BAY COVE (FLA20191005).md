@@ -1,0 +1,85 @@
+# Project: CORAL BAY COVE (FLA20191005)
+
+- HUD ID: FLA20191005
+- HUD ID before: 
+- Project: CORAL BAY COVE
+- Address: 25851 SOUTH DIXIE HIGHWAY
+- City: MIAMI
+- State: FL
+- ZIP: 33032
+- ZIP extension: 
+- State project ID: 2903
+- Latitude: 25.526711
+- Longitude: -80.420185
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010803
+- Tract 2010: 12086010802
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 47700
+- Place 2010: 47700
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 2052000
+- Units: 224
+- Low-income units: 224
+- Units reported: 224
+- Low-income reported: 224
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 132
+- 3-bedroom units: 80
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 224
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

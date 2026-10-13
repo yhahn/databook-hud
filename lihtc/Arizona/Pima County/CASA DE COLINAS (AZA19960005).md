@@ -1,0 +1,85 @@
+# Project: CASA DE COLINAS (AZA19960005)
+
+- HUD ID: AZA19960005
+- HUD ID before: 
+- Project: CASA DE COLINAS
+- Address: 2162 W SPEEDWAY BLVD
+- City: TUCSON
+- State: AZ
+- ZIP: 85745
+- ZIP extension: 
+- State project ID: TC-0103
+- Latitude: 32.236019
+- Longitude: -111.012186
+- County FIPS: 04019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04019004414
+- Tract 2000: 04019004414
+- Tract 1990: 04019004401
+- Place 2020: 
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 0380
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 129
+- Low-income units: 129
+- Units reported: 129
+- Low-income reported: 129
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 70
+- 3-bedroom units: 0
+- 4-bedroom units: 31
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

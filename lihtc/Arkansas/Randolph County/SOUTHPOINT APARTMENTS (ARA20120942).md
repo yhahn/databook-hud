@@ -1,0 +1,85 @@
+# Project: SOUTHPOINT APARTMENTS (ARA20120942)
+
+- HUD ID: ARA20120942
+- HUD ID before: 
+- Project: SOUTHPOINT APARTMENTS
+- Address: 1705 DESHAE CV APT A
+- City: POCAHONTAS
+- State: AR
+- ZIP: 72455
+- ZIP extension: 
+- State project ID: AR-88-06-001
+- Latitude: 36.252576
+- Longitude: -90.981567
+- County FIPS: 05121
+- County from: 2020
+- Tract 2020: 05121960302
+- Tract 2010: 05121960302
+- Tract 2000: 05121960300
+- Tract 1990: 05121960300
+- Place 2020: 56540
+- Place 2010: 56540
+- Place 2000: 56540
+- Place 1990: 1640
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 139727
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1988075. AKA BRECKENRIDGE EIGHT.
+- Record status: Existing, unchanged

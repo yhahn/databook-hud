@@ -1,0 +1,85 @@
+# Project: ROCKWELL TERRACE (NYA20050130)
+
+- HUD ID: NYA20050130
+- HUD ID before: 
+- Project: ROCKWELL TERRACE
+- Address: 129 LOCKWOOD AVE
+- City: NEW ROCHELLE
+- State: NY
+- ZIP: 10801
+- ZIP extension: 
+- State project ID: 20020569
+- Latitude: 40.913589
+- Longitude: -73.790409
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119006301
+- Tract 2010: 36119006300
+- Tract 2000: 36119006300
+- Tract 1990: 36119006300
+- Place 2020: 50617
+- Place 2010: 50617
+- Place 2000: 50617
+- Place 1990: 2495
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 73
+- Low-income units: 72
+- Units reported: 73
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 73
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

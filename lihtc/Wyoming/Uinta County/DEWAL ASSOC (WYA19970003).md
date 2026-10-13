@@ -1,0 +1,85 @@
+# Project: DEWAL ASSOC (WYA19970003)
+
+- HUD ID: WYA19970003
+- HUD ID before: 
+- Project: DEWAL ASSOC
+- Address: 550 CHEYENNE DR
+- City: EVANSTON
+- State: WY
+- ZIP: 82930
+- ZIP extension: 
+- State project ID: 96-004
+- Latitude: 41.256484
+- Longitude: -110.96664
+- County FIPS: 56041
+- County from: 2020
+- Tract 2020: 56041975302
+- Tract 2010: 56041975300
+- Tract 2000: 56041975300
+- Tract 1990: 56041975300
+- Place 2020: 25620
+- Place 2010: 25620
+- Place 2000: 25620
+- Place 1990: 0135
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 28286
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WYA1996020.
+- Record status: Existing, unchanged

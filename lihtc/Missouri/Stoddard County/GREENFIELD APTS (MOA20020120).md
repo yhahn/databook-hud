@@ -1,0 +1,85 @@
+# Project: GREENFIELD APTS (MOA20020120)
+
+- HUD ID: MOA20020120
+- HUD ID before: 
+- Project: GREENFIELD APTS
+- Address: 522 MULBERRY ST
+- City: BERNIE
+- State: MO
+- ZIP: 63822
+- ZIP extension: 
+- State project ID: 02-003
+- Latitude: 36.673767
+- Longitude: -89.971136
+- County FIPS: 29207
+- County from: 2020
+- Tract 2020: 29207470700
+- Tract 2010: 29207470700
+- Tract 2000: 29207970700
+- Tract 1990: 29207970700
+- Place 2020: 04960
+- Place 2010: 04960
+- Place 2000: 04960
+- Place 1990: 0335
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

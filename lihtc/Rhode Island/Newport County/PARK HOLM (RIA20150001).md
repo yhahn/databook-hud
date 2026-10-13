@@ -1,0 +1,85 @@
+# Project: PARK HOLM (RIA20150001)
+
+- HUD ID: RIA20150001
+- HUD ID before: 
+- Project: PARK HOLM
+- Address: PARK HOLM STREET
+- City: NEWPORT
+- State: RI
+- ZIP: 02840
+- ZIP extension: 
+- State project ID: RI00186
+- Latitude: 41.4819
+- Longitude: -71.3024
+- County FIPS: 44005
+- County from: 2020
+- Tract 2020: 44005040800
+- Tract 2010: 44005040800
+- Tract 2000: 44005040700
+- Tract 1990: 
+- Place 2020: 49960
+- Place 2010: 49960
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 854196
+- Units: 111
+- Low-income units: 111
+- Units reported: 111
+- Low-income reported: 111
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 35
+- 3-bedroom units: 56
+- 4-bedroom units: 6
+- Construction: 
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 66
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

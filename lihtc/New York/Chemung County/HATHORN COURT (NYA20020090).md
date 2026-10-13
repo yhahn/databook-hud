@@ -1,0 +1,85 @@
+# Project: HATHORN COURT (NYA20020090)
+
+- HUD ID: NYA20020090
+- HUD ID before: 
+- Project: HATHORN COURT
+- Address: 472 HATHORN CT
+- City: ELMIRA
+- State: NY
+- ZIP: 14901
+- ZIP extension: 
+- State project ID: 20000797
+- Latitude: 42.110248
+- Longitude: -76.822251
+- County FIPS: 36015
+- County from: 2020
+- Tract 2020: 36015000200
+- Tract 2010: 36015000200
+- Tract 2000: 36015000200
+- Tract 1990: 36015000200
+- Place 2020: 24229
+- Place 2010: 24229
+- Place 2000: 24229
+- Place 1990: 1105
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 274
+- Low-income units: 274
+- Units reported: 274
+- Low-income reported: 274
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 174
+- 3-bedroom units: 64
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

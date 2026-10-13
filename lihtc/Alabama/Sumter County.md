@@ -1,0 +1,24 @@
+# Tax Credit Projects: Sumter County, AL
+
+- Level: County
+- Postal code: AL
+- State FIPS: 01
+- County FIPS: 01119
+- Counties: 
+- Projects: 7
+- Units: 237
+- Low-income units: 237
+
+The low-income housing tax credit projects of Sumter County, Alabama, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [LAKE FOREST ESTATES II (ALA19900065)](./Sumter%20County/LAKE%20FOREST%20ESTATES%20II%20%28ALA19900065%29.md) | ALA19900065 | LIVINGSTON | 1990 | 32 | 32 |
+| [LAKERIDGE APTS (LIVINGSTON) (ALA19930058)](./Sumter%20County/LAKERIDGE%20APTS%20%28LIVINGSTON%29%20%28ALA19930058%29.md) | ALA19930058 | LIVINGSTON | 1993 | 24 | 24 |
+| [SUMTER COUNTY APTS (ALA19940250)](./Sumter%20County/SUMTER%20COUNTY%20APTS%20%28ALA19940250%29.md) | ALA19940250 | YORK | 1994 | 50 | 50 |
+| [ALEX PLACE APTS (ALA19990010)](./Sumter%20County/ALEX%20PLACE%20APTS%20%28ALA19990010%29.md) | ALA19990010 | LIVINGSTON | 1999 | 24 | 24 |
+| [LAKE FOREST ESTATES (ALA20070086)](./Sumter%20County/LAKE%20FOREST%20ESTATES%20%28ALA20070086%29.md) | ALA20070086 | LIVINGSTON | 2007 | 24 | 24 |
+| [YORKTOWN VILLAGE (ALA20080242)](./Sumter%20County/YORKTOWN%20VILLAGE%20%28ALA20080242%29.md) | ALA20080242 | YORK | 2008 | 36 | 36 |
+| [STRATFORD MANOR (ALA20150014)](./Sumter%20County/STRATFORD%20MANOR%20%28ALA20150014%29.md) | ALA20150014 | LIVINGSTON | 2015 | 47 | 47 |

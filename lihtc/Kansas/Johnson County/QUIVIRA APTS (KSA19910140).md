@@ -1,0 +1,85 @@
+# Project: QUIVIRA APTS (KSA19910140)
+
+- HUD ID: KSA19910140
+- HUD ID before: 
+- Project: QUIVIRA APTS
+- Address: 12064 W 77TH TER
+- City: LENEXA
+- State: KS
+- ZIP: 66216
+- ZIP extension: 
+- State project ID: 60016
+- Latitude: 38.987923
+- Longitude: -94.726341
+- County FIPS: 20091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20091052419
+- Tract 2000: 20091052412
+- Tract 1990: 20091051906
+- Place 2020: 
+- Place 2010: 39350
+- Place 2000: 39350
+- Place 1990: 2194
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 411278
+- Units: 289
+- Low-income units: 289
+- Units reported: 289
+- Low-income reported: 289
+- Efficiencies: 0
+- 1-bedroom units: 145
+- 2-bedroom units: 144
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1992040. AKA LENEXA POINTE APTS.
+- Record status: Existing, unchanged

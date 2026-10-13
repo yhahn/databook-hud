@@ -1,0 +1,85 @@
+# Project: MADISON ESTATES APARTMENTS (ARA19980686)
+
+- HUD ID: ARA19980686
+- HUD ID before: 
+- Project: MADISON ESTATES APARTMENTS
+- Address: 156 REDWOOD CT OFC 40
+- City: HUNTSVILLE
+- State: AR
+- ZIP: 72740
+- ZIP extension: 
+- State project ID: AR-97-05
+- Latitude: 36.084175
+- Longitude: -93.73961
+- County FIPS: 05087
+- County from: 2020
+- Tract 2020: 05087960200
+- Tract 2010: 05087960200
+- Tract 2000: 05087960200
+- Tract 1990: 05087960200
+- Place 2020: 33970
+- Place 2010: 33970
+- Place 2000: 33970
+- Place 1990: 1030
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 75156
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1998022.
+- Record status: Existing, unchanged

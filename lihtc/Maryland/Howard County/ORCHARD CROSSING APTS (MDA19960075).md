@@ -1,0 +1,85 @@
+# Project: ORCHARD CROSSING APTS (MDA19960075)
+
+- HUD ID: MDA19960075
+- HUD ID before: 
+- Project: ORCHARD CROSSING APTS
+- Address: EXECUTIVE PARK DR
+- City: COLUMBIA
+- State: MD
+- ZIP: 21045
+- ZIP extension: 
+- State project ID: MD94-03
+- Latitude: 39.235478
+- Longitude: -76.814516
+- County FIPS: 24027
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24027602302
+- Tract 2000: 24027602302
+- Tract 1990: 24027602302
+- Place 2020: 
+- Place 2010: 26000
+- Place 2000: 26000
+- Place 1990: 0325
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 187
+- Low-income units: 95
+- Units reported: 187
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 141
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ORCHARD DEVELOPMENT.
+- Record status: Existing, unchanged

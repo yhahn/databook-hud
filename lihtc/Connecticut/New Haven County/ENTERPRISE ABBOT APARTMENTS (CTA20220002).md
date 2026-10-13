@@ -1,0 +1,85 @@
+# Project: ENTERPRISE ABBOT APARTMENTS (CTA20220002)
+
+- HUD ID: CTA20220002
+- HUD ID before: 
+- Project: ENTERPRISE ABBOT APARTMENTS
+- Address: 245 N. MAIN STREET + 13 CHERRY AVENUE
+- City: WATERBURY
+- State: CT
+- ZIP: 06702
+- ZIP extension: 
+- State project ID: CT-18-008
+- Latitude: 41.558803
+- Longitude: -73.038193
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009350101
+- Tract 2010: 09009350100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 80000
+- Place 2010: 80000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 892840
+- Units: 187
+- Low-income units: 187
+- Units reported: 187
+- Low-income reported: 187
+- Efficiencies: 0
+- 1-bedroom units: 159
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 80
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

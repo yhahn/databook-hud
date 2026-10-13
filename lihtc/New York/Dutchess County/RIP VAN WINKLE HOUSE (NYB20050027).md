@@ -1,0 +1,85 @@
+# Project: RIP VAN WINKLE HOUSE (NYB20050027)
+
+- HUD ID: NYB20050027
+- HUD ID before: 
+- Project: RIP VAN WINKLE HOUSE
+- Address: 10 RINALDI BLVD
+- City: POUGHKEEPSIE
+- State: NY
+- ZIP: 12601
+- ZIP extension: 
+- State project ID: 1570
+- Latitude: 41.705541
+- Longitude: -73.938578
+- County FIPS: 36027
+- County from: 2020
+- Tract 2020: 36027220102
+- Tract 2010: 36027220100
+- Tract 2000: 36027220100
+- Tract 1990: 36027220100
+- Place 2020: 59641
+- Place 2010: 59641
+- Place 2000: 59641
+- Place 1990: 2985
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 708203
+- Units: 179
+- Low-income units: 166
+- Units reported: 179
+- Low-income reported: 166
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 88
+- 3-bedroom units: 42
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

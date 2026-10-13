@@ -1,0 +1,85 @@
+# Project: NORTHLAND LOFTS (MOA19999005)
+
+- HUD ID: MOA19999005
+- HUD ID before: MOA00000068
+- Project: NORTHLAND LOFTS
+- Address: 715 ARMOUR RD
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64116
+- ZIP extension: 3637
+- State project ID: 97120
+- Latitude: 39.142646
+- Longitude: -94.572577
+- County FIPS: 29047
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29047022100
+- Tract 2000: 29047020000
+- Tract 1990: 29047020000
+- Place 2020: 
+- Place 2010: 53102
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 475422
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 54
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS MOA00000068
+- Record status: Existing, unchanged

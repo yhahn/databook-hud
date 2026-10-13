@@ -1,0 +1,85 @@
+# Project: OAK APTS (ORA20000075)
+
+- HUD ID: ORA20000075
+- HUD ID before: 
+- Project: OAK APTS
+- Address: 333 SW OAK ST
+- City: PORTLAND
+- State: OR
+- ZIP: 97204
+- ZIP extension: 
+- State project ID: X001-418
+- Latitude: 45.521116
+- Longitude: -122.67417
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051010602
+- Tract 2010: 41051010600
+- Tract 2000: 41051005400
+- Tract 1990: 41051005400
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 192670
+- Units: 90
+- Low-income units: 89
+- Units reported: 90
+- Low-income reported: 89
+- Efficiencies: 72
+- 1-bedroom units: 18
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

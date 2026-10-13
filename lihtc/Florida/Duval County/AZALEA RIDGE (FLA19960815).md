@@ -1,0 +1,85 @@
+# Project: AZALEA RIDGE (FLA19960815)
+
+- HUD ID: FLA19960815
+- HUD ID before: 
+- Project: AZALEA RIDGE
+- Address: 8151 ALDERMAN RD
+- City: JACKSONVILLE
+- State: FL
+- ZIP: 32211
+- ZIP extension: 
+- State project ID: 56
+- Latitude: 30.33404
+- Longitude: -81.57082
+- County FIPS: 12031
+- County from: 2020
+- Tract 2020: 12031015002
+- Tract 2010: 12031015002
+- Tract 2000: 12031015002
+- Tract 1990: 12031015002
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1003
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 102
+- Low-income units: 102
+- Units reported: 102
+- Low-income reported: 102
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 36
+- 3-bedroom units: 38
+- 4-bedroom units: 16
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

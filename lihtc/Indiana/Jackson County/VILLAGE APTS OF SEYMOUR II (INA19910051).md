@@ -1,0 +1,85 @@
+# Project: VILLAGE APTS OF SEYMOUR II (INA19910051)
+
+- HUD ID: INA19910051
+- HUD ID before: 
+- Project: VILLAGE APTS OF SEYMOUR II
+- Address: 1127 E OAK ST
+- City: SEYMOUR
+- State: IN
+- ZIP: 47274
+- ZIP extension: 
+- State project ID: IN-90-01300
+- Latitude: 38.953502
+- Longitude: -85.873057
+- County FIPS: 18071
+- County from: 2020
+- Tract 2020: 18071967901
+- Tract 2010: 18071967901
+- Tract 2000: 18071967900
+- Tract 1990: 18071967900
+- Place 2020: 68832
+- Place 2010: 68832
+- Place 2000: 68832
+- Place 1990: 2310
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001570.
+- Record status: Existing, unchanged

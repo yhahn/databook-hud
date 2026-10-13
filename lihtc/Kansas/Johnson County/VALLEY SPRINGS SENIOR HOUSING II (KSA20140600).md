@@ -1,0 +1,85 @@
+# Project: VALLEY SPRINGS SENIOR HOUSING II (KSA20140600)
+
+- HUD ID: KSA20140600
+- HUD ID before: 
+- Project: VALLEY SPRINGS SENIOR HOUSING II
+- Address: 31605 W 83RD CIR
+- City: DE SOTO
+- State: KS
+- ZIP: 66018
+- ZIP extension: 
+- State project ID: 60583
+- Latitude: 38.977628
+- Longitude: -94.951889
+- County FIPS: 20091
+- County from: 2020
+- Tract 2020: 20091052701
+- Tract 2010: 20091052700
+- Tract 2000: 20091052700
+- Tract 1990: 20091052700
+- Place 2020: 17850
+- Place 2010: 17850
+- Place 2000: 17850
+- Place 1990: 0685
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 25
+- Units reported: 28
+- Low-income reported: 25
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

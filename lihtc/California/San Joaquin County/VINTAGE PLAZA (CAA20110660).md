@@ -1,0 +1,85 @@
+# Project: VINTAGE PLAZA (CAA20110660)
+
+- HUD ID: CAA20110660
+- HUD ID before: 
+- Project: VINTAGE PLAZA
+- Address: 352 MALBEC CT
+- City: STOCKTON
+- State: CA
+- ZIP: 95203
+- ZIP extension: 
+- State project ID: CA-09-602
+- Latitude: 37.950073
+- Longitude: -121.282751
+- County FIPS: 06077
+- County from: 2020
+- Tract 2020: 06077000101
+- Tract 2010: 06077000100
+- Tract 2000: 06077000100
+- Tract 1990: 06077000100
+- Place 2020: 75000
+- Place 2010: 75000
+- Place 2000: 75000
+- Place 1990: 2805
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 17
+- Units reported: 18
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 155200
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3137944
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011568.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SILVERADO CREEK FAMILY APTS PHASE I (CAA20060495)
+
+- HUD ID: CAA20060495
+- HUD ID before: 
+- Project: SILVERADO CREEK FAMILY APTS PHASE I
+- Address: 8501 BRUCEVILLE RD
+- City: ELK GROVE
+- State: CA
+- ZIP: 95758
+- ZIP extension: 
+- State project ID: CA-05-817
+- Latitude: 38.450064
+- Longitude: -121.417688
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067009608
+- Tract 2010: 06067009608
+- Tract 2000: 06067009608
+- Tract 1990: 06067009305
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 22020
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 701668
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 56
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

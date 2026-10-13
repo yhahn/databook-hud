@@ -1,0 +1,85 @@
+# Project: TULLAMORE COMMONS (IDA20100040)
+
+- HUD ID: IDA20100040
+- HUD ID before: 
+- Project: TULLAMORE COMMONS
+- Address: 3797 EAST CARRADALE AVENUE
+- City: POST FALLS
+- State: ID
+- ZIP: 83854
+- ZIP extension: 
+- State project ID: HC0915
+- Latitude: 47.733255
+- Longitude: -116.896445
+- County FIPS: 16055
+- County from: 2020
+- Tract 2020: 16055000502
+- Tract 2010: 16055000500
+- Tract 2000: 16055000400
+- Tract 1990: 16055000500
+- Place 2020: 64810
+- Place 2010: 64810
+- Place 2000: 
+- Place 1990: 0790
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 575172
+- Units: 50
+- Low-income units: 44
+- Units reported: 50
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 44
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 1140000
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

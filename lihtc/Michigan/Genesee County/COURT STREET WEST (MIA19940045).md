@@ -1,0 +1,85 @@
+# Project: COURT STREET WEST (MIA19940045)
+
+- HUD ID: MIA19940045
+- HUD ID before: 
+- Project: COURT STREET WEST
+- Address: 700 E CT ST
+- City: FLINT
+- State: MI
+- ZIP: 48503
+- ZIP extension: 
+- State project ID: MI-876
+- Latitude: 43.016306
+- Longitude: -83.680087
+- County FIPS: 26049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26049002900
+- Tract 2000: 26049002900
+- Tract 1990: 26049002900
+- Place 2020: 
+- Place 2010: 29000
+- Place 2000: 29000
+- Place 1990: 0920
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 106
+- Low-income units: 42
+- Units reported: 106
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 69
+- 2-bedroom units: 37
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

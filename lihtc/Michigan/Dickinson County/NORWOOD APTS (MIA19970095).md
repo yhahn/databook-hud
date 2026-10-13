@@ -1,0 +1,85 @@
+# Project: NORWOOD APTS (MIA19970095)
+
+- HUD ID: MIA19970095
+- HUD ID before: 
+- Project: NORWOOD APTS
+- Address: 1025 NORWAY ST
+- City: NORWAY
+- State: MI
+- ZIP: 49870
+- ZIP extension: 
+- State project ID: MI-2054
+- Latitude: 45.79037
+- Longitude: -87.908889
+- County FIPS: 26043
+- County from: 2020
+- Tract 2020: 26043950300
+- Tract 2010: 26043950300
+- Tract 2000: 26043950300
+- Tract 1990: 26043950300
+- Place 2020: 59220
+- Place 2010: 59220
+- Place 2000: 59220
+- Place 1990: 1965
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 15
+- Units reported: 16
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

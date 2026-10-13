@@ -1,0 +1,85 @@
+# Project: PEAKS AT SPRINGDALE II (ARA20210006)
+
+- HUD ID: ARA20210006
+- HUD ID before: 
+- Project: PEAKS AT SPRINGDALE II
+- Address: 1252 COOPER DRIVE
+- City: SPRINGDALE
+- State: AR
+- ZIP: 72764
+- ZIP extension: 
+- State project ID: 5071
+- Latitude: 36.207018
+- Longitude: -94.142068
+- County FIPS: 05143
+- County from: 2020
+- Tract 2020: 05143010401
+- Tract 2010: 05143010401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 66080
+- Place 2010: 66080
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 20
+- 3-bedroom units: 28
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

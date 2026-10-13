@@ -1,0 +1,85 @@
+# Project: WAGNER CREEK (FLA20170020)
+
+- HUD ID: FLA20170020
+- HUD ID before: 
+- Project: WAGNER CREEK
+- Address: 1501 NW 13TH COURT
+- City: MIAMI
+- State: FL
+- ZIP: 33125
+- ZIP extension: 
+- State project ID: 2658
+- Latitude: 25.789533
+- Longitude: -80.217445
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086003004
+- Tract 2010: 12086003004
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1601881
+- Units: 73
+- Low-income units: 68
+- Units reported: 73
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 55
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

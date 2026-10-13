@@ -1,0 +1,85 @@
+# Project: VALLEY CROWN (NEA20070035)
+
+- HUD ID: NEA20070035
+- HUD ID before: 
+- Project: VALLEY CROWN
+- Address: 107 W CONDRON ST
+- City: VALLEY
+- State: NE
+- ZIP: 68064
+- ZIP extension: 
+- State project ID: 7-0653
+- Latitude: 41.304375
+- Longitude: -96.348681
+- County FIPS: 31055
+- County from: 2020
+- Tract 2020: 31055007504
+- Tract 2010: 31055007504
+- Tract 2000: 31055007504
+- Tract 1990: 31055007501
+- Place 2020: 50020
+- Place 2010: 50020
+- Place 2000: 50020
+- Place 1990: 2500
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 154343
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

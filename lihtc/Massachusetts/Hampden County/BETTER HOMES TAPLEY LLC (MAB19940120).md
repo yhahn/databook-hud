@@ -1,0 +1,85 @@
+# Project: BETTER HOMES TAPLEY LLC (MAB19940120)
+
+- HUD ID: MAB19940120
+- HUD ID before: 
+- Project: BETTER HOMES TAPLEY LLC
+- Address: 221 BAY ST
+- City: SPRINGFIELD
+- State: MA
+- ZIP: 01109
+- ZIP extension: 
+- State project ID: 10292
+- Latitude: 42.114383
+- Longitude: -72.568483
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013801300
+- Tract 2010: 25013801300
+- Tract 2000: 25013801300
+- Tract 1990: 25013801300
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 4090
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 22
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000127. AKA TAPLEY COURT.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HONEYTREE APTS (MNA19870100)
+
+- HUD ID: MNA19870100
+- HUD ID before: 
+- Project: HONEYTREE APTS
+- Address: 307 HONEYTREE DR
+- City: DELANO
+- State: MN
+- ZIP: 55328
+- ZIP extension: 
+- State project ID: MN-87-005
+- Latitude: 45.03199
+- Longitude: -93.793142
+- County FIPS: 27171
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27171101000
+- Tract 2000: 27171101000
+- Tract 1990: 27171101000
+- Place 2020: 
+- Place 2010: 15454
+- Place 2000: 15454
+- Place 1990: 
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 24
+- Units reported: 25
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

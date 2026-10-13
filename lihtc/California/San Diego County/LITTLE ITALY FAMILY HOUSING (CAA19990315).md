@@ -1,0 +1,85 @@
+# Project: LITTLE ITALY FAMILY HOUSING (CAA19990315)
+
+- HUD ID: CAA19990315
+- HUD ID before: 
+- Project: LITTLE ITALY FAMILY HOUSING
+- Address: 1528 INDIA ST
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92101
+- ZIP extension: 
+- State project ID: CA-97-974
+- Latitude: 32.721384
+- Longitude: -117.168482
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073005802
+- Tract 2010: 06073005800
+- Tract 2000: 06073005800
+- Tract 1990: 06073005800
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 83233
+- Units: 37
+- Low-income units: 15
+- Units reported: 37
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 19
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

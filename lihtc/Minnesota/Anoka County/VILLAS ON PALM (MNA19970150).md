@@ -1,0 +1,85 @@
+# Project: VILLAS ON PALM (MNA19970150)
+
+- HUD ID: MNA19970150
+- HUD ID before: 
+- Project: VILLAS ON PALM
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: COON RAPIDS
+- State: MN
+- ZIP: 55448
+- ZIP extension: 
+- State project ID: D2975
+- Latitude: 45.147921
+- Longitude: -93.288998
+- County FIPS: 27003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27003050710
+- Tract 2000: 27003050710
+- Tract 1990: 27003050705
+- Place 2020: 
+- Place 2010: 13114
+- Place 2000: 13114
+- Place 1990: 0820
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 14
+- Units reported: 16
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VILLAS ON PALM.
+- Record status: Existing, unchanged

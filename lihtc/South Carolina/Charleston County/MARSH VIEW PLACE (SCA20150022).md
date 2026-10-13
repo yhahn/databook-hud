@@ -1,0 +1,85 @@
+# Project: MARSH VIEW PLACE (SCA20150022)
+
+- HUD ID: SCA20150022
+- HUD ID before: 
+- Project: MARSH VIEW PLACE
+- Address: 520 MCLERNON TRACE
+- City: CHARLESTON
+- State: SC
+- ZIP: 29455
+- ZIP extension: 
+- State project ID: SC-13-040
+- Latitude: 32.799358
+- Longitude: -80.110042
+- County FIPS: 45019
+- County from: 2020
+- Tract 2020: 45019005602
+- Tract 2010: 45019005600
+- Tract 2000: 45019002609
+- Tract 1990: 
+- Place 2020: 13330
+- Place 2010: 13330
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 750000
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 36
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

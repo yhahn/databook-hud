@@ -1,0 +1,85 @@
+# Project: ELSON POINTE (OHA20000055)
+
+- HUD ID: OHA20000055
+- HUD ID before: 
+- Project: ELSON POINTE
+- Address: 408 MAGNOLIA DR
+- City: BARBERTON
+- State: OH
+- ZIP: 44203
+- ZIP extension: 
+- State project ID: 980086
+- Latitude: 40.995757
+- Longitude: -81.594674
+- County FIPS: 39153
+- County from: 2020
+- Tract 2020: 39153510301
+- Tract 2010: 39153510301
+- Tract 2000: 39153510301
+- Tract 1990: 39153510301
+- Place 2020: 03828
+- Place 2010: 03828
+- Place 2000: 03828
+- Place 1990: 0230
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 645318
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 35
+- 4-bedroom units: 35
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

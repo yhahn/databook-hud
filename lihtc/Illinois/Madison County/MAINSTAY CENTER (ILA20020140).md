@@ -1,0 +1,85 @@
+# Project: MAINSTAY CENTER (ILA20020140)
+
+- HUD ID: ILA20020140
+- HUD ID before: 
+- Project: MAINSTAY CENTER
+- Address: 1218 19TH ST
+- City: GRANITE CITY
+- State: IL
+- ZIP: 62040
+- ZIP extension: 
+- State project ID: 136601
+- Latitude: 38.701276
+- Longitude: -90.152185
+- County FIPS: 17119
+- County from: 2020
+- Tract 2020: 17119404000
+- Tract 2010: 17119404000
+- Tract 2000: 17119400400
+- Tract 1990: 17119400500
+- Place 2020: 30926
+- Place 2010: 30926
+- Place 2000: 30926
+- Place 1990: 2305
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 143225
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

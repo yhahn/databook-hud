@@ -1,0 +1,85 @@
+# Project: PINECREEK PLACE (FLA19920110)
+
+- HUD ID: FLA19920110
+- HUD ID before: 
+- Project: PINECREEK PLACE
+- Address: 2501 LESLIE ST
+- City: FLAGLER BEACH
+- State: FL
+- ZIP: 32136
+- ZIP extension: 
+- State project ID: 630
+- Latitude: 29.473886
+- Longitude: -81.147142
+- County FIPS: 12035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12035060304
+- Tract 2000: 12035060300
+- Tract 1990: 12035960300
+- Place 2020: 
+- Place 2010: 22550
+- Place 2000: 06100
+- Place 1990: 0630
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MADELINE PLACE SUBDIVISION (LAA20040070)
+
+- HUD ID: LAA20040070
+- HUD ID before: 
+- Project: MADELINE PLACE SUBDIVISION
+- Address: 2039 FAMERVILLE HWY
+- City: RUSTON
+- State: LA
+- ZIP: 71270
+- ZIP extension: 0000
+- State project ID: LA-02-051
+- Latitude: 32.548007
+- Longitude: -92.611457
+- County FIPS: 22061
+- County from: 2020
+- Tract 2020: 22061960500
+- Tract 2010: 22061960500
+- Tract 2000: 22061960500
+- Tract 1990: 22061960500
+- Place 2020: 66655
+- Place 2010: 66655
+- Place 2000: 66655
+- Place 1990: 1190
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 12252
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

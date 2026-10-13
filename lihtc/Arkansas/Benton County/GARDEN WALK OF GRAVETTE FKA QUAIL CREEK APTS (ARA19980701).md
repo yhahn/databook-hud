@@ -1,0 +1,85 @@
+# Project: GARDEN WALK OF GRAVETTE FKA QUAIL CREEK APTS (ARA19980701)
+
+- HUD ID: ARA19980701
+- HUD ID before: 
+- Project: GARDEN WALK OF GRAVETTE FKA QUAIL CREEK APTS
+- Address: 600 SW IRVING ST
+- City: GRAVETTE
+- State: AR
+- ZIP: 73736
+- ZIP extension: 
+- State project ID: AR-97-02-001
+- Latitude: 36.410235
+- Longitude: -94.459854
+- County FIPS: 05007
+- County from: 2020
+- Tract 2020: 05007021001
+- Tract 2010: 05007021001
+- Tract 2000: 05007021001
+- Tract 1990: 05007021001
+- Place 2020: 28360
+- Place 2010: 28360
+- Place 2000: 28360
+- Place 1990: 0815
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 32224
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1997673, ARA1997041. FKA QUAIL CREEK APTS
+- Record status: Existing, unchanged

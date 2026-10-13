@@ -1,0 +1,85 @@
+# Project: MEADOWVIEW APTS (KYA19920259)
+
+- HUD ID: KYA19920259
+- HUD ID before: 
+- Project: MEADOWVIEW APTS
+- Address: 100 MEADOW TRAIL DR
+- City: HIGHLAND HEIGHTS
+- State: KY
+- ZIP: 41076
+- ZIP extension: 
+- State project ID: KY-92-047
+- Latitude: 39.0174
+- Longitude: -84.4708
+- County FIPS: 21037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 21037053301
+- Tract 2000: 21037053000
+- Tract 1990: 21037053000
+- Place 2020: 
+- Place 2010: 16372
+- Place 2000: 16372
+- Place 1990: 0930
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 118
+- Low-income units: 118
+- Units reported: 118
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 58
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KYA0000620, KYA0000115.
+- Record status: Existing, unchanged

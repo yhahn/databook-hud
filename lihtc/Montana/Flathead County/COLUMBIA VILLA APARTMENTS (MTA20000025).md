@@ -1,0 +1,85 @@
+# Project: COLUMBIA VILLA APARTMENTS (MTA20000025)
+
+- HUD ID: MTA20000025
+- HUD ID before: 
+- Project: COLUMBIA VILLA APARTMENTS
+- Address: 700 7TH STREET WEST
+- City: COLUMBIA FALLS
+- State: MT
+- ZIP: 59912
+- ZIP extension: 0000
+- State project ID: 99140
+- Latitude: 48.37224
+- Longitude: -114.191906
+- County FIPS: 30029
+- County from: 2020
+- Tract 2020: 30029000203
+- Tract 2010: 30029000203
+- Tract 2000: 30029000200
+- Tract 1990: 30029000200
+- Place 2020: 16600
+- Place 2010: 16600
+- Place 2000: 16600
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 48856
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 46
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

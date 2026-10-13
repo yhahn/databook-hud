@@ -1,0 +1,85 @@
+# Project: EVERGREEN AT MORNINGSTAR (TXA20100035)
+
+- HUD ID: TXA20100035
+- HUD ID before: 
+- Project: EVERGREEN AT MORNINGSTAR
+- Address: 6245 MORNING STAR DR
+- City: THE COLONY
+- State: TX
+- ZIP: 75056
+- ZIP extension: 
+- State project ID: TX4544
+- Latitude: 33.080285
+- Longitude: -96.862798
+- County FIPS: 48121
+- County from: 2020
+- Tract 2020: 48121021532
+- Tract 2010: 48121021519
+- Tract 2000: 48121021508
+- Tract 1990: 48121021507
+- Place 2020: 72530
+- Place 2010: 72530
+- Place 2000: 27684
+- Place 1990: 4242
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 145
+- Low-income units: 145
+- Units reported: 145
+- Low-income reported: 145
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 3000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

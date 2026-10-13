@@ -1,0 +1,85 @@
+# Project: RESERVE AT CENTERRA (COA20020085)
+
+- HUD ID: COA20020085
+- HUD ID before: 
+- Project: RESERVE AT CENTERRA
+- Address: 4264 MCWHINNEY BLVD
+- City: LOVELAND
+- State: CO
+- ZIP: 80538
+- ZIP extension: 
+- State project ID: CO-00-505
+- Latitude: 40.409534
+- Longitude: -105.015499
+- County FIPS: 08069
+- County from: 2020
+- Tract 2020: 08069001715
+- Tract 2010: 08069001709
+- Tract 2000: 08069001705
+- Tract 1990: 08069001705
+- Place 2020: 46465
+- Place 2010: 46465
+- Place 2000: 27425
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 152
+- Low-income units: 151
+- Units reported: 152
+- Low-income reported: 151
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 87
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

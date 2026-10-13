@@ -1,0 +1,85 @@
+# Project: SALEM LAFAYETTE ASSOC. L.P. (NJA19989064)
+
+- HUD ID: NJA19989064
+- HUD ID before: 
+- Project: SALEM LAFAYETTE ASSOC. L.P.
+- Address: 4 MADISON AVE
+- City: JERSEY CITY
+- State: NJ
+- ZIP: 07304
+- ZIP extension: 2862
+- State project ID: PM01146
+- Latitude: 40.714565
+- Longitude: -74.073302
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017004300
+- Tract 2010: 34017004300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 984851
+- Units: 74
+- Low-income units: 74
+- Units reported: 74
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 22
+- 3-bedroom units: 4
+- 4-bedroom units: 11
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 400000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

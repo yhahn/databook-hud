@@ -1,0 +1,85 @@
+# Project: WAGONER VILLAGE APTS (OKA20040105)
+
+- HUD ID: OKA20040105
+- HUD ID before: 
+- Project: WAGONER VILLAGE APTS
+- Address: 1501 S DEWEY AVE
+- City: WAGONER
+- State: OK
+- ZIP: 74467
+- ZIP extension: 
+- State project ID: 020719
+- Latitude: 35.945151
+- Longitude: -95.394942
+- County FIPS: 40145
+- County from: 2020
+- Tract 2020: 40145030102
+- Tract 2010: 40145030102
+- Tract 2000: 40145030100
+- Tract 1990: 40145030100
+- Place 2020: 77850
+- Place 2010: 77850
+- Place 2000: 77850
+- Place 1990: 2525
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PRENTIS I APTS (MIA20140050)
+
+- HUD ID: MIA20140050
+- HUD ID before: 
+- Project: PRENTIS I APTS
+- Address: 15100 W 10 MILE RD
+- City: OAK PARK
+- State: MI
+- ZIP: 48237
+- ZIP extension: 
+- State project ID: MI-3127
+- Latitude: 42.47408
+- Longitude: -83.196597
+- County FIPS: 26125
+- County from: 2020
+- Tract 2020: 26125171000
+- Tract 2010: 26125171000
+- Tract 2000: 26125172400
+- Tract 1990: 26125172400
+- Place 2020: 59920
+- Place 2010: 59920
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1648215
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

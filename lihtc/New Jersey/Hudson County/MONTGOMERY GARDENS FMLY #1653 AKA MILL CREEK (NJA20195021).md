@@ -1,0 +1,85 @@
+# Project: MONTGOMERY GARDENS FMLY #1653 AKA MILL CREEK (NJA20195021)
+
+- HUD ID: NJA20195021
+- HUD ID before: 
+- Project: MONTGOMERY GARDENS FMLY #1653 AKA MILL CREEK
+- Address: 214 CORNELISON AVE
+- City: JERSEY CITY
+- State: NJ
+- ZIP: 07302
+- ZIP extension: 3181
+- State project ID: 03046-1
+- Latitude: 40.723345
+- Longitude: -74.060997
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017006600
+- Tract 2010: 34017006600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 126
+- Low-income units: 121
+- Units reported: 126
+- Low-income reported: 121
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 71
+- 3-bedroom units: 26
+- 4-bedroom units: 2
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

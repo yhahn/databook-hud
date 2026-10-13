@@ -1,0 +1,85 @@
+# Project: FOX CHASE I (GAA19920060)
+
+- HUD ID: GAA19920060
+- HUD ID before: 
+- Project: FOX CHASE I
+- Address: 11 FOX CHASE CIR
+- City: GREENSBORO
+- State: GA
+- ZIP: 30642
+- ZIP extension: 2956
+- State project ID: GA-91-014
+- Latitude: 33.578133
+- Longitude: -83.168314
+- County FIPS: 13133
+- County from: 2020
+- Tract 2020: 13133950305
+- Tract 2010: 13133950303
+- Tract 2000: 13133950300
+- Tract 1990: 13133950300
+- Place 2020: 34876
+- Place 2010: 34876
+- Place 2000: 34876
+- Place 1990: 1260
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

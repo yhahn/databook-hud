@@ -1,0 +1,85 @@
+# Project: KAMIAKIN APARTMENTS (WAA20060135)
+
+- HUD ID: WAA20060135
+- HUD ID before: 
+- Project: KAMIAKIN APARTMENTS
+- Address: 4711 W METALINE AVE
+- City: KENNEWICK
+- State: WA
+- ZIP: 99336
+- ZIP extension: 
+- State project ID: 05-107A-E
+- Latitude: 46.219485
+- Longitude: -119.184509
+- County FIPS: 53005
+- County from: 2020
+- Tract 2020: 53005010901
+- Tract 2010: 53005010901
+- Tract 2000: 53005010901
+- Tract 1990: 
+- Place 2020: 35275
+- Place 2010: 35275
+- Place 2000: 35275
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 423888
+- Units: 236
+- Low-income units: 233
+- Units reported: 236
+- Low-income reported: 233
+- Efficiencies: 0
+- 1-bedroom units: 212
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 38
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

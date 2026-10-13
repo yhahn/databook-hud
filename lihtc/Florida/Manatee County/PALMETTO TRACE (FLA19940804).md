@@ -1,0 +1,85 @@
+# Project: PALMETTO TRACE (FLA19940804)
+
+- HUD ID: FLA19940804
+- HUD ID before: 
+- Project: PALMETTO TRACE
+- Address: 708 SECOND AVE E
+- City: PALMETTO
+- State: FL
+- ZIP: 34221
+- ZIP extension: 
+- State project ID: 593
+- Latitude: 27.517204
+- Longitude: -82.563054
+- County FIPS: 12081
+- County from: 2020
+- Tract 2020: 12081001502
+- Tract 2010: 12081001502
+- Tract 2000: 12081001502
+- Tract 1990: 12081001502
+- Place 2020: 54250
+- Place 2010: 54250
+- Place 2000: 44175
+- Place 1990: 1660
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 196
+- Low-income units: 196
+- Units reported: 196
+- Low-income reported: 196
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 132
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

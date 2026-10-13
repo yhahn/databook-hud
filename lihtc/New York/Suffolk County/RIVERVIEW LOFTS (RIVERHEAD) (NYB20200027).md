@@ -1,0 +1,85 @@
+# Project: RIVERVIEW LOFTS (RIVERHEAD) (NYB20200027)
+
+- HUD ID: NYB20200027
+- HUD ID before: 
+- Project: RIVERVIEW LOFTS (RIVERHEAD)
+- Address: 221 EAST MAIN ST.
+- City: RIVERHEAD
+- State: NY
+- ZIP: 11901
+- ZIP extension: 
+- State project ID: NY-17-2417
+- Latitude: 40.917612
+- Longitude: -72.659092
+- County FIPS: 36103
+- County from: 2020
+- Tract 2020: 36103169800
+- Tract 2010: 36103169800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 61973
+- Place 2010: 61973
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 116
+- Low-income units: 87
+- Units reported: 116
+- Low-income reported: 87
+- Efficiencies: 31
+- 1-bedroom units: 57
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

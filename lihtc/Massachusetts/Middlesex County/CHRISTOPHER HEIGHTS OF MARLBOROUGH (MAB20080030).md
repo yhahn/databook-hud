@@ -1,0 +1,85 @@
+# Project: CHRISTOPHER HEIGHTS OF MARLBOROUGH (MAB20080030)
+
+- HUD ID: MAB20080030
+- HUD ID before: 
+- Project: CHRISTOPHER HEIGHTS OF MARLBOROUGH
+- Address: 84 CHESTNUT ST
+- City: MARLBOROUGH
+- State: MA
+- ZIP: 01752
+- ZIP extension: 
+- State project ID: 1618
+- Latitude: 42.347167
+- Longitude: -71.559666
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017321500
+- Tract 2010: 25017321500
+- Tract 2000: 25017321500
+- Tract 1990: 25017321500
+- Place 2020: 38715
+- Place 2010: 38715
+- Place 2000: 38715
+- Place 1990: 2305
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 556316
+- Units: 83
+- Low-income units: 50
+- Units reported: 83
+- Low-income reported: 50
+- Efficiencies: 71
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 615000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000199.
+- Record status: Existing, unchanged

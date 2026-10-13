@@ -1,0 +1,85 @@
+# Project: MANOR AT SCOTT'S CROSSING, LP (GAA20120125)
+
+- HUD ID: GAA20120125
+- HUD ID before: 
+- Project: MANOR AT SCOTT'S CROSSING, LP
+- Address: 1671 JAMES JACKSON PKWY NW
+- City: ATLANTA
+- State: GA
+- ZIP: 30318
+- ZIP extension: 3474
+- State project ID: GA-09-032
+- Latitude: 33.799695
+- Longitude: -84.475264
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121008701
+- Tract 2010: 13121008700
+- Tract 2000: 13121008702
+- Tract 1990: 13121008702
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 101
+- Low-income units: 101
+- Units reported: 101
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 100
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

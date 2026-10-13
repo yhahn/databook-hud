@@ -1,0 +1,85 @@
+# Project: FOX CREEK PLACE II (IDA20020015)
+
+- HUD ID: IDA20020015
+- HUD ID before: 
+- Project: FOX CREEK PLACE II
+- Address: 101 HONEYSUCKLE LOOP
+- City: DRIGGS
+- State: ID
+- ZIP: 83422
+- ZIP extension: 
+- State project ID: HC0201
+- Latitude: 43.743395
+- Longitude: -111.114616
+- County FIPS: 16081
+- County from: 2020
+- Tract 2020: 16081960103
+- Tract 2010: 16081960100
+- Tract 2000: 16081960100
+- Tract 1990: 16081960100
+- Place 2020: 22690
+- Place 2010: 22690
+- Place 2000: 
+- Place 1990: 0240
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 127711
+- Units: 24
+- Low-income units: 19
+- Units reported: 24
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

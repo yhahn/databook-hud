@@ -1,0 +1,85 @@
+# Project: COUNTRY HILL APTS I (IAA19900050)
+
+- HUD ID: IAA19900050
+- HUD ID before: 
+- Project: COUNTRY HILL APTS I
+- Address: 6741 C AVE NE
+- City: CEDAR RAPIDS
+- State: IA
+- ZIP: 52402
+- ZIP extension: 
+- State project ID: 89-01
+- Latitude: 42.045113
+- Longitude: -91.638861
+- County FIPS: 19113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19113000207
+- Tract 2000: 19113000204
+- Tract 1990: 19113000202
+- Place 2020: 
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 0670
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 673997
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

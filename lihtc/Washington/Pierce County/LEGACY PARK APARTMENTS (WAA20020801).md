@@ -1,0 +1,85 @@
+# Project: LEGACY PARK APARTMENTS (WAA20020801)
+
+- HUD ID: WAA20020801
+- HUD ID before: 
+- Project: LEGACY PARK APARTMENTS
+- Address: 3502 92ND STREET SOUTH
+- City: LAKEWOOD
+- State: WA
+- ZIP: 98499
+- ZIP extension: 
+- State project ID: 01-19A
+- Latitude: 47.173737
+- Longitude: -122.483981
+- County FIPS: 53053
+- County from: 2020
+- Tract 2020: 53053071807
+- Tract 2010: 53053071807
+- Tract 2000: 53053071804
+- Tract 1990: 53053071804
+- Place 2020: 38038
+- Place 2010: 38038
+- Place 2000: 38038
+- Place 1990: 0665
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 191622
+- Units: 107
+- Low-income units: 105
+- Units reported: 107
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 62
+- 3-bedroom units: 29
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: MUIRLANDS AT WINDEMERE APTS (CAA20050400)
+
+- HUD ID: CAA20050400
+- HUD ID before: 
+- Project: MUIRLANDS AT WINDEMERE APTS
+- Address: 1108 CRESTFIELD DR
+- City: SAN RAMON
+- State: CA
+- ZIP: 94582
+- ZIP extension: 
+- State project ID: CA-03-842
+- Latitude: 37.760689
+- Longitude: -121.905365
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013355115
+- Tract 2010: 06013355115
+- Tract 2000: 06013345109
+- Tract 1990: 06013345109
+- Place 2020: 68378
+- Place 2010: 68378
+- Place 2000: 68378
+- Place 1990: 2567
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 2265742
+- Units: 350
+- Low-income units: 349
+- Units reported: 350
+- Low-income reported: 349
+- Efficiencies: 0
+- 1-bedroom units: 128
+- 2-bedroom units: 130
+- 3-bedroom units: 92
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

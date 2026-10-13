@@ -1,0 +1,85 @@
+# Project: GREENFIELD VILLAGE (NCA19900220)
+
+- HUD ID: NCA19900220
+- HUD ID before: 
+- Project: GREENFIELD VILLAGE
+- Address: 805 GREENFIELD DR
+- City: DUNN
+- State: NC
+- ZIP: 28334
+- ZIP extension: 
+- State project ID: 9001072
+- Latitude: 35.314839
+- Longitude: -78.588111
+- County FIPS: 37085
+- County from: 2020
+- Tract 2020: 37085070200
+- Tract 2010: 37085070200
+- Tract 2000: 37085070200
+- Tract 1990: 37085070200
+- Place 2020: 18320
+- Place 2010: 18320
+- Place 2000: 18320
+- Place 1990: 0745
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 69707
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

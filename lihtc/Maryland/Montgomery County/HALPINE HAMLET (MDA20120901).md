@@ -1,0 +1,85 @@
+# Project: HALPINE HAMLET (MDA20120901)
+
+- HUD ID: MDA20120901
+- HUD ID before: 
+- Project: HALPINE HAMLET
+- Address: 5511 HALPINE PL
+- City: ROCKVILLE
+- State: MD
+- ZIP: 20851
+- ZIP extension: 
+- State project ID: MD11-22001
+- Latitude: 39.066232
+- Longitude: -77.114548
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031701219
+- Tract 2010: 24031701219
+- Tract 2000: 24031701204
+- Tract 1990: 24031701204
+- Place 2020: 56337
+- Place 2010: 56337
+- Place 2000: 56337
+- Place 1990: 0677
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 67
+- Low-income units: 50
+- Units reported: 67
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 29
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

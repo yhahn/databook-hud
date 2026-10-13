@@ -1,0 +1,85 @@
+# Project: SAVOY SQUARE (ILB20110808)
+
+- HUD ID: ILB20110808
+- HUD ID before: 
+- Project: SAVOY SQUARE
+- Address: 4448 S STATE ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60609
+- ZIP extension: 
+- State project ID: 20-04-405-039-0000
+- Latitude: 41.81391
+- Longitude: -87.626489
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031844600
+- Tract 2010: 17031835700
+- Tract 2000: 17031380600
+- Tract 1990: 17031380600
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 3862000
+- Units: 138
+- Low-income units: 110
+- Units reported: 138
+- Low-income reported: 110
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 63
+- 3-bedroom units: 48
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2011801.
+- Record status: Existing, unchanged

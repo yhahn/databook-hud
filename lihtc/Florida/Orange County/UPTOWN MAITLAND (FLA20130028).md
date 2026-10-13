@@ -1,0 +1,85 @@
+# Project: UPTOWN MAITLAND (FLA20130028)
+
+- HUD ID: FLA20130028
+- HUD ID before: 
+- Project: UPTOWN MAITLAND
+- Address: 525 SYBELIA PKWY
+- City: MAITLAND
+- State: FL
+- ZIP: 32751
+- ZIP extension: 
+- State project ID: 2573
+- Latitude: 28.630657
+- Longitude: -81.362273
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095015601
+- Tract 2010: 12095015601
+- Tract 2000: 12095015601
+- Tract 1990: 12095015601
+- Place 2020: 42575
+- Place 2010: 42575
+- Place 2000: 42575
+- Place 1990: 1280
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 93
+- Low-income units: 93
+- Units reported: 93
+- Low-income reported: 93
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 58
+- 3-bedroom units: 80
+- 4-bedroom units: 12
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

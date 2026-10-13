@@ -1,0 +1,85 @@
+# Project: LOFTS ON MAIN STREET (NEA20240007)
+
+- HUD ID: NEA20240007
+- HUD ID before: 
+- Project: LOFTS ON MAIN STREET
+- Address: MAIN & 10TH STREET
+- City: PLATTSMOUTH
+- State: NE
+- ZIP: 68048
+- ZIP extension: 0000
+- State project ID: 7-1015
+- Latitude: 40.9948
+- Longitude: -95.9299
+- County FIPS: 31025
+- County from: 2020
+- Tract 2020: 31025965600
+- Tract 2010: 31025965600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 39345
+- Place 2010: 39345
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 271161
+- Units: 41
+- Low-income units: 32
+- Units reported: 41
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 13
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

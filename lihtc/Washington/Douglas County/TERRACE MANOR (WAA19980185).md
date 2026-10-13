@@ -1,0 +1,85 @@
+# Project: TERRACE MANOR (WAA19980185)
+
+- HUD ID: WAA19980185
+- HUD ID before: 
+- Project: TERRACE MANOR
+- Address: 657 N BAKER AVE
+- City: EAST WENATCHEE
+- State: WA
+- ZIP: 98802
+- ZIP extension: 
+- State project ID: 96-35O
+- Latitude: 47.413998
+- Longitude: -120.289113
+- County FIPS: 53017
+- County from: 2020
+- Tract 2020: 53017950700
+- Tract 2010: 53017950700
+- Tract 2000: 53017950700
+- Tract 1990: 53017950700
+- Place 2020: 20155
+- Place 2010: 20155
+- Place 2000: 20155
+- Place 1990: 0355
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 372396
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 19
+- 3-bedroom units: 24
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

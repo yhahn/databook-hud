@@ -1,0 +1,85 @@
+# Project: MARTIN LAMPLIGHTER (CENTRALIA) (ILA19890119)
+
+- HUD ID: ILA19890119
+- HUD ID before: 
+- Project: MARTIN LAMPLIGHTER (CENTRALIA)
+- Address: 104 FAIRWAY DR
+- City: CENTRALIA
+- State: IL
+- ZIP: 62801
+- ZIP extension: 
+- State project ID: 226-89
+- Latitude: 38.530756
+- Longitude: -89.095914
+- County FIPS: 17121
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17121952300
+- Tract 2000: 17121952300
+- Tract 1990: 17121952300
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 12164
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 34410
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000600.
+- Record status: Existing, unchanged

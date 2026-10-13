@@ -1,0 +1,85 @@
+# Project: NEW DEVONSHIRE WEST (OHA19969298)
+
+- HUD ID: OHA19969298
+- HUD ID before: 
+- Project: NEW DEVONSHIRE WEST
+- Address: 97 SOUTH TWIN STREET
+- City: WEST JEFFERSON
+- State: OH
+- ZIP: 43162
+- ZIP extension: 
+- State project ID: 960057
+- Latitude: 39.943161
+- Longitude: -83.270657
+- County FIPS: 39097
+- County from: 2020
+- Tract 2020: 39097040500
+- Tract 2010: 39097040500
+- Tract 2000: 39097040500
+- Tract 1990: 39097040500
+- Place 2020: 83580
+- Place 2010: 83580
+- Place 2000: 83580
+- Place 1990: 1960
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

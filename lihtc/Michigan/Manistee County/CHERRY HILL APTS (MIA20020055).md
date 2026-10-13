@@ -1,0 +1,85 @@
+# Project: CHERRY HILL APTS (MIA20020055)
+
+- HUD ID: MIA20020055
+- HUD ID before: 
+- Project: CHERRY HILL APTS
+- Address: 579 RAMSDELL RD
+- City: MANISTEE
+- State: MI
+- ZIP: 49660
+- ZIP extension: 
+- State project ID: MI-1742
+- Latitude: 44.236166
+- Longitude: -86.337962
+- County FIPS: 26101
+- County from: 2020
+- Tract 2020: 26101000800
+- Tract 2010: 26101000800
+- Tract 2000: 26101990800
+- Tract 1990: 26101990800
+- Place 2020: 50720
+- Place 2010: 50720
+- Place 2000: 50720
+- Place 1990: 1625
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA0000015. AKA CHERRY HILL APTS-MANISTEE.
+- Record status: Existing, unchanged

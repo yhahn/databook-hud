@@ -1,0 +1,85 @@
+# Project: WINGLER HOUSE II (VAA20040100)
+
+- HUD ID: VAA20040100
+- HUD ID before: 
+- Project: WINGLER HOUSE II
+- Address: 20903 RUNNYMEADE TER
+- City: ASHBURN
+- State: VA
+- ZIP: 20147
+- ZIP extension: 
+- State project ID: 8800
+- Latitude: 39.037734
+- Longitude: -77.470192
+- County FIPS: 51107
+- County from: 2020
+- Tract 2020: 51107611017
+- Tract 2010: 51107611017
+- Tract 2000: 51107611003
+- Tract 1990: 51107611000
+- Place 2020: 03320
+- Place 2010: 03320
+- Place 2000: 
+- Place 1990: 0058
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 414373
+- Units: 132
+- Low-income units: 132
+- Units reported: 132
+- Low-income reported: 132
+- Efficiencies: 0
+- 1-bedroom units: 92
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2000245. AKA WINGLER HOUSE WEST.
+- Record status: Existing, unchanged

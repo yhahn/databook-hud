@@ -1,0 +1,85 @@
+# Project: OAK HOLLOW (SCA20120035)
+
+- HUD ID: SCA20120035
+- HUD ID before: 
+- Project: OAK HOLLOW
+- Address: 3009 TREE CANOPY DR
+- City: SUMMERVILLE
+- State: SC
+- ZIP: 29485
+- ZIP extension: 
+- State project ID: SC-10-049
+- Latitude: 33.007672
+- Longitude: -80.135351
+- County FIPS: 45019
+- County from: 2020
+- Tract 2020: 45019003106
+- Tract 2010: 45019003106
+- Tract 2000: 45019003106
+- Tract 1990: 45015020704
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 39220
+- Place 1990: 0724
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 850000
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 30
+- 4-bedroom units: 14
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 900000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA1988273.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WOODLAND MANOR (MNA20136005)
+
+- HUD ID: MNA20136005
+- HUD ID before: MNA19930260
+- Project: WOODLAND MANOR
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: GRAND RAPIDS
+- State: MN
+- ZIP: 55744
+- ZIP extension: 
+- State project ID: D0602
+- Latitude: 47.2183
+- Longitude: -93.5247
+- County FIPS: 27061
+- County from: 2020
+- Tract 2020: 27061480803
+- Tract 2010: 27061480802
+- Tract 2000: 27061980800
+- Tract 1990: 
+- Place 2020: 12502
+- Place 2010: 12412
+- Place 2000: 25118
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 98742
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 2
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS MNA19930260 AND STATE_ID IS MN-91-036
+- Record status: Existing, unchanged

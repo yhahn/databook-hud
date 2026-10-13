@@ -1,0 +1,85 @@
+# Project: WARRENSVILLE COMMUNITY APTS (OHA20080280)
+
+- HUD ID: OHA20080280
+- HUD ID before: 
+- Project: WARRENSVILLE COMMUNITY APTS
+- Address: 1500 WARRENSVILLE CTR RD
+- City: CLEVELAND HEIGHTS
+- State: OH
+- ZIP: 44121
+- ZIP extension: 
+- State project ID: 070175
+- Latitude: 41.519038
+- Longitude: -81.536681
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035140800
+- Tract 2010: 39035140800
+- Tract 2000: 39035140800
+- Tract 1990: 39035140800
+- Place 2020: 16014
+- Place 2010: 16014
+- Place 2000: 16014
+- Place 1990: 0905
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 101
+- Low-income units: 100
+- Units reported: 101
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

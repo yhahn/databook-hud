@@ -1,0 +1,85 @@
+# Project: MAJESTIC STOVE LOFTS (MOA20070110)
+
+- HUD ID: MOA20070110
+- HUD ID before: 
+- Project: MAJESTIC STOVE LOFTS
+- Address: 2011 LUCAS AVE
+- City: ST LOUIS
+- State: MO
+- ZIP: 63103
+- ZIP extension: 
+- State project ID: 02-408
+- Latitude: 38.634796
+- Longitude: -90.207806
+- County FIPS: 29510
+- County from: 2020
+- Tract 2020: 29510127500
+- Tract 2010: 29510127500
+- Tract 2000: 29510121400
+- Tract 1990: 29510121400
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 325290
+- Units: 120
+- Low-income units: 50
+- Units reported: 120
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 109
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

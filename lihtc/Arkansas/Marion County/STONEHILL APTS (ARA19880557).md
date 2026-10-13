@@ -1,0 +1,85 @@
+# Project: STONEHILL APTS (ARA19880557)
+
+- HUD ID: ARA19880557
+- HUD ID before: 
+- Project: STONEHILL APTS
+- Address: 508 W SIXTH ST
+- City: YELLVILLE
+- State: AR
+- ZIP: 72687
+- ZIP extension: 
+- State project ID: AR-88-05
+- Latitude: 36.231202
+- Longitude: -92.69101
+- County FIPS: 05089
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05089960201
+- Tract 2000: 05089960200
+- Tract 1990: 05089960200
+- Place 2020: 
+- Place 2010: 77330
+- Place 2000: 24010
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1988082, ARA1988080.
+- Record status: Existing, unchanged

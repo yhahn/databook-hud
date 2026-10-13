@@ -1,0 +1,85 @@
+# Project: BROOKHOLLOW MANOR (TXA19880380)
+
+- HUD ID: TXA19880380
+- HUD ID before: 
+- Project: BROOKHOLLOW MANOR
+- Address: 3444 DEPOT ST
+- City: BROOKSHIRE
+- State: TX
+- ZIP: 77423
+- ZIP extension: 
+- State project ID: 
+- Latitude: 29.786913
+- Longitude: -95.946222
+- County FIPS: 48473
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48473680200
+- Tract 2000: 48473680200
+- Tract 1990: 48473080200
+- Place 2020: 
+- Place 2010: 10636
+- Place 2000: 10636
+- Place 1990: 0580
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 40
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2415877
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000010.
+- Record status: Existing, unchanged

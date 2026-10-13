@@ -1,0 +1,85 @@
+# Project: PERRY LANE APARTMENTS (NCA0000X054)
+
+- HUD ID: NCA0000X054
+- HUD ID before: 
+- Project: PERRY LANE APARTMENTS
+- Address: 5 PERRY LANE
+- City: ARDEN
+- State: NC
+- ZIP: 28704
+- ZIP extension: 
+- State project ID: 9198044
+- Latitude: 35.454
+- Longitude: -82.510316
+- County FIPS: 37021
+- County from: 2020
+- Tract 2020: 37021002203
+- Tract 2010: 37021002203
+- Tract 2000: 37021002201
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 803526
+- Units: 120
+- Low-income units: 119
+- Units reported: 120
+- Low-income reported: 119
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 72
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

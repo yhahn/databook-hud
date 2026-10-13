@@ -1,0 +1,85 @@
+# Project: MUSEUM HILL REHAB PROJECT 2 (MOA19970190)
+
+- HUD ID: MOA19970190
+- HUD ID before: 
+- Project: MUSEUM HILL REHAB PROJECT 2
+- Address: 202 S 15TH ST
+- City: ST JOSEPH
+- State: MO
+- ZIP: 64501
+- ZIP extension: 
+- State project ID: 95-007
+- Latitude: 39.765838
+- Longitude: -94.842646
+- County FIPS: 29021
+- County from: 2020
+- Tract 2020: 29021001000
+- Tract 2010: 29021001000
+- Tract 2000: 29021001000
+- Tract 1990: 29021001000
+- Place 2020: 64550
+- Place 2010: 64550
+- Place 2000: 64550
+- Place 1990: 3865
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 5
+- Low-income units: 5
+- Units reported: 5
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

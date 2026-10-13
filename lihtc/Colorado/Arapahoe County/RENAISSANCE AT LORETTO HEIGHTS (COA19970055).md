@@ -1,0 +1,85 @@
+# Project: RENAISSANCE AT LORETTO HEIGHTS (COA19970055)
+
+- HUD ID: COA19970055
+- HUD ID before: 
+- Project: RENAISSANCE AT LORETTO HEIGHTS
+- Address: 3131 W GIRARD AVE
+- City: SHERIDAN
+- State: CO
+- ZIP: 80110
+- ZIP extension: 
+- State project ID: CO-95-28
+- Latitude: 39.655463
+- Longitude: -105.027157
+- County FIPS: 08005
+- County from: 2020
+- Tract 2020: 08005005551
+- Tract 2010: 08005005551
+- Tract 2000: 08005005551
+- Tract 1990: 08005005551
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 24785
+- Place 1990: 1200
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 40
+- 3-bedroom units: 24
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

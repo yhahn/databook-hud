@@ -1,0 +1,85 @@
+# Project: EAGLE BLUFF APTS PHASE II (IAA20000040)
+
+- HUD ID: IAA20000040
+- HUD ID before: 
+- Project: EAGLE BLUFF APTS PHASE II
+- Address: 2803A AVE N
+- City: FORT MADISON
+- State: IA
+- ZIP: 52627
+- ZIP extension: 
+- State project ID: 98-78
+- Latitude: 40.625056
+- Longitude: -91.346687
+- County FIPS: 19111
+- County from: 2020
+- Tract 2020: 19111490200
+- Tract 2010: 19111490200
+- Tract 2000: 19111990200
+- Tract 1990: 19111990200
+- Place 2020: 28605
+- Place 2010: 28605
+- Place 2000: 28605
+- Place 1990: 1520
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 85170
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2000030. AKA FT MADISON IHA SENIOR HOUSING II.
+- Record status: Existing, unchanged

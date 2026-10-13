@@ -1,0 +1,85 @@
+# Project: RIPLEY SCHOOLHOUSE APTS (OHA19980220)
+
+- HUD ID: OHA19980220
+- HUD ID before: 
+- Project: RIPLEY SCHOOLHOUSE APTS
+- Address: 200 N SECOND ST
+- City: RIPLEY
+- State: OH
+- ZIP: 45167
+- ZIP extension: 
+- State project ID: 960051
+- Latitude: 38.748324
+- Longitude: -83.846705
+- County FIPS: 39015
+- County from: 2020
+- Tract 2020: 39015951700
+- Tract 2010: 39015951700
+- Tract 2000: 39015951700
+- Tract 1990: 39015951700
+- Place 2020: 67272
+- Place 2010: 67272
+- Place 2000: 67272
+- Place 1990: 3665
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 93402
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CAMELOT APTS (WIA19890060)
+
+- HUD ID: WIA19890060
+- HUD ID before: 
+- Project: CAMELOT APTS
+- Address: 50956 ROSE LN
+- City: OSSEO
+- State: WI
+- ZIP: 54758
+- ZIP extension: 
+- State project ID: 166
+- Latitude: 44.582449
+- Longitude: -91.211119
+- County FIPS: 55121
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55121100100
+- Tract 2000: 55121990100
+- Tract 1990: 55121990100
+- Place 2020: 
+- Place 2010: 60575
+- Place 2000: 60575
+- Place 1990: 1935
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 8
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

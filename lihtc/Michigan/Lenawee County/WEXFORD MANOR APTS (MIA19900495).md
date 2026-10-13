@@ -1,0 +1,85 @@
+# Project: WEXFORD MANOR APTS (MIA19900495)
+
+- HUD ID: MIA19900495
+- HUD ID before: 
+- Project: WEXFORD MANOR APTS
+- Address: 350 N MAIN ST
+- City: ONSTED
+- State: MI
+- ZIP: 49265
+- ZIP extension: 
+- State project ID: MI-2299
+- Latitude: 42.011408
+- Longitude: -84.189862
+- County FIPS: 26091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26091060302
+- Tract 2000: 26091060300
+- Tract 1990: 26091060300
+- Place 2020: 
+- Place 2010: 60840
+- Place 2000: 60840
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1990500.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VILLAGE COMMONS APTS (MIA20110087)
+
+- HUD ID: MIA20110087
+- HUD ID before: 
+- Project: VILLAGE COMMONS APTS
+- Address: 121 WALKER ST
+- City: LAWTON
+- State: MI
+- ZIP: 49065
+- ZIP extension: 
+- State project ID: MI-3409
+- Latitude: 42.167264
+- Longitude: -85.854678
+- County FIPS: 26159
+- County from: 2020
+- Tract 2020: 26159011004
+- Tract 2010: 26159011002
+- Tract 2000: 26159011002
+- Tract 1990: 26159011000
+- Place 2020: 46500
+- Place 2010: 46500
+- Place 2000: 46500
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 58
+- Units reported: 59
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 43
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 697986
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1989385.
+- Record status: Existing, unchanged

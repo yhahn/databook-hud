@@ -1,0 +1,85 @@
+# Project: GARDEN WALK OF GROVE (OKA20160008)
+
+- HUD ID: OKA20160008
+- HUD ID before: 
+- Project: GARDEN WALK OF GROVE
+- Address: 400 MILL CREEK DRIVE
+- City: GROVE
+- State: OK
+- ZIP: 74344
+- ZIP extension: 0000
+- State project ID: 140766
+- Latitude: 36.591668
+- Longitude: -94.756227
+- County FIPS: 40041
+- County from: 2020
+- Tract 2020: 40041375702
+- Tract 2010: 40041375700
+- Tract 2000: 40041975700
+- Tract 1990: 
+- Place 2020: 31600
+- Place 2010: 31600
+- Place 2000: 31600
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 595162
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 44
+- 3-bedroom units: 24
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Handicapped
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

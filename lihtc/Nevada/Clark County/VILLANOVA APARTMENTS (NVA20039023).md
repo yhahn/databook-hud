@@ -1,0 +1,85 @@
+# Project: VILLANOVA APARTMENTS (NVA20039023)
+
+- HUD ID: NVA20039023
+- HUD ID before: NVA00000057
+- Project: VILLANOVA APARTMENTS
+- Address: 2815 W FORD AVE
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89117
+- ZIP extension: 0000
+- State project ID: 01-56
+- Latitude: 36.031748
+- Longitude: -115.177891
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003002810
+- Tract 2010: 32003002810
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23770
+- Place 2010: 23770
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 824239
+- Units: 348
+- Low-income units: 348
+- Units reported: 348
+- Low-income reported: 348
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 176
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 20000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS NVA00000057
+- Record status: Existing, unchanged

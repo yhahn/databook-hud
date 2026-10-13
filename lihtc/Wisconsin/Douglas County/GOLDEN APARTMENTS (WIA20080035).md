@@ -1,0 +1,85 @@
+# Project: GOLDEN APARTMENTS (WIA20080035)
+
+- HUD ID: WIA20080035
+- HUD ID before: 
+- Project: GOLDEN APARTMENTS
+- Address: 2315 BANKS AVE
+- City: SUPERIOR
+- State: WI
+- ZIP: 54880
+- ZIP extension: 
+- State project ID: 5292
+- Latitude: 46.710787
+- Longitude: -92.105802
+- County FIPS: 55031
+- County from: 2020
+- Tract 2020: 55031020600
+- Tract 2010: 55031020600
+- Tract 2000: 55031020600
+- Tract 1990: 55031020600
+- Place 2020: 78650
+- Place 2010: 78650
+- Place 2000: 78650
+- Place 1990: 2500
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 213066
+- Units: 84
+- Low-income units: 4
+- Units reported: 84
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 359616
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

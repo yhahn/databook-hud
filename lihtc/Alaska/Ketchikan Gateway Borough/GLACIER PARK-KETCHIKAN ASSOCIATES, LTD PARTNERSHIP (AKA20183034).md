@@ -1,0 +1,85 @@
+# Project: GLACIER PARK-KETCHIKAN ASSOCIATES, LTD PARTNERSHIP (AKA20183034)
+
+- HUD ID: AKA20183034
+- HUD ID before: 
+- Project: GLACIER PARK-KETCHIKAN ASSOCIATES, LTD PARTNERSHIP
+- Address: 660 SOUTH YORKTOWN
+- City: KETCHIKAN
+- State: AK
+- ZIP: 99901
+- ZIP extension: 
+- State project ID: AK-16-15
+- Latitude: 55.346115
+- Longitude: -131.635429
+- County FIPS: 02130
+- County from: 2020
+- Tract 2020: 02130000300
+- Tract 2010: 02130000300
+- Tract 2000: 02130000300
+- Tract 1990: 
+- Place 2020: 38970
+- Place 2010: 38970
+- Place 2000: 38970
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 21
+- Units reported: 22
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SIXTH WARD FLATS (PAA20212015)
+
+- HUD ID: PAA20212015
+- HUD ID before: 
+- Project: SIXTH WARD FLATS
+- Address: 3350 PENN AVE
+- City: PITTSBURGH
+- State: PA
+- ZIP: 15201
+- ZIP extension: 1448
+- State project ID: TC20190804
+- Latitude: 40.462191
+- Longitude: -79.967576
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003060300
+- Tract 2010: 42003060300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 61000
+- Place 2010: 61000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1200000
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 3
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 2807814
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

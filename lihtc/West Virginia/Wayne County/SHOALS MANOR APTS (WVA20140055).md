@@ -1,0 +1,85 @@
+# Project: SHOALS MANOR APTS (WVA20140055)
+
+- HUD ID: WVA20140055
+- HUD ID before: 
+- Project: SHOALS MANOR APTS
+- Address: 3720 MANOR DR
+- City: HUNTINGTON
+- State: WV
+- ZIP: 25704
+- ZIP extension: 
+- State project ID: 2012-4
+- Latitude: 38.327121
+- Longitude: -82.472314
+- County FIPS: 54099
+- County from: 2020
+- Tract 2020: 54099020400
+- Tract 2010: 54099020400
+- Tract 2000: 54099020400
+- Tract 1990: 54099020400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 14308
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 248506
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

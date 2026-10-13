@@ -1,0 +1,85 @@
+# Project: VALLEY PALMS APTS (CAA20020543)
+
+- HUD ID: CAA20020543
+- HUD ID before: 
+- Project: VALLEY PALMS APTS
+- Address: 2155 LANAI AVE
+- City: SAN JOSE
+- State: CA
+- ZIP: 95122
+- ZIP extension: 
+- State project ID: CA-02-809
+- Latitude: 37.323835
+- Longitude: -121.832604
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085503402
+- Tract 2010: 06085503402
+- Tract 2000: 06085503402
+- Tract 1990: 06085503400
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 2510
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 1572222
+- Units: 354
+- Low-income units: 351
+- Units reported: 354
+- Low-income reported: 351
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 330
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

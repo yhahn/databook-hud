@@ -1,0 +1,85 @@
+# Project: APPLE RIDGE APTS (NMA20020901)
+
+- HUD ID: NMA20020901
+- HUD ID before: 
+- Project: APPLE RIDGE APTS
+- Address: 1600 CLIFFSIDE DR
+- City: FARMINGTON
+- State: NM
+- ZIP: 87401
+- ZIP extension: 
+- State project ID: 00365
+- Latitude: 36.752416
+- Longitude: -108.186762
+- County FIPS: 35045
+- County from: 2020
+- Tract 2020: 35045000301
+- Tract 2010: 35045000301
+- Tract 2000: 35045000301
+- Tract 1990: 35045000301
+- Place 2020: 25800
+- Place 2010: 25800
+- Place 2000: 25800
+- Place 1990: 0135
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 205484
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NMA2002005.
+- Record status: Existing, unchanged

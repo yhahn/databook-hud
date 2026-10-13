@@ -1,0 +1,85 @@
+# Project: MEADOWBROOK - BUHL (IDA20100015)
+
+- HUD ID: IDA20100015
+- HUD ID before: 
+- Project: MEADOWBROOK - BUHL
+- Address: 315 CLEAR LAKES ROAD
+- City: BUHL
+- State: ID
+- ZIP: 83316
+- ZIP extension: 
+- State project ID: HC0902
+- Latitude: 42.601335
+- Longitude: -114.752615
+- County FIPS: 16083
+- County from: 2020
+- Tract 2020: 16083000400
+- Tract 2010: 16083000400
+- Tract 2000: 16083980400
+- Tract 1990: 16083980400
+- Place 2020: 10810
+- Place 2010: 10810
+- Place 2000: 10810
+- Place 1990: 0105
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 20
+- Low-income units: 19
+- Units reported: 20
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 1432032
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

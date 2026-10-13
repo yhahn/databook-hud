@@ -1,0 +1,85 @@
+# Project: WILLOW RIDGE ESTATES (ALA20050110)
+
+- HUD ID: ALA20050110
+- HUD ID before: 
+- Project: WILLOW RIDGE ESTATES
+- Address: 1406 HICKS INDUSTRIAL BLVD
+- City: UNION SPRINGS
+- State: AL
+- ZIP: 36089
+- ZIP extension: 
+- State project ID: AL-05-0038
+- Latitude: 32.124126
+- Longitude: -85.706291
+- County FIPS: 01011
+- County from: 2020
+- Tract 2020: 01011952202
+- Tract 2010: 01011952200
+- Tract 2000: 01011952200
+- Tract 1990: 01011952200
+- Place 2020: 77880
+- Place 2010: 77880
+- Place 2000: 77880
+- Place 1990: 1735
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 290047
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1445720
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2006125.
+- Record status: Existing, unchanged

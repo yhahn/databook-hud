@@ -1,0 +1,85 @@
+# Project: SYLVAN HEIGHTS MANSION (PAA19980255)
+
+- HUD ID: PAA19980255
+- HUD ID before: 
+- Project: SYLVAN HEIGHTS MANSION
+- Address: 1101 MARKET ST
+- City: HARRISBURG
+- State: PA
+- ZIP: 17103
+- ZIP extension: 
+- State project ID: TC19960014
+- Latitude: 40.264489
+- Longitude: -76.874075
+- County FIPS: 42043
+- County from: 2020
+- Tract 2020: 42043021300
+- Tract 2010: 42043021300
+- Tract 2000: 42043021300
+- Tract 1990: 42043021300
+- Place 2020: 32800
+- Place 2010: 32800
+- Place 2000: 32800
+- Place 1990: 4920
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 425386
+- Units: 48
+- Low-income units: 44
+- Units reported: 48
+- Low-income reported: 44
+- Efficiencies: 38
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1999250.
+- Record status: Existing, unchanged

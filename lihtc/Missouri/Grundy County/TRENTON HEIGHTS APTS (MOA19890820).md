@@ -1,0 +1,85 @@
+# Project: TRENTON HEIGHTS APTS (MOA19890820)
+
+- HUD ID: MOA19890820
+- HUD ID before: 
+- Project: TRENTON HEIGHTS APTS
+- Address: 1912 E 13TH ST
+- City: TRENTON
+- State: MO
+- ZIP: 64683
+- ZIP extension: 
+- State project ID: 169135
+- Latitude: 40.078262
+- Longitude: -93.598431
+- County FIPS: 29079
+- County from: 2020
+- Tract 2020: 29079960400
+- Tract 2010: 29079960400
+- Tract 2000: 29079960400
+- Tract 1990: 29079960400
+- Place 2020: 73816
+- Place 2010: 73816
+- Place 2000: 73816
+- Place 1990: 4260
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

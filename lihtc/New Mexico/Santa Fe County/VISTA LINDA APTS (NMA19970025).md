@@ -1,0 +1,85 @@
+# Project: VISTA LINDA APTS (NMA19970025)
+
+- HUD ID: NMA19970025
+- HUD ID before: 
+- Project: VISTA LINDA APTS
+- Address: 6332 ENTRADA DE MILAGRO
+- City: SANTA FE
+- State: NM
+- ZIP: 87507
+- ZIP extension: 
+- State project ID: 00247
+- Latitude: 35.628901
+- Longitude: -106.044092
+- County FIPS: 35049
+- County from: 2020
+- Tract 2020: 35049001305
+- Tract 2010: 35049001303
+- Tract 2000: 35049001300
+- Tract 1990: 35049010304
+- Place 2020: 70500
+- Place 2010: 70500
+- Place 2000: 70500
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 109
+- Low-income units: 109
+- Units reported: 109
+- Low-income reported: 109
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 49
+- 3-bedroom units: 35
+- 4-bedroom units: 9
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

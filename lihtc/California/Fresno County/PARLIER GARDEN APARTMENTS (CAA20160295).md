@@ -1,0 +1,85 @@
+# Project: PARLIER GARDEN APARTMENTS (CAA20160295)
+
+- HUD ID: CAA20160295
+- HUD ID before: CAA19940295
+- Project: PARLIER GARDEN APARTMENTS
+- Address: 1105 TULARE STREET
+- City: PARLIER
+- State: CA
+- ZIP: 93648
+- ZIP extension: 
+- State project ID: CA-15-022
+- Latitude: 36.610546
+- Longitude: -119.53382
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019008503
+- Tract 2010: 06019008502
+- Tract 2000: 06019006801
+- Tract 1990: 
+- Place 2020: 55856
+- Place 2010: 55856
+- Place 2000: 55856
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 262369
+- Units: 41
+- Low-income units: 40
+- Units reported: 41
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS CAA19940295 AND STATE_ID IS CA-93-075
+- Record status: Existing, unchanged

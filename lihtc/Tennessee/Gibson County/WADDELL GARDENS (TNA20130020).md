@@ -1,0 +1,85 @@
+# Project: WADDELL GARDENS (TNA20130020)
+
+- HUD ID: TNA20130020
+- HUD ID before: 
+- Project: WADDELL GARDENS
+- Address: 3500 OLD GIBSON RD
+- City: HUMBOLDT
+- State: TN
+- ZIP: 38343
+- ZIP extension: 
+- State project ID: TN-10-309
+- Latitude: 35.840827
+- Longitude: -88.891819
+- County FIPS: 47053
+- County from: 2020
+- Tract 2020: 47053967001
+- Tract 2010: 47053967000
+- Tract 2000: 47053966900
+- Tract 1990: 47053966900
+- Place 2020: 36460
+- Place 2010: 36460
+- Place 2000: 36460
+- Place 1990: 0685
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 4129200
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 1
+- 1-bedroom units: 24
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4129200
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

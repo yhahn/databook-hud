@@ -1,0 +1,85 @@
+# Project: MILL PARK TOWNHOMES PHASE II (MIA19900330)
+
+- HUD ID: MIA19900330
+- HUD ID before: 
+- Project: MILL PARK TOWNHOMES PHASE II
+- Address: 450 HAYMAC DR
+- City: PARCHMENT
+- State: MI
+- ZIP: 49004
+- ZIP extension: 
+- State project ID: MI-833
+- Latitude: 42.329514
+- Longitude: -85.552152
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077001300
+- Tract 2010: 26077001300
+- Tract 2000: 26077001300
+- Tract 1990: 26077001300
+- Place 2020: 62340
+- Place 2010: 62340
+- Place 2000: 62340
+- Place 1990: 2085
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 12
+- Units reported: 56
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 36
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

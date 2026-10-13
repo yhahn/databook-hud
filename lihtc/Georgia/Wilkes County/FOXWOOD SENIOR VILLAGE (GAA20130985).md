@@ -1,0 +1,85 @@
+# Project: FOXWOOD SENIOR VILLAGE (GAA20130985)
+
+- HUD ID: GAA20130985
+- HUD ID before: 
+- Project: FOXWOOD SENIOR VILLAGE
+- Address: 850 FOXWOOD DRIVE
+- City: WASHINGTON
+- State: GA
+- ZIP: 31719
+- ZIP extension: 
+- State project ID: GA-11-052
+- Latitude: 33.731
+- Longitude: -82.7451
+- County FIPS: 13317
+- County from: 2020
+- Tract 2020: 13317010302
+- Tract 2010: 13317010302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 80704
+- Place 2010: 80704
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000163.
+- Record status: Existing, unchanged

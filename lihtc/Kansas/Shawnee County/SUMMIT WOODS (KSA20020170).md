@@ -1,0 +1,85 @@
+# Project: SUMMIT WOODS (KSA20020170)
+
+- HUD ID: KSA20020170
+- HUD ID before: 
+- Project: SUMMIT WOODS
+- Address: 1310 SW OVERLOOK DRIVE
+- City: TOPEKA
+- State: KS
+- ZIP: 
+- ZIP extension: 
+- State project ID: 66614
+- Latitude: 39.043342
+- Longitude: -95.768833
+- County FIPS: 20177
+- County from: 2020
+- Tract 2020: 20177003607
+- Tract 2010: 20177003607
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 324940
+- Units: 318
+- Low-income units: 128
+- Units reported: 318
+- Low-income reported: 128
+- Efficiencies: 0
+- 1-bedroom units: 107
+- 2-bedroom units: 192
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2003120.
+- Record status: Existing, unchanged

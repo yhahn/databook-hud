@@ -1,0 +1,85 @@
+# Project: LAURISTON (WAA19900090)
+
+- HUD ID: WAA19900090
+- HUD ID before: 
+- Project: LAURISTON
+- Address: 235 TACOMA AVE S
+- City: TACOMA
+- State: WA
+- ZIP: 98402
+- ZIP extension: 
+- State project ID: WA-88-14T
+- Latitude: 47.260915
+- Longitude: -122.446058
+- County FIPS: 53053
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53053061500
+- Tract 2000: 53053061500
+- Tract 1990: 53053061500
+- Place 2020: 
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 1280
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

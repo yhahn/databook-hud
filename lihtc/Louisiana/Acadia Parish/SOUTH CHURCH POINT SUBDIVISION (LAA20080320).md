@@ -1,0 +1,85 @@
+# Project: SOUTH CHURCH POINT SUBDIVISION (LAA20080320)
+
+- HUD ID: LAA20080320
+- HUD ID before: 
+- Project: SOUTH CHURCH POINT SUBDIVISION
+- Address: 103 WILDFLOWER
+- City: CHURCH POINT
+- State: LA
+- ZIP: 
+- ZIP extension: 
+- State project ID: LA-06-159
+- Latitude: 30.390384
+- Longitude: -92.209706
+- County FIPS: 22001
+- County from: 2020
+- Tract 2020: 22001960101
+- Tract 2010: 22001960100
+- Tract 2000: 22001960100
+- Tract 1990: 22001960100
+- Place 2020: 15465
+- Place 2010: 15465
+- Place 2000: 15465
+- Place 1990: 0220
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 21454
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

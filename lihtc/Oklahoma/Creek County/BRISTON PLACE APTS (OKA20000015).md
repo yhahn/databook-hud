@@ -1,0 +1,85 @@
+# Project: BRISTON PLACE APTS (OKA20000015)
+
+- HUD ID: OKA20000015
+- HUD ID before: 
+- Project: BRISTON PLACE APTS
+- Address: 800 S KELLY AVE
+- City: BRISTOW
+- State: OK
+- ZIP: 74010
+- ZIP extension: 
+- State project ID: OK-99-06-34
+- Latitude: 35.824533
+- Longitude: -96.378683
+- County FIPS: 40037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 40037021000
+- Tract 2000: 40037021000
+- Tract 1990: 40037021000
+- Place 2020: 
+- Place 2010: 08900
+- Place 2000: 08900
+- Place 1990: 0285
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 9
+- 3-bedroom units: 15
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

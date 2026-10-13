@@ -1,0 +1,85 @@
+# Project: SALEM LAFAYETTE APARTMENTS (NJA20136002)
+
+- HUD ID: NJA20136002
+- HUD ID before: 
+- Project: SALEM LAFAYETTE APARTMENTS
+- Address: 94 UNION ST
+- City: JERSEY CITY
+- State: NJ
+- ZIP: 07304
+- ZIP extension: 2761
+- State project ID: 02829
+- Latitude: 40.713627
+- Longitude: -74.074628
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017004400
+- Tract 2010: 34017004400
+- Tract 2000: 34017004400
+- Tract 1990: 
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 3442855
+- Units: 412
+- Low-income units: 405
+- Units reported: 412
+- Low-income reported: 405
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

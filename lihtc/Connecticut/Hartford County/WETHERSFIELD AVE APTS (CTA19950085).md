@@ -1,0 +1,85 @@
+# Project: WETHERSFIELD AVE APTS (CTA19950085)
+
+- HUD ID: CTA19950085
+- HUD ID before: 
+- Project: WETHERSFIELD AVE APTS
+- Address: 277 WETHERSFIELD AVE
+- City: HARTFORD
+- State: CT
+- ZIP: 06114
+- ZIP extension: 
+- State project ID: CT-94-005
+- Latitude: 41.748229
+- Longitude: -72.673764
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003500100
+- Tract 2010: 09003500100
+- Tract 2000: 09003500100
+- Tract 1990: 09003500100
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 0970
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

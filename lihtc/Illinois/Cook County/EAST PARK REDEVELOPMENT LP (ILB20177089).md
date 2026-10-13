@@ -1,0 +1,85 @@
+# Project: EAST PARK REDEVELOPMENT LP (ILB20177089)
+
+- HUD ID: ILB20177089
+- HUD ID before: 
+- Project: EAST PARK REDEVELOPMENT LP
+- Address: EAST PARK REDEVELOPMENT LP 3300 W. MAYPOLE AVENUE
+- City: CHICAGO
+- State: IL
+- ZIP: 60624
+- ZIP extension: 
+- State project ID: TC-17-021
+- Latitude: 41.8844
+- Longitude: -87.7233
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031260100
+- Tract 2010: 17031260100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 153
+- Low-income units: 153
+- Units reported: 153
+- Low-income reported: 153
+- Efficiencies: 227
+- 1-bedroom units: 98
+- 2-bedroom units: 41
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

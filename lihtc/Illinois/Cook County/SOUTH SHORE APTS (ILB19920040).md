@@ -1,0 +1,85 @@
+# Project: SOUTH SHORE APTS (ILB19920040)
+
+- HUD ID: ILB19920040
+- HUD ID before: 
+- Project: SOUTH SHORE APTS
+- Address: 7456 S STH SHR DR
+- City: CHICAGO
+- State: IL
+- ZIP: 60649
+- ZIP extension: 
+- State project ID: 90-019
+- Latitude: 41.761071
+- Longitude: -87.557687
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031431400
+- Tract 2010: 17031431400
+- Tract 2000: 17031431400
+- Tract 1990: 17031431400
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 77
+- Low-income units: 77
+- Units reported: 77
+- Low-income reported: 77
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: Yes
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

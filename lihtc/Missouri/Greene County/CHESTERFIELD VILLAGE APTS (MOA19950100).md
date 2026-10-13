@@ -1,0 +1,85 @@
+# Project: CHESTERFIELD VILLAGE APTS (MOA19950100)
+
+- HUD ID: MOA19950100
+- HUD ID before: 
+- Project: CHESTERFIELD VILLAGE APTS
+- Address: 2310 W CHESTERFIELD BLVD
+- City: SPRINGFIELD
+- State: MO
+- ZIP: 65807
+- ZIP extension: 
+- State project ID: 93068
+- Latitude: 37.144198
+- Longitude: -93.325533
+- County FIPS: 29077
+- County from: 2020
+- Tract 2020: 29077003004
+- Tract 2010: 29077003002
+- Tract 2000: 29077003002
+- Tract 1990: 29077001600
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 4075
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

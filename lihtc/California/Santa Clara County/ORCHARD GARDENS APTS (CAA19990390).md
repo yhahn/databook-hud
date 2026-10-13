@@ -1,0 +1,85 @@
+# Project: ORCHARD GARDENS APTS (CAA19990390)
+
+- HUD ID: CAA19990390
+- HUD ID before: 
+- Project: ORCHARD GARDENS APTS
+- Address: 245 W WEDDELL DR
+- City: SUNNYVALE
+- State: CA
+- ZIP: 94089
+- ZIP extension: 
+- State project ID: CA-98-967
+- Latitude: 37.398489
+- Longitude: -122.023589
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085504808
+- Tract 2010: 06085504803
+- Tract 2000: 06085504803
+- Tract 1990: 06085504803
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 2835
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 166436
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 22
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

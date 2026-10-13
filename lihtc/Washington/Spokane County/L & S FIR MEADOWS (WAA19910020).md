@@ -1,0 +1,85 @@
+# Project: L & S FIR MEADOWS (WAA19910020)
+
+- HUD ID: WAA19910020
+- HUD ID before: 
+- Project: L & S FIR MEADOWS
+- Address: 223 W THIRD ST
+- City: DEER PARK
+- State: WA
+- ZIP: 99006
+- ZIP extension: 
+- State project ID: 91-19H
+- Latitude: 47.957056
+- Longitude: -117.481535
+- County FIPS: 53063
+- County from: 2020
+- Tract 2020: 53063010301
+- Tract 2010: 53063010301
+- Tract 2000: 53063010301
+- Tract 1990: 53063010301
+- Place 2020: 17320
+- Place 2010: 17320
+- Place 2000: 17320
+- Place 1990: 0320
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 34237
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

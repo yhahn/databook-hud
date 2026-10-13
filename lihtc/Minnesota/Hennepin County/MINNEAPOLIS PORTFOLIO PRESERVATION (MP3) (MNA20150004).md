@@ -1,0 +1,85 @@
+# Project: MINNEAPOLIS PORTFOLIO PRESERVATION (MP3) (MNA20150004)
+
+- HUD ID: MNA20150004
+- HUD ID before: 
+- Project: MINNEAPOLIS PORTFOLIO PRESERVATION (MP3)
+- Address: MULTIPLE ADDRESSES
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55404
+- ZIP extension: 
+- State project ID: D7586
+- Latitude: 44.9625
+- Longitude: -93.2645
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053005902
+- Tract 2010: 27053005902
+- Tract 2000: 27053005902
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1572308
+- Units: 582
+- Low-income units: 582
+- Units reported: 582
+- Low-income reported: 582
+- Efficiencies: 402
+- 1-bedroom units: 157
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 169
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 7300000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

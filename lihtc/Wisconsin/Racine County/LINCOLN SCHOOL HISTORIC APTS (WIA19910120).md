@@ -1,0 +1,85 @@
+# Project: LINCOLN SCHOOL HISTORIC APTS (WIA19910120)
+
+- HUD ID: WIA19910120
+- HUD ID before: 
+- Project: LINCOLN SCHOOL HISTORIC APTS
+- Address: 1800 STATE ST
+- City: RACINE
+- State: WI
+- ZIP: 53404
+- ZIP extension: 
+- State project ID: 1112
+- Latitude: 42.734364
+- Longitude: -87.803325
+- County FIPS: 55101
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55101001202
+- Tract 2000: 55101001202
+- Tract 1990: 55101001202
+- Place 2020: 
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2105
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

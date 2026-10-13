@@ -1,0 +1,85 @@
+# Project: SANTA FE TOWNHOMES (CAA20160240)
+
+- HUD ID: CAA20160240
+- HUD ID before: CAA19930240
+- Project: SANTA FE TOWNHOMES
+- Address: 639 WEST WORTH STREET
+- City: STOCKTON
+- State: CA
+- ZIP: 95206
+- ZIP extension: 
+- State project ID: CA-14-094
+- Latitude: 37.942321
+- Longitude: -121.297015
+- County FIPS: 06077
+- County from: 2020
+- Tract 2020: 06077000700
+- Tract 2010: 06077000700
+- Tract 2000: 06077000700
+- Tract 1990: 
+- Place 2020: 75000
+- Place 2010: 75000
+- Place 2000: 75000
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 395823
+- Units: 31
+- Low-income units: 30
+- Units reported: 31
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 7
+- 3-bedroom units: 14
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS CAA19930240 AND STATE_ID IS CA-91-109
+- Record status: Existing, unchanged

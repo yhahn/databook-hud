@@ -1,0 +1,85 @@
+# Project: THE SALVATION ARMY SF SILVERCREST RESIDENCE (CAA20050595)
+
+- HUD ID: CAA20050595
+- HUD ID before: 
+- Project: THE SALVATION ARMY SF SILVERCREST RESIDENCE
+- Address: 133 SHIPLEY ST
+- City: SAN FRANCISCO
+- State: CA
+- ZIP: 94107
+- ZIP extension: 
+- State project ID: CA-03-903
+- Latitude: 37.780806
+- Longitude: -122.401353
+- County FIPS: 06075
+- County from: 2020
+- Tract 2020: 06075017801
+- Tract 2010: 06075017801
+- Tract 2000: 06075017800
+- Tract 1990: 06075017800
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 2485
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1392744
+- Units: 257
+- Low-income units: 254
+- Units reported: 257
+- Low-income reported: 254
+- Efficiencies: 196
+- 1-bedroom units: 61
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

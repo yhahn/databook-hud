@@ -1,0 +1,85 @@
+# Project: FRIDLEY LEASED HOUSING ASSOCIATION I LLLP (MNA20192251)
+
+- HUD ID: MNA20192251
+- HUD ID before: 
+- Project: FRIDLEY LEASED HOUSING ASSOCIATION I LLLP
+- Address: 460 MISSISSIPPI STREET NE
+- City: FRIDLEY
+- State: MN
+- ZIP: 55432
+- ZIP extension: 
+- State project ID: D0558
+- Latitude: 45.085937
+- Longitude: -93.258938
+- County FIPS: 27003
+- County from: 2020
+- Tract 2020: 27003051202
+- Tract 2010: 27003051202
+- Tract 2000: 27131970900
+- Tract 1990: 27131970900
+- Place 2020: 22814
+- Place 2010: 22814
+- Place 2000: 20546
+- Place 1990: 1250
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1252382
+- Units: 196
+- Low-income units: 196
+- Units reported: 196
+- Low-income reported: 196
+- Efficiencies: 0
+- 1-bedroom units: 143
+- 2-bedroom units: 41
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

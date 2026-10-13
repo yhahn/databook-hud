@@ -1,0 +1,85 @@
+# Project: FRANKLIN VISTA APTS IV (NMA19990015)
+
+- HUD ID: NMA19990015
+- HUD ID before: 
+- Project: FRANKLIN VISTA APTS IV
+- Address: 705 CURRY CT
+- City: ANTHONY
+- State: NM
+- ZIP: 88021
+- ZIP extension: 
+- State project ID: 00254
+- Latitude: 32.008212
+- Longitude: -106.601265
+- County FIPS: 35013
+- County from: 2020
+- Tract 2020: 35013001807
+- Tract 2010: 35013001806
+- Tract 2000: 35013001803
+- Tract 1990: 35013001800
+- Place 2020: 03820
+- Place 2010: 03820
+- Place 2000: 03820
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

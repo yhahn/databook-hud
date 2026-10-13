@@ -1,0 +1,85 @@
+# Project: MALIBU APTS (TXA00000380)
+
+- HUD ID: TXA00000380
+- HUD ID before: 
+- Project: MALIBU APTS
+- Address: 8600 N LAMAR BLVD
+- City: AUSTIN
+- State: TX
+- ZIP: 78753
+- ZIP extension: 
+- State project ID: 
+- Latitude: 30.354615
+- Longitude: -97.704173
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453040100
+- Tract 2010: 48453001805
+- Tract 2000: 48453001805
+- Tract 1990: 48453001805
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0210
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 476
+- Low-income units: 476
+- Units reported: 476
+- Low-income reported: 476
+- Efficiencies: 276
+- 1-bedroom units: 112
+- 2-bedroom units: 88
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 15400000
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

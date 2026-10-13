@@ -1,0 +1,85 @@
+# Project: COLUMBIA COURT APARTMENTS (MIA20150005)
+
+- HUD ID: MIA20150005
+- HUD ID before: 
+- Project: COLUMBIA COURT APARTMENTS
+- Address: 275 WEST COLUMBIA AVENUE
+- City: BELLEVILLE
+- State: MI
+- ZIP: 48111
+- ZIP extension: 0000
+- State project ID: 3634
+- Latitude: 42.20446
+- Longitude: -83.488673
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163587000
+- Tract 2010: 26163587000
+- Tract 2000: 26163587000
+- Tract 1990: 
+- Place 2020: 07020
+- Place 2010: 07020
+- Place 2000: 07020
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 428392
+- Units: 108
+- Low-income units: 107
+- Units reported: 108
+- Low-income reported: 107
+- Efficiencies: 27
+- 1-bedroom units: 80
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1854990
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

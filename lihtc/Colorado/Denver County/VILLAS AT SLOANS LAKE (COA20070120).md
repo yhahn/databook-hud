@@ -1,0 +1,85 @@
+# Project: VILLAS AT SLOANS LAKE (COA20070120)
+
+- HUD ID: COA20070120
+- HUD ID before: 
+- Project: VILLAS AT SLOANS LAKE
+- Address: 1551 WOLFF ST
+- City: DENVER
+- State: CO
+- ZIP: 80204
+- ZIP extension: 
+- State project ID: 9Z01-353
+- Latitude: 39.741426
+- Longitude: -105.048907
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031000703
+- Tract 2010: 08031000701
+- Tract 2000: 08031000701
+- Tract 1990: 08031000701
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 20000
+- Place 1990: 0320
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 925689
+- Units: 63
+- Low-income units: 62
+- Units reported: 63
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 16
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 62
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WOLFF STREET DEVELOPMENT.
+- Record status: Existing, unchanged

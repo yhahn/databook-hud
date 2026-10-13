@@ -1,0 +1,85 @@
+# Project: GATEWAY POINTE II (GAA20210015)
+
+- HUD ID: GAA20210015
+- HUD ID before: 
+- Project: GATEWAY POINTE II
+- Address: 900 S ARMED FORCES BOULEVARD
+- City: WARNER ROBINS (HOUSTON)
+- State: GA
+- ZIP: 31088
+- ZIP extension: 4792
+- State project ID: 2019-064
+- Latitude: 32.5857
+- Longitude: -83.6269
+- County FIPS: 13153
+- County from: 2020
+- Tract 2020: 13153020700
+- Tract 2010: 13153021105
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 80508
+- Place 2010: 80508
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 900000
+- Units: 90
+- Low-income units: 75
+- Units reported: 90
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 44
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

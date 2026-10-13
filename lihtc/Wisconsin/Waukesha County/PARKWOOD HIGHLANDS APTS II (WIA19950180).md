@@ -1,0 +1,85 @@
+# Project: PARKWOOD HIGHLANDS APTS II (WIA19950180)
+
+- HUD ID: WIA19950180
+- HUD ID before: 
+- Project: PARKWOOD HIGHLANDS APTS II
+- Address: 13705 W NATIONAL AVE
+- City: NEW BERLIN
+- State: WI
+- ZIP: 53151
+- ZIP extension: 
+- State project ID: 1610
+- Latitude: 42.986329
+- Longitude: -88.085119
+- County FIPS: 55133
+- County from: 2020
+- Tract 2020: 55133201508
+- Tract 2010: 55133201503
+- Tract 2000: 55133201503
+- Tract 1990: 55133201502
+- Place 2020: 56375
+- Place 2010: 56375
+- Place 2000: 56375
+- Place 1990: 1785
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 23
+- Units reported: 36
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 17
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

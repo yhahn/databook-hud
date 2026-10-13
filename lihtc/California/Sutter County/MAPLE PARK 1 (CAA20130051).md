@@ -1,0 +1,85 @@
+# Project: MAPLE PARK 1 (CAA20130051)
+
+- HUD ID: CAA20130051
+- HUD ID before: 
+- Project: MAPLE PARK 1
+- Address: 2360 GUM ST
+- City: LIVE OAK
+- State: CA
+- ZIP: 95953
+- ZIP extension: 
+- State project ID: CA-11-025
+- Latitude: 39.274557
+- Longitude: -121.65774
+- County FIPS: 06101
+- County from: 2020
+- Tract 2020: 06101050701
+- Tract 2010: 06101050701
+- Tract 2000: 06101050700
+- Tract 1990: 06101050700
+- Place 2020: 41936
+- Place 2010: 41936
+- Place 2000: 41936
+- Place 1990: 1561
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 895325
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 28
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 44
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 3035971
+- CDBG: Yes
+- CDBG amount: 631728
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CYNWYD APARTMENTS (DEA20020010)
+
+- HUD ID: DEA20020010
+- HUD ID before: 
+- Project: CYNWYD APARTMENTS
+- Address: 1302-2 CYNWYD CLUB DRIVE
+- City: WILMINGTON
+- State: DE
+- ZIP: 19808
+- ZIP extension: 
+- State project ID: DE209FY0011
+- Latitude: 39.732833
+- Longitude: -75.665764
+- County FIPS: 10003
+- County from: 2020
+- Tract 2020: 10003013400
+- Tract 2010: 10003013400
+- Tract 2000: 10003013400
+- Tract 1990: 10003013400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 253381
+- Units: 131
+- Low-income units: 130
+- Units reported: 131
+- Low-income reported: 130
+- Efficiencies: 0
+- 1-bedroom units: 59
+- 2-bedroom units: 71
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DEA2001050, DEA2001800.;
+- Record status: Existing, unchanged

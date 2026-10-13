@@ -1,0 +1,85 @@
+# Project: C L DELLUMS APTS (CAA19940492)
+
+- HUD ID: CAA19940492
+- HUD ID before: 
+- Project: C L DELLUMS APTS
+- Address: 644 14TH ST
+- City: OAKLAND
+- State: CA
+- ZIP: 94612
+- ZIP extension: 
+- State project ID: CA-93-142
+- Latitude: 37.806312
+- Longitude: -122.275754
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001402802
+- Tract 2010: 06001402800
+- Tract 2000: 06001402800
+- Tract 1990: 06001402800
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1970
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 396852
+- Units: 73
+- Low-income units: 72
+- Units reported: 73
+- Low-income reported: 72
+- Efficiencies: 73
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

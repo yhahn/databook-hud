@@ -1,0 +1,85 @@
+# Project: THE ASPIRE (NJA20152036)
+
+- HUD ID: NJA20152036
+- HUD ID before: 
+- Project: THE ASPIRE
+- Address: 135 SOMERSET STREET
+- City: NEW BRUNSWICK
+- State: NJ
+- ZIP: 08901
+- ZIP extension: 
+- State project ID: 2787
+- Latitude: 40.497058
+- Longitude: -74.448753
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023005200
+- Tract 2010: 34023005200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51210
+- Place 2010: 51210
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 589496
+- Units: 238
+- Low-income units: 48
+- Units reported: 238
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

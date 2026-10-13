@@ -1,0 +1,85 @@
+# Project: AUTUMN PARK RETIREMENT (OHA19940020)
+
+- HUD ID: OHA19940020
+- HUD ID before: 
+- Project: AUTUMN PARK RETIREMENT
+- Address: 363 W RUSSELL RD
+- City: SIDNEY
+- State: OH
+- ZIP: 45365
+- ZIP extension: 
+- State project ID: OH-93-6135
+- Latitude: 40.30211
+- Longitude: -84.162138
+- County FIPS: 39149
+- County from: 2020
+- Tract 2020: 39149971800
+- Tract 2010: 39149971800
+- Tract 2000: 39149971800
+- Tract 1990: 39149971800
+- Place 2020: 72424
+- Place 2010: 72424
+- Place 2000: 72424
+- Place 1990: 3970
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 84400
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

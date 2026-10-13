@@ -1,0 +1,85 @@
+# Project: MARVIN GARDENS II (GAA19980210)
+
+- HUD ID: GAA19980210
+- HUD ID before: 
+- Project: MARVIN GARDENS II
+- Address: 101 ATLANTIC AVE BLDG 1
+- City: FORT VALLEY
+- State: GA
+- ZIP: 31030
+- ZIP extension: 2628
+- State project ID: GA-96-031
+- Latitude: 32.544877
+- Longitude: -83.889611
+- County FIPS: 13225
+- County from: 2020
+- Tract 2020: 13225040400
+- Tract 2010: 13225040400
+- Tract 2000: 13225040400
+- Tract 1990: 13225040400
+- Place 2020: 31096
+- Place 2010: 31096
+- Place 2000: 31096
+- Place 1990: 1130
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 260426
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1998075, GAA1999070.
+- Record status: Existing, unchanged

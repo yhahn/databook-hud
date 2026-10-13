@@ -1,0 +1,85 @@
+# Project: BOSSEN PARK APARTMENTS (MNA19999003)
+
+- HUD ID: MNA19999003
+- HUD ID before: 
+- Project: BOSSEN PARK APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55417
+- ZIP extension: 
+- State project ID: D2512
+- Latitude: 44.9076
+- Longitude: -93.2351
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053011800
+- Tract 2010: 27053011800
+- Tract 2000: 27053012101
+- Tract 1990: 27053012101
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 2585
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 110
+- Low-income units: 86
+- Units reported: 110
+- Low-income reported: 86
+- Efficiencies: 0
+- 1-bedroom units: 106
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

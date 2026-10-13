@@ -1,0 +1,85 @@
+# Project: LORING TOWERS APARTMENTS (MNB20210004)
+
+- HUD ID: MNB20210004
+- HUD ID before: 
+- Project: LORING TOWERS APARTMENTS
+- Address: 15 EAST GRANT STREET
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55403
+- ZIP extension: 2689
+- State project ID: D3375
+- Latitude: 44.969657
+- Longitude: -93.277191
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053105204
+- Tract 2010: 27053105204
+- Tract 2000: 27053105200
+- Tract 1990: 27053004300
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 2585
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1886055
+- Units: 230
+- Low-income units: 230
+- Units reported: 230
+- Low-income reported: 230
+- Efficiencies: 190
+- 1-bedroom units: 40
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: SINGLES
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

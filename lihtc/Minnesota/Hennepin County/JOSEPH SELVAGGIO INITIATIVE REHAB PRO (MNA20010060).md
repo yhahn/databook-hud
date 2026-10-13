@@ -1,0 +1,85 @@
+# Project: JOSEPH SELVAGGIO INITIATIVE REHAB PRO (MNA20010060)
+
+- HUD ID: MNA20010060
+- HUD ID before: 
+- Project: JOSEPH SELVAGGIO INITIATIVE REHAB PRO
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55404
+- ZIP extension: 
+- State project ID: D2749
+- Latitude: 44.9625
+- Longitude: -93.2645
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053005902
+- Tract 2010: 27053005902
+- Tract 2000: 27053007802
+- Tract 1990: 27053007800
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 2585
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 24
+- 3-bedroom units: 2
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

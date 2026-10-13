@@ -1,0 +1,85 @@
+# Project: MEADOWVIEW ESTATES (NEA19990080)
+
+- HUD ID: NEA19990080
+- HUD ID before: 
+- Project: MEADOWVIEW ESTATES
+- Address: 1106 W NATHAN DR
+- City: WAYNE
+- State: NE
+- ZIP: 68787
+- ZIP extension: 
+- State project ID: 7-0452
+- Latitude: 42.23443
+- Longitude: -97.026589
+- County FIPS: 31179
+- County from: 2020
+- Tract 2020: 31179978700
+- Tract 2010: 31179978700
+- Tract 2000: 31179978700
+- Tract 1990: 31179978700
+- Place 2020: 51840
+- Place 2010: 51840
+- Place 2000: 51840
+- Place 1990: 2590
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 39157
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

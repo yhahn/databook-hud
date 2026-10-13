@@ -1,0 +1,85 @@
+# Project: MARION VILLAGE ESTATES (MAC00000070)
+
+- HUD ID: MAC00000070
+- HUD ID before: 
+- Project: MARION VILLAGE ESTATES
+- Address: 32 VILLAGE DR
+- City: MARION
+- State: MA
+- ZIP: 02738
+- ZIP extension: 
+- State project ID: MA1012-699
+- Latitude: 41.714697
+- Longitude: -70.775738
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023561100
+- Tract 2010: 25023561100
+- Tract 2000: 25023561100
+- Tract 1990: 25023561100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 38575
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.;
+- Record status: Existing, unchanged

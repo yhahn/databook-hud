@@ -1,0 +1,85 @@
+# Project: SUNSET VILLAGE (KSA19990215)
+
+- HUD ID: KSA19990215
+- HUD ID before: 
+- Project: SUNSET VILLAGE
+- Address: 110 S ASH ST
+- City: RUSSELL
+- State: KS
+- ZIP: 67665
+- ZIP extension: 
+- State project ID: 60178
+- Latitude: 38.884182
+- Longitude: -98.867028
+- County FIPS: 20167
+- County from: 2020
+- Tract 2020: 20167973800
+- Tract 2010: 20167973800
+- Tract 2000: 20167973800
+- Tract 1990: 20167973800
+- Place 2020: 61825
+- Place 2010: 61825
+- Place 2000: 61825
+- Place 1990: 2500
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 32052
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NORTHVIEW APTS.
+- Record status: Existing, unchanged

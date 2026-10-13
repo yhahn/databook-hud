@@ -1,0 +1,85 @@
+# Project: PARK DUVALLE IV - B (KYA20040070)
+
+- HUD ID: KYA20040070
+- HUD ID before: 
+- Project: PARK DUVALLE IV - B
+- Address: DR. WILLIAM G. WEATHERS DR.
+- City: LOUISVILLE
+- State: KY
+- ZIP: 40211
+- ZIP extension: 
+- State project ID: KY-00-030
+- Latitude: 38.2386
+- Longitude: -85.8254
+- County FIPS: 21111
+- County from: 2020
+- Tract 2020: 21111001200
+- Tract 2010: 21111001200
+- Tract 2000: 21111001200
+- Tract 1990: 21111001500
+- Place 2020: 48000
+- Place 2010: 48006
+- Place 2000: 
+- Place 1990: 1230
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 246250
+- Units: 34
+- Low-income units: 22
+- Units reported: 34
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

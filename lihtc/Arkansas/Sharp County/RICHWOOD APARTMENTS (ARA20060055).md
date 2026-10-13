@@ -1,0 +1,85 @@
+# Project: RICHWOOD APARTMENTS (ARA20060055)
+
+- HUD ID: ARA20060055
+- HUD ID before: 
+- Project: RICHWOOD APARTMENTS
+- Address: 10 TENANTS CV
+- City: ASH FLAT
+- State: AR
+- ZIP: 72513
+- ZIP extension: 
+- State project ID: AR-05-16
+- Latitude: 36.238471
+- Longitude: -91.606798
+- County FIPS: 05135
+- County from: 2020
+- Tract 2020: 05135470300
+- Tract 2010: 05135470300
+- Tract 2000: 05135970300
+- Tract 1990: 05135970300
+- Place 2020: 02470
+- Place 2010: 02470
+- Place 2000: 02470
+- Place 1990: 0080
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 105811
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 4
+- 1-bedroom units: 2
+- 2-bedroom units: 14
+- 3-bedroom units: 8
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

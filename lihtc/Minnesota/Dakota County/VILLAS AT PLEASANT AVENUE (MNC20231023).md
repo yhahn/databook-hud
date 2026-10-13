@@ -1,0 +1,85 @@
+# Project: VILLAS AT PLEASANT AVENUE (MNC20231023)
+
+- HUD ID: MNC20231023
+- HUD ID before: 
+- Project: VILLAS AT PLEASANT AVENUE
+- Address: 12650 PLEASANT AVENUE SOUTH
+- City: BURNSVILLE
+- State: MN
+- ZIP: 55337
+- ZIP extension: 
+- State project ID: D8591
+- Latitude: 44.7757
+- Longitude: -93.2695
+- County FIPS: 27037
+- County from: 2020
+- Tract 2020: 27037060711
+- Tract 2010: 27037060737
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 08794
+- Place 2010: 08794
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 1831207
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 8
+- 1-bedroom units: 100
+- 2-bedroom units: 42
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Agg 55 plus
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

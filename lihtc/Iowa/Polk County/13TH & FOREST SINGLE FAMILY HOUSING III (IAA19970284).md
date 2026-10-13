@@ -1,0 +1,85 @@
+# Project: 13TH & FOREST SINGLE FAMILY HOUSING III (IAA19970284)
+
+- HUD ID: IAA19970284
+- HUD ID before: 
+- Project: 13TH & FOREST SINGLE FAMILY HOUSING III
+- Address: 1312 13TH PL
+- City: DES MOINES
+- State: IA
+- ZIP: 50314
+- ZIP extension: 
+- State project ID: 96-24
+- Latitude: 41.602703
+- Longitude: -93.635345
+- County FIPS: 19153
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19153001200
+- Tract 2000: 19153001200
+- Tract 1990: 19153001200
+- Place 2020: 
+- Place 2010: 21000
+- Place 2000: 21000
+- Place 1990: 1130
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 59756
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA1998005.
+- Record status: Existing, unchanged

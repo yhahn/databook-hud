@@ -1,0 +1,85 @@
+# Project: COMMONS AT CHURCHLAND (VAA20010466)
+
+- HUD ID: VAA20010466
+- HUD ID before: 
+- Project: COMMONS AT CHURCHLAND
+- Address: 3504 EXECUTIVE CTR DR
+- City: CHESAPEAKE
+- State: VA
+- ZIP: 23321
+- ZIP extension: 
+- State project ID: 954
+- Latitude: 36.863847
+- Longitude: -76.408936
+- County FIPS: 51550
+- County from: 2020
+- Tract 2020: 51550021602
+- Tract 2010: 51550021602
+- Tract 2000: 51550021602
+- Tract 1990: 51550021602
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0242
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 103
+- Units reported: 104
+- Low-income reported: 103
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 104
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1995030. AKA CHURCHLAND COURTYARD APTS.
+- Record status: Existing, unchanged

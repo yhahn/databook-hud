@@ -1,0 +1,85 @@
+# Project: WRIGHTSVILLE MANOR (ARA19990075)
+
+- HUD ID: ARA19990075
+- HUD ID before: 
+- Project: WRIGHTSVILLE MANOR
+- Address: 13024 HWY 365 S
+- City: WRIGHTSVILLE
+- State: AR
+- ZIP: 72206
+- ZIP extension: 
+- State project ID: AR-97-20
+- Latitude: 34.63021
+- Longitude: -92.223511
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119004007
+- Tract 2010: 05119004007
+- Tract 2000: 05119004007
+- Tract 1990: 05119004003
+- Place 2020: 76970
+- Place 2010: 76970
+- Place 2000: 41000
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 107394
+- Units: 25
+- Low-income units: 24
+- Units reported: 25
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

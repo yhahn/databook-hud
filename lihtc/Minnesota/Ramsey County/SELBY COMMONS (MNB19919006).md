@@ -1,0 +1,85 @@
+# Project: SELBY COMMONS (MNB19919006)
+
+- HUD ID: MNB19919006
+- HUD ID before: 
+- Project: SELBY COMMONS
+- Address: 180 MILTON AVENUE
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55104
+- ZIP extension: 6615
+- State project ID: D1619
+- Latitude: 44.9511
+- Longitude: -93.1606
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123033800
+- Tract 2010: 27123033400
+- Tract 2000: 27123033800
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 58000
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 298125
+- Units: 33
+- Low-income units: 32
+- Units reported: 33
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 13
+- 3-bedroom units: 10
+- 4-bedroom units: 9
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: No
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MAGNOLIA TRAILS (TXA20110811)
+
+- HUD ID: TXA20110811
+- HUD ID before: 
+- Project: MAGNOLIA TRAILS
+- Address: 30801 NICHOLS SAWMILL RD
+- City: MAGNOLIA
+- State: TX
+- ZIP: 77355
+- ZIP extension: 
+- State project ID: TX4735
+- Latitude: 30.193533
+- Longitude: -95.752982
+- County FIPS: 48339
+- County from: 2020
+- Tract 2020: 48339690204
+- Tract 2010: 48339690201
+- Tract 2000: 48339690200
+- Tract 1990: 48339090302
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 46056
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000725.
+- Record status: Existing, unchanged

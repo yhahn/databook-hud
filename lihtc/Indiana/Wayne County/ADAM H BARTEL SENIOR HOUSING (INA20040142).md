@@ -1,0 +1,85 @@
+# Project: ADAM H BARTEL SENIOR HOUSING (INA20040142)
+
+- HUD ID: INA20040142
+- HUD ID before: 
+- Project: ADAM H BARTEL SENIOR HOUSING
+- Address: 200 S EIGHTH ST
+- City: RICHMOND
+- State: IN
+- ZIP: 47374
+- ZIP extension: 
+- State project ID: IN-02-00500
+- Latitude: 39.825836
+- Longitude: -84.891822
+- County FIPS: 18177
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18177001000
+- Tract 2000: 18177001000
+- Tract 1990: 18177001000
+- Place 2020: 
+- Place 2010: 64260
+- Place 2000: 64260
+- Place 1990: 2140
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 1
+- 1-bedroom units: 9
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ROSEWOOD APTS (WIA19950200)
+
+- HUD ID: WIA19950200
+- HUD ID before: 
+- Project: ROSEWOOD APTS
+- Address: 300 SILVERADO DR
+- City: STOUGHTON
+- State: WI
+- ZIP: 53589
+- ZIP extension: 
+- State project ID: 1974
+- Latitude: 42.919356
+- Longitude: -89.24623
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025012202
+- Tract 2010: 55025012202
+- Tract 2000: 55025012202
+- Tract 1990: 55025012200
+- Place 2020: 77675
+- Place 2010: 77675
+- Place 2000: 77675
+- Place 1990: 2465
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

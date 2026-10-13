@@ -1,0 +1,85 @@
+# Project: SILVER CREEK SENIOR LIVING/KNOWLES (MDA20211013)
+
+- HUD ID: MDA20211013
+- HUD ID before: 
+- Project: SILVER CREEK SENIOR LIVING/KNOWLES
+- Address: 3906/3910 KNOWLES AVENUE
+- City: KENSINGTON
+- State: MD
+- ZIP: 20895
+- ZIP extension: 
+- State project ID: MD-18-29001
+- Latitude: 39.0395
+- Longitude: -77.0822
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031703502
+- Tract 2010: 24031703502
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 56712
+- Place 2010: 56712
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 764078
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 
+- 1-bedroom units: 35
+- 2-bedroom units: 59
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

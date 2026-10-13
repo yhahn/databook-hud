@@ -1,0 +1,85 @@
+# Project: PEARL APTS (INA19990095)
+
+- HUD ID: INA19990095
+- HUD ID before: 
+- Project: PEARL APTS
+- Address: 600 S ST
+- City: LAFAYETTE
+- State: IN
+- ZIP: 47901
+- ZIP extension: 
+- State project ID: IN-98-00200
+- Latitude: 40.417492
+- Longitude: -86.890613
+- County FIPS: 18157
+- County from: 2020
+- Tract 2020: 18157011100
+- Tract 2010: 18157011100
+- Tract 2000: 18157000600
+- Tract 1990: 18157000600
+- Place 2020: 40788
+- Place 2010: 40788
+- Place 2000: 40788
+- Place 1990: 1285
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 29
+- Low-income units: 18
+- Units reported: 29
+- Low-income reported: 18
+- Efficiencies: 2
+- 1-bedroom units: 8
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ENTERPRISE APTS.
+- Record status: Existing, unchanged

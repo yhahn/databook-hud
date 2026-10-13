@@ -1,0 +1,85 @@
+# Project: MOORE GROCERY LOFTS (TXA20080010)
+
+- HUD ID: TXA20080010
+- HUD ID before: 
+- Project: MOORE GROCERY LOFTS
+- Address: 410 N BROADWAY AVE
+- City: TYLER
+- State: TX
+- ZIP: 75702
+- ZIP extension: 
+- State project ID: TX4450
+- Latitude: 32.353977
+- Longitude: -95.300841
+- County FIPS: 48423
+- County from: 2020
+- Tract 2020: 48423000500
+- Tract 2010: 48423000500
+- Tract 2000: 48423000500
+- Tract 1990: 48423000500
+- Place 2020: 74144
+- Place 2010: 74144
+- Place 2000: 74144
+- Place 1990: 4350
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 52
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000731.
+- Record status: Existing, unchanged

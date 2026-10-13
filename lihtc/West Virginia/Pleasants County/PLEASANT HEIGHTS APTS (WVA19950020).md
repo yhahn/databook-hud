@@ -1,0 +1,85 @@
+# Project: PLEASANT HEIGHTS APTS (WVA19950020)
+
+- HUD ID: WVA19950020
+- HUD ID before: 
+- Project: PLEASANT HEIGHTS APTS
+- Address: 717 RIVERVIEW DR
+- City: BELMONT
+- State: WV
+- ZIP: 26134
+- ZIP extension: 
+- State project ID: WV-94-151
+- Latitude: 39.375689
+- Longitude: -81.275274
+- County FIPS: 54073
+- County from: 2020
+- Tract 2020: 54073962200
+- Tract 2010: 54073962200
+- Tract 2000: 54073962200
+- Tract 1990: 54073962200
+- Place 2020: 06004
+- Place 2010: 06004
+- Place 2000: 06004
+- Place 1990: 1425
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

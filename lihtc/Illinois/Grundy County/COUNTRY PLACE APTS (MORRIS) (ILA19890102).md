@@ -1,0 +1,85 @@
+# Project: COUNTRY PLACE APTS (MORRIS) (ILA19890102)
+
+- HUD ID: ILA19890102
+- HUD ID before: 
+- Project: COUNTRY PLACE APTS (MORRIS)
+- Address: 400 TWILIGHT DR
+- City: MORRIS
+- State: IL
+- ZIP: 60450
+- ZIP extension: 
+- State project ID: 124-89
+- Latitude: 41.379428
+- Longitude: -88.436908
+- County FIPS: 17063
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17063000200
+- Tract 2000: 17063000200
+- Tract 1990: 17063000200
+- Place 2020: 
+- Place 2010: 50491
+- Place 2000: 50491
+- Place 1990: 3845
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 35997
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000345.
+- Record status: Existing, unchanged

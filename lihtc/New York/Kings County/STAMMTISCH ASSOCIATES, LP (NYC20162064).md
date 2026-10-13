@@ -1,0 +1,85 @@
+# Project: STAMMTISCH ASSOCIATES, LP (NYC20162064)
+
+- HUD ID: NYC20162064
+- HUD ID before: 
+- Project: STAMMTISCH ASSOCIATES, LP
+- Address: 26 MORGAN AVENUE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11237
+- ZIP extension: 
+- State project ID: 2013-039
+- Latitude: 40.704677
+- Longitude: -73.931205
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047045300
+- Tract 2010: 36047045300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 874001
+- Units: 46
+- Low-income units: 42
+- Units reported: 46
+- Low-income reported: 42
+- Efficiencies: 1
+- 1-bedroom units: 13
+- 2-bedroom units: 23
+- 3-bedroom units: 8
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 46
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

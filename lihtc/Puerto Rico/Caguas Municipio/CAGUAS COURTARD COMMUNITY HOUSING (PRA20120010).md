@@ -1,0 +1,85 @@
+# Project: CAGUAS COURTARD COMMUNITY HOUSING (PRA20120010)
+
+- HUD ID: PRA20120010
+- HUD ID before: 
+- Project: CAGUAS COURTARD COMMUNITY HOUSING
+- Address: 72 CALLE GEORGETTI
+- City: CAGUAS
+- State: PR
+- ZIP: 
+- ZIP extension: 
+- State project ID: 09-060
+- Latitude: 18.228529
+- Longitude: -66.03099
+- County FIPS: 72025
+- County from: 2020
+- Tract 2020: 72025201600
+- Tract 2010: 72025201600
+- Tract 2000: 72025201600
+- Tract 1990: 72025201600
+- Place 2020: 10334
+- Place 2010: 10334
+- Place 2000: 10334
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 2255381
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 72
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 8344911
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

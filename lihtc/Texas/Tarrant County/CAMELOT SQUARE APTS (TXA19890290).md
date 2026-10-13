@@ -1,0 +1,85 @@
+# Project: CAMELOT SQUARE APTS (TXA19890290)
+
+- HUD ID: TXA19890290
+- HUD ID before: 
+- Project: CAMELOT SQUARE APTS
+- Address: 500 RIDGECREST CIR
+- City: SAGINAW
+- State: TX
+- ZIP: 76179
+- ZIP extension: 
+- State project ID: TX6722
+- Latitude: 32.857111
+- Longitude: -97.372194
+- County FIPS: 48439
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48439114006
+- Tract 2000: 48439114006
+- Tract 1990: 48439114004
+- Place 2020: 
+- Place 2010: 64112
+- Place 2000: 64112
+- Place 1990: 3725
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 136
+- Low-income units: 136
+- Units reported: 136
+- Low-income reported: 136
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 76
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Existing
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

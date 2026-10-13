@@ -1,0 +1,85 @@
+# Project: GROVE STREET TOWNHOMES (WIA19940060)
+
+- HUD ID: WIA19940060
+- HUD ID before: 
+- Project: GROVE STREET TOWNHOMES
+- Address: 800 GROVE ST
+- City: FORT ATKINSON
+- State: WI
+- ZIP: 53538
+- ZIP extension: 
+- State project ID: 1396
+- Latitude: 42.917286
+- Longitude: -88.841126
+- County FIPS: 55055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55055101400
+- Tract 2000: 55055991400
+- Tract 1990: 55055991400
+- Place 2020: 
+- Place 2010: 26675
+- Place 2000: 26675
+- Place 1990: 0920
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

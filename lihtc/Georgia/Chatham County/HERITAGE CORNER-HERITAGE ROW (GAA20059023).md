@@ -1,0 +1,85 @@
+# Project: HERITAGE CORNER/HERITAGE ROW (GAA20059023)
+
+- HUD ID: GAA20059023
+- HUD ID before: 
+- Project: HERITAGE CORNER/HERITAGE ROW
+- Address: 1901 FLORENCE ST
+- City: SAVANNAH
+- State: GA
+- ZIP: 31415
+- ZIP extension: 7928
+- State project ID: 56-2328730
+- Latitude: 32.060941
+- Longitude: -81.108161
+- County FIPS: 13051
+- County from: 2020
+- Tract 2020: 13051001200
+- Tract 2010: 13051001200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 567253
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

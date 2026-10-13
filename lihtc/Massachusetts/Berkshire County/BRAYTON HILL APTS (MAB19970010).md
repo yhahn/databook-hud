@@ -1,0 +1,85 @@
+# Project: BRAYTON HILL APTS (MAB19970010)
+
+- HUD ID: MAB19970010
+- HUD ID before: 
+- Project: BRAYTON HILL APTS
+- Address: 159 BARBOUR ST
+- City: NORTH ADAMS
+- State: MA
+- ZIP: 01247
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.693696
+- Longitude: -73.147753
+- County FIPS: 25003
+- County from: 2020
+- Tract 2020: 25003921500
+- Tract 2010: 25003921500
+- Tract 2000: 25003921500
+- Tract 1990: 25003921500
+- Place 2020: 46225
+- Place 2010: 46225
+- Place 2000: 46225
+- Place 1990: 2850
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 90
+- Units reported: 100
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 12
+- 3-bedroom units: 24
+- 4-bedroom units: 28
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

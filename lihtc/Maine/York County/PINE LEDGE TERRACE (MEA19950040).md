@@ -1,0 +1,85 @@
+# Project: PINE LEDGE TERRACE (MEA19950040)
+
+- HUD ID: MEA19950040
+- HUD ID before: 
+- Project: PINE LEDGE TERRACE
+- Address: LEDGEWOOD TER
+- City: SACO
+- State: ME
+- ZIP: 
+- ZIP extension: 
+- State project ID: MSHA-RLP-863
+- Latitude: 43.5305
+- Longitude: -70.4312
+- County FIPS: 23031
+- County from: 2020
+- Tract 2020: 23031005200
+- Tract 2010: 23031005200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 64675
+- Place 2010: 64675
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 37
+- Units reported: 48
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 31
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

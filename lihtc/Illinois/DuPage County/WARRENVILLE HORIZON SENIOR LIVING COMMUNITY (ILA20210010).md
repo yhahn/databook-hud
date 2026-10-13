@@ -1,0 +1,85 @@
+# Project: WARRENVILLE HORIZON SENIOR LIVING COMMUNITY (ILA20210010)
+
+- HUD ID: ILA20210010
+- HUD ID before: 
+- Project: WARRENVILLE HORIZON SENIOR LIVING COMMUNITY
+- Address: 28W620 BATAVIA RD
+- City: WARRENVILLE
+- State: IL
+- ZIP: 60555
+- ZIP extension: 
+- State project ID: 1167120
+- Latitude: 41.8223
+- Longitude: -88.1973
+- County FIPS: 17043
+- County from: 2020
+- Tract 2020: 17043841603
+- Tract 2010: 17043841607
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 78929
+- Place 2010: 78929
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1496765
+- Units: 67
+- Low-income units: 67
+- Units reported: 67
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

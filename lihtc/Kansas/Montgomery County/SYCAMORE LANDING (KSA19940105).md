@@ -1,0 +1,85 @@
+# Project: SYCAMORE LANDING (KSA19940105)
+
+- HUD ID: KSA19940105
+- HUD ID before: 
+- Project: SYCAMORE LANDING
+- Address: 701 LEWARK ST
+- City: COFFEYVILLE
+- State: KS
+- ZIP: 67337
+- ZIP extension: 
+- State project ID: 60058
+- Latitude: 37.037587
+- Longitude: -95.64372
+- County FIPS: 20125
+- County from: 2020
+- Tract 2020: 20125950800
+- Tract 2010: 20125950800
+- Tract 2000: 20125950800
+- Tract 1990: 20125950800
+- Place 2020: 14600
+- Place 2010: 14600
+- Place 2000: 14600
+- Place 1990: 0535
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 60014
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

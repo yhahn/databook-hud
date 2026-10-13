@@ -1,0 +1,85 @@
+# Project: VIOLA SENIOR APTS (ILA19970130)
+
+- HUD ID: ILA19970130
+- HUD ID before: 
+- Project: VIOLA SENIOR APTS
+- Address: 1005 16TH AVE
+- City: VIOLA
+- State: IL
+- ZIP: 61486
+- ZIP extension: 
+- State project ID: 100196
+- Latitude: 41.204189
+- Longitude: -90.590104
+- County FIPS: 17131
+- County from: 2020
+- Tract 2020: 17131040400
+- Tract 2010: 17131040400
+- Tract 2000: 17131040400
+- Tract 1990: 17131040400
+- Place 2020: 78123
+- Place 2010: 78123
+- Place 2000: 00672
+- Place 1990: 5955
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 55845
+- Units: 10
+- Low-income units: 8
+- Units reported: 10
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

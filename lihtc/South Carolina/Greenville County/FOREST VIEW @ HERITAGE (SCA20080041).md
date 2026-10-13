@@ -1,0 +1,85 @@
+# Project: FOREST VIEW @ HERITAGE (SCA20080041)
+
+- HUD ID: SCA20080041
+- HUD ID before: 
+- Project: FOREST VIEW @ HERITAGE
+- Address: 50 RAMSEY DR
+- City: GREENVILLE
+- State: SC
+- ZIP: 29607
+- ZIP extension: 
+- State project ID: SC-06-008
+- Latitude: 34.839103
+- Longitude: -82.372832
+- County FIPS: 45045
+- County from: 2020
+- Tract 2020: 45045004300
+- Tract 2010: 45045004300
+- Tract 2000: 45045000300
+- Tract 1990: 45045000300
+- Place 2020: 30850
+- Place 2010: 30850
+- Place 2000: 30850
+- Place 1990: 0565
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 42
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 46
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: Yes
+- HOPE VI amount: 2654007
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

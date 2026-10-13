@@ -1,0 +1,85 @@
+# Project: GULFWAY MANOR APTS (TXA20070150)
+
+- HUD ID: TXA20070150
+- HUD ID before: 
+- Project: GULFWAY MANOR APTS
+- Address: 1750 TREYWAY CIR
+- City: CORPUS CHRISTI
+- State: TX
+- ZIP: 78412
+- ZIP extension: 
+- State project ID: TX4425
+- Latitude: 27.699173
+- Longitude: -97.364392
+- County FIPS: 48355
+- County from: 2020
+- Tract 2020: 48355003305
+- Tract 2010: 48355003305
+- Tract 2000: 48355003302
+- Tract 1990: 48355003302
+- Place 2020: 17000
+- Place 2010: 17000
+- Place 2000: 17000
+- Place 1990: 0980
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 481841
+- Units: 151
+- Low-income units: 151
+- Units reported: 151
+- Low-income reported: 151
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 51
+- 3-bedroom units: 60
+- 4-bedroom units: 20
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

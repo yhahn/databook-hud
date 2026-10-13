@@ -1,0 +1,85 @@
+# Project: SUMMERTREE APTS (ALA19940242)
+
+- HUD ID: ALA19940242
+- HUD ID before: 
+- Project: SUMMERTREE APTS
+- Address: 560 FORTNER ST
+- City: DOTHAN
+- State: AL
+- ZIP: 36301
+- ZIP extension: 
+- State project ID: AL-94-0032
+- Latitude: 31.216956
+- Longitude: -85.403068
+- County FIPS: 01069
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01069040600
+- Tract 2000: 01069040600
+- Tract 1990: 01069040600
+- Place 2020: 
+- Place 2010: 21184
+- Place 2000: 21184
+- Place 1990: 0500
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 327600
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 72
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1995125. AKA MARCLIFF SUMMERTREE APTS.
+- Record status: Existing, unchanged

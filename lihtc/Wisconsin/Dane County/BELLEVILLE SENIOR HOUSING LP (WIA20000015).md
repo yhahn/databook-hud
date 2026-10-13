@@ -1,0 +1,85 @@
+# Project: BELLEVILLE SENIOR HOUSING LP (WIA20000015)
+
+- HUD ID: WIA20000015
+- HUD ID before: 
+- Project: BELLEVILLE SENIOR HOUSING LP
+- Address: 50 HERITAGE LN
+- City: BELLEVILLE
+- State: WI
+- ZIP: 53508
+- ZIP extension: 
+- State project ID: 2380
+- Latitude: 42.873826
+- Longitude: -89.533824
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025012600
+- Tract 2010: 55025012600
+- Tract 2000: 55025012600
+- Tract 1990: 55025012600
+- Place 2020: 06300
+- Place 2010: 06300
+- Place 2000: 06300
+- Place 1990: 0205
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 16
+- Units reported: 20
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BELLEVILLE SENIOR HOUSING.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VILLAS AT BEAUMONT (TXA20110826)
+
+- HUD ID: TXA20110826
+- HUD ID before: 
+- Project: VILLAS AT BEAUMONT
+- Address: 2200 BEAUMONT AVE
+- City: MCALLEN
+- State: TX
+- ZIP: 78501
+- ZIP extension: 
+- State project ID: TX-742610542
+- Latitude: 26.203201
+- Longitude: -98.243565
+- County FIPS: 48215
+- County from: 2020
+- Tract 2020: 48215020600
+- Tract 2010: 48215020600
+- Tract 2000: 48215020600
+- Tract 1990: 48215020600
+- Place 2020: 45384
+- Place 2010: 45384
+- Place 2000: 45384
+- Place 1990: 2595
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3367917
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000650.
+- Record status: Existing, unchanged

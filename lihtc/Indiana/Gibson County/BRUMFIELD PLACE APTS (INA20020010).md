@@ -1,0 +1,85 @@
+# Project: BRUMFIELD PLACE APTS (INA20020010)
+
+- HUD ID: INA20020010
+- HUD ID before: 
+- Project: BRUMFIELD PLACE APTS
+- Address: 400 N FORD ST
+- City: PRINCETON
+- State: IN
+- ZIP: 47670
+- ZIP extension: 
+- State project ID: IN-01-00500
+- Latitude: 38.358662
+- Longitude: -87.559436
+- County FIPS: 18051
+- County from: 2020
+- Tract 2020: 18051050501
+- Tract 2010: 18051050501
+- Tract 2000: 18051050500
+- Tract 1990: 18051050500
+- Place 2020: 62046
+- Place 2010: 62046
+- Place 2000: 62046
+- Place 1990: 2110
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 117970
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 225000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

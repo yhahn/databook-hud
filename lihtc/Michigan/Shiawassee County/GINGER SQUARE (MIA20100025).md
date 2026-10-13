@@ -1,0 +1,85 @@
+# Project: GINGER SQUARE (MIA20100025)
+
+- HUD ID: MIA20100025
+- HUD ID before: 
+- Project: GINGER SQUARE
+- Address: 1200 PENBROOK DR
+- City: OWOSSO
+- State: MI
+- ZIP: 48867
+- ZIP extension: 
+- State project ID: MI-3326
+- Latitude: 42.977095
+- Longitude: -84.188444
+- County FIPS: 26155
+- County from: 2020
+- Tract 2020: 26155030300
+- Tract 2010: 26155030700
+- Tract 2000: 26155030700
+- Tract 1990: 26155030700
+- Place 2020: 61940
+- Place 2010: 61940
+- Place 2000: 61940
+- Place 1990: 2055
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 649775
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 60
+- 3-bedroom units: 32
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

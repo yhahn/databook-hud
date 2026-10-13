@@ -1,0 +1,85 @@
+# Project: LMI PHILLIPS TENNEY (MAB20020040)
+
+- HUD ID: MAB20020040
+- HUD ID before: 
+- Project: LMI PHILLIPS TENNEY
+- Address: 2 PHILLIPS ST
+- City: METHUEN
+- State: MA
+- ZIP: 01844
+- ZIP extension: 
+- State project ID: MA00-10032THRUMA00-1003
+- Latitude: 42.720084
+- Longitude: -71.178369
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009252400
+- Tract 2010: 25009252400
+- Tract 2000: 25009252400
+- Tract 1990: 25009252400
+- Place 2020: 40710
+- Place 2010: 40710
+- Place 2000: 40710
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000370.
+- Record status: Existing, unchanged

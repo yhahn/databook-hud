@@ -1,0 +1,85 @@
+# Project: HCCI PORTFOLIO (WEST 145TH STREET) (NYC20120819)
+
+- HUD ID: NYC20120819
+- HUD ID before: 
+- Project: HCCI PORTFOLIO (WEST 145TH STREET)
+- Address: W 145TH ST
+- City: NEW YORK
+- State: NY
+- ZIP: 
+- ZIP extension: 
+- State project ID: 1102136
+- Latitude: 
+- Longitude: 
+- County FIPS: 36061
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 115345
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 76
+- 3-bedroom units: 57
+- 4-bedroom units: 44
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

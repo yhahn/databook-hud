@@ -1,0 +1,85 @@
+# Project: JAYCEE FAIRGROUNDS VILLAGE (MOA20130016)
+
+- HUD ID: MOA20130016
+- HUD ID before: 
+- Project: JAYCEE FAIRGROUNDS VILLAGE
+- Address: 1355 FAIRGROUNDS RD
+- City: ST CHARLES
+- State: MO
+- ZIP: 63301
+- ZIP extension: 
+- State project ID: 11-055
+- Latitude: 38.772917
+- Longitude: -90.499439
+- County FIPS: 29183
+- County from: 2020
+- Tract 2020: 29183310501
+- Tract 2010: 29183310501
+- Tract 2000: 29183310500
+- Tract 1990: 29183310500
+- Place 2020: 64082
+- Place 2010: 64082
+- Place 2000: 64082
+- Place 1990: 3830
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 900000
+- Units: 135
+- Low-income units: 131
+- Units reported: 135
+- Low-income reported: 131
+- Efficiencies: 0
+- 1-bedroom units: 134
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA JAYCEE FAIRGROUNDS VILLAGE SENIOR.
+- Record status: Existing, unchanged

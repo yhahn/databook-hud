@@ -1,0 +1,85 @@
+# Project: FOREST VIEW APTS (TNA20050050)
+
+- HUD ID: TNA20050050
+- HUD ID before: 
+- Project: FOREST VIEW APTS
+- Address: 119 BELINDA PKWY
+- City: MT JULIET
+- State: TN
+- ZIP: 37122
+- ZIP extension: 
+- State project ID: TN-03-204
+- Latitude: 36.170369
+- Longitude: -86.494527
+- County FIPS: 47189
+- County from: 2020
+- Tract 2020: 47189030908
+- Tract 2010: 47189030901
+- Tract 2000: 47189030901
+- Tract 1990: 47189030998
+- Place 2020: 50780
+- Place 2010: 50780
+- Place 2000: 50780
+- Place 1990: 0098
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 336113
+- Units: 130
+- Low-income units: 130
+- Units reported: 130
+- Low-income reported: 130
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 75
+- 3-bedroom units: 55
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

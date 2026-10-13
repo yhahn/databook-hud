@@ -1,0 +1,25 @@
+# Tax Credit Projects: Pearl River County, MS
+
+- Level: County
+- Postal code: MS
+- State FIPS: 28
+- County FIPS: 28109
+- Counties: 
+- Projects: 8
+- Units: 352
+- Low-income units: 348
+
+The low-income housing tax credit projects of Pearl River County, Mississippi, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [ELMWOOD MANOR APTS (MSA19920050)](./Pearl%20River%20County/ELMWOOD%20MANOR%20APTS%20%28MSA19920050%29.md) | MSA19920050 | PICAYUNE | 1992 | 24 | 24 |
+| [CEDARSTONE APTS (MSA19930010)](./Pearl%20River%20County/CEDARSTONE%20APTS%20%28MSA19930010%29.md) | MSA19930010 | POPLARVILLE | 1993 | 24 | 24 |
+| [PICAYUNE APTS II (MSA19940537)](./Pearl%20River%20County/PICAYUNE%20APTS%20II%20%28MSA19940537%29.md) | MSA19940537 | PICAYUNE | 1994 | 48 | 48 |
+| [BLUE SPRUCE APTS (MSA19960015)](./Pearl%20River%20County/BLUE%20SPRUCE%20APTS%20%28MSA19960015%29.md) | MSA19960015 | PICAYUNE | 1996 | 48 | 47 |
+| [COLONIAL APTS (MSA19970026)](./Pearl%20River%20County/COLONIAL%20APTS%20%28MSA19970026%29.md) | MSA19970026 | POPLARVILLE | 1997 | 16 | 16 |
+| [REGENCY APTS (MSA19970048)](./Pearl%20River%20County/REGENCY%20APTS%20%28MSA19970048%29.md) | MSA19970048 | POPLARVILLE | 1997 | 16 | 16 |
+| [POPLARVILLE ESTATES (MSA20030065)](./Pearl%20River%20County/POPLARVILLE%20ESTATES%20%28MSA20030065%29.md) | MSA20030065 | POPLARVILLE | 2003 | 40 | 40 |
+| [GRANDE OAKS APTS (MSA20080115)](./Pearl%20River%20County/GRANDE%20OAKS%20APTS%20%28MSA20080115%29.md) | MSA20080115 | PICAYUNE | 2008 | 136 | 133 |

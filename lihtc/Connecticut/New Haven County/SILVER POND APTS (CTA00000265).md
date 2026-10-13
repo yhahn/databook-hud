@@ -1,0 +1,85 @@
+# Project: SILVER POND APTS (CTA00000265)
+
+- HUD ID: CTA00000265
+- HUD ID before: 
+- Project: SILVER POND APTS
+- Address: 656 CTR ST
+- City: WALLINGFORD
+- State: CT
+- ZIP: 06492
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.450941
+- Longitude: -72.810825
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009175900
+- Tract 2010: 09009175900
+- Tract 2000: 09009175900
+- Tract 1990: 09009175900
+- Place 2020: 78880
+- Place 2010: 78880
+- Place 2000: 78880
+- Place 1990: 2420
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 160
+- Low-income units: 150
+- Units reported: 160
+- Low-income reported: 150
+- Efficiencies: 20
+- 1-bedroom units: 132
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

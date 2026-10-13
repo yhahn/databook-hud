@@ -1,0 +1,85 @@
+# Project: HYDE PARK ESTATES (GAA19980195)
+
+- HUD ID: GAA19980195
+- HUD ID before: 
+- Project: HYDE PARK ESTATES
+- Address: 1553 WEAVER DR
+- City: VALDOSTA
+- State: GA
+- ZIP: 31601
+- ZIP extension: 
+- State project ID: GA-97-014
+- Latitude: 30.831094
+- Longitude: -83.308595
+- County FIPS: 13185
+- County from: 2020
+- Tract 2020: 13185010900
+- Tract 2010: 13185010900
+- Tract 2000: 13185010900
+- Tract 1990: 13185010900
+- Place 2020: 78800
+- Place 2010: 78800
+- Place 2000: 78800
+- Place 1990: 2910
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 467977
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 48
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1999060.
+- Record status: Existing, unchanged

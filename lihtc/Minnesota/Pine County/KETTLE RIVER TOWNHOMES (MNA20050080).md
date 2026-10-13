@@ -1,0 +1,85 @@
+# Project: KETTLE RIVER TOWNHOMES (MNA20050080)
+
+- HUD ID: MNA20050080
+- HUD ID before: 
+- Project: KETTLE RIVER TOWNHOMES
+- Address: 401 OLD MILITARY RD
+- City: SANDSTONE
+- State: MN
+- ZIP: 55037
+- ZIP extension: 
+- State project ID: D3843
+- Latitude: 46.124935
+- Longitude: -92.872239
+- County FIPS: 27115
+- County from: 2020
+- Tract 2020: 27115950402
+- Tract 2010: 27115950400
+- Tract 2000: 27115950400
+- Tract 1990: 27115950400
+- Place 2020: 58396
+- Place 2010: 58396
+- Place 2000: 58396
+- Place 1990: 3460
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

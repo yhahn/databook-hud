@@ -1,0 +1,85 @@
+# Project: MOUNTAIN VIEW VILLAGE II (AKA20060020)
+
+- HUD ID: AKA20060020
+- HUD ID before: 
+- Project: MOUNTAIN VIEW VILLAGE II
+- Address: 4211 MOUNTAIN VIEW DR
+- City: ANCHORAGE
+- State: AK
+- ZIP: 99508
+- ZIP extension: 
+- State project ID: 38748
+- Latitude: 61.224396
+- Longitude: -149.802081
+- County FIPS: 02020
+- County from: 2020
+- Tract 2020: 02020000602
+- Tract 2010: 02020000600
+- Tract 2000: 02020000600
+- Tract 1990: 02020000600
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0140
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 394488
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 22
+- 3-bedroom units: 15
+- 4-bedroom units: 2
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

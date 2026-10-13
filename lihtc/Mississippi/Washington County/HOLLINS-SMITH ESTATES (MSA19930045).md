@@ -1,0 +1,85 @@
+# Project: HOLLINS-SMITH ESTATES (MSA19930045)
+
+- HUD ID: MSA19930045
+- HUD ID before: 
+- Project: HOLLINS-SMITH ESTATES
+- Address: 339 S THEOBALD ST
+- City: GREENVILLE
+- State: MS
+- ZIP: 38701
+- ZIP extension: 
+- State project ID: MS-135
+- Latitude: 33.405454
+- Longitude: -91.060629
+- County FIPS: 28151
+- County from: 2020
+- Tract 2020: 28151000600
+- Tract 2010: 28151000600
+- Tract 2000: 28151000600
+- Tract 1990: 28151000600
+- Place 2020: 29180
+- Place 2010: 29180
+- Place 2000: 29180
+- Place 1990: 0495
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

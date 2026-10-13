@@ -1,0 +1,85 @@
+# Project: SUMMER BREEZE APTS (CAA20040505)
+
+- HUD ID: CAA20040505
+- HUD ID before: 
+- Project: SUMMER BREEZE APTS
+- Address: 200 LEWIS RD
+- City: SAN JOSE
+- State: CA
+- ZIP: 95111
+- ZIP extension: 
+- State project ID: CA-02-928
+- Latitude: 37.292383
+- Longitude: -121.845004
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085503219
+- Tract 2010: 06085503204
+- Tract 2000: 06085503204
+- Tract 1990: 06085503204
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 2510
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 1469606
+- Units: 160
+- Low-income units: 159
+- Units reported: 160
+- Low-income reported: 159
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 88
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FALLEN LEAVES APTS.
+- Record status: Existing, unchanged

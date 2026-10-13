@@ -1,0 +1,85 @@
+# Project: ARMENTINE COVE (LAA20030007)
+
+- HUD ID: LAA20030007
+- HUD ID before: 
+- Project: ARMENTINE COVE
+- Address: 338 ARMENTINE COVE
+- City: BREAUX BRIDGE
+- State: LA
+- ZIP: 70517
+- ZIP extension: 0000
+- State project ID: LA-02-025
+- Latitude: 30.284282
+- Longitude: -91.909106
+- County FIPS: 22099
+- County from: 2020
+- Tract 2020: 22099020502
+- Tract 2010: 22099020502
+- Tract 2000: 22099020500
+- Tract 1990: 22099020500
+- Place 2020: 09340
+- Place 2010: 09340
+- Place 2000: 
+- Place 1990: 0150
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 7034
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

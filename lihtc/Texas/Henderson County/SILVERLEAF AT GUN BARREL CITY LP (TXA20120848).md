@@ -1,0 +1,85 @@
+# Project: SILVERLEAF AT GUN BARREL CITY LP (TXA20120848)
+
+- HUD ID: TXA20120848
+- HUD ID before: 
+- Project: SILVERLEAF AT GUN BARREL CITY LP
+- Address: 400 CHURCH ST
+- City: MABANK
+- State: TX
+- ZIP: 75156
+- ZIP extension: 
+- State project ID: TX4792
+- Latitude: 32.333084
+- Longitude: -96.117445
+- County FIPS: 48213
+- County from: 2020
+- Tract 2020: 48213950604
+- Tract 2010: 48213950602
+- Tract 2000: 48213950600
+- Tract 1990: 48213950600
+- Place 2020: 31592
+- Place 2010: 31592
+- Place 2000: 31592
+- Place 1990: 1773
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 46
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

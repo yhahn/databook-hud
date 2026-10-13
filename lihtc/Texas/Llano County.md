@@ -1,0 +1,25 @@
+# Tax Credit Projects: Llano County, TX
+
+- Level: County
+- Postal code: TX
+- State FIPS: 48
+- County FIPS: 48299
+- Counties: 
+- Projects: 8
+- Units: 440
+- Low-income units: 381
+
+The low-income housing tax credit projects of Llano County, Texas, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [WINDWOOD RETIREMENT (TXA19890585)](./Llano%20County/WINDWOOD%20RETIREMENT%20%28TXA19890585%29.md) | TXA19890585 | KINGSLAND | 1989 | 34 | 34 |
+| [WINDWOOD APTS II (TXA19950495)](./Llano%20County/WINDWOOD%20APTS%20II%20%28TXA19950495%29.md) | TXA19950495 | KINGSLAND | 1995 | 34 | 34 |
+| [LLANO SQUARE APTS (TXA19970100)](./Llano%20County/LLANO%20SQUARE%20APTS%20%28TXA19970100%29.md) | TXA19970100 | LLANO | 1997 | 40 | 40 |
+| [LEGEND OAKS (TXA20020170)](./Llano%20County/LEGEND%20OAKS%20%28TXA20020170%29.md) | TXA20020170 | LLANO | 2002 | 48 | 40 |
+| [TOWNEPARK IN KINGSLAND (TXA20020310)](./Llano%20County/TOWNEPARK%20IN%20KINGSLAND%20%28TXA20020310%29.md) | TXA20020310 | KINGSLAND | 2002 | 76 | 76 |
+| [KINGSLAND TRAILS APTS (TXA20060015)](./Llano%20County/KINGSLAND%20TRAILS%20APTS%20%28TXA20060015%29.md) | TXA20060015 | KINGSLAND | 2006 | 76 | 76 |
+| [PARK RIDGE APTS (TXA20110839)](./Llano%20County/PARK%20RIDGE%20APTS%20%28TXA20110839%29.md) | TXA20110839 | LLANO | 2011 | 64 | 13 |
+| [WINDWOOD I & II (TXA20211863)](./Llano%20County/WINDWOOD%20I%20%26%20II%20%28TXA20211863%29.md) | TXA20211863 | KINGSLAND | 2021 | 68 | 68 |

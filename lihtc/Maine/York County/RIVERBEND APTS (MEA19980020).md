@@ -1,0 +1,85 @@
+# Project: RIVERBEND APTS (MEA19980020)
+
+- HUD ID: MEA19980020
+- HUD ID before: 
+- Project: RIVERBEND APTS
+- Address: 348 S ST
+- City: BIDDEFORD
+- State: ME
+- ZIP: 04005
+- ZIP extension: 
+- State project ID: MSHA-RLP-982
+- Latitude: 43.496215
+- Longitude: -70.485008
+- County FIPS: 23031
+- County from: 2020
+- Tract 2020: 23031025100
+- Tract 2010: 23031025100
+- Tract 2000: 23031025100
+- Tract 1990: 23031025100
+- Place 2020: 04860
+- Place 2010: 04860
+- Place 2000: 04860
+- Place 1990: 0420
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

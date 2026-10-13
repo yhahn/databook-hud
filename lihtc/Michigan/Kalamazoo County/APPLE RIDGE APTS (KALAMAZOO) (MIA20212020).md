@@ -1,0 +1,85 @@
+# Project: APPLE RIDGE APTS (KALAMAZOO) (MIA20212020)
+
+- HUD ID: MIA20212020
+- HUD ID before: 
+- Project: APPLE RIDGE APTS (KALAMAZOO)
+- Address: 2233 FLOWER ST
+- City: KALAMAZOO
+- State: MI
+- ZIP: 49001
+- ZIP extension: 
+- State project ID: MI-2256
+- Latitude: 42.268765
+- Longitude: -85.568566
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077001001
+- Tract 2010: 26077001000
+- Tract 2000: 26077001000
+- Tract 1990: 26077001000
+- Place 2020: 42160
+- Place 2010: 42160
+- Place 2000: 42160
+- Place 1990: 1370
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

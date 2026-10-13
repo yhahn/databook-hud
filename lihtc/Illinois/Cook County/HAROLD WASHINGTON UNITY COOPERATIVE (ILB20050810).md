@@ -1,0 +1,85 @@
+# Project: HAROLD WASHINGTON UNITY COOPERATIVE (ILB20050810)
+
+- HUD ID: ILB20050810
+- HUD ID before: 
+- Project: HAROLD WASHINGTON UNITY COOPERATIVE
+- Address: 27 N KEDZIE AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60612
+- ZIP extension: 
+- State project ID: 03-001
+- Latitude: 41.881996
+- Longitude: -87.705949
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031836900
+- Tract 2010: 17031836900
+- Tract 2000: 17031270600
+- Tract 1990: 17031270600
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1660975
+- Units: 87
+- Low-income units: 87
+- Units reported: 87
+- Low-income reported: 87
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 29
+- 3-bedroom units: 46
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2005803.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: APEX WEST (VAA20220002)
+
+- HUD ID: VAA20220002
+- HUD ID before: 
+- Project: APEX WEST
+- Address: 2900 S. GLEBE ROAD
+- City: ARLINGTON
+- State: VA
+- ZIP: 22206
+- ZIP extension: 
+- State project ID: 9892
+- Latitude: 38.844562
+- Longitude: -77.069764
+- County FIPS: 51013
+- County from: 2020
+- Tract 2020: 51013103800
+- Tract 2010: 51013103800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 963005
+- Units: 131
+- Low-income units: 117
+- Units reported: 131
+- Low-income reported: 117
+- Efficiencies: 5
+- 1-bedroom units: 18
+- 2-bedroom units: 94
+- 3-bedroom units: 14
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 70
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

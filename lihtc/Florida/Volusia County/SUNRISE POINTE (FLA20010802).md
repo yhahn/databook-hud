@@ -1,0 +1,85 @@
+# Project: SUNRISE POINTE (FLA20010802)
+
+- HUD ID: FLA20010802
+- HUD ID before: 
+- Project: SUNRISE POINTE
+- Address: 1375 RICHEL DR
+- City: PORT ORANGE
+- State: FL
+- ZIP: 32129
+- ZIP extension: 
+- State project ID: 833
+- Latitude: 29.147513
+- Longitude: -81.038887
+- County FIPS: 12127
+- County from: 2020
+- Tract 2020: 12127082413
+- Tract 2010: 12127082413
+- Tract 2000: 12127082409
+- Tract 1990: 12127082407
+- Place 2020: 58575
+- Place 2010: 58575
+- Place 2000: 16525
+- Place 1990: 0485
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 208
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 80
+- 3-bedroom units: 56
+- 4-bedroom units: 24
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

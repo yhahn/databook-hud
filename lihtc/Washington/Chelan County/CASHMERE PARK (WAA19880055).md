@@ -1,0 +1,85 @@
+# Project: CASHMERE PARK (WAA19880055)
+
+- HUD ID: WAA19880055
+- HUD ID before: 
+- Project: CASHMERE PARK
+- Address: 302 FISHER ST
+- City: CASHMERE
+- State: WA
+- ZIP: 98815
+- ZIP extension: 
+- State project ID: 87-27J
+- Latitude: 47.516799
+- Longitude: -120.485568
+- County FIPS: 53007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53007960600
+- Tract 2000: 53007960600
+- Tract 1990: 53007960600
+- Place 2020: 
+- Place 2010: 10495
+- Place 2000: 10495
+- Place 1990: 0165
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

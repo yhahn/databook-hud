@@ -1,0 +1,85 @@
+# Project: STARLIGHT APTS (TXA19920200)
+
+- HUD ID: TXA19920200
+- HUD ID before: 
+- Project: STARLIGHT APTS
+- Address: 9709 STARLIGHT RD
+- City: DALLAS
+- State: TX
+- ZIP: 75220
+- ZIP extension: 
+- State project ID: TX1031
+- Latitude: 32.856299
+- Longitude: -96.874172
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113007203
+- Tract 2010: 48113007201
+- Tract 2000: 48113007201
+- Tract 1990: 48113007201
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1085
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 71
+- Low-income units: 64
+- Units reported: 71
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

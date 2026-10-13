@@ -1,0 +1,85 @@
+# Project: MILLRUN APTS (INA20060092)
+
+- HUD ID: INA20060092
+- HUD ID before: 
+- Project: MILLRUN APTS
+- Address: 1418 MARLOWE DR
+- City: CLARKSVILLE
+- State: IN
+- ZIP: 47129
+- ZIP extension: 
+- State project ID: IN-03-02000
+- Latitude: 38.322018
+- Longitude: -85.775766
+- County FIPS: 18019
+- County from: 2020
+- Tract 2020: 18019050503
+- Tract 2010: 18019050503
+- Tract 2000: 18019050503
+- Tract 1990: 18019050503
+- Place 2020: 12934
+- Place 2010: 12934
+- Place 2000: 12934
+- Place 1990: 0455
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 204
+- Low-income units: 197
+- Units reported: 204
+- Low-income reported: 197
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 135
+- 3-bedroom units: 27
+- 4-bedroom units: 1
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MEADOWS AT GREENTREE.
+- Record status: Existing, unchanged

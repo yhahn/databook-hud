@@ -1,0 +1,85 @@
+# Project: AUTUMN TERRACE (CAA20100037)
+
+- HUD ID: CAA20100037
+- HUD ID before: 
+- Project: AUTUMN TERRACE
+- Address: 251 AUTUMN DR
+- City: SAN MARCOS
+- State: CA
+- ZIP: 92069
+- ZIP extension: 
+- State project ID: CA-08-108
+- Latitude: 33.143156
+- Longitude: -117.167509
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073020028
+- Tract 2010: 06073020028
+- Tract 2000: 06073020009
+- Tract 1990: 06073020009
+- Place 2020: 68196
+- Place 2010: 68196
+- Place 2000: 68196
+- Place 1990: 2537
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1637611
+- Units: 103
+- Low-income units: 100
+- Units reported: 103
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 25
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 73
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2010528.
+- Record status: Existing, unchanged

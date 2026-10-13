@@ -1,0 +1,85 @@
+# Project: CRANBERRY POINTE TOWNHOUSE (PAA19940120)
+
+- HUD ID: PAA19940120
+- HUD ID before: 
+- Project: CRANBERRY POINTE TOWNHOUSE
+- Address: 501 CRANBERRY PT
+- City: CRANBERRY TOWNSHIP
+- State: PA
+- ZIP: 16066
+- ZIP extension: 
+- State project ID: TC1993-0060
+- Latitude: 40.683327
+- Longitude: -80.12689
+- County FIPS: 42019
+- County from: 2020
+- Tract 2020: 42019912102
+- Tract 2010: 42019912101
+- Tract 2000: 42019912101
+- Tract 1990: 42019912100
+- Place 2020: 99999
+- Place 2010: 25752
+- Place 2000: 25752
+- Place 1990: 3955
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 672500
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 92
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Existing, unchanged

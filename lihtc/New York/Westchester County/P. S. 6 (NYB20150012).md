@@ -1,0 +1,85 @@
+# Project: P. S. 6 (NYB20150012)
+
+- HUD ID: NYB20150012
+- HUD ID before: 
+- Project: P. S. 6
+- Address: 33 ASHBURTON AVE
+- City: YONKERS
+- State: NY
+- ZIP: 10701
+- ZIP extension: 
+- State project ID: NY-13-2119
+- Latitude: 40.940195
+- Longitude: -73.897229
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119000403
+- Tract 2010: 36119000402
+- Tract 2000: 36119000402
+- Tract 1990: 
+- Place 2020: 84000
+- Place 2010: 84000
+- Place 2000: 84000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 2415863
+- Units: 121
+- Low-income units: 120
+- Units reported: 121
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 81
+- 2-bedroom units: 32
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 500000
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HUDSON PLACE (MSA20150011)
+
+- HUD ID: MSA20150011
+- HUD ID before: 
+- Project: HUDSON PLACE
+- Address: 158 BROWN AVE
+- City: LOUISVILLE
+- State: MS
+- ZIP: 39339
+- ZIP extension: 0000
+- State project ID: 14-1-001
+- Latitude: 33.111562
+- Longitude: -89.074017
+- County FIPS: 28159
+- County from: 2020
+- Tract 2020: 28159950300
+- Tract 2010: 28159950300
+- Tract 2000: 28159950300
+- Tract 1990: 
+- Place 2020: 42280
+- Place 2010: 42280
+- Place 2000: 42280
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 750000
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 26
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

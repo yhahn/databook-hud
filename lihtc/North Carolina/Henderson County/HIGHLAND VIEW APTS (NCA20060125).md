@@ -1,0 +1,85 @@
+# Project: HIGHLAND VIEW APTS (NCA20060125)
+
+- HUD ID: NCA20060125
+- HUD ID before: 
+- Project: HIGHLAND VIEW APTS
+- Address: 500 KING CREEK
+- City: HENDERSONVILLE
+- State: NC
+- ZIP: 28792
+- ZIP extension: 
+- State project ID: 9001411
+- Latitude: 35.294223
+- Longitude: -82.436125
+- County FIPS: 37089
+- County from: 2020
+- Tract 2020: 37089931402
+- Tract 2010: 37089931400
+- Tract 2000: 37089991400
+- Tract 1990: 37089991400
+- Place 2020: 30720
+- Place 2010: 30720
+- Place 2000: 30720
+- Place 1990: 0763
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 211821
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

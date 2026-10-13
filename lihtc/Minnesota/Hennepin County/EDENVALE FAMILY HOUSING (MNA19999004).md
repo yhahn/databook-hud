@@ -1,0 +1,85 @@
+# Project: EDENVALE FAMILY HOUSING (MNA19999004)
+
+- HUD ID: MNA19999004
+- HUD ID before: 
+- Project: EDENVALE FAMILY HOUSING
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: EDEN PRAIRIE
+- State: MN
+- ZIP: 55344
+- ZIP extension: 
+- State project ID: D2389
+- Latitude: 44.8543
+- Longitude: -93.4426
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053026019
+- Tract 2010: 27053026019
+- Tract 2000: 27053026007
+- Tract 1990: 27053026007
+- Place 2020: 18116
+- Place 2010: 18116
+- Place 2000: 18116
+- Place 1990: 1094
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 9
+- 3-bedroom units: 17
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PURGATORY CREEK.
+- Record status: Existing, unchanged

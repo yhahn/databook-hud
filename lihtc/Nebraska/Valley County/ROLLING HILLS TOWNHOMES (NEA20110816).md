@@ -1,0 +1,85 @@
+# Project: ROLLING HILLS TOWNHOMES (NEA20110816)
+
+- HUD ID: NEA20110816
+- HUD ID before: 
+- Project: ROLLING HILLS TOWNHOMES
+- Address: 216 WOLF AVE
+- City: ORD
+- State: NE
+- ZIP: 68862
+- ZIP extension: 
+- State project ID: 7-0738
+- Latitude: 41.604931
+- Longitude: -98.945042
+- County FIPS: 31175
+- County from: 2020
+- Tract 2020: 31175971400
+- Tract 2010: 31175971400
+- Tract 2000: 31175971400
+- Tract 1990: 31175971400
+- Place 2020: 37280
+- Place 2010: 99999
+- Place 2000: 37280
+- Place 1990: 1845
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 111989
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 589505
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

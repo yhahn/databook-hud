@@ -1,0 +1,85 @@
+# Project: AMERICAN HOUSE TAYLOR (MIA19940155)
+
+- HUD ID: MIA19940155
+- HUD ID before: 
+- Project: AMERICAN HOUSE TAYLOR
+- Address: 25250 EUREKA RD
+- City: TAYLOR
+- State: MI
+- ZIP: 48180
+- ZIP extension: 
+- State project ID: MI-908
+- Latitude: 42.197373
+- Longitude: -83.280685
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163584400
+- Tract 2010: 26163584400
+- Tract 2000: 26163584400
+- Tract 1990: 26163584400
+- Place 2020: 79000
+- Place 2010: 79000
+- Place 2000: 79000
+- Place 1990: 2633
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 138
+- Low-income units: 41
+- Units reported: 138
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 94
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LAVERGNE COURTS (ILA19880052)
+
+- HUD ID: ILA19880052
+- HUD ID before: 
+- Project: LAVERGNE COURTS
+- Address: 4938 W QUINCY ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60644
+- ZIP extension: 
+- State project ID: 116-88
+- Latitude: 41.877827
+- Longitude: -87.748211
+- County FIPS: 17031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17031252202
+- Tract 2000: 17031252200
+- Tract 1990: 17031252200
+- Place 2020: 
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 1015508
+- Units: 158
+- Low-income units: 158
+- Units reported: 158
+- Low-income reported: 158
+- Efficiencies: 0
+- 1-bedroom units: 57
+- 2-bedroom units: 58
+- 3-bedroom units: 43
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000550.
+- Record status: Existing, unchanged

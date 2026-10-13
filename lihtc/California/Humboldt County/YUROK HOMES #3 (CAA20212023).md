@@ -1,0 +1,85 @@
+# Project: YUROK HOMES #3 (CAA20212023)
+
+- HUD ID: CAA20212023
+- HUD ID before: 
+- Project: YUROK HOMES #3
+- Address: 1400 30TH STREET
+- City: ARCATA
+- State: CA
+- ZIP: 95521
+- ZIP extension: 
+- State project ID: CA-2020-019
+- Latitude: 40.888549
+- Longitude: -124.086468
+- County FIPS: 06023
+- County from: 2020
+- Tract 2020: 06023001102
+- Tract 2010: 06023001101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02476
+- Place 2010: 02476
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1482855
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 8
+- 2-bedroom units: 10
+- 3-bedroom units: 18
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 36
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Native American, Rural
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

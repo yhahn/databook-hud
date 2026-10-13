@@ -1,0 +1,85 @@
+# Project: DHC REDEVELOPMENT 1990 (COA19910015)
+
+- HUD ID: COA19910015
+- HUD ID before: 
+- Project: DHC REDEVELOPMENT 1990
+- Address: 4333 S SYRACUSE ST
+- City: DENVER
+- State: CO
+- ZIP: 80237
+- ZIP extension: 
+- State project ID: CO90-005
+- Latitude: 39.637604
+- Longitude: -104.89951
+- County FIPS: 08031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 08031006809
+- Tract 2000: 08031006809
+- Tract 1990: 08031006809
+- Place 2020: 
+- Place 2010: 20000
+- Place 2000: 20000
+- Place 1990: 0320
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 84
+- Units reported: 184
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 184
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

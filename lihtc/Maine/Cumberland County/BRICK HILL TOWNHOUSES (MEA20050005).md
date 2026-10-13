@@ -1,0 +1,85 @@
+# Project: BRICK HILL TOWNHOUSES (MEA20050005)
+
+- HUD ID: MEA20050005
+- HUD ID before: 
+- Project: BRICK HILL TOWNHOUSES
+- Address: 1 TOWNHOUSE DR
+- City: SOUTH PORTLAND
+- State: ME
+- ZIP: 04106
+- ZIP extension: 
+- State project ID: MSHA-RLP-1367
+- Latitude: 43.637122
+- Longitude: -70.311489
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005003002
+- Tract 2010: 23005003000
+- Tract 2000: 23005003000
+- Tract 1990: 23005003000
+- Place 2020: 71990
+- Place 2010: 71990
+- Place 2000: 71990
+- Place 1990: 4230
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 33
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BRICK HILL.
+- Record status: Existing, unchanged

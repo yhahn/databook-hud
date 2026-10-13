@@ -1,0 +1,85 @@
+# Project: MARIA ISABELL (NYB20161032)
+
+- HUD ID: NYB20161032
+- HUD ID before: 
+- Project: MARIA ISABELL
+- Address: 787 EAST 149TH ST
+- City: BRONX
+- State: NY
+- ZIP: 10455
+- ZIP extension: 
+- State project ID: NY-XX-2277
+- Latitude: 40.812975
+- Longitude: -73.906985
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005007900
+- Tract 2010: 36005007900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 8213028
+- Units: 99
+- Low-income units: 98
+- Units reported: 99
+- Low-income reported: 98
+- Efficiencies: 30
+- 1-bedroom units: 68
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

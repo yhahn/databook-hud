@@ -1,0 +1,85 @@
+# Project: NEWPORT HEIGHTS 1A (RIA20030055)
+
+- HUD ID: RIA20030055
+- HUD ID before: 
+- Project: NEWPORT HEIGHTS 1A
+- Address: 18 JOHN H CHAFEE BLVD
+- City: NEWPORT
+- State: RI
+- ZIP: 02840
+- ZIP extension: 
+- State project ID: RI00115
+- Latitude: 41.515192
+- Longitude: -71.311975
+- County FIPS: 44005
+- County from: 2020
+- Tract 2020: 44005040500
+- Tract 2010: 44005040500
+- Tract 2000: 44005040500
+- Tract 1990: 44005040500
+- Place 2020: 49960
+- Place 2010: 49960
+- Place 2000: 49960
+- Place 1990: 0310
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 573750
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 28
+- 3-bedroom units: 9
+- 4-bedroom units: 2
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

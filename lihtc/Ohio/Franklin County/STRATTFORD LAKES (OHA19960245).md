@@ -1,0 +1,85 @@
+# Project: STRATTFORD LAKES (OHA19960245)
+
+- HUD ID: OHA19960245
+- HUD ID before: 
+- Project: STRATTFORD LAKES
+- Address: 3555 ASHTON CROSS
+- City: CANAL WNCHSTR
+- State: OH
+- ZIP: 43110
+- ZIP extension: 
+- State project ID: OH-94-4056
+- Latitude: 39.911096
+- Longitude: -82.822221
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049009392
+- Tract 2010: 39049009374
+- Tract 2000: 39049009374
+- Tract 1990: 39049009374
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 08532
+- Place 1990: 0960
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 644405
+- Units: 124
+- Low-income units: 124
+- Units reported: 124
+- Low-income reported: 124
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 84
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

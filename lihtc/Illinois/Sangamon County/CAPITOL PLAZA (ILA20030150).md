@@ -1,0 +1,85 @@
+# Project: CAPITOL PLAZA (ILA20030150)
+
+- HUD ID: ILA20030150
+- HUD ID before: 
+- Project: CAPITOL PLAZA
+- Address: 1210 E WASHINGTON ST
+- City: SPRINGFIELD
+- State: IL
+- ZIP: 62703
+- ZIP extension: 
+- State project ID: 34102
+- Latitude: 39.801395
+- Longitude: -89.638868
+- County FIPS: 17167
+- County from: 2020
+- Tract 2020: 17167004200
+- Tract 2010: 17167001500
+- Tract 2000: 17167001500
+- Tract 1990: 17167001500
+- Place 2020: 72000
+- Place 2010: 72000
+- Place 2000: 72000
+- Place 1990: 5480
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 332461
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 140
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

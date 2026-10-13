@@ -1,0 +1,85 @@
+# Project: RIVER WOOD APTS (MAUSTON) (WIA19940180)
+
+- HUD ID: WIA19940180
+- HUD ID before: 
+- Project: RIVER WOOD APTS (MAUSTON)
+- Address: 516 MCEVOY ST
+- City: MAUSTON
+- State: WI
+- ZIP: 53948
+- ZIP extension: 
+- State project ID: 1434
+- Latitude: 43.796166
+- Longitude: -90.065612
+- County FIPS: 55057
+- County from: 2020
+- Tract 2020: 55057100500
+- Tract 2010: 55057100500
+- Tract 2000: 55057990500
+- Tract 1990: 55057990500
+- Place 2020: 50025
+- Place 2010: 50025
+- Place 2000: 50025
+- Place 1990: 1545
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

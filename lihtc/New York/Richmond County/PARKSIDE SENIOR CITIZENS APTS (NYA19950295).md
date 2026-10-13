@@ -1,0 +1,85 @@
+# Project: PARKSIDE SENIOR CITIZENS APTS (NYA19950295)
+
+- HUD ID: NYA19950295
+- HUD ID before: 
+- Project: PARKSIDE SENIOR CITIZENS APTS
+- Address: 160 HEBERTON AVE
+- City: STATEN ISLAND
+- State: NY
+- ZIP: 10302
+- ZIP extension: 
+- State project ID: 19931083
+- Latitude: 40.636476
+- Longitude: -74.131827
+- County FIPS: 36085
+- County from: 2020
+- Tract 2020: 36085020702
+- Tract 2010: 36085020700
+- Tract 2000: 36085020700
+- Tract 1990: 36085020700
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 43
+- Low-income units: 42
+- Units reported: 43
+- Low-income reported: 42
+- Efficiencies: 11
+- 1-bedroom units: 16
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

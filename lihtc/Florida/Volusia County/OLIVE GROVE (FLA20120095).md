@@ -1,0 +1,85 @@
+# Project: OLIVE GROVE (FLA20120095)
+
+- HUD ID: FLA20120095
+- HUD ID before: 
+- Project: OLIVE GROVE
+- Address: 765 W GRANADA BLVD
+- City: ORMOND BEACH
+- State: FL
+- ZIP: 32174
+- ZIP extension: 
+- State project ID: 2520
+- Latitude: 29.279207
+- Longitude: -81.078739
+- County FIPS: 12127
+- County from: 2020
+- Tract 2020: 12127080807
+- Tract 2010: 12127080807
+- Tract 2000: 12127080801
+- Tract 1990: 12127080801
+- Place 2020: 53150
+- Place 2010: 53150
+- Place 2000: 53150
+- Place 1990: 1605
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1510000
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 44
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5015000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011532, FLA2011180.
+- Record status: Existing, unchanged

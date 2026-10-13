@@ -1,0 +1,85 @@
+# Project: RICHMOND TERRACE APTS (VTA20140035)
+
+- HUD ID: VTA20140035
+- HUD ID before: 
+- Project: RICHMOND TERRACE APTS
+- Address: 190 THOMPSON RD
+- City: RICHMOND
+- State: VT
+- ZIP: 05477
+- ZIP extension: 
+- State project ID: 0295
+- Latitude: 44.395503
+- Longitude: -73.002822
+- County FIPS: 50007
+- County from: 2020
+- Tract 2020: 50007003000
+- Tract 2010: 50007003000
+- Tract 2000: 50007003000
+- Tract 1990: 50007003000
+- Place 2020: 59200
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 68268
+- Units: 16
+- Low-income units: 14
+- Units reported: 16
+- Low-income reported: 14
+- Efficiencies: 3
+- 1-bedroom units: 13
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

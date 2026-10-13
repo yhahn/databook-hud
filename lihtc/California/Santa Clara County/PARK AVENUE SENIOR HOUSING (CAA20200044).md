@@ -1,0 +1,85 @@
+# Project: PARK AVENUE SENIOR HOUSING (CAA20200044)
+
+- HUD ID: CAA20200044
+- HUD ID before: 
+- Project: PARK AVENUE SENIOR HOUSING
+- Address: 370 LAUREL GROVE LANE
+- City: SAN JOSE
+- State: CA
+- ZIP: 95126
+- ZIP extension: 
+- State project ID: CA-2016-846
+- Latitude: 37.326553
+- Longitude: -121.904636
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085500300
+- Tract 2010: 06085500300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 8136258
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 
+- 1-bedroom units: 94
+- 2-bedroom units: 6
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 99
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

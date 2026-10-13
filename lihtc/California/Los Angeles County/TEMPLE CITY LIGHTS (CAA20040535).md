@@ -1,0 +1,85 @@
+# Project: TEMPLE CITY LIGHTS (CAA20040535)
+
+- HUD ID: CAA20040535
+- HUD ID before: 
+- Project: TEMPLE CITY LIGHTS
+- Address: 306 N ALVARADO ST
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90026
+- ZIP extension: 
+- State project ID: CA-02-129
+- Latitude: 34.069259
+- Longitude: -118.268415
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037208402
+- Tract 2010: 06037208402
+- Tract 2000: 06037208400
+- Tract 1990: 06037208400
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 675562
+- Units: 34
+- Low-income units: 33
+- Units reported: 34
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 14
+- 4-bedroom units: 20
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

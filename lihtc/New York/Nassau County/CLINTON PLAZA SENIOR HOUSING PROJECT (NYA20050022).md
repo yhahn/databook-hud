@@ -1,0 +1,85 @@
+# Project: CLINTON PLAZA SENIOR HOUSING PROJECT (NYA20050022)
+
+- HUD ID: NYA20050022
+- HUD ID before: 
+- Project: CLINTON PLAZA SENIOR HOUSING PROJECT
+- Address: 400 FULTON AVE
+- City: HEMPSTEAD
+- State: NY
+- ZIP: 11550
+- ZIP extension: 
+- State project ID: 20050234
+- Latitude: 40.709356
+- Longitude: -73.618871
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059406801
+- Tract 2010: 36059406801
+- Tract 2000: 36059406800
+- Tract 1990: 36059406800
+- Place 2020: 33139
+- Place 2010: 33139
+- Place 2000: 33139
+- Place 1990: 1545
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 614951
+- Units: 106
+- Low-income units: 106
+- Units reported: 106
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 106
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ALOE VILLAGE III (NJA20120942)
+
+- HUD ID: NJA20120942
+- HUD ID before: 
+- Project: ALOE VILLAGE III
+- Address: 1311 ALOE STREET
+- City: EGG HARBOR CITY
+- State: NJ
+- ZIP: 08215
+- ZIP extension: 
+- State project ID: NJ-299
+- Latitude: 39.523445
+- Longitude: -74.647312
+- County FIPS: 34001
+- County from: 2020
+- Tract 2020: 34001010401
+- Tract 2010: 34001010401
+- Tract 2000: 34001010401
+- Tract 1990: 34001010401
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 60030
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 60341
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1991030, NJA0000240.
+- Record status: Existing, unchanged

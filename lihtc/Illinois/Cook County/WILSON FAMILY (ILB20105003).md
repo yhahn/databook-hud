@@ -1,0 +1,85 @@
+# Project: WILSON FAMILY (ILB20105003)
+
+- HUD ID: ILB20105003
+- HUD ID before: 
+- Project: WILSON FAMILY
+- Address: 1026 W MONTROSE AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60613
+- ZIP extension: 1492
+- State project ID: 08-021
+- Latitude: 41.961948
+- Longitude: -87.6558
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031830700
+- Tract 2010: 17031830700
+- Tract 2000: 17031031600
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 240
+- Low-income units: 79
+- Units reported: 240
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 177
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

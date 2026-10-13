@@ -1,0 +1,85 @@
+# Project: SCHOENBRUNN GREENE (OHA20129195)
+
+- HUD ID: OHA20129195
+- HUD ID before: 
+- Project: SCHOENBRUNN GREENE
+- Address: 101 BALTIC HAUS DRIVE / 404 ZURICH STREET
+- City: BALTIC
+- State: OH
+- ZIP: 43804
+- ZIP extension: 
+- State project ID: 110078
+- Latitude: 40.440414
+- Longitude: -81.697636
+- County FIPS: 39157
+- County from: 2020
+- Tract 2020: 39157021300
+- Tract 2010: 39157021300
+- Tract 2000: 39157021300
+- Tract 1990: 39157021300
+- Place 2020: 03744
+- Place 2010: 03744
+- Place 2000: 03744
+- Place 1990: 4165
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

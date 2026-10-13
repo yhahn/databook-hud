@@ -1,0 +1,85 @@
+# Project: PAVILLION AT LUFTMAN (NJA19989006)
+
+- HUD ID: NJA19989006
+- HUD ID before: 
+- Project: PAVILLION AT LUFTMAN
+- Address: 43 HURLEY'S LANE
+- City: LINCROFT
+- State: NJ
+- ZIP: 07738
+- ZIP extension: 
+- State project ID: 01230
+- Latitude: 40.333391
+- Longitude: -74.117989
+- County FIPS: 34025
+- County from: 2020
+- Tract 2020: 34025801500
+- Tract 2010: 34025801500
+- Tract 2000: 34025801500
+- Tract 1990: 
+- Place 2020: 40320
+- Place 2010: 40320
+- Place 2000: 40320
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 291689
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

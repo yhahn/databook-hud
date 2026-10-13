@@ -1,0 +1,85 @@
+# Project: NEWCOMB SENIOR APARTMENTS URBAN RENEWAL LLC (NJA20231016)
+
+- HUD ID: NJA20231016
+- HUD ID before: 
+- Project: NEWCOMB SENIOR APARTMENTS URBAN RENEWAL LLC
+- Address: 66 S STATE ST
+- City: VINELAND
+- State: NJ
+- ZIP: 08360
+- ZIP extension: 4851
+- State project ID: 07983-001
+- Latitude: 39.480476
+- Longitude: -75.013323
+- County FIPS: 34011
+- County from: 2020
+- Tract 2020: 34011040300
+- Tract 2010: 34011040300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76070
+- Place 2010: 76070
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 1650165
+- Units: 65
+- Low-income units: 65
+- Units reported: 65
+- Low-income reported: 65
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

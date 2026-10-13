@@ -1,0 +1,85 @@
+# Project: PORTLAND & MAIN (VTA20000040)
+
+- HUD ID: VTA20000040
+- HUD ID before: 
+- Project: PORTLAND & MAIN
+- Address: 16 PORTLAND ST
+- City: MORRISVILLE
+- State: VT
+- ZIP: 05661
+- ZIP extension: 
+- State project ID: 0144
+- Latitude: 44.562237
+- Longitude: -72.598247
+- County FIPS: 50015
+- County from: 2020
+- Tract 2020: 50015953500
+- Tract 2010: 50015953500
+- Tract 2000: 50015953500
+- Tract 1990: 50015953500
+- Place 2020: 46825
+- Place 2010: 46825
+- Place 2000: 46825
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 37500
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 2
+- 1-bedroom units: 6
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VILLAGE APTS OF CENTRALIA (ILA19890142)
+
+- HUD ID: ILA19890142
+- HUD ID before: 
+- Project: VILLAGE APTS OF CENTRALIA
+- Address: 1102 E 13TH ST
+- City: CENTRALIA
+- State: IL
+- ZIP: 62801
+- ZIP extension: 
+- State project ID: 213-89
+- Latitude: 38.514162
+- Longitude: -89.127254
+- County FIPS: 17121
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17121952500
+- Tract 2000: 17121952500
+- Tract 1990: 17121952500
+- Place 2020: 
+- Place 2010: 12164
+- Place 2000: 12164
+- Place 1990: 0965
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 26601
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000014.
+- Record status: Existing, unchanged

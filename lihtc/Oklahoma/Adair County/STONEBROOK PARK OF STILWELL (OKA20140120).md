@@ -1,0 +1,85 @@
+# Project: STONEBROOK PARK OF STILWELL (OKA20140120)
+
+- HUD ID: OKA20140120
+- HUD ID before: 
+- Project: STONEBROOK PARK OF STILWELL
+- Address: 2024 STONEBROOK WAY
+- City: STILWELL
+- State: OK
+- ZIP: 74960
+- ZIP extension: 
+- State project ID: 080742
+- Latitude: 35.7951
+- Longitude: -94.6459
+- County FIPS: 40001
+- County from: 2020
+- Tract 2020: 40001376900
+- Tract 2010: 40001376900
+- Tract 2000: 40001976900
+- Tract 1990: 40001976900
+- Place 2020: 24875
+- Place 2010: 70350
+- Place 2000: 46780
+- Place 1990: 2305
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 3754362
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

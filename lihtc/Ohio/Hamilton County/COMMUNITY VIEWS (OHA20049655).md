@@ -1,0 +1,85 @@
+# Project: COMMUNITY VIEWS (OHA20049655)
+
+- HUD ID: OHA20049655
+- HUD ID before: 
+- Project: COMMUNITY VIEWS
+- Address: 232 E CLIFTON AVE
+- City: CINCINNATI
+- State: OH
+- ZIP: 45202
+- ZIP extension: 
+- State project ID: 020083
+- Latitude: 39.114691
+- Longitude: -84.512726
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061001700
+- Tract 2010: 39061001700
+- Tract 2000: 39061001700
+- Tract 1990: 39061001700
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 2
+- 1-bedroom units: 1
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2005670, OHA2004073.
+- Record status: Existing, unchanged

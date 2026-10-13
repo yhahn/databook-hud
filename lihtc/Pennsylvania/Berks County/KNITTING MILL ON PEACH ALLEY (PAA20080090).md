@@ -1,0 +1,85 @@
+# Project: KNITTING MILL ON PEACH ALLEY (PAA20080090)
+
+- HUD ID: PAA20080090
+- HUD ID before: 
+- Project: KNITTING MILL ON PEACH ALLEY
+- Address: 239 PINE ST
+- City: HAMBURG
+- State: PA
+- ZIP: 19526
+- ZIP extension: 
+- State project ID: TC20060634
+- Latitude: 40.552986
+- Longitude: -75.985172
+- County FIPS: 42011
+- County from: 2020
+- Tract 2020: 42011013800
+- Tract 2010: 42011013800
+- Tract 2000: 42011013800
+- Tract 1990: 42011013800
+- Place 2020: 32120
+- Place 2010: 32120
+- Place 2000: 32120
+- Place 1990: 4800
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 306556
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 27
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA KNITTNG MILL ON PEACH ALLY.
+- Record status: Existing, unchanged

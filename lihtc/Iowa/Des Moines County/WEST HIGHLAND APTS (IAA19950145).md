@@ -1,0 +1,85 @@
+# Project: WEST HIGHLAND APTS (IAA19950145)
+
+- HUD ID: IAA19950145
+- HUD ID before: 
+- Project: WEST HIGHLAND APTS
+- Address: 611 W VAN WEISS BLVD
+- City: WEST BURLINGTON
+- State: IA
+- ZIP: 52655
+- ZIP extension: 
+- State project ID: 93-48
+- Latitude: 40.817502
+- Longitude: -91.163825
+- County FIPS: 19057
+- County from: 2020
+- Tract 2020: 19057000800
+- Tract 2010: 19057000800
+- Tract 2000: 19057000800
+- Tract 1990: 19057000800
+- Place 2020: 83685
+- Place 2010: 83685
+- Place 2000: 09550
+- Place 1990: 4540
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 170173
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BURLINGTON RIVER APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BRUEBAKER SQUARE (OHA19880085)
+
+- HUD ID: OHA19880085
+- HUD ID before: 
+- Project: BRUEBAKER SQUARE
+- Address: 200 BRUBAKER DR
+- City: NEW CARLISLE
+- State: OH
+- ZIP: 45344
+- ZIP extension: 
+- State project ID: OH-88-0162
+- Latitude: 39.942162
+- Longitude: -84.021063
+- County FIPS: 39023
+- County from: 2020
+- Tract 2020: 39023002701
+- Tract 2010: 39023002701
+- Tract 2000: 39023002701
+- Tract 1990: 39023002701
+- Place 2020: 54334
+- Place 2010: 54334
+- Place 2000: 54334
+- Place 1990: 2960
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

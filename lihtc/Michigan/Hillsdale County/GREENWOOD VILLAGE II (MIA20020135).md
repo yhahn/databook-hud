@@ -1,0 +1,85 @@
+# Project: GREENWOOD VILLAGE II (MIA20020135)
+
+- HUD ID: MIA20020135
+- HUD ID before: 
+- Project: GREENWOOD VILLAGE II
+- Address: 300 VILLAGE GREEN BLVD
+- City: HILLSDALE
+- State: MI
+- ZIP: 49242
+- ZIP extension: 
+- State project ID: MI-1027
+- Latitude: 41.931986
+- Longitude: -84.64907
+- County FIPS: 26059
+- County from: 2020
+- Tract 2020: 26059050700
+- Tract 2010: 26059050700
+- Tract 2000: 26059050700
+- Tract 1990: 26059050700
+- Place 2020: 38460
+- Place 2010: 38460
+- Place 2000: 38460
+- Place 1990: 1235
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

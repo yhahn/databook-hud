@@ -1,0 +1,85 @@
+# Project: GLENSHIRE COURT (OKA20030030)
+
+- HUD ID: OKA20030030
+- HUD ID before: 
+- Project: GLENSHIRE COURT
+- Address: 13900 S PEORIA AVE
+- City: BIXBY
+- State: OK
+- ZIP: 74008
+- ZIP extension: 
+- State project ID: 39115
+- Latitude: 35.961608
+- Longitude: -95.976152
+- County FIPS: 40143
+- County from: 2020
+- Tract 2020: 40143007706
+- Tract 2010: 40143007701
+- Tract 2000: 40143007701
+- Tract 1990: 40143007701
+- Place 2020: 29600
+- Place 2010: 29600
+- Place 2000: 29600
+- Place 1990: 0955
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 88
+- Low-income units: 87
+- Units reported: 88
+- Low-income reported: 87
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 48
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

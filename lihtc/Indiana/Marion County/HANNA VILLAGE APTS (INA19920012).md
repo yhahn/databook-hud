@@ -1,0 +1,85 @@
+# Project: HANNA VILLAGE APTS (INA19920012)
+
+- HUD ID: INA19920012
+- HUD ID before: 
+- Project: HANNA VILLAGE APTS
+- Address: 4020 HANNA VILLAGE DR
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46227
+- ZIP extension: 
+- State project ID: IN-91-06600
+- Latitude: 39.707248
+- Longitude: -86.152381
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097380600
+- Tract 2010: 18097380600
+- Tract 2000: 18097380600
+- Tract 1990: 18097380600
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 56
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA1993090, INA0001055.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MAIN STREET PHASE III (RIA20000015)
+
+- HUD ID: RIA20000015
+- HUD ID before: 
+- Project: MAIN STREET PHASE III
+- Address: 28 MAIN ST
+- City: CUMBERLAND
+- State: RI
+- ZIP: 02864
+- ZIP extension: 
+- State project ID: RI00127
+- Latitude: 41.914536
+- Longitude: -71.401405
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007011200
+- Tract 2010: 44007011200
+- Tract 2000: 44007011200
+- Tract 1990: 44007011200
+- Place 2020: 72500
+- Place 2010: 72500
+- Place 2000: 72500
+- Place 1990: 0475
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 52730
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 7
+- 3-bedroom units: 12
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

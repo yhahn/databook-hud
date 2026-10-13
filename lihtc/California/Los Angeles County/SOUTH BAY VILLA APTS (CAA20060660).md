@@ -1,0 +1,85 @@
+# Project: SOUTH BAY VILLA APTS (CAA20060660)
+
+- HUD ID: CAA20060660
+- HUD ID before: 
+- Project: SOUTH BAY VILLA APTS
+- Address: 13111 S SAN PEDRO ST
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90061
+- ZIP extension: 
+- State project ID: CA-05-115
+- Latitude: 33.913538
+- Longitude: -118.269808
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037540902
+- Tract 2010: 06037540902
+- Tract 2000: 06037540902
+- Tract 1990: 06037540902
+- Place 2020: 84780
+- Place 2010: 85614
+- Place 2000: 85614
+- Place 1990: 3121
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 391515
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 56
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SOUTH BAY VILLA 042902.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BYERS ESTATES III (LAA20110035)
+
+- HUD ID: LAA20110035
+- HUD ID before: 
+- Project: BYERS ESTATES III
+- Address: 3104 BREARD ST
+- City: MONROE
+- State: LA
+- ZIP: 71201
+- ZIP extension: 0000
+- State project ID: LA-09-039
+- Latitude: 32.525111
+- Longitude: -92.085737
+- County FIPS: 22073
+- County from: 2020
+- Tract 2020: 22073010800
+- Tract 2010: 22073010800
+- Tract 2000: 22073000300
+- Tract 1990: 22073000300
+- Place 2020: 51410
+- Place 2010: 51410
+- Place 2000: 51410
+- Place 1990: 0890
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 24302
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

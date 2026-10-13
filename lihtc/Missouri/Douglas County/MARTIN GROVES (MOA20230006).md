@@ -1,0 +1,85 @@
+# Project: MARTIN GROVES (MOA20230006)
+
+- HUD ID: MOA20230006
+- HUD ID before: 
+- Project: MARTIN GROVES
+- Address: 1101 MARTIN AVENUE
+- City: AVA
+- State: MO
+- ZIP: 65608
+- ZIP extension: 0000
+- State project ID: 20-021
+- Latitude: 36.957012
+- Longitude: -92.650561
+- County FIPS: 29067
+- County from: 2020
+- Tract 2020: 29067950500
+- Tract 2010: 29067950500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02674
+- Place 2010: 02674
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 207000
+- Units: 24
+- Low-income units: 21
+- Units reported: 24
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

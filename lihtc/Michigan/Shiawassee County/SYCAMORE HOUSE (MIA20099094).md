@@ -1,0 +1,85 @@
+# Project: SYCAMORE HOUSE (MIA20099094)
+
+- HUD ID: MIA20099094
+- HUD ID before: 
+- Project: SYCAMORE HOUSE
+- Address: 100 W SYCAMORE ST
+- City: DURAND
+- State: MI
+- ZIP: 48429
+- ZIP extension: 
+- State project ID: MI-3334
+- Latitude: 42.91515
+- Longitude: -83.986032
+- County FIPS: 26155
+- County from: 2020
+- Tract 2020: 26155031900
+- Tract 2010: 26155031900
+- Tract 2000: 26155031900
+- Tract 1990: 26155031900
+- Place 2020: 23500
+- Place 2010: 23500
+- Place 2000: 23500
+- Place 1990: 0730
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 36
+- Units reported: 40
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

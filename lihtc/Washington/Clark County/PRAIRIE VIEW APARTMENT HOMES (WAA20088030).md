@@ -1,0 +1,85 @@
+# Project: PRAIRIE VIEW APARTMENT HOMES (WAA20088030)
+
+- HUD ID: WAA20088030
+- HUD ID before: 
+- Project: PRAIRIE VIEW APARTMENT HOMES
+- Address: 12611 NE 99TH ST
+- City: VANCOUVER
+- State: WA
+- ZIP: 98682
+- ZIP extension: 
+- State project ID: 07-118A
+- Latitude: 45.693719
+- Longitude: -122.541431
+- County FIPS: 53011
+- County from: 2020
+- Tract 2020: 53011040711
+- Tract 2010: 53011040711
+- Tract 2000: 53011040705
+- Tract 1990: 
+- Place 2020: 51795
+- Place 2010: 51795
+- Place 2000: 51795
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1133111
+- Units: 284
+- Low-income units: 280
+- Units reported: 284
+- Low-income reported: 280
+- Efficiencies: 0
+- 1-bedroom units: 66
+- 2-bedroom units: 152
+- 3-bedroom units: 66
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

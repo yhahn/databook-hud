@@ -1,0 +1,85 @@
+# Project: FREDONIA COMMONS (NYA20040085)
+
+- HUD ID: NYA20040085
+- HUD ID before: 
+- Project: FREDONIA COMMONS
+- Address: 450 TEMPLE ST
+- City: FREDONIA
+- State: NY
+- ZIP: 14063
+- ZIP extension: 
+- State project ID: 20020616
+- Latitude: 42.453707
+- Longitude: -79.349775
+- County FIPS: 36013
+- County from: 2020
+- Tract 2020: 36013035901
+- Tract 2010: 36013035901
+- Tract 2000: 36013035901
+- Tract 1990: 36013035901
+- Place 2020: 27419
+- Place 2010: 27419
+- Place 2000: 27419
+- Place 1990: 1280
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

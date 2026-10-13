@@ -1,0 +1,85 @@
+# Project: GREENVILLE ARMS, ALP (SCA20050071)
+
+- HUD ID: SCA20050071
+- HUD ID before: 
+- Project: GREENVILLE ARMS, ALP
+- Address: 200 ASHE DR
+- City: GREENVILLE
+- State: SC
+- ZIP: 29617
+- ZIP extension: 
+- State project ID: SC-50-303
+- Latitude: 34.860607
+- Longitude: -82.455868
+- County FIPS: 45045
+- County from: 2020
+- Tract 2020: 45045003704
+- Tract 2010: 45045003704
+- Tract 2000: 45045003704
+- Tract 1990: 45045003704
+- Place 2020: 05770
+- Place 2010: 05770
+- Place 2000: 05770
+- Place 1990: 0117
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 190705
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 40
+- 3-bedroom units: 40
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA2007065.
+- Record status: Existing, unchanged

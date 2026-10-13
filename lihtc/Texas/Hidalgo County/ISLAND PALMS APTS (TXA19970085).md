@@ -1,0 +1,85 @@
+# Project: ISLAND PALMS APTS (TXA19970085)
+
+- HUD ID: TXA19970085
+- HUD ID before: 
+- Project: ISLAND PALMS APTS
+- Address: 302 S DOOLITTLE RD
+- City: EDINBURG
+- State: TX
+- ZIP: 78542
+- ZIP extension: 
+- State project ID: TX1341
+- Latitude: 26.294086
+- Longitude: -98.128817
+- County FIPS: 48215
+- County from: 2020
+- Tract 2020: 48215023700
+- Tract 2010: 48215023700
+- Tract 2000: 48215023700
+- Tract 1990: 48215023700
+- Place 2020: 22660
+- Place 2010: 22660
+- Place 2000: 22660
+- Place 1990: 1295
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 250
+- Low-income units: 250
+- Units reported: 250
+- Low-income reported: 250
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 80
+- 3-bedroom units: 94
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

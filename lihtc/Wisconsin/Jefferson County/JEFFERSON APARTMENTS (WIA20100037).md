@@ -1,0 +1,85 @@
+# Project: JEFFERSON APARTMENTS (WIA20100037)
+
+- HUD ID: WIA20100037
+- HUD ID before: 
+- Project: JEFFERSON APARTMENTS
+- Address: 604-606 COLLINS RD
+- City: JEFFERSON
+- State: WI
+- ZIP: 53549
+- ZIP extension: 
+- State project ID: 5443
+- Latitude: 42.990102
+- Longitude: -88.817865
+- County FIPS: 55055
+- County from: 2020
+- Tract 2020: 55055101100
+- Tract 2010: 55055101100
+- Tract 2000: 55055991100
+- Tract 1990: 55055991100
+- Place 2020: 37900
+- Place 2010: 37900
+- Place 2000: 37900
+- Place 1990: 1240
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 646059
+- Units: 64
+- Low-income units: 5
+- Units reported: 64
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 40
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 9999
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

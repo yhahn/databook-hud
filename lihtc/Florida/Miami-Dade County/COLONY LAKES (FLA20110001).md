@@ -1,0 +1,85 @@
+# Project: COLONY LAKES (FLA20110001)
+
+- HUD ID: FLA20110001
+- HUD ID before: 
+- Project: COLONY LAKES
+- Address: 1502 E. MOWRY DRIVE
+- City: HOMESTEAD
+- State: FL
+- ZIP: 33030
+- ZIP extension: 
+- State project ID: 710
+- Latitude: 25.469939
+- Longitude: -80.456395
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086011010
+- Tract 2010: 12086011001
+- Tract 2000: 12086011001
+- Tract 1990: 12025011001
+- Place 2020: 32275
+- Place 2010: 32275
+- Place 2000: 32275
+- Place 1990: 0930
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 656904
+- Units: 330
+- Low-income units: 330
+- Units reported: 220
+- Low-income reported: 330
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 100
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 4800000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2010022, FLA2010502.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AGAVE AT ELK GROVE (CAA20050010)
+
+- HUD ID: CAA20050010
+- HUD ID before: 
+- Project: AGAVE AT ELK GROVE
+- Address: 10070 WILLARD PKWY
+- City: ELK GROVE
+- State: CA
+- ZIP: 95757
+- ZIP extension: 
+- State project ID: CA-03-884
+- Latitude: 38.392131
+- Longitude: -121.451792
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067009647
+- Tract 2010: 06067009630
+- Tract 2000: 06067009604
+- Tract 1990: 06067009604
+- Place 2020: 22020
+- Place 2010: 22020
+- Place 2000: 39173
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 849648
+- Units: 188
+- Low-income units: 187
+- Units reported: 188
+- Low-income reported: 187
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 96
+- 3-bedroom units: 80
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

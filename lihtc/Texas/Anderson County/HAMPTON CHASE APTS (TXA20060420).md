@@ -1,0 +1,85 @@
+# Project: HAMPTON CHASE APTS (TXA20060420)
+
+- HUD ID: TXA20060420
+- HUD ID before: 
+- Project: HAMPTON CHASE APTS
+- Address: 2401 N STATE HWY 155
+- City: PALESTINE
+- State: TX
+- ZIP: 75803
+- ZIP extension: 
+- State project ID: TX-05-184-08055
+- Latitude: 31.800481
+- Longitude: -95.614623
+- County FIPS: 48001
+- County from: 2020
+- Tract 2020: 48001950902
+- Tract 2010: 48001950902
+- Tract 2000: 48001950900
+- Tract 1990: 48001950900
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 54708
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 551310
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 31
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

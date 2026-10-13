@@ -1,0 +1,85 @@
+# Project: ESPERANZA AT PALO ALTO (TXA20163025)
+
+- HUD ID: TXA20163025
+- HUD ID before: 
+- Project: ESPERANZA AT PALO ALTO
+- Address: 12305 SW 410
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78224
+- ZIP extension: 
+- State project ID: TX5060
+- Latitude: 29.3387
+- Longitude: -98.5428
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029151200
+- Tract 2010: 48029151200
+- Tract 2000: 48029151200
+- Tract 1990: 
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 322
+- Low-income units: 322
+- Units reported: 322
+- Low-income reported: 322
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 150
+- 3-bedroom units: 144
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

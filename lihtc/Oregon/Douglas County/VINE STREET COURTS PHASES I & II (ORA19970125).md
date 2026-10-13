@@ -1,0 +1,85 @@
+# Project: VINE STREET COURTS PHASES I & II (ORA19970125)
+
+- HUD ID: ORA19970125
+- HUD ID before: 
+- Project: VINE STREET COURTS PHASES I & II
+- Address: 2166 NE VINE ST
+- City: ROSEBURG
+- State: OR
+- ZIP: 97470
+- ZIP extension: 
+- State project ID: X001-011
+- Latitude: 43.235892
+- Longitude: -123.347556
+- County FIPS: 41019
+- County from: 2020
+- Tract 2020: 41019120002
+- Tract 2010: 41019120000
+- Tract 2000: 41019120000
+- Tract 1990: 41019120000
+- Place 2020: 63650
+- Place 2010: 63650
+- Place 2000: 63650
+- Place 1990: 0980
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 425485
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 300000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

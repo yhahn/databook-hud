@@ -1,0 +1,85 @@
+# Project: CARBONDALE TOWER (ILA20040030)
+
+- HUD ID: ILA20040030
+- HUD ID before: 
+- Project: CARBONDALE TOWER
+- Address: 810 W MILL ST
+- City: CARBONDALE
+- State: IL
+- ZIP: 62901
+- ZIP extension: 
+- State project ID: 003004
+- Latitude: 37.71953
+- Longitude: -89.224388
+- County FIPS: 17077
+- County from: 2020
+- Tract 2020: 17077011100
+- Tract 2010: 17077011100
+- Tract 2000: 17077011100
+- Tract 1990: 17077011100
+- Place 2020: 11163
+- Place 2010: 11163
+- Place 2000: 11163
+- Place 1990: 0865
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 542426
+- Units: 271
+- Low-income units: 271
+- Units reported: 271
+- Low-income reported: 271
+- Efficiencies: 28
+- 1-bedroom units: 199
+- 2-bedroom units: 40
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MILL STREET APTS, CARBONDALE II.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ALLGEIER MANOR APTS (MOA20140010)
+
+- HUD ID: MOA20140010
+- HUD ID before: 
+- Project: ALLGEIER MANOR APTS
+- Address: 501 W HADLEY ST
+- City: AURORA
+- State: MO
+- ZIP: 65605
+- ZIP extension: 
+- State project ID: 13-007
+- Latitude: 36.962321
+- Longitude: -93.730225
+- County FIPS: 29109
+- County from: 2020
+- Tract 2020: 29109470601
+- Tract 2010: 29109470601
+- Tract 2000: 29109970600
+- Tract 1990: 29109970600
+- Place 2020: 02548
+- Place 2010: 02548
+- Place 2000: 02548
+- Place 1990: 0200
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 11407000
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

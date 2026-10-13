@@ -1,0 +1,85 @@
+# Project: COSTA ESMERALDA (TXA20110856)
+
+- HUD ID: TXA20110856
+- HUD ID before: 
+- Project: COSTA ESMERALDA
+- Address: 1516 GURLEY LN
+- City: WACO
+- State: TX
+- ZIP: 76706
+- ZIP extension: 
+- State project ID: TX4604
+- Latitude: 31.527667
+- Longitude: -97.116294
+- County FIPS: 48309
+- County from: 2020
+- Tract 2020: 48309001900
+- Tract 2010: 48309001900
+- Tract 2000: 48309001900
+- Tract 1990: 48309001900
+- Place 2020: 76000
+- Place 2010: 76000
+- Place 2000: 76000
+- Place 1990: 4415
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 56
+- 3-bedroom units: 40
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000150.
+- Record status: Existing, unchanged

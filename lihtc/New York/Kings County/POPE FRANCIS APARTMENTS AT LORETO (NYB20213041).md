@@ -1,0 +1,85 @@
+# Project: POPE FRANCIS APARTMENTS AT LORETO (NYB20213041)
+
+- HUD ID: NYB20213041
+- HUD ID before: 
+- Project: POPE FRANCIS APARTMENTS AT LORETO
+- Address: 2377 PACIFIC STREET
+- City: BROOKLYN
+- State: NY
+- ZIP: 11233
+- ZIP extension: 
+- State project ID: NY-21-2614
+- Latitude: 40.675468
+- Longitude: -73.906507
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047036502
+- Tract 2010: 36047036502
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1824870
+- Units: 136
+- Low-income units: 135
+- Units reported: 136
+- Low-income reported: 135
+- Efficiencies: 95
+- 1-bedroom units: 41
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 71400000
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

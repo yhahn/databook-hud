@@ -1,0 +1,85 @@
+# Project: HOLLYWOOD WESTERN APTS (CAA20030215)
+
+- HUD ID: CAA20030215
+- HUD ID before: 
+- Project: HOLLYWOOD WESTERN APTS
+- Address: 1672 N WESTERN AVE
+- City: HOLLYWOOD
+- State: CA
+- ZIP: 90027
+- ZIP extension: 
+- State project ID: CA-02-001
+- Latitude: 34.101267
+- Longitude: -118.309084
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037190510
+- Tract 2010: 06037190510
+- Tract 2000: 06037190510
+- Tract 1990: 06037190500
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 911341
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 15
+- 3-bedroom units: 21
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA METRO HOLLYWOOD.
+- Record status: Existing, unchanged

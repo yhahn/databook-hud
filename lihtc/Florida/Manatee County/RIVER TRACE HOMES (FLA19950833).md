@@ -1,0 +1,85 @@
+# Project: RIVER TRACE HOMES (FLA19950833)
+
+- HUD ID: FLA19950833
+- HUD ID before: 
+- Project: RIVER TRACE HOMES
+- Address: 1449 17TH ST CIR E
+- City: BRADENTON
+- State: FL
+- ZIP: 34208
+- ZIP extension: 
+- State project ID: 499
+- Latitude: 27.485801
+- Longitude: -82.542463
+- County FIPS: 12081
+- County from: 2020
+- Tract 2020: 12081000705
+- Tract 2010: 12081000705
+- Tract 2000: 12081000702
+- Tract 1990: 12081000702
+- Place 2020: 07950
+- Place 2010: 07950
+- Place 2000: 07950
+- Place 1990: 0215
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 40
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

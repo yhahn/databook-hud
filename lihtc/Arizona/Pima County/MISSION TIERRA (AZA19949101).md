@@ -1,0 +1,85 @@
+# Project: MISSION TIERRA (AZA19949101)
+
+- HUD ID: AZA19949101
+- HUD ID before: 
+- Project: MISSION TIERRA
+- Address: 5505 S MISSION RD
+- City: TUCSON
+- State: AZ
+- ZIP: 85746
+- ZIP extension: 
+- State project ID: TC-0060
+- Latitude: 32.151476
+- Longitude: -111.010331
+- County FIPS: 04019
+- County from: 2020
+- Tract 2020: 04019002505
+- Tract 2010: 04019002505
+- Tract 2000: 04019002505
+- Tract 1990: 04019002502
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 0380
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 219
+- Low-income units: 219
+- Units reported: 219
+- Low-income reported: 219
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 95
+- 3-bedroom units: 0
+- 4-bedroom units: 28
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000520.
+- Record status: Existing, unchanged

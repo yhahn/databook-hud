@@ -1,0 +1,85 @@
+# Project: HACIENDA DE FELIZ (CAA20050230)
+
+- HUD ID: CAA20050230
+- HUD ID before: 
+- Project: HACIENDA DE FELIZ
+- Address: 2096 LOS FELIZ DR
+- City: THOUSAND OAKS
+- State: CA
+- ZIP: 91362
+- ZIP extension: 
+- State project ID: CA-03-857
+- Latitude: 34.177121
+- Longitude: -118.845981
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111007100
+- Tract 2010: 06111007100
+- Tract 2000: 06111007100
+- Tract 1990: 06111007100
+- Place 2020: 78582
+- Place 2010: 78582
+- Place 2000: 78582
+- Place 1990: 2897
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 223731
+- Units: 25
+- Low-income units: 24
+- Units reported: 25
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

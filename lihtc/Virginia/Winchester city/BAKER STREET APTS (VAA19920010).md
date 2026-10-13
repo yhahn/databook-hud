@@ -1,0 +1,85 @@
+# Project: BAKER STREET APTS (VAA19920010)
+
+- HUD ID: VAA19920010
+- HUD ID before: 
+- Project: BAKER STREET APTS
+- Address: 212 BAKER ST
+- City: WINCHESTER
+- State: VA
+- ZIP: 22601
+- ZIP extension: 
+- State project ID: 4396
+- Latitude: 39.187284
+- Longitude: -78.160435
+- County FIPS: 51840
+- County from: 2020
+- Tract 2020: 51840000102
+- Tract 2010: 51840000100
+- Tract 2000: 51840000100
+- Tract 1990: 51840000198
+- Place 2020: 86720
+- Place 2010: 86720
+- Place 2000: 86720
+- Place 1990: 1345
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 7066
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA 212-216 BAKER STREET.
+- Record status: Existing, unchanged

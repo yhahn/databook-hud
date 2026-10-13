@@ -1,0 +1,85 @@
+# Project: NOBLES SQUARE I - II APARTMENTS (MNA20130004)
+
+- HUD ID: MNA20130004
+- HUD ID before: 
+- Project: NOBLES SQUARE I - II APARTMENTS
+- Address: 2175 AND 2195 NOBLES STREET
+- City: WORTHINGTON
+- State: MN
+- ZIP: 55187
+- ZIP extension: 
+- State project ID: D7531
+- Latitude: 
+- Longitude: 
+- County FIPS: 27105
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 27105990500
+- Tract 1990: 27105990500
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 71734
+- Place 1990: 4190
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 295089
+- Units: 48
+- Low-income units: 37
+- Units reported: 48
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA NOBLES SQUARE I & II APTS
+- Record status: Existing, unchanged

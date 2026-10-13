@@ -1,0 +1,85 @@
+# Project: THE ATCHISON (CAA20231094)
+
+- HUD ID: CAA20231094
+- HUD ID before: 
+- Project: THE ATCHISON
+- Address: 2575 RAILROAD AVE
+- City: PITTSBURG
+- State: CA
+- ZIP: 94565
+- ZIP extension: 
+- State project ID: CA-2020-519
+- Latitude: 38.010715
+- Longitude: -121.891493
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013313104
+- Tract 2010: 06013313101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 57456
+- Place 2010: 57456
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 3869889
+- Units: 202
+- Low-income units: 200
+- Units reported: 202
+- Low-income reported: 200
+- Efficiencies: 20
+- 1-bedroom units: 122
+- 2-bedroom units: 60
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

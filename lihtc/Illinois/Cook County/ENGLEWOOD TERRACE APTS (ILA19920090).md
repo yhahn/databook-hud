@@ -1,0 +1,85 @@
+# Project: ENGLEWOOD TERRACE APTS (ILA19920090)
+
+- HUD ID: ILA19920090
+- HUD ID before: 
+- Project: ENGLEWOOD TERRACE APTS
+- Address: 6425 S LOWE AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60621
+- ZIP extension: 
+- State project ID: 367-90
+- Latitude: 41.777577
+- Longitude: -87.640587
+- County FIPS: 17031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17031680900
+- Tract 2000: 17031680900
+- Tract 1990: 17031680900
+- Place 2020: 
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 364928
+- Units: 303
+- Low-income units: 303
+- Units reported: 303
+- Low-income reported: 303
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 158
+- 3-bedroom units: 85
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1991191, ILA0000425.
+- Record status: Existing, unchanged

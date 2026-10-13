@@ -1,0 +1,85 @@
+# Project: COLONY PLAZA (MOA20010055)
+
+- HUD ID: MOA20010055
+- HUD ID before: 
+- Project: COLONY PLAZA
+- Address: 404 ST LOUIS AVE
+- City: EXCELSIOR SPRINGS
+- State: MO
+- ZIP: 64024
+- ZIP extension: 
+- State project ID: 99131
+- Latitude: 39.339377
+- Longitude: -94.226709
+- County FIPS: 29047
+- County from: 2020
+- Tract 2020: 29047021703
+- Tract 2010: 29047021702
+- Tract 2000: 29047021700
+- Tract 1990: 29047021700
+- Place 2020: 23086
+- Place 2010: 23086
+- Place 2000: 23086
+- Place 1990: 1370
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 111
+- Low-income units: 107
+- Units reported: 111
+- Low-income reported: 107
+- Efficiencies: 0
+- 1-bedroom units: 107
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

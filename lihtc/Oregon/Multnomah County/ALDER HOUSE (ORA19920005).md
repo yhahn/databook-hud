@@ -1,0 +1,85 @@
+# Project: ALDER HOUSE (ORA19920005)
+
+- HUD ID: ORA19920005
+- HUD ID before: 
+- Project: ALDER HOUSE
+- Address: 523 SW 13TH AVE
+- City: PORTLAND
+- State: OR
+- ZIP: 97205
+- ZIP extension: 
+- State project ID: 626
+- Latitude: 45.522099
+- Longitude: -122.684726
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051005201
+- Tract 2010: 41051005200
+- Tract 2000: 41051005200
+- Tract 1990: 41051005200
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 443669
+- Units: 132
+- Low-income units: 132
+- Units reported: 132
+- Low-income reported: 132
+- Efficiencies: 131
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

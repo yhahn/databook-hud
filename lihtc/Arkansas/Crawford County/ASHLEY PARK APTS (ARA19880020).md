@@ -1,0 +1,85 @@
+# Project: ASHLEY PARK APTS (ARA19880020)
+
+- HUD ID: ARA19880020
+- HUD ID before: 
+- Project: ASHLEY PARK APTS
+- Address: 1702 ELFEN GLEN ST
+- City: VAN BUREN
+- State: AR
+- ZIP: 72956
+- ZIP extension: 
+- State project ID: AR-87-71-0640158
+- Latitude: 35.455915
+- Longitude: -94.365164
+- County FIPS: 05033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05033020302
+- Tract 2000: 05033020300
+- Tract 1990: 05033020300
+- Place 2020: 
+- Place 2010: 71480
+- Place 2000: 71480
+- Place 1990: 2005
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 16
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

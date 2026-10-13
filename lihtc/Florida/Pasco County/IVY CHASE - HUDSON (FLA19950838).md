@@ -1,0 +1,85 @@
+# Project: IVY CHASE - HUDSON (FLA19950838)
+
+- HUD ID: FLA19950838
+- HUD ID before: 
+- Project: IVY CHASE - HUDSON
+- Address: 14611 IVY CHASE LN
+- City: HUDSON
+- State: FL
+- ZIP: 34667
+- ZIP extension: 
+- State project ID: 392
+- Latitude: 28.370722
+- Longitude: -82.671431
+- County FIPS: 12101
+- County from: 2020
+- Tract 2020: 12101031203
+- Tract 2010: 12101031203
+- Tract 2000: 12101031201
+- Tract 1990: 12101031201
+- Place 2020: 32825
+- Place 2010: 32825
+- Place 2000: 32825
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 37
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

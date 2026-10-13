@@ -1,0 +1,85 @@
+# Project: LANCASTER TERRACE (ORA19920035)
+
+- HUD ID: ORA19920035
+- HUD ID before: 
+- Project: LANCASTER TERRACE
+- Address: 4510 N NEWCASTLE CIR NE
+- City: SALEM
+- State: OR
+- ZIP: 97305
+- ZIP extension: 
+- State project ID: OR91-386
+- Latitude: 44.985061
+- Longitude: -122.98373
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047001601
+- Tract 2010: 41047001601
+- Tract 2000: 41047001601
+- Tract 1990: 41047001600
+- Place 2020: 32850
+- Place 2010: 32850
+- Place 2000: 32850
+- Place 1990: 0500
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 397513
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

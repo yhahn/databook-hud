@@ -1,0 +1,85 @@
+# Project: MILL STREET APTS (LAA20010115)
+
+- HUD ID: LAA20010115
+- HUD ID before: 
+- Project: MILL STREET APTS
+- Address: 1988 MILL ST
+- City: HAYNESVILLE
+- State: LA
+- ZIP: 71038
+- ZIP extension: 
+- State project ID: LA-20-021
+- Latitude: 32.96846
+- Longitude: -93.143351
+- County FIPS: 22027
+- County from: 2020
+- Tract 2020: 22027950300
+- Tract 2010: 22027950300
+- Tract 2000: 22027950300
+- Tract 1990: 22027950300
+- Place 2020: 33525
+- Place 2010: 33525
+- Place 2000: 33525
+- Place 1990: 0570
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

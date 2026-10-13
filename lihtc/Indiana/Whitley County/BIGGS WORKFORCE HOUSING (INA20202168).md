@@ -1,0 +1,85 @@
+# Project: BIGGS WORKFORCE HOUSING (INA20202168)
+
+- HUD ID: INA20202168
+- HUD ID before: 
+- Project: BIGGS WORKFORCE HOUSING
+- Address: SCATTERED SITES
+- City: SCATTERED
+- State: IN
+- ZIP: 46725
+- ZIP extension: 
+- State project ID: IN-18-00100
+- Latitude: 41.174
+- Longitude: -85.4826
+- County FIPS: 18183
+- County from: 2020
+- Tract 2020: 18183050402
+- Tract 2010: 18183050400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14716
+- Place 2010: 14716
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 921524
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 35
+- 4-bedroom units: 13
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

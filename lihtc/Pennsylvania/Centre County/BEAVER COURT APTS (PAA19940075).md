@@ -1,0 +1,85 @@
+# Project: BEAVER COURT APTS (PAA19940075)
+
+- HUD ID: PAA19940075
+- HUD ID before: 
+- Project: BEAVER COURT APTS
+- Address: 120 E BEAVER AVE
+- City: STATE COLLEGE
+- State: PA
+- ZIP: 16801
+- ZIP extension: 
+- State project ID: TC19920058
+- Latitude: 40.793753
+- Longitude: -77.85957
+- County FIPS: 42027
+- County from: 2020
+- Tract 2020: 42027012500
+- Tract 2010: 42027012500
+- Tract 2000: 42027012500
+- Tract 1990: 42027012500
+- Place 2020: 73808
+- Place 2010: 73808
+- Place 2000: 73808
+- Place 1990: 8050
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 706459
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 89
+- Efficiencies: 8
+- 1-bedroom units: 80
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

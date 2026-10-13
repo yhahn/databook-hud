@@ -1,0 +1,85 @@
+# Project: SPRINGBORO GREEN (OHA19950280)
+
+- HUD ID: OHA19950280
+- HUD ID before: 
+- Project: SPRINGBORO GREEN
+- Address: 2941 TAOS DR
+- City: MIAMISBURG
+- State: OH
+- ZIP: 45342
+- ZIP extension: 
+- State project ID: OH-93-6144
+- Latitude: 39.601769
+- Longitude: -84.227274
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113050106
+- Tract 2010: 39113050103
+- Tract 2000: 39113050103
+- Tract 1990: 39113050103
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 49434
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 676018
+- Units: 132
+- Low-income units: 132
+- Units reported: 132
+- Low-income reported: 132
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

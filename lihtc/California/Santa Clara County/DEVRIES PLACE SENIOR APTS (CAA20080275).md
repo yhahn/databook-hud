@@ -1,0 +1,85 @@
+# Project: DEVRIES PLACE SENIOR APTS (CAA20080275)
+
+- HUD ID: CAA20080275
+- HUD ID before: 
+- Project: DEVRIES PLACE SENIOR APTS
+- Address: 163 N MAIN ST
+- City: MILPITAS
+- State: CA
+- ZIP: 95035
+- ZIP extension: 
+- State project ID: CA-06-840
+- Latitude: 37.432796
+- Longitude: -121.907774
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085504507
+- Tract 2010: 06085504507
+- Tract 2000: 06085504507
+- Tract 1990: 06085504498
+- Place 2020: 47766
+- Place 2010: 47766
+- Place 2000: 47766
+- Place 1990: 1770
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1377328
+- Units: 103
+- Low-income units: 102
+- Units reported: 103
+- Low-income reported: 102
+- Efficiencies: 1
+- 1-bedroom units: 92
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DEVRIES DEVRIES PLACE SENIOR APTS.
+- Record status: Existing, unchanged

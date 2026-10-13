@@ -1,0 +1,85 @@
+# Project: ROGUE RIVER ESTATES (ORA20080110)
+
+- HUD ID: ORA20080110
+- HUD ID before: 
+- Project: ROGUE RIVER ESTATES
+- Address: 1395 POPLAR DR
+- City: MEDFORD
+- State: OR
+- ZIP: 97504
+- ZIP extension: 
+- State project ID: 1763
+- Latitude: 42.343144
+- Longitude: -122.869521
+- County FIPS: 41029
+- County from: 2020
+- Tract 2020: 41029000405
+- Tract 2010: 41029000405
+- Tract 2000: 41029000401
+- Tract 1990: 41029000400
+- Place 2020: 47000
+- Place 2010: 47000
+- Place 2000: 47000
+- Place 1990: 0720
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 225072
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 12
+- 1-bedroom units: 81
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

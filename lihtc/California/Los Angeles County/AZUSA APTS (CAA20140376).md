@@ -1,0 +1,85 @@
+# Project: AZUSA APTS (CAA20140376)
+
+- HUD ID: CAA20140376
+- HUD ID before: 
+- Project: AZUSA APTS
+- Address: 805 S CERRITOS AVE
+- City: AZUSA
+- State: CA
+- ZIP: 91702
+- ZIP extension: 
+- State project ID: CA-13-179
+- Latitude: 34.115195
+- Longitude: -117.899666
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037404302
+- Tract 2010: 06037404302
+- Tract 2000: 06037404302
+- Tract 1990: 06037404300
+- Place 2020: 03386
+- Place 2010: 03386
+- Place 2000: 03386
+- Place 1990: 0175
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1008390
+- Units: 88
+- Low-income units: 87
+- Units reported: 88
+- Low-income reported: 87
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 30
+- 3-bedroom units: 42
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 62
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

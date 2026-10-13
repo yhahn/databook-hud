@@ -1,0 +1,85 @@
+# Project: LEXINGTON CLUB AT HUNTERS CREEK (FLA20010090)
+
+- HUD ID: FLA20010090
+- HUD ID before: 
+- Project: LEXINGTON CLUB AT HUNTERS CREEK
+- Address: 920A HUNTERS CREEK DR
+- City: DELAND
+- State: FL
+- ZIP: 32720
+- ZIP extension: 
+- State project ID: 467
+- Latitude: 29.044832
+- Longitude: -81.326575
+- County FIPS: 12127
+- County from: 2020
+- Tract 2020: 12127090204
+- Tract 2010: 12127090204
+- Tract 2000: 12127090201
+- Tract 1990: 12127090201
+- Place 2020: 16875
+- Place 2010: 16875
+- Place 2000: 16875
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 214
+- Low-income units: 214
+- Units reported: 214
+- Low-income reported: 214
+- Efficiencies: 6
+- 1-bedroom units: 24
+- 2-bedroom units: 160
+- 3-bedroom units: 16
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,24 @@
+# Tax Credit Projects: Kendall County, IL
+
+- Level: County
+- Postal code: IL
+- State FIPS: 17
+- County FIPS: 17093
+- Counties: 
+- Projects: 7
+- Units: 458
+- Low-income units: 458
+
+The low-income housing tax credit projects of Kendall County, Illinois, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [MIDLAND-PLANO (DEER RUN APTS) (ILA19910020)](./Kendall%20County/MIDLAND-PLANO%20%28DEER%20RUN%20APTS%29%20%28ILA19910020%29.md) | ILA19910020 | PLANO | 1991 | 18 | 18 |
+| [ROSE TERRACE APTS (ILA19960180)](./Kendall%20County/ROSE%20TERRACE%20APTS%20%28ILA19960180%29.md) | ILA19960180 | OSWEGO | 1996 | 36 | 36 |
+| [KINGSFIELD APTS (ILA20020045)](./Kendall%20County/KINGSFIELD%20APTS%20%28ILA20020045%29.md) | ILA20020045 | PLANO | 2002 | 24 | 24 |
+| [COUNTRYSIDE VILLAGES I (YORKVILLE) (ILA20050040)](./Kendall%20County/COUNTRYSIDE%20VILLAGES%20I%20%28YORKVILLE%29%20%28ILA20050040%29.md) | ILA20050040 | YORKVILLE | 2005 | 138 | 138 |
+| [THE RESERVE AT FOX RIVER (ILA20050220)](./Kendall%20County/THE%20RESERVE%20AT%20FOX%20RIVER%20%28ILA20050220%29.md) | ILA20050220 | YORKVILLE | 2005 | 132 | 132 |
+| [DIAMOND SENIOR APTS (ILA20120903)](./Kendall%20County/DIAMOND%20SENIOR%20APTS%20%28ILA20120903%29.md) | ILA20120903 | OSWEGO | 2012 | 60 | 60 |
+| [ANTHONY PLACE YORKVILLE (ILA20180002)](./Kendall%20County/ANTHONY%20PLACE%20YORKVILLE%20%28ILA20180002%29.md) | ILA20180002 | YORKVILLE | 2018 | 50 | 50 |

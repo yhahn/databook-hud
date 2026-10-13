@@ -1,0 +1,85 @@
+# Project: THE FOUNTAINS OF WEST ALLIS (WIA20120065)
+
+- HUD ID: WIA20120065
+- HUD ID before: 
+- Project: THE FOUNTAINS OF WEST ALLIS
+- Address: 5920 W NATIONAL AVE
+- City: WEST ALLIS
+- State: WI
+- ZIP: 53214
+- ZIP extension: 
+- State project ID: 5735
+- Latitude: 43.017808
+- Longitude: -87.986453
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079100100
+- Tract 2010: 55079100100
+- Tract 2000: 55079100100
+- Tract 1990: 55079100100
+- Place 2020: 85300
+- Place 2010: 85300
+- Place 2000: 85300
+- Place 1990: 2720
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 221491
+- Units: 35
+- Low-income units: 1
+- Units reported: 35
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

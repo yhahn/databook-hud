@@ -1,0 +1,85 @@
+# Project: RIDGE POINTE APTS (TXA00000483)
+
+- HUD ID: TXA00000483
+- HUD ID before: 
+- Project: RIDGE POINTE APTS
+- Address: 1900 BACON RANCH RD
+- City: KILLEEN
+- State: TX
+- ZIP: 76542
+- ZIP extension: 
+- State project ID: TX4280
+- Latitude: 31.087964
+- Longitude: -97.728026
+- County FIPS: 48027
+- County from: 2020
+- Tract 2020: 48027022503
+- Tract 2010: 48027022502
+- Tract 2000: 48027022500
+- Tract 1990: 48027022500
+- Place 2020: 39148
+- Place 2010: 39148
+- Place 2000: 39148
+- Place 1990: 2230
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 159
+- Low-income units: 159
+- Units reported: 159
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

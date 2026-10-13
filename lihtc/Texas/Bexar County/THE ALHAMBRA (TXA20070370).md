@@ -1,0 +1,85 @@
+# Project: THE ALHAMBRA (TXA20070370)
+
+- HUD ID: TXA20070370
+- HUD ID before: 
+- Project: THE ALHAMBRA
+- Address: 7130 NEW LAREDO HWY
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78211
+- ZIP extension: 
+- State project ID: TX5160
+- Latitude: 29.357292
+- Longitude: -98.560399
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029161000
+- Tract 2010: 48029161000
+- Tract 2000: 48029161000
+- Tract 1990: 48029161085
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3745
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 946988
+- Units: 140
+- Low-income units: 134
+- Units reported: 140
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 70
+- 2-bedroom units: 70
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

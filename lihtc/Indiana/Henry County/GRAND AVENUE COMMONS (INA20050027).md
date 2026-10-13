@@ -1,0 +1,85 @@
+# Project: GRAND AVENUE COMMONS (INA20050027)
+
+- HUD ID: INA20050027
+- HUD ID before: 
+- Project: GRAND AVENUE COMMONS
+- Address: 1628 A AVE
+- City: NEW CASTLE
+- State: IN
+- ZIP: 47362
+- ZIP extension: 
+- State project ID: IN-04-01400
+- Latitude: 39.924305
+- Longitude: -85.36478
+- County FIPS: 18065
+- County from: 2020
+- Tract 2020: 18065976300
+- Tract 2010: 18065976300
+- Tract 2000: 18065976300
+- Tract 1990: 18065976300
+- Place 2020: 52740
+- Place 2010: 52740
+- Place 2000: 52740
+- Place 1990: 1785
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 433554
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RICHWOOD GREENE (OHA20110133)
+
+- HUD ID: OHA20110133
+- HUD ID before: 
+- Project: RICHWOOD GREENE
+- Address: 235 GROVE ST
+- City: RICHWOOD
+- State: OH
+- ZIP: 43344
+- ZIP extension: 
+- State project ID: 090063
+- Latitude: 40.429042
+- Longitude: -83.301341
+- County FIPS: 39159
+- County from: 2020
+- Tract 2020: 39159050100
+- Tract 2010: 39159050100
+- Tract 2000: 39159050100
+- Tract 1990: 39159050100
+- Place 2020: 66936
+- Place 2010: 66936
+- Place 2000: 66936
+- Place 1990: 3650
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 10
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1644619
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 328769
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

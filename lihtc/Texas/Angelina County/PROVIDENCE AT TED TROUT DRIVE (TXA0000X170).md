@@ -1,0 +1,85 @@
+# Project: PROVIDENCE AT TED TROUT DRIVE (TXA0000X170)
+
+- HUD ID: TXA0000X170
+- HUD ID before: 
+- Project: PROVIDENCE AT TED TROUT DRIVE
+- Address: NEQ OF TED TROUT DRIVE & BOWERS LANE PRIVATE
+- City: HUDSON
+- State: TX
+- ZIP: 75904
+- ZIP extension: 
+- State project ID: TX5342
+- Latitude: 31.3417
+- Longitude: -94.7487
+- County FIPS: 48005
+- County from: 2020
+- Tract 2020: 48005000301
+- Tract 2010: 48005000400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 35228
+- Place 2010: 35228
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 64
+- Units reported: 76
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

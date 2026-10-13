@@ -1,0 +1,85 @@
+# Project: SILVER LAKE MEADOWS (NYA20030185)
+
+- HUD ID: NYA20030185
+- HUD ID before: 
+- Project: SILVER LAKE MEADOWS
+- Address: 165 LAKE ST
+- City: PERRY
+- State: NY
+- ZIP: 14530
+- ZIP extension: 
+- State project ID: 20020716
+- Latitude: 42.718931
+- Longitude: -78.013369
+- County FIPS: 36121
+- County from: 2020
+- Tract 2020: 36121970600
+- Tract 2010: 36121970600
+- Tract 2000: 36121990600
+- Tract 1990: 36121990600
+- Place 2020: 57243
+- Place 2010: 57243
+- Place 2000: 57243
+- Place 1990: 2820
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 51
+- Units reported: 52
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 37
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 929017
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

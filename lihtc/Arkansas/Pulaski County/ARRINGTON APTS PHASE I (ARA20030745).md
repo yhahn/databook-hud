@@ -1,0 +1,85 @@
+# Project: ARRINGTON APTS PHASE I (ARA20030745)
+
+- HUD ID: ARA20030745
+- HUD ID before: 
+- Project: ARRINGTON APTS PHASE I
+- Address: 6301 CAMP ROBINSON RD
+- City: NORTH LITTLE ROCK
+- State: AR
+- ZIP: 72118
+- ZIP extension: 
+- State project ID: AR-03-27-001
+- Latitude: 34.814965
+- Longitude: -92.270371
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119003202
+- Tract 2010: 05119003202
+- Tract 2000: 05119003202
+- Tract 1990: 05119003202
+- Place 2020: 50450
+- Place 2010: 50450
+- Place 2000: 50450
+- Place 1990: 1475
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 138587
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 104
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2003007, ARA2002010.
+- Record status: Existing, unchanged

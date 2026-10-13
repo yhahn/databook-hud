@@ -1,0 +1,85 @@
+# Project: HUGHES VILLAS II (ARA20160005)
+
+- HUD ID: ARA20160005
+- HUD ID before: 
+- Project: HUGHES VILLAS II
+- Address: 321 BUSH ST
+- City: HUGHES
+- State: AR
+- ZIP: 72348
+- ZIP extension: 
+- State project ID: AR9602001-003
+- Latitude: 34.94665
+- Longitude: -90.471819
+- County FIPS: 05123
+- County from: 2020
+- Tract 2020: 05123960100
+- Tract 2010: 05123960100
+- Tract 2000: 05123960100
+- Tract 1990: 
+- Place 2020: 33760
+- Place 2010: 33760
+- Place 2000: 33760
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 199223
+- Units: 21
+- Low-income units: 20
+- Units reported: 21
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: Disabled 2
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

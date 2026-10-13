@@ -1,0 +1,85 @@
+# Project: HENSON CREEK MANOR I (MDA19980280)
+
+- HUD ID: MDA19980280
+- HUD ID before: 
+- Project: HENSON CREEK MANOR I
+- Address: 5300 HARAS PL
+- City: FORT WASHINGTON
+- State: MD
+- ZIP: 20744
+- ZIP extension: 
+- State project ID: MD92-10
+- Latitude: 38.812633
+- Longitude: -76.958467
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033801702
+- Tract 2010: 24033801702
+- Tract 2000: 24033801702
+- Tract 1990: 24033801702
+- Place 2020: 77100
+- Place 2010: 77100
+- Place 2000: 77100
+- Place 1990: 0958
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 105
+- Low-income units: 105
+- Units reported: 105
+- Low-income reported: 105
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA1994030.
+- Record status: Existing, unchanged

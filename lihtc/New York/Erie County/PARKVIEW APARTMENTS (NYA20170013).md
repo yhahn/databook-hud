@@ -1,0 +1,85 @@
+# Project: PARKVIEW APARTMENTS (NYA20170013)
+
+- HUD ID: NYA20170013
+- HUD ID before: 
+- Project: PARKVIEW APARTMENTS
+- Address: 769 BEST STREET
+- City: BUFFALO
+- State: NY
+- ZIP: 14211
+- ZIP extension: 
+- State project ID: 20146078
+- Latitude: 42.9035
+- Longitude: -78.839151
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029002703
+- Tract 2010: 36029002702
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 11000
+- Place 2010: 11000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 489076
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 
+- 1-bedroom units: 14
+- 2-bedroom units: 8
+- 3-bedroom units: 4
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1099000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: KENWOOD AREA DOUBLES (INA19940047)
+
+- HUD ID: INA19940047
+- HUD ID before: 
+- Project: KENWOOD AREA DOUBLES
+- Address: 2254 N KENWOOD AVE
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46208
+- ZIP extension: 
+- State project ID: IN-92-07301
+- Latitude: 39.798778
+- Longitude: -86.160452
+- County FIPS: 18097
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18097351600
+- Tract 2000: 18097351600
+- Tract 1990: 18097351600
+- Place 2020: 
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 7
+- Low-income units: 7
+- Units reported: 7
+- Low-income reported: 7
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 4
+- 4-bedroom units: 1
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA1993110.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VALLEY FARMS APTS (INA19960185)
+
+- HUD ID: INA19960185
+- HUD ID before: 
+- Project: VALLEY FARMS APTS
+- Address: 1001 S UNION ST
+- City: WESTFIELD
+- State: IN
+- ZIP: 46074
+- ZIP extension: 
+- State project ID: IN-94-03900
+- Latitude: 40.029878
+- Longitude: -86.130467
+- County FIPS: 18057
+- County from: 2020
+- Tract 2020: 18057110405
+- Tract 2010: 18057110403
+- Tract 2000: 18057110400
+- Tract 1990: 18057110400
+- Place 2020: 82700
+- Place 2010: 82700
+- Place 2000: 10342
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 127431
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 42
+- 3-bedroom units: 20
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WESTFIELD FARMS APTS.
+- Record status: Existing, unchanged

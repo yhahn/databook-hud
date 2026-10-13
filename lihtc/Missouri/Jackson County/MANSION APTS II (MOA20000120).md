@@ -1,0 +1,85 @@
+# Project: MANSION APTS II (MOA20000120)
+
+- HUD ID: MOA20000120
+- HUD ID before: 
+- Project: MANSION APTS II
+- Address: 2905 S LEES SUMMIT RD
+- City: INDEPENDENCE
+- State: MO
+- ZIP: 64055
+- ZIP extension: 
+- State project ID: 98-214
+- Latitude: 39.066746
+- Longitude: -94.390966
+- County FIPS: 29095
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29095014604
+- Tract 2000: 29095014604
+- Tract 1990: 29095014602
+- Place 2020: 
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 2125
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 140
+- Low-income units: 140
+- Units reported: 140
+- Low-income reported: 140
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 93
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

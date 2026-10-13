@@ -1,0 +1,85 @@
+# Project: VALENCIA GARDENS HOPE DEVELOPMENT VI (CAA20060350)
+
+- HUD ID: CAA20060350
+- HUD ID before: 
+- Project: VALENCIA GARDENS HOPE DEVELOPMENT VI
+- Address: 340 VALENCIA ST
+- City: SAN FRANCISCO
+- State: CA
+- ZIP: 94103
+- ZIP extension: 
+- State project ID: CA-04-829
+- Latitude: 37.767337
+- Longitude: -122.422334
+- County FIPS: 06075
+- County from: 2020
+- Tract 2020: 06075020202
+- Tract 2010: 06075020200
+- Tract 2000: 06075020200
+- Tract 1990: 06075020298
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 2485
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 2722512
+- Units: 260
+- Low-income units: 254
+- Units reported: 260
+- Low-income reported: 254
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 94
+- 3-bedroom units: 86
+- 4-bedroom units: 14
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

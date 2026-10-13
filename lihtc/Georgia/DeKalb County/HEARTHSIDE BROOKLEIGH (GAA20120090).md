@@ -1,0 +1,85 @@
+# Project: HEARTHSIDE BROOKLEIGH (GAA20120090)
+
+- HUD ID: GAA20120090
+- HUD ID before: 
+- Project: HEARTHSIDE BROOKLEIGH
+- Address: 2282 JOHNSON FERRY RD NE
+- City: ATLANTA
+- State: GA
+- ZIP: 30319
+- ZIP extension: 2252
+- State project ID: GA-09-045
+- Latitude: 33.89025
+- Longitude: -84.3209
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089021222
+- Tract 2010: 13089021209
+- Tract 2000: 13089021209
+- Tract 1990: 13089021209
+- Place 2020: 10944
+- Place 2010: 99999
+- Place 2000: 15172
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 121
+- Low-income units: 121
+- Units reported: 121
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

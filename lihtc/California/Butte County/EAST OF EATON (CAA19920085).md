@@ -1,0 +1,85 @@
+# Project: EAST OF EATON (CAA19920085)
+
+- HUD ID: CAA19920085
+- HUD ID before: 
+- Project: EAST OF EATON
+- Address: 1577 E LASSEN AVE
+- City: CHICO
+- State: CA
+- ZIP: 95973
+- ZIP extension: 
+- State project ID: CA-91-026
+- Latitude: 39.773783
+- Longitude: -121.834861
+- County FIPS: 06007
+- County from: 2020
+- Tract 2020: 06007000104
+- Tract 2010: 06007000104
+- Tract 2000: 06007000101
+- Tract 1990: 06007000100
+- Place 2020: 13014
+- Place 2010: 13014
+- Place 2000: 13014
+- Place 1990: 0500
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 669638
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

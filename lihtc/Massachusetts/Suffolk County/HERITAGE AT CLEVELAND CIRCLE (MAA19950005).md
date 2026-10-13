@@ -1,0 +1,85 @@
+# Project: HERITAGE AT CLEVELAND CIRCLE (MAA19950005)
+
+- HUD ID: MAA19950005
+- HUD ID before: 
+- Project: HERITAGE AT CLEVELAND CIRCLE
+- Address: 50 SUTHERLAND RD
+- City: BOSTON
+- State: MA
+- ZIP: 02135
+- ZIP extension: 
+- State project ID: MA-93-004-N
+- Latitude: 42.337749
+- Longitude: -71.150028
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025000503
+- Tract 2010: 25025000503
+- Tract 2000: 25025000501
+- Tract 1990: 25025000501
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 18
+- Units reported: 90
+- Low-income reported: 18
+- Efficiencies: 25
+- 1-bedroom units: 65
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000015.
+- Record status: Existing, unchanged

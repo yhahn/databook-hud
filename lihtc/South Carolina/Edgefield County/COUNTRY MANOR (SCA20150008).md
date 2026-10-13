@@ -1,0 +1,85 @@
+# Project: COUNTRY MANOR (SCA20150008)
+
+- HUD ID: SCA20150008
+- HUD ID before: SCA19910005
+- Project: COUNTRY MANOR
+- Address: 191 WEST A REEL DRIVE
+- City: EDGEFIELD
+- State: SC
+- ZIP: 29824
+- ZIP extension: 
+- State project ID: SC-13-005
+- Latitude: 33.779061
+- Longitude: -81.926293
+- County FIPS: 45037
+- County from: 2020
+- Tract 2020: 45037970204
+- Tract 2010: 45037970202
+- Tract 2000: 45037970200
+- Tract 1990: 
+- Place 2020: 22795
+- Place 2010: 22795
+- Place 2000: 22795
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 380000
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS SCA19910005;PIN=SC-90-030;PREV HUD_ID: SCA19910005
+- Record status: Existing, unchanged

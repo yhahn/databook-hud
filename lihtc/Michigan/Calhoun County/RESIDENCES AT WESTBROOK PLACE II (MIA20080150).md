@@ -1,0 +1,85 @@
+# Project: RESIDENCES AT WESTBROOK PLACE II (MIA20080150)
+
+- HUD ID: MIA20080150
+- HUD ID before: 
+- Project: RESIDENCES AT WESTBROOK PLACE II
+- Address: 183 W ST
+- City: BATTLE CREEK
+- State: MI
+- ZIP: 49037
+- ZIP extension: 
+- State project ID: MI-3234
+- Latitude: 42.328953
+- Longitude: -85.183055
+- County FIPS: 26025
+- County from: 2020
+- Tract 2020: 26025000300
+- Tract 2010: 26025000300
+- Tract 2000: 26025000300
+- Tract 1990: 26025000300
+- Place 2020: 05920
+- Place 2010: 05920
+- Place 2000: 05920
+- Place 1990: 0160
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 944763
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 46
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

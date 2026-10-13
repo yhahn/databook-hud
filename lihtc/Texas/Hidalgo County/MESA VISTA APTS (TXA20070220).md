@@ -1,0 +1,85 @@
+# Project: MESA VISTA APTS (TXA20070220)
+
+- HUD ID: TXA20070220
+- HUD ID before: 
+- Project: MESA VISTA APTS
+- Address: 1301 S SALINAS ST
+- City: DONNA
+- State: TX
+- ZIP: 78537
+- ZIP extension: 
+- State project ID: TX4241
+- Latitude: 26.15496
+- Longitude: -98.045678
+- County FIPS: 48215
+- County from: 2020
+- Tract 2020: 48215022112
+- Tract 2010: 48215022106
+- Tract 2000: 48215022102
+- Tract 1990: 48215022102
+- Place 2020: 20884
+- Place 2010: 20884
+- Place 2000: 20884
+- Place 1990: 1205
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 453995
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 32
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

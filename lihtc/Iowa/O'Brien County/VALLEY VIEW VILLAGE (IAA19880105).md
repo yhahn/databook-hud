@@ -1,0 +1,85 @@
+# Project: VALLEY VIEW VILLAGE (IAA19880105)
+
+- HUD ID: IAA19880105
+- HUD ID before: 
+- Project: VALLEY VIEW VILLAGE
+- Address: 206 WANSINK AVE
+- City: SHELDON
+- State: IA
+- ZIP: 51201
+- ZIP extension: 
+- State project ID: 87-13
+- Latitude: 43.18693
+- Longitude: -95.83811
+- County FIPS: 19141
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19141490300
+- Tract 2000: 19141990300
+- Tract 1990: 19141990300
+- Place 2020: 
+- Place 2010: 72390
+- Place 2000: 72390
+- Place 1990: 3930
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 10642
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

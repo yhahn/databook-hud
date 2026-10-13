@@ -1,0 +1,85 @@
+# Project: SUNDANCE COMMONS (NDA20129027)
+
+- HUD ID: NDA20129027
+- HUD ID before: 
+- Project: SUNDANCE COMMONS
+- Address: 1102 SECOND ST S
+- City: CASSELTON
+- State: ND
+- ZIP: 58012
+- ZIP extension: 
+- State project ID: TC1106
+- Latitude: 46.9049
+- Longitude: -97.1947
+- County FIPS: 38017
+- County from: 2020
+- Tract 2020: 38017040300
+- Tract 2010: 38017040300
+- Tract 2000: 38017040300
+- Tract 1990: 38017040300
+- Place 2020: 12700
+- Place 2010: 12700
+- Place 2000: 01940
+- Place 1990: 0300
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

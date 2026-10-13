@@ -1,0 +1,85 @@
+# Project: OAKBROOK MANOR APTS I (COA20060025)
+
+- HUD ID: COA20060025
+- HUD ID before: 
+- Project: OAKBROOK MANOR APTS I
+- Address: 3200 STANFORD RD
+- City: FORT COLLINS
+- State: CO
+- ZIP: 80525
+- ZIP extension: 
+- State project ID: 2006506
+- Latitude: 40.544395
+- Longitude: -105.068998
+- County FIPS: 08069
+- County from: 2020
+- Tract 2020: 08069001003
+- Tract 2010: 08069001003
+- Tract 2000: 08069001003
+- Tract 1990: 08069001003
+- Place 2020: 27425
+- Place 2010: 27425
+- Place 2000: 27425
+- Place 1990: 0455
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 276211
+- Units: 107
+- Low-income units: 106
+- Units reported: 107
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 102
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

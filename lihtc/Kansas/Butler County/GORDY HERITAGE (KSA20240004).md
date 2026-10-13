@@ -1,0 +1,85 @@
+# Project: GORDY HERITAGE (KSA20240004)
+
+- HUD ID: KSA20240004
+- HUD ID before: 
+- Project: GORDY HERITAGE
+- Address: 200 AND 211 N GORDY
+- City: EL DORADO
+- State: KS
+- ZIP: 67042
+- ZIP extension: 
+- State project ID: KS-22-68202
+- Latitude: 37.8134
+- Longitude: -96.8507
+- County FIPS: 20015
+- County from: 2020
+- Tract 2020: 20015020400
+- Tract 2010: 20015020400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 20075
+- Place 2010: 20075
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 815500
+- Units: 124
+- Low-income units: 123
+- Units reported: 124
+- Low-income reported: 123
+- Efficiencies: 0
+- 1-bedroom units: 123
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

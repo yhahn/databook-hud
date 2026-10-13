@@ -1,0 +1,85 @@
+# Project: WILSON COMMONS (WIA20049142)
+
+- HUD ID: WIA20049142
+- HUD ID before: 
+- Project: WILSON COMMONS
+- Address: 1500 W SONATA DR
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53221
+- ZIP extension: 
+- State project ID: 2475
+- Latitude: 42.969962
+- Longitude: -87.929372
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079021300
+- Tract 2010: 55079021300
+- Tract 2000: 55079021300
+- Tract 1990: 55079021300
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 127
+- Low-income units: 55
+- Units reported: 127
+- Low-income reported: 55
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

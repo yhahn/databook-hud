@@ -1,0 +1,85 @@
+# Project: THE ARBOR AT COTTON GROVE (NCA0000X072)
+
+- HUD ID: NCA0000X072
+- HUD ID before: 
+- Project: THE ARBOR AT COTTON GROVE
+- Address: 100 COTTON GROVE CIRCLE
+- City: LEXINGTON
+- State: NC
+- ZIP: 27292
+- ZIP extension: 
+- State project ID: 9197606
+- Latitude: 35.811254
+- Longitude: -80.261912
+- County FIPS: 37057
+- County from: 2020
+- Tract 2020: 37057061502
+- Tract 2010: 37057061500
+- Tract 2000: 37057061500
+- Tract 1990: 
+- Place 2020: 38060
+- Place 2010: 38060
+- Place 2000: 38060
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 717000
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 42
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1600000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

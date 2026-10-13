@@ -1,0 +1,85 @@
+# Project: PALMER'S DOCK (NYA20080165)
+
+- HUD ID: NYA20080165
+- HUD ID before: 
+- Project: PALMER'S DOCK
+- Address: 20 N FIFTH ST
+- City: BROOKLYN
+- State: NY
+- ZIP: 11249
+- ZIP extension: 
+- State project ID: 20050342
+- Latitude: 40.71887
+- Longitude: -73.96268
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047055500
+- Tract 2010: 36047055500
+- Tract 2000: 36047057700
+- Tract 1990: 36047057700
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1849999
+- Units: 113
+- Low-income units: 95
+- Units reported: 113
+- Low-income reported: 95
+- Efficiencies: 26
+- 1-bedroom units: 30
+- 2-bedroom units: 22
+- 3-bedroom units: 35
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

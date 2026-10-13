@@ -1,0 +1,85 @@
+# Project: KENT STREET APTS (MAB19980035)
+
+- HUD ID: MAB19980035
+- HUD ID before: 
+- Project: KENT STREET APTS
+- Address: 28 KENT ST
+- City: SOMERVILLE
+- State: MA
+- ZIP: 02143
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.38274
+- Longitude: -71.110167
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017351204
+- Tract 2010: 25017351204
+- Tract 2000: 25017351200
+- Tract 1990: 25017351200
+- Place 2020: 62535
+- Place 2010: 62535
+- Place 2000: 62535
+- Place 1990: 3920
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 8
+- 1-bedroom units: 12
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

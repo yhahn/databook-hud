@@ -1,0 +1,85 @@
+# Project: SOUTHWICK APTS (OHA19930295)
+
+- HUD ID: OHA19930295
+- HUD ID before: 
+- Project: SOUTHWICK APTS
+- Address: 4375 SOUTHWICK BLVD
+- City: BRUNSWICK
+- State: OH
+- ZIP: 44212
+- ZIP extension: 
+- State project ID: OH-91-0610
+- Latitude: 41.233719
+- Longitude: -81.842743
+- County FIPS: 39103
+- County from: 2020
+- Tract 2020: 39103416200
+- Tract 2010: 39103416200
+- Tract 2000: 39103416200
+- Tract 1990: 39103416200
+- Place 2020: 09680
+- Place 2010: 09680
+- Place 2000: 09680
+- Place 1990: 0570
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

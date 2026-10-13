@@ -1,0 +1,85 @@
+# Project: LITC #700 MAHER MANOR SENIOR HOUSING (NJA20059016)
+
+- HUD ID: NJA20059016
+- HUD ID before: 
+- Project: LITC #700 MAHER MANOR SENIOR HOUSING
+- Address: 2000 STATE ROUTE 18
+- City: OLD BRIDGE
+- State: NJ
+- ZIP: 08857
+- ZIP extension: 3365
+- State project ID: 700
+- Latitude: 40.382634
+- Longitude: -74.327274
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023007804
+- Tract 2010: 34023007804
+- Tract 2000: 34023007804
+- Tract 1990: 
+- Place 2020: 54690
+- Place 2010: 54690
+- Place 2000: 54690
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 91
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

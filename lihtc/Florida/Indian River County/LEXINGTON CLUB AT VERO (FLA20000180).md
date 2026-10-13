@@ -1,0 +1,85 @@
+# Project: LEXINGTON CLUB AT VERO (FLA20000180)
+
+- HUD ID: FLA20000180
+- HUD ID before: 
+- Project: LEXINGTON CLUB AT VERO
+- Address: 6885 20TH ST
+- City: VERO BEACH
+- State: FL
+- ZIP: 32966
+- ZIP extension: 
+- State project ID: 176
+- Latitude: 27.638881
+- Longitude: -80.468974
+- County FIPS: 12061
+- County from: 2020
+- Tract 2020: 12061050704
+- Tract 2010: 12061050704
+- Tract 2000: 12061050701
+- Tract 1990: 12061050701
+- Place 2020: 76937
+- Place 2010: 76937
+- Place 2000: 76937
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 184
+- Units reported: 184
+- Low-income reported: 184
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 184
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

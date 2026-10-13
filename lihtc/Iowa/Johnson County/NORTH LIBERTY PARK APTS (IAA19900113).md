@@ -1,0 +1,85 @@
+# Project: NORTH LIBERTY PARK APTS (IAA19900113)
+
+- HUD ID: IAA19900113
+- HUD ID before: 
+- Project: NORTH LIBERTY PARK APTS
+- Address: 225 SUGAR CREEK LN
+- City: NORTH LIBERTY
+- State: IA
+- ZIP: 52317
+- ZIP extension: 
+- State project ID: 89-25
+- Latitude: 41.741962
+- Longitude: -91.609167
+- County FIPS: 19103
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19103010301
+- Tract 2000: 19103010300
+- Tract 1990: 19103010300
+- Place 2020: 
+- Place 2010: 57360
+- Place 2000: 16230
+- Place 1990: 3115
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 27318
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA0000045.
+- Record status: Existing, unchanged

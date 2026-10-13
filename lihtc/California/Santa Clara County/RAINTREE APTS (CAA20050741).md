@@ -1,0 +1,85 @@
+# Project: RAINTREE APTS (CAA20050741)
+
+- HUD ID: CAA20050741
+- HUD ID before: 
+- Project: RAINTREE APTS
+- Address: 1058 S WINCHESTER BLVD
+- City: SAN JOSE
+- State: CA
+- ZIP: 95128
+- ZIP extension: 
+- State project ID: CA-05-833
+- Latitude: 37.307015
+- Longitude: -121.949725
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085506402
+- Tract 2010: 06085506402
+- Tract 2000: 06085506402
+- Tract 1990: 06085506402
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 10345
+- Place 1990: 2510
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 933304
+- Units: 176
+- Low-income units: 174
+- Units reported: 176
+- Low-income reported: 174
+- Efficiencies: 0
+- 1-bedroom units: 144
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

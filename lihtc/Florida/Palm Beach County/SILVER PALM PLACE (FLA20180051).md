@@ -1,0 +1,85 @@
+# Project: SILVER PALM PLACE (FLA20180051)
+
+- HUD ID: FLA20180051
+- HUD ID before: 
+- Project: SILVER PALM PLACE
+- Address: 838 ADAMS STREET
+- City: WEST PALM BEACH
+- State: FL
+- ZIP: 33407
+- ZIP extension: 
+- State project ID: 2660
+- Latitude: 26.729985
+- Longitude: -80.0614
+- County FIPS: 12099
+- County from: 2020
+- Tract 2020: 12099002200
+- Tract 2010: 12099002200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76600
+- Place 2010: 76600
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 2110000
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 77
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

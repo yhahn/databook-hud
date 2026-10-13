@@ -1,0 +1,85 @@
+# Project: OAKHAVEN APTS (FLA19930125)
+
+- HUD ID: FLA19930125
+- HUD ID before: 
+- Project: OAKHAVEN APTS
+- Address: 580 OAKHAVEN CIR
+- City: IMMOKALEE
+- State: FL
+- ZIP: 34142
+- ZIP extension: 
+- State project ID: 557
+- Latitude: 26.416161
+- Longitude: -81.421124
+- County FIPS: 12021
+- County from: 2020
+- Tract 2020: 12021011204
+- Tract 2010: 12021011204
+- Tract 2000: 12021011204
+- Tract 1990: 12021011203
+- Place 2020: 33250
+- Place 2010: 33250
+- Place 2000: 33250
+- Place 1990: 0945
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 120
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA OAKHAVEN APTS (HIGHLAND).
+- Record status: Existing, unchanged

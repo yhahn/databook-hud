@@ -1,0 +1,85 @@
+# Project: MEADOWS APTS (NYA19940295)
+
+- HUD ID: NYA19940295
+- HUD ID before: 
+- Project: MEADOWS APTS
+- Address: 1 VILLAGE VIEW DR
+- City: TULLY
+- State: NY
+- ZIP: 13159
+- ZIP extension: 
+- State project ID: NY-93-0365_00565
+- Latitude: 42.801083
+- Longitude: -76.111614
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067016901
+- Tract 2010: 36067016901
+- Tract 2000: 36067016901
+- Tract 1990: 36067016901
+- Place 2020: 75627
+- Place 2010: 75627
+- Place 2000: 75627
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

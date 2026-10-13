@@ -1,0 +1,85 @@
+# Project: HARRIMAN GARDENS (TNA20171005)
+
+- HUD ID: TNA20171005
+- HUD ID before: 
+- Project: HARRIMAN GARDENS
+- Address: 925 SEWANEE ST.
+- City: HARRIMAN
+- State: TN
+- ZIP: 37748
+- ZIP extension: 
+- State project ID: TN-16-228
+- Latitude: 35.935553
+- Longitude: -84.541995
+- County FIPS: 47145
+- County from: 2020
+- Tract 2020: 47145030801
+- Tract 2010: 47145030800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 32520
+- Place 2010: 32520
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 137
+- Low-income units: 136
+- Units reported: 137
+- Low-income reported: 136
+- Efficiencies: 1
+- 1-bedroom units: 126
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

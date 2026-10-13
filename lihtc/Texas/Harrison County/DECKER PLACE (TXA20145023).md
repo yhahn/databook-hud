@@ -1,0 +1,85 @@
+# Project: DECKER PLACE (TXA20145023)
+
+- HUD ID: TXA20145023
+- HUD ID before: 
+- Project: DECKER PLACE
+- Address: 2500 E END BLVD S
+- City: MARSHALL
+- State: TX
+- ZIP: 75672
+- ZIP extension: 
+- State project ID: TX4982
+- Latitude: 32.52296
+- Longitude: -94.352146
+- County FIPS: 48203
+- County from: 2020
+- Tract 2020: 48203020501
+- Tract 2010: 48203020501
+- Tract 2000: 48203020500
+- Tract 1990: 48203020500
+- Place 2020: 46776
+- Place 2010: 46776
+- Place 2000: 46776
+- Place 1990: 2690
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LYNHURST PARK APTS (INA20070145)
+
+- HUD ID: INA20070145
+- HUD ID before: 
+- Project: LYNHURST PARK APTS
+- Address: 3201 S LYNHURST DR
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46241
+- ZIP extension: 
+- State project ID: IN-05-01500
+- Latitude: 39.717643
+- Longitude: -86.250119
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097370203
+- Tract 2010: 18097370202
+- Tract 2000: 18097370202
+- Tract 1990: 18097370202
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 154
+- Low-income units: 129
+- Units reported: 154
+- Low-income reported: 129
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 68
+- 3-bedroom units: 40
+- 4-bedroom units: 16
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

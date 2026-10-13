@@ -1,0 +1,85 @@
+# Project: KINGSLEY VILLAGE (GAA20030070)
+
+- HUD ID: GAA20030070
+- HUD ID before: 
+- Project: KINGSLEY VILLAGE
+- Address: 595 SIX FLAGS DR
+- City: AUSTELL
+- State: GA
+- ZIP: 30168
+- ZIP extension: 
+- State project ID: GA-02-548
+- Latitude: 33.777584
+- Longitude: -84.571687
+- County FIPS: 13067
+- County from: 2020
+- Tract 2020: 13067031321
+- Tract 2010: 13067031310
+- Tract 2000: 13067031310
+- Tract 1990: 13067031305
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 146
+- Low-income units: 146
+- Units reported: 146
+- Low-income reported: 146
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 118
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

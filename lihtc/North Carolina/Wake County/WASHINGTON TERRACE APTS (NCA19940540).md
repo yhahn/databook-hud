@@ -1,0 +1,85 @@
+# Project: WASHINGTON TERRACE APTS (NCA19940540)
+
+- HUD ID: NCA19940540
+- HUD ID before: 
+- Project: WASHINGTON TERRACE APTS
+- Address: 1951 BOOKER DRIVE
+- City: RALEIGH
+- State: NC
+- ZIP: 27610
+- ZIP extension: 
+- State project ID: 9001441
+- Latitude: 35.78606
+- Longitude: -78.615606
+- County FIPS: 37183
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37183050600
+- Tract 2000: 37183050600
+- Tract 1990: 37183050600
+- Place 2020: 
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 2020
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 1139677
+- Units: 245
+- Low-income units: 245
+- Units reported: 245
+- Low-income reported: 245
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 227
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

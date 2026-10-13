@@ -1,0 +1,85 @@
+# Project: THE VILLAGE AT LAKEVIEW [AKA] EDGEWATER VILLAGE (MDA20201074)
+
+- HUD ID: MDA20201074
+- HUD ID before: 
+- Project: THE VILLAGE AT LAKEVIEW [AKA] EDGEWATER VILLAGE
+- Address: 833 FISHERMAN LN
+- City: EDGEWOOD
+- State: MD
+- ZIP: 21040
+- ZIP extension: 
+- State project ID: MD-02-26001
+- Latitude: 39.4307
+- Longitude: -76.313016
+- County FIPS: 24025
+- County from: 2020
+- Tract 2020: 24025301302
+- Tract 2010: 24025301302
+- Tract 2000: 24025301302
+- Tract 1990: 24025301300
+- Place 2020: 25150
+- Place 2010: 25150
+- Place 2000: 25150
+- Place 1990: 0295
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 
+- Units: 223
+- Low-income units: 223
+- Units reported: 223
+- Low-income reported: 223
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

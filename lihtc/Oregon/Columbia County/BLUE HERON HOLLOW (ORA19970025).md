@@ -1,0 +1,85 @@
+# Project: BLUE HERON HOLLOW (ORA19970025)
+
+- HUD ID: ORA19970025
+- HUD ID before: 
+- Project: BLUE HERON HOLLOW
+- Address: 600 CALIFORNIA AVE
+- City: VERNONIA
+- State: OR
+- ZIP: 97064
+- ZIP extension: 
+- State project ID: 692
+- Latitude: 45.85749
+- Longitude: -123.185226
+- County FIPS: 41009
+- County from: 2020
+- Tract 2020: 41009971100
+- Tract 2010: 41009971100
+- Tract 2000: 41009971100
+- Tract 1990: 41009971100
+- Place 2020: 77250
+- Place 2010: 77250
+- Place 2000: 77250
+- Place 1990: 1175
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 140000
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 462687
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

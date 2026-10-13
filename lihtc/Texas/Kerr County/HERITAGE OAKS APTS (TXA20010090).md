@@ -1,0 +1,85 @@
+# Project: HERITAGE OAKS APTS (TXA20010090)
+
+- HUD ID: TXA20010090
+- HUD ID before: 
+- Project: HERITAGE OAKS APTS
+- Address: 2350 JUNCTION HWY
+- City: KERRVILLE
+- State: TX
+- ZIP: 78028
+- ZIP extension: 
+- State project ID: TX0032
+- Latitude: 30.073592
+- Longitude: -99.199027
+- County FIPS: 48265
+- County from: 2020
+- Tract 2020: 48265960303
+- Tract 2010: 48265960302
+- Tract 2000: 48265960300
+- Tract 1990: 48265960300
+- Place 2020: 39040
+- Place 2010: 39040
+- Place 2000: 36032
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

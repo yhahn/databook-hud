@@ -1,0 +1,85 @@
+# Project: PARK HOLM III (RIA20210004)
+
+- HUD ID: RIA20210004
+- HUD ID before: 
+- Project: PARK HOLM III
+- Address: 2 PARK HOLM
+- City: NEWPORT
+- State: RI
+- ZIP: 02840
+- ZIP extension: 
+- State project ID: RI00214
+- Latitude: 41.512464
+- Longitude: -71.307327
+- County FIPS: 44005
+- County from: 2020
+- Tract 2020: 44005040500
+- Tract 2010: 44005040500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 49960
+- Place 2010: 49960
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 13
+- 2-bedroom units: 34
+- 3-bedroom units: 7
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

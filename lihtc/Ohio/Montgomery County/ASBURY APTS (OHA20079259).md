@@ -1,0 +1,85 @@
+# Project: ASBURY APTS (OHA20079259)
+
+- HUD ID: OHA20079259
+- HUD ID before: 
+- Project: ASBURY APTS
+- Address: 215 MCDANIEL ST
+- City: DAYTON
+- State: OH
+- ZIP: 45405
+- ZIP extension: 
+- State project ID: 060156
+- Latitude: 39.768372
+- Longitude: -84.196287
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113165200
+- Tract 2010: 39113165200
+- Tract 2000: 39113001400
+- Tract 1990: 39113001400
+- Place 2020: 21000
+- Place 2010: 21000
+- Place 2000: 21000
+- Place 1990: 1110
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 119
+- Low-income units: 119
+- Units reported: 119
+- Low-income reported: 119
+- Efficiencies: 50
+- 1-bedroom units: 69
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006711.
+- Record status: Existing, unchanged

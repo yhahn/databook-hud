@@ -1,0 +1,85 @@
+# Project: VERGENNES SENIOR - ARMORY LANE (VTA20120503)
+
+- HUD ID: VTA20120503
+- HUD ID before: 
+- Project: VERGENNES SENIOR - ARMORY LANE
+- Address: 50 ARMORY LN
+- City: VERGENNES
+- State: VT
+- ZIP: 05491
+- ZIP extension: 
+- State project ID: 0298
+- Latitude: 44.171678
+- Longitude: -73.244213
+- County FIPS: 50001
+- County from: 2020
+- Tract 2020: 50001960300
+- Tract 2010: 50001960300
+- Tract 2000: 50001960300
+- Tract 1990: 50001960300
+- Place 2020: 74650
+- Place 2010: 74650
+- Place 2000: 74650
+- Place 1990: 2670
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 355000
+- Units: 25
+- Low-income units: 20
+- Units reported: 25
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 175000
+- CDBG: Yes
+- CDBG amount: 660000
+- TCAP: Yes
+- TCAP amount: 522546
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

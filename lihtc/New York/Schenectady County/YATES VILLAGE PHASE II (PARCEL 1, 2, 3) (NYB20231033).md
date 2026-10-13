@@ -1,0 +1,85 @@
+# Project: YATES VILLAGE PHASE II (PARCEL 1, 2, 3) (NYB20231033)
+
+- HUD ID: NYB20231033
+- HUD ID before: 
+- Project: YATES VILLAGE PHASE II (PARCEL 1, 2, 3)
+- Address: 2450 VAN VRANKEN AVENUE
+- City: SCHENECTADY
+- State: NY
+- ZIP: 12308
+- ZIP extension: 
+- State project ID: NY-23-3573
+- Latitude: 42.835154
+- Longitude: -73.917021
+- County FIPS: 36093
+- County from: 2020
+- Tract 2020: 36093020102
+- Tract 2010: 36093020102
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 65508
+- Place 2010: 65508
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 3810062
+- Units: 211
+- Low-income units: 211
+- Units reported: 211
+- Low-income reported: 211
+- Efficiencies: 0
+- 1-bedroom units: 69
+- 2-bedroom units: 108
+- 3-bedroom units: 29
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

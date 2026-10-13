@@ -1,0 +1,85 @@
+# Project: CAMBRIDGE APTS - CAMBRIDGE (ILA19920050)
+
+- HUD ID: ILA19920050
+- HUD ID before: 
+- Project: CAMBRIDGE APTS - CAMBRIDGE
+- Address: 650 N E ST
+- City: CAMBRIDGE
+- State: IL
+- ZIP: 61238
+- ZIP extension: 
+- State project ID: 392-91
+- Latitude: 41.31004
+- Longitude: -90.194249
+- County FIPS: 17073
+- County from: 2020
+- Tract 2020: 17073030202
+- Tract 2010: 17073030202
+- Tract 2000: 17073030202
+- Tract 1990: 17073030202
+- Place 2020: 10643
+- Place 2010: 10643
+- Place 2000: 01491
+- Place 1990: 0820
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 17811
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

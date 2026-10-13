@@ -1,0 +1,85 @@
+# Project: HOLIDAY MANOR APTS (CAA20010245)
+
+- HUD ID: CAA20010245
+- HUD ID before: 
+- Project: HOLIDAY MANOR APTS
+- Address: 1924 CAMINO DEL SOL
+- City: OXNARD
+- State: CA
+- ZIP: 93030
+- ZIP extension: 
+- State project ID: CA-01-824
+- Latitude: 34.206147
+- Longitude: -119.155934
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111004902
+- Tract 2010: 06111004902
+- Tract 2000: 06111004900
+- Tract 1990: 06111004900
+- Place 2020: 54652
+- Place 2010: 54652
+- Place 2000: 54652
+- Place 1990: 2050
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 809403
+- Units: 252
+- Low-income units: 251
+- Units reported: 252
+- Low-income reported: 251
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 101
+- 3-bedroom units: 91
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

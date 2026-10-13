@@ -1,0 +1,85 @@
+# Project: 175 WEST 60TH STREET (NYB20162001)
+
+- HUD ID: NYB20162001
+- HUD ID before: 
+- Project: 175 WEST 60TH STREET
+- Address: 175 WEST 60TH ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10023
+- ZIP extension: 
+- State project ID: 2054
+- Latitude: 40.770869
+- Longitude: -73.986203
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061014500
+- Tract 2010: 36061014500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1223215
+- Units: 258
+- Low-income units: 52
+- Units reported: 258
+- Low-income reported: 52
+- Efficiencies: 24
+- 1-bedroom units: 148
+- 2-bedroom units: 85
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

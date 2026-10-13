@@ -1,0 +1,85 @@
+# Project: CREAMETTE HISTORIC LOFTS (MNB19989002)
+
+- HUD ID: MNB19989002
+- HUD ID before: 
+- Project: CREAMETTE HISTORIC LOFTS
+- Address: 428 NORTH FIRST STREET
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55401
+- ZIP extension: 1181
+- State project ID: D3027
+- Latitude: 44.988063
+- Longitude: -93.272531
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053126202
+- Tract 2010: 27053126200
+- Tract 2000: 27053003502
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 325022
+- Units: 96
+- Low-income units: 49
+- Units reported: 96
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 70
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1430596
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

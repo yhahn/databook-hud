@@ -1,0 +1,85 @@
+# Project: CURTAIN LOFTS (MAB20110075)
+
+- HUD ID: MAB20110075
+- HUD ID before: 
+- Project: CURTAIN LOFTS
+- Address: 420 QUEQUECHAN ST
+- City: FALL RIVER
+- State: MA
+- ZIP: 02723
+- ZIP extension: 
+- State project ID: 2264
+- Latitude: 41.68909
+- Longitude: -71.138581
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005641400
+- Tract 2010: 25005641400
+- Tract 2000: 25005641400
+- Tract 1990: 25005641400
+- Place 2020: 23000
+- Place 2010: 23000
+- Place 2000: 23000
+- Place 1990: 1220
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1100000
+- Units: 97
+- Low-income units: 97
+- Units reported: 97
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 87
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB20110075. AKA WAMPANOAG MILL.
+- Record status: Existing, unchanged

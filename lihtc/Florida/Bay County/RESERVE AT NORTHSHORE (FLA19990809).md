@@ -1,0 +1,85 @@
+# Project: RESERVE AT NORTHSHORE (FLA19990809)
+
+- HUD ID: FLA19990809
+- HUD ID before: 
+- Project: RESERVE AT NORTHSHORE
+- Address: 2101 W HWY 390
+- City: LYNN HAVEN
+- State: FL
+- ZIP: 32444
+- ZIP extension: 
+- State project ID: 684
+- Latitude: 30.225931
+- Longitude: -85.661696
+- County FIPS: 12005
+- County from: 2020
+- Tract 2020: 12005001404
+- Tract 2010: 12005001404
+- Tract 2000: 12005001401
+- Tract 1990: 12005001400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 41825
+- Place 1990: 1255
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 40
+- Units reported: 200
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 92
+- 3-bedroom units: 45
+- 4-bedroom units: 3
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

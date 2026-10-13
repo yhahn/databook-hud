@@ -1,0 +1,85 @@
+# Project: FOOTHILL MANOR II (UTA19940030)
+
+- HUD ID: UTA19940030
+- HUD ID before: 
+- Project: FOOTHILL MANOR II
+- Address: 650 NORTH MAIN
+- City: BRIGHAM CITY
+- State: UT
+- ZIP: 84302
+- ZIP extension: 0000
+- State project ID: 1994-06
+- Latitude: 41.523852
+- Longitude: -112.015254
+- County FIPS: 49003
+- County from: 2020
+- Tract 2020: 49003960601
+- Tract 2010: 49003960601
+- Tract 2000: 49003960600
+- Tract 1990: 49003960600
+- Place 2020: 08460
+- Place 2010: 08460
+- Place 2000: 08460
+- Place 1990: 0080
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 19605
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

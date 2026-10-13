@@ -1,0 +1,85 @@
+# Project: FAIRWAY ESTATES (IAA20010025)
+
+- HUD ID: IAA20010025
+- HUD ID before: 
+- Project: FAIRWAY ESTATES
+- Address: 100 12TH ST SW
+- City: SPENCER
+- State: IA
+- ZIP: 51301
+- ZIP extension: 
+- State project ID: 00-42
+- Latitude: 43.125052
+- Longitude: -95.143735
+- County FIPS: 19041
+- County from: 2020
+- Tract 2020: 19041080302
+- Tract 2010: 19041080300
+- Tract 2000: 19041980300
+- Tract 1990: 19041980300
+- Place 2020: 74280
+- Place 2010: 74280
+- Place 2000: 74280
+- Place 1990: 4025
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 203375
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

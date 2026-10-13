@@ -1,0 +1,85 @@
+# Project: AZTEC VILLAGE (NMA20040005)
+
+- HUD ID: NMA20040005
+- HUD ID before: 
+- Project: AZTEC VILLAGE
+- Address: 4321 MONTGOMERY BLVD NE
+- City: ALBUQUERQUE
+- State: NM
+- ZIP: 87109
+- ZIP extension: 
+- State project ID: 00375
+- Latitude: 35.131153
+- Longitude: -106.596137
+- County FIPS: 35001
+- County from: 2020
+- Tract 2020: 35001003733
+- Tract 2010: 35001003733
+- Tract 2000: 35001003733
+- Tract 1990: 35001003797
+- Place 2020: 02000
+- Place 2010: 02000
+- Place 2000: 02000
+- Place 1990: 0015
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 432596
+- Units: 228
+- Low-income units: 228
+- Units reported: 228
+- Low-income reported: 228
+- Efficiencies: 14
+- 1-bedroom units: 64
+- 2-bedroom units: 118
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NMA2003810.
+- Record status: Existing, unchanged

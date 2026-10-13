@@ -1,0 +1,85 @@
+# Project: POST OAK (FLA20174797)
+
+- HUD ID: FLA20174797
+- HUD ID before: 
+- Project: POST OAK
+- Address: 995 CITRONA DR
+- City: FERNANDINA BEACH
+- State: FL
+- ZIP: 32034
+- ZIP extension: 
+- State project ID: 651
+- Latitude: 30.656135
+- Longitude: -81.44555
+- County FIPS: 12089
+- County from: 2020
+- Tract 2020: 12089050103
+- Tract 2010: 12089050101
+- Tract 2000: 12089050100
+- Tract 1990: 12089050100
+- Place 2020: 22175
+- Place 2010: 22175
+- Place 2000: 22175
+- Place 1990: 0620
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

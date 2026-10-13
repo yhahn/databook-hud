@@ -1,0 +1,85 @@
+# Project: OAK CROSSING (IAA19990065)
+
+- HUD ID: IAA19990065
+- HUD ID before: 
+- Project: OAK CROSSING
+- Address: 310 SE GATEWAY DR
+- City: GRIMES
+- State: IA
+- ZIP: 50111
+- ZIP extension: 
+- State project ID: 97-38
+- Latitude: 41.686624
+- Longitude: -93.780393
+- County FIPS: 19153
+- County from: 2020
+- Tract 2020: 19153011303
+- Tract 2010: 19153011300
+- Tract 2000: 19153011300
+- Tract 1990: 19153011300
+- Place 2020: 33060
+- Place 2010: 33060
+- Place 2000: 33060
+- Place 1990: 1755
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 270920
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 17
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

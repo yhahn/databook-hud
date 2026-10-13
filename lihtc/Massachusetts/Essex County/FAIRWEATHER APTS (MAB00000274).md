@@ -1,0 +1,85 @@
+# Project: FAIRWEATHER APTS (MAB00000274)
+
+- HUD ID: MAB00000274
+- HUD ID before: 
+- Project: FAIRWEATHER APTS
+- Address: 40R HIGHLAND AVE
+- City: SALEM
+- State: MA
+- ZIP: 01970
+- ZIP extension: 
+- State project ID: 00-165
+- Latitude: 42.513993
+- Longitude: -70.906661
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009204701
+- Tract 2010: 25009204701
+- Tract 2000: 25009204701
+- Tract 1990: 25009204701
+- Place 2020: 59105
+- Place 2010: 59105
+- Place 2000: 59105
+- Place 1990: 3670
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 321
+- Low-income units: 306
+- Units reported: 321
+- Low-income reported: 306
+- Efficiencies: 259
+- 1-bedroom units: 62
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

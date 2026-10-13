@@ -1,0 +1,85 @@
+# Project: LITC#05903 BERNIUS COURT - TOY FACTORY (NJA20078010)
+
+- HUD ID: NJA20078010
+- HUD ID before: 
+- Project: LITC#05903 BERNIUS COURT - TOY FACTORY
+- Address: 340 BERGEN AVE
+- City: JERSEY CITY
+- State: NJ
+- ZIP: 07304
+- ZIP extension: 2290
+- State project ID: 01471-1
+- Latitude: 40.713641
+- Longitude: -74.080838
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017006800
+- Tract 2010: 34017006800
+- Tract 2000: 34017001100
+- Tract 1990: 
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 812384
+- Units: 46
+- Low-income units: 45
+- Units reported: 46
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 12
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

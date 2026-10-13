@@ -1,0 +1,85 @@
+# Project: SOROPTIMIST VILLAGE (MTA20140025)
+
+- HUD ID: MTA20140025
+- HUD ID before: 
+- Project: SOROPTIMIST VILLAGE
+- Address: 2400 13TH AVE S
+- City: GREAT FALLS
+- State: MT
+- ZIP: 59405
+- ZIP extension: 0000
+- State project ID: 13060
+- Latitude: 47.491279
+- Longitude: -111.266082
+- County FIPS: 30013
+- County from: 2020
+- Tract 2020: 30013002100
+- Tract 2010: 30013002100
+- Tract 2000: 30013002100
+- Tract 1990: 30013002100
+- Place 2020: 32800
+- Place 2010: 32800
+- Place 2000: 32800
+- Place 1990: 0295
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 480000
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 26
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 46
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MTA2013007. AKA PALACE APTS.
+- Record status: Updated

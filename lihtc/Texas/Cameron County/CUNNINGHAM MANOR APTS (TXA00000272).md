@@ -1,0 +1,85 @@
+# Project: CUNNINGHAM MANOR APTS (TXA00000272)
+
+- HUD ID: TXA00000272
+- HUD ID before: 
+- Project: CUNNINGHAM MANOR APTS
+- Address: 2835 ROCKWELL DR
+- City: BROWNSVILLE
+- State: TX
+- ZIP: 78521
+- ZIP extension: 
+- State project ID: TX4360
+- Latitude: 25.933056
+- Longitude: -97.479183
+- County FIPS: 48061
+- County from: 2020
+- Tract 2020: 48061013106
+- Tract 2010: 48061013104
+- Tract 2000: 48061013104
+- Tract 1990: 48061013104
+- Place 2020: 10768
+- Place 2010: 10768
+- Place 2000: 10768
+- Place 1990: 0595
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 103
+- Low-income units: 103
+- Units reported: 103
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

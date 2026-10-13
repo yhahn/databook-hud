@@ -1,0 +1,85 @@
+# Project: MARSHALL MANOR (DEA20030020)
+
+- HUD ID: DEA20030020
+- HUD ID before: 
+- Project: MARSHALL MANOR
+- Address: 109 MARSHALL LANE
+- City: MILFORD
+- State: DE
+- ZIP: 19963
+- ZIP extension: 
+- State project ID: DE233FY0122
+- Latitude: 38.911702
+- Longitude: -75.421147
+- County FIPS: 10005
+- County from: 2020
+- Tract 2020: 10005050104
+- Tract 2010: 10005050104
+- Tract 2000: 10005050102
+- Tract 1990: 10005050100
+- Place 2020: 47420
+- Place 2010: 47420
+- Place 2000: 47420
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 150824
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

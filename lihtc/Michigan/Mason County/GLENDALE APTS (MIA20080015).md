@@ -1,0 +1,85 @@
+# Project: GLENDALE APTS (MIA20080015)
+
+- HUD ID: MIA20080015
+- HUD ID before: 
+- Project: GLENDALE APTS
+- Address: 401 W THIRD ST
+- City: SCOTTVILLE
+- State: MI
+- ZIP: 49454
+- ZIP extension: 
+- State project ID: MI-1864
+- Latitude: 43.950769
+- Longitude: -86.282762
+- County FIPS: 26105
+- County from: 2020
+- Tract 2020: 26105950600
+- Tract 2010: 26105950600
+- Tract 2000: 26105950600
+- Tract 1990: 26105950600
+- Place 2020: 72080
+- Place 2010: 72080
+- Place 2000: 19420
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 79777
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1989275. AKA GLENDALE APTS-SCOTTVILLE.
+- Record status: Existing, unchanged

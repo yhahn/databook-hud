@@ -1,0 +1,85 @@
+# Project: RIVER RUN (ILA00000116)
+
+- HUD ID: ILA00000116
+- HUD ID before: 
+- Project: RIVER RUN
+- Address: 401 RIVER RUN DR
+- City: MACOMB
+- State: IL
+- ZIP: 
+- ZIP extension: 
+- State project ID: 1035810
+- Latitude: 40.478917
+- Longitude: -90.678386
+- County FIPS: 17109
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17109010400
+- Tract 2000: 17109010400
+- Tract 1990: 17109010400
+- Place 2020: 
+- Place 2010: 45889
+- Place 2000: 45889
+- Place 1990: 3435
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 4800000
+- Units: 100
+- Low-income units: 40
+- Units reported: 100
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 36
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4800000
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

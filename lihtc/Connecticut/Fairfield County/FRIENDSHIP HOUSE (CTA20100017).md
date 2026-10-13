@@ -1,0 +1,85 @@
+# Project: FRIENDSHIP HOUSE (CTA20100017)
+
+- HUD ID: CTA20100017
+- HUD ID before: 
+- Project: FRIENDSHIP HOUSE
+- Address: 28 PERRY ST
+- City: STAMFORD
+- State: CT
+- ZIP: 06902
+- ZIP extension: 
+- State project ID: CT-06-014
+- Latitude: 41.046624
+- Longitude: -73.549768
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001021502
+- Tract 2010: 09001021500
+- Tract 2000: 09001021500
+- Tract 1990: 09001021500
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 2180
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 847662
+- Units: 121
+- Low-income units: 121
+- Units reported: 121
+- Low-income reported: 121
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 72
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 95
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA2009015, CTA0000115.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: EMERY GROVE APARTMENTS FKA WILBUR FAY APARTMENTS (NYA20030155)
+
+- HUD ID: NYA20030155
+- HUD ID before: 
+- Project: EMERY GROVE APARTMENTS FKA WILBUR FAY APARTMENTS
+- Address: 1100 EMERY ST
+- City: FULTON
+- State: NY
+- ZIP: 13069
+- ZIP extension: 
+- State project ID: 20021326
+- Latitude: 43.325143
+- Longitude: -76.398223
+- County FIPS: 36075
+- County from: 2020
+- Tract 2020: 36075021102
+- Tract 2010: 36075021102
+- Tract 2000: 36075021102
+- Tract 1990: 36075021102
+- Place 2020: 27815
+- Place 2010: 27815
+- Place 2000: 27815
+- Place 1990: 1310
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 136
+- Low-income units: 136
+- Units reported: 136
+- Low-income reported: 136
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 100
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

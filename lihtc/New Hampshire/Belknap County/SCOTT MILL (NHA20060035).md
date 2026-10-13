@@ -1,0 +1,85 @@
+# Project: SCOTT MILL (NHA20060035)
+
+- HUD ID: NHA20060035
+- HUD ID before: 
+- Project: SCOTT MILL
+- Address: 22 STRAFFORD ST
+- City: LACONIA
+- State: NH
+- ZIP: 03246
+- ZIP extension: 
+- State project ID: 139
+- Latitude: 43.532813
+- Longitude: -71.464406
+- County FIPS: 33001
+- County from: 2020
+- Tract 2020: 33001966100
+- Tract 2010: 33001966100
+- Tract 2000: 33001966100
+- Tract 1990: 33001966100
+- Place 2020: 40180
+- Place 2010: 40180
+- Place 2000: 40180
+- Place 1990: 1390
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 691311
+- Units: 60
+- Low-income units: 50
+- Units reported: 60
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NORMANDIN SQUARE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: STONEBROOK APARTMENTS (WAA20059078)
+
+- HUD ID: WAA20059078
+- HUD ID before: 
+- Project: STONEBROOK APARTMENTS
+- Address: 12210 SE PETROVITSKY RD
+- City: RENTON
+- State: WA
+- ZIP: 98058
+- ZIP extension: 
+- State project ID: 03-06A
+- Latitude: 47.445572
+- Longitude: -122.17809
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033025803
+- Tract 2010: 53033025803
+- Tract 2000: 53033025803
+- Tract 1990: 
+- Place 2020: 57745
+- Place 2010: 57745
+- Place 2000: 10372
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 450368
+- Units: 140
+- Low-income units: 138
+- Units reported: 140
+- Low-income reported: 138
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 48
+- 3-bedroom units: 30
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 38
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

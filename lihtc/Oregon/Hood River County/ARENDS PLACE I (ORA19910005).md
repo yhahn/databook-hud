@@ -1,0 +1,85 @@
+# Project: ARENDS PLACE I (ORA19910005)
+
+- HUD ID: ORA19910005
+- HUD ID before: 
+- Project: ARENDS PLACE I
+- Address: 830 SIEVERKROPP DR
+- City: HOOD RIVER
+- State: OR
+- ZIP: 97031
+- ZIP extension: 
+- State project ID: OR88-134
+- Latitude: 45.694589
+- Longitude: -121.519329
+- County FIPS: 41027
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41027950300
+- Tract 2000: 41027950300
+- Tract 1990: 41027950300
+- Place 2020: 
+- Place 2010: 34900
+- Place 2000: 34900
+- Place 1990: 0530
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 21
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

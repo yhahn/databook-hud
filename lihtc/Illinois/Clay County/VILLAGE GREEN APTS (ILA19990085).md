@@ -1,0 +1,85 @@
+# Project: VILLAGE GREEN APTS (ILA19990085)
+
+- HUD ID: ILA19990085
+- HUD ID before: 
+- Project: VILLAGE GREEN APTS
+- Address: 811 MEADOWVIEW DR
+- City: FLORA
+- State: IL
+- ZIP: 62839
+- ZIP extension: 
+- State project ID: 96496
+- Latitude: 38.669514
+- Longitude: -88.472789
+- County FIPS: 17025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17025972100
+- Tract 2000: 17025972100
+- Tract 1990: 17025972100
+- Place 2020: 
+- Place 2010: 26454
+- Place 2000: 26454
+- Place 1990: 1975
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 294504
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 42
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FLORA APTS.
+- Record status: Existing, unchanged

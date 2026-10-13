@@ -1,0 +1,25 @@
+# Tax Credit Projects: Stephens County, OK
+
+- Level: County
+- Postal code: OK
+- State FIPS: 40
+- County FIPS: 40137
+- Counties: 
+- Projects: 8
+- Units: 405
+- Low-income units: 405
+
+The low-income housing tax credit projects of Stephens County, Oklahoma, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [DUNCAN VILLAGE APTS (OKA00000145)](./Stephens%20County/DUNCAN%20VILLAGE%20APTS%20%28OKA00000145%29.md) | OKA00000145 | DUNCAN |  | 48 | 48 |
+| [ELM TERRACE APTS (OKA19920035)](./Stephens%20County/ELM%20TERRACE%20APTS%20%28OKA19920035%29.md) | OKA19920035 | DUNCAN | 1992 | 87 | 87 |
+| [PARK LANE APTS (OKA20010075)](./Stephens%20County/PARK%20LANE%20APTS%20%28OKA20010075%29.md) | OKA20010075 | MARLOW | 2001 | 24 | 24 |
+| [COMANCHE VILLAGE (OKA20020025)](./Stephens%20County/COMANCHE%20VILLAGE%20%28OKA20020025%29.md) | OKA20020025 | COMANCHE | 2002 | 26 | 26 |
+| [THE GARDENS AT DUNCAN PT (OKA20030065)](./Stephens%20County/THE%20GARDENS%20AT%20DUNCAN%20PT%20%28OKA20030065%29.md) | OKA20030065 | DUNCAN | 2003 | 90 | 90 |
+| [DUNCAN AFFORDABLE HOUSING LLC (OKA20139017)](./Stephens%20County/DUNCAN%20AFFORDABLE%20HOUSING%20LLC%20%28OKA20139017%29.md) | OKA20139017 | DUNCAN | 2013 | 40 | 40 |
+| [LEGACY SENIOR RESIDENCES (OKA20170006)](./Stephens%20County/LEGACY%20SENIOR%20RESIDENCES%20%28OKA20170006%29.md) | OKA20170006 | DUNCAN | 2017 | 42 | 42 |
+| [DUNCAN TERRACE (OKA20190002)](./Stephens%20County/DUNCAN%20TERRACE%20%28OKA20190002%29.md) | OKA20190002 | DUNCAN | 2019 | 48 | 48 |

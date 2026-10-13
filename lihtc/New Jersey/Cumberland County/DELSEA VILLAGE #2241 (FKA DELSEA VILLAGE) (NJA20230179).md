@@ -1,0 +1,85 @@
+# Project: DELSEA VILLAGE #2241 (FKA DELSEA VILLAGE) (NJA20230179)
+
+- HUD ID: NJA20230179
+- HUD ID before: 
+- Project: DELSEA VILLAGE #2241 (FKA DELSEA VILLAGE)
+- Address: 2223 S 2ND STREET
+- City: MILLVILLE
+- State: NJ
+- ZIP: 08332
+- ZIP extension: 
+- State project ID: 07729-1
+- Latitude: 39.366875
+- Longitude: -75.02075
+- County FIPS: 34011
+- County from: 2020
+- Tract 2020: 34011030502
+- Tract 2010: 34011030502
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 46680
+- Place 2010: 46680
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 888626
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 20
+- 3-bedroom units: 50
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

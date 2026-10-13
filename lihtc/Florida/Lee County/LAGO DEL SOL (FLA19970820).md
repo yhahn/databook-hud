@@ -1,0 +1,85 @@
+# Project: LAGO DEL SOL (FLA19970820)
+
+- HUD ID: FLA19970820
+- HUD ID before: 
+- Project: LAGO DEL SOL
+- Address: 10770 CLEAR LAKE LOOP
+- City: FT MYERS
+- State: FL
+- ZIP: 33908
+- ZIP extension: 
+- State project ID: 255
+- Latitude: 26.520248
+- Longitude: -81.933204
+- County FIPS: 12071
+- County from: 2020
+- Tract 2020: 12071001917
+- Tract 2010: 12071001906
+- Tract 2000: 12071001906
+- Tract 1990: 12071001902
+- Place 2020: 28937
+- Place 2010: 28937
+- Place 2000: 28937
+- Place 1990: 0993
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 1688643
+- Units: 376
+- Low-income units: 376
+- Units reported: 376
+- Low-income reported: 376
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 224
+- 4-bedroom units: 32
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

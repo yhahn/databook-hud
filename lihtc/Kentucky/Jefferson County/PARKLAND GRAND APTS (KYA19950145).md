@@ -1,0 +1,85 @@
+# Project: PARKLAND GRAND APTS (KYA19950145)
+
+- HUD ID: KYA19950145
+- HUD ID before: 
+- Project: PARKLAND GRAND APTS
+- Address: 3035 GRAND AVE
+- City: LOUISVILLE
+- State: KY
+- ZIP: 40211
+- ZIP extension: 
+- State project ID: KY-94-138
+- Latitude: 38.24125
+- Longitude: -85.802209
+- County FIPS: 21111
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 21111001000
+- Tract 2000: 21111001000
+- Tract 1990: 21111001000
+- Place 2020: 
+- Place 2010: 48006
+- Place 2000: 48000
+- Place 1990: 1230
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: JAMES R WILLIAMS TOWER (OHA20129190)
+
+- HUD ID: OHA20129190
+- HUD ID before: 
+- Project: JAMES R WILLIAMS TOWER
+- Address: 285 CHANNELWOOD CIRCLE
+- City: AKRON
+- State: OH
+- ZIP: 44307
+- ZIP extension: 
+- State project ID: 090071
+- Latitude: 41.067027
+- Longitude: -81.536218
+- County FIPS: 39153
+- County from: 2020
+- Tract 2020: 39153501900
+- Tract 2010: 39153501900
+- Tract 2000: 39153501900
+- Tract 1990: 39153501900
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0035
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 148
+- Low-income units: 147
+- Units reported: 148
+- Low-income reported: 147
+- Efficiencies: 0
+- 1-bedroom units: 147
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1459251
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA0000501.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NEW PORT ANTONIO (MAB19960045)
+
+- HUD ID: MAB19960045
+- HUD ID before: 
+- Project: NEW PORT ANTONIO
+- Address: 20 DECKARD ST
+- City: DORCHESTER
+- State: MA
+- ZIP: 02121
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.315521
+- Longitude: -71.084454
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025082000
+- Tract 2010: 25025082000
+- Tract 2000: 25025082000
+- Tract 1990: 25025082000
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 227
+- Low-income units: 227
+- Units reported: 227
+- Low-income reported: 227
+- Efficiencies: 0
+- 1-bedroom units: 91
+- 2-bedroom units: 88
+- 3-bedroom units: 32
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

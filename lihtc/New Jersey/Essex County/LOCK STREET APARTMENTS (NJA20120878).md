@@ -1,0 +1,85 @@
+# Project: LOCK STREET APARTMENTS (NJA20120878)
+
+- HUD ID: NJA20120878
+- HUD ID before: 
+- Project: LOCK STREET APARTMENTS
+- Address: 10 NUTTMAN STREET
+- City: NEWARK
+- State: NJ
+- ZIP: 07103
+- ZIP extension: 
+- State project ID: NJ-616
+- Latitude: 40.743264
+- Longitude: -74.181168
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013001100
+- Tract 2010: 34013001100
+- Tract 2000: 34013001100
+- Tract 1990: 34013001100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2895
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 160377
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 38
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2000075, NJA0000035.
+- Record status: Existing, unchanged

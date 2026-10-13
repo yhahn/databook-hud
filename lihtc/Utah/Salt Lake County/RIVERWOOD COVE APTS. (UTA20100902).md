@@ -1,0 +1,85 @@
+# Project: RIVERWOOD COVE APTS. (UTA20100902)
+
+- HUD ID: UTA20100902
+- HUD ID before: 
+- Project: RIVERWOOD COVE APTS.
+- Address: 582 RIVERSIDE DRIVE A
+- City: SALT LAKE CITY
+- State: UT
+- ZIP: 84116
+- ZIP extension: 0000
+- State project ID: 2009-13
+- Latitude: 40.782088
+- Longitude: -111.936797
+- County FIPS: 49035
+- County from: 2020
+- Tract 2020: 49035100308
+- Tract 2010: 49035100308
+- Tract 2000: 49035100305
+- Tract 1990: 49035100304
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 0870
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 668512
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 1
+- 1-bedroom units: 12
+- 2-bedroom units: 98
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

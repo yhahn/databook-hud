@@ -1,0 +1,85 @@
+# Project: LA PLATA MANOR (MDA20110018)
+
+- HUD ID: MDA20110018
+- HUD ID before: 
+- Project: LA PLATA MANOR
+- Address: 1 HICKORY LN
+- City: LA PLATA
+- State: MD
+- ZIP: 20646
+- ZIP extension: 
+- State project ID: MD10-19001
+- Latitude: 38.531808
+- Longitude: -76.963057
+- County FIPS: 24017
+- County from: 2020
+- Tract 2020: 24017851004
+- Tract 2010: 24017851002
+- Tract 2000: 24017851002
+- Tract 1990: 24017851000
+- Place 2020: 45750
+- Place 2010: 45750
+- Place 2000: 45750
+- Place 1990: 0550
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SIBLEY APTS (NEA19960815)
+
+- HUD ID: NEA19960815
+- HUD ID before: 
+- Project: SIBLEY APTS
+- Address: 1005 AVE E
+- City: KEARNEY
+- State: NE
+- ZIP: 68847
+- ZIP extension: 
+- State project ID: 7-0305
+- Latitude: 40.706463
+- Longitude: -99.067885
+- County FIPS: 31019
+- County from: 2020
+- Tract 2020: 31019969700
+- Tract 2010: 31019969400
+- Tract 2000: 31019969400
+- Tract 1990: 31019969400
+- Place 2020: 25055
+- Place 2010: 25055
+- Place 2000: 25055
+- Place 1990: 1350
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 107376
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA1995090.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RUTHERFORD PARK (PAA20110085)
+
+- HUD ID: PAA20110085
+- HUD ID before: 
+- Project: RUTHERFORD PARK
+- Address: 333 BROKAS DR
+- City: HUMMELSTOWN
+- State: PA
+- ZIP: 17036
+- ZIP extension: 
+- State project ID: TC20100301
+- Latitude: 40.269121
+- Longitude: -76.757264
+- County FIPS: 42043
+- County from: 2020
+- Tract 2020: 42043022702
+- Tract 2010: 42043022702
+- Tract 2000: 42043022700
+- Tract 1990: 42043022700
+- Place 2020: 66864
+- Place 2010: 66864
+- Place 2000: 41944
+- Place 1990: 7589
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 470151
+- Units: 85
+- Low-income units: 85
+- Units reported: 85
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 51
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 85
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2011519.
+- Record status: Existing, unchanged

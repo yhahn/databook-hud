@@ -1,0 +1,85 @@
+# Project: MILLSTONE VILLAGE APTS (MOA20050110)
+
+- HUD ID: MOA20050110
+- HUD ID before: 
+- Project: MILLSTONE VILLAGE APTS
+- Address: 300 MILLSTONE VILLAGE DR
+- City: PACIFIC
+- State: MO
+- ZIP: 63069
+- ZIP extension: 
+- State project ID: 04-034
+- Latitude: 38.484285
+- Longitude: -90.777241
+- County FIPS: 29071
+- County from: 2020
+- Tract 2020: 29071800704
+- Tract 2010: 29071800701
+- Tract 2000: 29071800701
+- Tract 1990: 29071800700
+- Place 2020: 55910
+- Place 2010: 55910
+- Place 2000: 28918
+- Place 1990: 3290
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

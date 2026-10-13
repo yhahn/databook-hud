@@ -1,0 +1,85 @@
+# Project: TWO-SIXTY-FIVE APTS (INA19950170)
+
+- HUD ID: INA19950170
+- HUD ID before: 
+- Project: TWO-SIXTY-FIVE APTS
+- Address: 261 MCGRAIN ST
+- City: CORYDON
+- State: IN
+- ZIP: 47112
+- ZIP extension: 
+- State project ID: IN-94-15400
+- Latitude: 38.222245
+- Longitude: -86.133912
+- County FIPS: 18061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18061060400
+- Tract 2000: 18061060400
+- Tract 1990: 18061060400
+- Place 2020: 
+- Place 2010: 15256
+- Place 2000: 15256
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RODEO COURT (FKA HOMESTEAD WEST) (AZA20160017)
+
+- HUD ID: AZA20160017
+- HUD ID before: 
+- Project: RODEO COURT (FKA HOMESTEAD WEST)
+- Address: 40 RODEO DRIVE
+- City: LAKESIDE
+- State: AZ
+- ZIP: 85929
+- ZIP extension: 0000
+- State project ID: TC-0826-15
+- Latitude: 34.140764
+- Longitude: -109.978419
+- County FIPS: 04017
+- County from: 2020
+- Tract 2020: 04017962501
+- Tract 2010: 04017962500
+- Tract 2000: 04017961300
+- Tract 1990: 
+- Place 2020: 39790
+- Place 2010: 39790
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 327918
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 14
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 525000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

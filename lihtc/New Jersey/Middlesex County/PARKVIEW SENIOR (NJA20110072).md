@@ -1,0 +1,85 @@
+# Project: PARKVIEW SENIOR (NJA20110072)
+
+- HUD ID: NJA20110072
+- HUD ID before: 
+- Project: PARKVIEW SENIOR
+- Address: 618 NEW BRUNSWICK AVENUE
+- City: PERTH AMBOY CITY
+- State: NJ
+- ZIP: 08861
+- ZIP extension: 
+- State project ID: 2274
+- Latitude: 40.521138
+- Longitude: -74.28542
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023004100
+- Tract 2010: 34023004100
+- Tract 2000: 34023004100
+- Tract 1990: 34023004100
+- Place 2020: 58200
+- Place 2010: 58200
+- Place 2000: 58200
+- Place 1990: 3160
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1750000
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000573, NJA0000571, NJA0000508, NJA0000502. AKA PERTH AMBOY, SENIOR ENHANCED LIVING FACILITY.
+- Record status: Existing, unchanged

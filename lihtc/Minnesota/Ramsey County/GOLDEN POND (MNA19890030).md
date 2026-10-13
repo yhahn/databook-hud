@@ -1,0 +1,85 @@
+# Project: GOLDEN POND (MNA19890030)
+
+- HUD ID: MNA19890030
+- HUD ID before: 
+- Project: GOLDEN POND
+- Address: 333 TENTH ST NW
+- City: NEW BRIGHTON
+- State: MN
+- ZIP: 55112
+- ZIP extension: 
+- State project ID: MN-88-T002
+- Latitude: 45.064959
+- Longitude: -93.191919
+- County FIPS: 27123
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27123041200
+- Tract 2000: 27123041200
+- Tract 1990: 27123041200
+- Place 2020: 
+- Place 2010: 45430
+- Place 2000: 45430
+- Place 1990: 2755
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 82
+- Low-income units: 43
+- Units reported: 82
+- Low-income reported: 43
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

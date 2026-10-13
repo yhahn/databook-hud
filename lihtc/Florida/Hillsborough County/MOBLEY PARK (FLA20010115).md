@@ -1,0 +1,85 @@
+# Project: MOBLEY PARK (FLA20010115)
+
+- HUD ID: FLA20010115
+- HUD ID before: 
+- Project: MOBLEY PARK
+- Address: 401 E SEVENTH AVE
+- City: TAMPA
+- State: FL
+- ZIP: 33602
+- ZIP extension: 
+- State project ID: 521
+- Latitude: 27.960256
+- Longitude: -82.456636
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057004100
+- Tract 2010: 12057004100
+- Tract 2000: 12057004100
+- Tract 1990: 12057004100
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2075
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 238
+- Low-income units: 96
+- Units reported: 238
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 67
+- 2-bedroom units: 85
+- 3-bedroom units: 86
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

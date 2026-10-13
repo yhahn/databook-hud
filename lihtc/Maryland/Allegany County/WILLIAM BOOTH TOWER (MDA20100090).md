@@ -1,0 +1,85 @@
+# Project: WILLIAM BOOTH TOWER (MDA20100090)
+
+- HUD ID: MDA20100090
+- HUD ID before: 
+- Project: WILLIAM BOOTH TOWER
+- Address: 220 SOMERVILLE AVE
+- City: CUMBERLAND
+- State: MD
+- ZIP: 21502
+- ZIP extension: 
+- State project ID: MD10-04001
+- Latitude: 39.634323
+- Longitude: -78.752759
+- County FIPS: 24001
+- County from: 2020
+- Tract 2020: 24001000700
+- Tract 2010: 24001000700
+- Tract 2000: 24001000700
+- Tract 1990: 24001000700
+- Place 2020: 21325
+- Place 2010: 21325
+- Place 2000: 21325
+- Place 1990: 0245
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 114
+- Low-income units: 114
+- Units reported: 114
+- Low-income reported: 114
+- Efficiencies: 51
+- 1-bedroom units: 63
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

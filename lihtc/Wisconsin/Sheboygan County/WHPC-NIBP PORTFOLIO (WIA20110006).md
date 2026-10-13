@@ -1,0 +1,85 @@
+# Project: WHPC-NIBP PORTFOLIO (WIA20110006)
+
+- HUD ID: WIA20110006
+- HUD ID before: 
+- Project: WHPC-NIBP PORTFOLIO
+- Address: 110-A AMHERST AVE
+- City: SHEBOYGAN FALLS
+- State: WI
+- ZIP: 53085
+- ZIP extension: 
+- State project ID: 5759
+- Latitude: 43.718363
+- Longitude: -87.815152
+- County FIPS: 55117
+- County from: 2020
+- Tract 2020: 55117010601
+- Tract 2010: 55117010601
+- Tract 2000: 55117010600
+- Tract 1990: 55117010600
+- Place 2020: 73025
+- Place 2010: 73025
+- Place 2000: 73025
+- Place 1990: 2305
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 2025155
+- Units: 1075
+- Low-income units: 77
+- Units reported: 1075
+- Low-income reported: 77
+- Efficiencies: 0
+- 1-bedroom units: 784
+- 2-bedroom units: 217
+- 3-bedroom units: 74
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 792924
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

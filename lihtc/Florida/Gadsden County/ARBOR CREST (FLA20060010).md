@@ -1,0 +1,85 @@
+# Project: ARBOR CREST (FLA20060010)
+
+- HUD ID: FLA20060010
+- HUD ID before: 
+- Project: ARBOR CREST
+- Address: 62 N CLEVELAND ST
+- City: QUINCY
+- State: FL
+- ZIP: 32351
+- ZIP extension: 
+- State project ID: 1463
+- Latitude: 30.588352
+- Longitude: -84.596287
+- County FIPS: 12039
+- County from: 2020
+- Tract 2020: 12039020500
+- Tract 2010: 12039020500
+- Tract 2000: 12039020500
+- Tract 1990: 12039020500
+- Place 2020: 59325
+- Place 2010: 59325
+- Place 2000: 59325
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 750000
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 57
+- 3-bedroom units: 50
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

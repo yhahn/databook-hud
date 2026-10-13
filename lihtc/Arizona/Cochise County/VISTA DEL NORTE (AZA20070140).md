@@ -1,0 +1,85 @@
+# Project: VISTA DEL NORTE (AZA20070140)
+
+- HUD ID: AZA20070140
+- HUD ID before: 
+- Project: VISTA DEL NORTE
+- Address: 175 N SKYLINE DR
+- City: HUACHUCA CITY
+- State: AZ
+- ZIP: 85616
+- ZIP extension: 
+- State project ID: TC-0319
+- Latitude: 31.634446
+- Longitude: -110.333634
+- County FIPS: 04003
+- County from: 2020
+- Tract 2020: 04003001302
+- Tract 2010: 04003001300
+- Tract 2000: 04003001300
+- Tract 1990: 04003001300
+- Place 2020: 34120
+- Place 2010: 34120
+- Place 2000: 34120
+- Place 1990: 0170
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 795101
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 60
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

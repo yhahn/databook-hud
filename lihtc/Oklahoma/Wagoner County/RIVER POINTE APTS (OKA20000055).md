@@ -1,0 +1,85 @@
+# Project: RIVER POINTE APTS (OKA20000055)
+
+- HUD ID: OKA20000055
+- HUD ID before: 
+- Project: RIVER POINTE APTS
+- Address: 1199 SW 15TH ST
+- City: WAGONER
+- State: OK
+- ZIP: 74467
+- ZIP extension: 
+- State project ID: OK-99-02-23
+- Latitude: 35.944133
+- Longitude: -95.393506
+- County FIPS: 40145
+- County from: 2020
+- Tract 2020: 40145030102
+- Tract 2010: 40145030102
+- Tract 2000: 40145030100
+- Tract 1990: 40145030100
+- Place 2020: 77850
+- Place 2010: 77850
+- Place 2000: 77850
+- Place 1990: 2525
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 48
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CARMEN AVENUE APTS (CAA20080150)
+
+- HUD ID: CAA20080150
+- HUD ID before: 
+- Project: CARMEN AVENUE APTS
+- Address: 2891 CARMEN AVE
+- City: LIVERMORE
+- State: CA
+- ZIP: 94550
+- ZIP extension: 
+- State project ID: CA-06-871
+- Latitude: 37.675623
+- Longitude: -121.758876
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001451601
+- Tract 2010: 06001451601
+- Tract 2000: 06001451601
+- Tract 1990: 06001451500
+- Place 2020: 41992
+- Place 2010: 41992
+- Place 2000: 41992
+- Place 1990: 1570
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 438752
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 2
+- 1-bedroom units: 5
+- 2-bedroom units: 16
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1543500
+- CDBG: Yes
+- CDBG amount: 230000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

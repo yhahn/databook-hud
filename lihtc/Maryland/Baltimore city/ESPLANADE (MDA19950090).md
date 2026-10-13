@@ -1,0 +1,85 @@
+# Project: ESPLANADE (MDA19950090)
+
+- HUD ID: MDA19950090
+- HUD ID before: 
+- Project: ESPLANADE
+- Address: 2525 EUTAW PL
+- City: BALTIMORE
+- State: MD
+- ZIP: 21217
+- ZIP extension: 
+- State project ID: MD93-37
+- Latitude: 39.315099
+- Longitude: -76.638252
+- County FIPS: 24510
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24510130100
+- Tract 2000: 24510130100
+- Tract 1990: 24510130100
+- Place 2020: 
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0025
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 95
+- Low-income units: 95
+- Units reported: 95
+- Low-income reported: 95
+- Efficiencies: 9
+- 1-bedroom units: 45
+- 2-bedroom units: 36
+- 3-bedroom units: 4
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

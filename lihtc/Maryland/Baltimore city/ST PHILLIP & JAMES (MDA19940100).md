@@ -1,0 +1,85 @@
+# Project: ST PHILLIP & JAMES (MDA19940100)
+
+- HUD ID: MDA19940100
+- HUD ID before: 
+- Project: ST PHILLIP & JAMES
+- Address: 18 W 27TH ST
+- City: BALTIMORE
+- State: MD
+- ZIP: 
+- ZIP extension: 
+- State project ID: MD93-04
+- Latitude: 
+- Longitude: 
+- County FIPS: 24510
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 24510120600
+- Tract 1990: 24510120600
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 04000
+- Place 1990: 0025
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

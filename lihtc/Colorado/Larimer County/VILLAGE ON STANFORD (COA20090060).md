@@ -1,0 +1,85 @@
+# Project: VILLAGE ON STANFORD (COA20090060)
+
+- HUD ID: COA20090060
+- HUD ID before: 
+- Project: VILLAGE ON STANFORD
+- Address: 2613 STANFORD RD
+- City: FORT COLLINS
+- State: CO
+- ZIP: 80525
+- ZIP extension: 
+- State project ID: 2008036
+- Latitude: 40.552383
+- Longitude: -105.069568
+- County FIPS: 08069
+- County from: 2020
+- Tract 2020: 08069001003
+- Tract 2010: 08069001003
+- Tract 2000: 08069001003
+- Tract 1990: 08069001003
+- Place 2020: 27425
+- Place 2010: 27425
+- Place 2000: 27425
+- Place 1990: 0455
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 579646
+- Units: 82
+- Low-income units: 82
+- Units reported: 82
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 66
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

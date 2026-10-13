@@ -1,0 +1,85 @@
+# Project: WYNDTREE APTS (OHA19990265)
+
+- HUD ID: OHA19990265
+- HUD ID before: 
+- Project: WYNDTREE APTS
+- Address: 4637 WYNDTREE DR
+- City: WEST CHESTER
+- State: OH
+- ZIP: 45069
+- ZIP extension: 
+- State project ID: OH-98-0112
+- Latitude: 39.351018
+- Longitude: -84.465062
+- County FIPS: 39017
+- County from: 2020
+- Tract 2020: 39017011122
+- Tract 2010: 39017011122
+- Tract 2000: 39017011107
+- Tract 1990: 39017011107
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 04840
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 296
+- Low-income units: 226
+- Units reported: 296
+- Low-income reported: 226
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 88
+- 3-bedroom units: 208
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

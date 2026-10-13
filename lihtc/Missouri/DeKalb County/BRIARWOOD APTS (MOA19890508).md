@@ -1,0 +1,85 @@
+# Project: BRIARWOOD APTS (MOA19890508)
+
+- HUD ID: MOA19890508
+- HUD ID before: 
+- Project: BRIARWOOD APTS
+- Address: 711 NORTHLAND DR
+- City: CAMERON
+- State: MO
+- ZIP: 64429
+- ZIP extension: 
+- State project ID: 169394
+- Latitude: 39.750615
+- Longitude: -94.226194
+- County FIPS: 29063
+- County from: 2020
+- Tract 2020: 29063080102
+- Tract 2010: 29063080100
+- Tract 2000: 29063980100
+- Tract 1990: 29063980100
+- Place 2020: 10828
+- Place 2010: 10828
+- Place 2000: 10828
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

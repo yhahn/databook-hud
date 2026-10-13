@@ -1,0 +1,85 @@
+# Project: SUMMIT WOOD HOMES (NYD20080030)
+
+- HUD ID: NYD20080030
+- HUD ID before: 
+- Project: SUMMIT WOOD HOMES
+- Address: 2240 KRISTINA PARK
+- City: WATERTOWN
+- State: NY
+- ZIP: 13601
+- ZIP extension: 
+- State project ID: 
+- Latitude: 43.9512
+- Longitude: -75.91616
+- County FIPS: 36045
+- County from: 2020
+- Tract 2020: 36045061900
+- Tract 2010: 36045061900
+- Tract 2000: 36045061900
+- Tract 1990: 36045061900
+- Place 2020: 78608
+- Place 2010: 78608
+- Place 2000: 78608
+- Place 1990: 3835
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 591705
+- Units: 200
+- Low-income units: 42
+- Units reported: 200
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 136
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

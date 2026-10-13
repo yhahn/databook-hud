@@ -1,0 +1,85 @@
+# Project: 800 N 6TH STREET DUPLESX (ILA19930025)
+
+- HUD ID: ILA19930025
+- HUD ID before: 
+- Project: 800 N 6TH STREET DUPLESX
+- Address: 800 N SIXTH ST
+- City: SPRINGFIELD
+- State: IL
+- ZIP: 62702
+- ZIP extension: 
+- State project ID: 507-92
+- Latitude: 39.809678
+- Longitude: -89.647411
+- County FIPS: 17167
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17167000900
+- Tract 2000: 17167000900
+- Tract 1990: 17167000900
+- Place 2020: 
+- Place 2010: 72000
+- Place 2000: 72000
+- Place 1990: 5480
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 11388
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

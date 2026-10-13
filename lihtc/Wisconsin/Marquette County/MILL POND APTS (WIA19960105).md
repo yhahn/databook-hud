@@ -1,0 +1,85 @@
+# Project: MILL POND APTS (WIA19960105)
+
+- HUD ID: WIA19960105
+- HUD ID before: 
+- Project: MILL POND APTS
+- Address: 244 W FOURTH ST
+- City: WESTFIELD
+- State: WI
+- ZIP: 53964
+- ZIP extension: 
+- State project ID: 2002
+- Latitude: 43.88318
+- Longitude: -89.499344
+- County FIPS: 55077
+- County from: 2020
+- Tract 2020: 55077960500
+- Tract 2010: 55077960500
+- Tract 2000: 55077990500
+- Tract 1990: 55077990500
+- Place 2020: 85575
+- Place 2010: 85575
+- Place 2000: 60875
+- Place 1990: 2740
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 13
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

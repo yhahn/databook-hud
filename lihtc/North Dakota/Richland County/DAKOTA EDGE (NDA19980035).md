@@ -1,0 +1,85 @@
+# Project: DAKOTA EDGE (NDA19980035)
+
+- HUD ID: NDA19980035
+- HUD ID before: 
+- Project: DAKOTA EDGE
+- Address: 904 EIGHTH AVE S
+- City: WAHPETON
+- State: ND
+- ZIP: 58075
+- ZIP extension: 
+- State project ID: TC9703
+- Latitude: 46.257055
+- Longitude: -96.6123
+- County FIPS: 38077
+- County from: 2020
+- Tract 2020: 38077971000
+- Tract 2010: 38077971000
+- Tract 2000: 38077971000
+- Tract 1990: 38077971000
+- Place 2020: 82660
+- Place 2010: 82660
+- Place 2000: 82660
+- Place 1990: 1680
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 247105
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 18
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA VILLAGE TOWNHOMES
+- Record status: Existing, unchanged

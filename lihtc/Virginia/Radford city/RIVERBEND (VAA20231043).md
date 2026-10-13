@@ -1,0 +1,85 @@
+# Project: RIVERBEND (VAA20231043)
+
+- HUD ID: VAA20231043
+- HUD ID before: 
+- Project: RIVERBEND
+- Address: 108 MIDKIFF LANE
+- City: RADFORD
+- State: VA
+- ZIP: 24141
+- ZIP extension: 
+- State project ID: 4103
+- Latitude: 37.108168
+- Longitude: -80.584883
+- County FIPS: 51750
+- County from: 2020
+- Tract 2020: 51750010201
+- Tract 2010: 51750010200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 65392
+- Place 2010: 65392
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 359969
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 15
+- 2-bedroom units: 30
+- 3-bedroom units: 10
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

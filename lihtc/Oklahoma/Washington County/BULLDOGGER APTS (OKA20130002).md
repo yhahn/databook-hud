@@ -1,0 +1,85 @@
+# Project: BULLDOGGER APTS (OKA20130002)
+
+- HUD ID: OKA20130002
+- HUD ID before: 
+- Project: BULLDOGGER APTS
+- Address: 150 N ROSS PL
+- City: DEWEY
+- State: OK
+- ZIP: 74029
+- ZIP extension: 
+- State project ID: 110731
+- Latitude: 36.791879
+- Longitude: -95.943172
+- County FIPS: 40147
+- County from: 2020
+- Tract 2020: 40147001100
+- Tract 2010: 40147001100
+- Tract 2000: 40147001100
+- Tract 1990: 40147001100
+- Place 2020: 20550
+- Place 2010: 20550
+- Place 2000: 04450
+- Place 1990: 0680
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 3887940
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 12
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BULLDOGGER - GMC.
+- Record status: Existing, unchanged

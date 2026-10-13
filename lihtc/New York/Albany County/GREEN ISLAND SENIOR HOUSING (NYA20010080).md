@@ -1,0 +1,85 @@
+# Project: GREEN ISLAND SENIOR HOUSING (NYA20010080)
+
+- HUD ID: NYA20010080
+- HUD ID before: 
+- Project: GREEN ISLAND SENIOR HOUSING
+- Address: 119 GEORGE ST
+- City: GREEN ISLAND
+- State: NY
+- ZIP: 12183
+- ZIP extension: 
+- State project ID: NY-00-0106_00971
+- Latitude: 42.744189
+- Longitude: -73.691412
+- County FIPS: 36001
+- County from: 2020
+- Tract 2020: 36001013100
+- Tract 2010: 36001013100
+- Tract 2000: 36001013100
+- Tract 1990: 36001013100
+- Place 2020: 30521
+- Place 2010: 30521
+- Place 2000: 30521
+- Place 1990: 1430
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

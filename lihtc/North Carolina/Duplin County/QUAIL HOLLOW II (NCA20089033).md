@@ -1,0 +1,85 @@
+# Project: QUAIL HOLLOW II (NCA20089033)
+
+- HUD ID: NCA20089033
+- HUD ID before: 
+- Project: QUAIL HOLLOW II
+- Address: 1406 QUAIL HOLLOW DRIVE
+- City: WARSAW
+- State: NC
+- ZIP: 28398
+- ZIP extension: 
+- State project ID: 9002132
+- Latitude: 34.997588
+- Longitude: -78.073225
+- County FIPS: 37061
+- County from: 2020
+- Tract 2020: 37061090301
+- Tract 2010: 37061090300
+- Tract 2000: 37061990300
+- Tract 1990: 37061990300
+- Place 2020: 71160
+- Place 2010: 71160
+- Place 2000: 71160
+- Place 1990: 2650
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 67865
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

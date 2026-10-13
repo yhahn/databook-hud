@@ -1,0 +1,85 @@
+# Project: ROCKY CREEK APTS (SCA20060097)
+
+- HUD ID: SCA20060097
+- HUD ID before: 
+- Project: ROCKY CREEK APTS
+- Address: 1901 WOODRUFF RD
+- City: GREENVILLE
+- State: SC
+- ZIP: 29607
+- ZIP extension: 
+- State project ID: SC-50-306
+- Latitude: 34.820338
+- Longitude: -82.264643
+- County FIPS: 45045
+- County from: 2020
+- Tract 2020: 45045002819
+- Tract 2010: 45045002808
+- Tract 2000: 45045002808
+- Tract 1990: 45045002503
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 30985
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 667076
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 24
+- 1-bedroom units: 96
+- 2-bedroom units: 80
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

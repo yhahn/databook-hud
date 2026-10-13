@@ -1,0 +1,85 @@
+# Project: HALE MAKANA O MAILI (HIA20202001)
+
+- HUD ID: HIA20202001
+- HUD ID before: 
+- Project: HALE MAKANA O MAILI
+- Address: 87-037 KULAAUPUNI ST
+- City: WAIANAE
+- State: HI
+- ZIP: 96792
+- ZIP extension: 
+- State project ID: HI-2018-006
+- Latitude: 21.4478
+- Longitude: -158.1574
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003009610
+- Tract 2010: 15003009704
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 47300
+- Place 2010: 47300
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 829834
+- Units: 52
+- Low-income units: 51
+- Units reported: 52
+- Low-income reported: 51
+- Efficiencies: 
+- 1-bedroom units: 13
+- 2-bedroom units: 31
+- 3-bedroom units: 7
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 1350000
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

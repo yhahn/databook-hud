@@ -1,0 +1,85 @@
+# Project: PARK AVENUE APTS (CAA20060245)
+
+- HUD ID: CAA20060245
+- HUD ID before: 
+- Project: PARK AVENUE APTS
+- Address: 1200 PARK AVE
+- City: CHICO
+- State: CA
+- ZIP: 95928
+- ZIP extension: 
+- State project ID: CA-04-070
+- Latitude: 39.723529
+- Longitude: -121.831259
+- County FIPS: 06007
+- County from: 2020
+- Tract 2020: 06007001200
+- Tract 2010: 06007001200
+- Tract 2000: 06007001200
+- Tract 1990: 06007001200
+- Place 2020: 13014
+- Place 2010: 13014
+- Place 2000: 13014
+- Place 1990: 0500
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 1395494
+- Units: 107
+- Low-income units: 106
+- Units reported: 107
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 86
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

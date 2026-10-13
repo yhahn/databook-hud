@@ -1,0 +1,85 @@
+# Project: DECORAH WOOLEN MILL (IAA20029395)
+
+- HUD ID: IAA20029395
+- HUD ID before: 
+- Project: DECORAH WOOLEN MILL
+- Address: 301 W DAY SPRING LN
+- City: DECORAH
+- State: IA
+- ZIP: 52101
+- ZIP extension: 
+- State project ID: 01-03
+- Latitude: 43.304558
+- Longitude: -91.788445
+- County FIPS: 19191
+- County from: 2020
+- Tract 2020: 19191950200
+- Tract 2010: 19191950200
+- Tract 2000: 19191950200
+- Tract 1990: 19191950200
+- Place 2020: 19405
+- Place 2010: 19405
+- Place 2000: 19405
+- Place 1990: 1065
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

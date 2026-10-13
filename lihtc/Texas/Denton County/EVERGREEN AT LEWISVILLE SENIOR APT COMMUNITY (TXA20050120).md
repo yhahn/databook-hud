@@ -1,0 +1,85 @@
+# Project: EVERGREEN AT LEWISVILLE SENIOR APT COMMUNITY (TXA20050120)
+
+- HUD ID: TXA20050120
+- HUD ID before: 
+- Project: EVERGREEN AT LEWISVILLE SENIOR APT COMMUNITY
+- Address: 415 S GARDEN RIDGE BLVD
+- City: LEWISVILLE
+- State: TX
+- ZIP: 75067
+- ZIP extension: 
+- State project ID: TX4162
+- Latitude: 33.041191
+- Longitude: -97.035809
+- County FIPS: 48121
+- County from: 2020
+- Tract 2020: 48121021743
+- Tract 2010: 48121021743
+- Tract 2000: 48121021712
+- Tract 1990: 48121021712
+- Place 2020: 42508
+- Place 2010: 42508
+- Place 2000: 26232
+- Place 1990: 2450
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 218
+- Low-income units: 218
+- Units reported: 218
+- Low-income reported: 218
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

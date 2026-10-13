@@ -1,0 +1,25 @@
+# Tax Credit Projects: Saline County, MO
+
+- Level: County
+- Postal code: MO
+- State FIPS: 29
+- County FIPS: 29195
+- Counties: 
+- Projects: 8
+- Units: 258
+- Low-income units: 256
+
+The low-income housing tax credit projects of Saline County, Missouri, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [911 S APACHE DR (MOA19880570)](./Saline%20County/911%20S%20APACHE%20DR%20%28MOA19880570%29.md) | MOA19880570 | MARSHALL | 1988 | 24 | 24 |
+| [CHURCHILL ESTATES (MOA19910240)](./Saline%20County/CHURCHILL%20ESTATES%20%28MOA19910240%29.md) | MOA19910240 | BLACKBURN | 1991 | 8 | 8 |
+| [WESTPORT TERRACE APTS (MOA19970260)](./Saline%20County/WESTPORT%20TERRACE%20APTS%20%28MOA19970260%29.md) | MOA19970260 | MARSHALL | 1997 | 18 | 18 |
+| [VALLEY SOUTHWEST APTS (MOA20020270)](./Saline%20County/VALLEY%20SOUTHWEST%20APTS%20%28MOA20020270%29.md) | MOA20020270 | MARSHALL | 2002 | 48 | 48 |
+| [MALLORY PLACE (MOA20089129)](./Saline%20County/MALLORY%20PLACE%20%28MOA20089129%29.md) | MOA20089129 | MARSHALL | 2008 | 30 | 30 |
+| [DEER CREEK APTS (MOA20090040)](./Saline%20County/DEER%20CREEK%20APTS%20%28MOA20090040%29.md) | MOA20090040 | MARSHALL | 2009 | 72 | 72 |
+| [FOX CREEK VILLAS L.P. (MOA20150005)](./Saline%20County/FOX%20CREEK%20VILLAS%20L.P.%20%28MOA20150005%29.md) | MOA20150005 | MARSHALL | 2015 | 34 | 34 |
+| [WESTPORT VILLAGE (MOA20200019)](./Saline%20County/WESTPORT%20VILLAGE%20%28MOA20200019%29.md) | MOA20200019 | MARSHALL | 2020 | 24 | 22 |

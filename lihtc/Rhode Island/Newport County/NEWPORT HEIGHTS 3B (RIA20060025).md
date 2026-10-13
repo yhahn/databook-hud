@@ -1,0 +1,85 @@
+# Project: NEWPORT HEIGHTS 3B (RIA20060025)
+
+- HUD ID: RIA20060025
+- HUD ID before: 
+- Project: NEWPORT HEIGHTS 3B
+- Address: 22 SHIMODA WAY
+- City: NEWPORT
+- State: RI
+- ZIP: 02840
+- ZIP extension: 
+- State project ID: RI00113
+- Latitude: 41.513795
+- Longitude: -71.310759
+- County FIPS: 44005
+- County from: 2020
+- Tract 2020: 44005040500
+- Tract 2010: 44005040500
+- Tract 2000: 44005040500
+- Tract 1990: 44005040500
+- Place 2020: 49960
+- Place 2010: 49960
+- Place 2000: 49960
+- Place 1990: 0310
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 624489
+- Units: 27
+- Low-income units: 23
+- Units reported: 27
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 11
+- 3-bedroom units: 9
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

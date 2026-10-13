@@ -1,0 +1,85 @@
+# Project: 22 TARRYTOWN WORKFORCE HOUSING (NYA20130275)
+
+- HUD ID: NYA20130275
+- HUD ID before: 
+- Project: 22 TARRYTOWN WORKFORCE HOUSING
+- Address: 22 TARRYTOWN RD
+- City: GREENBURGH
+- State: NY
+- ZIP: 10607
+- ZIP extension: 
+- State project ID: 20106063
+- Latitude: 41.038317
+- Longitude: -73.781572
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119010902
+- Tract 2010: 36119010902
+- Tract 2000: 36119010902
+- Tract 1990: 36119010902
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 25120
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 392966
+- Units: 28
+- Low-income units: 21
+- Units reported: 28
+- Low-income reported: 21
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

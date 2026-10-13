@@ -1,0 +1,85 @@
+# Project: GILBERT HIGHLANDS (MDA20100040)
+
+- HUD ID: MDA20100040
+- HUD ID before: 
+- Project: GILBERT HIGHLANDS
+- Address: 8508 FLOWER AVE
+- City: TAKOMA PARK
+- State: MD
+- ZIP: 20912
+- ZIP extension: 
+- State project ID: MD08-33001
+- Latitude: 38.994758
+- Longitude: -77.002647
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031701702
+- Tract 2010: 24031701702
+- Tract 2000: 24031701702
+- Tract 1990: 24031701702
+- Place 2020: 76650
+- Place 2010: 76650
+- Place 2000: 72450
+- Place 1990: 0950
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1175255
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

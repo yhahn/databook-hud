@@ -1,0 +1,85 @@
+# Project: CENTENNIAL PARK (NVA20148187)
+
+- HUD ID: NVA20148187
+- HUD ID before: 
+- Project: CENTENNIAL PARK
+- Address: 2627 DONNA ST
+- City: NO LAS VEGAS
+- State: NV
+- ZIP: 89030
+- ZIP extension: 
+- State project ID: NV1012-1012
+- Latitude: 36.20829
+- Longitude: -115.129239
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003004402
+- Tract 2010: 32003004402
+- Tract 2000: 32003004400
+- Tract 1990: 32003004400
+- Place 2020: 51800
+- Place 2010: 51800
+- Place 2000: 51800
+- Place 1990: 0080
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 155
+- Low-income units: 155
+- Units reported: 155
+- Low-income reported: 155
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

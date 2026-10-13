@@ -1,0 +1,85 @@
+# Project: MISSION GARDENS (CAA20090280)
+
+- HUD ID: CAA20090280
+- HUD ID before: 
+- Project: MISSION GARDENS
+- Address: 90 GRANDVIEW ST
+- City: SANTA CRUZ
+- State: CA
+- ZIP: 95060
+- ZIP extension: 
+- State project ID: CA-08-880
+- Latitude: 36.961447
+- Longitude: -122.053085
+- County FIPS: 06087
+- County from: 2020
+- Tract 2020: 06087100500
+- Tract 2010: 06087100500
+- Tract 2000: 06087100500
+- Tract 1990: 06087100500
+- Place 2020: 69112
+- Place 2010: 69112
+- Place 2000: 69112
+- Place 1990: 2585
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 265886
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

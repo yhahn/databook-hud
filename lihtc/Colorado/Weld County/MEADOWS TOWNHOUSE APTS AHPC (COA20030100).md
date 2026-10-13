@@ -1,0 +1,85 @@
+# Project: MEADOWS TOWNHOUSE APTS AHPC (COA20030100)
+
+- HUD ID: COA20030100
+- HUD ID before: 
+- Project: MEADOWS TOWNHOUSE APTS AHPC
+- Address: 1105 MOUNTAINVIEW AVE
+- City: FORT LUPTON
+- State: CO
+- ZIP: 80621
+- ZIP extension: 
+- State project ID: 2003505
+- Latitude: 40.08948
+- Longitude: -104.799681
+- County FIPS: 08123
+- County from: 2020
+- Tract 2020: 08123001905
+- Tract 2010: 08123001905
+- Tract 2000: 08123001904
+- Tract 1990: 08123001800
+- Place 2020: 27700
+- Place 2010: 27700
+- Place 2000: 03015
+- Place 1990: 1055
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 35
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

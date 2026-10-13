@@ -1,0 +1,85 @@
+# Project: MIRAIDO APTS (CAA19990764)
+
+- HUD ID: CAA19990764
+- HUD ID before: 
+- Project: MIRAIDO APTS
+- Address: 520 N SIXTH ST
+- City: SAN JOSE
+- State: CA
+- ZIP: 95112
+- ZIP extension: 
+- State project ID: CA-99-862
+- Latitude: 37.347955
+- Longitude: -121.891914
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085501101
+- Tract 2010: 06085501101
+- Tract 2000: 06085501100
+- Tract 1990: 06085501100
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 2510
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 132588
+- Units: 109
+- Low-income units: 37
+- Units reported: 109
+- Low-income reported: 37
+- Efficiencies: 8
+- 1-bedroom units: 15
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

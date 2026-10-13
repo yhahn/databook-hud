@@ -1,0 +1,85 @@
+# Project: ROUND III (NWR) (NYC19930012)
+
+- HUD ID: NYC19930012
+- HUD ID before: 
+- Project: ROUND III (NWR)
+- Address: 28 KINGSLAND AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11211
+- ZIP extension: 
+- State project ID: NY9102099
+- Latitude: 40.717101
+- Longitude: -73.940005
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047044901
+- Tract 2010: 36047044900
+- Tract 2000: 36047046500
+- Tract 1990: 36047046500
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 209334
+- Units: 33
+- Low-income units: 32
+- Units reported: 33
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NWR (ROUND III).
+- Record status: Existing, unchanged

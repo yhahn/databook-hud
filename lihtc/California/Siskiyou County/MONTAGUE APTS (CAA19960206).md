@@ -1,0 +1,85 @@
+# Project: MONTAGUE APTS (CAA19960206)
+
+- HUD ID: CAA19960206
+- HUD ID before: 
+- Project: MONTAGUE APTS
+- Address: 791 E WEBB ST
+- City: MONTAGUE
+- State: CA
+- ZIP: 96064
+- ZIP extension: 
+- State project ID: CA-94-096
+- Latitude: 41.724662
+- Longitude: -122.516901
+- County FIPS: 06093
+- County from: 2020
+- Tract 2020: 06093000300
+- Tract 2010: 06093000300
+- Tract 2000: 06093000300
+- Tract 1990: 06093000300
+- Place 2020: 48690
+- Place 2010: 48690
+- Place 2000: 48690
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 74817
+- Units: 28
+- Low-income units: 27
+- Units reported: 28
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COMMONWEALTH APARTMENTS (ILA20240004)
+
+- HUD ID: ILA20240004
+- HUD ID before: 
+- Project: COMMONWEALTH APARTMENTS
+- Address: 2757 N PINE GROVE AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60614
+- ZIP extension: 
+- State project ID: 1222222
+- Latitude: 41.93263
+- Longitude: -87.641029
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031070101
+- Tract 2010: 17031070101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 2994738
+- Units: 145
+- Low-income units: 145
+- Units reported: 145
+- Low-income reported: 145
+- Efficiencies: 22
+- 1-bedroom units: 123
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: No
+- Affordability years: 30
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: Yes
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

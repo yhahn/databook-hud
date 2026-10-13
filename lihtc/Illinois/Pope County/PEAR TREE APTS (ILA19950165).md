@@ -1,0 +1,85 @@
+# Project: PEAR TREE APTS (ILA19950165)
+
+- HUD ID: ILA19950165
+- HUD ID before: 
+- Project: PEAR TREE APTS
+- Address: 200 E POPE ST
+- City: GOLCONDA
+- State: IL
+- ZIP: 62938
+- ZIP extension: 
+- State project ID: 60693
+- Latitude: 37.361984
+- Longitude: -88.487055
+- County FIPS: 17151
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17151971300
+- Tract 2000: 17151971300
+- Tract 1990: 17151971300
+- Place 2020: 
+- Place 2010: 30133
+- Place 2000: 30133
+- Place 1990: 2245
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 22587
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

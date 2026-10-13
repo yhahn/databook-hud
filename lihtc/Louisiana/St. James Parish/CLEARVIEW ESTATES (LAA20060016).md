@@ -1,0 +1,85 @@
+# Project: CLEARVIEW ESTATES (LAA20060016)
+
+- HUD ID: LAA20060016
+- HUD ID before: 
+- Project: CLEARVIEW ESTATES
+- Address: 2512 KING AVE.
+- City: LUTCHER
+- State: LA
+- ZIP: 70071
+- ZIP extension: 0000
+- State project ID: LA-06-458
+- Latitude: 30.045483
+- Longitude: -90.704211
+- County FIPS: 22093
+- County from: 2020
+- Tract 2020: 22093040200
+- Tract 2010: 22093040200
+- Tract 2000: 22093040200
+- Tract 1990: 22093040200
+- Place 2020: 46720
+- Place 2010: 46720
+- Place 2000: 46720
+- Place 1990: 0795
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 8774
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Scattered Site/New Construction
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

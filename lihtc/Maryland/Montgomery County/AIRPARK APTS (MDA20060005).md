@@ -1,0 +1,85 @@
+# Project: AIRPARK APTS (MDA20060005)
+
+- HUD ID: MDA20060005
+- HUD ID before: 
+- Project: AIRPARK APTS
+- Address: 8511 SNOUFFER SCHOOL RD
+- City: GAITHERSBURG
+- State: MD
+- ZIP: 20879
+- ZIP extension: 
+- State project ID: MD03-22001
+- Latitude: 39.168565
+- Longitude: -77.175233
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031700105
+- Tract 2010: 24031700105
+- Tract 2000: 24031700102
+- Tract 1990: 24031700102
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 53325
+- Place 1990: 0632
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 106
+- Low-income units: 106
+- Units reported: 106
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 88
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: DUMPLIN HALL (PAA20060035)
+
+- HUD ID: PAA20060035
+- HUD ID before: 
+- Project: DUMPLIN HALL
+- Address: 502 HAY ST
+- City: WILKINSBURG
+- State: PA
+- ZIP: 15221
+- ZIP extension: 
+- State project ID: TC20050310
+- Latitude: 40.440212
+- Longitude: -79.887878
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003560400
+- Tract 2010: 42003560400
+- Tract 2000: 42003560400
+- Tract 1990: 42003560400
+- Place 2020: 85188
+- Place 2010: 85188
+- Place 2000: 85188
+- Place 1990: 8910
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 574327
+- Units: 46
+- Low-income units: 45
+- Units reported: 46
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 500000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

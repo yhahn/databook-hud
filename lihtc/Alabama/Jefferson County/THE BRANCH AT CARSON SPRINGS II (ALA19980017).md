@@ -1,0 +1,85 @@
+# Project: THE BRANCH AT CARSON SPRINGS II (ALA19980017)
+
+- HUD ID: ALA19980017
+- HUD ID before: 
+- Project: THE BRANCH AT CARSON SPRINGS II
+- Address: 1820 CARSON RD
+- City: BIRMINGHAM
+- State: AL
+- ZIP: 35215
+- ZIP extension: 
+- State project ID: AL-99-0036
+- Latitude: 33.635674
+- Longitude: -86.702983
+- County FIPS: 01073
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01073005910
+- Tract 2000: 01073005906
+- Tract 1990: 01073005906
+- Place 2020: 
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0185
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 285199
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 56
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1999130. AKA THE BRANCH II.
+- Record status: Existing, unchanged

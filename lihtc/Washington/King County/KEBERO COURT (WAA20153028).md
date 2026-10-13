@@ -1,0 +1,85 @@
+# Project: KEBERO COURT (WAA20153028)
+
+- HUD ID: WAA20153028
+- HUD ID before: 
+- Project: KEBERO COURT
+- Address: 1105 E FIR STREET
+- City: SEATTLE
+- State: WA
+- ZIP: 98122
+- ZIP extension: 
+- State project ID: 12-109A
+- Latitude: 47.60252
+- Longitude: -122.317664
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033008600
+- Tract 2010: 53033008600
+- Tract 2000: 53033008600
+- Tract 1990: 53033008600
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 1140
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1237099
+- Units: 103
+- Low-income units: 102
+- Units reported: 103
+- Low-income reported: 102
+- Efficiencies: 0
+- 1-bedroom units: 53
+- 2-bedroom units: 37
+- 3-bedroom units: 7
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

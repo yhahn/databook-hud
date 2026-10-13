@@ -1,0 +1,85 @@
+# Project: POLK AVENUE APTS (NMA19990045)
+
+- HUD ID: NMA19990045
+- HUD ID before: 
+- Project: POLK AVENUE APTS
+- Address: 214 W POLK AVE
+- City: LOVINGTON
+- State: NM
+- ZIP: 88260
+- ZIP extension: 
+- State project ID: 00269
+- Latitude: 32.958567
+- Longitude: -103.351953
+- County FIPS: 35025
+- County from: 2020
+- Tract 2020: 35025001004
+- Tract 2010: 35025001004
+- Tract 2000: 35025001002
+- Tract 1990: 35025001002
+- Place 2020: 44490
+- Place 2010: 44490
+- Place 2000: 44490
+- Place 1990: 0255
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 51
+- Units reported: 52
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

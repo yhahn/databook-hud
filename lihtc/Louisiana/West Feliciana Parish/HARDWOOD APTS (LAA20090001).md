@@ -1,0 +1,85 @@
+# Project: HARDWOOD APTS (LAA20090001)
+
+- HUD ID: LAA20090001
+- HUD ID before: 
+- Project: HARDWOOD APTS
+- Address: 5982 ST B
+- City: ST FRANCISVILLE
+- State: LA
+- ZIP: 70775
+- ZIP extension: 
+- State project ID: LA-04-063
+- Latitude: 30.804478
+- Longitude: -91.383125
+- County FIPS: 22125
+- County from: 2020
+- Tract 2020: 22125951801
+- Tract 2010: 22125951800
+- Tract 2000: 22125951800
+- Tract 1990: 22125951800
+- Place 2020: 62385
+- Place 2010: 99999
+- Place 2000: 67215
+- Place 1990: 1195
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 13973
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA0000930, LAA0000170.
+- Record status: Existing, unchanged

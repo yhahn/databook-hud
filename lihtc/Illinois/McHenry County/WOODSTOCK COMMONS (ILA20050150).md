@@ -1,0 +1,85 @@
+# Project: WOODSTOCK COMMONS (ILA20050150)
+
+- HUD ID: ILA20050150
+- HUD ID before: 
+- Project: WOODSTOCK COMMONS
+- Address: 1420 COMMONS DR
+- City: WOODSTOCK
+- State: IL
+- ZIP: 60098
+- ZIP extension: 
+- State project ID: 147003
+- Latitude: 42.286645
+- Longitude: -88.426588
+- County FIPS: 17111
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17111870902
+- Tract 2000: 17111870902
+- Tract 1990: 17111870902
+- Place 2020: 
+- Place 2010: 83349
+- Place 2000: 09531
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1547090
+- Units: 170
+- Low-income units: 170
+- Units reported: 170
+- Low-income reported: 170
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 82
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

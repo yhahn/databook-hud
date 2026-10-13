@@ -1,0 +1,85 @@
+# Project: SAGEBRUSH OF DOWNTOWN (CAA20110838)
+
+- HUD ID: CAA20110838
+- HUD ID before: 
+- Project: SAGEBRUSH OF DOWNTOWN
+- Address: 44825 ELM AVE
+- City: LANCASTER
+- State: CA
+- ZIP: 93534
+- ZIP extension: 
+- State project ID: CA-09-505
+- Latitude: 34.696534
+- Longitude: -118.142026
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037900806
+- Tract 2010: 06037900806
+- Tract 2000: 06037900806
+- Tract 1990: 06037900603
+- Place 2020: 40130
+- Place 2010: 40130
+- Place 2000: 40130
+- Place 1990: 1476
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 21
+- Low-income units: 20
+- Units reported: 21
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 21
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 6551495
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

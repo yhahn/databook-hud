@@ -1,0 +1,85 @@
+# Project: PERRYMAN STATION (MDA20110037)
+
+- HUD ID: MDA20110037
+- HUD ID before: 
+- Project: PERRYMAN STATION
+- Address: 1222 PERRYMAN RD
+- City: ABERDEEN
+- State: MD
+- ZIP: 21001
+- ZIP extension: 
+- State project ID: MD10-02001
+- Latitude: 39.484949
+- Longitude: -76.19302
+- County FIPS: 24025
+- County from: 2020
+- Tract 2020: 24025302400
+- Tract 2010: 24025302400
+- Tract 2000: 24025302400
+- Tract 1990: 24025302400
+- Place 2020: 61075
+- Place 2010: 61075
+- Place 2000: 00125
+- Place 1990: 0757
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 43
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

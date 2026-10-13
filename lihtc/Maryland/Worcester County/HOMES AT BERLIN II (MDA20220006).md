@@ -1,0 +1,85 @@
+# Project: HOMES AT BERLIN II (MDA20220006)
+
+- HUD ID: MDA20220006
+- HUD ID before: 
+- Project: HOMES AT BERLIN II
+- Address: 113 FLOWER ST; 115 FLOWER ST.
+- City: BERLIN
+- State: MD
+- ZIP: 21811
+- ZIP extension: 
+- State project ID: MD-02-12001-5
+- Latitude: 38.324759
+- Longitude: -75.210366
+- County FIPS: 24047
+- County from: 2020
+- Tract 2020: 24047951000
+- Tract 2010: 24047951000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 06800
+- Place 2010: 06800
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 904879
+- Units: 54
+- Low-income units: 42
+- Units reported: 54
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 19
+- 2-bedroom units: 18
+- 3-bedroom units: 17
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: Previously listed as MDA20030050
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HARRIS BRANCH APTS (TXA20070160)
+
+- HUD ID: TXA20070160
+- HUD ID before: 
+- Project: HARRIS BRANCH APTS
+- Address: 12435 DESSAU RD
+- City: AUSTIN
+- State: TX
+- ZIP: 78754
+- ZIP extension: 
+- State project ID: TX4326
+- Latitude: 30.389961
+- Longitude: -97.64667
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453042400
+- Tract 2010: 48453001842
+- Tract 2000: 48453001842
+- Tract 1990: 48453001838
+- Place 2020: 05000
+- Place 2010: 99999
+- Place 2000: 05000
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 755550
+- Units: 248
+- Low-income units: 248
+- Units reported: 248
+- Low-income reported: 248
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 108
+- 3-bedroom units: 88
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

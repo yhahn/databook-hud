@@ -1,0 +1,85 @@
+# Project: MCGREGOR SENIOR ASSISTED LIVING (OHA20190019)
+
+- HUD ID: OHA20190019
+- HUD ID before: 
+- Project: MCGREGOR SENIOR ASSISTED LIVING
+- Address: 14900 PRIVATE DRIVE
+- City: EAST CLEVELAND
+- State: OH
+- ZIP: 44112
+- ZIP extension: 3470
+- State project ID: 170206
+- Latitude: 41.531582
+- Longitude: -81.572746
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035151300
+- Tract 2010: 39035151300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23380
+- Place 2010: 23380
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 297570
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 12
+- 1-bedroom units: 38
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

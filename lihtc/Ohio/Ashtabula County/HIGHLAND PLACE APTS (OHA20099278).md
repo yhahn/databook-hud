@@ -1,0 +1,85 @@
+# Project: HIGHLAND PLACE APTS (OHA20099278)
+
+- HUD ID: OHA20099278
+- HUD ID before: 
+- Project: HIGHLAND PLACE APTS
+- Address: 432 W MAIN RD
+- City: CONNEAUT
+- State: OH
+- ZIP: 44030
+- ZIP extension: 
+- State project ID: 07-0115
+- Latitude: 41.929563
+- Longitude: -80.607724
+- County FIPS: 39007
+- County from: 2020
+- Tract 2020: 39007000101
+- Tract 2010: 39007000101
+- Tract 2000: 39007000101
+- Tract 1990: 39007000101
+- Place 2020: 18350
+- Place 2010: 18350
+- Place 2000: 18350
+- Place 1990: 0985
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 49999
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 49
+- 2-bedroom units: 61
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2008782, OHA2009080.
+- Record status: Existing, unchanged

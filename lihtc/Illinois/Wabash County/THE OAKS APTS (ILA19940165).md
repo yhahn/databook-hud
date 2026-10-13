@@ -1,0 +1,85 @@
+# Project: THE OAKS APTS (ILA19940165)
+
+- HUD ID: ILA19940165
+- HUD ID before: 
+- Project: THE OAKS APTS
+- Address: 203 N DIVISION ST
+- City: MT CARMEL
+- State: IL
+- ZIP: 62863
+- ZIP extension: 
+- State project ID: 59193
+- Latitude: 38.402452
+- Longitude: -87.773872
+- County FIPS: 17185
+- County from: 2020
+- Tract 2020: 17185957500
+- Tract 2010: 17185957500
+- Tract 2000: 17185957500
+- Tract 1990: 17185957500
+- Place 2020: 50868
+- Place 2010: 50868
+- Place 2000: 50868
+- Place 1990: 3900
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 22142
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

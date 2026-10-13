@@ -1,0 +1,85 @@
+# Project: DIAMOND HOMES (LAA20010050)
+
+- HUD ID: LAA20010050
+- HUD ID before: 
+- Project: DIAMOND HOMES
+- Address: 1812 GLADSTONE
+- City: MARRERO
+- State: LA
+- ZIP: 70072
+- ZIP extension: 0000
+- State project ID: LA-99-041
+- Latitude: 29.876632
+- Longitude: -90.130692
+- County FIPS: 22051
+- County from: 2020
+- Tract 2020: 22051027701
+- Tract 2010: 22051027701
+- Tract 2000: 22051027701
+- Tract 1990: 22051027701
+- Place 2020: 48785
+- Place 2010: 48785
+- Place 2000: 48785
+- Place 1990: 0852
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 6418
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

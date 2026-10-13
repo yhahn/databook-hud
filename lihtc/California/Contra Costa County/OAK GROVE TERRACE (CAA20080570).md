@@ -1,0 +1,85 @@
+# Project: OAK GROVE TERRACE (CAA20080570)
+
+- HUD ID: CAA20080570
+- HUD ID before: 
+- Project: OAK GROVE TERRACE
+- Address: 67 CAROL LN
+- City: OAKLEY
+- State: CA
+- ZIP: 94561
+- ZIP extension: 
+- State project ID: CA-07-185
+- Latitude: 38.002722
+- Longitude: -121.73704
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013302005
+- Tract 2010: 06013302005
+- Tract 2000: 06013302003
+- Tract 1990: 06013302001
+- Place 2020: 53070
+- Place 2010: 53070
+- Place 2000: 53070
+- Place 1990: 1975
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 854196
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

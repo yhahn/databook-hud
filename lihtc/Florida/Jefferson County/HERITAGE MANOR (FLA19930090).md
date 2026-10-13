@@ -1,0 +1,85 @@
+# Project: HERITAGE MANOR (FLA19930090)
+
+- HUD ID: FLA19930090
+- HUD ID before: 
+- Project: HERITAGE MANOR
+- Address: 1800 E TEXAS HILL RD
+- City: MONTICELLO
+- State: FL
+- ZIP: 32344
+- ZIP extension: 
+- State project ID: 346
+- Latitude: 30.561449
+- Longitude: -83.867413
+- County FIPS: 12065
+- County from: 2020
+- Tract 2020: 12065250105
+- Tract 2010: 12065250102
+- Tract 2000: 12065980100
+- Tract 1990: 12065980198
+- Place 2020: 46500
+- Place 2010: 99999
+- Place 2000: 46500
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

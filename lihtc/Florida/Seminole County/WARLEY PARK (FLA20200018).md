@@ -1,0 +1,85 @@
+# Project: WARLEY PARK (FLA20200018)
+
+- HUD ID: FLA20200018
+- HUD ID before: 
+- Project: WARLEY PARK
+- Address: 1500 WEST 25TH STREET
+- City: SANFORD
+- State: FL
+- ZIP: 32771
+- ZIP extension: 
+- State project ID: 2998
+- Latitude: 28.786789
+- Longitude: -81.281664
+- County FIPS: 12117
+- County from: 2020
+- Tract 2020: 12117020302
+- Tract 2010: 12117020302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63650
+- Place 2010: 63650
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1510000
+- Units: 81
+- Low-income units: 81
+- Units reported: 81
+- Low-income reported: 81
+- Efficiencies: 
+- 1-bedroom units: 43
+- 2-bedroom units: 34
+- 3-bedroom units: 4
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 81
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 1307714
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

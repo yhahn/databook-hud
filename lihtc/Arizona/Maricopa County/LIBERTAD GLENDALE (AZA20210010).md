@@ -1,0 +1,85 @@
+# Project: LIBERTAD GLENDALE (AZA20210010)
+
+- HUD ID: AZA20210010
+- HUD ID before: 
+- Project: LIBERTAD GLENDALE
+- Address: 6529 W OCOTILLO ROAD
+- City: GLENDALE
+- State: AZ
+- ZIP: 85301
+- ZIP extension: 3012
+- State project ID: TC-0896-18
+- Latitude: 33.534599
+- Longitude: -112.199973
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013092801
+- Tract 2010: 04013092801
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 27820
+- Place 2010: 27820
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1941750
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 22
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 108
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

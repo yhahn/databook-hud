@@ -1,0 +1,85 @@
+# Project: LAUREL ESTATES (MSA20110060)
+
+- HUD ID: MSA20110060
+- HUD ID before: 
+- Project: LAUREL ESTATES
+- Address: 106 MAPLEWOOD DR
+- City: LAUREL
+- State: MS
+- ZIP: 39440
+- ZIP extension: 
+- State project ID: MS-08-5-034
+- Latitude: 31.7048
+- Longitude: -89.1605
+- County FIPS: 28067
+- County from: 2020
+- Tract 2020: 28067950700
+- Tract 2010: 28067950500
+- Tract 2000: 28067950500
+- Tract 1990: 28067950500
+- Place 2020: 39640
+- Place 2010: 39640
+- Place 2000: 39640
+- Place 1990: 0655
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 340788
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2011680.
+- Record status: Existing, unchanged

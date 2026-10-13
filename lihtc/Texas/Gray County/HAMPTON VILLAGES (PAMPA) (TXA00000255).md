@@ -1,0 +1,85 @@
+# Project: HAMPTON VILLAGES (PAMPA) (TXA00000255)
+
+- HUD ID: TXA00000255
+- HUD ID before: 
+- Project: HAMPTON VILLAGES (PAMPA)
+- Address: 1517 ALCOCK ST
+- City: PAMPA
+- State: TX
+- ZIP: 79065
+- ZIP extension: 
+- State project ID: TX-742610542
+- Latitude: 35.532968
+- Longitude: -100.978769
+- County FIPS: 48179
+- County from: 2020
+- Tract 2020: 48179950700
+- Tract 2010: 48179950700
+- Tract 2000: 48179950700
+- Tract 1990: 48179950700
+- Place 2020: 54912
+- Place 2010: 54912
+- Place 2000: 54912
+- Place 1990: 3175
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 40
+- 4-bedroom units: 22
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 10001457
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

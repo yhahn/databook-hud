@@ -1,0 +1,85 @@
+# Project: GATEWOOD COMMONS (CAA19980170)
+
+- HUD ID: CAA19980170
+- HUD ID before: 
+- Project: GATEWOOD COMMONS
+- Address: 2700 ALVINGROOM CT
+- City: OAKLAND
+- State: CA
+- ZIP: 94605
+- ZIP extension: 
+- State project ID: CA-97-513
+- Latitude: 37.761104
+- Longitude: -122.161833
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001409800
+- Tract 2010: 06001409800
+- Tract 2000: 06001409800
+- Tract 1990: 06001409800
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1970
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 510759
+- Units: 120
+- Low-income units: 118
+- Units reported: 120
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 67
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

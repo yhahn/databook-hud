@@ -1,0 +1,85 @@
+# Project: GARDEN WALK ON ELFEN GLEN II (ARA20130004)
+
+- HUD ID: ARA20130004
+- HUD ID before: 
+- Project: GARDEN WALK ON ELFEN GLEN II
+- Address: 1608 ELFEN GLEN ST
+- City: VAN BUREN
+- State: AR
+- ZIP: 72956
+- ZIP extension: 
+- State project ID: AR-88-11
+- Latitude: 35.455971
+- Longitude: -94.365146
+- County FIPS: 05033
+- County from: 2020
+- Tract 2020: 05033020302
+- Tract 2010: 05033020302
+- Tract 2000: 05033020300
+- Tract 1990: 05033020300
+- Place 2020: 71480
+- Place 2010: 71480
+- Place 2000: 71480
+- Place 1990: 2005
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 420801
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 16
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1997015, ARA1996662, ARA1996046, ARA1988561, ARA1988026. ONE BUILDING DESTROYED BY FIRE. AKA ASHLEY PARK II.
+- Record status: Existing, unchanged

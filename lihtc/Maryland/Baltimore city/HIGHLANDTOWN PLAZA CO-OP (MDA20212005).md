@@ -1,0 +1,85 @@
+# Project: HIGHLANDTOWN PLAZA CO-OP (MDA20212005)
+
+- HUD ID: MDA20212005
+- HUD ID before: 
+- Project: HIGHLANDTOWN PLAZA CO-OP
+- Address: 155 GRUNDY STREET
+- City: BALTIMORE
+- State: MD
+- ZIP: 21224
+- ZIP extension: 
+- State project ID: MD-94-22001
+- Latitude: 39.29087
+- Longitude: -76.5634
+- County FIPS: 24510
+- County from: 2020
+- Tract 2020: 24510260800
+- Tract 2010: 24510260800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 640647
+- Units: 81
+- Low-income units: 81
+- Units reported: 81
+- Low-income reported: 81
+- Efficiencies: 
+- 1-bedroom units: 81
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

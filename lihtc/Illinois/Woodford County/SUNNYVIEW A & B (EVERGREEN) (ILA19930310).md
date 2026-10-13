@@ -1,0 +1,85 @@
+# Project: SUNNYVIEW A & B (EVERGREEN) (ILA19930310)
+
+- HUD ID: ILA19930310
+- HUD ID before: 
+- Project: SUNNYVIEW A & B (EVERGREEN)
+- Address: 460 E SECOND ST
+- City: EL PASO
+- State: IL
+- ZIP: 61738
+- ZIP extension: 
+- State project ID: 41792
+- Latitude: 40.740551
+- Longitude: -89.009209
+- County FIPS: 17203
+- County from: 2020
+- Tract 2020: 17203030700
+- Tract 2010: 17203030700
+- Tract 2000: 17203030700
+- Tract 1990: 17203030700
+- Place 2020: 23737
+- Place 2010: 23737
+- Place 2000: 23737
+- Place 1990: 1785
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 13082
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1993180. AKA SUNNEYVIEW A & B.
+- Record status: Existing, unchanged

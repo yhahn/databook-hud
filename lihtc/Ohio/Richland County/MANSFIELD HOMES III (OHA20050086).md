@@ -1,0 +1,85 @@
+# Project: MANSFIELD HOMES III (OHA20050086)
+
+- HUD ID: OHA20050086
+- HUD ID before: 
+- Project: MANSFIELD HOMES III
+- Address: 625 KING ST
+- City: MANSFIELD
+- State: OH
+- ZIP: 44903
+- ZIP extension: 
+- State project ID: 000015
+- Latitude: 40.773788
+- Longitude: -82.537087
+- County FIPS: 39139
+- County from: 2020
+- Tract 2020: 39139000700
+- Tract 2010: 39139000700
+- Tract 2000: 39139000700
+- Tract 1990: 39139000700
+- Place 2020: 47138
+- Place 2010: 47138
+- Place 2000: 47138
+- Place 1990: 2440
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 377329
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 10
+- 4-bedroom units: 20
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2005673, OHA2001120.
+- Record status: Existing, unchanged

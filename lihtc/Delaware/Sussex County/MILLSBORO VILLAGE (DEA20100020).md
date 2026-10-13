@@ -1,0 +1,85 @@
+# Project: MILLSBORO VILLAGE (DEA20100020)
+
+- HUD ID: DEA20100020
+- HUD ID before: 
+- Project: MILLSBORO VILLAGE
+- Address: 210 THOMAS TAYLOR DR
+- City: MILLSBORO
+- State: DE
+- ZIP: 19966
+- ZIP extension: 
+- State project ID: DE-08-03
+- Latitude: 38.587437
+- Longitude: -75.287926
+- County FIPS: 10005
+- County from: 2020
+- Tract 2020: 10005050604
+- Tract 2010: 10005050602
+- Tract 2000: 10005050602
+- Tract 1990: 10005050600
+- Place 2020: 47940
+- Place 2010: 47940
+- Place 2000: 47940
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3415682
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

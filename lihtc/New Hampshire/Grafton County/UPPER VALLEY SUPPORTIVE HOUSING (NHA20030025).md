@@ -1,0 +1,85 @@
+# Project: UPPER VALLEY SUPPORTIVE HOUSING (NHA20030025)
+
+- HUD ID: NHA20030025
+- HUD ID before: 
+- Project: UPPER VALLEY SUPPORTIVE HOUSING
+- Address: 420 MOUNT SUPPORT RD
+- City: LEBANON
+- State: NH
+- ZIP: 03766
+- ZIP extension: 
+- State project ID: 109
+- Latitude: 43.671118
+- Longitude: -72.262851
+- County FIPS: 33009
+- County from: 2020
+- Tract 2020: 33009961701
+- Tract 2010: 33009961700
+- Tract 2000: 33009961700
+- Tract 1990: 33009961700
+- Place 2020: 41300
+- Place 2010: 41300
+- Place 2000: 41300
+- Place 1990: 1440
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 7
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

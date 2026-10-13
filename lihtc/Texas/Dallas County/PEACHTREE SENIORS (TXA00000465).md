@@ -1,0 +1,85 @@
+# Project: PEACHTREE SENIORS (TXA00000465)
+
+- HUD ID: TXA00000465
+- HUD ID before: 
+- Project: PEACHTREE SENIORS
+- Address: 5009 S PEACHTREE RD
+- City: BALCH SPRINGS
+- State: TX
+- ZIP: 75180
+- ZIP extension: 
+- State project ID: 
+- Latitude: 32.701832
+- Longitude: -96.631582
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113011702
+- Tract 2010: 48113011702
+- Tract 2000: 48113011702
+- Tract 1990: 48113011700
+- Place 2020: 05372
+- Place 2010: 05372
+- Place 2000: 05372
+- Place 1990: 1085
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 14834619
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

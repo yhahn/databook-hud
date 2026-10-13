@@ -1,0 +1,85 @@
+# Project: OAKWOOD TERRACE II (MNA20000125)
+
+- HUD ID: MNA20000125
+- HUD ID before: 
+- Project: OAKWOOD TERRACE II
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: GRAND RAPIDS
+- State: MN
+- ZIP: 55744
+- ZIP extension: 
+- State project ID: D2778
+- Latitude: 47.2183
+- Longitude: -93.5247
+- County FIPS: 27061
+- County from: 2020
+- Tract 2020: 27061480803
+- Tract 2010: 27061480802
+- Tract 2000: 27061980900
+- Tract 1990: 27061980900
+- Place 2020: 12502
+- Place 2010: 12412
+- Place 2000: 12412
+- Place 1990: 1545
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

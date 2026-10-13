@@ -1,0 +1,85 @@
+# Project: VIEWS AT CITY WALK (MNA20130857)
+
+- HUD ID: MNA20130857
+- HUD ID before: 
+- Project: VIEWS AT CITY WALK
+- Address: 375 LAKEVIEW DRIVE
+- City: WOODBURY
+- State: MN
+- ZIP: 55129
+- ZIP extension: 4502
+- State project ID: D6677
+- Latitude: 44.944346
+- Longitude: -92.89567
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163071021
+- Tract 2010: 27163071017
+- Tract 2000: 27163071018
+- Tract 1990: 27163071005
+- Place 2020: 71428
+- Place 2010: 71428
+- Place 2000: 
+- Place 1990: 4173
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 846570
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 45
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

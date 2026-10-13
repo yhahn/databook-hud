@@ -1,0 +1,85 @@
+# Project: LAGUNA POINTE (FLA20030130)
+
+- HUD ID: FLA20030130
+- HUD ID before: 
+- Project: LAGUNA POINTE
+- Address: 903 SW 15TH ST
+- City: POMPANO BEACH
+- State: FL
+- ZIP: 33060
+- ZIP extension: 
+- State project ID: 1157
+- Latitude: 26.211031
+- Longitude: -80.135345
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011030803
+- Tract 2010: 12011030801
+- Tract 2000: 12011030801
+- Tract 1990: 12011030801
+- Place 2020: 58050
+- Place 2010: 58050
+- Place 2000: 58050
+- Place 1990: 1780
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 188
+- Low-income units: 188
+- Units reported: 188
+- Low-income reported: 188
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 80
+- 3-bedroom units: 70
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

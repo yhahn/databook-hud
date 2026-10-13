@@ -1,0 +1,85 @@
+# Project: WILLIAMS LANDING (FLA20000215)
+
+- HUD ID: FLA20000215
+- HUD ID before: 
+- Project: WILLIAMS LANDING
+- Address: 3730 WILLIAMS LANDING CIRCLE
+- City: TAMPA
+- State: FL
+- ZIP: 33610
+- ZIP extension: 
+- State project ID: 964
+- Latitude: 27.975984
+- Longitude: -82.319316
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057012109
+- Tract 2010: 12057012104
+- Tract 2000: 12057012104
+- Tract 1990: 12057012104
+- Place 2020: 42850
+- Place 2010: 42850
+- Place 2000: 42850
+- Place 1990: 1294
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 836550
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

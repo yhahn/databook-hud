@@ -1,0 +1,85 @@
+# Project: EDISON VILLAGE (GAA19920035)
+
+- HUD ID: GAA19920035
+- HUD ID before: 
+- Project: EDISON VILLAGE
+- Address: 250 E HARTFORD ST
+- City: EDISON
+- State: GA
+- ZIP: 39846
+- ZIP extension: 
+- State project ID: GA-91-004
+- Latitude: 31.5873
+- Longitude: -84.7456
+- County FIPS: 13037
+- County from: 2020
+- Tract 2020: 13037950200
+- Tract 2010: 13037950200
+- Tract 2000: 13037950200
+- Tract 1990: 13037950300
+- Place 2020: 26448
+- Place 2010: 26448
+- Place 2000: 02928
+- Place 1990: 0990
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

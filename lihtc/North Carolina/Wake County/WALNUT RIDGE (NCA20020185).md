@@ -1,0 +1,85 @@
+# Project: WALNUT RIDGE (NCA20020185)
+
+- HUD ID: NCA20020185
+- HUD ID before: 
+- Project: WALNUT RIDGE
+- Address: 1611 ROYAL FOXHOUND LANE
+- City: RALEIGH
+- State: NC
+- ZIP: 27610
+- ZIP extension: 
+- State project ID: 9001027
+- Latitude: 35.755012
+- Longitude: -78.586833
+- County FIPS: 37183
+- County from: 2020
+- Tract 2020: 37183052102
+- Tract 2010: 37183052102
+- Tract 2000: 37183052102
+- Tract 1990: 37183052102
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 2020
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 464882
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 96
+- 3-bedroom units: 44
+- 4-bedroom units: 40
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

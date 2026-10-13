@@ -1,0 +1,85 @@
+# Project: NORTH STREET SHRINER (VTA19870010)
+
+- HUD ID: VTA19870010
+- HUD ID before: 
+- Project: NORTH STREET SHRINER
+- Address: 268 N ST
+- City: BURLINGTON
+- State: VT
+- ZIP: 05401
+- ZIP extension: 
+- State project ID: 
+- Latitude: 44.484985
+- Longitude: -73.211097
+- County FIPS: 50007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 50007000500
+- Tract 2000: 50007000500
+- Tract 1990: 50007000500
+- Place 2020: 
+- Place 2010: 10675
+- Place 2000: 10675
+- Place 1990: 0460
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 4525
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Existing
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

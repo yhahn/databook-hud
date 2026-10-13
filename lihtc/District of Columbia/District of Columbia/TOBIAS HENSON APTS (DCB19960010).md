@@ -1,0 +1,85 @@
+# Project: TOBIAS HENSON APTS (DCB19960010)
+
+- HUD ID: DCB19960010
+- HUD ID before: 
+- Project: TOBIAS HENSON APTS
+- Address: 1443 SAVANNAH ST SE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20032
+- ZIP extension: 
+- State project ID: DCB1996010
+- Latitude: 38.844181
+- Longitude: -76.984384
+- County FIPS: 11001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 11001007304
+- Tract 2000: 11001007304
+- Tract 1990: 11001007304
+- Place 2020: 
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 30
+- 3-bedroom units: 8
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NOT IN SERVICE FOR REHABILITATION. AKA TOBIAS HENSON MANOR APTS.
+- Record status: Existing, unchanged

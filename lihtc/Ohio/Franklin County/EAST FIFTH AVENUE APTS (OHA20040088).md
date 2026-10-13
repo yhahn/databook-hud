@@ -1,0 +1,85 @@
+# Project: EAST FIFTH AVENUE APTS (OHA20040088)
+
+- HUD ID: OHA20040088
+- HUD ID before: 
+- Project: EAST FIFTH AVENUE APTS
+- Address: 3015 E FIFTH AVE
+- City: COLUMBUS
+- State: OH
+- ZIP: 43219
+- ZIP extension: 
+- State project ID: 020065
+- Latitude: 39.984707
+- Longitude: -82.923374
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049002600
+- Tract 2010: 39049002600
+- Tract 2000: 39049002600
+- Tract 1990: 39049002600
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 134736
+- Units: 38
+- Low-income units: 32
+- Units reported: 38
+- Low-income reported: 32
+- Efficiencies: 38
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 251000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003050.
+- Record status: Existing, unchanged

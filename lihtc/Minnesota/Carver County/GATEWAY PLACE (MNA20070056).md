@@ -1,0 +1,85 @@
+# Project: GATEWAY PLACE (MNA20070056)
+
+- HUD ID: MNA20070056
+- HUD ID before: 
+- Project: GATEWAY PLACE
+- Address: 721 LAKE SUSAN DR
+- City: CHANHASSEN
+- State: MN
+- ZIP: 55317
+- ZIP extension: 
+- State project ID: D4057
+- Latitude: 44.845643
+- Longitude: -93.539819
+- County FIPS: 27019
+- County from: 2020
+- Tract 2020: 27019090703
+- Tract 2010: 27019090701
+- Tract 2000: 27019090701
+- Tract 1990: 27019090600
+- Place 2020: 10918
+- Place 2010: 10918
+- Place 2000: 10918
+- Place 1990: 0640
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 27
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

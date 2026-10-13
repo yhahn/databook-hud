@@ -1,0 +1,85 @@
+# Project: ARMA MEADOWS (KSA20070076)
+
+- HUD ID: KSA20070076
+- HUD ID before: 
+- Project: ARMA MEADOWS
+- Address: 509 E MAIN ST
+- City: ARMA
+- State: KS
+- ZIP: 66712
+- ZIP extension: 
+- State project ID: 60456
+- Latitude: 37.545671
+- Longitude: -94.698576
+- County FIPS: 20037
+- County from: 2020
+- Tract 2020: 20037956600
+- Tract 2010: 20037956600
+- Tract 2000: 20037956600
+- Tract 1990: 20037956600
+- Place 2020: 02375
+- Place 2010: 02375
+- Place 2000: 02175
+- Place 1990: 0120
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 86420
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2007075, KSA2007040, KSA2006526, KSA2006057. AKA FRIENDSHIP VILLAGE.
+- Record status: Existing, unchanged

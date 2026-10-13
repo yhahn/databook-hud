@@ -1,0 +1,85 @@
+# Project: MARSH POINTE (MIA19970070)
+
+- HUD ID: MIA19970070
+- HUD ID before: 
+- Project: MARSH POINTE
+- Address: 5895 MARSH RD
+- City: HASLETT
+- State: MI
+- ZIP: 48840
+- ZIP extension: 
+- State project ID: MI-935
+- Latitude: 42.750655
+- Longitude: -84.408726
+- County FIPS: 26065
+- County from: 2020
+- Tract 2020: 26065004801
+- Tract 2010: 26065004801
+- Tract 2000: 26065004800
+- Tract 1990: 26065004800
+- Place 2020: 37100
+- Place 2010: 37100
+- Place 2000: 37100
+- Place 1990: 1198
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 92
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

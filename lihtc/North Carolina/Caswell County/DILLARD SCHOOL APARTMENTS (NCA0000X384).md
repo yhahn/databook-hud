@@ -1,0 +1,85 @@
+# Project: DILLARD SCHOOL APARTMENTS (NCA0000X384)
+
+- HUD ID: NCA0000X384
+- HUD ID before: 
+- Project: DILLARD SCHOOL APARTMENTS
+- Address: 403 DILLARD SCHOOL DRIVE
+- City: YANCEYVILLE
+- State: NC
+- ZIP: 27379
+- ZIP extension: 
+- State project ID: 9277895
+- Latitude: 36.399511
+- Longitude: -79.333527
+- County FIPS: 37033
+- County from: 2020
+- Tract 2020: 37033930200
+- Tract 2010: 37033930200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76000
+- Place 2010: 76000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 53
+- Low-income units: 53
+- Units reported: 0
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

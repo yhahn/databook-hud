@@ -1,0 +1,85 @@
+# Project: HILLDALE SPRINGS (OKA20050060)
+
+- HUD ID: OKA20050060
+- HUD ID before: 
+- Project: HILLDALE SPRINGS
+- Address: 2400 HILLDALE SPRINGS CIR
+- City: MUSKOGEE
+- State: OK
+- ZIP: 74403
+- ZIP extension: 
+- State project ID: 030729
+- Latitude: 35.5605
+- Longitude: -95.3639
+- County FIPS: 40101
+- County from: 2020
+- Tract 2020: 40101001302
+- Tract 2010: 40101001300
+- Tract 2000: 40101001300
+- Tract 1990: 40101001300
+- Place 2020: 38850
+- Place 2010: 99999
+- Place 2000: 50050
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

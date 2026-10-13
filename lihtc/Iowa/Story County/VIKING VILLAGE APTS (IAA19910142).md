@@ -1,0 +1,85 @@
+# Project: VIKING VILLAGE APTS (IAA19910142)
+
+- HUD ID: IAA19910142
+- HUD ID before: 
+- Project: VIKING VILLAGE APTS
+- Address: 910 FAIRVIEW ST
+- City: STORY CITY
+- State: IA
+- ZIP: 50248
+- ZIP extension: 
+- State project ID: 90-28
+- Latitude: 42.194281
+- Longitude: -93.58969
+- County FIPS: 19169
+- County from: 2020
+- Tract 2020: 19169010600
+- Tract 2010: 19169010600
+- Tract 2000: 19169010600
+- Tract 1990: 19169010600
+- Place 2020: 75675
+- Place 2010: 75675
+- Place 2000: 68475
+- Place 1990: 4110
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 25544
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA1990100.
+- Record status: Existing, unchanged

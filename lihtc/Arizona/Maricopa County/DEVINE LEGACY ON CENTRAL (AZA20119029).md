@@ -1,0 +1,85 @@
+# Project: DEVINE LEGACY ON CENTRAL (AZA20119029)
+
+- HUD ID: AZA20119029
+- HUD ID before: 
+- Project: DEVINE LEGACY ON CENTRAL
+- Address: 4570 N CENTRAL AVE
+- City: PHOENIX
+- State: AZ
+- ZIP: 85012
+- ZIP extension: 
+- State project ID: TC-0475
+- Latitude: 33.503356
+- Longitude: -112.074079
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013117100
+- Tract 2010: 04013117100
+- Tract 2000: 04013108801
+- Tract 1990: 04013108800
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 0260
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 65
+- Low-income units: 59
+- Units reported: 65
+- Low-income reported: 59
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

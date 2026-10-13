@@ -1,0 +1,85 @@
+# Project: MID TOWNE APTS (TXA20109004)
+
+- HUD ID: TXA20109004
+- HUD ID before: 
+- Project: MID TOWNE APTS
+- Address: 2728 OSBORN LN
+- City: BRYAN
+- State: TX
+- ZIP: 77803
+- ZIP extension: 
+- State project ID: TX4602
+- Latitude: 30.679662
+- Longitude: -96.349166
+- County FIPS: 48041
+- County from: 2020
+- Tract 2020: 48041000402
+- Tract 2010: 48041000400
+- Tract 2000: 48041000400
+- Tract 1990: 48041000400
+- Place 2020: 10912
+- Place 2010: 10912
+- Place 2000: 10912
+- Place 1990: 0610
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

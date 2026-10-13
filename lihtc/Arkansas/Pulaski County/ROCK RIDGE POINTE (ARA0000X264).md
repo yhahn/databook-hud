@@ -1,0 +1,85 @@
+# Project: ROCK RIDGE POINTE (ARA0000X264)
+
+- HUD ID: ARA0000X264
+- HUD ID before: 
+- Project: ROCK RIDGE POINTE
+- Address: 4110 S. SHACKLEFORD
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72204
+- ZIP extension: 
+- State project ID: 5229
+- Latitude: 34.716863
+- Longitude: -92.392836
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119002405
+- Tract 2010: 05119002405
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 41000
+- Place 2010: 41000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 85
+- Low-income units: 84
+- Units reported: 85
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 42
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

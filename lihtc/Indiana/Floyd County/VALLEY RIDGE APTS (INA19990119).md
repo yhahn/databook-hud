@@ -1,0 +1,85 @@
+# Project: VALLEY RIDGE APTS (INA19990119)
+
+- HUD ID: INA19990119
+- HUD ID before: 
+- Project: VALLEY RIDGE APTS
+- Address: 200 VILLAGE DR W
+- City: NEW ALBANY
+- State: IN
+- ZIP: 47150
+- ZIP extension: 
+- State project ID: IN-02-09000
+- Latitude: 38.305124
+- Longitude: -85.828578
+- County FIPS: 18043
+- County from: 2020
+- Tract 2020: 18043070801
+- Tract 2010: 18043070801
+- Tract 2000: 18043070801
+- Tract 1990: 18043070801
+- Place 2020: 52326
+- Place 2010: 52326
+- Place 2000: 52326
+- Place 1990: 1760
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 116400
+- Units: 156
+- Low-income units: 124
+- Units reported: 156
+- Low-income reported: 124
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 60
+- 3-bedroom units: 80
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 95
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2000033.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GLENWOOD FARMS (VAA20060030)
+
+- HUD ID: VAA20060030
+- HUD ID before: 
+- Project: GLENWOOD FARMS
+- Address: 3753 BOLLING RD
+- City: RICHMOND
+- State: VA
+- ZIP: 23223
+- ZIP extension: 
+- State project ID: 988
+- Latitude: 37.575068
+- Longitude: -77.390623
+- County FIPS: 51087
+- County from: 2020
+- Tract 2020: 51087201002
+- Tract 2010: 51087201002
+- Tract 2000: 51087201002
+- Tract 1990: 51087201002
+- Place 2020: 24496
+- Place 2010: 24496
+- Place 2000: 24496
+- Place 1990: 0427
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 378387
+- Units: 294
+- Low-income units: 294
+- Units reported: 294
+- Low-income reported: 294
+- Efficiencies: 0
+- 1-bedroom units: 134
+- 2-bedroom units: 110
+- 3-bedroom units: 50
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

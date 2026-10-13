@@ -1,0 +1,85 @@
+# Project: HEATHERWILDE PARK RETIREMENT APTS (TXA20020120)
+
+- HUD ID: TXA20020120
+- HUD ID before: 
+- Project: HEATHERWILDE PARK RETIREMENT APTS
+- Address: 16500 YELLOW SAGE ST
+- City: PFLUGERVILLE
+- State: TX
+- ZIP: 78660
+- ZIP extension: 
+- State project ID: TX0018
+- Latitude: 30.453305
+- Longitude: -97.638175
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453042600
+- Tract 2010: 48453001860
+- Tract 2000: 48453001836
+- Tract 1990: 48453001836
+- Place 2020: 57176
+- Place 2010: 57176
+- Place 2000: 05000
+- Place 1990: 4632
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 128
+- Units reported: 168
+- Low-income reported: 128
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VERNON HEIGHTS (MOA20230016)
+
+- HUD ID: MOA20230016
+- HUD ID before: 
+- Project: VERNON HEIGHTS
+- Address: 550 HARWOOD AVE. & 207 N. MADISON AVENUE
+- City: LEBANON
+- State: MO
+- ZIP: 65536
+- ZIP extension: 0000
+- State project ID: 20-095
+- Latitude: 37.688339
+- Longitude: -92.663036
+- County FIPS: 29105
+- County from: 2020
+- Tract 2020: 29105960400
+- Tract 2010: 29105960400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 41168
+- Place 2010: 41168
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 457000
+- Units: 65
+- Low-income units: 65
+- Units reported: 65
+- Low-income reported: 65
+- Efficiencies: 7
+- 1-bedroom units: 58
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

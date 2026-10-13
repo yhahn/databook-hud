@@ -1,0 +1,85 @@
+# Project: LONGWOOD APTS (OHA19870090)
+
+- HUD ID: OHA19870090
+- HUD ID before: 
+- Project: LONGWOOD APTS
+- Address: 3510 LONGWOOD AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44115
+- ZIP extension: 
+- State project ID: OH-87-0118
+- Latitude: 41.491913
+- Longitude: -81.664041
+- County FIPS: 39035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39035109701
+- Tract 2000: 39035109700
+- Tract 1990: 39035109700
+- Place 2020: 
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 820
+- Low-income units: 820
+- Units reported: 820
+- Low-income reported: 820
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

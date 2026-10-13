@@ -1,0 +1,85 @@
+# Project: HISTORIC MUNCIE APTS (INA20090055)
+
+- HUD ID: INA20090055
+- HUD ID before: 
+- Project: HISTORIC MUNCIE APTS
+- Address: 451 E SECOND ST
+- City: MUNCIE
+- State: IN
+- ZIP: 47302
+- ZIP extension: 
+- State project ID: IN-08-04200
+- Latitude: 40.1867
+- Longitude: -85.383158
+- County FIPS: 18035
+- County from: 2020
+- Tract 2020: 18035000400
+- Tract 2010: 18035000400
+- Tract 2000: 18035000400
+- Tract 1990: 18035000400
+- Place 2020: 51876
+- Place 2010: 51876
+- Place 2000: 51876
+- Place 1990: 1735
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 559736
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 1
+- 1-bedroom units: 21
+- 2-bedroom units: 3
+- 3-bedroom units: 9
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2007120.
+- Record status: Existing, unchanged

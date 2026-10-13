@@ -1,0 +1,85 @@
+# Project: MECCA APTS III (CAA20050370)
+
+- HUD ID: CAA20050370
+- HUD ID before: 
+- Project: MECCA APTS III
+- Address: 91900 66TH AVE
+- City: MECCA
+- State: CA
+- ZIP: 92254
+- ZIP extension: 
+- State project ID: CA-03-084
+- Latitude: 33.569446
+- Longitude: -116.062102
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065045611
+- Tract 2010: 06065045604
+- Tract 2000: 06065045604
+- Tract 1990: 06065045602
+- Place 2020: 46660
+- Place 2010: 46660
+- Place 2000: 46660
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 727767
+- Units: 58
+- Low-income units: 57
+- Units reported: 58
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 36
+- 4-bedroom units: 14
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

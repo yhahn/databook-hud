@@ -1,0 +1,85 @@
+# Project: NORTH OF MAIN STREET (NJA20000090)
+
+- HUD ID: NJA20000090
+- HUD ID before: 
+- Project: NORTH OF MAIN STREET
+- Address: 60 TEMPLE ST
+- City: PATERSON
+- State: NJ
+- ZIP: 07522
+- ZIP extension: 1606
+- State project ID: PM01250
+- Latitude: 40.924695
+- Longitude: -74.174697
+- County FIPS: 34031
+- County from: 2020
+- Tract 2020: 34031264200
+- Tract 2010: 34031264200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 57000
+- Place 2010: 57000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 33
+- 3-bedroom units: 25
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

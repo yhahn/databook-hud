@@ -1,0 +1,85 @@
+# Project: RANCHO GARDENS APTS II (CAA20020355)
+
+- HUD ID: CAA20020355
+- HUD ID before: 
+- Project: RANCHO GARDENS APTS II
+- Address: 1414 N BROADWAY
+- City: SANTA MARIA
+- State: CA
+- ZIP: 93454
+- ZIP extension: 
+- State project ID: CA-00-124
+- Latitude: 34.966171
+- Longitude: -120.435475
+- County FIPS: 06083
+- County from: 2020
+- Tract 2020: 06083002205
+- Tract 2010: 06083002205
+- Tract 2000: 06083002205
+- Tract 1990: 06083002205
+- Place 2020: 69196
+- Place 2010: 69196
+- Place 2000: 69196
+- Place 1990: 2595
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 61124
+- Units: 16
+- Low-income units: 12
+- Units reported: 16
+- Low-income reported: 12
+- Efficiencies: 16
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

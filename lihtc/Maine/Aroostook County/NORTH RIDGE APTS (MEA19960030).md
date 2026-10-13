@@ -1,0 +1,85 @@
+# Project: NORTH RIDGE APTS (MEA19960030)
+
+- HUD ID: MEA19960030
+- HUD ID before: 
+- Project: NORTH RIDGE APTS
+- Address: 17 JACOBS AVE
+- City: CARIBOU
+- State: ME
+- ZIP: 04736
+- ZIP extension: 
+- State project ID: MSHA-RHLP-909
+- Latitude: 46.849134
+- Longitude: -68.013075
+- County FIPS: 23003
+- County from: 2020
+- Tract 2020: 23003951400
+- Tract 2010: 23003951400
+- Tract 2000: 23003951400
+- Tract 1990: 23003951400
+- Place 2020: 10565
+- Place 2010: 10565
+- Place 2000: 10565
+- Place 1990: 0840
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 90454
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 40
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NORTH RIDGE APT & II.
+- Record status: Existing, unchanged

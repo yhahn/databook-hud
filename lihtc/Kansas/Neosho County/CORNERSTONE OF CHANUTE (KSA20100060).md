@@ -1,0 +1,85 @@
+# Project: CORNERSTONE OF CHANUTE (KSA20100060)
+
+- HUD ID: KSA20100060
+- HUD ID before: 
+- Project: CORNERSTONE OF CHANUTE
+- Address: 1520 W FOURTH ST
+- City: CHANUTE
+- State: KS
+- ZIP: 66720
+- ZIP extension: 
+- State project ID: 60496
+- Latitude: 37.678123
+- Longitude: -95.474723
+- County FIPS: 20133
+- County from: 2020
+- Tract 2020: 20133951800
+- Tract 2010: 20133951800
+- Tract 2000: 20133951800
+- Tract 1990: 20133951800
+- Place 2020: 12500
+- Place 2010: 12500
+- Place 2000: 12500
+- Place 1990: 0445
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4264806
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CHANUTE, LINDEN APTS, CORNERSTONE APTS.
+- Record status: Existing, unchanged

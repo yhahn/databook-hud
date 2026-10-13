@@ -1,0 +1,85 @@
+# Project: PARKLAND MANOR APARTMENTS (KYA20050145)
+
+- HUD ID: KYA20050145
+- HUD ID before: 
+- Project: PARKLAND MANOR APARTMENTS
+- Address: EAST LAKE DRIVE
+- City: LEITCHFIELD
+- State: KY
+- ZIP: 42754
+- ZIP extension: 
+- State project ID: KY-04-039
+- Latitude: 37.5086
+- Longitude: -86.3256
+- County FIPS: 21085
+- County from: 2020
+- Tract 2020: 21085950402
+- Tract 2010: 21085950400
+- Tract 2000: 21085950400
+- Tract 1990: 21085950300
+- Place 2020: 44686
+- Place 2010: 44686
+- Place 2000: 
+- Place 1990: 1145
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 74
+- Low-income units: 74
+- Units reported: 74
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

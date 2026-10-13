@@ -1,0 +1,85 @@
+# Project: SASCO CREEK VILLAGE (CTA20151004)
+
+- HUD ID: CTA20151004
+- HUD ID before: 
+- Project: SASCO CREEK VILLAGE
+- Address: 1655 POST ROAD EAST
+- City: WESTPORT
+- State: CT
+- ZIP: 06880
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.138621
+- Longitude: -73.306045
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001050301
+- Tract 2010: 09001050300
+- Tract 2000: 09001050300
+- Tract 1990: 
+- Place 2020: 73175
+- Place 2010: 83570
+- Place 2000: 83570
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 583264
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 
+- 1-bedroom units: 13
+- 2-bedroom units: 30
+- 3-bedroom units: 11
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 300000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Supportive
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

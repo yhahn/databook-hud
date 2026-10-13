@@ -1,0 +1,85 @@
+# Project: PIERCE PLACE (MEA20171003)
+
+- HUD ID: MEA20171003
+- HUD ID before: 
+- Project: PIERCE PLACE
+- Address: 238 PARK STREET
+- City: LEWISTON
+- State: ME
+- ZIP: 04240
+- ZIP extension: 
+- State project ID: MSHA-RLP-1617
+- Latitude: 44.091931
+- Longitude: -70.213054
+- County FIPS: 23001
+- County from: 2020
+- Tract 2020: 23001020402
+- Tract 2010: 23001020400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 38740
+- Place 2010: 38740
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 588404
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 21
+- 3-bedroom units: 24
+- 4-bedroom units: 13
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 986758
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

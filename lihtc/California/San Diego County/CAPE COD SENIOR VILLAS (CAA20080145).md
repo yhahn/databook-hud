@@ -1,0 +1,85 @@
+# Project: CAPE COD SENIOR VILLAS (CAA20080145)
+
+- HUD ID: CAA20080145
+- HUD ID before: 
+- Project: CAPE COD SENIOR VILLAS
+- Address: 1710 MAXSON ST
+- City: OCEANSIDE
+- State: CA
+- ZIP: 92054
+- ZIP extension: 
+- State project ID: CA-07-812
+- Latitude: 33.199933
+- Longitude: -117.365072
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073018509
+- Tract 2010: 06073018509
+- Tract 2000: 06073018509
+- Tract 1990: 06073018501
+- Place 2020: 53322
+- Place 2010: 53322
+- Place 2000: 53322
+- Place 1990: 1990
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 209775
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

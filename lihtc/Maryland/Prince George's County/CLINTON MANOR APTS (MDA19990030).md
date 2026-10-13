@@ -1,0 +1,85 @@
+# Project: CLINTON MANOR APTS (MDA19990030)
+
+- HUD ID: MDA19990030
+- HUD ID before: 
+- Project: CLINTON MANOR APTS
+- Address: 8500 MIKE SHAPIRO DR
+- City: CLINTON
+- State: MD
+- ZIP: 20735
+- ZIP extension: 
+- State project ID: MD97-21
+- Latitude: 38.77239
+- Longitude: -76.882743
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033801214
+- Tract 2010: 24033801214
+- Tract 2000: 24033801205
+- Tract 1990: 24033801205
+- Place 2020: 17900
+- Place 2010: 17900
+- Place 2000: 17900
+- Place 1990: 0852
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 111
+- Low-income units: 111
+- Units reported: 111
+- Low-income reported: 111
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

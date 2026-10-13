@@ -1,0 +1,85 @@
+# Project: STEUBEN VILLAGE APTS (OHA20030237)
+
+- HUD ID: OHA20030237
+- HUD ID before: 
+- Project: STEUBEN VILLAGE APTS
+- Address: 601 TWO RIDGE RD
+- City: WINTERSVILLE
+- State: OH
+- ZIP: 43953
+- ZIP extension: 
+- State project ID: 030108
+- Latitude: 40.38285
+- Longitude: -80.729291
+- County FIPS: 39081
+- County from: 2020
+- Tract 2020: 39081001200
+- Tract 2010: 39081001200
+- Tract 2000: 39081011700
+- Tract 1990: 39081011700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 74608
+- Place 1990: 0513
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 139417
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 96
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003607, OHA2005128.
+- Record status: Existing, unchanged

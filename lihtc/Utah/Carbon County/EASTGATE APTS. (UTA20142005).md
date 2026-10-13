@@ -1,0 +1,85 @@
+# Project: EASTGATE APTS. (UTA20142005)
+
+- HUD ID: UTA20142005
+- HUD ID before: 
+- Project: EASTGATE APTS.
+- Address: 1170 E. MAIN STREET
+- City: PRICE
+- State: UT
+- ZIP: 84501
+- ZIP extension: 0000
+- State project ID: 2012-10
+- Latitude: 39.598418
+- Longitude: -110.793753
+- County FIPS: 49007
+- County from: 2020
+- Tract 2020: 49007000300
+- Tract 2010: 49007000300
+- Tract 2000: 49007000300
+- Tract 1990: 
+- Place 2020: 62030
+- Place 2010: 62030
+- Place 2000: 62030
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1000000
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 34
+- 3-bedroom units: 16
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

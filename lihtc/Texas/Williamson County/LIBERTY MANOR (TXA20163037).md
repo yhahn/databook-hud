@@ -1,0 +1,85 @@
+# Project: LIBERTY MANOR (TXA20163037)
+
+- HUD ID: TXA20163037
+- HUD ID before: 
+- Project: LIBERTY MANOR
+- Address: 122 BAILEY LANE
+- City: LIBERTY HILL
+- State: TX
+- ZIP: 
+- ZIP extension: 
+- State project ID: TX4996
+- Latitude: 30.666259
+- Longitude: -97.90424
+- County FIPS: 48491
+- County from: 2020
+- Tract 2020: 48491020207
+- Tract 2010: 48491020202
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 42664
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PRESTWICK-LH I.
+- Record status: Existing, unchanged

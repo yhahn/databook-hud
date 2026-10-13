@@ -1,0 +1,85 @@
+# Project: PINE COMMONS (MAB20030080)
+
+- HUD ID: MAB20030080
+- HUD ID before: 
+- Project: PINE COMMONS
+- Address: 755 OAK ST
+- City: BROCKTON
+- State: MA
+- ZIP: 02301
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.101375
+- Longitude: -71.057176
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023510505
+- Tract 2010: 25023510502
+- Tract 2000: 25023510502
+- Tract 1990: 25023510502
+- Place 2020: 09000
+- Place 2010: 09000
+- Place 2000: 09000
+- Place 1990: 0540
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 105
+- Units reported: 168
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 138
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

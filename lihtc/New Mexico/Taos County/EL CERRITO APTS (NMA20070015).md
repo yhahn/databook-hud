@@ -1,0 +1,85 @@
+# Project: EL CERRITO APTS (NMA20070015)
+
+- HUD ID: NMA20070015
+- HUD ID before: 
+- Project: EL CERRITO APTS
+- Address: 250 PASEO DEL CANON E
+- City: TAOS
+- State: NM
+- ZIP: 87571
+- ZIP extension: 
+- State project ID: 00435
+- Latitude: 36.377413
+- Longitude: -105.584427
+- County FIPS: 35055
+- County from: 2020
+- Tract 2020: 35055952701
+- Tract 2010: 35055952700
+- Tract 2000: 35055952700
+- Tract 1990: 35055952700
+- Place 2020: 76200
+- Place 2010: 76200
+- Place 2000: 61710
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 56
+- Units reported: 60
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 44
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 43
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 240000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: STEEL CITY PHASE I (PAA20030170)
+
+- HUD ID: PAA20030170
+- HUD ID before: 
+- Project: STEEL CITY PHASE I
+- Address: 421 HIGHLAND ST
+- City: FARRELL
+- State: PA
+- ZIP: 16121
+- ZIP extension: 
+- State project ID: TC20010423
+- Latitude: 41.206287
+- Longitude: -80.502235
+- County FIPS: 42085
+- County from: 2020
+- Tract 2020: 42085033400
+- Tract 2010: 42085033400
+- Tract 2000: 42085030800
+- Tract 1990: 42085030800
+- Place 2020: 25360
+- Place 2010: 25360
+- Place 2000: 25360
+- Place 1990: 3890
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 758651
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 42
+- 3-bedroom units: 4
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

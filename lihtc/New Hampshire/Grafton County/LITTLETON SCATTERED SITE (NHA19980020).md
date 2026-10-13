@@ -1,0 +1,85 @@
+# Project: LITTLETON SCATTERED SITE (NHA19980020)
+
+- HUD ID: NHA19980020
+- HUD ID before: 
+- Project: LITTLETON SCATTERED SITE
+- Address: 100 S ST
+- City: LITTLETON
+- State: NH
+- ZIP: 03561
+- ZIP extension: 
+- State project ID: MF-116
+- Latitude: 44.303624
+- Longitude: -71.773509
+- County FIPS: 33009
+- County from: 2020
+- Tract 2020: 33009960102
+- Tract 2010: 33009960100
+- Tract 2000: 33009960100
+- Tract 1990: 33009960100
+- Place 2020: 42500
+- Place 2010: 42500
+- Place 2000: 42500
+- Place 1990: 1520
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 4
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LITTLETON SOUTH-WEST.
+- Record status: Existing, unchanged

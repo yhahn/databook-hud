@@ -1,0 +1,85 @@
+# Project: MAPLE GROVE VILLAS (IAA20029397)
+
+- HUD ID: IAA20029397
+- HUD ID before: 
+- Project: MAPLE GROVE VILLAS
+- Address: 8602 WESTOWN PKWY
+- City: WEST DES MOINES
+- State: IA
+- ZIP: 50266
+- ZIP extension: 
+- State project ID: 01-45
+- Latitude: 41.586243
+- Longitude: -93.825769
+- County FIPS: 19049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19049050809
+- Tract 2000: 19049050802
+- Tract 1990: 19049050800
+- Place 2020: 
+- Place 2010: 83910
+- Place 2000: 14520
+- Place 1990: 4470
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 240
+- Low-income units: 237
+- Units reported: 240
+- Low-income reported: 237
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

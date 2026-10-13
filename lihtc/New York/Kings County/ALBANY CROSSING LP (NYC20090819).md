@@ -1,0 +1,85 @@
+# Project: ALBANY CROSSING LP (NYC20090819)
+
+- HUD ID: NYC20090819
+- HUD ID before: 
+- Project: ALBANY CROSSING LP
+- Address: 1 ALBANY AVENUE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11216
+- ZIP extension: 
+- State project ID: 20-8789263
+- Latitude: 40.680871
+- Longitude: -73.938349
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047027300
+- Tract 2010: 36047027300
+- Tract 2000: 36047027300
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 711302
+- Units: 92
+- Low-income units: 90
+- Units reported: 92
+- Low-income reported: 90
+- Efficiencies: 5
+- 1-bedroom units: 23
+- 2-bedroom units: 40
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

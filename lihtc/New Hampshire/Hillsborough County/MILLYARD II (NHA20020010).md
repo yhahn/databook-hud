@@ -1,0 +1,85 @@
+# Project: MILLYARD II (NHA20020010)
+
+- HUD ID: NHA20020010
+- HUD ID before: 
+- Project: MILLYARD II
+- Address: 106 MARKET ST
+- City: MANCHESTER
+- State: NH
+- ZIP: 03101
+- ZIP extension: 
+- State project ID: 102
+- Latitude: 42.990665
+- Longitude: -71.465192
+- County FIPS: 33011
+- County from: 2020
+- Tract 2020: 33011200400
+- Tract 2010: 33011200400
+- Tract 2000: 33011000400
+- Tract 1990: 33011000400
+- Place 2020: 45140
+- Place 2010: 45140
+- Place 2000: 45140
+- Place 1990: 1610
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 19
+- Units reported: 20
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 16
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MILLYARD FAMILIES II.
+- Record status: Existing, unchanged

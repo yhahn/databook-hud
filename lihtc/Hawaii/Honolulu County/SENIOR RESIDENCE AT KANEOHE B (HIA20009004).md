@@ -1,0 +1,85 @@
+# Project: SENIOR RESIDENCE AT KANEOHE B (HIA20009004)
+
+- HUD ID: HIA20009004
+- HUD ID before: 
+- Project: SENIOR RESIDENCE AT KANEOHE B
+- Address: 45 705 KAMEHAMEHA HWY
+- City: KANEOHE
+- State: HI
+- ZIP: 96744
+- ZIP extension: 
+- State project ID: HI-1998-003
+- Latitude: 21.412
+- Longitude: -157.8143
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003010507
+- Tract 2010: 15003010507
+- Tract 2000: 15003010506
+- Tract 1990: 
+- Place 2020: 28250
+- Place 2010: 28250
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 200000
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

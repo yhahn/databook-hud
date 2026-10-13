@@ -1,0 +1,85 @@
+# Project: TOWER REDEVELOPMENT PHASE 2 LLC (WIA20130021)
+
+- HUD ID: WIA20130021
+- HUD ID before: 
+- Project: TOWER REDEVELOPMENT PHASE 2 LLC
+- Address: 100 COURT STREET
+- City: OSHKOSH
+- State: WI
+- ZIP: 54901
+- ZIP extension: 
+- State project ID: 5767
+- Latitude: 44.014488
+- Longitude: -88.534504
+- County FIPS: 55139
+- County from: 2020
+- Tract 2020: 55139000501
+- Tract 2010: 55139000500
+- Tract 2000: 55139000500
+- Tract 1990: 55139000500
+- Place 2020: 60500
+- Place 2010: 60500
+- Place 2000: 60500
+- Place 1990: 1930
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 894833
+- Units: 53
+- Low-income units: 5
+- Units reported: 53
+- Low-income reported: 5
+- Efficiencies: 5
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

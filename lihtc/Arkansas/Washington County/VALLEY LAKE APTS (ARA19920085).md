@@ -1,0 +1,85 @@
+# Project: VALLEY LAKE APTS (ARA19920085)
+
+- HUD ID: ARA19920085
+- HUD ID before: 
+- Project: VALLEY LAKE APTS
+- Address: 4311 N VALLEY LAKE DR
+- City: FAYETTEVILLE
+- State: AR
+- ZIP: 72703
+- ZIP extension: 
+- State project ID: AR-91-21-001
+- Latitude: 36.128859
+- Longitude: -94.121868
+- County FIPS: 05143
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05143010106
+- Tract 2000: 05143010106
+- Tract 1990: 05143010100
+- Place 2020: 
+- Place 2010: 23290
+- Place 2000: 23290
+- Place 1990: 0670
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

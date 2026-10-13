@@ -1,0 +1,85 @@
+# Project: ELIZABETH CROSSINGS (NYA20070065)
+
+- HUD ID: NYA20070065
+- HUD ID before: 
+- Project: ELIZABETH CROSSINGS
+- Address: 41 CHURCH ST
+- City: WATERLOO
+- State: NY
+- ZIP: 13165
+- ZIP extension: 
+- State project ID: 20050305
+- Latitude: 42.907939
+- Longitude: -76.85956
+- County FIPS: 36099
+- County from: 2020
+- Tract 2020: 36099950500
+- Tract 2010: 36099950500
+- Tract 2000: 36099950500
+- Tract 1990: 36099950500
+- Place 2020: 78553
+- Place 2010: 78553
+- Place 2000: 78553
+- Place 1990: 3830
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 442400
+- Units: 41
+- Low-income units: 40
+- Units reported: 41
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 20
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

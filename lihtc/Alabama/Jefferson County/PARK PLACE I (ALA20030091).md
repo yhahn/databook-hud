@@ -1,0 +1,85 @@
+# Project: PARK PLACE I (ALA20030091)
+
+- HUD ID: ALA20030091
+- HUD ID before: 
+- Project: PARK PLACE I
+- Address: 600 24TH ST N
+- City: BIRMINGHAM
+- State: AL
+- ZIP: 35203
+- ZIP extension: 
+- State project ID: AL-02-0054
+- Latitude: 33.521786
+- Longitude: -86.803608
+- County FIPS: 01073
+- County from: 2020
+- Tract 2020: 01073002702
+- Tract 2010: 01073002700
+- Tract 2000: 01073002700
+- Tract 1990: 01073002700
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0185
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 1058253
+- Units: 197
+- Low-income units: 97
+- Units reported: 197
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 55
+- 2-bedroom units: 110
+- 3-bedroom units: 31
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 197
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2004080. FKA METROPOLITAN GARDENS
+- Record status: Existing, unchanged

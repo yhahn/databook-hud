@@ -1,0 +1,85 @@
+# Project: RUG MILL SENIOR (NJA20000105)
+
+- HUD ID: NJA20000105
+- HUD ID before: 
+- Project: RUG MILL SENIOR
+- Address: 30 JACKSON ST
+- City: FREEHOLD
+- State: NJ
+- ZIP: 07728
+- ZIP extension: 
+- State project ID: PM01253
+- Latitude: 40.260569
+- Longitude: -74.268585
+- County FIPS: 34025
+- County from: 2020
+- Tract 2020: 34025810800
+- Tract 2010: 34025810800
+- Tract 2000: 34025810800
+- Tract 1990: 34025810800
+- Place 2020: 25200
+- Place 2010: 25200
+- Place 2000: 25200
+- Place 1990: 1895
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 98
+- Low-income units: 98
+- Units reported: 98
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 98
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

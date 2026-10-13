@@ -1,0 +1,85 @@
+# Project: ATLANTIC TERRACE (DCB19880005)
+
+- HUD ID: DCB19880005
+- HUD ID before: 
+- Project: ATLANTIC TERRACE
+- Address: 4319 THIRD ST SE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20032
+- ZIP extension: 
+- State project ID: DCB1988005
+- Latitude: 38.827894
+- Longitude: -77.002496
+- County FIPS: 11001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 11001009810
+- Tract 2000: 11001009806
+- Tract 1990: 11001009806
+- Place 2020: 
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 196
+- Low-income units: 196
+- Units reported: 196
+- Low-income reported: 196
+- Efficiencies: 26
+- 1-bedroom units: 122
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

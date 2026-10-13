@@ -1,0 +1,85 @@
+# Project: GENEVA APARTMENTS (NYB20213080)
+
+- HUD ID: NYB20213080
+- HUD ID before: 
+- Project: GENEVA APARTMENTS
+- Address: 10 GOODMAN STREET
+- City: GENEVA
+- State: NY
+- ZIP: 14456
+- ZIP extension: 
+- State project ID: NY-21-2502
+- Latitude: 42.880333
+- Longitude: -76.96447
+- County FIPS: 36069
+- County from: 2020
+- Tract 2020: 36069051700
+- Tract 2010: 36069051700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 28640
+- Place 2010: 28640
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1768211
+- Units: 215
+- Low-income units: 215
+- Units reported: 215
+- Low-income reported: 215
+- Efficiencies: 0
+- 1-bedroom units: 103
+- 2-bedroom units: 41
+- 3-bedroom units: 58
+- 4-bedroom units: 13
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

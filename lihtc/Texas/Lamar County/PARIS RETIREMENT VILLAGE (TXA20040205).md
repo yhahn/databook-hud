@@ -1,0 +1,85 @@
+# Project: PARIS RETIREMENT VILLAGE (TXA20040205)
+
+- HUD ID: TXA20040205
+- HUD ID before: 
+- Project: PARIS RETIREMENT VILLAGE
+- Address: 1400 W WASHINGTON ST
+- City: PARIS
+- State: TX
+- ZIP: 75460
+- ZIP extension: 
+- State project ID: TX3224
+- Latitude: 33.654038
+- Longitude: -95.570758
+- County FIPS: 48277
+- County from: 2020
+- Tract 2020: 48277000800
+- Tract 2010: 48277000800
+- Tract 2000: 48277000800
+- Tract 1990: 48277000800
+- Place 2020: 55080
+- Place 2010: 55080
+- Place 2000: 55080
+- Place 1990: 3195
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 68
+- Units reported: 76
+- Low-income reported: 68
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

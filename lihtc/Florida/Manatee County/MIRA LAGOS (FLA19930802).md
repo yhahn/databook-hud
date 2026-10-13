@@ -1,0 +1,85 @@
+# Project: MIRA LAGOS (FLA19930802)
+
+- HUD ID: FLA19930802
+- HUD ID before: 
+- Project: MIRA LAGOS
+- Address: 358 34TH AVE DRIVE EAST
+- City: BRADENTON
+- State: FL
+- ZIP: 34208
+- ZIP extension: 
+- State project ID: 500
+- Latitude: 27.468822
+- Longitude: -82.559846
+- County FIPS: 12081
+- County from: 2020
+- Tract 2020: 12081000105
+- Tract 2010: 12081000105
+- Tract 2000: 12081000104
+- Tract 1990: 12081000104
+- Place 2020: 76740
+- Place 2010: 76740
+- Place 2000: 07950
+- Place 1990: 2221
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 1404547
+- Units: 226
+- Low-income units: 226
+- Units reported: 226
+- Low-income reported: 226
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 96
+- 3-bedroom units: 76
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

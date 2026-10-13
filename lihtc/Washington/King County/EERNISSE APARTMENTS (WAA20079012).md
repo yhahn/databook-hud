@@ -1,0 +1,85 @@
+# Project: EERNISSE APARTMENTS (WAA20079012)
+
+- HUD ID: WAA20079012
+- HUD ID before: 
+- Project: EERNISSE APARTMENTS
+- Address: 17905 97TH PL SW
+- City: VASHON
+- State: WA
+- ZIP: 98070
+- ZIP extension: 
+- State project ID: 05-164A
+- Latitude: 47.445834
+- Longitude: -122.458323
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033027701
+- Tract 2010: 53033027701
+- Tract 2000: 53033027701
+- Tract 1990: 
+- Place 2020: 74305
+- Place 2010: 74305
+- Place 2000: 74305
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 212350
+- Units: 26
+- Low-income units: 25
+- Units reported: 26
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 11
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

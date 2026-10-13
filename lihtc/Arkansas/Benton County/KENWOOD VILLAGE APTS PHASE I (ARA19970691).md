@@ -1,0 +1,85 @@
+# Project: KENWOOD VILLAGE APTS PHASE I (ARA19970691)
+
+- HUD ID: ARA19970691
+- HUD ID before: 
+- Project: KENWOOD VILLAGE APTS PHASE I
+- Address: 2425 E KENWOOD ST
+- City: SILOAM SPRINGS
+- State: AR
+- ZIP: 72761
+- ZIP extension: 
+- State project ID: AR-96-26
+- Latitude: 36.1628
+- Longitude: -94.4831
+- County FIPS: 05007
+- County from: 2020
+- Tract 2020: 05007021313
+- Tract 2010: 05007021301
+- Tract 2000: 05007021301
+- Tract 1990: 05007021301
+- Place 2020: 64370
+- Place 2010: 64370
+- Place 2000: 26290
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 41700
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1997678, ARA1997048. AKA SILOAM SPRINGS APTS.
+- Record status: Existing, unchanged

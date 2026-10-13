@@ -1,0 +1,85 @@
+# Project: HUNTINGTON COURT (WAA19900065)
+
+- HUD ID: WAA19900065
+- HUD ID before: 
+- Project: HUNTINGTON COURT
+- Address: 306 E MANITOBA AVE
+- City: ELLENSBURG
+- State: WA
+- ZIP: 98926
+- ZIP extension: 
+- State project ID: 89-21C
+- Latitude: 46.988166
+- Longitude: -120.543407
+- County FIPS: 53037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53037975402
+- Tract 2000: 53037975402
+- Tract 1990: 53037975400
+- Place 2020: 
+- Place 2010: 21240
+- Place 2000: 21240
+- Place 1990: 0380
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

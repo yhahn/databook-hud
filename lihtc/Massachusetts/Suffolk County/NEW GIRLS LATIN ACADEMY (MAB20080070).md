@@ -1,0 +1,85 @@
+# Project: NEW GIRLS LATIN ACADEMY (MAB20080070)
+
+- HUD ID: MAB20080070
+- HUD ID before: 
+- Project: NEW GIRLS LATIN ACADEMY
+- Address: 380 TALBOT AVE
+- City: BOSTON
+- State: MA
+- ZIP: 02124
+- ZIP extension: 
+- State project ID: 1147
+- Latitude: 42.290118
+- Longitude: -71.069621
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025100500
+- Tract 2010: 25025100500
+- Tract 2000: 25025100500
+- Tract 1990: 25025100500
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 504000
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 21
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 845000
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GIRLS LATIN ACADEMY II.
+- Record status: Existing, unchanged

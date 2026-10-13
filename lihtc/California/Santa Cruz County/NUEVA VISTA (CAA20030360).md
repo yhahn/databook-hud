@@ -1,0 +1,85 @@
+# Project: NUEVA VISTA (CAA20030360)
+
+- HUD ID: CAA20030360
+- HUD ID before: 
+- Project: NUEVA VISTA
+- Address: 136 LEIBRANDT AVE
+- City: SANTA CRUZ
+- State: CA
+- ZIP: 95060
+- ZIP extension: 
+- State project ID: CA-02-009
+- Latitude: 36.965809
+- Longitude: -122.016561
+- County FIPS: 06087
+- County from: 2020
+- Tract 2020: 06087101002
+- Tract 2010: 06087101000
+- Tract 2000: 06087101000
+- Tract 1990: 06087101000
+- Place 2020: 69112
+- Place 2010: 69112
+- Place 2000: 69112
+- Place 1990: 2585
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 908266
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 18
+- 3-bedroom units: 21
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

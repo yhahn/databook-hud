@@ -1,0 +1,85 @@
+# Project: FAIRFAX GARDEN APTS (SCA20100048)
+
+- HUD ID: SCA20100048
+- HUD ID before: 
+- Project: FAIRFAX GARDEN APTS
+- Address: 1914 CHARLESTON AVE
+- City: FAIRFAX
+- State: SC
+- ZIP: 29827
+- ZIP extension: 
+- State project ID: SC-50-823
+- Latitude: 32.967998
+- Longitude: -81.249994
+- County FIPS: 45005
+- County from: 2020
+- Tract 2020: 45005970500
+- Tract 2010: 45005970400
+- Tract 2000: 45005970400
+- Tract 1990: 45005970400
+- Place 2020: 24370
+- Place 2010: 99999
+- Place 2000: 24370
+- Place 1990: 0460
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 113984
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NEW FAIRFAX APTS.
+- Record status: Existing, unchanged

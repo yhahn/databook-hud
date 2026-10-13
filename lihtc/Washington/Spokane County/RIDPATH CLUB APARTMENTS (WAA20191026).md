@@ -1,0 +1,85 @@
+# Project: RIDPATH CLUB APARTMENTS (WAA20191026)
+
+- HUD ID: WAA20191026
+- HUD ID before: 
+- Project: RIDPATH CLUB APARTMENTS
+- Address: 514 W 1ST AVENUE
+- City: SPOKANE
+- State: WA
+- ZIP: 99201
+- ZIP extension: 
+- State project ID: 17-116A
+- Latitude: 47.656749
+- Longitude: -117.420299
+- County FIPS: 53063
+- County from: 2020
+- Tract 2020: 53063003500
+- Tract 2010: 53063003500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 457391
+- Units: 206
+- Low-income units: 179
+- Units reported: 206
+- Low-income reported: 179
+- Efficiencies: 147
+- 1-bedroom units: 59
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

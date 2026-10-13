@@ -1,0 +1,85 @@
+# Project: WOODLANDS AT MONTGOMERY W (GAA20200012)
+
+- HUD ID: GAA20200012
+- HUD ID before: 
+- Project: WOODLANDS AT MONTGOMERY W
+- Address: 227 W MONTGOMERY CROSS ROAD
+- City: SAVANNAH
+- State: GA
+- ZIP: 31406
+- ZIP extension: 0000
+- State project ID: 2017-503
+- Latitude: 32.000383
+- Longitude: -81.132161
+- County FIPS: 13051
+- County from: 2020
+- Tract 2020: 13051004207
+- Tract 2010: 13051004207
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 994912
+- Units: 246
+- Low-income units: 246
+- Units reported: 246
+- Low-income reported: 246
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 96
+- 3-bedroom units: 92
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

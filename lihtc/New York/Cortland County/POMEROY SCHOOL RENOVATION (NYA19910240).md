@@ -1,0 +1,85 @@
+# Project: POMEROY SCHOOL RENOVATION (NYA19910240)
+
+- HUD ID: NYA19910240
+- HUD ID before: 
+- Project: POMEROY SCHOOL RENOVATION
+- Address: 47 POMEROY ST
+- City: CORTLAND
+- State: NY
+- ZIP: 13045
+- ZIP extension: 
+- State project ID: 19901525
+- Latitude: 42.601807
+- Longitude: -76.166693
+- County FIPS: 36023
+- County from: 2020
+- Tract 2020: 36023970500
+- Tract 2010: 36023970500
+- Tract 2000: 36023990500
+- Tract 1990: 36023990500
+- Place 2020: 18388
+- Place 2010: 18388
+- Place 2000: 18388
+- Place 1990: 0820
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 33
+- Low-income units: 31
+- Units reported: 33
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 15
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

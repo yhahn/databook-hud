@@ -1,0 +1,85 @@
+# Project: WESLEY LANDING (NCA20110175)
+
+- HUD ID: NCA20110175
+- HUD ID before: 
+- Project: WESLEY LANDING
+- Address: 1720 LIPSCOMB ROAD E BUILDING A
+- City: WILSON
+- State: NC
+- ZIP: 27893
+- ZIP extension: 
+- State project ID: 9104504
+- Latitude: 35.716174
+- Longitude: -77.885388
+- County FIPS: 37195
+- County from: 2020
+- Tract 2020: 37195000701
+- Tract 2010: 37195000700
+- Tract 2000: 37195000700
+- Tract 1990: 37195000700
+- Place 2020: 74540
+- Place 2010: 74540
+- Place 2000: 74540
+- Place 1990: 2760
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 657373
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

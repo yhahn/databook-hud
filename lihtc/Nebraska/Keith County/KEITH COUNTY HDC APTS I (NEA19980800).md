@@ -1,0 +1,85 @@
+# Project: KEITH COUNTY HDC APTS I (NEA19980800)
+
+- HUD ID: NEA19980800
+- HUD ID before: 
+- Project: KEITH COUNTY HDC APTS I
+- Address: 206 W FIFTH ST
+- City: PAXTON
+- State: NE
+- ZIP: 69155
+- ZIP extension: 
+- State project ID: 7-0383
+- Latitude: 41.126875
+- Longitude: -101.358534
+- County FIPS: 31101
+- County from: 2020
+- Tract 2020: 31101000300
+- Tract 2010: 31101000300
+- Tract 2000: 31101000300
+- Tract 1990: 31101958700
+- Place 2020: 38610
+- Place 2010: 38610
+- Place 2000: 06785
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 37584
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

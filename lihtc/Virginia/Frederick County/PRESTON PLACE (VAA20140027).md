@@ -1,0 +1,85 @@
+# Project: PRESTON PLACE (VAA20140027)
+
+- HUD ID: VAA20140027
+- HUD ID before: 
+- Project: PRESTON PLACE
+- Address: 200 LEAFIELD CT
+- City: WINCHESTER
+- State: VA
+- ZIP: 22602
+- ZIP extension: 
+- State project ID: 9518
+- Latitude: 39.147212
+- Longitude: -78.157511
+- County FIPS: 51069
+- County from: 2020
+- Tract 2020: 51069050900
+- Tract 2010: 51069050900
+- Tract 2000: 51069050900
+- Tract 1990: 51069050900
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 655957
+- Units: 236
+- Low-income units: 236
+- Units reported: 236
+- Low-income reported: 236
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 165
+- 3-bedroom units: 71
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1997125, VAA1995135, VAA1993085. FKA PRESTON PLACE I, II & III
+- Record status: Existing, unchanged

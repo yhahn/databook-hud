@@ -1,0 +1,85 @@
+# Project: HARRIMAN HILL APARTMENTS PHASE 2 (NHA20141006)
+
+- HUD ID: NHA20141006
+- HUD ID before: NHA00000009
+- Project: HARRIMAN HILL APARTMENTS PHASE 2
+- Address: CLEMENT COURT + BECK DRIVE
+- City: WOLFEBORO
+- State: NH
+- ZIP: 03894
+- ZIP extension: 
+- State project ID: 1018
+- Latitude: 43.6094
+- Longitude: -71.175
+- County FIPS: 33003
+- County from: 2020
+- Tract 2020: 33003956102
+- Tract 2010: 33003956100
+- Tract 2000: 33003956100
+- Tract 1990: 33003956100
+- Place 2020: 86340
+- Place 2010: 86340
+- Place 2000: 86340
+- Place 1990: 2820
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 336579
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1082027
+- CDBG: Yes
+- CDBG amount: 475000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS NHA00000009
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ASHLEY TOWERS (FLA19990210)
+
+- HUD ID: FLA19990210
+- HUD ID before: 
+- Project: ASHLEY TOWERS
+- Address: 311 W ASHLEY ST
+- City: JACKSONVILLE
+- State: FL
+- ZIP: 32202
+- ZIP extension: 
+- State project ID: 856
+- Latitude: 30.331813
+- Longitude: -81.660833
+- County FIPS: 12031
+- County from: 2020
+- Tract 2020: 12031017200
+- Tract 2010: 12031017200
+- Tract 2000: 12031001800
+- Tract 1990: 12031001800
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1003
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 205
+- Low-income units: 205
+- Units reported: 205
+- Low-income reported: 205
+- Efficiencies: 86
+- 1-bedroom units: 114
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA TOWER PLACE APTS
+- Record status: Existing, unchanged

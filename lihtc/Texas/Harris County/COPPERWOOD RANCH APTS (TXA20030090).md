@@ -1,0 +1,85 @@
+# Project: COPPERWOOD RANCH APTS (TXA20030090)
+
+- HUD ID: TXA20030090
+- HUD ID before: 
+- Project: COPPERWOOD RANCH APTS
+- Address: 6833 LAKEVIEW HAVEN DR
+- City: HOUSTON
+- State: TX
+- ZIP: 77084
+- ZIP extension: 
+- State project ID: TX3270
+- Latitude: 29.875473
+- Longitude: -95.650571
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201541301
+- Tract 2010: 48201541300
+- Tract 2000: 48201541300
+- Tract 1990: 48201045112
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 240
+- Low-income units: 144
+- Units reported: 240
+- Low-income reported: 144
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HOUSTON COPPERWOOD APTS.
+- Record status: Existing, unchanged

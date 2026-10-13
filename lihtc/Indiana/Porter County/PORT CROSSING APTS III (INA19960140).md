@@ -1,0 +1,85 @@
+# Project: PORT CROSSING APTS III (INA19960140)
+
+- HUD ID: INA19960140
+- HUD ID before: 
+- Project: PORT CROSSING APTS III
+- Address: 3300 PORTSIDE CT
+- City: PORTAGE
+- State: IN
+- ZIP: 46368
+- ZIP extension: 
+- State project ID: IN-96-03900
+- Latitude: 41.55504
+- Longitude: -87.162824
+- County FIPS: 18127
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18127050507
+- Tract 2000: 18127050504
+- Tract 1990: 18127050101
+- Place 2020: 
+- Place 2010: 61092
+- Place 2000: 12412
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 96
+- Units reported: 176
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 40
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

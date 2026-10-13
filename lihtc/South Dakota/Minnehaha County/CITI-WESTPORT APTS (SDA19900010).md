@@ -1,0 +1,85 @@
+# Project: CITI-WESTPORT APTS (SDA19900010)
+
+- HUD ID: SDA19900010
+- HUD ID before: 
+- Project: CITI-WESTPORT APTS
+- Address: 3205 W 43RD ST
+- City: SIOUX FALLS
+- State: SD
+- ZIP: 57106
+- ZIP extension: 
+- State project ID: SD-0060
+- Latitude: 43.51287
+- Longitude: -96.766243
+- County FIPS: 46099
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 46099001101
+- Tract 2000: 46099001101
+- Tract 1990: 46099001101
+- Place 2020: 
+- Place 2010: 59020
+- Place 2000: 59020
+- Place 1990: 1225
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

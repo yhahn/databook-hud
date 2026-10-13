@@ -1,0 +1,85 @@
+# Project: LAKESIDE COMMONS (FLA20050080)
+
+- HUD ID: FLA20050080
+- HUD ID before: 
+- Project: LAKESIDE COMMONS
+- Address: 550 EXECUTIVE CTR DR
+- City: WEST PALM BEACH
+- State: FL
+- ZIP: 33401
+- ZIP extension: 
+- State project ID: 1158
+- Latitude: 26.711491
+- Longitude: -80.076932
+- County FIPS: 12099
+- County from: 2020
+- Tract 2020: 12099002006
+- Tract 2010: 12099002006
+- Tract 2000: 12099002000
+- Tract 1990: 12099002000
+- Place 2020: 76600
+- Place 2010: 76600
+- Place 2000: 76600
+- Place 1990: 2215
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 99
+- Low-income units: 98
+- Units reported: 99
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 69
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

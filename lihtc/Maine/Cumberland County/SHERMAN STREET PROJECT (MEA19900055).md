@@ -1,0 +1,85 @@
+# Project: SHERMAN STREET PROJECT (MEA19900055)
+
+- HUD ID: MEA19900055
+- HUD ID before: 
+- Project: SHERMAN STREET PROJECT
+- Address: 56 SHERMAN ST
+- City: PORTLAND
+- State: ME
+- ZIP: 04101
+- ZIP extension: 
+- State project ID: ME-89-00045
+- Latitude: 43.655669
+- Longitude: -70.268333
+- County FIPS: 23005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 23005001000
+- Tract 2000: 23005001000
+- Tract 1990: 23005001000
+- Place 2020: 
+- Place 2010: 60545
+- Place 2000: 60545
+- Place 1990: 3750
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 21
+- Units reported: 50
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 18
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARK AT KIRKSTALL (TXA20030370)
+
+- HUD ID: TXA20030370
+- HUD ID before: 
+- Project: PARK AT KIRKSTALL
+- Address: 300 KIRKSTALL DR
+- City: HOUSTON
+- State: TX
+- ZIP: 77090
+- ZIP extension: 
+- State project ID: TX3312
+- Latitude: 29.978827
+- Longitude: -95.428304
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201550303
+- Tract 2010: 48201550301
+- Tract 2000: 48201550300
+- Tract 1990: 48201053602
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 35000
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

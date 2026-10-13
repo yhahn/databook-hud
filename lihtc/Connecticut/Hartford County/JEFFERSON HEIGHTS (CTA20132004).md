@@ -1,0 +1,85 @@
+# Project: JEFFERSON HEIGHTS (CTA20132004)
+
+- HUD ID: CTA20132004
+- HUD ID before: 
+- Project: JEFFERSON HEIGHTS
+- Address: 2380 CORBIN AVENUE
+- City: NEW BRITAIN
+- State: CT
+- ZIP: 06053
+- ZIP extension: 
+- State project ID: 12-004-T9
+- Latitude: 41.693516
+- Longitude: -72.795769
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003416700
+- Tract 2010: 09003416700
+- Tract 2000: 09003416700
+- Tract 1990: 
+- Place 2020: 50370
+- Place 2010: 50370
+- Place 2000: 50370
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1022415
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 
+- 1-bedroom units: 68
+- 2-bedroom units: 2
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2497105
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: 
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Supportive Housing
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

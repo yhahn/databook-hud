@@ -1,0 +1,85 @@
+# Project: BAKERSFIELD FAMILY APTS II (CAA20090803)
+
+- HUD ID: CAA20090803
+- HUD ID before: 
+- Project: BAKERSFIELD FAMILY APTS II
+- Address: 1629 LOTUS LN
+- City: BAKERSFIELD
+- State: CA
+- ZIP: 93307
+- ZIP extension: 
+- State project ID: CA-07-906
+- Latitude: 35.337373
+- Longitude: -118.989703
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029002502
+- Tract 2010: 06029002500
+- Tract 2000: 06029002500
+- Tract 1990: 06029002500
+- Place 2020: 03526
+- Place 2010: 03526
+- Place 2000: 03526
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 749924
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

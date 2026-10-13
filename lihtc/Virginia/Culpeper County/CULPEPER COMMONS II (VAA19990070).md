@@ -1,0 +1,85 @@
+# Project: CULPEPER COMMONS II (VAA19990070)
+
+- HUD ID: VAA19990070
+- HUD ID before: 
+- Project: CULPEPER COMMONS II
+- Address: 1301 SPRING MEADOW LN
+- City: CULPEPER
+- State: VA
+- ZIP: 22701
+- ZIP extension: 
+- State project ID: 5563B
+- Latitude: 38.484532
+- Longitude: -77.978985
+- County FIPS: 51047
+- County from: 2020
+- Tract 2020: 51047930300
+- Tract 2010: 51047930300
+- Tract 2000: 51047990300
+- Tract 1990: 51047990300
+- Place 2020: 20752
+- Place 2010: 20752
+- Place 2000: 20752
+- Place 1990: 0355
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 148737
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA0000033.
+- Record status: Existing, unchanged

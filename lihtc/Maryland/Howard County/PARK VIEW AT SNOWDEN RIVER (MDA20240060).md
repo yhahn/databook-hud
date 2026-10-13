@@ -1,0 +1,85 @@
+# Project: PARK VIEW AT SNOWDEN RIVER (MDA20240060)
+
+- HUD ID: MDA20240060
+- HUD ID before: 
+- Project: PARK VIEW AT SNOWDEN RIVER
+- Address: 8600 WEST SNOWDEN RIVER PARKWAY
+- City: COLUMBIA
+- State: MD
+- ZIP: 21045
+- ZIP extension: 
+- State project ID: MD-03-08001
+- Latitude: 39.200145
+- Longitude: -76.808003
+- County FIPS: 24027
+- County from: 2020
+- Tract 2020: 24027606706
+- Tract 2010: 24027606706
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 19125
+- Place 2010: 19125
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 581521
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 81
+- 2-bedroom units: 19
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

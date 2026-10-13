@@ -1,0 +1,85 @@
+# Project: HOUSING ENTERPRISES OF SHULLSBURG I (WIA19920105)
+
+- HUD ID: WIA19920105
+- HUD ID before: 
+- Project: HOUSING ENTERPRISES OF SHULLSBURG I
+- Address: 520 W ESTEY ST
+- City: SHULLSBURG
+- State: WI
+- ZIP: 53586
+- ZIP extension: 
+- State project ID: 1129
+- Latitude: 42.571541
+- Longitude: -90.239144
+- County FIPS: 55065
+- County from: 2020
+- Tract 2020: 55065970400
+- Tract 2010: 55065970400
+- Tract 2000: 55065970400
+- Tract 1990: 55065970400
+- Place 2020: 73825
+- Place 2010: 73825
+- Place 2000: 06825
+- Place 1990: 2335
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

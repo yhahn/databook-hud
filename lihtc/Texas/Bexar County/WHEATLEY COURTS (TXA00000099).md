@@ -1,0 +1,85 @@
+# Project: WHEATLEY COURTS (TXA00000099)
+
+- HUD ID: TXA00000099
+- HUD ID before: 
+- Project: WHEATLEY COURTS
+- Address: 906 N MITTMAN
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78202
+- ZIP extension: 
+- State project ID: TX5030
+- Latitude: 29.430498
+- Longitude: -98.45471
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029130600
+- Tract 2010: 48029130600
+- Tract 2000: 48029130600
+- Tract 1990: 48029130600
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3745
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 
+- Low-income units: 
+- Units reported: 
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WHEATLEY FAMILY I.
+- Record status: Existing, unchanged

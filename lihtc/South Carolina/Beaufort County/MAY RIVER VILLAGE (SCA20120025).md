@@ -1,0 +1,85 @@
+# Project: MAY RIVER VILLAGE (SCA20120025)
+
+- HUD ID: SCA20120025
+- HUD ID before: 
+- Project: MAY RIVER VILLAGE
+- Address: 5670 PATRIOT LN
+- City: BLUFFTON
+- State: SC
+- ZIP: 29910
+- ZIP extension: 
+- State project ID: SC-10-054
+- Latitude: 32.238681
+- Longitude: -80.853837
+- County FIPS: 45013
+- County from: 2020
+- Tract 2020: 45013002107
+- Tract 2010: 45013002107
+- Tract 2000: 45013002100
+- Tract 1990: 45013002100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 07210
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 850000
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 28
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 900000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA1988262, SCA1988503.
+- Record status: Existing, unchanged

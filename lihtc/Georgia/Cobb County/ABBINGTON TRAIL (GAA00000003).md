@@ -1,0 +1,85 @@
+# Project: ABBINGTON TRAIL (GAA00000003)
+
+- HUD ID: GAA00000003
+- HUD ID before: 
+- Project: ABBINGTON TRAIL
+- Address: 3470 FLORENCE RD
+- City: POWDER SPRINGS
+- State: GA
+- ZIP: 30127
+- ZIP extension: 
+- State project ID: GA1012-466
+- Latitude: 33.866824
+- Longitude: -84.700222
+- County FIPS: 13067
+- County from: 2020
+- Tract 2020: 13067031511
+- Tract 2010: 13067031509
+- Tract 2000: 13067031501
+- Tract 1990: 13067031501
+- Place 2020: 62524
+- Place 2010: 62524
+- Place 2000: 04252
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

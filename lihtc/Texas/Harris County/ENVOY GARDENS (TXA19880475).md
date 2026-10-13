@@ -1,0 +1,85 @@
+# Project: ENVOY GARDENS (TXA19880475)
+
+- HUD ID: TXA19880475
+- HUD ID before: 
+- Project: ENVOY GARDENS
+- Address: 8655 PITNER RD
+- City: HOUSTON
+- State: TX
+- ZIP: 77080
+- ZIP extension: 
+- State project ID: TX6542
+- Latitude: 29.829206
+- Longitude: -95.505514
+- County FIPS: 48201
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48201521400
+- Tract 2000: 48201521400
+- Tract 1990: 48201044301
+- Place 2020: 
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 234
+- Low-income units: 234
+- Units reported: 234
+- Low-income reported: 234
+- Efficiencies: 12
+- 1-bedroom units: 48
+- 2-bedroom units: 152
+- 3-bedroom units: 16
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

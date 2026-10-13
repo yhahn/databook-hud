@@ -1,0 +1,25 @@
+# Tax Credit Projects: Johnson County, GA
+
+- Level: County
+- Postal code: GA
+- State FIPS: 13
+- County FIPS: 13167
+- Counties: 
+- Projects: 8
+- Units: 235
+- Low-income units: 211
+
+The low-income housing tax credit projects of Johnson County, Georgia, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [CARSON VILLAGE (GAA19920020)](./Johnson%20County/CARSON%20VILLAGE%20%28GAA19920020%29.md) | GAA19920020 | WRIGHTSVILLE | 1992 | 24 | 24 |
+| [PINE TERRACE I (GAA19920120)](./Johnson%20County/PINE%20TERRACE%20I%20%28GAA19920120%29.md) | GAA19920120 | WRIGHTSVILLE | 1992 | 48 | 25 |
+| [PINE TERRACE (GAA19929007)](./Johnson%20County/PINE%20TERRACE%20%28GAA19929007%29.md) | GAA19929007 | WRIGHTSVILLE | 1992 | 48 | 48 |
+| [DEERWOOD APARTMENTS (GAA19950095)](./Johnson%20County/DEERWOOD%20APARTMENTS%20%28GAA19950095%29.md) | GAA19950095 | ADRIAN | 1995 | 23 | 23 |
+| [PINE TERRACE II (GAA19950230)](./Johnson%20County/PINE%20TERRACE%20II%20%28GAA19950230%29.md) | GAA19950230 | WRIGHTSVILLE | 1995 | 24 | 24 |
+| [JT OAKVIEW, LP (GAA20049030)](./Johnson%20County/JT%20OAKVIEW,%20LP%20%28GAA20049030%29.md) | GAA20049030 | WRIGHTSVILLE | 2004 | 24 | 24 |
+| [OAKVIEW APTS (WRIGHTSVILLE) (GAA20050055)](./Johnson%20County/OAKVIEW%20APTS%20%28WRIGHTSVILLE%29%20%28GAA20050055%29.md) | GAA20050055 | WRIGHTSVILLE | 2005 | 24 | 23 |
+| [DEERWOOD VILLAGE (GAA20148106)](./Johnson%20County/DEERWOOD%20VILLAGE%20%28GAA20148106%29.md) | GAA20148106 | ADRIAN | 2014 | 20 | 20 |

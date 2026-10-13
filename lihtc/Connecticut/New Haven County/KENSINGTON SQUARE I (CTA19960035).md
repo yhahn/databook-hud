@@ -1,0 +1,85 @@
+# Project: KENSINGTON SQUARE I (CTA19960035)
+
+- HUD ID: CTA19960035
+- HUD ID before: 
+- Project: KENSINGTON SQUARE I
+- Address: 392 ORCHARD ST
+- City: NEW HAVEN
+- State: CT
+- ZIP: 06511
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.312201
+- Longitude: -72.941057
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009140700
+- Tract 2010: 09009140700
+- Tract 2000: 09009140700
+- Tract 1990: 09009140700
+- Place 2020: 52000
+- Place 2010: 52000
+- Place 2000: 52000
+- Place 1990: 1450
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 12
+- 1-bedroom units: 15
+- 2-bedroom units: 28
+- 3-bedroom units: 62
+- 4-bedroom units: 3
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

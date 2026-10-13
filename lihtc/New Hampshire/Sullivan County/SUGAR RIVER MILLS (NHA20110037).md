@@ -1,0 +1,85 @@
+# Project: SUGAR RIVER MILLS (NHA20110037)
+
+- HUD ID: NHA20110037
+- HUD ID before: 
+- Project: SUGAR RIVER MILLS
+- Address: 7 HERITAGE DR
+- City: CLAREMONT
+- State: NH
+- ZIP: 03743
+- ZIP extension: 
+- State project ID: NH368023009
+- Latitude: 43.375552
+- Longitude: -72.344054
+- County FIPS: 33019
+- County from: 2020
+- Tract 2020: 33019975901
+- Tract 2010: 33019975901
+- Tract 2000: 33019975901
+- Tract 1990: 33019975900
+- Place 2020: 12900
+- Place 2010: 12900
+- Place 2000: 12900
+- Place 1990: 0470
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 345747
+- Units: 162
+- Low-income units: 154
+- Units reported: 162
+- Low-income reported: 154
+- Efficiencies: 9
+- 1-bedroom units: 102
+- 2-bedroom units: 43
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 200000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NHA0000501.
+- Record status: Existing, unchanged

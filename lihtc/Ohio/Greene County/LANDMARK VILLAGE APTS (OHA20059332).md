@@ -1,0 +1,85 @@
+# Project: LANDMARK VILLAGE APTS (OHA20059332)
+
+- HUD ID: OHA20059332
+- HUD ID before: 
+- Project: LANDMARK VILLAGE APTS
+- Address: 264 LANDMARK CT
+- City: FAIRBORN
+- State: OH
+- ZIP: 45324
+- ZIP extension: 
+- State project ID: 030068
+- Latitude: 39.785602
+- Longitude: -84.019642
+- County FIPS: 39057
+- County from: 2020
+- Tract 2020: 39057200103
+- Tract 2010: 39057200103
+- Tract 2000: 39057200102
+- Tract 1990: 39057200102
+- Place 2020: 25914
+- Place 2010: 25914
+- Place 2000: 25914
+- Place 1990: 1330
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 890936
+- Units: 165
+- Low-income units: 165
+- Units reported: 165
+- Low-income reported: 165
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 42
+- 3-bedroom units: 66
+- 4-bedroom units: 33
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2004638, OHA2005083.
+- Record status: Existing, unchanged

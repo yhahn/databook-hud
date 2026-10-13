@@ -1,0 +1,85 @@
+# Project: SURF GARDENS (BROOKLYN) (NYC20100317)
+
+- HUD ID: NYC20100317
+- HUD ID before: 
+- Project: SURF GARDENS (BROOKLYN)
+- Address: 3117 SURF AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11224
+- ZIP extension: 
+- State project ID: 2008-073
+- Latitude: 40.572965
+- Longitude: -73.997205
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047034200
+- Tract 2010: 36047034200
+- Tract 2000: 36047034200
+- Tract 1990: 36047034200
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1180525
+- Units: 77
+- Low-income units: 76
+- Units reported: 77
+- Low-income reported: 76
+- Efficiencies: 11
+- 1-bedroom units: 65
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2010557, NYC2009305.
+- Record status: Existing, unchanged

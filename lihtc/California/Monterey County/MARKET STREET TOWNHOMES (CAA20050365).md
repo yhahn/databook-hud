@@ -1,0 +1,85 @@
+# Project: MARKET STREET TOWNHOMES (CAA20050365)
+
+- HUD ID: CAA20050365
+- HUD ID before: 
+- Project: MARKET STREET TOWNHOMES
+- Address: 110 MARKET ST
+- City: SOLEDAD
+- State: CA
+- ZIP: 93960
+- ZIP extension: 
+- State project ID: CA-03-893
+- Latitude: 36.431473
+- Longitude: -121.331397
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053011104
+- Tract 2010: 06053011102
+- Tract 2000: 06053011102
+- Tract 1990: 06053011100
+- Place 2020: 72520
+- Place 2010: 72520
+- Place 2000: 72520
+- Place 1990: 2705
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 451494
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 22
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GLENBROOK AT OXMOOR VALLEY PHASE I (ALA20090018)
+
+- HUD ID: ALA20090018
+- HUD ID before: 
+- Project: GLENBROOK AT OXMOOR VALLEY PHASE I
+- Address: 2801 SYDNEY DR
+- City: BIRMINGHAM
+- State: AL
+- ZIP: 35211
+- ZIP extension: 
+- State project ID: AL-07-0096
+- Latitude: 33.43073
+- Longitude: -86.871736
+- County FIPS: 01073
+- County from: 2020
+- Tract 2020: 01073014304
+- Tract 2010: 01073014302
+- Tract 2000: 01073014302
+- Tract 1990: 01073014302
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 05980
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1019725
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 60
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 100
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2009552, ALA2007180, ALA2008057, ALA2008057.
+- Record status: Existing, unchanged

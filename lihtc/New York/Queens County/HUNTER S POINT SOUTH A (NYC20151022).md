@@ -1,0 +1,85 @@
+# Project: HUNTER S POINT SOUTH A (NYC20151022)
+
+- HUD ID: NYC20151022
+- HUD ID before: 
+- Project: HUNTER S POINT SOUTH A
+- Address: 1-50 50TH AVENUE
+- City: LONG ISLAND CITY
+- State: NY
+- ZIP: 11101
+- ZIP extension: 
+- State project ID: 90-0880706
+- Latitude: 40.743474
+- Longitude: -73.958804
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081000101
+- Tract 2010: 36081000100
+- Tract 2000: 36081002700
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1552047
+- Units: 619
+- Low-income units: 124
+- Units reported: 619
+- Low-income reported: 124
+- Efficiencies: 165
+- 1-bedroom units: 205
+- 2-bedroom units: 214
+- 3-bedroom units: 35
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

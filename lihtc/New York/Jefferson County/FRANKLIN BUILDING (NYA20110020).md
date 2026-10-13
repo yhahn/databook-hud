@@ -1,0 +1,85 @@
+# Project: FRANKLIN BUILDING (NYA20110020)
+
+- HUD ID: NYA20110020
+- HUD ID before: 
+- Project: FRANKLIN BUILDING
+- Address: 50 PUBLIC SQ
+- City: WATERTOWN
+- State: NY
+- ZIP: 13601
+- ZIP extension: 
+- State project ID: 20086061
+- Latitude: 43.974266
+- Longitude: -75.909308
+- County FIPS: 36045
+- County from: 2020
+- Tract 2020: 36045062100
+- Tract 2010: 36045062100
+- Tract 2000: 36045062100
+- Tract 1990: 36045062100
+- Place 2020: 78608
+- Place 2010: 78608
+- Place 2000: 78608
+- Place 1990: 3835
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 352000
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 4
+- 1-bedroom units: 6
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 375000
+- TCAP: Yes
+- TCAP amount: 2198985
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA2011517.
+- Record status: Existing, unchanged

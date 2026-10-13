@@ -1,0 +1,85 @@
+# Project: CEDAR MOUNTAIN APTS (WYA20120010)
+
+- HUD ID: WYA20120010
+- HUD ID before: 
+- Project: CEDAR MOUNTAIN APTS
+- Address: 2289 PIONEER AVE
+- City: CODY
+- State: WY
+- ZIP: 82414
+- ZIP extension: 
+- State project ID: 13-005
+- Latitude: 44.531129
+- Longitude: -109.046759
+- County FIPS: 56029
+- County from: 2020
+- Tract 2020: 56029965402
+- Tract 2010: 56029965400
+- Tract 2000: 56029995400
+- Tract 1990: 56029995400
+- Place 2020: 15760
+- Place 2010: 15760
+- Place 2000: 15760
+- Place 1990: 0065
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 228888
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

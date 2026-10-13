@@ -1,0 +1,85 @@
+# Project: CEDAR GROVE (FLA20030804)
+
+- HUD ID: FLA20030804
+- HUD ID before: 
+- Project: CEDAR GROVE
+- Address: 20601 N.W. 17TH AVE.
+- City: MIAMI
+- State: FL
+- ZIP: 33056
+- ZIP extension: 
+- State project ID: 1053
+- Latitude: 25.963887
+- Longitude: -80.233106
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086009904
+- Tract 2010: 12086009904
+- Tract 2000: 12086009904
+- Tract 1990: 12025009901
+- Place 2020: 45060
+- Place 2010: 45060
+- Place 2000: 01315
+- Place 1990: 0024
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1028720
+- Units: 288
+- Low-income units: 288
+- Units reported: 288
+- Low-income reported: 288
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 87
+- 3-bedroom units: 171
+- 4-bedroom units: 30
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

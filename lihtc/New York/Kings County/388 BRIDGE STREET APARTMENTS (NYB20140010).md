@@ -1,0 +1,85 @@
+# Project: 388 BRIDGE STREET APARTMENTS (NYB20140010)
+
+- HUD ID: NYB20140010
+- HUD ID before: 
+- Project: 388 BRIDGE STREET APARTMENTS
+- Address: 388 BRIDGE ST
+- City: BROOKLYN
+- State: NY
+- ZIP: 11201
+- ZIP extension: 
+- State project ID: 1971
+- Latitude: 40.691591
+- Longitude: -73.985508
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047001100
+- Tract 2010: 36047001100
+- Tract 2000: 36047001100
+- Tract 1990: 36047001100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 743017
+- Units: 234
+- Low-income units: 48
+- Units reported: 234
+- Low-income reported: 48
+- Efficiencies: 52
+- 1-bedroom units: 148
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

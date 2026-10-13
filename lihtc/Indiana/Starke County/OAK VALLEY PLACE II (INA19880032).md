@@ -1,0 +1,85 @@
+# Project: OAK VALLEY PLACE II (INA19880032)
+
+- HUD ID: INA19880032
+- HUD ID before: 
+- Project: OAK VALLEY PLACE II
+- Address: 1515 S HEATON ST
+- City: KNOX
+- State: IN
+- ZIP: 46534
+- ZIP extension: 
+- State project ID: IN-88-10001
+- Latitude: 41.282112
+- Longitude: -86.620879
+- County FIPS: 18149
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18149954000
+- Tract 2000: 18149954000
+- Tract 1990: 18149954000
+- Place 2020: 
+- Place 2010: 40374
+- Place 2000: 40374
+- Place 1990: 1250
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001275.
+- Record status: Existing, unchanged

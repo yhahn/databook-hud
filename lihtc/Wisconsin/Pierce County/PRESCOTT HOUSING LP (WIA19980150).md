@@ -1,0 +1,85 @@
+# Project: PRESCOTT HOUSING LP (WIA19980150)
+
+- HUD ID: WIA19980150
+- HUD ID before: 
+- Project: PRESCOTT HOUSING LP
+- Address: 667 DEXTER ST S
+- City: PRESCOTT
+- State: WI
+- ZIP: 54021
+- ZIP extension: 
+- State project ID: 2134
+- Latitude: 44.744261
+- Longitude: -92.781638
+- County FIPS: 55093
+- County from: 2020
+- Tract 2020: 55093960500
+- Tract 2010: 55093960500
+- Tract 2000: 55093960500
+- Tract 1990: 55093960500
+- Place 2020: 65375
+- Place 2010: 65375
+- Place 2000: 65375
+- Place 1990: 2090
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PRESCOTT HOUSING.
+- Record status: Existing, unchanged

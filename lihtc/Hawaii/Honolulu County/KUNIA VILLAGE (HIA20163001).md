@@ -1,0 +1,85 @@
+# Project: KUNIA VILLAGE (HIA20163001)
+
+- HUD ID: HIA20163001
+- HUD ID before: 
+- Project: KUNIA VILLAGE
+- Address: 92-1770 KUNIA ROAD
+- City: KUNIA
+- State: HI
+- ZIP: 96759
+- ZIP extension: 
+- State project ID: HI-2013-006
+- Latitude: 21.4354
+- Longitude: -158.0433
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003008934
+- Tract 2010: 15003008924
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1232307
+- Units: 82
+- Low-income units: 81
+- Units reported: 82
+- Low-income reported: 81
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 4
+- 3-bedroom units: 69
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

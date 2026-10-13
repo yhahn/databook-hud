@@ -1,0 +1,85 @@
+# Project: DUCK COUNTRY (ORA20120050)
+
+- HUD ID: ORA20120050
+- HUD ID before: 
+- Project: DUCK COUNTRY
+- Address: 30125 SW BROWN RD
+- City: WILSONVILLE
+- State: OR
+- ZIP: 97070
+- ZIP extension: 
+- State project ID: OR11-035
+- Latitude: 45.30193
+- Longitude: -122.785883
+- County FIPS: 41005
+- County from: 2020
+- Tract 2020: 41005022708
+- Tract 2010: 41005022708
+- Tract 2000: 41005022704
+- Tract 1990: 41005022701
+- Place 2020: 82800
+- Place 2010: 82800
+- Place 2000: 82800
+- Place 1990: 1233
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 820000
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 48
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

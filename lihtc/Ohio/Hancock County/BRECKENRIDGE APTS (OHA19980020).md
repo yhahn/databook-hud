@@ -1,0 +1,85 @@
+# Project: BRECKENRIDGE APTS (OHA19980020)
+
+- HUD ID: OHA19980020
+- HUD ID before: 
+- Project: BRECKENRIDGE APTS
+- Address: 2010 CRYSTAL AVE
+- City: FINDLAY
+- State: OH
+- ZIP: 45840
+- ZIP extension: 
+- State project ID: 970038
+- Latitude: 41.064354
+- Longitude: -83.633154
+- County FIPS: 39063
+- County from: 2020
+- Tract 2020: 39063000500
+- Tract 2010: 39063000500
+- Tract 2000: 39063000500
+- Tract 1990: 39063000500
+- Place 2020: 27048
+- Place 2010: 27048
+- Place 2000: 27048
+- Place 1990: 1380
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

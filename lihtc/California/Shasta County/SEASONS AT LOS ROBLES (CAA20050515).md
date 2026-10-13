@@ -1,0 +1,85 @@
+# Project: SEASONS AT LOS ROBLES (CAA20050515)
+
+- HUD ID: CAA20050515
+- HUD ID before: 
+- Project: SEASONS AT LOS ROBLES
+- Address: 2780 VENTURA ST
+- City: ANDERSON
+- State: CA
+- ZIP: 96007
+- ZIP extension: 
+- State project ID: CA-03-883
+- Latitude: 40.451665
+- Longitude: -122.293103
+- County FIPS: 06089
+- County from: 2020
+- Tract 2020: 06089012101
+- Tract 2010: 06089012101
+- Tract 2000: 06089012100
+- Tract 1990: 06089012100
+- Place 2020: 02042
+- Place 2010: 02042
+- Place 2000: 02042
+- Place 1990: 0075
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 213719
+- Units: 59
+- Low-income units: 58
+- Units reported: 59
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 45
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

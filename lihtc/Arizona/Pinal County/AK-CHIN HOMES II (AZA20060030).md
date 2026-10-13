@@ -1,0 +1,85 @@
+# Project: AK-CHIN HOMES II (AZA20060030)
+
+- HUD ID: AZA20060030
+- HUD ID before: 
+- Project: AK-CHIN HOMES II
+- Address: 42507 W PETERS & NALL RD
+- City: MARICOPA
+- State: AZ
+- ZIP: 85138
+- ZIP extension: 
+- State project ID: TC-0285
+- Latitude: 32.999892
+- Longitude: -112.023199
+- County FIPS: 04021
+- County from: 2020
+- Tract 2020: 04021941402
+- Tract 2010: 04021941400
+- Tract 2000: 04021001700
+- Tract 1990: 04021001700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 01090
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 247144
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

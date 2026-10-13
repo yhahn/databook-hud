@@ -1,0 +1,85 @@
+# Project: SUMMERHILL VILLAS (ARA19880090)
+
+- HUD ID: ARA19880090
+- HUD ID before: 
+- Project: SUMMERHILL VILLAS
+- Address: 717 BIRDSONG AVE
+- City: GASSVILLE
+- State: AR
+- ZIP: 72635
+- ZIP extension: 
+- State project ID: AR-90-35-001
+- Latitude: 36.292242
+- Longitude: -92.484
+- County FIPS: 05005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05005950900
+- Tract 2000: 05005950900
+- Tract 1990: 05005950900
+- Place 2020: 
+- Place 2010: 26050
+- Place 2000: 15490
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 3
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1988556.
+- Record status: Existing, unchanged

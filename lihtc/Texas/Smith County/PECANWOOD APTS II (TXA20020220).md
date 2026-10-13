@@ -1,0 +1,85 @@
+# Project: PECANWOOD APTS II (TXA20020220)
+
+- HUD ID: TXA20020220
+- HUD ID before: 
+- Project: PECANWOOD APTS II
+- Address: 502 W MAIN ST
+- City: WHITEHOUSE
+- State: TX
+- ZIP: 75791
+- ZIP extension: 
+- State project ID: TX0287
+- Latitude: 32.226922
+- Longitude: -95.233611
+- County FIPS: 48423
+- County from: 2020
+- Tract 2020: 48423002009
+- Tract 2010: 48423002009
+- Tract 2000: 48423002009
+- Tract 1990: 48423002009
+- Place 2020: 78388
+- Place 2010: 78388
+- Place 2000: 78388
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA2002215.
+- Record status: Existing, unchanged

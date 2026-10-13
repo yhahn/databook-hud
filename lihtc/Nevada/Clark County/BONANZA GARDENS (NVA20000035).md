@@ -1,0 +1,85 @@
+# Project: BONANZA GARDENS (NVA20000035)
+
+- HUD ID: NVA20000035
+- HUD ID before: 
+- Project: BONANZA GARDENS
+- Address: 2751 E BONANZA RD
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89101
+- ZIP extension: 
+- State project ID: NV-99-51
+- Latitude: 36.173644
+- Longitude: -115.112609
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003000522
+- Tract 2010: 32003000522
+- Tract 2000: 32003000504
+- Tract 1990: 32003000504
+- Place 2020: 40000
+- Place 2010: 40000
+- Place 2000: 40000
+- Place 1990: 0065
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 306716
+- Units: 168
+- Low-income units: 167
+- Units reported: 168
+- Low-income reported: 167
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 64
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

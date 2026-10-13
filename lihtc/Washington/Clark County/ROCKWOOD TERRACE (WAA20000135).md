@@ -1,0 +1,85 @@
+# Project: ROCKWOOD TERRACE (WAA20000135)
+
+- HUD ID: WAA20000135
+- HUD ID before: 
+- Project: ROCKWOOD TERRACE
+- Address: 535 C STREET
+- City: WASHOUGAL
+- State: WA
+- ZIP: 98671
+- ZIP extension: 
+- State project ID: 99-99A
+- Latitude: 45.580668
+- Longitude: -122.371033
+- County FIPS: 53011
+- County from: 2020
+- Tract 2020: 53011041500
+- Tract 2010: 53011041500
+- Tract 2000: 53011041500
+- Tract 1990: 53011041500
+- Place 2020: 76405
+- Place 2010: 76405
+- Place 2000: 09480
+- Place 1990: 0145
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 100024
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 62
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

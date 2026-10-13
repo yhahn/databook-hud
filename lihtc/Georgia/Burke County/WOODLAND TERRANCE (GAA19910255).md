@@ -1,0 +1,85 @@
+# Project: WOODLAND TERRANCE (GAA19910255)
+
+- HUD ID: GAA19910255
+- HUD ID before: 
+- Project: WOODLAND TERRANCE
+- Address: 622 WOODLAND TER DR
+- City: WAYNESBORO
+- State: GA
+- ZIP: 30830
+- ZIP extension: 
+- State project ID: GA-90-026
+- Latitude: 33.09573
+- Longitude: -82.003197
+- County FIPS: 13033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 13033950500
+- Tract 2000: 13033950500
+- Tract 1990: 13033950500
+- Place 2020: 
+- Place 2010: 80984
+- Place 2000: 80984
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION. AKA WOODLAND TERRANCE.
+- Record status: Existing, unchanged

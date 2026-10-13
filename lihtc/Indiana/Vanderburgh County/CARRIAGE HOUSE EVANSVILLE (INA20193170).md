@@ -1,0 +1,85 @@
+# Project: CARRIAGE HOUSE EVANSVILLE (INA20193170)
+
+- HUD ID: INA20193170
+- HUD ID before: 
+- Project: CARRIAGE HOUSE EVANSVILLE
+- Address: 5300 CARRIAGE DR
+- City: EVANSVILLE
+- State: IN
+- ZIP: 47715
+- ZIP extension: 
+- State project ID: IN-18-03300
+- Latitude: 37.985144
+- Longitude: -87.486093
+- County FIPS: 18163
+- County from: 2020
+- Tract 2020: 18163010101
+- Tract 2010: 18163010100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1168024
+- Units: 307
+- Low-income units: 307
+- Units reported: 307
+- Low-income reported: 307
+- Efficiencies: 0
+- 1-bedroom units: 164
+- 2-bedroom units: 109
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

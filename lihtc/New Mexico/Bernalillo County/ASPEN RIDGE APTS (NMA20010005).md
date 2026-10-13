@@ -1,0 +1,85 @@
+# Project: ASPEN RIDGE APTS (NMA20010005)
+
+- HUD ID: NMA20010005
+- HUD ID before: 
+- Project: ASPEN RIDGE APTS
+- Address: 820 LOUISIANA BLVD SE
+- City: ALBUQUERQUE
+- State: NM
+- ZIP: 87108
+- ZIP extension: 
+- State project ID: 00284
+- Latitude: 35.064678
+- Longitude: -106.568478
+- County FIPS: 35001
+- County from: 2020
+- Tract 2020: 35001000908
+- Tract 2010: 35001000901
+- Tract 2000: 35001000901
+- Tract 1990: 35001000901
+- Place 2020: 02000
+- Place 2010: 02000
+- Place 2000: 02000
+- Place 1990: 0015
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 60
+- Units reported: 96
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 48
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

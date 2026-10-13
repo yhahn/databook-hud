@@ -1,0 +1,85 @@
+# Project: RA STREB COMPLEX (INA20050043)
+
+- HUD ID: INA20050043
+- HUD ID before: 
+- Project: RA STREB COMPLEX
+- Address: 240 ANGLING RD
+- City: KENDALLVILLE
+- State: IN
+- ZIP: 46755
+- ZIP extension: 
+- State project ID: IN-03-01200
+- Latitude: 41.454331
+- Longitude: -85.27209
+- County FIPS: 18113
+- County from: 2020
+- Tract 2020: 18113971900
+- Tract 2010: 18113971900
+- Tract 2000: 18113971900
+- Tract 1990: 18113971900
+- Place 2020: 39402
+- Place 2010: 39402
+- Place 2000: 39402
+- Place 1990: 1200
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 126186
+- Units: 24
+- Low-income units: 22
+- Units reported: 24
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 300000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

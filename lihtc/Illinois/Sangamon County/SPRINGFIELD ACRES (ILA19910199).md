@@ -1,0 +1,85 @@
+# Project: SPRINGFIELD ACRES (ILA19910199)
+
+- HUD ID: ILA19910199
+- HUD ID before: 
+- Project: SPRINGFIELD ACRES
+- Address: 1665 SEVEN PINES RD
+- City: SPRINGFIELD
+- State: IL
+- ZIP: 62704
+- ZIP extension: 
+- State project ID: 240-89
+- Latitude: 39.760507
+- Longitude: -89.681976
+- County FIPS: 17167
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17167002802
+- Tract 2000: 17167002802
+- Tract 1990: 17167002800
+- Place 2020: 
+- Place 2010: 72000
+- Place 2000: 38375
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 805759
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 132
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1989134, ILA0000880, ILA0000740. AKA PINE WOODS APTS.
+- Record status: Existing, unchanged

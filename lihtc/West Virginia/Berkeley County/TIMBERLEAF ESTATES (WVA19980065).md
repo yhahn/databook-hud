@@ -1,0 +1,85 @@
+# Project: TIMBERLEAF ESTATES (WVA19980065)
+
+- HUD ID: WVA19980065
+- HUD ID before: 
+- Project: TIMBERLEAF ESTATES
+- Address: 203 TIMBERLEAF LN
+- City: MARTINSBURG
+- State: WV
+- ZIP: 25401
+- ZIP extension: 
+- State project ID: WV-96-007
+- Latitude: 39.476806
+- Longitude: -77.971907
+- County FIPS: 54003
+- County from: 2020
+- Tract 2020: 54003971301
+- Tract 2010: 54003971300
+- Tract 2000: 54003971300
+- Tract 1990: 54003971300
+- Place 2020: 52060
+- Place 2010: 52060
+- Place 2000: 52060
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 54
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

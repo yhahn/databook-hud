@@ -1,0 +1,85 @@
+# Project: IVYWOOD PARK APARTMENTS (GAA19930100)
+
+- HUD ID: GAA19930100
+- HUD ID before: 
+- Project: IVYWOOD PARK APARTMENTS
+- Address: 4475 BEECH HAVEN TRL SE
+- City: SMYRNA
+- State: GA
+- ZIP: 30080
+- ZIP extension: 6600
+- State project ID: GA-11-005
+- Latitude: 33.8663
+- Longitude: -84.5068
+- County FIPS: 13067
+- County from: 2020
+- Tract 2020: 13067031112
+- Tract 2010: 13067031112
+- Tract 2000: 13067031202
+- Tract 1990: 13067031202
+- Place 2020: 71492
+- Place 2010: 71492
+- Place 2000: 48288
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 106
+- Low-income units: 106
+- Units reported: 106
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 34
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000907.
+- Record status: Existing, unchanged

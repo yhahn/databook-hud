@@ -1,0 +1,85 @@
+# Project: 205 EAST TENTH ST BLDGS A1 (MOA19870080)
+
+- HUD ID: MOA19870080
+- HUD ID before: 
+- Project: 205 EAST TENTH ST BLDGS A1
+- Address: 205 E TENTH ST
+- City: DIXON
+- State: MO
+- ZIP: 65459
+- ZIP extension: 
+- State project ID: 37002
+- Latitude: 38.00138
+- Longitude: -92.089925
+- County FIPS: 29169
+- County from: 2020
+- Tract 2020: 29169470101
+- Tract 2010: 29169470101
+- Tract 2000: 29169970100
+- Tract 1990: 29169970100
+- Place 2020: 19630
+- Place 2010: 19630
+- Place 2000: 17344
+- Place 1990: 
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

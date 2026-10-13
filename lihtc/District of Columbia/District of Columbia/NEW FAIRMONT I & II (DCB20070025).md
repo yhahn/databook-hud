@@ -1,0 +1,85 @@
+# Project: NEW FAIRMONT I & II (DCB20070025)
+
+- HUD ID: DCB20070025
+- HUD ID before: 
+- Project: NEW FAIRMONT I & II
+- Address: 1400 FAIRMONT ST NW
+- City: WASHINGTON
+- State: DC
+- ZIP: 20009
+- ZIP extension: 
+- State project ID: DCB2007025
+- Latitude: 38.924364
+- Longitude: -77.032237
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001003702
+- Tract 2010: 11001003700
+- Tract 2000: 11001003700
+- Tract 1990: 11001003700
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 1149331
+- Units: 205
+- Low-income units: 205
+- Units reported: 205
+- Low-income reported: 205
+- Efficiencies: 11
+- 1-bedroom units: 99
+- 2-bedroom units: 82
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 205
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

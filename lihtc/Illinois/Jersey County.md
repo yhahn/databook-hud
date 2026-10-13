@@ -1,0 +1,23 @@
+# Tax Credit Projects: Jersey County, IL
+
+- Level: County
+- Postal code: IL
+- State FIPS: 17
+- County FIPS: 17083
+- Counties: 
+- Projects: 6
+- Units: 185
+- Low-income units: 165
+
+The low-income housing tax credit projects of Jersey County, Illinois, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [MILLER SOUTH APTS (ILA19870015)](./Jersey%20County/MILLER%20SOUTH%20APTS%20%28ILA19870015%29.md) | ILA19870015 | JERSEYVILLE | 1987 | 19 | 19 |
+| [MILLER'S NORTH APTS (ILA19880054)](./Jersey%20County/MILLER%27S%20NORTH%20APTS%20%28ILA19880054%29.md) | ILA19880054 | JERSEYVILLE | 1988 | 12 | 12 |
+| [MILLER JERSEYVILLE APTS (ILA19920150)](./Jersey%20County/MILLER%20JERSEYVILLE%20APTS%20%28ILA19920150%29.md) | ILA19920150 | JERSEYVILLE | 1992 | 24 | 24 |
+| [BROOKSHIRE ESTATES APTS (ILA20050020)](./Jersey%20County/BROOKSHIRE%20ESTATES%20APTS%20%28ILA20050020%29.md) | ILA20050020 | JERSEYVILLE | 2005 | 48 | 48 |
+| [LEXINGTON FARMS SUBDIVISION (ILA20110913)](./Jersey%20County/LEXINGTON%20FARMS%20SUBDIVISION%20%28ILA20110913%29.md) | ILA20110913 | JERSEYVILLE | 2011 | 32 | 32 |
+| [MANOR AT JERSEYVILLE GLEN (ILA20110937)](./Jersey%20County/MANOR%20AT%20JERSEYVILLE%20GLEN%20%28ILA20110937%29.md) | ILA20110937 | JERSEYVILLE | 2011 | 50 | 30 |

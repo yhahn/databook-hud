@@ -1,0 +1,85 @@
+# Project: MEADOWBROOK PARK OF MARIANNA II (ARA20110815)
+
+- HUD ID: ARA20110815
+- HUD ID before: 
+- Project: MEADOWBROOK PARK OF MARIANNA II
+- Address: 133 ROBERT TAYLOR DR
+- City: MARIANNA
+- State: AR
+- ZIP: 72360
+- ZIP extension: 
+- State project ID: AR-08-04
+- Latitude: 34.775762
+- Longitude: -90.782284
+- County FIPS: 05077
+- County from: 2020
+- Tract 2020: 05077470300
+- Tract 2010: 05077470300
+- Tract 2000: 05077970300
+- Tract 1990: 05077970300
+- Place 2020: 44120
+- Place 2010: 44120
+- Place 2000: 44120
+- Place 1990: 1310
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 325083
+- Units: 29
+- Low-income units: 24
+- Units reported: 29
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 22
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 107907
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 2826944
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2008785, ARA2008118.
+- Record status: Existing, unchanged

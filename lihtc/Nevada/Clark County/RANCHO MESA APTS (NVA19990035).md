@@ -1,0 +1,85 @@
+# Project: RANCHO MESA APTS (NVA19990035)
+
+- HUD ID: NVA19990035
+- HUD ID before: 
+- Project: RANCHO MESA APTS
+- Address: 2881 N RANCHO DR
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89130
+- ZIP extension: 
+- State project ID: 96-21
+- Latitude: 36.211521
+- Longitude: -115.207388
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003003427
+- Tract 2010: 32003003427
+- Tract 2000: 32003003417
+- Tract 1990: 32003003405
+- Place 2020: 40000
+- Place 2010: 40000
+- Place 2000: 40000
+- Place 1990: 0065
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 509641
+- Units: 272
+- Low-income units: 270
+- Units reported: 272
+- Low-income reported: 270
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 208
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

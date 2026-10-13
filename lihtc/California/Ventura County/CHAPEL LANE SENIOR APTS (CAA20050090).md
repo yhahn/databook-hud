@@ -1,0 +1,85 @@
+# Project: CHAPEL LANE SENIOR APTS (CAA20050090)
+
+- HUD ID: CAA20050090
+- HUD ID before: 
+- Project: CHAPEL LANE SENIOR APTS
+- Address: 11122 SNAPDRAGON ST
+- City: VENTURA
+- State: CA
+- ZIP: 93004
+- ZIP extension: 
+- State project ID: CA-04-874
+- Latitude: 34.285861
+- Longitude: -119.150486
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111001302
+- Tract 2010: 06111001302
+- Tract 2000: 06111001302
+- Tract 1990: 06111001300
+- Place 2020: 65042
+- Place 2010: 65042
+- Place 2000: 65042
+- Place 1990: 2460
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 195769
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

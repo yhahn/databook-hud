@@ -1,0 +1,85 @@
+# Project: SOUTHERN HILLS APTS PHASE I (IAA19990353)
+
+- HUD ID: IAA19990353
+- HUD ID before: 
+- Project: SOUTHERN HILLS APTS PHASE I
+- Address: 202 18TH AVE E
+- City: OSKALOOSA
+- State: IA
+- ZIP: 52577
+- ZIP extension: 
+- State project ID: 98-39
+- Latitude: 41.278319
+- Longitude: -92.643768
+- County FIPS: 19123
+- County from: 2020
+- Tract 2020: 19123950500
+- Tract 2010: 19123950500
+- Tract 2000: 19123950500
+- Tract 1990: 19123950500
+- Place 2020: 59925
+- Place 2010: 59925
+- Place 2000: 59925
+- Place 1990: 3245
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 165154
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 25
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2000125.
+- Record status: Existing, unchanged

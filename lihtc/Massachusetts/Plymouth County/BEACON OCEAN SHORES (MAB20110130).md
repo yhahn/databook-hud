@@ -1,0 +1,85 @@
+# Project: BEACON OCEAN SHORES (MAB20110130)
+
+- HUD ID: MAB20110130
+- HUD ID before: 
+- Project: BEACON OCEAN SHORES
+- Address: 1209 OCEAN ST
+- City: MARSHFIELD
+- State: MA
+- ZIP: 02050
+- ZIP extension: 
+- State project ID: 2256
+- Latitude: 42.10208
+- Longitude: -70.675674
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023506206
+- Tract 2010: 25023506204
+- Tract 2000: 25023506204
+- Tract 1990: 25023506204
+- Place 2020: 50862
+- Place 2010: 50862
+- Place 2000: 38820
+- Place 1990: 3125
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1700000
+- Units: 97
+- Low-income units: 97
+- Units reported: 97
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 79
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 715000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5290273
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB20110130. AKA OCEAN SHORES APTS.
+- Record status: Existing, unchanged

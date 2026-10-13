@@ -1,0 +1,85 @@
+# Project: GRAND PRAIRIE APTS (OKA20070030)
+
+- HUD ID: OKA20070030
+- HUD ID before: 
+- Project: GRAND PRAIRIE APTS
+- Address: 500 S LEACH AVE
+- City: WATONGA
+- State: OK
+- ZIP: 73772
+- ZIP extension: 
+- State project ID: 050619
+- Latitude: 35.839182
+- Longitude: -98.415824
+- County FIPS: 40011
+- County from: 2020
+- Tract 2020: 40011958900
+- Tract 2010: 40011958900
+- Tract 2000: 40011958900
+- Tract 1990: 40011958900
+- Place 2020: 78950
+- Place 2010: 78950
+- Place 2000: 78950
+- Place 1990: 2580
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 58416
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ROUND II (HLB REDEV) (NYC19910014)
+
+- HUD ID: NYC19910014
+- HUD ID before: 
+- Project: ROUND II (HLB REDEV)
+- Address: 1014 HOME ST
+- City: BRONX
+- State: NY
+- ZIP: 10459
+- ZIP extension: 
+- State project ID: NY9002019
+- Latitude: 40.828648
+- Longitude: -73.888813
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005012101
+- Tract 2010: 36005012101
+- Tract 2000: 36005012101
+- Tract 1990: 36005012101
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 702550
+- Units: 113
+- Low-income units: 110
+- Units reported: 113
+- Low-income reported: 110
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HLB REDEV (ROUND II).
+- Record status: Existing, unchanged

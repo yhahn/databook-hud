@@ -1,0 +1,85 @@
+# Project: MIDTOWN PARK FKA PLAZA TOWERS (ARA20050800)
+
+- HUD ID: ARA20050800
+- HUD ID before: 
+- Project: MIDTOWN PARK FKA PLAZA TOWERS
+- Address: 6115 W MARKHAM
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72205
+- ZIP extension: 
+- State project ID: AR-07-01-001
+- Latitude: 34.752152
+- Longitude: -92.342353
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119002103
+- Tract 2010: 05119002103
+- Tract 2000: 05119002101
+- Tract 1990: 05119002101
+- Place 2020: 41000
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 141640
+- Units: 132
+- Low-income units: 107
+- Units reported: 132
+- Low-income reported: 107
+- Efficiencies: 8
+- 1-bedroom units: 94
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2004430, ARA1997679, ARA1997059. AKA PT APTS. FKA PLAZA TOWERS
+- Record status: Existing, unchanged

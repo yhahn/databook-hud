@@ -1,0 +1,85 @@
+# Project: GLENS FALLS HOUSING AUTHORITY (NYB20230014)
+
+- HUD ID: NYB20230014
+- HUD ID before: 
+- Project: GLENS FALLS HOUSING AUTHORITY
+- Address: 43 RIDGE STREET
+- City: GLENS FALLS
+- State: NY
+- ZIP: 12801
+- ZIP extension: 
+- State project ID: NY-24-2729
+- Latitude: 43.31059
+- Longitude: -73.643648
+- County FIPS: 36113
+- County from: 2020
+- Tract 2020: 36113070500
+- Tract 2010: 36113070500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 29333
+- Place 2010: 29333
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2595108
+- Units: 313
+- Low-income units: 309
+- Units reported: 313
+- Low-income reported: 309
+- Efficiencies: 0
+- 1-bedroom units: 277
+- 2-bedroom units: 24
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COLLEGE PARK APTS (LANCASTER) (CAA20147475)
+
+- HUD ID: CAA20147475
+- HUD ID before: 
+- Project: COLLEGE PARK APTS (LANCASTER)
+- Address: 43331 30TH ST W
+- City: LANCASTER
+- State: CA
+- ZIP: 93536
+- ZIP extension: 
+- State project ID: CA-13-906
+- Latitude: 34.670561
+- Longitude: -118.183761
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037901010
+- Tract 2010: 06037901010
+- Tract 2000: 06037901006
+- Tract 1990: 06037901002
+- Place 2020: 40130
+- Place 2010: 40130
+- Place 2000: 40130
+- Place 1990: 1476
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 61
+- Low-income units: 60
+- Units reported: 61
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

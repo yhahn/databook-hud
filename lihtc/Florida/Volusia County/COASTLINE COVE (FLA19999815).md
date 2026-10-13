@@ -1,0 +1,85 @@
+# Project: COASTLINE COVE (FLA19999815)
+
+- HUD ID: FLA19999815
+- HUD ID before: 
+- Project: COASTLINE COVE
+- Address: 101 RACEWAY POINTE DRIVE
+- City: DAYTONA BEACH
+- State: FL
+- ZIP: 32114
+- ZIP extension: 
+- State project ID: 662
+- Latitude: 29.202213
+- Longitude: -81.068547
+- County FIPS: 12127
+- County from: 2020
+- Tract 2020: 12127082303
+- Tract 2010: 12127082301
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 16525
+- Place 2010: 16525
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 688479
+- Units: 208
+- Low-income units: 104
+- Units reported: 208
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

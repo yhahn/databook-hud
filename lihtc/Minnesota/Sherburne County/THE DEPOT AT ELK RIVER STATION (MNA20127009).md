@@ -1,0 +1,85 @@
+# Project: THE DEPOT AT ELK RIVER STATION (MNA20127009)
+
+- HUD ID: MNA20127009
+- HUD ID before: 
+- Project: THE DEPOT AT ELK RIVER STATION
+- Address: XXXXX 172ND AVE NW
+- City: ELK RIVER
+- State: MN
+- ZIP: 55330
+- ZIP extension: 
+- State project ID: D6339
+- Latitude: 45.306
+- Longitude: -93.6005
+- County FIPS: 27141
+- County from: 2020
+- Tract 2020: 27141030503
+- Tract 2010: 27141030503
+- Tract 2000: 27141030502
+- Tract 1990: 27141030500
+- Place 2020: 18674
+- Place 2010: 18674
+- Place 2000: 18674
+- Place 1990: 1145
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 873921
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 26
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1374440
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA0000037, MNA0000508.
+- Record status: Existing, unchanged

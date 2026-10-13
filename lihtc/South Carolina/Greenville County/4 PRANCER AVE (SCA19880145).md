@@ -1,0 +1,85 @@
+# Project: 4 PRANCER AVE (SCA19880145)
+
+- HUD ID: SCA19880145
+- HUD ID before: 
+- Project: 4 PRANCER AVE
+- Address: 4 PRANCER AVE
+- City: GREENVILLE
+- State: SC
+- ZIP: 29605
+- ZIP extension: 
+- State project ID: SC-88-004
+- Latitude: 34.804621
+- Longitude: -82.387213
+- County FIPS: 45045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45045001502
+- Tract 2000: 45045001502
+- Tract 1990: 45045001502
+- Place 2020: 
+- Place 2010: 30850
+- Place 2000: 28375
+- Place 1990: 0565
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 1282
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

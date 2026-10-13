@@ -1,0 +1,85 @@
+# Project: CANEBREAK APARTMENTS (SCA20212001)
+
+- HUD ID: SCA20212001
+- HUD ID before: 
+- Project: CANEBREAK APARTMENTS
+- Address: 1300 CENTRAL AVENUE
+- City: SUMMERVILLE
+- State: SC
+- ZIP: 29483
+- ZIP extension: 0000
+- State project ID: SC-51906
+- Latitude: 33.018819
+- Longitude: -80.219749
+- County FIPS: 45035
+- County from: 2020
+- Tract 2020: 45035010607
+- Tract 2010: 45035010605
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 70270
+- Place 2010: 70270
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 673400
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 56
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

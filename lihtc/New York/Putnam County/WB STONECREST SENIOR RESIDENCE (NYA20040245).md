@@ -1,0 +1,85 @@
+# Project: WB STONECREST SENIOR RESIDENCE (NYA20040245)
+
+- HUD ID: NYA20040245
+- HUD ID before: 
+- Project: WB STONECREST SENIOR RESIDENCE
+- Address: 3101 STONECREST DR
+- City: BREWSTER
+- State: NY
+- ZIP: 10509
+- ZIP extension: 
+- State project ID: 20020638_01364
+- Latitude: 41.438128
+- Longitude: -73.571433
+- County FIPS: 36079
+- County from: 2020
+- Tract 2020: 36079011900
+- Tract 2010: 36079011900
+- Tract 2000: 36079011900
+- Tract 1990: 36079011900
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 136
+- Low-income units: 135
+- Units reported: 136
+- Low-income reported: 135
+- Efficiencies: 0
+- 1-bedroom units: 112
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA2004250.
+- Record status: Existing, unchanged

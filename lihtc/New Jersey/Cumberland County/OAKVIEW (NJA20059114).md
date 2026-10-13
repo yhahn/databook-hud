@@ -1,0 +1,85 @@
+# Project: OAKVIEW (NJA20059114)
+
+- HUD ID: NJA20059114
+- HUD ID before: 
+- Project: OAKVIEW
+- Address: 1701 E BROAD STREET
+- City: MILLVILLE
+- State: NJ
+- ZIP: 08332
+- ZIP extension: 1645
+- State project ID: 01456-1
+- Latitude: 39.404447
+- Longitude: -75.018479
+- County FIPS: 34011
+- County from: 2020
+- Tract 2020: 34011030401
+- Tract 2010: 34011030400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 46680
+- Place 2010: 46680
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 518687
+- Units: 210
+- Low-income units: 210
+- Units reported: 210
+- Low-income reported: 210
+- Efficiencies: 1
+- 1-bedroom units: 50
+- 2-bedroom units: 89
+- 3-bedroom units: 58
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

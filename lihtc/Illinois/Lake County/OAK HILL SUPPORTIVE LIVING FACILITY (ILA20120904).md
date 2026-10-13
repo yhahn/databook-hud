@@ -1,0 +1,85 @@
+# Project: OAK HILL SUPPORTIVE LIVING FACILITY (ILA20120904)
+
+- HUD ID: ILA20120904
+- HUD ID before: 
+- Project: OAK HILL SUPPORTIVE LIVING FACILITY
+- Address: 76 E ROLLINS RD
+- City: ROUND LAKE BEACH
+- State: IL
+- ZIP: 60073
+- ZIP extension: 
+- State project ID: 1018110
+- Latitude: 42.378983
+- Longitude: -88.080931
+- County FIPS: 17097
+- County from: 2020
+- Tract 2020: 17097861201
+- Tract 2010: 17097861201
+- Tract 2000: 17097861201
+- Tract 1990: 17097861200
+- Place 2020: 66040
+- Place 2010: 66040
+- Place 2000: 66040
+- Place 1990: 5045
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1865363
+- Units: 94
+- Low-income units: 84
+- Units reported: 94
+- Low-income reported: 84
+- Efficiencies: 47
+- 1-bedroom units: 47
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARK AT EMERALD VILLAGE (ORA19980090)
+
+- HUD ID: ORA19980090
+- HUD ID before: 
+- Project: PARK AT EMERALD VILLAGE
+- Address: 1950 N SECOND ST
+- City: SPRINGFIELD
+- State: OR
+- ZIP: 97477
+- ZIP extension: 
+- State project ID: X001-138
+- Latitude: 44.064335
+- Longitude: -123.023114
+- County FIPS: 41039
+- County from: 2020
+- Tract 2020: 41039002101
+- Tract 2010: 41039002101
+- Tract 2000: 41039002101
+- Tract 1990: 41039002101
+- Place 2020: 69600
+- Place 2010: 69600
+- Place 2000: 69600
+- Place 1990: 0842
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 583884
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 40
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LARGE FAMILY, SINGLE PARENTS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

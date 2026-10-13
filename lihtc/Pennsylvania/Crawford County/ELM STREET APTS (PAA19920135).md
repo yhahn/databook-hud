@@ -1,0 +1,85 @@
+# Project: ELM STREET APTS (PAA19920135)
+
+- HUD ID: PAA19920135
+- HUD ID before: 
+- Project: ELM STREET APTS
+- Address: 617 W ELM ST
+- City: TITUSVILLE
+- State: PA
+- ZIP: 16354
+- ZIP extension: 
+- State project ID: TC1991-0008
+- Latitude: 41.631799
+- Longitude: -79.683645
+- County FIPS: 42039
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42039111200
+- Tract 2000: 42039111200
+- Tract 1990: 42039111200
+- Place 2020: 
+- Place 2010: 76904
+- Place 2000: 76904
+- Place 1990: 8242
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 53984
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 4
+- 1-bedroom units: 14
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

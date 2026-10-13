@@ -1,0 +1,85 @@
+# Project: COLONY SQUARE APTS (TNA20080015)
+
+- HUD ID: TNA20080015
+- HUD ID before: 
+- Project: COLONY SQUARE APTS
+- Address: 500 ROCK SPRINGS RD
+- City: SMYRNA
+- State: TN
+- ZIP: 37167
+- ZIP extension: 
+- State project ID: TN-07-037
+- Latitude: 35.985895
+- Longitude: -86.528578
+- County FIPS: 47149
+- County from: 2020
+- Tract 2020: 47149040305
+- Tract 2010: 47149040305
+- Tract 2000: 47149040301
+- Tract 1990: 47149040301
+- Place 2020: 69420
+- Place 2010: 69420
+- Place 2000: 41200
+- Place 1990: 1320
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 236150
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 56
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COLONY SQUARE II.
+- Record status: Existing, unchanged

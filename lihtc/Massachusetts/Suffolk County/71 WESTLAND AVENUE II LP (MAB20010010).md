@@ -1,0 +1,85 @@
+# Project: 71 WESTLAND AVENUE II LP (MAB20010010)
+
+- HUD ID: MAB20010010
+- HUD ID before: 
+- Project: 71 WESTLAND AVENUE II LP
+- Address: 71 WESTLAND AVE
+- City: BOSTON
+- State: MA
+- ZIP: 02115
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.343936
+- Longitude: -71.088749
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025010403
+- Tract 2010: 25025010403
+- Tract 2000: 25025010401
+- Tract 1990: 25025010401
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 15
+- Units reported: 20
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FORREST LANE APTS (OKA19940030)
+
+- HUD ID: OKA19940030
+- HUD ID before: 
+- Project: FORREST LANE APTS
+- Address: 162 FORREST LN
+- City: CLINTON
+- State: OK
+- ZIP: 73601
+- ZIP extension: 
+- State project ID: 930610
+- Latitude: 35.506634
+- Longitude: -98.989478
+- County FIPS: 40039
+- County from: 2020
+- Tract 2020: 40039960402
+- Tract 2010: 40039960400
+- Tract 2000: 40039960400
+- Tract 1990: 40039960400
+- Place 2020: 15400
+- Place 2010: 15400
+- Place 2000: 02500
+- Place 1990: 0520
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

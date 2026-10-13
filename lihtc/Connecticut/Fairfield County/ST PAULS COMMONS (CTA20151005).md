@@ -1,0 +1,85 @@
+# Project: ST PAULS COMMONS (CTA20151005)
+
+- HUD ID: CTA20151005
+- HUD ID before: 
+- Project: ST PAULS COMMONS
+- Address: 1475 B NOBLE AVENUE + 1768 BOSTON AVENUE
+- City: BRIDGEPORT
+- State: CT
+- ZIP: 06610
+- ZIP extension: 
+- State project ID: CT1012-377
+- Latitude: 41.20187
+- Longitude: -73.184086
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001073400
+- Tract 2010: 09001073400
+- Tract 2000: 09001073400
+- Tract 1990: 
+- Place 2020: 08000
+- Place 2010: 08000
+- Place 2000: 08000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 921310
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 25
+- 2-bedroom units: 22
+- 3-bedroom units: 9
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2407815
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Supportive
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

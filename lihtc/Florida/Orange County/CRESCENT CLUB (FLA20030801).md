@@ -1,0 +1,85 @@
+# Project: CRESCENT CLUB (FLA20030801)
+
+- HUD ID: FLA20030801
+- HUD ID before: 
+- Project: CRESCENT CLUB
+- Address: 4100 S. RIO GRANDE AVENUE
+- City: ORLANDO
+- State: FL
+- ZIP: 32839
+- ZIP extension: 
+- State project ID: 1207
+- Latitude: 28.501732
+- Longitude: -81.401234
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095014503
+- Tract 2010: 12095014503
+- Tract 2000: 12095014501
+- Tract 1990: 12095014500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 53000
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1065000
+- Units: 215
+- Low-income units: 215
+- Units reported: 215
+- Low-income reported: 215
+- Efficiencies: 0
+- 1-bedroom units: 141
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

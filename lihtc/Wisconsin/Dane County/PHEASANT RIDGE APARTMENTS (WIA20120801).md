@@ -1,0 +1,85 @@
+# Project: PHEASANT RIDGE APARTMENTS (WIA20120801)
+
+- HUD ID: WIA20120801
+- HUD ID before: 
+- Project: PHEASANT RIDGE APARTMENTS
+- Address: 2617 - 2621 PHEASANT RIDGE TRAIL
+- City: MADISON
+- State: WI
+- ZIP: 53713
+- ZIP extension: 
+- State project ID: 5730
+- Latitude: 43.036252
+- Longitude: -89.384715
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025001502
+- Tract 2010: 55025001502
+- Tract 2000: 55025001502
+- Tract 1990: 55025001502
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 1475
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 380891
+- Units: 42
+- Low-income units: 6
+- Units reported: 42
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 15
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

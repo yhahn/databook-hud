@@ -1,0 +1,85 @@
+# Project: BETHESDA HOUSE (MEA20090007)
+
+- HUD ID: MEA20090007
+- HUD ID before: 
+- Project: BETHESDA HOUSE
+- Address: 3 HORN XING
+- City: KENNEBUNK
+- State: ME
+- ZIP: 04043
+- ZIP extension: 
+- State project ID: MSHARLP1462
+- Latitude: 43.4075
+- Longitude: -70.5478
+- County FIPS: 23031
+- County from: 2020
+- Tract 2020: 23031028003
+- Tract 2010: 23031028002
+- Tract 2000: 23031028002
+- Tract 1990: 23031028000
+- Place 2020: 36500
+- Place 2010: 36500
+- Place 2000: 36500
+- Place 1990: 2310
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 73414
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 900000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MEA2009504.
+- Record status: Existing, unchanged

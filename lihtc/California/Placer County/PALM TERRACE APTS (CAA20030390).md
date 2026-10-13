@@ -1,0 +1,85 @@
+# Project: PALM TERRACE APTS (CAA20030390)
+
+- HUD ID: CAA20030390
+- HUD ID before: 
+- Project: PALM TERRACE APTS
+- Address: 1040 RED HAWK LN
+- City: AUBURN
+- State: CA
+- ZIP: 95603
+- ZIP extension: 
+- State project ID: CA-02-929
+- Latitude: 38.910278
+- Longitude: -121.083835
+- County FIPS: 06061
+- County from: 2020
+- Tract 2020: 06061021501
+- Tract 2010: 06061021501
+- Tract 2000: 06061021501
+- Tract 1990: 06061021501
+- Place 2020: 03204
+- Place 2010: 03204
+- Place 2000: 03204
+- Place 1990: 1924
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 456168
+- Units: 80
+- Low-income units: 78
+- Units reported: 80
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 48
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA AUBURN PALM TERRACE.
+- Record status: Existing, unchanged

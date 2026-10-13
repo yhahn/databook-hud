@@ -1,0 +1,85 @@
+# Project: FOX RUN & FAIRVIEW APTS (OKA19990045)
+
+- HUD ID: OKA19990045
+- HUD ID before: 
+- Project: FOX RUN & FAIRVIEW APTS
+- Address: 1003 TARBY RD
+- City: POTEAU
+- State: OK
+- ZIP: 74953
+- ZIP extension: 
+- State project ID: OK-98-0644
+- Latitude: 35.088718
+- Longitude: -94.629144
+- County FIPS: 40079
+- County from: 2020
+- Tract 2020: 40079040401
+- Tract 2010: 40079040401
+- Tract 2000: 40079040400
+- Tract 1990: 40079040400
+- Place 2020: 60350
+- Place 2010: 60350
+- Place 2000: 60350
+- Place 1990: 1955
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 73
+- Low-income units: 71
+- Units reported: 73
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 41
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

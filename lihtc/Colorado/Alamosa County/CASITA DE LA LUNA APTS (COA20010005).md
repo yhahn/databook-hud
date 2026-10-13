@@ -1,0 +1,85 @@
+# Project: CASITA DE LA LUNA APTS (COA20010005)
+
+- HUD ID: COA20010005
+- HUD ID before: 
+- Project: CASITA DE LA LUNA APTS
+- Address: 1410 W 11TH ST
+- City: ALAMOSA
+- State: CO
+- ZIP: 81101
+- ZIP extension: 
+- State project ID: CO-00-105
+- Latitude: 37.461125
+- Longitude: -105.878827
+- County FIPS: 08003
+- County from: 2020
+- Tract 2020: 08003960300
+- Tract 2010: 08003960300
+- Tract 2000: 08003981700
+- Tract 1990: 08003981700
+- Place 2020: 01090
+- Place 2010: 01090
+- Place 2000: 01090
+- Place 1990: 0015
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 27
+- Units reported: 28
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

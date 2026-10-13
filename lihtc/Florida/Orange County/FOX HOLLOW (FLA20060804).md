@@ -1,0 +1,85 @@
+# Project: FOX HOLLOW (FLA20060804)
+
+- HUD ID: FLA20060804
+- HUD ID before: 
+- Project: FOX HOLLOW
+- Address: 3524 PRAIRIE FOX LN
+- City: ORLANDO
+- State: FL
+- ZIP: 32812
+- ZIP extension: 
+- State project ID: 277
+- Latitude: 28.455883
+- Longitude: -81.3348
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095013606
+- Tract 2010: 12095013606
+- Tract 2000: 12095013602
+- Tract 1990: 12095013602
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 14050
+- Place 1990: 0417
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 156
+- Low-income units: 156
+- Units reported: 156
+- Low-income reported: 156
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1991020.
+- Record status: Existing, unchanged

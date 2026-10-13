@@ -1,0 +1,85 @@
+# Project: FRIENDSHIP COURT (VAA20040045)
+
+- HUD ID: VAA20040045
+- HUD ID before: 
+- Project: FRIENDSHIP COURT
+- Address: 418 GARRETT ST
+- City: CHARLOTTESVILLE
+- State: VA
+- ZIP: 22902
+- ZIP extension: 
+- State project ID: 4055
+- Latitude: 38.027775
+- Longitude: -78.48031
+- County FIPS: 51540
+- County from: 2020
+- Tract 2020: 51540000401
+- Tract 2010: 51540000401
+- Tract 2000: 51540000401
+- Tract 1990: 51003011398
+- Place 2020: 14968
+- Place 2010: 14968
+- Place 2000: 14968
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 543866
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 54
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2003085.
+- Record status: Existing, unchanged

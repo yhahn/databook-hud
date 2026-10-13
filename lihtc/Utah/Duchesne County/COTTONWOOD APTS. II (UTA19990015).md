@@ -1,0 +1,85 @@
+# Project: COTTONWOOD APTS. II (UTA19990015)
+
+- HUD ID: UTA19990015
+- HUD ID before: 
+- Project: COTTONWOOD APTS. II
+- Address: 315 EAST 300 SOUTH
+- City: ROOSEVELT
+- State: UT
+- ZIP: 84066
+- ZIP extension: 0000
+- State project ID: 1998-08
+- Latitude: 40.29563
+- Longitude: -109.986643
+- County FIPS: 49013
+- County from: 2020
+- Tract 2020: 49013940501
+- Tract 2010: 49013940500
+- Tract 2000: 49013940500
+- Tract 1990: 49013991400
+- Place 2020: 64670
+- Place 2010: 64670
+- Place 2000: 64670
+- Place 1990: 0840
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 106857
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

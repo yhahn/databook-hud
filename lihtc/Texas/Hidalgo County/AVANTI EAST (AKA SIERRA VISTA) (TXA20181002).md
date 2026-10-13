@@ -1,0 +1,85 @@
+# Project: AVANTI EAST (AKA SIERRA VISTA) (TXA20181002)
+
+- HUD ID: TXA20181002
+- HUD ID before: 
+- Project: AVANTI EAST (AKA SIERRA VISTA)
+- Address: 1215 OWASSA ROAD
+- City: EDINBURG
+- State: TX
+- ZIP: 78542
+- ZIP extension: 
+- State project ID: TX5247
+- Latitude: 26.245791
+- Longitude: -98.160775
+- County FIPS: 48215
+- County from: 2020
+- Tract 2020: 48215023804
+- Tract 2010: 48215023801
+- Tract 2000: 48215021700
+- Tract 1990: 
+- Place 2020: 22660
+- Place 2010: 43972
+- Place 2000: 57200
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 
+- Units: 108
+- Low-income units: 90
+- Units reported: 108
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 27
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

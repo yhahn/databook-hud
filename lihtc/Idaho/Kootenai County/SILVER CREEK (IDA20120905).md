@@ -1,0 +1,85 @@
+# Project: SILVER CREEK (IDA20120905)
+
+- HUD ID: IDA20120905
+- HUD ID before: 
+- Project: SILVER CREEK
+- Address: 3720 WEST TAYJAN LANE
+- City: POST FALLS
+- State: ID
+- ZIP: 83854
+- ZIP extension: 
+- State project ID: HC1008
+- Latitude: 47.71402
+- Longitude: -116.997791
+- County FIPS: 16055
+- County from: 2020
+- Tract 2020: 16055000401
+- Tract 2010: 16055000401
+- Tract 2000: 16055000500
+- Tract 1990: 16055000500
+- Place 2020: 64810
+- Place 2010: 64810
+- Place 2000: 64810
+- Place 1990: 0790
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 585082
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 18
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 750000
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

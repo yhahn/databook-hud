@@ -1,0 +1,85 @@
+# Project: GREEN VALLEY APTS (COA19950025)
+
+- HUD ID: COA19950025
+- HUD ID before: 
+- Project: GREEN VALLEY APTS
+- Address: 1960 S CHELTON RD
+- City: COLORADO SPRINGS
+- State: CO
+- ZIP: 80916
+- ZIP extension: 
+- State project ID: CO-93-005
+- Latitude: 38.80474
+- Longitude: -104.752345
+- County FIPS: 08041
+- County from: 2020
+- Tract 2020: 08041006400
+- Tract 2010: 08041006400
+- Tract 2000: 08041006400
+- Tract 1990: 08041006400
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0240
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 121
+- Low-income units: 120
+- Units reported: 121
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 49
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

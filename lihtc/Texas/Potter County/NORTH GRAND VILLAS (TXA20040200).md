@@ -1,0 +1,85 @@
+# Project: NORTH GRAND VILLAS (TXA20040200)
+
+- HUD ID: TXA20040200
+- HUD ID before: 
+- Project: NORTH GRAND VILLAS
+- Address: 2801 N GRAND ST
+- City: AMARILLO
+- State: TX
+- ZIP: 79107
+- ZIP extension: 
+- State project ID: TX3215
+- Latitude: 35.241603
+- Longitude: -101.795667
+- County FIPS: 48375
+- County from: 2020
+- Tract 2020: 48375015000
+- Tract 2010: 48375015000
+- Tract 2000: 48375015000
+- Tract 1990: 48375012700
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0100
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 82
+- 4-bedroom units: 38
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BELLSROE.
+- Record status: Existing, unchanged

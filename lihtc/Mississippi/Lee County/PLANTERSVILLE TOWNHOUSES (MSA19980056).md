@@ -1,0 +1,85 @@
+# Project: PLANTERSVILLE TOWNHOUSES (MSA19980056)
+
+- HUD ID: MSA19980056
+- HUD ID before: MSA00000036
+- Project: PLANTERSVILLE TOWNHOUSES
+- Address: 140 WOODGREEN ROAD
+- City: PLANTERSVILLE
+- State: MS
+- ZIP: 38862
+- ZIP extension: 0000
+- State project ID: 97-008
+- Latitude: 34.210764
+- Longitude: -88.660057
+- County FIPS: 28081
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 28081950302
+- Tract 2000: 28081950300
+- Tract 1990: 28081950300
+- Place 2020: 
+- Place 2010: 58440
+- Place 2000: 58440
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 37536
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Single-Parent Families
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS MSA00000036
+- Record status: Existing, unchanged

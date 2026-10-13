@@ -1,0 +1,85 @@
+# Project: TRESSA APARTMENTS (WAA20109020)
+
+- HUD ID: WAA20109020
+- HUD ID before: 
+- Project: TRESSA APARTMENTS
+- Address: 14200 LINDEN AVE N
+- City: SEATTLE
+- State: WA
+- ZIP: 98133
+- ZIP extension: 
+- State project ID: 06-153A
+- Latitude: 47.731643
+- Longitude: -122.3475
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033000404
+- Tract 2010: 53033000401
+- Tract 2000: 53033000401
+- Tract 1990: 
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 3333819
+- Units: 474
+- Low-income units: 466
+- Units reported: 474
+- Low-income reported: 466
+- Efficiencies: 89
+- 1-bedroom units: 217
+- 2-bedroom units: 168
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HIGHSPIRE SCHOOL APTS (PAA19920155)
+
+- HUD ID: PAA19920155
+- HUD ID before: 
+- Project: HIGHSPIRE SCHOOL APTS
+- Address: 201 PENN ST
+- City: HIGHSPIRE
+- State: PA
+- ZIP: 17034
+- ZIP extension: 
+- State project ID: TC20120110
+- Latitude: 40.209925
+- Longitude: -76.791022
+- County FIPS: 42043
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42043023500
+- Tract 2000: 42043023500
+- Tract 1990: 42043023500
+- Place 2020: 
+- Place 2010: 34664
+- Place 2000: 34664
+- Place 1990: 5108
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 187929
+- Units: 42
+- Low-income units: 40
+- Units reported: 42
+- Low-income reported: 40
+- Efficiencies: 3
+- 1-bedroom units: 30
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION. FKA HIGHSPIRE SCHOOL
+- Record status: Existing, unchanged

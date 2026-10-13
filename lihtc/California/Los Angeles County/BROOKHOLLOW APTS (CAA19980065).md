@@ -1,0 +1,85 @@
+# Project: BROOKHOLLOW APTS (CAA19980065)
+
+- HUD ID: CAA19980065
+- HUD ID before: 
+- Project: BROOKHOLLOW APTS
+- Address: 2600 S AZUSA AVE
+- City: WEST COVINA
+- State: CA
+- ZIP: 91792
+- ZIP extension: 
+- State project ID: CA-00-806
+- Latitude: 34.029182
+- Longitude: -117.915522
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037408133
+- Tract 2010: 06037408133
+- Tract 2000: 06037408133
+- Tract 1990: 06037408131
+- Place 2020: 84200
+- Place 2010: 84200
+- Place 2000: 84200
+- Place 1990: 3070
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 206650
+- Units: 188
+- Low-income units: 85
+- Units reported: 188
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 61
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

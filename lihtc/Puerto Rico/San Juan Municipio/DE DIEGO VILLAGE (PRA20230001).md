@@ -1,0 +1,85 @@
+# Project: DE DIEGO VILLAGE (PRA20230001)
+
+- HUD ID: PRA20230001
+- HUD ID before: 
+- Project: DE DIEGO VILLAGE
+- Address: DEL PILAR CORNER BRUMBAUGH ST - RIO PIEDRAS WARD
+- City: SAN JUAN
+- State: PR
+- ZIP: 00917
+- ZIP extension: 
+- State project ID: 16-022
+- Latitude: 18.4217
+- Longitude: -66.0523
+- County FIPS: 72127
+- County from: 2020
+- Tract 2020: 72127006301
+- Tract 2010: 72127006300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76770
+- Place 2010: 76770
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

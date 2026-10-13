@@ -1,0 +1,85 @@
+# Project: DRAKE TERRACE SENIOR APTS II (INA19920125)
+
+- HUD ID: INA19920125
+- HUD ID before: 
+- Project: DRAKE TERRACE SENIOR APTS II
+- Address: 701 BRIARWOOD DR
+- City: KENDALLVILLE
+- State: IN
+- ZIP: 46755
+- ZIP extension: 
+- State project ID: IN-91-00700
+- Latitude: 41.435726
+- Longitude: -85.276022
+- County FIPS: 18113
+- County from: 2020
+- Tract 2020: 18113971900
+- Tract 2010: 18113971900
+- Tract 2000: 18113971900
+- Tract 1990: 18113971900
+- Place 2020: 39402
+- Place 2010: 39402
+- Place 2000: 39402
+- Place 1990: 1200
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: MULTIFAMILY
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0000960.
+- Record status: Existing, unchanged

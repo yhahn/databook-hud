@@ -1,0 +1,85 @@
+# Project: RIVER VILLAS OF MARQUETTE (KSA20050525)
+
+- HUD ID: KSA20050525
+- HUD ID before: 
+- Project: RIVER VILLAS OF MARQUETTE
+- Address: 113 S WASHINGTON ST
+- City: MARQUETTE
+- State: KS
+- ZIP: 67464
+- ZIP extension: 
+- State project ID: KS-03-17
+- Latitude: 38.55317
+- Longitude: -97.833642
+- County FIPS: 20113
+- County from: 2020
+- Tract 2020: 20113788300
+- Tract 2010: 20113788300
+- Tract 2000: 20113988300
+- Tract 1990: 20113988300
+- Place 2020: 44925
+- Place 2010: 44925
+- Place 2000: 44925
+- Place 1990: 1805
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 112732
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2005167, KSA0000125, KSA0000028. AKA RIVERVIEW VILLAS.
+- Record status: Existing, unchanged

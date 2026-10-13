@@ -1,0 +1,85 @@
+# Project: WOODSEDGE (WIA19920310)
+
+- HUD ID: WIA19920310
+- HUD ID before: 
+- Project: WOODSEDGE
+- Address: 2524 BOARDWALK CIR
+- City: EAU CLAIRE
+- State: WI
+- ZIP: 54701
+- ZIP extension: 
+- State project ID: 1234
+- Latitude: 44.775971
+- Longitude: -91.46475
+- County FIPS: 55035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55035000803
+- Tract 2000: 55035000803
+- Tract 1990: 55035000800
+- Place 2020: 
+- Place 2010: 22300
+- Place 2000: 22300
+- Place 1990: 0770
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

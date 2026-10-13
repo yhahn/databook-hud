@@ -1,0 +1,85 @@
+# Project: HOMEWOOD VILLAGE APARTMENTS (ARA20120811)
+
+- HUD ID: ARA20120811
+- HUD ID before: 
+- Project: HOMEWOOD VILLAGE APARTMENTS
+- Address: 321 HOMEWOOD LN
+- City: ASH FLAT
+- State: AR
+- ZIP: 72513
+- ZIP extension: 
+- State project ID: AR-96-18
+- Latitude: 36.242609
+- Longitude: -91.610404
+- County FIPS: 05135
+- County from: 2020
+- Tract 2020: 05135470300
+- Tract 2010: 05135470300
+- Tract 2000: 05135970300
+- Tract 1990: 05135970300
+- Place 2020: 02470
+- Place 2010: 02470
+- Place 2000: 02470
+- Place 1990: 0080
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 572999
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HOMEWOOD VILLAGE SENIOR CITIZEN APTS II.
+- Record status: Existing, unchanged

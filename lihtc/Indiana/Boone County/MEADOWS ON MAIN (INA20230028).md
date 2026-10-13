@@ -1,0 +1,85 @@
+# Project: MEADOWS ON MAIN (INA20230028)
+
+- HUD ID: INA20230028
+- HUD ID before: 
+- Project: MEADOWS ON MAIN
+- Address: 3863 S MAIN ST
+- City: WHITESTOWN
+- State: IN
+- ZIP: 46075
+- ZIP extension: 
+- State project ID: IN-21-02000
+- Latitude: 39.985537
+- Longitude: -86.345697
+- County FIPS: 18011
+- County from: 2020
+- Tract 2020: 18011810601
+- Tract 2010: 18011810601
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 84014
+- Place 2010: 84014
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 35000000
+- Units: 264
+- Low-income units: 264
+- Units reported: 264
+- Low-income reported: 264
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 108
+- 3-bedroom units: 68
+- 4-bedroom units: 16
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

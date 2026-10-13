@@ -1,0 +1,85 @@
+# Project: GREGORY SCHOOL APTS (ILA19920105)
+
+- HUD ID: ILA19920105
+- HUD ID before: 
+- Project: GREGORY SCHOOL APTS
+- Address: 202 W COLUMBIA AVE
+- City: CHAMPAIGN
+- State: IL
+- ZIP: 61820
+- ZIP extension: 
+- State project ID: 498-92
+- Latitude: 40.121351
+- Longitude: -88.24524
+- County FIPS: 17019
+- County from: 2020
+- Tract 2020: 17019011001
+- Tract 2010: 17019011000
+- Tract 2000: 17019000600
+- Tract 1990: 17019000600
+- Place 2020: 12385
+- Place 2010: 12385
+- Place 2000: 12385
+- Place 1990: 0990
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 20832
+- Units: 7
+- Low-income units: 7
+- Units reported: 7
+- Low-income reported: 7
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

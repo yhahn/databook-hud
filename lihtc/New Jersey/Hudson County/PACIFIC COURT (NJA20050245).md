@@ -1,0 +1,85 @@
+# Project: PACIFIC COURT (NJA20050245)
+
+- HUD ID: NJA20050245
+- HUD ID before: 
+- Project: PACIFIC COURT
+- Address: 220-240 PACIFIC AVENUE
+- City: JERSEY CITY
+- State: NJ
+- ZIP: 07304
+- ZIP extension: 
+- State project ID: 2288
+- Latitude: 40.709627
+- Longitude: -74.06489
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017004700
+- Tract 2010: 34017004700
+- Tract 2000: 34017004700
+- Tract 1990: 34017004700
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 2290
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1052634
+- Units: 71
+- Low-income units: 51
+- Units reported: 71
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 25
+- 3-bedroom units: 39
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2005100.
+- Record status: Existing, unchanged

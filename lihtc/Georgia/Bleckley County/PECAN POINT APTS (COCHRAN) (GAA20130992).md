@@ -1,0 +1,85 @@
+# Project: PECAN POINT APTS (COCHRAN) (GAA20130992)
+
+- HUD ID: GAA20130992
+- HUD ID before: 
+- Project: PECAN POINT APTS (COCHRAN)
+- Address: 133 LIMESTONE RD
+- City: COCHRAN
+- State: GA
+- ZIP: 31014
+- ZIP extension: 
+- State project ID: GA-11-003
+- Latitude: 32.376102
+- Longitude: -83.358165
+- County FIPS: 13023
+- County from: 2020
+- Tract 2020: 13023790302
+- Tract 2010: 13023790300
+- Tract 2000: 13023990300
+- Tract 1990: 13023990300
+- Place 2020: 17328
+- Place 2010: 17328
+- Place 2000: 17328
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 564208
+- Units: 49
+- Low-income units: 48
+- Units reported: 49
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1988800, GAA0000329.
+- Record status: Existing, unchanged

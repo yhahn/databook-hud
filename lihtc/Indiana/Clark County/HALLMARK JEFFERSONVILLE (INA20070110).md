@@ -1,0 +1,85 @@
+# Project: HALLMARK JEFFERSONVILLE (INA20070110)
+
+- HUD ID: INA20070110
+- HUD ID before: 
+- Project: HALLMARK JEFFERSONVILLE
+- Address: 2000 PADDLE WHEEL CT
+- City: JEFFERSONVILLE
+- State: IN
+- ZIP: 47130
+- ZIP extension: 
+- State project ID: IN-05-02400
+- Latitude: 38.313319
+- Longitude: -85.708566
+- County FIPS: 18019
+- County from: 2020
+- Tract 2020: 18019050603
+- Tract 2010: 18019050603
+- Tract 2000: 18019050603
+- Tract 1990: 18019050603
+- Place 2020: 38358
+- Place 2010: 38358
+- Place 2000: 38358
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 487587
+- Units: 80
+- Low-income units: 71
+- Units reported: 80
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 40
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HALLMARK AT JEFFERSONVILLE.
+- Record status: Existing, unchanged

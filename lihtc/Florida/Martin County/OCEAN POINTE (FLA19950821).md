@@ -1,0 +1,85 @@
+# Project: OCEAN POINTE (FLA19950821)
+
+- HUD ID: FLA19950821
+- HUD ID before: 
+- Project: OCEAN POINTE
+- Address: 300 SE ST LUCIE BLVD
+- City: STUART
+- State: FL
+- ZIP: 34996
+- ZIP extension: 
+- State project ID: 736
+- Latitude: 27.200575
+- Longitude: -80.224345
+- County FIPS: 12085
+- County from: 2020
+- Tract 2020: 12085000902
+- Tract 2010: 12085000902
+- Tract 2000: 12085000900
+- Tract 1990: 12085000900
+- Place 2020: 68875
+- Place 2010: 68875
+- Place 2000: 65225
+- Place 1990: 2035
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 112
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

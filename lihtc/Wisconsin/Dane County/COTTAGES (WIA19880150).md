@@ -1,0 +1,85 @@
+# Project: COTTAGES (WIA19880150)
+
+- HUD ID: WIA19880150
+- HUD ID before: 
+- Project: COTTAGES
+- Address: 5165 TAYLOR RD
+- City: MC FARLAND
+- State: WI
+- ZIP: 53558
+- ZIP extension: 
+- State project ID: 46
+- Latitude: 43.013818
+- Longitude: -89.29217
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025010504
+- Tract 2010: 55025010502
+- Tract 2000: 55025010500
+- Tract 1990: 55025010500
+- Place 2020: 46850
+- Place 2010: 46850
+- Place 2000: 46850
+- Place 1990: 1470
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 42
+- Units reported: 72
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MCFARLAND LLC.
+- Record status: Existing, unchanged

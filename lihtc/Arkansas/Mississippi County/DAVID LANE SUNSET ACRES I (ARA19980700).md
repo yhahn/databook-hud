@@ -1,0 +1,85 @@
+# Project: DAVID LANE SUNSET ACRES I (ARA19980700)
+
+- HUD ID: ARA19980700
+- HUD ID before: 
+- Project: DAVID LANE SUNSET ACRES I
+- Address: 1106 DAVID LN
+- City: BLYTHEVILLE
+- State: AR
+- ZIP: 72315
+- ZIP extension: 
+- State project ID: AR-96-20-00
+- Latitude: 35.911321
+- Longitude: -89.917276
+- County FIPS: 05093
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05093010300
+- Tract 2000: 05093010300
+- Tract 1990: 05093010300
+- Place 2020: 
+- Place 2010: 07330
+- Place 2000: 07330
+- Place 1990: 0230
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 77823
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 468800
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1998009.
+- Record status: Existing, unchanged

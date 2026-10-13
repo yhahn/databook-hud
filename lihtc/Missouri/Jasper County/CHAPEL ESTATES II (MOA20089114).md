@@ -1,0 +1,85 @@
+# Project: CHAPEL ESTATES II (MOA20089114)
+
+- HUD ID: MOA20089114
+- HUD ID before: 
+- Project: CHAPEL ESTATES II
+- Address: 1328 REATA
+- City: CARTHAGE
+- State: MO
+- ZIP: 64836
+- ZIP extension: 
+- State project ID: 07-028
+- Latitude: 37.137881
+- Longitude: -94.329958
+- County FIPS: 29097
+- County from: 2020
+- Tract 2020: 29097011900
+- Tract 2010: 29097011900
+- Tract 2000: 29097011900
+- Tract 1990: 29097011900
+- Place 2020: 11656
+- Place 2010: 11656
+- Place 2000: 11656
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 19
+- Low-income units: 19
+- Units reported: 15
+- Low-income reported: 19
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LAPALOMA APTS (TNA19990050)
+
+- HUD ID: TNA19990050
+- HUD ID before: 
+- Project: LAPALOMA APTS
+- Address: 1394 LAPALOMA CIR
+- City: MEMPHIS
+- State: TN
+- ZIP: 38114
+- ZIP extension: 
+- State project ID: TN-98-109
+- Latitude: 35.107379
+- Longitude: -89.997099
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157006500
+- Tract 2010: 47157006500
+- Tract 2000: 47157006500
+- Tract 1990: 47157006500
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 102347
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 64
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA THE APARTMETNTS AT LAPLOMA.
+- Record status: Existing, unchanged

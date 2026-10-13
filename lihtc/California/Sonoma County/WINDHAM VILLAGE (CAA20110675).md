@@ -1,0 +1,85 @@
+# Project: WINDHAM VILLAGE (CAA20110675)
+
+- HUD ID: CAA20110675
+- HUD ID before: 
+- Project: WINDHAM VILLAGE
+- Address: 1101 PROSPECT AVE
+- City: SANTA ROSA
+- State: CA
+- ZIP: 95409
+- ZIP extension: 
+- State project ID: CA-11-819
+- Latitude: 38.462134
+- Longitude: -122.674317
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097152204
+- Tract 2010: 06097152202
+- Tract 2000: 06097152202
+- Tract 1990: 06097152202
+- Place 2020: 70098
+- Place 2010: 70098
+- Place 2000: 70098
+- Place 1990: 2615
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 241883
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 2
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

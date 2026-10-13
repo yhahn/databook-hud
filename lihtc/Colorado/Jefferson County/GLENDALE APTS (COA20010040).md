@@ -1,0 +1,85 @@
+# Project: GLENDALE APTS (COA20010040)
+
+- HUD ID: COA20010040
+- HUD ID before: 
+- Project: GLENDALE APTS
+- Address: 5345 W 79TH AVE
+- City: WESTMINSTER
+- State: CO
+- ZIP: 80003
+- ZIP extension: 
+- State project ID: CO-00-517
+- Latitude: 39.839281
+- Longitude: -105.053568
+- County FIPS: 08059
+- County from: 2020
+- Tract 2020: 08059010209
+- Tract 2010: 08059010209
+- Tract 2000: 08059010209
+- Tract 1990: 08059010209
+- Place 2020: 83835
+- Place 2010: 83835
+- Place 2000: 03455
+- Place 1990: 0040
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 119
+- Units reported: 120
+- Low-income reported: 119
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 66
+- 3-bedroom units: 30
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

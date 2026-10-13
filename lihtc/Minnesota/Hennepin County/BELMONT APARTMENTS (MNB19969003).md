@@ -1,0 +1,85 @@
+# Project: BELMONT APARTMENTS (MNB19969003)
+
+- HUD ID: MNB19969003
+- HUD ID before: 
+- Project: BELMONT APARTMENTS
+- Address: 1000 W FRANKLIN AVENUE
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55405
+- ZIP extension: 3165
+- State project ID: D3753
+- Latitude: 44.962885
+- Longitude: -93.291809
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053105500
+- Tract 2010: 27053105500
+- Tract 2000: 27053105500
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 122068
+- Units: 87
+- Low-income units: 87
+- Units reported: 87
+- Low-income reported: 87
+- Efficiencies: 49
+- 1-bedroom units: 27
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: General Occupancy
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

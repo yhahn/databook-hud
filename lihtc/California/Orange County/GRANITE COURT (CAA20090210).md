@@ -1,0 +1,85 @@
+# Project: GRANITE COURT (CAA20090210)
+
+- HUD ID: CAA20090210
+- HUD ID before: 
+- Project: GRANITE COURT
+- Address: 2853 KELVIN AVE
+- City: IRVINE
+- State: CA
+- ZIP: 92614
+- ZIP extension: 
+- State project ID: CA-07-822
+- Latitude: 33.682714
+- Longitude: -117.83556
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059075516
+- Tract 2010: 06059075515
+- Tract 2000: 06059075515
+- Tract 1990: 06059052501
+- Place 2020: 36770
+- Place 2010: 36770
+- Place 2000: 16532
+- Place 1990: 2965
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1131772
+- Units: 71
+- Low-income units: 70
+- Units reported: 71
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 20
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 70
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

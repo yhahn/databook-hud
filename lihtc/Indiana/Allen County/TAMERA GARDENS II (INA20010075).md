@@ -1,0 +1,85 @@
+# Project: TAMERA GARDENS II (INA20010075)
+
+- HUD ID: INA20010075
+- HUD ID before: 
+- Project: TAMERA GARDENS II
+- Address: 6825 JOHN ST
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46816
+- ZIP extension: 
+- State project ID: IN-99-01100
+- Latitude: 41.022205
+- Longitude: -85.122848
+- County FIPS: 18003
+- County from: 2020
+- Tract 2020: 18003003600
+- Tract 2010: 18003003600
+- Tract 2000: 18003003600
+- Tract 1990: 18003003600
+- Place 2020: 25000
+- Place 2010: 25000
+- Place 2000: 25000
+- Place 1990: 0825
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 309282
+- Units: 84
+- Low-income units: 68
+- Units reported: 84
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 50
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

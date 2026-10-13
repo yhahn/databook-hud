@@ -1,0 +1,85 @@
+# Project: HEATHERWOOD APTS (MIA19950075)
+
+- HUD ID: MIA19950075
+- HUD ID before: 
+- Project: HEATHERWOOD APTS
+- Address: 1672 HEATHERWOOD DR
+- City: INKSTER
+- State: MI
+- ZIP: 48141
+- ZIP extension: 
+- State project ID: MI-1910
+- Latitude: 42.298311
+- Longitude: -83.293871
+- County FIPS: 26163
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26163570100
+- Tract 2000: 26163570100
+- Tract 1990: 26163570100
+- Place 2020: 
+- Place 2010: 40680
+- Place 2000: 40680
+- Place 1990: 1320
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 184
+- Units reported: 184
+- Low-income reported: 184
+- Efficiencies: 0
+- 1-bedroom units: 91
+- 2-bedroom units: 93
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

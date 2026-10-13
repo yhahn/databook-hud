@@ -1,0 +1,85 @@
+# Project: ST JOHNS MANOR (CAA20070565)
+
+- HUD ID: CAA20070565
+- HUD ID before: 
+- Project: ST JOHNS MANOR
+- Address: 2031 ORANGE AVE
+- City: COSTA MESA
+- State: CA
+- ZIP: 92627
+- ZIP extension: 
+- State project ID: CA-06-893
+- Latitude: 33.644727
+- Longitude: -117.909675
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059063202
+- Tract 2010: 06059063202
+- Tract 2000: 06059063202
+- Tract 1990: 06059063202
+- Place 2020: 16532
+- Place 2010: 16532
+- Place 2000: 16532
+- Place 1990: 0625
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 221956
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

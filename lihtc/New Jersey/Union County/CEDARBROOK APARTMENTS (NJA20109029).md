@@ -1,0 +1,85 @@
+# Project: CEDARBROOK APARTMENTS (NJA20109029)
+
+- HUD ID: NJA20109029
+- HUD ID before: 
+- Project: CEDARBROOK APARTMENTS
+- Address: 1272 PARK AVE
+- City: PLAINFIELD
+- State: NJ
+- ZIP: 07060
+- ZIP extension: 3218
+- State project ID: 00425
+- Latitude: 40.604778
+- Longitude: -74.404625
+- County FIPS: 34039
+- County from: 2020
+- Tract 2020: 34039039700
+- Tract 2010: 34039039700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59190
+- Place 2010: 59190
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 141
+- Low-income units: 138
+- Units reported: 141
+- Low-income reported: 138
+- Efficiencies: 41
+- 1-bedroom units: 99
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

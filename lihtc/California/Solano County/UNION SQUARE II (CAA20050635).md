@@ -1,0 +1,85 @@
+# Project: UNION SQUARE II (CAA20050635)
+
+- HUD ID: CAA20050635
+- HUD ID before: 
+- Project: UNION SQUARE II
+- Address: 608 KENNEDY CT
+- City: FAIRFIELD
+- State: CA
+- ZIP: 94533
+- ZIP extension: 
+- State project ID: CA-04-854
+- Latitude: 38.256604
+- Longitude: -122.040506
+- County FIPS: 06095
+- County from: 2020
+- Tract 2020: 06095252501
+- Tract 2010: 06095252501
+- Tract 2000: 06095252501
+- Tract 1990: 06095252501
+- Place 2020: 23182
+- Place 2010: 23182
+- Place 2000: 23182
+- Place 1990: 0960
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 185024
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 10
+- 3-bedroom units: 7
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

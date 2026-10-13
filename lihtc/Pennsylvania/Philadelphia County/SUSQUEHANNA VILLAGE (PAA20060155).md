@@ -1,0 +1,85 @@
+# Project: SUSQUEHANNA VILLAGE (PAA20060155)
+
+- HUD ID: PAA20060155
+- HUD ID before: 
+- Project: SUSQUEHANNA VILLAGE
+- Address: 1421 W SUSQUEHANNA AVE
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19121
+- ZIP extension: 
+- State project ID: TC20040648
+- Latitude: 39.986588
+- Longitude: -75.157133
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101016702
+- Tract 2010: 42101016702
+- Tract 2000: 42101016700
+- Tract 1990: 42101016700
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 1139681
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 6
+- 3-bedroom units: 18
+- 4-bedroom units: 9
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1060000
+- CDBG: Yes
+- CDBG amount: 665000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

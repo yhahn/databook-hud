@@ -1,0 +1,85 @@
+# Project: CRESTVIEW COMMONS (VAA19980065)
+
+- HUD ID: VAA19980065
+- HUD ID before: 
+- Project: CRESTVIEW COMMONS
+- Address: 318 S WHITING ST
+- City: ALEXANDRIA
+- State: VA
+- ZIP: 22304
+- ZIP extension: 
+- State project ID: 4506
+- Latitude: 38.809954
+- Longitude: -77.135827
+- County FIPS: 51510
+- County from: 2020
+- Tract 2020: 51510200406
+- Tract 2010: 51510200406
+- Tract 2000: 51510200402
+- Tract 1990: 51510200402
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0025
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 595719
+- Units: 290
+- Low-income units: 290
+- Units reported: 290
+- Low-income reported: 290
+- Efficiencies: 3
+- 1-bedroom units: 99
+- 2-bedroom units: 134
+- 3-bedroom units: 54
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CRESTVIEW GARDEN.;PREVIOUSLY LISTED AS VAA1992092. FKA CRESTVIEW
+- Record status: Existing, unchanged

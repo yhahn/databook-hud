@@ -1,0 +1,85 @@
+# Project: LIBERTY HEIGHTS APTS. (UTA19920900)
+
+- HUD ID: UTA19920900
+- HUD ID before: 
+- Project: LIBERTY HEIGHTS APTS.
+- Address: 8176 SOUTH 1300 EAST
+- City: SANDY
+- State: UT
+- ZIP: 84094
+- ZIP extension: 
+- State project ID: 1990-05
+- Latitude: 40.60351
+- Longitude: -111.853398
+- County FIPS: 49035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49035112611
+- Tract 2000: 49035112611
+- Tract 1990: 49035112611
+- Place 2020: 
+- Place 2010: 67440
+- Place 2000: 67440
+- Place 1990: 0875
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 42
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

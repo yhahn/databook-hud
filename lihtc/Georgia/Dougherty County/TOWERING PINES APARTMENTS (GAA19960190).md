@@ -1,0 +1,85 @@
+# Project: TOWERING PINES APARTMENTS (GAA19960190)
+
+- HUD ID: GAA19960190
+- HUD ID before: 
+- Project: TOWERING PINES APARTMENTS
+- Address: 2125 BEACHVIEW DR
+- City: ALBANY
+- State: GA
+- ZIP: 31705
+- ZIP extension: 0904
+- State project ID: GA-94-088
+- Latitude: 31.6066
+- Longitude: -84.122403
+- County FIPS: 13095
+- County from: 2020
+- Tract 2020: 13095010302
+- Tract 2010: 13095010302
+- Tract 2000: 13095010302
+- Tract 1990: 13095010302
+- Place 2020: 01052
+- Place 2010: 01052
+- Place 2000: 01052
+- Place 1990: 0045
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1994185, GAA1994179.
+- Record status: Existing, unchanged

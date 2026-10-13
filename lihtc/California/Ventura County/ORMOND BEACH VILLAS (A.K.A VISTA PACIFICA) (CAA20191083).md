@@ -1,0 +1,85 @@
+# Project: ORMOND BEACH VILLAS (A.K.A VISTA PACIFICA) (CAA20191083)
+
+- HUD ID: CAA20191083
+- HUD ID before: 
+- Project: ORMOND BEACH VILLAS (A.K.A VISTA PACIFICA)
+- Address: 5547 S. SAVIERS ROAD
+- City: OXNARD
+- State: CA
+- ZIP: 93033
+- ZIP extension: 
+- State project ID: CA-2017-759
+- Latitude: 34.14848
+- Longitude: -119.178111
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111004508
+- Tract 2010: 06111004506
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 54652
+- Place 2010: 54652
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 783647
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 
+- 1-bedroom units: 15
+- 2-bedroom units: 20
+- 3-bedroom units: 5
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Veterans
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

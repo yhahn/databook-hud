@@ -1,0 +1,85 @@
+# Project: ASHLEY COURTS AT CASCADE I (GAA20019801)
+
+- HUD ID: GAA20019801
+- HUD ID before: 
+- Project: ASHLEY COURTS AT CASCADE I
+- Address: 1371 KIMBERLY WAY SW
+- City: ATLANTA
+- State: GA
+- ZIP: 30331
+- ZIP extension: 
+- State project ID: 1999-028
+- Latitude: 33.718329
+- Longitude: -84.523854
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121007810
+- Tract 2010: 13121007802
+- Tract 2000: 13121007802
+- Tract 1990: 13121007802
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 619870
+- Units: 152
+- Low-income units: 121
+- Units reported: 152
+- Low-income reported: 121
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 56
+- 3-bedroom units: 50
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2002110.
+- Record status: Updated

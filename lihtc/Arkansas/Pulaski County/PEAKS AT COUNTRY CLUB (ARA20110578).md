@@ -1,0 +1,85 @@
+# Project: PEAKS AT COUNTRY CLUB (ARA20110578)
+
+- HUD ID: ARA20110578
+- HUD ID before: 
+- Project: PEAKS AT COUNTRY CLUB
+- Address: 10710 RICHSMITH LN
+- City: NORTH LITTLE ROCK
+- State: AR
+- ZIP: 72113
+- ZIP extension: 
+- State project ID: AR-09-18-001
+- Latitude: 34.842213
+- Longitude: -92.385957
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119004307
+- Tract 2010: 05119004303
+- Tract 2000: 05119004303
+- Tract 1990: 05119004301
+- Place 2020: 50450
+- Place 2010: 50450
+- Place 2000: 44600
+- Place 1990: 1337
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 1
+- 1-bedroom units: 6
+- 2-bedroom units: 17
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000501, ARA0000150. AKA PEAKS AT COUNTRY CLUB I.
+- Record status: Existing, unchanged

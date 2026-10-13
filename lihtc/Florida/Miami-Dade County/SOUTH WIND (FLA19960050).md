@@ -1,0 +1,85 @@
+# Project: SOUTH WIND (FLA19960050)
+
+- HUD ID: FLA19960050
+- HUD ID before: 
+- Project: SOUTH WIND
+- Address: 149 E THIRD ST
+- City: HIALEAH
+- State: FL
+- ZIP: 33010
+- ZIP extension: 
+- State project ID: 781
+- Latitude: 25.824728
+- Longitude: -80.278365
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086001606
+- Tract 2010: 12086001606
+- Tract 2000: 12086001601
+- Tract 1990: 12025001601
+- Place 2020: 30000
+- Place 2010: 30000
+- Place 2000: 30000
+- Place 1990: 0860
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 32
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

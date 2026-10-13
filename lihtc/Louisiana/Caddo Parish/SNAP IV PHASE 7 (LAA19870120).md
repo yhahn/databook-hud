@@ -1,0 +1,85 @@
+# Project: SNAP IV PHASE 7 (LAA19870120)
+
+- HUD ID: LAA19870120
+- HUD ID before: 
+- Project: SNAP IV PHASE 7
+- Address: 925 CADDO ST
+- City: SHREVEPORT
+- State: LA
+- ZIP: 71101
+- ZIP extension: 
+- State project ID: LA-87-024
+- Latitude: 32.512219
+- Longitude: -93.756353
+- County FIPS: 22017
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22017025300
+- Tract 2000: 22017020400
+- Tract 1990: 22017020400
+- Place 2020: 
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 1240
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 9
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

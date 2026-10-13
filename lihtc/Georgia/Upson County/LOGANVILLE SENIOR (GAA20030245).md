@@ -1,0 +1,85 @@
+# Project: LOGANVILLE SENIOR (GAA20030245)
+
+- HUD ID: GAA20030245
+- HUD ID before: 
+- Project: LOGANVILLE SENIOR
+- Address: 319 S BETHEL ST
+- City: THOMASTON
+- State: GA
+- ZIP: 30286
+- ZIP extension: 5539
+- State project ID: GA-01-089
+- Latitude: 32.885425
+- Longitude: -84.324256
+- County FIPS: 13293
+- County from: 2020
+- Tract 2020: 13293010402
+- Tract 2010: 13293010400
+- Tract 2000: 13293990500
+- Tract 1990: 13293990500
+- Place 2020: 76168
+- Place 2010: 76168
+- Place 2000: 76168
+- Place 1990: 2800
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HARVARD PLACE APTS (CAA20050733)
+
+- HUD ID: CAA20050733
+- HUD ID before: 
+- Project: HARVARD PLACE APTS
+- Address: 316 W HARVARD BLVD
+- City: SANTA PAULA
+- State: CA
+- ZIP: 93060
+- ZIP extension: 
+- State project ID: CA-04-866
+- Latitude: 34.344689
+- Longitude: -119.076671
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111000701
+- Tract 2010: 06111000701
+- Tract 2000: 06111000700
+- Tract 1990: 06111000700
+- Place 2020: 70042
+- Place 2010: 70042
+- Place 2000: 70042
+- Place 1990: 2605
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 179543
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

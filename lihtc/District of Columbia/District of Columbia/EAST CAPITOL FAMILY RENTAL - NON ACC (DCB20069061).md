@@ -1,0 +1,85 @@
+# Project: EAST CAPITOL FAMILY RENTAL - NON ACC (DCB20069061)
+
+- HUD ID: DCB20069061
+- HUD ID before: 
+- Project: EAST CAPITOL FAMILY RENTAL - NON ACC
+- Address: 5725 E CAPITOL ST SE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20019
+- ZIP extension: 
+- State project ID: DCB2006050
+- Latitude: 38.889509
+- Longitude: -76.919326
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001009903
+- Tract 2010: 11001009903
+- Tract 2000: 11001009903
+- Tract 1990: 11001009903
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 86
+- Low-income units: 86
+- Units reported: 83
+- Low-income reported: 86
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DCB0000003. AKA EAST CAPITOL FAMILY RENTAL LP.
+- Record status: Existing, unchanged

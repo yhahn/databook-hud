@@ -1,0 +1,85 @@
+# Project: MANZANITA HILLS APTS (CAA20110828)
+
+- HUD ID: CAA20110828
+- HUD ID before: 
+- Project: MANZANITA HILLS APTS
+- Address: 1526 SPRUCE ST
+- City: ANDERSON
+- State: CA
+- ZIP: 96007
+- ZIP extension: 
+- State project ID: CA-09-597
+- Latitude: 40.435676
+- Longitude: -122.292518
+- County FIPS: 06089
+- County from: 2020
+- Tract 2020: 06089012000
+- Tract 2010: 06089012000
+- Tract 2000: 06089012000
+- Tract 1990: 06089012000
+- Place 2020: 02042
+- Place 2010: 02042
+- Place 2000: 02042
+- Place 1990: 0075
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 148
+- Units reported: 160
+- Low-income reported: 148
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 113
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 9249819
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

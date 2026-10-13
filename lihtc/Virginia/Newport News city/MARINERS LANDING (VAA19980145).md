@@ -1,0 +1,85 @@
+# Project: MARINERS LANDING (VAA19980145)
+
+- HUD ID: VAA19980145
+- HUD ID before: 
+- Project: MARINERS LANDING
+- Address: 494 CROSSINGS CT
+- City: NEWPORT NEWS
+- State: VA
+- ZIP: 23608
+- ZIP extension: 
+- State project ID: 5462
+- Latitude: 37.133293
+- Longitude: -76.527733
+- County FIPS: 51700
+- County from: 2020
+- Tract 2020: 51700032212
+- Tract 2010: 51700032212
+- Tract 2000: 51700032212
+- Tract 1990: 51700032212
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 56000
+- Place 1990: 0860
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 777315
+- Units: 274
+- Low-income units: 274
+- Units reported: 274
+- Low-income reported: 274
+- Efficiencies: 0
+- 1-bedroom units: 65
+- 2-bedroom units: 177
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CROSSINGS AT DENBIGH.;PREVIOUSLY LISTED AS VAA1993106. FKA MARINER'S LANDING
+- Record status: Existing, unchanged

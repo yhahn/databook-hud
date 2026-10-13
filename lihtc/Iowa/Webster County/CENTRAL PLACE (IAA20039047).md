@@ -1,0 +1,85 @@
+# Project: CENTRAL PLACE (IAA20039047)
+
+- HUD ID: IAA20039047
+- HUD ID before: 
+- Project: CENTRAL PLACE
+- Address: 629 CENTRAL AVE
+- City: FORT DODGE
+- State: IA
+- ZIP: 50501
+- ZIP extension: 
+- State project ID: 01-04
+- Latitude: 42.504632
+- Longitude: -94.189579
+- County FIPS: 19187
+- County from: 2020
+- Tract 2020: 19187000700
+- Tract 2010: 19187000700
+- Tract 2000: 19187000700
+- Tract 1990: 19187000700
+- Place 2020: 28515
+- Place 2010: 28515
+- Place 2000: 28515
+- Place 1990: 1515
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA BEH BUILDING APTS
+- Record status: Existing, unchanged

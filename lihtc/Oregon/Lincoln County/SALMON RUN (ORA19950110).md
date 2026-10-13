@@ -1,0 +1,85 @@
+# Project: SALMON RUN (ORA19950110)
+
+- HUD ID: ORA19950110
+- HUD ID before: 
+- Project: SALMON RUN
+- Address: 7035 NE ECHO CT
+- City: NEWPORT
+- State: OR
+- ZIP: 97365
+- ZIP extension: 
+- State project ID: 94-003
+- Latitude: 44.688941
+- Longitude: -124.056087
+- County FIPS: 41041
+- County from: 2020
+- Tract 2020: 41041950800
+- Tract 2010: 41041950800
+- Tract 2000: 41041950800
+- Tract 1990: 41041950800
+- Place 2020: 52450
+- Place 2010: 52450
+- Place 2000: 52450
+- Place 1990: 0825
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 210000
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 22
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 354343
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

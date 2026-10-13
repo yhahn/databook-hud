@@ -1,0 +1,85 @@
+# Project: GATES MILLS VILLA (OHA20050069)
+
+- HUD ID: OHA20050069
+- HUD ID before: 
+- Project: GATES MILLS VILLA
+- Address: 6755 MAYFIELD RD
+- City: MAYFIELD HEIGHTS
+- State: OH
+- ZIP: 44124
+- ZIP extension: 
+- State project ID: 050129
+- Latitude: 41.520291
+- Longitude: -81.435837
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035172105
+- Tract 2010: 39035172103
+- Tract 2000: 39035172103
+- Tract 1990: 39035172103
+- Place 2020: 48482
+- Place 2010: 48482
+- Place 2000: 48482
+- Place 1990: 2548
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 334025
+- Units: 191
+- Low-income units: 191
+- Units reported: 191
+- Low-income reported: 191
+- Efficiencies: 0
+- 1-bedroom units: 152
+- 2-bedroom units: 39
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2005669, OHA2007050.
+- Record status: Existing, unchanged

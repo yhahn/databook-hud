@@ -1,0 +1,85 @@
+# Project: HORIZON MEADOWS APTS (TXA20110846)
+
+- HUD ID: TXA20110846
+- HUD ID before: 
+- Project: HORIZON MEADOWS APTS
+- Address: 1903 MAIN ST
+- City: LA MARQUE
+- State: TX
+- ZIP: 77568
+- ZIP extension: 
+- State project ID: TX4650
+- Latitude: 29.357919
+- Longitude: -94.971812
+- County FIPS: 48167
+- County from: 2020
+- Tract 2020: 48167722900
+- Tract 2010: 48167722900
+- Tract 2000: 48167722900
+- Tract 1990: 48167122901
+- Place 2020: 41116
+- Place 2010: 41116
+- Place 2000: 41116
+- Place 1990: 2370
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 48
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1700000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000305.
+- Record status: Existing, unchanged

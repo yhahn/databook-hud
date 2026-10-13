@@ -1,0 +1,85 @@
+# Project: MCGUIRE FOURPLEX (MOA19930220)
+
+- HUD ID: MOA19930220
+- HUD ID before: 
+- Project: MCGUIRE FOURPLEX
+- Address: 5900 E 136TH ST
+- City: GRANDVIEW
+- State: MO
+- ZIP: 
+- ZIP extension: 
+- State project ID: 92-059
+- Latitude: 38.877922
+- Longitude: -94.524141
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095013313
+- Tract 2010: 29095013313
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 28324
+- Place 2010: 28324
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

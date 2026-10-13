@@ -1,0 +1,85 @@
+# Project: MILL CREEK APTS III (OKA19909311)
+
+- HUD ID: OKA19909311
+- HUD ID before: 
+- Project: MILL CREEK APTS III
+- Address: 400 MILL CREEK DR
+- City: GROVE
+- State: OK
+- ZIP: 74344
+- ZIP extension: 
+- State project ID: OK-89-023
+- Latitude: 36.591668
+- Longitude: -94.756227
+- County FIPS: 40041
+- County from: 2020
+- Tract 2020: 40041375702
+- Tract 2010: 40041375700
+- Tract 2000: 40041975700
+- Tract 1990: 40041975700
+- Place 2020: 31600
+- Place 2010: 31600
+- Place 2000: 31600
+- Place 1990: 1015
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

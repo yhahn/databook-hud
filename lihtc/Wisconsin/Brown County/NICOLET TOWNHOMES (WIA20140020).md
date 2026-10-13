@@ -1,0 +1,85 @@
+# Project: NICOLET TOWNHOMES (WIA20140020)
+
+- HUD ID: WIA20140020
+- HUD ID before: 
+- Project: NICOLET TOWNHOMES
+- Address: 1380 SCHEURING ROAD, BLDG A
+- City: DE PERE
+- State: WI
+- ZIP: 54115
+- ZIP extension: 
+- State project ID: 5918
+- Latitude: 44.431009
+- Longitude: -88.101211
+- County FIPS: 55009
+- County from: 2020
+- Tract 2020: 55009010202
+- Tract 2010: 55009010202
+- Tract 2000: 55009010202
+- Tract 1990: 55009010202
+- Place 2020: 19775
+- Place 2010: 19775
+- Place 2000: 19775
+- Place 1990: 0700
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 727790
+- Units: 60
+- Low-income units: 7
+- Units reported: 60
+- Low-income reported: 7
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 22
+- 3-bedroom units: 38
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 494100
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

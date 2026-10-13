@@ -1,0 +1,85 @@
+# Project: ARTHUR H. NICKLESS JR. HOUSING FOR THE ELDERLY (NHA20161003)
+
+- HUD ID: NHA20161003
+- HUD ID before: 
+- Project: ARTHUR H. NICKLESS JR. HOUSING FOR THE ELDERLY
+- Address: 19 GLENWOOD AVENUE
+- City: ROCHESTER
+- State: NH
+- ZIP: 03867
+- ZIP extension: 
+- State project ID: 1048
+- Latitude: 43.311422
+- Longitude: -70.976298
+- County FIPS: 33017
+- County from: 2020
+- Tract 2020: 33017084302
+- Tract 2010: 33017084300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 65140
+- Place 2010: 65140
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 450000
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 548935
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

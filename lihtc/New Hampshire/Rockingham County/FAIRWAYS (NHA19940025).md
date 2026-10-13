@@ -1,0 +1,85 @@
+# Project: FAIRWAYS (NHA19940025)
+
+- HUD ID: NHA19940025
+- HUD ID before: 
+- Project: FAIRWAYS
+- Address: 1 FOREST RIDGE RD
+- City: DERRY
+- State: NH
+- ZIP: 03038
+- ZIP extension: 
+- State project ID: NH94-006
+- Latitude: 42.882684
+- Longitude: -71.306659
+- County FIPS: 33015
+- County from: 2020
+- Tract 2020: 33015003500
+- Tract 2010: 33015003500
+- Tract 2000: 33015003500
+- Tract 1990: 33015003500
+- Place 2020: 17860
+- Place 2010: 17860
+- Place 2000: 17860
+- Place 1990: 0620
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 176
+- Units reported: 
+- Low-income reported: 176
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

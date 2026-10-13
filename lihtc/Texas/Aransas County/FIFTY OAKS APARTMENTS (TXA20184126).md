@@ -1,0 +1,85 @@
+# Project: FIFTY OAKS APARTMENTS (TXA20184126)
+
+- HUD ID: TXA20184126
+- HUD ID before: 
+- Project: FIFTY OAKS APARTMENTS
+- Address: 501 EAST 2ND STREET
+- City: ROCKPORT
+- State: TX
+- ZIP: 78382
+- ZIP extension: 
+- State project ID: TX5176
+- Latitude: 28.008166
+- Longitude: -97.062071
+- County FIPS: 48007
+- County from: 2020
+- Tract 2020: 48007950400
+- Tract 2010: 48007950400
+- Tract 2000: 48007950400
+- Tract 1990: 
+- Place 2020: 62804
+- Place 2010: 62804
+- Place 2000: 62804
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 30
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

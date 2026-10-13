@@ -1,0 +1,85 @@
+# Project: HUNTER'S OAK APTS (OHA19980125)
+
+- HUD ID: OHA19980125
+- HUD ID before: 
+- Project: HUNTER'S OAK APTS
+- Address: 1199 E RUSS RD
+- City: GREENVILLE
+- State: OH
+- ZIP: 45331
+- ZIP extension: 
+- State project ID: 97-0039
+- Latitude: 40.121184
+- Longitude: -84.617069
+- County FIPS: 39037
+- County from: 2020
+- Tract 2020: 39037555002
+- Tract 2010: 39037555000
+- Tract 2000: 39037555000
+- Tract 1990: 39037555000
+- Place 2020: 32340
+- Place 2010: 32340
+- Place 2000: 32340
+- Place 1990: 1665
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 251553
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

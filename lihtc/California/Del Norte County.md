@@ -1,0 +1,24 @@
+# Tax Credit Projects: Del Norte County, CA
+
+- Level: County
+- Postal code: CA
+- State FIPS: 06
+- County FIPS: 06015
+- Counties: 
+- Projects: 7
+- Units: 315
+- Low-income units: 309
+
+The low-income housing tax credit projects of Del Norte County, California, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [SEABREEZE APTS (CAA20070515)](./Del%20Norte%20County/SEABREEZE%20APTS%20%28CAA20070515%29.md) | CAA20070515 | CRESCENT CITY | 2007 | 56 | 55 |
+| [SEAGULL VILLA APTS (CAA20070520)](./Del%20Norte%20County/SEAGULL%20VILLA%20APTS%20%28CAA20070520%29.md) | CAA20070520 | CRESCENT CITY | 2007 | 50 | 49 |
+| [TOTEM VILLA APTS (CAA20070645)](./Del%20Norte%20County/TOTEM%20VILLA%20APTS%20%28CAA20070645%29.md) | CAA20070645 | CRESCENT CITY | 2007 | 38 | 37 |
+| [SUMMER PARK APTS (CAA20120145)](./Del%20Norte%20County/SUMMER%20PARK%20APTS%20%28CAA20120145%29.md) | CAA20120145 | CRESCENT CITY | 2012 | 56 | 56 |
+| [CRESCENT CITY SENIOR APTS (CAA20140394)](./Del%20Norte%20County/CRESCENT%20CITY%20SENIOR%20APTS%20%28CAA20140394%29.md) | CAA20140394 | CRESCENT CITY | 2014 | 38 | 37 |
+| [THE SURF APTS (CRESCENT CITY) (CAA20140451)](./Del%20Norte%20County/THE%20SURF%20APTS%20%28CRESCENT%20CITY%29%20%28CAA20140451%29.md) | CAA20140451 | CRESCENT CITY | 2014 | 56 | 55 |
+| [DAT-NAA-SVT (CAA20200013)](./Del%20Norte%20County/DAT-NAA-SVT%20%28CAA20200013%29.md) | CAA20200013 | SMITH RIVER | 2020 | 21 | 20 |

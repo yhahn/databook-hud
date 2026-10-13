@@ -1,0 +1,85 @@
+# Project: ST CROIX (FLA20050802)
+
+- HUD ID: FLA20050802
+- HUD ID before: 
+- Project: ST CROIX
+- Address: 4100 NW 34TH ST
+- City: LAUDERDALE LAKES
+- State: FL
+- ZIP: 33319
+- ZIP extension: 
+- State project ID: 1176
+- Latitude: 26.168857
+- Longitude: -80.203666
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011050306
+- Tract 2010: 12011050306
+- Tract 2000: 12011050306
+- Tract 1990: 12011050302
+- Place 2020: 39525
+- Place 2010: 39525
+- Place 2000: 39525
+- Place 1990: 1183
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 246
+- Low-income units: 246
+- Units reported: 246
+- Low-income reported: 246
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 106
+- 3-bedroom units: 86
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2005170.
+- Record status: Existing, unchanged

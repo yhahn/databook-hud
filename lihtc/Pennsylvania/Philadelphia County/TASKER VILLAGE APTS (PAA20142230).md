@@ -1,0 +1,85 @@
+# Project: TASKER VILLAGE APTS (PAA20142230)
+
+- HUD ID: PAA20142230
+- HUD ID before: PAA19950230
+- Project: TASKER VILLAGE APTS
+- Address: 1508-1548 S 16TH ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19146
+- ZIP extension: 4711
+- State project ID: TC20130304
+- Latitude: 39.932013
+- Longitude: -75.171588
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101003002
+- Tract 2010: 42101003002
+- Tract 2000: 42101003000
+- Tract 1990: 
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 316073
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 8
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: PREV HUD_ID IS PAA19950230 AND STATE_ID IS TC19930039
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: RICHMOND HILL HOUSING II LIMITED PARTNERSHIP (NYC20133017)
+
+- HUD ID: NYC20133017
+- HUD ID before: 
+- Project: RICHMOND HILL HOUSING II LIMITED PARTNERSHIP
+- Address: 129-11 JAMAICA AVENUE
+- City: QUEENS
+- State: NY
+- ZIP: 11418
+- ZIP extension: 
+- State project ID: 27-3216824
+- Latitude: 40.701725
+- Longitude: -73.823363
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081014201
+- Tract 2010: 36081014201
+- Tract 2000: 36081014201
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1371465
+- Units: 117
+- Low-income units: 116
+- Units reported: 117
+- Low-income reported: 116
+- Efficiencies: 13
+- 1-bedroom units: 28
+- 2-bedroom units: 66
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

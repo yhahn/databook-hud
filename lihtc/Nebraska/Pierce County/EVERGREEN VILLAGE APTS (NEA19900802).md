@@ -1,0 +1,85 @@
+# Project: EVERGREEN VILLAGE APTS (NEA19900802)
+
+- HUD ID: NEA19900802
+- HUD ID before: 
+- Project: EVERGREEN VILLAGE APTS
+- Address: 410 N SECOND ST
+- City: PLAINVIEW
+- State: NE
+- ZIP: 68769
+- ZIP extension: 
+- State project ID: 7-0099
+- Latitude: 42.354653
+- Longitude: -97.786941
+- County FIPS: 31139
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31139979200
+- Tract 2000: 31139979200
+- Tract 1990: 31139979200
+- Place 2020: 
+- Place 2010: 39170
+- Place 2000: 17320
+- Place 1990: 1970
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 26076
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA0000155. AKA PLAINCIEW EVERGREEN VILLAGE APTS.
+- Record status: Existing, unchanged

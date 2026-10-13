@@ -1,0 +1,85 @@
+# Project: HORIZON VILLAGE (SCA20070072)
+
+- HUD ID: SCA20070072
+- HUD ID before: 
+- Project: HORIZON VILLAGE
+- Address: 3835 SPRUILL AVE
+- City: NORTH CHARLESTON
+- State: SC
+- ZIP: 
+- ZIP extension: 
+- State project ID: SC-50-307
+- Latitude: 32.863992
+- Longitude: -79.97975
+- County FIPS: 45019
+- County from: 2020
+- Tract 2020: 45019003700
+- Tract 2010: 45019003700
+- Tract 2000: 45019003700
+- Tract 1990: 45019003700
+- Place 2020: 50875
+- Place 2010: 50875
+- Place 2000: 50875
+- Place 1990: 0987
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1522794
+- Units: 306
+- Low-income units: 281
+- Units reported: 306
+- Low-income reported: 281
+- Efficiencies: 0
+- 1-bedroom units: 68
+- 2-bedroom units: 112
+- 3-bedroom units: 108
+- 4-bedroom units: 18
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 126
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BARONY PLACE.
+- Record status: Existing, unchanged

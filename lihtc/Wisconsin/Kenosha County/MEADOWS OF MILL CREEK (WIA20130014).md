@@ -1,0 +1,85 @@
+# Project: MEADOWS OF MILL CREEK (WIA20130014)
+
+- HUD ID: WIA20130014
+- HUD ID before: 
+- Project: MEADOWS OF MILL CREEK
+- Address: 8610-12 246TH AVENUE
+- City: SALEM
+- State: WI
+- ZIP: 53168
+- ZIP extension: 
+- State project ID: 5811
+- Latitude: 42.551922
+- Longitude: -88.105335
+- County FIPS: 55059
+- County from: 2020
+- Tract 2020: 55059002906
+- Tract 2010: 55059002906
+- Tract 2000: 55059002902
+- Tract 1990: 55059002902
+- Place 2020: 71163
+- Place 2010: 99999
+- Place 2000: 41770
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 332333
+- Units: 24
+- Low-income units: 8
+- Units reported: 24
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 21
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

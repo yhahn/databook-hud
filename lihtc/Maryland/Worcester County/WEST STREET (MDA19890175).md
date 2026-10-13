@@ -1,0 +1,85 @@
+# Project: WEST STREET (MDA19890175)
+
+- HUD ID: MDA19890175
+- HUD ID before: 
+- Project: WEST STREET
+- Address: 8 W ST
+- City: BERLIN
+- State: MD
+- ZIP: 21811
+- ZIP extension: 
+- State project ID: MD88-62
+- Latitude: 38.326647
+- Longitude: -75.220572
+- County FIPS: 24047
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24047951000
+- Tract 2000: 24047990300
+- Tract 1990: 24047991400
+- Place 2020: 
+- Place 2010: 06800
+- Place 2000: 06800
+- Place 1990: 0055
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

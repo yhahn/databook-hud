@@ -1,0 +1,85 @@
+# Project: VILLAGE GREEN APTS (OHA20140220)
+
+- HUD ID: OHA20140220
+- HUD ID before: 
+- Project: VILLAGE GREEN APTS
+- Address: 1000 VILLAGE GREEN DR
+- City: ROSEVILLE
+- State: OH
+- ZIP: 43777
+- ZIP extension: 
+- State project ID: 120085
+- Latitude: 39.7964
+- Longitude: -82.1135
+- County FIPS: 39127
+- County from: 2020
+- Tract 2020: 39127966000
+- Tract 2010: 39127966000
+- Tract 2000: 39127966000
+- Tract 1990: 39127966000
+- Place 2020: 68560
+- Place 2010: 68560
+- Place 2000: 19456
+- Place 1990: 1050
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 375019
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

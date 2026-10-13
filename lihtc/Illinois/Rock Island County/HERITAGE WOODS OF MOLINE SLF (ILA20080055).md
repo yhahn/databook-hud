@@ -1,0 +1,85 @@
+# Project: HERITAGE WOODS OF MOLINE SLF (ILA20080055)
+
+- HUD ID: ILA20080055
+- HUD ID before: 
+- Project: HERITAGE WOODS OF MOLINE SLF
+- Address: 5500 46TH AVE DR
+- City: MOLINE
+- State: IL
+- ZIP: 61265
+- ZIP extension: 
+- State project ID: 260506
+- Latitude: 41.46787
+- Longitude: -90.46102
+- County FIPS: 17161
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17161021100
+- Tract 2000: 17161021100
+- Tract 1990: 17161021100
+- Place 2020: 
+- Place 2010: 49867
+- Place 2000: 49867
+- Place 1990: 3805
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 327792
+- Units: 99
+- Low-income units: 79
+- Units reported: 99
+- Low-income reported: 79
+- Efficiencies: 46
+- 1-bedroom units: 53
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MOLINE SUPPORTIVE LIVING FACILITY.
+- Record status: Existing, unchanged

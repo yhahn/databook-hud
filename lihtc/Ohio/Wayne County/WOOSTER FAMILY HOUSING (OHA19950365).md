@@ -1,0 +1,85 @@
+# Project: WOOSTER FAMILY HOUSING (OHA19950365)
+
+- HUD ID: OHA19950365
+- HUD ID before: 
+- Project: WOOSTER FAMILY HOUSING
+- Address: 2222 MELROSE DR
+- City: WOOSTER
+- State: OH
+- ZIP: 44691
+- ZIP extension: 
+- State project ID: 944062
+- Latitude: 40.826557
+- Longitude: -81.9157
+- County FIPS: 39169
+- County from: 2020
+- Tract 2020: 39169000800
+- Tract 2010: 39169000800
+- Tract 2000: 39169000800
+- Tract 1990: 39169000800
+- Place 2020: 86548
+- Place 2010: 86548
+- Place 2000: 86548
+- Place 1990: 4800
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 252738
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

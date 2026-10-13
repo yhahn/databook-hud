@@ -1,0 +1,85 @@
+# Project: IVANHOE APTS (UTA19910905)
+
+- HUD ID: UTA19910905
+- HUD ID before: 
+- Project: IVANHOE APTS
+- Address: 417 E 300 S
+- City: SALT LAKE CITY
+- State: UT
+- ZIP: 84111
+- ZIP extension: 
+- State project ID: 1989-04
+- Latitude: 40.763037
+- Longitude: -111.878471
+- County FIPS: 49035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49035101900
+- Tract 2000: 49035101900
+- Tract 1990: 49035101900
+- Place 2020: 
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 0870
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

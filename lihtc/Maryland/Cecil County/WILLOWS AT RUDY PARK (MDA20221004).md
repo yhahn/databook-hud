@@ -1,0 +1,85 @@
+# Project: WILLOWS AT RUDY PARK (MDA20221004)
+
+- HUD ID: MDA20221004
+- HUD ID before: 
+- Project: WILLOWS AT RUDY PARK
+- Address: 100 - 315 RUDY PARK
+- City: ELKTON
+- State: MD
+- ZIP: 21921
+- ZIP extension: 
+- State project ID: MD-22-14001-8
+- Latitude: 39.619036
+- Longitude: -75.840213
+- County FIPS: 24015
+- County from: 2020
+- Tract 2020: 24015030503
+- Tract 2010: 24015030503
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 25800
+- Place 2010: 25800
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 1436109
+- Units: 68
+- Low-income units: 61
+- Units reported: 68
+- Low-income reported: 61
+- Efficiencies: 
+- 1-bedroom units: 19
+- 2-bedroom units: 20
+- 3-bedroom units: 22
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

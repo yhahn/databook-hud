@@ -1,0 +1,85 @@
+# Project: BEAUFORT SPRING (NCA20140935)
+
+- HUD ID: NCA20140935
+- HUD ID before: 
+- Project: BEAUFORT SPRING
+- Address: 1791 LIVE OAK STREET
+- City: BEAUFORT
+- State: NC
+- ZIP: 28516
+- ZIP extension: 1912
+- State project ID: 9134296
+- Latitude: 34.730669
+- Longitude: -76.639357
+- County FIPS: 37031
+- County from: 2020
+- Tract 2020: 37031970301
+- Tract 2010: 37031970301
+- Tract 2000: 37031970300
+- Tract 1990: 37031970300
+- Place 2020: 04260
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 0215
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 452825
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

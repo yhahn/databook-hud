@@ -1,0 +1,85 @@
+# Project: OLD COLONY PHASE 2C (MAB20150017)
+
+- HUD ID: MAB20150017
+- HUD ID before: 
+- Project: OLD COLONY PHASE 2C
+- Address: 242-250 OLD COLONY AVENUE (THIS IS THE ADDRESS OF BUILDING A)
+- City: BOSTON
+- State: MA
+- ZIP: 02127
+- ZIP extension: 
+- State project ID: 3286
+- Latitude: 42.331596
+- Longitude: -71.052827
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025061000
+- Tract 2010: 25025061000
+- Tract 2000: 25025061000
+- Tract 1990: 
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1721446
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 11
+- 3-bedroom units: 15
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

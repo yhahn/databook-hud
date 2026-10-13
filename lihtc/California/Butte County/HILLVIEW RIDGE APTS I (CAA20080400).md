@@ -1,0 +1,85 @@
+# Project: HILLVIEW RIDGE APTS I (CAA20080400)
+
+- HUD ID: CAA20080400
+- HUD ID before: 
+- Project: HILLVIEW RIDGE APTS I
+- Address: 2750 GILMORE LN
+- City: OROVILLE
+- State: CA
+- ZIP: 95966
+- ZIP extension: 
+- State project ID: CA-07-084
+- Latitude: 39.507845
+- Longitude: -121.53913
+- County FIPS: 06007
+- County from: 2020
+- Tract 2020: 06007002700
+- Tract 2010: 06007002700
+- Tract 2000: 06007002700
+- Tract 1990: 06007002700
+- Place 2020: 54386
+- Place 2010: 54386
+- Place 2000: 54386
+- Place 1990: 2045
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1159018
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 40
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 71
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1900000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

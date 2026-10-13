@@ -1,0 +1,85 @@
+# Project: GATEWAY SANTA CLARA (CAA20040200)
+
+- HUD ID: CAA20040200
+- HUD ID before: 
+- Project: GATEWAY SANTA CLARA
+- Address: 1000 EL CAMINO REAL
+- City: SANTA CLARA
+- State: CA
+- ZIP: 95050
+- ZIP extension: 
+- State project ID: CA-03-821
+- Latitude: 37.354137
+- Longitude: -121.94727
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085505600
+- Tract 2010: 06085505600
+- Tract 2000: 06085505600
+- Tract 1990: 06085505600
+- Place 2020: 69084
+- Place 2010: 69084
+- Place 2000: 69084
+- Place 1990: 2580
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 359382
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

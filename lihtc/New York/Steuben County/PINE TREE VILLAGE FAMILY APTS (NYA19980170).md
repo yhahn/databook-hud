@@ -1,0 +1,85 @@
+# Project: PINE TREE VILLAGE FAMILY APTS (NYA19980170)
+
+- HUD ID: NYA19980170
+- HUD ID before: 
+- Project: PINE TREE VILLAGE FAMILY APTS
+- Address: 140 FOREST DR
+- City: PAINTED POST
+- State: NY
+- ZIP: 14870
+- ZIP extension: 
+- State project ID: 19970631
+- Latitude: 42.141865
+- Longitude: -77.125311
+- County FIPS: 36101
+- County from: 2020
+- Tract 2020: 36101962301
+- Tract 2010: 36101962300
+- Tract 2000: 36101962300
+- Tract 1990: 36101962300
+- Place 2020: 28145
+- Place 2010: 28145
+- Place 2000: 28145
+- Place 1990: 1327
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

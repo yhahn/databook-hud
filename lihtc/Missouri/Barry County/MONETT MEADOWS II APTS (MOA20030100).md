@@ -1,0 +1,85 @@
+# Project: MONETT MEADOWS II APTS (MOA20030100)
+
+- HUD ID: MOA20030100
+- HUD ID before: 
+- Project: MONETT MEADOWS II APTS
+- Address: 301 PLEASANT DR
+- City: MONETT
+- State: MO
+- ZIP: 65708
+- ZIP extension: 
+- State project ID: 02-022
+- Latitude: 36.920564
+- Longitude: -93.938581
+- County FIPS: 29009
+- County from: 2020
+- Tract 2020: 29009960301
+- Tract 2010: 29009960300
+- Tract 2000: 29009960300
+- Tract 1990: 29009960300
+- Place 2020: 49196
+- Place 2010: 49196
+- Place 2000: 49196
+- Place 1990: 2870
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

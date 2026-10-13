@@ -1,0 +1,23 @@
+# Tax Credit Projects: Lawrence County, TN
+
+- Level: County
+- Postal code: TN
+- State FIPS: 47
+- County FIPS: 47099
+- Counties: 
+- Projects: 6
+- Units: 268
+- Low-income units: 268
+
+The low-income housing tax credit projects of Lawrence County, Tennessee, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [LAWRENCEBURG VILLAGE APTS (TNA19880555)](./Lawrence%20County/LAWRENCEBURG%20VILLAGE%20APTS%20%28TNA19880555%29.md) | TNA19880555 | LAWRENCEBURG | 1988 | 48 | 48 |
+| [LAWRENCEBURG VILLAGE APARTMENTS (TNA19889003)](./Lawrence%20County/LAWRENCEBURG%20VILLAGE%20APARTMENTS%20%28TNA19889003%29.md) | TNA19889003 | LAWRENCEBURG | 1988 | 48 | 48 |
+| [OLD PUBLIC SCHOOL APT (TNA19910807)](./Lawrence%20County/OLD%20PUBLIC%20SCHOOL%20APT%20%28TNA19910807%29.md) | TNA19910807 | LAWRENCEBURG | 1991 | 30 | 30 |
+| [BERKLEY SPRING (TNA20090010)](./Lawrence%20County/BERKLEY%20SPRING%20%28TNA20090010%29.md) | TNA20090010 | LAWRENCEBURG | 2009 | 42 | 42 |
+| [PARK RIDGE ESTATES OF LAWRENCEBURG (TNA20100526)](./Lawrence%20County/PARK%20RIDGE%20ESTATES%20OF%20LAWRENCEBURG%20%28TNA20100526%29.md) | TNA20100526 | LAWRENCEBURG | 2010 | 44 | 44 |
+| [CANTER CHASE APTS (TNA20158024)](./Lawrence%20County/CANTER%20CHASE%20APTS%20%28TNA20158024%29.md) | TNA20158024 | LAWRENCEBURG | 2015 | 56 | 56 |

@@ -1,0 +1,85 @@
+# Project: COTTAGE STREET & HAPGOOD APTS (MAB00000235)
+
+- HUD ID: MAB00000235
+- HUD ID before: 
+- Project: COTTAGE STREET & HAPGOOD APTS
+- Address: 198 HARRINGTON ST
+- City: ATHOL
+- State: MA
+- ZIP: 01331
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.582877
+- Longitude: -72.229749
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027703100
+- Tract 2010: 25027703100
+- Tract 2000: 25027703100
+- Tract 1990: 25027703100
+- Place 2020: 02515
+- Place 2010: 02515
+- Place 2000: 02515
+- Place 1990: 0190
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 16
+- 3-bedroom units: 2
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

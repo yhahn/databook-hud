@@ -1,0 +1,85 @@
+# Project: TABLE GROVE APTS (ILA19910206)
+
+- HUD ID: ILA19910206
+- HUD ID before: 
+- Project: TABLE GROVE APTS
+- Address: 204 N JOHN ST
+- City: TABLE GROVE
+- State: IL
+- ZIP: 61482
+- ZIP extension: 
+- State project ID: 400-91
+- Latitude: 40.366285
+- Longitude: -90.42418
+- County FIPS: 17057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17057953100
+- Tract 2000: 17057953100
+- Tract 1990: 17057953100
+- Place 2020: 
+- Place 2010: 74301
+- Place 2000: 37647
+- Place 1990: 2780
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 10600
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000955.
+- Record status: Existing, unchanged

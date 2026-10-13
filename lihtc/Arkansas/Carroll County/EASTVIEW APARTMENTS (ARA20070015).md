@@ -1,0 +1,85 @@
+# Project: EASTVIEW APARTMENTS (ARA20070015)
+
+- HUD ID: ARA20070015
+- HUD ID before: 
+- Project: EASTVIEW APARTMENTS
+- Address: 109 EASTVIEW CT
+- City: GREEN FOREST
+- State: AR
+- ZIP: 72638
+- ZIP extension: 
+- State project ID: AR-06-09-001
+- Latitude: 36.333098
+- Longitude: -93.444137
+- County FIPS: 05015
+- County from: 2020
+- Tract 2020: 05015950502
+- Tract 2010: 05015950500
+- Tract 2000: 05015950500
+- Tract 1990: 05015950500
+- Place 2020: 28600
+- Place 2010: 28600
+- Place 2000: 01060
+- Place 1990: 0830
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 155898
+- Units: 26
+- Low-income units: 20
+- Units reported: 26
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 12
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

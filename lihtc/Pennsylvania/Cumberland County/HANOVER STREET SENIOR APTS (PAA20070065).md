@@ -1,0 +1,85 @@
+# Project: HANOVER STREET SENIOR APTS (PAA20070065)
+
+- HUD ID: PAA20070065
+- HUD ID before: 
+- Project: HANOVER STREET SENIOR APTS
+- Address: 15 S HANOVER ST
+- City: CARLISLE
+- State: PA
+- ZIP: 17013
+- ZIP extension: 
+- State project ID: TC20050435
+- Latitude: 40.200713
+- Longitude: -77.189001
+- County FIPS: 42041
+- County from: 2020
+- Tract 2020: 42041012200
+- Tract 2010: 42041012200
+- Tract 2000: 42041012200
+- Tract 1990: 42041012200
+- Place 2020: 11272
+- Place 2010: 11272
+- Place 2000: 11272
+- Place 1990: 1565
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 174575
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 890000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

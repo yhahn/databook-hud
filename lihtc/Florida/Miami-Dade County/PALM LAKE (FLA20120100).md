@@ -1,0 +1,85 @@
+# Project: PALM LAKE (FLA20120100)
+
+- HUD ID: FLA20120100
+- HUD ID before: 
+- Project: PALM LAKE
+- Address: 2575 NW 115TH ST
+- City: MIAMI
+- State: FL
+- ZIP: 33167
+- ZIP extension: 
+- State project ID: 2544
+- Latitude: 25.879295
+- Longitude: -80.241707
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086000416
+- Tract 2010: 12086000412
+- Tract 2000: 12086000407
+- Tract 1990: 12025000407
+- Place 2020: 76950
+- Place 2010: 76950
+- Place 2000: 57250
+- Place 1990: 1753
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 799580
+- Units: 300
+- Low-income units: 300
+- Units reported: 300
+- Low-income reported: 300
+- Efficiencies: 0
+- 1-bedroom units: 220
+- 2-bedroom units: 80
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

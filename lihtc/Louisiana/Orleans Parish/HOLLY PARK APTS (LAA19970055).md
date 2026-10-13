@@ -1,0 +1,85 @@
+# Project: HOLLY PARK APTS (LAA19970055)
+
+- HUD ID: LAA19970055
+- HUD ID before: 
+- Project: HOLLY PARK APTS
+- Address: 3300 PRESTON PL
+- City: NEW ORLEANS
+- State: LA
+- ZIP: 70131
+- ZIP extension: 
+- State project ID: LA-96-025
+- Latitude: 29.918642
+- Longitude: -89.982899
+- County FIPS: 22071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22071000611
+- Tract 2000: 22071000611
+- Tract 1990: 22071000611
+- Place 2020: 
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 0956
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 81
+- Units reported: 81
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 49
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

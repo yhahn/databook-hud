@@ -1,0 +1,85 @@
+# Project: CASTLE GARDEN APTS (TXA20040030)
+
+- HUD ID: TXA20040030
+- HUD ID before: 
+- Project: CASTLE GARDEN APTS
+- Address: 1102 58TH ST
+- City: LUBBOCK
+- State: TX
+- ZIP: 79412
+- ZIP extension: 
+- State project ID: TX0598
+- Latitude: 33.541734
+- Longitude: -101.847046
+- County FIPS: 48303
+- County from: 2020
+- Tract 2020: 48303002401
+- Tract 2010: 48303002400
+- Tract 2000: 48303002400
+- Tract 1990: 48303002400
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 45000
+- Place 1990: 2565
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 104
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA1988395. AKA CRICKET COURT APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIO VISTA APTS (SAN YSIDRO) (CAA19980410)
+
+- HUD ID: CAA19980410
+- HUD ID before: 
+- Project: RIO VISTA APTS (SAN YSIDRO)
+- Address: 1180 W SAN YSIDRO BLVD
+- City: SAN YSIDRO
+- State: CA
+- ZIP: 92173
+- ZIP extension: 
+- State project ID: CA-98-934
+- Latitude: 32.562972
+- Longitude: -117.067227
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073010111
+- Tract 2010: 06073010111
+- Tract 2000: 06073010111
+- Tract 1990: 06073010106
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 387975
+- Units: 158
+- Low-income units: 158
+- Units reported: 158
+- Low-income reported: 158
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 121
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VALLEY RESACA PALMS APTS (TXA19970215)
+
+- HUD ID: TXA19970215
+- HUD ID before: 
+- Project: VALLEY RESACA PALMS APTS
+- Address: 2800 FM 802
+- City: BROWNSVILLE
+- State: TX
+- ZIP: 78526
+- ZIP extension: 
+- State project ID: TX1329
+- Latitude: 25.949735
+- Longitude: -97.47595
+- County FIPS: 48061
+- County from: 2020
+- Tract 2020: 48061014501
+- Tract 2010: 48061014500
+- Tract 2000: 48061012611
+- Tract 1990: 48061012603
+- Place 2020: 10768
+- Place 2010: 10768
+- Place 2000: 10768
+- Place 1990: 0696
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 250
+- Low-income units: 250
+- Units reported: 250
+- Low-income reported: 250
+- Efficiencies: 0
+- 1-bedroom units: 200
+- 2-bedroom units: 50
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

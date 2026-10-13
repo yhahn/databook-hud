@@ -1,0 +1,85 @@
+# Project: MAPLE HILL (MDA19910030)
+
+- HUD ID: MDA19910030
+- HUD ID before: 
+- Project: MAPLE HILL
+- Address: 501 MAPLE ST
+- City: SNOW HILL
+- State: MD
+- ZIP: 21863
+- ZIP extension: 
+- State project ID: MD90-04
+- Latitude: 38.168956
+- Longitude: -75.396944
+- County FIPS: 24047
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24047951300
+- Tract 2000: 24047990900
+- Tract 1990: 24047992000
+- Place 2020: 
+- Place 2010: 73075
+- Place 2000: 73075
+- Place 1990: 0910
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

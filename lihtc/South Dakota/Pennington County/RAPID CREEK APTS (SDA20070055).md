@@ -1,0 +1,85 @@
+# Project: RAPID CREEK APTS (SDA20070055)
+
+- HUD ID: SDA20070055
+- HUD ID before: 
+- Project: RAPID CREEK APTS
+- Address: 1100 ANAMOSA ST
+- City: RAPID CITY
+- State: SD
+- ZIP: 57701
+- ZIP extension: 
+- State project ID: 01439
+- Latitude: 44.096836
+- Longitude: -103.232975
+- County FIPS: 46103
+- County from: 2020
+- Tract 2020: 46103010300
+- Tract 2010: 46103010300
+- Tract 2000: 46103010300
+- Tract 1990: 46103010300
+- Place 2020: 52980
+- Place 2010: 52980
+- Place 2000: 52980
+- Place 1990: 1125
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 542777
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 46
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 54
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

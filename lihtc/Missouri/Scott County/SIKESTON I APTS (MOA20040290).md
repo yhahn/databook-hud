@@ -1,0 +1,85 @@
+# Project: SIKESTON I APTS (MOA20040290)
+
+- HUD ID: MOA20040290
+- HUD ID before: 
+- Project: SIKESTON I APTS
+- Address: 118 N SECOND ST
+- City: SIKESTON
+- State: MO
+- ZIP: 63801
+- ZIP extension: 
+- State project ID: 03-418
+- Latitude: 36.886894
+- Longitude: -89.578659
+- County FIPS: 29201
+- County from: 2020
+- Tract 2020: 29201781202
+- Tract 2010: 29201781200
+- Tract 2000: 29201981200
+- Tract 1990: 29201980500
+- Place 2020: 67790
+- Place 2010: 67790
+- Place 2000: 67790
+- Place 1990: 4000
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SIKESTON APTS I.
+- Record status: Existing, unchanged

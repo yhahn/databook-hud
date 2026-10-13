@@ -1,0 +1,85 @@
+# Project: CARROLLTON APTS II (ILA19880033)
+
+- HUD ID: ILA19880033
+- HUD ID before: 
+- Project: CARROLLTON APTS II
+- Address: 520 FOURTH ST
+- City: CARROLLTON
+- State: IL
+- ZIP: 62016
+- ZIP extension: 
+- State project ID: 052-88
+- Latitude: 39.299094
+- Longitude: -90.405876
+- County FIPS: 17061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17061974000
+- Tract 2000: 17061974000
+- Tract 1990: 17061974000
+- Place 2020: 
+- Place 2010: 11462
+- Place 2000: 11462
+- Place 1990: 0905
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 14495
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000280.
+- Record status: Existing, unchanged

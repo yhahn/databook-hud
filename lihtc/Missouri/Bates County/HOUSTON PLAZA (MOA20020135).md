@@ -1,0 +1,85 @@
+# Project: HOUSTON PLAZA (MOA20020135)
+
+- HUD ID: MOA20020135
+- HUD ID before: 
+- Project: HOUSTON PLAZA
+- Address: 125 S HOUSTON ST
+- City: ADRIAN
+- State: MO
+- ZIP: 64720
+- ZIP extension: 
+- State project ID: 01-409
+- Latitude: 38.393195
+- Longitude: -94.348715
+- County FIPS: 29013
+- County from: 2020
+- Tract 2020: 29013070100
+- Tract 2010: 29013070100
+- Tract 2000: 29013970100
+- Tract 1990: 29013970100
+- Place 2020: 00244
+- Place 2010: 00244
+- Place 2000: 00244
+- Place 1990: 0005
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

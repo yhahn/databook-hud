@@ -1,0 +1,85 @@
+# Project: PINE RUN VILLAS (FLA20130010)
+
+- HUD ID: FLA20130010
+- HUD ID before: 
+- Project: PINE RUN VILLAS
+- Address: 4728 BIG BEN LN
+- City: GREENACRES
+- State: FL
+- ZIP: 33463
+- ZIP extension: 
+- State project ID: 2608
+- Latitude: 26.608426
+- Longitude: -80.125866
+- County FIPS: 12099
+- County from: 2020
+- Tract 2020: 12099004702
+- Tract 2010: 12099004702
+- Tract 2000: 12099004702
+- Tract 1990: 12099004702
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 27322
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 63
+- Low-income units: 63
+- Units reported: 63
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 44
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

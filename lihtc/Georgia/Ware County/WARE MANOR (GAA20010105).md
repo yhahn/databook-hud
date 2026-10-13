@@ -1,0 +1,85 @@
+# Project: WARE MANOR (GAA20010105)
+
+- HUD ID: GAA20010105
+- HUD ID before: 
+- Project: WARE MANOR
+- Address: 500 WALNUT ST
+- City: WAYCROSS
+- State: GA
+- ZIP: 31501
+- ZIP extension: 3156
+- State project ID: GA-01-504
+- Latitude: 31.210621
+- Longitude: -82.33785
+- County FIPS: 13299
+- County from: 2020
+- Tract 2020: 13299950600
+- Tract 2010: 13299950600
+- Tract 2000: 13299950600
+- Tract 1990: 13299950600
+- Place 2020: 80956
+- Place 2010: 80956
+- Place 2000: 80956
+- Place 1990: 3000
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 41244
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 28
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

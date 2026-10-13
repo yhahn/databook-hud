@@ -1,0 +1,85 @@
+# Project: ZAPATA APTS (ILA20130826)
+
+- HUD ID: ILA20130826
+- HUD ID before: 
+- Project: ZAPATA APTS
+- Address: 1955 N ST LOUIS AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60647
+- ZIP extension: 
+- State project ID: 1031211
+- Latitude: 41.916542
+- Longitude: -87.713288
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031222700
+- Tract 2010: 17031222700
+- Tract 2000: 17031222700
+- Tract 1990: 17031222700
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1292860
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 31
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA20130001.
+- Record status: Existing, unchanged

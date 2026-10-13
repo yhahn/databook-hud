@@ -1,0 +1,85 @@
+# Project: NORWICH CENTER (NYA00000134)
+
+- HUD ID: NYA00000134
+- HUD ID before: 
+- Project: NORWICH CENTER
+- Address: 15 W MAIN ST
+- City: NORWICH
+- State: NY
+- ZIP: 13815
+- ZIP extension: 
+- State project ID: NY-90-0179_00067
+- Latitude: 42.530884
+- Longitude: -75.525286
+- County FIPS: 36017
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36017970400
+- Tract 2000: 36017990400
+- Tract 1990: 36017990400
+- Place 2020: 
+- Place 2010: 53979
+- Place 2000: 53979
+- Place 1990: 2610
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 10
+- 1-bedroom units: 19
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001520.
+- Record status: Existing, unchanged

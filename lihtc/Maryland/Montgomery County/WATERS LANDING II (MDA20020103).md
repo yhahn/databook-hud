@@ -1,0 +1,85 @@
+# Project: WATERS LANDING II (MDA20020103)
+
+- HUD ID: MDA20020103
+- HUD ID before: 
+- Project: WATERS LANDING II
+- Address: 12900 FALLING WATER CIR
+- City: GERMANTOWN
+- State: MD
+- ZIP: 20874
+- ZIP extension: 
+- State project ID: MD00-13001
+- Latitude: 39.185765
+- Longitude: -77.265785
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031700309
+- Tract 2010: 24031700309
+- Tract 2000: 24031700309
+- Tract 1990: 24031700307
+- Place 2020: 32025
+- Place 2010: 32025
+- Place 2000: 32025
+- Place 1990: 0402
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 143
+- Low-income units: 143
+- Units reported: 143
+- Low-income reported: 143
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA2001100. AKA GERMANTOWN.
+- Record status: Existing, unchanged

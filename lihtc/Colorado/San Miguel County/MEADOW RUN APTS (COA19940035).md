@@ -1,0 +1,85 @@
+# Project: MEADOW RUN APTS (COA19940035)
+
+- HUD ID: COA19940035
+- HUD ID before: 
+- Project: MEADOW RUN APTS
+- Address: 330 ADAMS RANCH RD
+- City: TELLURIDE
+- State: CO
+- ZIP: 81435
+- ZIP extension: 
+- State project ID: CO93-145
+- Latitude: 37.939895
+- Longitude: -107.85789
+- County FIPS: 08113
+- County from: 2020
+- Tract 2020: 08113968102
+- Tract 2010: 08113968102
+- Tract 2000: 08113968100
+- Tract 1990: 08113968100
+- Place 2020: 52550
+- Place 2010: 52550
+- Place 2000: 52550
+- Place 1990: 1280
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 149
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BIG BILLIES.
+- Record status: Existing, unchanged

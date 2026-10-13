@@ -1,0 +1,85 @@
+# Project: MARY ALLEN WEST TOWER (ILA20120020)
+
+- HUD ID: ILA20120020
+- HUD ID before: 
+- Project: MARY ALLEN WEST TOWER
+- Address: 121 W SIMMONS ST
+- City: GALESBURG
+- State: IL
+- ZIP: 61401
+- ZIP extension: 
+- State project ID: 1020712
+- Latitude: 40.946554
+- Longitude: -90.373081
+- County FIPS: 17095
+- County from: 2020
+- Tract 2020: 17095000800
+- Tract 2010: 17095000800
+- Tract 2000: 17095000800
+- Tract 1990: 17095000800
+- Place 2020: 28326
+- Place 2010: 28326
+- Place 2000: 28326
+- Place 1990: 2100
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1001771
+- Units: 153
+- Low-income units: 153
+- Units reported: 153
+- Low-income reported: 153
+- Efficiencies: 0
+- 1-bedroom units: 153
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

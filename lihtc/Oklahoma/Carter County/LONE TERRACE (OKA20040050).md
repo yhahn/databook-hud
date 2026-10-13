@@ -1,0 +1,85 @@
+# Project: LONE TERRACE (OKA20040050)
+
+- HUD ID: OKA20040050
+- HUD ID before: 
+- Project: LONE TERRACE
+- Address: 501 NEWPORT RD
+- City: LONE GROVE
+- State: OK
+- ZIP: 73443
+- ZIP extension: 
+- State project ID: 020204
+- Latitude: 34.1774
+- Longitude: -97.2401
+- County FIPS: 40019
+- County from: 2020
+- Tract 2020: 40019892501
+- Tract 2010: 40019892500
+- Tract 2000: 40019992500
+- Tract 1990: 40019992500
+- Place 2020: 43750
+- Place 2010: 43750
+- Place 2000: 02600
+- Place 1990: 1452
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

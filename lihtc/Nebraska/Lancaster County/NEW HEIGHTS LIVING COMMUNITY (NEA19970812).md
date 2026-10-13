@@ -1,0 +1,85 @@
+# Project: NEW HEIGHTS LIVING COMMUNITY (NEA19970812)
+
+- HUD ID: NEA19970812
+- HUD ID before: 
+- Project: NEW HEIGHTS LIVING COMMUNITY
+- Address: 4420 VALLEY RD
+- City: LINCOLN
+- State: NE
+- ZIP: 68510
+- ZIP extension: 
+- State project ID: 7-0333
+- Latitude: 40.802422
+- Longitude: -96.658071
+- County FIPS: 31109
+- County from: 2020
+- Tract 2020: 31109001400
+- Tract 2010: 31109001400
+- Tract 2000: 31109001400
+- Tract 1990: 31109001400
+- Place 2020: 28000
+- Place 2010: 28000
+- Place 2000: 28000
+- Place 1990: 1425
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 196389
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA1995065.
+- Record status: Existing, unchanged

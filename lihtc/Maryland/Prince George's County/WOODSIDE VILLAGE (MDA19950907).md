@@ -1,0 +1,85 @@
+# Project: WOODSIDE VILLAGE (MDA19950907)
+
+- HUD ID: MDA19950907
+- HUD ID before: 
+- Project: WOODSIDE VILLAGE
+- Address: 6801 BOCK RD
+- City: FORT WASHINGTON
+- State: MD
+- ZIP: 20744
+- ZIP extension: 
+- State project ID: MD94-16
+- Latitude: 38.795873
+- Longitude: -76.976491
+- County FIPS: 24033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24033801409
+- Tract 2000: 24033801402
+- Tract 1990: 24033801402
+- Place 2020: 
+- Place 2010: 59500
+- Place 2000: 59505
+- Place 1990: 0747
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA0000780, MDA0000785, MDA1995045. AKA COUNTRY VIEW.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARKLAND POINTE I (TXA20000110)
+
+- HUD ID: TXA20000110
+- HUD ID before: 
+- Project: PARKLAND POINTE I
+- Address: 6005 MAPLESIDE LN
+- City: ARLINGTON
+- State: TX
+- ZIP: 76017
+- ZIP extension: 
+- State project ID: TX-98-104
+- Latitude: 32.646825
+- Longitude: -97.123492
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439111543
+- Tract 2010: 48439111543
+- Tract 2000: 48439111543
+- Tract 1990: 48439111517
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0175
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 250
+- Low-income units: 149
+- Units reported: 250
+- Low-income reported: 149
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

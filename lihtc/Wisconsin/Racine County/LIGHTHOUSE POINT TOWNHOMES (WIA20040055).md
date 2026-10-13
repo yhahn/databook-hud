@@ -1,0 +1,85 @@
+# Project: LIGHTHOUSE POINT TOWNHOMES (WIA20040055)
+
+- HUD ID: WIA20040055
+- HUD ID before: 
+- Project: LIGHTHOUSE POINT TOWNHOMES
+- Address: 500 SHELBOURNE CT
+- City: RACINE
+- State: WI
+- ZIP: 53402
+- ZIP extension: 
+- State project ID: 3012
+- Latitude: 42.771802
+- Longitude: -87.785398
+- County FIPS: 55101
+- County from: 2020
+- Tract 2020: 55101001505
+- Tract 2010: 55101001505
+- Tract 2000: 55101001503
+- Tract 1990: 55101001503
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 118
+- Low-income units: 112
+- Units reported: 118
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 118
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

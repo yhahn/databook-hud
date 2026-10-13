@@ -1,0 +1,85 @@
+# Project: LUDLAM GARDENS (FLA00000420)
+
+- HUD ID: FLA00000420
+- HUD ID before: 
+- Project: LUDLAM GARDENS
+- Address: 4590 SW 67TH AVE
+- City: MIAMI
+- State: FL
+- ZIP: 33155
+- ZIP extension: 
+- State project ID: 487
+- Latitude: 25.727857
+- Longitude: -80.302854
+- County FIPS: 12086
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12086007605
+- Tract 2000: 12086007602
+- Tract 1990: 12025007602
+- Place 2020: 
+- Place 2010: 26100
+- Place 2000: 26100
+- Place 1990: 2005
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CROSS STREET VILLAGE (MIA20000075)
+
+- HUD ID: MIA20000075
+- HUD ID before: 
+- Project: CROSS STREET VILLAGE
+- Address: 210 W CROSS ST
+- City: YPSILANTI
+- State: MI
+- ZIP: 48197
+- ZIP extension: 
+- State project ID: MI-1784
+- Latitude: 42.245961
+- Longitude: -83.615211
+- County FIPS: 26161
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26161411000
+- Tract 2000: 26161411000
+- Tract 1990: 26161411000
+- Place 2020: 
+- Place 2010: 89140
+- Place 2000: 89140
+- Place 1990: 2935
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 71
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

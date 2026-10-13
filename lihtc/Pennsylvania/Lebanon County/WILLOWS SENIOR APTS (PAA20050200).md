@@ -1,0 +1,85 @@
+# Project: WILLOWS SENIOR APTS (PAA20050200)
+
+- HUD ID: PAA20050200
+- HUD ID before: 
+- Project: WILLOWS SENIOR APTS
+- Address: 605 N 12TH ST
+- City: LEBANON
+- State: PA
+- ZIP: 17046
+- ZIP extension: 
+- State project ID: TC20030431
+- Latitude: 40.350143
+- Longitude: -76.432306
+- County FIPS: 42075
+- County from: 2020
+- Tract 2020: 42075000401
+- Tract 2010: 42075000401
+- Tract 2000: 42075000300
+- Tract 1990: 42075000300
+- Place 2020: 42168
+- Place 2010: 42168
+- Place 2000: 42168
+- Place 1990: 5714
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1007197
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 45
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

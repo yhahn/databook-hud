@@ -1,0 +1,85 @@
+# Project: BOARDWALK APTS (OHA19960030)
+
+- HUD ID: OHA19960030
+- HUD ID before: 
+- Project: BOARDWALK APTS
+- Address: 586 E 105TH ST
+- City: CLEVELAND
+- State: OH
+- ZIP: 44108
+- ZIP extension: 
+- State project ID: OH-94-4020
+- Latitude: 41.541287
+- Longitude: -81.615749
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035199200
+- Tract 2010: 39035116100
+- Tract 2000: 39035116100
+- Tract 1990: 39035116100
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 345374
+- Units: 123
+- Low-income units: 123
+- Units reported: 123
+- Low-income reported: 123
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 67
+- 3-bedroom units: 27
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

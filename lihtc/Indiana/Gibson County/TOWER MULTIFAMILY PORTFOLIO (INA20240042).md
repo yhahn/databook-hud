@@ -1,0 +1,85 @@
+# Project: TOWER MULTIFAMILY PORTFOLIO (INA20240042)
+
+- HUD ID: INA20240042
+- HUD ID before: 
+- Project: TOWER MULTIFAMILY PORTFOLIO
+- Address: SCATTERED SITES
+- City: SCATTERED
+- State: IN
+- ZIP: 47670
+- ZIP extension: 
+- State project ID: 2022A-B-014
+- Latitude: 38.3515
+- Longitude: -87.5534
+- County FIPS: 18051
+- County from: 2020
+- Tract 2020: 18051050502
+- Tract 2010: 18051050501
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 62046
+- Place 2010: 62046
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 10900000
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 72
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

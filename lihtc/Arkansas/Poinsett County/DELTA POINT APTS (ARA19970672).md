@@ -1,0 +1,85 @@
+# Project: DELTA POINT APTS (ARA19970672)
+
+- HUD ID: ARA19970672
+- HUD ID before: 
+- Project: DELTA POINT APTS
+- Address: 308 INDUSTRIAL ST
+- City: MARKED TREE
+- State: AR
+- ZIP: 72365
+- ZIP extension: 
+- State project ID: PRAR-96-10
+- Latitude: 35.532116
+- Longitude: -90.41225
+- County FIPS: 05111
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05111490700
+- Tract 2000: 05111990700
+- Tract 1990: 05111990700
+- Place 2020: 
+- Place 2010: 44210
+- Place 2000: 44210
+- Place 1990: 1320
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 52667
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 19
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1997036.
+- Record status: Existing, unchanged

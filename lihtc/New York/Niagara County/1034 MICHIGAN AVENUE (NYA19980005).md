@@ -1,0 +1,85 @@
+# Project: 1034 MICHIGAN AVENUE (NYA19980005)
+
+- HUD ID: NYA19980005
+- HUD ID before: 
+- Project: 1034 MICHIGAN AVENUE
+- Address: 1034 MICHIGAN AVE
+- City: NIAGARA FALLS
+- State: NY
+- ZIP: 14305
+- ZIP extension: 
+- State project ID: 19940295
+- Latitude: 43.104799
+- Longitude: -79.049925
+- County FIPS: 36063
+- County from: 2020
+- Tract 2020: 36063020500
+- Tract 2010: 36063020500
+- Tract 2000: 36063020500
+- Tract 1990: 36063020500
+- Place 2020: 51055
+- Place 2010: 51055
+- Place 2000: 51055
+- Place 1990: 2515
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

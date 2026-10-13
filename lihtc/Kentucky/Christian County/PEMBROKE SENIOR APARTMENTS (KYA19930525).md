@@ -1,0 +1,85 @@
+# Project: PEMBROKE SENIOR APARTMENTS (KYA19930525)
+
+- HUD ID: KYA19930525
+- HUD ID before: 
+- Project: PEMBROKE SENIOR APARTMENTS
+- Address: E. CHERRY ST.
+- City: PEMBROKE
+- State: KY
+- ZIP: 40066
+- ZIP extension: 
+- State project ID: KY-92-017
+- Latitude: 36.7484
+- Longitude: -87.3926
+- County FIPS: 21047
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 21047201301
+- Tract 2000: 21047201300
+- Tract 1990: 21047201300
+- Place 2020: 
+- Place 2010: 26182
+- Place 2000: 37918
+- Place 1990: 1479
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 22496
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KYA1993066, KYA1993040, KYA0000350.;
+- Record status: Existing, unchanged

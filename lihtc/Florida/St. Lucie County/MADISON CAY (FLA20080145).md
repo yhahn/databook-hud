@@ -1,0 +1,85 @@
+# Project: MADISON CAY (FLA20080145)
+
+- HUD ID: FLA20080145
+- HUD ID before: 
+- Project: MADISON CAY
+- Address: 1655 N 29TH ST
+- City: FORT PIERCE
+- State: FL
+- ZIP: 34947
+- ZIP extension: 
+- State project ID: 1848
+- Latitude: 27.464332
+- Longitude: -80.354054
+- County FIPS: 12111
+- County from: 2020
+- Tract 2020: 12111380300
+- Tract 2010: 12111380300
+- Tract 2000: 12111000300
+- Tract 1990: 12111000300
+- Place 2020: 24300
+- Place 2010: 24300
+- Place 2000: 24300
+- Place 1990: 0665
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1215000
+- Units: 132
+- Low-income units: 132
+- Units reported: 132
+- Low-income reported: 132
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 56
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

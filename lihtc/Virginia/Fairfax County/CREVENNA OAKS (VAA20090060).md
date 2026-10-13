@@ -1,0 +1,85 @@
+# Project: CREVENNA OAKS (VAA20090060)
+
+- HUD ID: VAA20090060
+- HUD ID before: 
+- Project: CREVENNA OAKS
+- Address: 10981 CREVENNA OAK DR
+- City: BURKE
+- State: VA
+- ZIP: 22015
+- ZIP extension: 
+- State project ID: 4069
+- Latitude: 38.794968
+- Longitude: -77.3236
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059432000
+- Tract 2010: 51059432000
+- Tract 2000: 51059432000
+- Tract 1990: 51059432000
+- Place 2020: 11470
+- Place 2010: 11470
+- Place 2000: 11464
+- Place 1990: 0194
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 292588
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 49
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

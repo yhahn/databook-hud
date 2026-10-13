@@ -1,0 +1,85 @@
+# Project: MT VERNON/ TEMPLE NORTH APTS (RIA20070030)
+
+- HUD ID: RIA20070030
+- HUD ID before: 
+- Project: MT VERNON/ TEMPLE NORTH APTS
+- Address: 98 RIVULET ST
+- City: WOONSOCKET
+- State: RI
+- ZIP: 02895
+- ZIP extension: 
+- State project ID: RI00068
+- Latitude: 42.015144
+- Longitude: -71.516466
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007017300
+- Tract 2010: 44007017300
+- Tract 2000: 44007017300
+- Tract 1990: 44007017300
+- Place 2020: 80780
+- Place 2010: 80780
+- Place 2000: 80780
+- Place 1990: 0560
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 261869
+- Units: 124
+- Low-income units: 123
+- Units reported: 124
+- Low-income reported: 123
+- Efficiencies: 50
+- 1-bedroom units: 62
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS RIA1989030.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BOULDER SPRINGS APTS (UTA20000015)
+
+- HUD ID: UTA20000015
+- HUD ID before: 
+- Project: BOULDER SPRINGS APTS
+- Address: 750 S 650 W
+- City: PROVO
+- State: UT
+- ZIP: 84601
+- ZIP extension: 
+- State project ID: 1999-11
+- Latitude: 40.224024
+- Longitude: -111.669448
+- County FIPS: 49049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49049002801
+- Tract 2000: 49049002800
+- Tract 1990: 49049002800
+- Place 2020: 
+- Place 2010: 62470
+- Place 2000: 62470
+- Place 1990: 0800
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 276
+- Low-income units: 276
+- Units reported: 276
+- Low-income reported: 276
+- Efficiencies: 0
+- 1-bedroom units: 177
+- 2-bedroom units: 99
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

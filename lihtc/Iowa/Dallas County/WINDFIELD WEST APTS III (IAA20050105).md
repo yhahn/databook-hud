@@ -1,0 +1,85 @@
+# Project: WINDFIELD WEST APTS III (IAA20050105)
+
+- HUD ID: IAA20050105
+- HUD ID before: 
+- Project: WINDFIELD WEST APTS III
+- Address: 125 SE WINDFIELD PKWY
+- City: WAUKEE
+- State: IA
+- ZIP: 50263
+- ZIP extension: 
+- State project ID: 05-04
+- Latitude: 41.612252
+- Longitude: -93.869438
+- County FIPS: 19049
+- County from: 2020
+- Tract 2020: 19049050807
+- Tract 2010: 19049050807
+- Tract 2000: 19049050801
+- Tract 1990: 19049050100
+- Place 2020: 82695
+- Place 2010: 82695
+- Place 2000: 21045
+- Place 1990: 4685
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 150625
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 12
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

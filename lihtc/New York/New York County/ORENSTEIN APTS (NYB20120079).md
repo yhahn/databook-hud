@@ -1,0 +1,85 @@
+# Project: ORENSTEIN APTS (NYB20120079)
+
+- HUD ID: NYB20120079
+- HUD ID before: 
+- Project: ORENSTEIN APTS
+- Address: 15 BIALYSTOKER PL
+- City: NEW YORK
+- State: NY
+- ZIP: 10002
+- ZIP extension: 
+- State project ID: NY-12-2100
+- Latitude: 40.715719
+- Longitude: -73.983152
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061001200
+- Tract 2010: 36061001200
+- Tract 2000: 36061001200
+- Tract 1990: 36061001200
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1172397
+- Units: 128
+- Low-income units: 127
+- Units reported: 128
+- Low-income reported: 127
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

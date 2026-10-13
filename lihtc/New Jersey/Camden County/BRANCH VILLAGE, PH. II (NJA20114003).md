@@ -1,0 +1,85 @@
+# Project: BRANCH VILLAGE, PH. II (NJA20114003)
+
+- HUD ID: NJA20114003
+- HUD ID before: 
+- Project: BRANCH VILLAGE, PH. II
+- Address: 813 FERRY AVE
+- City: CAMDEN
+- State: NJ
+- ZIP: 08104
+- ZIP extension: 1824
+- State project ID: 02550-1
+- Latitude: 39.920421
+- Longitude: -75.111546
+- County FIPS: 34007
+- County from: 2020
+- Tract 2020: 34007601700
+- Tract 2010: 34007601700
+- Tract 2000: 34007601700
+- Tract 1990: 
+- Place 2020: 10000
+- Place 2010: 10000
+- Place 2000: 10000
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 622956
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 26
+- 3-bedroom units: 20
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

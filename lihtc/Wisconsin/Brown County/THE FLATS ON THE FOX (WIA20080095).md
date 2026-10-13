@@ -1,0 +1,85 @@
+# Project: THE FLATS ON THE FOX (WIA20080095)
+
+- HUD ID: WIA20080095
+- HUD ID before: 
+- Project: THE FLATS ON THE FOX
+- Address: 335 NORTH WASHINGTON ST
+- City: GREEN BAY
+- State: WI
+- ZIP: 54301
+- ZIP extension: 
+- State project ID: 5162
+- Latitude: 44.517032
+- Longitude: -88.014514
+- County FIPS: 55009
+- County from: 2020
+- Tract 2020: 55009001000
+- Tract 2010: 55009001000
+- Tract 2000: 55009001000
+- Tract 1990: 55009001000
+- Place 2020: 31000
+- Place 2010: 31000
+- Place 2000: 31000
+- Place 1990: 1055
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 750000
+- Units: 64
+- Low-income units: 7
+- Units reported: 64
+- Low-income reported: 7
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 28
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

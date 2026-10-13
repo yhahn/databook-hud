@@ -1,0 +1,85 @@
+# Project: MAPLE VIEW APTS (WVA19980030)
+
+- HUD ID: WVA19980030
+- HUD ID before: 
+- Project: MAPLE VIEW APTS
+- Address: 1 MAPLE VIEW DR
+- City: CLARKSBURG
+- State: WV
+- ZIP: 26301
+- ZIP extension: 
+- State project ID: WV-97-181
+- Latitude: 39.267131
+- Longitude: -80.370501
+- County FIPS: 54033
+- County from: 2020
+- Tract 2020: 54033030603
+- Tract 2010: 54033030602
+- Tract 2000: 54033030600
+- Tract 1990: 54033030600
+- Place 2020: 15628
+- Place 2010: 15628
+- Place 2000: 15628
+- Place 1990: 0310
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

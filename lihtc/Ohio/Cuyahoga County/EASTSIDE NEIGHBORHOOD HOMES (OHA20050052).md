@@ -1,0 +1,85 @@
+# Project: EASTSIDE NEIGHBORHOOD HOMES (OHA20050052)
+
+- HUD ID: OHA20050052
+- HUD ID before: 
+- Project: EASTSIDE NEIGHBORHOOD HOMES
+- Address: 7309 CENTRAL AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44104
+- ZIP extension: 
+- State project ID: 02-0143
+- Latitude: 41.496314
+- Longitude: -81.638015
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035197200
+- Tract 2010: 39035196500
+- Tract 2000: 39035113300
+- Tract 1990: 39035113300
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 622804
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 12
+- 3-bedroom units: 33
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2005672, OHA2004091.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MIRAMAR WAY (CAA20110305)
+
+- HUD ID: CAA20110305
+- HUD ID before: 
+- Project: MIRAMAR WAY
+- Address: 3761 MIRAMAR WAY
+- City: SANTA CLARA
+- State: CA
+- ZIP: 95051
+- ZIP extension: 
+- State project ID: CA-09-863
+- Latitude: 37.358782
+- Longitude: -121.999719
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085508507
+- Tract 2010: 06085508507
+- Tract 2000: 06085508506
+- Tract 1990: 06085508506
+- Place 2020: 69084
+- Place 2010: 69084
+- Place 2000: 69084
+- Place 1990: 2835
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 225461
+- Units: 16
+- Low-income units: 15
+- Units reported: 16
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011584.
+- Record status: Existing, unchanged

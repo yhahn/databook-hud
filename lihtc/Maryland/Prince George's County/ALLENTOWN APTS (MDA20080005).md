@@ -1,0 +1,85 @@
+# Project: ALLENTOWN APTS (MDA20080005)
+
+- HUD ID: MDA20080005
+- HUD ID before: 
+- Project: ALLENTOWN APTS
+- Address: 5218 MORRIS AVE
+- City: SUITLAND
+- State: MD
+- ZIP: 20746
+- ZIP extension: 
+- State project ID: MD07-20001
+- Latitude: 38.817801
+- Longitude: -76.895522
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033801904
+- Tract 2010: 24033801904
+- Tract 2000: 24033801904
+- Tract 1990: 24033801904
+- Place 2020: 12600
+- Place 2010: 12600
+- Place 2000: 12600
+- Place 1990: 0122
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 177
+- Low-income units: 177
+- Units reported: 177
+- Low-income reported: 177
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

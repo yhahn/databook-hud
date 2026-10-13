@@ -1,0 +1,85 @@
+# Project: THIRD STREET APTS (NDA19910035)
+
+- HUD ID: NDA19910035
+- HUD ID before: 
+- Project: THIRD STREET APTS
+- Address: 215 THIRD ST SE
+- City: GWINNER
+- State: ND
+- ZIP: 58040
+- ZIP extension: 
+- State project ID: ND-90-01
+- Latitude: 46.223386
+- Longitude: -97.657797
+- County FIPS: 38081
+- County from: 2020
+- Tract 2020: 38081974000
+- Tract 2010: 38081974000
+- Tract 2000: 38081974000
+- Tract 1990: 38081974000
+- Place 2020: 34020
+- Place 2010: 34020
+- Place 2000: 15100
+- Place 1990: 0720
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 29476
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

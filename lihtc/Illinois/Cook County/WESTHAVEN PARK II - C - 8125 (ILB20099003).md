@@ -1,0 +1,85 @@
+# Project: WESTHAVEN PARK II - C - 8125 (ILB20099003)
+
+- HUD ID: ILB20099003
+- HUD ID before: 
+- Project: WESTHAVEN PARK II - C - 8125
+- Address: 1939 W LAKE ST # 1949
+- City: CHICAGO
+- State: IL
+- ZIP: 60612
+- ZIP extension: 2424
+- State project ID: TC-08-008
+- Latitude: 41.884884
+- Longitude: -87.675267
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031280400
+- Tract 2010: 17031280400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 92
+- Low-income units: 83
+- Units reported: 92
+- Low-income reported: 83
+- Efficiencies: 
+- 1-bedroom units: 52
+- 2-bedroom units: 15
+- 3-bedroom units: 23
+- 4-bedroom units: 2
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

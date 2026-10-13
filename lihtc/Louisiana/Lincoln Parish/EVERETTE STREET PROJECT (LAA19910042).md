@@ -1,0 +1,85 @@
+# Project: EVERETTE STREET PROJECT (LAA19910042)
+
+- HUD ID: LAA19910042
+- HUD ID before: 
+- Project: EVERETTE STREET PROJECT
+- Address: 103 EVERETT ST
+- City: RUSTON
+- State: LA
+- ZIP: 71270
+- ZIP extension: 
+- State project ID: LA-91-064
+- Latitude: 32.529649
+- Longitude: -92.646475
+- County FIPS: 22061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22061960400
+- Tract 2000: 22061961000
+- Tract 1990: 22061961000
+- Place 2020: 
+- Place 2010: 66655
+- Place 2000: 66655
+- Place 1990: 1190
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1991040. AKA EVERETT ST PROJECT.
+- Record status: Existing, unchanged

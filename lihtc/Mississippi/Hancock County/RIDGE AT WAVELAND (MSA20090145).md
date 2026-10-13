@@ -1,0 +1,85 @@
+# Project: RIDGE AT WAVELAND (MSA20090145)
+
+- HUD ID: MSA20090145
+- HUD ID before: 
+- Project: RIDGE AT WAVELAND
+- Address: 548 HWY 90
+- City: WAVELAND
+- State: MS
+- ZIP: 39576
+- ZIP extension: 
+- State project ID: MS-07-007
+- Latitude: 30.302034
+- Longitude: -89.390862
+- County FIPS: 28045
+- County from: 2020
+- Tract 2020: 28045030304
+- Tract 2010: 28045030300
+- Tract 2000: 28045030300
+- Tract 1990: 28045030300
+- Place 2020: 78200
+- Place 2010: 78200
+- Place 2000: 03980
+- Place 1990: 0060
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1188881
+- Units: 120
+- Low-income units: 118
+- Units reported: 120
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 48
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

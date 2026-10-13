@@ -1,0 +1,26 @@
+# Tax Credit Projects: Richland County, ND
+
+- Level: County
+- Postal code: ND
+- State FIPS: 38
+- County FIPS: 38077
+- Counties: 
+- Projects: 9
+- Units: 268
+- Low-income units: 264
+
+The low-income housing tax credit projects of Richland County, North Dakota, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [PRAIRIEWOOD APTS (NDA19950070)](./Richland%20County/PRAIRIEWOOD%20APTS%20%28NDA19950070%29.md) | NDA19950070 | WAHPETON | 1995 | 45 | 45 |
+| [CENTURY APTS (NDA19960005)](./Richland%20County/CENTURY%20APTS%20%28NDA19960005%29.md) | NDA19960005 | WAHPETON | 1996 | 24 | 24 |
+| [PRAIRIEWOOD NORTH (NDA19960015)](./Richland%20County/PRAIRIEWOOD%20NORTH%20%28NDA19960015%29.md) | NDA19960015 | WAHPETON | 1996 | 15 | 15 |
+| [DAKOTA EDGE (NDA19980035)](./Richland%20County/DAKOTA%20EDGE%20%28NDA19980035%29.md) | NDA19980035 | WAHPETON | 1998 | 50 | 49 |
+| [GRACE VILLAGE (NDA19980040)](./Richland%20County/GRACE%20VILLAGE%20%28NDA19980040%29.md) | NDA19980040 | HANKINSON | 1998 | 12 | 12 |
+| [DAKOTA'S EDGE (NDA19989001)](./Richland%20County/DAKOTA%27S%20EDGE%20%28NDA19989001%29.md) | NDA19989001 | WAHPETON | 1998 | 50 | 49 |
+| [PRAIRIE PARK APTS (NDA19990035)](./Richland%20County/PRAIRIE%20PARK%20APTS%20%28NDA19990035%29.md) | NDA19990035 | FAIRMOUNT | 1999 | 8 | 8 |
+| [DAKOTA MAGIC HOMES (NDA20100012)](./Richland%20County/DAKOTA%20MAGIC%20HOMES%20%28NDA20100012%29.md) | NDA20100012 | HANKINSON | 2010 | 24 | 23 |
+| [KENNEDY PARK TOWNHOMES (NDA20175001)](./Richland%20County/KENNEDY%20PARK%20TOWNHOMES%20%28NDA20175001%29.md) | NDA20175001 | WAHPETON | 2017 | 40 | 39 |

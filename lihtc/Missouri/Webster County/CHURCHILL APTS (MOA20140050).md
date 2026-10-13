@@ -1,0 +1,85 @@
+# Project: CHURCHILL APTS (MOA20140050)
+
+- HUD ID: MOA20140050
+- HUD ID before: 
+- Project: CHURCHILL APTS
+- Address: 664 CHURCH ST
+- City: MARSHFIELD
+- State: MO
+- ZIP: 65706
+- ZIP extension: 
+- State project ID: 13-022
+- Latitude: 37.346273
+- Longitude: -92.924829
+- County FIPS: 29225
+- County from: 2020
+- Tract 2020: 29225470202
+- Tract 2010: 29225470202
+- Tract 2000: 29225970200
+- Tract 1990: 29225970200
+- Place 2020: 46388
+- Place 2010: 46388
+- Place 2000: 46388
+- Place 1990: 2680
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 10946000
+- Units: 48
+- Low-income units: 38
+- Units reported: 48
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 719 NORTH SIXTH ST (ILA19960015)
+
+- HUD ID: ILA19960015
+- HUD ID before: 
+- Project: 719 NORTH SIXTH ST
+- Address: 719 N SIXTH ST
+- City: SPRINGFIELD
+- State: IL
+- ZIP: 62702
+- ZIP extension: 
+- State project ID: 72094
+- Latitude: 39.808688
+- Longitude: -89.647871
+- County FIPS: 17167
+- County from: 2020
+- Tract 2020: 17167000900
+- Tract 2010: 17167000900
+- Tract 2000: 17167000900
+- Tract 1990: 17167000900
+- Place 2020: 72000
+- Place 2010: 72000
+- Place 2000: 72000
+- Place 1990: 5480
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 12382
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

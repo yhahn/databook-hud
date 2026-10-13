@@ -1,0 +1,85 @@
+# Project: WOODMERE RIDGE APTS (MIA20060245)
+
+- HUD ID: MIA20060245
+- HUD ID before: 
+- Project: WOODMERE RIDGE APTS
+- Address: 927 WOODMERE AVE
+- City: TRAVERSE CITY
+- State: MI
+- ZIP: 49686
+- ZIP extension: 
+- State project ID: MI-2346
+- Latitude: 44.750873
+- Longitude: -85.607064
+- County FIPS: 26055
+- County from: 2020
+- Tract 2020: 26055551200
+- Tract 2010: 26055551200
+- Tract 2000: 26055991200
+- Tract 1990: 26055991200
+- Place 2020: 80340
+- Place 2010: 80340
+- Place 2000: 80340
+- Place 1990: 2665
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 101360
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 4
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 733253
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BLUE ELM UNITED ESTATES (MAA20050010)
+
+- HUD ID: MAA20050010
+- HUD ID before: 
+- Project: BLUE ELM UNITED ESTATES
+- Address: 168 SEAVER ST
+- City: DORCHESTER
+- State: MA
+- ZIP: 02121
+- ZIP extension: 
+- State project ID: MA-03-008
+- Latitude: 42.309413
+- Longitude: -71.091693
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025082100
+- Tract 2010: 25025082100
+- Tract 2000: 25025082100
+- Tract 1990: 25025082100
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 285
+- Low-income units: 285
+- Units reported: 285
+- Low-income reported: 285
+- Efficiencies: 6
+- 1-bedroom units: 90
+- 2-bedroom units: 115
+- 3-bedroom units: 31
+- 4-bedroom units: 43
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000139, MAB0000133.
+- Record status: Existing, unchanged

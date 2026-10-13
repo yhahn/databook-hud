@@ -1,0 +1,85 @@
+# Project: MOUNT HOPE HOUSING CO INC (NYA19900015)
+
+- HUD ID: NYA19900015
+- HUD ID before: 
+- Project: MOUNT HOPE HOUSING CO INC
+- Address: 264 ECHO PL
+- City: BRONX
+- State: NY
+- ZIP: 10457
+- ZIP extension: 
+- State project ID: NY-90-1253_00409
+- Latitude: 40.849405
+- Longitude: -73.903868
+- County FIPS: 36005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36005023502
+- Tract 2000: 36005023502
+- Tract 1990: 36005023502
+- Place 2020: 
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 50
+- Units reported: 54
+- Low-income reported: 50
+- Efficiencies: 2
+- 1-bedroom units: 13
+- 2-bedroom units: 30
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

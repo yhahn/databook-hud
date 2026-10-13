@@ -1,0 +1,85 @@
+# Project: SULZBACHER VILLAGE (FLA20190049)
+
+- HUD ID: FLA20190049
+- HUD ID before: 
+- Project: SULZBACHER VILLAGE
+- Address: 5455 SPRINGFIELD BOULEVARD
+- City: JACKSONVILLE
+- State: FL
+- ZIP: 32208
+- ZIP extension: 
+- State project ID: 2808
+- Latitude: 30.373262
+- Longitude: -81.658392
+- County FIPS: 12031
+- County from: 2020
+- Tract 2020: 12031001402
+- Tract 2010: 12031001400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 922492
+- Units: 97
+- Low-income units: 70
+- Units reported: 97
+- Low-income reported: 70
+- Efficiencies: 56
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AUTUMN VIEW APTS PHASE II (MOA19920115)
+
+- HUD ID: MOA19920115
+- HUD ID before: 
+- Project: AUTUMN VIEW APTS PHASE II
+- Address: 1184 FLOYD ST
+- City: KENNETT
+- State: MO
+- ZIP: 63857
+- ZIP extension: 
+- State project ID: 92-012
+- Latitude: 36.249072
+- Longitude: -90.043141
+- County FIPS: 29069
+- County from: 2020
+- Tract 2020: 29069360600
+- Tract 2010: 29069360600
+- Tract 2000: 29069960600
+- Tract 1990: 29069960600
+- Place 2020: 38306
+- Place 2010: 38306
+- Place 2000: 38306
+- Place 1990: 2235
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA1988595.
+- Record status: Existing, unchanged

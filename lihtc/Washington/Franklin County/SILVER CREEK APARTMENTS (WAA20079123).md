@@ -1,0 +1,85 @@
+# Project: SILVER CREEK APARTMENTS (WAA20079123)
+
+- HUD ID: WAA20079123
+- HUD ID before: 
+- Project: SILVER CREEK APARTMENTS
+- Address: 9315 CHAPEL HILL BLVD
+- City: PASCO
+- State: WA
+- ZIP: 99301
+- ZIP extension: 
+- State project ID: 04-83A
+- Latitude: 46.27105
+- Longitude: -119.213612
+- County FIPS: 53021
+- County from: 2020
+- Tract 2020: 53021020603
+- Tract 2010: 53021020603
+- Tract 2000: 53021020602
+- Tract 1990: 
+- Place 2020: 53545
+- Place 2010: 53545
+- Place 2000: 53545
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 713055
+- Units: 315
+- Low-income units: 313
+- Units reported: 315
+- Low-income reported: 313
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 75
+- 3-bedroom units: 66
+- 4-bedroom units: 53
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

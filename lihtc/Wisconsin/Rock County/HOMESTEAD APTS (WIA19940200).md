@@ -1,0 +1,85 @@
+# Project: HOMESTEAD APTS (WIA19940200)
+
+- HUD ID: WIA19940200
+- HUD ID before: 
+- Project: HOMESTEAD APTS
+- Address: 620 E ST MARY ST
+- City: MILTON
+- State: WI
+- ZIP: 53563
+- ZIP extension: 
+- State project ID: 1285
+- Latitude: 42.769336
+- Longitude: -88.938897
+- County FIPS: 55105
+- County from: 2020
+- Tract 2020: 55105003102
+- Tract 2010: 55105003100
+- Tract 2000: 55105003100
+- Tract 1990: 55105003100
+- Place 2020: 52200
+- Place 2010: 52200
+- Place 2000: 52200
+- Place 1990: 1635
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

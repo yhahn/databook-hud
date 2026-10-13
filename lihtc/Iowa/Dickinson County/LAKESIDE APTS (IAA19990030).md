@@ -1,0 +1,85 @@
+# Project: LAKESIDE APTS (IAA19990030)
+
+- HUD ID: IAA19990030
+- HUD ID before: 
+- Project: LAKESIDE APTS
+- Address: 664 TER PARK BLVD
+- City: MILFORD
+- State: IA
+- ZIP: 51351
+- ZIP extension: 
+- State project ID: 98-37
+- Latitude: 43.346183
+- Longitude: -95.149368
+- County FIPS: 19059
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19059451100
+- Tract 2000: 19059951100
+- Tract 1990: 19059950300
+- Place 2020: 
+- Place 2010: 84450
+- Place 2000: 03025
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 149337
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 23
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

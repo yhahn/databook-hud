@@ -1,0 +1,85 @@
+# Project: ROSEMONT AT MEADOW LANE (TXA20040290)
+
+- HUD ID: TXA20040290
+- HUD ID before: 
+- Project: ROSEMONT AT MEADOW LANE
+- Address: 4722 MEADOW ST
+- City: DALLAS
+- State: TX
+- ZIP: 75215
+- ZIP extension: 
+- State project ID: TX3421
+- Latitude: 32.758322
+- Longitude: -96.748433
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113020800
+- Tract 2010: 48113003901
+- Tract 2000: 48113003901
+- Tract 1990: 48113003901
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1085
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 264
+- Low-income units: 264
+- Units reported: 264
+- Low-income reported: 264
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

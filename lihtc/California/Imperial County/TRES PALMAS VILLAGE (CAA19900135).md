@@ -1,0 +1,85 @@
+# Project: TRES PALMAS VILLAGE (CAA19900135)
+
+- HUD ID: CAA19900135
+- HUD ID before: 
+- Project: TRES PALMAS VILLAGE
+- Address: 1631 MALAN ST
+- City: BRAWLEY
+- State: CA
+- ZIP: 92227
+- ZIP extension: 
+- State project ID: CA-89-279
+- Latitude: 32.971009
+- Longitude: -115.513086
+- County FIPS: 06025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06025010700
+- Tract 2000: 06025010700
+- Tract 1990: 06025010700
+- Place 2020: 
+- Place 2010: 08058
+- Place 2000: 08058
+- Place 1990: 0320
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 98141
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1990125, CAA0001535.
+- Record status: Existing, unchanged

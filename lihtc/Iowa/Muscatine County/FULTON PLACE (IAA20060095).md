@@ -1,0 +1,85 @@
+# Project: FULTON PLACE (IAA20060095)
+
+- HUD ID: IAA20060095
+- HUD ID before: 
+- Project: FULTON PLACE
+- Address: 2815 CEDAR ST
+- City: MUSCATINE
+- State: IA
+- ZIP: 52761
+- ZIP extension: 
+- State project ID: 05-19
+- Latitude: 41.436114
+- Longitude: -91.076942
+- County FIPS: 19139
+- County from: 2020
+- Tract 2020: 19139050600
+- Tract 2010: 19139050600
+- Tract 2000: 19139050600
+- Tract 1990: 19139050600
+- Place 2020: 55110
+- Place 2010: 55110
+- Place 2000: 55110
+- Place 1990: 2990
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 169539
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 793500
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

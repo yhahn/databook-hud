@@ -1,0 +1,85 @@
+# Project: TIMBER VILLAGE APTS II (TXA20110830)
+
+- HUD ID: TXA20110830
+- HUD ID before: 
+- Project: TIMBER VILLAGE APTS II
+- Address: 2626 W LOOP 390 N
+- City: MARSHALL
+- State: TX
+- ZIP: 75670
+- ZIP extension: 
+- State project ID: TX4600
+- Latitude: 32.565908
+- Longitude: -94.392589
+- County FIPS: 48203
+- County from: 2020
+- Tract 2020: 48203020401
+- Tract 2010: 48203020401
+- Tract 2000: 48203020401
+- Tract 1990: 48203020401
+- Place 2020: 46776
+- Place 2010: 46776
+- Place 2000: 46776
+- Place 1990: 2690
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 48
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000595. AKA TIMBER VILLAGE II.
+- Record status: Existing, unchanged

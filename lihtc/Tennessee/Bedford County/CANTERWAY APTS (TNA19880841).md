@@ -1,0 +1,85 @@
+# Project: CANTERWAY APTS (TNA19880841)
+
+- HUD ID: TNA19880841
+- HUD ID before: 
+- Project: CANTERWAY APTS
+- Address: 1898 MADISON ST
+- City: SHELBYVILLE
+- State: TN
+- ZIP: 37160
+- ZIP extension: 
+- State project ID: TN-88-057
+- Latitude: 35.480916
+- Longitude: -86.407031
+- County FIPS: 47003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47003950600
+- Tract 2000: 47003950600
+- Tract 1990: 47003950600
+- Place 2020: 
+- Place 2010: 67760
+- Place 2000: 67760
+- Place 1990: 1295
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 30001
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1988615. AKA SHELBYVILLE APTS.
+- Record status: Existing, unchanged

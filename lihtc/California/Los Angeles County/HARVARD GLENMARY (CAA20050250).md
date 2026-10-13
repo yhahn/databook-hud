@@ -1,0 +1,85 @@
+# Project: HARVARD GLENMARY (CAA20050250)
+
+- HUD ID: CAA20050250
+- HUD ID before: 
+- Project: HARVARD GLENMARY
+- Address: 8711 S HARVARD BLVD
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90047
+- ZIP extension: 
+- State project ID: CA-02-800
+- Latitude: 33.958723
+- Longitude: -118.307036
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037238400
+- Tract 2010: 06037238400
+- Tract 2000: 06037238400
+- Tract 1990: 06037238400
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 1211445
+- Units: 216
+- Low-income units: 214
+- Units reported: 216
+- Low-income reported: 214
+- Efficiencies: 0
+- 1-bedroom units: 160
+- 2-bedroom units: 47
+- 3-bedroom units: 3
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

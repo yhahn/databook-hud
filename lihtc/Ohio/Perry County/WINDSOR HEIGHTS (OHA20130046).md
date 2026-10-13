@@ -1,0 +1,85 @@
+# Project: WINDSOR HEIGHTS (OHA20130046)
+
+- HUD ID: OHA20130046
+- HUD ID before: 
+- Project: WINDSOR HEIGHTS
+- Address: 211 N JACKSON ST
+- City: NEW LEXINGTON
+- State: OH
+- ZIP: 43764
+- ZIP extension: 
+- State project ID: 100043
+- Latitude: 39.716038
+- Longitude: -82.207908
+- County FIPS: 39127
+- County from: 2020
+- Tract 2020: 39127966200
+- Tract 2010: 39127966200
+- Tract 2000: 39127966200
+- Tract 1990: 39127966200
+- Place 2020: 54866
+- Place 2010: 54866
+- Place 2000: 54866
+- Place 1990: 2990
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 25
+- Units reported: 26
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

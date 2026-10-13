@@ -1,0 +1,85 @@
+# Project: FAIRWAYS AT MARION II (ARA19990030)
+
+- HUD ID: ARA19990030
+- HUD ID before: 
+- Project: FAIRWAYS AT MARION II
+- Address: 425 BIRDIE DR
+- City: MARION
+- State: AR
+- ZIP: 72364
+- ZIP extension: 
+- State project ID: AR-99-26
+- Latitude: 35.200572
+- Longitude: -90.205615
+- County FIPS: 05035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05035030805
+- Tract 2000: 05035030700
+- Tract 1990: 05035030700
+- Place 2020: 
+- Place 2010: 44180
+- Place 2000: 27040
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 91161
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1997681, ARA1997038.
+- Record status: Existing, unchanged

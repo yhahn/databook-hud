@@ -1,0 +1,85 @@
+# Project: WALTHALL STREET APTS (MSA19870023)
+
+- HUD ID: MSA19870023
+- HUD ID before: 
+- Project: WALTHALL STREET APTS
+- Address: 702 WALTHALL ST
+- City: GREENWOOD
+- State: MS
+- ZIP: 38930
+- ZIP extension: 
+- State project ID: 87-078
+- Latitude: 33.515739
+- Longitude: -90.178974
+- County FIPS: 28083
+- County from: 2020
+- Tract 2020: 28083950800
+- Tract 2010: 28083950800
+- Tract 2000: 28083950800
+- Tract 1990: 28083950800
+- Place 2020: 29340
+- Place 2010: 29340
+- Place 2000: 29340
+- Place 1990: 0505
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 11
+- Low-income units: 10
+- Units reported: 11
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 4
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Existing
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

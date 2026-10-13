@@ -1,0 +1,85 @@
+# Project: KISSIMMEE OAK LEAF LANDINGS (FLA20000090)
+
+- HUD ID: FLA20000090
+- HUD ID before: 
+- Project: KISSIMMEE OAK LEAF LANDINGS
+- Address: 2350 N CENTRAL AVE
+- City: KISSIMMEE
+- State: FL
+- ZIP: 34741
+- ZIP extension: 
+- State project ID: 414
+- Latitude: 28.316058
+- Longitude: -81.409076
+- County FIPS: 12097
+- County from: 2020
+- Tract 2020: 12097042202
+- Tract 2010: 12097042200
+- Tract 2000: 12097042200
+- Tract 1990: 12097040203
+- Place 2020: 36950
+- Place 2010: 36950
+- Place 2000: 36950
+- Place 1990: 1075
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

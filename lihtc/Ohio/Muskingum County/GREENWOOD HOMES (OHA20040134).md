@@ -1,0 +1,85 @@
+# Project: GREENWOOD HOMES (OHA20040134)
+
+- HUD ID: OHA20040134
+- HUD ID before: 
+- Project: GREENWOOD HOMES
+- Address: 1007 E MAIN ST
+- City: ZANESVILLE
+- State: OH
+- ZIP: 43701
+- ZIP extension: 
+- State project ID: 020071
+- Latitude: 39.939943
+- Longitude: -81.998967
+- County FIPS: 39119
+- County from: 2020
+- Tract 2020: 39119912000
+- Tract 2010: 39119912000
+- Tract 2000: 39119982000
+- Tract 1990: 39119982000
+- Place 2020: 88084
+- Place 2010: 88084
+- Place 2000: 88084
+- Place 1990: 4860
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 23
+- Low-income units: 21
+- Units reported: 23
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 23
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2005065.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FIGUEROA APTS (TXA20070140)
+
+- HUD ID: TXA20070140
+- HUD ID before: 
+- Project: FIGUEROA APTS
+- Address: 998 RUBEN CHAVEZ RD
+- City: ROBSTOWN
+- State: TX
+- ZIP: 78380
+- ZIP extension: 
+- State project ID: TX4239
+- Latitude: 27.783263
+- Longitude: -97.677923
+- County FIPS: 48355
+- County from: 2020
+- Tract 2020: 48355005605
+- Tract 2010: 48355005602
+- Tract 2000: 48355005602
+- Tract 1990: 48355005602
+- Place 2020: 62600
+- Place 2010: 62600
+- Place 2000: 52404
+- Place 1990: 3600
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 298898
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 22
+- 3-bedroom units: 8
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

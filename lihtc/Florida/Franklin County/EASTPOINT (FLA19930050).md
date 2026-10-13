@@ -1,0 +1,85 @@
+# Project: EASTPOINT (FLA19930050)
+
+- HUD ID: FLA19930050
+- HUD ID before: 
+- Project: EASTPOINT
+- Address: 33 BEGONIA ST
+- City: EASTPOINT
+- State: FL
+- ZIP: 32328
+- ZIP extension: 
+- State project ID: 248
+- Latitude: 29.733789
+- Longitude: -84.890476
+- County FIPS: 12037
+- County from: 2020
+- Tract 2020: 12037970200
+- Tract 2010: 12037970200
+- Tract 2000: 12037970200
+- Tract 1990: 12037970200
+- Place 2020: 19400
+- Place 2010: 19400
+- Place 2000: 10725
+- Place 1990: 0547
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HIGHLAND VIEW APTS (ORA19910035)
+
+- HUD ID: ORA19910035
+- HUD ID before: 
+- Project: HIGHLAND VIEW APTS
+- Address: 800 N 15TH AVE
+- City: ELGIN
+- State: OR
+- ZIP: 97827
+- ZIP extension: 
+- State project ID: 944
+- Latitude: 45.572441
+- Longitude: -117.923958
+- County FIPS: 41061
+- County from: 2020
+- Tract 2020: 41061970100
+- Tract 2010: 41061970100
+- Tract 2000: 41061970100
+- Tract 1990: 41061970100
+- Place 2020: 22550
+- Place 2010: 22550
+- Place 2000: 22550
+- Place 1990: 0330
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

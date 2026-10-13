@@ -1,0 +1,85 @@
+# Project: VINELAND APTS (NYA19980225)
+
+- HUD ID: NYA19980225
+- HUD ID before: 
+- Project: VINELAND APTS
+- Address: 100 MCKINLEY AVE
+- City: PENN YAN
+- State: NY
+- ZIP: 14527
+- ZIP extension: 
+- State project ID: 19970629
+- Latitude: 42.658402
+- Longitude: -77.047256
+- County FIPS: 36123
+- County from: 2020
+- Tract 2020: 36123150501
+- Tract 2010: 36123150500
+- Tract 2000: 36123990500
+- Tract 1990: 36123990500
+- Place 2020: 57177
+- Place 2010: 57177
+- Place 2000: 57177
+- Place 1990: 2815
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

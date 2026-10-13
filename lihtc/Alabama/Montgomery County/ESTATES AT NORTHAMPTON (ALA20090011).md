@@ -1,0 +1,85 @@
+# Project: ESTATES AT NORTHAMPTON (ALA20090011)
+
+- HUD ID: ALA20090011
+- HUD ID before: 
+- Project: ESTATES AT NORTHAMPTON
+- Address: 5685 EXPRESS DR
+- City: MONTGOMERY
+- State: AL
+- ZIP: 36116
+- ZIP extension: 
+- State project ID: AL-09-0039
+- Latitude: 32.315846
+- Longitude: -86.2272
+- County FIPS: 01101
+- County from: 2020
+- Tract 2020: 01101005613
+- Tract 2010: 01101005603
+- Tract 2000: 01101005603
+- Tract 1990: 01101005603
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 1180
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1195202
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 56
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 96
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2011030, ALA2011566.
+- Record status: Existing, unchanged

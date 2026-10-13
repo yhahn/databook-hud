@@ -1,0 +1,85 @@
+# Project: DRAKES BRANCH ELDERLY (VAA19970217)
+
+- HUD ID: VAA19970217
+- HUD ID before: 
+- Project: DRAKES BRANCH ELDERLY
+- Address: 200 FOSTER ST
+- City: DRAKES BRANCH
+- State: VA
+- ZIP: 23937
+- ZIP extension: 
+- State project ID: 973
+- Latitude: 36.996947
+- Longitude: -78.602562
+- County FIPS: 51037
+- County from: 2020
+- Tract 2020: 51037930101
+- Tract 2010: 51037930100
+- Tract 2000: 51037990100
+- Tract 1990: 51037990100
+- Place 2020: 23376
+- Place 2010: 23376
+- Place 2000: 14952
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 38518
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1996040.
+- Record status: Existing, unchanged

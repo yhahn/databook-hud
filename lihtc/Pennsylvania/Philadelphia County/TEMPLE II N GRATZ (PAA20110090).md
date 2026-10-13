@@ -1,0 +1,85 @@
+# Project: TEMPLE II N GRATZ (PAA20110090)
+
+- HUD ID: PAA20110090
+- HUD ID before: 
+- Project: TEMPLE II N GRATZ
+- Address: 1518 N GRATZ ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19121
+- ZIP extension: 
+- State project ID: TC20100306
+- Latitude: 39.977074
+- Longitude: -75.16584
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101014700
+- Tract 2010: 42101014700
+- Tract 2000: 42101014700
+- Tract 1990: 42101014700
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1185670
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 1
+- 3-bedroom units: 25
+- 4-bedroom units: 8
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 602175
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2011520. AKA TEMPLE II (NORTH GRATZ).
+- Record status: Existing, unchanged

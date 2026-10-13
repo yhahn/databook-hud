@@ -1,0 +1,85 @@
+# Project: YORKDALE TOWNHOMES (MNA20120805)
+
+- HUD ID: MNA20120805
+- HUD ID before: 
+- Project: YORKDALE TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: EDINA
+- State: MN
+- ZIP: 55435
+- ZIP extension: 
+- State project ID: D0489
+- Latitude: 44.8704
+- Longitude: -93.3396
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053024003
+- Tract 2010: 27053024003
+- Tract 2000: 27053024004
+- Tract 1990: 27053024002
+- Place 2020: 18188
+- Place 2010: 18188
+- Place 2000: 18188
+- Place 1990: 1105
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 415697
+- Units: 90
+- Low-income units: 86
+- Units reported: 90
+- Low-income reported: 86
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 56
+- 3-bedroom units: 20
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 90
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2895000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LYON'S ESTATES (OKA20050080)
+
+- HUD ID: OKA20050080
+- HUD ID before: 
+- Project: LYON'S ESTATES
+- Address: 215 N EASTERN AVE
+- City: MOORE
+- State: OK
+- ZIP: 73160
+- ZIP extension: 
+- State project ID: 39143
+- Latitude: 35.340394
+- Longitude: -97.477076
+- County FIPS: 40027
+- County from: 2020
+- Tract 2020: 40027202102
+- Tract 2010: 40027202102
+- Tract 2000: 40027202102
+- Tract 1990: 40027202102
+- Place 2020: 49200
+- Place 2010: 49200
+- Place 2000: 49200
+- Place 1990: 1655
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 92
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AUDUBON CROSSING (MNB20105001)
+
+- HUD ID: MNB20105001
+- HUD ID before: 
+- Project: AUDUBON CROSSING
+- Address: 951 LOWRY AVENUE NORTHEAST
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55418
+- ZIP extension: 3748
+- State project ID: D5895
+- Latitude: 45.013323
+- Longitude: -93.246517
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053001100
+- Tract 2010: 27053001100
+- Tract 2000: 27053001100
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 699539
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 15
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 1050000
+- TCAP: Yes
+- TCAP amount: 2196398
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Indv/Families of Color
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: VALLEY RIDGE RESIDENCES II (MOA20120115)
+
+- HUD ID: MOA20120115
+- HUD ID before: 
+- Project: VALLEY RIDGE RESIDENCES II
+- Address: 2026 BIRD RD
+- City: BRANSON
+- State: MO
+- ZIP: 65616
+- ZIP extension: 
+- State project ID: 08-903
+- Latitude: 36.674899
+- Longitude: -93.24807
+- County FIPS: 29213
+- County from: 2020
+- Tract 2020: 29213480208
+- Tract 2010: 29213480201
+- Tract 2000: 29213980100
+- Tract 1990: 29213980100
+- Place 2020: 07966
+- Place 2010: 07966
+- Place 2000: 07966
+- Place 1990: 0495
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 477776
+- Units: 44
+- Low-income units: 39
+- Units reported: 44
+- Low-income reported: 39
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

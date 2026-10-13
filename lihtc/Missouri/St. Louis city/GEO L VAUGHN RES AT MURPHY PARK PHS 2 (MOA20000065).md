@@ -1,0 +1,85 @@
+# Project: GEO L VAUGHN RES AT MURPHY PARK PHS 2 (MOA20000065)
+
+- HUD ID: MOA20000065
+- HUD ID before: 
+- Project: GEO L VAUGHN RES AT MURPHY PARK PHS 2
+- Address: 1920 CASS AVE
+- City: ST LOUIS
+- State: MO
+- ZIP: 63106
+- ZIP extension: 
+- State project ID: 98-077
+- Latitude: 38.643032
+- Longitude: -90.203915
+- County FIPS: 29510
+- County from: 2020
+- Tract 2020: 29510127500
+- Tract 2010: 29510127500
+- Tract 2000: 29510121300
+- Tract 1990: 29510121300
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 127
+- Low-income units: 80
+- Units reported: 127
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 38
+- 3-bedroom units: 34
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ATLANTIC SUNDANCE APTS (IAA19980015)
+
+- HUD ID: IAA19980015
+- HUD ID before: 
+- Project: ATLANTIC SUNDANCE APTS
+- Address: 1406 E 22ND ST
+- City: ATLANTIC
+- State: IA
+- ZIP: 50022
+- ZIP extension: 
+- State project ID: 98-69
+- Latitude: 41.389554
+- Longitude: -94.992064
+- County FIPS: 19029
+- County from: 2020
+- Tract 2020: 19029190400
+- Tract 2010: 19029190400
+- Tract 2000: 19029990400
+- Tract 1990: 19029990400
+- Place 2020: 03520
+- Place 2010: 03520
+- Place 2000: 03520
+- Place 1990: 0230
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 175452
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

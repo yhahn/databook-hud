@@ -1,0 +1,85 @@
+# Project: CENTURY HALL APTS (PAA20010045)
+
+- HUD ID: PAA20010045
+- HUD ID before: 
+- Project: CENTURY HALL APTS
+- Address: 831 WALNUT ST
+- City: READING
+- State: PA
+- ZIP: 19601
+- ZIP extension: 
+- State project ID: TC19990091
+- Latitude: 40.338521
+- Longitude: -75.920836
+- County FIPS: 42011
+- County from: 2020
+- Tract 2020: 42011001700
+- Tract 2010: 42011001700
+- Tract 2000: 42011001700
+- Tract 1990: 42011001700
+- Place 2020: 63624
+- Place 2010: 63624
+- Place 2000: 63624
+- Place 1990: 7418
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 114442
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

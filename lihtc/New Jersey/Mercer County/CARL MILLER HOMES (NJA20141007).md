@@ -1,0 +1,85 @@
+# Project: CARL MILLER HOMES (NJA20141007)
+
+- HUD ID: NJA20141007
+- HUD ID before: 
+- Project: CARL MILLER HOMES
+- Address: 100 RIDER AVE
+- City: TRENTON
+- State: NJ
+- ZIP: 08609
+- ZIP extension: 1141
+- State project ID: 02571-1
+- Latitude: 40.223036
+- Longitude: -74.751447
+- County FIPS: 34021
+- County from: 2020
+- Tract 2020: 34021002000
+- Tract 2010: 34021002000
+- Tract 2000: 34021002000
+- Tract 1990: 
+- Place 2020: 74000
+- Place 2010: 74000
+- Place 2000: 74000
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 2161781
+- Units: 203
+- Low-income units: 203
+- Units reported: 203
+- Low-income reported: 203
+- Efficiencies: 0
+- 1-bedroom units: 63
+- 2-bedroom units: 72
+- 3-bedroom units: 62
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

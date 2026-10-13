@@ -1,0 +1,85 @@
+# Project: WINTHROP SQUARE APARTMENTS (CTA20080020)
+
+- HUD ID: CTA20080020
+- HUD ID before: 
+- Project: WINTHROP SQUARE APARTMENTS
+- Address: 162 F 3 HUNTINGTON STREET
+- City: NEW LONDON
+- State: CT
+- ZIP: 06320
+- ZIP extension: 
+- State project ID: CT-06-016
+- Latitude: 41.3547
+- Longitude: -72.108
+- County FIPS: 09011
+- County from: 2020
+- Tract 2020: 09011690300
+- Tract 2010: 09011690400
+- Tract 2000: 09011690500
+- Tract 1990: 09011690500
+- Place 2020: 52280
+- Place 2010: 52280
+- Place 2000: 52280
+- Place 1990: 1480
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 208540
+- Units: 294
+- Low-income units: 294
+- Units reported: 294
+- Low-income reported: 294
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 70
+- 3-bedroom units: 195
+- 4-bedroom units: 15
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA2007045.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MIAMI TOWNSHIP VILLAGE (OHA20030176)
+
+- HUD ID: OHA20030176
+- HUD ID before: 
+- Project: MIAMI TOWNSHIP VILLAGE
+- Address: 2901 LOFFER CT
+- City: DAYTON
+- State: OH
+- ZIP: 45449
+- ZIP extension: 
+- State project ID: 020096
+- Latitude: 39.645626
+- Longitude: -84.222827
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113050104
+- Tract 2010: 39113050104
+- Tract 2000: 39113050102
+- Tract 1990: 39113050102
+- Place 2020: 49434
+- Place 2010: 49434
+- Place 2000: 49434
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 55883
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 26
+- 3-bedroom units: 8
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003634, OHA2004177.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: STONE MILL LOFTS (MAB20231016)
+
+- HUD ID: MAB20231016
+- HUD ID before: 
+- Project: STONE MILL LOFTS
+- Address: 72 GENERAL STREET
+- City: LAWRENCE
+- State: MA
+- ZIP: 01840
+- ZIP extension: 
+- State project ID: MA-25-31
+- Latitude: 42.708958
+- Longitude: -71.150545
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009250100
+- Tract 2010: 25009250800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 34550
+- Place 2010: 34550
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 1618119
+- Units: 86
+- Low-income units: 50
+- Units reported: 86
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 50
+- 2-bedroom units: 28
+- 3-bedroom units: 8
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

@@ -1,0 +1,85 @@
+# Project: THE PRESERVE AT NEWPORT (GAA20180031)
+
+- HUD ID: GAA20180031
+- HUD ID before: 
+- Project: THE PRESERVE AT NEWPORT
+- Address: 201 J NOLAN WELLS RD
+- City: KINGSLAND
+- State: GA
+- ZIP: 31548
+- ZIP extension: 6546
+- State project ID: 2016-010
+- Latitude: 30.8025
+- Longitude: -81.6403
+- County FIPS: 13039
+- County from: 2020
+- Tract 2020: 13039010404
+- Tract 2010: 13039010401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43640
+- Place 2010: 43640
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 669894
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 40
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1250099
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 1250099
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

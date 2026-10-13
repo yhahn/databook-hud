@@ -1,0 +1,85 @@
+# Project: INDIAN TRAIL APTS (LAWRENCEVILLE) (ILA20120008)
+
+- HUD ID: ILA20120008
+- HUD ID before: 
+- Project: INDIAN TRAIL APTS (LAWRENCEVILLE)
+- Address: 9 YOST CT
+- City: LAWRENCEVILLE
+- State: IL
+- ZIP: 62439
+- ZIP extension: 
+- State project ID: 1045211
+- Latitude: 38.7308
+- Longitude: -87.6765
+- County FIPS: 17101
+- County from: 2020
+- Tract 2020: 17101881100
+- Tract 2010: 17101881000
+- Tract 2000: 17101981000
+- Tract 1990: 17101981000
+- Place 2020: 42405
+- Place 2010: 42405
+- Place 2000: 42405
+- Place 1990: 3155
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 860353
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 29
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LAWRENCEVILLE APTS.
+- Record status: Existing, unchanged

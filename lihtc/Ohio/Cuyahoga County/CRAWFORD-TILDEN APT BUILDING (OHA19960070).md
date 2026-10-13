@@ -1,0 +1,85 @@
+# Project: CRAWFORD-TILDEN APT BUILDING (OHA19960070)
+
+- HUD ID: OHA19960070
+- HUD ID before: 
+- Project: CRAWFORD-TILDEN APT BUILDING
+- Address: 1831 CRAWFORD RD
+- City: CLEVELAND
+- State: OH
+- ZIP: 44106
+- ZIP extension: 
+- State project ID: OH-94-4023
+- Latitude: 41.507064
+- Longitude: -81.628934
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035118900
+- Tract 2010: 39035118900
+- Tract 2000: 39035118900
+- Tract 1990: 39035118900
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 198018
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 3
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

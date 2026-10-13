@@ -1,0 +1,85 @@
+# Project: GARDEN WALK OF DECATUR FKA SOUTHGATE (ARA20110810)
+
+- HUD ID: ARA20110810
+- HUD ID before: 
+- Project: GARDEN WALK OF DECATUR FKA SOUTHGATE
+- Address: 1251 STADIUM DR
+- City: DECATUR
+- State: AR
+- ZIP: 72722
+- ZIP extension: 
+- State project ID: AR-90-20
+- Latitude: 36.331754
+- Longitude: -94.448477
+- County FIPS: 05007
+- County from: 2020
+- Tract 2020: 05007021305
+- Tract 2010: 05007021305
+- Tract 2000: 05007021302
+- Tract 1990: 05007021302
+- Place 2020: 17740
+- Place 2010: 17740
+- Place 2000: 05320
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 5000
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2011005. FKA SOUTHGATE
+- Record status: Existing, unchanged

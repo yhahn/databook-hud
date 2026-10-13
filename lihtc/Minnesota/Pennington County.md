@@ -1,0 +1,24 @@
+# Tax Credit Projects: Pennington County, MN
+
+- Level: County
+- Postal code: MN
+- State FIPS: 27
+- County FIPS: 27113
+- Counties: 
+- Projects: 7
+- Units: 257
+- Low-income units: 252
+
+The low-income housing tax credit projects of Pennington County, Minnesota, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [PIONEER COURT (MNA19950115)](./Pennington%20County/PIONEER%20COURT%20%28MNA19950115%29.md) | MNA19950115 | THIEF RIVER FALLS | 1995 | 24 | 24 |
+| [SOUTHWOOD PARK TOWNHOMES (MNA19979009)](./Pennington%20County/SOUTHWOOD%20PARK%20TOWNHOMES%20%28MNA19979009%29.md) | MNA19979009 | THIEF RIVER FALLS | 1997 | 12 | 11 |
+| [SHERWOOD PARK TOWNHOMES (MNA20019006)](./Pennington%20County/SHERWOOD%20PARK%20TOWNHOMES%20%28MNA20019006%29.md) | MNA20019006 | THIEF RIVER FALLS | 2001 | 18 | 17 |
+| [NORTHLAND VILLAGE (MNA20029002)](./Pennington%20County/NORTHLAND%20VILLAGE%20%28MNA20029002%29.md) | MNA20029002 | THIEF RIVER FALLS | 2002 | 87 | 86 |
+| [RIVERSIDE TERRACE (MNA20120803)](./Pennington%20County/RIVERSIDE%20TERRACE%20%28MNA20120803%29.md) | MNA20120803 | THIEF RIVER FALLS | 2012 | 66 | 66 |
+| [GREENWOOD TERRACE (MNA20154004)](./Pennington%20County/GREENWOOD%20TERRACE%20%28MNA20154004%29.md) | MNA20154004 | THIEF RIVER FALLS | 2015 | 26 | 25 |
+| [RIVER POINTE TOWNHOMES (MNA20160006)](./Pennington%20County/RIVER%20POINTE%20TOWNHOMES%20%28MNA20160006%29.md) | MNA20160006 | THIEF RIVER FALLS | 2016 | 24 | 23 |

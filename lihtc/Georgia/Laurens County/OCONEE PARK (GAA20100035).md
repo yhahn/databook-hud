@@ -1,0 +1,85 @@
+# Project: OCONEE PARK (GAA20100035)
+
+- HUD ID: GAA20100035
+- HUD ID before: 
+- Project: OCONEE PARK
+- Address: 200 RIVERVIEW DR
+- City: DUBLIN
+- State: GA
+- ZIP: 31021
+- ZIP extension: 
+- State project ID: GA-08-068
+- Latitude: 32.517307
+- Longitude: -82.897173
+- County FIPS: 13175
+- County from: 2020
+- Tract 2020: 13175950900
+- Tract 2010: 13175950900
+- Tract 2000: 13175950900
+- Tract 1990: 13175950900
+- Place 2020: 24376
+- Place 2010: 24376
+- Place 2000: 24376
+- Place 1990: 0900
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 117
+- Low-income units: 117
+- Units reported: 117
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA RIVERVIEW HEIGHTS
+- Record status: Existing, unchanged

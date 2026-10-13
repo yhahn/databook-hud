@@ -1,0 +1,85 @@
+# Project: VAUGHN RESIDENCES @ MURPHY PARK PHASE III (MOA20030170)
+
+- HUD ID: MOA20030170
+- HUD ID before: 
+- Project: VAUGHN RESIDENCES @ MURPHY PARK PHASE III
+- Address: 2034 MADISON ST
+- City: ST LOUIS
+- State: MO
+- ZIP: 63106
+- ZIP extension: 
+- State project ID: 01-259
+- Latitude: 38.646388
+- Longitude: -90.205879
+- County FIPS: 29510
+- County from: 2020
+- Tract 2020: 29510127100
+- Tract 2010: 29510127100
+- Tract 2000: 29510120300
+- Tract 1990: 29510120300
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 126
+- Low-income units: 81
+- Units reported: 126
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 50
+- 3-bedroom units: 64
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VAUGHN RESIDENCES AT MURPHY PARK.
+- Record status: Existing, unchanged

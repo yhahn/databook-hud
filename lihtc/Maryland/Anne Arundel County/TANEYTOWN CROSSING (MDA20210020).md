@@ -1,0 +1,85 @@
+# Project: TANEYTOWN CROSSING (MDA20210020)
+
+- HUD ID: MDA20210020
+- HUD ID before: 
+- Project: TANEYTOWN CROSSING
+- Address: HARNEY ROAD AND WESTVIEW DRIVE
+- City: TANEYTOWN
+- State: MD
+- ZIP: 21403
+- ZIP extension: 
+- State project ID: MD-20-05001
+- Latitude: 38.9672
+- Longitude: -76.483
+- County FIPS: 24003
+- County from: 2020
+- Tract 2020: 24003706302
+- Tract 2010: 24003706302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 01600
+- Place 2010: 01600
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1394159
+- Units: 36
+- Low-income units: 32
+- Units reported: 36
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 6
+- 2-bedroom units: 26
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

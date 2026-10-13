@@ -1,0 +1,85 @@
+# Project: CLEVELAND NEW CONSTRUCTION III (OHA20069758)
+
+- HUD ID: OHA20069758
+- HUD ID before: 
+- Project: CLEVELAND NEW CONSTRUCTION III
+- Address: 1358 E 111TH ST
+- City: CLEVELAND
+- State: OH
+- ZIP: 44106
+- ZIP extension: 
+- State project ID: 010055
+- Latitude: 41.520795
+- Longitude: -81.608596
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035118301
+- Tract 2010: 39035118301
+- Tract 2000: 39035118300
+- Tract 1990: 39035118300
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 626066
+- Units: 81
+- Low-income units: 81
+- Units reported: 81
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 0
+- 3-bedroom units: 35
+- 4-bedroom units: 40
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003036. AKA CLEVELAND NEW CONSTRUCT III.
+- Record status: Existing, unchanged

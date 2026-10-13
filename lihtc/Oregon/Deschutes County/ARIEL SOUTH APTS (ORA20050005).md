@@ -1,0 +1,85 @@
+# Project: ARIEL SOUTH APTS (ORA20050005)
+
+- HUD ID: ORA20050005
+- HUD ID before: 
+- Project: ARIEL SOUTH APTS
+- Address: 1707 SE TEMPEST DR
+- City: BEND
+- State: OR
+- ZIP: 97702
+- ZIP extension: 
+- State project ID: 2500
+- Latitude: 44.045819
+- Longitude: -121.280081
+- County FIPS: 41017
+- County from: 2020
+- Tract 2020: 41017001802
+- Tract 2010: 41017001800
+- Tract 2000: 41017991702
+- Tract 1990: 41017991700
+- Place 2020: 05800
+- Place 2010: 05800
+- Place 2000: 05800
+- Place 1990: 0100
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 272230
+- Units: 97
+- Low-income units: 97
+- Units reported: 97
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 97
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

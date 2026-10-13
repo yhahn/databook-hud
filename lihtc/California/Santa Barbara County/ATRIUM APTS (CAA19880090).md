@@ -1,0 +1,85 @@
+# Project: ATRIUM APTS (CAA19880090)
+
+- HUD ID: CAA19880090
+- HUD ID before: 
+- Project: ATRIUM APTS
+- Address: 4667 CARPINTERIA AVE
+- City: CARPINTERIA
+- State: CA
+- ZIP: 93013
+- ZIP extension: 
+- State project ID: CA-88-051
+- Latitude: 34.401384
+- Longitude: -119.523176
+- County FIPS: 06083
+- County from: 2020
+- Tract 2020: 06083001604
+- Tract 2010: 06083001604
+- Tract 2000: 06083001602
+- Tract 1990: 06083001602
+- Place 2020: 11446
+- Place 2010: 11446
+- Place 2000: 11446
+- Place 1990: 0433
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 53924
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0000290. AKA ATRIUM APTS INC.
+- Record status: Existing, unchanged

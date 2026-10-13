@@ -1,0 +1,85 @@
+# Project: LOMA MARIPOSA APTS II (AZA20040035)
+
+- HUD ID: AZA20040035
+- HUD ID before: 
+- Project: LOMA MARIPOSA APTS II
+- Address: 1830 N LOMA MARIPOSA RD
+- City: NOGALES
+- State: AZ
+- ZIP: 85621
+- ZIP extension: 
+- State project ID: TC-0234
+- Latitude: 31.364793
+- Longitude: -110.959517
+- County FIPS: 04023
+- County from: 2020
+- Tract 2020: 04023966200
+- Tract 2010: 04023966200
+- Tract 2000: 04023996200
+- Tract 1990: 04023996200
+- Place 2020: 49640
+- Place 2010: 49640
+- Place 2000: 49640
+- Place 1990: 0235
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 74
+- Units reported: 100
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 50
+- 3-bedroom units: 50
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

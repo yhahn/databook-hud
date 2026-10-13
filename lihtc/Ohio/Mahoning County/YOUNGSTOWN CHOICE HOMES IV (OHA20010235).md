@@ -1,0 +1,85 @@
+# Project: YOUNGSTOWN CHOICE HOMES IV (OHA20010235)
+
+- HUD ID: OHA20010235
+- HUD ID before: 
+- Project: YOUNGSTOWN CHOICE HOMES IV
+- Address: 725 LEXINGTON AVE
+- City: YOUNGSTOWN
+- State: OH
+- ZIP: 44510
+- ZIP extension: 
+- State project ID: 000019
+- Latitude: 41.115674
+- Longitude: -80.661328
+- County FIPS: 39099
+- County from: 2020
+- Tract 2020: 39099814000
+- Tract 2010: 39099814000
+- Tract 2000: 39099803500
+- Tract 1990: 39099803500
+- Place 2020: 88000
+- Place 2010: 88000
+- Place 2000: 88000
+- Place 1990: 4845
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 485681
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 19
+- 4-bedroom units: 19
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SINGLE PARENTS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

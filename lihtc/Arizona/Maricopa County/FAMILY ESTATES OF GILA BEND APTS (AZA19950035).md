@@ -1,0 +1,85 @@
+# Project: FAMILY ESTATES OF GILA BEND APTS (AZA19950035)
+
+- HUD ID: AZA19950035
+- HUD ID before: 
+- Project: FAMILY ESTATES OF GILA BEND APTS
+- Address: 405 N CAPITOL AVE
+- City: GILA BEND
+- State: AZ
+- ZIP: 
+- ZIP extension: 
+- State project ID: AZ-94-0111
+- Latitude: 32.949348
+- Longitude: -112.71602
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013723305
+- Tract 2010: 04013723305
+- Tract 2000: 04013723302
+- Tract 1990: 04013050600
+- Place 2020: 27050
+- Place 2010: 27050
+- Place 2000: 04720
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 23
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000504, AZA0000065.
+- Record status: Existing, unchanged

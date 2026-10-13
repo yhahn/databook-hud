@@ -1,0 +1,85 @@
+# Project: ANTIGUA PLACE PHASE I (GAA20060300)
+
+- HUD ID: GAA20060300
+- HUD ID before: 
+- Project: ANTIGUA PLACE PHASE I
+- Address: 2450 FIFTH AVE SE
+- City: MOULTRIE
+- State: GA
+- ZIP: 31788
+- ZIP extension: 
+- State project ID: GA-04-019
+- Latitude: 31.171556
+- Longitude: -83.755611
+- County FIPS: 13071
+- County from: 2020
+- Tract 2020: 13071970703
+- Tract 2010: 13071970701
+- Tract 2000: 13071970700
+- Tract 1990: 13071970700
+- Place 2020: 53060
+- Place 2010: 53060
+- Place 2000: 53060
+- Place 1990: 1935
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 57
+- Units reported: 72
+- Low-income reported: 57
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

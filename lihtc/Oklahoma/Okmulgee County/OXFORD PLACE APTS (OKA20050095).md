@@ -1,0 +1,85 @@
+# Project: OXFORD PLACE APTS (OKA20050095)
+
+- HUD ID: OKA20050095
+- HUD ID before: 
+- Project: OXFORD PLACE APTS
+- Address: 1551 N OKMULGEE AVE
+- City: OKMULGEE
+- State: OK
+- ZIP: 74447
+- ZIP extension: 
+- State project ID: 040108
+- Latitude: 35.641122
+- Longitude: -95.975097
+- County FIPS: 40111
+- County from: 2020
+- Tract 2020: 40111000200
+- Tract 2010: 40111000200
+- Tract 2000: 40111000200
+- Tract 1990: 40111000200
+- Place 2020: 55150
+- Place 2010: 55150
+- Place 2000: 55150
+- Place 1990: 1820
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUPERIOR VIEW COTTAGES (WIA20240013)
+
+- HUD ID: WIA20240013
+- HUD ID before: 
+- Project: SUPERIOR VIEW COTTAGES
+- Address: 2203, 2205, 2207, 2209, 2211 6TH ST E
+- City: ASHLAND
+- State: WI
+- ZIP: 54806
+- ZIP extension: 
+- State project ID: WI-24-53361
+- Latitude: 46.5761
+- Longitude: -90.9085
+- County FIPS: 55003
+- County from: 2020
+- Tract 2020: 55003950800
+- Tract 2010: 55003950400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 03225
+- Place 2010: 03225
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 16
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

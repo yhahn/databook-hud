@@ -1,0 +1,85 @@
+# Project: KINGS ROW APTS (TXA20040155)
+
+- HUD ID: TXA20040155
+- HUD ID before: 
+- Project: KINGS ROW APTS
+- Address: 4141 BARBERRY DR
+- City: HOUSTON
+- State: TX
+- ZIP: 77051
+- ZIP extension: 
+- State project ID: TX0266
+- Latitude: 29.651809
+- Longitude: -95.366337
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201331400
+- Tract 2010: 48201331400
+- Tract 2000: 48201331400
+- Tract 1990: 48201033903
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 54
+- 3-bedroom units: 82
+- 4-bedroom units: 24
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA1988550.
+- Record status: Existing, unchanged

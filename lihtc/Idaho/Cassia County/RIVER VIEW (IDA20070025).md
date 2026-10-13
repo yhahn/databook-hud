@@ -1,0 +1,85 @@
+# Project: RIVER VIEW (IDA20070025)
+
+- HUD ID: IDA20070025
+- HUD ID before: 
+- Project: RIVER VIEW
+- Address: 256 WEST 3RD STREET
+- City: BURLEY
+- State: ID
+- ZIP: 83318
+- ZIP extension: 
+- State project ID: HC0609
+- Latitude: 42.550367
+- Longitude: -113.794925
+- County FIPS: 16031
+- County from: 2020
+- Tract 2020: 16031950500
+- Tract 2010: 16031950500
+- Tract 2000: 16067980200
+- Tract 1990: 16031950500
+- Place 2020: 11260
+- Place 2010: 11260
+- Place 2000: 
+- Place 1990: 0110
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 541993
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

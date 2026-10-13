@@ -1,0 +1,85 @@
+# Project: PUTNAM LOFTS (ORA20100085)
+
+- HUD ID: ORA20100085
+- HUD ID before: 
+- Project: PUTNAM LOFTS
+- Address: 750 NW LAVA RD
+- City: BEND
+- State: OR
+- ZIP: 97703
+- ZIP extension: 
+- State project ID: OR10-980
+- Latitude: 44.057458
+- Longitude: -121.311613
+- County FIPS: 41017
+- County from: 2020
+- Tract 2020: 41017001602
+- Tract 2010: 41017001600
+- Tract 2000: 41017991600
+- Tract 1990: 41017991600
+- Place 2020: 05800
+- Place 2010: 05800
+- Place 2000: 05800
+- Place 1990: 0100
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 225000
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

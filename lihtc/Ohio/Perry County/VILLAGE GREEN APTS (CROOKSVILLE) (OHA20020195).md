@@ -1,0 +1,85 @@
+# Project: VILLAGE GREEN APTS (CROOKSVILLE) (OHA20020195)
+
+- HUD ID: OHA20020195
+- HUD ID before: 
+- Project: VILLAGE GREEN APTS (CROOKSVILLE)
+- Address: 1 S STATE ST
+- City: CROOKSVILLE
+- State: OH
+- ZIP: 43731
+- ZIP extension: 
+- State project ID: 000004
+- Latitude: 39.768837
+- Longitude: -82.092235
+- County FIPS: 39127
+- County from: 2020
+- Tract 2020: 39127966000
+- Tract 2010: 39127966000
+- Tract 2000: 39127966000
+- Tract 1990: 39127966000
+- Place 2020: 19456
+- Place 2010: 19456
+- Place 2000: 19456
+- Place 1990: 1050
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 198348
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 451000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

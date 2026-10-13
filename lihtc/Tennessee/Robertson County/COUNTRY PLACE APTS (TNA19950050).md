@@ -1,0 +1,85 @@
+# Project: COUNTRY PLACE APTS (TNA19950050)
+
+- HUD ID: TNA19950050
+- HUD ID before: 
+- Project: COUNTRY PLACE APTS
+- Address: 2599 S MAIN ST
+- City: SPRINGFIELD
+- State: TN
+- ZIP: 37172
+- ZIP extension: 
+- State project ID: TN-95-010
+- Latitude: 36.479519
+- Longitude: -86.893059
+- County FIPS: 47147
+- County from: 2020
+- Tract 2020: 47147080301
+- Tract 2010: 47147080301
+- Tract 2000: 47147080300
+- Tract 1990: 47147080300
+- Place 2020: 70500
+- Place 2010: 70500
+- Place 2000: 70500
+- Place 1990: 1380
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 61713
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 23
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

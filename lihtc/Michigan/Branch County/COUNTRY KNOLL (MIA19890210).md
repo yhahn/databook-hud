@@ -1,0 +1,85 @@
+# Project: COUNTRY KNOLL (MIA19890210)
+
+- HUD ID: MIA19890210
+- HUD ID before: 
+- Project: COUNTRY KNOLL
+- Address: 225 SMITH ST
+- City: COLDWATER
+- State: MI
+- ZIP: 49036
+- ZIP extension: 
+- State project ID: MI-1768
+- Latitude: 41.945118
+- Longitude: -84.985053
+- County FIPS: 26023
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26023951400
+- Tract 2000: 26023950700
+- Tract 1990: 26023950700
+- Place 2020: 
+- Place 2010: 17020
+- Place 2000: 17020
+- Place 1990: 0565
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

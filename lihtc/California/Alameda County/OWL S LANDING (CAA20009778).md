@@ -1,0 +1,85 @@
+# Project: OWL S LANDING (CAA20009778)
+
+- HUD ID: CAA20009778
+- HUD ID before: 
+- Project: OWL S LANDING
+- Address: 860 HERMAN AVE
+- City: LIVERMORE
+- State: CA
+- ZIP: 94551
+- ZIP extension: 
+- State project ID: CA-98-958
+- Latitude: 37.714891
+- Longitude: -121.717669
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001451104
+- Tract 2010: 06001451101
+- Tract 2000: 06001451101
+- Tract 1990: 06001450701
+- Place 2020: 41992
+- Place 2010: 41992
+- Place 2000: 41992
+- Place 1990: 2215
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

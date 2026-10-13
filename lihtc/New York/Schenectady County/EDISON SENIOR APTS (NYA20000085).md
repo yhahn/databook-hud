@@ -1,0 +1,85 @@
+# Project: EDISON SENIOR APTS (NYA20000085)
+
+- HUD ID: NYA20000085
+- HUD ID before: 
+- Project: EDISON SENIOR APTS
+- Address: 1310 PRINCETOWN RD
+- City: ROTTERDAM
+- State: NY
+- ZIP: 12306
+- ZIP extension: 
+- State project ID: 19990108
+- Latitude: 42.80541
+- Longitude: -74.000214
+- County FIPS: 36093
+- County from: 2020
+- Tract 2020: 36093032602
+- Tract 2010: 36093032602
+- Tract 2000: 36093032602
+- Tract 1990: 36093032600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 56764
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

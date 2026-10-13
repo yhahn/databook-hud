@@ -1,0 +1,85 @@
+# Project: WILLIAMSBURG APTS (ILA20110006)
+
+- HUD ID: ILA20110006
+- HUD ID before: 
+- Project: WILLIAMSBURG APTS
+- Address: 6900 W MAIN ST
+- City: BELLEVILLE
+- State: IL
+- ZIP: 62223
+- ZIP extension: 
+- State project ID: 1036310
+- Latitude: 38.556172
+- Longitude: -90.042647
+- County FIPS: 17163
+- County from: 2020
+- Tract 2020: 17163503211
+- Tract 2010: 17163503211
+- Tract 2000: 17163503211
+- Tract 1990: 17163502604
+- Place 2020: 04845
+- Place 2010: 04845
+- Place 2000: 04845
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 192199
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 8
+- 1-bedroom units: 20
+- 2-bedroom units: 41
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4258083
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

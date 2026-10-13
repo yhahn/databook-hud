@@ -1,0 +1,85 @@
+# Project: VILLA ESPERANZA (CAA20080905)
+
+- HUD ID: CAA20080905
+- HUD ID before: 
+- Project: VILLA ESPERANZA
+- Address: 651 E BONITA PL
+- City: CALIPATRIA
+- State: CA
+- ZIP: 92233
+- ZIP extension: 
+- State project ID: CA-07-873
+- Latitude: 33.123362
+- Longitude: -115.502877
+- County FIPS: 06025
+- County from: 2020
+- Tract 2020: 06025010102
+- Tract 2010: 06025010102
+- Tract 2000: 06025010100
+- Tract 1990: 06025010100
+- Place 2020: 09878
+- Place 2010: 09878
+- Place 2000: 09878
+- Place 1990: 0370
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 494673
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 71
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 3400000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

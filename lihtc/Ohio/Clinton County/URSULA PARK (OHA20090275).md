@@ -1,0 +1,85 @@
+# Project: URSULA PARK (OHA20090275)
+
+- HUD ID: OHA20090275
+- HUD ID before: 
+- Project: URSULA PARK
+- Address: 746 S BROADWAY ST
+- City: BLANCHESTER
+- State: OH
+- ZIP: 45107
+- ZIP extension: 
+- State project ID: 090150
+- Latitude: 39.287019
+- Longitude: -83.982168
+- County FIPS: 39027
+- County from: 2020
+- Tract 2020: 39027964900
+- Tract 2010: 39027964900
+- Tract 2000: 39027994900
+- Tract 1990: 39027994900
+- Place 2020: 06908
+- Place 2010: 06908
+- Place 2000: 06908
+- Place 1990: 0420
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 22
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 311098
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1988555. AKA SYLVIA APTS.
+- Record status: Existing, unchanged

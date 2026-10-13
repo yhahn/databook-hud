@@ -1,0 +1,85 @@
+# Project: WILSON SENIOR (ILB20100804)
+
+- HUD ID: ILB20100804
+- HUD ID before: 
+- Project: WILSON SENIOR
+- Address: 1032 W MONTROSE AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60613
+- ZIP extension: 4082
+- State project ID: IL-08-021
+- Latitude: 41.961946
+- Longitude: -87.656116
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031830700
+- Tract 2010: 17031830700
+- Tract 2000: 17031031600
+- Tract 1990: 17031031600
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1200929
+- Units: 98
+- Low-income units: 97
+- Units reported: 98
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 98
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: No
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2010800.
+- Record status: Existing, unchanged

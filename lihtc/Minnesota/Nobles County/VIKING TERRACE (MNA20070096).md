@@ -1,0 +1,85 @@
+# Project: VIKING TERRACE (MNA20070096)
+
+- HUD ID: MNA20070096
+- HUD ID before: 
+- Project: VIKING TERRACE
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: WORTHINGTON
+- State: MN
+- ZIP: 56187
+- ZIP extension: 
+- State project ID: D1782
+- Latitude: 43.6485
+- Longitude: -95.5712
+- County FIPS: 27105
+- County from: 2020
+- Tract 2020: 27105105400
+- Tract 2010: 27105105400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71734
+- Place 2010: 71734
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 51
+- Units reported: 60
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 30
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

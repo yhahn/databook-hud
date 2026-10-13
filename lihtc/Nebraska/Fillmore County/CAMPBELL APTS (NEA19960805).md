@@ -1,0 +1,85 @@
+# Project: CAMPBELL APTS (NEA19960805)
+
+- HUD ID: NEA19960805
+- HUD ID before: 
+- Project: CAMPBELL APTS
+- Address: 108 E CAMPBELL ST
+- City: SHICKLEY
+- State: NE
+- ZIP: 68436
+- ZIP extension: 
+- State project ID: 7-0326
+- Latitude: 40.417379
+- Longitude: -97.723059
+- County FIPS: 31059
+- County from: 2020
+- Tract 2020: 31059091700
+- Tract 2010: 31059091700
+- Tract 2000: 31059991700
+- Tract 1990: 31059991700
+- Place 2020: 45085
+- Place 2010: 45085
+- Place 2000: 18405
+- Place 1990: 0985
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 18222
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA1995020.
+- Record status: Existing, unchanged

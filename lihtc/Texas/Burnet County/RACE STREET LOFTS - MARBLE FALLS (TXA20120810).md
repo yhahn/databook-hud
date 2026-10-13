@@ -1,0 +1,85 @@
+# Project: RACE STREET LOFTS - MARBLE FALLS (TXA20120810)
+
+- HUD ID: TXA20120810
+- HUD ID before: 
+- Project: RACE STREET LOFTS - MARBLE FALLS
+- Address: 1110 BROADWAY ST
+- City: MARBLE FALLS
+- State: TX
+- ZIP: 78654
+- ZIP extension: 
+- State project ID: TX-742610542
+- Latitude: 30.577666
+- Longitude: -98.276978
+- County FIPS: 48053
+- County from: 2020
+- Tract 2020: 48053960701
+- Tract 2010: 48053960700
+- Tract 2000: 48053960700
+- Tract 1990: 48053960700
+- Place 2020: 46584
+- Place 2010: 46584
+- Place 2000: 46584
+- Place 1990: 2660
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000746.
+- Record status: Existing, unchanged

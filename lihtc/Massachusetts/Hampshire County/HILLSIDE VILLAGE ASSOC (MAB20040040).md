@@ -1,0 +1,85 @@
+# Project: HILLSIDE VILLAGE ASSOC (MAB20040040)
+
+- HUD ID: MAB20040040
+- HUD ID before: 
+- Project: HILLSIDE VILLAGE ASSOC
+- Address: 17 CONVENT HILL RD
+- City: WARE
+- State: MA
+- ZIP: 01082
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.267462
+- Longitude: -72.238063
+- County FIPS: 25015
+- County from: 2020
+- Tract 2020: 25015820102
+- Tract 2010: 25015820102
+- Tract 2000: 25015820102
+- Tract 1990: 25015820100
+- Place 2020: 72845
+- Place 2010: 72845
+- Place 2000: 72845
+- Place 1990: 4450
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 46
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

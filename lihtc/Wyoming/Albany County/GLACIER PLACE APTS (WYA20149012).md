@@ -1,0 +1,85 @@
+# Project: GLACIER PLACE APTS (WYA20149012)
+
+- HUD ID: WYA20149012
+- HUD ID before: 
+- Project: GLACIER PLACE APTS
+- Address: 3912 BEECH ST
+- City: LARAMIE
+- State: WY
+- ZIP: 82070
+- ZIP extension: 
+- State project ID: 13-012
+- Latitude: 41.299882
+- Longitude: -105.544386
+- County FIPS: 56001
+- County from: 2020
+- Tract 2020: 56001963700
+- Tract 2010: 56001963700
+- Tract 2000: 56001963700
+- Tract 1990: 56001963700
+- Place 2020: 45050
+- Place 2010: 45050
+- Place 2000: 45050
+- Place 1990: 0250
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 1
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

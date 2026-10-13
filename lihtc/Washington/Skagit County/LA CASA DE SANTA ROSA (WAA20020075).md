@@ -1,0 +1,85 @@
+# Project: LA CASA DE SANTA ROSA (WAA20020075)
+
+- HUD ID: WAA20020075
+- HUD ID before: 
+- Project: LA CASA DE SANTA ROSA
+- Address: 565 SOUTH TOWNSHIP STREET
+- City: SEDRO-WOOLLEY
+- State: WA
+- ZIP: 98273
+- ZIP extension: 
+- State project ID: 00-42
+- Latitude: 48.506634
+- Longitude: -122.225629
+- County FIPS: 53057
+- County from: 2020
+- Tract 2020: 53057951501
+- Tract 2010: 53057951500
+- Tract 2000: 53057951500
+- Tract 1990: 53057951500
+- Place 2020: 63210
+- Place 2010: 63210
+- Place 2000: 63210
+- Place 1990: 1150
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 133710
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 11
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: Farmworkers
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

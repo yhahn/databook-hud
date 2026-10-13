@@ -1,0 +1,85 @@
+# Project: OAK VIEW GARDENS (ORA19939071)
+
+- HUD ID: ORA19939071
+- HUD ID before: 
+- Project: OAK VIEW GARDENS
+- Address: 401 NE ANDERSON ST
+- City: GRANTS PASS
+- State: OR
+- ZIP: 97526
+- ZIP extension: 
+- State project ID: OR92-503
+- Latitude: 42.440157
+- Longitude: -123.313341
+- County FIPS: 41033
+- County from: 2020
+- Tract 2020: 41033360500
+- Tract 2010: 41033360500
+- Tract 2000: 41033360500
+- Tract 1990: 41033360500
+- Place 2020: 30550
+- Place 2010: 30550
+- Place 2000: 30550
+- Place 1990: 0455
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION. AKA CONGREGATE CARE.
+- Record status: Updated

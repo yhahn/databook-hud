@@ -1,0 +1,85 @@
+# Project: OAK MEADOW FAMILY APTS (CAA20120115)
+
+- HUD ID: CAA20120115
+- HUD ID before: 
+- Project: OAK MEADOW FAMILY APTS
+- Address: 69 CAROL LN
+- City: OAKLEY
+- State: CA
+- ZIP: 94561
+- ZIP extension: 
+- State project ID: CA-11-137
+- Latitude: 38.002783
+- Longitude: -121.736292
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013302005
+- Tract 2010: 06013302005
+- Tract 2000: 06013302003
+- Tract 1990: 06013302001
+- Place 2020: 53070
+- Place 2010: 53070
+- Place 2000: 53070
+- Place 1990: 1975
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 802991
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

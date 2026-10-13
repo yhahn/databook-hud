@@ -1,0 +1,85 @@
+# Project: BASS LAKE COURT (MNA19999002)
+
+- HUD ID: MNA19999002
+- HUD ID before: 
+- Project: BASS LAKE COURT
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: NEW HOPE
+- State: MN
+- ZIP: 55428
+- ZIP extension: 
+- State project ID: D2558
+- Latitude: 45.05485
+- Longitude: -93.373495
+- County FIPS: 27053
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27053021502
+- Tract 2000: 27053021502
+- Tract 1990: 27053021502
+- Place 2020: 
+- Place 2010: 45628
+- Place 2000: 14158
+- Place 1990: 2770
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 14
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BASS LAKE COURT TOWNHOMES.
+- Record status: Existing, unchanged

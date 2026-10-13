@@ -1,0 +1,85 @@
+# Project: LIVING SPRINGS (NJA20119047)
+
+- HUD ID: NJA20119047
+- HUD ID before: 
+- Project: LIVING SPRINGS
+- Address: 600 PARKVIEW DR
+- City: DELANCO
+- State: NJ
+- ZIP: 08075
+- ZIP extension: 5260
+- State project ID: 2506-1
+- Latitude: 40.034981
+- Longitude: -74.927589
+- County FIPS: 34005
+- County from: 2020
+- Tract 2020: 34005700800
+- Tract 2010: 34005700800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1750000
+- Units: 100
+- Low-income units: 94
+- Units reported: 100
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

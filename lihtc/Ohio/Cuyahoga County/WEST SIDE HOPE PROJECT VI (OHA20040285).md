@@ -1,0 +1,85 @@
+# Project: WEST SIDE HOPE PROJECT VI (OHA20040285)
+
+- HUD ID: OHA20040285
+- HUD ID before: 
+- Project: WEST SIDE HOPE PROJECT VI
+- Address: 3607 CLINTON AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44113
+- ZIP extension: 
+- State project ID: 02-0062
+- Latitude: 41.487225
+- Longitude: -81.713975
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035103602
+- Tract 2010: 39035103602
+- Tract 2000: 39035103200
+- Tract 1990: 39035103200
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 386788
+- Units: 52
+- Low-income units: 49
+- Units reported: 52
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 251000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

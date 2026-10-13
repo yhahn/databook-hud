@@ -1,0 +1,85 @@
+# Project: SENTINEL PLAZA (AZA20120065)
+
+- HUD ID: AZA20120065
+- HUD ID before: 
+- Project: SENTINEL PLAZA
+- Address: 125 S LINDA AVE
+- City: TUCSON
+- State: AZ
+- ZIP: 85745
+- ZIP extension: 
+- State project ID: TC-0553-10
+- Latitude: 32.220257
+- Longitude: -110.983666
+- County FIPS: 04019
+- County from: 2020
+- Tract 2020: 04019002509
+- Tract 2010: 04019002501
+- Tract 2000: 04019002501
+- Tract 1990: 04019002501
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 0380
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 2688533
+- Units: 143
+- Low-income units: 142
+- Units reported: 143
+- Low-income reported: 142
+- Efficiencies: 0
+- 1-bedroom units: 143
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA NEW ARMORY BUILDING
+- Record status: Existing, unchanged

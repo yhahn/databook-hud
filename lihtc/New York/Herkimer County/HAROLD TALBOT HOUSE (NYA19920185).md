@@ -1,0 +1,85 @@
+# Project: HAROLD TALBOT HOUSE (NYA19920185)
+
+- HUD ID: NYA19920185
+- HUD ID before: 
+- Project: HAROLD TALBOT HOUSE
+- Address: 54 S ST
+- City: WEST WINFIELD
+- State: NY
+- ZIP: 13491
+- ZIP extension: 
+- State project ID: NY-91-0444_00440
+- Latitude: 42.877575
+- Longitude: -75.192468
+- County FIPS: 36043
+- County from: 2020
+- Tract 2020: 36043010100
+- Tract 2010: 36043010100
+- Tract 2000: 36043010100
+- Tract 1990: 36043010100
+- Place 2020: 81292
+- Place 2010: 81292
+- Place 2000: 81292
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

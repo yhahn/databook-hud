@@ -1,0 +1,85 @@
+# Project: HARMONY GREENE (GAA20120080)
+
+- HUD ID: GAA20120080
+- HUD ID before: 
+- Project: HARMONY GREENE
+- Address: 201 HARMONY BLVD
+- City: POOLER
+- State: GA
+- ZIP: 31322
+- ZIP extension: 3626
+- State project ID: GA-10-045
+- Latitude: 32.081641
+- Longitude: -81.26218
+- County FIPS: 13051
+- County from: 2020
+- Tract 2020: 13051010810
+- Tract 2010: 13051010803
+- Tract 2000: 13051010803
+- Tract 1990: 13051010501
+- Place 2020: 62104
+- Place 2010: 62104
+- Place 2000: 62104
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 30
+- 4-bedroom units: 10
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

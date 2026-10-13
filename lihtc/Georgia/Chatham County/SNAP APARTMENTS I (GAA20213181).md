@@ -1,0 +1,85 @@
+# Project: SNAP APARTMENTS I (GAA20213181)
+
+- HUD ID: GAA20213181
+- HUD ID before: 
+- Project: SNAP APARTMENTS I
+- Address: 219A EAST WALDBURG ST
+- City: SAVANNAH
+- State: GA
+- ZIP: 31401
+- ZIP extension: 6718
+- State project ID: 2019-536
+- Latitude: 32.064248
+- Longitude: -81.093426
+- County FIPS: 13051
+- County from: 2020
+- Tract 2020: 13051011900
+- Tract 2010: 13051001500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 86164
+- Units: 233
+- Low-income units: 232
+- Units reported: 233
+- Low-income reported: 232
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: Prev PINs 2002-514, 2002-524, 2002-525, 2002-526, 2002-527, 2002-528
+- Record status: Updated

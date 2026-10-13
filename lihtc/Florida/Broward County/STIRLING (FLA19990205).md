@@ -1,0 +1,85 @@
+# Project: STIRLING (FLA19990205)
+
+- HUD ID: FLA19990205
+- HUD ID before: 
+- Project: STIRLING
+- Address: 7350 STIRLING RD
+- City: DAVIE
+- State: FL
+- ZIP: 33024
+- ZIP extension: 
+- State project ID: 807
+- Latitude: 26.045622
+- Longitude: -80.235736
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011070504
+- Tract 2010: 12011070502
+- Tract 2000: 12011070502
+- Tract 1990: 12011070500
+- Place 2020: 16475
+- Place 2010: 16475
+- Place 2000: 14125
+- Place 1990: 0477
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 489377
+- Units: 147
+- Low-income units: 147
+- Units reported: 147
+- Low-income reported: 147
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 101
+- 3-bedroom units: 46
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1999805.
+- Record status: Existing, unchanged

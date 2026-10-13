@@ -1,0 +1,85 @@
+# Project: RIVERVIEW APTS - TUCKERMAN (ARA19990065)
+
+- HUD ID: ARA19990065
+- HUD ID before: 
+- Project: RIVERVIEW APTS - TUCKERMAN
+- Address: 105 TWIN OAKS DR
+- City: TUCKERMAN
+- State: AR
+- ZIP: 72473
+- ZIP extension: 
+- State project ID: PRAR-98-18
+- Latitude: 35.714801
+- Longitude: -91.211484
+- County FIPS: 05067
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05067480100
+- Tract 2000: 05067980100
+- Tract 1990: 05067980100
+- Place 2020: 
+- Place 2010: 70100
+- Place 2000: 68360
+- Place 1990: 1975
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 52848
+- Units: 25
+- Low-income units: 25
+- Units reported: 24
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

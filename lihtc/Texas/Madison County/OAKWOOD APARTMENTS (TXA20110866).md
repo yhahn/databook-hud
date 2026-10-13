@@ -1,0 +1,85 @@
+# Project: OAKWOOD APARTMENTS (TXA20110866)
+
+- HUD ID: TXA20110866
+- HUD ID before: 
+- Project: OAKWOOD APARTMENTS
+- Address: 701 N MADISON ST
+- City: MADISONVILLE
+- State: TX
+- ZIP: 77864
+- ZIP extension: 
+- State project ID: TX1304
+- Latitude: 30.957313
+- Longitude: -95.917913
+- County FIPS: 48313
+- County from: 2020
+- Tract 2020: 48313000400
+- Tract 2010: 48313000400
+- Tract 2000: 48313980400
+- Tract 1990: 48313980400
+- Place 2020: 45996
+- Place 2010: 45996
+- Place 2000: 45996
+- Place 1990: 2630
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 484863
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2123128
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000440.
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: SANTA RITA APTS (AZA19960075)
+
+- HUD ID: AZA19960075
+- HUD ID before: 
+- Project: SANTA RITA APTS
+- Address: 945 W MANOR DR
+- City: NOGALES
+- State: AZ
+- ZIP: 85621
+- ZIP extension: 
+- State project ID: AZ-94-0099
+- Latitude: 31.360346
+- Longitude: -110.952524
+- County FIPS: 04023
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04023966401
+- Tract 2000: 04023996401
+- Tract 1990: 04023996400
+- Place 2020: 
+- Place 2010: 49640
+- Place 2000: 49640
+- Place 1990: 0235
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

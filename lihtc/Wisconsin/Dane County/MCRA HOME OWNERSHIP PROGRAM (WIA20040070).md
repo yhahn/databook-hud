@@ -1,0 +1,85 @@
+# Project: MCRA HOME OWNERSHIP PROGRAM (WIA20040070)
+
+- HUD ID: WIA20040070
+- HUD ID before: 
+- Project: MCRA HOME OWNERSHIP PROGRAM
+- Address: 41 SCHENK ST
+- City: MADISON
+- State: WI
+- ZIP: 53714
+- ZIP extension: 
+- State project ID: 3099
+- Latitude: 43.097085
+- Longitude: -89.323
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025002700
+- Tract 2010: 55025002700
+- Tract 2000: 55025002700
+- Tract 1990: 55025002700
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 1475
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 5
+- Low-income units: 5
+- Units reported: 5
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TABOR GRAND REVIVAL (COA20140170)
+
+- HUD ID: COA20140170
+- HUD ID before: 
+- Project: TABOR GRAND REVIVAL
+- Address: 711 HARRISON AVE
+- City: LEADVILLE
+- State: CO
+- ZIP: 80461
+- ZIP extension: 
+- State project ID: 2013011
+- Latitude: 39.249823
+- Longitude: -106.292556
+- County FIPS: 08065
+- County from: 2020
+- Tract 2020: 08065961702
+- Tract 2010: 08065961700
+- Tract 2000: 08065961700
+- Tract 1990: 08065961700
+- Place 2020: 44320
+- Place 2010: 44320
+- Place 2000: 44320
+- Place 1990: 0790
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 652836
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 1
+- 1-bedroom units: 20
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

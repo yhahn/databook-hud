@@ -1,0 +1,85 @@
+# Project: ALTURA APARTMENTS (MNA19939002)
+
+- HUD ID: MNA19939002
+- HUD ID before: 
+- Project: ALTURA APARTMENTS
+- Address: 47 GRANDVIEW DR NW
+- City: ALTURA
+- State: MN
+- ZIP: 55910
+- ZIP extension: 
+- State project ID: D0029
+- Latitude: 44.071714
+- Longitude: -91.944954
+- County FIPS: 27169
+- County from: 2020
+- Tract 2020: 27169670102
+- Tract 2010: 27169670100
+- Tract 2000: 27169970100
+- Tract 1990: 27169970100
+- Place 2020: 01234
+- Place 2010: 01234
+- Place 2000: 01234
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

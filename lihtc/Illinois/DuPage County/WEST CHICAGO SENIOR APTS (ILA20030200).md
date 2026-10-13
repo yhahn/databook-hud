@@ -1,0 +1,85 @@
+# Project: WEST CHICAGO SENIOR APTS (ILA20030200)
+
+- HUD ID: ILA20030200
+- HUD ID before: 
+- Project: WEST CHICAGO SENIOR APTS
+- Address: 201 W N AVE
+- City: WEST CHICAGO
+- State: IL
+- ZIP: 60185
+- ZIP extension: 
+- State project ID: 33101
+- Latitude: 41.916161
+- Longitude: -88.212074
+- County FIPS: 17043
+- County from: 2020
+- Tract 2020: 17043841313
+- Tract 2010: 17043841313
+- Tract 2000: 17043841301
+- Tract 1990: 17043841301
+- Place 2020: 80060
+- Place 2010: 80060
+- Place 2000: 04013
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 369197
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 97
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

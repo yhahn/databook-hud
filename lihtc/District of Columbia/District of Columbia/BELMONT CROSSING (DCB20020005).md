@@ -1,0 +1,85 @@
+# Project: BELMONT CROSSING (DCB20020005)
+
+- HUD ID: DCB20020005
+- HUD ID before: 
+- Project: BELMONT CROSSING
+- Address: 4201 SEVENTH ST SE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20032
+- ZIP extension: 
+- State project ID: DCB2002005
+- Latitude: 38.829258
+- Longitude: -76.996399
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001009811
+- Tract 2010: 11001009811
+- Tract 2000: 11001009806
+- Tract 1990: 11001009806
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 273
+- Low-income units: 273
+- Units reported: 273
+- Low-income reported: 273
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA JEFFREY GARDEN.
+- Record status: Existing, unchanged

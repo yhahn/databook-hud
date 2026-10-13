@@ -1,0 +1,85 @@
+# Project: WOODLAWN SENIOR VILLAGE (GAA20010110)
+
+- HUD ID: GAA20010110
+- HUD ID before: 
+- Project: WOODLAWN SENIOR VILLAGE
+- Address: 200 WOODLAWN DR
+- City: DUBLIN
+- State: GA
+- ZIP: 31021
+- ZIP extension: 9200
+- State project ID: GA-99-040
+- Latitude: 32.545245
+- Longitude: -82.920547
+- County FIPS: 13175
+- County from: 2020
+- Tract 2020: 13175950400
+- Tract 2010: 13175950400
+- Tract 2000: 13175950400
+- Tract 1990: 13175950400
+- Place 2020: 24376
+- Place 2010: 24376
+- Place 2000: 24376
+- Place 1990: 0900
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

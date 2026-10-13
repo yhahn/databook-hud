@@ -1,0 +1,85 @@
+# Project: SMITH CORBIN APTS (ILA19940145)
+
+- HUD ID: ILA19940145
+- HUD ID before: 
+- Project: SMITH CORBIN APTS
+- Address: 1413 N LINCOLN DR
+- City: BENTON
+- State: IL
+- ZIP: 62812
+- ZIP extension: 
+- State project ID: TC-93-632
+- Latitude: 38.010819
+- Longitude: -88.918473
+- County FIPS: 17055
+- County from: 2020
+- Tract 2020: 17055040500
+- Tract 2010: 17055040500
+- Tract 2000: 17055040500
+- Tract 1990: 17055040500
+- Place 2020: 05300
+- Place 2010: 05300
+- Place 2000: 05300
+- Place 1990: 0480
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 22953
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1993265. AKA MEADOWBROOK APTS.
+- Record status: Existing, unchanged

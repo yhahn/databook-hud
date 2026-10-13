@@ -1,0 +1,85 @@
+# Project: MARIENVILLE WEST APTS (PAA19990140)
+
+- HUD ID: PAA19990140
+- HUD ID before: 
+- Project: MARIENVILLE WEST APTS
+- Address: 100 HEMLOCK LN
+- City: TIONESTA
+- State: PA
+- ZIP: 16353
+- ZIP extension: 
+- State project ID: TC1997-0019
+- Latitude: 41.448344
+- Longitude: -79.557358
+- County FIPS: 42121
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42121201100
+- Tract 2000: 42053980200
+- Tract 1990: 42053980200
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 76848
+- Place 1990: 8238
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 41977
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1998175, PAA1998167, PAA1998500.
+- Record status: Existing, unchanged

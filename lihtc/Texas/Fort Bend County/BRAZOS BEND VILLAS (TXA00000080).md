@@ -1,0 +1,85 @@
+# Project: BRAZOS BEND VILLAS (TXA00000080)
+
+- HUD ID: TXA00000080
+- HUD ID before: 
+- Project: BRAZOS BEND VILLAS
+- Address: 2020 ROCKY FALLS RD
+- City: RICHMOND
+- State: TX
+- ZIP: 77469
+- ZIP extension: 
+- State project ID: 
+- Latitude: 29.583904
+- Longitude: -95.778109
+- County FIPS: 48157
+- County from: 2020
+- Tract 2020: 48157674900
+- Tract 2010: 48157674900
+- Tract 2000: 48157674900
+- Tract 1990: 48157070711
+- Place 2020: 61892
+- Place 2010: 61892
+- Place 2000: 61892
+- Place 1990: 3540
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 48
+- 3-bedroom units: 40
+- 4-bedroom units: 8
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1342069
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 11555478
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BRAZOS BEND HOUSING II.
+- Record status: Existing, unchanged

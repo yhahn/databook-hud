@@ -1,0 +1,85 @@
+# Project: PRAIRIE VILLAGE APTS (WIA19940150)
+
+- HUD ID: WIA19940150
+- HUD ID before: 
+- Project: PRAIRIE VILLAGE APTS
+- Address: 1605 E WELLS ST
+- City: PRAIRIE DU CHIEN
+- State: WI
+- ZIP: 53821
+- ZIP extension: 
+- State project ID: 1825
+- Latitude: 43.040419
+- Longitude: -91.130339
+- County FIPS: 55023
+- County from: 2020
+- Tract 2020: 55023960600
+- Tract 2010: 55023960600
+- Tract 2000: 55023980600
+- Tract 1990: 55023980600
+- Place 2020: 65050
+- Place 2010: 65050
+- Place 2000: 65050
+- Place 1990: 2070
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

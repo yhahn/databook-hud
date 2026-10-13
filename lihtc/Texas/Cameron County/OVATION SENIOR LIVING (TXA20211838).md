@@ -1,0 +1,85 @@
+# Project: OVATION SENIOR LIVING (TXA20211838)
+
+- HUD ID: TXA20211838
+- HUD ID before: 
+- Project: OVATION SENIOR LIVING
+- Address: W OF W LAKESIDE BLVD, S OF EL DORADO AVE
+- City: OLMITO
+- State: TX
+- ZIP: 78575
+- ZIP extension: 
+- State project ID: TX5434
+- Latitude: 26.0478
+- Longitude: -97.5686
+- County FIPS: 48061
+- County from: 2020
+- Tract 2020: 48061012506
+- Tract 2010: 48061012506
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 10768
+- Place 2010: 10768
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 
+- Units: 124
+- Low-income units: 105
+- Units reported: 124
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

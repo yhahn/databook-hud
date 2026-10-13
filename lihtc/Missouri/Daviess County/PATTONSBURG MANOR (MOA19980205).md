@@ -1,0 +1,85 @@
+# Project: PATTONSBURG MANOR (MOA19980205)
+
+- HUD ID: MOA19980205
+- HUD ID before: 
+- Project: PATTONSBURG MANOR
+- Address: 501 CHESTNUT ST
+- City: PATTONSBURG
+- State: MO
+- ZIP: 64670
+- ZIP extension: 
+- State project ID: 97-102
+- Latitude: 40.075566
+- Longitude: -94.104837
+- County FIPS: 29061
+- County from: 2020
+- Tract 2020: 29061470100
+- Tract 2010: 29061470100
+- Tract 2000: 29061970100
+- Tract 1990: 29061970100
+- Place 2020: 56558
+- Place 2010: 56558
+- Place 2000: 00910
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

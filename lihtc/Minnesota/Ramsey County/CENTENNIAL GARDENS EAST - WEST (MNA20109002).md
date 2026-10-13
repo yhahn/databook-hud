@@ -1,0 +1,85 @@
+# Project: CENTENNIAL GARDENS EAST - WEST (MNA20109002)
+
+- HUD ID: MNA20109002
+- HUD ID before: 
+- Project: CENTENNIAL GARDENS EAST - WEST
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: ROSEVILLE
+- State: MN
+- ZIP: 55113
+- ZIP extension: 
+- State project ID: D5968
+- Latitude: 45.026877
+- Longitude: -93.156942
+- County FIPS: 27123
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27123041400
+- Tract 2000: 27123041400
+- Tract 1990: 27123041400
+- Place 2020: 
+- Place 2010: 55852
+- Place 2000: 55852
+- Place 1990: 3290
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 426762
+- Units: 190
+- Low-income units: 144
+- Units reported: 190
+- Low-income reported: 144
+- Efficiencies: 2
+- 1-bedroom units: 91
+- 2-bedroom units: 94
+- 3-bedroom units: 2
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CENTENNIAL COMMONS.
+- Record status: Existing, unchanged

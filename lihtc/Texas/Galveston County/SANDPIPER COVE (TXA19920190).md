@@ -1,0 +1,85 @@
+# Project: SANDPIPER COVE (TXA19920190)
+
+- HUD ID: TXA19920190
+- HUD ID before: 
+- Project: SANDPIPER COVE
+- Address: 3916 WINNIE ST
+- City: GALVESTON
+- State: TX
+- ZIP: 77550
+- ZIP extension: 
+- State project ID: TX0930
+- Latitude: 29.298001
+- Longitude: -94.811855
+- County FIPS: 48167
+- County from: 2020
+- Tract 2020: 48167724600
+- Tract 2010: 48167724600
+- Tract 2000: 48167724600
+- Tract 1990: 48167124000
+- Place 2020: 28068
+- Place 2010: 28068
+- Place 2000: 28068
+- Place 1990: 1570
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 36826
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 92
+- 3-bedroom units: 64
+- 4-bedroom units: 26
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SANDPIPERVE APTS.
+- Record status: Existing, unchanged

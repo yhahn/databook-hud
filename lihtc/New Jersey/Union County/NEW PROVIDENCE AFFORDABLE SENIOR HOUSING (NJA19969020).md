@@ -1,0 +1,85 @@
+# Project: NEW PROVIDENCE AFFORDABLE SENIOR HOUSING (NJA19969020)
+
+- HUD ID: NJA19969020
+- HUD ID before: 
+- Project: NEW PROVIDENCE AFFORDABLE SENIOR HOUSING
+- Address: 101 ACADEMY STREET
+- City: NEW PROVIDENCE
+- State: NJ
+- ZIP: 07974
+- ZIP extension: 
+- State project ID: 01860
+- Latitude: 40.707448
+- Longitude: -74.404419
+- County FIPS: 34039
+- County from: 2020
+- Tract 2020: 34039038104
+- Tract 2010: 34039038102
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51810
+- Place 2010: 51810
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 202013
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

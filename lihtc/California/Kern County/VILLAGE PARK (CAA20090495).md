@@ -1,0 +1,85 @@
+# Project: VILLAGE PARK (CAA20090495)
+
+- HUD ID: CAA20090495
+- HUD ID before: 
+- Project: VILLAGE PARK
+- Address: 2300 R ST
+- City: BAKERSFIELD
+- State: CA
+- ZIP: 93301
+- ZIP extension: 
+- State project ID: CA-07-095
+- Latitude: 35.380019
+- Longitude: -119.009271
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029001600
+- Tract 2010: 06029001600
+- Tract 2000: 06029001600
+- Tract 1990: 06029001600
+- Place 2020: 03526
+- Place 2010: 03526
+- Place 2000: 03526
+- Place 1990: 0180
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 812476
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 42
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VILLAGE PARK SENIOR APTS.
+- Record status: Existing, unchanged

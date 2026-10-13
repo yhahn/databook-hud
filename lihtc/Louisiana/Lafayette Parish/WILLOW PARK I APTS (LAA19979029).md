@@ -1,0 +1,85 @@
+# Project: WILLOW PARK I APTS (LAA19979029)
+
+- HUD ID: LAA19979029
+- HUD ID before: 
+- Project: WILLOW PARK I APTS
+- Address: 1408 WEST WILLOW
+- City: LAFAYETTE
+- State: LA
+- ZIP: 70501
+- ZIP extension: 0000
+- State project ID: LA-96-024
+- Latitude: 30.244429
+- Longitude: -92.040057
+- County FIPS: 22055
+- County from: 2020
+- Tract 2020: 22055000700
+- Tract 2010: 22055000700
+- Tract 2000: 22055000700
+- Tract 1990: 
+- Place 2020: 40735
+- Place 2010: 40735
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 492152
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1997160.
+- Record status: Existing, unchanged

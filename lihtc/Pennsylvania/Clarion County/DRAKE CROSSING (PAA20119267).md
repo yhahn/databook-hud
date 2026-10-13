@@ -1,0 +1,85 @@
+# Project: DRAKE CROSSING (PAA20119267)
+
+- HUD ID: PAA20119267
+- HUD ID before: 
+- Project: DRAKE CROSSING
+- Address: 429 GRAND AVE EXT
+- City: CLARION
+- State: PA
+- ZIP: 16214
+- ZIP extension: 
+- State project ID: TC20100522
+- Latitude: 41.19732
+- Longitude: -79.373411
+- County FIPS: 42031
+- County from: 2020
+- Tract 2020: 42031160600
+- Tract 2010: 42031160600
+- Tract 2000: 42031990600
+- Tract 1990: 42031990600
+- Place 2020: 13800
+- Place 2010: 13800
+- Place 2000: 13800
+- Place 1990: 1945
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3461137
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

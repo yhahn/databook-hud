@@ -1,0 +1,85 @@
+# Project: GLEN AT VALLEY CREEK (MNB20191011)
+
+- HUD ID: MNB20191011
+- HUD ID before: 
+- Project: GLEN AT VALLEY CREEK
+- Address: 7995 AFTON ROAD
+- City: WOODBURY
+- State: MN
+- ZIP: 55125
+- ZIP extension: 3622
+- State project ID: D7969
+- Latitude: 44.919362
+- Longitude: -92.945255
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163071013
+- Tract 2010: 27163071013
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71428
+- Place 2010: 71428
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 375104
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 503163
+- CDBG: Yes
+- CDBG amount: 356379
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

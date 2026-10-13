@@ -1,0 +1,85 @@
+# Project: WHITE MOUNTAIN VILLAS (AZA20119035)
+
+- HUD ID: AZA20119035
+- HUD ID before: 
+- Project: WHITE MOUNTAIN VILLAS
+- Address: 307 E MCNEIL
+- City: SHOW LOW
+- State: AZ
+- ZIP: 85901
+- ZIP extension: 
+- State project ID: TC-0460
+- Latitude: 34.249432
+- Longitude: -110.03906
+- County FIPS: 04017
+- County from: 2020
+- Tract 2020: 04017961701
+- Tract 2010: 04017961700
+- Tract 2000: 04017961200
+- Tract 1990: 04017961200
+- Place 2020: 66470
+- Place 2010: 66470
+- Place 2000: 55980
+- Place 1990: 0313
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4798340
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

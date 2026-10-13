@@ -1,0 +1,85 @@
+# Project: KENNEDY PLAZA APTS (NYB20110807)
+
+- HUD ID: NYB20110807
+- HUD ID before: 
+- Project: KENNEDY PLAZA APTS
+- Address: 700 CORNELIA ST
+- City: UTICA
+- State: NY
+- ZIP: 13502
+- ZIP extension: 
+- State project ID: 1989
+- Latitude: 43.101685
+- Longitude: -75.23661
+- County FIPS: 36065
+- County from: 2020
+- Tract 2020: 36065020300
+- Tract 2010: 36065020300
+- Tract 2000: 36065020300
+- Tract 1990: 36065020300
+- Place 2020: 76540
+- Place 2010: 76540
+- Place 2000: 76540
+- Place 1990: 3690
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 744706
+- Units: 204
+- Low-income units: 200
+- Units reported: 204
+- Low-income reported: 200
+- Efficiencies: 40
+- 1-bedroom units: 164
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 102
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

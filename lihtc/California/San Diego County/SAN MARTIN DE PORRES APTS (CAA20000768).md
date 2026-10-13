@@ -1,0 +1,85 @@
+# Project: SAN MARTIN DE PORRES APTS (CAA20000768)
+
+- HUD ID: CAA20000768
+- HUD ID before: 
+- Project: SAN MARTIN DE PORRES APTS
+- Address: 9119 JAMACHA RD
+- City: SPRING VALLEY
+- State: CA
+- ZIP: 91977
+- ZIP extension: 
+- State project ID: CA-99-017
+- Latitude: 32.714689
+- Longitude: -117.0023
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073013908
+- Tract 2010: 06073013908
+- Tract 2000: 06073013908
+- Tract 1990: 06073013904
+- Place 2020: 40326
+- Place 2010: 40326
+- Place 2000: 40326
+- Place 1990: 2795
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 219730
+- Units: 116
+- Low-income units: 115
+- Units reported: 116
+- Low-income reported: 115
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 56
+- 3-bedroom units: 40
+- 4-bedroom units: 20
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2000767.
+- Record status: Existing, unchanged

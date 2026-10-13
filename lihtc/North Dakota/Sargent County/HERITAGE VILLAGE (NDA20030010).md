@@ -1,0 +1,85 @@
+# Project: HERITAGE VILLAGE (NDA20030010)
+
+- HUD ID: NDA20030010
+- HUD ID before: 
+- Project: HERITAGE VILLAGE
+- Address: 57 GREENFIELD RD
+- City: MILNOR
+- State: ND
+- ZIP: 58060
+- ZIP extension: 
+- State project ID: TC0203
+- Latitude: 46.254787
+- Longitude: -97.447266
+- County FIPS: 38081
+- County from: 2020
+- Tract 2020: 38081974200
+- Tract 2010: 38081974200
+- Tract 2000: 38081974100
+- Tract 1990: 38081974100
+- Place 2020: 52940
+- Place 2010: 52940
+- Place 2000: 13020
+- Place 1990: 0590
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 38476
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

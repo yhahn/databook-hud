@@ -1,0 +1,85 @@
+# Project: CHELSEA VILLAGE APTS (OHA19950060)
+
+- HUD ID: OHA19950060
+- HUD ID before: 
+- Project: CHELSEA VILLAGE APTS
+- Address: 750 VILLAGE LN
+- City: DEFIANCE
+- State: OH
+- ZIP: 43512
+- ZIP extension: 
+- State project ID: 931052
+- Latitude: 41.262465
+- Longitude: -84.391895
+- County FIPS: 39039
+- County from: 2020
+- Tract 2020: 39039958600
+- Tract 2010: 39039958600
+- Tract 2000: 39039958600
+- Tract 1990: 39039958600
+- Place 2020: 21308
+- Place 2010: 21308
+- Place 2000: 21308
+- Place 1990: 1125
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 292941
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 52
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

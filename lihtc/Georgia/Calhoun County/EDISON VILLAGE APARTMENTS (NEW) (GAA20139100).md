@@ -1,0 +1,85 @@
+# Project: EDISON VILLAGE APARTMENTS (NEW) (GAA20139100)
+
+- HUD ID: GAA20139100
+- HUD ID before: 
+- Project: EDISON VILLAGE APARTMENTS (NEW)
+- Address: 19264 HARTFORD ST
+- City: EDISON
+- State: GA
+- ZIP: 39846
+- ZIP extension: 5658
+- State project ID: 2011-533, 91
+- Latitude: 31.558782
+- Longitude: -84.735195
+- County FIPS: 13037
+- County from: 2020
+- Tract 2020: 13037950200
+- Tract 2010: 13037950200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26448
+- Place 2010: 26448
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 32
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

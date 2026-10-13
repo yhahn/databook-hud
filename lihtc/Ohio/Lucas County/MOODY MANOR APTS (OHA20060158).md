@@ -1,0 +1,85 @@
+# Project: MOODY MANOR APTS (OHA20060158)
+
+- HUD ID: OHA20060158
+- HUD ID before: 
+- Project: MOODY MANOR APTS
+- Address: 2777 KENT ST
+- City: TOLEDO
+- State: OH
+- ZIP: 
+- ZIP extension: 
+- State project ID: 050121
+- Latitude: 41.6675
+- Longitude: -83.548
+- County FIPS: 39095
+- County from: 2020
+- Tract 2020: 39095010500
+- Tract 2010: 39095002200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 118
+- Low-income units: 118
+- Units reported: 118
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 41
+- 3-bedroom units: 35
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006687.
+- Record status: Existing, unchanged

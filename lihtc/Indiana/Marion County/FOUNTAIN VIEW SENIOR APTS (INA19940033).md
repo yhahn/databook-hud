@@ -1,0 +1,85 @@
+# Project: FOUNTAIN VIEW SENIOR APTS (INA19940033)
+
+- HUD ID: INA19940033
+- HUD ID before: 
+- Project: FOUNTAIN VIEW SENIOR APTS
+- Address: 1044 SHELBY ST
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46203
+- ZIP extension: 
+- State project ID: IN-92-08301
+- Latitude: 39.75282
+- Longitude: -86.139979
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097355900
+- Tract 2010: 18097355900
+- Tract 2000: 18097355900
+- Tract 1990: 18097355900
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 1
+- 1-bedroom units: 21
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA1993070. AKA FOUNTAIN BLOCK APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: YALE APTS (MIA20089239)
+
+- HUD ID: MIA20089239
+- HUD ID before: 
+- Project: YALE APTS
+- Address: 375 N ST
+- City: YALE
+- State: MI
+- ZIP: 48097
+- ZIP extension: 
+- State project ID: MI-3404
+- Latitude: 43.130295
+- Longitude: -82.791646
+- County FIPS: 26147
+- County from: 2020
+- Tract 2020: 26147655100
+- Tract 2010: 26147655100
+- Tract 2000: 26147655100
+- Tract 1990: 26147655000
+- Place 2020: 89000
+- Place 2010: 89000
+- Place 2000: 89000
+- Place 1990: 2930
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BIRCHWOOD (AKA20110005)
+
+- HUD ID: AKA20110005
+- HUD ID before: 
+- Project: BIRCHWOOD
+- Address: 16411 HOME PL
+- City: EAGLE RIVER
+- State: AK
+- ZIP: 99577
+- ZIP extension: 
+- State project ID: AK-10-00111
+- Latitude: 61.322884
+- Longitude: -149.576461
+- County FIPS: 02020
+- County from: 2020
+- Tract 2020: 02020000201
+- Tract 2010: 02020000201
+- Tract 2000: 02020000201
+- Tract 1990: 02020000201
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0140
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 270385
+- Units: 57
+- Low-income units: 34
+- Units reported: 57
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 57
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1775000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AKA2011502.
+- Record status: Existing, unchanged

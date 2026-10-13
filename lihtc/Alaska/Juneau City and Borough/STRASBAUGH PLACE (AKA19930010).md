@@ -1,0 +1,85 @@
+# Project: STRASBAUGH PLACE (AKA19930010)
+
+- HUD ID: AKA19930010
+- HUD ID before: 
+- Project: STRASBAUGH PLACE
+- Address: 231 GASTINEAU AVE
+- City: JUNEAU
+- State: AK
+- ZIP: 99801
+- ZIP extension: 
+- State project ID: AK-92-00001
+- Latitude: 58.299681
+- Longitude: -134.402657
+- County FIPS: 02110
+- County from: 2020
+- Tract 2020: 02110000500
+- Tract 2010: 02110000500
+- Tract 2000: 02110000500
+- Tract 1990: 02110976900
+- Place 2020: 36400
+- Place 2010: 36400
+- Place 2000: 36400
+- Place 1990: 1510
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 7
+- Low-income units: 7
+- Units reported: 7
+- Low-income reported: 7
+- Efficiencies: 3
+- 1-bedroom units: 2
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

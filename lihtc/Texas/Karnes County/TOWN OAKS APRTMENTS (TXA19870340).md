@@ -1,0 +1,85 @@
+# Project: TOWN OAKS APRTMENTS (TXA19870340)
+
+- HUD ID: TXA19870340
+- HUD ID before: 
+- Project: TOWN OAKS APRTMENTS
+- Address: 120 WATER ST
+- City: KENEDY
+- State: TX
+- ZIP: 78119
+- ZIP extension: 
+- State project ID: TX6193
+- Latitude: 28.809135
+- Longitude: -97.85829
+- County FIPS: 48255
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48255970300
+- Tract 2000: 48255970300
+- Tract 1990: 48255970300
+- Place 2020: 
+- Place 2010: 38860
+- Place 2000: 38860
+- Place 1990: 2195
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Existing
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

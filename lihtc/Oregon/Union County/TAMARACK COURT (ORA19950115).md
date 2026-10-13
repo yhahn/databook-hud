@@ -1,0 +1,85 @@
+# Project: TAMARACK COURT (ORA19950115)
+
+- HUD ID: ORA19950115
+- HUD ID before: 
+- Project: TAMARACK COURT
+- Address: 1613 21ST ST
+- City: LA GRANDE
+- State: OR
+- ZIP: 97850
+- ZIP extension: 
+- State project ID: X001-065
+- Latitude: 45.327558
+- Longitude: -118.073245
+- County FIPS: 41061
+- County from: 2020
+- Tract 2020: 41061970800
+- Tract 2010: 41061970800
+- Tract 2000: 41061970800
+- Tract 1990: 41061970800
+- Place 2020: 40350
+- Place 2010: 40350
+- Place 2000: 36750
+- Place 1990: 0630
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 87816
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 288000
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

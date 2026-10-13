@@ -1,0 +1,85 @@
+# Project: ASPEN MEADOWS I (INA20020008)
+
+- HUD ID: INA20020008
+- HUD ID before: 
+- Project: ASPEN MEADOWS I
+- Address: 1017 ASPEN DR
+- City: SALEM
+- State: IN
+- ZIP: 47167
+- ZIP extension: 
+- State project ID: IN-00-03300
+- Latitude: 38.594825
+- Longitude: -86.081084
+- County FIPS: 18175
+- County from: 2020
+- Tract 2020: 18175967600
+- Tract 2010: 18175967600
+- Tract 2000: 18175967600
+- Tract 1990: 18175967600
+- Place 2020: 67464
+- Place 2010: 67464
+- Place 2000: 67464
+- Place 1990: 2260
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 183985
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

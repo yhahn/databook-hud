@@ -1,0 +1,85 @@
+# Project: VILLAS DE AMISTAD (CAA20110839)
+
+- HUD ID: CAA20110839
+- HUD ID before: 
+- Project: VILLAS DE AMISTAD
+- Address: 601 E MAIN ST
+- City: STOCKTON
+- State: CA
+- ZIP: 95202
+- ZIP extension: 
+- State project ID: CA-09-504
+- Latitude: 37.953961
+- Longitude: -121.28335
+- County FIPS: 06077
+- County from: 2020
+- Tract 2020: 06077000102
+- Tract 2010: 06077000100
+- Tract 2000: 06077000100
+- Tract 1990: 06077000100
+- Place 2020: 75000
+- Place 2010: 75000
+- Place 2000: 75000
+- Place 1990: 2805
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 91
+- Low-income units: 89
+- Units reported: 91
+- Low-income reported: 89
+- Efficiencies: 91
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 89
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3638754
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

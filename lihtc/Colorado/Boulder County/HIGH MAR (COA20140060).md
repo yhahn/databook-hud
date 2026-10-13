@@ -1,0 +1,85 @@
+# Project: HIGH MAR (COA20140060)
+
+- HUD ID: COA20140060
+- HUD ID before: 
+- Project: HIGH MAR
+- Address: 4990 MOORHEAD AVE
+- City: BOULDER
+- State: CO
+- ZIP: 80305
+- ZIP extension: 
+- State project ID: 2012508
+- Latitude: 39.986896
+- Longitude: -105.237904
+- County FIPS: 08013
+- County from: 2020
+- Tract 2020: 08013012507
+- Tract 2010: 08013012507
+- Tract 2000: 08013012507
+- Tract 1990: 08013012507
+- Place 2020: 07850
+- Place 2010: 07850
+- Place 2000: 07850
+- Place 1990: 0110
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 486644
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

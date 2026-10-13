@@ -1,0 +1,85 @@
+# Project: RIVER RIDGE APTS (OKA20120035)
+
+- HUD ID: OKA20120035
+- HUD ID before: 
+- Project: RIVER RIDGE APTS
+- Address: 5202 S HWY 97
+- City: SAND SPRINGS
+- State: OK
+- ZIP: 74063
+- ZIP extension: 
+- State project ID: 100505
+- Latitude: 36.230517
+- Longitude: -96.113608
+- County FIPS: 40113
+- County from: 2020
+- Tract 2020: 40113940007
+- Tract 2010: 40113940007
+- Tract 2000: 40143009402
+- Tract 1990: 40143009400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 65300
+- Place 1990: 2125
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 57
+- Low-income units: 56
+- Units reported: 57
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 27
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

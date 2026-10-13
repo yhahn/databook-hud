@@ -1,0 +1,85 @@
+# Project: DRAKE APARTMENTS (MNA20181021)
+
+- HUD ID: MNA20181021
+- HUD ID before: 
+- Project: DRAKE APARTMENTS
+- Address: 10021 DRAKE ST NW
+- City: COON RAPIDS
+- State: MN
+- ZIP: 55433
+- ZIP extension: 
+- State project ID: D3103
+- Latitude: 45.152419
+- Longitude: -93.308564
+- County FIPS: 27003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27003050606
+- Tract 2000: 27003050606
+- Tract 1990: 27003050606
+- Place 2020: 
+- Place 2010: 13114
+- Place 2000: 13114
+- Place 1990: 0820
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CORTLAND ESTATES (ILA19980045)
+
+- HUD ID: ILA19980045
+- HUD ID before: 
+- Project: CORTLAND ESTATES
+- Address: 230 MCMILLAN CT
+- City: CORTLAND
+- State: IL
+- ZIP: 60112
+- ZIP extension: 
+- State project ID: 97696
+- Latitude: 41.934883
+- Longitude: -88.697288
+- County FIPS: 17037
+- County from: 2020
+- Tract 2020: 17037000800
+- Tract 2010: 17037000800
+- Tract 2000: 17037000800
+- Tract 1990: 17037000800
+- Place 2020: 16470
+- Place 2010: 16470
+- Place 2000: 16470
+- Place 1990: 1435
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 788243
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

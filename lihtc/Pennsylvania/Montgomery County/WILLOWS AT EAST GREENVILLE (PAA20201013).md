@@ -1,0 +1,85 @@
+# Project: WILLOWS AT EAST GREENVILLE (PAA20201013)
+
+- HUD ID: PAA20201013
+- HUD ID before: 
+- Project: WILLOWS AT EAST GREENVILLE
+- Address: 401 W 4TH ST
+- City: EAST GREENVILLE
+- State: PA
+- ZIP: 18041
+- ZIP extension: 1705
+- State project ID: TC20180458
+- Latitude: 40.405546
+- Longitude: -75.507094
+- County FIPS: 42091
+- County from: 2020
+- Tract 2020: 42091208100
+- Tract 2010: 42091208100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 21200
+- Place 2010: 21200
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 1200000
+- Units: 71
+- Low-income units: 59
+- Units reported: 71
+- Low-income reported: 59
+- Efficiencies: 2
+- 1-bedroom units: 20
+- 2-bedroom units: 33
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 59
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 2046561
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: WEDGEWOOD APARTMENTS (NCA20100245)
+
+- HUD ID: NCA20100245
+- HUD ID before: 
+- Project: WEDGEWOOD APARTMENTS
+- Address: 725 DR MARTIN LUTHER KING JR AVENUE
+- City: EDENTON
+- State: NC
+- ZIP: 27932
+- ZIP extension: 
+- State project ID: 9102466
+- Latitude: 36.066877
+- Longitude: -76.62334
+- County FIPS: 37041
+- County from: 2020
+- Tract 2020: 37041930101
+- Tract 2010: 37041930101
+- Tract 2000: 37041990100
+- Tract 1990: 37041990100
+- Place 2020: 20120
+- Place 2010: 20120
+- Place 2000: 20120
+- Place 1990: 0795
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 27
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 6393996
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

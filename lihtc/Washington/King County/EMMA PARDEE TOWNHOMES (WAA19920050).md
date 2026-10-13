@@ -1,0 +1,85 @@
+# Project: EMMA PARDEE TOWNHOMES (WAA19920050)
+
+- HUD ID: WAA19920050
+- HUD ID before: 
+- Project: EMMA PARDEE TOWNHOMES
+- Address: 1630 14TH AVE
+- City: SEATTLE
+- State: WA
+- ZIP: 98122
+- ZIP extension: 
+- State project ID: 91-13D
+- Latitude: 47.615625
+- Longitude: -122.313996
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033007502
+- Tract 2010: 53033007500
+- Tract 2000: 53033007500
+- Tract 1990: 53033007500
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 1140
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 53968
+- Units: 9
+- Low-income units: 8
+- Units reported: 9
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 6
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

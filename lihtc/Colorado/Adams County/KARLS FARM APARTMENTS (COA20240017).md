@@ -1,0 +1,85 @@
+# Project: KARLS FARM APARTMENTS (COA20240017)
+
+- HUD ID: COA20240017
+- HUD ID before: 
+- Project: KARLS FARM APARTMENTS
+- Address: 1601 E 121ST AVE
+- City: NORTHGLENN
+- State: CO
+- ZIP: 80241
+- ZIP extension: 
+- State project ID: CO-24-17
+- Latitude: 39.935
+- Longitude: -104.9522
+- County FIPS: 08001
+- County from: 2020
+- Tract 2020: 08001008555
+- Tract 2010: 08001008545
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 54330
+- Place 2010: 77290
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2056080
+- Units: 164
+- Low-income units: 162
+- Units reported: 164
+- Low-income reported: 162
+- Efficiencies: 35
+- 1-bedroom units: 96
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

@@ -1,0 +1,85 @@
+# Project: SOUTHWEST KANSAS FAMILY HOUSING (KSA20203013)
+
+- HUD ID: KSA20203013
+- HUD ID before: 
+- Project: SOUTHWEST KANSAS FAMILY HOUSING
+- Address: 207 LEAWOOD AVENUE
+- City: GARDEN CITY
+- State: KS
+- ZIP: 67846
+- ZIP extension: 
+- State project ID: KS-19-68141
+- Latitude: 37.9831
+- Longitude: -100.8701
+- County FIPS: 20055
+- County from: 2020
+- Tract 2020: 20055960200
+- Tract 2010: 20055960200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 25325
+- Place 2010: 25325
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 626148
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NEW YORKER APTS (CAA19960231)
+
+- HUD ID: CAA19960231
+- HUD ID before: 
+- Project: NEW YORKER APTS
+- Address: 13951 MOORPARK ST
+- City: SHERMAN OAKS
+- State: CA
+- ZIP: 91423
+- ZIP extension: 
+- State project ID: CA-97-964
+- Latitude: 34.150516
+- Longitude: -118.437131
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037141201
+- Tract 2010: 06037141201
+- Tract 2000: 06037141200
+- Tract 1990: 06037141200
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 13908
+- Units: 34
+- Low-income units: 8
+- Units reported: 34
+- Low-income reported: 8
+- Efficiencies: 1
+- 1-bedroom units: 5
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

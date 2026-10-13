@@ -1,0 +1,85 @@
+# Project: PECAN GROVE HOMES PHASE I (GAA20060375)
+
+- HUD ID: GAA20060375
+- HUD ID before: 
+- Project: PECAN GROVE HOMES PHASE I
+- Address: 100 PECAN GROVE DR
+- City: WAYNESBORO
+- State: GA
+- ZIP: 30830
+- ZIP extension: 
+- State project ID: 2002-053
+- Latitude: 33.091125
+- Longitude: -82.02677
+- County FIPS: 13033
+- County from: 2020
+- Tract 2020: 13033950400
+- Tract 2010: 13033950400
+- Tract 2000: 13033950400
+- Tract 1990: 13033950400
+- Place 2020: 80984
+- Place 2010: 80984
+- Place 2000: 80984
+- Place 1990: 3005
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 304575
+- Units: 40
+- Low-income units: 32
+- Units reported: 40
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PECAN GROVE I.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WARREN MANOR (ARA20000716)
+
+- HUD ID: ARA20000716
+- HUD ID before: 
+- Project: WARREN MANOR
+- Address: 433 BURNETT RD
+- City: WARREN
+- State: AR
+- ZIP: 71671
+- ZIP extension: 
+- State project ID: AR-99-12
+- Latitude: 33.620918
+- Longitude: -92.088912
+- County FIPS: 05011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05011950200
+- Tract 2000: 05011950200
+- Tract 1990: 05011950200
+- Place 2020: 
+- Place 2010: 73310
+- Place 2000: 73310
+- Place 1990: 2060
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 144424
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 2
+- 1-bedroom units: 1
+- 2-bedroom units: 15
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2000028.
+- Record status: Existing, unchanged

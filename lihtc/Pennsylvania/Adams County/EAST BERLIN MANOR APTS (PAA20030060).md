@@ -1,0 +1,85 @@
+# Project: EAST BERLIN MANOR APTS (PAA20030060)
+
+- HUD ID: PAA20030060
+- HUD ID before: 
+- Project: EAST BERLIN MANOR APTS
+- Address: 407 ABBOTTSTOWN ST
+- City: EAST BERLIN
+- State: PA
+- ZIP: 17316
+- ZIP extension: 
+- State project ID: TC20030301
+- Latitude: 39.932601
+- Longitude: -76.9801
+- County FIPS: 42001
+- County from: 2020
+- Tract 2020: 42001030802
+- Tract 2010: 42001030800
+- Tract 2000: 42001030800
+- Tract 1990: 42001030800
+- Place 2020: 20792
+- Place 2010: 20792
+- Place 2000: 00116
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 40851
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

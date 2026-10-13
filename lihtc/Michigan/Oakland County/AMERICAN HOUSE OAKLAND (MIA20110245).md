@@ -1,0 +1,85 @@
+# Project: AMERICAN HOUSE OAKLAND (MIA20110245)
+
+- HUD ID: MIA20110245
+- HUD ID before: 
+- Project: AMERICAN HOUSE OAKLAND
+- Address: 1915 BALDWIN AVE
+- City: PONTIAC
+- State: MI
+- ZIP: 48340
+- ZIP extension: 
+- State project ID: MI-755
+- Latitude: 42.684033
+- Longitude: -83.302815
+- County FIPS: 26125
+- County from: 2020
+- Tract 2020: 26125141100
+- Tract 2010: 26125141100
+- Tract 2000: 26125141100
+- Tract 1990: 26125141100
+- Place 2020: 65440
+- Place 2010: 65440
+- Place 2000: 65440
+- Place 1990: 2200
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 393124
+- Units: 160
+- Low-income units: 33
+- Units reported: 160
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1990310.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CROSSWINDS AT HUDSON (NYA20080090)
+
+- HUD ID: NYA20080090
+- HUD ID before: 
+- Project: CROSSWINDS AT HUDSON
+- Address: 100 HARRY HOWARD AVE
+- City: HUDSON
+- State: NY
+- ZIP: 12534
+- ZIP extension: 
+- State project ID: 20060118
+- Latitude: 42.254687
+- Longitude: -73.7789
+- County FIPS: 36021
+- County from: 2020
+- Tract 2020: 36021001200
+- Tract 2010: 36021001200
+- Tract 2000: 36021991200
+- Tract 1990: 36021991200
+- Place 2020: 35969
+- Place 2010: 35969
+- Place 2000: 35969
+- Place 1990: 1680
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 999876
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 34
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

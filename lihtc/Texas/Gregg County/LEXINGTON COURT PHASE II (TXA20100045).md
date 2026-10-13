@@ -1,0 +1,85 @@
+# Project: LEXINGTON COURT PHASE II (TXA20100045)
+
+- HUD ID: TXA20100045
+- HUD ID before: 
+- Project: LEXINGTON COURT PHASE II
+- Address: 2905 LEXINGTON PKWY
+- City: KILGORE
+- State: TX
+- ZIP: 75662
+- ZIP extension: 
+- State project ID: TX4543
+- Latitude: 32.416812
+- Longitude: -94.846664
+- County FIPS: 48183
+- County from: 2020
+- Tract 2020: 48183010700
+- Tract 2010: 48183010700
+- Tract 2000: 48183010700
+- Tract 1990: 48183010700
+- Place 2020: 39124
+- Place 2010: 39124
+- Place 2000: 39124
+- Place 1990: 2220
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 36
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2600000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

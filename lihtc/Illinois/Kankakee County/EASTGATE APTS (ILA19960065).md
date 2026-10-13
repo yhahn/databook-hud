@@ -1,0 +1,85 @@
+# Project: EASTGATE APTS (ILA19960065)
+
+- HUD ID: ILA19960065
+- HUD ID before: 
+- Project: EASTGATE APTS
+- Address: 2755 COOPER DR
+- City: KANKAKEE
+- State: IL
+- ZIP: 60901
+- ZIP extension: 
+- State project ID: 69695
+- Latitude: 41.117768
+- Longitude: -87.826939
+- County FIPS: 17091
+- County from: 2020
+- Tract 2020: 17091011400
+- Tract 2010: 17091011400
+- Tract 2000: 17091011400
+- Tract 1990: 17091011400
+- Place 2020: 38934
+- Place 2010: 38934
+- Place 2000: 38934
+- Place 1990: 2915
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 222331
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 4
+- 1-bedroom units: 13
+- 2-bedroom units: 36
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

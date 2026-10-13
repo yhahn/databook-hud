@@ -1,0 +1,85 @@
+# Project: FAMILY TREE APTS (WAA20140987)
+
+- HUD ID: WAA20140987
+- HUD ID before: 
+- Project: FAMILY TREE APTS
+- Address: 10110 19TH AVE SE
+- City: EVERETT
+- State: WA
+- ZIP: 98208
+- ZIP extension: 
+- State project ID: 92-06JJJ
+- Latitude: 47.906017
+- Longitude: -122.207276
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061041701
+- Tract 2010: 53061041701
+- Tract 2000: 53061041701
+- Tract 1990: 53061041700
+- Place 2020: 22640
+- Place 2010: 22640
+- Place 2000: 22640
+- Place 1990: 0743
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 988752
+- Units: 150
+- Low-income units: 150
+- Units reported: 149
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 99
+- 3-bedroom units: 29
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA1994150, WAA1993040.
+- Record status: Existing, unchanged

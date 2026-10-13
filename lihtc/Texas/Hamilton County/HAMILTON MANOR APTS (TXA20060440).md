@@ -1,0 +1,85 @@
+# Project: HAMILTON MANOR APTS (TXA20060440)
+
+- HUD ID: TXA20060440
+- HUD ID before: 
+- Project: HAMILTON MANOR APTS
+- Address: 702 S COLLEGE ST
+- City: HAMILTON
+- State: TX
+- ZIP: 76531
+- ZIP extension: 
+- State project ID: TX4302
+- Latitude: 31.698047
+- Longitude: -98.127827
+- County FIPS: 48193
+- County from: 2020
+- Tract 2020: 48193950300
+- Tract 2010: 48193950300
+- Tract 2000: 48193950300
+- Tract 1990: 48193950300
+- Place 2020: 31952
+- Place 2010: 31952
+- Place 2000: 31952
+- Place 1990: 1805
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 58236
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

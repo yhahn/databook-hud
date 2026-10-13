@@ -1,0 +1,85 @@
+# Project: FERNWELL APARTMENTS (MTA19950020)
+
+- HUD ID: MTA19950020
+- HUD ID before: 
+- Project: FERNWELL APARTMENTS
+- Address: 20 4TH AVENUE EAST
+- City: KALISPELL
+- State: MT
+- ZIP: 59901
+- ZIP extension: 0000
+- State project ID: 94040
+- Latitude: 48.199398
+- Longitude: -114.308015
+- County FIPS: 30029
+- County from: 2020
+- Tract 2020: 30029001102
+- Tract 2010: 30029001100
+- Tract 2000: 30029001100
+- Tract 1990: 30029001100
+- Place 2020: 40075
+- Place 2010: 40075
+- Place 2000: 40075
+- Place 1990: 0375
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 134414
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 22
+- 1-bedroom units: 13
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 51
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

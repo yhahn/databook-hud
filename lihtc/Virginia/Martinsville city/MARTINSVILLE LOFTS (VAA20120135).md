@@ -1,0 +1,85 @@
+# Project: MARTINSVILLE LOFTS (VAA20120135)
+
+- HUD ID: VAA20120135
+- HUD ID before: 
+- Project: MARTINSVILLE LOFTS
+- Address: 900 RIVES RD
+- City: MARTINSVILLE
+- State: VA
+- ZIP: 24112
+- ZIP extension: 
+- State project ID: 1293
+- Latitude: 36.677201
+- Longitude: -79.861342
+- County FIPS: 51690
+- County from: 2020
+- Tract 2020: 51690000300
+- Tract 2010: 51690000300
+- Tract 2000: 51690000500
+- Tract 1990: 51690000500
+- Place 2020: 49784
+- Place 2010: 49784
+- Place 2000: 49784
+- Place 1990: 0795
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 315305
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 34
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 60
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 3401537
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

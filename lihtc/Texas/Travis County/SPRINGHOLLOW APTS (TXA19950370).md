@@ -1,0 +1,85 @@
+# Project: SPRINGHOLLOW APTS (TXA19950370)
+
+- HUD ID: TXA19950370
+- HUD ID before: 
+- Project: SPRINGHOLLOW APTS
+- Address: 4803 LOYOLA LN
+- City: AUSTIN
+- State: TX
+- ZIP: 78723
+- ZIP extension: 
+- State project ID: TX1259
+- Latitude: 30.308225
+- Longitude: -97.66609
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453002108
+- Tract 2010: 48453002108
+- Tract 2000: 48453002108
+- Tract 1990: 48453002108
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0210
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 98
+- Low-income units: 98
+- Units reported: 98
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 98
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

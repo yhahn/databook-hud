@@ -1,0 +1,85 @@
+# Project: PLAINFIELD TOWER WEST (NJA20089054)
+
+- HUD ID: NJA20089054
+- HUD ID before: 
+- Project: PLAINFIELD TOWER WEST
+- Address: 601-635 WEST 7TH STREET
+- City: PLAINFIELD CITY
+- State: NJ
+- ZIP: 07060
+- ZIP extension: 
+- State project ID: 2276
+- Latitude: 40.608988
+- Longitude: -74.423955
+- County FIPS: 34039
+- County from: 2020
+- Tract 2020: 34039039600
+- Tract 2010: 34039039600
+- Tract 2000: 34039039600
+- Tract 1990: 34039039600
+- Place 2020: 59190
+- Place 2010: 59190
+- Place 2000: 59190
+- Place 1990: 3205
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 239603
+- Units: 154
+- Low-income units: 154
+- Units reported: 154
+- Low-income reported: 154
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PLAINFIELD CIT.
+- Record status: Existing, unchanged

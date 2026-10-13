@@ -1,0 +1,85 @@
+# Project: ROYAL GARDENS MINERAL WELLS (TXA20163058)
+
+- HUD ID: TXA20163058
+- HUD ID before: 
+- Project: ROYAL GARDENS MINERAL WELLS
+- Address: 1500 SE MARTIN LUTHER KING JR ST
+- City: MINERAL WELLS
+- State: TX
+- ZIP: 76067
+- ZIP extension: 
+- State project ID: TX4842
+- Latitude: 32.803951
+- Longitude: -98.099621
+- County FIPS: 48363
+- County from: 2020
+- Tract 2020: 48363000700
+- Tract 2010: 48363000700
+- Tract 2000: 48363980700
+- Tract 1990: 
+- Place 2020: 48684
+- Place 2010: 48684
+- Place 2000: 48684
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 280356
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000927;
+- Record status: Existing, unchanged

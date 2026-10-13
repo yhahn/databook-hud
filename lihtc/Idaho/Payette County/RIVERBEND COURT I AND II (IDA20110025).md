@@ -1,0 +1,85 @@
+# Project: RIVERBEND COURT I AND II (IDA20110025)
+
+- HUD ID: IDA20110025
+- HUD ID before: 
+- Project: RIVERBEND COURT I AND II
+- Address: 18 CIRCLE DRIVE
+- City: FRUITLAND
+- State: ID
+- ZIP: 83619
+- ZIP extension: 
+- State project ID: HC0924
+- Latitude: 44.026784
+- Longitude: -116.930949
+- County FIPS: 16075
+- County from: 2020
+- Tract 2020: 16075960302
+- Tract 2010: 16075960300
+- Tract 2000: 16075980300
+- Tract 1990: 16075980300
+- Place 2020: 28990
+- Place 2010: 28990
+- Place 2000: 28990
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 36
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 2465000
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

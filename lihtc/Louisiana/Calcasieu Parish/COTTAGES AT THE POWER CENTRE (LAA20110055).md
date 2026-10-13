@@ -1,0 +1,85 @@
+# Project: COTTAGES AT THE POWER CENTRE (LAA20110055)
+
+- HUD ID: LAA20110055
+- HUD ID before: 
+- Project: COTTAGES AT THE POWER CENTRE
+- Address: POWER CENTRE DRIVE
+- City: LAKE CHARLES
+- State: LA
+- ZIP: 70615
+- ZIP extension: 0000
+- State project ID: LA-08-045
+- Latitude: 30.2219
+- Longitude: -93.1654
+- County FIPS: 22019
+- County from: 2020
+- Tract 2020: 22019001600
+- Tract 2010: 22019001600
+- Tract 2000: 22019001700
+- Tract 1990: 22019001700
+- Place 2020: 41155
+- Place 2010: 41155
+- Place 2000: 41155
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 20070
+- Units: 125
+- Low-income units: 87
+- Units reported: 125
+- Low-income reported: 87
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Family/Special Needs
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COTTAGES AT THE POWER CENTRE.;
+- Record status: Existing, unchanged

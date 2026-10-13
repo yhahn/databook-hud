@@ -1,0 +1,85 @@
+# Project: INTERFAITH APTS (MAB20040045)
+
+- HUD ID: MAB20040045
+- HUD ID before: 
+- Project: INTERFAITH APTS
+- Address: 282 COLUMBUS AVE
+- City: BOSTON
+- State: MA
+- ZIP: 02116
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.346791
+- Longitude: -71.073682
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025070301
+- Tract 2010: 25025070300
+- Tract 2000: 25025070300
+- Tract 1990: 25025070300
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 69
+- Low-income units: 59
+- Units reported: 69
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 20
+- 3-bedroom units: 11
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CREEKSTONE/PHASE II (GAA19990130)
+
+- HUD ID: GAA19990130
+- HUD ID before: 
+- Project: CREEKSTONE/PHASE II
+- Address: 1390 MERCHANTS DR
+- City: DALLAS
+- State: GA
+- ZIP: 30132
+- ZIP extension: 5057
+- State project ID: GA-98-025
+- Latitude: 33.910411
+- Longitude: -84.797243
+- County FIPS: 13223
+- County from: 2020
+- Tract 2020: 13223120305
+- Tract 2010: 13223120302
+- Tract 2000: 13223120300
+- Tract 1990: 13223120300
+- Place 2020: 21324
+- Place 2010: 21324
+- Place 2000: 21324
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 4
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1996045.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WAYNE SR. HSG AKA EDWARD SISCO (NJA20156039)
+
+- HUD ID: NJA20156039
+- HUD ID before: 
+- Project: WAYNE SR. HSG AKA EDWARD SISCO
+- Address: 100 RUNNYMEADE DRIVE
+- City: WAYNE
+- State: NJ
+- ZIP: 07470
+- ZIP extension: 
+- State project ID: 03101
+- Latitude: 40.926328
+- Longitude: -74.229379
+- County FIPS: 34031
+- County from: 2020
+- Tract 2020: 34031246104
+- Tract 2010: 34031246104
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 60810
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 835099
+- Units: 241
+- Low-income units: 241
+- Units reported: 241
+- Low-income reported: 241
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

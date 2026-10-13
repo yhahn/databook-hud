@@ -1,0 +1,85 @@
+# Project: NEWPORT HARBOUR (VAA20220020)
+
+- HUD ID: VAA20220020
+- HUD ID before: 
+- Project: NEWPORT HARBOUR
+- Address: 2325 MADISON AVENUE
+- City: NEWPORT NEWS
+- State: VA
+- ZIP: 23607
+- ZIP extension: 
+- State project ID: 1163
+- Latitude: 36.981335
+- Longitude: -76.417886
+- County FIPS: 51700
+- County from: 2020
+- Tract 2020: 51700030400
+- Tract 2010: 51700030400
+- Tract 2000: 51700030400
+- Tract 1990: 51700030400
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 56000
+- Place 1990: 0860
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1207128
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 66
+- 3-bedroom units: 84
+- 4-bedroom units: 34
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 120
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2003150. AKA WALKER VILLAGE.
+- Record status: Existing, unchanged

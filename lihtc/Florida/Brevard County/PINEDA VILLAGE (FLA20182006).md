@@ -1,0 +1,85 @@
+# Project: PINEDA VILLAGE (FLA20182006)
+
+- HUD ID: FLA20182006
+- HUD ID before: 
+- Project: PINEDA VILLAGE
+- Address: SCATTERED SITES
+- City: COCOA
+- State: FL
+- ZIP: 32922
+- ZIP extension: 
+- State project ID: 2867
+- Latitude: 28.3682
+- Longitude: -80.7461
+- County FIPS: 12009
+- County from: 2020
+- Tract 2020: 12009062301
+- Tract 2010: 12009062301
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 13150
+- Place 2010: 13150
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 1350000
+- Units: 144
+- Low-income units: 137
+- Units reported: 144
+- Low-income reported: 137
+- Efficiencies: 23
+- 1-bedroom units: 46
+- 2-bedroom units: 28
+- 3-bedroom units: 41
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 137
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

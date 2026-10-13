@@ -1,0 +1,85 @@
+# Project: PECKHAM ST REVITALIZATION PROJECT (MAB20000085)
+
+- HUD ID: MAB20000085
+- HUD ID before: 
+- Project: PECKHAM ST REVITALIZATION PROJECT
+- Address: 83 PECKHAM ST
+- City: FALL RIVER
+- State: MA
+- ZIP: 02724
+- ZIP extension: 
+- State project ID: 
+- Latitude: 41.688152
+- Longitude: -71.167204
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005640201
+- Tract 2010: 25005640200
+- Tract 2000: 25005640200
+- Tract 1990: 25005640200
+- Place 2020: 23000
+- Place 2010: 23000
+- Place 2000: 23000
+- Place 1990: 1220
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

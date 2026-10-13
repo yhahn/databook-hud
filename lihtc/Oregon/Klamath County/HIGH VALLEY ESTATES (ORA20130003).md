@@ -1,0 +1,85 @@
+# Project: HIGH VALLEY ESTATES (ORA20130003)
+
+- HUD ID: ORA20130003
+- HUD ID before: 
+- Project: HIGH VALLEY ESTATES
+- Address: 1333 AVALON ST
+- City: KLAMATH FALLS
+- State: OR
+- ZIP: 97603
+- ZIP extension: 
+- State project ID: 1766
+- Latitude: 42.21733
+- Longitude: -121.752107
+- County FIPS: 41035
+- County from: 2020
+- Tract 2020: 41035971600
+- Tract 2010: 41035971600
+- Tract 2000: 41035971600
+- Tract 1990: 41035971600
+- Place 2020: 39700
+- Place 2010: 39700
+- Place 2000: 01850
+- Place 1990: 0620
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 326107
+- Units: 74
+- Low-income units: 74
+- Units reported: 37
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

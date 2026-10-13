@@ -1,0 +1,85 @@
+# Project: VILLAS OF NORTH LITTLE ROCK (ARA20110817)
+
+- HUD ID: ARA20110817
+- HUD ID before: 
+- Project: VILLAS OF NORTH LITTLE ROCK
+- Address: 2601 PERSHING CR
+- City: NORTH LITTLE ROCK
+- State: AR
+- ZIP: 72114
+- ZIP extension: 
+- State project ID: AR-08-14-001
+- Latitude: 34.781582
+- Longitude: -92.284639
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119003002
+- Tract 2010: 05119003002
+- Tract 2000: 05119003000
+- Tract 1990: 05119003000
+- Place 2020: 50450
+- Place 2010: 50450
+- Place 2000: 50450
+- Place 1990: 1475
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 51
+- Low-income units: 41
+- Units reported: 51
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2008784, ARA2008128.
+- Record status: Existing, unchanged

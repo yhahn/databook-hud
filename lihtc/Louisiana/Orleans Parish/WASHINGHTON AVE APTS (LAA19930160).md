@@ -1,0 +1,85 @@
+# Project: WASHINGHTON AVE APTS (LAA19930160)
+
+- HUD ID: LAA19930160
+- HUD ID before: 
+- Project: WASHINGHTON AVE APTS
+- Address: 2033 WASHINGTON AVE
+- City: NEW ORLEANS
+- State: LA
+- ZIP: 70113
+- ZIP extension: 
+- State project ID: LA-93-013
+- Latitude: 29.934602
+- Longitude: -90.088484
+- County FIPS: 22071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22071009200
+- Tract 2000: 22071009200
+- Tract 1990: 22071009200
+- Place 2020: 
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 0956
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1993157. AKA WASHINGTON AVE APTS.
+- Record status: Existing, unchanged

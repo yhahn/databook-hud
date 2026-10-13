@@ -1,0 +1,85 @@
+# Project: WATERFORD APTS PHASE I (ILA19930195)
+
+- HUD ID: ILA19930195
+- HUD ID before: 
+- Project: WATERFORD APTS PHASE I
+- Address: 1503 LORELEI DR
+- City: ZION
+- State: IL
+- ZIP: 60099
+- ZIP extension: 
+- State project ID: 571-92
+- Latitude: 42.466776
+- Longitude: -87.872502
+- County FIPS: 17097
+- County from: 2020
+- Tract 2020: 17097860106
+- Tract 2010: 17097860101
+- Tract 2000: 17097860101
+- Tract 1990: 17097860101
+- Place 2020: 84220
+- Place 2010: 84220
+- Place 2000: 04303
+- Place 1990: 6415
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 631467
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 12
+- 1-bedroom units: 84
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

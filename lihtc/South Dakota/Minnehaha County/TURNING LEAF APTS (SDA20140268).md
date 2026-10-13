@@ -1,0 +1,85 @@
+# Project: TURNING LEAF APTS (SDA20140268)
+
+- HUD ID: SDA20140268
+- HUD ID before: 
+- Project: TURNING LEAF APTS
+- Address: 1313 N CLEVELAND AVE
+- City: SIOUX FALLS
+- State: SD
+- ZIP: 57103
+- ZIP extension: 
+- State project ID: 03111
+- Latitude: 43.56062
+- Longitude: -96.691669
+- County FIPS: 46099
+- County from: 2020
+- Tract 2020: 46099000408
+- Tract 2010: 46099000408
+- Tract 2000: 46099000403
+- Tract 1990: 46099000403
+- Place 2020: 59020
+- Place 2010: 59020
+- Place 2000: 59020
+- Place 1990: 1225
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 167435
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

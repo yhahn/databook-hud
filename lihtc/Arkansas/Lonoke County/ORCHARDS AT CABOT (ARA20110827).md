@@ -1,0 +1,85 @@
+# Project: ORCHARDS AT CABOT (ARA20110827)
+
+- HUD ID: ARA20110827
+- HUD ID before: 
+- Project: ORCHARDS AT CABOT
+- Address: 555 E MOUNTAIN SPRINGS RD
+- City: CABOT
+- State: AR
+- ZIP: 72023
+- ZIP extension: 
+- State project ID: AR-09-05-001
+- Latitude: 34.980591
+- Longitude: -92.021702
+- County FIPS: 05085
+- County from: 2020
+- Tract 2020: 05085020202
+- Tract 2010: 05085020202
+- Tract 2000: 05085020202
+- Tract 1990: 05085020100
+- Place 2020: 10300
+- Place 2010: 10300
+- Place 2000: 02860
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 36
+- Low-income units: 34
+- Units reported: 36
+- Low-income reported: 34
+- Efficiencies: 2
+- 1-bedroom units: 13
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2009798, ARA2009032.
+- Record status: Existing, unchanged

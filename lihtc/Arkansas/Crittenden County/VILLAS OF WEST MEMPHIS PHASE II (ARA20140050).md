@@ -1,0 +1,85 @@
+# Project: VILLAS OF WEST MEMPHIS PHASE II (ARA20140050)
+
+- HUD ID: ARA20140050
+- HUD ID before: 
+- Project: VILLAS OF WEST MEMPHIS PHASE II
+- Address: 141 W JACKSON BLDG K
+- City: WEST MEMPHIS
+- State: AR
+- ZIP: 72301
+- ZIP extension: 
+- State project ID: AR-13-11
+- Latitude: 35.13938
+- Longitude: -90.186901
+- County FIPS: 05035
+- County from: 2020
+- Tract 2020: 05035030302
+- Tract 2010: 05035030302
+- Tract 2000: 05035030302
+- Tract 1990: 05035030300
+- Place 2020: 74540
+- Place 2010: 74540
+- Place 2000: 74540
+- Place 1990: 3005
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 625000
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

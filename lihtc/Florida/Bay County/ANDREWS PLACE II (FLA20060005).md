@@ -1,0 +1,85 @@
+# Project: ANDREWS PLACE II (FLA20060005)
+
+- HUD ID: FLA20060005
+- HUD ID before: 
+- Project: ANDREWS PLACE II
+- Address: 1914 FRANKFORD AVE
+- City: PANAMA CITY
+- State: FL
+- ZIP: 32405
+- ZIP extension: 
+- State project ID: 1482
+- Latitude: 30.18309
+- Longitude: -85.691732
+- County FIPS: 12005
+- County from: 2020
+- Tract 2020: 12005002200
+- Tract 2010: 12005002200
+- Tract 2000: 12005002200
+- Tract 1990: 12005002200
+- Place 2020: 54700
+- Place 2010: 54700
+- Place 2000: 54700
+- Place 1990: 1675
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 431290
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 60
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

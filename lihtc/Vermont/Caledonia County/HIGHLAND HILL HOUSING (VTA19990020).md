@@ -1,0 +1,85 @@
+# Project: HIGHLAND HILL HOUSING (VTA19990020)
+
+- HUD ID: VTA19990020
+- HUD ID before: 
+- Project: HIGHLAND HILL HOUSING
+- Address: 84 CHURCH ST
+- City: HARDWICK
+- State: VT
+- ZIP: 
+- ZIP extension: 
+- State project ID: 0075
+- Latitude: 44.505553
+- Longitude: -72.364773
+- County FIPS: 50005
+- County from: 2020
+- Tract 2020: 50005957700
+- Tract 2010: 50005957700
+- Tract 2000: 50005957700
+- Tract 1990: 50005957700
+- Place 2020: 31750
+- Place 2010: 31750
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 47500
+- Units: 14
+- Low-income units: 11
+- Units reported: 14
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 5
+- 3-bedroom units: 5
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

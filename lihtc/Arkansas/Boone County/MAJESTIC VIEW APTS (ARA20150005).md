@@ -1,0 +1,85 @@
+# Project: MAJESTIC VIEW APTS (ARA20150005)
+
+- HUD ID: ARA20150005
+- HUD ID before: 
+- Project: MAJESTIC VIEW APTS
+- Address: 1628 MOUNTAIN VIEW DR
+- City: HARRISON
+- State: AR
+- ZIP: 72601
+- ZIP extension: 
+- State project ID: AR-13-06
+- Latitude: 36.253432
+- Longitude: -93.101578
+- County FIPS: 05009
+- County from: 2020
+- Tract 2020: 05009790502
+- Tract 2010: 05009790502
+- Tract 2000: 05009990500
+- Tract 1990: 
+- Place 2020: 30460
+- Place 2010: 30460
+- Place 2000: 30460
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 6666667
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

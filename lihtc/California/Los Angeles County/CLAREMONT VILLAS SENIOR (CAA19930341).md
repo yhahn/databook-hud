@@ -1,0 +1,85 @@
+# Project: CLAREMONT VILLAS SENIOR (CAA19930341)
+
+- HUD ID: CAA19930341
+- HUD ID before: 
+- Project: CLAREMONT VILLAS SENIOR
+- Address: 100 S INDIAN HILL BLVD
+- City: CLAREMONT
+- State: CA
+- ZIP: 91711
+- ZIP extension: 
+- State project ID: CA-93-166
+- Latitude: 34.093395
+- Longitude: -117.719063
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037402002
+- Tract 2010: 06037402002
+- Tract 2000: 06037402000
+- Tract 1990: 06037402000
+- Place 2020: 13756
+- Place 2010: 13756
+- Place 2000: 13756
+- Place 1990: 0535
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 1045847
+- Units: 154
+- Low-income units: 153
+- Units reported: 154
+- Low-income reported: 153
+- Efficiencies: 0
+- 1-bedroom units: 143
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

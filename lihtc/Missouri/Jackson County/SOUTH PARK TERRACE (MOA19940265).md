@@ -1,0 +1,85 @@
+# Project: SOUTH PARK TERRACE (MOA19940265)
+
+- HUD ID: MOA19940265
+- HUD ID before: 
+- Project: SOUTH PARK TERRACE
+- Address: 3210 E 112TH TER
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64137
+- ZIP extension: 
+- State project ID: 92-053
+- Latitude: 38.921739
+- Longitude: -94.553528
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095010204
+- Tract 2010: 29095010204
+- Tract 2000: 29095010204
+- Tract 1990: 29095010204
+- Place 2020: 38000
+- Place 2010: 38000
+- Place 2000: 28324
+- Place 1990: 2220
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

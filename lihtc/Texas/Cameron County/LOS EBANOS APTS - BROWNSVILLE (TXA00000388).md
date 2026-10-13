@@ -1,0 +1,85 @@
+# Project: LOS EBANOS APTS - BROWNSVILLE (TXA00000388)
+
+- HUD ID: TXA00000388
+- HUD ID before: 
+- Project: LOS EBANOS APTS - BROWNSVILLE
+- Address: 2133 BARNARD RD
+- City: BROWNSVILLE
+- State: TX
+- ZIP: 78520
+- ZIP extension: 
+- State project ID: TX4531
+- Latitude: 25.93518
+- Longitude: -97.503531
+- County FIPS: 48061
+- County from: 2020
+- Tract 2020: 48061013003
+- Tract 2010: 48061013003
+- Tract 2000: 48061013003
+- Tract 1990: 48061013001
+- Place 2020: 10768
+- Place 2010: 10768
+- Place 2000: 10768
+- Place 1990: 0595
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 65
+- Low-income units: 65
+- Units reported: 65
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

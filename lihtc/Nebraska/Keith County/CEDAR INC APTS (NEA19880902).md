@@ -1,0 +1,85 @@
+# Project: CEDAR INC APTS (NEA19880902)
+
+- HUD ID: NEA19880902
+- HUD ID before: 
+- Project: CEDAR INC APTS
+- Address: 305 E N ST
+- City: OGALLALA
+- State: NE
+- ZIP: 69153
+- ZIP extension: 
+- State project ID: 7-0027
+- Latitude: 41.128556
+- Longitude: -101.702624
+- County FIPS: 31101
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31101000200
+- Tract 2000: 31101000200
+- Tract 1990: 31101958800
+- Place 2020: 
+- Place 2010: 35980
+- Place 2000: 35980
+- Place 1990: 1815
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 16762
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA0000105.
+- Record status: Existing, unchanged

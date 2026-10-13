@@ -1,0 +1,85 @@
+# Project: RIVERSIDE PARK APARTMENTS I FKA PARK PLAZA I (ARA20130008)
+
+- HUD ID: ARA20130008
+- HUD ID before: 
+- Project: RIVERSIDE PARK APARTMENTS I FKA PARK PLAZA I
+- Address: 3950 E SERVICE RD
+- City: WEST MEMPHIS
+- State: AR
+- ZIP: 72301
+- ZIP extension: 
+- State project ID: AR-95-18-002
+- Latitude: 35.148108
+- Longitude: -90.132463
+- County FIPS: 05035
+- County from: 2020
+- Tract 2020: 05035030602
+- Tract 2010: 05035030600
+- Tract 2000: 05035030600
+- Tract 1990: 05035030300
+- Place 2020: 74540
+- Place 2010: 74540
+- Place 2000: 01457
+- Place 1990: 3005
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 895631
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 49
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1996655, ARA1996062, ARA1996053, ARA0000507, ARA0000140. AKA RIVERSIDE PARK APTS PHASE IA. FKA PARK PLAZA I
+- Record status: Existing, unchanged

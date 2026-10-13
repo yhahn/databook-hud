@@ -1,0 +1,85 @@
+# Project: YUCAIPA TERRACE (CAA19910115)
+
+- HUD ID: CAA19910115
+- HUD ID before: 
+- Project: YUCAIPA TERRACE
+- Address: 12435 SIXTH ST
+- City: YUCAIPA
+- State: CA
+- ZIP: 92399
+- ZIP extension: 
+- State project ID: CA-90-018
+- Latitude: 34.028003
+- Longitude: -117.060391
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071008713
+- Tract 2010: 06071008704
+- Tract 2000: 06071008704
+- Tract 1990: 06071008702
+- Place 2020: 87042
+- Place 2010: 87042
+- Place 2000: 87042
+- Place 1990: 3186
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 289367
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

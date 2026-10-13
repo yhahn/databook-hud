@@ -1,0 +1,85 @@
+# Project: GRETNA APTS (NEA19940025)
+
+- HUD ID: NEA19940025
+- HUD ID before: 
+- Project: GRETNA APTS
+- Address: 202 E GLENMORE DR
+- City: GRETNA
+- State: NE
+- ZIP: 68028
+- ZIP extension: 
+- State project ID: 7-0258
+- Latitude: 41.145152
+- Longitude: -96.236474
+- County FIPS: 31153
+- County from: 2020
+- Tract 2020: 31153010632
+- Tract 2010: 31153010632
+- Tract 2000: 31153010610
+- Tract 1990: 31153010610
+- Place 2020: 20260
+- Place 2010: 20260
+- Place 2000: 20260
+- Place 1990: 1070
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 33480
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

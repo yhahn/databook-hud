@@ -1,0 +1,85 @@
+# Project: ROCKVILLE APTS (NYA20100090)
+
+- HUD ID: NYA20100090
+- HUD ID before: 
+- Project: ROCKVILLE APTS
+- Address: 160 N CENTRE AVE
+- City: ROCKVILLE CENTRE
+- State: NY
+- ZIP: 11570
+- ZIP extension: 
+- State project ID: 20070158
+- Latitude: 40.662067
+- Longitude: -73.650311
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059412400
+- Tract 2010: 36059412400
+- Tract 2000: 36059412400
+- Tract 1990: 36059412400
+- Place 2020: 63264
+- Place 2010: 63264
+- Place 2000: 63264
+- Place 1990: 3105
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1485035
+- Units: 153
+- Low-income units: 153
+- Units reported: 153
+- Low-income reported: 153
+- Efficiencies: 16
+- 1-bedroom units: 40
+- 2-bedroom units: 62
+- 3-bedroom units: 29
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SUBSTANCE ABUSE
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

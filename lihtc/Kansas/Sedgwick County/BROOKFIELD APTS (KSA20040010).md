@@ -1,0 +1,85 @@
+# Project: BROOKFIELD APTS (KSA20040010)
+
+- HUD ID: KSA20040010
+- HUD ID before: 
+- Project: BROOKFIELD APTS
+- Address: 1220 E FORD ST
+- City: VALLEY CENTER
+- State: KS
+- ZIP: 67147
+- ZIP extension: 
+- State project ID: 60370
+- Latitude: 37.82519
+- Longitude: -97.360047
+- County FIPS: 20173
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20173010200
+- Tract 2000: 20173010200
+- Tract 1990: 20173010200
+- Place 2020: 
+- Place 2010: 73250
+- Place 2000: 54450
+- Place 1990: 2855
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 263998
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

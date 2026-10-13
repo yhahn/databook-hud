@@ -1,0 +1,85 @@
+# Project: BRIGHT SKY APARTMENTS (FKA CHURCHES UNITED) (MNA20181003)
+
+- HUD ID: MNA20181003
+- HUD ID before: 
+- Project: BRIGHT SKY APARTMENTS (FKA CHURCHES UNITED)
+- Address: 3305 3RD AVE N
+- City: MOORHEAD
+- State: MN
+- ZIP: 56560
+- ZIP extension: 
+- State project ID: D7744
+- Latitude: 46.876
+- Longitude: -96.7523
+- County FIPS: 27027
+- County from: 2020
+- Tract 2020: 27027030300
+- Tract 2010: 27027020100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43864
+- Place 2010: 43864
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 232440
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 18
+- 1-bedroom units: 4
+- 2-bedroom units: 9
+- 3-bedroom units: 9
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: 
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: N
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

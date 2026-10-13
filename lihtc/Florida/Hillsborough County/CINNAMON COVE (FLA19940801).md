@@ -1,0 +1,85 @@
+# Project: CINNAMON COVE (FLA19940801)
+
+- HUD ID: FLA19940801
+- HUD ID before: 
+- Project: CINNAMON COVE
+- Address: 12401 N 15TH ST
+- City: TAMPA
+- State: FL
+- ZIP: 33612
+- ZIP extension: 
+- State project ID: 165
+- Latitude: 28.060611
+- Longitude: -82.442661
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057010816
+- Tract 2010: 12057010816
+- Tract 2000: 12057010806
+- Tract 1990: 12057010806
+- Place 2020: 73163
+- Place 2010: 73163
+- Place 2000: 71000
+- Place 1990: 2127
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 314
+- Low-income units: 314
+- Units reported: 314
+- Low-income reported: 314
+- Efficiencies: 0
+- 1-bedroom units: 254
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1994040.
+- Record status: Existing, unchanged

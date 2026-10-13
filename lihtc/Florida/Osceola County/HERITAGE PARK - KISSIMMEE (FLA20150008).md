@@ -1,0 +1,85 @@
+# Project: HERITAGE PARK - KISSIMMEE (FLA20150008)
+
+- HUD ID: FLA20150008
+- HUD ID before: 
+- Project: HERITAGE PARK - KISSIMMEE
+- Address: 2104 E IRLO BRONSON MEMORIAL HIGHWAY
+- City: KISSIMMEE
+- State: FL
+- ZIP: 34744
+- ZIP extension: 
+- State project ID: 2664
+- Latitude: 28.288871
+- Longitude: -81.358911
+- County FIPS: 12097
+- County from: 2020
+- Tract 2020: 12097042901
+- Tract 2010: 12097042900
+- Tract 2000: 12097042900
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 36950
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1497528
+- Units: 238
+- Low-income units: 167
+- Units reported: 238
+- Low-income reported: 167
+- Efficiencies: 
+- 1-bedroom units: 36
+- 2-bedroom units: 30
+- 3-bedroom units: 107
+- 4-bedroom units: 65
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

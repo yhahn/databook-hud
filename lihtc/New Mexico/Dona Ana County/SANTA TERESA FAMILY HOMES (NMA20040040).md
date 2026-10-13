@@ -1,0 +1,85 @@
+# Project: SANTA TERESA FAMILY HOMES (NMA20040040)
+
+- HUD ID: NMA20040040
+- HUD ID before: 
+- Project: SANTA TERESA FAMILY HOMES
+- Address: 100 COMERCIANTES BLVD
+- City: SANTA TERESA
+- State: NM
+- ZIP: 88008
+- ZIP extension: 
+- State project ID: NM-02-0400
+- Latitude: 31.874465
+- Longitude: -106.649872
+- County FIPS: 35013
+- County from: 2020
+- Tract 2020: 35013001701
+- Tract 2010: 35013001701
+- Tract 2000: 35013001701
+- Tract 1990: 35013001700
+- Place 2020: 75640
+- Place 2010: 70700
+- Place 2000: 70700
+- Place 1990: 0400
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 74
+- Low-income units: 60
+- Units reported: 74
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 74
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SANTA TERESA PHASE III (FAMILY HOMES-COMMERCIANTES).
+- Record status: Updated

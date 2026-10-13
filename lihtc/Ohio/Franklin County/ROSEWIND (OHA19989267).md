@@ -1,0 +1,85 @@
+# Project: ROSEWIND (OHA19989267)
+
+- HUD ID: OHA19989267
+- HUD ID before: 
+- Project: ROSEWIND
+- Address: 1131 VESTA AVE
+- City: COLUMBUS
+- State: OH
+- ZIP: 43211
+- ZIP extension: 
+- State project ID: 970070
+- Latitude: 39.994996
+- Longitude: -82.976757
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049001500
+- Tract 2010: 39049001500
+- Tract 2000: 39049001500
+- Tract 1990: 39049001500
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 1206582
+- Units: 230
+- Low-income units: 230
+- Units reported: 230
+- Low-income reported: 230
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1997506, OHA1998195.
+- Record status: Existing, unchanged

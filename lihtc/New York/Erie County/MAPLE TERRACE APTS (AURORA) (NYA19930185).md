@@ -1,0 +1,85 @@
+# Project: MAPLE TERRACE APTS (AURORA) (NYA19930185)
+
+- HUD ID: NYA19930185
+- HUD ID before: 
+- Project: MAPLE TERRACE APTS (AURORA)
+- Address: 206 MAPLE RD
+- City: EAST AURORA
+- State: NY
+- ZIP: 14052
+- ZIP extension: 
+- State project ID: 19901497
+- Latitude: 42.774139
+- Longitude: -78.62068
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029013802
+- Tract 2010: 36029013800
+- Tract 2000: 36029013800
+- Tract 1990: 36029013800
+- Place 2020: 06574
+- Place 2010: 06574
+- Place 2000: 06574
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

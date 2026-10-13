@@ -1,0 +1,85 @@
+# Project: HILDEBRANDT PARK APARTMENTS (MIA20231005)
+
+- HUD ID: MIA20231005
+- HUD ID before: 
+- Project: HILDEBRANDT PARK APARTMENTS
+- Address: 3122 TURNER
+- City: LANSING
+- State: MI
+- ZIP: 48906
+- ZIP extension: 0000
+- State project ID: 3967
+- Latitude: 42.765585
+- Longitude: -84.555512
+- County FIPS: 26065
+- County from: 2020
+- Tract 2020: 26065003200
+- Tract 2010: 26065003200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 46000
+- Place 2010: 46000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2025
+- Allocation year note: 
+- Allocation amount: 942366
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 33
+- 3-bedroom units: 39
+- 4-bedroom units: 18
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: No
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1336248
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

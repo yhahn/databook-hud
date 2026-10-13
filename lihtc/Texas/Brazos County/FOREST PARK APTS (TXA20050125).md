@@ -1,0 +1,85 @@
+# Project: FOREST PARK APTS (TXA20050125)
+
+- HUD ID: TXA20050125
+- HUD ID before: 
+- Project: FOREST PARK APTS
+- Address: 1828 SANDY POINT RD
+- City: BRYAN
+- State: TX
+- ZIP: 77807
+- ZIP extension: 
+- State project ID: TX3336
+- Latitude: 30.679795
+- Longitude: -96.39506
+- County FIPS: 48041
+- County from: 2020
+- Tract 2020: 48041000501
+- Tract 2010: 48041000500
+- Tract 2000: 48041000500
+- Tract 1990: 48041000500
+- Place 2020: 10912
+- Place 2010: 10912
+- Place 2000: 10912
+- Place 1990: 0610
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 140
+- Low-income units: 119
+- Units reported: 140
+- Low-income reported: 119
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ONE FOREST PARK.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MAPLEWOOD GREEN APTS (SCA20030065)
+
+- HUD ID: SCA20030065
+- HUD ID before: 
+- Project: MAPLEWOOD GREEN APTS
+- Address: 220 S LONGST RD
+- City: DILLON
+- State: SC
+- ZIP: 29536
+- ZIP extension: 
+- State project ID: SC-02-005
+- Latitude: 34.4623
+- Longitude: -79.4866
+- County FIPS: 45033
+- County from: 2020
+- Tract 2020: 45033970301
+- Tract 2010: 45033970300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 19420
+- Place 2010: 19420
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 69765
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 31
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 42
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

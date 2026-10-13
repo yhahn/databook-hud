@@ -1,0 +1,85 @@
+# Project: GLEASON PARK (CAA20110165)
+
+- HUD ID: CAA20110165
+- HUD ID before: 
+- Project: GLEASON PARK
+- Address: 411 S STANISLAUS ST
+- City: STOCKTON
+- State: CA
+- ZIP: 95203
+- ZIP extension: 
+- State project ID: CA-09-553
+- Latitude: 37.949801
+- Longitude: -121.281068
+- County FIPS: 06077
+- County from: 2020
+- Tract 2020: 06077000101
+- Tract 2010: 06077000100
+- Tract 2000: 06077000100
+- Tract 1990: 06077000100
+- Place 2020: 75000
+- Place 2010: 75000
+- Place 2000: 75000
+- Place 1990: 2805
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 93
+- Low-income units: 92
+- Units reported: 93
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 45
+- 3-bedroom units: 26
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 44
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1150000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011611. AKA GLEASON PARK FAMILY APTS.
+- Record status: Existing, unchanged

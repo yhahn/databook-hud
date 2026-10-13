@@ -1,0 +1,85 @@
+# Project: WARREN HOUSE (MAB19900085)
+
+- HUD ID: MAB19900085
+- HUD ID before: 
+- Project: WARREN HOUSE
+- Address: 1600 WASHINGTON ST
+- City: WEST NEWTON
+- State: MA
+- ZIP: 02465
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.343804
+- Longitude: -71.23529
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017374400
+- Tract 2010: 25017374400
+- Tract 2000: 25017374400
+- Tract 1990: 25017374400
+- Place 2020: 45560
+- Place 2010: 45560
+- Place 2000: 45560
+- Place 1990: 2830
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 21
+- Units reported: 59
+- Low-income reported: 21
+- Efficiencies: 1
+- 1-bedroom units: 15
+- 2-bedroom units: 37
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

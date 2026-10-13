@@ -1,0 +1,85 @@
+# Project: KCOM ELDERLY (MOA20030085)
+
+- HUD ID: MOA20030085
+- HUD ID before: 
+- Project: KCOM ELDERLY
+- Address: 501 S OSTEOPATHY AVE
+- City: KIRKSVILLE
+- State: MO
+- ZIP: 63501
+- ZIP extension: 
+- State project ID: 01-057
+- Latitude: 40.191871
+- Longitude: -92.59062
+- County FIPS: 29001
+- County from: 2020
+- Tract 2020: 29001950501
+- Tract 2010: 29001950500
+- Tract 2000: 29001950500
+- Tract 1990: 29001950500
+- Place 2020: 39026
+- Place 2010: 39026
+- Place 2000: 39026
+- Place 1990: 2275
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 40
+- Units reported: 50
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

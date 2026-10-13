@@ -1,0 +1,85 @@
+# Project: MONTEAGLE (NYB20110804)
+
+- HUD ID: NYB20110804
+- HUD ID before: 
+- Project: MONTEAGLE
+- Address: 4600 HYDE PARK BLVD
+- City: NIAGARA FALLS
+- State: NY
+- ZIP: 14305
+- ZIP extension: 
+- State project ID: NY-11-2045
+- Latitude: 43.129201
+- Longitude: -79.039901
+- County FIPS: 36063
+- County from: 2020
+- Tract 2020: 36063020200
+- Tract 2010: 36063020200
+- Tract 2000: 36063020200
+- Tract 1990: 36063020200
+- Place 2020: 51055
+- Place 2010: 51055
+- Place 2000: 51055
+- Place 1990: 2515
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 391394
+- Units: 150
+- Low-income units: 149
+- Units reported: 150
+- Low-income reported: 149
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 60
+- 3-bedroom units: 74
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

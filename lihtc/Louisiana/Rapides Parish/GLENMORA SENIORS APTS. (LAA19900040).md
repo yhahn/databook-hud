@@ -1,0 +1,85 @@
+# Project: GLENMORA SENIORS APTS. (LAA19900040)
+
+- HUD ID: LAA19900040
+- HUD ID before: 
+- Project: GLENMORA SENIORS APTS.
+- Address: HWY. 165 SOUTH
+- City: GLENMORA
+- State: LA
+- ZIP: 71433
+- ZIP extension: 0000
+- State project ID: LA-90-067
+- Latitude: 31.0129
+- Longitude: -92.5336
+- County FIPS: 22079
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22079013500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 29220
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GLENMORA APTS.
+- Record status: Existing, unchanged

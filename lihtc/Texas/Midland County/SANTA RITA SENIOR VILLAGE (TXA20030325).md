@@ -1,0 +1,85 @@
+# Project: SANTA RITA SENIOR VILLAGE (TXA20030325)
+
+- HUD ID: TXA20030325
+- HUD ID before: 
+- Project: SANTA RITA SENIOR VILLAGE
+- Address: 1900 E GOLF COURSE RD
+- City: MIDLAND
+- State: TX
+- ZIP: 79701
+- ZIP extension: 
+- State project ID: TX3248
+- Latitude: 32.020226
+- Longitude: -102.057292
+- County FIPS: 48329
+- County from: 2020
+- Tract 2020: 48329001700
+- Tract 2010: 48329001700
+- Tract 2000: 48329001700
+- Tract 1990: 48329001700
+- Place 2020: 48072
+- Place 2010: 48072
+- Place 2000: 48072
+- Place 1990: 2810
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 136
+- Low-income units: 136
+- Units reported: 136
+- Low-income reported: 136
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

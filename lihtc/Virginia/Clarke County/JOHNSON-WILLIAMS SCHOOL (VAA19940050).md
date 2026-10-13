@@ -1,0 +1,85 @@
+# Project: JOHNSON-WILLIAMS SCHOOL (VAA19940050)
+
+- HUD ID: VAA19940050
+- HUD ID before: 
+- Project: JOHNSON-WILLIAMS SCHOOL
+- Address: 301 JOSEPHINE ST
+- City: BERRYVILLE
+- State: VA
+- ZIP: 22611
+- ZIP extension: 
+- State project ID: 4483
+- Latitude: 39.141897
+- Longitude: -77.979398
+- County FIPS: 51043
+- County from: 2020
+- Tract 2020: 51043010101
+- Tract 2010: 51043010100
+- Tract 2000: 51043010100
+- Tract 1990: 51043010100
+- Place 2020: 06968
+- Place 2010: 06968
+- Place 2000: 06968
+- Place 1990: 0090
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 122551
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 34
+- 1-bedroom units: 4
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2009901.
+- Record status: Existing, unchanged

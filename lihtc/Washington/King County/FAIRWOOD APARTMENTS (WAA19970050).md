@@ -1,0 +1,85 @@
+# Project: FAIRWOOD APARTMENTS (WAA19970050)
+
+- HUD ID: WAA19970050
+- HUD ID before: 
+- Project: FAIRWOOD APARTMENTS
+- Address: 14300 SE 171ST WAY
+- City: RENTON
+- State: WA
+- ZIP: 98058
+- ZIP extension: 
+- State project ID: WA-95-00307
+- Latitude: 47.446742
+- Longitude: -122.150131
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033031908
+- Tract 2010: 53033031908
+- Tract 2000: 53033031908
+- Tract 1990: 53033031905
+- Place 2020: 23160
+- Place 2010: 23160
+- Place 2000: 10372
+- Place 1990: 0159
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 212240
+- Units: 176
+- Low-income units: 174
+- Units reported: 176
+- Low-income reported: 174
+- Efficiencies: 0
+- 1-bedroom units: 108
+- 2-bedroom units: 68
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA1996800, WAA1996190.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MASON GROVE (ORA20010030)
+
+- HUD ID: ORA20010030
+- HUD ID before: 
+- Project: MASON GROVE
+- Address: 1005 NE FOURTH AVE
+- City: MILTON FREEWATER
+- State: OR
+- ZIP: 97862
+- ZIP extension: 
+- State project ID: 14
+- Latitude: 45.940489
+- Longitude: -118.385184
+- County FIPS: 41059
+- County from: 2020
+- Tract 2020: 41059950201
+- Tract 2010: 41059950200
+- Tract 2000: 41059950200
+- Tract 1990: 41059950200
+- Place 2020: 48600
+- Place 2010: 48600
+- Place 2000: 48600
+- Place 1990: 0745
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 360000
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

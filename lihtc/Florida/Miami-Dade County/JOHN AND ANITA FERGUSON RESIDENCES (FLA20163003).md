@@ -1,0 +1,85 @@
+# Project: JOHN AND ANITA FERGUSON RESIDENCES (FLA20163003)
+
+- HUD ID: FLA20163003
+- HUD ID before: 
+- Project: JOHN AND ANITA FERGUSON RESIDENCES
+- Address: 11001 PINKSTON DRIVE
+- City: MIAMI
+- State: FL
+- ZIP: 33176
+- ZIP extension: 
+- State project ID: 2814
+- Latitude: 25.636668
+- Longitude: -80.37387
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086008313
+- Tract 2010: 12086008304
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 60225
+- Place 2010: 60225
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 563416
+- Units: 79
+- Low-income units: 79
+- Units reported: 79
+- Low-income reported: 79
+- Efficiencies: 
+- 1-bedroom units: 42
+- 2-bedroom units: 37
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

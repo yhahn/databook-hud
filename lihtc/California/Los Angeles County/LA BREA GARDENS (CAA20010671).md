@@ -1,0 +1,85 @@
+# Project: LA BREA GARDENS (CAA20010671)
+
+- HUD ID: CAA20010671
+- HUD ID before: 
+- Project: LA BREA GARDENS
+- Address: 5120 EXPOSITION BLVD
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90016
+- ZIP extension: 
+- State project ID: CA-00-898
+- Latitude: 34.024583
+- Longitude: -118.355873
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037220100
+- Tract 2010: 06037220100
+- Tract 2000: 06037220100
+- Tract 1990: 06037220100
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 17568
+- Place 1990: 1630
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 275446
+- Units: 185
+- Low-income units: 182
+- Units reported: 185
+- Low-income reported: 182
+- Efficiencies: 55
+- 1-bedroom units: 46
+- 2-bedroom units: 77
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

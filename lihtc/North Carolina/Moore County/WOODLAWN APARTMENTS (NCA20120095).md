@@ -1,0 +1,85 @@
+# Project: WOODLAWN APARTMENTS (NCA20120095)
+
+- HUD ID: NCA20120095
+- HUD ID before: 
+- Project: WOODLAWN APARTMENTS
+- Address: 700 MAGNOLIA DRIVE
+- City: ABERDEEN
+- State: NC
+- ZIP: 28315
+- ZIP extension: 
+- State project ID: 9108852
+- Latitude: 35.152129
+- Longitude: -79.421897
+- County FIPS: 37125
+- County from: 2020
+- Tract 2020: 37125951102
+- Tract 2010: 37125951100
+- Tract 2000: 37125951100
+- Tract 1990: 37125951100
+- Place 2020: 00160
+- Place 2010: 00160
+- Place 2000: 00160
+- Place 1990: 0005
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 210785
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

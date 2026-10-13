@@ -1,0 +1,85 @@
+# Project: KILMARNOCK VILLAGE (VAA20220013)
+
+- HUD ID: VAA20220013
+- HUD ID before: 
+- Project: KILMARNOCK VILLAGE
+- Address: 89 SCHOOL STREET
+- City: KILMARNOCK
+- State: VA
+- ZIP: 22482
+- ZIP extension: 
+- State project ID: 8832
+- Latitude: 37.711293
+- Longitude: -76.382584
+- County FIPS: 51103
+- County from: 2020
+- Tract 2020: 51103030200
+- Tract 2010: 51103030200
+- Tract 2000: 51103990200
+- Tract 1990: 51103990200
+- Place 2020: 42424
+- Place 2010: 42424
+- Place 2000: 42424
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 211171
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2002110.
+- Record status: Existing, unchanged

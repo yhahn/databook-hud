@@ -1,0 +1,85 @@
+# Project: THE VERANDA TOWNHOMES (TXA0000X097)
+
+- HUD ID: TXA0000X097
+- HUD ID before: 
+- Project: THE VERANDA TOWNHOMES
+- Address: 3932 MICHIGAN DRIVE
+- City: PLANO
+- State: TX
+- ZIP: 75025
+- ZIP extension: 
+- State project ID: TX5215
+- Latitude: 33.102342
+- Longitude: -96.770972
+- County FIPS: 48085
+- County from: 2020
+- Tract 2020: 48085031639
+- Tract 2010: 48085031639
+- Tract 2000: 48085031641
+- Tract 1990: 
+- Place 2020: 58016
+- Place 2010: 58016
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 20
+- Units reported: 40
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

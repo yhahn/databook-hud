@@ -1,0 +1,85 @@
+# Project: HENDLEY CIRCLE APTS (CAA19920120)
+
+- HUD ID: CAA19920120
+- HUD ID before: 
+- Project: HENDLEY CIRCLE APTS
+- Address: 1415 HENDLEY ST
+- City: SANTA ROSA
+- State: CA
+- ZIP: 95404
+- ZIP extension: 
+- State project ID: CA-90-066
+- Latitude: 38.426587
+- Longitude: -122.70248
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097151404
+- Tract 2010: 06097151401
+- Tract 2000: 06097151401
+- Tract 1990: 06097151400
+- Place 2020: 70098
+- Place 2010: 70098
+- Place 2000: 70098
+- Place 1990: 2615
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 184005
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 26
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

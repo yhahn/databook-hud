@@ -1,0 +1,85 @@
+# Project: CITY FOREST OF SPRINGFIELD (OHA20029274)
+
+- HUD ID: OHA20029274
+- HUD ID before: 
+- Project: CITY FOREST OF SPRINGFIELD
+- Address: 837 E MAIN ST
+- City: SPRINGFIELD
+- State: OH
+- ZIP: 45503
+- ZIP extension: 
+- State project ID: 000040
+- Latitude: 39.923589
+- Longitude: -83.796126
+- County FIPS: 39023
+- County from: 2020
+- Tract 2020: 39023003400
+- Tract 2010: 39023003400
+- Tract 2000: 39023000100
+- Tract 1990: 39023000100
+- Place 2020: 74118
+- Place 2010: 74118
+- Place 2000: 74118
+- Place 1990: 4100
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 900676
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 75
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2001552, OHA2002042.
+- Record status: Existing, unchanged

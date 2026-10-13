@@ -1,0 +1,85 @@
+# Project: SERENITY TERRACE (INA20119223)
+
+- HUD ID: INA20119223
+- HUD ID before: 
+- Project: SERENITY TERRACE
+- Address: 981 E B MAR DR
+- City: RENSSELAER
+- State: IN
+- ZIP: 47978
+- ZIP extension: 
+- State project ID: IN-11-01800
+- Latitude: 40.936281
+- Longitude: -87.140073
+- County FIPS: 18073
+- County from: 2020
+- Tract 2020: 18073101200
+- Tract 2010: 18073101200
+- Tract 2000: 18073991200
+- Tract 1990: 18073991200
+- Place 2020: 63792
+- Place 2010: 63792
+- Place 2000: 63792
+- Place 1990: 2130
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 715000
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 800000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

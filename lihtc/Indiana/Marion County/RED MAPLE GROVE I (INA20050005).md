@@ -1,0 +1,85 @@
+# Project: RED MAPLE GROVE I (INA20050005)
+
+- HUD ID: INA20050005
+- HUD ID before: 
+- Project: RED MAPLE GROVE I
+- Address: 2901 E TABOR ST
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46203
+- ZIP extension: 
+- State project ID: IN-03-02500
+- Latitude: 39.73603
+- Longitude: -86.114075
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097357602
+- Tract 2010: 18097357600
+- Tract 2000: 18097357600
+- Tract 1990: 18097357600
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 291271
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BROKENBURR PHASE I.
+- Record status: Existing, unchanged

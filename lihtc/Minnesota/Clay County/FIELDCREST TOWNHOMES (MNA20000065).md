@@ -1,0 +1,85 @@
+# Project: FIELDCREST TOWNHOMES (MNA20000065)
+
+- HUD ID: MNA20000065
+- HUD ID before: 
+- Project: FIELDCREST TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: MOORHEAD
+- State: MN
+- ZIP: 56560
+- ZIP extension: 
+- State project ID: D2795
+- Latitude: 46.8624
+- Longitude: -96.7571
+- County FIPS: 27027
+- County from: 2020
+- Tract 2020: 27027020400
+- Tract 2010: 27027020400
+- Tract 2000: 27027030103
+- Tract 1990: 27027030103
+- Place 2020: 43864
+- Place 2010: 43864
+- Place 2000: 43864
+- Place 1990: 2645
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA1992035. FKA PARKSIDE
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MARBRISA (FLA20020115)
+
+- HUD ID: FLA20020115
+- HUD ID before: 
+- Project: MARBRISA
+- Address: 5200 NW 159 ST
+- City: HIALEAH
+- State: FL
+- ZIP: 33018
+- ZIP extension: 
+- State project ID: 504
+- Latitude: 25.9038
+- Longitude: -80.3814
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086012601
+- Tract 2010: 12086012500
+- Tract 2000: 12086010133
+- Tract 1990: 12025010115
+- Place 2020: 30000
+- Place 2010: 30025
+- Place 2000: 30000
+- Place 1990: 0860
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 368
+- Low-income units: 368
+- Units reported: 368
+- Low-income reported: 368
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 156
+- 3-bedroom units: 136
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

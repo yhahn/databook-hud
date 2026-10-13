@@ -1,0 +1,85 @@
+# Project: THE CRAFT BUILDING - 5245 (NYB20200031)
+
+- HUD ID: NYB20200031
+- HUD ID before: 
+- Project: THE CRAFT BUILDING - 5245
+- Address: 164 UNION AVENUE
+- City: NEW ROCHELLE
+- State: NY
+- ZIP: 10801
+- ZIP extension: 
+- State project ID: NY-20-2483
+- Latitude: 40.909608
+- Longitude: -73.791881
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119006200
+- Tract 2010: 36119006200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50617
+- Place 2010: 50617
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 75
+- Low-income units: 63
+- Units reported: 75
+- Low-income reported: 63
+- Efficiencies: 10
+- 1-bedroom units: 55
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

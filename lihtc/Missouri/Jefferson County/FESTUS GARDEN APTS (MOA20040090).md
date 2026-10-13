@@ -1,0 +1,85 @@
+# Project: FESTUS GARDEN APTS (MOA20040090)
+
+- HUD ID: MOA20040090
+- HUD ID before: 
+- Project: FESTUS GARDEN APTS
+- Address: 210 BRIAR RDG
+- City: FESTUS
+- State: MO
+- ZIP: 63028
+- ZIP extension: 
+- State project ID: 04-065
+- Latitude: 38.214866
+- Longitude: -90.393901
+- County FIPS: 29099
+- County from: 2020
+- Tract 2020: 29099700900
+- Tract 2010: 29099700900
+- Tract 2000: 29099700900
+- Tract 1990: 29099700900
+- Place 2020: 24094
+- Place 2010: 24094
+- Place 2000: 17632
+- Place 1990: 1435
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 80
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FESTUS ASSOC I.
+- Record status: Existing, unchanged

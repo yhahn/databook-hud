@@ -1,0 +1,85 @@
+# Project: BLOOMING MEADOWS NORTH (MNA20213003)
+
+- HUD ID: MNA20213003
+- HUD ID before: 
+- Project: BLOOMING MEADOWS NORTH
+- Address: 1918 EAST 86TH STREET
+- City: BLOOMINGTON
+- State: MN
+- ZIP: 55425
+- ZIP extension: 
+- State project ID: D8286
+- Latitude: 44.848135
+- Longitude: -93.245948
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053025100
+- Tract 2010: 27053025100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 06616
+- Place 2010: 06616
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1411859
+- Units: 172
+- Low-income units: 172
+- Units reported: 172
+- Low-income reported: 172
+- Efficiencies: 
+- 1-bedroom units: 17
+- 2-bedroom units: 69
+- 3-bedroom units: 67
+- 4-bedroom units: 19
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

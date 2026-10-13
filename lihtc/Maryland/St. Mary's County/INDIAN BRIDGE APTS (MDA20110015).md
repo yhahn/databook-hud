@@ -1,0 +1,85 @@
+# Project: INDIAN BRIDGE APTS (MDA20110015)
+
+- HUD ID: MDA20110015
+- HUD ID before: 
+- Project: INDIAN BRIDGE APTS
+- Address: 459 INDIAN WAY
+- City: LEXINGTON PARK
+- State: MD
+- ZIP: 
+- ZIP extension: 
+- State project ID: MD10-18001
+- Latitude: 38.242
+- Longitude: -76.4202
+- County FIPS: 24037
+- County from: 2020
+- Tract 2020: 24037875903
+- Tract 2010: 24037875901
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 46725
+- Place 2010: 46725
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 112
+- Low-income units: 84
+- Units reported: 112
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 68
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2948764
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

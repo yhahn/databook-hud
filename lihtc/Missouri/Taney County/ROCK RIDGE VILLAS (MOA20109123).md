@@ -1,0 +1,85 @@
+# Project: ROCK RIDGE VILLAS (MOA20109123)
+
+- HUD ID: MOA20109123
+- HUD ID before: 
+- Project: ROCK RIDGE VILLAS
+- Address: 325 SCHAEFER DR
+- City: BRANSON
+- State: MO
+- ZIP: 65616
+- ZIP extension: 
+- State project ID: 08-913
+- Latitude: 36.641705
+- Longitude: -93.28957
+- County FIPS: 29213
+- County from: 2020
+- Tract 2020: 29213480108
+- Tract 2010: 29213480105
+- Tract 2000: 29213980100
+- Tract 1990: 29213980100
+- Place 2020: 07966
+- Place 2010: 07966
+- Place 2000: 07966
+- Place 1990: 0495
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 36
+- Low-income reported: 38
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

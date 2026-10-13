@@ -1,0 +1,85 @@
+# Project: COLUMBIA STATION (LAA20080095)
+
+- HUD ID: LAA20080095
+- HUD ID before: 
+- Project: COLUMBIA STATION
+- Address: 1104 S. COLUMBIA STREET
+- City: BOGALUSA
+- State: LA
+- ZIP: 70427
+- ZIP extension: 0000
+- State project ID: LA-06-447
+- Latitude: 30.76655
+- Longitude: -89.85154
+- County FIPS: 22117
+- County from: 2020
+- Tract 2020: 22117950800
+- Tract 2010: 22117950800
+- Tract 2000: 22117951000
+- Tract 1990: 22117950800
+- Place 2020: 08150
+- Place 2010: 08150
+- Place 2000: 
+- Place 1990: 0130
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 30222
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 2
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

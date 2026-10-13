@@ -1,0 +1,85 @@
+# Project: BURKESTONE PLACE (GAA20060317)
+
+- HUD ID: GAA20060317
+- HUD ID before: 
+- Project: BURKESTONE PLACE
+- Address: 803 DAVIS ROAD
+- City: WAYNESBORO
+- State: GA
+- ZIP: 30830
+- ZIP extension: 
+- State project ID: GA-05-011
+- Latitude: 33.097684
+- Longitude: -82.008301
+- County FIPS: 13033
+- County from: 2020
+- Tract 2020: 13033950400
+- Tract 2010: 13033950400
+- Tract 2000: 13033950400
+- Tract 1990: 13033950400
+- Place 2020: 80984
+- Place 2010: 80984
+- Place 2000: 80984
+- Place 1990: 3005
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 341337
+- Units: 70
+- Low-income units: 69
+- Units reported: 70
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 24
+- 3-bedroom units: 12
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2007175, GAA2006320.
+- Record status: Existing, unchanged

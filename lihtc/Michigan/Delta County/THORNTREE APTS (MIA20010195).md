@@ -1,0 +1,85 @@
+# Project: THORNTREE APTS (MIA20010195)
+
+- HUD ID: MIA20010195
+- HUD ID before: 
+- Project: THORNTREE APTS
+- Address: 3300 THORNTREE DR
+- City: GLADSTONE
+- State: MI
+- ZIP: 49837
+- ZIP extension: 
+- State project ID: MI-1002
+- Latitude: 45.839872
+- Longitude: -87.054073
+- County FIPS: 26041
+- County from: 2020
+- Tract 2020: 26041970400
+- Tract 2010: 26041970400
+- Tract 2000: 26041970400
+- Tract 1990: 26041970400
+- Place 2020: 32300
+- Place 2010: 32300
+- Place 2000: 26360
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 57
+- Low-income units: 36
+- Units reported: 57
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 37
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

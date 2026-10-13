@@ -1,0 +1,85 @@
+# Project: FOREST MANOR APTS (COA20020050)
+
+- HUD ID: COA20020050
+- HUD ID before: 
+- Project: FOREST MANOR APTS
+- Address: 625 S FOREST ST
+- City: GLENDALE
+- State: CO
+- ZIP: 80246
+- ZIP extension: 
+- State project ID: 2001510
+- Latitude: 39.704615
+- Longitude: -104.927193
+- County FIPS: 08005
+- County from: 2020
+- Tract 2020: 08005004952
+- Tract 2010: 08005004952
+- Tract 2000: 08005004950
+- Tract 1990: 08005004950
+- Place 2020: 30340
+- Place 2010: 30340
+- Place 2000: 30340
+- Place 1990: 0530
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 103
+- Low-income units: 103
+- Units reported: 103
+- Low-income reported: 103
+- Efficiencies: 1
+- 1-bedroom units: 75
+- 2-bedroom units: 27
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

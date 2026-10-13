@@ -1,0 +1,85 @@
+# Project: TAMMANY HALL APTS II (NVA19910005)
+
+- HUD ID: NVA19910005
+- HUD ID before: 
+- Project: TAMMANY HALL APTS II
+- Address: 4386 ESCONDIDO ST
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89119
+- ZIP extension: 
+- State project ID: NV-89-21
+- Latitude: 36.109578
+- Longitude: -115.135026
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003002506
+- Tract 2010: 32003002506
+- Tract 2000: 32003002506
+- Tract 1990: 32003002502
+- Place 2020: 54600
+- Place 2010: 54600
+- Place 2000: 54600
+- Place 1990: 0084
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 33435
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 12
+- 1-bedroom units: 14
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NVA0000165.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BELLA VISTA APTS V (CAA20080105)
+
+- HUD ID: CAA20080105
+- HUD ID before: 
+- Project: BELLA VISTA APTS V
+- Address: 8500 BELLA VISTA AVE
+- City: PARLIER
+- State: CA
+- ZIP: 93648
+- ZIP extension: 
+- State project ID: CA-07-025
+- Latitude: 36.610219
+- Longitude: -119.543614
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019008503
+- Tract 2010: 06019008502
+- Tract 2000: 06019006801
+- Tract 1990: 06019006801
+- Place 2020: 55856
+- Place 2010: 55856
+- Place 2000: 55856
+- Place 1990: 2120
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 806698
+- Units: 47
+- Low-income units: 46
+- Units reported: 47
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

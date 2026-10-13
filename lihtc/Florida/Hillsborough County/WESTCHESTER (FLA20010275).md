@@ -1,0 +1,85 @@
+# Project: WESTCHESTER (FLA20010275)
+
+- HUD ID: FLA20010275
+- HUD ID before: 
+- Project: WESTCHESTER
+- Address: 901 NINA ELIZABETH CIR
+- City: BRANDON
+- State: FL
+- ZIP: 33510
+- ZIP extension: 
+- State project ID: 946
+- Latitude: 27.939034
+- Longitude: -82.270188
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057012304
+- Tract 2010: 12057012304
+- Tract 2000: 12057012304
+- Tract 1990: 12057012302
+- Place 2020: 08150
+- Place 2010: 08150
+- Place 2000: 08150
+- Place 1990: 0225
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 376
+- Low-income units: 376
+- Units reported: 376
+- Low-income reported: 376
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 184
+- 3-bedroom units: 120
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

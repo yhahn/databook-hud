@@ -1,0 +1,85 @@
+# Project: PARKWILD II (IAA19990070)
+
+- HUD ID: IAA19990070
+- HUD ID before: 
+- Project: PARKWILD II
+- Address: 649 PARKWILD DR
+- City: COUNCIL BLUFFS
+- State: IA
+- ZIP: 51503
+- ZIP extension: 
+- State project ID: 98-07
+- Latitude: 41.276523
+- Longitude: -95.855316
+- County FIPS: 19155
+- County from: 2020
+- Tract 2020: 19155030200
+- Tract 2010: 19155030200
+- Tract 2000: 19155030200
+- Tract 1990: 19155030200
+- Place 2020: 16860
+- Place 2010: 16860
+- Place 2000: 16860
+- Place 1990: 0945
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 204778
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 37
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA1998120, IAA1998100. AKA THE HEIGHTS II.
+- Record status: Existing, unchanged

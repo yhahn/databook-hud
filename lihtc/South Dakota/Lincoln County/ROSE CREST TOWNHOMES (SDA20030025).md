@@ -1,0 +1,85 @@
+# Project: ROSE CREST TOWNHOMES (SDA20030025)
+
+- HUD ID: SDA20030025
+- HUD ID before: 
+- Project: ROSE CREST TOWNHOMES
+- Address: 3316 W RAMBLER PL
+- City: SIOUX FALLS
+- State: SD
+- ZIP: 57108
+- ZIP extension: 
+- State project ID: S/B 1536
+- Latitude: 43.476522
+- Longitude: -96.766231
+- County FIPS: 46083
+- County from: 2020
+- Tract 2020: 46083010109
+- Tract 2010: 46083010102
+- Tract 2000: 46083010100
+- Tract 1990: 46083010100
+- Place 2020: 59020
+- Place 2010: 59020
+- Place 2000: 27260
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 77
+- Low-income units: 77
+- Units reported: 77
+- Low-income reported: 77
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 52
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

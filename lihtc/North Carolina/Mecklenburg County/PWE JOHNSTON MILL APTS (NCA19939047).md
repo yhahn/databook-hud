@@ -1,0 +1,85 @@
+# Project: PWE JOHNSTON MILL APTS (NCA19939047)
+
+- HUD ID: NCA19939047
+- HUD ID before: 
+- Project: PWE JOHNSTON MILL APTS
+- Address: 401 E 36TH ST
+- City: CHARLOTTE
+- State: NC
+- ZIP: 28205
+- ZIP extension: 
+- State project ID: 9000692
+- Latitude: 35.24859
+- Longitude: -80.805147
+- County FIPS: 37119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37119001400
+- Tract 2000: 37119001400
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 525934
+- Units: 98
+- Low-income units: 98
+- Units reported: 98
+- Low-income reported: 98
+- Efficiencies: 1
+- 1-bedroom units: 21
+- 2-bedroom units: 37
+- 3-bedroom units: 39
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

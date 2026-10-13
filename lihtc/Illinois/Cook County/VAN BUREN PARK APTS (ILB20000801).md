@@ -1,0 +1,85 @@
+# Project: VAN BUREN PARK APTS (ILB20000801)
+
+- HUD ID: ILB20000801
+- HUD ID before: 
+- Project: VAN BUREN PARK APTS
+- Address: 2045 W JACKSON BLVD
+- City: CHICAGO
+- State: IL
+- ZIP: 60612
+- ZIP extension: 
+- State project ID: IL-01-02049
+- Latitude: 41.877348
+- Longitude: -87.678171
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031838000
+- Tract 2010: 17031838000
+- Tract 2000: 17031281300
+- Tract 1990: 17031281300
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 679718
+- Units: 300
+- Low-income units: 299
+- Units reported: 300
+- Low-income reported: 299
+- Efficiencies: 0
+- 1-bedroom units: 223
+- 2-bedroom units: 47
+- 3-bedroom units: 27
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2000060.;
+- Record status: Existing, unchanged

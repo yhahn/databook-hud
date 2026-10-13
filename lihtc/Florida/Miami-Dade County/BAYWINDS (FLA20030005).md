@@ -1,0 +1,85 @@
+# Project: BAYWINDS (FLA20030005)
+
+- HUD ID: FLA20030005
+- HUD ID before: 
+- Project: BAYWINDS
+- Address: 11900 NE 16TH AVE
+- City: MIAMI
+- State: FL
+- ZIP: 33161
+- ZIP extension: 
+- State project ID: 1156
+- Latitude: 25.88573
+- Longitude: -80.16626
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086001208
+- Tract 2010: 12086001203
+- Tract 2000: 12086001203
+- Tract 1990: 12025001203
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 06600
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 204
+- Low-income units: 204
+- Units reported: 204
+- Low-income reported: 204
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 108
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

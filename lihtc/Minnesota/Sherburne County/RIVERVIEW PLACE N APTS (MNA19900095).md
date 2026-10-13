@@ -1,0 +1,85 @@
+# Project: RIVERVIEW PLACE N APTS (MNA19900095)
+
+- HUD ID: MNA19900095
+- HUD ID before: 
+- Project: RIVERVIEW PLACE N APTS
+- Address: 1310 15TH AVE N
+- City: PRINCETON
+- State: MN
+- ZIP: 
+- ZIP extension: 
+- State project ID: D1143
+- Latitude: 45.5405
+- Longitude: -93.5624
+- County FIPS: 27141
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27141030102
+- Tract 2000: 27095970700
+- Tract 1990: 27095970700
+- Place 2020: 
+- Place 2010: 52522
+- Place 2000: 52522
+- Place 1990: 3120
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA1987140.
+- Record status: Existing, unchanged

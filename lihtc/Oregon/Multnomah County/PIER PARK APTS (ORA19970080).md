@@ -1,0 +1,85 @@
+# Project: PIER PARK APTS (ORA19970080)
+
+- HUD ID: ORA19970080
+- HUD ID before: 
+- Project: PIER PARK APTS
+- Address: 8734 N COLUMBIA BLVD
+- City: PORTLAND
+- State: OR
+- ZIP: 97203
+- ZIP extension: 
+- State project ID: 1196
+- Latitude: 45.603786
+- Longitude: -122.750249
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051004104
+- Tract 2010: 41051004101
+- Tract 2000: 41051004101
+- Tract 1990: 41051004101
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 322148
+- Units: 164
+- Low-income units: 164
+- Units reported: 164
+- Low-income reported: 164
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 88
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

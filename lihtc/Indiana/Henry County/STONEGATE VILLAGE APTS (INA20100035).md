@@ -1,0 +1,85 @@
+# Project: STONEGATE VILLAGE APTS (INA20100035)
+
+- HUD ID: INA20100035
+- HUD ID before: 
+- Project: STONEGATE VILLAGE APTS
+- Address: 3302 STONEGATE DR
+- City: NEW CASTLE
+- State: IN
+- ZIP: 47362
+- ZIP extension: 
+- State project ID: IN-09-02400
+- Latitude: 39.900091
+- Longitude: -85.359301
+- County FIPS: 18065
+- County from: 2020
+- Tract 2020: 18065975900
+- Tract 2010: 18065975900
+- Tract 2000: 18065975900
+- Tract 1990: 18065975900
+- Place 2020: 52740
+- Place 2010: 52740
+- Place 2000: 52740
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 792104
+- Units: 122
+- Low-income units: 122
+- Units reported: 122
+- Low-income reported: 122
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 66
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 3801719
+- TCEP: Yes
+- TCEP amount: 6648014
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2010503.
+- Record status: Existing, unchanged

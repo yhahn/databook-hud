@@ -1,0 +1,85 @@
+# Project: CLINTON FAMILY APTS - MECCA (CAA20080210)
+
+- HUD ID: CAA20080210
+- HUD ID before: 
+- Project: CLINTON FAMILY APTS - MECCA
+- Address: 91098 SEVENTH ST
+- City: MECCA
+- State: CA
+- ZIP: 92254
+- ZIP extension: 
+- State project ID: CA-07-038
+- Latitude: 33.575435
+- Longitude: -116.074375
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065045610
+- Tract 2010: 06065045604
+- Tract 2000: 06065045604
+- Tract 1990: 06065045602
+- Place 2020: 46660
+- Place 2010: 46660
+- Place 2000: 46660
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 986712
+- Units: 59
+- Low-income units: 58
+- Units reported: 59
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 30
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

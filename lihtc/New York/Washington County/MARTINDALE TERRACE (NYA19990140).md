@@ -1,0 +1,85 @@
+# Project: MARTINDALE TERRACE (NYA19990140)
+
+- HUD ID: NYA19990140
+- HUD ID before: 
+- Project: MARTINDALE TERRACE
+- Address: 42 MARTINDALE TER
+- City: HUDSON FALLS
+- State: NY
+- ZIP: 12839
+- ZIP extension: 
+- State project ID: 19980414
+- Latitude: 43.30566
+- Longitude: -73.575843
+- County FIPS: 36115
+- County from: 2020
+- Tract 2020: 36115080200
+- Tract 2010: 36115080200
+- Tract 2000: 36115080200
+- Tract 1990: 36115080200
+- Place 2020: 35980
+- Place 2010: 35980
+- Place 2000: 35980
+- Place 1990: 1685
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

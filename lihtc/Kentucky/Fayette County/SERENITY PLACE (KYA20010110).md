@@ -1,0 +1,85 @@
+# Project: SERENITY PLACE (KYA20010110)
+
+- HUD ID: KYA20010110
+- HUD ID before: 
+- Project: SERENITY PLACE
+- Address: VERSAILLES RD.
+- City: LEXINGTON
+- State: KY
+- ZIP: 40504
+- ZIP extension: 
+- State project ID: KY-99-013
+- Latitude: 38.037
+- Longitude: -84.5416
+- County FIPS: 21067
+- County from: 2020
+- Tract 2020: 21067002600
+- Tract 2010: 21067002600
+- Tract 2000: 21067002600
+- Tract 1990: 21067001900
+- Place 2020: 46027
+- Place 2010: 46027
+- Place 2000: 
+- Place 1990: 1160
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

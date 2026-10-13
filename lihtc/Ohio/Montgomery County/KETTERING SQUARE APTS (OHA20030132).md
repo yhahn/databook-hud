@@ -1,0 +1,85 @@
+# Project: KETTERING SQUARE APTS (OHA20030132)
+
+- HUD ID: OHA20030132
+- HUD ID before: 
+- Project: KETTERING SQUARE APTS
+- Address: 1785 RENEE DR
+- City: KETTERING
+- State: OH
+- ZIP: 45440
+- ZIP extension: 
+- State project ID: 02-0108
+- Latitude: 39.662847
+- Longitude: -84.135462
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113021800
+- Tract 2010: 39113021800
+- Tract 2000: 39113021800
+- Tract 1990: 39113021800
+- Place 2020: 40040
+- Place 2010: 40040
+- Place 2000: 40040
+- Place 1990: 2025
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 245628
+- Units: 165
+- Low-income units: 165
+- Units reported: 165
+- Low-income reported: 165
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 91
+- 3-bedroom units: 62
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003591, OHA2004147.
+- Record status: Existing, unchanged

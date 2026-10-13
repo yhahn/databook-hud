@@ -1,0 +1,85 @@
+# Project: MERIDIAN COURT APARTMENTS (WAA19970100)
+
+- HUD ID: WAA19970100
+- HUD ID before: 
+- Project: MERIDIAN COURT APARTMENTS
+- Address: 31400 23RD AVENUE SOUTH
+- City: FEDERAL WAY
+- State: WA
+- ZIP: 98003
+- ZIP extension: 5548
+- State project ID: 96-29A
+- Latitude: 47.320376
+- Longitude: -122.303873
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033030006
+- Tract 2010: 53033030006
+- Tract 2000: 53033030002
+- Tract 1990: 53033030002
+- Place 2020: 23515
+- Place 2010: 23515
+- Place 2000: 23515
+- Place 1990: 0443
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 448937
+- Units: 200
+- Low-income units: 196
+- Units reported: 200
+- Low-income reported: 196
+- Efficiencies: 0
+- 1-bedroom units: 152
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

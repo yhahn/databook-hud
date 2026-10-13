@@ -1,0 +1,85 @@
+# Project: THE RIDGE AT SHELBYVILLE (TNA20100525)
+
+- HUD ID: TNA20100525
+- HUD ID before: 
+- Project: THE RIDGE AT SHELBYVILLE
+- Address: 260 ANTHONY LN
+- City: SHELBYVILLE
+- State: TN
+- ZIP: 37160
+- ZIP extension: 
+- State project ID: TN-08-065
+- Latitude: 35.484655
+- Longitude: -86.433677
+- County FIPS: 47003
+- County from: 2020
+- Tract 2020: 47003950600
+- Tract 2010: 47003950600
+- Tract 2000: 47003950600
+- Tract 1990: 47003950600
+- Place 2020: 67760
+- Place 2010: 67760
+- Place 2000: 67760
+- Place 1990: 1295
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 842284
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 42
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 7255109
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2010042. AKA RIDGE AT SHELBYVILLE.
+- Record status: Existing, unchanged

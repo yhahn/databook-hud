@@ -1,0 +1,85 @@
+# Project: ARLINGTON CREEK APTS (CAA20030025)
+
+- HUD ID: CAA20030025
+- HUD ID before: 
+- Project: ARLINGTON CREEK APTS
+- Address: 8131 WALERGA RD
+- City: ANTELOPE
+- State: CA
+- ZIP: 95843
+- ZIP extension: 
+- State project ID: CA-01-885
+- Latitude: 38.71787
+- Longitude: -121.364773
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067007430
+- Tract 2010: 06067007430
+- Tract 2000: 06067007418
+- Tract 1990: 06067007410
+- Place 2020: 02210
+- Place 2010: 02210
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 283829
+- Units: 148
+- Low-income units: 89
+- Units reported: 148
+- Low-income reported: 89
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 39
+- 3-bedroom units: 33
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

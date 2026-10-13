@@ -1,0 +1,85 @@
+# Project: RED LAKE FALLS APTS (MNA20130014)
+
+- HUD ID: MNA20130014
+- HUD ID before: 
+- Project: RED LAKE FALLS APTS
+- Address: 209 9TH ST SW
+- City: RED LAKE FALLS
+- State: MN
+- ZIP: 56750
+- ZIP extension: 
+- State project ID: D3431
+- Latitude: 47.8989
+- Longitude: -96.2896
+- County FIPS: 27125
+- County from: 2020
+- Tract 2020: 27125010200
+- Tract 2010: 27125010200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 53476
+- Place 2010: 53476
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 16
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 6
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

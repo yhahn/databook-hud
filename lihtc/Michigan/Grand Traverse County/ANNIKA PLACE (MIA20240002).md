@@ -1,0 +1,85 @@
+# Project: ANNIKA PLACE (MIA20240002)
+
+- HUD ID: MIA20240002
+- HUD ID before: 
+- Project: ANNIKA PLACE
+- Address: 947 SOUTH GARFIELD AVE
+- City: TRAVERSE CITY
+- State: MI
+- ZIP: 49686
+- ZIP extension: 0000
+- State project ID: 4063
+- Latitude: 44.749654
+- Longitude: -85.595097
+- County FIPS: 26055
+- County from: 2020
+- Tract 2020: 26055551100
+- Tract 2010: 26055551100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 80340
+- Place 2010: 80340
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 1203335
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: Yes
+- Affordability years: 45
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

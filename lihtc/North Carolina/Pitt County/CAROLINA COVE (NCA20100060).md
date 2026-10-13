@@ -1,0 +1,85 @@
+# Project: CAROLINA COVE (NCA20100060)
+
+- HUD ID: NCA20100060
+- HUD ID before: 
+- Project: CAROLINA COVE
+- Address: 111 LAKEVIEW TERRACE
+- City: GREENVILLE
+- State: NC
+- ZIP: 27834
+- ZIP extension: 
+- State project ID: 9002726
+- Latitude: 35.59109
+- Longitude: -77.387723
+- County FIPS: 37147
+- County from: 2020
+- Tract 2020: 37147000702
+- Tract 2010: 37147000702
+- Tract 2000: 37147000701
+- Tract 1990: 37147000700
+- Place 2020: 28080
+- Place 2010: 28080
+- Place 2000: 28080
+- Place 1990: 1070
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 30
+- 4-bedroom units: 14
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 50
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 13922868
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

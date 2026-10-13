@@ -1,0 +1,85 @@
+# Project: HUMMINGBIRD LANDING (ALA20160007)
+
+- HUD ID: ALA20160007
+- HUD ID before: 
+- Project: HUMMINGBIRD LANDING
+- Address: 751 MOORE ROAD
+- City: ANDALUSIA
+- State: AL
+- ZIP: 36420
+- ZIP extension: 
+- State project ID: 2014029-TC
+- Latitude: 31.279182
+- Longitude: -86.49754
+- County FIPS: 01039
+- County from: 2020
+- Tract 2020: 01039961800
+- Tract 2010: 01039961800
+- Tract 2000: 01039961800
+- Tract 1990: 
+- Place 2020: 01708
+- Place 2010: 01708
+- Place 2000: 01708
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 660304
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

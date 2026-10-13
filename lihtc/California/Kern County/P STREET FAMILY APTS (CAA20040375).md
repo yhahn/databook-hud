@@ -1,0 +1,85 @@
+# Project: P STREET FAMILY APTS (CAA20040375)
+
+- HUD ID: CAA20040375
+- HUD ID before: 
+- Project: P STREET FAMILY APTS
+- Address: 710 BRUNDAGE LN
+- City: BAKERSFIELD
+- State: CA
+- ZIP: 93304
+- ZIP extension: 
+- State project ID: CA-03-176
+- Latitude: 35.354026
+- Longitude: -119.009862
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029002001
+- Tract 2010: 06029002000
+- Tract 2000: 06029002000
+- Tract 1990: 06029002000
+- Place 2020: 03526
+- Place 2010: 03526
+- Place 2000: 03526
+- Place 1990: 0180
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 280113
+- Units: 21
+- Low-income units: 20
+- Units reported: 21
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 21
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA 22 P ST.
+- Record status: Existing, unchanged

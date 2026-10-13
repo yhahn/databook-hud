@@ -1,0 +1,85 @@
+# Project: JEFFERSON PLACE (VAA19900105)
+
+- HUD ID: VAA19900105
+- HUD ID before: 
+- Project: JEFFERSON PLACE
+- Address: 200 W JEFFERSON ST
+- City: WYTHEVILLE
+- State: VA
+- ZIP: 24382
+- ZIP extension: 
+- State project ID: VA-89-30345
+- Latitude: 36.945302
+- Longitude: -81.079656
+- County FIPS: 51197
+- County from: 2020
+- Tract 2020: 51197050101
+- Tract 2010: 51197050100
+- Tract 2000: 51197990100
+- Tract 1990: 51197990100
+- Place 2020: 88000
+- Place 2010: 88000
+- Place 2000: 29040
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BYRD HILL.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ASPEN PARK APARTMENTS (TXA20070015)
+
+- HUD ID: TXA20070015
+- HUD ID before: 
+- Project: ASPEN PARK APARTMENTS
+- Address: 8811 BOONE RD
+- City: HOUSTON
+- State: TX
+- ZIP: 77099
+- ZIP extension: 
+- State project ID: TX4350
+- Latitude: 29.682709
+- Longitude: -95.574403
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201453603
+- Tract 2010: 48201453602
+- Tract 2000: 48201453600
+- Tract 1990: 48201043602
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 435465
+- Units: 256
+- Low-income units: 245
+- Units reported: 256
+- Low-income reported: 245
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 184
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SUMMIT ASPEN PARK APTS.
+- Record status: Existing, unchanged

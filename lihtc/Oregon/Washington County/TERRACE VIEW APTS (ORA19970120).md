@@ -1,0 +1,85 @@
+# Project: TERRACE VIEW APTS (ORA19970120)
+
+- HUD ID: ORA19970120
+- HUD ID before: 
+- Project: TERRACE VIEW APTS
+- Address: 6685 SW SAGERT ST
+- City: TUALATIN
+- State: OR
+- ZIP: 97062
+- ZIP extension: 
+- State project ID: X001-311
+- Latitude: 45.375646
+- Longitude: -122.74579
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067032005
+- Tract 2010: 41067032005
+- Tract 2000: 41067032002
+- Tract 1990: 41067032000
+- Place 2020: 74950
+- Place 2010: 74950
+- Place 2000: 21250
+- Place 1990: 1150
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 178258
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SINGLE PARENTS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

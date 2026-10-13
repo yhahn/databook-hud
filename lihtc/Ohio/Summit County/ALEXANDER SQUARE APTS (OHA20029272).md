@@ -1,0 +1,85 @@
+# Project: ALEXANDER SQUARE APTS (OHA20029272)
+
+- HUD ID: OHA20029272
+- HUD ID before: 
+- Project: ALEXANDER SQUARE APTS
+- Address: 553 W TUSCARAWAS AVE
+- City: BARBERTON
+- State: OH
+- ZIP: 44203
+- ZIP extension: 
+- State project ID: 000099
+- Latitude: 41.013061
+- Longitude: -81.609908
+- County FIPS: 39153
+- County from: 2020
+- Tract 2020: 39153510100
+- Tract 2010: 39153510100
+- Tract 2000: 39153510100
+- Tract 1990: 39153510100
+- Place 2020: 03828
+- Place 2010: 03828
+- Place 2000: 03828
+- Place 1990: 0230
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 197000
+- Units: 35
+- Low-income units: 28
+- Units reported: 35
+- Low-income reported: 28
+- Efficiencies: 14
+- 1-bedroom units: 21
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 451000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003630, OHA2002007.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ELLIJAY EAST APARTMENTS (GAA20120040)
+
+- HUD ID: GAA20120040
+- HUD ID before: 
+- Project: ELLIJAY EAST APARTMENTS
+- Address: 188 ERIC SIMPSON DR
+- City: EAST ELLIJAY
+- State: GA
+- ZIP: 30540
+- ZIP extension: 8190
+- State project ID: GA-88-003
+- Latitude: 34.682346
+- Longitude: -84.482009
+- County FIPS: 13123
+- County from: 2020
+- Tract 2020: 13123080301
+- Tract 2010: 13123080300
+- Tract 2000: 13123080300
+- Tract 1990: 13123980200
+- Place 2020: 25356
+- Place 2010: 25356
+- Place 2000: 25356
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1990095.
+- Record status: Existing, unchanged

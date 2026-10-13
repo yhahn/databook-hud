@@ -1,0 +1,85 @@
+# Project: VINCENT SQUARE APTS (MEA20090020)
+
+- HUD ID: MEA20090020
+- HUD ID before: 
+- Project: VINCENT SQUARE APTS
+- Address: 8 MILL ST
+- City: AUBURN
+- State: ME
+- ZIP: 04210
+- ZIP extension: 
+- State project ID: MSHA-RLP-1469
+- Latitude: 44.087284
+- Longitude: -70.221194
+- County FIPS: 23001
+- County from: 2020
+- Tract 2020: 23001010500
+- Tract 2010: 23001010500
+- Tract 2000: 23001010500
+- Tract 1990: 23001010500
+- Place 2020: 02060
+- Place 2010: 02060
+- Place 2000: 02060
+- Place 1990: 0200
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 374000
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 470609
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

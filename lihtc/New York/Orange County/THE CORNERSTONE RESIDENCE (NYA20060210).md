@@ -1,0 +1,85 @@
+# Project: THE CORNERSTONE RESIDENCE (NYA20060210)
+
+- HUD ID: NYA20060210
+- HUD ID before: 
+- Project: THE CORNERSTONE RESIDENCE
+- Address: 111 BROADWAY
+- City: NEWBURGH
+- State: NY
+- ZIP: 12550
+- ZIP extension: 
+- State project ID: 20030414
+- Latitude: 41.499874
+- Longitude: -74.011472
+- County FIPS: 36071
+- County from: 2020
+- Tract 2020: 36071000501
+- Tract 2010: 36071000501
+- Tract 2000: 36071000500
+- Tract 1990: 36071000500
+- Place 2020: 50034
+- Place 2010: 50034
+- Place 2000: 50034
+- Place 1990: 2455
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1438966
+- Units: 128
+- Low-income units: 128
+- Units reported: 128
+- Low-income reported: 128
+- Efficiencies: 128
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CORNERSTONE RESIDENCE.
+- Record status: Existing, unchanged

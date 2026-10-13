@@ -1,0 +1,85 @@
+# Project: CP 2004 (CASTLEPOINT) (MOA20050045)
+
+- HUD ID: MOA20050045
+- HUD ID before: 
+- Project: CP 2004 (CASTLEPOINT)
+- Address: 10224 DUKE DR
+- City: ST LOUIS
+- State: MO
+- ZIP: 63136
+- ZIP extension: 
+- State project ID: 04-061
+- Latitude: 38.756208
+- Longitude: -90.245296
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189210502
+- Tract 2010: 29189210502
+- Tract 2000: 29189210500
+- Tract 1990: 29189210500
+- Place 2020: 11908
+- Place 2010: 11908
+- Place 2000: 04222
+- Place 1990: 0732
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CP 2004.
+- Record status: Existing, unchanged

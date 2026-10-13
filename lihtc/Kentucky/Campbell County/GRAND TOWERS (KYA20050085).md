@@ -1,0 +1,85 @@
+# Project: GRAND TOWERS (KYA20050085)
+
+- HUD ID: KYA20050085
+- HUD ID before: 
+- Project: GRAND TOWERS
+- Address: GRAND AVE.
+- City: NEWPORT
+- State: KY
+- ZIP: 41072
+- ZIP extension: 
+- State project ID: KY-03-038
+- Latitude: 39.0698
+- Longitude: -84.4793
+- County FIPS: 21037
+- County from: 2020
+- Tract 2020: 21037052500
+- Tract 2010: 21037052500
+- Tract 2000: 21037050500
+- Tract 1990: 21037052301
+- Place 2020: 55884
+- Place 2010: 55884
+- Place 2000: 
+- Place 1990: 0715
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 813896
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

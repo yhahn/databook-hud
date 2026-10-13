@@ -1,0 +1,85 @@
+# Project: HUDSON'S POINTE APTS (ORA19980075)
+
+- HUD ID: ORA19980075
+- HUD ID before: 
+- Project: HUDSON'S POINTE APTS
+- Address: 1021 S DOWNING ST
+- City: SEASIDE
+- State: OR
+- ZIP: 97138
+- ZIP extension: 
+- State project ID: X001-366
+- Latitude: 45.987751
+- Longitude: -123.928303
+- County FIPS: 41007
+- County from: 2020
+- Tract 2020: 41007950900
+- Tract 2010: 41007950900
+- Tract 2000: 41007950900
+- Tract 1990: 41007950900
+- Place 2020: 65950
+- Place 2010: 65950
+- Place 2000: 65950
+- Place 1990: 1035
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 19668
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 2
+- 1-bedroom units: 24
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

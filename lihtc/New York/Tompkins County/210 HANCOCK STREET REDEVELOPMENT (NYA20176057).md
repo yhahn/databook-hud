@@ -1,0 +1,85 @@
+# Project: 210 HANCOCK STREET REDEVELOPMENT (NYA20176057)
+
+- HUD ID: NYA20176057
+- HUD ID before: 
+- Project: 210 HANCOCK STREET REDEVELOPMENT
+- Address: 210 HANCOCK ST
+- City: ITHACA
+- State: NY
+- ZIP: 14850
+- ZIP extension: 
+- State project ID: 20156012
+- Latitude: 42.447884
+- Longitude: -76.50225
+- County FIPS: 36109
+- County from: 2020
+- Tract 2020: 36109000800
+- Tract 2010: 36109000800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 38077
+- Place 2010: 38077
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 1034000
+- Units: 59
+- Low-income units: 47
+- Units reported: 59
+- Low-income reported: 47
+- Efficiencies: 
+- 1-bedroom units: 42
+- 2-bedroom units: 12
+- 3-bedroom units: 5
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 206923
+- CDBG: Yes
+- CDBG amount: 223404
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: psychiatric disability
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

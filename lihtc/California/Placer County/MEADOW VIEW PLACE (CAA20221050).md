@@ -1,0 +1,85 @@
+# Project: MEADOW VIEW PLACE (CAA20221050)
+
+- HUD ID: CAA20221050
+- HUD ID before: 
+- Project: MEADOW VIEW PLACE
+- Address: 9855 MEADOW VIEW PLACE
+- City: TRUCKEE
+- State: CA
+- ZIP: 96161
+- ZIP extension: 
+- State project ID: CA-2020-429
+- Latitude: 39.346
+- Longitude: -120.1661
+- County FIPS: 06061
+- County from: 2020
+- Tract 2020: 06061022011
+- Tract 2010: 06057001206
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 80588
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 974049
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 
+- 1-bedroom units: 14
+- 2-bedroom units: 28
+- 3-bedroom units: 14
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PENINSULA STATION (CAA20100200)
+
+- HUD ID: CAA20100200
+- HUD ID before: 
+- Project: PENINSULA STATION
+- Address: 2901 S EL CAMINO REAL
+- City: SAN MATEO
+- State: CA
+- ZIP: 94403
+- ZIP extension: 
+- State project ID: CA-08-181
+- Latitude: 37.540742
+- Longitude: -122.30146
+- County FIPS: 06081
+- County from: 2020
+- Tract 2020: 06081607500
+- Tract 2010: 06081607500
+- Tract 2000: 06081607500
+- Tract 1990: 06081607500
+- Place 2020: 68252
+- Place 2010: 68252
+- Place 2000: 68252
+- Place 1990: 2555
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1674175
+- Units: 68
+- Low-income units: 67
+- Units reported: 68
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 53
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CENTENNIAL TOWERS (KSA19990020)
+
+- HUD ID: KSA19990020
+- HUD ID before: 
+- Project: CENTENNIAL TOWERS
+- Address: 2502 SHERMAN AVE
+- City: HAYS
+- State: KS
+- ZIP: 67601
+- ZIP extension: 
+- State project ID: 60164
+- Latitude: 38.883346
+- Longitude: -99.311698
+- County FIPS: 20051
+- County from: 2020
+- Tract 2020: 20051072701
+- Tract 2010: 20051072701
+- Tract 2000: 20051972700
+- Tract 1990: 20051972700
+- Place 2020: 31100
+- Place 2010: 31100
+- Place 2000: 31100
+- Place 1990: 1210
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 93000
+- Units: 90
+- Low-income units: 56
+- Units reported: 90
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HAYS SENIOR RESIDENCES.
+- Record status: Existing, unchanged

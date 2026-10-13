@@ -1,0 +1,85 @@
+# Project: SAMISH WAY FAMILY HOUSING LLLP (WAA20230027)
+
+- HUD ID: WAA20230027
+- HUD ID before: 
+- Project: SAMISH WAY FAMILY HOUSING LLLP
+- Address: 1331 E LAUREL ST.
+- City: BELLINGHAM
+- State: WA
+- ZIP: 98225
+- ZIP extension: 
+- State project ID: 21-87A
+- Latitude: 48.738552
+- Longitude: -122.470824
+- County FIPS: 53073
+- County from: 2020
+- Tract 2020: 53073001000
+- Tract 2010: 53073001000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 05280
+- Place 2010: 05280
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 1253516
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 19
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

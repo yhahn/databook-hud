@@ -1,0 +1,85 @@
+# Project: SALISBURY SQUARE (VTA20110035)
+
+- HUD ID: VTA20110035
+- HUD ID before: 
+- Project: SALISBURY SQUARE
+- Address: 34 SCHOOL ST
+- City: RANDOLPH
+- State: VT
+- ZIP: 05060
+- ZIP extension: 
+- State project ID: 0398
+- Latitude: 43.924543
+- Longitude: -72.671257
+- County FIPS: 50017
+- County from: 2020
+- Tract 2020: 50017959400
+- Tract 2010: 50017959400
+- Tract 2000: 50017959400
+- Tract 1990: 50017959400
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 320000
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 8
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 226383
+- CDBG: Yes
+- CDBG amount: 601600
+- TCAP: Yes
+- TCAP amount: 89000
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

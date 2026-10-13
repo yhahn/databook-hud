@@ -1,0 +1,85 @@
+# Project: THE WEBSTER AVENUE ASSOCIATES (NYB20010065)
+
+- HUD ID: NYB20010065
+- HUD ID before: 
+- Project: THE WEBSTER AVENUE ASSOCIATES
+- Address: 2327 WEBSTER AVE
+- City: BRONX
+- State: NY
+- ZIP: 10458
+- ZIP extension: 
+- State project ID: 1488
+- Latitude: 40.856933
+- Longitude: -73.895388
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005038303
+- Tract 2010: 36005038302
+- Tract 2000: 36005038300
+- Tract 1990: 36005038300
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 854353
+- Units: 130
+- Low-income units: 129
+- Units reported: 130
+- Low-income reported: 129
+- Efficiencies: 32
+- 1-bedroom units: 33
+- 2-bedroom units: 65
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHATEAU DESHA APARTMENTS (ARA20080115)
+
+- HUD ID: ARA20080115
+- HUD ID before: 
+- Project: CHATEAU DESHA APARTMENTS
+- Address: 84 JACK DANTE DR
+- City: DUMAS
+- State: AR
+- ZIP: 71639
+- ZIP extension: 
+- State project ID: AR-06-08
+- Latitude: 33.877339
+- Longitude: -91.468135
+- County FIPS: 05041
+- County from: 2020
+- Tract 2020: 05041950200
+- Tract 2010: 05041950200
+- Tract 2000: 05041950200
+- Tract 1990: 05041950200
+- Place 2020: 19990
+- Place 2010: 19990
+- Place 2000: 19990
+- Place 1990: 0585
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 425000
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

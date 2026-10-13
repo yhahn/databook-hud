@@ -1,0 +1,85 @@
+# Project: DELAWARE HIGHLANDS (KSA20060205)
+
+- HUD ID: KSA20060205
+- HUD ID before: 
+- Project: DELAWARE HIGHLANDS
+- Address: 12600 DELAWARE PKWY
+- City: KANSAS CITY
+- State: KS
+- ZIP: 66109
+- ZIP extension: 
+- State project ID: 60455
+- Latitude: 39.122075
+- Longitude: -94.872354
+- County FIPS: 20209
+- County from: 2020
+- Tract 2020: 20209044803
+- Tract 2010: 20209044803
+- Tract 2000: 20209044803
+- Tract 1990: 20209044803
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 301935
+- Units: 121
+- Low-income units: 121
+- Units reported: 121
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2007035. AKA DELAWARE HIGHLANDS (BOND).
+- Record status: Existing, unchanged

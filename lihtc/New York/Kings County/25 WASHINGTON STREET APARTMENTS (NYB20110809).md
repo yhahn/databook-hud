@@ -1,0 +1,85 @@
+# Project: 25 WASHINGTON STREET APARTMENTS (NYB20110809)
+
+- HUD ID: NYB20110809
+- HUD ID before: 
+- Project: 25 WASHINGTON STREET APARTMENTS
+- Address: 25 WASHINGTON ST
+- City: BROOKLYN
+- State: NY
+- ZIP: 11201
+- ZIP extension: 
+- State project ID: 1977
+- Latitude: 40.703789
+- Longitude: -73.98932
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047002100
+- Tract 2010: 36047002100
+- Tract 2000: 36047002100
+- Tract 1990: 36047002100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 131447
+- Units: 106
+- Low-income units: 21
+- Units reported: 106
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 82
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA 25 WASHINGTON AVE APTS.
+- Record status: Existing, unchanged

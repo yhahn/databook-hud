@@ -1,0 +1,85 @@
+# Project: VALLEY OAKS APTS PHASE II (CAA20110510)
+
+- HUD ID: CAA20110510
+- HUD ID before: 
+- Project: VALLEY OAKS APTS PHASE II
+- Address: 351 N W ST
+- City: TULARE
+- State: CA
+- ZIP: 93274
+- ZIP extension: 
+- State project ID: CA-09-513
+- Latitude: 36.209894
+- Longitude: -119.367073
+- County FIPS: 06107
+- County from: 2020
+- Tract 2020: 06107002202
+- Tract 2010: 06107002202
+- Tract 2000: 06107002202
+- Tract 1990: 06107002200
+- Place 2020: 80644
+- Place 2010: 80644
+- Place 2000: 80644
+- Place 1990: 2945
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 70
+- Units reported: 72
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 36
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 49
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 9132119
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011649.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 600 S FLORENCE ST (TXA19910035)
+
+- HUD ID: TXA19910035
+- HUD ID before: 
+- Project: 600 S FLORENCE ST
+- Address: 600 S FLORENCE ST
+- City: EL PASO
+- State: TX
+- ZIP: 79901
+- ZIP extension: 
+- State project ID: TX6765
+- Latitude: 31.754888
+- Longitude: -106.481269
+- County FIPS: 48141
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48141001900
+- Tract 2000: 48141001900
+- Tract 1990: 48141001900
+- Place 2020: 
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 1340
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

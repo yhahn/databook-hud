@@ -1,0 +1,85 @@
+# Project: ASHLEY MIDTOWN I (GAA20049003)
+
+- HUD ID: GAA20049003
+- HUD ID before: 
+- Project: ASHLEY MIDTOWN I
+- Address: 1518 E PARK AVE
+- City: SAVANNAH
+- State: GA
+- ZIP: 31404
+- ZIP extension: 2158
+- State project ID: 2002-048
+- Latitude: 32.05871
+- Longitude: -81.07335
+- County FIPS: 13051
+- County from: 2020
+- Tract 2020: 13051002200
+- Tract 2010: 13051002200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 293073
+- Units: 168
+- Low-income units: 134
+- Units reported: 168
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

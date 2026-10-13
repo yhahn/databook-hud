@@ -1,0 +1,85 @@
+# Project: GOLDMAN APTS (ILA20010040)
+
+- HUD ID: ILA20010040
+- HUD ID before: 
+- Project: GOLDMAN APTS
+- Address: 1629 SECOND AVE
+- City: ROCK ISLAND
+- State: IL
+- ZIP: 61201
+- ZIP extension: 
+- State project ID: 124199
+- Latitude: 41.510996
+- Longitude: -90.576852
+- County FIPS: 17161
+- County from: 2020
+- Tract 2020: 17161022600
+- Tract 2010: 17161022600
+- Tract 2000: 17161022600
+- Tract 1990: 17161022600
+- Place 2020: 65078
+- Place 2010: 65078
+- Place 2000: 65078
+- Place 1990: 4970
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 184473
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 3
+- 1-bedroom units: 12
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

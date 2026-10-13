@@ -1,0 +1,85 @@
+# Project: DUFFY SCHOOL (NJA20153045)
+
+- HUD ID: NJA20153045
+- HUD ID before: 
+- Project: DUFFY SCHOOL
+- Address: 203-225 W. 2ND STREET
+- City: FLORENCE
+- State: NJ
+- ZIP: 08518
+- ZIP extension: 
+- State project ID: NJ1012-964
+- Latitude: 40.121977
+- Longitude: -74.807411
+- County FIPS: 34005
+- County from: 2020
+- Tract 2020: 34005701301
+- Tract 2010: 34005701301
+- Tract 2000: 34005701301
+- Tract 1990: 34005701301
+- Place 2020: 23820
+- Place 2010: 23820
+- Place 2000: 23895
+- Place 1990: 1833
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1038333
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

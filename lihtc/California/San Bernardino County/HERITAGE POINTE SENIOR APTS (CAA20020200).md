@@ -1,0 +1,85 @@
+# Project: HERITAGE POINTE SENIOR APTS (CAA20020200)
+
+- HUD ID: CAA20020200
+- HUD ID before: 
+- Project: HERITAGE POINTE SENIOR APTS
+- Address: 8590 MALVEN AVE
+- City: RANCHO CUCAMONGA
+- State: CA
+- ZIP: 91730
+- ZIP extension: 
+- State project ID: CA-01-818
+- Latitude: 34.098353
+- Longitude: -117.592008
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071002105
+- Tract 2010: 06071002105
+- Tract 2000: 06071002100
+- Tract 1990: 06071002100
+- Place 2020: 59451
+- Place 2010: 59451
+- Place 2000: 53896
+- Place 1990: 2278
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 180423
+- Units: 49
+- Low-income units: 48
+- Units reported: 49
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 49
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

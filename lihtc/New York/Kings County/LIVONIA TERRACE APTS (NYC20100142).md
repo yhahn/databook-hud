@@ -1,0 +1,85 @@
+# Project: LIVONIA TERRACE APTS (NYC20100142)
+
+- HUD ID: NYC20100142
+- HUD ID before: 
+- Project: LIVONIA TERRACE APTS
+- Address: 446 ALABAMA AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11207
+- ZIP extension: 
+- State project ID: NY-09-011
+- Latitude: 40.66507
+- Longitude: -73.897256
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047113000
+- Tract 2010: 36047113000
+- Tract 2000: 36047113000
+- Tract 1990: 36047113000
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 270023
+- Units: 60
+- Low-income units: 58
+- Units reported: 60
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 3
+- 4-bedroom units: 27
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Unknown whether federal or state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2010555, NYC2009190.
+- Record status: Existing, unchanged

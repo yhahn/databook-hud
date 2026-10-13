@@ -1,0 +1,85 @@
+# Project: FLOR DE SOL II (KSA20100030)
+
+- HUD ID: KSA20100030
+- HUD ID before: 
+- Project: FLOR DE SOL II
+- Address: 777 E PINE ST
+- City: LIBERAL
+- State: KS
+- ZIP: 67901
+- ZIP extension: 
+- State project ID: 60500
+- Latitude: 37.025366
+- Longitude: -101.053963
+- County FIPS: 20175
+- County from: 2020
+- Tract 2020: 20175965600
+- Tract 2010: 20175965600
+- Tract 2000: 20175966000
+- Tract 1990: 20175966000
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 39825
+- Place 1990: 1610
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 256395
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1392858
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

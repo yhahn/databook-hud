@@ -1,0 +1,85 @@
+# Project: ESPERANZA APTS. (NJA19959891)
+
+- HUD ID: NJA19959891
+- HUD ID before: 
+- Project: ESPERANZA APTS.
+- Address: 10 WOOD ST
+- City: TRENTON
+- State: NJ
+- ZIP: 08618
+- ZIP extension: 3921
+- State project ID: PM01171
+- Latitude: 40.221812
+- Longitude: -74.761876
+- County FIPS: 34021
+- County from: 2020
+- Tract 2020: 34021000900
+- Tract 2010: 34021000900
+- Tract 2000: 34021000900
+- Tract 1990: 34021000900
+- Place 2020: 74000
+- Place 2010: 74000
+- Place 2000: 74000
+- Place 1990: 3770
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000315. AKA WOOD HOUSEING.
+- Record status: Updated

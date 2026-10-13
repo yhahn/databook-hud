@@ -1,0 +1,85 @@
+# Project: HILLSIDE TERRACE APTS (NYA20000130)
+
+- HUD ID: NYA20000130
+- HUD ID before: 
+- Project: HILLSIDE TERRACE APTS
+- Address: 17 KNOLLWOOD LN
+- City: POUGHKEEPSIE
+- State: NY
+- ZIP: 12603
+- ZIP extension: 
+- State project ID: 19980009
+- Latitude: 41.725279
+- Longitude: -73.842985
+- County FIPS: 36027
+- County from: 2020
+- Tract 2020: 36027140202
+- Tract 2010: 36027140200
+- Tract 2000: 36027140200
+- Tract 1990: 36027140200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 02616
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 35
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

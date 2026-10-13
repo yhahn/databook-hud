@@ -1,0 +1,85 @@
+# Project: EASTWOOD VILLAGE (OHA19989262)
+
+- HUD ID: OHA19989262
+- HUD ID before: 
+- Project: EASTWOOD VILLAGE
+- Address: 1042 EASTWAY DR
+- City: YOUNGSTOWN
+- State: OH
+- ZIP: 44505
+- ZIP extension: 
+- State project ID: 960123
+- Latitude: 41.117061
+- Longitude: -80.582416
+- County FIPS: 39099
+- County from: 2020
+- Tract 2020: 39099813800
+- Tract 2010: 39099813800
+- Tract 2000: 39099800200
+- Tract 1990: 39099800200
+- Place 2020: 88000
+- Place 2010: 88000
+- Place 2000: 88000
+- Place 1990: 4845
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 458326
+- Units: 154
+- Low-income units: 152
+- Units reported: 154
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 111
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

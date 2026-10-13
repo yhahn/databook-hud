@@ -1,0 +1,85 @@
+# Project: CAMBRIDGE HOUSE OF O'FALLON (ILA20030010)
+
+- HUD ID: ILA20030010
+- HUD ID before: 
+- Project: CAMBRIDGE HOUSE OF O'FALLON
+- Address: 844 CAMBRIDGE BLVD
+- City: O FALLON
+- State: IL
+- ZIP: 62269
+- ZIP extension: 
+- State project ID: 138401
+- Latitude: 38.585303
+- Longitude: -89.923696
+- County FIPS: 17163
+- County from: 2020
+- Tract 2020: 17163504354
+- Tract 2010: 17163504354
+- Tract 2000: 17163504304
+- Tract 1990: 17163504304
+- Place 2020: 55249
+- Place 2010: 55249
+- Place 2000: 55249
+- Place 1990: 4330
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 565773
+- Units: 103
+- Low-income units: 103
+- Units reported: 103
+- Low-income reported: 103
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

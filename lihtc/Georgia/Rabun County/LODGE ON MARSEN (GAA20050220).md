@@ -1,0 +1,85 @@
+# Project: LODGE ON MARSEN (GAA20050220)
+
+- HUD ID: GAA20050220
+- HUD ID before: 
+- Project: LODGE ON MARSEN
+- Address: 160 MARSEN KNOB DR
+- City: MOUNTAIN CITY
+- State: GA
+- ZIP: 30562
+- ZIP extension: 
+- State project ID: GA-02-022
+- Latitude: 34.9376
+- Longitude: -83.3469
+- County FIPS: 13241
+- County from: 2020
+- Tract 2020: 13241970101
+- Tract 2010: 13241970100
+- Tract 2000: 13241970100
+- Tract 1990: 13241970100
+- Place 2020: 53116
+- Place 2010: 53116
+- Place 2000: 16656
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 305874
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

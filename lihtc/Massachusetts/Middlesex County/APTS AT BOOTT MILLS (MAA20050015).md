@@ -1,0 +1,85 @@
+# Project: APTS AT BOOTT MILLS (MAA20050015)
+
+- HUD ID: MAA20050015
+- HUD ID before: 
+- Project: APTS AT BOOTT MILLS
+- Address: 141 JOHN ST
+- City: LOWELL
+- State: MA
+- ZIP: 01852
+- ZIP extension: 
+- State project ID: MA-03-007
+- Latitude: 42.647508
+- Longitude: -71.307413
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017310102
+- Tract 2010: 25017310100
+- Tract 2000: 25017310100
+- Tract 1990: 25017310100
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 2180
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 154
+- Low-income units: 32
+- Units reported: 154
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 71
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000094, MAB2005020. AKA APARTMENTS AT BOOTT MILLS.
+- Record status: Existing, unchanged

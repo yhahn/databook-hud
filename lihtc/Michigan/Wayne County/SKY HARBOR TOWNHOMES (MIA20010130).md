@@ -1,0 +1,85 @@
+# Project: SKY HARBOR TOWNHOMES (MIA20010130)
+
+- HUD ID: MIA20010130
+- HUD ID before: 
+- Project: SKY HARBOR TOWNHOMES
+- Address: 15001 BRANDT ST
+- City: ROMULUS
+- State: MI
+- ZIP: 48174
+- ZIP extension: 
+- State project ID: MI-2196
+- Latitude: 42.195263
+- Longitude: -83.336238
+- County FIPS: 26163
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26163586200
+- Tract 2000: 26163586200
+- Tract 1990: 26163586200
+- Place 2020: 
+- Place 2010: 69420
+- Place 2000: 69420
+- Place 1990: 2342
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 352
+- Low-income units: 351
+- Units reported: 352
+- Low-income reported: 351
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 176
+- 3-bedroom units: 176
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA SKY HARBOR
+- Record status: Existing, unchanged

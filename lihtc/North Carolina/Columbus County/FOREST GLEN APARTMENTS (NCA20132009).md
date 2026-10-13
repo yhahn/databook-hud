@@ -1,0 +1,85 @@
+# Project: FOREST GLEN APARTMENTS (NCA20132009)
+
+- HUD ID: NCA20132009
+- HUD ID before: 
+- Project: FOREST GLEN APARTMENTS
+- Address: 106 FOREST GLEN DR
+- City: TABOR CITY
+- State: NC
+- ZIP: 28463
+- ZIP extension: 7642
+- State project ID: 9133423
+- Latitude: 34.1104
+- Longitude: -78.7738
+- County FIPS: 37047
+- County from: 2020
+- Tract 2020: 37047931201
+- Tract 2010: 37047931200
+- Tract 2000: 37047991200
+- Tract 1990: 
+- Place 2020: 66520
+- Place 2010: 99999
+- Place 2000: 66520
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 383946
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 29
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

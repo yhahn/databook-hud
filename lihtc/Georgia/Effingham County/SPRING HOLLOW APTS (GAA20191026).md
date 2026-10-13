@@ -1,0 +1,85 @@
+# Project: SPRING HOLLOW APTS (GAA20191026)
+
+- HUD ID: GAA20191026
+- HUD ID before: 
+- Project: SPRING HOLLOW APTS
+- Address: 800 ASH STREET EXTENSION
+- City: SPRINGFIELD
+- State: GA
+- ZIP: 31329
+- ZIP extension: 
+- State project ID: 2017-519
+- Latitude: 32.376062
+- Longitude: -81.312305
+- County FIPS: 13103
+- County from: 2020
+- Tract 2020: 13103030205
+- Tract 2010: 13103030202
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 72780
+- Place 2010: 72780
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 140870
+- Units: 53
+- Low-income units: 52
+- Units reported: 53
+- Low-income reported: 52
+- Efficiencies: 
+- 1-bedroom units: 20
+- 2-bedroom units: 33
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

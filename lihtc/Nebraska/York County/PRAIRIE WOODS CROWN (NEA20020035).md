@@ -1,0 +1,85 @@
+# Project: PRAIRIE WOODS CROWN (NEA20020035)
+
+- HUD ID: NEA20020035
+- HUD ID before: 
+- Project: PRAIRIE WOODS CROWN
+- Address: 1224 N INDIANA AVE
+- City: YORK
+- State: NE
+- ZIP: 68467
+- ZIP extension: 
+- State project ID: 7-0534
+- Latitude: 40.872626
+- Longitude: -97.570732
+- County FIPS: 31185
+- County from: 2020
+- Tract 2020: 31185969700
+- Tract 2010: 31185969700
+- Tract 2000: 31185989700
+- Tract 1990: 31185989700
+- Place 2020: 54045
+- Place 2010: 54045
+- Place 2000: 54045
+- Place 1990: 2695
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 141795
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

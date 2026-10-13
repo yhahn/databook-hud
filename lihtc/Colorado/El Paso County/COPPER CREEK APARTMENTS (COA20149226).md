@@ -1,0 +1,85 @@
+# Project: COPPER CREEK APARTMENTS (COA20149226)
+
+- HUD ID: COA20149226
+- HUD ID before: 
+- Project: COPPER CREEK APARTMENTS
+- Address: 4980 COPPER SPRINGS VIEW
+- City: COLORADO SPRINGS
+- State: CO
+- ZIP: 80916
+- ZIP extension: 
+- State project ID: 2013508
+- Latitude: 38.823481
+- Longitude: -104.743703
+- County FIPS: 08041
+- County from: 2020
+- Tract 2020: 08041006302
+- Tract 2010: 08041006302
+- Tract 2000: 08041006400
+- Tract 1990: 
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1089829
+- Units: 216
+- Low-income units: 214
+- Units reported: 216
+- Low-income reported: 214
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 125
+- 3-bedroom units: 47
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

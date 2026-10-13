@@ -1,0 +1,85 @@
+# Project: SOUTHCOURT TOWNHOMES (IAA19970115)
+
+- HUD ID: IAA19970115
+- HUD ID before: 
+- Project: SOUTHCOURT TOWNHOMES
+- Address: 710 11TH ST SOUTH
+- City: NEVADA
+- State: IA
+- ZIP: 50201
+- ZIP extension: 0000
+- State project ID: 95-74
+- Latitude: 42.003402
+- Longitude: -93.444563
+- County FIPS: 19169
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19169010300
+- Tract 2000: 19169010300
+- Tract 1990: 19169010300
+- Place 2020: 
+- Place 2010: 55695
+- Place 2000: 55695
+- Place 1990: 3015
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 360597
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Handicapped
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

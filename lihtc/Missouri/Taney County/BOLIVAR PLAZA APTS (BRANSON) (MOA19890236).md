@@ -1,0 +1,85 @@
+# Project: BOLIVAR PLAZA APTS (BRANSON) (MOA19890236)
+
+- HUD ID: MOA19890236
+- HUD ID before: 
+- Project: BOLIVAR PLAZA APTS (BRANSON)
+- Address: 407 JUDY ST
+- City: BRANSON
+- State: MO
+- ZIP: 65616
+- ZIP extension: 
+- State project ID: 99018
+- Latitude: 36.633939
+- Longitude: -93.276571
+- County FIPS: 29213
+- County from: 2020
+- Tract 2020: 29213480108
+- Tract 2010: 29213480105
+- Tract 2000: 29213980100
+- Tract 1990: 29213980100
+- Place 2020: 07966
+- Place 2010: 07966
+- Place 2000: 07966
+- Place 1990: 0495
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

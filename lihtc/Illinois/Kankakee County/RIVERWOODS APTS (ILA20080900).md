@@ -1,0 +1,85 @@
+# Project: RIVERWOODS APTS (ILA20080900)
+
+- HUD ID: ILA20080900
+- HUD ID before: 
+- Project: RIVERWOODS APTS
+- Address: 300 E RIVER ST
+- City: KANKAKEE
+- State: IL
+- ZIP: 60901
+- ZIP extension: 
+- State project ID: 260207
+- Latitude: 41.113555
+- Longitude: -87.863758
+- County FIPS: 17091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17091012400
+- Tract 2000: 17091012400
+- Tract 1990: 17091012400
+- Place 2020: 
+- Place 2010: 38934
+- Place 2000: 38934
+- Place 1990: 2915
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 646286
+- Units: 125
+- Low-income units: 125
+- Units reported: 125
+- Low-income reported: 125
+- Efficiencies: 0
+- 1-bedroom units: 125
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000078.
+- Record status: Existing, unchanged

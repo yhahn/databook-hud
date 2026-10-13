@@ -1,0 +1,85 @@
+# Project: JACKLYN APTS III (MIA19980065)
+
+- HUD ID: MIA19980065
+- HUD ID before: 
+- Project: JACKLYN APTS III
+- Address: 1250 KENWOOD AVE
+- City: BELDING
+- State: MI
+- ZIP: 48809
+- ZIP extension: 
+- State project ID: MI-1942
+- Latitude: 43.098272
+- Longitude: -85.245065
+- County FIPS: 26067
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26067030300
+- Tract 2000: 26067030300
+- Tract 1990: 26067030300
+- Place 2020: 
+- Place 2010: 06900
+- Place 2000: 06900
+- Place 1990: 0190
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

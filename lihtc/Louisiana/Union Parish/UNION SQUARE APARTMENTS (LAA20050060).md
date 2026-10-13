@@ -1,0 +1,85 @@
+# Project: UNION SQUARE APARTMENTS (LAA20050060)
+
+- HUD ID: LAA20050060
+- HUD ID before: 
+- Project: UNION SQUARE APARTMENTS
+- Address: 601 PLUM STREET
+- City: JUNCTION CITY
+- State: LA
+- ZIP: 71749
+- ZIP extension: 0000
+- State project ID: LA-04-048
+- Latitude: 33.011042
+- Longitude: -92.721953
+- County FIPS: 22111
+- County from: 2020
+- Tract 2020: 22111960200
+- Tract 2010: 22111960200
+- Tract 2000: 22073010700
+- Tract 1990: 22073001200
+- Place 2020: 38985
+- Place 2010: 38985
+- Place 2000: 51410
+- Place 1990: 0890
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 92907
+- Units: 32
+- Low-income units: 8
+- Units reported: 32
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: Acquisition/Rehab
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA2005059, LAA2005057.;
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LANDINGS AT CROSS BAYOU (FLA20156030)
+
+- HUD ID: FLA20156030
+- HUD ID before: 
+- Project: LANDINGS AT CROSS BAYOU
+- Address: 6835 54TH AVE N
+- City: ST PETERSBURG
+- State: FL
+- ZIP: 33709
+- ZIP extension: 
+- State project ID: 2668
+- Latitude: 27.821136
+- Longitude: -82.732746
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103025018
+- Tract 2010: 12103025018
+- Tract 2000: 12103025001
+- Tract 1990: 12103025001
+- Place 2020: 76481
+- Place 2010: 76481
+- Place 2000: 63000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 184
+- Units reported: 184
+- Low-income reported: 184
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

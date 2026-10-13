@@ -1,0 +1,85 @@
+# Project: GREENBRIAR APTS (SPENCER) (TNA20120811)
+
+- HUD ID: TNA20120811
+- HUD ID before: 
+- Project: GREENBRIAR APTS (SPENCER)
+- Address: 427 DRAKE SHOCKLEY ST
+- City: SPENCER
+- State: TN
+- ZIP: 38585
+- ZIP extension: 
+- State project ID: TN-11-001
+- Latitude: 35.730929
+- Longitude: -85.455467
+- County FIPS: 47175
+- County from: 2020
+- Tract 2020: 47175925200
+- Tract 2010: 47175925200
+- Tract 2000: 47175985200
+- Tract 1990: 47175985200
+- Place 2020: 70240
+- Place 2010: 70240
+- Place 2000: 70240
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 288328
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

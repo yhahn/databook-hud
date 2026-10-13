@@ -1,0 +1,85 @@
+# Project: HICKORY WAY APTS (WVA19960025)
+
+- HUD ID: WVA19960025
+- HUD ID before: 
+- Project: HICKORY WAY APTS
+- Address: 1160 FLORIDA ST
+- City: MILTON
+- State: WV
+- ZIP: 25541
+- ZIP extension: 
+- State project ID: WV-12-386
+- Latitude: 38.439474
+- Longitude: -82.134386
+- County FIPS: 54011
+- County from: 2020
+- Tract 2020: 54011010802
+- Tract 2010: 54011010800
+- Tract 2000: 54011010800
+- Tract 1990: 54011010800
+- Place 2020: 54484
+- Place 2010: 54484
+- Place 2000: 19516
+- Place 1990: 1050
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

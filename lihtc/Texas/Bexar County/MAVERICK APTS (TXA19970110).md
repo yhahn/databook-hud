@@ -1,0 +1,85 @@
+# Project: MAVERICK APTS (TXA19970110)
+
+- HUD ID: TXA19970110
+- HUD ID before: 
+- Project: MAVERICK APTS
+- Address: 606 N PRESA ST
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78205
+- ZIP extension: 
+- State project ID: TX1460
+- Latitude: 29.426206
+- Longitude: -98.48849
+- County FIPS: 48029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48029110100
+- Tract 2000: 48029110100
+- Tract 1990: 48029110100
+- Place 2020: 
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3745
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 75
+- Units reported: 90
+- Low-income reported: 75
+- Efficiencies: 54
+- 1-bedroom units: 19
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

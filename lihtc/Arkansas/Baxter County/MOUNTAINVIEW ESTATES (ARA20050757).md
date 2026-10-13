@@ -1,0 +1,85 @@
+# Project: MOUNTAINVIEW ESTATES (ARA20050757)
+
+- HUD ID: ARA20050757
+- HUD ID before: 
+- Project: MOUNTAINVIEW ESTATES
+- Address: 11 SUNCHASE CT
+- City: GASSVILLE
+- State: AR
+- ZIP: 72635
+- ZIP extension: 
+- State project ID: AR-03-40-001
+- Latitude: 36.291804
+- Longitude: -92.478507
+- County FIPS: 05005
+- County from: 2020
+- Tract 2020: 05005950900
+- Tract 2010: 05005950900
+- Tract 2000: 05005950900
+- Tract 1990: 05005950900
+- Place 2020: 26050
+- Place 2010: 26050
+- Place 2000: 15490
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 278532
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 1
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2005067.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PALISADES OF PACIFIC VI (MOA19920390)
+
+- HUD ID: MOA19920390
+- HUD ID before: 
+- Project: PALISADES OF PACIFIC VI
+- Address: 635 PALISADES DR
+- City: PACIFIC
+- State: MO
+- ZIP: 63069
+- ZIP extension: 
+- State project ID: 92-042
+- Latitude: 38.489536
+- Longitude: -90.750957
+- County FIPS: 29071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29071800702
+- Tract 2000: 29071800702
+- Tract 1990: 29071800700
+- Place 2020: 
+- Place 2010: 55910
+- Place 2000: 28918
+- Place 1990: 3290
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

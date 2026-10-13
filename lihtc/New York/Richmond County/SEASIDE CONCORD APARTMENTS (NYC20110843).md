@@ -1,0 +1,85 @@
+# Project: SEASIDE CONCORD APARTMENTS (NYC20110843)
+
+- HUD ID: NYC20110843
+- HUD ID before: 
+- Project: SEASIDE CONCORD APARTMENTS
+- Address: 55 BOWEN STREET
+- City: STATEN ISLAND
+- State: NY
+- ZIP: 10304
+- ZIP extension: 
+- State project ID: 26-1548880
+- Latitude: 40.614529
+- Longitude: -74.083399
+- County FIPS: 36085
+- County from: 2020
+- Tract 2020: 36085004003
+- Tract 2010: 36085004000
+- Tract 2000: 36085004000
+- Tract 1990: 36085007400
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 2606136
+- Units: 430
+- Low-income units: 414
+- Units reported: 430
+- Low-income reported: 414
+- Efficiencies: 0
+- 1-bedroom units: 105
+- 2-bedroom units: 258
+- 3-bedroom units: 67
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

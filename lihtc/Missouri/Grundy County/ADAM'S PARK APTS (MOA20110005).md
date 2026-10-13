@@ -1,0 +1,85 @@
+# Project: ADAM'S PARK APTS (MOA20110005)
+
+- HUD ID: MOA20110005
+- HUD ID before: 
+- Project: ADAM'S PARK APTS
+- Address: 1312 E NINTH ST
+- City: TRENTON
+- State: MO
+- ZIP: 64683
+- ZIP extension: 
+- State project ID: 10-041
+- Latitude: 40.074181
+- Longitude: -93.605478
+- County FIPS: 29079
+- County from: 2020
+- Tract 2020: 29079960400
+- Tract 2010: 29079960400
+- Tract 2000: 29079960400
+- Tract 1990: 29079960400
+- Place 2020: 73816
+- Place 2010: 73816
+- Place 2000: 73816
+- Place 1990: 4260
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 385000
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA2011542. AKA TRENTON SENIOR HOUSING.
+- Record status: Existing, unchanged

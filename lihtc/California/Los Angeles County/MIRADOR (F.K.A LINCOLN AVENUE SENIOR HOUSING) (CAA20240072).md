@@ -1,0 +1,85 @@
+# Project: MIRADOR (F.K.A LINCOLN AVENUE SENIOR HOUSING) (CAA20240072)
+
+- HUD ID: CAA20240072
+- HUD ID before: 
+- Project: MIRADOR (F.K.A LINCOLN AVENUE SENIOR HOUSING)
+- Address: 2439 LINCOLN AVENUE
+- City: ALTADENA
+- State: CA
+- ZIP: 91001
+- ZIP extension: 
+- State project ID: CA-2022-028
+- Latitude: 34.187861
+- Longitude: -118.159483
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037461000
+- Tract 2010: 06037461000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 01290
+- Place 2010: 01290
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 2500000
+- Units: 71
+- Low-income units: 70
+- Units reported: 71
+- Low-income reported: 70
+- Efficiencies: 38
+- 1-bedroom units: 32
+- 2-bedroom units: 1
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 66
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

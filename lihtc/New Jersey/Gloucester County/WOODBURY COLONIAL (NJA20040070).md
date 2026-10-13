@@ -1,0 +1,85 @@
+# Project: WOODBURY COLONIAL (NJA20040070)
+
+- HUD ID: NJA20040070
+- HUD ID before: 
+- Project: WOODBURY COLONIAL
+- Address: 124 GREEN AVE
+- City: WOODBURY
+- State: NJ
+- ZIP: 08096
+- ZIP extension: 
+- State project ID: 695
+- Latitude: 39.833975
+- Longitude: -75.150543
+- County FIPS: 34015
+- County from: 2020
+- Tract 2020: 34015501002
+- Tract 2010: 34015501002
+- Tract 2000: 34015501002
+- Tract 1990: 34015501002
+- Place 2020: 82120
+- Place 2010: 82120
+- Place 2000: 82120
+- Place 1990: 4115
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 93
+- Low-income units: 37
+- Units reported: 93
+- Low-income reported: 37
+- Efficiencies: 93
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

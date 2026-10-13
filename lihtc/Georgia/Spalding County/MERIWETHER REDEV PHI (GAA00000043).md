@@ -1,0 +1,85 @@
+# Project: MERIWETHER REDEV PHI (GAA00000043)
+
+- HUD ID: GAA00000043
+- HUD ID before: 
+- Project: MERIWETHER REDEV PHI
+- Address: 426 S 15TH ST
+- City: GRIFFIN
+- State: GA
+- ZIP: 30224
+- ZIP extension: 
+- State project ID: GA1012-485
+- Latitude: 33.243021
+- Longitude: -84.277168
+- County FIPS: 13255
+- County from: 2020
+- Tract 2020: 13255160701
+- Tract 2010: 13255160700
+- Tract 2000: 13255160700
+- Tract 1990: 13255160700
+- Place 2020: 35324
+- Place 2010: 35324
+- Place 2000: 35324
+- Place 1990: 1270
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

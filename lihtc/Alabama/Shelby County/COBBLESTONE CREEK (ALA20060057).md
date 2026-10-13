@@ -1,0 +1,85 @@
+# Project: COBBLESTONE CREEK (ALA20060057)
+
+- HUD ID: ALA20060057
+- HUD ID before: 
+- Project: COBBLESTONE CREEK
+- Address: 1501 COBBLESTONE CRK
+- City: MONTEVALLO
+- State: AL
+- ZIP: 35115
+- ZIP extension: 
+- State project ID: AL-06-0048
+- Latitude: 33.119097
+- Longitude: -86.852704
+- County FIPS: 01117
+- County from: 2020
+- Tract 2020: 01117030407
+- Tract 2010: 01117030407
+- Tract 2000: 01117030403
+- Tract 1990: 01117030403
+- Place 2020: 50312
+- Place 2010: 50312
+- Place 2000: 00820
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 571709
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 56
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1840490
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2008100.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: STEEPLE SQUARE (MEA20150030)
+
+- HUD ID: MEA20150030
+- HUD ID before: MEA19980030
+- Project: STEEPLE SQUARE
+- Address: 17 WEBB ST
+- City: WESTBROOK
+- State: ME
+- ZIP: 04092
+- ZIP extension: 
+- State project ID: MSHA-RLP-949
+- Latitude: 43.681238
+- Longitude: -70.367011
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005002700
+- Tract 2010: 23005002700
+- Tract 2000: 23005002700
+- Tract 1990: 23005002700
+- Place 2020: 82105
+- Place 2010: 82105
+- Place 2000: 82105
+- Place 1990: 4960
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 515162
+- Units: 73
+- Low-income units: 73
+- Units reported: 73
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 16
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS MEA19980030 AND STATE_ID IS MSHA-RLP-949
+- Record status: Existing, unchanged

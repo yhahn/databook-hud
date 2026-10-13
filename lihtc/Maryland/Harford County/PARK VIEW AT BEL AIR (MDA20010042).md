@@ -1,0 +1,85 @@
+# Project: PARK VIEW AT BEL AIR (MDA20010042)
+
+- HUD ID: MDA20010042
+- HUD ID before: 
+- Project: PARK VIEW AT BEL AIR
+- Address: 555 S ATWOOD RD
+- City: BEL AIR
+- State: MD
+- ZIP: 21014
+- ZIP extension: 
+- State project ID: MD99-22
+- Latitude: 39.527802
+- Longitude: -76.348812
+- County FIPS: 24025
+- County from: 2020
+- Tract 2020: 24025303501
+- Tract 2010: 24025303501
+- Tract 2000: 24025303500
+- Tract 1990: 24025303500
+- Place 2020: 05550
+- Place 2010: 05550
+- Place 2000: 05550
+- Place 1990: 0048
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 101
+- Low-income units: 99
+- Units reported: 101
+- Low-income reported: 99
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

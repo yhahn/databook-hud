@@ -1,0 +1,85 @@
+# Project: CHAPEL RIDGE OF JACKSONVILLE II (ARA20030035)
+
+- HUD ID: ARA20030035
+- HUD ID before: 
+- Project: CHAPEL RIDGE OF JACKSONVILLE II
+- Address: 1415 STANPHIL RD
+- City: JACKSONVILLE
+- State: AR
+- ZIP: 72076
+- ZIP extension: 
+- State project ID: AR-03-53
+- Latitude: 34.854794
+- Longitude: -92.097863
+- County FIPS: 05119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05119003607
+- Tract 2000: 05119003607
+- Tract 1990: 05119003607
+- Place 2020: 
+- Place 2010: 34750
+- Place 2000: 34750
+- Place 1990: 1045
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 163441
+- Units: 116
+- Low-income units: 88
+- Units reported: 116
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

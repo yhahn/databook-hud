@@ -1,0 +1,85 @@
+# Project: OSCEOLA BEND (FLA20140060)
+
+- HUD ID: FLA20140060
+- HUD ID before: 
+- Project: OSCEOLA BEND
+- Address: 3201 ESPINOSA DR
+- City: KISSIMMEE
+- State: FL
+- ZIP: 34741
+- ZIP extension: 
+- State project ID: 2729
+- Latitude: 28.345695
+- Longitude: -81.425564
+- County FIPS: 12097
+- County from: 2020
+- Tract 2020: 12097042100
+- Tract 2010: 12097042100
+- Tract 2000: 12097042200
+- Tract 1990: 12097040203
+- Place 2020: 36950
+- Place 2010: 36950
+- Place 2000: 36950
+- Place 1990: 1075
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: DARBY HOUSE (VAA20070783)
+
+- HUD ID: VAA20070783
+- HUD ID before: 
+- Project: DARBY HOUSE
+- Address: 1400 SHIRLEYDALE AVE
+- City: RICHMOND
+- State: VA
+- ZIP: 23231
+- ZIP extension: 
+- State project ID: 9044
+- Latitude: 37.50848
+- Longitude: -77.391267
+- County FIPS: 51087
+- County from: 2020
+- Tract 2020: 51087201504
+- Tract 2010: 51087201501
+- Tract 2000: 51087201501
+- Tract 1990: 51087201501
+- Place 2020: 52904
+- Place 2010: 52904
+- Place 2000: 52904
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 690576
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2006106. AKA DOUGLAS SCHOOL APTS.
+- Record status: Existing, unchanged

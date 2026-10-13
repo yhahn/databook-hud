@@ -1,0 +1,85 @@
+# Project: SUNNYVIEW SQUARE APTS (OHA20130037)
+
+- HUD ID: OHA20130037
+- HUD ID before: 
+- Project: SUNNYVIEW SQUARE APTS
+- Address: 55 ROCK CREEK DR
+- City: DELAWARE
+- State: OH
+- ZIP: 43015
+- ZIP extension: 
+- State project ID: 110091
+- Latitude: 40.300026
+- Longitude: -83.098878
+- County FIPS: 39041
+- County from: 2020
+- Tract 2020: 39041010520
+- Tract 2010: 39041010520
+- Tract 2000: 39041010520
+- Tract 1990: 39041010500
+- Place 2020: 21434
+- Place 2010: 21434
+- Place 2000: 21434
+- Place 1990: 1135
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 650000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA0000065.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SARATOGA PALMS NORTH APTS II (NVA19980030)
+
+- HUD ID: NVA19980030
+- HUD ID before: 
+- Project: SARATOGA PALMS NORTH APTS II
+- Address: 2225 LAS VEGAS BLVD N
+- City: NORTH LAS VEGAS
+- State: NV
+- ZIP: 89030
+- ZIP extension: 
+- State project ID: 
+- Latitude: 36.200909
+- Longitude: -115.122545
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003003800
+- Tract 2010: 32003003800
+- Tract 2000: 32003003800
+- Tract 1990: 32003003800
+- Place 2020: 51800
+- Place 2010: 51800
+- Place 2000: 51800
+- Place 1990: 0080
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 252
+- Low-income units: 252
+- Units reported: 252
+- Low-income reported: 252
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 84
+- 3-bedroom units: 104
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

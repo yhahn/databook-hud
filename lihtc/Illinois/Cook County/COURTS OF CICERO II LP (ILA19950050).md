@@ -1,0 +1,85 @@
+# Project: COURTS OF CICERO II LP (ILA19950050)
+
+- HUD ID: ILA19950050
+- HUD ID before: 
+- Project: COURTS OF CICERO II LP
+- Address: 5700 W 35TH ST
+- City: CICERO
+- State: IL
+- ZIP: 60804
+- ZIP extension: 
+- State project ID: 88895
+- Latitude: 41.829206
+- Longitude: -87.765751
+- County FIPS: 17031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17031814400
+- Tract 2000: 17031814400
+- Tract 1990: 17031814400
+- Place 2020: 
+- Place 2010: 14351
+- Place 2000: 14351
+- Place 1990: 1085
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 516301
+- Units: 54
+- Low-income units: 44
+- Units reported: 54
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION. AKA CICERO GARDENS.
+- Record status: Existing, unchanged

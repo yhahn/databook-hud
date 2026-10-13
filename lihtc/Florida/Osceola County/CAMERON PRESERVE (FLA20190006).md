@@ -1,0 +1,85 @@
+# Project: CAMERON PRESERVE (FLA20190006)
+
+- HUD ID: FLA20190006
+- HUD ID before: 
+- Project: CAMERON PRESERVE
+- Address: 4301 CAMERON PRESERVE CIRCLE
+- City: KISSIMMEE
+- State: FL
+- ZIP: 34746
+- ZIP extension: 
+- State project ID: 2871
+- Latitude: 28.2811
+- Longitude: -81.4613
+- County FIPS: 12097
+- County from: 2020
+- Tract 2020: 12097040904
+- Tract 2010: 12097040901
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 36950
+- Place 2010: 09875
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 1510000
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 50
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

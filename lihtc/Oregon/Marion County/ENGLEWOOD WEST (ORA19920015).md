@@ -1,0 +1,85 @@
+# Project: ENGLEWOOD WEST (ORA19920015)
+
+- HUD ID: ORA19920015
+- HUD ID before: 
+- Project: ENGLEWOOD WEST
+- Address: 1068 PARK AVE NE
+- City: SALEM
+- State: OR
+- ZIP: 97301
+- ZIP extension: 
+- State project ID: OR91-401
+- Latitude: 44.944341
+- Longitude: -122.999686
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047000702
+- Tract 2010: 41047000701
+- Tract 2000: 41047000700
+- Tract 1990: 41047000700
+- Place 2020: 64900
+- Place 2010: 64900
+- Place 2000: 64900
+- Place 1990: 1005
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 181796
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

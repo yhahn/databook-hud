@@ -1,0 +1,85 @@
+# Project: THE CLARA ON MLK (DCB20240002)
+
+- HUD ID: DCB20240002
+- HUD ID before: 
+- Project: THE CLARA ON MLK
+- Address: 2323 MARTIN LUTHER KING JR., SE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20020
+- ZIP extension: 
+- State project ID: DCB2025035
+- Latitude: 38.863036
+- Longitude: -76.992069
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001007401
+- Tract 2010: 11001007401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1952498
+- Units: 81
+- Low-income units: 81
+- Units reported: 81
+- Low-income reported: 81
+- Efficiencies: 6
+- 1-bedroom units: 27
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

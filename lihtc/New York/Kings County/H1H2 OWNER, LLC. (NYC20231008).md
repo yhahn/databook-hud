@@ -1,0 +1,85 @@
+# Project: H1H2 OWNER, LLC. (NYC20231008)
+
+- HUD ID: NYC20231008
+- HUD ID before: 
+- Project: H1H2 OWNER, LLC.
+- Address: 35 COMMERCIAL STREET
+- City: BROOKLYN
+- State: NY
+- ZIP: 11222
+- ZIP extension: 
+- State project ID: 27-0000078
+- Latitude: 40.73668
+- Longitude: -73.958133
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047056302
+- Tract 2010: 36047056300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 5156031
+- Units: 262
+- Low-income units: 262
+- Units reported: 262
+- Low-income reported: 262
+- Efficiencies: 75
+- 1-bedroom units: 59
+- 2-bedroom units: 128
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 60
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

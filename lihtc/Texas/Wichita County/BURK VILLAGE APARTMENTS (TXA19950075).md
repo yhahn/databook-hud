@@ -1,0 +1,85 @@
+# Project: BURK VILLAGE APARTMENTS (TXA19950075)
+
+- HUD ID: TXA19950075
+- HUD ID before: 
+- Project: BURK VILLAGE APARTMENTS
+- Address: 716 PARK ST
+- City: BURKBURNETT
+- State: TX
+- ZIP: 76354
+- ZIP extension: 
+- State project ID: TX1110
+- Latitude: 34.08949
+- Longitude: -98.561536
+- County FIPS: 48485
+- County from: 2020
+- Tract 2020: 48485013504
+- Tract 2010: 48485013501
+- Tract 2000: 48485013501
+- Tract 1990: 48485013500
+- Place 2020: 11368
+- Place 2010: 11368
+- Place 2000: 11368
+- Place 1990: 0655
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

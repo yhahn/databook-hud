@@ -1,0 +1,85 @@
+# Project: SHALOM (VAA20140031)
+
+- HUD ID: VAA20140031
+- HUD ID before: 
+- Project: SHALOM
+- Address: 710 FEDERAL ST
+- City: LYNCHBURG
+- State: VA
+- ZIP: 24504
+- ZIP extension: 
+- State project ID: 9603
+- Latitude: 37.413437
+- Longitude: -79.149014
+- County FIPS: 51680
+- County from: 2020
+- Tract 2020: 51680000600
+- Tract 2010: 51680000600
+- Tract 2000: 51680000600
+- Tract 1990: 51680000600
+- Place 2020: 47672
+- Place 2010: 47672
+- Place 2000: 47672
+- Place 1990: 0760
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 330762
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 23
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

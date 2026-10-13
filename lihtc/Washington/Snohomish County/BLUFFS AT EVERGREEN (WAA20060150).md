@@ -1,0 +1,85 @@
+# Project: BLUFFS AT EVERGREEN (WAA20060150)
+
+- HUD ID: WAA20060150
+- HUD ID before: 
+- Project: BLUFFS AT EVERGREEN
+- Address: 2 WEST CASINO RD
+- City: EVERETT
+- State: WA
+- ZIP: 98204
+- ZIP extension: 
+- State project ID: 05-143A
+- Latitude: 47.921742
+- Longitude: -122.233105
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061041904
+- Tract 2010: 53061041904
+- Tract 2000: 53061041904
+- Tract 1990: 53061041902
+- Place 2020: 22640
+- Place 2010: 22640
+- Place 2000: 22640
+- Place 1990: 0420
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 543784
+- Units: 217
+- Low-income units: 214
+- Units reported: 217
+- Low-income reported: 214
+- Efficiencies: 0
+- 1-bedroom units: 65
+- 2-bedroom units: 151
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

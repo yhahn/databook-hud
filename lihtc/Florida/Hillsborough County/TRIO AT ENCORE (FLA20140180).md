@@ -1,0 +1,85 @@
+# Project: TRIO AT ENCORE (FLA20140180)
+
+- HUD ID: FLA20140180
+- HUD ID before: 
+- Project: TRIO AT ENCORE
+- Address: 1101 RAY CHARLES BLVD
+- City: TAMPA
+- State: FL
+- ZIP: 33602
+- ZIP extension: 
+- State project ID: 2601
+- Latitude: 27.955158
+- Longitude: -82.454982
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057014200
+- Tract 2010: 12057004000
+- Tract 2000: 12057004000
+- Tract 1990: 12057004000
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2075
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 141
+- Low-income units: 99
+- Units reported: 141
+- Low-income reported: 99
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

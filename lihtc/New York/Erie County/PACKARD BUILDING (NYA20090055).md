@@ -1,0 +1,85 @@
+# Project: PACKARD BUILDING (NYA20090055)
+
+- HUD ID: NYA20090055
+- HUD ID before: 
+- Project: PACKARD BUILDING
+- Address: 1325 MAIN ST
+- City: BUFFALO
+- State: NY
+- ZIP: 14209
+- ZIP extension: 
+- State project ID: 20070065
+- Latitude: 42.909722
+- Longitude: -78.866225
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029016801
+- Tract 2010: 36029016800
+- Tract 2000: 36029003202
+- Tract 1990: 36029003202
+- Place 2020: 11000
+- Place 2010: 11000
+- Place 2000: 11000
+- Place 1990: 0450
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 413905
+- Units: 40
+- Low-income units: 25
+- Units reported: 40
+- Low-income reported: 25
+- Efficiencies: 1
+- 1-bedroom units: 10
+- 2-bedroom units: 24
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LEIGH MEADOWS (FLA19980090)
+
+- HUD ID: FLA19980090
+- HUD ID before: 
+- Project: LEIGH MEADOWS
+- Address: 4320 SUNBEAM RD
+- City: JACKSONVILLE
+- State: FL
+- ZIP: 32257
+- ZIP extension: 
+- State project ID: 464
+- Latitude: 30.205718
+- Longitude: -81.60364
+- County FIPS: 12031
+- County from: 2020
+- Tract 2020: 12031016731
+- Tract 2010: 12031016722
+- Tract 2000: 12031016722
+- Tract 1990: 12031016722
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1003
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 304
+- Low-income units: 304
+- Units reported: 304
+- Low-income reported: 304
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 116
+- 3-bedroom units: 144
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1997814.
+- Record status: Existing, unchanged

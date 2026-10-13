@@ -1,0 +1,85 @@
+# Project: TIERRA VISTA (FLA19980805)
+
+- HUD ID: FLA19980805
+- HUD ID before: 
+- Project: TIERRA VISTA
+- Address: 8700 TIERRA VISTA CIR
+- City: KISSIMMEE
+- State: FL
+- ZIP: 34747
+- ZIP extension: 
+- State project ID: 849
+- Latitude: 28.345682
+- Longitude: -81.637697
+- County FIPS: 12097
+- County from: 2020
+- Tract 2020: 12097040811
+- Tract 2010: 12097040802
+- Tract 2000: 12097040800
+- Tract 1990: 12097040101
+- Place 2020: 24581
+- Place 2010: 24581
+- Place 2000: 11285
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 56
+- 4-bedroom units: 24
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

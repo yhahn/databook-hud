@@ -1,0 +1,85 @@
+# Project: MANCHESTER VILLAGE (NJA20010135)
+
+- HUD ID: NJA20010135
+- HUD ID before: 
+- Project: MANCHESTER VILLAGE
+- Address: 202 MANOR DR
+- City: MANCHESTER
+- State: NJ
+- ZIP: 08759
+- ZIP extension: 
+- State project ID: NJ-572
+- Latitude: 40.000127
+- Longitude: -74.375499
+- County FIPS: 34029
+- County from: 2020
+- Tract 2020: 34029720105
+- Tract 2010: 34029720101
+- Tract 2000: 34029720101
+- Tract 1990: 34029719000
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 15910
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 37
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2012872. AKA BECKERVILLE APTS.
+- Record status: Existing, unchanged

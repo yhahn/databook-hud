@@ -1,0 +1,85 @@
+# Project: THE CENTENNIAL (WIA20010135)
+
+- HUD ID: WIA20010135
+- HUD ID before: 
+- Project: THE CENTENNIAL
+- Address: 400 E CENTENNIAL DR
+- City: OAK CREEK
+- State: WI
+- ZIP: 53154
+- ZIP extension: 
+- State project ID: 2368
+- Latitude: 42.882256
+- Longitude: -87.906459
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079160202
+- Tract 2010: 55079160202
+- Tract 2000: 55079160202
+- Tract 1990: 55079160202
+- Place 2020: 58800
+- Place 2010: 58800
+- Place 2000: 58800
+- Place 1990: 1850
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 97
+- Low-income units: 89
+- Units reported: 97
+- Low-income reported: 89
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 58
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CENTENNIAL.
+- Record status: Existing, unchanged

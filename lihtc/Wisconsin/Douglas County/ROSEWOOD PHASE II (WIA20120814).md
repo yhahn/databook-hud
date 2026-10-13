@@ -1,0 +1,85 @@
+# Project: ROSEWOOD PHASE II (WIA20120814)
+
+- HUD ID: WIA20120814
+- HUD ID before: 
+- Project: ROSEWOOD PHASE II
+- Address: 901-921 N 7TH ST
+- City: SUPERIOR
+- State: WI
+- ZIP: 54880
+- ZIP extension: 
+- State project ID: 5563
+- Latitude: 46.730373
+- Longitude: -92.091051
+- County FIPS: 55031
+- County from: 2020
+- Tract 2020: 55031021100
+- Tract 2010: 55031021100
+- Tract 2000: 55031020100
+- Tract 1990: 55031020100
+- Place 2020: 78650
+- Place 2010: 78650
+- Place 2000: 78650
+- Place 1990: 2500
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 169200
+- Units: 11
+- Low-income units: 10
+- Units reported: 11
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 4
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 406512
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

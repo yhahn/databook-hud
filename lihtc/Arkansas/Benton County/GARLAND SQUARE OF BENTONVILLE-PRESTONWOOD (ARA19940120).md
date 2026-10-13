@@ -1,0 +1,85 @@
+# Project: GARLAND SQUARE OF BENTONVILLE/PRESTONWOOD (ARA19940120)
+
+- HUD ID: ARA19940120
+- HUD ID before: 
+- Project: GARLAND SQUARE OF BENTONVILLE/PRESTONWOOD
+- Address: 1301 E CENTRAL AVE
+- City: BENTONVILLE
+- State: AR
+- ZIP: 72712
+- ZIP extension: 
+- State project ID: AR-93-14-001
+- Latitude: 36.371346
+- Longitude: -94.192765
+- County FIPS: 05007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05007020501
+- Tract 2000: 05007020501
+- Tract 1990: 05007020501
+- Place 2020: 
+- Place 2010: 05320
+- Place 2000: 05320
+- Place 1990: 0175
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 38
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

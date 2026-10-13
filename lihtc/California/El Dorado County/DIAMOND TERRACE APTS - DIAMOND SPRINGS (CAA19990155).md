@@ -1,0 +1,85 @@
+# Project: DIAMOND TERRACE APTS - DIAMOND SPRINGS (CAA19990155)
+
+- HUD ID: CAA19990155
+- HUD ID before: 
+- Project: DIAMOND TERRACE APTS - DIAMOND SPRINGS
+- Address: 6035 SERVICE DR
+- City: DIAMOND SPRINGS
+- State: CA
+- ZIP: 95619
+- ZIP extension: 
+- State project ID: CA-97-082
+- Latitude: 38.697607
+- Longitude: -120.806951
+- County FIPS: 06017
+- County from: 2020
+- Tract 2020: 06017031506
+- Tract 2010: 06017031502
+- Tract 2000: 06017031502
+- Tract 1990: 06017031502
+- Place 2020: 19220
+- Place 2010: 19220
+- Place 2000: 19220
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 498270
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 28
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

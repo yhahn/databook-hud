@@ -1,0 +1,85 @@
+# Project: THE STRATHMORE (NYB19970005)
+
+- HUD ID: NYB19970005
+- HUD ID before: 
+- Project: THE STRATHMORE
+- Address: 408 E 84TH ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10028
+- ZIP extension: 
+- State project ID: IA036877
+- Latitude: 40.775295
+- Longitude: -73.950147
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061013604
+- Tract 2010: 36061013600
+- Tract 2000: 36061013600
+- Tract 1990: 36061013600
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 180
+- Low-income units: 36
+- Units reported: 180
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 57
+- 2-bedroom units: 89
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

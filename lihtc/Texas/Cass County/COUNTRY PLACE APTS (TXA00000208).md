@@ -1,0 +1,85 @@
+# Project: COUNTRY PLACE APTS (TXA00000208)
+
+- HUD ID: TXA00000208
+- HUD ID before: 
+- Project: COUNTRY PLACE APTS
+- Address: 1300 COURTLAND RD
+- City: ATLANTA
+- State: TX
+- ZIP: 75551
+- ZIP extension: 
+- State project ID: TX4915
+- Latitude: 33.132868
+- Longitude: -94.177493
+- County FIPS: 48067
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48067950400
+- Tract 2000: 48067950400
+- Tract 1990: 48067950400
+- Place 2020: 
+- Place 2010: 04516
+- Place 2000: 04516
+- Place 1990: 0200
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

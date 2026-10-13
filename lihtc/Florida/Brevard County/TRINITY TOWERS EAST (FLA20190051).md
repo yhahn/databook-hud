@@ -1,0 +1,85 @@
+# Project: TRINITY TOWERS EAST (FLA20190051)
+
+- HUD ID: FLA20190051
+- HUD ID before: 
+- Project: TRINITY TOWERS EAST
+- Address: 700 EAST STRAWBRIDGE AVENUE
+- City: MELBOURNE
+- State: FL
+- ZIP: 32901
+- ZIP extension: 
+- State project ID: 2812
+- Latitude: 28.079577
+- Longitude: -80.609067
+- County FIPS: 12009
+- County from: 2020
+- Tract 2020: 12009064800
+- Tract 2010: 12009064800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43975
+- Place 2010: 43975
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 484584
+- Units: 156
+- Low-income units: 138
+- Units reported: 156
+- Low-income reported: 138
+- Efficiencies: 52
+- 1-bedroom units: 104
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

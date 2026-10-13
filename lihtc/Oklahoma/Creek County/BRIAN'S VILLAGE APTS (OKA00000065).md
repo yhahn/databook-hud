@@ -1,0 +1,85 @@
+# Project: BRIAN'S VILLAGE APTS (OKA00000065)
+
+- HUD ID: OKA00000065
+- HUD ID before: 
+- Project: BRIAN'S VILLAGE APTS
+- Address: 301 FARROW DR
+- City: MANNFORD
+- State: OK
+- ZIP: 74044
+- ZIP extension: 
+- State project ID: OK-89-060
+- Latitude: 36.11979
+- Longitude: -96.35971
+- County FIPS: 40037
+- County from: 2020
+- Tract 2020: 40037020706
+- Tract 2010: 40037020706
+- Tract 2000: 40037020706
+- Tract 1990: 40037020701
+- Place 2020: 46200
+- Place 2010: 46200
+- Place 2000: 46200
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

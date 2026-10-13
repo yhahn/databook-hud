@@ -1,0 +1,85 @@
+# Project: EASTWAY VILLAGE (OHA20130011)
+
+- HUD ID: OHA20130011
+- HUD ID before: 
+- Project: EASTWAY VILLAGE
+- Address: 4245 E BROAD ST
+- City: WHITEHALL
+- State: OH
+- ZIP: 43213
+- ZIP extension: 
+- State project ID: 110026
+- Latitude: 39.97458
+- Longitude: -82.887916
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049009230
+- Tract 2010: 39049009230
+- Tract 2000: 39049009230
+- Tract 1990: 39049009230
+- Place 2020: 84742
+- Place 2010: 84742
+- Place 2000: 18000
+- Place 1990: 4685
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

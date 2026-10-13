@@ -1,0 +1,85 @@
+# Project: SUNSHINE APARTMENTS (MNA19929011)
+
+- HUD ID: MNA19929011
+- HUD ID before: 
+- Project: SUNSHINE APARTMENTS
+- Address: 1620 CLARY ST
+- City: WORTHINGTON
+- State: MN
+- ZIP: 56187
+- ZIP extension: 
+- State project ID: D1788
+- Latitude: 43.627242
+- Longitude: -95.587962
+- County FIPS: 27105
+- County from: 2020
+- Tract 2020: 27105105500
+- Tract 2010: 27105105500
+- Tract 2000: 27105990500
+- Tract 1990: 27105990500
+- Place 2020: 71734
+- Place 2010: 71734
+- Place 2000: 71734
+- Place 1990: 4190
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 47
+- Low-income units: 46
+- Units reported: 47
+- Low-income reported: 46
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SUNSHINE APTS OF WORTHINGTON.
+- Record status: Existing, unchanged

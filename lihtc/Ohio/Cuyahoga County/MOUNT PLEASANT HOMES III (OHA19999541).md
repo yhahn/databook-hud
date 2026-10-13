@@ -1,0 +1,85 @@
+# Project: MOUNT PLEASANT HOMES III (OHA19999541)
+
+- HUD ID: OHA19999541
+- HUD ID before: 
+- Project: MOUNT PLEASANT HOMES III
+- Address: 10813 ELIOT AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44104
+- ZIP extension: 
+- State project ID: 970009
+- Latitude: 41.467043
+- Longitude: -81.609619
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035120500
+- Tract 2010: 39035120500
+- Tract 2000: 39035120500
+- Tract 1990: 39035120500
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 373836
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 31
+- 4-bedroom units: 4
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1998519, OHA1999150.
+- Record status: Existing, unchanged

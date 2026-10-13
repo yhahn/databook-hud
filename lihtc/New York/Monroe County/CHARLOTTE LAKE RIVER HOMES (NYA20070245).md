@@ -1,0 +1,85 @@
+# Project: CHARLOTTE LAKE RIVER HOMES (NYA20070245)
+
+- HUD ID: NYA20070245
+- HUD ID before: 
+- Project: CHARLOTTE LAKE RIVER HOMES
+- Address: 4587 LAKE AVE
+- City: ROCHESTER
+- State: NY
+- ZIP: 14612
+- ZIP extension: 
+- State project ID: 20050231
+- Latitude: 43.25463
+- Longitude: -77.611511
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055008500
+- Tract 2010: 36055008500
+- Tract 2000: 36055008500
+- Tract 1990: 36055008500
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 3100
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 696775
+- Units: 553
+- Low-income units: 553
+- Units reported: 553
+- Low-income reported: 553
+- Efficiencies: 157
+- 1-bedroom units: 332
+- 2-bedroom units: 36
+- 3-bedroom units: 22
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

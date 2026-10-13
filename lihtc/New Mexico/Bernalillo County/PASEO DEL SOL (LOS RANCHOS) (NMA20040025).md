@@ -1,0 +1,85 @@
+# Project: PASEO DEL SOL (LOS RANCHOS) (NMA20040025)
+
+- HUD ID: NMA20040025
+- HUD ID before: 
+- Project: PASEO DEL SOL (LOS RANCHOS)
+- Address: 291 EL PUEBLO RD NW
+- City: LOS RANCHOS
+- State: NM
+- ZIP: 87114
+- ZIP extension: 
+- State project ID: 33200
+- Latitude: 35.177298
+- Longitude: -106.626608
+- County FIPS: 35001
+- County from: 2020
+- Tract 2020: 35001003501
+- Tract 2010: 35001003501
+- Tract 2000: 35001003501
+- Tract 1990: 35001003501
+- Place 2020: 43930
+- Place 2010: 43930
+- Place 2000: 02000
+- Place 1990: 0301
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 124
+- Low-income units: 124
+- Units reported: 124
+- Low-income reported: 124
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 70
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NMA2003808, NMA0000436. AKA EL PASEO APTS PHASE II.
+- Record status: Existing, unchanged

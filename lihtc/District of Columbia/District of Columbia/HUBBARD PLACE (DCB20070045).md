@@ -1,0 +1,85 @@
+# Project: HUBBARD PLACE (DCB20070045)
+
+- HUD ID: DCB20070045
+- HUD ID before: 
+- Project: HUBBARD PLACE
+- Address: 3500 14TH ST NW
+- City: WASHINGTON
+- State: DC
+- ZIP: 20010
+- ZIP extension: 
+- State project ID: DCB2007045
+- Latitude: 38.934616
+- Longitude: -77.032934
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001002801
+- Tract 2010: 11001002801
+- Tract 2000: 11001002801
+- Tract 1990: 11001002801
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 148350
+- Units: 233
+- Low-income units: 233
+- Units reported: 233
+- Low-income reported: 233
+- Efficiencies: 21
+- 1-bedroom units: 113
+- 2-bedroom units: 99
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CAVALIER APTS.
+- Record status: Existing, unchanged

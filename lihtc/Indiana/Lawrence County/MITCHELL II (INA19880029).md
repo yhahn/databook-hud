@@ -1,0 +1,85 @@
+# Project: MITCHELL II (INA19880029)
+
+- HUD ID: INA19880029
+- HUD ID before: 
+- Project: MITCHELL II
+- Address: 1300 ELM PARK DR
+- City: MITCHELL
+- State: IN
+- ZIP: 47446
+- ZIP extension: 
+- State project ID: IN-88-41001
+- Latitude: 38.727069
+- Longitude: -86.480039
+- County FIPS: 18093
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18093951300
+- Tract 2000: 18093951300
+- Tract 1990: 18093951300
+- Place 2020: 
+- Place 2010: 49950
+- Place 2000: 49950
+- Place 1990: 1615
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001240.
+- Record status: Existing, unchanged

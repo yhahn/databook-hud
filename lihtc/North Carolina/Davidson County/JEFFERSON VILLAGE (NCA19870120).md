@@ -1,0 +1,85 @@
+# Project: JEFFERSON VILLAGE (NCA19870120)
+
+- HUD ID: NCA19870120
+- HUD ID before: 
+- Project: JEFFERSON VILLAGE
+- Address: 400 NORTHVIEW DR
+- City: LEXINGTON
+- State: NC
+- ZIP: 27295
+- ZIP extension: 
+- State project ID: 64
+- Latitude: 35.839864
+- Longitude: -80.244244
+- County FIPS: 37057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37057061201
+- Tract 2000: 37057061200
+- Tract 1990: 37057061200
+- Place 2020: 
+- Place 2010: 38060
+- Place 2000: 38060
+- Place 1990: 
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 6480
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

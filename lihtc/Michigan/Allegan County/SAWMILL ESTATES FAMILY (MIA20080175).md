@@ -1,0 +1,85 @@
+# Project: SAWMILL ESTATES FAMILY (MIA20080175)
+
+- HUD ID: MIA20080175
+- HUD ID before: 
+- Project: SAWMILL ESTATES FAMILY
+- Address: 1185 EAGLE DR
+- City: WAYLAND
+- State: MI
+- ZIP: 49348
+- ZIP extension: 
+- State project ID: MI-3109
+- Latitude: 42.671342
+- Longitude: -85.654083
+- County FIPS: 26005
+- County from: 2020
+- Tract 2020: 26005030502
+- Tract 2010: 26005030500
+- Tract 2000: 26005030500
+- Tract 1990: 26005030500
+- Place 2020: 84880
+- Place 2010: 84880
+- Place 2000: 84880
+- Place 1990: 2805
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 163379
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1079495
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

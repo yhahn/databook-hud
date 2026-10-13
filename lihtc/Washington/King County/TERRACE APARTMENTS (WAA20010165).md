@@ -1,0 +1,85 @@
+# Project: TERRACE APARTMENTS (WAA20010165)
+
+- HUD ID: WAA20010165
+- HUD ID before: 
+- Project: TERRACE APARTMENTS
+- Address: 22620 28TH AVENUE S
+- City: DES MOINES
+- State: WA
+- ZIP: 98198
+- ZIP extension: 
+- State project ID: 00-15A
+- Latitude: 47.398882
+- Longitude: -122.297586
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033028902
+- Tract 2010: 53033028902
+- Tract 2000: 53033028902
+- Tract 1990: 53033028900
+- Place 2020: 17635
+- Place 2010: 17635
+- Place 2000: 17635
+- Place 1990: 0325
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 65883
+- Units: 27
+- Low-income units: 26
+- Units reported: 27
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

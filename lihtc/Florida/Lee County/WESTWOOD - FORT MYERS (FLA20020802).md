@@ -1,0 +1,85 @@
+# Project: WESTWOOD - FORT MYERS (FLA20020802)
+
+- HUD ID: FLA20020802
+- HUD ID before: 
+- Project: WESTWOOD - FORT MYERS
+- Address: 3739 METRO PKWY
+- City: FT MYERS
+- State: FL
+- ZIP: 33916
+- ZIP extension: 
+- State project ID: 952
+- Latitude: 26.607598
+- Longitude: -81.850906
+- County FIPS: 12071
+- County from: 2020
+- Tract 2020: 12071001203
+- Tract 2010: 12071001201
+- Tract 2000: 12071001201
+- Tract 1990: 12071000600
+- Place 2020: 24125
+- Place 2010: 24125
+- Place 2000: 19055
+- Place 1990: 0655
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 288
+- Low-income units: 288
+- Units reported: 288
+- Low-income reported: 288
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 144
+- 3-bedroom units: 88
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

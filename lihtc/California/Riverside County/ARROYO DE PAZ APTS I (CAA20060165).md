@@ -1,0 +1,85 @@
+# Project: ARROYO DE PAZ APTS I (CAA20060165)
+
+- HUD ID: CAA20060165
+- HUD ID before: 
+- Project: ARROYO DE PAZ APTS I
+- Address: 66765 TWO BUNCH PALMS TRAIL
+- City: DESERT HOT SPRINGS
+- State: CA
+- ZIP: 92240
+- ZIP extension: 
+- State project ID: CA-04-021
+- Latitude: 33.946664
+- Longitude: -116.495233
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065044516
+- Tract 2010: 06065044516
+- Tract 2000: 06065044506
+- Tract 1990: 06065044502
+- Place 2020: 18996
+- Place 2010: 18996
+- Place 2000: 18996
+- Place 1990: 0765
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 712569
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 16
+- 3-bedroom units: 20
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

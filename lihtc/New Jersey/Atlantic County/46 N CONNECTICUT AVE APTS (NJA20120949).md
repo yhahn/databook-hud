@@ -1,0 +1,85 @@
+# Project: 46 N CONNECTICUT AVE APTS (NJA20120949)
+
+- HUD ID: NJA20120949
+- HUD ID before: 
+- Project: 46 N CONNECTICUT AVE APTS
+- Address: 46 N CONNECTICUT AVE
+- City: ATLANTIC CITY
+- State: NJ
+- ZIP: 08401
+- ZIP extension: 
+- State project ID: NJ-302
+- Latitude: 39.366548
+- Longitude: -74.418053
+- County FIPS: 34001
+- County from: 2020
+- Tract 2020: 34001002500
+- Tract 2010: 34001002500
+- Tract 2000: 34001002500
+- Tract 1990: 34001002500
+- Place 2020: 02080
+- Place 2010: 02080
+- Place 2000: 02080
+- Place 1990: 0075
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1993170, NJA1993025.
+- Record status: Existing, unchanged

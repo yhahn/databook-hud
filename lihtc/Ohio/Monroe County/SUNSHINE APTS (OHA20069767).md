@@ -1,0 +1,85 @@
+# Project: SUNSHINE APTS (OHA20069767)
+
+- HUD ID: OHA20069767
+- HUD ID before: 
+- Project: SUNSHINE APTS
+- Address: 501 WOOD ST
+- City: WOODSFIELD
+- State: OH
+- ZIP: 43793
+- ZIP extension: 
+- State project ID: 040065
+- Latitude: 39.756614
+- Longitude: -81.109939
+- County FIPS: 39111
+- County from: 2020
+- Tract 2020: 39111966800
+- Tract 2010: 39111966800
+- Tract 2000: 39111966800
+- Tract 1990: 39111966800
+- Place 2020: 86436
+- Place 2010: 86436
+- Place 2000: 42980
+- Place 1990: 4785
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 129134
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2005656, OHA2006220.
+- Record status: Existing, unchanged

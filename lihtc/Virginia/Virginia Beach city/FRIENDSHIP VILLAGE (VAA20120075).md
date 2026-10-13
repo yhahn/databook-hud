@@ -1,0 +1,85 @@
+# Project: FRIENDSHIP VILLAGE (VAA20120075)
+
+- HUD ID: VAA20120075
+- HUD ID before: 
+- Project: FRIENDSHIP VILLAGE
+- Address: 1235 FRIENDSHIP SQ
+- City: VIRGINIA BEACH
+- State: VA
+- ZIP: 23451
+- ZIP extension: 
+- State project ID: 4434
+- Latitude: 36.843168
+- Longitude: -75.999209
+- County FIPS: 51810
+- County from: 2020
+- Tract 2020: 51810044202
+- Tract 2010: 51810044200
+- Tract 2000: 51810044200
+- Tract 1990: 51810044201
+- Place 2020: 82000
+- Place 2010: 82000
+- Place 2000: 82000
+- Place 1990: 1280
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 405063
+- Units: 109
+- Low-income units: 109
+- Units reported: 109
+- Low-income reported: 109
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 40
+- 3-bedroom units: 30
+- 4-bedroom units: 29
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 3575142
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1992045.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NORTHLAND MEADOW (MIA20079177)
+
+- HUD ID: MIA20079177
+- HUD ID before: 
+- Project: NORTHLAND MEADOW
+- Address: 101 ANNA CIR
+- City: CADILLAC
+- State: MI
+- ZIP: 49601
+- ZIP extension: 
+- State project ID: MI-3013
+- Latitude: 44.233091
+- Longitude: -85.412679
+- County FIPS: 26165
+- County from: 2020
+- Tract 2020: 26165380500
+- Tract 2010: 26165380500
+- Tract 2000: 26165980400
+- Tract 1990: 26165980400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 12320
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

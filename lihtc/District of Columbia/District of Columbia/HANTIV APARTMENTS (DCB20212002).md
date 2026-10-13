@@ -1,0 +1,85 @@
+# Project: HANTIV APARTMENTS (DCB20212002)
+
+- HUD ID: DCB20212002
+- HUD ID before: 
+- Project: HANTIV APARTMENTS
+- Address: 4811 NORTH CAPITOL STREET, NE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20011
+- ZIP extension: 
+- State project ID: DCB2024050
+- Latitude: 38.948853
+- Longitude: -77.008533
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001009510
+- Tract 2010: 11001009501
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1330978
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 
+- 1-bedroom units: 49
+- 2-bedroom units: 33
+- 3-bedroom units: 8
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NORTHERN PARK APTS (MIA20090020)
+
+- HUD ID: MIA20090020
+- HUD ID before: 
+- Project: NORTHERN PARK APTS
+- Address: 301 PEARL ST
+- City: CADILLAC
+- State: MI
+- ZIP: 49601
+- ZIP extension: 
+- State project ID: MI-1960
+- Latitude: 44.237305
+- Longitude: -85.401104
+- County FIPS: 26165
+- County from: 2020
+- Tract 2020: 26165380500
+- Tract 2010: 26165380500
+- Tract 2000: 26165980500
+- Tract 1990: 26165980500
+- Place 2020: 12320
+- Place 2010: 12320
+- Place 2000: 12320
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 178679
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1989305. AKA LAKESIDE APTS.
+- Record status: Existing, unchanged

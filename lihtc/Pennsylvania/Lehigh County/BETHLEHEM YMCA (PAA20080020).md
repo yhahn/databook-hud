@@ -1,0 +1,85 @@
+# Project: BETHLEHEM YMCA (PAA20080020)
+
+- HUD ID: PAA20080020
+- HUD ID before: 
+- Project: BETHLEHEM YMCA
+- Address: 430 E BRD ST
+- City: BETHLEHEM
+- State: PA
+- ZIP: 18018
+- ZIP extension: 
+- State project ID: TC20060613
+- Latitude: 40.621
+- Longitude: -75.3895
+- County FIPS: 42077
+- County from: 2020
+- Tract 2020: 42077009500
+- Tract 2010: 42077009500
+- Tract 2000: 42095010600
+- Tract 1990: 42095010600
+- Place 2020: 06088
+- Place 2010: 06088
+- Place 2000: 06088
+- Place 1990: 0855
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 212469
+- Units: 35
+- Low-income units: 33
+- Units reported: 35
+- Low-income reported: 33
+- Efficiencies: 35
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

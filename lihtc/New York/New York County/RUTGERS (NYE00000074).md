@@ -1,0 +1,85 @@
+# Project: RUTGERS (NYE00000074)
+
+- HUD ID: NYE00000074
+- HUD ID before: 
+- Project: RUTGERS
+- Address: 45 PIKE STREET
+- City: NEW YORK
+- State: NY
+- ZIP: 10002
+- ZIP extension: 
+- State project ID: 01-0943503
+- Latitude: 40.712483
+- Longitude: -73.992087
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061000600
+- Tract 2010: 36061000600
+- Tract 2000: 36061000600
+- Tract 1990: 36061000600
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 2067831
+- Units: 720
+- Low-income units: 608
+- Units reported: 720
+- Low-income reported: 608
+- Efficiencies: 77
+- 1-bedroom units: 192
+- 2-bedroom units: 137
+- 3-bedroom units: 247
+- 4-bedroom units: 67
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

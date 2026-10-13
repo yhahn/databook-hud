@@ -1,0 +1,85 @@
+# Project: SUMMIT PARK PLACE (MIA19990280)
+
+- HUD ID: MIA19990280
+- HUD ID before: 
+- Project: SUMMIT PARK PLACE
+- Address: 740 SUMMIT PARK CT
+- City: KALAMAZOO
+- State: MI
+- ZIP: 49006
+- ZIP extension: 
+- State project ID: MI-2222
+- Latitude: 42.298228
+- Longitude: -85.600683
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077000500
+- Tract 2010: 26077000500
+- Tract 2000: 26077000500
+- Tract 1990: 26077000500
+- Place 2020: 42160
+- Place 2010: 42160
+- Place 2000: 42160
+- Place 1990: 1370
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 31
+- Low-income units: 30
+- Units reported: 31
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 23
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

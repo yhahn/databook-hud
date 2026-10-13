@@ -1,0 +1,85 @@
+# Project: RIVERVIEW APTS (MEA19900050)
+
+- HUD ID: MEA19900050
+- HUD ID before: 
+- Project: RIVERVIEW APTS
+- Address: 8 RIVER RD
+- City: HOWLAND
+- State: ME
+- ZIP: 04448
+- ZIP extension: 
+- State project ID: ME-90-00011
+- Latitude: 45.239493
+- Longitude: -68.660647
+- County FIPS: 23019
+- County from: 2020
+- Tract 2020: 23019028500
+- Tract 2010: 23019028500
+- Tract 2000: 23019028500
+- Tract 1990: 23019028500
+- Place 2020: 34225
+- Place 2010: 34225
+- Place 2000: 34225
+- Place 1990: 2140
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

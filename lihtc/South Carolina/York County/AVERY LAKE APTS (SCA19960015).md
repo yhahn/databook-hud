@@ -1,0 +1,85 @@
+# Project: AVERY LAKE APTS (SCA19960015)
+
+- HUD ID: SCA19960015
+- HUD ID before: 
+- Project: AVERY LAKE APTS
+- Address: 200 STARNES POINTE CT
+- City: FORT MILL
+- State: SC
+- ZIP: 29715
+- ZIP extension: 
+- State project ID: SC-95-048
+- Latitude: 35.021035
+- Longitude: -80.926748
+- County FIPS: 45091
+- County from: 2020
+- Tract 2020: 45091061101
+- Tract 2010: 45091061101
+- Tract 2000: 45091061101
+- Tract 1990: 45091061101
+- Place 2020: 26890
+- Place 2010: 26890
+- Place 2000: 26890
+- Place 1990: 0490
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 249536
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 325000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LYONS GATE APT HOMES (OHA19970140)
+
+- HUD ID: OHA19970140
+- HUD ID before: 
+- Project: LYONS GATE APT HOMES
+- Address: 8310 LYONS GATE WAY
+- City: MIAMISBURG
+- State: OH
+- ZIP: 45342
+- ZIP extension: 
+- State project ID: 96-0112
+- Latitude: 39.630805
+- Longitude: -84.233653
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113050504
+- Tract 2010: 39113050504
+- Tract 2000: 39113050501
+- Tract 1990: 39113050501
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 49434
+- Place 1990: 2610
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 361170
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 112
+- 2-bedroom units: 32
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

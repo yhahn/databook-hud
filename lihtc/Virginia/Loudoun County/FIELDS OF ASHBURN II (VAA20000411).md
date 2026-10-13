@@ -1,0 +1,85 @@
+# Project: FIELDS OF ASHBURN II (VAA20000411)
+
+- HUD ID: VAA20000411
+- HUD ID before: 
+- Project: FIELDS OF ASHBURN II
+- Address: 43848 DODGE TER
+- City: ASHBURN
+- State: VA
+- ZIP: 20147
+- ZIP extension: 
+- State project ID: 5727B
+- Latitude: 39.027613
+- Longitude: -77.484902
+- County FIPS: 51107
+- County from: 2020
+- Tract 2020: 51107611006
+- Tract 2010: 51107611006
+- Tract 2000: 51107611006
+- Tract 1990: 51107611000
+- Place 2020: 03320
+- Place 2010: 03320
+- Place 2000: 
+- Place 1990: 0058
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 135005
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2000015, VAA1999010, VAA1998279. FKA ASHBURN COMMONS I & II
+- Record status: Existing, unchanged

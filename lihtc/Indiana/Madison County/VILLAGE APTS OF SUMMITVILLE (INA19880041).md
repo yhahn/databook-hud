@@ -1,0 +1,85 @@
+# Project: VILLAGE APTS OF SUMMITVILLE (INA19880041)
+
+- HUD ID: INA19880041
+- HUD ID before: 
+- Project: VILLAGE APTS OF SUMMITVILLE
+- Address: 1106 W MILL ST
+- City: SUMMITVILLE
+- State: IN
+- ZIP: 
+- ZIP extension: 
+- State project ID: IN-88-32001
+- Latitude: 
+- Longitude: 
+- County FIPS: 18095
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 18095010100
+- Tract 1990: 18095010100
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 21070
+- Place 1990: 2465
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001550.
+- Record status: Existing, unchanged

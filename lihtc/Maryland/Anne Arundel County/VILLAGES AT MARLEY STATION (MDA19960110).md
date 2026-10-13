@@ -1,0 +1,85 @@
+# Project: VILLAGES AT MARLEY STATION (MDA19960110)
+
+- HUD ID: MDA19960110
+- HUD ID before: 
+- Project: VILLAGES AT MARLEY STATION
+- Address: 204 SOUTHBRIDGE DR
+- City: GLEN BURNIE
+- State: MD
+- ZIP: 21060
+- ZIP extension: 
+- State project ID: MD94-23
+- Latitude: 39.14242
+- Longitude: -76.590874
+- County FIPS: 24003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24003730203
+- Tract 2000: 24003730203
+- Tract 1990: 24003730202
+- Place 2020: 
+- Place 2010: 32650
+- Place 2000: 32650
+- Place 1990: 0407
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 757
+- Low-income units: 757
+- Units reported: 757
+- Low-income reported: 757
+- Efficiencies: 36
+- 1-bedroom units: 428
+- 2-bedroom units: 281
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

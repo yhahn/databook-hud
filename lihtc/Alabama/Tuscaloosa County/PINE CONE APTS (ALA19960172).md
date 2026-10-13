@@ -1,0 +1,85 @@
+# Project: PINE CONE APTS (ALA19960172)
+
+- HUD ID: ALA19960172
+- HUD ID before: 
+- Project: PINE CONE APTS
+- Address: 2101 44TH ST E
+- City: TUSCALOOSA
+- State: AL
+- ZIP: 35405
+- ZIP extension: 
+- State project ID: AL-96-0018
+- Latitude: 33.167576
+- Longitude: -87.51049
+- County FIPS: 01125
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01125012304
+- Tract 2000: 01125012304
+- Tract 1990: 01125012302
+- Place 2020: 
+- Place 2010: 77256
+- Place 2000: 77256
+- Place 1990: 1720
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 232613
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1498000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1997130.
+- Record status: Existing, unchanged

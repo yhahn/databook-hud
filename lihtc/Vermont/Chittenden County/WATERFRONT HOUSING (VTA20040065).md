@@ -1,0 +1,85 @@
+# Project: WATERFRONT HOUSING (VTA20040065)
+
+- HUD ID: VTA20040065
+- HUD ID before: 
+- Project: WATERFRONT HOUSING
+- Address: 300 LAKE ST
+- City: BURLINGTON
+- State: VT
+- ZIP: 05401
+- ZIP extension: 
+- State project ID: 0240
+- Latitude: 44.480974
+- Longitude: -73.22164
+- County FIPS: 50007
+- County from: 2020
+- Tract 2020: 50007001000
+- Tract 2010: 50007001000
+- Tract 2000: 50007001000
+- Tract 1990: 50007001000
+- Place 2020: 10675
+- Place 2010: 10675
+- Place 2000: 10675
+- Place 1990: 0460
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 478997
+- Units: 40
+- Low-income units: 28
+- Units reported: 40
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 20
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA DEPOT ST HOUSING
+- Record status: Existing, unchanged

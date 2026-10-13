@@ -1,0 +1,85 @@
+# Project: SAWGRASS COVE (GAA20191025)
+
+- HUD ID: GAA20191025
+- HUD ID before: 
+- Project: SAWGRASS COVE
+- Address: 534 MCINTOSH RD
+- City: DAIREN
+- State: GA
+- ZIP: 31305
+- ZIP extension: 
+- State project ID: 2017-024
+- Latitude: 31.371267
+- Longitude: -81.419843
+- County FIPS: 13191
+- County from: 2020
+- Tract 2020: 13191110300
+- Tract 2010: 13191110300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 21716
+- Place 2010: 21716
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 361597
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 
+- 1-bedroom units: 18
+- 2-bedroom units: 33
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

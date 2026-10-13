@@ -1,0 +1,85 @@
+# Project: CLOVERLANE APTS (MIA20020065)
+
+- HUD ID: MIA20020065
+- HUD ID before: 
+- Project: CLOVERLANE APTS
+- Address: 208 CLOVERLANE ST
+- City: LAKEVIEW
+- State: MI
+- ZIP: 48850
+- ZIP extension: 
+- State project ID: MI-1753
+- Latitude: 43.44481
+- Longitude: -85.285768
+- County FIPS: 26117
+- County from: 2020
+- Tract 2020: 26117970400
+- Tract 2010: 26117970400
+- Tract 2000: 26117980400
+- Tract 1990: 26117980400
+- Place 2020: 45240
+- Place 2010: 45240
+- Place 2000: 45240
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

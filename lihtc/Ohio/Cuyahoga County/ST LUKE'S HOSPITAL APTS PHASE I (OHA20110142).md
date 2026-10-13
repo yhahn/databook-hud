@@ -1,0 +1,85 @@
+# Project: ST LUKE'S HOSPITAL APTS PHASE I (OHA20110142)
+
+- HUD ID: OHA20110142
+- HUD ID before: 
+- Project: ST LUKE'S HOSPITAL APTS PHASE I
+- Address: 11311 SHAKER BLVD
+- City: CLEVELAND
+- State: OH
+- ZIP: 44104
+- ZIP extension: 
+- State project ID: 090013
+- Latitude: 41.484429
+- Longitude: -81.605929
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035198600
+- Tract 2010: 39035119300
+- Tract 2000: 39035119300
+- Tract 1990: 39035119300
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 5
+- 1-bedroom units: 62
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1776920
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ST LUKE'S MANOR PHASE I.
+- Record status: Existing, unchanged

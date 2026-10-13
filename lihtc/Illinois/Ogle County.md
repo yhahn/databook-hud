@@ -1,0 +1,23 @@
+# Tax Credit Projects: Ogle County, IL
+
+- Level: County
+- Postal code: IL
+- State FIPS: 17
+- County FIPS: 17141
+- Counties: 
+- Projects: 6
+- Units: 513
+- Low-income units: 508
+
+The low-income housing tax credit projects of Ogle County, Illinois, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [ROCHELLE MANOR APTS (ILA19890131)](./Ogle%20County/ROCHELLE%20MANOR%20APTS%20%28ILA19890131%29.md) | ILA19890131 | ROCHELLE | 1989 | 32 | 32 |
+| [NORTHLAND MT MORRIS APTS (ILA19930280)](./Ogle%20County/NORTHLAND%20MT%20MORRIS%20APTS%20%28ILA19930280%29.md) | ILA19930280 | MT MORRIS | 1993 | 24 | 24 |
+| [LIDA LAKE ESTATES (ILA19950125)](./Ogle%20County/LIDA%20LAKE%20ESTATES%20%28ILA19950125%29.md) | ILA19950125 | ROCHELLE | 1995 | 72 | 72 |
+| [COUNTRYSIDE VILLAGES II (ROCHELLE) (ILA20070045)](./Ogle%20County/COUNTRYSIDE%20VILLAGES%20II%20%28ROCHELLE%29%20%28ILA20070045%29.md) | ILA20070045 | ROCHELLE | 2007 | 125 | 125 |
+| [NORTH PRAIRIE APTS (ILA20070215)](./Ogle%20County/NORTH%20PRAIRIE%20APTS%20%28ILA20070215%29.md) | ILA20070215 | OREGON | 2007 | 128 | 124 |
+| [VILLAGE GREEN APTS (ROCKFORD) (ILA20090065)](./Ogle%20County/VILLAGE%20GREEN%20APTS%20%28ROCKFORD%29%20%28ILA20090065%29.md) | ILA20090065 | BYRON | 2009 | 132 | 131 |

@@ -1,0 +1,85 @@
+# Project: BONNER ST APTS (LAA19880010)
+
+- HUD ID: LAA19880010
+- HUD ID before: 
+- Project: BONNER ST APTS
+- Address: 206 S BONNER ST
+- City: RUSTON
+- State: LA
+- ZIP: 71270
+- ZIP extension: 
+- State project ID: LA-88-038
+- Latitude: 32.527224
+- Longitude: -92.637157
+- County FIPS: 22061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22061960600
+- Tract 2000: 22061960600
+- Tract 1990: 22061960600
+- Place 2020: 
+- Place 2010: 66655
+- Place 2000: 66655
+- Place 1990: 1190
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

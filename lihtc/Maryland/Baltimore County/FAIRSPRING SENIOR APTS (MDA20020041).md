@@ -1,0 +1,85 @@
+# Project: FAIRSPRING SENIOR APTS (MDA20020041)
+
+- HUD ID: MDA20020041
+- HUD ID before: 
+- Project: FAIRSPRING SENIOR APTS
+- Address: 1121 ST AGNES LN
+- City: BALTIMORE
+- State: MD
+- ZIP: 21207
+- ZIP extension: 
+- State project ID: MD01-18001
+- Latitude: 39.294865
+- Longitude: -76.716783
+- County FIPS: 24005
+- County from: 2020
+- Tract 2020: 24005401302
+- Tract 2010: 24005401302
+- Tract 2000: 24005401302
+- Tract 1990: 24005401302
+- Place 2020: 86475
+- Place 2010: 86475
+- Place 2000: 86475
+- Place 1990: 1051
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA2002040.
+- Record status: Existing, unchanged

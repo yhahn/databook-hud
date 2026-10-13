@@ -1,0 +1,85 @@
+# Project: ARBOURWAY APTS (OHA20040010)
+
+- HUD ID: OHA20040010
+- HUD ID before: 
+- Project: ARBOURWAY APTS
+- Address: 265 W ELM ST
+- City: NORTH LEWISBURG
+- State: OH
+- ZIP: 43060
+- ZIP extension: 
+- State project ID: 020025
+- Latitude: 40.227112
+- Longitude: -83.560899
+- County FIPS: 39021
+- County from: 2020
+- Tract 2020: 39021011506
+- Tract 2010: 39021011506
+- Tract 2000: 39021010100
+- Tract 1990: 39021010100
+- Place 2020: 56770
+- Place 2010: 56770
+- Place 2000: 56770
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 138331
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1989030.
+- Record status: Existing, unchanged

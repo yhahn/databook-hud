@@ -1,0 +1,85 @@
+# Project: CROSSINGS AT CAPE CORAL (FLA20000035)
+
+- HUD ID: FLA20000035
+- HUD ID before: 
+- Project: CROSSINGS AT CAPE CORAL
+- Address: 1150 HANCOCK CRK BLVD
+- City: CAPE CORAL
+- State: FL
+- ZIP: 33909
+- ZIP extension: 
+- State project ID: 213
+- Latitude: 26.672249
+- Longitude: -81.923055
+- County FIPS: 12071
+- County from: 2020
+- Tract 2020: 12071010302
+- Tract 2010: 12071010302
+- Tract 2000: 12071010302
+- Tract 1990: 12071010302
+- Place 2020: 10275
+- Place 2010: 10275
+- Place 2000: 10275
+- Place 1990: 0293
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 68
+- 3-bedroom units: 40
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

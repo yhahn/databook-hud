@@ -1,0 +1,85 @@
+# Project: RIVER CITY SENIOR VILLAGE (WIA20070100)
+
+- HUD ID: WIA20070100
+- HUD ID before: 
+- Project: RIVER CITY SENIOR VILLAGE
+- Address: 811-829 HALE ST
+- City: WISCONSIN RAPIDS
+- State: WI
+- ZIP: 54495
+- ZIP extension: 
+- State project ID: 5097
+- Latitude: 44.392686
+- Longitude: -89.83387
+- County FIPS: 55141
+- County from: 2020
+- Tract 2020: 55141011200
+- Tract 2010: 55141011200
+- Tract 2000: 55141011200
+- Tract 1990: 55141011200
+- Place 2020: 88200
+- Place 2010: 88200
+- Place 2000: 88200
+- Place 1990: 2845
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 144089
+- Units: 19
+- Low-income units: 4
+- Units reported: 19
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 534600
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

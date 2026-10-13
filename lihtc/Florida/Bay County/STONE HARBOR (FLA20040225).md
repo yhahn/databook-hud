@@ -1,0 +1,85 @@
+# Project: STONE HARBOR (FLA20040225)
+
+- HUD ID: FLA20040225
+- HUD ID before: 
+- Project: STONE HARBOR
+- Address: 1 HUNT CLUB CIR
+- City: PANAMA CITY BEACH
+- State: FL
+- ZIP: 32407
+- ZIP extension: 
+- State project ID: 1106
+- Latitude: 30.195761
+- Longitude: -85.822873
+- County FIPS: 12005
+- County from: 2020
+- Tract 2020: 12005002710
+- Tract 2010: 12005002704
+- Tract 2000: 12005002700
+- Tract 1990: 12005002700
+- Place 2020: 54725
+- Place 2010: 54725
+- Place 2000: 37500
+- Place 1990: 1678
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 157
+- Units reported: 160
+- Low-income reported: 157
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 80
+- 3-bedroom units: 32
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

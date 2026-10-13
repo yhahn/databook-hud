@@ -1,0 +1,85 @@
+# Project: COLONY SQUARE VILLAGE (OHA19970060)
+
+- HUD ID: OHA19970060
+- HUD ID before: 
+- Project: COLONY SQUARE VILLAGE
+- Address: 118 DAVE AVE
+- City: LEBANON
+- State: OH
+- ZIP: 45036
+- ZIP extension: 
+- State project ID: OH-95-0073
+- Latitude: 39.434714
+- Longitude: -84.19338
+- County FIPS: 39165
+- County from: 2020
+- Tract 2020: 39165031400
+- Tract 2010: 39165031400
+- Tract 2000: 39165031400
+- Tract 1990: 39165031400
+- Place 2020: 42364
+- Place 2010: 42364
+- Place 2000: 42364
+- Place 1990: 2155
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 249582
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 42
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

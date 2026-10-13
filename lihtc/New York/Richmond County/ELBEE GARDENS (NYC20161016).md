@@ -1,0 +1,85 @@
+# Project: ELBEE GARDENS (NYC20161016)
+
+- HUD ID: NYC20161016
+- HUD ID before: 
+- Project: ELBEE GARDENS
+- Address: 1950 CLOVE ROAD
+- City: STATEN ISLAND
+- State: NY
+- ZIP: 10304
+- ZIP extension: 
+- State project ID: 47-4665156
+- Latitude: 40.605903
+- Longitude: -74.086743
+- County FIPS: 36085
+- County from: 2020
+- Tract 2020: 36085005000
+- Tract 2010: 36085005000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1235797
+- Units: 178
+- Low-income units: 166
+- Units reported: 178
+- Low-income reported: 166
+- Efficiencies: 10
+- 1-bedroom units: 39
+- 2-bedroom units: 117
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

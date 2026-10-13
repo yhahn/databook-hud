@@ -1,0 +1,85 @@
+# Project: HAVENWOOD CARTERSVILLE (GAA20191015)
+
+- HUD ID: GAA20191015
+- HUD ID before: 
+- Project: HAVENWOOD CARTERSVILLE
+- Address: 300 E FELTON ROAD
+- City: CARTERSVILLE
+- State: GA
+- ZIP: 30121
+- ZIP extension: 
+- State project ID: 2017-064
+- Latitude: 34.190713
+- Longitude: -84.782304
+- County FIPS: 13015
+- County from: 2020
+- Tract 2020: 13015960405
+- Tract 2010: 13015960402
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 13688
+- Place 2010: 13688
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 714649
+- Units: 50
+- Low-income units: 38
+- Units reported: 50
+- Low-income reported: 38
+- Efficiencies: 
+- 1-bedroom units: 14
+- 2-bedroom units: 24
+- 3-bedroom units: 12
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

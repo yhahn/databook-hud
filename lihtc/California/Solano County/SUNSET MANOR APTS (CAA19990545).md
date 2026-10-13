@@ -1,0 +1,85 @@
+# Project: SUNSET MANOR APTS (CAA19990545)
+
+- HUD ID: CAA19990545
+- HUD ID before: 
+- Project: SUNSET MANOR APTS
+- Address: 855 E TABOR AVE
+- City: FAIRFIELD
+- State: CA
+- ZIP: 94533
+- ZIP extension: 
+- State project ID: CA-98-930
+- Latitude: 38.265202
+- Longitude: -122.021269
+- County FIPS: 06095
+- County from: 2020
+- Tract 2020: 06095252608
+- Tract 2010: 06095252608
+- Tract 2000: 06095252608
+- Tract 1990: 06095252608
+- Place 2020: 23182
+- Place 2010: 23182
+- Place 2000: 23182
+- Place 1990: 0960
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 249876
+- Units: 148
+- Low-income units: 146
+- Units reported: 148
+- Low-income reported: 146
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 80
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

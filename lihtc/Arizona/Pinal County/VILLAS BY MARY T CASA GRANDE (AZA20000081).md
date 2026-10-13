@@ -1,0 +1,85 @@
+# Project: VILLAS BY MARY T CASA GRANDE (AZA20000081)
+
+- HUD ID: AZA20000081
+- HUD ID before: 
+- Project: VILLAS BY MARY T CASA GRANDE
+- Address: 1576 E COTTONWOOD LN
+- City: CASA GRANDE
+- State: AZ
+- ZIP: 85122
+- ZIP extension: 
+- State project ID: TC-0174
+- Latitude: 32.894505
+- Longitude: -111.718911
+- County FIPS: 04021
+- County from: 2020
+- Tract 2020: 04021001309
+- Tract 2010: 04021001304
+- Tract 2000: 04021001302
+- Tract 1990: 04021000100
+- Place 2020: 10530
+- Place 2010: 10530
+- Place 2000: 10530
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 132
+- Low-income units: 99
+- Units reported: 132
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 111
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000570, AZA2000075.
+- Record status: Existing, unchanged

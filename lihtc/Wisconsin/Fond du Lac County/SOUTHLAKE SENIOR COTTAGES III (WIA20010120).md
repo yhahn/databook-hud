@@ -1,0 +1,85 @@
+# Project: SOUTHLAKE SENIOR COTTAGES III (WIA20010120)
+
+- HUD ID: WIA20010120
+- HUD ID before: 
+- Project: SOUTHLAKE SENIOR COTTAGES III
+- Address: 220 SOUTHLAKE CIR
+- City: FOND DU LAC
+- State: WI
+- ZIP: 54935
+- ZIP extension: 
+- State project ID: 2414
+- Latitude: 43.750629
+- Longitude: -88.446094
+- County FIPS: 55039
+- County from: 2020
+- Tract 2020: 55039041101
+- Tract 2010: 55039041100
+- Tract 2000: 55039041100
+- Tract 1990: 55039041100
+- Place 2020: 26275
+- Place 2010: 26275
+- Place 2000: 26275
+- Place 1990: 0905
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 36
+- Units reported: 40
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

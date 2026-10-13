@@ -1,0 +1,85 @@
+# Project: BURTON AFFORDABLE HOUSING (KSA19930020)
+
+- HUD ID: KSA19930020
+- HUD ID before: 
+- Project: BURTON AFFORDABLE HOUSING
+- Address: 817 1/2 W BURTON ST
+- City: WICHITA
+- State: KS
+- ZIP: 67213
+- ZIP extension: 
+- State project ID: KS92-0006
+- Latitude: 37.681843
+- Longitude: -97.350039
+- County FIPS: 20173
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20173004300
+- Tract 2000: 20173004300
+- Tract 1990: 20173004300
+- Place 2020: 
+- Place 2010: 79000
+- Place 2000: 79000
+- Place 1990: 3040
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

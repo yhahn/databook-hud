@@ -1,0 +1,85 @@
+# Project: FRIENDSHIP ESTATES APTS (CAA19980160)
+
+- HUD ID: CAA19980160
+- HUD ID before: 
+- Project: FRIENDSHIP ESTATES APTS
+- Address: 2700 TUOLUMNE ST
+- City: VALLEJO
+- State: CA
+- ZIP: 94589
+- ZIP extension: 
+- State project ID: CA-98-995
+- Latitude: 38.136807
+- Longitude: -122.24755
+- County FIPS: 06095
+- County from: 2020
+- Tract 2020: 06095251901
+- Tract 2010: 06095251901
+- Tract 2000: 06095251901
+- Tract 1990: 06095251901
+- Place 2020: 81666
+- Place 2010: 81666
+- Place 2000: 81666
+- Place 1990: 3000
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 99270
+- Units: 76
+- Low-income units: 74
+- Units reported: 76
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 44
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

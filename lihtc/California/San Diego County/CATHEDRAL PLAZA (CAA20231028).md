@@ -1,0 +1,85 @@
+# Project: CATHEDRAL PLAZA (CAA20231028)
+
+- HUD ID: CAA20231028
+- HUD ID before: 
+- Project: CATHEDRAL PLAZA
+- Address: 1551 THIRD AVENUE
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92101
+- ZIP extension: 
+- State project ID: CA-2021-675
+- Latitude: 32.721475
+- Longitude: -117.162215
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073005601
+- Tract 2010: 06073005600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 4056537
+- Units: 225
+- Low-income units: 222
+- Units reported: 225
+- Low-income reported: 222
+- Efficiencies: 150
+- 1-bedroom units: 74
+- 2-bedroom units: 1
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 70
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: ADA and Accessible Units pursuant to CBC Chapter 11B
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

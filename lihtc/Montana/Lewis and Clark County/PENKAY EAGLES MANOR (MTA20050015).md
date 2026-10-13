@@ -1,0 +1,85 @@
+# Project: PENKAY EAGLES MANOR (MTA20050015)
+
+- HUD ID: MTA20050015
+- HUD ID before: 
+- Project: PENKAY EAGLES MANOR
+- Address: 715 FEE ST
+- City: HELENA
+- State: MT
+- ZIP: 59601
+- ZIP extension: 0000
+- State project ID: 03020
+- Latitude: 46.591679
+- Longitude: -112.005136
+- County FIPS: 30049
+- County from: 2020
+- Tract 2020: 30049000900
+- Tract 2010: 30049000900
+- Tract 2000: 30049000900
+- Tract 1990: 30049979800
+- Place 2020: 35600
+- Place 2010: 35600
+- Place 2000: 35600
+- Place 1990: 0325
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 391303
+- Units: 66
+- Low-income units: 62
+- Units reported: 66
+- Low-income reported: 62
+- Efficiencies: 41
+- 1-bedroom units: 25
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 31
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

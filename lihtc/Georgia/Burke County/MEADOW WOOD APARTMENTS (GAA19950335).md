@@ -1,0 +1,85 @@
+# Project: MEADOW WOOD APARTMENTS (GAA19950335)
+
+- HUD ID: GAA19950335
+- HUD ID before: 
+- Project: MEADOW WOOD APARTMENTS
+- Address: PO BOX 509
+- City: SARDIS
+- State: GA
+- ZIP: 30456
+- ZIP extension: 
+- State project ID: GA-95-045
+- Latitude: 32.9912
+- Longitude: -81.8209
+- County FIPS: 13033
+- County from: 2020
+- Tract 2020: 13033950700
+- Tract 2010: 13033950700
+- Tract 2000: 13033950700
+- Tract 1990: 13033950700
+- Place 2020: 68740
+- Place 2010: 68740
+- Place 2000: 32916
+- Place 1990: 2525
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1997100.
+- Record status: Existing, unchanged

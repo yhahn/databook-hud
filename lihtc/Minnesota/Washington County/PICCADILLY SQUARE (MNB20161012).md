@@ -1,0 +1,85 @@
+# Project: PICCADILLY SQUARE (MNB20161012)
+
+- HUD ID: MNB20161012
+- HUD ID before: 
+- Project: PICCADILLY SQUARE
+- Address: 70 MAHTOMEDI AVENUE
+- City: MAHTOMEDI
+- State: MN
+- ZIP: 55115
+- ZIP extension: 1546
+- State project ID: D7651
+- Latitude: 45.056637
+- Longitude: -92.960014
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163070304
+- Tract 2010: 27163070304
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 39428
+- Place 2010: 39428
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 465941
+- Units: 79
+- Low-income units: 79
+- Units reported: 79
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 396026
+- CDBG: Yes
+- CDBG amount: 705418
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

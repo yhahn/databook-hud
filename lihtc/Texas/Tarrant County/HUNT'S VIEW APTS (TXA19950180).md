@@ -1,0 +1,85 @@
+# Project: HUNT'S VIEW APTS (TXA19950180)
+
+- HUD ID: TXA19950180
+- HUD ID before: 
+- Project: HUNT'S VIEW APTS
+- Address: 420 W PARK ROW DR
+- City: ARLINGTON
+- State: TX
+- ZIP: 76010
+- ZIP extension: 
+- State project ID: TX-93-038
+- Latitude: 32.720948
+- Longitude: -97.11113
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439122801
+- Tract 2010: 48439122801
+- Tract 2000: 48439122800
+- Tract 1990: 48439122800
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0175
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 366
+- Low-income units: 366
+- Units reported: 366
+- Low-income reported: 366
+- Efficiencies: 20
+- 1-bedroom units: 100
+- 2-bedroom units: 182
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA HUNTSVIEW
+- Record status: Updated

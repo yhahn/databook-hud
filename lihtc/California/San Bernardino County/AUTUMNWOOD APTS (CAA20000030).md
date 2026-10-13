@@ -1,0 +1,85 @@
+# Project: AUTUMNWOOD APTS (CAA20000030)
+
+- HUD ID: CAA20000030
+- HUD ID before: 
+- Project: AUTUMNWOOD APTS
+- Address: 2020 GUTHRIE ST
+- City: SAN BERNARDINO
+- State: CA
+- ZIP: 92404
+- ZIP extension: 
+- State project ID: CA-01-889
+- Latitude: 34.132848
+- Longitude: -117.239469
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071007407
+- Tract 2010: 06071007407
+- Tract 2000: 06071007407
+- Tract 1990: 06071007405
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 33588
+- Place 1990: 2450
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 135468
+- Units: 160
+- Low-income units: 158
+- Units reported: 160
+- Low-income reported: 158
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SYCAMORE RIDGE. FKA MILL CREEK
+- Record status: Existing, unchanged

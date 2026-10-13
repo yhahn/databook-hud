@@ -1,0 +1,85 @@
+# Project: VALENCIA TRACE (FLA20030265)
+
+- HUD ID: FLA20030265
+- HUD ID before: 
+- Project: VALENCIA TRACE
+- Address: 101 GRANDE VALENCIA DR
+- City: ORLANDO
+- State: FL
+- ZIP: 32825
+- ZIP extension: 
+- State project ID: 1032
+- Latitude: 28.544241
+- Longitude: -81.253325
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016713
+- Tract 2010: 12095016713
+- Tract 2000: 12095016713
+- Tract 1990: 12095016705
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 229
+- Low-income units: 228
+- Units reported: 229
+- Low-income reported: 228
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 97
+- 3-bedroom units: 84
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

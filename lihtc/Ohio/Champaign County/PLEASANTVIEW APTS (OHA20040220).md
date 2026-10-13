@@ -1,0 +1,85 @@
+# Project: PLEASANTVIEW APTS (OHA20040220)
+
+- HUD ID: OHA20040220
+- HUD ID before: 
+- Project: PLEASANTVIEW APTS
+- Address: 323 PLEASANTVIEW EST
+- City: MECHANICSBURG
+- State: OH
+- ZIP: 43044
+- ZIP extension: 
+- State project ID: 020029
+- Latitude: 40.081076
+- Longitude: -83.552946
+- County FIPS: 39021
+- County from: 2020
+- Tract 2020: 39021011505
+- Tract 2010: 39021011505
+- Tract 2000: 39021010700
+- Tract 1990: 39021010700
+- Place 2020: 48706
+- Place 2010: 48706
+- Place 2000: 48706
+- Place 1990: 2555
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 154116
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

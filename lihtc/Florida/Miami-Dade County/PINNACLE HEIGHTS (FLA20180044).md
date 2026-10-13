@@ -1,0 +1,85 @@
+# Project: PINNACLE HEIGHTS (FLA20180044)
+
+- HUD ID: FLA20180044
+- HUD ID before: 
+- Project: PINNACLE HEIGHTS
+- Address: 3530 NW 36 STREET
+- City: MIAMI
+- State: FL
+- ZIP: 33142
+- ZIP extension: 
+- State project ID: 2810
+- Latitude: 25.808541
+- Longitude: -80.253325
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086001705
+- Tract 2010: 12086001703
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 2560900
+- Units: 109
+- Low-income units: 105
+- Units reported: 109
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 66
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

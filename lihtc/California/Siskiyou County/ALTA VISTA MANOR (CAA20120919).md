@@ -1,0 +1,85 @@
+# Project: ALTA VISTA MANOR (CAA20120919)
+
+- HUD ID: CAA20120919
+- HUD ID before: 
+- Project: ALTA VISTA MANOR
+- Address: 625 MARJORIE ST
+- City: MT SHASTA
+- State: CA
+- ZIP: 96067
+- ZIP extension: 
+- State project ID: CA-11-030
+- Latitude: 41.320416
+- Longitude: -122.314147
+- County FIPS: 06093
+- County from: 2020
+- Tract 2020: 06093001003
+- Tract 2010: 06093001000
+- Tract 2000: 06093001000
+- Tract 1990: 06093001000
+- Place 2020: 49852
+- Place 2010: 49852
+- Place 2000: 49852
+- Place 1990: 1870
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 314519
+- Units: 44
+- Low-income units: 43
+- Units reported: 44
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MT SHASTA ALTA VISTA MANOR.
+- Record status: Existing, unchanged

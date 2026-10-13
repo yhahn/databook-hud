@@ -1,0 +1,85 @@
+# Project: LINDBERGH PARC SENIOR APARTMENTS (TXA00000382)
+
+- HUD ID: TXA00000382
+- HUD ID before: 
+- Project: LINDBERGH PARC SENIOR APARTMENTS
+- Address: 5600 AZLE AVE
+- City: FORT WORTH
+- State: TX
+- ZIP: 76106
+- ZIP extension: 
+- State project ID: TX4332
+- Latitude: 32.811443
+- Longitude: -97.403861
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439100505
+- Tract 2010: 48439100501
+- Tract 2000: 48439100501
+- Tract 1990: 48439100501
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1500
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 196
+- Low-income units: 196
+- Units reported: 196
+- Low-income reported: 196
+- Efficiencies: 0
+- 1-bedroom units: 100
+- 2-bedroom units: 96
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

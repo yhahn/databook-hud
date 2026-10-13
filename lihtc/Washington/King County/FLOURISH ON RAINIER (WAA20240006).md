@@ -1,0 +1,85 @@
+# Project: FLOURISH ON RAINIER (WAA20240006)
+
+- HUD ID: WAA20240006
+- HUD ID before: 
+- Project: FLOURISH ON RAINIER
+- Address: 7930 RAINIER AVENUE SOUTH
+- City: SEATTLE
+- State: WA
+- ZIP: 98118
+- ZIP extension: 
+- State project ID: 21-43A
+- Latitude: 47.531438
+- Longitude: -122.269755
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033011801
+- Tract 2010: 53033011800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 182
+- Low-income units: 181
+- Units reported: 182
+- Low-income reported: 181
+- Efficiencies: 19
+- 1-bedroom units: 85
+- 2-bedroom units: 40
+- 3-bedroom units: 34
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

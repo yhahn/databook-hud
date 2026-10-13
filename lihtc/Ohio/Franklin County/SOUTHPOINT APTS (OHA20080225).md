@@ -1,0 +1,85 @@
+# Project: SOUTHPOINT APTS (OHA20080225)
+
+- HUD ID: OHA20080225
+- HUD ID before: 
+- Project: SOUTHPOINT APTS
+- Address: 4138 ESKER DR
+- City: COLUMBUS
+- State: OH
+- ZIP: 43207
+- ZIP extension: 
+- State project ID: 060029
+- Latitude: 39.878228
+- Longitude: -83.0002
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049008822
+- Tract 2010: 39049008822
+- Tract 2000: 39049008822
+- Tract 1990: 39049008822
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 78356
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 40
+- 1-bedroom units: 0
+- 2-bedroom units: 9
+- 3-bedroom units: 27
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

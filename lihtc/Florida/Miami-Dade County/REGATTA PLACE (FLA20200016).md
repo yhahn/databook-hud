@@ -1,0 +1,85 @@
+# Project: REGATTA PLACE (FLA20200016)
+
+- HUD ID: FLA20200016
+- HUD ID before: 
+- Project: REGATTA PLACE
+- Address: 3180 NW 42ND STREET
+- City: MIAMI
+- State: FL
+- ZIP: 33142
+- ZIP extension: 
+- State project ID: 2943
+- Latitude: 25.813348
+- Longitude: -80.248167
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086001702
+- Tract 2010: 12086001702
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 09000
+- Place 2010: 09000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 813991
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 
+- 1-bedroom units: 36
+- 2-bedroom units: 48
+- 3-bedroom units: 24
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 108
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

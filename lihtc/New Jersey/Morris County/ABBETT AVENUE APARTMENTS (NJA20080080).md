@@ -1,0 +1,85 @@
+# Project: ABBETT AVENUE APARTMENTS (NJA20080080)
+
+- HUD ID: NJA20080080
+- HUD ID before: 
+- Project: ABBETT AVENUE APARTMENTS
+- Address: 38-42 ABBETT AVENUE
+- City: MORRISTOWN TOWN
+- State: NJ
+- ZIP: 07960
+- ZIP extension: 
+- State project ID: NJ-6917
+- Latitude: 40.801905
+- Longitude: -74.472387
+- County FIPS: 34027
+- County from: 2020
+- Tract 2020: 34027043500
+- Tract 2010: 34027043500
+- Tract 2000: 34027043500
+- Tract 1990: 34027043500
+- Place 2020: 48300
+- Place 2010: 48300
+- Place 2000: 48300
+- Place 1990: 2820
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 210757
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

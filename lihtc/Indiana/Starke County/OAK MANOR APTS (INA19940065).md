@@ -1,0 +1,85 @@
+# Project: OAK MANOR APTS (INA19940065)
+
+- HUD ID: INA19940065
+- HUD ID before: 
+- Project: OAK MANOR APTS
+- Address: 113 MARYLAND ST
+- City: NORTH JUDSON
+- State: IN
+- ZIP: 46366
+- ZIP extension: 
+- State project ID: IN-93-01101
+- Latitude: 41.215251
+- Longitude: -86.767202
+- County FIPS: 18149
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18149954200
+- Tract 2000: 18149954200
+- Tract 1990: 18149954200
+- Place 2020: 
+- Place 2010: 54900
+- Place 2000: 54900
+- Place 1990: 1875
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

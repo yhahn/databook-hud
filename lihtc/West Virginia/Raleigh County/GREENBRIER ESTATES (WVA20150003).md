@@ -1,0 +1,85 @@
+# Project: GREENBRIER ESTATES (WVA20150003)
+
+- HUD ID: WVA20150003
+- HUD ID before: 
+- Project: GREENBRIER ESTATES
+- Address: 105 SANDSTONE DR
+- City: BECKLEY
+- State: WV
+- ZIP: 25801
+- ZIP extension: 
+- State project ID: 2013-32
+- Latitude: 37.790329
+- Longitude: -81.200924
+- County FIPS: 54081
+- County from: 2020
+- Tract 2020: 54081000600
+- Tract 2010: 54081000600
+- Tract 2000: 54081010600
+- Tract 1990: 54081010600
+- Place 2020: 05332
+- Place 2010: 05332
+- Place 2000: 05332
+- Place 1990: 0110
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 209073
+- Units: 150
+- Low-income units: 126
+- Units reported: 150
+- Low-income reported: 126
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

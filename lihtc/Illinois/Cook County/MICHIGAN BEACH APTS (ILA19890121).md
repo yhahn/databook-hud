@@ -1,0 +1,85 @@
+# Project: MICHIGAN BEACH APTS (ILA19890121)
+
+- HUD ID: ILA19890121
+- HUD ID before: 
+- Project: MICHIGAN BEACH APTS
+- Address: 7251 S STH SHR DR
+- City: CHICAGO
+- State: IL
+- ZIP: 60649
+- ZIP extension: 
+- State project ID: 236-89
+- Latitude: 41.764461
+- Longitude: -87.56098
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031430700
+- Tract 2010: 17031430700
+- Tract 2000: 17031430700
+- Tract 1990: 17031430700
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 480000
+- Units: 239
+- Low-income units: 239
+- Units reported: 239
+- Low-income reported: 239
+- Efficiencies: 19
+- 1-bedroom units: 140
+- 2-bedroom units: 60
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000635, ILB1989065.
+- Record status: Existing, unchanged

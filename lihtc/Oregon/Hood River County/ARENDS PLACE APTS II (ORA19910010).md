@@ -1,0 +1,85 @@
+# Project: ARENDS PLACE APTS II (ORA19910010)
+
+- HUD ID: ORA19910010
+- HUD ID before: 
+- Project: ARENDS PLACE APTS II
+- Address: 2126 TUCKER RD
+- City: HOOD RIVER
+- State: OR
+- ZIP: 97031
+- ZIP extension: 
+- State project ID: OR90-370
+- Latitude: 45.660078
+- Longitude: -121.543751
+- County FIPS: 41027
+- County from: 2020
+- Tract 2020: 41027950201
+- Tract 2010: 41027950200
+- Tract 2000: 41027950200
+- Tract 1990: 41027950200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 34900
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 22
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: JAZZ HILL HOMES (MOA20020150)
+
+- HUD ID: MOA20020150
+- HUD ID before: 
+- Project: JAZZ HILL HOMES
+- Address: 1116 PASEO BLVD
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64106
+- ZIP extension: 
+- State project ID: 00-407
+- Latitude: 39.100297
+- Longitude: -94.564164
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095015401
+- Tract 2010: 29095015400
+- Tract 2000: 29095001600
+- Tract 1990: 29095001600
+- Place 2020: 38000
+- Place 2010: 38000
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 198
+- Low-income units: 198
+- Units reported: 198
+- Low-income reported: 198
+- Efficiencies: 4
+- 1-bedroom units: 156
+- 2-bedroom units: 38
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: KEMPER LOFTS (VAA20100923)
+
+- HUD ID: VAA20100923
+- HUD ID before: 
+- Project: KEMPER LOFTS
+- Address: 1401 KEMPER ST
+- City: LYNCHBURG
+- State: VA
+- ZIP: 24501
+- ZIP extension: 
+- State project ID: 1274
+- Latitude: 37.402477
+- Longitude: -79.153432
+- County FIPS: 51680
+- County from: 2020
+- Tract 2020: 51680001100
+- Tract 2010: 51680001100
+- Tract 2000: 51680001100
+- Tract 1990: 51680001100
+- Place 2020: 47672
+- Place 2010: 47672
+- Place 2000: 47672
+- Place 1990: 0760
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 398755
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 18
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

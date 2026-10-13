@@ -1,0 +1,85 @@
+# Project: KESWICK II (VAA20220012)
+
+- HUD ID: VAA20220012
+- HUD ID before: 
+- Project: KESWICK II
+- Address: 7707 TADLEY LANE
+- City: SPOTSYLVANIA
+- State: VA
+- ZIP: 22551
+- ZIP extension: 
+- State project ID: 9835
+- Latitude: 38.1702
+- Longitude: -77.6147
+- County FIPS: 51177
+- County from: 2020
+- Tract 2020: 51177020311
+- Tract 2010: 51177020311
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 74470
+- Place 2010: 74470
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 958904
+- Units: 116
+- Low-income units: 116
+- Units reported: 116
+- Low-income reported: 116
+- Efficiencies: 
+- 1-bedroom units: 20
+- 2-bedroom units: 88
+- 3-bedroom units: 8
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

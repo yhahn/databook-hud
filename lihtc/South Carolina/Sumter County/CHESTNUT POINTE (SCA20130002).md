@@ -1,0 +1,85 @@
+# Project: CHESTNUT POINTE (SCA20130002)
+
+- HUD ID: SCA20130002
+- HUD ID before: 
+- Project: CHESTNUT POINTE
+- Address: 190 ROXBURY CT
+- City: SUMTER
+- State: SC
+- ZIP: 29150
+- ZIP extension: 
+- State project ID: SC-11-063
+- Latitude: 33.945246
+- Longitude: -80.347817
+- County FIPS: 45085
+- County from: 2020
+- Tract 2020: 45085000800
+- Tract 2010: 45085000800
+- Tract 2000: 45085000898
+- Tract 1990: 45085000898
+- Place 2020: 70405
+- Place 2010: 70405
+- Place 2000: 70405
+- Place 1990: 1400
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 707546
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 650000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CHESTNUT POINTE (M11-SG450933).
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PRESIDENTS GARDENS APTS (MOA19980230)
+
+- HUD ID: MOA19980230
+- HUD ID before: 
+- Project: PRESIDENTS GARDENS APTS
+- Address: 8239 FOREST AVE OFC
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64131
+- ZIP extension: 
+- State project ID: 96-047
+- Latitude: 38.977758
+- Longitude: -94.575401
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095009500
+- Tract 2010: 29095009500
+- Tract 2000: 29095009500
+- Tract 1990: 29095009500
+- Place 2020: 38000
+- Place 2010: 38000
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 450
+- Low-income units: 431
+- Units reported: 450
+- Low-income reported: 431
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 375
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA1998225.
+- Record status: Existing, unchanged

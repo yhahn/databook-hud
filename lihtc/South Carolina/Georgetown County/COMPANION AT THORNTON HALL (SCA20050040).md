@@ -1,0 +1,85 @@
+# Project: COMPANION AT THORNTON HALL (SCA20050040)
+
+- HUD ID: SCA20050040
+- HUD ID before: 
+- Project: COMPANION AT THORNTON HALL
+- Address: 2119 LINCOLN ST
+- City: GEORGETOWN
+- State: SC
+- ZIP: 29440
+- ZIP extension: 
+- State project ID: SC-03-009
+- Latitude: 33.385015
+- Longitude: -79.295445
+- County FIPS: 45043
+- County from: 2020
+- Tract 2020: 45043920601
+- Tract 2010: 45043920600
+- Tract 2000: 45043980600
+- Tract 1990: 45043980600
+- Place 2020: 28870
+- Place 2010: 28870
+- Place 2000: 28870
+- Place 1990: 0513
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 289622
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: Sale under qualified contract
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

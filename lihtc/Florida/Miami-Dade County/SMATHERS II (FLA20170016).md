@@ -1,0 +1,85 @@
+# Project: SMATHERS II (FLA20170016)
+
+- HUD ID: FLA20170016
+- HUD ID before: 
+- Project: SMATHERS II
+- Address: 1025 SW 30TH AVENUE
+- City: MIAMI
+- State: FL
+- ZIP: 33135
+- ZIP extension: 
+- State project ID: 2678
+- Latitude: 25.762542
+- Longitude: -80.243051
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086006303
+- Tract 2010: 12086006301
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 906418
+- Units: 133
+- Low-income units: 133
+- Units reported: 133
+- Low-income reported: 133
+- Efficiencies: 57
+- 1-bedroom units: 71
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

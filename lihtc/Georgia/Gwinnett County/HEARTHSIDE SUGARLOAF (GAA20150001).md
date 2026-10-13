@@ -1,0 +1,85 @@
+# Project: HEARTHSIDE SUGARLOAF (GAA20150001)
+
+- HUD ID: GAA20150001
+- HUD ID before: 
+- Project: HEARTHSIDE SUGARLOAF
+- Address: 5600 SUGARLOAF PARKWAY
+- City: LAWRENCEVILLE
+- State: GA
+- ZIP: 30043
+- ZIP extension: 5603
+- State project ID: GA-12-040
+- Latitude: 33.973953
+- Longitude: -84.073178
+- County FIPS: 13135
+- County from: 2020
+- Tract 2020: 13135050561
+- Tract 2010: 13135050511
+- Tract 2000: 13135050511
+- Tract 1990: 13135050502
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 45488
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 950000
+- Units: 110
+- Low-income units: 76
+- Units reported: 110
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 85
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000214.;
+- Record status: Existing, unchanged

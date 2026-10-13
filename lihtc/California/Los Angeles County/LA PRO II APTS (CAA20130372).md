@@ -1,0 +1,85 @@
+# Project: LA PRO II APTS (CAA20130372)
+
+- HUD ID: CAA20130372
+- HUD ID before: 
+- Project: LA PRO II APTS
+- Address: 10311 S WESTERN AVE
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90047
+- ZIP extension: 
+- State project ID: CA-11-140
+- Latitude: 33.943007
+- Longitude: -118.309218
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037238000
+- Tract 2010: 06037238000
+- Tract 2000: 06037238000
+- Tract 1990: 06037238000
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1675096
+- Units: 123
+- Low-income units: 119
+- Units reported: 123
+- Low-income reported: 119
+- Efficiencies: 52
+- 1-bedroom units: 71
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 61
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

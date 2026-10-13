@@ -1,0 +1,85 @@
+# Project: NORTHWOOD COURT APTS (MEA19990015)
+
+- HUD ID: MEA19990015
+- HUD ID before: 
+- Project: NORTHWOOD COURT APTS
+- Address: 1 NORTHWOOD CT
+- City: BATH
+- State: ME
+- ZIP: 04530
+- ZIP extension: 
+- State project ID: MSHA-RLP-1002
+- Latitude: 43.872481
+- Longitude: -69.858382
+- County FIPS: 23023
+- County from: 2020
+- Tract 2020: 23023970700
+- Tract 2010: 23023970700
+- Tract 2000: 23023980500
+- Tract 1990: 23023980500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 03355
+- Place 1990: 0300
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 879374
+- Units: 134
+- Low-income units: 134
+- Units reported: 134
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 62
+- 3-bedroom units: 59
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

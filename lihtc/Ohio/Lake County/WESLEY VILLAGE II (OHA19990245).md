@@ -1,0 +1,85 @@
+# Project: WESLEY VILLAGE II (OHA19990245)
+
+- HUD ID: OHA19990245
+- HUD ID before: 
+- Project: WESLEY VILLAGE II
+- Address: 180 WOOD ST
+- City: PAINESVILLE
+- State: OH
+- ZIP: 44077
+- ZIP extension: 
+- State project ID: 970011
+- Latitude: 41.719819
+- Longitude: -81.245909
+- County FIPS: 39085
+- County from: 2020
+- Tract 2020: 39085204500
+- Tract 2010: 39085204500
+- Tract 2000: 39085204500
+- Tract 1990: 39085204500
+- Place 2020: 59416
+- Place 2010: 59416
+- Place 2000: 59416
+- Place 1990: 3330
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 62
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

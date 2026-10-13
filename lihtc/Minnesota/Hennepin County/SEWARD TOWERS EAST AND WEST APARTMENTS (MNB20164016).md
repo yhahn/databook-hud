@@ -1,0 +1,85 @@
+# Project: SEWARD TOWERS EAST AND WEST APARTMENTS (MNB20164016)
+
+- HUD ID: MNB20164016
+- HUD ID before: 
+- Project: SEWARD TOWERS EAST AND WEST APARTMENTS
+- Address: 2910 EAST FRANKLIN AVENUE
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55406
+- ZIP extension: 1161
+- State project ID: D7713
+- Latitude: 44.962939
+- Longitude: -93.228825
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053106400
+- Tract 2010: 27053106400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 2934832
+- Units: 640
+- Low-income units: 592
+- Units reported: 640
+- Low-income reported: 592
+- Efficiencies: 112
+- 1-bedroom units: 416
+- 2-bedroom units: 112
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

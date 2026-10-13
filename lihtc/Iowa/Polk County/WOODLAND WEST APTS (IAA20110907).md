@@ -1,0 +1,85 @@
+# Project: WOODLAND WEST APTS (IAA20110907)
+
+- HUD ID: IAA20110907
+- HUD ID before: 
+- Project: WOODLAND WEST APTS
+- Address: 3405 WOODLAND AVE
+- City: WEST DES MOINES
+- State: IA
+- ZIP: 50266
+- ZIP extension: 
+- State project ID: 10-10-243
+- Latitude: 41.5892
+- Longitude: -93.750955
+- County FIPS: 19153
+- County from: 2020
+- Tract 2020: 19153011112
+- Tract 2010: 19153011112
+- Tract 2000: 19153011112
+- Tract 1990: 19153011112
+- Place 2020: 83910
+- Place 2010: 83910
+- Place 2000: 83910
+- Place 1990: 4550
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 618957
+- Units: 48
+- Low-income units: 38
+- Units reported: 48
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 20
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

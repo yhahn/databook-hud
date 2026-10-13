@@ -1,0 +1,25 @@
+# Tax Credit Projects: Marquette County, WI
+
+- Level: County
+- Postal code: WI
+- State FIPS: 55
+- County FIPS: 55077
+- Counties: 
+- Projects: 8
+- Units: 132
+- Low-income units: 124
+
+The low-income housing tax credit projects of Marquette County, Wisconsin, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [CHERRY WOODS APTS (WIA19870020)](./Marquette%20County/CHERRY%20WOODS%20APTS%20%28WIA19870020%29.md) | WIA19870020 | WESTFIELD | 1987 | 8 | 4 |
+| [GRANITE CITY HEIGHTS (WIA19880060)](./Marquette%20County/GRANITE%20CITY%20HEIGHTS%20%28WIA19880060%29.md) | WIA19880060 | MONTELLO | 1988 | 10 | 10 |
+| [WESTFIELD COMMONS (WIA19880160)](./Marquette%20County/WESTFIELD%20COMMONS%20%28WIA19880160%29.md) | WIA19880160 | WESTFIELD | 1988 | 18 | 18 |
+| [GRANITE HILLS MANOR (WIA19940055)](./Marquette%20County/GRANITE%20HILLS%20MANOR%20%28WIA19940055%29.md) | WIA19940055 | MONTELLO | 1994 | 8 | 8 |
+| [MILL POND APTS (WIA19960105)](./Marquette%20County/MILL%20POND%20APTS%20%28WIA19960105%29.md) | WIA19960105 | WESTFIELD | 1996 | 24 | 24 |
+| [LAKE COUNTRY SENIOR VILLAGE (WIA20020095)](./Marquette%20County/LAKE%20COUNTRY%20SENIOR%20VILLAGE%20%28WIA20020095%29.md) | WIA20020095 | MONTELLO | 2002 | 20 | 18 |
+| [FOX RIVER SENIOR VILLAGE (WIA20050040)](./Marquette%20County/FOX%20RIVER%20SENIOR%20VILLAGE%20%28WIA20050040%29.md) | WIA20050040 | MONTELLO | 2005 | 20 | 18 |
+| [IW WEST (WIA20050065)](./Marquette%20County/IW%20WEST%20%28WIA20050065%29.md) | WIA20050065 | WESTFIELD | 2005 | 24 | 24 |

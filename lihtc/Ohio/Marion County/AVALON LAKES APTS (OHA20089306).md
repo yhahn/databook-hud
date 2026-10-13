@@ -1,0 +1,85 @@
+# Project: AVALON LAKES APTS (OHA20089306)
+
+- HUD ID: OHA20089306
+- HUD ID before: 
+- Project: AVALON LAKES APTS
+- Address: 830 KIBBY DR
+- City: MARION
+- State: OH
+- ZIP: 43302
+- ZIP extension: 
+- State project ID: 060149
+- Latitude: 40.597082
+- Longitude: -83.079847
+- County FIPS: 39101
+- County from: 2020
+- Tract 2020: 39101010100
+- Tract 2010: 39101010100
+- Tract 2000: 39101010100
+- Tract 1990: 39101010100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 10954
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 80
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007736, OHA2008020.
+- Record status: Existing, unchanged

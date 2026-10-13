@@ -1,0 +1,85 @@
+# Project: ELM STREET REVITALIZATION (WESTFIELD) (MAB20100025)
+
+- HUD ID: MAB20100025
+- HUD ID before: 
+- Project: ELM STREET REVITALIZATION (WESTFIELD)
+- Address: 105 ELM ST
+- City: WESTFIELD
+- State: MA
+- ZIP: 01085
+- ZIP extension: 
+- State project ID: 1586
+- Latitude: 42.122856
+- Longitude: -72.748244
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013812702
+- Tract 2010: 25013812702
+- Tract 2000: 25013812702
+- Tract 1990: 25013812702
+- Place 2020: 76030
+- Place 2010: 76030
+- Place 2000: 76030
+- Place 1990: 4690
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4569875
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

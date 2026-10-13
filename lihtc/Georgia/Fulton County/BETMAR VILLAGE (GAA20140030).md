@@ -1,0 +1,85 @@
+# Project: BETMAR VILLAGE (GAA20140030)
+
+- HUD ID: GAA20140030
+- HUD ID before: 
+- Project: BETMAR VILLAGE
+- Address: 345 ASHWOOD AVE SW
+- City: ATLANTA
+- State: GA
+- ZIP: 30315
+- ZIP extension: 6000
+- State project ID: GA-12-501
+- Latitude: 33.705355
+- Longitude: -84.39967
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121006701
+- Tract 2010: 13121006700
+- Tract 2000: 13121006700
+- Tract 1990: 13121006700
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

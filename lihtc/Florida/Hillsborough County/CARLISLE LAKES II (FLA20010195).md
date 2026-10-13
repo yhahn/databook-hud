@@ -1,0 +1,85 @@
+# Project: CARLISLE LAKES II (FLA20010195)
+
+- HUD ID: FLA20010195
+- HUD ID before: 
+- Project: CARLISLE LAKES II
+- Address: 1811 TINSLEY CIR
+- City: TAMPA
+- State: FL
+- ZIP: 33612
+- ZIP extension: 
+- State project ID: 1223
+- Latitude: 28.061051
+- Longitude: -82.439864
+- County FIPS: 12057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12057010816
+- Tract 2000: 12057010806
+- Tract 1990: 12057010806
+- Place 2020: 
+- Place 2010: 73163
+- Place 2000: 71000
+- Place 1990: 2127
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 149
+- Low-income units: 149
+- Units reported: 149
+- Low-income reported: 149
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 149
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

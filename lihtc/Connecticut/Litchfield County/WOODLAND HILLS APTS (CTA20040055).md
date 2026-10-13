@@ -1,0 +1,85 @@
+# Project: WOODLAND HILLS APTS (CTA20040055)
+
+- HUD ID: CTA20040055
+- HUD ID before: 
+- Project: WOODLAND HILLS APTS
+- Address: 330 HIGHLAND AVE
+- City: TORRINGTON
+- State: CT
+- ZIP: 06790
+- ZIP extension: 
+- State project ID: CT-99-031
+- Latitude: 41.803705
+- Longitude: -73.141309
+- County FIPS: 09005
+- County from: 2020
+- Tract 2020: 09005310804
+- Tract 2010: 09005310804
+- Tract 2000: 09005310802
+- Tract 1990: 09005310802
+- Place 2020: 76500
+- Place 2010: 76500
+- Place 2000: 76500
+- Place 1990: 2330
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 108
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

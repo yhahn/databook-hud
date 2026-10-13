@@ -1,0 +1,85 @@
+# Project: DANBURY POINTE (INA20069098)
+
+- HUD ID: INA20069098
+- HUD ID before: 
+- Project: DANBURY POINTE
+- Address: 3389 E MAIN ST
+- City: DANVILLE
+- State: IN
+- ZIP: 46122
+- ZIP extension: 
+- State project ID: IN-05-00800
+- Latitude: 39.761764
+- Longitude: -86.461153
+- County FIPS: 18063
+- County from: 2020
+- Tract 2020: 18063210502
+- Tract 2010: 18063210502
+- Tract 2000: 18063210500
+- Tract 1990: 18063210500
+- Place 2020: 16804
+- Place 2010: 16804
+- Place 2000: 16804
+- Place 1990: 0605
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

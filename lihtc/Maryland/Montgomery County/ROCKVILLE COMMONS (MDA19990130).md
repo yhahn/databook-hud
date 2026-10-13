@@ -1,0 +1,85 @@
+# Project: ROCKVILLE COMMONS (MDA19990130)
+
+- HUD ID: MDA19990130
+- HUD ID before: 
+- Project: ROCKVILLE COMMONS
+- Address: 401 BLANDFORD ST
+- City: ROCKVILLE
+- State: MD
+- ZIP: 20850
+- ZIP extension: 
+- State project ID: MD97-25
+- Latitude: 39.078734
+- Longitude: -77.15022
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031700901
+- Tract 2010: 24031700901
+- Tract 2000: 24031700901
+- Tract 1990: 24031700901
+- Place 2020: 67675
+- Place 2010: 67675
+- Place 2000: 67675
+- Place 1990: 0850
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 190
+- Low-income units: 166
+- Units reported: 190
+- Low-income reported: 166
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

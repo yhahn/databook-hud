@@ -1,0 +1,85 @@
+# Project: SUNRISE POINTE (CAA20120892)
+
+- HUD ID: CAA20120892
+- HUD ID before: 
+- Project: SUNRISE POINTE
+- Address: 46725 CLINTON ST
+- City: INDIO
+- State: CA
+- ZIP: 92201
+- ZIP extension: 
+- State project ID: CA-11-807
+- Latitude: 33.70963
+- Longitude: -116.242834
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065045207
+- Tract 2010: 06065045207
+- Tract 2000: 06065045207
+- Tract 1990: 06065045202
+- Place 2020: 36448
+- Place 2010: 36448
+- Place 2000: 36448
+- Place 1990: 1330
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 724395
+- Units: 272
+- Low-income units: 269
+- Units reported: 272
+- Low-income reported: 269
+- Efficiencies: 0
+- 1-bedroom units: 112
+- 2-bedroom units: 159
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 269
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

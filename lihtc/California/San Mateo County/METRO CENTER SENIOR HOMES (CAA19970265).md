@@ -1,0 +1,85 @@
+# Project: METRO CENTER SENIOR HOMES (CAA19970265)
+
+- HUD ID: CAA19970265
+- HUD ID before: 
+- Project: METRO CENTER SENIOR HOMES
+- Address: 100 VILLAGE LN
+- City: FOSTER CITY
+- State: CA
+- ZIP: 94404
+- ZIP extension: 
+- State project ID: CA-95-916
+- Latitude: 37.558329
+- Longitude: -122.275485
+- County FIPS: 06081
+- County from: 2020
+- Tract 2020: 06081608025
+- Tract 2010: 06081608004
+- Tract 2000: 06081608004
+- Tract 1990: 06081608004
+- Place 2020: 25338
+- Place 2010: 25338
+- Place 2000: 25338
+- Place 1990: 1062
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 345762
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

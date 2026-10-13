@@ -1,0 +1,85 @@
+# Project: CARSON VILLAGE (GAA19920020)
+
+- HUD ID: GAA19920020
+- HUD ID before: 
+- Project: CARSON VILLAGE
+- Address: 47 SHORT ST
+- City: WRIGHTSVILLE
+- State: GA
+- ZIP: 31096
+- ZIP extension: 2410
+- State project ID: GA-91-006
+- Latitude: 32.727512
+- Longitude: -82.713487
+- County FIPS: 13167
+- County from: 2020
+- Tract 2020: 13167960201
+- Tract 2010: 13167960200
+- Tract 2000: 13167980200
+- Tract 1990: 13167980200
+- Place 2020: 84512
+- Place 2010: 84512
+- Place 2000: 84512
+- Place 1990: 3110
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

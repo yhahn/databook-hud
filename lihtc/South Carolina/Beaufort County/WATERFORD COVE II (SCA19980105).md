@@ -1,0 +1,85 @@
+# Project: WATERFORD COVE II (SCA19980105)
+
+- HUD ID: SCA19980105
+- HUD ID before: 
+- Project: WATERFORD COVE II
+- Address: 20 COLONY GARDENS RD
+- City: BEAUFORT
+- State: SC
+- ZIP: 29907
+- ZIP extension: 
+- State project ID: SC-96-010
+- Latitude: 32.447408
+- Longitude: -80.657691
+- County FIPS: 45013
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45013000902
+- Tract 2000: 45013000900
+- Tract 1990: 45013000900
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 04690
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 186053
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 29
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WATERFORD MANOR II.
+- Record status: Existing, unchanged

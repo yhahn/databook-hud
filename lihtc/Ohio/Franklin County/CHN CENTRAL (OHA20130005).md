@@ -1,0 +1,85 @@
+# Project: CHN CENTRAL (OHA20130005)
+
+- HUD ID: OHA20130005
+- HUD ID before: 
+- Project: CHN CENTRAL
+- Address: 1229 WAGER ST
+- City: COLUMBUS
+- State: OH
+- ZIP: 43206
+- ZIP extension: 
+- State project ID: 110015
+- Latitude: 39.938651
+- Longitude: -82.982354
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049005620
+- Tract 2010: 39049005620
+- Tract 2000: 39049005620
+- Tract 1990: 39049005620
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 67
+- Low-income units: 67
+- Units reported: 67
+- Low-income reported: 67
+- Efficiencies: 19
+- 1-bedroom units: 38
+- 2-bedroom units: 8
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA0000015.
+- Record status: Existing, unchanged

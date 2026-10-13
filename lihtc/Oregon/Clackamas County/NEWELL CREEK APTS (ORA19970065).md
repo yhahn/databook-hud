@@ -1,0 +1,85 @@
+# Project: NEWELL CREEK APTS (ORA19970065)
+
+- HUD ID: ORA19970065
+- HUD ID before: 
+- Project: NEWELL CREEK APTS
+- Address: 14155 BEAVERCREEK RD
+- City: OREGON CITY
+- State: OR
+- ZIP: 97045
+- ZIP extension: 
+- State project ID: OR-95-1-017
+- Latitude: 45.3318
+- Longitude: -122.5952
+- County FIPS: 41005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41005022605
+- Tract 2000: 41005022601
+- Tract 1990: 41005022600
+- Place 2020: 
+- Place 2010: 55200
+- Place 2000: 55200
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 125
+- Low-income units: 125
+- Units reported: 125
+- Low-income reported: 125
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 69
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FOREST EDGE APTS.
+- Record status: Existing, unchanged

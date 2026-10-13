@@ -1,0 +1,85 @@
+# Project: MILK RIVER GROUP HOME (MTA19930020)
+
+- HUD ID: MTA19930020
+- HUD ID before: 
+- Project: MILK RIVER GROUP HOME
+- Address: 703 THIRD AVE S
+- City: GLASGOW
+- State: MT
+- ZIP: 59230
+- ZIP extension: 
+- State project ID: 35
+- Latitude: 48.194067
+- Longitude: -106.640778
+- County FIPS: 30105
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 30105100500
+- Tract 2000: 30105100300
+- Tract 1990: 30105954800
+- Place 2020: 
+- Place 2010: 31075
+- Place 2000: 31075
+- Place 1990: 0280
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 9
+- Low-income units: 6
+- Units reported: 9
+- Low-income reported: 6
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

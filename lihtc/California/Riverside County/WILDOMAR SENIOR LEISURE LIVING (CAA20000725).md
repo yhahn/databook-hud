@@ -1,0 +1,85 @@
+# Project: WILDOMAR SENIOR LEISURE LIVING (CAA20000725)
+
+- HUD ID: CAA20000725
+- HUD ID before: 
+- Project: WILDOMAR SENIOR LEISURE LIVING
+- Address: 32325 S PASADENA
+- City: WILDOMAR
+- State: CA
+- ZIP: 92595
+- ZIP extension: 
+- State project ID: CA-99-834
+- Latitude: 33.602747
+- Longitude: -117.268468
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065043270
+- Tract 2010: 06065043270
+- Tract 2000: 06065043225
+- Tract 1990: 06065043205
+- Place 2020: 85446
+- Place 2010: 85446
+- Place 2000: 85446
+- Place 1990: 3112
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 373789
+- Units: 176
+- Low-income units: 175
+- Units reported: 176
+- Low-income reported: 175
+- Efficiencies: 0
+- 1-bedroom units: 140
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

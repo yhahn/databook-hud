@@ -1,0 +1,85 @@
+# Project: THE CROSSINGS AT ELK GROVE (CAA20070620)
+
+- HUD ID: CAA20070620
+- HUD ID before: 
+- Project: THE CROSSINGS AT ELK GROVE
+- Address: 8575 ELK GROVE FLORIN RD
+- City: ELK GROVE
+- State: CA
+- ZIP: 95624
+- ZIP extension: 
+- State project ID: CA-05-805
+- Latitude: 38.446047
+- Longitude: -121.37139
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067009314
+- Tract 2010: 06067009314
+- Tract 2000: 06067009314
+- Tract 1990: 06067009306
+- Place 2020: 22020
+- Place 2010: 22020
+- Place 2000: 22020
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 983067
+- Units: 116
+- Low-income units: 115
+- Units reported: 116
+- Low-income reported: 115
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 64
+- 3-bedroom units: 40
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

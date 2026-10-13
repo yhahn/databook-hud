@@ -1,0 +1,85 @@
+# Project: AVENUE TERRACE (TXA20100803)
+
+- HUD ID: TXA20100803
+- HUD ID before: 
+- Project: AVENUE TERRACE
+- Address: 4004 IRVINGTON BLVD
+- City: HOUSTON
+- State: TX
+- ZIP: 77009
+- ZIP extension: 
+- State project ID: TX4705
+- Latitude: 29.797075
+- Longitude: -95.360716
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201210500
+- Tract 2010: 48201210500
+- Tract 2000: 48201210500
+- Tract 1990: 48201020704
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 72
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000690.
+- Record status: Existing, unchanged

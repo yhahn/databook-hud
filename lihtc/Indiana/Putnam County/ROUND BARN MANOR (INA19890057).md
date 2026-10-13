@@ -1,0 +1,85 @@
+# Project: ROUND BARN MANOR (INA19890057)
+
+- HUD ID: INA19890057
+- HUD ID before: 
+- Project: ROUND BARN MANOR
+- Address: 1180 HORSESHOE DR
+- City: GREENCASTLE
+- State: IN
+- ZIP: 46135
+- ZIP extension: 
+- State project ID: IN-89-40001
+- Latitude: 39.647519
+- Longitude: -86.832625
+- County FIPS: 18133
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18133956300
+- Tract 2000: 18133956300
+- Tract 1990: 18133956300
+- Place 2020: 
+- Place 2010: 29358
+- Place 2000: 29358
+- Place 1990: 0970
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 112
+- Low-income units: 49
+- Units reported: 112
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

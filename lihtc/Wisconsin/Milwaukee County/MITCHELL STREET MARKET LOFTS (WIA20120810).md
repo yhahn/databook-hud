@@ -1,0 +1,85 @@
+# Project: MITCHELL STREET MARKET LOFTS (WIA20120810)
+
+- HUD ID: WIA20120810
+- HUD ID before: 
+- Project: MITCHELL STREET MARKET LOFTS
+- Address: 1948 W MITCHELL ST
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53204
+- ZIP extension: 
+- State project ID: 5607
+- Latitude: 43.01253
+- Longitude: -87.937324
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079016300
+- Tract 2010: 55079016300
+- Tract 2000: 55079016300
+- Tract 1990: 55079016300
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 594079
+- Units: 24
+- Low-income units: 3
+- Units reported: 24
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 21
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 410000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

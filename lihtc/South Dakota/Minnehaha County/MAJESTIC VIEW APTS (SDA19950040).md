@@ -1,0 +1,85 @@
+# Project: MAJESTIC VIEW APTS (SDA19950040)
+
+- HUD ID: SDA19950040
+- HUD ID before: 
+- Project: MAJESTIC VIEW APTS
+- Address: 1210 S MAJESTIC VIEW PL
+- City: SIOUX FALLS
+- State: SD
+- ZIP: 57103
+- ZIP extension: 
+- State project ID: SD-94-00800
+- Latitude: 43.535035
+- Longitude: -96.692478
+- County FIPS: 46099
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 46099001801
+- Tract 2000: 46099001801
+- Tract 1990: 46099001801
+- Place 2020: 
+- Place 2010: 59020
+- Place 2000: 59020
+- Place 1990: 1225
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 2
+- 1-bedroom units: 3
+- 2-bedroom units: 25
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

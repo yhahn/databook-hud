@@ -1,0 +1,85 @@
+# Project: SOUTHSIDE APTS II (MIA20100067)
+
+- HUD ID: MIA20100067
+- HUD ID before: 
+- Project: SOUTHSIDE APTS II
+- Address: 1845 S FIRST ST
+- City: WEST BRANCH
+- State: MI
+- ZIP: 48661
+- ZIP extension: 
+- State project ID: MI-3383
+- Latitude: 44.262734
+- Longitude: -84.235242
+- County FIPS: 26129
+- County from: 2020
+- Tract 2020: 26129950500
+- Tract 2010: 26129950500
+- Tract 2000: 26129950500
+- Tract 1990: 26129950500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 85580
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 24
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3157155
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA2010503.
+- Record status: Existing, unchanged

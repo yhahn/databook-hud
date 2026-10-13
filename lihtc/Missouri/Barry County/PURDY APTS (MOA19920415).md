@@ -1,0 +1,85 @@
+# Project: PURDY APTS (MOA19920415)
+
+- HUD ID: MOA19920415
+- HUD ID before: 
+- Project: PURDY APTS
+- Address: 600 E MONROE ST
+- City: PURDY
+- State: MO
+- ZIP: 65734
+- ZIP extension: 
+- State project ID: 91-193
+- Latitude: 36.823433
+- Longitude: -93.918092
+- County FIPS: 29009
+- County from: 2020
+- Tract 2020: 29009960202
+- Tract 2010: 29009960200
+- Tract 2000: 29009960200
+- Tract 1990: 29009960200
+- Place 2020: 60176
+- Place 2010: 60176
+- Place 2000: 49196
+- Place 1990: 3570
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CEDAR TOWERS.
+- Record status: Existing, unchanged

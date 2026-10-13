@@ -1,0 +1,85 @@
+# Project: ELINORE (MOA19910260)
+
+- HUD ID: MOA19910260
+- HUD ID before: 
+- Project: ELINORE
+- Address: 8019 ELINOR AVE
+- City: RICHMOND HEIGHTS
+- State: MO
+- ZIP: 63117
+- ZIP extension: 
+- State project ID: 91-105
+- Latitude: 38.625474
+- Longitude: -90.332173
+- County FIPS: 29189
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29189216700
+- Tract 2000: 29189216700
+- Tract 1990: 29189216700
+- Place 2020: 
+- Place 2010: 61706
+- Place 2000: 61706
+- Place 1990: 3695
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ELLSWORTH CONGREGATE (MEA20030045)
+
+- HUD ID: MEA20030045
+- HUD ID before: 
+- Project: ELLSWORTH CONGREGATE
+- Address: 21 EDGEWOOD WAY
+- City: ELLSWORTH
+- State: ME
+- ZIP: 04605
+- ZIP extension: 
+- State project ID: MSHA-RLP-1187
+- Latitude: 44.538652
+- Longitude: -68.416816
+- County FIPS: 23009
+- County from: 2020
+- Tract 2020: 23009965503
+- Tract 2010: 23009965503
+- Tract 2000: 23009965500
+- Tract 1990: 23009965500
+- Place 2020: 23200
+- Place 2010: 23200
+- Place 2000: 23200
+- Place 1990: 1470
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA THE MEADOWS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COBRE VILLAGE (AZA20070020)
+
+- HUD ID: AZA20070020
+- HUD ID before: 
+- Project: COBRE VILLAGE
+- Address: 2186 N ESCUDILLA DR
+- City: GLOBE
+- State: AZ
+- ZIP: 85501
+- ZIP extension: 
+- State project ID: TC-0353
+- Latitude: 33.420895
+- Longitude: -110.809986
+- County FIPS: 04007
+- County from: 2020
+- Tract 2020: 04007001000
+- Tract 2010: 04007001000
+- Tract 2000: 04007001000
+- Tract 1990: 04007981000
+- Place 2020: 28030
+- Place 2010: 28030
+- Place 2000: 11720
+- Place 1990: 0046
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 900000
+- Units: 64
+- Low-income units: 58
+- Units reported: 64
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 27
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

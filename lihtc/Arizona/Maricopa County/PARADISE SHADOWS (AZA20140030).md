@@ -1,0 +1,85 @@
+# Project: PARADISE SHADOWS (AZA20140030)
+
+- HUD ID: AZA20140030
+- HUD ID before: 
+- Project: PARADISE SHADOWS
+- Address: 16035 N 27TH ST
+- City: PHOENIX
+- State: AZ
+- ZIP: 85032
+- ZIP extension: 
+- State project ID: BD-0062
+- Latitude: 33.632363
+- Longitude: -112.024045
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013103306
+- Tract 2010: 04013103306
+- Tract 2000: 04013103306
+- Tract 1990: 04013103304
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 0260
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 202839
+- Units: 67
+- Low-income units: 66
+- Units reported: 67
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 41
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

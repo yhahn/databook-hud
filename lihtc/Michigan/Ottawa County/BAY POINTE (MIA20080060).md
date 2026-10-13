@@ -1,0 +1,85 @@
+# Project: BAY POINTE (MIA20080060)
+
+- HUD ID: MIA20080060
+- HUD ID before: 
+- Project: BAY POINTE
+- Address: 791 E 16TH ST
+- City: HOLLAND
+- State: MI
+- ZIP: 49423
+- ZIP extension: 
+- State project ID: MI-3166
+- Latitude: 42.783468
+- Longitude: -86.074263
+- County FIPS: 26139
+- County from: 2020
+- Tract 2020: 26139025200
+- Tract 2010: 26139025200
+- Tract 2000: 26139022800
+- Tract 1990: 26139022800
+- Place 2020: 38640
+- Place 2010: 38640
+- Place 2000: 38640
+- Place 1990: 1240
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 272114
+- Units: 156
+- Low-income units: 156
+- Units reported: 156
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 65
+- 2-bedroom units: 91
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PALMETTO RIDGE ESTATES (FLA20090075)
+
+- HUD ID: FLA20090075
+- HUD ID before: 
+- Project: PALMETTO RIDGE ESTATES
+- Address: 1202 PRAIRIE LN
+- City: TITUSVILLE
+- State: FL
+- ZIP: 32780
+- ZIP extension: 
+- State project ID: 1638
+- Latitude: 28.600541
+- Longitude: -80.812273
+- County FIPS: 12009
+- County from: 2020
+- Tract 2020: 12009060700
+- Tract 2010: 12009060700
+- Tract 2000: 12009060700
+- Tract 1990: 12009060700
+- Place 2020: 71900
+- Place 2010: 71900
+- Place 2000: 71900
+- Place 1990: 2105
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 954728
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 96
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

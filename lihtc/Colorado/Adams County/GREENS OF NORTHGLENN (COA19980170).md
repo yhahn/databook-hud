@@ -1,0 +1,85 @@
+# Project: GREENS OF NORTHGLENN (COA19980170)
+
+- HUD ID: COA19980170
+- HUD ID before: 
+- Project: GREENS OF NORTHGLENN
+- Address: 350 W 114TH AVE
+- City: NORTHGLENN
+- State: CO
+- ZIP: 80234
+- ZIP extension: 
+- State project ID: 9Z00-944
+- Latitude: 39.902739
+- Longitude: -104.990935
+- County FIPS: 08001
+- County from: 2020
+- Tract 2020: 08001009323
+- Tract 2010: 08001009323
+- Tract 2000: 08001009323
+- Tract 1990: 08001009313
+- Place 2020: 54330
+- Place 2010: 54330
+- Place 2000: 54330
+- Place 1990: 1355
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 128
+- Low-income units: 127
+- Units reported: 128
+- Low-income reported: 127
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

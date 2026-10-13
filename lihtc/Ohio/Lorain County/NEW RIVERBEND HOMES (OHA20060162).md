@@ -1,0 +1,85 @@
+# Project: NEW RIVERBEND HOMES (OHA20060162)
+
+- HUD ID: OHA20060162
+- HUD ID before: 
+- Project: NEW RIVERBEND HOMES
+- Address: 407 SOMMER WAY
+- City: ELYRIA
+- State: OH
+- ZIP: 44035
+- ZIP extension: 
+- State project ID: 040021
+- Latitude: 41.36309
+- Longitude: -82.11519
+- County FIPS: 39093
+- County from: 2020
+- Tract 2020: 39093070901
+- Tract 2010: 39093070901
+- Tract 2000: 39093070901
+- Tract 1990: 39093070901
+- Place 2020: 25256
+- Place 2010: 25256
+- Place 2000: 25256
+- Place 1990: 1300
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 964128
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 40
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006677, OHA2005107.
+- Record status: Existing, unchanged

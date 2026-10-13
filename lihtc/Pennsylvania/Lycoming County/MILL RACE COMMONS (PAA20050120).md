@@ -1,0 +1,85 @@
+# Project: MILL RACE COMMONS (PAA20050120)
+
+- HUD ID: PAA20050120
+- HUD ID before: 
+- Project: MILL RACE COMMONS
+- Address: 108 ROCKEY LN
+- City: MONTOURSVILLE
+- State: PA
+- ZIP: 17754
+- ZIP extension: 
+- State project ID: TC20030614
+- Latitude: 41.256572
+- Longitude: -76.926932
+- County FIPS: 42081
+- County from: 2020
+- Tract 2020: 42081011000
+- Tract 2010: 42081011000
+- Tract 2000: 42081011000
+- Tract 1990: 42081011000
+- Place 2020: 50720
+- Place 2010: 50720
+- Place 2000: 50720
+- Place 1990: 6594
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 242741
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1493780
+- CDBG: Yes
+- CDBG amount: 100000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

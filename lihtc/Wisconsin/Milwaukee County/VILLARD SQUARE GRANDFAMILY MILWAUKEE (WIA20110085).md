@@ -1,0 +1,85 @@
+# Project: VILLARD SQUARE GRANDFAMILY MILWAUKEE (WIA20110085)
+
+- HUD ID: WIA20110085
+- HUD ID before: 
+- Project: VILLARD SQUARE GRANDFAMILY MILWAUKEE
+- Address: 3427 W VILLARD AVE
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53209
+- ZIP extension: 
+- State project ID: 5453
+- Latitude: 43.111752
+- Longitude: -87.955539
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079002400
+- Tract 2010: 55079002400
+- Tract 2000: 55079002400
+- Tract 1990: 55079002400
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 768128
+- Units: 47
+- Low-income units: 6
+- Units reported: 47
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 24
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 9999
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

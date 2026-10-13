@@ -1,0 +1,85 @@
+# Project: ST JOHNSBURY HOUSE (VTA20010080)
+
+- HUD ID: VTA20010080
+- HUD ID before: 
+- Project: ST JOHNSBURY HOUSE
+- Address: 1207 MAIN ST
+- City: ST JOHNSBURY
+- State: VT
+- ZIP: 05819
+- ZIP extension: 
+- State project ID: 0195
+- Latitude: 44.41885
+- Longitude: -72.02113
+- County FIPS: 50005
+- County from: 2020
+- Tract 2020: 50005957400
+- Tract 2010: 50005957400
+- Tract 2000: 50005957400
+- Tract 1990: 50005957400
+- Place 2020: 62125
+- Place 2010: 62125
+- Place 2000: 62125
+- Place 1990: 2268
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 207425
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

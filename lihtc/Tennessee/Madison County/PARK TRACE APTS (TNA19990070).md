@@ -1,0 +1,85 @@
+# Project: PARK TRACE APTS (TNA19990070)
+
+- HUD ID: TNA19990070
+- HUD ID before: 
+- Project: PARK TRACE APTS
+- Address: 100 PARKWOOD TRCE
+- City: JACKSON
+- State: TN
+- ZIP: 38301
+- ZIP extension: 
+- State project ID: TN-97-026
+- Latitude: 35.641115
+- Longitude: -88.779677
+- County FIPS: 47113
+- County from: 2020
+- Tract 2020: 47113000500
+- Tract 2010: 47113000500
+- Tract 2000: 47113000500
+- Tract 1990: 47113000500
+- Place 2020: 37640
+- Place 2010: 37640
+- Place 2000: 37640
+- Place 1990: 0705
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 493182
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 48
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

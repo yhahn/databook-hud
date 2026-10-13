@@ -1,0 +1,85 @@
+# Project: COUNTRY MEADOWS (ILA19880037)
+
+- HUD ID: ILA19880037
+- HUD ID before: 
+- Project: COUNTRY MEADOWS
+- Address: 504 PLAZA DR
+- City: MENDOTA
+- State: IL
+- ZIP: 61342
+- ZIP extension: 
+- State project ID: 140-88
+- Latitude: 41.545889
+- Longitude: -89.133678
+- County FIPS: 17099
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17099961900
+- Tract 2000: 17099961900
+- Tract 1990: 17099961900
+- Place 2020: 
+- Place 2010: 48333
+- Place 2000: 48333
+- Place 1990: 3675
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 26323
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 1
+- 1-bedroom units: 13
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000330.
+- Record status: Existing, unchanged

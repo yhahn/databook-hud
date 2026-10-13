@@ -1,0 +1,85 @@
+# Project: CRESTMOOR PARK SOUTH APTS (TXA20100814)
+
+- HUD ID: TXA20100814
+- HUD ID before: 
+- Project: CRESTMOOR PARK SOUTH APTS
+- Address: 514 SE GARDENS BLVD
+- City: BURLESON
+- State: TX
+- ZIP: 76028
+- ZIP extension: 
+- State project ID: TX4356
+- Latitude: 32.526419
+- Longitude: -97.327444
+- County FIPS: 48251
+- County from: 2020
+- Tract 2020: 48251130222
+- Tract 2010: 48251130208
+- Tract 2000: 48251130208
+- Tract 1990: 48251130203
+- Place 2020: 11428
+- Place 2010: 11428
+- Place 2000: 11428
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 46
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1215089
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3041202
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000175.
+- Record status: Existing, unchanged

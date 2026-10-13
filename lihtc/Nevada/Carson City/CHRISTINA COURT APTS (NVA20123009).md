@@ -1,0 +1,85 @@
+# Project: CHRISTINA COURT APTS (NVA20123009)
+
+- HUD ID: NVA20123009
+- HUD ID before: NVA00000007
+- Project: CHRISTINA COURT APTS
+- Address: 1800 RUSSELL WAY
+- City: CARSON CITY
+- State: NV
+- ZIP: 89706
+- ZIP extension: 0000
+- State project ID: 11-40
+- Latitude: 39.176897
+- Longitude: -119.742806
+- County FIPS: 32510
+- County from: 2020
+- Tract 2020: 32510000502
+- Tract 2010: 32510000502
+- Tract 2000: 32510000500
+- Tract 1990: 32510000500
+- Place 2020: 09700
+- Place 2010: 09700
+- Place 2000: 09700
+- Place 1990: 0025
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 582654
+- Units: 40
+- Low-income units: 36
+- Units reported: 40
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS NVA00000007
+- Record status: Existing, unchanged

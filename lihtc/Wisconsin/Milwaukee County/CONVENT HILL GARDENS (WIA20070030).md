@@ -1,0 +1,85 @@
+# Project: CONVENT HILL GARDENS (WIA20070030)
+
+- HUD ID: WIA20070030
+- HUD ID before: 
+- Project: CONVENT HILL GARDENS
+- Address: 455 E OGDEN AVE (#201-214; 301-314; 401-408)
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53202
+- ZIP extension: 
+- State project ID: 5044
+- Latitude: 43.048018
+- Longitude: -87.906114
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079011300
+- Tract 2010: 55079011300
+- Tract 2000: 55079011300
+- Tract 1990: 55079011300
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 530310
+- Units: 40
+- Low-income units: 3
+- Units reported: 40
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

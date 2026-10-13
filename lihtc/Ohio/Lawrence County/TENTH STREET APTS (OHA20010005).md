@@ -1,0 +1,85 @@
+# Project: TENTH STREET APTS (OHA20010005)
+
+- HUD ID: OHA20010005
+- HUD ID before: 
+- Project: TENTH STREET APTS
+- Address: 202 PARK AVE
+- City: IRONTON
+- State: OH
+- ZIP: 45638
+- ZIP extension: 
+- State project ID: OH-99-0084
+- Latitude: 38.534202
+- Longitude: -82.685608
+- County FIPS: 39087
+- County from: 2020
+- Tract 2020: 39087050300
+- Tract 2010: 39087050300
+- Tract 2000: 39087050300
+- Tract 1990: 39087050300
+- Place 2020: 37464
+- Place 2010: 37464
+- Place 2000: 37464
+- Place 1990: 1920
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 218018
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 20
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

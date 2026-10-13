@@ -1,0 +1,85 @@
+# Project: WESTVIEW RANCH APTS (CAA20070735)
+
+- HUD ID: CAA20070735
+- HUD ID before: 
+- Project: WESTVIEW RANCH APTS
+- Address: 500 BANKSIDE WAY
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95835
+- ZIP extension: 
+- State project ID: CA-06-849
+- Latitude: 38.679259
+- Longitude: -121.529643
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067007111
+- Tract 2010: 06067007104
+- Tract 2000: 06067007100
+- Tract 1990: 06067007100
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 64000
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 877300
+- Units: 128
+- Low-income units: 127
+- Units reported: 128
+- Low-income reported: 127
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 48
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

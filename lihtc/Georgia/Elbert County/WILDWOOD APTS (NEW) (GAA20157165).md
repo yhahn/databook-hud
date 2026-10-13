@@ -1,0 +1,85 @@
+# Project: WILDWOOD APTS (NEW) (GAA20157165)
+
+- HUD ID: GAA20157165
+- HUD ID before: 
+- Project: WILDWOOD APTS (NEW)
+- Address: 1150 PETERSBURG RD
+- City: ELBERTON
+- State: GA
+- ZIP: 30635
+- ZIP extension: 2742
+- State project ID: 2014-524, 97
+- Latitude: 34.093565
+- Longitude: -82.841975
+- County FIPS: 13105
+- County from: 2020
+- Tract 2020: 13105000502
+- Tract 2010: 13105000500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26616
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

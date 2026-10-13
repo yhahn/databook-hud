@@ -1,0 +1,85 @@
+# Project: BEVERLY APTS, ALP (SCA20040018)
+
+- HUD ID: SCA20040018
+- HUD ID before: 
+- Project: BEVERLY APTS, ALP
+- Address: 200 S BEVERLY LN
+- City: GREER
+- State: SC
+- ZIP: 29650
+- ZIP extension: 
+- State project ID: SC-50-302
+- Latitude: 34.93946
+- Longitude: -82.243586
+- County FIPS: 45045
+- County from: 2020
+- Tract 2020: 45045002505
+- Tract 2010: 45045002505
+- Tract 2000: 45045002505
+- Tract 1990: 45045002505
+- Place 2020: 30985
+- Place 2010: 30985
+- Place 2000: 30985
+- Place 1990: 0575
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 138052
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 8
+- 1-bedroom units: 20
+- 2-bedroom units: 32
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA2007010.
+- Record status: Existing, unchanged

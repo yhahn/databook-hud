@@ -1,0 +1,85 @@
+# Project: LAGUNA HOTEL LOFTS (TXA0000X040)
+
+- HUD ID: TXA0000X040
+- HUD ID before: 
+- Project: LAGUNA HOTEL LOFTS
+- Address: 400 CONRAD HILTON BLVD
+- City: CISCO
+- State: TX
+- ZIP: 76437
+- ZIP extension: 
+- State project ID: TX5198
+- Latitude: 32.390808
+- Longitude: -98.981301
+- County FIPS: 48133
+- County from: 2020
+- Tract 2020: 48133950301
+- Tract 2010: 48133950300
+- Tract 2000: 48133950300
+- Tract 1990: 
+- Place 2020: 15004
+- Place 2010: 15004
+- Place 2000: 15004
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Total Special Needs
+- Scattered site: No
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

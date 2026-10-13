@@ -1,0 +1,85 @@
+# Project: SOUTHWIND ESTATES (MSA20110100)
+
+- HUD ID: MSA20110100
+- HUD ID before: 
+- Project: SOUTHWIND ESTATES
+- Address: 82 SOUTHWINDS LN
+- City: DURANT
+- State: MS
+- ZIP: 39063
+- ZIP extension: 
+- State project ID: MS-09-1-020
+- Latitude: 33.089745
+- Longitude: -89.861506
+- County FIPS: 28051
+- County from: 2020
+- Tract 2020: 28051950100
+- Tract 2010: 28051950100
+- Tract 2000: 28051950100
+- Tract 1990: 28051950100
+- Place 2020: 20500
+- Place 2010: 20500
+- Place 2000: 20500
+- Place 1990: 0360
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 125592
+- Units: 31
+- Low-income units: 30
+- Units reported: 31
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 502368
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2011672, MSA1995140.
+- Record status: Existing, unchanged

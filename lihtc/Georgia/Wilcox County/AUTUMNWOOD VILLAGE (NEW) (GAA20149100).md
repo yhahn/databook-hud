@@ -1,0 +1,85 @@
+# Project: AUTUMNWOOD VILLAGE (NEW) (GAA20149100)
+
+- HUD ID: GAA20149100
+- HUD ID before: 
+- Project: AUTUMNWOOD VILLAGE (NEW)
+- Address: 237 IRWINVILLE RD
+- City: ABBEVILLE
+- State: GA
+- ZIP: 31001
+- ZIP extension: 4640
+- State project ID: 2011-517
+- Latitude: 31.980604
+- Longitude: -83.311215
+- County FIPS: 13315
+- County from: 2020
+- Tract 2020: 13315960100
+- Tract 2010: 13315960100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 00184
+- Place 2010: 00184
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

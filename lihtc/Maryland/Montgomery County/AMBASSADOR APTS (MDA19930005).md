@@ -1,0 +1,85 @@
+# Project: AMBASSADOR APTS (MDA19930005)
+
+- HUD ID: MDA19930005
+- HUD ID before: 
+- Project: AMBASSADOR APTS
+- Address: 2715 UNIVERSITY BLVD W
+- City: SILVER SPRING
+- State: MD
+- ZIP: 20902
+- ZIP extension: 
+- State project ID: MD92-22
+- Latitude: 39.039852
+- Longitude: -77.056234
+- County FIPS: 24031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24031703800
+- Tract 2000: 24031703800
+- Tract 1990: 24031703800
+- Place 2020: 
+- Place 2010: 56712
+- Place 2000: 56712
+- Place 1990: 1036
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 162
+- Low-income units: 162
+- Units reported: 162
+- Low-income reported: 162
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

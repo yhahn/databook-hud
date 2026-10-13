@@ -1,0 +1,85 @@
+# Project: HILLSIDE PLAZA APTS (TXA19980100)
+
+- HUD ID: TXA19980100
+- HUD ID before: 
+- Project: HILLSIDE PLAZA APTS
+- Address: 19610 FM 362 RD
+- City: WALLER
+- State: TX
+- ZIP: 77484
+- ZIP extension: 
+- State project ID: TX1595
+- Latitude: 30.053232
+- Longitude: -95.933633
+- County FIPS: 48473
+- County from: 2020
+- Tract 2020: 48473680301
+- Tract 2010: 48473680300
+- Tract 2000: 48473680300
+- Tract 1990: 48473080310
+- Place 2020: 76228
+- Place 2010: 76228
+- Place 2000: 33200
+- Place 1990: 3385
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 74
+- Low-income units: 74
+- Units reported: 74
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 46
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

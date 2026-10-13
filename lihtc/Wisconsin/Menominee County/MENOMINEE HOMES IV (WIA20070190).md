@@ -1,0 +1,85 @@
+# Project: MENOMINEE HOMES IV (WIA20070190)
+
+- HUD ID: WIA20070190
+- HUD ID before: 
+- Project: MENOMINEE HOMES IV
+- Address: W2860 RABBIT RIDGE CT
+- City: KESHENA
+- State: WI
+- ZIP: 54135
+- ZIP extension: 
+- State project ID: 5217
+- Latitude: 44.8993
+- Longitude: -88.5503
+- County FIPS: 55078
+- County from: 2020
+- Tract 2020: 55078940104
+- Tract 2010: 55078940102
+- Tract 2000: 55078970100
+- Tract 1990: 55078970100
+- Place 2020: 39250
+- Place 2010: 39250
+- Place 2000: 39250
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 263001
+- Units: 19
+- Low-income units: 13
+- Units reported: 19
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 8
+- 4-bedroom units: 7
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

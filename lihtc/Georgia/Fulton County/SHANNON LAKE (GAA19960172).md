@@ -1,0 +1,85 @@
+# Project: SHANNON LAKE (GAA19960172)
+
+- HUD ID: GAA19960172
+- HUD ID before: 
+- Project: SHANNON LAKE
+- Address: 6770 BUFFINGTON RD
+- City: UNION CITY
+- State: GA
+- ZIP: 30291
+- ZIP extension: 2222
+- State project ID: GA-05-507
+- Latitude: 33.569794
+- Longitude: -84.513748
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121010532
+- Tract 2010: 13121010510
+- Tract 2000: 13089021207
+- Tract 1990: 13089021207
+- Place 2020: 78324
+- Place 2010: 78324
+- Place 2000: 24768
+- Place 1990: 0918
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 772047
+- Units: 287
+- Low-income units: 287
+- Units reported: 287
+- Low-income reported: 287
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2007145, GAA1990260.
+- Record status: Existing, unchanged

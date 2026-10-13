@@ -1,0 +1,85 @@
+# Project: EAST VILLAGE SQUARE APTS (IAA20060020)
+
+- HUD ID: IAA20060020
+- HUD ID before: 
+- Project: EAST VILLAGE SQUARE APTS
+- Address: 333 E GRAND AVE
+- City: DES MOINES
+- State: IA
+- ZIP: 50309
+- ZIP extension: 
+- State project ID: 04-30
+- Latitude: 41.590052
+- Longitude: -93.613604
+- County FIPS: 19153
+- County from: 2020
+- Tract 2020: 19153005102
+- Tract 2010: 19153005100
+- Tract 2000: 19153005100
+- Tract 1990: 19153005100
+- Place 2020: 21000
+- Place 2010: 21000
+- Place 2000: 21000
+- Place 1990: 1130
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 410117
+- Units: 115
+- Low-income units: 51
+- Units reported: 115
+- Low-income reported: 51
+- Efficiencies: 6
+- 1-bedroom units: 84
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1050000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

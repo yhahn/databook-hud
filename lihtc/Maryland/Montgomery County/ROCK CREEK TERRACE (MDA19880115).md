@@ -1,0 +1,85 @@
+# Project: ROCK CREEK TERRACE (MDA19880115)
+
+- HUD ID: MDA19880115
+- HUD ID before: 
+- Project: ROCK CREEK TERRACE
+- Address: 12630 VEIRS MILL RD
+- City: ROCKVILLE
+- State: MD
+- ZIP: 20853
+- ZIP extension: 
+- State project ID: MD88-70
+- Latitude: 39.063724
+- Longitude: -77.096324
+- County FIPS: 24031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24031703501
+- Tract 2000: 24031703501
+- Tract 1990: 24031703501
+- Place 2020: 
+- Place 2010: 83775
+- Place 2000: 83837
+- Place 1990: 1036
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 526
+- Low-income units: 295
+- Units reported: 526
+- Low-income reported: 295
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

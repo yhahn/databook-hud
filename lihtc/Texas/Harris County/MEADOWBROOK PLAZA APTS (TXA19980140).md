@@ -1,0 +1,85 @@
+# Project: MEADOWBROOK PLAZA APTS (TXA19980140)
+
+- HUD ID: TXA19980140
+- HUD ID before: 
+- Project: MEADOWBROOK PLAZA APTS
+- Address: 600 E LITTLE YORK RD
+- City: HOUSTON
+- State: TX
+- ZIP: 77076
+- ZIP extension: 
+- State project ID: TX1463
+- Latitude: 29.869739
+- Longitude: -95.391236
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201221501
+- Tract 2010: 48201221500
+- Tract 2000: 48201221500
+- Tract 1990: 48201052302
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 222
+- Low-income units: 220
+- Units reported: 222
+- Low-income reported: 220
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 120
+- 3-bedroom units: 56
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

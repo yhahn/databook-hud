@@ -1,0 +1,85 @@
+# Project: STRENGTHEN OUR SISTERS TRNS HS (NJA19930145)
+
+- HUD ID: NJA19930145
+- HUD ID before: 
+- Project: STRENGTHEN OUR SISTERS TRNS HS
+- Address: 1432 UNION VALLEY RD
+- City: WEST MILFORD
+- State: NJ
+- ZIP: 07480
+- ZIP extension: 
+- State project ID: 379
+- Latitude: 41.127603
+- Longitude: -74.372376
+- County FIPS: 34031
+- County from: 2020
+- Tract 2020: 34031256803
+- Tract 2010: 34031256803
+- Tract 2000: 34031256803
+- Tract 1990: 34031256803
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 79430
+- Place 1990: 4025
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 21
+- Low-income units: 10
+- Units reported: 21
+- Low-income reported: 10
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

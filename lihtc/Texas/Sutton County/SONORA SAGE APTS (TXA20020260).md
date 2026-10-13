@@ -1,0 +1,85 @@
+# Project: SONORA SAGE APTS (TXA20020260)
+
+- HUD ID: TXA20020260
+- HUD ID before: 
+- Project: SONORA SAGE APTS
+- Address: 101 DEERWOOD DR
+- City: SONORA
+- State: TX
+- ZIP: 76950
+- ZIP extension: 
+- State project ID: TX0290
+- Latitude: 30.578086
+- Longitude: -100.634782
+- County FIPS: 48435
+- County from: 2020
+- Tract 2020: 48435950300
+- Tract 2010: 48435950300
+- Tract 2000: 48435950200
+- Tract 1990: 48435950200
+- Place 2020: 68756
+- Place 2010: 99999
+- Place 2000: 68756
+- Place 1990: 3990
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SONORA SAGE APARTMANTS.
+- Record status: Existing, unchanged

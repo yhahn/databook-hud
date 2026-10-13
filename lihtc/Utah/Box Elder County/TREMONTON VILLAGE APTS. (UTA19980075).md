@@ -1,0 +1,85 @@
+# Project: TREMONTON VILLAGE APTS. (UTA19980075)
+
+- HUD ID: UTA19980075
+- HUD ID before: 
+- Project: TREMONTON VILLAGE APTS.
+- Address: 730 WEST 960 SOUTH
+- City: TREMONTON
+- State: UT
+- ZIP: 84337
+- ZIP extension: 0000
+- State project ID: 1996-09
+- Latitude: 41.69986
+- Longitude: -112.176191
+- County FIPS: 49003
+- County from: 2020
+- Tract 2020: 49003960302
+- Tract 2010: 49003960300
+- Tract 2000: 49003960300
+- Tract 1990: 49003960300
+- Place 2020: 77120
+- Place 2010: 77120
+- Place 2000: 77120
+- Place 1990: 1005
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 40016
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 1
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

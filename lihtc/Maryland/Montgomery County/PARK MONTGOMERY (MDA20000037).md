@@ -1,0 +1,85 @@
+# Project: PARK MONTGOMERY (MDA20000037)
+
+- HUD ID: MDA20000037
+- HUD ID before: 
+- Project: PARK MONTGOMERY
+- Address: 8860 PINEY BRANCH RD
+- City: SILVER SPRING
+- State: MD
+- ZIP: 20903
+- ZIP extension: 
+- State project ID: MD00-14001
+- Latitude: 38.999932
+- Longitude: -76.992065
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031702101
+- Tract 2010: 24031702101
+- Tract 2000: 24031702101
+- Tract 1990: 24031702101
+- Place 2020: 72450
+- Place 2010: 72450
+- Place 2000: 72450
+- Place 1990: 0900
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 141
+- Low-income units: 141
+- Units reported: 141
+- Low-income reported: 141
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA0000385.
+- Record status: Existing, unchanged

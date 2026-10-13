@@ -1,0 +1,85 @@
+# Project: COLONY WEST APARTMENTS (GAA20080040)
+
+- HUD ID: GAA20080040
+- HUD ID before: 
+- Project: COLONY WEST APARTMENTS
+- Address: 5284 BLOOMFIELD RD
+- City: MACON
+- State: GA
+- ZIP: 31206
+- ZIP extension: 4400
+- State project ID: GA-07-302
+- Latitude: 32.795364
+- Longitude: -83.707327
+- County FIPS: 13021
+- County from: 2020
+- Tract 2020: 13021013102
+- Tract 2010: 13021013102
+- Tract 2000: 13021013102
+- Tract 1990: 13021013102
+- Place 2020: 49008
+- Place 2010: 49000
+- Place 2000: 49000
+- Place 1990: 1725
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 581610
+- Units: 76
+- Low-income units: 5
+- Units reported: 76
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

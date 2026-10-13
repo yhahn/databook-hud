@@ -1,0 +1,85 @@
+# Project: RICHLAND APTS (MSA19940130)
+
+- HUD ID: MSA19940130
+- HUD ID before: 
+- Project: RICHLAND APTS
+- Address: 615 INDUSTRIAL DR
+- City: RICHLAND
+- State: MS
+- ZIP: 39218
+- ZIP extension: 
+- State project ID: MS-93-031
+- Latitude: 32.207385
+- Longitude: -90.151415
+- County FIPS: 28121
+- County from: 2020
+- Tract 2020: 28121020401
+- Tract 2010: 28121020401
+- Tract 2000: 28121020401
+- Tract 1990: 28121020401
+- Place 2020: 62400
+- Place 2010: 62400
+- Place 2000: 62400
+- Place 1990: 1093
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: WELLINGTON RIDGE APARTMENTS (GAA20030140)
+
+- HUD ID: GAA20030140
+- HUD ID before: 
+- Project: WELLINGTON RIDGE APARTMENTS
+- Address: 9145 WELLINGTON DR
+- City: COVINGTON
+- State: GA
+- ZIP: 30014
+- ZIP extension: 8712
+- State project ID: 2002-522
+- Latitude: 33.601969
+- Longitude: -83.830942
+- County FIPS: 13217
+- County from: 2020
+- Tract 2020: 13217100301
+- Tract 2010: 13217100300
+- Tract 2000: 13217100300
+- Tract 1990: 13217100300
+- Place 2020: 20064
+- Place 2010: 20064
+- Place 2000: 20064
+- Place 1990: 0710
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 551502
+- Units: 220
+- Low-income units: 220
+- Units reported: 220
+- Low-income reported: 220
+- Efficiencies: 0
+- 1-bedroom units: 70
+- 2-bedroom units: 122
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

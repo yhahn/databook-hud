@@ -1,0 +1,85 @@
+# Project: HERRINGTON WOODS (GAA19980192)
+
+- HUD ID: GAA19980192
+- HUD ID before: 
+- Project: HERRINGTON WOODS
+- Address: 2800 HERRINGTON WOODS CT
+- City: LAWRENCEVILLE
+- State: GA
+- ZIP: 30044
+- ZIP extension: 7530
+- State project ID: GA-97-516
+- Latitude: 33.944528
+- Longitude: -84.084568
+- County FIPS: 13135
+- County from: 2020
+- Tract 2020: 13135050539
+- Tract 2010: 13135050539
+- Tract 2000: 13135050517
+- Tract 1990: 13135050506
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 324
+- Low-income units: 324
+- Units reported: 324
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1997200. AKA POINTE AT SUGARLOAF.
+- Record status: Existing, unchanged

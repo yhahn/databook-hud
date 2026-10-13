@@ -1,0 +1,85 @@
+# Project: ST. VINCENT H.E.L.P. I (B) (NVA19999012)
+
+- HUD ID: NVA19999012
+- HUD ID before: NVA00000051
+- Project: ST. VINCENT H.E.L.P. I (B)
+- Address: 1521 N LAS VEGAS BLVD
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89101
+- ZIP extension: 0000
+- State project ID: 98-13
+- Latitude: 36.187111
+- Longitude: -115.134254
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003000401
+- Tract 2010: 32003000401
+- Tract 2000: 32003000400
+- Tract 1990: 32003000400
+- Place 2020: 40000
+- Place 2010: 40000
+- Place 2000: 40000
+- Place 1990: 0065
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 317033
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 54
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 54
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 54
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SINGLE ROOM OCCUPANCY
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS NVA00000051
+- Record status: Existing, unchanged

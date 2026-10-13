@@ -1,0 +1,85 @@
+# Project: SUNRISE PLACE (FLA20130016)
+
+- HUD ID: FLA20130016
+- HUD ID before: 
+- Project: SUNRISE PLACE
+- Address: 2525 TEXAS STREET
+- City: TALLAHASSEE
+- State: FL
+- ZIP: 32301
+- ZIP extension: 
+- State project ID: 1349
+- Latitude: 30.415968
+- Longitude: -84.27486
+- County FIPS: 12073
+- County from: 2020
+- Tract 2020: 12073001001
+- Tract 2010: 12073001001
+- Tract 2000: 12073001001
+- Tract 1990: 12073001001
+- Place 2020: 70600
+- Place 2010: 70600
+- Place 2000: 70600
+- Place 1990: 2070
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 281976
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 31
+- 3-bedroom units: 52
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

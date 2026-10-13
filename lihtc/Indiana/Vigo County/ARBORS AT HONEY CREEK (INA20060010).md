@@ -1,0 +1,85 @@
+# Project: ARBORS AT HONEY CREEK (INA20060010)
+
+- HUD ID: INA20060010
+- HUD ID before: 
+- Project: ARBORS AT HONEY CREEK
+- Address: 301 W WHEELER AVE
+- City: TERRE HAUTE
+- State: IN
+- ZIP: 47802
+- ZIP extension: 
+- State project ID: IN-04-00700
+- Latitude: 39.435463
+- Longitude: -87.4223
+- County FIPS: 18167
+- County from: 2020
+- Tract 2020: 18167001900
+- Tract 2010: 18167001900
+- Tract 2000: 18167001900
+- Tract 1990: 18167001900
+- Place 2020: 75428
+- Place 2010: 75428
+- Place 2000: 75428
+- Place 1990: 2505
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 750000
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 48
+- 3-bedroom units: 24
+- 4-bedroom units: 16
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

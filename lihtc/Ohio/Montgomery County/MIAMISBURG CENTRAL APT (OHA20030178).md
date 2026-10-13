@@ -1,0 +1,85 @@
+# Project: MIAMISBURG CENTRAL APT (OHA20030178)
+
+- HUD ID: OHA20030178
+- HUD ID before: 
+- Project: MIAMISBURG CENTRAL APT
+- Address: 1019 ORCHARD HILL DR
+- City: MIAMISBURG
+- State: OH
+- ZIP: 45342
+- ZIP extension: 
+- State project ID: 020097
+- Latitude: 39.655754
+- Longitude: -84.273723
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113050302
+- Tract 2010: 39113050302
+- Tract 2000: 39113050302
+- Tract 1990: 39113050302
+- Place 2020: 49434
+- Place 2010: 49434
+- Place 2000: 49434
+- Place 1990: 4570
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 71030
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 18
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003622, OHA2004170.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TRUMANSBURG COUNTRY ESTATES (NYA20040275)
+
+- HUD ID: NYA20040275
+- HUD ID before: 
+- Project: TRUMANSBURG COUNTRY ESTATES
+- Address: 1110 PARKSIDE DR
+- City: TRUMANSBURG
+- State: NY
+- ZIP: 14886
+- ZIP extension: 
+- State project ID: 20020545_01135
+- Latitude: 42.543582
+- Longitude: -76.670839
+- County FIPS: 36109
+- County from: 2020
+- Tract 2020: 36109001600
+- Tract 2010: 36109001600
+- Tract 2000: 36109001600
+- Tract 1990: 36109001600
+- Place 2020: 75506
+- Place 2010: 75506
+- Place 2000: 75506
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 10
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TRUMANSBURG APTS.
+- Record status: Existing, unchanged

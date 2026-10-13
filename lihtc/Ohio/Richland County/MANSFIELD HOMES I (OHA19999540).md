@@ -1,0 +1,85 @@
+# Project: MANSFIELD HOMES I (OHA19999540)
+
+- HUD ID: OHA19999540
+- HUD ID before: 
+- Project: MANSFIELD HOMES I
+- Address: 226 E SECOND ST
+- City: MANSFIELD
+- State: OH
+- ZIP: 44902
+- ZIP extension: 
+- State project ID: 970007
+- Latitude: 40.756824
+- Longitude: -82.50748
+- County FIPS: 39139
+- County from: 2020
+- Tract 2020: 39139003100
+- Tract 2010: 39139003100
+- Tract 2000: 39139000300
+- Tract 1990: 39139000300
+- Place 2020: 47138
+- Place 2010: 47138
+- Place 2000: 47138
+- Place 1990: 2440
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 522376
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 15
+- 4-bedroom units: 29
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 300600
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2002583, OHA1998155.
+- Record status: Existing, unchanged

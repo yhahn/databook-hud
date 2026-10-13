@@ -1,0 +1,85 @@
+# Project: TOSCANA APTS (COA20050100)
+
+- HUD ID: COA20050100
+- HUD ID before: 
+- Project: TOSCANA APTS
+- Address: 8490 SHERIDAN BLVD
+- City: WESTMINSTER
+- State: CO
+- ZIP: 80003
+- ZIP extension: 
+- State project ID: 2004502
+- Latitude: 39.852564
+- Longitude: -105.052475
+- County FIPS: 08001
+- County from: 2020
+- Tract 2020: 08001009603
+- Tract 2010: 08001009603
+- Tract 2000: 08001009603
+- Tract 1990: 08001009603
+- Place 2020: 83835
+- Place 2010: 83835
+- Place 2000: 83835
+- Place 1990: 1355
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 252
+- Low-income units: 252
+- Units reported: 252
+- Low-income reported: 252
+- Efficiencies: 42
+- 1-bedroom units: 80
+- 2-bedroom units: 130
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SEMPER VILLAGE APTS.
+- Record status: Existing, unchanged

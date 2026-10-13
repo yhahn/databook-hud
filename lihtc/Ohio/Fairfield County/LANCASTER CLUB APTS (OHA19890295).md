@@ -1,0 +1,85 @@
+# Project: LANCASTER CLUB APTS (OHA19890295)
+
+- HUD ID: OHA19890295
+- HUD ID before: 
+- Project: LANCASTER CLUB APTS
+- Address: 180 SELLS RD
+- City: LANCASTER
+- State: OH
+- ZIP: 43130
+- ZIP extension: 
+- State project ID: OH-89-0387
+- Latitude: 39.717339
+- Longitude: -82.556461
+- County FIPS: 39045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39045031300
+- Tract 2000: 39045031300
+- Tract 1990: 39045031300
+- Place 2020: 
+- Place 2010: 41720
+- Place 2000: 41720
+- Place 1990: 2125
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 92
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

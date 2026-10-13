@@ -1,0 +1,85 @@
+# Project: CHANDLER RIDGE APARTMENTS (NCA20000070)
+
+- HUD ID: NCA20000070
+- HUD ID before: 
+- Project: CHANDLER RIDGE APARTMENTS
+- Address: 4900 CHANDLER RIDGE CIRCLE
+- City: RALEIGH
+- State: NC
+- ZIP: 27603
+- ZIP extension: 
+- State project ID: 9002141
+- Latitude: 35.650757
+- Longitude: -78.707978
+- County FIPS: 37183
+- County from: 2020
+- Tract 2020: 37183053111
+- Tract 2010: 37183053111
+- Tract 2000: 37183053103
+- Tract 1990: 37183053102
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 391125
+- Units: 228
+- Low-income units: 228
+- Units reported: 228
+- Low-income reported: 228
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 152
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

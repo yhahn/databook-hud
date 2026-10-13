@@ -1,0 +1,85 @@
+# Project: BAYVIEW APTS. ASSOC. LP (AKA20010005)
+
+- HUD ID: AKA20010005
+- HUD ID before: 
+- Project: BAYVIEW APTS. ASSOC. LP
+- Address: 214 6TH AVENUE
+- City: SEWARD
+- State: AK
+- ZIP: 99664
+- ZIP extension: 
+- State project ID: AK-00-03
+- Latitude: 60.101593
+- Longitude: -149.436821
+- County FIPS: 02122
+- County from: 2020
+- Tract 2020: 02122001300
+- Tract 2010: 02122001300
+- Tract 2000: 02122001300
+- Tract 1990: 
+- Place 2020: 68560
+- Place 2010: 68560
+- Place 2000: 68560
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 17
+- Units reported: 18
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

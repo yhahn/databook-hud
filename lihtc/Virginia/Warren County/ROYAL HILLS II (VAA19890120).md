@@ -1,0 +1,85 @@
+# Project: ROYAL HILLS II (VAA19890120)
+
+- HUD ID: VAA19890120
+- HUD ID before: 
+- Project: ROYAL HILLS II
+- Address: 31 ROYAL LN
+- City: FRONT ROYAL
+- State: VA
+- ZIP: 22630
+- ZIP extension: 
+- State project ID: 1098
+- Latitude: 38.909172
+- Longitude: -78.18128
+- County FIPS: 51187
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 51187020602
+- Tract 2000: 51187020600
+- Tract 1990: 51187020500
+- Place 2020: 
+- Place 2010: 29968
+- Place 2000: 29968
+- Place 1990: 0515
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 67770
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

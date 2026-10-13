@@ -1,0 +1,85 @@
+# Project: LUCY MORGAN II (GAA0000X167)
+
+- HUD ID: GAA0000X167
+- HUD ID before: 
+- Project: LUCY MORGAN II
+- Address: 611 BORTON ST
+- City: LAGRANGE
+- State: GA
+- ZIP: 30241
+- ZIP extension: 4759
+- State project ID: 2016-523
+- Latitude: 33.03129
+- Longitude: -85.014877
+- County FIPS: 13285
+- County from: 2020
+- Tract 2020: 13285960600
+- Tract 2010: 13285960600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 44340
+- Place 2010: 44340
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 89
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

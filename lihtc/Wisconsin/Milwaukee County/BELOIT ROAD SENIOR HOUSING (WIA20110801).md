@@ -1,0 +1,85 @@
+# Project: BELOIT ROAD SENIOR HOUSING (WIA20110801)
+
+- HUD ID: WIA20110801
+- HUD ID before: 
+- Project: BELOIT ROAD SENIOR HOUSING
+- Address: 7205 & 7213 W BELOIT RD
+- City: WEST ALLIS
+- State: WI
+- ZIP: 53219
+- ZIP extension: 
+- State project ID: 5724
+- Latitude: 42.999487
+- Longitude: -88.002838
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079101800
+- Tract 2010: 55079101800
+- Tract 2000: 55079101800
+- Tract 1990: 55079101800
+- Place 2020: 85300
+- Place 2010: 85300
+- Place 2000: 85300
+- Place 1990: 2720
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 686065
+- Units: 104
+- Low-income units: 2
+- Units reported: 104
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 104
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1000000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUNSHINE VILLAGE APTS (COA19970075)
+
+- HUD ID: COA19970075
+- HUD ID before: 
+- Project: SUNSHINE VILLAGE APTS
+- Address: 121 LOCUST AVE
+- City: LAS ANIMAS
+- State: CO
+- ZIP: 81054
+- ZIP extension: 
+- State project ID: CO-96-0010
+- Latitude: 38.070464
+- Longitude: -103.224077
+- County FIPS: 08011
+- County from: 2020
+- Tract 2020: 08011966702
+- Tract 2010: 08011966700
+- Tract 2000: 08011986700
+- Tract 1990: 08011986700
+- Place 2020: 43660
+- Place 2010: 43660
+- Place 2000: 43660
+- Place 1990: 0780
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 8
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

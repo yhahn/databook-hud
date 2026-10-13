@@ -1,0 +1,85 @@
+# Project: CLIFTON TOWNHOUSE APTS AHPC (COA20030030)
+
+- HUD ID: COA20030030
+- HUD ID before: 
+- Project: CLIFTON TOWNHOUSE APTS AHPC
+- Address: 3222 D 1/2 RD
+- City: CLIFTON
+- State: CO
+- ZIP: 81520
+- ZIP extension: 
+- State project ID: 2003509
+- Latitude: 39.070069
+- Longitude: -108.455384
+- County FIPS: 08077
+- County from: 2020
+- Tract 2020: 08077001706
+- Tract 2010: 08077001706
+- Tract 2000: 08077001704
+- Tract 1990: 08077001701
+- Place 2020: 15165
+- Place 2010: 15165
+- Place 2000: 15165
+- Place 1990: 0221
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 35
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CLIFTON FAMILY HOUSING.
+- Record status: Existing, unchanged

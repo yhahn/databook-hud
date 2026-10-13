@@ -1,0 +1,85 @@
+# Project: HIDDEN CREEK VILLAS (FLA19960020)
+
+- HUD ID: FLA19960020
+- HUD ID before: 
+- Project: HIDDEN CREEK VILLAS
+- Address: 2013 RIVERTREE CIR
+- City: ORLANDO
+- State: FL
+- ZIP: 32839
+- ZIP extension: 
+- State project ID: 357
+- Latitude: 28.482213
+- Longitude: -81.408437
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016907
+- Tract 2010: 12095016907
+- Tract 2000: 12095016905
+- Tract 1990: 12095016901
+- Place 2020: 50638
+- Place 2010: 50638
+- Place 2000: 50638
+- Place 1990: 1543
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 304
+- Low-income units: 304
+- Units reported: 304
+- Low-income reported: 304
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 208
+- 3-bedroom units: 64
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

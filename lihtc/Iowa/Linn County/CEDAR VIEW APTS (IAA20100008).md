@@ -1,0 +1,85 @@
+# Project: CEDAR VIEW APTS (IAA20100008)
+
+- HUD ID: IAA20100008
+- HUD ID before: 
+- Project: CEDAR VIEW APTS
+- Address: 1100 O AVE NW
+- City: CEDAR RAPIDS
+- State: IA
+- ZIP: 52405
+- ZIP extension: 
+- State project ID: 08-0917
+- Latitude: 41.989139
+- Longitude: -91.687516
+- County FIPS: 19113
+- County from: 2020
+- Tract 2020: 19113001102
+- Tract 2010: 19113001102
+- Tract 2000: 19113001100
+- Tract 1990: 19113001100
+- Place 2020: 12000
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 0670
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 660269
+- Units: 45
+- Low-income units: 36
+- Units reported: 45
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2010509.
+- Record status: Existing, unchanged

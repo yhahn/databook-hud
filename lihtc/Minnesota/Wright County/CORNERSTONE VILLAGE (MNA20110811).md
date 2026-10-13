@@ -1,0 +1,85 @@
+# Project: CORNERSTONE VILLAGE (MNA20110811)
+
+- HUD ID: MNA20110811
+- HUD ID before: 
+- Project: CORNERSTONE VILLAGE
+- Address: 40 ST MICHAEL PKWY NE
+- City: SAINT MICHAEL
+- State: MN
+- ZIP: 55376
+- ZIP extension: 
+- State project ID: D6233
+- Latitude: 45.208868
+- Longitude: -93.665921
+- County FIPS: 27171
+- County from: 2020
+- Tract 2020: 27171100803
+- Tract 2010: 27171100801
+- Tract 2000: 27171100802
+- Tract 1990: 27171100100
+- Place 2020: 57346
+- Place 2010: 57346
+- Place 2000: 00730
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 647996
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 26
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA0000032, MNA0000505.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HARRIET TUBMAN TERRACE APTS (CAA20050245)
+
+- HUD ID: CAA20050245
+- HUD ID before: 
+- Project: HARRIET TUBMAN TERRACE APTS
+- Address: 2870 ADELINE ST
+- City: BERKELEY
+- State: CA
+- ZIP: 94703
+- ZIP extension: 
+- State project ID: CA-04-873
+- Latitude: 37.856491
+- Longitude: -122.271542
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001423500
+- Tract 2010: 06001423500
+- Tract 2000: 06001423500
+- Tract 1990: 06001423500
+- Place 2020: 06000
+- Place 2010: 06000
+- Place 2000: 06000
+- Place 1990: 0245
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 386407
+- Units: 91
+- Low-income units: 90
+- Units reported: 91
+- Low-income reported: 90
+- Efficiencies: 48
+- 1-bedroom units: 42
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0000760, CAA1988210.
+- Record status: Existing, unchanged

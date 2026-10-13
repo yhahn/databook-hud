@@ -1,0 +1,85 @@
+# Project: VILLA SERENA APTS (CAA19990670)
+
+- HUD ID: CAA19990670
+- HUD ID before: 
+- Project: VILLA SERENA APTS
+- Address: 339 MARCOS ST
+- City: SAN MARCOS
+- State: CA
+- ZIP: 92069
+- ZIP extension: 
+- State project ID: CA-98-936
+- Latitude: 33.14565
+- Longitude: -117.169708
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073020021
+- Tract 2010: 06073020021
+- Tract 2000: 06073020021
+- Tract 1990: 06073020006
+- Place 2020: 68196
+- Place 2010: 68196
+- Place 2000: 68196
+- Place 1990: 2537
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 322096
+- Units: 136
+- Low-income units: 136
+- Units reported: 136
+- Low-income reported: 136
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 99
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

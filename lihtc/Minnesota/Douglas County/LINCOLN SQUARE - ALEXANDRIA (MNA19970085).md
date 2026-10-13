@@ -1,0 +1,85 @@
+# Project: LINCOLN SQUARE - ALEXANDRIA (MNA19970085)
+
+- HUD ID: MNA19970085
+- HUD ID before: 
+- Project: LINCOLN SQUARE - ALEXANDRIA
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: ALEXANDRIA
+- State: MN
+- ZIP: 56308
+- ZIP extension: 
+- State project ID: D1813
+- Latitude: 45.9089
+- Longitude: -95.3876
+- County FIPS: 27041
+- County from: 2020
+- Tract 2020: 27041450704
+- Tract 2010: 27041450702
+- Tract 2000: 27041950600
+- Tract 1990: 27041950600
+- Place 2020: 00928
+- Place 2010: 00928
+- Place 2000: 00928
+- Place 1990: 0065
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

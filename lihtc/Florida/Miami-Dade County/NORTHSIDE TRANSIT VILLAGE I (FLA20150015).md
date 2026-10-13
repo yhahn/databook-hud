@@ -1,0 +1,85 @@
+# Project: NORTHSIDE TRANSIT VILLAGE I (FLA20150015)
+
+- HUD ID: FLA20150015
+- HUD ID before: 
+- Project: NORTHSIDE TRANSIT VILLAGE I
+- Address: 3101 NW 77TH STREET
+- City: MIAMI
+- State: FL
+- ZIP: 33147
+- ZIP extension: 
+- State project ID: 2537
+- Latitude: 25.844514
+- Longitude: -80.248108
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086000903
+- Tract 2010: 12086000903
+- Tract 2000: 12086000903
+- Tract 1990: 
+- Place 2020: 25987
+- Place 2010: 25987
+- Place 2000: 25987
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1105793
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 16
+- 3-bedroom units: 70
+- 4-bedroom units: 14
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

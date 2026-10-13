@@ -1,0 +1,85 @@
+# Project: SHADY ACRES (OKA20190009)
+
+- HUD ID: OKA20190009
+- HUD ID before: 
+- Project: SHADY ACRES
+- Address: 1310 D ST NW
+- City: ARDMORE
+- State: OK
+- ZIP: 73401
+- ZIP extension: 0000
+- State project ID: 170111
+- Latitude: 34.188169
+- Longitude: -97.130321
+- County FIPS: 40019
+- County from: 2020
+- Tract 2020: 40019892601
+- Tract 2010: 40019892600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02600
+- Place 2010: 02600
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 650000
+- Units: 87
+- Low-income units: 86
+- Units reported: 87
+- Low-income reported: 86
+- Efficiencies: 24
+- 1-bedroom units: 18
+- 2-bedroom units: 18
+- 3-bedroom units: 22
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

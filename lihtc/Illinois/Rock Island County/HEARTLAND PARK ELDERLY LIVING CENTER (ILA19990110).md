@@ -1,0 +1,85 @@
+# Project: HEARTLAND PARK ELDERLY LIVING CENTER (ILA19990110)
+
+- HUD ID: ILA19990110
+- HUD ID before: 
+- Project: HEARTLAND PARK ELDERLY LIVING CENTER
+- Address: 1424 36TH AVE
+- City: MOLINE
+- State: IL
+- ZIP: 61265
+- ZIP extension: 
+- State project ID: 103297
+- Latitude: 41.474167
+- Longitude: -90.515178
+- County FIPS: 17161
+- County from: 2020
+- Tract 2020: 17161021900
+- Tract 2010: 17161021900
+- Tract 2000: 17161021900
+- Tract 1990: 17161021900
+- Place 2020: 49867
+- Place 2010: 49867
+- Place 2000: 49867
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 492821
+- Units: 101
+- Low-income units: 101
+- Units reported: 101
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 81
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

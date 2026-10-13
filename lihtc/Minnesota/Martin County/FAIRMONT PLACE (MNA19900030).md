@@ -1,0 +1,85 @@
+# Project: FAIRMONT PLACE (MNA19900030)
+
+- HUD ID: MNA19900030
+- HUD ID before: 
+- Project: FAIRMONT PLACE
+- Address: 1001 PHEASANT AVE
+- City: FAIRMONT
+- State: MN
+- ZIP: 56031
+- ZIP extension: 
+- State project ID: MN-89-044
+- Latitude: 43.630657
+- Longitude: -94.448235
+- County FIPS: 27091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27091790500
+- Tract 2000: 27091990500
+- Tract 1990: 27091990500
+- Place 2020: 
+- Place 2010: 20330
+- Place 2000: 20330
+- Place 1990: 1240
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

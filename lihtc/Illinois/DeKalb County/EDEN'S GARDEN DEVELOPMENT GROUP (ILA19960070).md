@@ -1,0 +1,85 @@
+# Project: EDEN'S GARDEN DEVELOPMENT GROUP (ILA19960070)
+
+- HUD ID: ILA19960070
+- HUD ID before: 
+- Project: EDEN'S GARDEN DEVELOPMENT GROUP
+- Address: 2355 WILLIAMS WAY
+- City: DEKALB
+- State: IL
+- ZIP: 60115
+- ZIP extension: 
+- State project ID: 72594
+- Latitude: 41.953692
+- Longitude: -88.781068
+- County FIPS: 17037
+- County from: 2020
+- Tract 2020: 17037001004
+- Tract 2010: 17037001001
+- Tract 2000: 17037001000
+- Tract 1990: 17037001000
+- Place 2020: 19161
+- Place 2010: 19161
+- Place 2000: 19161
+- Place 1990: 1435
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 898417
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 39
+- 4-bedroom units: 39
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

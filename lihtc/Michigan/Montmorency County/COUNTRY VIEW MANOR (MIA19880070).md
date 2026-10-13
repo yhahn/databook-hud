@@ -1,0 +1,85 @@
+# Project: COUNTRY VIEW MANOR (MIA19880070)
+
+- HUD ID: MIA19880070
+- HUD ID before: 
+- Project: COUNTRY VIEW MANOR
+- Address: 3550 KNEELAND ST
+- City: LEWISTON
+- State: MI
+- ZIP: 49756
+- ZIP extension: 
+- State project ID: MI-1772
+- Latitude: 44.893671
+- Longitude: -84.303188
+- County FIPS: 26119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26119910500
+- Tract 2000: 26119990500
+- Tract 1990: 26119990500
+- Place 2020: 
+- Place 2010: 47260
+- Place 2000: 47260
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

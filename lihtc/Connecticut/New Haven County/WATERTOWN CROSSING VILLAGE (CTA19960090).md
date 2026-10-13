@@ -1,0 +1,85 @@
+# Project: WATERTOWN CROSSING VILLAGE (CTA19960090)
+
+- HUD ID: CTA19960090
+- HUD ID before: 
+- Project: WATERTOWN CROSSING VILLAGE
+- Address: 100 FULKERSON DR
+- City: WATERBURY
+- State: CT
+- ZIP: 06708
+- ZIP extension: 
+- State project ID: 
+- Latitude: 41.583831
+- Longitude: -73.067233
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009352200
+- Tract 2010: 09009352200
+- Tract 2000: 09009352200
+- Tract 1990: 09009352200
+- Place 2020: 80000
+- Place 2010: 80000
+- Place 2000: 80000
+- Place 1990: 2460
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 19
+- 3-bedroom units: 75
+- 4-bedroom units: 14
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

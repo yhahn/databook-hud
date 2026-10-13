@@ -1,0 +1,85 @@
+# Project: 1921-1925 FULTON ST HOUSING DEVELOPMENT (NYA19910070)
+
+- HUD ID: NYA19910070
+- HUD ID before: 
+- Project: 1921-1925 FULTON ST HOUSING DEVELOPMENT
+- Address: 1921 FULTON ST
+- City: BROOKLYN
+- State: NY
+- ZIP: 11233
+- ZIP extension: 
+- State project ID: NY-91-0510_00044
+- Latitude: 40.678931
+- Longitude: -73.919724
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047037900
+- Tract 2010: 36047037900
+- Tract 2000: 36047037900
+- Tract 1990: 36047037900
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 9
+- 1-bedroom units: 13
+- 2-bedroom units: 9
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

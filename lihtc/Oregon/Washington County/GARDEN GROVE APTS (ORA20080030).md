@@ -1,0 +1,85 @@
+# Project: GARDEN GROVE APTS (ORA20080030)
+
+- HUD ID: ORA20080030
+- HUD ID before: 
+- Project: GARDEN GROVE APTS
+- Address: 2727 22ND AVE
+- City: FOREST GROVE
+- State: OR
+- ZIP: 97116
+- ZIP extension: 
+- State project ID: 1744
+- Latitude: 45.522548
+- Longitude: -123.09806
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067033201
+- Tract 2010: 41067033200
+- Tract 2000: 41067033200
+- Tract 1990: 41067033200
+- Place 2020: 26200
+- Place 2010: 26200
+- Place 2000: 15550
+- Place 1990: 0385
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 195837
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

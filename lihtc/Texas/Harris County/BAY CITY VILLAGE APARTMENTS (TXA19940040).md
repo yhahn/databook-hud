@@ -1,0 +1,85 @@
+# Project: BAY CITY VILLAGE APARTMENTS (TXA19940040)
+
+- HUD ID: TXA19940040
+- HUD ID before: 
+- Project: BAY CITY VILLAGE APARTMENTS
+- Address: 3301 ROYAL ST
+- City: BAYTOWN
+- State: TX
+- ZIP: 77520
+- ZIP extension: 
+- State project ID: TX1108
+- Latitude: 29.803035
+- Longitude: -95.011858
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201253000
+- Tract 2010: 48201253000
+- Tract 2000: 48201253000
+- Tract 1990: 48201025902
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 06128
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 30
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

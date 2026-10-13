@@ -1,0 +1,85 @@
+# Project: WARDMAN APTS (MAA20010050)
+
+- HUD ID: MAA20010050
+- HUD ID before: 
+- Project: WARDMAN APTS
+- Address: 19 WARDMAN RD
+- City: ROXBURY
+- State: MA
+- ZIP: 02119
+- ZIP extension: 
+- State project ID: 00-004
+- Latitude: 42.315637
+- Longitude: -71.094752
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025081302
+- Tract 2010: 25025081300
+- Tract 2000: 25025081300
+- Tract 1990: 25025081300
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 37
+- 3-bedroom units: 20
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WINNR UE WARDMAN.
+- Record status: Existing, unchanged

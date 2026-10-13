@@ -1,0 +1,85 @@
+# Project: MASSILLON HOMES (OHA20050093)
+
+- HUD ID: OHA20050093
+- HUD ID before: 
+- Project: MASSILLON HOMES
+- Address: 1714 15TH ST SE
+- City: MASSILLON
+- State: OH
+- ZIP: 44646
+- ZIP extension: 
+- State project ID: 040018
+- Latitude: 40.778272
+- Longitude: -81.506636
+- County FIPS: 39151
+- County from: 2020
+- Tract 2020: 39151714200
+- Tract 2010: 39151714200
+- Tract 2000: 39151714200
+- Tract 1990: 39151714200
+- Place 2020: 48244
+- Place 2010: 48244
+- Place 2000: 48244
+- Place 1990: 2525
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 785353
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 15
+- 4-bedroom units: 35
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

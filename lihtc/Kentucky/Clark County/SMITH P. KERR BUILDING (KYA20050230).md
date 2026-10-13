@@ -1,0 +1,85 @@
+# Project: SMITH P. KERR BUILDING (KYA20050230)
+
+- HUD ID: KYA20050230
+- HUD ID before: 
+- Project: SMITH P. KERR BUILDING
+- Address: NORTH MAIN ST.
+- City: WINCHESTER
+- State: KY
+- ZIP: 40391
+- ZIP extension: 
+- State project ID: KY-03-010
+- Latitude: 37.9714
+- Longitude: -84.1581
+- County FIPS: 21049
+- County from: 2020
+- Tract 2020: 21049020106
+- Tract 2010: 21049020106
+- Tract 2000: 21049020104
+- Tract 1990: 21049020102
+- Place 2020: 83676
+- Place 2010: 83676
+- Place 2000: 
+- Place 1990: 2155
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 144000
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 9
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: WILLOW LAKE APT HOMES (OHA19980257)
+
+- HUD ID: OHA19980257
+- HUD ID before: 
+- Project: WILLOW LAKE APT HOMES
+- Address: 2260 LAKE CIR DR
+- City: LIMA
+- State: OH
+- ZIP: 45801
+- ZIP extension: 
+- State project ID: 96-0145
+- Latitude: 40.769135
+- Longitude: -84.121329
+- County FIPS: 39003
+- County from: 2020
+- Tract 2020: 39003012200
+- Tract 2010: 39003012200
+- Tract 2000: 39003012200
+- Tract 1990: 39003012200
+- Place 2020: 43554
+- Place 2010: 43554
+- Place 2000: 43554
+- Place 1990: 2205
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 367053
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 0
+- 1-bedroom units: 88
+- 2-bedroom units: 96
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1998523, OHA1999255.
+- Record status: Existing, unchanged

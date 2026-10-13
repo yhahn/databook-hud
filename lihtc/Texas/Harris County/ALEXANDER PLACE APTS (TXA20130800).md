@@ -1,0 +1,85 @@
+# Project: ALEXANDER PLACE APTS (TXA20130800)
+
+- HUD ID: TXA20130800
+- HUD ID before: 
+- Project: ALEXANDER PLACE APTS
+- Address: 2401 N ALEXANDER DR
+- City: BAYTOWN
+- State: TX
+- ZIP: 77520
+- ZIP extension: 
+- State project ID: TX4796
+- Latitude: 29.74663
+- Longitude: -94.948721
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201254100
+- Tract 2010: 48201254100
+- Tract 2000: 48201254100
+- Tract 1990: 48201027000
+- Place 2020: 06128
+- Place 2010: 06128
+- Place 2000: 06128
+- Place 1990: 0315
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

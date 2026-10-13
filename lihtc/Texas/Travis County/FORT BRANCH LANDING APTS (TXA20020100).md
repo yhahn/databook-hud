@@ -1,0 +1,85 @@
+# Project: FORT BRANCH LANDING APTS (TXA20020100)
+
+- HUD ID: TXA20020100
+- HUD ID before: 
+- Project: FORT BRANCH LANDING APTS
+- Address: 5800 TECHNI CTR DR
+- City: AUSTIN
+- State: TX
+- ZIP: 78721
+- ZIP extension: 
+- State project ID: TX0081
+- Latitude: 30.278401
+- Longitude: -97.671698
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453002110
+- Tract 2010: 48453002110
+- Tract 2000: 48453002110
+- Tract 1990: 48453002110
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0210
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 250
+- Low-income units: 248
+- Units reported: 250
+- Low-income reported: 248
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

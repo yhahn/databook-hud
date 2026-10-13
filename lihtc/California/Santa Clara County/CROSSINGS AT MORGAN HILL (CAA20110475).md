@@ -1,0 +1,85 @@
+# Project: CROSSINGS AT MORGAN HILL (CAA20110475)
+
+- HUD ID: CAA20110475
+- HUD ID before: 
+- Project: CROSSINGS AT MORGAN HILL
+- Address: 170 WRIGHT AVE
+- City: MORGAN HILL
+- State: CA
+- ZIP: 95037
+- ZIP extension: 
+- State project ID: CA-09-567
+- Latitude: 37.133004
+- Longitude: -121.661591
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085512314
+- Tract 2010: 06085512314
+- Tract 2000: 06085512306
+- Tract 1990: 06085512398
+- Place 2020: 49278
+- Place 2010: 49278
+- Place 2000: 49278
+- Place 1990: 1850
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 243102
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011600. AKA UHC 00381 MORGAN HILL HOLDINGS LLC.
+- Record status: Existing, unchanged

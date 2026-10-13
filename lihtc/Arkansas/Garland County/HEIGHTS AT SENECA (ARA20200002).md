@@ -1,0 +1,85 @@
+# Project: HEIGHTS AT SENECA (ARA20200002)
+
+- HUD ID: ARA20200002
+- HUD ID before: 
+- Project: HEIGHTS AT SENECA
+- Address: 325 TERRY STREET
+- City: HOT SPRINGS
+- State: AR
+- ZIP: 71913
+- ZIP extension: 
+- State project ID: 5053
+- Latitude: 34.475093
+- Longitude: -93.055266
+- County FIPS: 05051
+- County from: 2020
+- Tract 2020: 05051011701
+- Tract 2010: 05051011700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 33400
+- Place 2010: 33400
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 61
+- Low-income units: 60
+- Units reported: 61
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 37
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

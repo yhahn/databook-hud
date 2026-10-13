@@ -1,0 +1,85 @@
+# Project: SIERRA WEST, PROYECTO ADELANTES FAMILIAS (ORA20080125)
+
+- HUD ID: ORA20080125
+- HUD ID before: 
+- Project: SIERRA WEST, PROYECTO ADELANTES FAMILIAS
+- Address: 353 SE 12TH AVE
+- City: HILLSBORO
+- State: OR
+- ZIP: 97123
+- ZIP extension: 
+- State project ID: OR97-012
+- Latitude: 45.519249
+- Longitude: -122.970404
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067032409
+- Tract 2010: 41067032409
+- Tract 2000: 41067032403
+- Tract 1990: 41067032403
+- Place 2020: 34100
+- Place 2010: 34100
+- Place 2000: 34100
+- Place 1990: 0520
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 155060
+- Units: 57
+- Low-income units: 57
+- Units reported: 57
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 41
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 57
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA1998126.
+- Record status: Existing, unchanged

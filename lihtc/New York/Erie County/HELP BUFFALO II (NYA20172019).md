@@ -1,0 +1,85 @@
+# Project: HELP BUFFALO II (NYA20172019)
+
+- HUD ID: NYA20172019
+- HUD ID before: 
+- Project: HELP BUFFALO II
+- Address: 368 BROADWAY STREET
+- City: BUFFALO
+- State: NY
+- ZIP: 14204
+- ZIP extension: 
+- State project ID: 20146039
+- Latitude: 42.888611
+- Longitude: -78.860157
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029002502
+- Tract 2010: 36029002502
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 11000
+- Place 2010: 11000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 743754
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 
+- 1-bedroom units: 16
+- 2-bedroom units: 25
+- 3-bedroom units: 6
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 750000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

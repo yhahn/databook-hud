@@ -1,0 +1,85 @@
+# Project: 185 MOUNT HOPE AVE (NYA00000180)
+
+- HUD ID: NYA00000180
+- HUD ID before: 
+- Project: 185 MOUNT HOPE AVE
+- Address: 185 MOUNT HOPE AVE
+- City: ROCHESTER
+- State: NY
+- ZIP: 14620
+- ZIP extension: 
+- State project ID: 488
+- Latitude: 43.145841
+- Longitude: -77.609597
+- County FIPS: 36055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36055003200
+- Tract 2000: 36055003200
+- Tract 1990: 36055003200
+- Place 2020: 
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 3100
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 402
+- Low-income units: 397
+- Units reported: 402
+- Low-income reported: 397
+- Efficiencies: 61
+- 1-bedroom units: 132
+- 2-bedroom units: 103
+- 3-bedroom units: 76
+- 4-bedroom units: 25
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: JACARANDA TRAIL (FLA20180028)
+
+- HUD ID: FLA20180028
+- HUD ID before: 
+- Project: JACARANDA TRAIL
+- Address: 1650 SOUTHEAST HARGRAVE STREET
+- City: ARCADIA
+- State: FL
+- ZIP: 34266
+- ZIP extension: 
+- State project ID: 1230
+- Latitude: 27.205244
+- Longitude: -81.84848
+- County FIPS: 12027
+- County from: 2020
+- Tract 2020: 12027010301
+- Tract 2010: 12027010301
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 01750
+- Place 2010: 01750
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 380250
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 15
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

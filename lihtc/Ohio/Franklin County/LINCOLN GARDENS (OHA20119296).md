@@ -1,0 +1,85 @@
+# Project: LINCOLN GARDENS (OHA20119296)
+
+- HUD ID: OHA20119296
+- HUD ID before: 
+- Project: LINCOLN GARDENS
+- Address: 4976 EASTHAM WAY
+- City: COLUMBUS
+- State: OH
+- ZIP: 43228
+- ZIP extension: 
+- State project ID: 090077
+- Latitude: 39.954331
+- Longitude: -83.134207
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049008110
+- Tract 2010: 39049008110
+- Tract 2000: 39049008110
+- Tract 1990: 39049008110
+- Place 2020: 43792
+- Place 2010: 43792
+- Place 2000: 43792
+- Place 1990: 2226
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 95
+- Units reported: 100
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3517258
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2010815. AKA LINCOLN GARDENS II SENIOR.
+- Record status: Existing, unchanged

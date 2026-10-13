@@ -1,0 +1,85 @@
+# Project: EASTRIDGE ESTATES (MNA20049003)
+
+- HUD ID: MNA20049003
+- HUD ID before: 
+- Project: EASTRIDGE ESTATES
+- Address: 2009 17TH ST SE
+- City: ROCHESTER
+- State: MN
+- ZIP: 55904
+- ZIP extension: 
+- State project ID: D3442
+- Latitude: 44.000185
+- Longitude: -92.436757
+- County FIPS: 27109
+- County from: 2020
+- Tract 2020: 27109000902
+- Tract 2010: 27109000902
+- Tract 2000: 27109000902
+- Tract 1990: 27109000900
+- Place 2020: 54880
+- Place 2010: 54880
+- Place 2000: 54880
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 189535
+- Units: 126
+- Low-income units: 123
+- Units reported: 126
+- Low-income reported: 123
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 54
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

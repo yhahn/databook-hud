@@ -1,0 +1,85 @@
+# Project: HUB PHASE II APTS PHASE II (NYA19930175)
+
+- HUD ID: NYA19930175
+- HUD ID before: 
+- Project: HUB PHASE II APTS PHASE II
+- Address: 1 EMILY AKERS
+- City: WASHINGTONVILLE
+- State: NY
+- ZIP: 10992
+- ZIP extension: 
+- State project ID: NY-92-0056_00517
+- Latitude: 41.432649
+- Longitude: -74.158371
+- County FIPS: 36071
+- County from: 2020
+- Tract 2020: 36071013201
+- Tract 2010: 36071013201
+- Tract 2000: 36071013200
+- Tract 1990: 36071013200
+- Place 2020: 78465
+- Place 2010: 78465
+- Place 2000: 05193
+- Place 1990: 3820
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

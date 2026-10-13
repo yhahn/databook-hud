@@ -1,0 +1,85 @@
+# Project: CENTERVILLE POINTE (TXA19980045)
+
+- HUD ID: TXA19980045
+- HUD ID before: 
+- Project: CENTERVILLE POINTE
+- Address: 4266 DUCK CREEK DR
+- City: GARLAND
+- State: TX
+- ZIP: 75043
+- ZIP extension: 
+- State project ID: TX1615
+- Latitude: 32.863117
+- Longitude: -96.622508
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113018111
+- Tract 2010: 48113018111
+- Tract 2000: 48113018111
+- Tract 1990: 48113018111
+- Place 2020: 29000
+- Place 2010: 29000
+- Place 2000: 29000
+- Place 1990: 1580
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 250
+- Low-income units: 150
+- Units reported: 250
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 95
+- 3-bedroom units: 102
+- 4-bedroom units: 53
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

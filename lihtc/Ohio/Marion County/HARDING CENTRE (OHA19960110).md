@@ -1,0 +1,85 @@
+# Project: HARDING CENTRE (OHA19960110)
+
+- HUD ID: OHA19960110
+- HUD ID before: 
+- Project: HARDING CENTRE
+- Address: 267 W CTR ST
+- City: MARION
+- State: OH
+- ZIP: 43302
+- ZIP extension: 
+- State project ID: OH-94-6139
+- Latitude: 40.588322
+- Longitude: -83.133264
+- County FIPS: 39101
+- County from: 2020
+- Tract 2020: 39101000100
+- Tract 2010: 39101000100
+- Tract 2000: 39101000100
+- Tract 1990: 39101000100
+- Place 2020: 47754
+- Place 2010: 47754
+- Place 2000: 47754
+- Place 1990: 2485
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 475572
+- Units: 67
+- Low-income units: 67
+- Units reported: 67
+- Low-income reported: 67
+- Efficiencies: 6
+- 1-bedroom units: 31
+- 2-bedroom units: 24
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BAXTER SPRINGS SENIORS II (KSA20140594)
+
+- HUD ID: KSA20140594
+- HUD ID before: 
+- Project: BAXTER SPRINGS SENIORS II
+- Address: 1520 CLEVELAND AVE
+- City: BAXTER SPRINGS
+- State: KS
+- ZIP: 66713
+- ZIP extension: 
+- State project ID: 60586
+- Latitude: 37.020256
+- Longitude: -94.732996
+- County FIPS: 20021
+- County from: 2020
+- Tract 2020: 20021958600
+- Tract 2010: 20021958600
+- Tract 2000: 20021958600
+- Tract 1990: 20021958600
+- Place 2020: 04625
+- Place 2010: 04625
+- Place 2000: 04625
+- Place 1990: 0200
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

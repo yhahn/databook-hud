@@ -1,0 +1,85 @@
+# Project: SCHOOL HOUSE STATION I (CAA19970415)
+
+- HUD ID: CAA19970415
+- HUD ID before: 
+- Project: SCHOOL HOUSE STATION I
+- Address: 7200 MISSION ST
+- City: DALY CITY
+- State: CA
+- ZIP: 94014
+- ZIP extension: 
+- State project ID: CA-95-041
+- Latitude: 37.693595
+- Longitude: -122.465268
+- County FIPS: 06081
+- County from: 2020
+- Tract 2020: 06081600600
+- Tract 2010: 06081600600
+- Tract 2000: 06081600600
+- Tract 1990: 06081600600
+- Place 2020: 17918
+- Place 2010: 17918
+- Place 2000: 17918
+- Place 1990: 0700
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 873576
+- Units: 47
+- Low-income units: 46
+- Units reported: 47
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 18
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

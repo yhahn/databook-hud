@@ -1,0 +1,85 @@
+# Project: BLUE ASH APTS (TXA19960015)
+
+- HUD ID: TXA19960015
+- HUD ID before: 
+- Project: BLUE ASH APTS
+- Address: 15101 BLUE ASH DR
+- City: HOUSTON
+- State: TX
+- ZIP: 77090
+- ZIP extension: 
+- State project ID: TX1311
+- Latitude: 29.986459
+- Longitude: -95.426744
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201550308
+- Tract 2010: 48201550301
+- Tract 2000: 48201550300
+- Tract 1990: 48201053602
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 35000
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 216
+- Low-income units: 216
+- Units reported: 216
+- Low-income reported: 216
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 88
+- 3-bedroom units: 68
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000193. AKA VILLA SPRINGS.
+- Record status: Existing, unchanged

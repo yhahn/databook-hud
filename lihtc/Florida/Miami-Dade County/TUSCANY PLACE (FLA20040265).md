@@ -1,0 +1,85 @@
+# Project: TUSCANY PLACE (FLA20040265)
+
+- HUD ID: FLA20040265
+- HUD ID before: 
+- Project: TUSCANY PLACE
+- Address: 25370 SW 137TH AVE
+- City: HOMESTEAD
+- State: FL
+- ZIP: 33032
+- ZIP extension: 
+- State project ID: 1205
+- Latitude: 25.531215
+- Longitude: -80.412967
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010803
+- Tract 2010: 12086010802
+- Tract 2000: 12086010800
+- Tract 1990: 12025010800
+- Place 2020: 47700
+- Place 2010: 47700
+- Place 2000: 39950
+- Place 1990: 1458
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 340
+- Low-income units: 340
+- Units reported: 340
+- Low-income reported: 340
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 136
+- 3-bedroom units: 120
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

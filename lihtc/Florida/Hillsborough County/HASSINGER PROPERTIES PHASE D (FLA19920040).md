@@ -1,0 +1,85 @@
+# Project: HASSINGER PROPERTIES PHASE D (FLA19920040)
+
+- HUD ID: FLA19920040
+- HUD ID before: 
+- Project: HASSINGER PROPERTIES PHASE D
+- Address: 1917 E 137TH AVE
+- City: TAMPA
+- State: FL
+- ZIP: 33613
+- ZIP extension: 
+- State project ID: 336
+- Latitude: 28.071094
+- Longitude: -82.437734
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057010821
+- Tract 2010: 12057010818
+- Tract 2000: 12057010807
+- Tract 1990: 12057010807
+- Place 2020: 73163
+- Place 2010: 73163
+- Place 2000: 73163
+- Place 1990: 2127
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

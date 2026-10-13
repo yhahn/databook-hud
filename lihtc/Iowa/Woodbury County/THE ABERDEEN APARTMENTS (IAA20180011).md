@@ -1,0 +1,85 @@
+# Project: THE ABERDEEN APARTMENTS (IAA20180011)
+
+- HUD ID: IAA20180011
+- HUD ID before: 
+- Project: THE ABERDEEN APARTMENTS
+- Address: 1121 JACKSON ST
+- City: SIOUX CITY
+- State: IA
+- ZIP: 51105
+- ZIP extension: 1434
+- State project ID: 17-09
+- Latitude: 42.502357
+- Longitude: -96.402288
+- County FIPS: 19193
+- County from: 2020
+- Tract 2020: 19193001300
+- Tract 2010: 19193001300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 73335
+- Place 2010: 73335
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 688936
+- Units: 46
+- Low-income units: 41
+- Units reported: 46
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 15
+- 3-bedroom units: 15
+- 4-bedroom units: 7
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

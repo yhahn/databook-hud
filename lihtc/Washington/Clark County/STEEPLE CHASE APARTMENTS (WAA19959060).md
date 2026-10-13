@@ -1,0 +1,85 @@
+# Project: STEEPLE CHASE APARTMENTS (WAA19959060)
+
+- HUD ID: WAA19959060
+- HUD ID before: 
+- Project: STEEPLE CHASE APARTMENTS
+- Address: 4617 NE ST. JOHNS ROAD
+- City: VANCOUVER
+- State: WA
+- ZIP: 98661
+- ZIP extension: 
+- State project ID: 92-06RR
+- Latitude: 45.655233
+- Longitude: -122.635759
+- County FIPS: 53011
+- County from: 2020
+- Tract 2020: 53011041110
+- Tract 2010: 53011041110
+- Tract 2000: 53011041110
+- Tract 1990: 53011041106
+- Place 2020: 74060
+- Place 2010: 74060
+- Place 2000: 46125
+- Place 1990: 0786
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 521968
+- Units: 111
+- Low-income units: 110
+- Units reported: 111
+- Low-income reported: 110
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 57
+- 3-bedroom units: 32
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA1994120.
+- Record status: Updated

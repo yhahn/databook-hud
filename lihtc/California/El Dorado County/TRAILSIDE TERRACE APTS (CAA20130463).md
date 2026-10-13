@@ -1,0 +1,85 @@
+# Project: TRAILSIDE TERRACE APTS (CAA20130463)
+
+- HUD ID: CAA20130463
+- HUD ID before: 
+- Project: TRAILSIDE TERRACE APTS
+- Address: 4050 SUNSET LN
+- City: SHINGLE SPRINGS
+- State: CA
+- ZIP: 95682
+- ZIP extension: 
+- State project ID: CA-11-124
+- Latitude: 38.660798
+- Longitude: -120.933743
+- County FIPS: 06017
+- County from: 2020
+- Tract 2020: 06017030804
+- Tract 2010: 06017030804
+- Tract 2000: 06017030804
+- Tract 1990: 06017030804
+- Place 2020: 71554
+- Place 2010: 71554
+- Place 2000: 10256
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 630000
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 20
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 3000000
+- CDBG: Yes
+- CDBG amount: 483000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Yes
+- Other population named: MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

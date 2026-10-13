@@ -1,0 +1,85 @@
+# Project: PARKVIEW AT MANCHESTER HEIGHTS (PAA19990195)
+
+- HUD ID: PAA19990195
+- HUD ID before: 
+- Project: PARKVIEW AT MANCHESTER HEIGHTS
+- Address: 1900 BARLEY RD
+- City: YORK
+- State: PA
+- ZIP: 17408
+- ZIP extension: 
+- State project ID: TC1997-0100
+- Latitude: 39.97825
+- Longitude: -76.780116
+- County FIPS: 42133
+- County from: 2020
+- Tract 2020: 42133021410
+- Tract 2010: 42133021410
+- Tract 2000: 42133021410
+- Tract 1990: 42133001400
+- Place 2020: 70256
+- Place 2010: 70256
+- Place 2000: 70256
+- Place 1990: 9034
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 348175
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 750000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1998215.
+- Record status: Existing, unchanged

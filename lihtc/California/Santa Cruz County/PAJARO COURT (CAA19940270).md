@@ -1,0 +1,85 @@
+# Project: PAJARO COURT (CAA19940270)
+
+- HUD ID: CAA19940270
+- HUD ID before: 
+- Project: PAJARO COURT
+- Address: 170 PENNSYLVANIA DR
+- City: WATSONVILLE
+- State: CA
+- ZIP: 95076
+- ZIP extension: 
+- State project ID: CA-92-152
+- Latitude: 36.917558
+- Longitude: -121.77117
+- County FIPS: 06087
+- County from: 2020
+- Tract 2020: 06087110505
+- Tract 2010: 06087110501
+- Tract 2000: 06087110501
+- Tract 1990: 06087110500
+- Place 2020: 83668
+- Place 2010: 83668
+- Place 2000: 83668
+- Place 1990: 3055
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 121977
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

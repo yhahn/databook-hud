@@ -1,0 +1,85 @@
+# Project: ST JOHN HOMES (INA19950152)
+
+- HUD ID: INA19950152
+- HUD ID before: 
+- Project: ST JOHN HOMES
+- Address: 2173 CAROLINA ST
+- City: GARY
+- State: IN
+- ZIP: 46407
+- ZIP extension: 
+- State project ID: IN-93-02601
+- Latitude: 41.577991
+- Longitude: -87.328669
+- County FIPS: 18089
+- County from: 2020
+- Tract 2020: 18089012200
+- Tract 2010: 18089012200
+- Tract 2000: 18089012200
+- Tract 1990: 18089012900
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 0905
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 549556
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 90
+- 3-bedroom units: 48
+- 4-bedroom units: 6
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 144
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

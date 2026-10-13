@@ -1,0 +1,85 @@
+# Project: ELDERBERRY AT BETHEL (CAA20040180)
+
+- HUD ID: CAA20040180
+- HUD ID before: 
+- Project: ELDERBERRY AT BETHEL
+- Address: 2505 FIFTH ST
+- City: SANGER
+- State: CA
+- ZIP: 93657
+- ZIP extension: 
+- State project ID: CA-03-042
+- Latitude: 36.708365
+- Longitude: -119.571521
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019006002
+- Tract 2010: 06019006000
+- Tract 2000: 06019006000
+- Tract 1990: 06019006000
+- Place 2020: 67056
+- Place 2010: 67056
+- Place 2000: 67056
+- Place 1990: 2495
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 414217
+- Units: 74
+- Low-income units: 73
+- Units reported: 74
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

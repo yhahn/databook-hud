@@ -1,0 +1,85 @@
+# Project: CEDAR GROVE (MSA20090160)
+
+- HUD ID: MSA20090160
+- HUD ID before: 
+- Project: CEDAR GROVE
+- Address: 2328 TIMBER FALLS DR
+- City: JACKSON
+- State: MS
+- ZIP: 39212
+- ZIP extension: 
+- State project ID: MS-06-055
+- Latitude: 32.265397
+- Longitude: -90.268309
+- County FIPS: 28049
+- County from: 2020
+- Tract 2020: 28049011002
+- Tract 2010: 28049011002
+- Tract 2000: 28049011002
+- Tract 1990: 28049011002
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 0615
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1972100
+- Units: 155
+- Low-income units: 152
+- Units reported: 155
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 77
+- 4-bedroom units: 75
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CEDAR GROVE (TIMBER FALLS).
+- Record status: Existing, unchanged

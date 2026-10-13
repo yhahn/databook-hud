@@ -1,0 +1,85 @@
+# Project: NEWBERRY SENIOR HOUSING (SCA20040090)
+
+- HUD ID: SCA20040090
+- HUD ID before: 
+- Project: NEWBERRY SENIOR HOUSING
+- Address: 1306 HUNT ST
+- City: NEWBERRY
+- State: SC
+- ZIP: 29108
+- ZIP extension: 
+- State project ID: SC-02-004
+- Latitude: 34.283095
+- Longitude: -81.606712
+- County FIPS: 45071
+- County from: 2020
+- Tract 2020: 45071950203
+- Tract 2010: 45071950202
+- Tract 2000: 45071950200
+- Tract 1990: 45071950200
+- Place 2020: 49570
+- Place 2010: 49570
+- Place 2000: 49570
+- Place 1990: 0955
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 167480
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 400000
+- CDBG: Yes
+- CDBG amount: 443315
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

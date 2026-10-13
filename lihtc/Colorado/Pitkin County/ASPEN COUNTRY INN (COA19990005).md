@@ -1,0 +1,85 @@
+# Project: ASPEN COUNTRY INN (COA19990005)
+
+- HUD ID: COA19990005
+- HUD ID before: 
+- Project: ASPEN COUNTRY INN
+- Address: 38996 HWY 82
+- City: ASPEN
+- State: CO
+- ZIP: 81611
+- ZIP extension: 
+- State project ID: CO-97-0032
+- Latitude: 39.202407
+- Longitude: -106.852536
+- County FIPS: 08097
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 08097000100
+- Tract 2000: 08097000100
+- Tract 1990: 08097962800
+- Place 2020: 
+- Place 2010: 03620
+- Place 2000: 03620
+- Place 1990: 0045
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 4
+- 1-bedroom units: 32
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

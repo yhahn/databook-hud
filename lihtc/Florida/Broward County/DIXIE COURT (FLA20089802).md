@@ -1,0 +1,85 @@
+# Project: DIXIE COURT (FLA20089802)
+
+- HUD ID: FLA20089802
+- HUD ID before: 
+- Project: DIXIE COURT
+- Address: 950 NW 4TH STREET
+- City: FT LAUDERDALE
+- State: FL
+- ZIP: 33311
+- ZIP extension: 
+- State project ID: 1599
+- Latitude: 26.136344
+- Longitude: -80.147811
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011041700
+- Tract 2010: 12011041700
+- Tract 2000: 12011041700
+- Tract 1990: 12011041700
+- Place 2020: 24000
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 0645
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1251220
+- Units: 122
+- Low-income units: 122
+- Units reported: 122
+- Low-income reported: 122
+- Efficiencies: 0
+- 1-bedroom units: 66
+- 2-bedroom units: 44
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

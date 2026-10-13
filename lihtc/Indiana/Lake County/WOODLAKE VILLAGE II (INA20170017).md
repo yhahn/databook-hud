@@ -1,0 +1,85 @@
+# Project: WOODLAKE VILLAGE II (INA20170017)
+
+- HUD ID: INA20170017
+- HUD ID before: 
+- Project: WOODLAKE VILLAGE II
+- Address: 9101 EAST 5TH APPR AVENUE
+- City: GARY
+- State: IN
+- ZIP: 46403
+- ZIP extension: 
+- State project ID: IN-15-02100
+- Latitude: 41.6185
+- Longitude: -87.242
+- County FIPS: 18089
+- County from: 2020
+- Tract 2020: 18089010207
+- Tract 2010: 18089010100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 287516
+- Units: 170
+- Low-income units: 170
+- Units reported: 170
+- Low-income reported: 170
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 145
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

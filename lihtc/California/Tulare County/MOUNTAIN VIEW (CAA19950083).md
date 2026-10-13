@@ -1,0 +1,85 @@
+# Project: MOUNTAIN VIEW (CAA19950083)
+
+- HUD ID: CAA19950083
+- HUD ID before: 
+- Project: MOUNTAIN VIEW
+- Address: 870 N PLANO ST
+- City: PORTERVILLE
+- State: CA
+- ZIP: 93257
+- ZIP extension: 
+- State project ID: CA-94-064
+- Latitude: 36.081668
+- Longitude: -119.00851
+- County FIPS: 06107
+- County from: 2020
+- Tract 2020: 06107003902
+- Tract 2010: 06107003902
+- Tract 2000: 06107003902
+- Tract 1990: 06107003900
+- Place 2020: 58240
+- Place 2010: 58240
+- Place 2000: 21012
+- Place 1990: 0830
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 460718
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 32
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

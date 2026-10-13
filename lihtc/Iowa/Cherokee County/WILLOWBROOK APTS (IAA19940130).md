@@ -1,0 +1,85 @@
+# Project: WILLOWBROOK APTS (IAA19940130)
+
+- HUD ID: IAA19940130
+- HUD ID before: 
+- Project: WILLOWBROOK APTS
+- Address: 925 JEFFRIES ST
+- City: CHEROKEE
+- State: IA
+- ZIP: 51012
+- ZIP extension: 
+- State project ID: 93-24
+- Latitude: 42.758527
+- Longitude: -95.535913
+- County FIPS: 19035
+- County from: 2020
+- Tract 2020: 19035080101
+- Tract 2010: 19035080100
+- Tract 2000: 19035980100
+- Tract 1990: 19035980100
+- Place 2020: 13080
+- Place 2010: 13080
+- Place 2000: 13080
+- Place 1990: 0730
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 29620
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

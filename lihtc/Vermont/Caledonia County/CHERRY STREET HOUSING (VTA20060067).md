@@ -1,0 +1,85 @@
+# Project: CHERRY STREET HOUSING (VTA20060067)
+
+- HUD ID: VTA20060067
+- HUD ID before: 
+- Project: CHERRY STREET HOUSING
+- Address: 73 DALE ST
+- City: HARDWICK
+- State: VT
+- ZIP: 
+- ZIP extension: 
+- State project ID: 0350
+- Latitude: 44.504201
+- Longitude: -72.370613
+- County FIPS: 50005
+- County from: 2020
+- Tract 2020: 50005957700
+- Tract 2010: 50005957700
+- Tract 2000: 50005957700
+- Tract 1990: 50005957700
+- Place 2020: 31750
+- Place 2010: 31750
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 39065
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA HARDWICK FAMILY
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MERRITT MONUMENT (TXA0000X050)
+
+- HUD ID: TXA0000X050
+- HUD ID before: 
+- Project: MERRITT MONUMENT
+- Address: 203 BEAL PARKWAY
+- City: MIDLAND
+- State: TX
+- ZIP: 79703
+- ZIP extension: 
+- State project ID: TX5251
+- Latitude: 31.977543
+- Longitude: -102.145138
+- County FIPS: 48329
+- County from: 2020
+- Tract 2020: 48329001300
+- Tract 2010: 48329001300
+- Tract 2000: 48329001200
+- Tract 1990: 
+- Place 2020: 48072
+- Place 2010: 48072
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 83
+- Units reported: 104
+- Low-income reported: 83
+- Efficiencies: 7
+- 1-bedroom units: 39
+- 2-bedroom units: 46
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 4000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Total Special Needs
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

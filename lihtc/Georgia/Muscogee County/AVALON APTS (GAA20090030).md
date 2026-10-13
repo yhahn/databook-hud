@@ -1,0 +1,85 @@
+# Project: AVALON APTS (GAA20090030)
+
+- HUD ID: GAA20090030
+- HUD ID before: 
+- Project: AVALON APTS
+- Address: 3751 CUSSETA RD
+- City: COLUMBUS
+- State: GA
+- ZIP: 31903
+- ZIP extension: 4800
+- State project ID: GA-07-507
+- Latitude: 32.43799
+- Longitude: -84.940905
+- County FIPS: 13215
+- County from: 2020
+- Tract 2020: 13215002902
+- Tract 2010: 13215002902
+- Tract 2000: 13215002902
+- Tract 1990: 13215002902
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19007
+- Place 1990: 0660
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 899564
+- Units: 232
+- Low-income units: 232
+- Units reported: 232
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 60
+- 3-bedroom units: 80
+- 4-bedroom units: 38
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

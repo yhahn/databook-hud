@@ -1,0 +1,85 @@
+# Project: WAVERLY WOODS - ZONE 6 MCLEAN (MAB20090100)
+
+- HUD ID: MAB20090100
+- HUD ID before: 
+- Project: WAVERLY WOODS - ZONE 6 MCLEAN
+- Address: 2 OLMSTED DR
+- City: BELMONT
+- State: MA
+- ZIP: 02478
+- ZIP extension: 
+- State project ID: 1612
+- Latitude: 42.388872
+- Longitude: -71.190468
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017357700
+- Tract 2010: 25017357700
+- Tract 2000: 25017357700
+- Tract 1990: 25017357700
+- Place 2020: 05105
+- Place 2010: 05105
+- Place 2000: 05105
+- Place 1990: 0350
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 630000
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 20
+- 3-bedroom units: 9
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000685. AKA WAVERLEY WOODS LLC.
+- Record status: Existing, unchanged

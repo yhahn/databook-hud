@@ -1,0 +1,85 @@
+# Project: BRUNSWICK MANOR APARTMENTS (VAA20180008)
+
+- HUD ID: VAA20180008
+- HUD ID before: 
+- Project: BRUNSWICK MANOR APARTMENTS
+- Address: 300 UNION STREET
+- City: LAWRENCEVILLE
+- State: VA
+- ZIP: 23868
+- ZIP extension: 
+- State project ID: 1028
+- Latitude: 36.75969
+- Longitude: -77.859779
+- County FIPS: 51025
+- County from: 2020
+- Tract 2020: 51025930203
+- Tract 2010: 51025930203
+- Tract 2000: 51025990200
+- Tract 1990: 51025990200
+- Place 2020: 44520
+- Place 2010: 44520
+- Place 2000: 44520
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 205364
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA0000018. AKA LAWRENCEVILLE MANOR, LAWRENCEVILLE ELDERLY.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NAVASOTA MANOR APTS (TXA19940185)
+
+- HUD ID: TXA19940185
+- HUD ID before: 
+- Project: NAVASOTA MANOR APTS
+- Address: 1015 CHURCH ST
+- City: NAVASOTA
+- State: TX
+- ZIP: 77868
+- ZIP extension: 
+- State project ID: TX1002
+- Latitude: 30.381267
+- Longitude: -96.08177
+- County FIPS: 48185
+- County from: 2020
+- Tract 2020: 48185180201
+- Tract 2010: 48185180200
+- Tract 2000: 48185180200
+- Tract 1990: 48185180200
+- Place 2020: 50472
+- Place 2010: 50472
+- Place 2000: 50472
+- Place 1990: 2965
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

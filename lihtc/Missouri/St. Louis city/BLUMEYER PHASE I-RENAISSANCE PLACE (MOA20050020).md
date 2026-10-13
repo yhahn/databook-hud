@@ -1,0 +1,85 @@
+# Project: BLUMEYER PHASE I/RENAISSANCE PLACE (MOA20050020)
+
+- HUD ID: MOA20050020
+- HUD ID before: 
+- Project: BLUMEYER PHASE I/RENAISSANCE PLACE
+- Address: 3430 FRANKLIN AVE
+- City: ST LOUIS
+- State: MO
+- ZIP: 63106
+- ZIP extension: 
+- State project ID: 03-057
+- Latitude: 38.640815
+- Longitude: -90.227893
+- County FIPS: 29510
+- County from: 2020
+- Tract 2020: 29510127800
+- Tract 2010: 29510121100
+- Tract 2000: 29510121100
+- Tract 1990: 29510121100
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 158
+- Low-income units: 95
+- Units reported: 158
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 50
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BLUMEYER PHASE I.
+- Record status: Existing, unchanged

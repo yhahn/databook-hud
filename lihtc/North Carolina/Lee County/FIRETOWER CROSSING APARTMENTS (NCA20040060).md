@@ -1,0 +1,85 @@
+# Project: FIRETOWER CROSSING APARTMENTS (NCA20040060)
+
+- HUD ID: NCA20040060
+- HUD ID before: 
+- Project: FIRETOWER CROSSING APARTMENTS
+- Address: 119 LIGHTWOOD LANE
+- City: SANFORD
+- State: NC
+- ZIP: 27330
+- ZIP extension: 
+- State project ID: 9002108
+- Latitude: 35.459969
+- Longitude: -79.188895
+- County FIPS: 37105
+- County from: 2020
+- Tract 2020: 37105030300
+- Tract 2010: 37105030300
+- Tract 2000: 37105030300
+- Tract 1990: 37105030300
+- Place 2020: 59280
+- Place 2010: 59280
+- Place 2000: 59280
+- Place 1990: 2210
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 460992
+- Units: 61
+- Low-income units: 60
+- Units reported: 61
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 42
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

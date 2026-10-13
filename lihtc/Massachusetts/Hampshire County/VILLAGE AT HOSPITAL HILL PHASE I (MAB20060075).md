@@ -1,0 +1,85 @@
+# Project: VILLAGE AT HOSPITAL HILL PHASE I (MAB20060075)
+
+- HUD ID: MAB20060075
+- HUD ID before: 
+- Project: VILLAGE AT HOSPITAL HILL PHASE I
+- Address: 51 VILLAGE HILL RD
+- City: NORTHAMPTON
+- State: MA
+- ZIP: 01060
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.312748
+- Longitude: -72.647473
+- County FIPS: 25015
+- County from: 2020
+- Tract 2020: 25015821903
+- Tract 2010: 25015821903
+- Tract 2000: 25015821902
+- Tract 1990: 25015821902
+- Place 2020: 46330
+- Place 2010: 46330
+- Place 2000: 46330
+- Place 1990: 2865
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 33
+- Low-income units: 26
+- Units reported: 33
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 715000
+- CDBG: Yes
+- CDBG amount: 125000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

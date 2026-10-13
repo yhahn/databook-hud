@@ -1,0 +1,25 @@
+# Tax Credit Projects: Montgomery County, IN
+
+- Level: County
+- Postal code: IN
+- State FIPS: 18
+- County FIPS: 18107
+- Counties: 
+- Projects: 8
+- Units: 364
+- Low-income units: 300
+
+The low-income housing tax credit projects of Montgomery County, Indiana, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [SHADY KNOLL APTS I (INA19900047)](./Montgomery%20County/SHADY%20KNOLL%20APTS%20I%20%28INA19900047%29.md) | INA19900047 | CRAWFORDSVILLE | 1990 | 112 | 48 |
+| [WINGATE MANOR APTS (INA19910053)](./Montgomery%20County/WINGATE%20MANOR%20APTS%20%28INA19910053%29.md) | INA19910053 | WINGATE | 1991 | 16 | 16 |
+| [SHADY KNOLL APTS II (INA19940085)](./Montgomery%20County/SHADY%20KNOLL%20APTS%20II%20%28INA19940085%29.md) | INA19940085 | CRAWFORDSVILLE | 1994 | 48 | 48 |
+| [SHADY KNOLL APTS III (INA19950150)](./Montgomery%20County/SHADY%20KNOLL%20APTS%20III%20%28INA19950150%29.md) | INA19950150 | CRAWFORDSVILLE | 1995 | 48 | 48 |
+| [DANVILLE AVENUE APTS (INA19960045)](./Montgomery%20County/DANVILLE%20AVENUE%20APTS%20%28INA19960045%29.md) | INA19960045 | CRAWFORDSVILLE | 1996 | 12 | 12 |
+| [ATHENA CENTER APTS (INA19990112)](./Montgomery%20County/ATHENA%20CENTER%20APTS%20%28INA19990112%29.md) | INA19990112 | CRAWFORDSVILLE | 1999 | 72 | 72 |
+| [TALL OAKS (INA19990123)](./Montgomery%20County/TALL%20OAKS%20%28INA19990123%29.md) | INA19990123 | CRAWFORDSVILLE | 1999 |  |  |
+| [HISTORIC WHITLOCK PLACE (INA20166173)](./Montgomery%20County/HISTORIC%20WHITLOCK%20PLACE%20%28INA20166173%29.md) | INA20166173 | CRAWFORDSVILLE | 2016 | 56 | 56 |

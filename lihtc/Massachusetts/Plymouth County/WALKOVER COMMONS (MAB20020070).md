@@ -1,0 +1,85 @@
+# Project: WALKOVER COMMONS (MAB20020070)
+
+- HUD ID: MAB20020070
+- HUD ID before: 
+- Project: WALKOVER COMMONS
+- Address: 100 PERKINS AVE
+- City: BROCKTON
+- State: MA
+- ZIP: 02302
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.064044
+- Longitude: -71.010629
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023511301
+- Tract 2010: 25023511301
+- Tract 2000: 25023511301
+- Tract 1990: 25023511301
+- Place 2020: 09000
+- Place 2010: 09000
+- Place 2000: 09000
+- Place 1990: 0540
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 51
+- Units reported: 80
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 58
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

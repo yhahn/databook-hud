@@ -1,0 +1,85 @@
+# Project: MADISON GLEN (FLA20110135)
+
+- HUD ID: FLA20110135
+- HUD ID before: 
+- Project: MADISON GLEN
+- Address: 592 STERTHAUS DR
+- City: ORMOND BEACH
+- State: FL
+- ZIP: 32174
+- ZIP extension: 
+- State project ID: 2380
+- Latitude: 29.281798
+- Longitude: -81.078243
+- County FIPS: 12127
+- County from: 2020
+- Tract 2020: 12127080807
+- Tract 2010: 12127080807
+- Tract 2000: 12127080801
+- Tract 1990: 12127080801
+- Place 2020: 53150
+- Place 2010: 53150
+- Place 2000: 53150
+- Place 1990: 1605
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 49
+- 2-bedroom units: 37
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 10837500
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011522.
+- Record status: Existing, unchanged

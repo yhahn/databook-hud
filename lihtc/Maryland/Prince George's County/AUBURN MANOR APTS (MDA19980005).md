@@ -1,0 +1,85 @@
+# Project: AUBURN MANOR APTS (MDA19980005)
+
+- HUD ID: MDA19980005
+- HUD ID before: 
+- Project: AUBURN MANOR APTS
+- Address: 6821 RIVER RD
+- City: RIVERDALE
+- State: MD
+- ZIP: 
+- ZIP extension: 
+- State project ID: MD98-18
+- Latitude: 38.9667
+- Longitude: -76.9113
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033806602
+- Tract 2010: 24033806602
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 24650
+- Place 2010: 24650
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 261
+- Low-income units: 235
+- Units reported: 261
+- Low-income reported: 235
+- Efficiencies: 8
+- 1-bedroom units: 93
+- 2-bedroom units: 150
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

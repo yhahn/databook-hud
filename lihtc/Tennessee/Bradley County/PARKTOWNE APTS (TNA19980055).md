@@ -1,0 +1,85 @@
+# Project: PARKTOWNE APTS (TNA19980055)
+
+- HUD ID: TNA19980055
+- HUD ID before: 
+- Project: PARKTOWNE APTS
+- Address: 2005 WESTLAND DR SW
+- City: CLEVELAND
+- State: TN
+- ZIP: 37311
+- ZIP extension: 
+- State project ID: TN-97-028
+- Latitude: 35.141399
+- Longitude: -84.900774
+- County FIPS: 47011
+- County from: 2020
+- Tract 2020: 47011010700
+- Tract 2010: 47011010700
+- Tract 2000: 47011010700
+- Tract 1990: 47011010700
+- Place 2020: 15400
+- Place 2010: 15400
+- Place 2000: 15400
+- Place 1990: 0255
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 492173
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 48
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MARIONVILLE SENIOR APTS (MOA19940185)
+
+- HUD ID: MOA19940185
+- HUD ID before: 
+- Project: MARIONVILLE SENIOR APTS
+- Address: 509 S CHESTNUT
+- City: MARIONVILLE
+- State: MO
+- ZIP: 65705
+- ZIP extension: 
+- State project ID: 93-010
+- Latitude: 36.998055
+- Longitude: -93.629839
+- County FIPS: 29109
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29109470500
+- Tract 2000: 29109970500
+- Tract 1990: 29109970500
+- Place 2020: 
+- Place 2010: 46172
+- Place 2000: 02548
+- Place 1990: 2660
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 20
+- Units reported: 200
+- Low-income reported: 20
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA THE PLAZA.
+- Record status: Existing, unchanged

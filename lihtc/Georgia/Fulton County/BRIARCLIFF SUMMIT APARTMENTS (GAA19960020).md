@@ -1,0 +1,85 @@
+# Project: BRIARCLIFF SUMMIT APARTMENTS (GAA19960020)
+
+- HUD ID: GAA19960020
+- HUD ID before: 
+- Project: BRIARCLIFF SUMMIT APARTMENTS
+- Address: 1050 PONCE DE LEON AVE NE
+- City: ATLANTA
+- State: GA
+- ZIP: 30306
+- ZIP extension: 4230
+- State project ID: GA-94-091
+- Latitude: 33.774
+- Longitude: -84.35317
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121001501
+- Tract 2010: 13121001500
+- Tract 2000: 13121001500
+- Tract 1990: 13121001500
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 89
+- 1-bedroom units: 86
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1994020.
+- Record status: Existing, unchanged

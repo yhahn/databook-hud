@@ -1,0 +1,85 @@
+# Project: SCOTTSDALE NEW VENTURA APTS (AZA20000060)
+
+- HUD ID: AZA20000060
+- HUD ID before: 
+- Project: SCOTTSDALE NEW VENTURA APTS
+- Address: 980 N GRANITE REEF RD
+- City: SCOTTSDALE
+- State: AZ
+- ZIP: 85257
+- ZIP extension: 
+- State project ID: AZ200009
+- Latitude: 33.457348
+- Longitude: -111.900764
+- County FIPS: 04013
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04013218300
+- Tract 2000: 04013218300
+- Tract 1990: 04013218300
+- Place 2020: 
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 0305
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 135
+- Low-income units: 135
+- Units reported: 135
+- Low-income reported: 135
+- Efficiencies: 0
+- 1-bedroom units: 133
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

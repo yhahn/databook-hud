@@ -1,0 +1,85 @@
+# Project: PLYMOUTH PLACE APARTMENTS (NJA20000095)
+
+- HUD ID: NJA20000095
+- HUD ID before: 
+- Project: PLYMOUTH PLACE APARTMENTS
+- Address: 45 MAIN ROAD
+- City: HAMMONTON
+- State: NJ
+- ZIP: 08037
+- ZIP extension: 
+- State project ID: 01269
+- Latitude: 39.640276
+- Longitude: -74.777194
+- County FIPS: 34001
+- County from: 2020
+- Tract 2020: 34001010900
+- Tract 2010: 34001010900
+- Tract 2000: 34001010900
+- Tract 1990: 34001010900
+- Place 2020: 29430
+- Place 2010: 29430
+- Place 2000: 29430
+- Place 1990: 2065
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 1237994
+- Units: 127
+- Low-income units: 127
+- Units reported: 127
+- Low-income reported: 127
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

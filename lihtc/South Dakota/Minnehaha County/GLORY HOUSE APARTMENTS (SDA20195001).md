@@ -1,0 +1,85 @@
+# Project: GLORY HOUSE APARTMENTS (SDA20195001)
+
+- HUD ID: SDA20195001
+- HUD ID before: 
+- Project: GLORY HOUSE APARTMENTS
+- Address: 1600 WEST 51ST STREET
+- City: SIOUX FALLS
+- State: SD
+- ZIP: 57109
+- ZIP extension: 
+- State project ID: 03504
+- Latitude: 43.506823
+- Longitude: -96.745372
+- County FIPS: 46099
+- County from: 2020
+- Tract 2020: 46099001501
+- Tract 2010: 46099001500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59020
+- Place 2010: 59020
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 188328
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 25
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: persons who have been incarcerated and attempting to re-enter the community
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

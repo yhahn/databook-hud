@@ -1,0 +1,85 @@
+# Project: BRADSHAW II SENIOR COMMUNITY (AZA20119028)
+
+- HUD ID: AZA20119028
+- HUD ID before: 
+- Project: BRADSHAW II SENIOR COMMUNITY
+- Address: 123 BRADSHAW DR
+- City: PRESCOTT
+- State: AZ
+- ZIP: 86303
+- ZIP extension: 
+- State project ID: TC-0486
+- Latitude: 34.541285
+- Longitude: -112.455347
+- County FIPS: 04025
+- County from: 2020
+- Tract 2020: 04025000802
+- Tract 2010: 04025000802
+- Tract 2000: 04025000802
+- Tract 1990: 04025000700
+- Place 2020: 57380
+- Place 2010: 57380
+- Place 2000: 57380
+- Place 1990: 0078
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

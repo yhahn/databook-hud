@@ -1,0 +1,85 @@
+# Project: ISLAND GARDENS APTS (CAA20000755)
+
+- HUD ID: CAA20000755
+- HUD ID before: 
+- Project: ISLAND GARDENS APTS
+- Address: 3545 ISLAND AVE
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92102
+- ZIP extension: 
+- State project ID: CA-00-853
+- Latitude: 32.710339
+- Longitude: -117.117413
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073003501
+- Tract 2010: 06073003501
+- Tract 2000: 06073003501
+- Tract 1990: 06073003500
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 282847
+- Units: 122
+- Low-income units: 122
+- Units reported: 122
+- Low-income reported: 122
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 109
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ISLAND GARDEN APTS.
+- Record status: Existing, unchanged

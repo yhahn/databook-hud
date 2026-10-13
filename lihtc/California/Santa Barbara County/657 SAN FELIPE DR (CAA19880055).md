@@ -1,0 +1,85 @@
+# Project: 657 SAN FELIPE DR (CAA19880055)
+
+- HUD ID: CAA19880055
+- HUD ID before: 
+- Project: 657 SAN FELIPE DR
+- Address: 657 SAN FELIPE DR
+- City: SANTA BARBARA
+- State: CA
+- ZIP: 93111
+- ZIP extension: 
+- State project ID: CA-88-170
+- Latitude: 34.429758
+- Longitude: -119.804971
+- County FIPS: 06083
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06083003004
+- Tract 2000: 06083003004
+- Tract 1990: 06083003004
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 30378
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 2693
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0000190.
+- Record status: Existing, unchanged

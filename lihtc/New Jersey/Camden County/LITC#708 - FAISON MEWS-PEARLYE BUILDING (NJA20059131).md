@@ -1,0 +1,85 @@
+# Project: LITC#708 - FAISON MEWS/PEARLYE BUILDING (NJA20059131)
+
+- HUD ID: NJA20059131
+- HUD ID before: 
+- Project: LITC#708 - FAISON MEWS/PEARLYE BUILDING
+- Address: 1655 PARK BLVD
+- City: CAMDEN
+- State: NJ
+- ZIP: 08103
+- ZIP extension: 2855
+- State project ID: 02295-1
+- Latitude: 39.935338
+- Longitude: -75.099347
+- County FIPS: 34007
+- County from: 2020
+- Tract 2020: 34007601400
+- Tract 2010: 34007601400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 10000
+- Place 2010: 10000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

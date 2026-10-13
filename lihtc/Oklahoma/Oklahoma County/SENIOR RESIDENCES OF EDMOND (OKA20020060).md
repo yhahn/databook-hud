@@ -1,0 +1,85 @@
+# Project: SENIOR RESIDENCES OF EDMOND (OKA20020060)
+
+- HUD ID: OKA20020060
+- HUD ID before: 
+- Project: SENIOR RESIDENCES OF EDMOND
+- Address: 1335 E AYERS ST
+- City: EDMOND
+- State: OK
+- ZIP: 73034
+- ZIP extension: 
+- State project ID: 000202
+- Latitude: 35.65881
+- Longitude: -97.463294
+- County FIPS: 40109
+- County from: 2020
+- Tract 2020: 40109108208
+- Tract 2010: 40109108208
+- Tract 2000: 40109108208
+- Tract 1990: 40109108208
+- Place 2020: 23200
+- Place 2010: 23200
+- Place 2000: 23200
+- Place 1990: 0755
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

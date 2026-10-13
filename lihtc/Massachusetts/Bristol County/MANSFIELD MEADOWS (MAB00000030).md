@@ -1,0 +1,85 @@
+# Project: MANSFIELD MEADOWS (MAB00000030)
+
+- HUD ID: MAB00000030
+- HUD ID before: 
+- Project: MANSFIELD MEADOWS
+- Address: 12 BONNEY LN
+- City: MANSFIELD
+- State: MA
+- ZIP: 02048
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.031395
+- Longitude: -71.181577
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005610204
+- Tract 2010: 25005610204
+- Tract 2000: 25005610201
+- Tract 1990: 25005610200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 38230
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 136
+- Low-income units: 43
+- Units reported: 136
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

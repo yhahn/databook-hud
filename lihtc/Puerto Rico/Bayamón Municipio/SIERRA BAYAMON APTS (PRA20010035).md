@@ -1,0 +1,85 @@
+# Project: SIERRA BAYAMON APTS (PRA20010035)
+
+- HUD ID: PRA20010035
+- HUD ID before: 
+- Project: SIERRA BAYAMON APTS
+- Address: BLDG B 1
+- City: BAYAMON
+- State: PR
+- ZIP: 
+- ZIP extension: 
+- State project ID: 99-022
+- Latitude: 
+- Longitude: 
+- County FIPS: 72021
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 1612915
+- Units: 262
+- Low-income units: 262
+- Units reported: 262
+- Low-income reported: 262
+- Efficiencies: 8
+- 1-bedroom units: 66
+- 2-bedroom units: 66
+- 3-bedroom units: 94
+- 4-bedroom units: 28
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

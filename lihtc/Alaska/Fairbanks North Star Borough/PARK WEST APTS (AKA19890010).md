@@ -1,0 +1,85 @@
+# Project: PARK WEST APTS (AKA19890010)
+
+- HUD ID: AKA19890010
+- HUD ID before: 
+- Project: PARK WEST APTS
+- Address: 2012 SANDVIK ST
+- City: FAIRBANKS
+- State: AK
+- ZIP: 99709
+- ZIP extension: 
+- State project ID: AK-89-00001
+- Latitude: 64.851646
+- Longitude: -147.803418
+- County FIPS: 02090
+- County from: 2020
+- Tract 2020: 02090000600
+- Tract 2010: 02090000600
+- Tract 2000: 02090000600
+- Tract 1990: 02090000600
+- Place 2020: 16750
+- Place 2010: 16750
+- Place 2000: 16750
+- Place 1990: 1080
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 83
+- Low-income units: 81
+- Units reported: 83
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 42
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Existing
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

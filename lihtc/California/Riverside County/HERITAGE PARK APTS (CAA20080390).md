@@ -1,0 +1,85 @@
+# Project: HERITAGE PARK APTS (CAA20080390)
+
+- HUD ID: CAA20080390
+- HUD ID before: 
+- Project: HERITAGE PARK APTS
+- Address: 2665 CLARK AVE
+- City: NORCO
+- State: CA
+- ZIP: 92860
+- ZIP extension: 
+- State project ID: CA-07-844
+- Latitude: 33.920525
+- Longitude: -117.561156
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065040812
+- Tract 2010: 06065040812
+- Tract 2000: 06065040803
+- Tract 1990: 06065040803
+- Place 2020: 51560
+- Place 2010: 51560
+- Place 2000: 51560
+- Place 1990: 1919
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 408291
+- Units: 86
+- Low-income units: 85
+- Units reported: 86
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

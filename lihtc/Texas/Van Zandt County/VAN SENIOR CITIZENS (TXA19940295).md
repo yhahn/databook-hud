@@ -1,0 +1,85 @@
+# Project: VAN SENIOR CITIZENS (TXA19940295)
+
+- HUD ID: TXA19940295
+- HUD ID before: 
+- Project: VAN SENIOR CITIZENS
+- Address: 805 E PENNSYLVANIA AVE
+- City: VAN
+- State: TX
+- ZIP: 75790
+- ZIP extension: 
+- State project ID: TX-92-181
+- Latitude: 32.529398
+- Longitude: -95.624735
+- County FIPS: 48467
+- County from: 2020
+- Tract 2020: 48467950801
+- Tract 2010: 48467950800
+- Tract 2000: 48467950800
+- Tract 1990: 48467950800
+- Place 2020: 74912
+- Place 2010: 74912
+- Place 2000: 74912
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 
+- Low-income reported: 28
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

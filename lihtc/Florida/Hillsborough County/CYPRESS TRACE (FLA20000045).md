@@ -1,0 +1,85 @@
+# Project: CYPRESS TRACE (FLA20000045)
+
+- HUD ID: FLA20000045
+- HUD ID before: 
+- Project: CYPRESS TRACE
+- Address: 741 PROVIDENCE TRACE CIR
+- City: BRANDON
+- State: FL
+- ZIP: 33511
+- ZIP extension: 
+- State project ID: 225
+- Latitude: 27.901142
+- Longitude: -82.294924
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057013322
+- Tract 2010: 12057013322
+- Tract 2000: 12057013309
+- Tract 1990: 12057013301
+- Place 2020: 08150
+- Place 2010: 08150
+- Place 2000: 08150
+- Place 1990: 0225
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 348
+- Low-income units: 348
+- Units reported: 348
+- Low-income reported: 348
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 144
+- 3-bedroom units: 144
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

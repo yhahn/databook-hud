@@ -1,0 +1,85 @@
+# Project: MOUNTAIN LAUREL GARDENS (NYA20060120)
+
+- HUD ID: NYA20060120
+- HUD ID before: 
+- Project: MOUNTAIN LAUREL GARDENS
+- Address: 100 LAMPHERE LN
+- City: ARKVILLE
+- State: NY
+- ZIP: 12406
+- ZIP extension: 
+- State project ID: 20040469
+- Latitude: 42.155131
+- Longitude: -74.620747
+- County FIPS: 36025
+- County from: 2020
+- Tract 2020: 36025971200
+- Tract 2010: 36025971200
+- Tract 2000: 36025991200
+- Tract 1990: 36025991200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 26209
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 355809
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 8
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

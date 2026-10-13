@@ -1,0 +1,85 @@
+# Project: PLEASANT SPRINGS APTS (ALA19960187)
+
+- HUD ID: ALA19960187
+- HUD ID before: 
+- Project: PLEASANT SPRINGS APTS
+- Address: 100 PLEASANT SPRINGS DR
+- City: TUSKEGEE
+- State: AL
+- ZIP: 
+- ZIP extension: 
+- State project ID: AL-96-0058
+- Latitude: 32.404724
+- Longitude: -85.731713
+- County FIPS: 01087
+- County from: 2020
+- Tract 2020: 01087232100
+- Tract 2010: 01087232100
+- Tract 2000: 01087982100
+- Tract 1990: 01087982100
+- Place 2020: 77304
+- Place 2010: 99999
+- Place 2000: 77304
+- Place 1990: 1730
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 274950
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 20
+- 3-bedroom units: 20
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 52
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1375000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1998090.
+- Record status: Existing, unchanged

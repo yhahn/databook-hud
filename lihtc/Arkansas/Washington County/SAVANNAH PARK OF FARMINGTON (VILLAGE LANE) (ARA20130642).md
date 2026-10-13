@@ -1,0 +1,85 @@
+# Project: SAVANNAH PARK OF FARMINGTON (VILLAGE LANE) (ARA20130642)
+
+- HUD ID: ARA20130642
+- HUD ID before: 
+- Project: SAVANNAH PARK OF FARMINGTON (VILLAGE LANE)
+- Address: 102 OLD DEPOT RD
+- City: FARMINGTON
+- State: AR
+- ZIP: 72730
+- ZIP extension: 
+- State project ID: AR-92-19
+- Latitude: 36.039825
+- Longitude: -94.245266
+- County FIPS: 05143
+- County from: 2020
+- Tract 2020: 05143011006
+- Tract 2010: 05143011001
+- Tract 2000: 05143011001
+- Tract 1990: 05143011001
+- Place 2020: 23170
+- Place 2010: 23170
+- Place 2000: 23170
+- Place 1990: 1675
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 326570
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1993085. FKA VILLAGE LANE
+- Record status: Existing, unchanged

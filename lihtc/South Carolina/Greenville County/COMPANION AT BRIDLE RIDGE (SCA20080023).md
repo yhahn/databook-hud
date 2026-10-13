@@ -1,0 +1,85 @@
+# Project: COMPANION AT BRIDLE RIDGE (SCA20080023)
+
+- HUD ID: SCA20080023
+- HUD ID before: 
+- Project: COMPANION AT BRIDLE RIDGE
+- Address: 310 CHANDLER RD
+- City: GREER
+- State: SC
+- ZIP: 29651
+- ZIP extension: 
+- State project ID: SC-50-721
+- Latitude: 34.955682
+- Longitude: -82.237772
+- County FIPS: 45045
+- County from: 2020
+- Tract 2020: 45045002507
+- Tract 2010: 45045002507
+- Tract 2000: 45045002501
+- Tract 1990: 45045002501
+- Place 2020: 30985
+- Place 2010: 99999
+- Place 2000: 30985
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 410740
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 96
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

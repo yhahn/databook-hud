@@ -1,0 +1,85 @@
+# Project: HERITAGE APTS (WIA19980050)
+
+- HUD ID: WIA19980050
+- HUD ID before: 
+- Project: HERITAGE APTS
+- Address: 907 MADISON AVE
+- City: MARINETTE
+- State: WI
+- ZIP: 54143
+- ZIP extension: 
+- State project ID: 1976
+- Latitude: 45.096021
+- Longitude: -87.635506
+- County FIPS: 55075
+- County from: 2020
+- Tract 2020: 55075961400
+- Tract 2010: 55075961400
+- Tract 2000: 55075961400
+- Tract 1990: 55075961400
+- Place 2020: 49300
+- Place 2010: 49300
+- Place 2000: 49300
+- Place 1990: 1505
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 19
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

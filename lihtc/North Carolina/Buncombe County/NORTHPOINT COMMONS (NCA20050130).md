@@ -1,0 +1,85 @@
+# Project: NORTHPOINT COMMONS (NCA20050130)
+
+- HUD ID: NCA20050130
+- HUD ID before: 
+- Project: NORTHPOINT COMMONS
+- Address: 44 REYNOLDS MOUNTAIN BLVD STE 101
+- City: ASHEVILLE
+- State: NC
+- ZIP: 28804
+- ZIP extension: 1287
+- State project ID: 9001406
+- Latitude: 35.648758
+- Longitude: -82.574397
+- County FIPS: 37021
+- County from: 2020
+- Tract 2020: 37021001602
+- Tract 2010: 37021001600
+- Tract 2000: 37021001600
+- Tract 1990: 37021001600
+- Place 2020: 75280
+- Place 2010: 75280
+- Place 2000: 75280
+- Place 1990: 0095
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 259988
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 28
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1379400
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: WASHINGTON SCHOOL APARTMENTS (WIA20171023)
+
+- HUD ID: WIA20171023
+- HUD ID before: 
+- Project: WASHINGTON SCHOOL APARTMENTS
+- Address: 1238 GEELE AVE
+- City: SHEBOYGAN
+- State: WI
+- ZIP: 53083
+- ZIP extension: 
+- State project ID: 6193
+- Latitude: 43.768555
+- Longitude: -87.72119
+- County FIPS: 55117
+- County from: 2020
+- Tract 2020: 55117000202
+- Tract 2010: 55117000202
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 72975
+- Place 2010: 72975
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 453689
+- Units: 42
+- Low-income units: 34
+- Units reported: 42
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 26
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

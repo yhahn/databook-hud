@@ -1,0 +1,85 @@
+# Project: WILLOW TRACE APTS - JEFFERSONVILLE (INA20040040)
+
+- HUD ID: INA20040040
+- HUD ID before: 
+- Project: WILLOW TRACE APTS - JEFFERSONVILLE
+- Address: 2008 SPRING ST
+- City: JEFFERSONVILLE
+- State: IN
+- ZIP: 47130
+- ZIP extension: 
+- State project ID: IN-02-03000
+- Latitude: 38.29361
+- Longitude: -85.748215
+- County FIPS: 18019
+- County from: 2020
+- Tract 2020: 18019050200
+- Tract 2010: 18019050200
+- Tract 2000: 18019050200
+- Tract 1990: 18019050200
+- Place 2020: 38358
+- Place 2010: 38358
+- Place 2000: 12934
+- Place 1990: 1175
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 293531
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 1
+- 1-bedroom units: 13
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: KADDATZ ARTIST LOFTS LIMITED PARTNERSHIP (MNA20040090)
+
+- HUD ID: MNA20040090
+- HUD ID before: 
+- Project: KADDATZ ARTIST LOFTS LIMITED PARTNERSHIP
+- Address: 111 LINCOLN AVE W
+- City: FERGUS FALLS
+- State: MN
+- ZIP: 56537
+- ZIP extension: 
+- State project ID: D3163
+- Latitude: 46.283342
+- Longitude: -96.07432
+- County FIPS: 27111
+- County from: 2020
+- Tract 2020: 27111960900
+- Tract 2010: 27111960900
+- Tract 2000: 27111960900
+- Tract 1990: 27111960900
+- Place 2020: 20906
+- Place 2010: 20906
+- Place 2000: 20906
+- Place 1990: 1275
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 8
+- Units reported: 10
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA KADDATZ ARTISTS LOFTS.
+- Record status: Existing, unchanged

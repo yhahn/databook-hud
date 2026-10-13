@@ -1,0 +1,85 @@
+# Project: KAHULUI LANI I (HIA20201001)
+
+- HUD ID: HIA20201001
+- HUD ID before: 
+- Project: KAHULUI LANI I
+- Address: 65 SCHOOL ST
+- City: KAHULUI
+- State: HI
+- ZIP: 96732
+- ZIP extension: 
+- State project ID: HI-2017-005
+- Latitude: 20.887757
+- Longitude: -156.470844
+- County FIPS: 15009
+- County from: 2020
+- Tract 2020: 15009031900
+- Tract 2010: 15009031900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22700
+- Place 2010: 22700
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1240904
+- Units: 82
+- Low-income units: 81
+- Units reported: 82
+- Low-income reported: 81
+- Efficiencies: 
+- 1-bedroom units: 81
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

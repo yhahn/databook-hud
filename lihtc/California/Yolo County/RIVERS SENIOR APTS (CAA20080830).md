@@ -1,0 +1,85 @@
+# Project: RIVERS SENIOR APTS (CAA20080830)
+
+- HUD ID: CAA20080830
+- HUD ID before: 
+- Project: RIVERS SENIOR APTS
+- Address: 750 DOROTHY ADAMO LN
+- City: WEST SACRAMENTO
+- State: CA
+- ZIP: 95605
+- ZIP extension: 
+- State project ID: CA-07-806
+- Latitude: 38.595919
+- Longitude: -121.521227
+- County FIPS: 06113
+- County from: 2020
+- Tract 2020: 06113010104
+- Tract 2010: 06113010101
+- Tract 2000: 06113010101
+- Tract 1990: 06113010101
+- Place 2020: 84816
+- Place 2010: 84816
+- Place 2000: 84816
+- Place 1990: 3098
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 696491
+- Units: 120
+- Low-income units: 119
+- Units reported: 120
+- Low-income reported: 119
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 108
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1300000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

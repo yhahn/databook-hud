@@ -1,0 +1,85 @@
+# Project: THE HEIGHTS AT DARIEN (FKA ALLEN ONEILL HOMES) (CTA20132008)
+
+- HUD ID: CTA20132008
+- HUD ID before: 
+- Project: THE HEIGHTS AT DARIEN (FKA ALLEN ONEILL HOMES)
+- Address: ELM STREET, NOROTON AVENUE, WEST AVENUE
+- City: DARIEN
+- State: CT
+- ZIP: 06820
+- ZIP extension: 
+- State project ID: 12-003-T9
+- Latitude: 41.0819
+- Longitude: -73.5067
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001030500
+- Tract 2010: 09001030500
+- Tract 2000: 09001030500
+- Tract 1990: 
+- Place 2020: 53610
+- Place 2010: 18920
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 2470784
+- Units: 106
+- Low-income units: 102
+- Units reported: 106
+- Low-income reported: 102
+- Efficiencies: 
+- 1-bedroom units: 34
+- 2-bedroom units: 54
+- 3-bedroom units: 13
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 4292470
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

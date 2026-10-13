@@ -1,0 +1,85 @@
+# Project: ROSEWOOD VILLAS APT HOMES (CAA20070480)
+
+- HUD ID: CAA20070480
+- HUD ID before: 
+- Project: ROSEWOOD VILLAS APT HOMES
+- Address: 40606 RD 128
+- City: CUTLER
+- State: CA
+- ZIP: 93615
+- ZIP extension: 
+- State project ID: CA-05-022
+- Latitude: 36.528535
+- Longitude: -119.286651
+- County FIPS: 06107
+- County from: 2020
+- Tract 2020: 06107000600
+- Tract 2010: 06107000600
+- Tract 2000: 06107000600
+- Tract 1990: 06107000600
+- Place 2020: 17708
+- Place 2010: 17708
+- Place 2000: 17708
+- Place 1990: 0675
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 928513
+- Units: 61
+- Low-income units: 60
+- Units reported: 61
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 33
+- 4-bedroom units: 28
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

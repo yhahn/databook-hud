@@ -1,0 +1,85 @@
+# Project: COUNTING HOUSE LOFTS (MAB20130008)
+
+- HUD ID: MAB20130008
+- HUD ID before: 
+- Project: COUNTING HOUSE LOFTS
+- Address: 109 JACKSON ST
+- City: LOWELL
+- State: MA
+- ZIP: 01852
+- ZIP extension: 
+- State project ID: 2771
+- Latitude: 42.642234
+- Longitude: -71.310522
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017310101
+- Tract 2010: 25017310100
+- Tract 2000: 25017310100
+- Tract 1990: 25017310100
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 2180
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA 165 JACKSON. FKA HAMILTON;
+- Record status: Existing, unchanged

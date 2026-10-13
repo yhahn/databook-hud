@@ -1,0 +1,85 @@
+# Project: SILVER PINES APTS (NVA20030035)
+
+- HUD ID: NVA20030035
+- HUD ID before: 
+- Project: SILVER PINES APTS
+- Address: 6650 E RUSSELL RD
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89122
+- ZIP extension: 
+- State project ID: NV-04-56
+- Latitude: 36.085752
+- Longitude: -115.027236
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003005017
+- Tract 2010: 32003005017
+- Tract 2000: 32003005009
+- Tract 1990: 32003005001
+- Place 2020: 83800
+- Place 2010: 83800
+- Place 2000: 83800
+- Place 1990: 0110
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 198
+- Low-income units: 198
+- Units reported: 198
+- Low-income reported: 198
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 106
+- 3-bedroom units: 46
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

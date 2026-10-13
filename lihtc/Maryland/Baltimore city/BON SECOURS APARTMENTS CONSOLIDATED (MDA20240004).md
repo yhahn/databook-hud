@@ -1,0 +1,85 @@
+# Project: BON SECOURS APARTMENTS CONSOLIDATED (MDA20240004)
+
+- HUD ID: MDA20240004
+- HUD ID before: 
+- Project: BON SECOURS APARTMENTS CONSOLIDATED
+- Address: 1801 THRU 2138 W. BALTIMORE STREET
+- City: BALTIMORE CITY
+- State: MD
+- ZIP: 21223
+- ZIP extension: 
+- State project ID: MD-18-25001-53
+- Latitude: 39.2838
+- Longitude: -76.6443
+- County FIPS: 24510
+- County from: 2020
+- Tract 2020: 24510190300
+- Tract 2010: 24510190300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 512241
+- Units: 117
+- Low-income units: 117
+- Units reported: 117
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 9
+- 2-bedroom units: 45
+- 3-bedroom units: 60
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

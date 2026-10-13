@@ -1,0 +1,85 @@
+# Project: CHELSEA GREENE (WVA20140005)
+
+- HUD ID: WVA20140005
+- HUD ID before: 
+- Project: CHELSEA GREENE
+- Address: 28 ROOSEVELT ST
+- City: SHINNSTON
+- State: WV
+- ZIP: 26431
+- ZIP extension: 
+- State project ID: WV-12-380
+- Latitude: 39.399092
+- Longitude: -80.285179
+- County FIPS: 54033
+- County from: 2020
+- Tract 2020: 54033031900
+- Tract 2010: 54033031900
+- Tract 2000: 54033031900
+- Tract 1990: 54033031900
+- Place 2020: 73636
+- Place 2010: 73636
+- Place 2000: 25516
+- Place 1990: 1450
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 413336
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

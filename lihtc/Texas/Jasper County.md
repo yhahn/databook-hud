@@ -1,0 +1,24 @@
+# Tax Credit Projects: Jasper County, TX
+
+- Level: County
+- Postal code: TX
+- State FIPS: 48
+- County FIPS: 48241
+- Counties: 
+- Projects: 7
+- Units: 254
+- Low-income units: 254
+
+The low-income housing tax credit projects of Jasper County, Texas, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [PROSPECT POINT (TXA00000463)](./Jasper%20County/PROSPECT%20POINT%20%28TXA00000463%29.md) | TXA00000463 | JASPER |  | 67 | 67 |
+| [SWEETBRIAR HILLS I APTS (TXA00000555)](./Jasper%20County/SWEETBRIAR%20HILLS%20I%20APTS%20%28TXA00000555%29.md) | TXA00000555 | JASPER |  | 32 | 32 |
+| [JASPER MANOR (TXA19930080)](./Jasper%20County/JASPER%20MANOR%20%28TXA19930080%29.md) | TXA19930080 | JASPER | 1993 | 36 | 36 |
+| [KIRBYVILLE PINE SHADOW APTS (TXA19950200)](./Jasper%20County/KIRBYVILLE%20PINE%20SHADOW%20APTS%20%28TXA19950200%29.md) | TXA19950200 | KIRBYVILLE | 1995 | 36 | 36 |
+| [WALNUT TURN APTS (TXA19960215)](./Jasper%20County/WALNUT%20TURN%20APTS%20%28TXA19960215%29.md) | TXA19960215 | BUNA | 1996 | 23 | 23 |
+| [SWEETBRIAR HILLS HOUSING I (TXA20010195)](./Jasper%20County/SWEETBRIAR%20HILLS%20HOUSING%20I%20%28TXA20010195%29.md) | TXA20010195 | JASPER | 2001 | 32 | 32 |
+| [SWEETBRIAR HILLS HOUSING II (TXA20010200)](./Jasper%20County/SWEETBRIAR%20HILLS%20HOUSING%20II%20%28TXA20010200%29.md) | TXA20010200 | JASPER | 2001 | 28 | 28 |

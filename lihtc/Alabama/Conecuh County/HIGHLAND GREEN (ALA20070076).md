@@ -1,0 +1,85 @@
+# Project: HIGHLAND GREEN (ALA20070076)
+
+- HUD ID: ALA20070076
+- HUD ID before: 
+- Project: HIGHLAND GREEN
+- Address: 50 PREYER ST
+- City: EVERGREEN
+- State: AL
+- ZIP: 36401
+- ZIP extension: 
+- State project ID: AL-07-0019
+- Latitude: 31.421603
+- Longitude: -86.961693
+- County FIPS: 01035
+- County from: 2020
+- Tract 2020: 01035960600
+- Tract 2010: 01035960600
+- Tract 2000: 01035960600
+- Tract 1990: 01035960600
+- Place 2020: 24808
+- Place 2010: 24808
+- Place 2000: 24808
+- Place 1990: 0575
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 416525
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1305410
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2008147, ALA2008527. AKA APARTMENTS HOUSING OF EVERGREEN.
+- Record status: Existing, unchanged

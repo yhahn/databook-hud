@@ -1,0 +1,85 @@
+# Project: LINCOLN MANOR APTS (OKA19930065)
+
+- HUD ID: OKA19930065
+- HUD ID before: 
+- Project: LINCOLN MANOR APTS
+- Address: 1205 SPRINGFIELD DR
+- City: ALTUS
+- State: OK
+- ZIP: 73521
+- ZIP extension: 
+- State project ID: OK-93-10-0020
+- Latitude: 34.628532
+- Longitude: -99.348084
+- County FIPS: 40065
+- County from: 2020
+- Tract 2020: 40065968700
+- Tract 2010: 40065968700
+- Tract 2000: 40065968700
+- Tract 1990: 40065968700
+- Place 2020: 01700
+- Place 2010: 01700
+- Place 2000: 01700
+- Place 1990: 0060
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

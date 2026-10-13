@@ -1,0 +1,85 @@
+# Project: FLAGLER VILLAGE (FLA20110060)
+
+- HUD ID: FLA20110060
+- HUD ID before: 
+- Project: FLAGLER VILLAGE
+- Address: 5300 MACDONALD AVE
+- City: KEY WEST
+- State: FL
+- ZIP: 33040
+- ZIP extension: 
+- State project ID: 2459
+- Latitude: 24.57264
+- Longitude: -81.741961
+- County FIPS: 12087
+- County from: 2020
+- Tract 2020: 12087971800
+- Tract 2010: 12087971800
+- Tract 2000: 12087971800
+- Tract 1990: 12087971800
+- Place 2020: 68800
+- Place 2010: 68800
+- Place 2000: 36550
+- Place 1990: 2032
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1225000
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 26
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2450000
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011549.
+- Record status: Existing, unchanged

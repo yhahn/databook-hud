@@ -1,0 +1,85 @@
+# Project: PINE OAK (MIA20040215)
+
+- HUD ID: MIA20040215
+- HUD ID before: 
+- Project: PINE OAK
+- Address: 850 36TH ST SW
+- City: WYOMING
+- State: MI
+- ZIP: 49509
+- ZIP extension: 
+- State project ID: MI-246
+- Latitude: 42.898611
+- Longitude: -85.686678
+- County FIPS: 26081
+- County from: 2020
+- Tract 2020: 26081014000
+- Tract 2010: 26081014000
+- Tract 2000: 26081014000
+- Tract 1990: 26081014000
+- Place 2020: 88940
+- Place 2010: 88940
+- Place 2000: 88940
+- Place 1990: 2925
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 127
+- Low-income units: 126
+- Units reported: 127
+- Low-income reported: 126
+- Efficiencies: 0
+- 1-bedroom units: 127
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 698157
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WYOMING PINE OAK.
+- Record status: Existing, unchanged

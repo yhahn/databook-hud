@@ -1,0 +1,85 @@
+# Project: BRADFORD POINTE - LITC #565 (NJA20009922)
+
+- HUD ID: NJA20009922
+- HUD ID before: 
+- Project: BRADFORD POINTE - LITC #565
+- Address: 1 BRADFORD PLACE
+- City: BORDENTOWN TOWNSHIP
+- State: NJ
+- ZIP: 08505
+- ZIP extension: 0000
+- State project ID: NJ-99-99
+- Latitude: 40.133
+- Longitude: -74.721
+- County FIPS: 34005
+- County from: 2020
+- Tract 2020: 34005704202
+- Tract 2010: 34005704200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23250
+- Place 2010: 23250
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 84
+- 3-bedroom units: 84
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

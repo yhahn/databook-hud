@@ -1,0 +1,85 @@
+# Project: CAMBRIDGE PARK (MDA20030005)
+
+- HUD ID: MDA20030005
+- HUD ID before: 
+- Project: CAMBRIDGE PARK
+- Address: 500 GREENWOOD AVE
+- City: CAMBRIDGE
+- State: MD
+- ZIP: 21613
+- ZIP extension: 
+- State project ID: MD01-17001
+- Latitude: 38.571911
+- Longitude: -76.086048
+- County FIPS: 24019
+- County from: 2020
+- Tract 2020: 24019970500
+- Tract 2010: 24019970500
+- Tract 2000: 24019970500
+- Tract 1990: 24019970500
+- Place 2020: 12400
+- Place 2010: 12400
+- Place 2000: 00712
+- Place 1990: 0120
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 48
+- 3-bedroom units: 75
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BAY COUNTRY APTS.
+- Record status: Existing, unchanged

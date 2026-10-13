@@ -1,0 +1,85 @@
+# Project: FOREST RIDGE APTS (OHA19980105)
+
+- HUD ID: OHA19980105
+- HUD ID before: 
+- Project: FOREST RIDGE APTS
+- Address: 4818 HAWAIIAN TER
+- City: CINCINNATI
+- State: OH
+- ZIP: 45223
+- ZIP extension: 
+- State project ID: 960130
+- Latitude: 39.183769
+- Longitude: -84.56058
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061008501
+- Tract 2010: 39061008501
+- Tract 2000: 39061008501
+- Tract 1990: 39061008501
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 485196
+- Units: 324
+- Low-income units: 321
+- Units reported: 324
+- Low-income reported: 321
+- Efficiencies: 0
+- 1-bedroom units: 57
+- 2-bedroom units: 58
+- 3-bedroom units: 209
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

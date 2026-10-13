@@ -1,0 +1,85 @@
+# Project: WESTCHESTER VILLAGE OF OAK (MOA19930325)
+
+- HUD ID: MOA19930325
+- HUD ID before: 
+- Project: WESTCHESTER VILLAGE OF OAK
+- Address: 408 SE SEVENTH ST
+- City: OAK GROVE
+- State: MO
+- ZIP: 64075
+- ZIP extension: 
+- State project ID: 91-020
+- Latitude: 39.009849
+- Longitude: -94.125893
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095014004
+- Tract 2010: 29095014004
+- Tract 2000: 29095014003
+- Tract 1990: 29095014000
+- Place 2020: 53624
+- Place 2010: 53624
+- Place 2000: 53624
+- Place 1990: 3160
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 11
+- 4-bedroom units: 22
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

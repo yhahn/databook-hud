@@ -1,0 +1,85 @@
+# Project: CHRISTENSON RD PORTFOLIO PHASE I (AKA20090005)
+
+- HUD ID: AKA20090005
+- HUD ID before: 
+- Project: CHRISTENSON RD PORTFOLIO PHASE I
+- Address: 2610 MILL BAY RD
+- City: KODIAK
+- State: AK
+- ZIP: 99615
+- ZIP extension: 
+- State project ID: AK-09-00010
+- Latitude: 57.808952
+- Longitude: -152.365618
+- County FIPS: 02150
+- County from: 2020
+- Tract 2020: 02150000200
+- Tract 2010: 02150000200
+- Tract 2000: 02150000200
+- Tract 1990: 02150962200
+- Place 2020: 40950
+- Place 2010: 40950
+- Place 2000: 40950
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1160172
+- Units: 128
+- Low-income units: 126
+- Units reported: 128
+- Low-income reported: 126
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 86
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1391654
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

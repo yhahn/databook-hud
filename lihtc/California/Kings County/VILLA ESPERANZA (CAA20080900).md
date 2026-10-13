@@ -1,0 +1,85 @@
+# Project: VILLA ESPERANZA (CAA20080900)
+
+- HUD ID: CAA20080900
+- HUD ID before: 
+- Project: VILLA ESPERANZA
+- Address: 500 E ALPINE ST
+- City: AVENAL
+- State: CA
+- ZIP: 93204
+- ZIP extension: 
+- State project ID: CA-06-031
+- Latitude: 36.012611
+- Longitude: -120.130427
+- County FIPS: 06031
+- County from: 2020
+- Tract 2020: 06031001702
+- Tract 2010: 06031001701
+- Tract 2000: 06031001701
+- Tract 1990: 06031001700
+- Place 2020: 03302
+- Place 2010: 03302
+- Place 2000: 03302
+- Place 1990: 0170
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1075304
+- Units: 81
+- Low-income units: 80
+- Units reported: 81
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 25
+- 3-bedroom units: 40
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 56
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

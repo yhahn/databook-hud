@@ -1,0 +1,85 @@
+# Project: PLAINVIEW ESTATES (MOA20030130)
+
+- HUD ID: MOA20030130
+- HUD ID before: 
+- Project: PLAINVIEW ESTATES
+- Address: 2700 BURKE AVE
+- City: WEST PLAINS
+- State: MO
+- ZIP: 65775
+- ZIP extension: 
+- State project ID: 02-038
+- Latitude: 36.754913
+- Longitude: -91.888223
+- County FIPS: 29091
+- County from: 2020
+- Tract 2020: 29091090802
+- Tract 2010: 29091090800
+- Tract 2000: 29091990800
+- Tract 1990: 29091990800
+- Place 2020: 78928
+- Place 2010: 78928
+- Place 2000: 78928
+- Place 1990: 4560
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIVERWEST HOUSING PHASE I (ILA19990135)
+
+- HUD ID: ILA19990135
+- HUD ID before: 
+- Project: RIVERWEST HOUSING PHASE I
+- Address: 421 N WINNEBAGO ST
+- City: ROCKFORD
+- State: IL
+- ZIP: 61103
+- ZIP extension: 
+- State project ID: 113998
+- Latitude: 42.276117
+- Longitude: -89.095686
+- County FIPS: 17201
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17201002600
+- Tract 2000: 17201002600
+- Tract 1990: 17201002600
+- Place 2020: 
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 4965
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 256508
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 3
+- 1-bedroom units: 20
+- 2-bedroom units: 7
+- 3-bedroom units: 13
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1999060.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LAGO VISTA APTS (TXA19950210)
+
+- HUD ID: TXA19950210
+- HUD ID before: 
+- Project: LAGO VISTA APTS
+- Address: 6501 SHADY OAKS MANOR DR
+- City: FORT WORTH
+- State: TX
+- ZIP: 76135
+- ZIP extension: 
+- State project ID: TX-93-071
+- Latitude: 32.80159
+- Longitude: -97.425414
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439106600
+- Tract 2010: 48439106600
+- Tract 2000: 48439106600
+- Tract 1990: 48439106600
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1500
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 260
+- Low-income units: 260
+- Units reported: 260
+- Low-income reported: 260
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 136
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: INN AT WOODBRIDGE (CAA19960230)
+
+- HUD ID: CAA19960230
+- HUD ID before: 
+- Project: INN AT WOODBRIDGE
+- Address: 3 OSBORN ST
+- City: IRVINE
+- State: CA
+- ZIP: 92604
+- ZIP extension: 
+- State project ID: CA-93-167
+- Latitude: 33.675237
+- Longitude: -117.791509
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059052513
+- Tract 2010: 06059052513
+- Tract 2000: 06059052513
+- Tract 1990: 06059052513
+- Place 2020: 36770
+- Place 2010: 36770
+- Place 2000: 36770
+- Place 1990: 1347
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 807322
+- Units: 116
+- Low-income units: 116
+- Units reported: 116
+- Low-income reported: 116
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

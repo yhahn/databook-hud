@@ -1,0 +1,85 @@
+# Project: AK-CHIN HOMES I (AZA20040010)
+
+- HUD ID: AZA20040010
+- HUD ID before: 
+- Project: AK-CHIN HOMES I
+- Address: 42507 W PETERS & NALL RD
+- City: MARICOPA
+- State: AZ
+- ZIP: 85138
+- ZIP extension: 
+- State project ID: TC-0229
+- Latitude: 32.999892
+- Longitude: -112.023199
+- County FIPS: 04021
+- County from: 2020
+- Tract 2020: 04021941402
+- Tract 2010: 04021941400
+- Tract 2000: 04021001700
+- Tract 1990: 04021001700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 01090
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 13
+- 3-bedroom units: 16
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: NATIVE AMERICANS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

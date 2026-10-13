@@ -1,0 +1,85 @@
+# Project: COURTS OF COLFAX (INA19930040)
+
+- HUD ID: INA19930040
+- HUD ID before: 
+- Project: COURTS OF COLFAX
+- Address: 600 N COLFAX ST
+- City: WARSAW
+- State: IN
+- ZIP: 46580
+- ZIP extension: 
+- State project ID: IN-92-02301
+- Latitude: 41.242218
+- Longitude: -85.834597
+- County FIPS: 18085
+- County from: 2020
+- Tract 2020: 18085962000
+- Tract 2010: 18085962000
+- Tract 2000: 18085962000
+- Tract 1990: 18085962000
+- Place 2020: 80306
+- Place 2010: 80306
+- Place 2000: 80306
+- Place 1990: 2650
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 256166
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 78
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

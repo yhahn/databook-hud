@@ -1,0 +1,85 @@
+# Project: LAMPLIGHTER MANOR OF BRAZIL (INA19910027)
+
+- HUD ID: INA19910027
+- HUD ID before: 
+- Project: LAMPLIGHTER MANOR OF BRAZIL
+- Address: 558 E MAPLE ST
+- City: BRAZIL
+- State: IN
+- ZIP: 47834
+- ZIP extension: 
+- State project ID: IN-89-10701
+- Latitude: 39.519341
+- Longitude: -87.118743
+- County FIPS: 18021
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18021040200
+- Tract 2000: 18021040200
+- Tract 1990: 18021040200
+- Place 2020: 
+- Place 2010: 07174
+- Place 2000: 07174
+- Place 1990: 0240
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001160.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MEMORIAL PARK APARTMENTS II (MNA19989008)
+
+- HUD ID: MNA19989008
+- HUD ID before: 
+- Project: MEMORIAL PARK APARTMENTS II
+- Address: 605 CENTRAL AVE N
+- City: DULUTH
+- State: MN
+- ZIP: 55807
+- ZIP extension: 
+- State project ID: D0447
+- Latitude: 46.741613
+- Longitude: -92.166694
+- County FIPS: 27137
+- County from: 2020
+- Tract 2020: 27137003300
+- Tract 2010: 27137003300
+- Tract 2000: 27137003300
+- Tract 1990: 27137003300
+- Place 2020: 17000
+- Place 2010: 17000
+- Place 2000: 17000
+- Place 1990: 1040
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 5
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

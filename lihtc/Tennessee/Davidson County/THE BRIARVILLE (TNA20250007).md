@@ -1,0 +1,85 @@
+# Project: THE BRIARVILLE (TNA20250007)
+
+- HUD ID: TNA20250007
+- HUD ID before: 
+- Project: THE BRIARVILLE
+- Address: 600 CREATIVE WAY
+- City: NASHVILLE
+- State: TN
+- ZIP: 37115
+- ZIP extension: 
+- State project ID: TN-20-210
+- Latitude: 36.271
+- Longitude: -86.6963
+- County FIPS: 47037
+- County from: 2020
+- Tract 2020: 47037010802
+- Tract 2010: 47037010402
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 52006
+- Place 2010: 52006
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2025
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 12568161
+- Units: 184
+- Low-income units: 184
+- Units reported: 184
+- Low-income reported: 184
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 92
+- 3-bedroom units: 92
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

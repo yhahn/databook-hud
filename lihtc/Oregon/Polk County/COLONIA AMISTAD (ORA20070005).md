@@ -1,0 +1,85 @@
+# Project: COLONIA AMISTAD (ORA20070005)
+
+- HUD ID: ORA20070005
+- HUD ID before: 
+- Project: COLONIA AMISTAD
+- Address: 30 S GUN CLUB RD
+- City: INDEPENDENCE
+- State: OR
+- ZIP: 97351
+- ZIP extension: 
+- State project ID: 542A
+- Latitude: 44.8547
+- Longitude: -123.206345
+- County FIPS: 41053
+- County from: 2020
+- Tract 2020: 41053020305
+- Tract 2010: 41053020302
+- Tract 2000: 41053020302
+- Tract 1990: 41053020302
+- Place 2020: 36150
+- Place 2010: 36150
+- Place 2000: 36150
+- Place 1990: 0560
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 429747
+- Units: 38
+- Low-income units: 37
+- Units reported: 38
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 19
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 37
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 675000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

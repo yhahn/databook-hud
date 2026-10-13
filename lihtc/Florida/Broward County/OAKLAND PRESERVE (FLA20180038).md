@@ -1,0 +1,85 @@
+# Project: OAKLAND PRESERVE (FLA20180038)
+
+- HUD ID: FLA20180038
+- HUD ID before: 
+- Project: OAKLAND PRESERVE
+- Address: 3700 OAKLAND PRESERVE WAY
+- City: OAKLAND PARK
+- State: FL
+- ZIP: 33334
+- ZIP extension: 
+- State project ID: 2659
+- Latitude: 26.1702
+- Longitude: -80.1425
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011050702
+- Tract 2010: 12011050702
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50575
+- Place 2010: 50575
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1435000
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 48
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 80
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

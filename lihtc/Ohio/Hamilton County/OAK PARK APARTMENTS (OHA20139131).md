@@ -1,0 +1,85 @@
+# Project: OAK PARK APARTMENTS (OHA20139131)
+
+- HUD ID: OHA20139131
+- HUD ID before: 
+- Project: OAK PARK APARTMENTS
+- Address: 1411 WABASH AVENUE
+- City: LINCOLN HEIGHTS
+- State: OH
+- ZIP: 45215
+- ZIP extension: 
+- State project ID: 120055
+- Latitude: 39.248795
+- Longitude: -84.45127
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061022700
+- Tract 2010: 39061022700
+- Tract 2000: 39061022700
+- Tract 1990: 39061022700
+- Place 2020: 43722
+- Place 2010: 43722
+- Place 2000: 43722
+- Place 1990: 2225
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA0000084.
+- Record status: Existing, unchanged

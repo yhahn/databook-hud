@@ -1,0 +1,85 @@
+# Project: PHEASANT RUN APTS (IAA19970080)
+
+- HUD ID: IAA19970080
+- HUD ID before: 
+- Project: PHEASANT RUN APTS
+- Address: 1303 14TH ST
+- City: DE WITT
+- State: IA
+- ZIP: 52742
+- ZIP extension: 
+- State project ID: 96-37
+- Latitude: 41.829275
+- Longitude: -90.549205
+- County FIPS: 19045
+- County from: 2020
+- Tract 2020: 19045000900
+- Tract 2010: 19045000900
+- Tract 2000: 19045000900
+- Tract 1990: 19045000900
+- Place 2020: 21180
+- Place 2010: 21180
+- Place 2000: 21180
+- Place 1990: 1140
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 116591
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GATEWAYS APTS (SKANEATELES) (NYA00000082)
+
+- HUD ID: NYA00000082
+- HUD ID before: 
+- Project: GATEWAYS APTS (SKANEATELES)
+- Address: 79 FENNELL ST
+- City: SKANEATELES
+- State: NY
+- ZIP: 13152
+- ZIP extension: 
+- State project ID: NY-90-0350_00092
+- Latitude: 42.951139
+- Longitude: -76.435223
+- County FIPS: 36067
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36067016600
+- Tract 2000: 36067016600
+- Tract 1990: 36067016600
+- Place 2020: 
+- Place 2010: 67510
+- Place 2000: 67510
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001305.
+- Record status: Existing, unchanged

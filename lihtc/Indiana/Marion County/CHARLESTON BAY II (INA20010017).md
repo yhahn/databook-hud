@@ -1,0 +1,85 @@
+# Project: CHARLESTON BAY II (INA20010017)
+
+- HUD ID: INA20010017
+- HUD ID before: 
+- Project: CHARLESTON BAY II
+- Address: 5810 LEE RD
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46216
+- ZIP extension: 
+- State project ID: IN-04-10000
+- Latitude: 39.860455
+- Longitude: -86.001214
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097390602
+- Tract 2010: 18097390600
+- Tract 2000: 18097330300
+- Tract 1990: 18097330300
+- Place 2020: 42426
+- Place 2010: 42426
+- Place 2000: 42426
+- Place 1990: 1340
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 589704
+- Units: 254
+- Low-income units: 231
+- Units reported: 254
+- Low-income reported: 231
+- Efficiencies: 0
+- 1-bedroom units: 104
+- 2-bedroom units: 150
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 103
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BENJAMIN COURT APTS.
+- Record status: Existing, unchanged

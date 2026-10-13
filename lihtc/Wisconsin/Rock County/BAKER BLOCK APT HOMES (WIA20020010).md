@@ -1,0 +1,85 @@
+# Project: BAKER BLOCK APT HOMES (WIA20020010)
+
+- HUD ID: WIA20020010
+- HUD ID before: 
+- Project: BAKER BLOCK APT HOMES
+- Address: 101 E MAIN ST
+- City: EVANSVILLE
+- State: WI
+- ZIP: 53536
+- ZIP extension: 
+- State project ID: 2238
+- Latitude: 42.780164
+- Longitude: -89.29744
+- County FIPS: 55105
+- County from: 2020
+- Tract 2020: 55105002901
+- Tract 2010: 55105002900
+- Tract 2000: 55105002900
+- Tract 1990: 55105002900
+- Place 2020: 24550
+- Place 2010: 24550
+- Place 2000: 24550
+- Place 1990: 0860
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

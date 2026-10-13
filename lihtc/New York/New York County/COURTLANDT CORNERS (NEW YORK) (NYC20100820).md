@@ -1,0 +1,85 @@
+# Project: COURTLANDT CORNERS (NEW YORK) (NYC20100820)
+
+- HUD ID: NYC20100820
+- HUD ID before: 
+- Project: COURTLANDT CORNERS (NEW YORK)
+- Address: 902 BROADWAY
+- City: NEW YORK
+- State: NY
+- ZIP: 10010
+- ZIP extension: 
+- State project ID: 0802017
+- Latitude: 40.739194
+- Longitude: -73.989524
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061005200
+- Tract 2010: 36061005200
+- Tract 2000: 36061005200
+- Tract 1990: 36061005200
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1349257
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 9
+- 1-bedroom units: 23
+- 2-bedroom units: 32
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 934560
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

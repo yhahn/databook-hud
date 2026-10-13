@@ -1,0 +1,85 @@
+# Project: FRANKFORT PLACE APTS (INA19990045)
+
+- HUD ID: INA19990045
+- HUD ID before: 
+- Project: FRANKFORT PLACE APTS
+- Address: 701 STONE RIDGE DR
+- City: FRANKFORT
+- State: IN
+- ZIP: 46041
+- ZIP extension: 
+- State project ID: IN-98-02500
+- Latitude: 40.287185
+- Longitude: -86.486516
+- County FIPS: 18023
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18023950200
+- Tract 2000: 18023950200
+- Tract 1990: 18023950200
+- Place 2020: 
+- Place 2010: 25324
+- Place 2000: 25324
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

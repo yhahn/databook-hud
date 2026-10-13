@@ -1,0 +1,85 @@
+# Project: PARK PLACE APARTMENTS - HOT SPRINGS (ARA20130006)
+
+- HUD ID: ARA20130006
+- HUD ID before: 
+- Project: PARK PLACE APARTMENTS - HOT SPRINGS
+- Address: 125 ORIOLE ST
+- City: HOT SPRINGS
+- State: AR
+- ZIP: 71901
+- ZIP extension: 
+- State project ID: AR-12-03
+- Latitude: 34.529689
+- Longitude: -93.047763
+- County FIPS: 05051
+- County from: 2020
+- Tract 2020: 05051010700
+- Tract 2010: 05051010700
+- Tract 2000: 05051010700
+- Tract 1990: 05051010700
+- Place 2020: 33400
+- Place 2010: 33400
+- Place 2000: 33400
+- Place 1990: 0985
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PARK PLACE APTS II.
+- Record status: Existing, unchanged

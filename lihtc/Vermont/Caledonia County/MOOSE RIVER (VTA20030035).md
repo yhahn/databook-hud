@@ -1,0 +1,85 @@
+# Project: MOOSE RIVER (VTA20030035)
+
+- HUD ID: VTA20030035
+- HUD ID before: 
+- Project: MOOSE RIVER
+- Address: 195 MOOSE RIVER DR
+- City: ST JOHNSBURY
+- State: VT
+- ZIP: 05819
+- ZIP extension: 
+- State project ID: 0205
+- Latitude: 44.429872
+- Longitude: -71.979134
+- County FIPS: 50005
+- County from: 2020
+- Tract 2020: 50005957500
+- Tract 2010: 50005957500
+- Tract 2000: 50005957500
+- Tract 1990: 50005957500
+- Place 2020: 62125
+- Place 2010: 62125
+- Place 2000: 62125
+- Place 1990: 2268
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 163594
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 5
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

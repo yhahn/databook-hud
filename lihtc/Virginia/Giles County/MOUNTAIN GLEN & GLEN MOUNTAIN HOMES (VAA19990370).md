@@ -1,0 +1,85 @@
+# Project: MOUNTAIN GLEN & GLEN MOUNTAIN HOMES (VAA19990370)
+
+- HUD ID: VAA19990370
+- HUD ID before: 
+- Project: MOUNTAIN GLEN & GLEN MOUNTAIN HOMES
+- Address: 102 HARE CT
+- City: GLEN LYN
+- State: VA
+- ZIP: 
+- ZIP extension: 
+- State project ID: 4498
+- Latitude: 37.37026
+- Longitude: -80.866305
+- County FIPS: 51071
+- County from: 2020
+- Tract 2020: 51071930300
+- Tract 2010: 51071930300
+- Tract 2000: 51071990300
+- Tract 1990: 51071990300
+- Place 2020: 31376
+- Place 2010: 31376
+- Place 2000: 31376
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 98198
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 2
+- 1-bedroom units: 6
+- 2-bedroom units: 3
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1998080. AKA EAST RIVER MOUNTAIN.
+- Record status: Existing, unchanged

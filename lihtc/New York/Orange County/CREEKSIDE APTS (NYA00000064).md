@@ -1,0 +1,85 @@
+# Project: CREEKSIDE APTS (NYA00000064)
+
+- HUD ID: NYA00000064
+- HUD ID before: 
+- Project: CREEKSIDE APTS
+- Address: 1 CAMPSITE WAY
+- City: WARWICK
+- State: NY
+- ZIP: 10990
+- ZIP extension: 
+- State project ID: NY-90-0201_00078
+- Latitude: 41.253883
+- Longitude: -74.349269
+- County FIPS: 36071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36071014600
+- Tract 2000: 36071014600
+- Tract 1990: 36071014600
+- Place 2020: 
+- Place 2010: 78355
+- Place 2000: 78355
+- Place 1990: 3810
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001235.
+- Record status: Existing, unchanged

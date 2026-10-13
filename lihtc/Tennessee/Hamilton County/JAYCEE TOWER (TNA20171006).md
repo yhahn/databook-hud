@@ -1,0 +1,85 @@
+# Project: JAYCEE TOWER (TNA20171006)
+
+- HUD ID: TNA20171006
+- HUD ID before: 
+- Project: JAYCEE TOWER
+- Address: 500 W. MARTIN LUTHER KING BLVD
+- City: CHATTANOOGA
+- State: TN
+- ZIP: 37402
+- ZIP extension: 
+- State project ID: TN-17-212
+- Latitude: 35.047884
+- Longitude: -85.318246
+- County FIPS: 47065
+- County from: 2020
+- Tract 2020: 47065001600
+- Tract 2010: 47065001600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 734359
+- Units: 202
+- Low-income units: 161
+- Units reported: 202
+- Low-income reported: 161
+- Efficiencies: 70
+- 1-bedroom units: 132
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

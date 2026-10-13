@@ -1,0 +1,85 @@
+# Project: CABANA CLUB APTS (FLA19950175)
+
+- HUD ID: FLA19950175
+- HUD ID before: 
+- Project: CABANA CLUB APTS
+- Address: 19701 SW 110TH CT
+- City: CUTLER BAY
+- State: FL
+- ZIP: 33157
+- ZIP extension: 
+- State project ID: 119
+- Latitude: 25.582792
+- Longitude: -80.370877
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010207
+- Tract 2010: 12086010207
+- Tract 2000: 12086010206
+- Tract 1990: 12025010202
+- Place 2020: 67575
+- Place 2010: 67575
+- Place 2000: 67575
+- Place 1990: 2007
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 334
+- Low-income units: 330
+- Units reported: 334
+- Low-income reported: 330
+- Efficiencies: 2
+- 1-bedroom units: 297
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1996010.
+- Record status: Existing, unchanged

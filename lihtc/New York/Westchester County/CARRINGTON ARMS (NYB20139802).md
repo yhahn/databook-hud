@@ -1,0 +1,85 @@
+# Project: CARRINGTON ARMS (NYB20139802)
+
+- HUD ID: NYB20139802
+- HUD ID before: 
+- Project: CARRINGTON ARMS
+- Address: 33 LINCOLN AVE
+- City: NEW ROCHELLE
+- State: NY
+- ZIP: 10801
+- ZIP extension: 
+- State project ID: NY-13-2212
+- Latitude: 40.91775
+- Longitude: -73.787465
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119006400
+- Tract 2010: 36119006400
+- Tract 2000: 36119006400
+- Tract 1990: 
+- Place 2020: 50617
+- Place 2010: 50617
+- Place 2000: 50617
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 481316
+- Units: 110
+- Low-income units: 73
+- Units reported: 110
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 60
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

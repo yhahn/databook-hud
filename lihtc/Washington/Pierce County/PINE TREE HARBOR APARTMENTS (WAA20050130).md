@@ -1,0 +1,85 @@
+# Project: PINE TREE HARBOR APARTMENTS (WAA20050130)
+
+- HUD ID: WAA20050130
+- HUD ID before: 
+- Project: PINE TREE HARBOR APARTMENTS
+- Address: 2501 SOUTH G ST
+- City: TACOMA
+- State: WA
+- ZIP: 98405
+- ZIP extension: 
+- State project ID: 05-73A
+- Latitude: 47.237299
+- Longitude: -122.442149
+- County FIPS: 53053
+- County from: 2020
+- Tract 2020: 53053061700
+- Tract 2010: 53053061700
+- Tract 2000: 53053061700
+- Tract 1990: 53053061700
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 1280
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 100680
+- Units: 60
+- Low-income units: 58
+- Units reported: 60
+- Low-income reported: 58
+- Efficiencies: 22
+- 1-bedroom units: 38
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: GARTON TOY FACTORY APT HOMES (WIA20000050)
+
+- HUD ID: WIA20000050
+- HUD ID before: 
+- Project: GARTON TOY FACTORY APT HOMES
+- Address: 830 N WATER ST
+- City: SHEBOYGAN
+- State: WI
+- ZIP: 53081
+- ZIP extension: 
+- State project ID: 2367
+- Latitude: 43.754085
+- Longitude: -87.718076
+- County FIPS: 55117
+- County from: 2020
+- Tract 2020: 55117000500
+- Tract 2010: 55117000500
+- Tract 2000: 55117000500
+- Tract 1990: 55117000500
+- Place 2020: 72975
+- Place 2010: 72975
+- Place 2000: 72975
+- Place 1990: 2300
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 50
+- Units reported: 72
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 46
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GARTON TOY FACTORY APTS HMS.
+- Record status: Existing, unchanged

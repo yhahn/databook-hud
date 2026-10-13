@@ -1,0 +1,85 @@
+# Project: LIDA LAKE ESTATES (ILA19950125)
+
+- HUD ID: ILA19950125
+- HUD ID before: 
+- Project: LIDA LAKE ESTATES
+- Address: 433 WILLIS AVE
+- City: ROCHELLE
+- State: IL
+- ZIP: 61068
+- ZIP extension: 
+- State project ID: 62793
+- Latitude: 41.903746
+- Longitude: -89.063613
+- County FIPS: 17141
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17141961600
+- Tract 2000: 17141961600
+- Tract 1990: 17141961600
+- Place 2020: 
+- Place 2010: 64746
+- Place 2000: 64746
+- Place 1990: 4935
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 269922
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 48
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

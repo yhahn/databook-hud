@@ -1,0 +1,24 @@
+# Tax Credit Projects: Vermilion Parish, LA
+
+- Level: County
+- Postal code: LA
+- State FIPS: 22
+- County FIPS: 22113
+- Counties: 
+- Projects: 7
+- Units: 577
+- Low-income units: 383
+
+The low-income housing tax credit projects of Vermilion Parish, Louisiana, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [KAPLAN MANOR APARTMENTS (LAA19900112)](./Vermilion%20Parish/KAPLAN%20MANOR%20APARTMENTS%20%28LAA19900112%29.md) | LAA19900112 | KAPLAN | 1990 | 32 | 32 |
+| [OAKLEIGH APTS. (LAA19920090)](./Vermilion%20Parish/OAKLEIGH%20APTS.%20%28LAA19920090%29.md) | LAA19920090 | ABBEVILLE | 1992 | 32 | 32 |
+| [NORTH ABBEVILLE SUBDIVISION II (LAA20080235)](./Vermilion%20Parish/NORTH%20ABBEVILLE%20SUBDIVISION%20II%20%28LAA20080235%29.md) | LAA20080235 | ABBEVILLE | 2008 | 57 | 57 |
+| [NORTHERN ABBEVILLE SUBDIVISION SINGLE FAMILY HOUSI (LAA20080240)](./Vermilion%20Parish/NORTHERN%20ABBEVILLE%20SUBDIVISION%20SINGLE%20FAMILY%20HOUSI%20%28LAA20080240%29.md) | LAA20080240 | ABBEVILLE | 2008 | 62 | 62 |
+| [TIFFANY (LAA20080390)](./Vermilion%20Parish/TIFFANY%20%28LAA20080390%29.md) | LAA20080390 | ABBEVILLE | 2008 | 250 | 100 |
+| [ACADIAN VILLAGE (LAA20110015)](./Vermilion%20Parish/ACADIAN%20VILLAGE%20%28LAA20110015%29.md) | LAA20110015 | MAURICE | 2011 | 72 | 50 |
+| [HAVENS OF ABBEVILLE (LAA20119888)](./Vermilion%20Parish/HAVENS%20OF%20ABBEVILLE%20%28LAA20119888%29.md) | LAA20119888 | ABBEVILLE | 2011 | 72 | 50 |

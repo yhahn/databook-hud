@@ -1,0 +1,85 @@
+# Project: NEWBURY POINTE (INA20080085)
+
+- HUD ID: INA20080085
+- HUD ID before: 
+- Project: NEWBURY POINTE
+- Address: 309 NEWBURY DR
+- City: EDINBURGH
+- State: IN
+- ZIP: 46124
+- ZIP extension: 
+- State project ID: IN-07-01900
+- Latitude: 39.356564
+- Longitude: -85.951721
+- County FIPS: 18145
+- County from: 2020
+- Tract 2020: 18145710900
+- Tract 2010: 18145710900
+- Tract 2000: 18145710900
+- Tract 1990: 18145710900
+- Place 2020: 20404
+- Place 2010: 20404
+- Place 2000: 20404
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 220392
+- Units: 30
+- Low-income units: 24
+- Units reported: 30
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 800000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

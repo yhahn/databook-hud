@@ -1,0 +1,85 @@
+# Project: MOLINE HIGH SCHOOL LOFT APTS (ILA20060010)
+
+- HUD ID: ILA20060010
+- HUD ID before: 
+- Project: MOLINE HIGH SCHOOL LOFT APTS
+- Address: 1001 16TH ST
+- City: MOLINE
+- State: IL
+- ZIP: 61265
+- ZIP extension: 
+- State project ID: 205101
+- Latitude: 41.50205
+- Longitude: -90.513386
+- County FIPS: 17161
+- County from: 2020
+- Tract 2020: 17161021700
+- Tract 2010: 17161021700
+- Tract 2000: 17161021700
+- Tract 1990: 17161021700
+- Place 2020: 49867
+- Place 2010: 49867
+- Place 2000: 49867
+- Place 1990: 3805
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 480106
+- Units: 60
+- Low-income units: 54
+- Units reported: 60
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 22
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

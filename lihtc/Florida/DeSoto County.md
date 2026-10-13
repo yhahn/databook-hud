@@ -1,0 +1,25 @@
+# Tax Credit Projects: DeSoto County, FL
+
+- Level: County
+- Postal code: FL
+- State FIPS: 12
+- County FIPS: 12027
+- Counties: 
+- Projects: 8
+- Units: 538
+- Low-income units: 538
+
+The low-income housing tax credit projects of DeSoto County, Florida, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [WOOD PARK POINTE PHASE I (FLA19920165)](./DeSoto%20County/WOOD%20PARK%20POINTE%20PHASE%20I%20%28FLA19920165%29.md) | FLA19920165 | ARCADIA | 1992 | 37 | 37 |
+| [WOOD PARK POINTE PHASE II (FLA19950807)](./DeSoto%20County/WOOD%20PARK%20POINTE%20PHASE%20II%20%28FLA19950807%29.md) | FLA19950807 | ARCADIA | 1995 | 36 | 36 |
+| [OAKS TRAIL (FLA20000120)](./DeSoto%20County/OAKS%20TRAIL%20%28FLA20000120%29.md) | FLA20000120 | ARCADIA | 2000 | 123 | 123 |
+| [MCPINES (FLA20040140)](./DeSoto%20County/MCPINES%20%28FLA20040140%29.md) | FLA20040140 | ARCADIA | 2004 | 64 | 64 |
+| [JACARANDA TRAIL II (FLA20060080)](./DeSoto%20County/JACARANDA%20TRAIL%20II%20%28FLA20060080%29.md) | FLA20060080 | ARCADIA | 2006 | 50 | 50 |
+| [DESOTO LANDING (FLA20070055)](./DeSoto%20County/DESOTO%20LANDING%20%28FLA20070055%29.md) | FLA20070055 | ARCADIA | 2007 | 48 | 48 |
+| [ARCADIA OAKS (FLA20090160)](./DeSoto%20County/ARCADIA%20OAKS%20%28FLA20090160%29.md) | FLA20090160 | ARCADIA | 2009 | 130 | 130 |
+| [JACARANDA TRAIL (FLA20180028)](./DeSoto%20County/JACARANDA%20TRAIL%20%28FLA20180028%29.md) | FLA20180028 | ARCADIA | 2018 | 50 | 50 |

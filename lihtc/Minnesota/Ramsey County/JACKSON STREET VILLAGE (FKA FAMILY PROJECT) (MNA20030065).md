@@ -1,0 +1,85 @@
+# Project: JACKSON STREET VILLAGE (FKA FAMILY PROJECT) (MNA20030065)
+
+- HUD ID: MNA20030065
+- HUD ID before: 
+- Project: JACKSON STREET VILLAGE (FKA FAMILY PROJECT)
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55117
+- ZIP extension: 
+- State project ID: D2939
+- Latitude: 44.9991
+- Longitude: -93.0977
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123030500
+- Tract 2010: 27123042201
+- Tract 2000: 27123030500
+- Tract 1990: 27123030500
+- Place 2020: 58000
+- Place 2010: 40382
+- Place 2000: 58000
+- Place 1990: 3425
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 16
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: SINGLE WOMEN
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA FAMILY PROJECT
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MARANA APTS (AZA20030045)
+
+- HUD ID: AZA20030045
+- HUD ID before: 
+- Project: MARANA APTS
+- Address: 13387 N LON ADAMS RD
+- City: MARANA
+- State: AZ
+- ZIP: 85653
+- ZIP extension: 
+- State project ID: TC-0227
+- Latitude: 32.449635
+- Longitude: -111.208614
+- County FIPS: 04019
+- County from: 2020
+- Tract 2020: 04019004430
+- Tract 2010: 04019004430
+- Tract 2000: 04019004420
+- Tract 1990: 04019004408
+- Place 2020: 44270
+- Place 2010: 44270
+- Place 2000: 44270
+- Place 1990: 0014
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 28
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Sale under qualified contract
+- Why, other: 
+- Data note: AKA MARANA APTS II.
+- Record status: Existing, unchanged

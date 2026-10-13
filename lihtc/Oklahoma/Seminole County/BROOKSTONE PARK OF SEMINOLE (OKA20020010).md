@@ -1,0 +1,85 @@
+# Project: BROOKSTONE PARK OF SEMINOLE (OKA20020010)
+
+- HUD ID: OKA20020010
+- HUD ID before: 
+- Project: BROOKSTONE PARK OF SEMINOLE
+- Address: 1101 CLAUSING BLVD
+- City: SEMINOLE
+- State: OK
+- ZIP: 74868
+- ZIP extension: 
+- State project ID: 000219
+- Latitude: 35.232992
+- Longitude: -96.661303
+- County FIPS: 40133
+- County from: 2020
+- Tract 2020: 40133583300
+- Tract 2010: 40133583300
+- Tract 2000: 40133983300
+- Tract 1990: 40133983300
+- Place 2020: 66350
+- Place 2010: 66350
+- Place 2000: 66350
+- Place 1990: 2165
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 37
+- Units reported: 38
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 33
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

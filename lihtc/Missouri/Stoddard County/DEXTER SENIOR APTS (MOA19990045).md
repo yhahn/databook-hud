@@ -1,0 +1,85 @@
+# Project: DEXTER SENIOR APTS (MOA19990045)
+
+- HUD ID: MOA19990045
+- HUD ID before: 
+- Project: DEXTER SENIOR APTS
+- Address: 1002 HICKORY LOG DR
+- City: DEXTER
+- State: MO
+- ZIP: 63841
+- ZIP extension: 
+- State project ID: 98075A
+- Latitude: 36.805862
+- Longitude: -89.978949
+- County FIPS: 29207
+- County from: 2020
+- Tract 2020: 29207470500
+- Tract 2010: 29207470500
+- Tract 2000: 29207970500
+- Tract 1990: 29207970500
+- Place 2020: 19396
+- Place 2010: 19396
+- Place 2000: 19396
+- Place 1990: 1155
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

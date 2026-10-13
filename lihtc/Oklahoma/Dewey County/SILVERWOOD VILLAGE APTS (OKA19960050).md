@@ -1,0 +1,85 @@
+# Project: SILVERWOOD VILLAGE APTS (OKA19960050)
+
+- HUD ID: OKA19960050
+- HUD ID before: 
+- Project: SILVERWOOD VILLAGE APTS
+- Address: 103 W SEVENTH ST
+- City: SEILING
+- State: OK
+- ZIP: 
+- ZIP extension: 
+- State project ID: 950642
+- Latitude: 36.152453
+- Longitude: -98.924676
+- County FIPS: 40043
+- County from: 2020
+- Tract 2020: 40043959100
+- Tract 2010: 40043959100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 66250
+- Place 2010: 66250
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 12
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COTTONWOOD APARTMENTS (MNA19960065)
+
+- HUD ID: MNA19960065
+- HUD ID before: 
+- Project: COTTONWOOD APARTMENTS
+- Address: 158 4TH AVE
+- City: SPICER
+- State: MN
+- ZIP: 56288
+- ZIP extension: 
+- State project ID: D1423
+- Latitude: 45.236016
+- Longitude: -94.943817
+- County FIPS: 27067
+- County from: 2020
+- Tract 2020: 27067780400
+- Tract 2010: 27067780400
+- Tract 2000: 27067980400
+- Tract 1990: 27067980400
+- Place 2020: 61690
+- Place 2010: 61690
+- Place 2000: 32372
+- Place 1990: 3600
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

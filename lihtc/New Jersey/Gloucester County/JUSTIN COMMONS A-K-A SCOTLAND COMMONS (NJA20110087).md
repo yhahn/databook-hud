@@ -1,0 +1,85 @@
+# Project: JUSTIN COMMONS A/K/A SCOTLAND COMMONS (NJA20110087)
+
+- HUD ID: NJA20110087
+- HUD ID before: 
+- Project: JUSTIN COMMONS A/K/A SCOTLAND COMMONS
+- Address: 111-134 JUSTIN COMMONS
+- City: WILLIAMSTOWN
+- State: NJ
+- ZIP: 08094
+- ZIP extension: 
+- State project ID: 2320
+- Latitude: 39.692783
+- Longitude: -75.03818
+- County FIPS: 34015
+- County from: 2020
+- Tract 2020: 34015501609
+- Tract 2010: 34015501609
+- Tract 2000: 34015501607
+- Tract 1990: 34015501607
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 2250000
+- Units: 132
+- Low-income units: 132
+- Units reported: 132
+- Low-income reported: 132
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000575. AKA SCOTLAND COMMONS, PLEASANTVILLE HOPE.
+- Record status: Existing, unchanged

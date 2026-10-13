@@ -1,0 +1,85 @@
+# Project: SADDLEWOOD APTS (MOA20050145)
+
+- HUD ID: MOA20050145
+- HUD ID before: 
+- Project: SADDLEWOOD APTS
+- Address: 3219 W TENTH ST
+- City: SEDALIA
+- State: MO
+- ZIP: 65301
+- ZIP extension: 
+- State project ID: 04-041
+- Latitude: 38.703717
+- Longitude: -93.268865
+- County FIPS: 29159
+- County from: 2020
+- Tract 2020: 29159480700
+- Tract 2010: 29159480700
+- Tract 2000: 29159980700
+- Tract 1990: 29159980700
+- Place 2020: 66440
+- Place 2010: 66440
+- Place 2000: 66440
+- Place 1990: 3935
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

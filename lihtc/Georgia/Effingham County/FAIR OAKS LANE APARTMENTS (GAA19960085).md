@@ -1,0 +1,85 @@
+# Project: FAIR OAKS LANE APARTMENTS (GAA19960085)
+
+- HUD ID: GAA19960085
+- HUD ID before: 
+- Project: FAIR OAKS LANE APARTMENTS
+- Address: 401 LISA ST
+- City: RINCON
+- State: GA
+- ZIP: 31326
+- ZIP extension: 
+- State project ID: GA-94-003
+- Latitude: 32.276849
+- Longitude: -81.225874
+- County FIPS: 13103
+- County from: 2020
+- Tract 2020: 13103030308
+- Tract 2010: 13103030305
+- Tract 2000: 13103030302
+- Tract 1990: 13103030398
+- Place 2020: 65296
+- Place 2010: 65296
+- Place 2000: 65296
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1995320. AKA FAIR OAKS APTS.
+- Record status: Updated

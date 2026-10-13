@@ -1,0 +1,85 @@
+# Project: DOUGLAS POINTE (FLA20010040)
+
+- HUD ID: FLA20010040
+- HUD ID before: 
+- Project: DOUGLAS POINTE
+- Address: 3840 NW 183RD ST
+- City: MIAMI GARDENS
+- State: FL
+- ZIP: 33055
+- ZIP extension: 
+- State project ID: 238
+- Latitude: 25.939984
+- Longitude: -80.264053
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010021
+- Tract 2010: 12086010006
+- Tract 2000: 12086010006
+- Tract 1990: 12025010006
+- Place 2020: 45060
+- Place 2010: 45060
+- Place 2000: 10650
+- Place 1990: 0295
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 104
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

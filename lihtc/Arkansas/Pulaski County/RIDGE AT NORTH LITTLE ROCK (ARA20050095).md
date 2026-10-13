@@ -1,0 +1,85 @@
+# Project: RIDGE AT NORTH LITTLE ROCK (ARA20050095)
+
+- HUD ID: ARA20050095
+- HUD ID before: 
+- Project: RIDGE AT NORTH LITTLE ROCK
+- Address: 900 W SCENIC DR
+- City: NORTH LITTLE ROCK
+- State: AR
+- ZIP: 72118
+- ZIP extension: 
+- State project ID: AR-04-23
+- Latitude: 34.78494
+- Longitude: -92.293839
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119003100
+- Tract 2010: 05119003100
+- Tract 2000: 05119003100
+- Tract 1990: 05119003100
+- Place 2020: 50450
+- Place 2010: 50450
+- Place 2000: 50450
+- Place 1990: 1475
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 300000
+- Units: 64
+- Low-income units: 51
+- Units reported: 64
+- Low-income reported: 51
+- Efficiencies: 1
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

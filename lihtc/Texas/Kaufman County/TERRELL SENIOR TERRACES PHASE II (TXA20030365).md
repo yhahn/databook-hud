@@ -1,0 +1,85 @@
+# Project: TERRELL SENIOR TERRACES PHASE II (TXA20030365)
+
+- HUD ID: TXA20030365
+- HUD ID before: 
+- Project: TERRELL SENIOR TERRACES PHASE II
+- Address: 350 WINDSOR AVE
+- City: TERRELL
+- State: TX
+- ZIP: 75160
+- ZIP extension: 
+- State project ID: TX3217
+- Latitude: 32.712473
+- Longitude: -96.286834
+- County FIPS: 48257
+- County from: 2020
+- Tract 2020: 48257050500
+- Tract 2010: 48257050500
+- Tract 2000: 48257050500
+- Tract 1990: 48257050500
+- Place 2020: 72284
+- Place 2010: 72284
+- Place 2000: 72284
+- Place 1990: 4215
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 180
+- Low-income units: 144
+- Units reported: 180
+- Low-income reported: 144
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TERRELL SENIOR TERRACES II.
+- Record status: Existing, unchanged

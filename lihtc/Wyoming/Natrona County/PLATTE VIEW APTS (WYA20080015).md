@@ -1,0 +1,85 @@
+# Project: PLATTE VIEW APTS (WYA20080015)
+
+- HUD ID: WYA20080015
+- HUD ID before: 
+- Project: PLATTE VIEW APTS
+- Address: 540 E M ST
+- City: CASPER
+- State: WY
+- ZIP: 82601
+- ZIP extension: 
+- State project ID: 07-006
+- Latitude: 42.86326
+- Longitude: -106.319029
+- County FIPS: 56025
+- County from: 2020
+- Tract 2020: 56025000200
+- Tract 2010: 56025000200
+- Tract 2000: 56025000200
+- Tract 1990: 56025000200
+- Place 2020: 13150
+- Place 2010: 13150
+- Place 2000: 13150
+- Place 1990: 0045
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 78114
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 25
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WYA0000060.
+- Record status: Existing, unchanged

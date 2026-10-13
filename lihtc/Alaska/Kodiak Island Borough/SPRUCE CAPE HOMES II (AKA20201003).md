@@ -1,0 +1,85 @@
+# Project: SPRUCE CAPE HOMES II (AKA20201003)
+
+- HUD ID: AKA20201003
+- HUD ID before: 
+- Project: SPRUCE CAPE HOMES II
+- Address: 3386 SHARATIN ROAD
+- City: KODIAK
+- State: AK
+- ZIP: 99615
+- ZIP extension: 
+- State project ID: AK-19-02
+- Latitude: 57.810104
+- Longitude: -152.348371
+- County FIPS: 02150
+- County from: 2020
+- Tract 2020: 02150000200
+- Tract 2010: 02150000200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 49200
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 653028
+- Units: 20
+- Low-income units: 16
+- Units reported: 20
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

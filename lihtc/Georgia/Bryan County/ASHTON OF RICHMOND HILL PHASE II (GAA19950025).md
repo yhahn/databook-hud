@@ -1,0 +1,85 @@
+# Project: ASHTON OF RICHMOND HILL PHASE II (GAA19950025)
+
+- HUD ID: GAA19950025
+- HUD ID before: 
+- Project: ASHTON OF RICHMOND HILL PHASE II
+- Address: 505 HARRIS TRAIL RD
+- City: RICHMOND HILL
+- State: GA
+- ZIP: 31324
+- ZIP extension: 
+- State project ID: GA-93-061
+- Latitude: 31.926012
+- Longitude: -81.320765
+- County FIPS: 13029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 13029920303
+- Tract 2000: 13029920300
+- Tract 1990: 13029920300
+- Place 2020: 
+- Place 2010: 65044
+- Place 2000: 65044
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 158
+- Units reported: 160
+- Low-income reported: 158
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 96
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

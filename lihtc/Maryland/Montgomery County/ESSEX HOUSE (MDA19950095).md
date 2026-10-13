@@ -1,0 +1,85 @@
+# Project: ESSEX HOUSE (MDA19950095)
+
+- HUD ID: MDA19950095
+- HUD ID before: 
+- Project: ESSEX HOUSE
+- Address: 7777 MAPLE AVE
+- City: TAKOMA PARK
+- State: MD
+- ZIP: 20912
+- ZIP extension: 
+- State project ID: MD94-01
+- Latitude: 38.984157
+- Longitude: -77.004325
+- County FIPS: 24031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24031701800
+- Tract 2000: 24031701800
+- Tract 1990: 24031701800
+- Place 2020: 
+- Place 2010: 76650
+- Place 2000: 72450
+- Place 1990: 0950
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 135
+- Low-income units: 114
+- Units reported: 135
+- Low-income reported: 114
+- Efficiencies: 0
+- 1-bedroom units: 68
+- 2-bedroom units: 44
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA0000004.
+- Record status: Existing, unchanged

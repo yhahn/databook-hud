@@ -1,0 +1,85 @@
+# Project: BORREGAS COURT (CAA19990748)
+
+- HUD ID: CAA19990748
+- HUD ID before: 
+- Project: BORREGAS COURT
+- Address: 101 W WEDDELL DR
+- City: SUNNYVALE
+- State: CA
+- ZIP: 94089
+- ZIP extension: 
+- State project ID: CA-97-950
+- Latitude: 37.398241
+- Longitude: -122.022471
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085504808
+- Tract 2010: 06085504803
+- Tract 2000: 06085504803
+- Tract 1990: 06085504803
+- Place 2020: 77000
+- Place 2010: 77000
+- Place 2000: 77000
+- Place 1990: 2835
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 313797
+- Units: 193
+- Low-income units: 192
+- Units reported: 193
+- Low-income reported: 192
+- Efficiencies: 192
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

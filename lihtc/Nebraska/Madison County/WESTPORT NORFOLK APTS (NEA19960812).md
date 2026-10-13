@@ -1,0 +1,85 @@
+# Project: WESTPORT NORFOLK APTS (NEA19960812)
+
+- HUD ID: NEA19960812
+- HUD ID before: 
+- Project: WESTPORT NORFOLK APTS
+- Address: 2616 WESTSIDE PLAZA DR
+- City: NORFOLK
+- State: NE
+- ZIP: 68701
+- ZIP extension: 
+- State project ID: 7-0268
+- Latitude: 42.034261
+- Longitude: -97.450087
+- County FIPS: 31119
+- County from: 2020
+- Tract 2020: 31119960802
+- Tract 2010: 31119960802
+- Tract 2000: 31119980800
+- Tract 1990: 31119980800
+- Place 2020: 34615
+- Place 2010: 34615
+- Place 2000: 34615
+- Place 1990: 1755
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 71728
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

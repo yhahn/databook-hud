@@ -1,0 +1,85 @@
+# Project: PARKWAY HEIGHTS (MAB20080080)
+
+- HUD ID: MAB20080080
+- HUD ID before: 
+- Project: PARKWAY HEIGHTS
+- Address: 201 CHELSEA ST
+- City: EVERETT
+- State: MA
+- ZIP: 02149
+- ZIP extension: 
+- State project ID: 1668
+- Latitude: 42.403316
+- Longitude: -71.047738
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017342501
+- Tract 2010: 25017342500
+- Tract 2000: 25017342500
+- Tract 1990: 25017342500
+- Place 2020: 21990
+- Place 2010: 21990
+- Place 2000: 21990
+- Place 1990: 1200
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 740250
+- Units: 74
+- Low-income units: 47
+- Units reported: 74
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB2007050. AKA NOMAD DEVELOPMENT LLC.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SAVANNAH PARK FKA VALLEY VIEW (ARA20039027)
+
+- HUD ID: ARA20039027
+- HUD ID before: 
+- Project: SAVANNAH PARK FKA VALLEY VIEW
+- Address: 535 PHILLIPS LN
+- City: MOUNTAINBURG
+- State: AR
+- ZIP: 72945
+- ZIP extension: 
+- State project ID: 409
+- Latitude: 35.638155
+- Longitude: -94.166214
+- County FIPS: 05033
+- County from: 2020
+- Tract 2020: 05033020101
+- Tract 2010: 05033020100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 47300
+- Place 2010: 47300
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 30757
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

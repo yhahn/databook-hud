@@ -1,0 +1,85 @@
+# Project: YAQUINA HALL APTS-SOUTHFAIR APTS (ORA20230013)
+
+- HUD ID: ORA20230013
+- HUD ID before: 
+- Project: YAQUINA HALL APTS-SOUTHFAIR APTS
+- Address: 2720 B STREET NE 1901-1989 FAIRGROUNDS RD NE
+- City: SALEM
+- State: OR
+- ZIP: 97301
+- ZIP extension: 
+- State project ID: OR-21-10059
+- Latitude: 44.9476
+- Longitude: -123.0138
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047000600
+- Tract 2010: 41047000600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 64900
+- Place 2010: 64900
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1192842
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 1
+- 1-bedroom units: 73
+- 2-bedroom units: 48
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

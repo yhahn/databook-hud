@@ -1,0 +1,85 @@
+# Project: SUNFLOWER APTS CONCORDIA (KSA19910120)
+
+- HUD ID: KSA19910120
+- HUD ID before: 
+- Project: SUNFLOWER APTS CONCORDIA
+- Address: 800 RUSS ST
+- City: CONCORDIA
+- State: KS
+- ZIP: 66901
+- ZIP extension: 
+- State project ID: 60246
+- Latitude: 39.568671
+- Longitude: -97.646968
+- County FIPS: 20029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20029977200
+- Tract 2000: 20029977200
+- Tract 1990: 20029977200
+- Place 2020: 
+- Place 2010: 15200
+- Place 2000: 15200
+- Place 1990: 0570
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 27971
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1991060.
+- Record status: Existing, unchanged

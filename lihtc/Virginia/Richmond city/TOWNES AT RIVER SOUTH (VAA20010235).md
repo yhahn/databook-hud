@@ -1,0 +1,85 @@
+# Project: TOWNES AT RIVER SOUTH (VAA20010235)
+
+- HUD ID: VAA20010235
+- HUD ID before: 
+- Project: TOWNES AT RIVER SOUTH
+- Address: 304 E 12TH ST
+- City: RICHMOND
+- State: VA
+- ZIP: 23224
+- ZIP extension: 
+- State project ID: 1130
+- Latitude: 37.518476
+- Longitude: -77.441312
+- County FIPS: 51760
+- County from: 2020
+- Tract 2020: 51760061001
+- Tract 2010: 51760061000
+- Tract 2000: 51760060100
+- Tract 1990: 51760060100
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 1035
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 450000
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 33
+- 3-bedroom units: 55
+- 4-bedroom units: 11
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BLACKWELL COMMUNITY.
+- Record status: Existing, unchanged

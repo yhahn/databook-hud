@@ -1,0 +1,85 @@
+# Project: PERSHING POINTE II (WYA19980020)
+
+- HUD ID: WYA19980020
+- HUD ID before: 
+- Project: PERSHING POINTE II
+- Address: 1900 RAINBOW RD
+- City: CHEYENNE
+- State: WY
+- ZIP: 82001
+- ZIP extension: 
+- State project ID: 97-015
+- Latitude: 41.143866
+- Longitude: -104.75017
+- County FIPS: 56021
+- County from: 2020
+- Tract 2020: 56021000503
+- Tract 2010: 56021000501
+- Tract 2000: 56021000500
+- Tract 1990: 56021000500
+- Place 2020: 13900
+- Place 2010: 13900
+- Place 2000: 13900
+- Place 1990: 0050
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 244437
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 28
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

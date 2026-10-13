@@ -1,0 +1,85 @@
+# Project: HADLEY BUILDING APTS (MAB20090030)
+
+- HUD ID: MAB20090030
+- HUD ID before: 
+- Project: HADLEY BUILDING APTS
+- Address: 455 MAIN ST
+- City: WORCESTER
+- State: MA
+- ZIP: 01608
+- ZIP extension: 
+- State project ID: 1306
+- Latitude: 42.262692
+- Longitude: -71.802261
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027731700
+- Tract 2010: 25027731700
+- Tract 2000: 25027731700
+- Tract 1990: 25027731700
+- Place 2020: 82000
+- Place 2010: 82000
+- Place 2000: 82000
+- Place 1990: 5030
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 862667
+- Units: 44
+- Low-income units: 40
+- Units reported: 44
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 13
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HADLEY APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 151 FOREST AVE (WIA19910005)
+
+- HUD ID: WIA19910005
+- HUD ID before: 
+- Project: 151 FOREST AVE
+- Address: 151 FOREST AVE
+- City: FOND DU LAC
+- State: WI
+- ZIP: 54935
+- ZIP extension: 
+- State project ID: 1200
+- Latitude: 43.777168
+- Longitude: -88.452889
+- County FIPS: 55039
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55039040500
+- Tract 2000: 55039040500
+- Tract 1990: 55039040500
+- Place 2020: 
+- Place 2010: 26275
+- Place 2000: 26275
+- Place 1990: 0905
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

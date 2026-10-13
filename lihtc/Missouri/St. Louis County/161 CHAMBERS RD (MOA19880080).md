@@ -1,0 +1,85 @@
+# Project: 161 CHAMBERS RD (MOA19880080)
+
+- HUD ID: MOA19880080
+- HUD ID before: 
+- Project: 161 CHAMBERS RD
+- Address: 161 CHAMBERS RD
+- City: ST LOUIS
+- State: MO
+- ZIP: 63137
+- ZIP extension: 
+- State project ID: 68009
+- Latitude: 38.747627
+- Longitude: -90.203804
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189210300
+- Tract 2010: 29189210300
+- Tract 2000: 29189210300
+- Tract 1990: 29189210300
+- Place 2020: 62192
+- Place 2010: 62192
+- Place 2000: 04222
+- Place 1990: 3725
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

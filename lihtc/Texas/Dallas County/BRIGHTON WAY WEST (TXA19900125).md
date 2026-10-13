@@ -1,0 +1,85 @@
+# Project: BRIGHTON WAY WEST (TXA19900125)
+
+- HUD ID: TXA19900125
+- HUD ID before: 
+- Project: BRIGHTON WAY WEST
+- Address: 2432 FINLEY RD
+- City: IRVING
+- State: TX
+- ZIP: 75062
+- ZIP extension: 
+- State project ID: 70070
+- Latitude: 32.850693
+- Longitude: -96.978915
+- County FIPS: 48113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48113014306
+- Tract 2000: 48113014306
+- Tract 1990: 48113014306
+- Place 2020: 
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 2060
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 142
+- Low-income units: 142
+- Units reported: 142
+- Low-income reported: 142
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 58
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

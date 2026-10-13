@@ -1,0 +1,85 @@
+# Project: VALLEY VIEW APTS II (MOA19910520)
+
+- HUD ID: MOA19910520
+- HUD ID before: 
+- Project: VALLEY VIEW APTS II
+- Address: 907 N ASH ST
+- City: MOUNTAIN VIEW
+- State: MO
+- ZIP: 65548
+- ZIP extension: 
+- State project ID: 91068
+- Latitude: 37.003895
+- Longitude: -91.700551
+- County FIPS: 29091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29091090200
+- Tract 2000: 29091990200
+- Tract 1990: 29091990200
+- Place 2020: 
+- Place 2010: 50438
+- Place 2000: 50438
+- Place 1990: 2960
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

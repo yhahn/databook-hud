@@ -1,0 +1,85 @@
+# Project: JASPER SENIOR HOUSING (TNA19890843)
+
+- HUD ID: TNA19890843
+- HUD ID before: 
+- Project: JASPER SENIOR HOUSING
+- Address: 235 E SEVENTH ST
+- City: JASPER
+- State: TN
+- ZIP: 37347
+- ZIP extension: 
+- State project ID: TN-89-011
+- Latitude: 35.079593
+- Longitude: -85.620009
+- County FIPS: 47115
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47115050202
+- Tract 2000: 47115050200
+- Tract 1990: 47115050200
+- Place 2020: 
+- Place 2010: 37820
+- Place 2000: 14000
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 37784
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 11
+- 1-bedroom units: 17
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1989185. AKA WOODLAND RIDGE APTS.
+- Record status: Existing, unchanged

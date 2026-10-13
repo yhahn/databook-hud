@@ -1,0 +1,85 @@
+# Project: ROYAL COURT APTS (CAA20070495)
+
+- HUD ID: CAA20070495
+- HUD ID before: 
+- Project: ROYAL COURT APTS
+- Address: 17915 MONTEREY RD
+- City: MORGAN HILL
+- State: CA
+- ZIP: 95037
+- ZIP extension: 
+- State project ID: CA-05-067
+- Latitude: 37.135149
+- Longitude: -121.658913
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085512314
+- Tract 2010: 06085512314
+- Tract 2000: 06085512306
+- Tract 1990: 06085512398
+- Place 2020: 49278
+- Place 2010: 49278
+- Place 2000: 49278
+- Place 1990: 1850
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1076664
+- Units: 55
+- Low-income units: 54
+- Units reported: 55
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 28
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

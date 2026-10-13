@@ -1,0 +1,85 @@
+# Project: RIDGE AT WEST MEMPHIS II (ARA20060065)
+
+- HUD ID: ARA20060065
+- HUD ID before: 
+- Project: RIDGE AT WEST MEMPHIS II
+- Address: 210 W JACKSON AVE
+- City: WEST MEMPHIS
+- State: AR
+- ZIP: 72301
+- ZIP extension: 
+- State project ID: AR-05-18
+- Latitude: 35.139046
+- Longitude: -90.188809
+- County FIPS: 05035
+- County from: 2020
+- Tract 2020: 05035030302
+- Tract 2010: 05035030302
+- Tract 2000: 05035030302
+- Tract 1990: 05035030300
+- Place 2020: 74540
+- Place 2010: 74540
+- Place 2000: 74540
+- Place 1990: 3005
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 425000
+- Units: 64
+- Low-income units: 51
+- Units reported: 64
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 32
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

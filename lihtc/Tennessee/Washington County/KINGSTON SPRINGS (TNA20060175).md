@@ -1,0 +1,85 @@
+# Project: KINGSTON SPRINGS (TNA20060175)
+
+- HUD ID: TNA20060175
+- HUD ID before: 
+- Project: KINGSTON SPRINGS
+- Address: 1211 KING SPRINGS RD
+- City: JOHNSON CITY
+- State: TN
+- ZIP: 37601
+- ZIP extension: 
+- State project ID: TN-04-036
+- Latitude: 36.316722
+- Longitude: -82.325559
+- County FIPS: 47179
+- County from: 2020
+- Tract 2020: 47179060902
+- Tract 2010: 47179060900
+- Tract 2000: 47179060900
+- Tract 1990: 47179060900
+- Place 2020: 38320
+- Place 2010: 38320
+- Place 2000: 38320
+- Place 1990: 0730
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 218327
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 21
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

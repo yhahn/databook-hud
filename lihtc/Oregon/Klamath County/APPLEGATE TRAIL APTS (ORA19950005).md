@@ -1,0 +1,85 @@
+# Project: APPLEGATE TRAIL APTS (ORA19950005)
+
+- HUD ID: ORA19950005
+- HUD ID before: 
+- Project: APPLEGATE TRAIL APTS
+- Address: 4520 BRISTOL AVE
+- City: KLAMATH FALLS
+- State: OR
+- ZIP: 97603
+- ZIP extension: 
+- State project ID: OR-93-1-125
+- Latitude: 42.189036
+- Longitude: -121.733532
+- County FIPS: 41035
+- County from: 2020
+- Tract 2020: 41035971400
+- Tract 2010: 41035971400
+- Tract 2000: 41035971400
+- Tract 1990: 41035971400
+- Place 2020: 01850
+- Place 2010: 01850
+- Place 2000: 01850
+- Place 1990: 0020
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 232954
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 27
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

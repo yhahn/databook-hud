@@ -1,0 +1,85 @@
+# Project: HEARTHWOOD APTS (VAA19970055)
+
+- HUD ID: VAA19970055
+- HUD ID before: 
+- Project: HEARTHWOOD APTS
+- Address: 2111 MICHIE DR
+- City: CHARLOTTESVILLE
+- State: VA
+- ZIP: 22901
+- ZIP extension: 
+- State project ID: 4522
+- Latitude: 38.06026
+- Longitude: -78.486409
+- County FIPS: 51540
+- County from: 2020
+- Tract 2020: 51540000800
+- Tract 2010: 51540000800
+- Tract 2000: 51540000800
+- Tract 1990: 51540000800
+- Place 2020: 14968
+- Place 2010: 14968
+- Place 2000: 14968
+- Place 1990: 0225
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 308092
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 41
+- 1-bedroom units: 39
+- 2-bedroom units: 100
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ARROW RIDGE TOWNHOMES (SDA20050005)
+
+- HUD ID: SDA20050005
+- HUD ID before: 
+- Project: ARROW RIDGE TOWNHOMES
+- Address: 1720 S MULBERRY AVE
+- City: BRANDON
+- State: SD
+- ZIP: 57005
+- ZIP extension: 
+- State project ID: 00079
+- Latitude: 43.57419
+- Longitude: -96.591177
+- County FIPS: 46099
+- County from: 2020
+- Tract 2020: 46099010502
+- Tract 2010: 46099010502
+- Tract 2000: 46099010500
+- Tract 1990: 46099010400
+- Place 2020: 06840
+- Place 2010: 06840
+- Place 2000: 06840
+- Place 1990: 0153
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SPRUCE TERRACE (ORA20020065)
+
+- HUD ID: ORA20020065
+- HUD ID before: 
+- Project: SPRUCE TERRACE
+- Address: 830 N PERSHING ST
+- City: MT ANGEL
+- State: OR
+- ZIP: 97362
+- ZIP extension: 
+- State project ID: 65
+- Latitude: 45.073349
+- Longitude: -122.802662
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047010400
+- Tract 2010: 41047010400
+- Tract 2000: 41047010400
+- Tract 1990: 41047010400
+- Place 2020: 50150
+- Place 2010: 50150
+- Place 2000: 50150
+- Place 1990: 0790
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 292700
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 18
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 696696
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

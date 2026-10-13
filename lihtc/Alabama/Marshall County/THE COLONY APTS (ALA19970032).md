@@ -1,0 +1,85 @@
+# Project: THE COLONY APTS (ALA19970032)
+
+- HUD ID: ALA19970032
+- HUD ID before: 
+- Project: THE COLONY APTS
+- Address: 2020 AL HWY 205 N
+- City: ALBERTVILLE
+- State: AL
+- ZIP: 35950
+- ZIP extension: 
+- State project ID: AL-97-0025
+- Latitude: 34.2756
+- Longitude: -86.248808
+- County FIPS: 01095
+- County from: 2020
+- Tract 2020: 01095030701
+- Tract 2010: 01095030701
+- Tract 2000: 01095030700
+- Tract 1990: 01095030700
+- Place 2020: 00988
+- Place 2010: 00988
+- Place 2000: 00988
+- Place 1990: 0815
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 215736
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 56
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1999135. AKA ALBERTVILLELONY APTS.
+- Record status: Existing, unchanged

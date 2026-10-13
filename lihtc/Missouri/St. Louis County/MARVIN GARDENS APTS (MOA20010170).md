@@ -1,0 +1,85 @@
+# Project: MARVIN GARDENS APTS (MOA20010170)
+
+- HUD ID: MOA20010170
+- HUD ID before: 
+- Project: MARVIN GARDENS APTS
+- Address: 1 MARVIN GDNS
+- City: ST LOUIS
+- State: MO
+- ZIP: 63114
+- ZIP extension: 
+- State project ID: 99-126
+- Latitude: 38.719461
+- Longitude: -90.35969
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189213500
+- Tract 2010: 29189213500
+- Tract 2000: 29189213500
+- Tract 1990: 29189213500
+- Place 2020: 64478
+- Place 2010: 64478
+- Place 2000: 04366
+- Place 1990: 3860
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 46
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

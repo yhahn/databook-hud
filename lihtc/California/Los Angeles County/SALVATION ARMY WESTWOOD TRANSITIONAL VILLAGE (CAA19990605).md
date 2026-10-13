@@ -1,0 +1,85 @@
+# Project: SALVATION ARMY WESTWOOD TRANSITIONAL VILLAGE (CAA19990605)
+
+- HUD ID: CAA19990605
+- HUD ID before: 
+- Project: SALVATION ARMY WESTWOOD TRANSITIONAL VILLAGE
+- Address: 1341 S SEPULVEDA BLVD
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90025
+- ZIP extension: 
+- State project ID: CA-97-186
+- Latitude: 34.053845
+- Longitude: -118.449872
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037980017
+- Tract 2010: 06037701100
+- Tract 2000: 06037701100
+- Tract 1990: 06037701100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 44000
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 511424
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 20
+- 3-bedroom units: 11
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

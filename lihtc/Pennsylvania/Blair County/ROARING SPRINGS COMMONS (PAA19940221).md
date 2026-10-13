@@ -1,0 +1,85 @@
+# Project: ROARING SPRINGS COMMONS (PAA19940221)
+
+- HUD ID: PAA19940221
+- HUD ID before: 
+- Project: ROARING SPRINGS COMMONS
+- Address: 303 COVE LN
+- City: ROARING SPRING
+- State: PA
+- ZIP: 16673
+- ZIP extension: 
+- State project ID: TC19940101
+- Latitude: 40.334414
+- Longitude: -78.389821
+- County FIPS: 42013
+- County from: 2020
+- Tract 2020: 42013011400
+- Tract 2010: 42013011400
+- Tract 2000: 42013011400
+- Tract 1990: 42013011400
+- Place 2020: 65256
+- Place 2010: 65256
+- Place 2000: 65256
+- Place 1990: 7496
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 105583
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 46
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1996225.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUSANVILLE GARDENS APTS (CAA20010681)
+
+- HUD ID: CAA20010681
+- HUD ID before: 
+- Project: SUSANVILLE GARDENS APTS
+- Address: 1070 PAIUTE LN
+- City: SUSANVILLE
+- State: CA
+- ZIP: 96130
+- ZIP extension: 
+- State project ID: CA-01-913
+- Latitude: 40.430137
+- Longitude: -120.661275
+- County FIPS: 06035
+- County from: 2020
+- Tract 2020: 06035040305
+- Tract 2010: 06035040305
+- Tract 2000: 06035040301
+- Tract 1990: 06035040300
+- Place 2020: 77364
+- Place 2010: 77364
+- Place 2000: 77364
+- Place 1990: 2845
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 38713
+- Units: 64
+- Low-income units: 32
+- Units reported: 64
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

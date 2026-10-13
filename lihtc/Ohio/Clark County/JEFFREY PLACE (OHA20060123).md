@@ -1,0 +1,85 @@
+# Project: JEFFREY PLACE (OHA20060123)
+
+- HUD ID: OHA20060123
+- HUD ID before: 
+- Project: JEFFREY PLACE
+- Address: 4725 SECURITY DR
+- City: SPRINGFIELD
+- State: OH
+- ZIP: 45503
+- ZIP extension: 
+- State project ID: 050189
+- Latitude: 39.992836
+- Longitude: -83.775751
+- County FIPS: 39023
+- County from: 2020
+- Tract 2020: 39023002608
+- Tract 2010: 39023002606
+- Tract 2000: 39023002401
+- Tract 1990: 39023002401
+- Place 2020: 56938
+- Place 2010: 56938
+- Place 2000: 56938
+- Place 1990: 3158
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007070.
+- Record status: Existing, unchanged

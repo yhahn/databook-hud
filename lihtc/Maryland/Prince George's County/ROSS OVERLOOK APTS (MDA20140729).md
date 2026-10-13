@@ -1,0 +1,85 @@
+# Project: ROSS OVERLOOK APTS (MDA20140729)
+
+- HUD ID: MDA20140729
+- HUD ID before: 
+- Project: ROSS OVERLOOK APTS
+- Address: 1507 RAY RD
+- City: HYATTSVILLE
+- State: MD
+- ZIP: 20782
+- ZIP extension: 
+- State project ID: MD-12-21001
+- Latitude: 38.958992
+- Longitude: -76.9778
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033805000
+- Tract 2010: 24033805000
+- Tract 2000: 24033805000
+- Tract 1990: 24033805000
+- Place 2020: 16875
+- Place 2010: 16875
+- Place 2000: 16875
+- Place 1990: 0188
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 186
+- Low-income units: 186
+- Units reported: 186
+- Low-income reported: 186
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA0000017.
+- Record status: Existing, unchanged

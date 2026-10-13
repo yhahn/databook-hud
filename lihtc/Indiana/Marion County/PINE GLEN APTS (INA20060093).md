@@ -1,0 +1,85 @@
+# Project: PINE GLEN APTS (INA20060093)
+
+- HUD ID: INA20060093
+- HUD ID before: 
+- Project: PINE GLEN APTS
+- Address: 4259 BURKHART DR
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46227
+- ZIP extension: 
+- State project ID: IN-04-00200
+- Latitude: 39.706169
+- Longitude: -86.155452
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097380600
+- Tract 2010: 18097380600
+- Tract 2000: 18097380600
+- Tract 1990: 18097380600
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 167
+- Units reported: 176
+- Low-income reported: 167
+- Efficiencies: 0
+- 1-bedroom units: 92
+- 2-bedroom units: 80
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

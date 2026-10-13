@@ -1,0 +1,85 @@
+# Project: NORTH BRUNSWICK SENIOR HOUSING COMPLEX (NJA20120861)
+
+- HUD ID: NJA20120861
+- HUD ID before: 
+- Project: NORTH BRUNSWICK SENIOR HOUSING COMPLEX
+- Address: 740 HERMANN ROAD
+- City: NORTH BRUNSWICK TWP.
+- State: NJ
+- ZIP: 08902
+- ZIP extension: 
+- State project ID: NJ-0389
+- Latitude: 40.467352
+- Longitude: -74.458855
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023006103
+- Tract 2010: 34023006103
+- Tract 2000: 34023006103
+- Tract 1990: 34023006103
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 52605
+- Place 1990: 2954
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 55973
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 150
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1996085, NJA0000075.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: DANTE FASCELL (FLA20140020)
+
+- HUD ID: FLA20140020
+- HUD ID before: 
+- Project: DANTE FASCELL
+- Address: 2929 NW 18TH AVE
+- City: MIAMI
+- State: FL
+- ZIP: 33142
+- ZIP extension: 
+- State project ID: 2554
+- Latitude: 25.803809
+- Longitude: -80.225505
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086002404
+- Tract 2010: 12086002404
+- Tract 2000: 12086002401
+- Tract 1990: 12025001802
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 45000
+- Place 1990: 1370
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 151
+- Low-income units: 151
+- Units reported: 151
+- Low-income reported: 151
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 42
+- 3-bedroom units: 28
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

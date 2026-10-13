@@ -1,0 +1,85 @@
+# Project: ROOSEVELT SCHOOL APARTMENTS (WIA20162017)
+
+- HUD ID: WIA20162017
+- HUD ID before: 
+- Project: ROOSEVELT SCHOOL APARTMENTS
+- Address: 1307 HAYES ST
+- City: LA CROSSE
+- State: WI
+- ZIP: 54603
+- ZIP extension: 
+- State project ID: 6129
+- Latitude: 43.854241
+- Longitude: -91.238227
+- County FIPS: 55063
+- County from: 2020
+- Tract 2020: 55063000100
+- Tract 2010: 55063000100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 40775
+- Place 2010: 40775
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 171904
+- Units: 33
+- Low-income units: 2
+- Units reported: 33
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 450000
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

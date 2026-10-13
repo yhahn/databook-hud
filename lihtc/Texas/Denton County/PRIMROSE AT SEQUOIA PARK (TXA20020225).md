@@ -1,0 +1,85 @@
+# Project: PRIMROSE AT SEQUOIA PARK (TXA20020225)
+
+- HUD ID: TXA20020225
+- HUD ID before: 
+- Project: PRIMROSE AT SEQUOIA PARK
+- Address: 1400 E UNIVERSITY DR
+- City: DENTON
+- State: TX
+- ZIP: 76209
+- ZIP extension: 
+- State project ID: TX0419
+- Latitude: 33.233182
+- Longitude: -97.115167
+- County FIPS: 48121
+- County from: 2020
+- Tract 2020: 48121020601
+- Tract 2010: 48121020601
+- Tract 2000: 48121020601
+- Tract 1990: 48121020601
+- Place 2020: 19972
+- Place 2010: 19972
+- Place 2000: 19972
+- Place 1990: 1140
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 250
+- Low-income units: 250
+- Units reported: 250
+- Low-income reported: 250
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

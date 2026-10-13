@@ -1,0 +1,85 @@
+# Project: OAK PARK APARTMENTS #05411 (NJA20059025)
+
+- HUD ID: NJA20059025
+- HUD ID before: 
+- Project: OAK PARK APARTMENTS #05411
+- Address: 1 GARDEN DR
+- City: ROSELLE
+- State: NJ
+- ZIP: 07203
+- ZIP extension: 2820
+- State project ID: 02277-1
+- Latitude: 40.652176
+- Longitude: -74.2368
+- County FIPS: 34039
+- County from: 2020
+- Tract 2020: 34039034100
+- Tract 2010: 34039034100
+- Tract 2000: 34039034100
+- Tract 1990: 
+- Place 2020: 64620
+- Place 2010: 64620
+- Place 2000: 64620
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 170899
+- Units: 252
+- Low-income units: 252
+- Units reported: 252
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

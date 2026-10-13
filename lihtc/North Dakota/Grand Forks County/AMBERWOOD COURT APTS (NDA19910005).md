@@ -1,0 +1,85 @@
+# Project: AMBERWOOD COURT APTS (NDA19910005)
+
+- HUD ID: NDA19910005
+- HUD ID before: 
+- Project: AMBERWOOD COURT APTS
+- Address: 824 S 25TH ST
+- City: GRAND FORKS
+- State: ND
+- ZIP: 58201
+- ZIP extension: 
+- State project ID: 91-14
+- Latitude: 47.913882
+- Longitude: -97.0634
+- County FIPS: 38035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 38035010801
+- Tract 2000: 38035010801
+- Tract 1990: 38035010801
+- Place 2020: 
+- Place 2010: 32060
+- Place 2000: 32060
+- Place 1990: 0693
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 30572
+- Units: 96
+- Low-income units: 39
+- Units reported: 96
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

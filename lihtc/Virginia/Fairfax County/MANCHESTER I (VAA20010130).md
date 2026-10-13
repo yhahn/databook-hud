@@ -1,0 +1,85 @@
+# Project: MANCHESTER I (VAA20010130)
+
+- HUD ID: VAA20010130
+- HUD ID before: 
+- Project: MANCHESTER I
+- Address: 7131 SILVER LAKE BLVD
+- City: ALEXANDRIA
+- State: VA
+- ZIP: 22315
+- ZIP extension: 
+- State project ID: 5311
+- Latitude: 38.763808
+- Longitude: -77.153943
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059421102
+- Tract 2010: 51059421102
+- Tract 2000: 51059421100
+- Tract 1990: 51059421100
+- Place 2020: 42746
+- Place 2010: 42746
+- Place 2000: 29552
+- Place 1990: 0499
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 348426
+- Units: 136
+- Low-income units: 136
+- Units reported: 136
+- Low-income reported: 136
+- Efficiencies: 0
+- 1-bedroom units: 83
+- 2-bedroom units: 53
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MANCHESTER LAKES SENIORS I.
+- Record status: Existing, unchanged

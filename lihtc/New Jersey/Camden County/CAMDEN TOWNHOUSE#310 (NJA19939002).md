@@ -1,0 +1,85 @@
+# Project: CAMDEN TOWNHOUSE#310 (NJA19939002)
+
+- HUD ID: NJA19939002
+- HUD ID before: 
+- Project: CAMDEN TOWNHOUSE#310
+- Address: 707A S BROADWAY
+- City: CAMDEN
+- State: NJ
+- ZIP: 08103
+- ZIP extension: 2101
+- State project ID: WAP1149
+- Latitude: 39.936809
+- Longitude: -75.119413
+- County FIPS: 34007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 34007610400
+- Tract 2000: 34007600300
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 10000
+- Place 2000: 10000
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

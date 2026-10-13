@@ -1,0 +1,85 @@
+# Project: WOOD TERRACE APTS (OKA19940060)
+
+- HUD ID: OKA19940060
+- HUD ID before: 
+- Project: WOOD TERRACE APTS
+- Address: 100 W FOURTH ST
+- City: TAHLEQUAH
+- State: OK
+- ZIP: 74464
+- ZIP extension: 
+- State project ID: OK-93-06-0013
+- Latitude: 35.900941
+- Longitude: -94.975619
+- County FIPS: 40021
+- County from: 2020
+- Tract 2020: 40021978000
+- Tract 2010: 40021978000
+- Tract 2000: 40021978000
+- Tract 1990: 40021978000
+- Place 2020: 72100
+- Place 2010: 72100
+- Place 2000: 72100
+- Place 1990: 2370
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 53
+- Low-income units: 21
+- Units reported: 53
+- Low-income reported: 21
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: EAST POINTE APTS (OHA20030044)
+
+- HUD ID: OHA20030044
+- HUD ID before: 
+- Project: EAST POINTE APTS
+- Address: 3617 LAKEPOINTE DR
+- City: NORTHWOOD
+- State: OH
+- ZIP: 43619
+- ZIP extension: 
+- State project ID: OH-02-0107
+- Latitude: 41.59693
+- Longitude: -83.452219
+- County FIPS: 39173
+- County from: 2020
+- Tract 2020: 39173020901
+- Tract 2010: 39173020900
+- Tract 2000: 39173020900
+- Tract 1990: 39173020900
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 50260
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 140186
+- Units: 200
+- Low-income units: 143
+- Units reported: 200
+- Low-income reported: 143
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003592, OHA2004089.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WILLOW WOOD APTS (MSA19970112)
+
+- HUD ID: MSA19970112
+- HUD ID before: 
+- Project: WILLOW WOOD APTS
+- Address: 925 GRADY AVE
+- City: YAZOO CITY
+- State: MS
+- ZIP: 39194
+- ZIP extension: 
+- State project ID: MS-96-062
+- Latitude: 32.857498
+- Longitude: -90.398311
+- County FIPS: 28163
+- County from: 2020
+- Tract 2020: 28163950200
+- Tract 2010: 28163950200
+- Tract 2000: 28163950200
+- Tract 1990: 28163950200
+- Place 2020: 81520
+- Place 2010: 81520
+- Place 2000: 81520
+- Place 1990: 1480
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 49
+- Low-income units: 48
+- Units reported: 49
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 17
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1997577.
+- Record status: Existing, unchanged

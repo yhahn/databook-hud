@@ -1,0 +1,85 @@
+# Project: HEALY HEIGHTS APTS SITE 2 (ORA20144003)
+
+- HUD ID: ORA20144003
+- HUD ID before: 
+- Project: HEALY HEIGHTS APTS SITE 2
+- Address: 1900 NE BEAR CREEK RD
+- City: BEND
+- State: OR
+- ZIP: 97702
+- ZIP extension: 
+- State project ID: OR-644
+- Latitude: 44.051528
+- Longitude: -121.276178
+- County FIPS: 41017
+- County from: 2020
+- Tract 2020: 41017001802
+- Tract 2010: 41017001800
+- Tract 2000: 41017991702
+- Tract 1990: 
+- Place 2020: 05800
+- Place 2010: 05800
+- Place 2000: 05800
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 343823
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 32
+- 3-bedroom units: 30
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

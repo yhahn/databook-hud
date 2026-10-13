@@ -1,0 +1,85 @@
+# Project: ROCKWOOD SENIOR HOUSING (PAA20010170)
+
+- HUD ID: PAA20010170
+- HUD ID before: 
+- Project: ROCKWOOD SENIOR HOUSING
+- Address: 359 MARKET ST
+- City: ROCKWOOD
+- State: PA
+- ZIP: 15557
+- ZIP extension: 
+- State project ID: TC19990059
+- Latitude: 39.916509
+- Longitude: -79.154321
+- County FIPS: 42111
+- County from: 2020
+- Tract 2020: 42111021800
+- Tract 2010: 42111021800
+- Tract 2000: 42111021800
+- Tract 1990: 42111021800
+- Place 2020: 65736
+- Place 2010: 65736
+- Place 2000: 11624
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 70172
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 386916
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

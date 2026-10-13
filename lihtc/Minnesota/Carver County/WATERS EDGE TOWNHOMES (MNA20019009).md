@@ -1,0 +1,85 @@
+# Project: WATERS EDGE TOWNHOMES (MNA20019009)
+
+- HUD ID: MNA20019009
+- HUD ID before: 
+- Project: WATERS EDGE TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: WATERTOWN
+- State: MN
+- ZIP: 55388
+- ZIP extension: 
+- State project ID: D2622
+- Latitude: 44.95863
+- Longitude: -93.839116
+- County FIPS: 27019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27019090100
+- Tract 2000: 27019090100
+- Tract 1990: 27019090100
+- Place 2020: 
+- Place 2010: 68548
+- Place 2000: 41138
+- Place 1990: 4005
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

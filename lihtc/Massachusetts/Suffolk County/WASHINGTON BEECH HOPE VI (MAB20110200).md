@@ -1,0 +1,85 @@
+# Project: WASHINGTON BEECH HOPE VI (MAB20110200)
+
+- HUD ID: MAB20110200
+- HUD ID before: 
+- Project: WASHINGTON BEECH HOPE VI
+- Address: 4560 WASHINGTON ST
+- City: BOSTON
+- State: MA
+- ZIP: 02131
+- ZIP extension: 
+- State project ID: 2740
+- Latitude: 42.2777
+- Longitude: -71.137392
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025140106
+- Tract 2010: 25025140106
+- Tract 2000: 25025140104
+- Tract 1990: 25025140101
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 3172500
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 25
+- 3-bedroom units: 47
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1750000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB20110200, MAB2009095. AKA WASHINGTON BEECH HOPE VI IA & 2A.
+- Record status: Existing, unchanged

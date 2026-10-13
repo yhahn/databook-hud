@@ -1,0 +1,85 @@
+# Project: CLARK COVE COTTAGES (UTA20110911)
+
+- HUD ID: UTA20110911
+- HUD ID before: 
+- Project: CLARK COVE COTTAGES
+- Address: 316 E. CLARK STREET
+- City: GRANTSVILLE
+- State: UT
+- ZIP: 84029
+- ZIP extension: 0000
+- State project ID: 2010-01
+- Latitude: 40.60211
+- Longitude: -112.451242
+- County FIPS: 49045
+- County from: 2020
+- Tract 2020: 49045130800
+- Tract 2010: 49045130800
+- Tract 2000: 49045130800
+- Tract 1990: 49045130800
+- Place 2020: 31120
+- Place 2010: 31120
+- Place 2000: 31120
+- Place 1990: 0320
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 236228
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

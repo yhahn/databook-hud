@@ -1,0 +1,85 @@
+# Project: ALLEN WILSON - PHASE III (GAA20130001)
+
+- HUD ID: GAA20130001
+- HUD ID before: 
+- Project: ALLEN WILSON - PHASE III
+- Address: 1450 COMMERCE DR
+- City: DECATUR
+- State: GA
+- ZIP: 30030
+- ZIP extension: 3209
+- State project ID: GA-12-059
+- Latitude: 33.771847
+- Longitude: -84.299072
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089022501
+- Tract 2010: 13089022500
+- Tract 2000: 13089022500
+- Tract 1990: 13089022500
+- Place 2020: 22052
+- Place 2010: 22052
+- Place 2000: 04000
+- Place 1990: 0825
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 709411
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 49
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2012010, GAA0000027. AKA ALLEN WILSON III.
+- Record status: Existing, unchanged

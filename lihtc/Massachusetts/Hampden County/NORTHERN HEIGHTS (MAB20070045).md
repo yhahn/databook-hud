@@ -1,0 +1,85 @@
+# Project: NORTHERN HEIGHTS (MAB20070045)
+
+- HUD ID: MAB20070045
+- HUD ID before: 
+- Project: NORTHERN HEIGHTS
+- Address: 769 MAIN ST
+- City: SPRINGFIELD
+- State: MA
+- ZIP: 01105
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.096483
+- Longitude: -72.582124
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013802000
+- Tract 2010: 25013802000
+- Tract 2000: 25013802000
+- Tract 1990: 25013802000
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 4090
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 149
+- Low-income units: 149
+- Units reported: 149
+- Low-income reported: 149
+- Efficiencies: 19
+- 1-bedroom units: 42
+- 2-bedroom units: 57
+- 3-bedroom units: 18
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

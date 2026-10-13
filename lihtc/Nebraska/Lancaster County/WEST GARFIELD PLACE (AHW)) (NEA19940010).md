@@ -1,0 +1,85 @@
+# Project: WEST GARFIELD PLACE (AHW)) (NEA19940010)
+
+- HUD ID: NEA19940010
+- HUD ID before: 
+- Project: WEST GARFIELD PLACE (AHW))
+- Address: 1641 SW TENTH ST
+- City: LINCOLN
+- State: NE
+- ZIP: 68522
+- ZIP extension: 
+- State project ID: 7-0232
+- Latitude: 40.797048
+- Longitude: -96.735936
+- County FIPS: 31109
+- County from: 2020
+- Tract 2020: 31109003402
+- Tract 2010: 31109003402
+- Tract 2000: 31109003400
+- Tract 1990: 31109003400
+- Place 2020: 28000
+- Place 2010: 28000
+- Place 2000: 28000
+- Place 1990: 1425
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 189299
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

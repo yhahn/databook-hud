@@ -1,0 +1,85 @@
+# Project: OLDE HICKORY (OHA20100125)
+
+- HUD ID: OHA20100125
+- HUD ID before: 
+- Project: OLDE HICKORY
+- Address: 49269 WHITING AVE
+- City: COSHOCTON
+- State: OH
+- ZIP: 43812
+- ZIP extension: 
+- State project ID: 080137
+- Latitude: 40.300075
+- Longitude: -81.833637
+- County FIPS: 39031
+- County from: 2020
+- Tract 2020: 39031961300
+- Tract 2010: 39031961300
+- Tract 2000: 39031991300
+- Tract 1990: 39031991300
+- Place 2020: 11318
+- Place 2010: 11318
+- Place 2000: 18868
+- Place 1990: 1020
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 18
+- 4-bedroom units: 15
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

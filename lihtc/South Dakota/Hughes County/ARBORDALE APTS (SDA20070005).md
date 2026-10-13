@@ -1,0 +1,85 @@
+# Project: ARBORDALE APTS (SDA20070005)
+
+- HUD ID: SDA20070005
+- HUD ID before: 
+- Project: ARBORDALE APTS
+- Address: 2311 FLAG MOUNTAIN DR
+- City: PIERRE
+- State: SD
+- ZIP: 57501
+- ZIP extension: 
+- State project ID: 00153
+- Latitude: 44.373297
+- Longitude: -100.319694
+- County FIPS: 46065
+- County from: 2020
+- Tract 2020: 46065977800
+- Tract 2010: 46065977800
+- Tract 2000: 46065977800
+- Tract 1990: 46065977800
+- Place 2020: 49600
+- Place 2010: 49600
+- Place 2000: 49600
+- Place 1990: 1085
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 95531
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 13
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

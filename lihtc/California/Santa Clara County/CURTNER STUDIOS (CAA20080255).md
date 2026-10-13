@@ -1,0 +1,85 @@
+# Project: CURTNER STUDIOS (CAA20080255)
+
+- HUD ID: CAA20080255
+- HUD ID before: 
+- Project: CURTNER STUDIOS
+- Address: 701 CURTNER AVE
+- City: SAN JOSE
+- State: CA
+- ZIP: 95125
+- ZIP extension: 
+- State project ID: CA-07-893
+- Latitude: 37.293023
+- Longitude: -121.875242
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085503123
+- Tract 2010: 06085503123
+- Tract 2000: 06085503103
+- Tract 1990: 06085503103
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 2510
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 425688
+- Units: 179
+- Low-income units: 177
+- Units reported: 179
+- Low-income reported: 177
+- Efficiencies: 177
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 135
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

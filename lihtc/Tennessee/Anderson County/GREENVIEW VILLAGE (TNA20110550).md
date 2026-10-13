@@ -1,0 +1,85 @@
+# Project: GREENVIEW VILLAGE (TNA20110550)
+
+- HUD ID: TNA20110550
+- HUD ID before: 
+- Project: GREENVIEW VILLAGE
+- Address: 274 MOONCREST LN
+- City: POWELL
+- State: TN
+- ZIP: 37849
+- ZIP extension: 
+- State project ID: TN-09-116
+- Latitude: 36.0591
+- Longitude: -84.1072
+- County FIPS: 47001
+- County from: 2020
+- Tract 2020: 47001021304
+- Tract 2010: 47001021302
+- Tract 2000: 47001021302
+- Tract 1990: 47001021302
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 55120
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 548323
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 836930
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2011035.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HOMESTEAD COMMONS (NDA20040015)
+
+- HUD ID: NDA20040015
+- HUD ID before: 
+- Project: HOMESTEAD COMMONS
+- Address: 302 THIRD ST NW
+- City: GWINNER
+- State: ND
+- ZIP: 58040
+- ZIP extension: 
+- State project ID: TC0402
+- Latitude: 46.232044
+- Longitude: -97.667584
+- County FIPS: 38081
+- County from: 2020
+- Tract 2020: 38081974000
+- Tract 2010: 38081974000
+- Tract 2000: 38081974000
+- Tract 1990: 38081974000
+- Place 2020: 34020
+- Place 2010: 34020
+- Place 2000: 15100
+- Place 1990: 0720
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 46922
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

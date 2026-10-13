@@ -1,0 +1,85 @@
+# Project: ST VINCENT APTS (PAA20060150)
+
+- HUD ID: PAA20060150
+- HUD ID before: 
+- Project: ST VINCENT APTS
+- Address: 123 CHURCH ST
+- City: PLYMOUTH
+- State: PA
+- ZIP: 18651
+- ZIP extension: 
+- State project ID: TC20040639
+- Latitude: 41.24253
+- Longitude: -75.943401
+- County FIPS: 42079
+- County from: 2020
+- Tract 2020: 42079213600
+- Tract 2010: 42079213600
+- Tract 2000: 42079213600
+- Tract 1990: 42079213600
+- Place 2020: 61648
+- Place 2010: 61648
+- Place 2000: 61648
+- Place 1990: 7276
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 222751
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 6
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 250000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

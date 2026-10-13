@@ -1,0 +1,85 @@
+# Project: TREMONTON CROWN 04 (UTA20050085)
+
+- HUD ID: UTA20050085
+- HUD ID before: 
+- Project: TREMONTON CROWN 04
+- Address: 360 WEST 400 NORTH
+- City: TREMONTON
+- State: UT
+- ZIP: 84337
+- ZIP extension: 
+- State project ID: 2004-04
+- Latitude: 41.716314
+- Longitude: -112.171083
+- County FIPS: 49003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49003960300
+- Tract 2000: 49003960300
+- Tract 1990: 49003960300
+- Place 2020: 
+- Place 2010: 77120
+- Place 2000: 77120
+- Place 1990: 1005
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WASHOE MILLS APTS (NVA20114013)
+
+- HUD ID: NVA20114013
+- HUD ID before: 
+- Project: WASHOE MILLS APTS
+- Address: 1375 MILL STREET
+- City: RENO
+- State: NV
+- ZIP: 98502
+- ZIP extension: 0000
+- State project ID: 11-15
+- Latitude: 39.523748
+- Longitude: -119.793736
+- County FIPS: 32031
+- County from: 2020
+- Tract 2020: 32031000702
+- Tract 2010: 32031000700
+- Tract 2000: 32031000700
+- Tract 1990: 
+- Place 2020: 60600
+- Place 2010: 60600
+- Place 2000: 60600
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 389328
+- Units: 115
+- Low-income units: 115
+- Units reported: 115
+- Low-income reported: 115
+- Efficiencies: 59
+- 1-bedroom units: 55
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

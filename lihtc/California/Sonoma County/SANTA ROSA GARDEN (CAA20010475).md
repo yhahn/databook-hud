@@ -1,0 +1,85 @@
+# Project: SANTA ROSA GARDEN (CAA20010475)
+
+- HUD ID: CAA20010475
+- HUD ID before: 
+- Project: SANTA ROSA GARDEN
+- Address: 4601 MONTGOMERY DR
+- City: SANTA ROSA
+- State: CA
+- ZIP: 95409
+- ZIP extension: 
+- State project ID: CA-00-821
+- Latitude: 38.458861
+- Longitude: -122.669319
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097151702
+- Tract 2010: 06097151700
+- Tract 2000: 06097151700
+- Tract 1990: 06097151700
+- Place 2020: 70098
+- Place 2010: 70098
+- Place 2000: 70098
+- Place 1990: 2615
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 340451
+- Units: 111
+- Low-income units: 109
+- Units reported: 111
+- Low-income reported: 109
+- Efficiencies: 16
+- 1-bedroom units: 20
+- 2-bedroom units: 51
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

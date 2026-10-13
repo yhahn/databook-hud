@@ -1,0 +1,85 @@
+# Project: ROCKWOOD VILLAGE (TNA19890809)
+
+- HUD ID: TNA19890809
+- HUD ID before: 
+- Project: ROCKWOOD VILLAGE
+- Address: 601 S CHAMBERLAIN AVE
+- City: ROCKWOOD
+- State: TN
+- ZIP: 37854
+- ZIP extension: 
+- State project ID: TN-89-137
+- Latitude: 35.858353
+- Longitude: -84.699708
+- County FIPS: 47145
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47145030500
+- Tract 2000: 47145030500
+- Tract 1990: 47145030500
+- Place 2020: 
+- Place 2010: 64440
+- Place 2000: 32520
+- Place 1990: 1210
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 131866
+- Units: 126
+- Low-income units: 126
+- Units reported: 126
+- Low-income reported: 126
+- Efficiencies: 0
+- 1-bedroom units: 125
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1989385. AKA ROCKWOOD.
+- Record status: Existing, unchanged

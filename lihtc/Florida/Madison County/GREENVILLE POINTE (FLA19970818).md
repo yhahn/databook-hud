@@ -1,0 +1,85 @@
+# Project: GREENVILLE POINTE (FLA19970818)
+
+- HUD ID: FLA19970818
+- HUD ID before: 
+- Project: GREENVILLE POINTE
+- Address: 202 SW GREENVILLE POINTE CIR
+- City: GREENVILLE
+- State: FL
+- ZIP: 32331
+- ZIP extension: 
+- State project ID: 315
+- Latitude: 30.473
+- Longitude: -83.6818
+- County FIPS: 12079
+- County from: 2020
+- Tract 2020: 12079110200
+- Tract 2010: 12079110200
+- Tract 2000: 12079990200
+- Tract 1990: 12079990200
+- Place 2020: 27575
+- Place 2010: 27575
+- Place 2000: 27575
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1993085.
+- Record status: Existing, unchanged

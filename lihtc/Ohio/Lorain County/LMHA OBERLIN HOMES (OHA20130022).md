@@ -1,0 +1,85 @@
+# Project: LMHA OBERLIN HOMES (OHA20130022)
+
+- HUD ID: OHA20130022
+- HUD ID before: 
+- Project: LMHA OBERLIN HOMES
+- Address: 56 BERGER CT
+- City: OBERLIN
+- State: OH
+- ZIP: 44074
+- ZIP extension: 
+- State project ID: 110054
+- Latitude: 41.293663
+- Longitude: -82.20654
+- County FIPS: 39093
+- County from: 2020
+- Tract 2020: 39093060100
+- Tract 2010: 39093060100
+- Tract 2000: 39093060100
+- Tract 1990: 39093060100
+- Place 2020: 57834
+- Place 2010: 57834
+- Place 2000: 57834
+- Place 1990: 3225
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 27
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

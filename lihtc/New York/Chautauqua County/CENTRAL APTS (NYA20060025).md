@@ -1,0 +1,85 @@
+# Project: CENTRAL APTS (NYA20060025)
+
+- HUD ID: NYA20060025
+- HUD ID before: 
+- Project: CENTRAL APTS
+- Address: 717 CENTRAL AVE
+- City: DUNKIRK
+- State: NY
+- ZIP: 14048
+- ZIP extension: 
+- State project ID: 20040441
+- Latitude: 42.477503
+- Longitude: -79.33317
+- County FIPS: 36013
+- County from: 2020
+- Tract 2020: 36013035600
+- Tract 2010: 36013035600
+- Tract 2000: 36013035600
+- Tract 1990: 36013035600
+- Place 2020: 21105
+- Place 2010: 21105
+- Place 2000: 21105
+- Place 1990: 0955
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 338973
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 14
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1361378
+- CDBG: Yes
+- CDBG amount: 44000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: SUBSTANCE ABUSE
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

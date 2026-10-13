@@ -1,0 +1,85 @@
+# Project: ORLAND MANOR APTS (INA19900041)
+
+- HUD ID: INA19900041
+- HUD ID before: 
+- Project: ORLAND MANOR APTS
+- Address: 6060 N MARKET ST
+- City: ORLAND
+- State: IN
+- ZIP: 46776
+- ZIP extension: 
+- State project ID: IN-89-04001
+- Latitude: 41.729952
+- Longitude: -85.166491
+- County FIPS: 18151
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18151971000
+- Tract 2000: 18151971000
+- Tract 1990: 18151971000
+- Place 2020: 
+- Place 2010: 57006
+- Place 2000: 57006
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001290.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 4100 WEST HILLMONT (ILA19870004)
+
+- HUD ID: ILA19870004
+- HUD ID before: 
+- Project: 4100 WEST HILLMONT
+- Address: 4100 W HILLMONT RD
+- City: PEORIA
+- State: IL
+- ZIP: 61615
+- ZIP extension: 
+- State project ID: 041-87
+- Latitude: 40.761936
+- Longitude: -89.657627
+- County FIPS: 17143
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17143003101
+- Tract 2000: 17143003101
+- Tract 1990: 17143003101
+- Place 2020: 
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 4590
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 1424
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000120.
+- Record status: Existing, unchanged

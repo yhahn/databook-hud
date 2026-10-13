@@ -1,0 +1,85 @@
+# Project: HILL STREET SCHOOL (AZA20240022)
+
+- HUD ID: AZA20240022
+- HUD ID before: 
+- Project: HILL STREET SCHOOL
+- Address: 450 S HILL STREET
+- City: GLOBE
+- State: AZ
+- ZIP: 85501
+- ZIP extension: 
+- State project ID: TC-1007-22
+- Latitude: 33.392966
+- Longitude: -110.782933
+- County FIPS: 04007
+- County from: 2020
+- Tract 2020: 04007001100
+- Tract 2010: 04007001100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 28030
+- Place 2010: 28030
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 1494188
+- Units: 64
+- Low-income units: 56
+- Units reported: 64
+- Low-income reported: 56
+- Efficiencies: 4
+- 1-bedroom units: 53
+- 2-bedroom units: 6
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 2000000
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

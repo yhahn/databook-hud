@@ -1,0 +1,85 @@
+# Project: WASHBURN HSNG REDEVELOPMT-HUD (WIA20060090)
+
+- HUD ID: WIA20060090
+- HUD ID before: 
+- Project: WASHBURN HSNG REDEVELOPMT-HUD
+- Address: 420 E THIRD ST
+- City: WASHBURN
+- State: WI
+- ZIP: 54891
+- ZIP extension: 
+- State project ID: 3083
+- Latitude: 46.677337
+- Longitude: -90.886303
+- County FIPS: 55007
+- County from: 2020
+- Tract 2020: 55007960300
+- Tract 2010: 55007960300
+- Tract 2000: 55007960300
+- Tract 1990: 55007960300
+- Place 2020: 83525
+- Place 2010: 83525
+- Place 2000: 83525
+- Place 1990: 2645
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 30418
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 5
+- 3-bedroom units: 6
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WASHBURN HOUSING REDEVELOPMENT-HUD.
+- Record status: Existing, unchanged

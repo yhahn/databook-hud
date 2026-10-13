@@ -1,0 +1,85 @@
+# Project: OVERLOOK AT THORNTON (COA20060020)
+
+- HUD ID: COA20060020
+- HUD ID before: 
+- Project: OVERLOOK AT THORNTON
+- Address: 647 W 91ST AVE
+- City: THORNTON
+- State: CO
+- ZIP: 80260
+- ZIP extension: 
+- State project ID: 2005506
+- Latitude: 39.861384
+- Longitude: -104.992968
+- County FIPS: 08001
+- County from: 2020
+- Tract 2020: 08001009304
+- Tract 2010: 08001009304
+- Tract 2000: 08001009304
+- Tract 1990: 08001009304
+- Place 2020: 77290
+- Place 2010: 77290
+- Place 2000: 54330
+- Place 1990: 0943
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 358009
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 75
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

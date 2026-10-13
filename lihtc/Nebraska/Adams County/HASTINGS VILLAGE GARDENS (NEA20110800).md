@@ -1,0 +1,85 @@
+# Project: HASTINGS VILLAGE GARDENS (NEA20110800)
+
+- HUD ID: NEA20110800
+- HUD ID before: 
+- Project: HASTINGS VILLAGE GARDENS
+- Address: 514 S FOURTH AVE
+- City: HASTINGS
+- State: NE
+- ZIP: 68901
+- ZIP extension: 
+- State project ID: 7-0717
+- Latitude: 40.579795
+- Longitude: -98.366419
+- County FIPS: 31001
+- County from: 2020
+- Tract 2020: 31001966100
+- Tract 2010: 31001966100
+- Tract 2000: 31001966100
+- Tract 1990: 31001966100
+- Place 2020: 21415
+- Place 2010: 21415
+- Place 2000: 21415
+- Place 1990: 1145
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 720152
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 600000
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

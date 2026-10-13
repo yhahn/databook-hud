@@ -1,0 +1,85 @@
+# Project: CENTRAL TOWERS (MNB19969004)
+
+- HUD ID: MNB19969004
+- HUD ID before: 
+- Project: CENTRAL TOWERS
+- Address: 20 E EXCHANGE ST
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55101
+- ZIP extension: 5200
+- State project ID: D2142
+- Latitude: 44.949025
+- Longitude: -93.097343
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123034204
+- Tract 2010: 27123034202
+- Tract 2000: 27123034200
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 58000
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 675586
+- Units: 197
+- Low-income units: 193
+- Units reported: 197
+- Low-income reported: 193
+- Efficiencies: 65
+- 1-bedroom units: 126
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 97
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 1500000
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: GAS CITY SCHOOL APTS (INA20050025)
+
+- HUD ID: INA20050025
+- HUD ID before: 
+- Project: GAS CITY SCHOOL APTS
+- Address: 400 E S A ST
+- City: GAS CITY
+- State: IN
+- ZIP: 46933
+- ZIP extension: 
+- State project ID: IN-03-00800
+- Latitude: 40.486779
+- Longitude: -85.608858
+- County FIPS: 18053
+- County from: 2020
+- Tract 2020: 18053010500
+- Tract 2010: 18053010500
+- Tract 2000: 18053010500
+- Tract 1990: 18053010500
+- Place 2020: 27054
+- Place 2010: 27054
+- Place 2000: 27054
+- Place 1990: 0910
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 145586
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 440000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

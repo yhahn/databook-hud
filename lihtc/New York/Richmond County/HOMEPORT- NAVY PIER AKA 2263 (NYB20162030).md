@@ -1,0 +1,85 @@
+# Project: HOMEPORT/ NAVY PIER AKA 2263 (NYB20162030)
+
+- HUD ID: NYB20162030
+- HUD ID before: 
+- Project: HOMEPORT/ NAVY PIER AKA 2263
+- Address: 7 NAVY PIER CT
+- City: STATEN ISLAND
+- State: NY
+- ZIP: 10304
+- ZIP extension: 
+- State project ID: NY-14-2073
+- Latitude: 40.629142
+- Longitude: -74.073942
+- County FIPS: 36085
+- County from: 2020
+- Tract 2020: 36085002100
+- Tract 2010: 36085002100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1024220
+- Units: 504
+- Low-income units: 115
+- Units reported: 504
+- Low-income reported: 115
+- Efficiencies: 401
+- 1-bedroom units: 111
+- 2-bedroom units: 59
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

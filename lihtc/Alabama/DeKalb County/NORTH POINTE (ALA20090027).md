@@ -1,0 +1,85 @@
+# Project: NORTH POINTE (ALA20090027)
+
+- HUD ID: ALA20090027
+- HUD ID before: 
+- Project: NORTH POINTE
+- Address: 601 GREENHILL BLVD NW
+- City: FORT PAYNE
+- State: AL
+- ZIP: 35967
+- ZIP extension: 
+- State project ID: AL-08-0037
+- Latitude: 34.471805
+- Longitude: -85.703921
+- County FIPS: 01049
+- County from: 2020
+- Tract 2020: 01049961200
+- Tract 2010: 01049961200
+- Tract 2000: 01049961200
+- Tract 1990: 01049961200
+- Place 2020: 27616
+- Place 2010: 27616
+- Place 2000: 27616
+- Place 1990: 0655
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 800106
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 42
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 56
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1765710
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2009547. FKA WILLOW SPRINGS
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ROLLING HILLS APTS AT EUCLID (OHA19980192)
+
+- HUD ID: OHA19980192
+- HUD ID before: 
+- Project: ROLLING HILLS APTS AT EUCLID
+- Address: 25400 EUCLID AVE
+- City: EUCLID
+- State: OH
+- ZIP: 44117
+- ZIP extension: 
+- State project ID: 96-0139
+- Latitude: 41.584531
+- Longitude: -81.50656
+- County FIPS: 39035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39035152604
+- Tract 2000: 39035152604
+- Tract 1990: 39035152604
+- Place 2020: 
+- Place 2010: 25704
+- Place 2000: 25704
+- Place 1990: 1320
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 329873
+- Units: 196
+- Low-income units: 196
+- Units reported: 196
+- Low-income reported: 196
+- Efficiencies: 18
+- 1-bedroom units: 120
+- 2-bedroom units: 58
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1997235.
+- Record status: Existing, unchanged

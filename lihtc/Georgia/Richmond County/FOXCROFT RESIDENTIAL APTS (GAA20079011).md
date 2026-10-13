@@ -1,0 +1,85 @@
+# Project: FOXCROFT RESIDENTIAL APTS (GAA20079011)
+
+- HUD ID: GAA20079011
+- HUD ID before: 
+- Project: FOXCROFT RESIDENTIAL APTS
+- Address: 527 RICHMOND HILL RD W
+- City: AUGUSTA
+- State: GA
+- ZIP: 30906
+- ZIP extension: 2771
+- State project ID: 2005-045
+- Latitude: 33.430583
+- Longitude: -82.033913
+- County FIPS: 13245
+- County from: 2020
+- Tract 2020: 13245010506
+- Tract 2010: 13245010506
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04204
+- Place 2010: 04204
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 184
+- Units reported: 184
+- Low-income reported: 184
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 104
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

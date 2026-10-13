@@ -1,0 +1,85 @@
+# Project: SHANGRI LA PALMS IV (CAA19910095)
+
+- HUD ID: CAA19910095
+- HUD ID before: 
+- Project: SHANGRI LA PALMS IV
+- Address: 30570, 30870, 31060, 31150, 30187, 30260, 31307 ARBOR REAL
+- City: THOUSAND PALMS
+- State: CA
+- ZIP: 
+- ZIP extension: 
+- State project ID: CA-91-006
+- Latitude: 33.820889
+- Longitude: -116.390036
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065044505
+- Tract 2010: 06065044505
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 78596
+- Place 2010: 78596
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 91163
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

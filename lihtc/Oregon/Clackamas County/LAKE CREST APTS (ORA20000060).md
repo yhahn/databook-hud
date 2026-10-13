@@ -1,0 +1,85 @@
+# Project: LAKE CREST APTS (ORA20000060)
+
+- HUD ID: ORA20000060
+- HUD ID before: 
+- Project: LAKE CREST APTS
+- Address: 8106 SE LAKE RD
+- City: MILWAUKIE
+- State: OR
+- ZIP: 97267
+- ZIP extension: 
+- State project ID: 1023
+- Latitude: 45.421453
+- Longitude: -122.580126
+- County FIPS: 41005
+- County from: 2020
+- Tract 2020: 41005022101
+- Tract 2010: 41005022101
+- Tract 2000: 41005022101
+- Tract 1990: 41005022101
+- Place 2020: 54325
+- Place 2010: 54325
+- Place 2000: 29000
+- Place 1990: 0860
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 467304
+- Units: 229
+- Low-income units: 229
+- Units reported: 229
+- Low-income reported: 229
+- Efficiencies: 30
+- 1-bedroom units: 59
+- 2-bedroom units: 120
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

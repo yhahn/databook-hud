@@ -1,0 +1,85 @@
+# Project: LAS VILLAS DE PASEO NUEVO (CAA20130373)
+
+- HUD ID: CAA20130373
+- HUD ID before: 
+- Project: LAS VILLAS DE PASEO NUEVO
+- Address: 5451 CYPRESS RD
+- City: OXNARD
+- State: CA
+- ZIP: 93033
+- ZIP extension: 
+- State project ID: CA-11-911
+- Latitude: 34.151332
+- Longitude: -119.173252
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111004503
+- Tract 2010: 06111004503
+- Tract 2000: 06111004503
+- Tract 1990: 06111004502
+- Place 2020: 54652
+- Place 2010: 54652
+- Place 2000: 54652
+- Place 1990: 2050
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 802544
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

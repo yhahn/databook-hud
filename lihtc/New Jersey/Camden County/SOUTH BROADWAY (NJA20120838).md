@@ -1,0 +1,85 @@
+# Project: SOUTH BROADWAY (NJA20120838)
+
+- HUD ID: NJA20120838
+- HUD ID before: 
+- Project: SOUTH BROADWAY
+- Address: 1840 S BROADWAY
+- City: CAMDEN
+- State: NJ
+- ZIP: 08104
+- ZIP extension: 
+- State project ID: NJ-91-22
+- Latitude: 39.921308
+- Longitude: -75.119501
+- County FIPS: 34007
+- County from: 2020
+- Tract 2020: 34007601800
+- Tract 2010: 34007601800
+- Tract 2000: 34007601800
+- Tract 1990: 34007601800
+- Place 2020: 10000
+- Place 2010: 10000
+- Place 2000: 10000
+- Place 1990: 1390
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1992085, NJA1992055, NJA0000175.
+- Record status: Existing, unchanged

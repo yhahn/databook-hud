@@ -1,0 +1,85 @@
+# Project: MAPLE CREST (WIA19940090)
+
+- HUD ID: WIA19940090
+- HUD ID before: 
+- Project: MAPLE CREST
+- Address: 962 W SUNSET RD
+- City: PORT WASHINGTON
+- State: WI
+- ZIP: 53074
+- ZIP extension: 
+- State project ID: 1426
+- Latitude: 43.37618
+- Longitude: -87.89012
+- County FIPS: 55089
+- County from: 2020
+- Tract 2020: 55089630202
+- Tract 2010: 55089630202
+- Tract 2000: 55089630202
+- Tract 1990: 55089630200
+- Place 2020: 64450
+- Place 2010: 64450
+- Place 2000: 64450
+- Place 1990: 2050
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 58
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PROVIDENCE TOWN SQUARE (TXA20110805)
+
+- HUD ID: TXA20110805
+- HUD ID before: 
+- Project: PROVIDENCE TOWN SQUARE
+- Address: 3801 CTR ST
+- City: DEER PARK
+- State: TX
+- ZIP: 77536
+- ZIP extension: 
+- State project ID: TX4740
+- Latitude: 29.677247
+- Longitude: -95.122958
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201342900
+- Tract 2010: 48201342900
+- Tract 2000: 48201342900
+- Tract 1990: 48201036003
+- Place 2020: 19624
+- Place 2010: 19624
+- Place 2000: 19624
+- Place 1990: 1115
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 188
+- Low-income units: 188
+- Units reported: 188
+- Low-income reported: 188
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000744.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHARLES STREET STATION (VAA20040026)
+
+- HUD ID: VAA20040026
+- HUD ID before: 
+- Project: CHARLES STREET STATION
+- Address: 135 S CHARLES ST
+- City: STRASBURG
+- State: VA
+- ZIP: 22657
+- ZIP extension: 
+- State project ID: 8330
+- Latitude: 38.985397
+- Longitude: -78.349359
+- County FIPS: 51171
+- County from: 2020
+- Tract 2020: 51171040102
+- Tract 2010: 51171040100
+- Tract 2000: 51171040100
+- Tract 1990: 51171040100
+- Place 2020: 76000
+- Place 2010: 76000
+- Place 2000: 76000
+- Place 1990: 1190
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 83143
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2004025, VAA2003025. FKA CHARLES STREET STATION I & II
+- Record status: Existing, unchanged

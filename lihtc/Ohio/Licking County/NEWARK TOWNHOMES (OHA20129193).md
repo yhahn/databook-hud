@@ -1,0 +1,85 @@
+# Project: NEWARK TOWNHOMES (OHA20129193)
+
+- HUD ID: OHA20129193
+- HUD ID before: 
+- Project: NEWARK TOWNHOMES
+- Address: 11 DAUGHERTY CIR
+- City: NEWARK
+- State: OH
+- ZIP: 43055
+- ZIP extension: 
+- State project ID: 10-0039
+- Latitude: 40.046408
+- Longitude: -82.394508
+- County FIPS: 39089
+- County from: 2020
+- Tract 2020: 39089759000
+- Tract 2010: 39089759000
+- Tract 2000: 39089750400
+- Tract 1990: 39089750400
+- Place 2020: 54040
+- Place 2010: 54040
+- Place 2000: 54040
+- Place 1990: 2925
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2011841.
+- Record status: Existing, unchanged

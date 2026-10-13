@@ -1,0 +1,85 @@
+# Project: AMANDA PARK SENIOR APTS (CAA20120883)
+
+- HUD ID: CAA20120883
+- HUD ID before: 
+- Project: AMANDA PARK SENIOR APTS
+- Address: 24425 SKYVIEW RIDGE DR
+- City: MURRIETA
+- State: CA
+- ZIP: 92562
+- ZIP extension: 
+- State project ID: CA-11-836
+- Latitude: 33.577389
+- Longitude: -117.197781
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065043206
+- Tract 2010: 06065043206
+- Tract 2000: 06065043206
+- Tract 1990: 06065043201
+- Place 2020: 50076
+- Place 2010: 50076
+- Place 2000: 50076
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1245547
+- Units: 397
+- Low-income units: 336
+- Units reported: 397
+- Low-income reported: 336
+- Efficiencies: 0
+- 1-bedroom units: 200
+- 2-bedroom units: 197
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 149
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1995005.
+- Record status: Existing, unchanged

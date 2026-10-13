@@ -1,0 +1,85 @@
+# Project: PENNWAY PLAZA (MOA19980210)
+
+- HUD ID: MOA19980210
+- HUD ID before: 
+- Project: PENNWAY PLAZA
+- Address: 1827 HOLLY ST
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64108
+- ZIP extension: 
+- State project ID: 96114
+- Latitude: 39.090383
+- Longitude: -94.597925
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095015300
+- Tract 2010: 29095015300
+- Tract 2000: 29095003000
+- Tract 1990: 29095003000
+- Place 2020: 38000
+- Place 2010: 38000
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 90
+- Units reported: 120
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 57
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

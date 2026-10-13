@@ -1,0 +1,85 @@
+# Project: BUENA VISTA POINT (FLA19940020)
+
+- HUD ID: FLA19940020
+- HUD ID before: 
+- Project: BUENA VISTA POINT
+- Address: 11856 REEDY CREEK DR
+- City: ORLANDO
+- State: FL
+- ZIP: 32836
+- ZIP extension: 
+- State project ID: 118
+- Latitude: 28.393372
+- Longitude: -81.506483
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095017108
+- Tract 2010: 12095017108
+- Tract 2000: 12095017106
+- Tract 1990: 12095017102
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 04070
+- Place 1990: 0091
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 324
+- Low-income units: 324
+- Units reported: 324
+- Low-income reported: 324
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 204
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

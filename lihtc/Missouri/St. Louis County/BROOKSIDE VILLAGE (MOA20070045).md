@@ -1,0 +1,85 @@
+# Project: BROOKSIDE VILLAGE (MOA20070045)
+
+- HUD ID: MOA20070045
+- HUD ID before: 
+- Project: BROOKSIDE VILLAGE
+- Address: 10240 MACKENZIE RD
+- City: ST LOUIS
+- State: MO
+- ZIP: 63123
+- ZIP extension: 
+- State project ID: 06-074
+- Latitude: 38.524805
+- Longitude: -90.331173
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189220601
+- Tract 2010: 29189220601
+- Tract 2000: 29189220601
+- Tract 1990: 29189220601
+- Place 2020: 00280
+- Place 2010: 29324
+- Place 2000: 00280
+- Place 1990: 0942
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 395000
+- Units: 80
+- Low-income units: 73
+- Units reported: 80
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

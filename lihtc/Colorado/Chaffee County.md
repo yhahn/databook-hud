@@ -1,0 +1,25 @@
+# Tax Credit Projects: Chaffee County, CO
+
+- Level: County
+- Postal code: CO
+- State FIPS: 08
+- County FIPS: 08015
+- Counties: 
+- Projects: 8
+- Units: 288
+- Low-income units: 284
+
+The low-income housing tax credit projects of Chaffee County, Colorado, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [SALIDA APTS (COA19910030)](./Chaffee%20County/SALIDA%20APTS%20%28COA19910030%29.md) | COA19910030 | SALIDA | 1991 | 48 | 47 |
+| [RIVER BEND APTS (COA19980070)](./Chaffee%20County/RIVER%20BEND%20APTS%20%28COA19980070%29.md) | COA19980070 | SALIDA | 1998 | 30 | 30 |
+| [DEANZA VISTA I (COA20030060)](./Chaffee%20County/DEANZA%20VISTA%20I%20%28COA20030060%29.md) | COA20030060 | PONCHA SPRINGS | 2003 | 30 | 29 |
+| [SUNRISE MANOR APTS AHPC (COA20030175)](./Chaffee%20County/SUNRISE%20MANOR%20APTS%20AHPC%20%28COA20030175%29.md) | COA20030175 | BUENA VISTA | 2003 | 40 | 39 |
+| [DEANZA VISTA II (COA20070020)](./Chaffee%20County/DEANZA%20VISTA%20II%20%28COA20070020%29.md) | COA20070020 | PONCHA SPRINGS | 2007 | 8 | 8 |
+| [COLLEGIATE COMMONS (COA20180004)](./Chaffee%20County/COLLEGIATE%20COMMONS%20%28COA20180004%29.md) | COA20180004 | BUENA VISTA | 2018 | 48 | 48 |
+| [DEANZA VISTA REDEVELOPMENT (COA20190016)](./Chaffee%20County/DEANZA%20VISTA%20REDEVELOPMENT%20%28COA20190016%29.md) | COA20190016 | PONCHA SPRINGS | 2019 | 36 | 35 |
+| [SALIDA RIDGE (COA20220025)](./Chaffee%20County/SALIDA%20RIDGE%20%28COA20220025%29.md) | COA20220025 | SALIDA | 2022 | 48 | 48 |

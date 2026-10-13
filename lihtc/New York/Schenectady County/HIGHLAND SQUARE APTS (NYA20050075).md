@@ -1,0 +1,85 @@
+# Project: HIGHLAND SQUARE APTS (NYA20050075)
+
+- HUD ID: NYA20050075
+- HUD ID before: 
+- Project: HIGHLAND SQUARE APTS
+- Address: 88 SARATOGA RD
+- City: GLENVILLE
+- State: NY
+- ZIP: 12302
+- ZIP extension: 
+- State project ID: 20030277
+- Latitude: 42.856224
+- Longitude: -73.938064
+- County FIPS: 36093
+- County from: 2020
+- Tract 2020: 36093032402
+- Tract 2010: 36093032402
+- Tract 2000: 36093032402
+- Tract 1990: 36093032402
+- Place 2020: 22084
+- Place 2010: 22084
+- Place 2000: 22084
+- Place 1990: 0974
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

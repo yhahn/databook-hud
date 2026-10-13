@@ -1,0 +1,24 @@
+# Tax Credit Projects: Anson County, NC
+
+- Level: County
+- Postal code: NC
+- State FIPS: 37
+- County FIPS: 37007
+- Counties: 
+- Projects: 7
+- Units: 257
+- Low-income units: 256
+
+The low-income housing tax credit projects of Anson County, North Carolina, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [PINE RIDGE PLACE (NCA19930315)](./Anson%20County/PINE%20RIDGE%20PLACE%20%28NCA19930315%29.md) | NCA19930315 | POLKTON | 1993 | 32 | 32 |
+| [LAUREL COMMONS APTS (NCA20020075)](./Anson%20County/LAUREL%20COMMONS%20APTS%20%28NCA20020075%29.md) | NCA20020075 | WADESBORO | 2002 | 24 | 24 |
+| [PINE TERRACE APARTMENTS (NCA20020125)](./Anson%20County/PINE%20TERRACE%20APARTMENTS%20%28NCA20020125%29.md) | NCA20020125 | WADESBORO | 2002 | 24 | 24 |
+| [OAK HILL (NCA20050135)](./Anson%20County/OAK%20HILL%20%28NCA20050135%29.md) | NCA20050135 | WADESBORO | 2005 | 73 | 72 |
+| [WYNDSOR DOWNS (NCA20060230)](./Anson%20County/WYNDSOR%20DOWNS%20%28NCA20060230%29.md) | NCA20060230 | POLKTON | 2006 | 32 | 32 |
+| [ABBINGTON GROVE OF WADESBORO (NCA20162030)](./Anson%20County/ABBINGTON%20GROVE%20OF%20WADESBORO%20%28NCA20162030%29.md) | NCA20162030 | WADESBORO | 2016 | 48 | 48 |
+| [PINE BLUFF APARTMENTS (NCA20240075)](./Anson%20County/PINE%20BLUFF%20APARTMENTS%20%28NCA20240075%29.md) | NCA20240075 | WADESBORO | 2024 | 24 | 24 |

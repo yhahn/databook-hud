@@ -1,0 +1,85 @@
+# Project: GATEWAY EAST POINT (GAA20120065)
+
+- HUD ID: GAA20120065
+- HUD ID before: 
+- Project: GATEWAY EAST POINT
+- Address: 1311 CLEVELAND AVE
+- City: EAST POINT
+- State: GA
+- ZIP: 30344
+- ZIP extension: 3430
+- State project ID: GA-09-604
+- Latitude: 33.679625
+- Longitude: -84.431717
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011100
+- Tract 2010: 13121011100
+- Tract 2000: 13121011100
+- Tract 1990: 13121011100
+- Place 2020: 25720
+- Place 2010: 25720
+- Place 2000: 25720
+- Place 1990: 0960
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 101
+- Low-income units: 101
+- Units reported: 101
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

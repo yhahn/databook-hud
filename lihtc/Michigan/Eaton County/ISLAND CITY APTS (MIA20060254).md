@@ -1,0 +1,85 @@
+# Project: ISLAND CITY APTS (MIA20060254)
+
+- HUD ID: MIA20060254
+- HUD ID before: 
+- Project: ISLAND CITY APTS
+- Address: 408 GREYHOUND DR
+- City: EATON RAPIDS
+- State: MI
+- ZIP: 48827
+- ZIP extension: 
+- State project ID: MI-1106
+- Latitude: 42.508242
+- Longitude: -84.639485
+- County FIPS: 26045
+- County from: 2020
+- Tract 2020: 26045021302
+- Tract 2010: 26045021302
+- Tract 2000: 26045021300
+- Tract 1990: 26045021300
+- Place 2020: 24540
+- Place 2010: 24540
+- Place 2000: 24540
+- Place 1990: 0780
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 157777
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 7665000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

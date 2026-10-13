@@ -1,0 +1,85 @@
+# Project: OLDE ENGLISH VILLAGE (MAB19980055)
+
+- HUD ID: MAB19980055
+- HUD ID before: 
+- Project: OLDE ENGLISH VILLAGE
+- Address: 152 MANCA DR
+- City: GARDNER
+- State: MA
+- ZIP: 01440
+- ZIP extension: 
+- State project ID: 01-532
+- Latitude: 42.559323
+- Longitude: -71.998112
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027707100
+- Tract 2010: 25027707100
+- Tract 2000: 25027707100
+- Tract 1990: 25027707100
+- Place 2020: 25485
+- Place 2010: 25485
+- Place 2000: 25485
+- Place 1990: 1370
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 190
+- Units reported: 200
+- Low-income reported: 190
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 99
+- 3-bedroom units: 70
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

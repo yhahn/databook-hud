@@ -1,0 +1,85 @@
+# Project: KAIWAHINE VILLAGE PHASE 1 + 2 (HIA20201002)
+
+- HUD ID: HIA20201002
+- HUD ID before: 
+- Project: KAIWAHINE VILLAGE PHASE 1 + 2
+- Address: 555 KAIWAHINE ST
+- City: KIHEI
+- State: HI
+- ZIP: 96753
+- ZIP extension: 
+- State project ID: HI-2017-006
+- Latitude: 20.780306
+- Longitude: -156.44742
+- County FIPS: 15009
+- County from: 2020
+- Tract 2020: 15009030705
+- Tract 2010: 15009030705
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 36500
+- Place 2010: 36500
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 2598617
+- Units: 120
+- Low-income units: 118
+- Units reported: 120
+- Low-income reported: 118
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 64
+- 3-bedroom units: 54
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 1350000
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TWIN OAKS APTS (CAA20130105)
+
+- HUD ID: CAA20130105
+- HUD ID before: 
+- Project: TWIN OAKS APTS
+- Address: 2390 NUT TREE RD
+- City: VACAVILLE
+- State: CA
+- ZIP: 95687
+- ZIP extension: 
+- State project ID: CA-12-041
+- Latitude: 38.340919
+- Longitude: -121.952987
+- County FIPS: 06095
+- County from: 2020
+- Tract 2020: 06095252910
+- Tract 2010: 06095252910
+- Tract 2000: 06095252910
+- Tract 1990: 06095252906
+- Place 2020: 81554
+- Place 2010: 81554
+- Place 2000: 81554
+- Place 1990: 2995
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 387031
+- Units: 46
+- Low-income units: 46
+- Units reported: 45
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 22
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 36
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

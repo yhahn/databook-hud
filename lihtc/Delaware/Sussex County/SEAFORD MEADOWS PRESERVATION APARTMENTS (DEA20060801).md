@@ -1,0 +1,85 @@
+# Project: SEAFORD MEADOWS PRESERVATION APARTMENTS (DEA20060801)
+
+- HUD ID: DEA20060801
+- HUD ID before: 
+- Project: SEAFORD MEADOWS PRESERVATION APARTMENTS
+- Address: 122 SEAFORD MEADOWS
+- City: SEAFORD
+- State: DE
+- ZIP: 19973
+- ZIP extension: 
+- State project ID: DE-26H004024
+- Latitude: 38.654411
+- Longitude: -75.600474
+- County FIPS: 10005
+- County from: 2020
+- Tract 2020: 10005050406
+- Tract 2010: 10005050406
+- Tract 2000: 10005050402
+- Tract 1990: 10005050400
+- Place 2020: 64320
+- Place 2010: 64320
+- Place 2000: 64320
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 817240
+- Units: 121
+- Low-income units: 117
+- Units reported: 121
+- Low-income reported: 117
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 43
+- 3-bedroom units: 38
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DEA2007025, DEA2007020, DEA2006030, DEA2006026, DEA2006025.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WALNUT WASHINGTON APARTMENTS (MAB20150028)
+
+- HUD ID: MAB20150028
+- HUD ID before: 
+- Project: WALNUT WASHINGTON APARTMENTS
+- Address: 38 WALNUT PARK, 11-15 WALDREN ROAD, 361-363 WALNUT AVENUE, 3224-3234 WASHINGTON STREET
+- City: BOSTON
+- State: MA
+- ZIP: 02119
+- ZIP extension: 
+- State project ID: 3258
+- Latitude: 42.3156
+- Longitude: -71.096023
+- County FIPS: 25025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 25025081300
+- Tract 2000: 25025081300
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 502518
+- Units: 65
+- Low-income units: 65
+- Units reported: 65
+- Low-income reported: 65
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 31
+- 3-bedroom units: 22
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GARDENVIEW APTS (MIA20060060)
+
+- HUD ID: MIA20060060
+- HUD ID before: 
+- Project: GARDENVIEW APTS
+- Address: 801 GARDENVIEW DR
+- City: FLINT
+- State: MI
+- ZIP: 48503
+- ZIP extension: 
+- State project ID: MI-1858
+- Latitude: 43.026623
+- Longitude: -83.691104
+- County FIPS: 26049
+- County from: 2020
+- Tract 2020: 26049013600
+- Tract 2010: 26049013600
+- Tract 2000: 26049002500
+- Tract 1990: 26049002500
+- Place 2020: 29000
+- Place 2010: 29000
+- Place 2000: 29000
+- Place 1990: 0920
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 460886
+- Units: 118
+- Low-income units: 118
+- Units reported: 118
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 118
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

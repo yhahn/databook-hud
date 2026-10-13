@@ -1,0 +1,85 @@
+# Project: WINGATE TOWERS & GARDEN APTS (DCB20060060)
+
+- HUD ID: DCB20060060
+- HUD ID before: 
+- Project: WINGATE TOWERS & GARDEN APTS
+- Address: 4660 MLK JR AVE SW
+- City: WASHINGTON
+- State: DC
+- ZIP: 20032
+- ZIP extension: 
+- State project ID: DCB2006060
+- Latitude: 38.822345
+- Longitude: -77.011309
+- County FIPS: 11001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 11001010900
+- Tract 2000: 11001009808
+- Tract 1990: 11001009808
+- Place 2020: 
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 182416
+- Units: 714
+- Low-income units: 144
+- Units reported: 714
+- Low-income reported: 144
+- Efficiencies: 8
+- 1-bedroom units: 63
+- 2-bedroom units: 36
+- 3-bedroom units: 31
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FORECLOSED.
+- Record status: Existing, unchanged

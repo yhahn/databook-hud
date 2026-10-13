@@ -1,0 +1,85 @@
+# Project: DECATUR EAST (GAA20184189)
+
+- HUD ID: GAA20184189
+- HUD ID before: 
+- Project: DECATUR EAST
+- Address: 590 EAST FREEMAN STREET
+- City: DECATUR
+- State: GA
+- ZIP: 30030
+- ZIP extension: 
+- State project ID: 2015-040
+- Latitude: 33.7681
+- Longitude: -84.2665
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089022900
+- Tract 2010: 13089023000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22052
+- Place 2010: 04644
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 74
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

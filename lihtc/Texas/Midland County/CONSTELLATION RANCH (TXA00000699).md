@@ -1,0 +1,85 @@
+# Project: CONSTELLATION RANCH (TXA00000699)
+
+- HUD ID: TXA00000699
+- HUD ID before: 
+- Project: CONSTELLATION RANCH
+- Address: 1301 LATTA ST
+- City: MIDLAND
+- State: TX
+- ZIP: 79701
+- ZIP extension: 
+- State project ID: TX4499
+- Latitude: 31.981594
+- Longitude: -102.057624
+- County FIPS: 48329
+- County from: 2020
+- Tract 2020: 48329001500
+- Tract 2010: 48329001500
+- Tract 2000: 48329001500
+- Tract 1990: 48329001500
+- Place 2020: 48072
+- Place 2010: 48072
+- Place 2000: 48072
+- Place 1990: 2810
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 136
+- Low-income units: 130
+- Units reported: 136
+- Low-income reported: 130
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 72
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 730000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

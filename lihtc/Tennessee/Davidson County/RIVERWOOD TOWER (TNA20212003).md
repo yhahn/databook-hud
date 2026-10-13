@@ -1,0 +1,85 @@
+# Project: RIVERWOOD TOWER (TNA20212003)
+
+- HUD ID: TNA20212003
+- HUD ID before: 
+- Project: RIVERWOOD TOWER
+- Address: 621 N DUPONT AVENUE
+- City: MADISON
+- State: TN
+- ZIP: 37115
+- ZIP extension: 
+- State project ID: TN-22-973
+- Latitude: 36.267384
+- Longitude: -86.696539
+- County FIPS: 47037
+- County from: 2020
+- Tract 2020: 47037010403
+- Tract 2010: 47037010402
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 52006
+- Place 2010: 52006
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 10060679
+- Units: 117
+- Low-income units: 117
+- Units reported: 117
+- Low-income reported: 117
+- Efficiencies: 0
+- 1-bedroom units: 117
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THE HILLS - PARKSIDE I (NJA19879004)
+
+- HUD ID: NJA19879004
+- HUD ID before: 
+- Project: THE HILLS - PARKSIDE I
+- Address: 5 PARKSIDE ROAD
+- City: BEDMINSTER
+- State: NJ
+- ZIP: 07921
+- ZIP extension: 
+- State project ID: 01602
+- Latitude: 40.658948
+- Longitude: -74.628758
+- County FIPS: 34035
+- County from: 2020
+- Tract 2020: 34035052905
+- Tract 2010: 34035052903
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 72635
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

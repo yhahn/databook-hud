@@ -1,0 +1,85 @@
+# Project: CONCORD VILLAGE (GAA19950215)
+
+- HUD ID: GAA19950215
+- HUD ID before: 
+- Project: CONCORD VILLAGE
+- Address: 400 S PEACHTREE PKWY
+- City: PEACHTREE CITY
+- State: GA
+- ZIP: 30269
+- ZIP extension: 
+- State project ID: GA-93-078
+- Latitude: 33.372437
+- Longitude: -84.55318
+- County FIPS: 13113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 13113140306
+- Tract 2000: 13113140306
+- Tract 1990: 13113140302
+- Place 2020: 
+- Place 2010: 59724
+- Place 2000: 59724
+- Place 1990: 2177
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PEACHTREE STATION. FKA HARMONY VILLAGE
+- Record status: Existing, unchanged

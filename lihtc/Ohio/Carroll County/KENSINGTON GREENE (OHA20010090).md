@@ -1,0 +1,85 @@
+# Project: KENSINGTON GREENE (OHA20010090)
+
+- HUD ID: OHA20010090
+- HUD ID before: 
+- Project: KENSINGTON GREENE
+- Address: 523 PAIGE ST
+- City: CARROLLTON
+- State: OH
+- ZIP: 44615
+- ZIP extension: 
+- State project ID: 990046
+- Latitude: 40.586566
+- Longitude: -81.081151
+- County FIPS: 39019
+- County from: 2020
+- Tract 2020: 39019720500
+- Tract 2010: 39019720500
+- Tract 2000: 39019720500
+- Tract 1990: 39019720500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 12280
+- Place 1990: 0730
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 290555
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 27
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 501000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

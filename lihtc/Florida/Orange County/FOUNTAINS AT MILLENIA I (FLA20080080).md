@@ -1,0 +1,85 @@
+# Project: FOUNTAINS AT MILLENIA I (FLA20080080)
+
+- HUD ID: FLA20080080
+- HUD ID before: 
+- Project: FOUNTAINS AT MILLENIA I
+- Address: 5316 MILLENIA BLVD
+- City: ORLANDO
+- State: FL
+- ZIP: 32839
+- ZIP extension: 
+- State project ID: 1803
+- Latitude: 28.473248
+- Longitude: -81.442005
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016911
+- Tract 2010: 12095016903
+- Tract 2000: 12095016903
+- Tract 1990: 12095014500
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 50638
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 2010000
+- Units: 162
+- Low-income units: 145
+- Units reported: 162
+- Low-income reported: 145
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 22
+- 3-bedroom units: 134
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

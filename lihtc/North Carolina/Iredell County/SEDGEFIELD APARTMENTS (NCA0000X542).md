@@ -1,0 +1,85 @@
+# Project: SEDGEFIELD APARTMENTS (NCA0000X542)
+
+- HUD ID: NCA0000X542
+- HUD ID before: 
+- Project: SEDGEFIELD APARTMENTS
+- Address: 345 DALTON DRIVE
+- City: MOORESVILLE
+- State: NC
+- ZIP: 28115
+- ZIP extension: 
+- State project ID: 9279158
+- Latitude: 35.583864
+- Longitude: -80.824562
+- County FIPS: 37097
+- County from: 2020
+- Tract 2020: 37097061601
+- Tract 2010: 37097061601
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 44220
+- Place 2010: 44220
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: NORTHFIELD GREEN BUILDING (MEA19890050)
+
+- HUD ID: MEA19890050
+- HUD ID before: 
+- Project: NORTHFIELD GREEN BUILDING
+- Address: 147 ALLEN AVE
+- City: PORTLAND
+- State: ME
+- ZIP: 04103
+- ZIP extension: 
+- State project ID: ME-89-00049-51
+- Latitude: 43.693506
+- Longitude: -70.292177
+- County FIPS: 23005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 23005002200
+- Tract 2000: 23005002200
+- Tract 1990: 23005002200
+- Place 2020: 
+- Place 2010: 60545
+- Place 2000: 60545
+- Place 1990: 3750
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 200
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

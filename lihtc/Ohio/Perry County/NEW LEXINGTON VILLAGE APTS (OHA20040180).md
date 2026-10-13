@@ -1,0 +1,85 @@
+# Project: NEW LEXINGTON VILLAGE APTS (OHA20040180)
+
+- HUD ID: OHA20040180
+- HUD ID before: 
+- Project: NEW LEXINGTON VILLAGE APTS
+- Address: 400 LINCOLN PARK DR
+- City: NEW LEXINGTON
+- State: OH
+- ZIP: 43764
+- ZIP extension: 
+- State project ID: 020038
+- Latitude: 39.721424
+- Longitude: -82.203417
+- County FIPS: 39127
+- County from: 2020
+- Tract 2020: 39127966200
+- Tract 2010: 39127966200
+- Tract 2000: 39127966200
+- Tract 1990: 39127966200
+- Place 2020: 54866
+- Place 2010: 54866
+- Place 2000: 54866
+- Place 1990: 2990
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 301278
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 14
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

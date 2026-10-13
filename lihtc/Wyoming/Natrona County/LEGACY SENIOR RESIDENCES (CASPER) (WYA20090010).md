@@ -1,0 +1,85 @@
+# Project: LEGACY SENIOR RESIDENCES (CASPER) (WYA20090010)
+
+- HUD ID: WYA20090010
+- HUD ID before: 
+- Project: LEGACY SENIOR RESIDENCES (CASPER)
+- Address: 1005 N ELMA ST
+- City: CASPER
+- State: WY
+- ZIP: 82601
+- ZIP extension: 
+- State project ID: 07-005
+- Latitude: 42.860056
+- Longitude: -106.30904
+- County FIPS: 56025
+- County from: 2020
+- Tract 2020: 56025000200
+- Tract 2010: 56025000200
+- Tract 2000: 56025000200
+- Tract 1990: 56025000200
+- Place 2020: 13150
+- Place 2010: 13150
+- Place 2000: 13150
+- Place 1990: 0045
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 665500
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 54
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WYA0000090. AKA THE LEGACY APTS.
+- Record status: Existing, unchanged

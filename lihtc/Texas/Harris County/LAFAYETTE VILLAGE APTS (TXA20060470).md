@@ -1,0 +1,85 @@
+# Project: LAFAYETTE VILLAGE APTS (TXA20060470)
+
+- HUD ID: TXA20060470
+- HUD ID before: 
+- Project: LAFAYETTE VILLAGE APTS
+- Address: 4822 E SAM HOUSTON PKWY N
+- City: HOUSTON
+- State: TX
+- ZIP: 77015
+- ZIP extension: 
+- State project ID: TX4214
+- Latitude: 29.794286
+- Longitude: -95.162023
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201252304
+- Tract 2010: 48201252301
+- Tract 2000: 48201252300
+- Tract 1990: 48201023002
+- Place 2020: 14236
+- Place 2010: 14236
+- Place 2000: 14236
+- Place 1990: 0792
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1074454
+- Units: 250
+- Low-income units: 250
+- Units reported: 250
+- Low-income reported: 250
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 112
+- 3-bedroom units: 86
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LAFAYATTE VILLAGE APTS.
+- Record status: Existing, unchanged

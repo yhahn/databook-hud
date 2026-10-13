@@ -1,0 +1,85 @@
+# Project: FAIRVIEW APTS. (UTA20020030)
+
+- HUD ID: UTA20020030
+- HUD ID before: 
+- Project: FAIRVIEW APTS.
+- Address: 526 2700 STREET
+- City: OGDEN
+- State: UT
+- ZIP: 84403
+- ZIP extension: 
+- State project ID: 2001-10
+- Latitude: 41.1969
+- Longitude: -111.9542
+- County FIPS: 49057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49057201600
+- Tract 2000: 49057210401
+- Tract 1990: 49057201300
+- Place 2020: 
+- Place 2010: 55980
+- Place 2000: 48300
+- Place 1990: 0695
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 15
+- 1-bedroom units: 10
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

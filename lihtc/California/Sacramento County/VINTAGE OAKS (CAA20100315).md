@@ -1,0 +1,85 @@
+# Project: VINTAGE OAKS (CAA20100315)
+
+- HUD ID: CAA20100315
+- HUD ID before: 
+- Project: VINTAGE OAKS
+- Address: 7340 STOCK RANCH RD
+- City: CITRUS HEIGHTS
+- State: CA
+- ZIP: 95621
+- ZIP extension: 
+- State project ID: CA-09-860
+- Latitude: 38.682084
+- Longitude: -121.294573
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067008136
+- Tract 2010: 06067008136
+- Tract 2000: 06067008136
+- Tract 1990: 06067008118
+- Place 2020: 13588
+- Place 2010: 13588
+- Place 2000: 13588
+- Place 1990: 0530
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 714100
+- Units: 241
+- Low-income units: 240
+- Units reported: 241
+- Low-income reported: 240
+- Efficiencies: 0
+- 1-bedroom units: 192
+- 2-bedroom units: 49
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 120
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1994455. AKA VINTAGE OAKS SENIOR APTS 92-161.
+- Record status: Existing, unchanged

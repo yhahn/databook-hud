@@ -1,0 +1,24 @@
+# Tax Credit Projects: Knox County, IN
+
+- Level: County
+- Postal code: IN
+- State FIPS: 18
+- County FIPS: 18083
+- Counties: 
+- Projects: 7
+- Units: 302
+- Low-income units: 302
+
+The low-income housing tax credit projects of Knox County, Indiana, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [LAMPLIGHTER MANOR OF BICKNELL (INA19900032)](./Knox%20County/LAMPLIGHTER%20MANOR%20OF%20BICKNELL%20%28INA19900032%29.md) | INA19900032 | BICKNELL | 1990 | 24 | 24 |
+| [PLEASANT VIEW APTS OF BICKNELL II (INA19930140)](./Knox%20County/PLEASANT%20VIEW%20APTS%20OF%20BICKNELL%20II%20%28INA19930140%29.md) | INA19930140 | BICKNELL | 1993 | 12 | 12 |
+| [MAPLE PARK APTS (INA20020039)](./Knox%20County/MAPLE%20PARK%20APTS%20%28INA20020039%29.md) | INA20020039 | VINCENNES | 2002 | 144 | 144 |
+| [HILLCREST HEIGHTS (INA20070115)](./Knox%20County/HILLCREST%20HEIGHTS%20%28INA20070115%29.md) | INA20070115 | VINCENNES | 2007 |  |  |
+| [IVY LANE APTS (INA20110050)](./Knox%20County/IVY%20LANE%20APTS%20%28INA20110050%29.md) | INA20110050 | VINCENNES | 2011 | 31 | 31 |
+| [CLARK'S CROSSING (INA20149161)](./Knox%20County/CLARK%27S%20CROSSING%20%28INA20149161%29.md) | INA20149161 | VINCENNES | 2014 | 47 | 47 |
+| [RIVER VIEW (INA20184174)](./Knox%20County/RIVER%20VIEW%20%28INA20184174%29.md) | INA20184174 | VINCENNES | 2018 | 44 | 44 |

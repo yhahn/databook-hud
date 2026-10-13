@@ -1,0 +1,85 @@
+# Project: VACAVILLE HILLSIDE SENIORS (CAA20010550)
+
+- HUD ID: CAA20010550
+- HUD ID before: 
+- Project: VACAVILLE HILLSIDE SENIORS
+- Address: 454 MARKHAM AVE
+- City: VACAVILLE
+- State: CA
+- ZIP: 95688
+- ZIP extension: 
+- State project ID: CA-00-237
+- Latitude: 38.367158
+- Longitude: -121.983323
+- County FIPS: 06095
+- County from: 2020
+- Tract 2020: 06095253207
+- Tract 2010: 06095253204
+- Tract 2000: 06095253202
+- Tract 1990: 06095253202
+- Place 2020: 81554
+- Place 2010: 81554
+- Place 2000: 81554
+- Place 1990: 2995
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 67394
+- Units: 15
+- Low-income units: 12
+- Units reported: 15
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

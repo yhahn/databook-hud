@@ -1,0 +1,85 @@
+# Project: VINEYARD POINT APTS (CAA20080950)
+
+- HUD ID: CAA20080950
+- HUD ID before: 
+- Project: VINEYARD POINT APTS
+- Address: 7585 DIAMOND RANCH DR
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95829
+- ZIP extension: 
+- State project ID: CA-06-880
+- Latitude: 38.482746
+- Longitude: -121.341604
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067009201
+- Tract 2010: 06067009201
+- Tract 2000: 06067009200
+- Tract 1990: 06067009200
+- Place 2020: 82852
+- Place 2010: 82852
+- Place 2000: 64000
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1195442
+- Units: 176
+- Low-income units: 174
+- Units reported: 176
+- Low-income reported: 174
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 71
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 106
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

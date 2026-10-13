@@ -1,0 +1,85 @@
+# Project: TRINITY MANOR APTS (OHA20070165)
+
+- HUD ID: OHA20070165
+- HUD ID before: 
+- Project: TRINITY MANOR APTS
+- Address: 301 CLARK ST
+- City: MIDDLETOWN
+- State: OH
+- ZIP: 45042
+- ZIP extension: 
+- State project ID: 050177
+- Latitude: 39.517508
+- Longitude: -84.397369
+- County FIPS: 39017
+- County from: 2020
+- Tract 2020: 39017014400
+- Tract 2010: 39017014400
+- Tract 2000: 39017012800
+- Tract 1990: 39017012800
+- Place 2020: 49840
+- Place 2010: 49840
+- Place 2000: 49840
+- Place 1990: 2635
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 130481
+- Units: 91
+- Low-income units: 90
+- Units reported: 91
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 91
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TRINITY MANOR SENIOR.
+- Record status: Existing, unchanged

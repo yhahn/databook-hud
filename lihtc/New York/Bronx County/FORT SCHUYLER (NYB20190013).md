@@ -1,0 +1,85 @@
+# Project: FORT SCHUYLER (NYB20190013)
+
+- HUD ID: NYB20190013
+- HUD ID before: 
+- Project: FORT SCHUYLER
+- Address: 3077 CROSS BRONX EXPRESSWAY
+- City: THROGS NECK
+- State: NY
+- ZIP: 10465
+- ZIP extension: 
+- State project ID: NY-20-2491
+- Latitude: 40.822308
+- Longitude: -73.817251
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005015800
+- Tract 2010: 36005015800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1234335
+- Units: 139
+- Low-income units: 114
+- Units reported: 139
+- Low-income reported: 114
+- Efficiencies: 119
+- 1-bedroom units: 19
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

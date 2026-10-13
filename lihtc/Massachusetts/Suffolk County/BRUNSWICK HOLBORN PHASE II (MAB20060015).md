@@ -1,0 +1,85 @@
+# Project: BRUNSWICK HOLBORN PHASE II (MAB20060015)
+
+- HUD ID: MAB20060015
+- HUD ID before: 
+- Project: BRUNSWICK HOLBORN PHASE II
+- Address: 572 WARREN ST
+- City: DORCHESTER
+- State: MA
+- ZIP: 02121
+- ZIP extension: 
+- State project ID: MA-06-055
+- Latitude: 42.31215
+- Longitude: -71.082743
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025082000
+- Tract 2010: 25025082000
+- Tract 2000: 25025082000
+- Tract 1990: 25025082000
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 619200
+- Units: 49
+- Low-income units: 43
+- Units reported: 49
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 10
+- 3-bedroom units: 9
+- 4-bedroom units: 9
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000160.
+- Record status: Existing, unchanged

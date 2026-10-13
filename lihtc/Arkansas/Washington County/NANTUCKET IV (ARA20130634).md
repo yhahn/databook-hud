@@ -1,0 +1,85 @@
+# Project: NANTUCKET IV (ARA20130634)
+
+- HUD ID: ARA20130634
+- HUD ID before: 
+- Project: NANTUCKET IV
+- Address: 675 E FRANKIE KELLEY CR
+- City: FAYETTEVILLE
+- State: AR
+- ZIP: 72701
+- ZIP extension: 
+- State project ID: AR-11-10
+- Latitude: 36.050926
+- Longitude: -94.149783
+- County FIPS: 05143
+- County from: 2020
+- Tract 2020: 05143011104
+- Tract 2010: 05143011101
+- Tract 2000: 05143011102
+- Tract 1990: 05143011102
+- Place 2020: 23290
+- Place 2010: 23290
+- Place 2000: 21190
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000120, ARA0000528.
+- Record status: Existing, unchanged

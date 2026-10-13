@@ -1,0 +1,85 @@
+# Project: SHOREHAVEN (VAA20140032)
+
+- HUD ID: VAA20140032
+- HUD ID before: 
+- Project: SHOREHAVEN
+- Address: 16926 PORTERS INN DR
+- City: DUMFRIES
+- State: VA
+- ZIP: 22026
+- ZIP extension: 
+- State project ID: 9501
+- Latitude: 38.583263
+- Longitude: -77.302891
+- County FIPS: 51153
+- County from: 2020
+- Tract 2020: 51153900803
+- Tract 2010: 51153900802
+- Tract 2000: 51153900901
+- Tract 1990: 51153900901
+- Place 2020: 15176
+- Place 2010: 15176
+- Place 2000: 23760
+- Place 1990: 0414
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1750000
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 160
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MOSSY OAKS VILLAGE TOWNHOUSES (SCA20130005)
+
+- HUD ID: SCA20130005
+- HUD ID before: 
+- Project: MOSSY OAKS VILLAGE TOWNHOUSES
+- Address: 27 JOHNNY MORRALL CIR
+- City: BEAUFORT
+- State: SC
+- ZIP: 29902
+- ZIP extension: 
+- State project ID: SC-11-009
+- Latitude: 32.40035
+- Longitude: -80.684777
+- County FIPS: 45013
+- County from: 2020
+- Tract 2020: 45013000700
+- Tract 2010: 45013000700
+- Tract 2000: 45013000700
+- Tract 1990: 45013000700
+- Place 2020: 04690
+- Place 2010: 04690
+- Place 2000: 04690
+- Place 1990: 0100
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 693174
+- Units: 96
+- Low-income units: 95
+- Units reported: 96
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 40
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

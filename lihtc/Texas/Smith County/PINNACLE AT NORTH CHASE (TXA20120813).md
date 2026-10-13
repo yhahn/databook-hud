@@ -1,0 +1,85 @@
+# Project: PINNACLE AT NORTH CHASE (TXA20120813)
+
+- HUD ID: TXA20120813
+- HUD ID before: 
+- Project: PINNACLE AT NORTH CHASE
+- Address: 3651 N BROADWAY AVE
+- City: TYLER
+- State: TX
+- ZIP: 75702
+- ZIP extension: 
+- State project ID: TX4760
+- Latitude: 32.386498
+- Longitude: -95.301751
+- County FIPS: 48423
+- County from: 2020
+- Tract 2020: 48423000300
+- Tract 2010: 48423000300
+- Tract 2000: 48423000300
+- Tract 1990: 48423000300
+- Place 2020: 74144
+- Place 2010: 74144
+- Place 2000: 74144
+- Place 1990: 4350
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000739.
+- Record status: Existing, unchanged

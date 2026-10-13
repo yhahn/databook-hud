@@ -1,0 +1,85 @@
+# Project: ROLLING PRAIRIE APARTMENTS HOMES (WIA20100508)
+
+- HUD ID: WIA20100508
+- HUD ID before: 
+- Project: ROLLING PRAIRIE APARTMENTS HOMES
+- Address: 405 S BIRD ST
+- City: SUN PRAIRIE
+- State: WI
+- ZIP: 53590
+- ZIP extension: 
+- State project ID: 5540
+- Latitude: 43.177305
+- Longitude: -89.226482
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025011506
+- Tract 2010: 55025011506
+- Tract 2000: 55025011506
+- Tract 1990: 55025011502
+- Place 2020: 78600
+- Place 2010: 78600
+- Place 2000: 78600
+- Place 1990: 2495
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 83329
+- Units: 84
+- Low-income units: 7
+- Units reported: 84
+- Low-income reported: 7
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 83
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 9999
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

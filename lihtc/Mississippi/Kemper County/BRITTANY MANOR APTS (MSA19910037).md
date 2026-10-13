@@ -1,0 +1,85 @@
+# Project: BRITTANY MANOR APTS (MSA19910037)
+
+- HUD ID: MSA19910037
+- HUD ID before: 
+- Project: BRITTANY MANOR APTS
+- Address: 15083 HWY 39 N
+- City: DE KALB
+- State: MS
+- ZIP: 39328
+- ZIP extension: 
+- State project ID: MS-90-023
+- Latitude: 32.791359
+- Longitude: -88.665141
+- County FIPS: 28069
+- County from: 2020
+- Tract 2020: 28069030100
+- Tract 2010: 28069030100
+- Tract 2000: 28069030100
+- Tract 1990: 28069950100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 18340
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1991516.
+- Record status: Existing, unchanged

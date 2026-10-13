@@ -1,0 +1,85 @@
+# Project: TAYLORS FALLS TOWNHOMES II (MNA20010126)
+
+- HUD ID: MNA20010126
+- HUD ID before: 
+- Project: TAYLORS FALLS TOWNHOMES II
+- Address: 621-635 LINDEN CT
+- City: TAYLORS FALLS
+- State: MN
+- ZIP: 55084
+- ZIP extension: 
+- State project ID: D3008
+- Latitude: 45.407765
+- Longitude: -92.661369
+- County FIPS: 27025
+- County from: 2020
+- Tract 2020: 27025110700
+- Tract 2010: 27025110700
+- Tract 2000: 27025110700
+- Tract 1990: 27025110700
+- Place 2020: 64318
+- Place 2010: 64318
+- Place 2000: 59314
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

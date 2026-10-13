@@ -1,0 +1,85 @@
+# Project: GRAND MANOR (MNA19900035)
+
+- HUD ID: MNA19900035
+- HUD ID before: 
+- Project: GRAND MANOR
+- Address: 227 SW 13TH ST
+- City: GRAND RAPIDS
+- State: MN
+- ZIP: 55744
+- ZIP extension: 
+- State project ID: MN-90-003
+- Latitude: 47.217729
+- Longitude: -93.531349
+- County FIPS: 27061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27061480802
+- Tract 2000: 27061980800
+- Tract 1990: 27061980800
+- Place 2020: 
+- Place 2010: 25118
+- Place 2000: 12412
+- Place 1990: 1545
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 33
+- Low-income units: 32
+- Units reported: 33
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GRAND PLAZA.
+- Record status: Existing, unchanged

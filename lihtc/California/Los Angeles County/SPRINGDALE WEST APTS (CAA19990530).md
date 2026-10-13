@@ -1,0 +1,85 @@
+# Project: SPRINGDALE WEST APTS (CAA19990530)
+
+- HUD ID: CAA19990530
+- HUD ID before: 
+- Project: SPRINGDALE WEST APTS
+- Address: 2095 W SPRING ST
+- City: LONG BEACH
+- State: CA
+- ZIP: 90810
+- ZIP extension: 
+- State project ID: CA-99-849
+- Latitude: 33.811839
+- Longitude: -118.219727
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037572500
+- Tract 2010: 06037572500
+- Tract 2000: 06037572500
+- Tract 1990: 06037572500
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 1610
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 811987
+- Units: 410
+- Low-income units: 406
+- Units reported: 410
+- Low-income reported: 406
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 296
+- 3-bedroom units: 104
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

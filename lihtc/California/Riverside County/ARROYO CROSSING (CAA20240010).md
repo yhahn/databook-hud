@@ -1,0 +1,85 @@
+# Project: ARROYO CROSSING (CAA20240010)
+
+- HUD ID: CAA20240010
+- HUD ID before: 
+- Project: ARROYO CROSSING
+- Address: 47557 JEFFERSON STREET
+- City: INDIO
+- State: CA
+- ZIP: 92201
+- ZIP extension: 
+- State project ID: CA-2021-489
+- Latitude: 33.703351
+- Longitude: -116.269016
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065045129
+- Tract 2010: 06065045121
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 36448
+- Place 2010: 36448
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2448870
+- Units: 184
+- Low-income units: 182
+- Units reported: 184
+- Low-income reported: 182
+- Efficiencies: 22
+- 1-bedroom units: 51
+- 2-bedroom units: 56
+- 3-bedroom units: 55
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: ADA and Accessible Units pursuant to CBC Chapter 11B, Sensory Impaired pursuant to CBC Chapter 11B
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

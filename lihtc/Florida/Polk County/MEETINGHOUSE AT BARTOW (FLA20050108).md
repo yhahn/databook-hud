@@ -1,0 +1,85 @@
+# Project: MEETINGHOUSE AT BARTOW (FLA20050108)
+
+- HUD ID: FLA20050108
+- HUD ID before: 
+- Project: MEETINGHOUSE AT BARTOW
+- Address: 1400 OLD BARTOW EAGLE LAKE RD
+- City: BARTOW
+- State: FL
+- ZIP: 33830
+- ZIP extension: 
+- State project ID: 1334
+- Latitude: 27.911396
+- Longitude: -81.838749
+- County FIPS: 12105
+- County from: 2020
+- Tract 2020: 12105014803
+- Tract 2010: 12105014803
+- Tract 2000: 12105015000
+- Tract 1990: 12105015000
+- Place 2020: 03675
+- Place 2010: 03675
+- Place 2000: 03675
+- Place 1990: 0085
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 863053
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 80
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HARBOR TOWERS (CTA19970050)
+
+- HUD ID: CTA19970050
+- HUD ID before: 
+- Project: HARBOR TOWERS
+- Address: 60 HANOVER ST
+- City: MERIDEN
+- State: CT
+- ZIP: 06451
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.536912
+- Longitude: -72.804347
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009170900
+- Tract 2010: 09009170200
+- Tract 2000: 09009170200
+- Tract 1990: 09009170201
+- Place 2020: 46450
+- Place 2010: 46450
+- Place 2000: 46450
+- Place 1990: 1210
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 201
+- Low-income units: 201
+- Units reported: 201
+- Low-income reported: 201
+- Efficiencies: 0
+- 1-bedroom units: 188
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THE SPRINGS AT LOGAN RIVER (UTA20080906)
+
+- HUD ID: UTA20080906
+- HUD ID before: 
+- Project: THE SPRINGS AT LOGAN RIVER
+- Address: 1791 1789 SOUTH 1280 WEST
+- City: LOGAN
+- State: UT
+- ZIP: 84321
+- ZIP extension: 0000
+- State project ID: 2007-17
+- Latitude: 41.7195
+- Longitude: -111.8421
+- County FIPS: 49005
+- County from: 2020
+- Tract 2020: 49005001002
+- Tract 2010: 49005001002
+- Tract 2000: 49005001000
+- Tract 1990: 49005000300
+- Place 2020: 45860
+- Place 2010: 45860
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 969742
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

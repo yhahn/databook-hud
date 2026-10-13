@@ -1,0 +1,85 @@
+# Project: THE MADISONIAN APARTMENTS (WIA20220012)
+
+- HUD ID: WIA20220012
+- HUD ID before: 
+- Project: THE MADISONIAN APARTMENTS
+- Address: 1859 ABERG AVENUE, 1841-1851 ABERG AVENUE
+- City: MADISON
+- State: WI
+- ZIP: 53704
+- ZIP extension: 
+- State project ID: WI-20-53272
+- Latitude: 43.114042
+- Longitude: -89.359756
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025002100
+- Tract 2010: 55025002100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 70
+- Low-income units: 49
+- Units reported: 70
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

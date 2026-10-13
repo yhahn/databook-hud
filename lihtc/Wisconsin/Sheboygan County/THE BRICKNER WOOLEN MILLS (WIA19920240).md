@@ -1,0 +1,85 @@
+# Project: THE BRICKNER WOOLEN MILLS (WIA19920240)
+
+- HUD ID: WIA19920240
+- HUD ID before: 
+- Project: THE BRICKNER WOOLEN MILLS
+- Address: 639 MONROE ST
+- City: SHEBOYGAN FALLS
+- State: WI
+- ZIP: 53085
+- ZIP extension: 
+- State project ID: 1122
+- Latitude: 43.728818
+- Longitude: -87.810824
+- County FIPS: 55117
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55117010601
+- Tract 2000: 55117010600
+- Tract 1990: 55117010600
+- Place 2020: 
+- Place 2010: 73025
+- Place 2000: 73025
+- Place 1990: 2305
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 31
+- Units reported: 34
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SHEBOYGAN FALLS INC.
+- Record status: Existing, unchanged

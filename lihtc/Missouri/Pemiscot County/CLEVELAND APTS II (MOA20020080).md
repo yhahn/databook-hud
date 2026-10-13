@@ -1,0 +1,85 @@
+# Project: CLEVELAND APTS II (MOA20020080)
+
+- HUD ID: MOA20020080
+- HUD ID before: 
+- Project: CLEVELAND APTS II
+- Address: 1110 N OATES ST
+- City: HAYTI
+- State: MO
+- ZIP: 63851
+- ZIP extension: 
+- State project ID: 01-127
+- Latitude: 36.243477
+- Longitude: -89.753271
+- County FIPS: 29155
+- County from: 2020
+- Tract 2020: 29155470200
+- Tract 2010: 29155470200
+- Tract 2000: 29155970200
+- Tract 1990: 29155970200
+- Place 2020: 31132
+- Place 2010: 99999
+- Place 2000: 31132
+- Place 1990: 1900
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 16
+- 3-bedroom units: 12
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

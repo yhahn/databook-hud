@@ -1,0 +1,85 @@
+# Project: LOFTS AT TEMPLE MEDICAL DISTRICT (TXA0000X700)
+
+- HUD ID: TXA0000X700
+- HUD ID before: 
+- Project: LOFTS AT TEMPLE MEDICAL DISTRICT
+- Address: NW OF 400 SW H K DODGEN LOOP (E OF SCOTT AND WHITE BLVD.)
+- City: TEMPLE
+- State: TX
+- ZIP: 76504
+- ZIP extension: 
+- State project ID: TX5622
+- Latitude: 31.1005
+- Longitude: -97.3768
+- County FIPS: 48027
+- County from: 2020
+- Tract 2020: 48027021202
+- Tract 2010: 48027021202
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 72176
+- Place 2010: 72176
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 102
+- Units reported: 120
+- Low-income reported: 102
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 43
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

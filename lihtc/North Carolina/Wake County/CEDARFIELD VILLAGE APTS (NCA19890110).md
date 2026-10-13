@@ -1,0 +1,85 @@
+# Project: CEDARFIELD VILLAGE APTS (NCA19890110)
+
+- HUD ID: NCA19890110
+- HUD ID before: 
+- Project: CEDARFIELD VILLAGE APTS
+- Address: 100 CEDARFIELD CT
+- City: WENDELL
+- State: NC
+- ZIP: 27591
+- ZIP extension: 
+- State project ID: 210
+- Latitude: 35.78792
+- Longitude: -78.376498
+- County FIPS: 37183
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37183054404
+- Tract 2000: 37183054401
+- Tract 1990: 37183054401
+- Place 2020: 
+- Place 2010: 71860
+- Place 2000: 71860
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 57739
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

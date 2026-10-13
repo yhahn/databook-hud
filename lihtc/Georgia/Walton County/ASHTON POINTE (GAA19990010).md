@@ -1,0 +1,85 @@
+# Project: ASHTON POINTE (GAA19990010)
+
+- HUD ID: GAA19990010
+- HUD ID before: 
+- Project: ASHTON POINTE
+- Address: 429 PLAZA DR
+- City: MONROE
+- State: GA
+- ZIP: 30655
+- ZIP extension: 
+- State project ID: GA-96-095
+- Latitude: 33.798776
+- Longitude: -83.727424
+- County FIPS: 13297
+- County from: 2020
+- Tract 2020: 13297110400
+- Tract 2010: 13297110400
+- Tract 2000: 13297110400
+- Tract 1990: 13297110400
+- Place 2020: 52192
+- Place 2010: 52192
+- Place 2000: 52192
+- Place 1990: 1890
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 789184
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 19
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1998015, GAA1997165.
+- Record status: Existing, unchanged

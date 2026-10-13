@@ -1,0 +1,85 @@
+# Project: THE OAKS AT SILVER RIDGE (NCA20110095)
+
+- HUD ID: NCA20110095
+- HUD ID before: 
+- Project: THE OAKS AT SILVER RIDGE
+- Address: 2926 E MARTIN LUTHER KING JR DR
+- City: HIGH POINT
+- State: NC
+- ZIP: 27260
+- ZIP extension: 5926
+- State project ID: 9102473
+- Latitude: 35.96424
+- Longitude: -79.954845
+- County FIPS: 37081
+- County from: 2020
+- Tract 2020: 37081014503
+- Tract 2010: 37081014503
+- Tract 2000: 37081014503
+- Tract 1990: 37081014503
+- Place 2020: 31400
+- Place 2010: 31400
+- Place 2000: 31400
+- Place 1990: 1195
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 61
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 7205714
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

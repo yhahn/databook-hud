@@ -1,0 +1,85 @@
+# Project: COLONIAL VILLAGE APTS (RIA20100030)
+
+- HUD ID: RIA20100030
+- HUD ID before: 
+- Project: COLONIAL VILLAGE APTS
+- Address: 60 SCHOOL ST
+- City: NORTH SMITHFIELD
+- State: RI
+- ZIP: 02896
+- ZIP extension: 
+- State project ID: RI00138
+- Latitude: 42.000333
+- Longitude: -71.573212
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007012801
+- Tract 2010: 44007012801
+- Tract 2000: 44007012801
+- Tract 1990: 44007012801
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 96013
+- Units: 75
+- Low-income units: 68
+- Units reported: 75
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 75
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: Yes
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

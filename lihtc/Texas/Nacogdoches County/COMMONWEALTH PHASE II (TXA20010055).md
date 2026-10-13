@@ -1,0 +1,85 @@
+# Project: COMMONWEALTH PHASE II (TXA20010055)
+
+- HUD ID: TXA20010055
+- HUD ID before: 
+- Project: COMMONWEALTH PHASE II
+- Address: 5321 NORTHWAY DR
+- City: NACOGDOCHES
+- State: TX
+- ZIP: 75965
+- ZIP extension: 
+- State project ID: TX2214
+- Latitude: 31.655468
+- Longitude: -94.646667
+- County FIPS: 48347
+- County from: 2020
+- Tract 2020: 48347950501
+- Tract 2010: 48347950501
+- Tract 2000: 48347950500
+- Tract 1990: 48347950500
+- Place 2020: 50256
+- Place 2010: 50256
+- Place 2000: 50256
+- Place 1990: 2945
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

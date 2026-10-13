@@ -1,0 +1,85 @@
+# Project: VERMILION HOUSE (ILA20020175)
+
+- HUD ID: ILA20020175
+- HUD ID before: 
+- Project: VERMILION HOUSE
+- Address: 3535 N VERMILION ST
+- City: DANVILLE
+- State: IL
+- ZIP: 61832
+- ZIP extension: 
+- State project ID: 33902
+- Latitude: 40.178697
+- Longitude: -87.629686
+- County FIPS: 17183
+- County from: 2020
+- Tract 2020: 17183001200
+- Tract 2010: 17183001200
+- Tract 2000: 17183001200
+- Tract 1990: 17183001200
+- Place 2020: 18563
+- Place 2010: 18563
+- Place 2000: 18563
+- Place 1990: 1395
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 316804
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 160
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

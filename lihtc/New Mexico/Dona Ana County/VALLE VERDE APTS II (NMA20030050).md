@@ -1,0 +1,85 @@
+# Project: VALLE VERDE APTS II (NMA20030050)
+
+- HUD ID: NMA20030050
+- HUD ID before: 
+- Project: VALLE VERDE APTS II
+- Address: 360 BAINES ST
+- City: HATCH
+- State: NM
+- ZIP: 
+- ZIP extension: 
+- State project ID: 21000
+- Latitude: 32.66591
+- Longitude: -107.167987
+- County FIPS: 35013
+- County from: 2020
+- Tract 2020: 35013001402
+- Tract 2010: 35013001400
+- Tract 2000: 35013001400
+- Tract 1990: 35013001400
+- Place 2020: 57990
+- Place 2010: 57990
+- Place 2000: 31820
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 24
+- Units reported: 25
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 11
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VALLE VERDE II.
+- Record status: Existing, unchanged

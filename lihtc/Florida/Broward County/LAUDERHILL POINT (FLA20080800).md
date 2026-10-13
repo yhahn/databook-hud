@@ -1,0 +1,85 @@
+# Project: LAUDERHILL POINT (FLA20080800)
+
+- HUD ID: FLA20080800
+- HUD ID before: 
+- Project: LAUDERHILL POINT
+- Address: 3146 N.W. 19TH STREET
+- City: LAUDERHILL
+- State: FL
+- ZIP: 33311
+- ZIP extension: 
+- State project ID: 242
+- Latitude: 26.150524
+- Longitude: -80.188738
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011041200
+- Tract 2010: 12011041200
+- Tract 2000: 12011041200
+- Tract 1990: 12011041200
+- Place 2020: 39550
+- Place 2010: 39550
+- Place 2000: 39550
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 537206
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 80
+- 4-bedroom units: 16
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

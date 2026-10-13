@@ -1,0 +1,85 @@
+# Project: KERRVILLE MEADOWS APTS (TXA19990095)
+
+- HUD ID: TXA19990095
+- HUD ID before: 
+- Project: KERRVILLE MEADOWS APTS
+- Address: 2300 JUNCTION HWY
+- City: KERRVILLE
+- State: TX
+- ZIP: 78028
+- ZIP extension: 
+- State project ID: TX2012
+- Latitude: 30.073925
+- Longitude: -99.195492
+- County FIPS: 48265
+- County from: 2020
+- Tract 2020: 48265960303
+- Tract 2010: 48265960302
+- Tract 2000: 48265960300
+- Tract 1990: 48265960300
+- Place 2020: 39040
+- Place 2010: 39040
+- Place 2000: 36032
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: UNIVERSITY SQUARE APARTMENTS (PAA20192012)
+
+- HUD ID: PAA20192012
+- HUD ID before: 
+- Project: UNIVERSITY SQUARE APARTMENTS
+- Address: 3901 MARKET ST
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19104
+- ZIP extension: 3133
+- State project ID: TC20170137
+- Latitude: 39.957023
+- Longitude: -75.199588
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101009100
+- Tract 2010: 42101009100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 3851821
+- Units: 442
+- Low-income units: 441
+- Units reported: 442
+- Low-income reported: 441
+- Efficiencies: 0
+- 1-bedroom units: 442
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 442
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

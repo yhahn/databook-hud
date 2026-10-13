@@ -1,0 +1,85 @@
+# Project: FRIDAY HARBOR VILLAGE (WAA19960025)
+
+- HUD ID: WAA19960025
+- HUD ID before: 
+- Project: FRIDAY HARBOR VILLAGE
+- Address: 445 CARTER AVE
+- City: FRIDAY HARBOR
+- State: WA
+- ZIP: 98250
+- ZIP extension: 
+- State project ID: 94-33J
+- Latitude: 48.538006
+- Longitude: -123.028772
+- County FIPS: 53055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53055960400
+- Tract 2000: 53055960400
+- Tract 1990: 53055960400
+- Place 2020: 
+- Place 2010: 25615
+- Place 2000: 25615
+- Place 1990: 0470
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 248041
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 12
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

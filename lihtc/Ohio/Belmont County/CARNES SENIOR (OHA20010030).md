@@ -1,0 +1,85 @@
+# Project: CARNES SENIOR (OHA20010030)
+
+- HUD ID: OHA20010030
+- HUD ID before: 
+- Project: CARNES SENIOR
+- Address: 3396 BELMONT ST
+- City: BELLAIRE
+- State: OH
+- ZIP: 43906
+- ZIP extension: 
+- State project ID: 99-0060
+- Latitude: 40.016058
+- Longitude: -80.742145
+- County FIPS: 39013
+- County from: 2020
+- Tract 2020: 39013011500
+- Tract 2010: 39013011500
+- Tract 2000: 39013011500
+- Tract 1990: 39013011500
+- Place 2020: 05074
+- Place 2010: 05074
+- Place 2000: 05074
+- Place 1990: 0305
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 171038
+- Units: 26
+- Low-income units: 20
+- Units reported: 26
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 601000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

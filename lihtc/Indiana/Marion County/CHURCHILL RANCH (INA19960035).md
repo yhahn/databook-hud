@@ -1,0 +1,85 @@
+# Project: CHURCHILL RANCH (INA19960035)
+
+- HUD ID: INA19960035
+- HUD ID before: 
+- Project: CHURCHILL RANCH
+- Address: 8016 LOUISVILLE WAY
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46226
+- ZIP extension: 
+- State project ID: IN-95-00200
+- Latitude: 39.835356
+- Longitude: -86.02553
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097330805
+- Tract 2010: 18097330805
+- Tract 2000: 18097330802
+- Tract 1990: 18097330802
+- Place 2020: 42426
+- Place 2010: 42426
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 693834
+- Units: 134
+- Low-income units: 132
+- Units reported: 134
+- Low-income reported: 132
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 74
+- 3-bedroom units: 31
+- 4-bedroom units: 27
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

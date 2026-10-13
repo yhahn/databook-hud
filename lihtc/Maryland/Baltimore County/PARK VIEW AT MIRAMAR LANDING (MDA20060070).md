@@ -1,0 +1,85 @@
+# Project: PARK VIEW AT MIRAMAR LANDING (MDA20060070)
+
+- HUD ID: MDA20060070
+- HUD ID before: 
+- Project: PARK VIEW AT MIRAMAR LANDING
+- Address: 705 COMPASS RD
+- City: BALTIMORE
+- State: MD
+- ZIP: 21220
+- ZIP extension: 
+- State project ID: MD04-21001
+- Latitude: 39.344746
+- Longitude: -76.445944
+- County FIPS: 24005
+- County from: 2020
+- Tract 2020: 24005451401
+- Tract 2010: 24005451401
+- Tract 2000: 24005451400
+- Tract 1990: 24005451400
+- Place 2020: 52300
+- Place 2010: 52300
+- Place 2000: 52300
+- Place 1990: 0615
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

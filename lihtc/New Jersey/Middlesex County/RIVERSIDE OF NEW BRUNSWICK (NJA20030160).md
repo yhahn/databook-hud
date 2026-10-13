@@ -1,0 +1,85 @@
+# Project: RIVERSIDE OF NEW BRUNSWICK (NJA20030160)
+
+- HUD ID: NJA20030160
+- HUD ID before: 
+- Project: RIVERSIDE OF NEW BRUNSWICK
+- Address: 256 GEORGE ST
+- City: NEW BRUNSWICK
+- State: NJ
+- ZIP: 08901
+- ZIP extension: 1799
+- State project ID: PM01328
+- Latitude: 40.49055
+- Longitude: -74.442402
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023009300
+- Tract 2010: 34023009300
+- Tract 2000: 34023005900
+- Tract 1990: 34023005900
+- Place 2020: 51210
+- Place 2010: 51210
+- Place 2000: 51210
+- Place 1990: 2900
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 76
+- Low-income units: 75
+- Units reported: 76
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 33
+- 3-bedroom units: 30
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2002065.
+- Record status: Updated

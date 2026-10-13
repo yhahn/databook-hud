@@ -1,0 +1,85 @@
+# Project: KENWORTH SENIOR CITIZENS CENTER (NCA19900275)
+
+- HUD ID: NCA19900275
+- HUD ID before: 
+- Project: KENWORTH SENIOR CITIZENS CENTER
+- Address: 426 SECOND AVE SE
+- City: HICKORY
+- State: NC
+- ZIP: 28602
+- ZIP extension: 
+- State project ID: 136
+- Latitude: 35.72905
+- Longitude: -81.330502
+- County FIPS: 37035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37035010900
+- Tract 2000: 37035010900
+- Tract 1990: 37035010900
+- Place 2020: 
+- Place 2010: 31060
+- Place 2000: 31060
+- Place 1990: 1175
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 54394
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 4
+- 1-bedroom units: 27
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

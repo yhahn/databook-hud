@@ -1,0 +1,85 @@
+# Project: BROADWAY LOFTS AND TOWNHOMES (WIA20240004)
+
+- HUD ID: WIA20240004
+- HUD ID before: 
+- Project: BROADWAY LOFTS AND TOWNHOMES
+- Address: 1214, 1216, 1218 E BROADWAY
+- City: MONONA
+- State: WI
+- ZIP: 53716
+- ZIP extension: 
+- State project ID: WI-22-53396
+- Latitude: 43.047882
+- Longitude: -89.312643
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025010501
+- Tract 2010: 55025010501
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 53675
+- Place 2010: 53675
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 75
+- Low-income units: 56
+- Units reported: 75
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 31
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 29
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

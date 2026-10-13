@@ -1,0 +1,85 @@
+# Project: METROPOLIS APTS (PRA20140020)
+
+- HUD ID: PRA20140020
+- HUD ID before: 
+- Project: METROPOLIS APTS
+- Address: 419 AVE PONCE DE LEON
+- City: SAN JUAN
+- State: PR
+- ZIP: 
+- ZIP extension: 
+- State project ID: 12-025
+- Latitude: 18.4225
+- Longitude: -66.0547
+- County FIPS: 72127
+- County from: 2020
+- Tract 2020: 72127006302
+- Tract 2010: 72127006300
+- Tract 2000: 72127000700
+- Tract 1990: 72127000700
+- Place 2020: 76770
+- Place 2010: 76770
+- Place 2000: 76770
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 4312841
+- Units: 185
+- Low-income units: 185
+- Units reported: 185
+- Low-income reported: 185
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 65
+- 3-bedroom units: 104
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

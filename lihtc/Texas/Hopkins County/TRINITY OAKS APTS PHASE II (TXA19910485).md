@@ -1,0 +1,85 @@
+# Project: TRINITY OAKS APTS PHASE II (TXA19910485)
+
+- HUD ID: TXA19910485
+- HUD ID before: 
+- Project: TRINITY OAKS APTS PHASE II
+- Address: 600 WOODLAWN ST
+- City: SULPHUR SPRINGS
+- State: TX
+- ZIP: 75482
+- ZIP extension: 
+- State project ID: TX6626
+- Latitude: 33.142989
+- Longitude: -95.608186
+- County FIPS: 48223
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48223950402
+- Tract 2000: 48223950400
+- Tract 1990: 48223950400
+- Place 2020: 
+- Place 2010: 70904
+- Place 2000: 70904
+- Place 1990: 4120
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

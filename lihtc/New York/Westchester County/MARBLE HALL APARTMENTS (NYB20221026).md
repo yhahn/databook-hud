@@ -1,0 +1,85 @@
+# Project: MARBLE HALL APARTMENTS (NYB20221026)
+
+- HUD ID: NYB20221026
+- HUD ID before: 
+- Project: MARBLE HALL APARTMENTS
+- Address: 100 COLUMBUS AVE
+- City: TUCKAHOE
+- State: NY
+- ZIP: 10707
+- ZIP extension: 
+- State project ID: NY-23-3500
+- Latitude: 40.952802
+- Longitude: -73.825098
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119004802
+- Tract 2010: 36119004800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 75583
+- Place 2010: 75583
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2539945
+- Units: 134
+- Low-income units: 125
+- Units reported: 134
+- Low-income reported: 125
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 77
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

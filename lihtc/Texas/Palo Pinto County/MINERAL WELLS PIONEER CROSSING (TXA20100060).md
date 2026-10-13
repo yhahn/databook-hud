@@ -1,0 +1,85 @@
+# Project: MINERAL WELLS PIONEER CROSSING (TXA20100060)
+
+- HUD ID: TXA20100060
+- HUD ID before: 
+- Project: MINERAL WELLS PIONEER CROSSING
+- Address: 2509 E HUBBARD ST
+- City: MINERAL WELLS
+- State: TX
+- ZIP: 76067
+- ZIP extension: 
+- State project ID: 
+- Latitude: 32.809312
+- Longitude: -98.092398
+- County FIPS: 48363
+- County from: 2020
+- Tract 2020: 48363000800
+- Tract 2010: 48363000800
+- Tract 2000: 48363980800
+- Tract 1990: 48363980800
+- Place 2020: 48684
+- Place 2010: 48684
+- Place 2000: 48684
+- Place 1990: 2835
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 48
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2972073
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5300934
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

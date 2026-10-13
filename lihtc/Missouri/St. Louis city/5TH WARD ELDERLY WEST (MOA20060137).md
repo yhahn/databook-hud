@@ -1,0 +1,85 @@
+# Project: 5TH WARD ELDERLY WEST (MOA20060137)
+
+- HUD ID: MOA20060137
+- HUD ID before: 
+- Project: 5TH WARD ELDERLY WEST
+- Address: 3014 N 25TH ST
+- City: ST LOUIS
+- State: MO
+- ZIP: 63107
+- ZIP extension: 
+- State project ID: 05-063
+- Latitude: 38.65431
+- Longitude: -90.208249
+- County FIPS: 29510
+- County from: 2020
+- Tract 2020: 29510127100
+- Tract 2010: 29510127100
+- Tract 2000: 29510120300
+- Tract 1990: 29510120300
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 96
+- Low-income units: 81
+- Units reported: 96
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

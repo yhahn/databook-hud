@@ -1,0 +1,85 @@
+# Project: EL MILAGRO APARTMENTS (IDA20210002)
+
+- HUD ID: IDA20210002
+- HUD ID before: 
+- Project: EL MILAGRO APARTMENTS
+- Address: 1122 WASHINGTON
+- City: TWIN FALLS
+- State: ID
+- ZIP: 83301
+- ZIP extension: 
+- State project ID: HC1908
+- Latitude: 42.530742
+- Longitude: -114.479828
+- County FIPS: 16083
+- County from: 2020
+- Tract 2020: 16083001201
+- Tract 2010: 16083001200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 82810
+- Place 2010: 82810
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1000000
+- Units: 60
+- Low-income units: 53
+- Units reported: 60
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 22
+- 3-bedroom units: 26
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

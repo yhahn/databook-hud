@@ -1,0 +1,85 @@
+# Project: VILLAGE AT LEXINGTON THE (ADRIAN) (MIA20040305)
+
+- HUD ID: MIA20040305
+- HUD ID before: 
+- Project: VILLAGE AT LEXINGTON THE (ADRIAN)
+- Address: 191 SOUTHFIELD DR
+- City: ADRIAN
+- State: MI
+- ZIP: 49221
+- ZIP extension: 
+- State project ID: MI-2257
+- Latitude: 41.879202
+- Longitude: -84.035246
+- County FIPS: 26091
+- County from: 2020
+- Tract 2020: 26091061600
+- Tract 2010: 26091061600
+- Tract 2000: 26091061600
+- Tract 1990: 26091061600
+- Place 2020: 00440
+- Place 2010: 00440
+- Place 2000: 00440
+- Place 1990: 0010
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VILLAGE AT LEXINGTON (ADRIAN).
+- Record status: Existing, unchanged

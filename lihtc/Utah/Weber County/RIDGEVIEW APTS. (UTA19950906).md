@@ -1,0 +1,85 @@
+# Project: RIDGEVIEW APTS. (UTA19950906)
+
+- HUD ID: UTA19950906
+- HUD ID before: 
+- Project: RIDGEVIEW APTS.
+- Address: 710 NORTH WASHINGTON
+- City: OGDEN
+- State: UT
+- ZIP: 84404
+- ZIP extension: 0000
+- State project ID: 1994-12
+- Latitude: 41.270616
+- Longitude: -111.96918
+- County FIPS: 49057
+- County from: 2020
+- Tract 2020: 49057200203
+- Tract 2010: 49057200203
+- Tract 2000: 49057200201
+- Tract 1990: 49057200200
+- Place 2020: 55980
+- Place 2010: 55980
+- Place 2000: 55980
+- Place 1990: 0695
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 304048
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 48
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

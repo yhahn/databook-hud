@@ -1,0 +1,85 @@
+# Project: WEST DEVIL'S LAKE APTS (ORA20090100)
+
+- HUD ID: ORA20090100
+- HUD ID before: 
+- Project: WEST DEVIL'S LAKE APTS
+- Address: 3109 NE 26TH ST
+- City: LINCOLN CITY
+- State: OR
+- ZIP: 97367
+- ZIP extension: 
+- State project ID: OR08-464
+- Latitude: 44.983897
+- Longitude: -123.995792
+- County FIPS: 41041
+- County from: 2020
+- Tract 2020: 41041950304
+- Tract 2010: 41041950304
+- Tract 2000: 41041950300
+- Tract 1990: 41041950300
+- Place 2020: 42600
+- Place 2010: 42600
+- Place 2000: 42600
+- Place 1990: 0648
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 148408
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 42
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

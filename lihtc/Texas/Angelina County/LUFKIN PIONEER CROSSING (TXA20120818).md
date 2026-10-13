@@ -1,0 +1,85 @@
+# Project: LUFKIN PIONEER CROSSING (TXA20120818)
+
+- HUD ID: TXA20120818
+- HUD ID before: 
+- Project: LUFKIN PIONEER CROSSING
+- Address: 1805 N JOHN REDDITT DR
+- City: LUFKIN
+- State: TX
+- ZIP: 75904
+- ZIP extension: 
+- State project ID: TX4771
+- Latitude: 31.351638
+- Longitude: -94.765309
+- County FIPS: 48005
+- County from: 2020
+- Tract 2020: 48005000400
+- Tract 2010: 48005000400
+- Tract 2000: 48005000400
+- Tract 1990: 48005000400
+- Place 2020: 45072
+- Place 2010: 45072
+- Place 2000: 35228
+- Place 1990: 2575
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000723.
+- Record status: Existing, unchanged

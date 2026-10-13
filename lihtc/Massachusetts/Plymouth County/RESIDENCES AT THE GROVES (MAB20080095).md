@@ -1,0 +1,85 @@
+# Project: RESIDENCES AT THE GROVES (MAB20080095)
+
+- HUD ID: MAB20080095
+- HUD ID before: 
+- Project: RESIDENCES AT THE GROVES
+- Address: 136 W GROVE ST
+- City: MIDDLEBOROUGH
+- State: MA
+- ZIP: 02346
+- ZIP extension: 
+- State project ID: MA-1599
+- Latitude: 41.889627
+- Longitude: -70.927687
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023542302
+- Tract 2010: 25023542300
+- Tract 2000: 25023542300
+- Tract 1990: 25023542300
+- Place 2020: 40885
+- Place 2010: 40885
+- Place 2000: 40885
+- Place 1990: 2490
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 534600
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 230000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000532. AKA THE GROVES APT.
+- Record status: Existing, unchanged

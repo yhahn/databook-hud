@@ -1,0 +1,85 @@
+# Project: CHAPARRAL VILLAGE APTS (OKA19960015)
+
+- HUD ID: OKA19960015
+- HUD ID before: 
+- Project: CHAPARRAL VILLAGE APTS
+- Address: 300 CHEROKEE AVE
+- City: CHEROKEE
+- State: OK
+- ZIP: 73728
+- ZIP extension: 
+- State project ID: OK-95-0625
+- Latitude: 36.747904
+- Longitude: -98.360323
+- County FIPS: 40003
+- County from: 2020
+- Tract 2020: 40003955700
+- Tract 2010: 40003955700
+- Tract 2000: 40003955700
+- Tract 1990: 40003955700
+- Place 2020: 13750
+- Place 2010: 13750
+- Place 2000: 13750
+- Place 1990: 0475
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CRESTVIEW COMMUNITY EXPANSION (MNB20049003)
+
+- HUD ID: MNB20049003
+- HUD ID before: 
+- Project: CRESTVIEW COMMUNITY EXPANSION
+- Address: 1145 WESTMINSTER STREET
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55130
+- ZIP extension: 3659
+- State project ID: D2538
+- Latitude: 44.975526
+- Longitude: -93.086425
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123030900
+- Tract 2010: 27123030900
+- Tract 2000: 27123030900
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 58000
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 278201
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 28
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1056000
+- CDBG: Yes
+- CDBG amount: 538000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: Yes
+- Other population named: mental illness, brain injury, drug dependency, developmental or physical disability
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

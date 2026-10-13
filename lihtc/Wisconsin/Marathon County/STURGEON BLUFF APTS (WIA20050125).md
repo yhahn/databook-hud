@@ -1,0 +1,85 @@
+# Project: STURGEON BLUFF APTS (WIA20050125)
+
+- HUD ID: WIA20050125
+- HUD ID before: 
+- Project: STURGEON BLUFF APTS
+- Address: 1320 GRAND AVE
+- City: WAUSAU
+- State: WI
+- ZIP: 54403
+- ZIP extension: 
+- State project ID: 3089
+- Latitude: 44.943934
+- Longitude: -89.620259
+- County FIPS: 55073
+- County from: 2020
+- Tract 2020: 55073000700
+- Tract 2010: 55073000700
+- Tract 2000: 55073000700
+- Tract 1990: 55073000700
+- Place 2020: 84475
+- Place 2010: 84475
+- Place 2000: 84475
+- Place 1990: 2690
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 98
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

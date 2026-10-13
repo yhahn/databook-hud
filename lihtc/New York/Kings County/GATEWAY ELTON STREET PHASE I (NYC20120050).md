@@ -1,0 +1,85 @@
+# Project: GATEWAY ELTON STREET PHASE I (NYC20120050)
+
+- HUD ID: NYC20120050
+- HUD ID before: 
+- Project: GATEWAY ELTON STREET PHASE I
+- Address: 1149 ELTON ST
+- City: BROOKLYN
+- State: NY
+- ZIP: 11239
+- ZIP extension: 
+- State project ID: NY-10-075
+- Latitude: 40.656492
+- Longitude: -73.873718
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047107001
+- Tract 2010: 36047107000
+- Tract 2000: 36047107000
+- Tract 1990: 36047107000
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 2629465
+- Units: 197
+- Low-income units: 196
+- Units reported: 197
+- Low-income reported: 196
+- Efficiencies: 44
+- 1-bedroom units: 66
+- 2-bedroom units: 71
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2010110.
+- Record status: Existing, unchanged

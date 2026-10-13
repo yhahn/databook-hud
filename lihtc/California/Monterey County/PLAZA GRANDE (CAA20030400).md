@@ -1,0 +1,85 @@
+# Project: PLAZA GRANDE (CAA20030400)
+
+- HUD ID: CAA20030400
+- HUD ID before: 
+- Project: PLAZA GRANDE
+- Address: 50 E MARKET ST
+- City: SALINAS
+- State: CA
+- ZIP: 93901
+- ZIP extension: 
+- State project ID: CA-02-110
+- Latitude: 36.677649
+- Longitude: -121.653639
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053001300
+- Tract 2010: 06053001300
+- Tract 2000: 06053001300
+- Tract 1990: 06053001300
+- Place 2020: 64224
+- Place 2010: 64224
+- Place 2000: 64224
+- Place 1990: 2435
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 839510
+- Units: 92
+- Low-income units: 91
+- Units reported: 92
+- Low-income reported: 91
+- Efficiencies: 91
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

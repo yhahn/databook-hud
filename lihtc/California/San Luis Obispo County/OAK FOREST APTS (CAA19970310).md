@@ -1,0 +1,85 @@
+# Project: OAK FOREST APTS (CAA19970310)
+
+- HUD ID: CAA19970310
+- HUD ID before: 
+- Project: OAK FOREST APTS
+- Address: 163 S ELM ST
+- City: ARROYO GRANDE
+- State: CA
+- ZIP: 93420
+- ZIP extension: 
+- State project ID: CA-96-030
+- Latitude: 35.118101
+- Longitude: -120.600643
+- County FIPS: 06079
+- County from: 2020
+- Tract 2020: 06079011904
+- Tract 2010: 06079011902
+- Tract 2000: 06079011902
+- Tract 1990: 06079011800
+- Place 2020: 02868
+- Place 2010: 02868
+- Place 2000: 02868
+- Place 1990: 0130
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 198364
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ELM VILLAGE.
+- Record status: Existing, unchanged

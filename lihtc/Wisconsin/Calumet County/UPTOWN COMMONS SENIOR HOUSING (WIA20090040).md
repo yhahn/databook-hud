@@ -1,0 +1,85 @@
+# Project: UPTOWN COMMONS SENIOR HOUSING (WIA20090040)
+
+- HUD ID: WIA20090040
+- HUD ID before: 
+- Project: UPTOWN COMMONS SENIOR HOUSING
+- Address: 49 W MAIN ST
+- City: CHILTON
+- State: WI
+- ZIP: 53014
+- ZIP extension: 
+- State project ID: 5334
+- Latitude: 44.02817
+- Longitude: -88.16397
+- County FIPS: 55015
+- County from: 2020
+- Tract 2020: 55015020500
+- Tract 2010: 55015020500
+- Tract 2000: 55015020500
+- Tract 1990: 55015020500
+- Place 2020: 14475
+- Place 2010: 14475
+- Place 2000: 14475
+- Place 1990: 0505
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 438408
+- Units: 40
+- Low-income units: 13
+- Units reported: 40
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 461700
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

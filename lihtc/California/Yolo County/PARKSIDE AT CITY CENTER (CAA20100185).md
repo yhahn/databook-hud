@@ -1,0 +1,85 @@
+# Project: PARKSIDE AT CITY CENTER (CAA20100185)
+
+- HUD ID: CAA20100185
+- HUD ID before: 
+- Project: PARKSIDE AT CITY CENTER
+- Address: 2119 W CAPITOL AVE
+- City: WEST SACRAMENTO
+- State: CA
+- ZIP: 95691
+- ZIP extension: 
+- State project ID: CA-08-180
+- Latitude: 38.579645
+- Longitude: -121.537786
+- County FIPS: 06113
+- County from: 2020
+- Tract 2020: 06113010203
+- Tract 2010: 06113010203
+- Tract 2000: 06113010203
+- Tract 1990: 06113010203
+- Place 2020: 84816
+- Place 2010: 84816
+- Place 2000: 84816
+- Place 1990: 3098
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1493334
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 35
+- 3-bedroom units: 27
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PARKSIDE AT SYCAMORE.
+- Record status: Existing, unchanged

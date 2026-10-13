@@ -1,0 +1,85 @@
+# Project: YWCA TRANSITIONAL HOUSING (MAB20100100)
+
+- HUD ID: MAB20100100
+- HUD ID before: 
+- Project: YWCA TRANSITIONAL HOUSING
+- Address: 1 CLOUGH ST
+- City: SPRINGFIELD
+- State: MA
+- ZIP: 01118
+- ZIP extension: 
+- State project ID: 1592
+- Latitude: 42.08467
+- Longitude: -72.534009
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013802500
+- Tract 2010: 25013802500
+- Tract 2000: 25013802500
+- Tract 1990: 25013802500
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 4090
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 504000
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 14
+- 1-bedroom units: 0
+- 2-bedroom units: 9
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 327000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA YWCA SUPPORTIVE HOUSING. FKA CAMPUS OF HOPE PHASE II
+- Record status: Existing, unchanged

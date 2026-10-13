@@ -1,0 +1,85 @@
+# Project: ST STANISLAUS APTS (PAA00000247)
+
+- HUD ID: PAA00000247
+- HUD ID before: 
+- Project: ST STANISLAUS APTS
+- Address: 143 OLD NEWPORT ST
+- City: NANTICOKE
+- State: PA
+- ZIP: 18634
+- ZIP extension: 
+- State project ID: TC20090538
+- Latitude: 41.192414
+- Longitude: -76.016929
+- County FIPS: 42079
+- County from: 2020
+- Tract 2020: 42079215600
+- Tract 2010: 42079215600
+- Tract 2000: 42079215600
+- Tract 1990: 42079215600
+- Place 2020: 69952
+- Place 2010: 69952
+- Place 2000: 29680
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

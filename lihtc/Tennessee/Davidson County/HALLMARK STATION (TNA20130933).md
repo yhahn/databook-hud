@@ -1,0 +1,85 @@
+# Project: HALLMARK STATION (TNA20130933)
+
+- HUD ID: TNA20130933
+- HUD ID before: 
+- Project: HALLMARK STATION
+- Address: 3970 CLARKSVILLE PIKE
+- City: NASHVILLE
+- State: TN
+- ZIP: 37218
+- ZIP extension: 
+- State project ID: TN-11-076
+- Latitude: 36.210262
+- Longitude: -86.838892
+- County FIPS: 47037
+- County from: 2020
+- Tract 2020: 47037012801
+- Tract 2010: 47037012801
+- Tract 2000: 47037012801
+- Tract 1990: 47037012800
+- Place 2020: 52006
+- Place 2010: 52006
+- Place 2000: 52006
+- Place 1990: 1016
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

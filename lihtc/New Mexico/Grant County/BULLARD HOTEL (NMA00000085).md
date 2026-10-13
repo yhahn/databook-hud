@@ -1,0 +1,85 @@
+# Project: BULLARD HOTEL (NMA00000085)
+
+- HUD ID: NMA00000085
+- HUD ID before: 
+- Project: BULLARD HOTEL
+- Address: 105 S BULLARD ST
+- City: SILVER CITY
+- State: NM
+- ZIP: 88061
+- ZIP extension: 
+- State project ID: 008-1988
+- Latitude: 32.768985
+- Longitude: -108.276403
+- County FIPS: 35017
+- County from: 2020
+- Tract 2020: 35017964401
+- Tract 2010: 35017964400
+- Tract 2000: 35017984400
+- Tract 1990: 35017984400
+- Place 2020: 73260
+- Place 2010: 73260
+- Place 2000: 73260
+- Place 1990: 0380
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

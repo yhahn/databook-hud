@@ -1,0 +1,85 @@
+# Project: TM CHAMBERS MANORS (CAA19990780)
+
+- HUD ID: CAA19990780
+- HUD ID before: 
+- Project: TM CHAMBERS MANORS
+- Address: 2620 MENLO AVE
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90007
+- ZIP extension: 
+- State project ID: CA-96-045
+- Latitude: 34.032163
+- Longitude: -118.290118
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037221810
+- Tract 2010: 06037221810
+- Tract 2000: 06037221810
+- Tract 1990: 06037221800
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 165827
+- Units: 19
+- Low-income units: 18
+- Units reported: 19
+- Low-income reported: 18
+- Efficiencies: 3
+- 1-bedroom units: 16
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

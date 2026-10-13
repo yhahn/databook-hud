@@ -1,0 +1,85 @@
+# Project: THREE ROUND TOWERS B AND C (FLA20222012)
+
+- HUD ID: FLA20222012
+- HUD ID before: 
+- Project: THREE ROUND TOWERS B AND C
+- Address: 2920 AND 2940 NW 18TH AVE.
+- City: MIAMI
+- State: FL
+- ZIP: 33142
+- ZIP extension: 
+- State project ID: FL-19-3270
+- Latitude: 25.807
+- Longitude: -80.2361
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086002403
+- Tract 2010: 12086002403
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 2729685
+- Units: 263
+- Low-income units: 263
+- Units reported: 263
+- Low-income reported: 263
+- Efficiencies: 
+- 1-bedroom units: 263
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

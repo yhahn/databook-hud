@@ -1,0 +1,85 @@
+# Project: HUNTER COURT (DEA19880030)
+
+- HUD ID: DEA19880030
+- HUD ID before: 
+- Project: HUNTER COURT
+- Address: 701 S MARKET ST
+- City: BLADES
+- State: DE
+- ZIP: 19973
+- ZIP extension: 
+- State project ID: DETC8812001
+- Latitude: 38.631678
+- Longitude: -75.609346
+- County FIPS: 10005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 10005050403
+- Tract 2000: 10005050403
+- Tract 1990: 10005050400
+- Place 2020: 
+- Place 2010: 06730
+- Place 2000: 06730
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 66288
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BLADES DIAMOND COURT.
+- Record status: Existing, unchanged

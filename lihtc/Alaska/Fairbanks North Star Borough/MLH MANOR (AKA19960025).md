@@ -1,0 +1,85 @@
+# Project: MLH MANOR (AKA19960025)
+
+- HUD ID: AKA19960025
+- HUD ID before: 
+- Project: MLH MANOR
+- Address: 301 7TH AVENUE
+- City: FAIRBANKS
+- State: AK
+- ZIP: 99701
+- ZIP extension: 
+- State project ID: AK-94-13
+- Latitude: 64.841086
+- Longitude: -147.709931
+- County FIPS: 02090
+- County from: 2020
+- Tract 2020: 02090000100
+- Tract 2010: 02090000100
+- Tract 2000: 02090000100
+- Tract 1990: 
+- Place 2020: 24230
+- Place 2010: 24230
+- Place 2000: 24230
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 32
+- Units reported: 34
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

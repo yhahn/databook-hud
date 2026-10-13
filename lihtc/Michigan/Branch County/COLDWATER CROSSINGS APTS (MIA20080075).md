@@ -1,0 +1,85 @@
+# Project: COLDWATER CROSSINGS APTS (MIA20080075)
+
+- HUD ID: MIA20080075
+- HUD ID before: 
+- Project: COLDWATER CROSSINGS APTS
+- Address: 30 W PARK AVE
+- City: COLDWATER
+- State: MI
+- ZIP: 49036
+- ZIP extension: 
+- State project ID: MI-3283
+- Latitude: 41.935573
+- Longitude: -85.003993
+- County FIPS: 26023
+- County from: 2020
+- Tract 2020: 26023951600
+- Tract 2010: 26023951600
+- Tract 2000: 26023950500
+- Tract 1990: 26023950500
+- Place 2020: 17020
+- Place 2010: 17020
+- Place 2000: 17020
+- Place 1990: 0565
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 157077
+- Units: 38
+- Low-income units: 37
+- Units reported: 38
+- Low-income reported: 37
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

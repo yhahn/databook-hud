@@ -1,0 +1,85 @@
+# Project: PORT JEFFERSON CROSSING (NYA20230026)
+
+- HUD ID: NYA20230026
+- HUD ID before: 
+- Project: PORT JEFFERSON CROSSING
+- Address: 1615 MAIN STREET
+- City: PORT JEFFERSON
+- State: NY
+- ZIP: 11777
+- ZIP extension: 
+- State project ID: 20190336
+- Latitude: 40.934822
+- Longitude: -73.054608
+- County FIPS: 36103
+- County from: 2020
+- Tract 2020: 36103158206
+- Tract 2010: 36103158206
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59355
+- Place 2010: 59355
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 880000
+- Units: 45
+- Low-income units: 40
+- Units reported: 45
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 775000
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

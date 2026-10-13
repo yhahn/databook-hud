@@ -1,0 +1,85 @@
+# Project: GRAND MANOR II - III (MNA20127005)
+
+- HUD ID: MNA20127005
+- HUD ID before: 
+- Project: GRAND MANOR II - III
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: GRAND RAPIDS
+- State: MN
+- ZIP: 55744
+- ZIP extension: 
+- State project ID: D6263
+- Latitude: 47.2183
+- Longitude: -93.5247
+- County FIPS: 27061
+- County from: 2020
+- Tract 2020: 27061480803
+- Tract 2010: 27061480802
+- Tract 2000: 27061980800
+- Tract 1990: 27061980800
+- Place 2020: 12502
+- Place 2010: 12412
+- Place 2000: 12412
+- Place 1990: 1545
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 22000
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA0000042, MNA0000502.
+- Record status: Existing, unchanged

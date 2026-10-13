@@ -1,0 +1,85 @@
+# Project: BERNWOOD TRACE (FLA20000010)
+
+- HUD ID: FLA20000010
+- HUD ID before: 
+- Project: BERNWOOD TRACE
+- Address: 9804 BERNWOOD PL DR
+- City: FT MYERS
+- State: FL
+- ZIP: 33966
+- ZIP extension: 
+- State project ID: 79
+- Latitude: 26.598214
+- Longitude: -81.812417
+- County FIPS: 12071
+- County from: 2020
+- Tract 2020: 12071001209
+- Tract 2010: 12071001202
+- Tract 2000: 12071001202
+- Tract 1990: 12071001200
+- Place 2020: 24125
+- Place 2010: 24125
+- Place 2000: 24125
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 340
+- Low-income units: 340
+- Units reported: 340
+- Low-income reported: 340
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 168
+- 3-bedroom units: 100
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

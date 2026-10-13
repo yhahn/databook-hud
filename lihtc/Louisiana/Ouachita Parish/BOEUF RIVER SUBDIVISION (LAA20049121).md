@@ -1,0 +1,85 @@
+# Project: BOEUF RIVER SUBDIVISION (LAA20049121)
+
+- HUD ID: LAA20049121
+- HUD ID before: 
+- Project: BOEUF RIVER SUBDIVISION
+- Address: 146 PRESTON LOOP
+- City: MONROE
+- State: LA
+- ZIP: 71202
+- ZIP extension: 
+- State project ID: LA-02-027
+- Latitude: 32.445911
+- Longitude: -92.093144
+- County FIPS: 22073
+- County from: 2020
+- Tract 2020: 22073011000
+- Tract 2010: 22073011000
+- Tract 2000: 22073010601
+- Tract 1990: 22073010601
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 51410
+- Place 1990: 0890
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PEPPERWOOD SENIOR APARTMENTS (WAA20040160)
+
+- HUD ID: WAA20040160
+- HUD ID before: 
+- Project: PEPPERWOOD SENIOR APARTMENTS
+- Address: 19924 SCRIBER LAKE ROAD
+- City: LYNNWOOD
+- State: WA
+- ZIP: 98036
+- ZIP extension: 
+- State project ID: 03-49
+- Latitude: 47.817905
+- Longitude: -122.314084
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061051401
+- Tract 2010: 53061051400
+- Tract 2000: 53061051400
+- Tract 1990: 53061051400
+- Place 2020: 40840
+- Place 2010: 40840
+- Place 2000: 40840
+- Place 1990: 0715
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 172500
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

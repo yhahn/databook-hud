@@ -1,0 +1,85 @@
+# Project: VILLA GARCIA (THOUSAND OAKS) (CAA19990655)
+
+- HUD ID: CAA19990655
+- HUD ID before: 
+- Project: VILLA GARCIA (THOUSAND OAKS)
+- Address: 1379 E THOUSAND OAKS BLVD
+- City: THOUSAND OAKS
+- State: CA
+- ZIP: 91362
+- ZIP extension: 
+- State project ID: CA-98-970
+- Latitude: 34.178222
+- Longitude: -118.855511
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111007100
+- Tract 2010: 06111007100
+- Tract 2000: 06111007100
+- Tract 1990: 06111007100
+- Place 2020: 78582
+- Place 2010: 78582
+- Place 2000: 78582
+- Place 1990: 2897
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 296028
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 20
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ISLAND VILLAGE.
+- Record status: Existing, unchanged

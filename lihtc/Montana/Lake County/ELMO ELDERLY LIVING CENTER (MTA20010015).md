@@ -1,0 +1,85 @@
+# Project: ELMO ELDERLY LIVING CENTER (MTA20010015)
+
+- HUD ID: MTA20010015
+- HUD ID before: 
+- Project: ELMO ELDERLY LIVING CENTER
+- Address: 100 CEMETERY RD
+- City: ELMO
+- State: MT
+- ZIP: 59915
+- ZIP extension: 0000
+- State project ID: 00020
+- Latitude: 47.830473
+- Longitude: -114.351735
+- County FIPS: 30047
+- County from: 2020
+- Tract 2020: 30047940306
+- Tract 2010: 30047940303
+- Tract 2000: 30047940300
+- Tract 1990: 30047995200
+- Place 2020: 24100
+- Place 2010: 24100
+- Place 2000: 26226
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 64000
+- Units: 10
+- Low-income units: 8
+- Units reported: 10
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 46
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: VALLE DEL SOL APTS (CAA20080885)
+
+- HUD ID: CAA20080885
+- HUD ID before: 
+- Project: VALLE DEL SOL APTS
+- Address: 1605 C ST
+- City: BRAWLEY
+- State: CA
+- ZIP: 92227
+- ZIP extension: 
+- State project ID: CA-06-035
+- Latitude: 32.982511
+- Longitude: -115.513353
+- County FIPS: 06025
+- County from: 2020
+- Tract 2020: 06025010402
+- Tract 2010: 06025010400
+- Tract 2000: 06025010400
+- Tract 1990: 06025010400
+- Place 2020: 08058
+- Place 2010: 08058
+- Place 2000: 08058
+- Place 1990: 0320
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 889787
+- Units: 72
+- Low-income units: 70
+- Units reported: 72
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 49
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

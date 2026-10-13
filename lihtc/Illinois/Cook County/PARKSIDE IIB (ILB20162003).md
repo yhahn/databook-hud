@@ -1,0 +1,85 @@
+# Project: PARKSIDE IIB (ILB20162003)
+
+- HUD ID: ILB20162003
+- HUD ID before: 
+- Project: PARKSIDE IIB
+- Address: 459 W DIVISION ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60610
+- ZIP extension: 1789
+- State project ID: IL-14-020
+- Latitude: 41.903574
+- Longitude: -87.640474
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031838300
+- Tract 2010: 17031838300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 106
+- Low-income units: 63
+- Units reported: 106
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 42
+- 3-bedroom units: 12
+- 4-bedroom units: 1
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

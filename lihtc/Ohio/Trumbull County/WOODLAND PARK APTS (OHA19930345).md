@@ -1,0 +1,85 @@
+# Project: WOODLAND PARK APTS (OHA19930345)
+
+- HUD ID: OHA19930345
+- HUD ID before: 
+- Project: WOODLAND PARK APTS
+- Address: 550 OHIO AVE
+- City: MC DONALD
+- State: OH
+- ZIP: 44437
+- ZIP extension: 
+- State project ID: 910719
+- Latitude: 41.16256
+- Longitude: -80.724561
+- County FIPS: 39155
+- County from: 2020
+- Tract 2020: 39155932500
+- Tract 2010: 39155932500
+- Tract 2000: 39155932500
+- Tract 1990: 39155932500
+- Place 2020: 45934
+- Place 2010: 45934
+- Place 2000: 45934
+- Place 1990: 2380
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 143922
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

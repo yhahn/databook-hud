@@ -1,0 +1,85 @@
+# Project: COMPTON GARDEN (CAA20020105)
+
+- HUD ID: CAA20020105
+- HUD ID before: 
+- Project: COMPTON GARDEN
+- Address: 4243 E ALONDRA BLVD
+- City: COMPTON
+- State: CA
+- ZIP: 90221
+- ZIP extension: 
+- State project ID: CA-01-845
+- Latitude: 33.888918
+- Longitude: -118.1961
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037542105
+- Tract 2010: 06037542105
+- Tract 2000: 06037542102
+- Tract 1990: 06037542102
+- Place 2020: 21034
+- Place 2010: 21034
+- Place 2000: 15044
+- Place 1990: 0590
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 110095
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 16
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

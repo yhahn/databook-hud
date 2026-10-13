@@ -1,0 +1,85 @@
+# Project: MAPLEWOOD COURT APARTMENTS II (MNA19930116)
+
+- HUD ID: MNA19930116
+- HUD ID before: 
+- Project: MAPLEWOOD COURT APARTMENTS II
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: CLOQUET
+- State: MN
+- ZIP: 55720
+- ZIP extension: 
+- State project ID: D0315
+- Latitude: 46.5748
+- Longitude: -92.4159
+- County FIPS: 27017
+- County from: 2020
+- Tract 2020: 27017070401
+- Tract 2010: 27017070400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 12160
+- Place 2010: 12160
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 21
+- Units reported: 22
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

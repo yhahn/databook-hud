@@ -1,0 +1,85 @@
+# Project: SHOREWOOD APTS (ORA19970100)
+
+- HUD ID: ORA19970100
+- HUD ID before: 
+- Project: SHOREWOOD APTS
+- Address: 1121 SPRUCE ST
+- City: CANNON BEACH
+- State: OR
+- ZIP: 97110
+- ZIP extension: 
+- State project ID: X001-092
+- Latitude: 45.837
+- Longitude: -123.9626
+- County FIPS: 41007
+- County from: 2020
+- Tract 2020: 41007951100
+- Tract 2010: 41007951100
+- Tract 2000: 41007951100
+- Tract 1990: 41007951100
+- Place 2020: 10850
+- Place 2010: 10850
+- Place 2000: 10850
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 652500
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 130000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

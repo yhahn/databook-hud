@@ -1,0 +1,85 @@
+# Project: WILLOW LAKE GARDENS APTS (INA19970085)
+
+- HUD ID: INA19970085
+- HUD ID before: 
+- Project: WILLOW LAKE GARDENS APTS
+- Address: 6875 FARIS AVE
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46226
+- ZIP extension: 
+- State project ID: IN-97-05000
+- Latitude: 39.83471
+- Longitude: -86.047961
+- County FIPS: 18097
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18097330900
+- Tract 2000: 18097330900
+- Tract 1990: 18097330900
+- Place 2020: 
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 354
+- Low-income units: 354
+- Units reported: 354
+- Low-income reported: 354
+- Efficiencies: 0
+- 1-bedroom units: 108
+- 2-bedroom units: 245
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHURCH HILL TOWNHOMES (CAA20130095)
+
+- HUD ID: CAA20130095
+- HUD ID before: 
+- Project: CHURCH HILL TOWNHOMES
+- Address: 2601 SCHOOL ST
+- City: FORTUNA
+- State: CA
+- ZIP: 95540
+- ZIP extension: 
+- State project ID: CA-11-154
+- Latitude: 40.570457
+- Longitude: -124.138655
+- County FIPS: 06023
+- County from: 2020
+- Tract 2020: 06023011000
+- Tract 2010: 06023011000
+- Tract 2000: 06023011000
+- Tract 1990: 06023011000
+- Place 2020: 25296
+- Place 2010: 25296
+- Place 2000: 25296
+- Place 1990: 1060
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 550000
+- Units: 35
+- Low-income units: 34
+- Units reported: 35
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 15
+- 3-bedroom units: 13
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

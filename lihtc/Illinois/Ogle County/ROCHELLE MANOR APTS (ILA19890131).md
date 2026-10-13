@@ -1,0 +1,85 @@
+# Project: ROCHELLE MANOR APTS (ILA19890131)
+
+- HUD ID: ILA19890131
+- HUD ID before: 
+- Project: ROCHELLE MANOR APTS
+- Address: 965 S CARON RD
+- City: ROCHELLE
+- State: IL
+- ZIP: 61068
+- ZIP extension: 
+- State project ID: 249-89
+- Latitude: 41.908043
+- Longitude: -89.046607
+- County FIPS: 17141
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17141961100
+- Tract 2000: 17141961100
+- Tract 1990: 17141961100
+- Place 2020: 
+- Place 2010: 64746
+- Place 2000: 17471
+- Place 1990: 4935
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 33742
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000790.
+- Record status: Existing, unchanged

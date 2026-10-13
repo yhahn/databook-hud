@@ -1,0 +1,85 @@
+# Project: LEAWOOD APARTMENTS (ARA20060035)
+
+- HUD ID: ARA20060035
+- HUD ID before: 
+- Project: LEAWOOD APARTMENTS
+- Address: 850 N BEECH ST
+- City: BEEBE
+- State: AR
+- ZIP: 72012
+- ZIP extension: 
+- State project ID: AR-05-13-001
+- Latitude: 35.077724
+- Longitude: -91.877116
+- County FIPS: 05145
+- County from: 2020
+- Tract 2020: 05145071202
+- Tract 2010: 05145071200
+- Tract 2000: 05145971200
+- Tract 1990: 05145971200
+- Place 2020: 04600
+- Place 2010: 04600
+- Place 2000: 04600
+- Place 1990: 0150
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 64641
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 4
+- 1-bedroom units: 7
+- 2-bedroom units: 10
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

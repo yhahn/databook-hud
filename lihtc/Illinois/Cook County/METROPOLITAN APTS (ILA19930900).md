@@ -1,0 +1,85 @@
+# Project: METROPOLITAN APTS (ILA19930900)
+
+- HUD ID: ILA19930900
+- HUD ID before: 
+- Project: METROPOLITAN APTS
+- Address: 5854 S MICHIGAN AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60637
+- ZIP extension: 
+- State project ID: 41491
+- Latitude: 41.788301
+- Longitude: -87.622514
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031400500
+- Tract 2010: 17031400500
+- Tract 2000: 17031400500
+- Tract 1990: 17031400500
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 436887
+- Units: 69
+- Low-income units: 69
+- Units reported: 69
+- Low-income reported: 69
+- Efficiencies: 3
+- 1-bedroom units: 2
+- 2-bedroom units: 23
+- 3-bedroom units: 29
+- 4-bedroom units: 12
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA METROPOLITIAN APTS.
+- Record status: Existing, unchanged

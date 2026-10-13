@@ -1,0 +1,85 @@
+# Project: SPRINGCHASE APARTMENTS (NCA20110150)
+
+- HUD ID: NCA20110150
+- HUD ID before: 
+- Project: SPRINGCHASE APARTMENTS
+- Address: 1010 TURNPIKE RD
+- City: LAURINBURG
+- State: NC
+- ZIP: 28352
+- ZIP extension: 
+- State project ID: 9102498
+- Latitude: 34.764695
+- Longitude: -79.491946
+- County FIPS: 37165
+- County from: 2020
+- Tract 2020: 37165010102
+- Tract 2010: 37165010102
+- Tract 2000: 37165010100
+- Tract 1990: 37165010100
+- Place 2020: 37220
+- Place 2010: 37220
+- Place 2000: 37220
+- Place 1990: 1420
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 3599764
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

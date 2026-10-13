@@ -1,0 +1,85 @@
+# Project: RUSTIC GARDENS (CAA19940340)
+
+- HUD ID: CAA19940340
+- HUD ID before: 
+- Project: RUSTIC GARDENS
+- Address: 190 SIERRA CT
+- City: HOLLISTER
+- State: CA
+- ZIP: 95023
+- ZIP extension: 
+- State project ID: CA-93-016
+- Latitude: 36.861071
+- Longitude: -121.399505
+- County FIPS: 06069
+- County from: 2020
+- Tract 2020: 06069000502
+- Tract 2010: 06069000502
+- Tract 2000: 06069000500
+- Tract 1990: 06069000500
+- Place 2020: 34120
+- Place 2010: 34120
+- Place 2000: 34120
+- Place 1990: 1270
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 260476
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

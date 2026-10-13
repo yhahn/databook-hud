@@ -1,0 +1,85 @@
+# Project: HOT SPRINGS HIGH SCHOOL LOFTS (ARA20050050)
+
+- HUD ID: ARA20050050
+- HUD ID before: 
+- Project: HOT SPRINGS HIGH SCHOOL LOFTS
+- Address: 125 OAK ST
+- City: HOT SPRINGS
+- State: AR
+- ZIP: 71901
+- ZIP extension: 
+- State project ID: AR-04-15-001
+- Latitude: 34.505786
+- Longitude: -93.053762
+- County FIPS: 05051
+- County from: 2020
+- Tract 2020: 05051011500
+- Tract 2010: 05051011500
+- Tract 2000: 05051011500
+- Tract 1990: 05051011500
+- Place 2020: 33400
+- Place 2010: 33400
+- Place 2000: 33400
+- Place 1990: 0985
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 184996
+- Units: 32
+- Low-income units: 21
+- Units reported: 32
+- Low-income reported: 21
+- Efficiencies: 1
+- 1-bedroom units: 6
+- 2-bedroom units: 18
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

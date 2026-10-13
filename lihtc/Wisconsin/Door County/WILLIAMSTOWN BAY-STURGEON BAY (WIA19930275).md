@@ -1,0 +1,85 @@
+# Project: WILLIAMSTOWN BAY-STURGEON BAY (WIA19930275)
+
+- HUD ID: WIA19930275
+- HUD ID before: 
+- Project: WILLIAMSTOWN BAY-STURGEON BAY
+- Address: 133 N 15TH DR
+- City: STURGEON BAY
+- State: WI
+- ZIP: 54235
+- ZIP extension: 
+- State project ID: 1552
+- Latitude: 44.836863
+- Longitude: -87.357632
+- County FIPS: 55029
+- County from: 2020
+- Tract 2020: 55029100700
+- Tract 2010: 55029100700
+- Tract 2000: 55029980700
+- Tract 1990: 55029980700
+- Place 2020: 77875
+- Place 2010: 77875
+- Place 2000: 77875
+- Place 1990: 2480
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

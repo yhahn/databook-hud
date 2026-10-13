@@ -1,0 +1,85 @@
+# Project: THE OVERLOOK (DCB20090030)
+
+- HUD ID: DCB20090030
+- HUD ID before: 
+- Project: THE OVERLOOK
+- Address: 3700 NINTH ST SE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20032
+- ZIP extension: 
+- State project ID: DCB2009030
+- Latitude: 38.835627
+- Longitude: -76.995166
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001009801
+- Tract 2010: 11001009801
+- Tract 2000: 11001009801
+- Tract 1990: 11001009810
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 3059403
+- Units: 316
+- Low-income units: 316
+- Units reported: 316
+- Low-income reported: 316
+- Efficiencies: 0
+- 1-bedroom units: 246
+- 2-bedroom units: 70
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA OVERLOOK AT OXON RUN.
+- Record status: Existing, unchanged

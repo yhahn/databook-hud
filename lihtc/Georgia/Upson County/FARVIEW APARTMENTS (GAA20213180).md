@@ -1,0 +1,85 @@
+# Project: FARVIEW APARTMENTS (GAA20213180)
+
+- HUD ID: GAA20213180
+- HUD ID before: 
+- Project: FARVIEW APARTMENTS
+- Address: 300 AVENUE F
+- City: THOMASTON
+- State: GA
+- ZIP: 30286
+- ZIP extension: 5629
+- State project ID: 2019-542
+- Latitude: 32.892651
+- Longitude: -84.305412
+- County FIPS: 13293
+- County from: 2020
+- Tract 2020: 13293010500
+- Tract 2010: 13293010500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76168
+- Place 2010: 76168
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 491144
+- Units: 99
+- Low-income units: 98
+- Units reported: 99
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 38
+- 3-bedroom units: 34
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: Previously listed as GAA20050800
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: LIBERTY GREEN III (NYB20110057)
+
+- HUD ID: NYB20110057
+- HUD ID before: 
+- Project: LIBERTY GREEN III
+- Address: 3 LIBERTY CT
+- City: WARWICK
+- State: NY
+- ZIP: 10990
+- ZIP extension: 
+- State project ID: NY-10-2003
+- Latitude: 41.263253
+- Longitude: -74.364716
+- County FIPS: 36071
+- County from: 2020
+- Tract 2020: 36071014502
+- Tract 2010: 36071014502
+- Tract 2000: 36071014500
+- Tract 1990: 36071014500
+- Place 2020: 78355
+- Place 2010: 78355
+- Place 2000: 26319
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 443863
+- Units: 83
+- Low-income units: 71
+- Units reported: 83
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 82
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

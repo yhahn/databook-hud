@@ -1,0 +1,85 @@
+# Project: AZURE PARK APTS (CAA20040025)
+
+- HUD ID: CAA20040025
+- HUD ID before: 
+- Project: AZURE PARK APTS
+- Address: 5545 SKY PKWY
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95823
+- ZIP extension: 
+- State project ID: CA-03-891
+- Latitude: 38.501983
+- Longitude: -121.435946
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067004701
+- Tract 2010: 06067004701
+- Tract 2000: 06067004700
+- Tract 1990: 06067004700
+- Place 2020: 24498
+- Place 2010: 24498
+- Place 2000: 55837
+- Place 1990: 2117
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 471161
+- Units: 217
+- Low-income units: 217
+- Units reported: 212
+- Low-income reported: 217
+- Efficiencies: 0
+- 1-bedroom units: 136
+- 2-bedroom units: 72
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

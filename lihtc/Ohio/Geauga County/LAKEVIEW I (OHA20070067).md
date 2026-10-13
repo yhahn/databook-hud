@@ -1,0 +1,85 @@
+# Project: LAKEVIEW I (OHA20070067)
+
+- HUD ID: OHA20070067
+- HUD ID before: 
+- Project: LAKEVIEW I
+- Address: 14843 NORTHVIEW DR
+- City: MIDDLEFIELD
+- State: OH
+- ZIP: 44062
+- ZIP extension: 
+- State project ID: 050017
+- Latitude: 41.466706
+- Longitude: -81.088642
+- County FIPS: 39055
+- County from: 2020
+- Tract 2020: 39055312300
+- Tract 2010: 39055312300
+- Tract 2000: 39055312300
+- Tract 1990: 39055311100
+- Place 2020: 49700
+- Place 2010: 49700
+- Place 2000: 49700
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 29474
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007767, OHA2008120.
+- Record status: Existing, unchanged

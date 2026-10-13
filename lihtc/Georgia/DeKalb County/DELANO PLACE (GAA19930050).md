@@ -1,0 +1,85 @@
+# Project: DELANO PLACE (GAA19930050)
+
+- HUD ID: GAA19930050
+- HUD ID before: 
+- Project: DELANO PLACE
+- Address: 1575 LINE ST
+- City: DECATUR
+- State: GA
+- ZIP: 30032
+- ZIP extension: 
+- State project ID: GA-91-028
+- Latitude: 33.746993
+- Longitude: -84.280458
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089023101
+- Tract 2010: 13089023101
+- Tract 2000: 13089023101
+- Tract 1990: 13089023101
+- Place 2020: 06884
+- Place 2010: 06884
+- Place 2000: 06884
+- Place 1990: 0239
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

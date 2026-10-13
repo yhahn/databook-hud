@@ -1,0 +1,85 @@
+# Project: SWANHAVEN MANOR (MIA20010190)
+
+- HUD ID: MIA20010190
+- HUD ID before: 
+- Project: SWANHAVEN MANOR
+- Address: 465 W GRAND
+- City: DETROIT
+- State: MI
+- ZIP: 48203
+- ZIP extension: 
+- State project ID: MI-991
+- Latitude: 42.399657
+- Longitude: -83.109565
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163559800
+- Tract 2010: 26163553300
+- Tract 2000: 26163553300
+- Tract 1990: 26163553300
+- Place 2020: 38180
+- Place 2010: 38180
+- Place 2000: 38180
+- Place 1990: 1225
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 12
+- 1-bedroom units: 34
+- 2-bedroom units: 7
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

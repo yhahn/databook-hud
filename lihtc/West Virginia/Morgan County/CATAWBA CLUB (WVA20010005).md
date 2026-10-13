@@ -1,0 +1,85 @@
+# Project: CATAWBA CLUB (WVA20010005)
+
+- HUD ID: WVA20010005
+- HUD ID before: 
+- Project: CATAWBA CLUB
+- Address: 9 CATAWBA DR
+- City: BERKELEY SPRINGS
+- State: WV
+- ZIP: 25411
+- ZIP extension: 
+- State project ID: WV-99-220
+- Latitude: 39.6115
+- Longitude: -78.231711
+- County FIPS: 54065
+- County from: 2020
+- Tract 2020: 54065970800
+- Tract 2010: 54065970800
+- Tract 2000: 54065970800
+- Tract 1990: 54065970800
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 04876
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 63
+- Units reported: 64
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 16
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

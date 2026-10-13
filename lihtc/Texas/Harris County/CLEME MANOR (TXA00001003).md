@@ -1,0 +1,85 @@
+# Project: CLEME MANOR (TXA00001003)
+
+- HUD ID: TXA00001003
+- HUD ID before: 
+- Project: CLEME MANOR
+- Address: 5300 COKE STREET
+- City: HOUSTON
+- State: TX
+- ZIP: 77020
+- ZIP extension: 
+- State project ID: TX5110
+- Latitude: 29.767761
+- Longitude: -95.320031
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201211400
+- Tract 2010: 48201211400
+- Tract 2000: 48201211400
+- Tract 1990: 
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 284
+- Low-income units: 284
+- Units reported: 284
+- Low-income reported: 284
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 112
+- 3-bedroom units: 120
+- 4-bedroom units: 28
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 143
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Total Special Needs
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: HUNTERS GLEN APTS (OHA19970115)
+
+- HUD ID: OHA19970115
+- HUD ID before: 
+- Project: HUNTERS GLEN APTS
+- Address: 1235 CHESTERDALE DR
+- City: CINCINNATI
+- State: OH
+- ZIP: 45246
+- ZIP extension: 
+- State project ID: 96-0068
+- Latitude: 39.29423
+- Longitude: -84.449523
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061022301
+- Tract 2010: 39061022301
+- Tract 2000: 39061022301
+- Tract 1990: 39061022301
+- Place 2020: 74104
+- Place 2010: 74104
+- Place 2000: 71892
+- Place 1990: 4097
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 468520
+- Units: 379
+- Low-income units: 379
+- Units reported: 379
+- Low-income reported: 379
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 260
+- 3-bedroom units: 84
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

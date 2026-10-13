@@ -1,0 +1,85 @@
+# Project: GREENBACK MANOR APTS (CAA19990225)
+
+- HUD ID: CAA19990225
+- HUD ID before: 
+- Project: GREENBACK MANOR APTS
+- Address: 7500 GREENBACK LN
+- City: CITRUS HEIGHTS
+- State: CA
+- ZIP: 95610
+- ZIP extension: 
+- State project ID: CA-98-942
+- Latitude: 38.678064
+- Longitude: -121.290233
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067008137
+- Tract 2010: 06067008137
+- Tract 2000: 06067008137
+- Tract 1990: 06067008123
+- Place 2020: 13588
+- Place 2010: 13588
+- Place 2000: 13588
+- Place 1990: 0530
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 201335
+- Units: 156
+- Low-income units: 156
+- Units reported: 156
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 54
+- 3-bedroom units: 32
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

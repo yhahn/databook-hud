@@ -1,0 +1,85 @@
+# Project: KAREN PINES (NVA20010065)
+
+- HUD ID: NVA20010065
+- HUD ID before: 
+- Project: KAREN PINES
+- Address: 4450 KAREN AVE
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89121
+- ZIP extension: 
+- State project ID: NV-99-56
+- Latitude: 36.140811
+- Longitude: -115.078494
+- County FIPS: 32003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 32003001612
+- Tract 2000: 32003001612
+- Tract 1990: 32003001604
+- Place 2020: 
+- Place 2010: 71400
+- Place 2000: 71400
+- Place 1990: 0110
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 2376750
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NVA2001045. AKA RUNNING SPRINGS.
+- Record status: Existing, unchanged

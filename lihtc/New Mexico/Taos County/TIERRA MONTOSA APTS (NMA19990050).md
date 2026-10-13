@@ -1,0 +1,85 @@
+# Project: TIERRA MONTOSA APTS (NMA19990050)
+
+- HUD ID: NMA19990050
+- HUD ID before: 
+- Project: TIERRA MONTOSA APTS
+- Address: 750 GUSDORF RD
+- City: TAOS
+- State: NM
+- ZIP: 87571
+- ZIP extension: 
+- State project ID: 00227
+- Latitude: 36.389343
+- Longitude: -105.576314
+- County FIPS: 35055
+- County from: 2020
+- Tract 2020: 35055952601
+- Tract 2010: 35055952600
+- Tract 2000: 35055952600
+- Tract 1990: 35055952600
+- Place 2020: 76200
+- Place 2010: 76200
+- Place 2000: 61710
+- Place 1990: 0405
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 20
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

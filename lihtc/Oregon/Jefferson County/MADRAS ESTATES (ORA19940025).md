@@ -1,0 +1,85 @@
+# Project: MADRAS ESTATES (ORA19940025)
+
+- HUD ID: ORA19940025
+- HUD ID before: 
+- Project: MADRAS ESTATES
+- Address: 242 SW THIRD ST
+- City: MADRAS
+- State: OR
+- ZIP: 97741
+- ZIP extension: 
+- State project ID: 1064
+- Latitude: 44.632654
+- Longitude: -121.132285
+- County FIPS: 41031
+- County from: 2020
+- Tract 2020: 41031960201
+- Tract 2010: 41031960201
+- Tract 2000: 41031960200
+- Tract 1990: 41031960200
+- Place 2020: 45250
+- Place 2010: 45250
+- Place 2000: 45250
+- Place 1990: 0690
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 45372
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MADRAS ESTATES SENIOR APTS.
+- Record status: Existing, unchanged

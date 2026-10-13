@@ -1,0 +1,85 @@
+# Project: SAVAGE SQUARE APTS (ARA19890100)
+
+- HUD ID: ARA19890100
+- HUD ID before: 
+- Project: SAVAGE SQUARE APTS
+- Address: 315 E PARK ST
+- City: CARLISLE
+- State: AR
+- ZIP: 72024
+- ZIP extension: 
+- State project ID: AR-89-07
+- Latitude: 34.780115
+- Longitude: -91.74336
+- County FIPS: 05085
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05085020400
+- Tract 2000: 05085020400
+- Tract 1990: 05085020400
+- Place 2020: 
+- Place 2010: 11500
+- Place 2000: 11500
+- Place 1990: 0335
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

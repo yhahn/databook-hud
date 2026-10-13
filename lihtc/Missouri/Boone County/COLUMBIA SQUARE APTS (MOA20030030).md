@@ -1,0 +1,85 @@
+# Project: COLUMBIA SQUARE APTS (MOA20030030)
+
+- HUD ID: MOA20030030
+- HUD ID before: 
+- Project: COLUMBIA SQUARE APTS
+- Address: 1016 CLAUDELL LN
+- City: COLUMBIA
+- State: MO
+- ZIP: 65203
+- ZIP extension: 
+- State project ID: 02-404
+- Latitude: 38.963286
+- Longitude: -92.366238
+- County FIPS: 29019
+- County from: 2020
+- Tract 2020: 29019001300
+- Tract 2010: 29019001300
+- Tract 2000: 29019001300
+- Tract 1990: 29019001300
+- Place 2020: 15670
+- Place 2010: 15670
+- Place 2000: 15670
+- Place 1990: 0930
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 128
+- Low-income units: 128
+- Units reported: 128
+- Low-income reported: 128
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 64
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MEADOWS OF LEBANON (TNA20050075)
+
+- HUD ID: TNA20050075
+- HUD ID before: 
+- Project: MEADOWS OF LEBANON
+- Address: 50 MEADOWS DR
+- City: LEBANON
+- State: TN
+- ZIP: 37087
+- ZIP extension: 
+- State project ID: TN-03-002
+- Latitude: 36.199988
+- Longitude: -86.282381
+- County FIPS: 47189
+- County from: 2020
+- Tract 2020: 47189030700
+- Tract 2010: 47189030700
+- Tract 2000: 47189030700
+- Tract 1990: 47189030700
+- Place 2020: 41520
+- Place 2010: 41520
+- Place 2000: 41520
+- Place 1990: 0790
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 463986
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 48
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

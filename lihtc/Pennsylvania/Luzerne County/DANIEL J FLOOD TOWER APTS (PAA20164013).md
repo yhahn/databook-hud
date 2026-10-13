@@ -1,0 +1,85 @@
+# Project: DANIEL J FLOOD TOWER APTS (PAA20164013)
+
+- HUD ID: PAA20164013
+- HUD ID before: 
+- Project: DANIEL J FLOOD TOWER APTS
+- Address: 230 WYOMING AVE
+- City: KINGSTON
+- State: PA
+- ZIP: 18704
+- ZIP extension: 2008
+- State project ID: TC20150111
+- Latitude: 41.262426
+- Longitude: -75.896813
+- County FIPS: 42079
+- County from: 2020
+- Tract 2020: 42079212700
+- Tract 2010: 42079212700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 39784
+- Place 2010: 39784
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 870047
+- Units: 211
+- Low-income units: 210
+- Units reported: 211
+- Low-income reported: 210
+- Efficiencies: 15
+- 1-bedroom units: 195
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SENIOR
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

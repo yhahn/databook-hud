@@ -1,0 +1,85 @@
+# Project: HISTORIC WEST ELEMENTARY (WIA20070055)
+
+- HUD ID: WIA20070055
+- HUD ID before: 
+- Project: HISTORIC WEST ELEMENTARY
+- Address: 309 MAPLE ST
+- City: RHINELANDER
+- State: WI
+- ZIP: 54501
+- ZIP extension: 
+- State project ID: 5120
+- Latitude: 45.642272
+- Longitude: -89.425001
+- County FIPS: 55085
+- County from: 2020
+- Tract 2020: 55085971500
+- Tract 2010: 55085971500
+- Tract 2000: 55085971500
+- Tract 1990: 55085971500
+- Place 2020: 67200
+- Place 2010: 67200
+- Place 2000: 67200
+- Place 1990: 2155
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 315589
+- Units: 24
+- Low-income units: 6
+- Units reported: 24
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 893880
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

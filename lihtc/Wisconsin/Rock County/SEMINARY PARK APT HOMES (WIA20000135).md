@@ -1,0 +1,85 @@
+# Project: SEMINARY PARK APT HOMES (WIA20000135)
+
+- HUD ID: WIA20000135
+- HUD ID before: 
+- Project: SEMINARY PARK APT HOMES
+- Address: 120 COLLEGE DR
+- City: EVANSVILLE
+- State: WI
+- ZIP: 53536
+- ZIP extension: 
+- State project ID: 2236
+- Latitude: 42.778575
+- Longitude: -89.307305
+- County FIPS: 55105
+- County from: 2020
+- Tract 2020: 55105002902
+- Tract 2010: 55105002900
+- Tract 2000: 55105002900
+- Tract 1990: 55105002900
+- Place 2020: 24550
+- Place 2010: 24550
+- Place 2000: 24550
+- Place 1990: 0860
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 10
+- 3-bedroom units: 4
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

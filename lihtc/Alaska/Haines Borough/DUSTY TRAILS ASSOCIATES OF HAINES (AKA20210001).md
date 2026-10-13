@@ -1,0 +1,85 @@
+# Project: DUSTY TRAILS ASSOCIATES OF HAINES (AKA20210001)
+
+- HUD ID: AKA20210001
+- HUD ID before: 
+- Project: DUSTY TRAILS ASSOCIATES OF HAINES
+- Address: 270 2ND AVE SOUTH
+- City: HAINES
+- State: AK
+- ZIP: 99827
+- ZIP extension: 
+- State project ID: AK-18-01
+- Latitude: 59.229427
+- Longitude: -135.446679
+- County FIPS: 02100
+- County from: 2020
+- Tract 2020: 02100000100
+- Tract 2010: 02100000100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 31050
+- Place 2010: 31050
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 677500
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 
+- 1-bedroom units: 14
+- 2-bedroom units: 12
+- 3-bedroom units: 3
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

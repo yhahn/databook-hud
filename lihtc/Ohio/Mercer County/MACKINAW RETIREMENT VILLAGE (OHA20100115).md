@@ -1,0 +1,85 @@
+# Project: MACKINAW RETIREMENT VILLAGE (OHA20100115)
+
+- HUD ID: OHA20100115
+- HUD ID before: 
+- Project: MACKINAW RETIREMENT VILLAGE
+- Address: 500 W WAYNE ST
+- City: CELINA
+- State: OH
+- ZIP: 45822
+- ZIP extension: 
+- State project ID: 080054
+- Latitude: 40.552917
+- Longitude: -84.576949
+- County FIPS: 39107
+- County from: 2020
+- Tract 2020: 39107967400
+- Tract 2010: 39107967400
+- Tract 2000: 39107967400
+- Tract 1990: 39107967400
+- Place 2020: 12868
+- Place 2010: 12868
+- Place 2000: 12868
+- Place 1990: 0765
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 728000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 486156
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

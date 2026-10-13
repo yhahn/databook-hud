@@ -1,0 +1,85 @@
+# Project: SAVANNAH NEIGHBORHOOD ACTION PROJECT (SNAP) III (GAA20030100)
+
+- HUD ID: GAA20030100
+- HUD ID before: 
+- Project: SAVANNAH NEIGHBORHOOD ACTION PROJECT (SNAP) III
+- Address: 531 E WALDBURG ST
+- City: SAVANNAH
+- State: GA
+- ZIP: 31401
+- ZIP extension: 
+- State project ID: GA02-527
+- Latitude: 32.063914
+- Longitude: -81.091137
+- County FIPS: 13051
+- County from: 2020
+- Tract 2020: 13051002000
+- Tract 2010: 13051002000
+- Tract 2000: 13051002000
+- Tract 1990: 13051002000
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 69000
+- Place 1990: 2540
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 128278
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 3
+- 3-bedroom units: 6
+- 4-bedroom units: 9
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SNAP IIIA.
+- Record status: Existing, unchanged

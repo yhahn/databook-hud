@@ -1,0 +1,85 @@
+# Project: COLONY PARK APTS (TXA00000254)
+
+- HUD ID: TXA00000254
+- HUD ID before: 
+- Project: COLONY PARK APTS
+- Address: 500 W SADOSA ST
+- City: EASTLAND
+- State: TX
+- ZIP: 76448
+- ZIP extension: 
+- State project ID: TX3225
+- Latitude: 32.395218
+- Longitude: -98.821633
+- County FIPS: 48133
+- County from: 2020
+- Tract 2020: 48133950202
+- Tract 2010: 48133950200
+- Tract 2000: 48133950200
+- Tract 1990: 48133950200
+- Place 2020: 22132
+- Place 2010: 22132
+- Place 2000: 22132
+- Place 1990: 1260
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 67
+- Low-income units: 67
+- Units reported: 67
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

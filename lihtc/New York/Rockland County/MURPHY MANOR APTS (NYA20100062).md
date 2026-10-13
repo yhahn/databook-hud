@@ -1,0 +1,85 @@
+# Project: MURPHY MANOR APTS (NYA20100062)
+
+- HUD ID: NYA20100062
+- HUD ID before: 
+- Project: MURPHY MANOR APTS
+- Address: 45 RTE 9W
+- City: HAVERSTRAW
+- State: NY
+- ZIP: 10927
+- ZIP extension: 
+- State project ID: 20080037
+- Latitude: 41.195024
+- Longitude: -73.970197
+- County FIPS: 36087
+- County from: 2020
+- Tract 2020: 36087010701
+- Tract 2010: 36087010701
+- Tract 2000: 36087010701
+- Tract 1990: 36087010700
+- Place 2020: 32754
+- Place 2010: 32754
+- Place 2000: 32754
+- Place 1990: 1535
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 619425
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA2010508.
+- Record status: Existing, unchanged

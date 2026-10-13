@@ -1,0 +1,85 @@
+# Project: THE FIELDS OF SUBURBAN PARK (MDA20010067)
+
+- HUD ID: MDA20010067
+- HUD ID before: 
+- Project: THE FIELDS OF SUBURBAN PARK
+- Address: 11 SCHOOL DR
+- City: GAITHERSBURG
+- State: MD
+- ZIP: 20878
+- ZIP extension: 
+- State project ID: MD99-15
+- Latitude: 39.118901
+- Longitude: -77.213814
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031700837
+- Tract 2010: 24031700816
+- Tract 2000: 24031700816
+- Tract 1990: 24031700801
+- Place 2020: 31175
+- Place 2010: 31175
+- Place 2000: 31175
+- Place 1990: 0385
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 112
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA THE FIELDS OF GAITHERSBURG.
+- Record status: Existing, unchanged

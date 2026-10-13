@@ -1,0 +1,85 @@
+# Project: FRASER HALL APTS (PAA20100040)
+
+- HUD ID: PAA20100040
+- HUD ID before: 
+- Project: FRASER HALL APTS
+- Address: 500 HUNTER ST
+- City: TURTLE CREEK
+- State: PA
+- ZIP: 15145
+- ZIP extension: 
+- State project ID: TC20080305
+- Latitude: 40.406276
+- Longitude: -79.828598
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003509400
+- Tract 2010: 42003509400
+- Tract 2000: 42003509400
+- Tract 1990: 42003509400
+- Place 2020: 77912
+- Place 2010: 77912
+- Place 2000: 77912
+- Place 1990: 8324
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 971896
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 72
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

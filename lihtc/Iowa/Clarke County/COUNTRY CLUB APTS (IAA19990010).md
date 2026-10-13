@@ -1,0 +1,85 @@
+# Project: COUNTRY CLUB APTS (IAA19990010)
+
+- HUD ID: IAA19990010
+- HUD ID before: 
+- Project: COUNTRY CLUB APTS
+- Address: 263 MANOR DR
+- City: OSCEOLA
+- State: IA
+- ZIP: 50213
+- ZIP extension: 
+- State project ID: 97-17
+- Latitude: 41.020604
+- Longitude: -93.757329
+- County FIPS: 19039
+- County from: 2020
+- Tract 2020: 19039960100
+- Tract 2010: 19039960100
+- Tract 2000: 19039990100
+- Tract 1990: 19039990100
+- Place 2020: 59835
+- Place 2010: 59835
+- Place 2000: 59835
+- Place 1990: 3240
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 252044
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 26
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

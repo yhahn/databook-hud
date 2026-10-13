@@ -1,0 +1,85 @@
+# Project: MIAMI STADIUM I (FLA20030170)
+
+- HUD ID: FLA20030170
+- HUD ID before: 
+- Project: MIAMI STADIUM I
+- Address: 2301 NW TENTH AVE
+- City: MIAMI
+- State: FL
+- ZIP: 33127
+- ZIP extension: 
+- State project ID: 1054
+- Latitude: 25.799111
+- Longitude: -80.211038
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086002900
+- Tract 2010: 12086002900
+- Tract 2000: 12086002900
+- Tract 1990: 12025002800
+- Place 2020: 45000
+- Place 2010: 45000
+- Place 2000: 45000
+- Place 1990: 1370
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 336
+- Low-income units: 336
+- Units reported: 336
+- Low-income reported: 336
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 180
+- 3-bedroom units: 132
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

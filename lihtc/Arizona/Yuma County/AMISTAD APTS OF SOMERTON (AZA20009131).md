@@ -1,0 +1,85 @@
+# Project: AMISTAD APTS OF SOMERTON (AZA20009131)
+
+- HUD ID: AZA20009131
+- HUD ID before: 
+- Project: AMISTAD APTS OF SOMERTON
+- Address: 1260 CESAR CHAVEZ AVE
+- City: SOMERTON
+- State: AZ
+- ZIP: 85350
+- ZIP extension: 
+- State project ID: TC-0189
+- Latitude: 32.607599
+- Longitude: -114.718313
+- County FIPS: 04027
+- County from: 2020
+- Tract 2020: 04027011503
+- Tract 2010: 04027011503
+- Tract 2000: 04027011502
+- Tract 1990: 04027011500
+- Place 2020: 68080
+- Place 2010: 68080
+- Place 2000: 68080
+- Place 1990: 0325
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 21
+- Units reported: 24
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000525.
+- Record status: Existing, unchanged

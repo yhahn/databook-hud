@@ -1,0 +1,85 @@
+# Project: APEX PLACE LIHTC UNIT 1 (NYC20221008)
+
+- HUD ID: NYC20221008
+- HUD ID before: 
+- Project: APEX PLACE LIHTC UNIT 1
+- Address: 108-75 62ND DRIVE
+- City: FOREST HILLS
+- State: NY
+- ZIP: 11375
+- ZIP extension: 
+- State project ID: 27-0000066
+- Latitude: 40.736396
+- Longitude: -73.849257
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081074500
+- Tract 2010: 36081074500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 4376811
+- Units: 221
+- Low-income units: 221
+- Units reported: 221
+- Low-income reported: 221
+- Efficiencies: 20
+- 1-bedroom units: 86
+- 2-bedroom units: 96
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

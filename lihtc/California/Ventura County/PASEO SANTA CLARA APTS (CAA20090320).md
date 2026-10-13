@@ -1,0 +1,85 @@
+# Project: PASEO SANTA CLARA APTS (CAA20090320)
+
+- HUD ID: CAA20090320
+- HUD ID before: 
+- Project: PASEO SANTA CLARA APTS
+- Address: 289 RIVERPARK BLVD
+- City: OXNARD
+- State: CA
+- ZIP: 93036
+- ZIP extension: 
+- State project ID: CA-07-839
+- Latitude: 34.234867
+- Longitude: -119.174087
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111005004
+- Tract 2010: 06111005004
+- Tract 2000: 06111005001
+- Tract 1990: 06111005001
+- Place 2020: 54652
+- Place 2010: 54652
+- Place 2000: 22370
+- Place 1990: 0890
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 740268
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 23
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 53
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

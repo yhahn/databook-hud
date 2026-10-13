@@ -1,0 +1,85 @@
+# Project: CENTRAL YMCA (CTA19940015)
+
+- HUD ID: CTA19940015
+- HUD ID before: 
+- Project: CENTRAL YMCA
+- Address: 52 HOWE ST
+- City: NEW HAVEN
+- State: CT
+- ZIP: 06511
+- ZIP extension: 
+- State project ID: CT-91-019
+- Latitude: 41.309063
+- Longitude: -72.935931
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009140700
+- Tract 2010: 09009140700
+- Tract 2000: 09009140700
+- Tract 1990: 09009140700
+- Place 2020: 52000
+- Place 2010: 52000
+- Place 2000: 52000
+- Place 1990: 1450
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 148
+- Low-income units: 142
+- Units reported: 148
+- Low-income reported: 142
+- Efficiencies: 140
+- 1-bedroom units: 8
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA0000145. AKA WEST VILLAGE.
+- Record status: Existing, unchanged

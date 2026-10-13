@@ -1,0 +1,85 @@
+# Project: MIDWAY POINTE SENIOR RESIDENCES (ILB20171001)
+
+- HUD ID: ILB20171001
+- HUD ID before: 
+- Project: MIDWAY POINTE SENIOR RESIDENCES
+- Address: 5011 W. 47TH STREET
+- City: CHICAGO
+- State: IL
+- ZIP: 60638
+- ZIP extension: 
+- State project ID: IL-16-005
+- Latitude: 41.807397
+- Longitude: -87.748639
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031560300
+- Tract 2010: 17031560300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 
+- Units: 95
+- Low-income units: 85
+- Units reported: 95
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 89
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

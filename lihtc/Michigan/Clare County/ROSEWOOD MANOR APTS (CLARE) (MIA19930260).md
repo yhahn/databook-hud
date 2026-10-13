@@ -1,0 +1,85 @@
+# Project: ROSEWOOD MANOR APTS (CLARE) (MIA19930260)
+
+- HUD ID: MIA19930260
+- HUD ID before: 
+- Project: ROSEWOOD MANOR APTS (CLARE)
+- Address: 225 MARY ST
+- City: CLARE
+- State: MI
+- ZIP: 48617
+- ZIP extension: 
+- State project ID: MI-2156
+- Latitude: 43.826304
+- Longitude: -84.771254
+- County FIPS: 26035
+- County from: 2020
+- Tract 2020: 26035000600
+- Tract 2010: 26035000600
+- Tract 2000: 26035980600
+- Tract 1990: 26035980600
+- Place 2020: 15920
+- Place 2010: 15920
+- Place 2000: 15920
+- Place 1990: 0515
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

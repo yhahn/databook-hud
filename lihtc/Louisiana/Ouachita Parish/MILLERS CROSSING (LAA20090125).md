@@ -1,0 +1,85 @@
+# Project: MILLERS CROSSING (LAA20090125)
+
+- HUD ID: LAA20090125
+- HUD ID before: 
+- Project: MILLERS CROSSING
+- Address: 102 MICHELLE COURT
+- City: MONROE
+- State: LA
+- ZIP: 71202
+- ZIP extension: 0000
+- State project ID: LA-07-029
+- Latitude: 32.479417
+- Longitude: -92.086017
+- County FIPS: 22073
+- County from: 2020
+- Tract 2020: 22073001100
+- Tract 2010: 22073001100
+- Tract 2000: 22073010603
+- Tract 1990: 22073001100
+- Place 2020: 64660
+- Place 2010: 64660
+- Place 2000: 
+- Place 1990: 0890
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 21472
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

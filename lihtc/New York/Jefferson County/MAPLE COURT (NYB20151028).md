@@ -1,0 +1,85 @@
+# Project: MAPLE COURT (NYB20151028)
+
+- HUD ID: NYB20151028
+- HUD ID before: 
+- Project: MAPLE COURT
+- Address: 111-136 KIEFF DR
+- City: WATERTOWN
+- State: NY
+- ZIP: 13601
+- ZIP extension: 
+- State project ID: NY-15-2135
+- Latitude: 43.964238
+- Longitude: -75.931777
+- County FIPS: 36045
+- County from: 2020
+- Tract 2020: 36045061900
+- Tract 2010: 36045061900
+- Tract 2000: 36045061900
+- Tract 1990: 
+- Place 2020: 78608
+- Place 2010: 78608
+- Place 2000: 78608
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 473347
+- Units: 92
+- Low-income units: 91
+- Units reported: 92
+- Low-income reported: 91
+- Efficiencies: 7
+- 1-bedroom units: 55
+- 2-bedroom units: 22
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 200000
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

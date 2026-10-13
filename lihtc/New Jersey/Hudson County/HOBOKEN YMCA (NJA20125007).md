@@ -1,0 +1,85 @@
+# Project: HOBOKEN YMCA (NJA20125007)
+
+- HUD ID: NJA20125007
+- HUD ID before: 
+- Project: HOBOKEN YMCA
+- Address: 1301 WASHINGTON STREET
+- City: HOBOKEN CITY
+- State: NJ
+- ZIP: 07030
+- ZIP extension: 
+- State project ID: 2636
+- Latitude: 40.752332
+- Longitude: -74.026121
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017018702
+- Tract 2010: 34017018702
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 32250
+- Place 2010: 32250
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 900000
+- Units: 96
+- Low-income units: 91
+- Units reported: 96
+- Low-income reported: 91
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

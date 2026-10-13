@@ -1,0 +1,85 @@
+# Project: OXFORD VILLAGE (PAA19990187)
+
+- HUD ID: PAA19990187
+- HUD ID before: 
+- Project: OXFORD VILLAGE
+- Address: 1101 LAUREN LN
+- City: OXFORD
+- State: PA
+- ZIP: 19363
+- ZIP extension: 
+- State project ID: TC19980101
+- Latitude: 39.786036
+- Longitude: -75.970101
+- County FIPS: 42029
+- County from: 2020
+- Tract 2020: 42029308000
+- Tract 2010: 42029308000
+- Tract 2000: 42029308000
+- Tract 1990: 42029308000
+- Place 2020: 57480
+- Place 2010: 57480
+- Place 2000: 57480
+- Place 1990: 7046
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 405268
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 25
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 800000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2000115.
+- Record status: Existing, unchanged

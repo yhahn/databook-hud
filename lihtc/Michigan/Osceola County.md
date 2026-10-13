@@ -1,0 +1,24 @@
+# Tax Credit Projects: Osceola County, MI
+
+- Level: County
+- Postal code: MI
+- State FIPS: 26
+- County FIPS: 26133
+- Counties: 
+- Projects: 7
+- Units: 255
+- Low-income units: 253
+
+The low-income housing tax credit projects of Osceola County, Michigan, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [JAMES MANOR ELDERLY APTS (MIA19880115)](./Osceola%20County/JAMES%20MANOR%20ELDERLY%20APTS%20%28MIA19880115%29.md) | MIA19880115 | REED CITY | 1988 | 24 | 24 |
+| [STONEY CREEK APTS (REED CITY) (MIA20030290)](./Osceola%20County/STONEY%20CREEK%20APTS%20%28REED%20CITY%29%20%28MIA20030290%29.md) | MIA20030290 | REED CITY | 2003 | 48 | 47 |
+| [CROSSROADS APTS (MIA20040065)](./Osceola%20County/CROSSROADS%20APTS%20%28MIA20040065%29.md) | MIA20040065 | REED CITY | 2004 | 39 | 38 |
+| [VILLAGE GLEN APTS (MARION) (MIA20040130)](./Osceola%20County/VILLAGE%20GLEN%20APTS%20%28MARION%29%20%28MIA20040130%29.md) | MIA20040130 | MARION | 2004 | 32 | 32 |
+| [SPRINGVIEW MANOR (MIA20080195)](./Osceola%20County/SPRINGVIEW%20MANOR%20%28MIA20080195%29.md) | MIA20080195 | EVART | 2008 | 24 | 24 |
+| [SPRINGVIEW MANOR II (MIA20100068)](./Osceola%20County/SPRINGVIEW%20MANOR%20II%20%28MIA20100068%29.md) | MIA20100068 | EVART | 2010 | 24 | 24 |
+| [REED CITY APARTMENTS (MIA20201018)](./Osceola%20County/REED%20CITY%20APARTMENTS%20%28MIA20201018%29.md) | MIA20201018 | REED CITY | 2020 | 64 | 64 |

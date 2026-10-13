@@ -1,0 +1,85 @@
+# Project: GLEN GARDEN APTS (TXA19980085)
+
+- HUD ID: TXA19980085
+- HUD ID before: 
+- Project: GLEN GARDEN APTS
+- Address: 1210 GLEN GARDEN DR
+- City: FORT WORTH
+- State: TX
+- ZIP: 76104
+- ZIP extension: 
+- State project ID: TX-95-101
+- Latitude: 32.710309
+- Longitude: -97.311092
+- County FIPS: 48439
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48439104505
+- Tract 2000: 48439104505
+- Tract 1990: 48439104501
+- Place 2020: 
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1500
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 152
+- Low-income units: 91
+- Units reported: 152
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 88
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

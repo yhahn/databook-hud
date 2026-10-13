@@ -1,0 +1,85 @@
+# Project: MILL RUN (VAA20130021)
+
+- HUD ID: VAA20130021
+- HUD ID before: 
+- Project: MILL RUN
+- Address: 35361 MILL RUN LN
+- City: BELLE HAVEN
+- State: VA
+- ZIP: 23306
+- ZIP extension: 
+- State project ID: 4496
+- Latitude: 37.556317
+- Longitude: -75.823999
+- County FIPS: 51001
+- County from: 2020
+- Tract 2020: 51001090800
+- Tract 2010: 51001090800
+- Tract 2000: 51001990800
+- Tract 1990: 51001990800
+- Place 2020: 05912
+- Place 2010: 05912
+- Place 2000: 05912
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 384358
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 11
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

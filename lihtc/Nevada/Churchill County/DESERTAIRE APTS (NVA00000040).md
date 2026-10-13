@@ -1,0 +1,85 @@
+# Project: DESERTAIRE APTS (NVA00000040)
+
+- HUD ID: NVA00000040
+- HUD ID before: 
+- Project: DESERTAIRE APTS
+- Address: 1795 AUCTION RD
+- City: FALLON
+- State: NV
+- ZIP: 89406
+- ZIP extension: 
+- State project ID: 
+- Latitude: 39.477603
+- Longitude: -118.79781
+- County FIPS: 32001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 32001950302
+- Tract 2000: 32001950300
+- Tract 1990: 32001950300
+- Place 2020: 
+- Place 2010: 24100
+- Place 2000: 24100
+- Place 1990: 0045
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

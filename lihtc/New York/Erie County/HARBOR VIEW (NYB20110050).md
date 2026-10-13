@@ -1,0 +1,85 @@
+# Project: HARBOR VIEW (NYB20110050)
+
+- HUD ID: NYB20110050
+- HUD ID before: 
+- Project: HARBOR VIEW
+- Address: 10 SEVENTH ST
+- City: BUFFALO
+- State: NY
+- ZIP: 14201
+- ZIP extension: 
+- State project ID: NY-09-1890
+- Latitude: 42.885043
+- Longitude: -78.881952
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029007102
+- Tract 2010: 36029007102
+- Tract 2000: 36029007102
+- Tract 1990: 36029007102
+- Place 2020: 11000
+- Place 2010: 11000
+- Place 2000: 11000
+- Place 1990: 0450
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 642569
+- Units: 208
+- Low-income units: 200
+- Units reported: 208
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 85
+- 2-bedroom units: 43
+- 3-bedroom units: 40
+- 4-bedroom units: 40
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 42
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYB2011513.
+- Record status: Existing, unchanged

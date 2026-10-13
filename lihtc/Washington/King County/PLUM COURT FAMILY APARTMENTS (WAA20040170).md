@@ -1,0 +1,85 @@
+# Project: PLUM COURT FAMILY APARTMENTS (WAA20040170)
+
+- HUD ID: WAA20040170
+- HUD ID before: 
+- Project: PLUM COURT FAMILY APARTMENTS
+- Address: 451 4TH AVE SOUTH
+- City: KIRKLAND
+- State: WA
+- ZIP: 98033
+- ZIP extension: 
+- State project ID: 02-57
+- Latitude: 47.672555
+- Longitude: -122.199531
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033022502
+- Tract 2010: 53033022500
+- Tract 2000: 53033022500
+- Tract 1990: 53033022500
+- Place 2020: 35940
+- Place 2010: 35940
+- Place 2000: 35940
+- Place 1990: 0625
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 414318
+- Units: 66
+- Low-income units: 60
+- Units reported: 66
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 26
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

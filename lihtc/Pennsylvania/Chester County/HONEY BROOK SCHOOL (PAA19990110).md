@@ -1,0 +1,85 @@
+# Project: HONEY BROOK SCHOOL (PAA19990110)
+
+- HUD ID: PAA19990110
+- HUD ID before: 
+- Project: HONEY BROOK SCHOOL
+- Address: 3960 HORSESHOE PIKE
+- City: HONEY BROOK
+- State: PA
+- ZIP: 19344
+- ZIP extension: 
+- State project ID: TC1997-0034
+- Latitude: 40.090041
+- Longitude: -75.904983
+- County FIPS: 42029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42029305000
+- Tract 2000: 42029305000
+- Tract 1990: 42029305000
+- Place 2020: 
+- Place 2010: 35528
+- Place 2000: 35528
+- Place 1990: 5150
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 261330
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1998140.
+- Record status: Existing, unchanged

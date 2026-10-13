@@ -1,0 +1,85 @@
+# Project: ASHWOOD APTS (OHA20030010)
+
+- HUD ID: OHA20030010
+- HUD ID before: 
+- Project: ASHWOOD APTS
+- Address: 1719 CASEY DR
+- City: CINCINNATI
+- State: OH
+- ZIP: 45223
+- ZIP extension: 
+- State project ID: 020141
+- Latitude: 39.1779
+- Longitude: -84.548374
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061008400
+- Tract 2010: 39061008400
+- Tract 2000: 39061008400
+- Tract 1990: 39061008400
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 167575
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 102
+- 3-bedroom units: 38
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003590, OHA2004018.
+- Record status: Existing, unchanged

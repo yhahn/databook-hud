@@ -1,0 +1,85 @@
+# Project: WEST TECH APTS (OHA20020212)
+
+- HUD ID: OHA20020212
+- HUD ID before: 
+- Project: WEST TECH APTS
+- Address: 2201 W 93RD ST
+- City: CLEVELAND
+- State: OH
+- ZIP: 44102
+- ZIP extension: 
+- State project ID: OH-00-0103
+- Latitude: 41.47327
+- Longitude: -81.747179
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035101700
+- Tract 2010: 39035101700
+- Tract 2000: 39035101700
+- Tract 1990: 39035101700
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 91465
+- Units: 184
+- Low-income units: 40
+- Units reported: 184
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

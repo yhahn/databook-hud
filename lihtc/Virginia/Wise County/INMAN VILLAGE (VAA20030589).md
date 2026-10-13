@@ -1,0 +1,85 @@
+# Project: INMAN VILLAGE (VAA20030589)
+
+- HUD ID: VAA20030589
+- HUD ID before: 
+- Project: INMAN VILLAGE
+- Address: 100 DON WHITEHEAD DR
+- City: APPALACHIA
+- State: VA
+- ZIP: 24216
+- ZIP extension: 
+- State project ID: 1010
+- Latitude: 36.910349
+- Longitude: -82.801276
+- County FIPS: 51195
+- County from: 2020
+- Tract 2020: 51195931100
+- Tract 2010: 51195931100
+- Tract 2000: 51195991100
+- Tract 1990: 51195991100
+- Place 2020: 02040
+- Place 2010: 02040
+- Place 2000: 02040
+- Place 1990: 0045
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 308000
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 52
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2002100.
+- Record status: Existing, unchanged

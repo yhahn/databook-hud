@@ -1,0 +1,85 @@
+# Project: WESTRIDGE APTS (ILA20020100)
+
+- HUD ID: ILA20020100
+- HUD ID before: 
+- Project: WESTRIDGE APTS
+- Address: 509 PLAZA DR
+- City: MENDOTA
+- State: IL
+- ZIP: 61342
+- ZIP extension: 
+- State project ID: 131201
+- Latitude: 41.545971
+- Longitude: -89.133242
+- County FIPS: 17099
+- County from: 2020
+- Tract 2020: 17099961900
+- Tract 2010: 17099961900
+- Tract 2000: 17099961900
+- Tract 1990: 17099961900
+- Place 2020: 48333
+- Place 2010: 48333
+- Place 2000: 48333
+- Place 1990: 3675
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 53610
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 12
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

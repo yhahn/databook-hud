@@ -1,0 +1,85 @@
+# Project: RANCHO SIERRA (TXA20040255)
+
+- HUD ID: TXA20040255
+- HUD ID before: 
+- Project: RANCHO SIERRA
+- Address: 1327 MISSION GRANDE
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78221
+- ZIP extension: 
+- State project ID: TX3274
+- Latitude: 29.294185
+- Longitude: -98.475273
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029151900
+- Tract 2010: 48029151900
+- Tract 2000: 48029151900
+- Tract 1990: 48029151900
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3745
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 280
+- Low-income units: 280
+- Units reported: 280
+- Low-income reported: 280
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA SOUTHSIDE VILLAS
+- Record status: Existing, unchanged

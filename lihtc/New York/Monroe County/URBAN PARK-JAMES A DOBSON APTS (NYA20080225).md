@@ -1,0 +1,85 @@
+# Project: URBAN PARK/JAMES A DOBSON APTS (NYA20080225)
+
+- HUD ID: NYA20080225
+- HUD ID before: 
+- Project: URBAN PARK/JAMES A DOBSON APTS
+- Address: 150 VAN AUKER ST
+- City: ROCHESTER
+- State: NY
+- ZIP: 14608
+- ZIP extension: 
+- State project ID: NY-06-0008
+- Latitude: 43.149766
+- Longitude: -77.62136
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055009500
+- Tract 2010: 36055009500
+- Tract 2000: 36055009500
+- Tract 1990: 36055009500
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 3100
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 681158
+- Units: 254
+- Low-income units: 254
+- Units reported: 254
+- Low-income reported: 254
+- Efficiencies: 22
+- 1-bedroom units: 64
+- 2-bedroom units: 78
+- 3-bedroom units: 60
+- 4-bedroom units: 30
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

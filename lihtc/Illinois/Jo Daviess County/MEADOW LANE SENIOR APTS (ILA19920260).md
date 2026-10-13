@@ -1,0 +1,85 @@
+# Project: MEADOW LANE SENIOR APTS (ILA19920260)
+
+- HUD ID: ILA19920260
+- HUD ID before: 
+- Project: MEADOW LANE SENIOR APTS
+- Address: 600 W JEFFERSON ST
+- City: WARREN
+- State: IL
+- ZIP: 61087
+- ZIP extension: 
+- State project ID: 50092
+- Latitude: 42.4831
+- Longitude: -90.0894
+- County FIPS: 17085
+- County from: 2020
+- Tract 2020: 17085020102
+- Tract 2010: 17085020100
+- Tract 2000: 17085020100
+- Tract 1990: 17085020100
+- Place 2020: 78851
+- Place 2010: 78851
+- Place 2000: 01673
+- Place 1990: 6010
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 25553
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1992115. AKA HOUSING ENTERPRISES OF WARREN.
+- Record status: Existing, unchanged

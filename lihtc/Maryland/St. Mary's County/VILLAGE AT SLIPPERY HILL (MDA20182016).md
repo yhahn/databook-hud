@@ -1,0 +1,85 @@
+# Project: VILLAGE AT SLIPPERY HILL (MDA20182016)
+
+- HUD ID: MDA20182016
+- HUD ID before: 
+- Project: VILLAGE AT SLIPPERY HILL
+- Address: 210, 925, 215, 320 FALLEN HORSE CIRCLE
+- City: GRASONVILLE
+- State: MD
+- ZIP: 20653
+- ZIP extension: 
+- State project ID: MD-18-09001-4
+- Latitude: 38.242
+- Longitude: -76.4202
+- County FIPS: 24037
+- County from: 2020
+- Tract 2020: 24037875903
+- Tract 2010: 24037875901
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 46725
+- Place 2010: 46725
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1614500
+- Units: 66
+- Low-income units: 59
+- Units reported: 66
+- Low-income reported: 59
+- Efficiencies: 
+- 1-bedroom units: 12
+- 2-bedroom units: 31
+- 3-bedroom units: 23
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

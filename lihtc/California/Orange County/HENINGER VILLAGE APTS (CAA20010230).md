@@ -1,0 +1,85 @@
+# Project: HENINGER VILLAGE APTS (CAA20010230)
+
+- HUD ID: CAA20010230
+- HUD ID before: 
+- Project: HENINGER VILLAGE APTS
+- Address: 200 S SYCAMORE ST
+- City: SANTA ANA
+- State: CA
+- ZIP: 92701
+- ZIP extension: 
+- State project ID: CA-01-832
+- Latitude: 33.743793
+- Longitude: -117.868907
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059075002
+- Tract 2010: 06059075002
+- Tract 2000: 06059075002
+- Tract 1990: 06059075002
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 69000
+- Place 1990: 2570
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 180099
+- Units: 58
+- Low-income units: 57
+- Units reported: 58
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

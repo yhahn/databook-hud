@@ -1,0 +1,85 @@
+# Project: SANTA ROSA VILLAGE (TXA20060375)
+
+- HUD ID: TXA20060375
+- HUD ID before: 
+- Project: SANTA ROSA VILLAGE
+- Address: 600 FM 506
+- City: SANTA ROSA
+- State: TX
+- ZIP: 78593
+- ZIP extension: 
+- State project ID: TX4250
+- Latitude: 26.2862
+- Longitude: -97.8099
+- County FIPS: 48061
+- County from: 2020
+- Tract 2020: 48061010301
+- Tract 2010: 48061010301
+- Tract 2000: 48061010300
+- Tract 1990: 48061010300
+- Place 2020: 65768
+- Place 2010: 65768
+- Place 2000: 16204
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 17
+- 3-bedroom units: 18
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

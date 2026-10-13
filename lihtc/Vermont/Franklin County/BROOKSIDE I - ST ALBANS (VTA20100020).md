@@ -1,0 +1,85 @@
+# Project: BROOKSIDE I - ST ALBANS (VTA20100020)
+
+- HUD ID: VTA20100020
+- HUD ID before: 
+- Project: BROOKSIDE I - ST ALBANS
+- Address: 5 VICTORIA LN
+- City: ST ALBANS
+- State: VT
+- ZIP: 05478
+- ZIP extension: 
+- State project ID: 0417
+- Latitude: 44.790112
+- Longitude: -73.07758
+- County FIPS: 50011
+- County from: 2020
+- Tract 2020: 50011010600
+- Tract 2010: 50011010600
+- Tract 2000: 50011010600
+- Tract 1990: 50011010600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 629067
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 22
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 250000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 4680000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA BROOKSIDE APTS
+- Record status: Existing, unchanged

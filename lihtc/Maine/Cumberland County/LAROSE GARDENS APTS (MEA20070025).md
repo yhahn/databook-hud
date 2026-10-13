@@ -1,0 +1,85 @@
+# Project: LAROSE GARDENS APTS (MEA20070025)
+
+- HUD ID: MEA20070025
+- HUD ID before: 
+- Project: LAROSE GARDENS APTS
+- Address: 231 NEW GORHAM RD
+- City: WESTBROOK
+- State: ME
+- ZIP: 04092
+- ZIP extension: 
+- State project ID: MSHARLP1419
+- Latitude: 43.67736
+- Longitude: -70.384023
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005002902
+- Tract 2010: 23005002900
+- Tract 2000: 23005002900
+- Tract 1990: 23005002900
+- Place 2020: 82105
+- Place 2010: 82105
+- Place 2000: 82105
+- Place 1990: 4960
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 89859
+- Units: 26
+- Low-income units: 21
+- Units reported: 26
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

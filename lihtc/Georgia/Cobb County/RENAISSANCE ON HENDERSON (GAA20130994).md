@@ -1,0 +1,85 @@
+# Project: RENAISSANCE ON HENDERSON (GAA20130994)
+
+- HUD ID: GAA20130994
+- HUD ID before: 
+- Project: RENAISSANCE ON HENDERSON
+- Address: 55 HENDERSON ST SW
+- City: MARIETTA
+- State: GA
+- ZIP: 30064
+- ZIP extension: 3248
+- State project ID: GA-11-042
+- Latitude: 33.950386
+- Longitude: -84.552945
+- County FIPS: 13067
+- County from: 2020
+- Tract 2020: 13067030912
+- Tract 2010: 13067030902
+- Tract 2000: 13067030902
+- Tract 1990: 13067030902
+- Place 2020: 49756
+- Place 2010: 49756
+- Place 2000: 28520
+- Place 1990: 1750
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 151
+- Low-income units: 145
+- Units reported: 151
+- Low-income reported: 145
+- Efficiencies: 145
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000444.
+- Record status: Existing, unchanged

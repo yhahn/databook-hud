@@ -1,0 +1,85 @@
+# Project: BELLE HAVEN (MDA20020015)
+
+- HUD ID: MDA20020015
+- HUD ID before: 
+- Project: BELLE HAVEN
+- Address: 1827 BELLE HAVEN DR
+- City: LANDOVER
+- State: MD
+- ZIP: 20785
+- ZIP extension: 
+- State project ID: MD01-06001
+- Latitude: 38.916162
+- Longitude: -76.882305
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033803403
+- Tract 2010: 24033803402
+- Tract 2000: 24033803402
+- Tract 1990: 24033803402
+- Place 2020: 45325
+- Place 2010: 45325
+- Place 2000: 34711
+- Place 1990: 0748
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 276
+- Low-income units: 276
+- Units reported: 276
+- Low-income reported: 276
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 199
+- 3-bedroom units: 39
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

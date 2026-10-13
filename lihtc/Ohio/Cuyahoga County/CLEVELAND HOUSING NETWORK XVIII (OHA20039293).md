@@ -1,0 +1,85 @@
+# Project: CLEVELAND HOUSING NETWORK XVIII (OHA20039293)
+
+- HUD ID: OHA20039293
+- HUD ID before: 
+- Project: CLEVELAND HOUSING NETWORK XVIII
+- Address: 2999 PAYNE AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44114
+- ZIP extension: 
+- State project ID: OH-01-0057
+- Latitude: 41.507858
+- Longitude: -81.669487
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035108301
+- Tract 2010: 39035108301
+- Tract 2000: 39035108300
+- Tract 1990: 39035108300
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 999981
+- Units: 82
+- Low-income units: 82
+- Units reported: 82
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 44
+- 4-bedroom units: 38
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003034, OHA2001040.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MANSIONS AT MOSES LAKE (TXA20090802)
+
+- HUD ID: TXA20090802
+- HUD ID before: 
+- Project: MANSIONS AT MOSES LAKE
+- Address: 2211 34TH ST N
+- City: TEXAS CITY
+- State: TX
+- ZIP: 77590
+- ZIP extension: 
+- State project ID: TX4561
+- Latitude: 29.405835
+- Longitude: -94.947703
+- County FIPS: 48167
+- County from: 2020
+- Tract 2020: 48167721902
+- Tract 2010: 48167721900
+- Tract 2000: 48167721900
+- Tract 1990: 48167121610
+- Place 2020: 72392
+- Place 2010: 72392
+- Place 2000: 20344
+- Place 1990: 4230
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 0
+- 1-bedroom units: 143
+- 2-bedroom units: 97
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000385.
+- Record status: Existing, unchanged

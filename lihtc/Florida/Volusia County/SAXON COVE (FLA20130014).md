@@ -1,0 +1,85 @@
+# Project: SAXON COVE (FLA20130014)
+
+- HUD ID: FLA20130014
+- HUD ID before: 
+- Project: SAXON COVE
+- Address: SAXON BLVD
+- City: DEBARY
+- State: FL
+- ZIP: 32713
+- ZIP extension: 
+- State project ID: 2581
+- Latitude: 28.911961
+- Longitude: -81.300838
+- County FIPS: 12127
+- County from: 2020
+- Tract 2020: 12127090905
+- Tract 2010: 12127090902
+- Tract 2000: 12127090902
+- Tract 1990: 12127090902
+- Place 2020: 16675
+- Place 2010: 16675
+- Place 2000: 16675
+- Place 1990: 0490
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

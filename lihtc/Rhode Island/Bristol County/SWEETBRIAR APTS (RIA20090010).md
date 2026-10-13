@@ -1,0 +1,85 @@
+# Project: SWEETBRIAR APTS (RIA20090010)
+
+- HUD ID: RIA20090010
+- HUD ID before: 
+- Project: SWEETBRIAR APTS
+- Address: 16 SWEET BRIAR RD
+- City: BARRINGTON
+- State: RI
+- ZIP: 02806
+- ZIP extension: 
+- State project ID: RI00136
+- Latitude: 41.748627
+- Longitude: -71.34126
+- County FIPS: 44001
+- County from: 2020
+- Tract 2020: 44001030100
+- Tract 2010: 44001030100
+- Tract 2000: 44001030100
+- Tract 1990: 44001030100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 04960
+- Place 1990: 0020
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 17
+- 3-bedroom units: 29
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

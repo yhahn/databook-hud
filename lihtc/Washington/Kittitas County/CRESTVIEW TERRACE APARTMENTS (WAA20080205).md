@@ -1,0 +1,85 @@
+# Project: CRESTVIEW TERRACE APARTMENTS (WAA20080205)
+
+- HUD ID: WAA20080205
+- HUD ID before: 
+- Project: CRESTVIEW TERRACE APARTMENTS
+- Address: 2000 + 2101 NORTH ALDER ST
+- City: ELLENSBURG
+- State: WA
+- ZIP: 98926
+- ZIP extension: 
+- State project ID: 07-46
+- Latitude: 47.008
+- Longitude: -120.5184
+- County FIPS: 53037
+- County from: 2020
+- Tract 2020: 53037975404
+- Tract 2010: 53037975401
+- Tract 2000: 53037975401
+- Tract 1990: 53037975400
+- Place 2020: 21240
+- Place 2010: 21240
+- Place 2000: 
+- Place 1990: 0380
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1071180
+- Units: 168
+- Low-income units: 165
+- Units reported: 168
+- Low-income reported: 165
+- Efficiencies: 0
+- 1-bedroom units: 95
+- 2-bedroom units: 36
+- 3-bedroom units: 26
+- 4-bedroom units: 11
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TAYLOR POINTE II (FLA20030145)
+
+- HUD ID: FLA20030145
+- HUD ID before: 
+- Project: TAYLOR POINTE II
+- Address: 4885 38TH CIR
+- City: VERO BEACH
+- State: FL
+- ZIP: 32967
+- ZIP extension: 
+- State project ID: 477
+- Latitude: 27.680923
+- Longitude: -80.423198
+- County FIPS: 12061
+- County from: 2020
+- Tract 2020: 12061050303
+- Tract 2010: 12061050302
+- Tract 2000: 12061050302
+- Tract 1990: 12061050302
+- Place 2020: 25925
+- Place 2010: 25925
+- Place 2000: 25925
+- Place 1990: 0735
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 24
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FOUNTAINS OF INDIAN RIVER PHASE II.
+- Record status: Existing, unchanged

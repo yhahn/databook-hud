@@ -1,0 +1,85 @@
+# Project: CHELSEA APTS (NYB20030040)
+
+- HUD ID: NYB20030040
+- HUD ID before: 
+- Project: CHELSEA APTS
+- Address: 800 AVE OF THE AMERICAS
+- City: NEW YORK
+- State: NY
+- ZIP: 10001
+- ZIP extension: 
+- State project ID: NY-03-1524
+- Latitude: 40.745467
+- Longitude: -73.990689
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061005800
+- Tract 2010: 36061005800
+- Tract 2000: 36061005800
+- Tract 1990: 36061005800
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 269
+- Low-income units: 54
+- Units reported: 269
+- Low-income reported: 54
+- Efficiencies: 74
+- 1-bedroom units: 155
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

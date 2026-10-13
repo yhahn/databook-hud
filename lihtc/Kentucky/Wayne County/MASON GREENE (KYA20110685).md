@@ -1,0 +1,85 @@
+# Project: MASON GREENE (KYA20110685)
+
+- HUD ID: KYA20110685
+- HUD ID before: 
+- Project: MASON GREENE
+- Address: STOKES DRIVE
+- City: MONTICELLO
+- State: KY
+- ZIP: 42633
+- ZIP extension: 
+- State project ID: KY-09-082
+- Latitude: 36.8524
+- Longitude: -84.825
+- County FIPS: 21231
+- County from: 2020
+- Tract 2020: 21231920202
+- Tract 2010: 21231920200
+- Tract 2000: 21231980200
+- Tract 1990: 21231980200
+- Place 2020: 53130
+- Place 2010: 53130
+- Place 2000: 
+- Place 1990: 1360
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 16557024
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 20
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

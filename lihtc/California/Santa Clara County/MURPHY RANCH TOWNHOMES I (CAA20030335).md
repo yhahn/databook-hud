@@ -1,0 +1,85 @@
+# Project: MURPHY RANCH TOWNHOMES I (CAA20030335)
+
+- HUD ID: CAA20030335
+- HUD ID before: 
+- Project: MURPHY RANCH TOWNHOMES I
+- Address: 310 E DUNNE AVE
+- City: MORGAN HILL
+- State: CA
+- ZIP: 95037
+- ZIP extension: 
+- State project ID: CA-02-931
+- Latitude: 37.127246
+- Longitude: -121.644236
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085512310
+- Tract 2010: 06085512310
+- Tract 2000: 06085512304
+- Tract 1990: 06085512304
+- Place 2020: 49278
+- Place 2010: 49278
+- Place 2000: 49278
+- Place 1990: 1850
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 598780
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 34
+- 3-bedroom units: 22
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MURPHY RANCH I TOWNHOMES.
+- Record status: Existing, unchanged

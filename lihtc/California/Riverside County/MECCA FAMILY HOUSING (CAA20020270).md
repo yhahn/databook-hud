@@ -1,0 +1,85 @@
+# Project: MECCA FAMILY HOUSING (CAA20020270)
+
+- HUD ID: CAA20020270
+- HUD ID before: 
+- Project: MECCA FAMILY HOUSING
+- Address: 62600 LINCOLN AVE
+- City: MECCA
+- State: CA
+- ZIP: 92254
+- ZIP extension: 
+- State project ID: CA-00-159
+- Latitude: 33.593823
+- Longitude: -116.078046
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065045610
+- Tract 2010: 06065045604
+- Tract 2000: 06065045604
+- Tract 1990: 06065045602
+- Place 2020: 46660
+- Place 2010: 46660
+- Place 2000: 46660
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 399805
+- Units: 31
+- Low-income units: 30
+- Units reported: 31
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 10
+- 3-bedroom units: 15
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

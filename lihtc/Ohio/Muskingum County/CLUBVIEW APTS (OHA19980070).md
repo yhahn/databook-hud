@@ -1,0 +1,85 @@
+# Project: CLUBVIEW APTS (OHA19980070)
+
+- HUD ID: OHA19980070
+- HUD ID before: 
+- Project: CLUBVIEW APTS
+- Address: 2480 VISTA VIEW DR N
+- City: NASHPORT
+- State: OH
+- ZIP: 43830
+- ZIP extension: 
+- State project ID: 960044
+- Latitude: 40.037778
+- Longitude: -82.030225
+- County FIPS: 39119
+- County from: 2020
+- Tract 2020: 39119911100
+- Tract 2010: 39119911100
+- Tract 2000: 39119981100
+- Tract 1990: 39119981100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 22610
+- Place 1990: 1190
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 257552
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 510000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1997057, OHA1997505.
+- Record status: Existing, unchanged

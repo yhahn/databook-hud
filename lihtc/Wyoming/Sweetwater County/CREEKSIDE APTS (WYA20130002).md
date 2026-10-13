@@ -1,0 +1,85 @@
+# Project: CREEKSIDE APTS (WYA20130002)
+
+- HUD ID: WYA20130002
+- HUD ID before: 
+- Project: CREEKSIDE APTS
+- Address: 2340 REAGAN AVE
+- City: ROCK SPRINGS
+- State: WY
+- ZIP: 82901
+- ZIP extension: 
+- State project ID: 12-010
+- Latitude: 41.596428
+- Longitude: -109.255417
+- County FIPS: 56037
+- County from: 2020
+- Tract 2020: 56037970902
+- Tract 2010: 56037970902
+- Tract 2000: 56037970902
+- Tract 1990: 56037970900
+- Place 2020: 67235
+- Place 2010: 67235
+- Place 2000: 56700
+- Place 1990: 0390
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 472373
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ROCK SPRINGS CREEKSIDE APTS.
+- Record status: Existing, unchanged

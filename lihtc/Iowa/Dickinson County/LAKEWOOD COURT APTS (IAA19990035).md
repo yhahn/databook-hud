@@ -1,0 +1,85 @@
+# Project: LAKEWOOD COURT APTS (IAA19990035)
+
+- HUD ID: IAA19990035
+- HUD ID before: 
+- Project: LAKEWOOD COURT APTS
+- Address: 607 15TH ST
+- City: SPIRIT LAKE
+- State: IA
+- ZIP: 51360
+- ZIP extension: 
+- State project ID: 98-06
+- Latitude: 43.425394
+- Longitude: -95.099227
+- County FIPS: 19059
+- County from: 2020
+- Tract 2020: 19059450501
+- Tract 2010: 19059450500
+- Tract 2000: 19059950500
+- Tract 1990: 19059950500
+- Place 2020: 74415
+- Place 2010: 74415
+- Place 2000: 59655
+- Place 1990: 4035
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 50149
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WESTSIDE APARTMENTS FKA WESTSIDE MANOR APTS (ARA19960075)
+
+- HUD ID: ARA19960075
+- HUD ID before: 
+- Project: WESTSIDE APARTMENTS FKA WESTSIDE MANOR APTS
+- Address: 608 OLD STURKIE RD
+- City: SALEM
+- State: AR
+- ZIP: 72576
+- ZIP extension: 
+- State project ID: AR-96-10-001
+- Latitude: 36.387967
+- Longitude: -91.836038
+- County FIPS: 05049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05049550200
+- Tract 2000: 05049950200
+- Tract 1990: 05049950200
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 62150
+- Place 1990: 1790
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 54716
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BECKWOOD MANOR ONE. FKA WESTSIDE MANOR APTS
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MANCHESTER-ORANGEWOOD APARTMENT HOMES (CAA20230004)
+
+- HUD ID: CAA20230004
+- HUD ID before: 
+- Project: MANCHESTER-ORANGEWOOD APARTMENT HOMES
+- Address: 915 E. ORANGEWOOD AVENUE
+- City: ANAHEIM
+- State: CA
+- ZIP: 92805
+- ZIP extension: 
+- State project ID: CA-2019-088
+- Latitude: 33.8282
+- Longitude: -117.9145
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059088302
+- Tract 2010: 06059087401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02000
+- Place 2010: 02000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2500000
+- Units: 102
+- Low-income units: 101
+- Units reported: 102
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 27
+- 3-bedroom units: 27
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 66
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

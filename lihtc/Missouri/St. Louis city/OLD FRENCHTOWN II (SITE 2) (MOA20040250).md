@@ -1,0 +1,85 @@
+# Project: OLD FRENCHTOWN II (SITE 2) (MOA20040250)
+
+- HUD ID: MOA20040250
+- HUD ID before: 
+- Project: OLD FRENCHTOWN II (SITE 2)
+- Address: 1203 PARK AVE
+- City: ST LOUIS
+- State: MO
+- ZIP: 63104
+- ZIP extension: 
+- State project ID: 02-041B
+- Latitude: 38.615065
+- Longitude: -90.204387
+- County FIPS: 29510
+- County from: 2020
+- Tract 2020: 29510127400
+- Tract 2010: 29510127400
+- Tract 2000: 29510122400
+- Tract 1990: 29510122400
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 19
+- Units reported: 42
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 10
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA OLD FRENCHTOWN II.
+- Record status: Existing, unchanged

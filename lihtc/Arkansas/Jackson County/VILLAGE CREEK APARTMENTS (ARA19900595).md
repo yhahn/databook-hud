@@ -1,0 +1,85 @@
+# Project: VILLAGE CREEK APARTMENTS (ARA19900595)
+
+- HUD ID: ARA19900595
+- HUD ID before: 
+- Project: VILLAGE CREEK APARTMENTS
+- Address: 1707 MCLARTY
+- City: NEWPORT
+- State: AR
+- ZIP: 72112
+- ZIP extension: 
+- State project ID: AR-90-02-001
+- Latitude: 35.61209
+- Longitude: -91.258463
+- County FIPS: 05067
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05067480300
+- Tract 2000: 05067980300
+- Tract 1990: 05067980300
+- Place 2020: 
+- Place 2010: 49580
+- Place 2000: 10900
+- Place 1990: 1445
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 50200
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1990105. AKA PDC EIGHTEEN.
+- Record status: Existing, unchanged

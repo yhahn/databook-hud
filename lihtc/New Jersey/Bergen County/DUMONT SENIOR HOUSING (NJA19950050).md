@@ -1,0 +1,85 @@
+# Project: DUMONT SENIOR HOUSING (NJA19950050)
+
+- HUD ID: NJA19950050
+- HUD ID before: 
+- Project: DUMONT SENIOR HOUSING
+- Address: 94 SCHRAALENBURGH WAY WEST
+- City: DUMONT BORO
+- State: NJ
+- ZIP: 07628
+- ZIP extension: 
+- State project ID: NJ-0363
+- Latitude: 40.939799
+- Longitude: -73.992944
+- County FIPS: 34003
+- County from: 2020
+- Tract 2020: 34003010200
+- Tract 2010: 34003010200
+- Tract 2000: 34003010200
+- Tract 1990: 34003010200
+- Place 2020: 18400
+- Place 2010: 18400
+- Place 2000: 18400
+- Place 1990: 1620
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 512039
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2012920.
+- Record status: Existing, unchanged

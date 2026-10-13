@@ -1,0 +1,85 @@
+# Project: FOREST GLEN APTS (INA20030065)
+
+- HUD ID: INA20030065
+- HUD ID before: 
+- Project: FOREST GLEN APTS
+- Address: 1373 S L ST
+- City: ELWOOD
+- State: IN
+- ZIP: 46036
+- ZIP extension: 
+- State project ID: IN-02-01300
+- Latitude: 40.265487
+- Longitude: -85.844167
+- County FIPS: 18095
+- County from: 2020
+- Tract 2020: 18095010300
+- Tract 2010: 18095010300
+- Tract 2000: 18095010300
+- Tract 1990: 18095010300
+- Place 2020: 21070
+- Place 2010: 21070
+- Place 2000: 21070
+- Place 1990: 0755
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 238997
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 1
+- 1-bedroom units: 16
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

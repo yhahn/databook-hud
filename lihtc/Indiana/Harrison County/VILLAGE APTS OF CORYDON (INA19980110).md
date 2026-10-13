@@ -1,0 +1,85 @@
+# Project: VILLAGE APTS OF CORYDON (INA19980110)
+
+- HUD ID: INA19980110
+- HUD ID before: 
+- Project: VILLAGE APTS OF CORYDON
+- Address: 1240 REGINA LN NW
+- City: CORYDON
+- State: IN
+- ZIP: 47112
+- ZIP extension: 
+- State project ID: IN-96-02800
+- Latitude: 38.228374
+- Longitude: -86.143222
+- County FIPS: 18061
+- County from: 2020
+- Tract 2020: 18061060300
+- Tract 2010: 18061060300
+- Tract 2000: 18061060300
+- Tract 1990: 18061060300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 15256
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 223976
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

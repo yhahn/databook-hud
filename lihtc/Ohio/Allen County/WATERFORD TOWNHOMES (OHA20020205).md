@@ -1,0 +1,85 @@
+# Project: WATERFORD TOWNHOMES (OHA20020205)
+
+- HUD ID: OHA20020205
+- HUD ID before: 
+- Project: WATERFORD TOWNHOMES
+- Address: 515 HOPE ST
+- City: LIMA
+- State: OH
+- ZIP: 45804
+- ZIP extension: 
+- State project ID: OH-00-0005
+- Latitude: 40.718158
+- Longitude: -84.099002
+- County FIPS: 39003
+- County from: 2020
+- Tract 2020: 39003013800
+- Tract 2010: 39003013800
+- Tract 2000: 39003013800
+- Tract 1990: 39003013800
+- Place 2020: 43554
+- Place 2010: 43554
+- Place 2000: 43554
+- Place 1990: 2205
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 723332
+- Units: 92
+- Low-income units: 82
+- Units reported: 92
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

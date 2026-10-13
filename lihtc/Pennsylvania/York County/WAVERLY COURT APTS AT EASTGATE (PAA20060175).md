@@ -1,0 +1,85 @@
+# Project: WAVERLY COURT APTS AT EASTGATE (PAA20060175)
+
+- HUD ID: PAA20060175
+- HUD ID before: 
+- Project: WAVERLY COURT APTS AT EASTGATE
+- Address: 120 VALLEY BROOK DR
+- City: YORK
+- State: PA
+- ZIP: 17402
+- ZIP extension: 
+- State project ID: TC20040611
+- Latitude: 39.993
+- Longitude: -76.638882
+- County FIPS: 42133
+- County from: 2020
+- Tract 2020: 42133010131
+- Tract 2010: 42133010110
+- Tract 2000: 42133010110
+- Tract 1990: 42133010110
+- Place 2020: 87088
+- Place 2010: 87088
+- Place 2000: 72994
+- Place 1990: 8010
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 420211
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 34
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 920000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

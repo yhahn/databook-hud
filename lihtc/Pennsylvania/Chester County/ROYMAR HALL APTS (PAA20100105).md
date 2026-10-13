@@ -1,0 +1,85 @@
+# Project: ROYMAR HALL APTS (PAA20100105)
+
+- HUD ID: PAA20100105
+- HUD ID before: 
+- Project: ROYMAR HALL APTS
+- Address: 1128 E LINCOLN HWY
+- City: COATESVILLE
+- State: PA
+- ZIP: 19320
+- ZIP extension: 
+- State project ID: TC20090308
+- Latitude: 39.986554
+- Longitude: -75.80233
+- County FIPS: 42029
+- County from: 2020
+- Tract 2020: 42029305700
+- Tract 2010: 42029305700
+- Tract 2000: 42029305700
+- Tract 1990: 42029305700
+- Place 2020: 14712
+- Place 2010: 14712
+- Place 2000: 14712
+- Place 1990: 2125
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3019098
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

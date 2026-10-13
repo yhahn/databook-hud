@@ -1,0 +1,85 @@
+# Project: EASTGATE APTS (MSA19940020)
+
+- HUD ID: MSA19940020
+- HUD ID before: 
+- Project: EASTGATE APTS
+- Address: 501 SHARKEY ST
+- City: BELZONI
+- State: MS
+- ZIP: 39038
+- ZIP extension: 
+- State project ID: MS-93-001
+- Latitude: 33.183091
+- Longitude: -90.477518
+- County FIPS: 28053
+- County from: 2020
+- Tract 2020: 28053950300
+- Tract 2010: 28053950300
+- Tract 2000: 28053950300
+- Tract 1990: 28053950300
+- Place 2020: 05140
+- Place 2010: 05140
+- Place 2000: 05140
+- Place 1990: 0085
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

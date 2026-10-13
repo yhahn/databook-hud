@@ -1,0 +1,85 @@
+# Project: RICHEY WOODS (FLA20140130)
+
+- HUD ID: FLA20140130
+- HUD ID before: 
+- Project: RICHEY WOODS
+- Address: 6400 SENTRY WAY
+- City: NEW PORT RICHEY
+- State: FL
+- ZIP: 34653
+- ZIP extension: 
+- State project ID: 2583
+- Latitude: 28.256886
+- Longitude: -82.709526
+- County FIPS: 12101
+- County from: 2020
+- Tract 2020: 12101031401
+- Tract 2010: 12101031401
+- Tract 2000: 12101031401
+- Tract 1990: 12101031400
+- Place 2020: 48500
+- Place 2010: 48500
+- Place 2000: 48500
+- Place 1990: 1475
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 95
+- Low-income units: 83
+- Units reported: 95
+- Low-income reported: 83
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 18
+- 3-bedroom units: 18
+- 4-bedroom units: 32
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

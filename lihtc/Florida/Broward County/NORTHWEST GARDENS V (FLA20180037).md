@@ -1,0 +1,85 @@
+# Project: NORTHWEST GARDENS V (FLA20180037)
+
+- HUD ID: FLA20180037
+- HUD ID before: 
+- Project: NORTHWEST GARDENS V
+- Address: SCATTERED SITES
+- City: FT LAUDERDALE
+- State: FL
+- ZIP: 33311
+- ZIP extension: 
+- State project ID: 2687
+- Latitude: 26.1512
+- Longitude: -80.1654
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011040901
+- Tract 2010: 12011040901
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 24000
+- Place 2010: 24000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1067851
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 175
+- 2-bedroom units: 10
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 200
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

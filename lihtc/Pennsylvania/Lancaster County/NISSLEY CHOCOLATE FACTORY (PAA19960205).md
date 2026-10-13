@@ -1,0 +1,85 @@
+# Project: NISSLEY CHOCOLATE FACTORY (PAA19960205)
+
+- HUD ID: PAA19960205
+- HUD ID before: 
+- Project: NISSLEY CHOCOLATE FACTORY
+- Address: 951 WOOD ST
+- City: MT JOY
+- State: PA
+- ZIP: 17552
+- ZIP extension: 
+- State project ID: TC1995-0052
+- Latitude: 40.113832
+- Longitude: -76.5293
+- County FIPS: 42071
+- County from: 2020
+- Tract 2020: 42071010901
+- Tract 2010: 42071010900
+- Tract 2000: 42071010900
+- Tract 1990: 42071010900
+- Place 2020: 51656
+- Place 2010: 51656
+- Place 2000: 51656
+- Place 1990: 6644
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 144743
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 4
+- 1-bedroom units: 10
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PHILLIPS VILLAGE APARTMENTS (NYB20120109)
+
+- HUD ID: NYB20120109
+- HUD ID before: 
+- Project: PHILLIPS VILLAGE APARTMENTS
+- Address: 100 KRIEGER RD
+- City: WEBSTER
+- State: NY
+- ZIP: 14580
+- ZIP extension: 
+- State project ID: 2001
+- Latitude: 43.209562
+- Longitude: -77.418952
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055011401
+- Tract 2010: 36055011400
+- Tract 2000: 36055011400
+- Tract 1990: 36055011400
+- Place 2020: 78960
+- Place 2010: 78960
+- Place 2000: 78960
+- Place 1990: 3865
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1400913
+- Units: 500
+- Low-income units: 497
+- Units reported: 500
+- Low-income reported: 497
+- Efficiencies: 0
+- 1-bedroom units: 201
+- 2-bedroom units: 199
+- 3-bedroom units: 80
+- 4-bedroom units: 20
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYB0000936, NYA1994250. AKA PHILLIPS VILLAGE APTS.
+- Record status: Existing, unchanged

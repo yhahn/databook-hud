@@ -1,0 +1,85 @@
+# Project: LIBERTY VILLAGE APARTMENTS (LAA20010100)
+
+- HUD ID: LAA20010100
+- HUD ID before: 
+- Project: LIBERTY VILLAGE APARTMENTS
+- Address: 2400 DELOACHE STREET
+- City: MONROE
+- State: LA
+- ZIP: 71201
+- ZIP extension: 0000
+- State project ID: LA-99-048
+- Latitude: 32.47478
+- Longitude: -92.0872
+- County FIPS: 22073
+- County from: 2020
+- Tract 2020: 22073001100
+- Tract 2010: 22073001100
+- Tract 2000: 22073001100
+- Tract 1990: 22073001100
+- Place 2020: 51410
+- Place 2010: 51410
+- Place 2000: 51410
+- Place 1990: 0890
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 42415
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 8
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WEST YARD LOFTS (SCA20100115)
+
+- HUD ID: SCA20100115
+- HUD ID before: 
+- Project: WEST YARD LOFTS
+- Address: 2375 NOISETTE BLVD
+- City: NORTH CHARLESTON
+- State: SC
+- ZIP: 29405
+- ZIP extension: 
+- State project ID: SC-09-015
+- Latitude: 32.873592
+- Longitude: -79.969809
+- County FIPS: 45019
+- County from: 2020
+- Tract 2020: 45019005500
+- Tract 2010: 45019005500
+- Tract 2000: 45019004200
+- Tract 1990: 45019004200
+- Place 2020: 50875
+- Place 2010: 50875
+- Place 2000: 50875
+- Place 1990: 0987
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 697706
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 26
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 600000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5930500
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA THE WEST YARD LOFTS (2009 TCEX EXCH FUNDS).
+- Record status: Existing, unchanged

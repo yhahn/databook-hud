@@ -1,0 +1,85 @@
+# Project: WESTMINSTER EAST APTS (SCA19960055)
+
+- HUD ID: SCA19960055
+- HUD ID before: 
+- Project: WESTMINSTER EAST APTS
+- Address: 100 SUNSHINE CIR
+- City: WESTMINSTER
+- State: SC
+- ZIP: 29693
+- ZIP extension: 
+- State project ID: SC-94-022
+- Latitude: 34.66025
+- Longitude: -83.078931
+- County FIPS: 45073
+- County from: 2020
+- Tract 2020: 45073031000
+- Tract 2010: 45073031000
+- Tract 2000: 45073031000
+- Tract 1990: 45073031000
+- Place 2020: 76165
+- Place 2010: 76165
+- Place 2000: 76165
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 56132
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

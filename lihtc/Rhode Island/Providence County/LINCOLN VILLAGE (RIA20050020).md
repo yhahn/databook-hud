@@ -1,0 +1,85 @@
+# Project: LINCOLN VILLAGE (RIA20050020)
+
+- HUD ID: RIA20050020
+- HUD ID before: 
+- Project: LINCOLN VILLAGE
+- Address: 1640 LONSDALE AVE
+- City: LINCOLN
+- State: RI
+- ZIP: 02865
+- ZIP extension: 
+- State project ID: RI00126
+- Latitude: 41.907265
+- Longitude: -71.403617
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007011701
+- Tract 2010: 44007011701
+- Tract 2000: 44007011701
+- Tract 1990: 44007011701
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 281052
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 4
+- 3-bedroom units: 11
+- 4-bedroom units: 5
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

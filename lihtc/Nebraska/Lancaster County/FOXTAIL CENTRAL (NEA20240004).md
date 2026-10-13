@@ -1,0 +1,85 @@
+# Project: FOXTAIL CENTRAL (NEA20240004)
+
+- HUD ID: NEA20240004
+- HUD ID before: 
+- Project: FOXTAIL CENTRAL
+- Address: SW 5TH AND SW 6TH STREETS
+- City: LINCOLN
+- State: NE
+- ZIP: 68523
+- ZIP extension: 0000
+- State project ID: 7-1026
+- Latitude: 40.7427
+- Longitude: -96.7591
+- County FIPS: 31109
+- County from: 2020
+- Tract 2020: 31109003604
+- Tract 2010: 31109003604
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 54020
+- Place 2010: 28000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 426564
+- Units: 31
+- Low-income units: 28
+- Units reported: 31
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 16
+- 4-bedroom units: 15
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 45
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

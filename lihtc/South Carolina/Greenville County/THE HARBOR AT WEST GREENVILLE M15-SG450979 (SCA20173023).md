@@ -1,0 +1,85 @@
+# Project: THE HARBOR AT WEST GREENVILLE M15-SG450979 (SCA20173023)
+
+- HUD ID: SCA20173023
+- HUD ID before: 
+- Project: THE HARBOR AT WEST GREENVILLE M15-SG450979
+- Address: 430 PERRY AVENUE
+- City: GREENVILLE
+- State: SC
+- ZIP: 29601
+- ZIP extension: 0000
+- State project ID: SC-51419
+- Latitude: 34.846175
+- Longitude: -82.421303
+- County FIPS: 45045
+- County from: 2020
+- Tract 2020: 45045000700
+- Tract 2010: 45045000700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 30850
+- Place 2010: 30850
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 2959245
+- Units: 57
+- Low-income units: 57
+- Units reported: 57
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 27
+- 3-bedroom units: 14
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WWHA HOUSING PRESERVATION PROJECT (WAA20220035)
+
+- HUD ID: WAA20220035
+- HUD ID before: 
+- Project: WWHA HOUSING PRESERVATION PROJECT
+- Address: MULTI ADDRESS
+- City: WALLA WALLA
+- State: WA
+- ZIP: 99362
+- ZIP extension: 
+- State project ID: 21-28A
+- Latitude: 46.0529
+- Longitude: -118.3535
+- County FIPS: 53071
+- County from: 2020
+- Tract 2020: 53071920600
+- Tract 2010: 53071920600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 13855
+- Place 2010: 26245
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 624991
+- Units: 96
+- Low-income units: 94
+- Units reported: 96
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 88
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

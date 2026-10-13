@@ -1,0 +1,85 @@
+# Project: JT WOODLAND (GAA20020085)
+
+- HUD ID: GAA20020085
+- HUD ID before: 
+- Project: JT WOODLAND
+- Address: 100 WOODLAND CIR
+- City: OCILLA
+- State: GA
+- ZIP: 31774
+- ZIP extension: 1951
+- State project ID: 582613303
+- Latitude: 31.585598
+- Longitude: -83.254337
+- County FIPS: 13155
+- County from: 2020
+- Tract 2020: 13155950202
+- Tract 2010: 13155950200
+- Tract 2000: 13155950200
+- Tract 1990: 13155950200
+- Place 2020: 57428
+- Place 2010: 57428
+- Place 2000: 29528
+- Place 1990: 2100
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 173780
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WOODLAND APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FIELDSTONE APARTMENTS FKA EAST PARK APARTMENTS (MNA19949004)
+
+- HUD ID: MNA19949004
+- HUD ID before: 
+- Project: FIELDSTONE APARTMENTS FKA EAST PARK APARTMENTS
+- Address: 1713 4TH AVE NW
+- City: DILWORTH
+- State: MN
+- ZIP: 56529
+- ZIP extension: 
+- State project ID: D0415
+- Latitude: 46.882355
+- Longitude: -96.719524
+- County FIPS: 27027
+- County from: 2020
+- Tract 2020: 27027030112
+- Tract 2010: 27027030102
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 15976
+- Place 2010: 15976
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 88490
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 17
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA1996075. FKA EAST PARK APTS II;PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION. FKA EAST PARK APTS
+- Record status: Existing, unchanged

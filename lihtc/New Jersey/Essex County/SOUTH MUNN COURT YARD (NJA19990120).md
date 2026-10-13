@@ -1,0 +1,85 @@
+# Project: SOUTH MUNN COURT YARD (NJA19990120)
+
+- HUD ID: NJA19990120
+- HUD ID before: 
+- Project: SOUTH MUNN COURT YARD
+- Address: 22 S MUNN AVE
+- City: EAST ORANGE
+- State: NJ
+- ZIP: 07018
+- ZIP extension: 
+- State project ID: NJ-428
+- Latitude: 40.758819
+- Longitude: -74.211052
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013011100
+- Tract 2010: 34013011100
+- Tract 2000: 34013011100
+- Tract 1990: 34013011100
+- Place 2020: 19390
+- Place 2010: 19390
+- Place 2000: 19390
+- Place 1990: 1665
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 18
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1999065.
+- Record status: Existing, unchanged

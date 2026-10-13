@@ -1,0 +1,85 @@
+# Project: SIBLEY PARK APARTMENTS (MNB20029003)
+
+- HUD ID: MNB20029003
+- HUD ID before: 
+- Project: SIBLEY PARK APARTMENTS
+- Address: 211 EAST SEVENTH STREET
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55101
+- ZIP extension: 3391
+- State project ID: D2857
+- Latitude: 44.950576
+- Longitude: -93.088858
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123034203
+- Tract 2010: 27123034202
+- Tract 2000: 27123034200
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 58000
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 569889
+- Units: 114
+- Low-income units: 50
+- Units reported: 114
+- Low-income reported: 50
+- Efficiencies: 20
+- 1-bedroom units: 39
+- 2-bedroom units: 45
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

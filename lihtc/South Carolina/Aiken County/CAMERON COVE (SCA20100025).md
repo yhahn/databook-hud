@@ -1,0 +1,85 @@
+# Project: CAMERON COVE (SCA20100025)
+
+- HUD ID: SCA20100025
+- HUD ID before: 
+- Project: CAMERON COVE
+- Address: 120 W FIVE NOTCH RD
+- City: NORTH AUGUSTA
+- State: SC
+- ZIP: 29841
+- ZIP extension: 
+- State project ID: SC-09-128
+- Latitude: 33.520768
+- Longitude: -81.95755
+- County FIPS: 45003
+- County from: 2020
+- Tract 2020: 45003020701
+- Tract 2010: 45003020701
+- Tract 2000: 45003020701
+- Tract 1990: 45003020701
+- Place 2020: 50695
+- Place 2010: 50695
+- Place 2000: 05410
+- Place 1990: 0985
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 810329
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 6887798
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CAMERON COVE (2009 TCEX EXCH FUNDS).
+- Record status: Existing, unchanged

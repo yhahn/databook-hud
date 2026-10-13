@@ -1,0 +1,85 @@
+# Project: STERLING FAMILY HOUSING (ILA20120009)
+
+- HUD ID: ILA20120009
+- HUD ID before: 
+- Project: STERLING FAMILY HOUSING
+- Address: 2105 FREEPORT RD
+- City: STERLING
+- State: IL
+- ZIP: 61081
+- ZIP extension: 
+- State project ID: 1038410
+- Latitude: 41.807675
+- Longitude: -89.669928
+- County FIPS: 17195
+- County from: 2020
+- Tract 2020: 17195001300
+- Tract 2010: 17195001300
+- Tract 2000: 17195001300
+- Tract 1990: 17195001300
+- Place 2020: 72546
+- Place 2010: 72546
+- Place 2000: 72546
+- Place 1990: 5525
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 288436
+- Units: 22
+- Low-income units: 20
+- Units reported: 22
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DD DEV #1 (57992), DD DEV #2 (59693).
+- Record status: Existing, unchanged

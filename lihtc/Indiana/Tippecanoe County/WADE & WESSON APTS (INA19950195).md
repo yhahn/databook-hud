@@ -1,0 +1,85 @@
+# Project: WADE & WESSON APTS (INA19950195)
+
+- HUD ID: INA19950195
+- HUD ID before: 
+- Project: WADE & WESSON APTS
+- Address: 1740 SALEM ST
+- City: LAFAYETTE
+- State: IN
+- ZIP: 47904
+- ZIP extension: 
+- State project ID: IN-93-02500
+- Latitude: 40.425767
+- Longitude: -86.877838
+- County FIPS: 18157
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18157000400
+- Tract 2000: 18157000400
+- Tract 1990: 18157000400
+- Place 2020: 
+- Place 2010: 40788
+- Place 2000: 40788
+- Place 1990: 1285
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

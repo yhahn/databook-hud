@@ -1,0 +1,85 @@
+# Project: CRAWFORD ELDERLY APTS (MSA19990052)
+
+- HUD ID: MSA19990052
+- HUD ID before: 
+- Project: CRAWFORD ELDERLY APTS
+- Address: 93 ONEAL ST
+- City: CRAWFORD
+- State: MS
+- ZIP: 
+- ZIP extension: 
+- State project ID: MS-97-033
+- Latitude: 33.302814
+- Longitude: -88.621421
+- County FIPS: 28087
+- County from: 2020
+- Tract 2020: 28087001100
+- Tract 2010: 28087001100
+- Tract 2000: 28087001100
+- Tract 1990: 28087001100
+- Place 2020: 16420
+- Place 2010: 16420
+- Place 2000: 16420
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1999615.
+- Record status: Existing, unchanged

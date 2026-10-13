@@ -1,0 +1,85 @@
+# Project: AUBURN COURT APTS (CAA20000025)
+
+- HUD ID: CAA20000025
+- HUD ID before: 
+- Project: AUBURN COURT APTS
+- Address: 12199 GATEWAY CT
+- City: AUBURN
+- State: CA
+- ZIP: 95603
+- ZIP extension: 
+- State project ID: CA-98-023
+- Latitude: 38.940192
+- Longitude: -121.091568
+- County FIPS: 06061
+- County from: 2020
+- Tract 2020: 06061021802
+- Tract 2010: 06061021802
+- Tract 2000: 06061021802
+- Tract 1990: 06061021802
+- Place 2020: 51637
+- Place 2010: 51637
+- Place 2000: 03204
+- Place 1990: 1924
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 539263
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 30
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FOUNTAINS AT SAN REMO COURT I (FLA20110800)
+
+- HUD ID: FLA20110800
+- HUD ID before: 
+- Project: FOUNTAINS AT SAN REMO COURT I
+- Address: 840 PERTH PL
+- City: KISSIMMEE
+- State: FL
+- ZIP: 34758
+- ZIP extension: 
+- State project ID: 2474
+- Latitude: 28.149179
+- Longitude: -81.451566
+- County FIPS: 12097
+- County from: 2020
+- Tract 2020: 12097041301
+- Tract 2010: 12097041300
+- Tract 2000: 12097041300
+- Tract 1990: 12097040102
+- Place 2020: 57900
+- Place 2010: 57900
+- Place 2000: 57900
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 130
+- Low-income units: 91
+- Units reported: 130
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 24
+- 4-bedroom units: 24
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 6105000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

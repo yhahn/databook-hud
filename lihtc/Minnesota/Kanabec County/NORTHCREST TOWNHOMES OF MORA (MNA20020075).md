@@ -1,0 +1,85 @@
+# Project: NORTHCREST TOWNHOMES OF MORA (MNA20020075)
+
+- HUD ID: MNA20020075
+- HUD ID before: 
+- Project: NORTHCREST TOWNHOMES OF MORA
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: MORA
+- State: MN
+- ZIP: 55051
+- ZIP extension: 
+- State project ID: D2793
+- Latitude: 45.881
+- Longitude: -93.2883
+- County FIPS: 27065
+- County from: 2020
+- Tract 2020: 27065480300
+- Tract 2010: 27065480300
+- Tract 2000: 27065980300
+- Tract 1990: 27065980300
+- Place 2020: 44044
+- Place 2010: 44044
+- Place 2000: 44044
+- Place 1990: 2655
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NORTHCREST TOWNHOMES.
+- Record status: Existing, unchanged

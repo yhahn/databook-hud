@@ -1,0 +1,85 @@
+# Project: WHITEHALL APTS II (MIA19980145)
+
+- HUD ID: MIA19980145
+- HUD ID before: 
+- Project: WHITEHALL APTS II
+- Address: 1123 E COLBY ST
+- City: WHITEHALL
+- State: MI
+- ZIP: 49461
+- ZIP extension: 
+- State project ID: MI-2313
+- Latitude: 43.409193
+- Longitude: -86.331805
+- County FIPS: 26121
+- County from: 2020
+- Tract 2020: 26121003702
+- Tract 2010: 26121003700
+- Tract 2000: 26121003700
+- Tract 1990: 26121003700
+- Place 2020: 86780
+- Place 2010: 86780
+- Place 2000: 86780
+- Place 1990: 2840
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

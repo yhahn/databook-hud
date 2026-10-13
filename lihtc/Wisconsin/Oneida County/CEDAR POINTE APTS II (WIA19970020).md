@@ -1,0 +1,85 @@
+# Project: CEDAR POINTE APTS II (WIA19970020)
+
+- HUD ID: WIA19970020
+- HUD ID before: 
+- Project: CEDAR POINTE APTS II
+- Address: 809 E TIMBER DR
+- City: RHINELANDER
+- State: WI
+- ZIP: 54501
+- ZIP extension: 
+- State project ID: 2107
+- Latitude: 45.644488
+- Longitude: -89.396112
+- County FIPS: 55085
+- County from: 2020
+- Tract 2020: 55085971500
+- Tract 2010: 55085971500
+- Tract 2000: 55085971500
+- Tract 1990: 55085971500
+- Place 2020: 67200
+- Place 2010: 67200
+- Place 2000: 67200
+- Place 1990: 2155
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 8
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

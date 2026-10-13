@@ -1,0 +1,85 @@
+# Project: PARK VIEW AT TAYLOR (MDA20010050)
+
+- HUD ID: MDA20010050
+- HUD ID before: 
+- Project: PARK VIEW AT TAYLOR
+- Address: 4102 TAYLOR AVE
+- City: BALTIMORE
+- State: MD
+- ZIP: 21236
+- ZIP extension: 
+- State project ID: MD00-18001
+- Latitude: 39.362505
+- Longitude: -76.526504
+- County FIPS: 24005
+- County from: 2020
+- Tract 2020: 24005440200
+- Tract 2010: 24005440200
+- Tract 2000: 24005440200
+- Tract 1990: 24005440200
+- Place 2020: 59325
+- Place 2010: 59325
+- Place 2000: 59325
+- Place 1990: 0735
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA2001047.
+- Record status: Existing, unchanged

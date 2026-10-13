@@ -1,0 +1,85 @@
+# Project: CAMELLIA GARDENS (FLA19950804)
+
+- HUD ID: FLA19950804
+- HUD ID before: 
+- Project: CAMELLIA GARDENS
+- Address: 901 FREEDOM RD
+- City: CENTURY
+- State: FL
+- ZIP: 32535
+- ZIP extension: 
+- State project ID: 125
+- Latitude: 30.971282
+- Longitude: -87.247717
+- County FIPS: 12033
+- County from: 2020
+- Tract 2020: 12033004000
+- Tract 2010: 12033004000
+- Tract 2000: 12033004000
+- Tract 1990: 12033004000
+- Place 2020: 11362
+- Place 2010: 11362
+- Place 2000: 11362
+- Place 1990: 0334
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

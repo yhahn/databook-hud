@@ -1,0 +1,85 @@
+# Project: HILO HALE OHANA (HIA20070901)
+
+- HUD ID: HIA20070901
+- HUD ID before: 
+- Project: HILO HALE OHANA
+- Address: 1370 ULULANI ST
+- City: HILO
+- State: HI
+- ZIP: 96720
+- ZIP extension: 
+- State project ID: 
+- Latitude: 19.704703
+- Longitude: -155.078024
+- County FIPS: 15001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 15001020500
+- Tract 2000: 15001020500
+- Tract 1990: 15001020500
+- Place 2020: 
+- Place 2010: 14650
+- Place 2000: 14650
+- Place 1990: 0090
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 71
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS HIA1990005.
+- Record status: Existing, unchanged

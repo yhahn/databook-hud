@@ -1,0 +1,85 @@
+# Project: HARBOR VILLAGE (HOLLAND) (MIA20070065)
+
+- HUD ID: MIA20070065
+- HUD ID before: 
+- Project: HARBOR VILLAGE (HOLLAND)
+- Address: 287 W 40TH ST
+- City: HOLLAND
+- State: MI
+- ZIP: 49423
+- ZIP extension: 
+- State project ID: MI-1901
+- Latitude: 42.761685
+- Longitude: -86.120572
+- County FIPS: 26005
+- County from: 2020
+- Tract 2020: 26005032200
+- Tract 2010: 26005032200
+- Tract 2000: 26005030100
+- Tract 1990: 26005030100
+- Place 2020: 38640
+- Place 2010: 38640
+- Place 2000: 38640
+- Place 1990: 1240
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 261521
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 60
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1989270, MIA1990210.
+- Record status: Existing, unchanged

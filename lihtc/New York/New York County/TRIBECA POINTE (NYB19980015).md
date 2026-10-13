@@ -1,0 +1,85 @@
+# Project: TRIBECA POINTE (NYB19980015)
+
+- HUD ID: NYB19980015
+- HUD ID before: 
+- Project: TRIBECA POINTE
+- Address: 41 RIVER TER
+- City: NEW YORK
+- State: NY
+- ZIP: 10282
+- ZIP extension: 
+- State project ID: 81040
+- Latitude: 40.718198
+- Longitude: -74.015267
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061031703
+- Tract 2010: 36061031703
+- Tract 2000: 36061031701
+- Tract 1990: 36061031701
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 340
+- Low-income units: 70
+- Units reported: 340
+- Low-income reported: 70
+- Efficiencies: 29
+- 1-bedroom units: 164
+- 2-bedroom units: 145
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

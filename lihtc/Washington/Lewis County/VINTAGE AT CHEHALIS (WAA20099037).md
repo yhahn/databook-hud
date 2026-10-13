@@ -1,0 +1,85 @@
+# Project: VINTAGE AT CHEHALIS (WAA20099037)
+
+- HUD ID: WAA20099037
+- HUD ID before: 
+- Project: VINTAGE AT CHEHALIS
+- Address: 1590 NATIONAL AVE
+- City: CHEHALIS
+- State: WA
+- ZIP: 98532
+- ZIP extension: 
+- State project ID: 06-96A
+- Latitude: 46.675384
+- Longitude: -122.967792
+- County FIPS: 53041
+- County from: 2020
+- Tract 2020: 53041970800
+- Tract 2010: 53041970800
+- Tract 2000: 53041970800
+- Tract 1990: 53041970800
+- Place 2020: 11475
+- Place 2010: 11475
+- Place 2000: 11475
+- Place 1990: 0190
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 638689
+- Units: 150
+- Low-income units: 148
+- Units reported: 150
+- Low-income reported: 148
+- Efficiencies: 0
+- 1-bedroom units: 67
+- 2-bedroom units: 83
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 31
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

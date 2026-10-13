@@ -1,0 +1,85 @@
+# Project: OAK FOREST SENIOR VILLAS (CAA20110325)
+
+- HUD ID: CAA20110325
+- HUD ID before: 
+- Project: OAK FOREST SENIOR VILLAS
+- Address: 71 CAROL LN
+- City: OAKLEY
+- State: CA
+- ZIP: 94561
+- ZIP extension: 
+- State project ID: CA-09-209
+- Latitude: 38.002757
+- Longitude: -121.736476
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013302005
+- Tract 2010: 06013302005
+- Tract 2000: 06013302003
+- Tract 1990: 06013302001
+- Place 2020: 53070
+- Place 2010: 53070
+- Place 2000: 53070
+- Place 1990: 1975
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 945548
+- Units: 44
+- Low-income units: 43
+- Units reported: 44
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011619.
+- Record status: Existing, unchanged

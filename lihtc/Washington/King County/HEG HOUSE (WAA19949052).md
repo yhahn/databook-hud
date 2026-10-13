@@ -1,0 +1,85 @@
+# Project: HEG HOUSE (WAA19949052)
+
+- HUD ID: WAA19949052
+- HUD ID before: 
+- Project: HEG HOUSE
+- Address: 711 EAST UNION
+- City: SEATTLE
+- State: WA
+- ZIP: 98122
+- ZIP extension: 
+- State project ID: 92-06JJ
+- Latitude: 47.61283
+- Longitude: -122.32294
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033008401
+- Tract 2010: 53033008400
+- Tract 2000: 53033008400
+- Tract 1990: 53033008400
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 1140
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 93803
+- Units: 11
+- Low-income units: 10
+- Units reported: 11
+- Low-income reported: 10
+- Efficiencies: 3
+- 1-bedroom units: 6
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

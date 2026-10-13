@@ -1,0 +1,85 @@
+# Project: GARDEN WALK (FLA19950005)
+
+- HUD ID: FLA19950005
+- HUD ID before: 
+- Project: GARDEN WALK
+- Address: 21352 SW 112TH AVE
+- City: CUTLER BAY
+- State: FL
+- ZIP: 33189
+- ZIP extension: 
+- State project ID: 284
+- Latitude: 25.568205
+- Longitude: -80.372438
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010501
+- Tract 2010: 12086010500
+- Tract 2000: 12086010500
+- Tract 1990: 12025010500
+- Place 2020: 26950
+- Place 2010: 26950
+- Place 2000: 15975
+- Place 1990: 0758
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 228
+- Low-income units: 228
+- Units reported: 228
+- Low-income reported: 228
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 120
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

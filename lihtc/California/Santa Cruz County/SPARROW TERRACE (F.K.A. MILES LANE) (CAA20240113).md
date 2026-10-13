@@ -1,0 +1,85 @@
+# Project: SPARROW TERRACE (F.K.A. MILES LANE) (CAA20240113)
+
+- HUD ID: CAA20240113
+- HUD ID before: 
+- Project: SPARROW TERRACE (F.K.A. MILES LANE)
+- Address: 141 MILES LANE
+- City: SUITE 101, WATSONVILLE
+- State: CA
+- ZIP: 95076
+- ZIP extension: 
+- State project ID: CA-2021-169
+- Latitude: 36.921797
+- Longitude: -121.764029
+- County FIPS: 06087
+- County from: 2020
+- Tract 2020: 06087110505
+- Tract 2010: 06087110501
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 83668
+- Place 2010: 83668
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 3154168
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 16
+- 1-bedroom units: 19
+- 2-bedroom units: 18
+- 3-bedroom units: 19
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Units for households receiving supportive services. - Farmworker
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

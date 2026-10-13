@@ -1,0 +1,85 @@
+# Project: CANTERBURY SQUARE APTS (LAA19970032)
+
+- HUD ID: LAA19970032
+- HUD ID before: 
+- Project: CANTERBURY SQUARE APTS
+- Address: 3003 RIVER ROAD
+- City: BATON ROUGE
+- State: LA
+- ZIP: 70802
+- ZIP extension: 0000
+- State project ID: LA-98-032
+- Latitude: 30.420538
+- Longitude: -91.193426
+- County FIPS: 22033
+- County from: 2020
+- Tract 2020: 22033002400
+- Tract 2010: 22033002400
+- Tract 2000: 22033002400
+- Tract 1990: 22033002400
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0095
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 75199
+- Units: 204
+- Low-income units: 204
+- Units reported: 204
+- Low-income reported: 204
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

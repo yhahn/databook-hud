@@ -1,0 +1,85 @@
+# Project: PHOENIX PARK I (CAA20040405)
+
+- HUD ID: CAA20040405
+- HUD ID before: 
+- Project: PHOENIX PARK I
+- Address: 4400 SHINING STAR DR
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95823
+- ZIP extension: 
+- State project ID: CA-03-188
+- Latitude: 38.487145
+- Longitude: -121.45598
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067004907
+- Tract 2010: 06067004903
+- Tract 2000: 06067004903
+- Tract 1990: 06067004903
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 64000
+- Place 1990: 2420
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 2583207
+- Units: 178
+- Low-income units: 176
+- Units reported: 178
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 84
+- 3-bedroom units: 47
+- 4-bedroom units: 25
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

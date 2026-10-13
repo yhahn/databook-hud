@@ -1,0 +1,85 @@
+# Project: GLENNVIEW TOWNHOMES (NJA20110550)
+
+- HUD ID: NJA20110550
+- HUD ID before: 
+- Project: GLENNVIEW TOWNHOMES
+- Address: 20-28, 40-44 BARBARA PLACE
+- City: JERSEY CITY
+- State: NJ
+- ZIP: 07304
+- ZIP extension: 
+- State project ID: 02589-2
+- Latitude: 40.717136
+- Longitude: -74.057082
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017006700
+- Tract 2010: 34017006700
+- Tract 2000: 34017003300
+- Tract 1990: 34017003300
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 2290
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1592873
+- Units: 63
+- Low-income units: 50
+- Units reported: 63
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2011040.
+- Record status: Existing, unchanged

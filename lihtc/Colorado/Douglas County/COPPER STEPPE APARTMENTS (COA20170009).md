@@ -1,0 +1,85 @@
+# Project: COPPER STEPPE APARTMENTS (COA20170009)
+
+- HUD ID: COA20170009
+- HUD ID before: 
+- Project: COPPER STEPPE APARTMENTS
+- Address: 10405 VIENNA STREET
+- City: PARKER
+- State: CO
+- ZIP: 80134
+- ZIP extension: 
+- State project ID: CO-17-09
+- Latitude: 39.528775
+- Longitude: -104.815299
+- County FIPS: 08035
+- County from: 2020
+- Tract 2020: 08035014008
+- Tract 2010: 08035014008
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 70112
+- Place 2010: 74080
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 13647005
+- Units: 264
+- Low-income units: 264
+- Units reported: 264
+- Low-income reported: 264
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 150
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

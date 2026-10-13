@@ -1,0 +1,85 @@
+# Project: APEX SENIOR CITIZENS HOUSING (NYA20030010)
+
+- HUD ID: NYA20030010
+- HUD ID before: 
+- Project: APEX SENIOR CITIZENS HOUSING
+- Address: 498 UNION AVE
+- City: WESTBURY
+- State: NY
+- ZIP: 11590
+- ZIP extension: 
+- State project ID: 19980477
+- Latitude: 40.756373
+- Longitude: -73.580717
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059304204
+- Tract 2010: 36059304204
+- Tract 2000: 36059304201
+- Tract 1990: 36059304201
+- Place 2020: 50067
+- Place 2010: 50067
+- Place 2000: 50067
+- Place 1990: 2458
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 37
+- Units reported: 38
+- Low-income reported: 37
+- Efficiencies: 10
+- 1-bedroom units: 27
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

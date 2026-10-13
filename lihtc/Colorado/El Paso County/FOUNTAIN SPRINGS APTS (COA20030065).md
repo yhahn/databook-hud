@@ -1,0 +1,85 @@
+# Project: FOUNTAIN SPRINGS APTS (COA20030065)
+
+- HUD ID: COA20030065
+- HUD ID before: 
+- Project: FOUNTAIN SPRINGS APTS
+- Address: 4325 FOUNTAIN SPRINGS GRV
+- City: COLORADO SPRINGS
+- State: CO
+- ZIP: 80916
+- ZIP extension: 
+- State project ID: 2002504
+- Latitude: 38.808914
+- Longitude: -104.745322
+- County FIPS: 08041
+- County from: 2020
+- Tract 2020: 08041006400
+- Tract 2010: 08041006400
+- Tract 2000: 08041006400
+- Tract 1990: 08041006400
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0240
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 228
+- Low-income units: 228
+- Units reported: 228
+- Low-income reported: 228
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 116
+- 3-bedroom units: 88
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

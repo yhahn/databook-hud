@@ -1,0 +1,85 @@
+# Project: WILLIAM OLIVER BUILDING (GAA19980150)
+
+- HUD ID: GAA19980150
+- HUD ID before: 
+- Project: WILLIAM OLIVER BUILDING
+- Address: 32 PEACHTREE ST NW
+- City: ATLANTA
+- State: GA
+- ZIP: 30303
+- ZIP extension: 
+- State project ID: F1996-506
+- Latitude: 33.754635
+- Longitude: -84.389274
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011901
+- Tract 2010: 13121011900
+- Tract 2000: 13121002700
+- Tract 1990: 13121002700
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 114
+- Low-income units: 23
+- Units reported: 114
+- Low-income reported: 23
+- Efficiencies: 47
+- 1-bedroom units: 15
+- 2-bedroom units: 52
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

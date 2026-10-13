@@ -1,0 +1,85 @@
+# Project: CYPRESS POINT APTS (AZA20020020)
+
+- HUD ID: AZA20020020
+- HUD ID before: 
+- Project: CYPRESS POINT APTS
+- Address: 1771 E MCMURRAY BLVD
+- City: CASA GRANDE
+- State: AZ
+- ZIP: 85122
+- ZIP extension: 
+- State project ID: TC-0165
+- Latitude: 32.88409
+- Longitude: -111.711455
+- County FIPS: 04021
+- County from: 2020
+- Tract 2020: 04021001405
+- Tract 2010: 04021001405
+- Tract 2000: 04021001402
+- Tract 1990: 04021001400
+- Place 2020: 10530
+- Place 2010: 10530
+- Place 2000: 10530
+- Place 1990: 0041
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 92
+- Units reported: 104
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 52
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA2000015.
+- Record status: Existing, unchanged

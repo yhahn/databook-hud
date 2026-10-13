@@ -1,0 +1,25 @@
+# Tax Credit Projects: Orange County, VA
+
+- Level: County
+- Postal code: VA
+- State FIPS: 51
+- County FIPS: 51137
+- Counties: 
+- Projects: 8
+- Units: 358
+- Low-income units: 358
+
+The low-income housing tax credit projects of Orange County, Virginia, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [OAKBROOK TERRACE (VAA19990185)](./Orange%20County/OAKBROOK%20TERRACE%20%28VAA19990185%29.md) | VAA19990185 | ORANGE | 1999 | 80 | 80 |
+| [BELLEVIEW SENIORS (VAA20010040)](./Orange%20County/BELLEVIEW%20SENIORS%20%28VAA20010040%29.md) | VAA20010040 | ORANGE | 2001 | 36 | 36 |
+| [BELLEVIEW APTS (VAA20010045)](./Orange%20County/BELLEVIEW%20APTS%20%28VAA20010045%29.md) | VAA20010045 | ORANGE | 2001 | 12 | 12 |
+| [GERMANNA HEIGHTS (VAA20040050)](./Orange%20County/GERMANNA%20HEIGHTS%20%28VAA20040050%29.md) | VAA20040050 | LOCUST GROVE | 2004 | 50 | 50 |
+| [SPICER'S MILL (VAA20090915)](./Orange%20County/SPICER%27S%20MILL%20%28VAA20090915%29.md) | VAA20090915 | ORANGE | 2009 | 40 | 40 |
+| [MEADOW RUN (ORANGE COUNTY) (VAA20130020)](./Orange%20County/MEADOW%20RUN%20%28ORANGE%20COUNTY%29%20%28VAA20130020%29.md) | VAA20130020 | GORDONSVILLE | 2013 | 43 | 43 |
+| [ROUND HILL MEADOWS (VAA20140030)](./Orange%20County/ROUND%20HILL%20MEADOWS%20%28VAA20140030%29.md) | VAA20140030 | ORANGE | 2014 | 60 | 60 |
+| [EAST GATE VILLAGE II (VAA20221010)](./Orange%20County/EAST%20GATE%20VILLAGE%20II%20%28VAA20221010%29.md) | VAA20221010 | GORDONSVILLE | 2022 | 37 | 37 |

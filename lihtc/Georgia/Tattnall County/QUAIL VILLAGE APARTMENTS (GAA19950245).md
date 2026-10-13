@@ -1,0 +1,85 @@
+# Project: QUAIL VILLAGE APARTMENTS (GAA19950245)
+
+- HUD ID: GAA19950245
+- HUD ID before: 
+- Project: QUAIL VILLAGE APARTMENTS
+- Address: 199 MEMORIAL DRIVE
+- City: REIDSVILLE
+- State: GA
+- ZIP: 30453
+- ZIP extension: 
+- State project ID: 1993-025
+- Latitude: 32.082775
+- Longitude: -82.108391
+- County FIPS: 13267
+- County from: 2020
+- Tract 2020: 13267950203
+- Tract 2010: 13267950201
+- Tract 2000: 13267990200
+- Tract 1990: 13267990298
+- Place 2020: 64512
+- Place 2010: 64512
+- Place 2000: 49504
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1994145.
+- Record status: Updated

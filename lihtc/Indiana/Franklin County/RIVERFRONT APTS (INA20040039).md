@@ -1,0 +1,85 @@
+# Project: RIVERFRONT APTS (INA20040039)
+
+- HUD ID: INA20040039
+- HUD ID before: 
+- Project: RIVERFRONT APTS
+- Address: 1390 FAIRFIELD AVE
+- City: BROOKVILLE
+- State: IN
+- ZIP: 47012
+- ZIP extension: 
+- State project ID: IN-03-01300
+- Latitude: 39.431885
+- Longitude: -85.004718
+- County FIPS: 18047
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18047969700
+- Tract 2000: 18047969700
+- Tract 1990: 18047969700
+- Place 2020: 
+- Place 2010: 08182
+- Place 2000: 08182
+- Place 1990: 0285
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 43
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

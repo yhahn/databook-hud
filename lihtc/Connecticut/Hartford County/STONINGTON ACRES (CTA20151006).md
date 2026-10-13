@@ -1,0 +1,85 @@
+# Project: STONINGTON ACRES (CTA20151006)
+
+- HUD ID: CTA20151006
+- HUD ID before: 
+- Project: STONINGTON ACRES
+- Address: 134-186 STONINGTON STREET
+- City: HARTFORD
+- State: CT
+- ZIP: 06106
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.754665
+- Longitude: -72.669019
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003500400
+- Tract 2010: 09003500400
+- Tract 2000: 09003500400
+- Tract 1990: 
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 896166
+- Units: 50
+- Low-income units: 40
+- Units reported: 50
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 34
+- 3-bedroom units: 16
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

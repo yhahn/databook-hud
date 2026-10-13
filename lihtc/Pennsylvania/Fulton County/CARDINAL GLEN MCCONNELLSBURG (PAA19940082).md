@@ -1,0 +1,85 @@
+# Project: CARDINAL GLEN MCCONNELLSBURG (PAA19940082)
+
+- HUD ID: PAA19940082
+- HUD ID before: 
+- Project: CARDINAL GLEN MCCONNELLSBURG
+- Address: 1 WOODSIDE DR
+- City: MC CONNELLSBURG
+- State: PA
+- ZIP: 17233
+- ZIP extension: 
+- State project ID: TC1994-0099
+- Latitude: 39.927521
+- Longitude: -77.991034
+- County FIPS: 42057
+- County from: 2020
+- Tract 2020: 42057960100
+- Tract 2010: 42057960100
+- Tract 2000: 42057990100
+- Tract 1990: 42057990100
+- Place 2020: 99999
+- Place 2010: 46000
+- Place 2000: 46000
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 89527
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 37
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1996040. AKA MCCONNELLSBURG COMMON.
+- Record status: Existing, unchanged

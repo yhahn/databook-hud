@@ -1,0 +1,85 @@
+# Project: CAMBRIDGE STATION APTS PHASE II (INA20050103)
+
+- HUD ID: INA20050103
+- HUD ID before: 
+- Project: CAMBRIDGE STATION APTS PHASE II
+- Address: 523 TOMAHAWK TRAIL
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46214
+- ZIP extension: 
+- State project ID: IN-05-02700
+- Latitude: 39.774473
+- Longitude: -86.300498
+- County FIPS: 18097
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18097340102
+- Tract 2000: 18097340102
+- Tract 1990: 18097340102
+- Place 2020: 
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 256
+- Low-income units: 243
+- Units reported: 256
+- Low-income reported: 243
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 152
+- 3-bedroom units: 56
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CAMBRIDGE STATION FOX RUN PHASE II.
+- Record status: Existing, unchanged

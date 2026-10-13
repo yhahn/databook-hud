@@ -1,0 +1,85 @@
+# Project: WESTCHESTER VILLAGE (MOA19930320)
+
+- HUD ID: MOA19930320
+- HUD ID before: 
+- Project: WESTCHESTER VILLAGE
+- Address: 2302 VILLAGE DR
+- City: ST JOSEPH
+- State: MO
+- ZIP: 64506
+- ZIP extension: 
+- State project ID: 91-101
+- Latitude: 39.787068
+- Longitude: -94.799415
+- County FIPS: 29021
+- County from: 2020
+- Tract 2020: 29021000702
+- Tract 2010: 29021000702
+- Tract 2000: 29021000700
+- Tract 1990: 29021000700
+- Place 2020: 64550
+- Place 2010: 64550
+- Place 2000: 64550
+- Place 1990: 3865
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 42
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

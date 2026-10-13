@@ -1,0 +1,85 @@
+# Project: TURTLE CREEK APTS (INA20040144)
+
+- HUD ID: INA20040144
+- HUD ID before: 
+- Project: TURTLE CREEK APTS
+- Address: 8253 HARCOURT RD
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46260
+- ZIP extension: 
+- State project ID: IN-04-00400
+- Latitude: 39.905623
+- Longitude: -86.19362
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097320108
+- Tract 2010: 18097320108
+- Tract 2000: 18097320108
+- Tract 1990: 18097320108
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 246951
+- Units: 262
+- Low-income units: 233
+- Units reported: 262
+- Low-income reported: 233
+- Efficiencies: 50
+- 1-bedroom units: 159
+- 2-bedroom units: 53
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2005090. AKA TURTLE CREEK N APTS - INDIANAPOLIS.
+- Record status: Existing, unchanged

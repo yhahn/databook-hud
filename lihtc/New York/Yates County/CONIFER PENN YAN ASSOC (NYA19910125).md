@@ -1,0 +1,85 @@
+# Project: CONIFER PENN YAN ASSOC (NYA19910125)
+
+- HUD ID: NYA19910125
+- HUD ID before: 
+- Project: CONIFER PENN YAN ASSOC
+- Address: 200 WALNUT ST
+- City: PENN YAN
+- State: NY
+- ZIP: 14527
+- ZIP extension: 
+- State project ID: NY-91-0920_00050
+- Latitude: 42.668787
+- Longitude: -77.042622
+- County FIPS: 36123
+- County from: 2020
+- Tract 2020: 36123150200
+- Tract 2010: 36123150200
+- Tract 2000: 36123990200
+- Tract 1990: 36123990200
+- Place 2020: 57177
+- Place 2010: 57177
+- Place 2000: 57177
+- Place 1990: 2815
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

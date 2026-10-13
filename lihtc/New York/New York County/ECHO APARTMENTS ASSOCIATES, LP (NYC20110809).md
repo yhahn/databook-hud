@@ -1,0 +1,85 @@
+# Project: ECHO APARTMENTS ASSOCIATES, LP (NYC20110809)
+
+- HUD ID: NYC20110809
+- HUD ID before: 
+- Project: ECHO APARTMENTS ASSOCIATES, LP
+- Address: 1050 AMSTERDAM AVE
+- City: NEW YORK
+- State: NY
+- ZIP: 10025
+- ZIP extension: 
+- State project ID: 27-1028673
+- Latitude: 40.804101
+- Longitude: -73.963282
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061019900
+- Tract 2010: 36061019900
+- Tract 2000: 36061019900
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 755491
+- Units: 99
+- Low-income units: 97
+- Units reported: 99
+- Low-income reported: 97
+- Efficiencies: 24
+- 1-bedroom units: 74
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

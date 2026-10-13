@@ -1,0 +1,85 @@
+# Project: KELLY REEVES PROPERTY RENTALS (GAA19910145)
+
+- HUD ID: GAA19910145
+- HUD ID before: 
+- Project: KELLY REEVES PROPERTY RENTALS
+- Address: 323 W CENTRAL AVE
+- City: MOULTRIE
+- State: GA
+- ZIP: 31768
+- ZIP extension: 
+- State project ID: GA-91-069
+- Latitude: 31.179787
+- Longitude: -83.792638
+- County FIPS: 13071
+- County from: 2020
+- Tract 2020: 13071970800
+- Tract 2010: 13071970800
+- Tract 2000: 13071970800
+- Tract 1990: 13071970800
+- Place 2020: 53060
+- Place 2010: 53060
+- Place 2000: 53060
+- Place 1990: 1935
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

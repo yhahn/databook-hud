@@ -1,0 +1,85 @@
+# Project: HACG RAD 1 (GAA20170012)
+
+- HUD ID: GAA20170012
+- HUD ID before: 
+- Project: HACG RAD 1
+- Address: 1000 WYNNTON ROAD HSG AUTH OF COLUMBUS GEORGIA
+- City: COLUMBUS
+- State: GA
+- ZIP: 31902
+- ZIP extension: 
+- State project ID: 2016-504
+- Latitude: 32.465501
+- Longitude: -84.979337
+- County FIPS: 13215
+- County from: 2020
+- Tract 2020: 13215002400
+- Tract 2010: 13215002400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 556
+- Low-income units: 556
+- Units reported: 
+- Low-income reported: 
+- Efficiencies: 27
+- 1-bedroom units: 160
+- 2-bedroom units: 209
+- 3-bedroom units: 124
+- 4-bedroom units: 36
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

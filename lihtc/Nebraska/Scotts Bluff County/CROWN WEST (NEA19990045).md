@@ -1,0 +1,85 @@
+# Project: CROWN WEST (NEA19990045)
+
+- HUD ID: NEA19990045
+- HUD ID before: 
+- Project: CROWN WEST
+- Address: 2027 CHAR AVE
+- City: SCOTTSBLUFF
+- State: NE
+- ZIP: 69361
+- ZIP extension: 
+- State project ID: 7-0456
+- Latitude: 41.86676
+- Longitude: -103.676358
+- County FIPS: 31157
+- County from: 2020
+- Tract 2020: 31157953300
+- Tract 2010: 31157953300
+- Tract 2000: 31157953300
+- Tract 1990: 31157953300
+- Place 2020: 44245
+- Place 2010: 44245
+- Place 2000: 44245
+- Place 1990: 2185
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 99504
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

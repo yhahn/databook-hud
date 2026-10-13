@@ -1,0 +1,85 @@
+# Project: THORNE RIDGE APTS (NCA19999026)
+
+- HUD ID: NCA19999026
+- HUD ID before: 
+- Project: THORNE RIDGE APTS
+- Address: 1310 DREAVER STREET
+- City: ROCKY MOUNT
+- State: NC
+- ZIP: 27801
+- ZIP extension: 
+- State project ID: 9000977
+- Latitude: 35.943091
+- Longitude: -77.762884
+- County FIPS: 37065
+- County from: 2020
+- Tract 2020: 37065020300
+- Tract 2010: 37065020300
+- Tract 2000: 37065020300
+- Tract 1990: 
+- Place 2020: 57500
+- Place 2010: 57500
+- Place 2000: 57500
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 184544
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1938266
+- CDBG: Yes
+- CDBG amount: 322000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

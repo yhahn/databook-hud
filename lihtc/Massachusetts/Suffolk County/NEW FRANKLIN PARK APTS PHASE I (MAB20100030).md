@@ -1,0 +1,85 @@
+# Project: NEW FRANKLIN PARK APTS PHASE I (MAB20100030)
+
+- HUD ID: MAB20100030
+- HUD ID before: 
+- Project: NEW FRANKLIN PARK APTS PHASE I
+- Address: 128 ADAMS ST
+- City: DORCHESTER
+- State: MA
+- ZIP: 02122
+- ZIP extension: 
+- State project ID: 851
+- Latitude: 42.304595
+- Longitude: -71.060966
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025091600
+- Tract 2010: 25025091600
+- Tract 2000: 25025091600
+- Tract 1990: 25025091600
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1630089
+- Units: 109
+- Low-income units: 109
+- Units reported: 109
+- Low-income reported: 109
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 50
+- 3-bedroom units: 8
+- 4-bedroom units: 9
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 27
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB1993055. AKA FRANKLIN HILL PHASE 1B.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ROCHESTER EAST (NHA20040060)
+
+- HUD ID: NHA20040060
+- HUD ID before: 
+- Project: ROCHESTER EAST
+- Address: 33 HIGHLAND ST
+- City: ROCHESTER
+- State: NH
+- ZIP: 03868
+- ZIP extension: 
+- State project ID: NH36H019071
+- Latitude: 43.332078
+- Longitude: -70.943386
+- County FIPS: 33017
+- County from: 2020
+- Tract 2020: 33017084202
+- Tract 2010: 33017084200
+- Tract 2000: 33017084200
+- Tract 1990: 33017084200
+- Place 2020: 65140
+- Place 2010: 65140
+- Place 2000: 65140
+- Place 1990: 2220
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

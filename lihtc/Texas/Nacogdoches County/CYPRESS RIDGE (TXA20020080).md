@@ -1,0 +1,85 @@
+# Project: CYPRESS RIDGE (TXA20020080)
+
+- HUD ID: TXA20020080
+- HUD ID before: 
+- Project: CYPRESS RIDGE
+- Address: 2701 LOGAN CIR
+- City: NACOGDOCHES
+- State: TX
+- ZIP: 75961
+- ZIP extension: 
+- State project ID: TX0133
+- Latitude: 31.581585
+- Longitude: -94.628321
+- County FIPS: 48347
+- County from: 2020
+- Tract 2020: 48347950900
+- Tract 2010: 48347950900
+- Tract 2000: 48347950900
+- Tract 1990: 48347950900
+- Place 2020: 50256
+- Place 2010: 50256
+- Place 2000: 50256
+- Place 1990: 2945
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

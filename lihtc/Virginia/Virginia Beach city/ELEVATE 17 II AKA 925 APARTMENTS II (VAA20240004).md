@@ -1,0 +1,85 @@
+# Project: ELEVATE 17 II AKA 925 APARTMENTS II (VAA20240004)
+
+- HUD ID: VAA20240004
+- HUD ID before: 
+- Project: ELEVATE 17 II AKA 925 APARTMENTS II
+- Address: 916 EXCAVATOR WAY
+- City: VIRGINIA BEACH
+- State: VA
+- ZIP: 23464
+- ZIP extension: 
+- State project ID: 10170
+- Latitude: 36.8064
+- Longitude: -76.1823
+- County FIPS: 51810
+- County from: 2020
+- Tract 2020: 51810046220
+- Tract 2010: 51810046206
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 82000
+- Place 2010: 82000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 685700
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 92
+- Efficiencies: 
+- 1-bedroom units: 18
+- 2-bedroom units: 60
+- 3-bedroom units: 14
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

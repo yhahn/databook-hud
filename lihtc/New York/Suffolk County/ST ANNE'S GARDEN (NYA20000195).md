@@ -1,0 +1,85 @@
+# Project: ST ANNE'S GARDEN (NYA20000195)
+
+- HUD ID: NYA20000195
+- HUD ID before: 
+- Project: ST ANNE'S GARDEN
+- Address: 80 SECOND AVE
+- City: BRENTWOOD
+- State: NY
+- ZIP: 11717
+- ZIP extension: 
+- State project ID: 19980134
+- Latitude: 40.778156
+- Longitude: -73.240928
+- County FIPS: 36103
+- County from: 2020
+- Tract 2020: 36103146106
+- Tract 2010: 36103146106
+- Tract 2000: 36103146104
+- Tract 1990: 36103146104
+- Place 2020: 08026
+- Place 2010: 08026
+- Place 2000: 08026
+- Place 1990: 0370
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

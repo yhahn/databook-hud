@@ -1,0 +1,85 @@
+# Project: WINNSBORO SQUARE (TXA19880775)
+
+- HUD ID: TXA19880775
+- HUD ID before: 
+- Project: WINNSBORO SQUARE
+- Address: 407 MCKINNEY ST
+- City: WINNSBORO
+- State: TX
+- ZIP: 75494
+- ZIP extension: 
+- State project ID: TX6394
+- Latitude: 32.9551
+- Longitude: -95.297811
+- County FIPS: 48499
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48499950200
+- Tract 2000: 48499950200
+- Tract 1990: 48499950200
+- Place 2020: 
+- Place 2010: 79816
+- Place 2000: 79816
+- Place 1990: 4655
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

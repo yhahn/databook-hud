@@ -1,0 +1,85 @@
+# Project: SILVER BIRCH OF KOKOMO (INA20180017)
+
+- HUD ID: INA20180017
+- HUD ID before: 
+- Project: SILVER BIRCH OF KOKOMO
+- Address: 408 SOUTH WASHINGTON STREET
+- City: KOKOMO
+- State: IN
+- ZIP: 46901
+- ZIP extension: 5344
+- State project ID: IN-16-03100B
+- Latitude: 40.483129
+- Longitude: -86.133445
+- County FIPS: 18067
+- County from: 2020
+- Tract 2020: 18067000900
+- Tract 2010: 18067000900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 40392
+- Place 2010: 40392
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 17000000
+- Units: 119
+- Low-income units: 119
+- Units reported: 119
+- Low-income reported: 119
+- Efficiencies: 49
+- 1-bedroom units: 70
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

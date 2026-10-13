@@ -1,0 +1,85 @@
+# Project: CHISPA EAST GARRISON APARTMENTS (CAA20231025)
+
+- HUD ID: CAA20231025
+- HUD ID before: 
+- Project: CHISPA EAST GARRISON APARTMENTS
+- Address: 21131 ORD AVENUE
+- City: EAST GARRISON
+- State: CA
+- ZIP: 93933
+- ZIP extension: 
+- State project ID: CA-2021-634
+- Latitude: 36.650615
+- Longitude: -121.733257
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053014109
+- Tract 2010: 06053014107
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 2267111
+- Units: 66
+- Low-income units: 65
+- Units reported: 66
+- Low-income reported: 65
+- Efficiencies: 
+- 1-bedroom units: 4
+- 2-bedroom units: 30
+- 3-bedroom units: 32
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Farmworkers
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

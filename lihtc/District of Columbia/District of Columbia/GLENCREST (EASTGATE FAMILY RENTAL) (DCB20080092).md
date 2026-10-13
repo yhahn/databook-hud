@@ -1,0 +1,85 @@
+# Project: GLENCREST (EASTGATE FAMILY RENTAL) (DCB20080092)
+
+- HUD ID: DCB20080092
+- HUD ID before: 
+- Project: GLENCREST (EASTGATE FAMILY RENTAL)
+- Address: 5071 KIMI GRAY CT SE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20019
+- ZIP extension: 
+- State project ID: DCB2008015
+- Latitude: 38.882214
+- Longitude: -76.930766
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001009904
+- Tract 2010: 11001009904
+- Tract 2000: 11001009904
+- Tract 1990: 11001009904
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 786564
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 1
+- 3-bedroom units: 46
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DCB0000006.
+- Record status: Existing, unchanged

@@ -1,0 +1,23 @@
+# Tax Credit Projects: Thomas County, GA
+
+- Level: County
+- Postal code: GA
+- State FIPS: 13
+- County FIPS: 13275
+- Counties: 
+- Projects: 6
+- Units: 510
+- Low-income units: 473
+
+The low-income housing tax credit projects of Thomas County, Georgia, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [WOOD VALLEY APARTMENTS (GAA20030207)](./Thomas%20County/WOOD%20VALLEY%20APARTMENTS%20%28GAA20030207%29.md) | GAA20030207 | THOMASVILLE | 2003 | 87 | 87 |
+| [HUNTER'S CHASE (GAA20030225)](./Thomas%20County/HUNTER%27S%20CHASE%20%28GAA20030225%29.md) | GAA20030225 | THOMASVILLE | 2003 | 112 | 112 |
+| [WINDSOR LAKE SENIOR APARTMENTS (GAA20040060)](./Thomas%20County/WINDSOR%20LAKE%20SENIOR%20APARTMENTS%20%28GAA20040060%29.md) | GAA20040060 | THOMASVILLE | 2004 | 72 | 56 |
+| [HAMPTON LAKE APARTMENTS (GAA20070080)](./Thomas%20County/HAMPTON%20LAKE%20APARTMENTS%20%28GAA20070080%29.md) | GAA20070080 | THOMASVILLE | 2007 | 96 | 75 |
+| [WALNUT SQUARE (GAA20120160)](./Thomas%20County/WALNUT%20SQUARE%20%28GAA20120160%29.md) | GAA20120160 | THOMASVILLE | 2012 | 63 | 63 |
+| [MARKET STATION APARTMENTS (GAA20180018)](./Thomas%20County/MARKET%20STATION%20APARTMENTS%20%28GAA20180018%29.md) | GAA20180018 | THOMASVILLE | 2018 | 80 | 80 |

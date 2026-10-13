@@ -1,0 +1,85 @@
+# Project: COVE AT ST LUCIE (FLA19990800)
+
+- HUD ID: FLA19990800
+- HUD ID before: 
+- Project: COVE AT ST LUCIE
+- Address: 4400 NW COVE CIR
+- City: PORT ST LUCIE
+- State: FL
+- ZIP: 34983
+- ZIP extension: 
+- State project ID: 203
+- Latitude: 27.346787
+- Longitude: -80.372509
+- County FIPS: 12111
+- County from: 2020
+- Tract 2020: 12111381506
+- Tract 2010: 12111381502
+- Tract 2000: 12111001502
+- Tract 1990: 12111001502
+- Place 2020: 58715
+- Place 2010: 58715
+- Place 2000: 58715
+- Place 1990: 2242
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 80
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2186000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

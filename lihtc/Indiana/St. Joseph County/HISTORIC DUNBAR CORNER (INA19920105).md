@@ -1,0 +1,85 @@
+# Project: HISTORIC DUNBAR CORNER (INA19920105)
+
+- HUD ID: INA19920105
+- HUD ID before: 
+- Project: HISTORIC DUNBAR CORNER
+- Address: 118 N WALNUT ST
+- City: SOUTH BEND
+- State: IN
+- ZIP: 46628
+- ZIP extension: 
+- State project ID: IN-90-00201
+- Latitude: 41.676936
+- Longitude: -86.270077
+- County FIPS: 18141
+- County from: 2020
+- Tract 2020: 18141001900
+- Tract 2010: 18141001900
+- Tract 2000: 18141001900
+- Tract 1990: 18141001900
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2375
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 10
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001080.
+- Record status: Existing, unchanged

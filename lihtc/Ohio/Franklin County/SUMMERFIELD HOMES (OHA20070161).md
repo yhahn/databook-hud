@@ -1,0 +1,85 @@
+# Project: SUMMERFIELD HOMES (OHA20070161)
+
+- HUD ID: OHA20070161
+- HUD ID before: 
+- Project: SUMMERFIELD HOMES
+- Address: 935 E LONG ST
+- City: COLUMBUS
+- State: OH
+- ZIP: 43203
+- ZIP extension: 
+- State project ID: 040041
+- Latitude: 39.967633
+- Longitude: -82.976258
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049003600
+- Tract 2010: 39049003600
+- Tract 2000: 39049003600
+- Tract 1990: 39049003600
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 962183
+- Units: 112
+- Low-income units: 111
+- Units reported: 112
+- Low-income reported: 111
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 68
+- 3-bedroom units: 27
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007747, OHA2006210.
+- Record status: Existing, unchanged

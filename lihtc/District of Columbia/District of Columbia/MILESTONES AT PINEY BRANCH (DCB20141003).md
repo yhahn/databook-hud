@@ -1,0 +1,85 @@
+# Project: MILESTONES AT PINEY BRANCH (DCB20141003)
+
+- HUD ID: DCB20141003
+- HUD ID before: 
+- Project: MILESTONES AT PINEY BRANCH
+- Address: 5940 PINEY BRANCH RD
+- City: WASHINGTON
+- State: DC
+- ZIP: 20011
+- ZIP extension: 
+- State project ID: DCB2016020
+- Latitude: 38.962144
+- Longitude: -77.028957
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001001804
+- Tract 2010: 11001001804
+- Tract 2000: 11001001804
+- Tract 1990: 
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 25
+- Units reported: 28
+- Low-income reported: 25
+- Efficiencies: 6
+- 1-bedroom units: 14
+- 2-bedroom units: 7
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

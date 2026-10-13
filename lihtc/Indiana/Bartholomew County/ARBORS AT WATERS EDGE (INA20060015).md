@@ -1,0 +1,85 @@
+# Project: ARBORS AT WATERS EDGE (INA20060015)
+
+- HUD ID: INA20060015
+- HUD ID before: 
+- Project: ARBORS AT WATERS EDGE
+- Address: 4060 N 150 W
+- City: COLUMBUS
+- State: IN
+- ZIP: 47201
+- ZIP extension: 
+- State project ID: IN-04-03500
+- Latitude: 39.241787
+- Longitude: -85.940858
+- County FIPS: 18005
+- County from: 2020
+- Tract 2020: 18005011000
+- Tract 2010: 18005011000
+- Tract 2000: 18005011000
+- Tract 1990: 18005011000
+- Place 2020: 14734
+- Place 2010: 14734
+- Place 2000: 14734
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 384916
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 80
+- 3-bedroom units: 40
+- 4-bedroom units: 24
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA ARBORS AT PRINCETON PARK
+- Record status: Existing, unchanged

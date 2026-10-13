@@ -1,0 +1,85 @@
+# Project: FULTON FRIENDSHIP LODGE (NYB20222020)
+
+- HUD ID: NYB20222020
+- HUD ID before: 
+- Project: FULTON FRIENDSHIP LODGE
+- Address: 507 N. PERRY STREET
+- City: JOHNSTOWN
+- State: NY
+- ZIP: 12095
+- ZIP extension: 
+- State project ID: NY-22-3516
+- Latitude: 43.028496
+- Longitude: -74.366018
+- County FIPS: 36035
+- County from: 2020
+- Tract 2020: 36035971200
+- Tract 2010: 36035971200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 38781
+- Place 2010: 38781
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 687345
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 57732000
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

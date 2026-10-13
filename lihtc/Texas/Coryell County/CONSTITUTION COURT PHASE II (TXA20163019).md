@@ -1,0 +1,85 @@
+# Project: CONSTITUTION COURT PHASE II (TXA20163019)
+
+- HUD ID: TXA20163019
+- HUD ID before: 
+- Project: CONSTITUTION COURT PHASE II
+- Address: 722 CONSTITUTION DRIVE
+- City: COPPERAS COVE
+- State: TX
+- ZIP: 76522
+- ZIP extension: 
+- State project ID: TX5018
+- Latitude: 31.110517
+- Longitude: -97.874687
+- County FIPS: 48099
+- County from: 2020
+- Tract 2020: 48099010504
+- Tract 2010: 48099010504
+- Tract 2000: 48099010801
+- Tract 1990: 48099010801
+- Place 2020: 16624
+- Place 2010: 16624
+- Place 2000: 16624
+- Place 1990: 0975
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

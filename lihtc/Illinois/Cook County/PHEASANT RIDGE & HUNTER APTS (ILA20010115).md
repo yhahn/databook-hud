@@ -1,0 +1,85 @@
+# Project: PHEASANT RIDGE & HUNTER APTS (ILA20010115)
+
+- HUD ID: ILA20010115
+- HUD ID before: 
+- Project: PHEASANT RIDGE & HUNTER APTS
+- Address: 9208 HUNTER DR
+- City: ORLAND HILLS
+- State: IL
+- ZIP: 60487
+- ZIP extension: 
+- State project ID: 31900
+- Latitude: 41.595557
+- Longitude: -87.845125
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031824124
+- Tract 2010: 17031824108
+- Tract 2000: 17031824108
+- Tract 1990: 17031824108
+- Place 2020: 56627
+- Place 2010: 56627
+- Place 2000: 56627
+- Place 1990: 4437
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 468665
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 88
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COMMUNITY HOUSING PARTNERS VI.
+- Record status: Existing, unchanged

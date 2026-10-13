@@ -1,0 +1,85 @@
+# Project: CASA VERDE (ORA20000020)
+
+- HUD ID: ORA20000020
+- HUD ID before: 
+- Project: CASA VERDE
+- Address: 781 SE TOWNSHIP RD
+- City: CANBY
+- State: OR
+- ZIP: 97013
+- ZIP extension: 
+- State project ID: 724
+- Latitude: 45.25929
+- Longitude: -122.680611
+- County FIPS: 41005
+- County from: 2020
+- Tract 2020: 41005022907
+- Tract 2010: 41005022907
+- Tract 2000: 41005022903
+- Tract 1990: 41005022900
+- Place 2020: 10750
+- Place 2010: 10750
+- Place 2000: 10750
+- Place 1990: 0145
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 203000
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 11
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

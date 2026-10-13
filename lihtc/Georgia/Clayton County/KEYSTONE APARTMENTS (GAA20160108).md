@@ -1,0 +1,85 @@
+# Project: KEYSTONE APARTMENTS (GAA20160108)
+
+- HUD ID: GAA20160108
+- HUD ID before: 
+- Project: KEYSTONE APARTMENTS
+- Address: 145 S MCDONOUGH ST
+- City: JONESBORO
+- State: GA
+- ZIP: 30236
+- ZIP extension: 3658
+- State project ID: 2016-510
+- Latitude: 33.519854
+- Longitude: -84.353869
+- County FIPS: 13063
+- County from: 2020
+- Tract 2020: 13063040627
+- Tract 2010: 13063040613
+- Tract 2000: 13063040613
+- Tract 1990: 
+- Place 2020: 42604
+- Place 2010: 42604
+- Place 2000: 42604
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 712255
+- Units: 184
+- Low-income units: 183
+- Units reported: 184
+- Low-income reported: 183
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 88
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

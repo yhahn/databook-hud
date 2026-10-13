@@ -1,0 +1,85 @@
+# Project: TOWERS OF CONCORDIA APTS (KSA19990225)
+
+- HUD ID: KSA19990225
+- HUD ID before: 
+- Project: TOWERS OF CONCORDIA APTS
+- Address: 605 E 17TH ST
+- City: CONCORDIA
+- State: KS
+- ZIP: 66901
+- ZIP extension: 
+- State project ID: 60146
+- Latitude: 39.560713
+- Longitude: -97.650123
+- County FIPS: 20029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20029977200
+- Tract 2000: 20029977200
+- Tract 1990: 20029977200
+- Place 2020: 
+- Place 2010: 15200
+- Place 2000: 15200
+- Place 1990: 0570
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 164526
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

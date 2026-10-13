@@ -1,0 +1,85 @@
+# Project: WOODLAND HILLS APTS (OKA19990120)
+
+- HUD ID: OKA19990120
+- HUD ID before: 
+- Project: WOODLAND HILLS APTS
+- Address: 201 TAYLOR DR
+- City: ROLAND
+- State: OK
+- ZIP: 74954
+- ZIP extension: 
+- State project ID: OK-98-0643
+- Latitude: 35.415751
+- Longitude: -94.49549
+- County FIPS: 40135
+- County from: 2020
+- Tract 2020: 40135030103
+- Tract 2010: 40135030103
+- Tract 2000: 40135030102
+- Tract 1990: 40135030102
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 05070
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

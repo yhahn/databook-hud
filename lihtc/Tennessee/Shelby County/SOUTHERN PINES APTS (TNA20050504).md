@@ -1,0 +1,85 @@
+# Project: SOUTHERN PINES APTS (TNA20050504)
+
+- HUD ID: TNA20050504
+- HUD ID before: 
+- Project: SOUTHERN PINES APTS
+- Address: 41 W BELZ BLVD
+- City: MEMPHIS
+- State: TN
+- ZIP: 38109
+- ZIP extension: 
+- State project ID: TN-02-015
+- Latitude: 35.095685
+- Longitude: -90.060215
+- County FIPS: 47157
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47157005500
+- Tract 2000: 47157005500
+- Tract 1990: 47157005500
+- Place 2020: 
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 698770
+- Units: 314
+- Low-income units: 314
+- Units reported: 314
+- Low-income reported: 314
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 236
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 63
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2005222. AKA WASHINGTON MANOR).
+- Record status: Existing, unchanged

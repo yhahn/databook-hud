@@ -1,0 +1,85 @@
+# Project: DINUBA MANOR (CAA19920075)
+
+- HUD ID: CAA19920075
+- HUD ID before: 
+- Project: DINUBA MANOR
+- Address: 1333 S GREENE AVE
+- City: DINUBA
+- State: CA
+- ZIP: 93618
+- ZIP extension: 
+- State project ID: CA-91-169
+- Latitude: 36.534575
+- Longitude: -119.392965
+- County FIPS: 06107
+- County from: 2020
+- Tract 2020: 06107000501
+- Tract 2010: 06107000501
+- Tract 2000: 06107000501
+- Tract 1990: 06107000500
+- Place 2020: 19318
+- Place 2010: 19318
+- Place 2000: 19318
+- Place 1990: 0775
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 141174
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

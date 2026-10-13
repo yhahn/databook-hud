@@ -1,0 +1,85 @@
+# Project: DEER CHASE APTS I (INA20050098)
+
+- HUD ID: INA20050098
+- HUD ID before: 
+- Project: DEER CHASE APTS I
+- Address: 12190 WHIRLAWAY DR
+- City: NOBLESVILLE
+- State: IN
+- ZIP: 46060
+- ZIP extension: 
+- State project ID: IN-03-00600
+- Latitude: 40.00638
+- Longitude: -85.949139
+- County FIPS: 18057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18057110100
+- Tract 2000: 18057110100
+- Tract 1990: 18057110100
+- Place 2020: 
+- Place 2010: 54180
+- Place 2000: 54180
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 128
+- Units reported: 144
+- Low-income reported: 128
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 76
+- 3-bedroom units: 52
+- 4-bedroom units: 16
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 121
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2004023. AKA DEER CHASE APTS.
+- Record status: Existing, unchanged

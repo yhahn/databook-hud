@@ -1,0 +1,85 @@
+# Project: TREEHOUSE APTS (TXA19880725)
+
+- HUD ID: TXA19880725
+- HUD ID before: 
+- Project: TREEHOUSE APTS
+- Address: 3203 W WALNUT HILL LN
+- City: IRVING
+- State: TX
+- ZIP: 75038
+- ZIP extension: 
+- State project ID: TX6381
+- Latitude: 32.866071
+- Longitude: -96.98816
+- County FIPS: 48113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48113014103
+- Tract 2000: 48113014103
+- Tract 1990: 48113014103
+- Place 2020: 
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 2060
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 80
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

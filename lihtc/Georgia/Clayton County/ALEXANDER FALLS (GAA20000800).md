@@ -1,0 +1,85 @@
+# Project: ALEXANDER FALLS (GAA20000800)
+
+- HUD ID: GAA20000800
+- HUD ID before: 
+- Project: ALEXANDER FALLS
+- Address: 950 LAKE RIDGE PKWY
+- City: RIVERDALE
+- State: GA
+- ZIP: 30296
+- ZIP extension: 
+- State project ID: GA-99-507
+- Latitude: 33.541745
+- Longitude: -84.413485
+- County FIPS: 13063
+- County from: 2020
+- Tract 2020: 13063040527
+- Tract 2010: 13063040515
+- Tract 2000: 13063040515
+- Tract 1990: 13063040507
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 65464
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 224
+- Low-income units: 223
+- Units reported: 224
+- Low-income reported: 223
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 210
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2001005, GAA2000080. AKA SHADOW RIDGE APTS.
+- Record status: Existing, unchanged

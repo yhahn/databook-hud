@@ -1,0 +1,85 @@
+# Project: GARFIELD SENIOR HOUSING PROGRAM (NJA20120906)
+
+- HUD ID: NJA20120906
+- HUD ID before: 
+- Project: GARFIELD SENIOR HOUSING PROGRAM
+- Address: 15 COMMERCE STREET
+- City: GARFIELD CITY
+- State: NJ
+- ZIP: 07026
+- ZIP extension: 
+- State project ID: NJ-0471
+- Latitude: 40.868927
+- Longitude: -74.108808
+- County FIPS: 34003
+- County from: 2020
+- Tract 2020: 34003021600
+- Tract 2010: 34003021600
+- Tract 2000: 34003021600
+- Tract 1990: 34003021600
+- Place 2020: 25770
+- Place 2010: 25770
+- Place 2000: 25770
+- Place 1990: 1920
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 284269
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1998140, NJA1998045.
+- Record status: Existing, unchanged

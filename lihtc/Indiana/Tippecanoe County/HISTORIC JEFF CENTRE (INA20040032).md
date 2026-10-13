@@ -1,0 +1,85 @@
+# Project: HISTORIC JEFF CENTRE (INA20040032)
+
+- HUD ID: INA20040032
+- HUD ID before: 
+- Project: HISTORIC JEFF CENTRE
+- Address: 619 N NINTH ST
+- City: LAFAYETTE
+- State: IN
+- ZIP: 47904
+- ZIP extension: 
+- State project ID: IN-03-00900
+- Latitude: 40.423012
+- Longitude: -86.886652
+- County FIPS: 18157
+- County from: 2020
+- Tract 2020: 18157000400
+- Tract 2010: 18157000400
+- Tract 2000: 18157000400
+- Tract 1990: 18157000400
+- Place 2020: 40788
+- Place 2010: 40788
+- Place 2000: 40788
+- Place 1990: 1285
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 6354
+- Units: 74
+- Low-income units: 70
+- Units reported: 74
+- Low-income reported: 70
+- Efficiencies: 6
+- 1-bedroom units: 60
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 58
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

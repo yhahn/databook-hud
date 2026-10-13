@@ -1,0 +1,85 @@
+# Project: CROSSING AT APACHE JUNCTION (AZA20000076)
+
+- HUD ID: AZA20000076
+- HUD ID before: 
+- Project: CROSSING AT APACHE JUNCTION
+- Address: 380 S PHELPS DR
+- City: APACHE JUNCTION
+- State: AZ
+- ZIP: 85120
+- ZIP extension: 
+- State project ID: TC-0164
+- Latitude: 33.410831
+- Longitude: -111.550934
+- County FIPS: 04021
+- County from: 2020
+- Tract 2020: 04021000312
+- Tract 2010: 04021000312
+- Tract 2000: 04021000304
+- Tract 1990: 04021000304
+- Place 2020: 02830
+- Place 2010: 02830
+- Place 2000: 02830
+- Place 1990: 0007
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 116
+- Low-income units: 111
+- Units reported: 116
+- Low-income reported: 111
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 44
+- 3-bedroom units: 56
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000560, AZA2000010.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VILLAGE OF FOREST HILLS I (TXA19900320)
+
+- HUD ID: TXA19900320
+- HUD ID before: 
+- Project: VILLAGE OF FOREST HILLS I
+- Address: 1919 STEVENS FOREST DR
+- City: DALLAS
+- State: TX
+- ZIP: 75208
+- ZIP extension: 
+- State project ID: TX6612
+- Latitude: 32.751951
+- Longitude: -96.850949
+- County FIPS: 48113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48113004202
+- Tract 2000: 48113004202
+- Tract 1990: 48113004200
+- Place 2020: 
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1085
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 93
+- Low-income units: 93
+- Units reported: 93
+- Low-income reported: 93
+- Efficiencies: 20
+- 1-bedroom units: 1
+- 2-bedroom units: 2
+- 3-bedroom units: 14
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

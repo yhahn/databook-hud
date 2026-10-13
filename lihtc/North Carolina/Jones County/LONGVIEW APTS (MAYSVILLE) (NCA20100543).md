@@ -1,0 +1,85 @@
+# Project: LONGVIEW APTS (MAYSVILLE) (NCA20100543)
+
+- HUD ID: NCA20100543
+- HUD ID before: 
+- Project: LONGVIEW APTS (MAYSVILLE)
+- Address: 101 LONGVIEW DR
+- City: MAYSVILLE
+- State: NC
+- ZIP: 28555
+- ZIP extension: 
+- State project ID: 9104473
+- Latitude: 34.8806
+- Longitude: -77.1649
+- County FIPS: 37103
+- County from: 2020
+- Tract 2020: 37103920100
+- Tract 2010: 37103920100
+- Tract 2000: 37103980100
+- Tract 1990: 37103980100
+- Place 2020: 42100
+- Place 2010: 42100
+- Place 2000: 42100
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 158894
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NCA2010150, NCA1990800, NCA1990320.;
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SAGE BRUSH VILLAGE (TXA20110803)
+
+- HUD ID: TXA20110803
+- HUD ID before: 
+- Project: SAGE BRUSH VILLAGE
+- Address: 3250 W EIGHTH ST
+- City: ODESSA
+- State: TX
+- ZIP: 79763
+- ZIP extension: 
+- State project ID: TX4717
+- Latitude: 31.836783
+- Longitude: -102.406915
+- County FIPS: 48135
+- County from: 2020
+- Tract 2020: 48135001100
+- Tract 2010: 48135001100
+- Tract 2000: 48135001100
+- Tract 1990: 48135001100
+- Place 2020: 53388
+- Place 2010: 53388
+- Place 2000: 53388
+- Place 1990: 3080
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000750.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BLAIR HOUSE APTS (PAA19940080)
+
+- HUD ID: PAA19940080
+- HUD ID before: 
+- Project: BLAIR HOUSE APTS
+- Address: 6TH PENN STS
+- City: HUNTINGDON
+- State: PA
+- ZIP: 16652
+- ZIP extension: 
+- State project ID: TC19930048
+- Latitude: 40.486285
+- Longitude: -78.01744
+- County FIPS: 42061
+- County from: 2020
+- Tract 2020: 42061950400
+- Tract 2010: 42061950400
+- Tract 2000: 42061950400
+- Tract 1990: 42061950400
+- Place 2020: 36368
+- Place 2010: 36368
+- Place 2000: 36368
+- Place 1990: 5237
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 56895
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 59
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Existing, unchanged

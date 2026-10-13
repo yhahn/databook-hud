@@ -1,0 +1,85 @@
+# Project: FSL VILLAGE ON ROESER (AZA20210008)
+
+- HUD ID: AZA20210008
+- HUD ID before: 
+- Project: FSL VILLAGE ON ROESER
+- Address: 454 E ROESER ROAD
+- City: PHOENIX
+- State: AZ
+- ZIP: 85040
+- ZIP extension: 8728
+- State project ID: TC-0893-18
+- Latitude: 33.399745
+- Longitude: -112.06776
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013115801
+- Tract 2010: 04013115801
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1450153
+- Units: 113
+- Low-income units: 113
+- Units reported: 113
+- Low-income reported: 113
+- Efficiencies: 14
+- 1-bedroom units: 90
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 113
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

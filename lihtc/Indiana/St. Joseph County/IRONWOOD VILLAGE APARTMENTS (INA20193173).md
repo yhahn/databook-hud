@@ -1,0 +1,85 @@
+# Project: IRONWOOD VILLAGE APARTMENTS (INA20193173)
+
+- HUD ID: INA20193173
+- HUD ID before: 
+- Project: IRONWOOD VILLAGE APARTMENTS
+- Address: 1310 BLOSSOM DR
+- City: MISHAWAKA
+- State: IN
+- ZIP: 46544
+- ZIP extension: 
+- State project ID: IN-18-02700
+- Latitude: 41.650007
+- Longitude: -86.213237
+- County FIPS: 18141
+- County from: 2020
+- Tract 2020: 18141011703
+- Tract 2010: 18141011702
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 49932
+- Place 2010: 49932
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 271884
+- Units: 128
+- Low-income units: 128
+- Units reported: 128
+- Low-income reported: 128
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 64
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

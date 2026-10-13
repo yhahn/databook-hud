@@ -1,0 +1,85 @@
+# Project: FLOWER MANOR APTS (PAA19910400)
+
+- HUD ID: PAA19910400
+- HUD ID before: 
+- Project: FLOWER MANOR APTS
+- Address: 9TH FLOWER STS
+- City: CHESTER
+- State: PA
+- ZIP: 19013
+- ZIP extension: 
+- State project ID: TC1989-0217
+- Latitude: 39.834642
+- Longitude: -75.377719
+- County FIPS: 42045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42045410700
+- Tract 2000: 42045405200
+- Tract 1990: 42045405200
+- Place 2020: 
+- Place 2010: 13208
+- Place 2000: 13208
+- Place 1990: 1855
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 163716
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 68
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1991395, PAA1989597.
+- Record status: Existing, unchanged

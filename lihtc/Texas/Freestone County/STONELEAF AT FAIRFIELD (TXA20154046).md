@@ -1,0 +1,85 @@
+# Project: STONELEAF AT FAIRFIELD (TXA20154046)
+
+- HUD ID: TXA20154046
+- HUD ID before: 
+- Project: STONELEAF AT FAIRFIELD
+- Address: 113 W REUNION ST
+- City: FAIRFIELD
+- State: TX
+- ZIP: 75840
+- ZIP extension: 
+- State project ID: TX4939
+- Latitude: 31.722775
+- Longitude: -96.161213
+- County FIPS: 48161
+- County from: 2020
+- Tract 2020: 48161000200
+- Tract 2010: 48161000200
+- Tract 2000: 48161980200
+- Tract 1990: 48161980200
+- Place 2020: 25104
+- Place 2010: 25104
+- Place 2000: 25104
+- Place 1990: 1405
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 49
+- Low-income units: 45
+- Units reported: 49
+- Low-income reported: 45
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

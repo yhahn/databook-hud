@@ -1,0 +1,85 @@
+# Project: ST PATRICK'S APTS (NYA00000156)
+
+- HUD ID: NYA00000156
+- HUD ID before: 
+- Project: ST PATRICK'S APTS
+- Address: 509 PARK PL
+- City: ELMIRA
+- State: NY
+- ZIP: 14901
+- ZIP extension: 
+- State project ID: NY-90-1133_00227
+- Latitude: 42.092953
+- Longitude: -76.810371
+- County FIPS: 36015
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36015000600
+- Tract 2000: 36015000600
+- Tract 1990: 36015000600
+- Place 2020: 
+- Place 2010: 24229
+- Place 2000: 24229
+- Place 1990: 1105
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 39
+- Low-income units: 29
+- Units reported: 39
+- Low-income reported: 29
+- Efficiencies: 1
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001605.
+- Record status: Existing, unchanged

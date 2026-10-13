@@ -1,0 +1,85 @@
+# Project: EMERALD COVE SENIOR APTS (CAA20100087)
+
+- HUD ID: CAA20100087
+- HUD ID before: 
+- Project: EMERALD COVE SENIOR APTS
+- Address: 18191 PARKTREE CIR
+- City: HUNTINGTON BEACH
+- State: CA
+- ZIP: 92648
+- ZIP extension: 
+- State project ID: CA-09-855
+- Latitude: 33.699687
+- Longitude: -117.992792
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059099419
+- Tract 2010: 06059099413
+- Tract 2000: 06059099413
+- Tract 1990: 06059099413
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 1300
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 467893
+- Units: 164
+- Low-income units: 162
+- Units reported: 164
+- Low-income reported: 162
+- Efficiencies: 32
+- 1-bedroom units: 132
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 162
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 645000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2010529.
+- Record status: Existing, unchanged

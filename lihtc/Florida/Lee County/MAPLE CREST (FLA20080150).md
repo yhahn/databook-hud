@@ -1,0 +1,85 @@
+# Project: MAPLE CREST (FLA20080150)
+
+- HUD ID: FLA20080150
+- HUD ID before: 
+- Project: MAPLE CREST
+- Address: 3625 HIDDEN TREE LN
+- City: FT MYERS
+- State: FL
+- ZIP: 33901
+- ZIP extension: 
+- State project ID: 1861
+- Latitude: 26.610532
+- Longitude: -81.856982
+- County FIPS: 12071
+- County from: 2020
+- Tract 2020: 12071001104
+- Tract 2010: 12071001102
+- Tract 2000: 12071001100
+- Tract 1990: 12071001100
+- Place 2020: 24125
+- Place 2010: 24125
+- Place 2000: 24125
+- Place 1990: 0655
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1278333
+- Units: 118
+- Low-income units: 118
+- Units reported: 118
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 60
+- 3-bedroom units: 46
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

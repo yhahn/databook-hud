@@ -1,0 +1,85 @@
+# Project: ANTHONY WAYNE APTS (OHA19990010)
+
+- HUD ID: OHA19990010
+- HUD ID before: 
+- Project: ANTHONY WAYNE APTS
+- Address: 10 S MONUMENT AVE
+- City: HAMILTON
+- State: OH
+- ZIP: 45011
+- ZIP extension: 
+- State project ID: 980091
+- Latitude: 39.400541
+- Longitude: -84.564483
+- County FIPS: 39017
+- County from: 2020
+- Tract 2020: 39017014600
+- Tract 2010: 39017014600
+- Tract 2000: 39017000701
+- Tract 1990: 39017000701
+- Place 2020: 33012
+- Place 2010: 33012
+- Place 2000: 33012
+- Place 1990: 1705
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 124169
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

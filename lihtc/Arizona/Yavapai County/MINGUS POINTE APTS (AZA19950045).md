@@ -1,0 +1,85 @@
+# Project: MINGUS POINTE APTS (AZA19950045)
+
+- HUD ID: AZA19950045
+- HUD ID before: 
+- Project: MINGUS POINTE APTS
+- Address: 101 S SIXTH ST
+- City: COTTONWOOD
+- State: AZ
+- ZIP: 86326
+- ZIP extension: 
+- State project ID: TC-0111
+- Latitude: 34.737831
+- Longitude: -112.022547
+- County FIPS: 04025
+- County from: 2020
+- Tract 2020: 04025002001
+- Tract 2010: 04025002001
+- Tract 2000: 04025002000
+- Tract 1990: 04025002000
+- Place 2020: 16410
+- Place 2010: 16410
+- Place 2000: 09690
+- Place 1990: 0074
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

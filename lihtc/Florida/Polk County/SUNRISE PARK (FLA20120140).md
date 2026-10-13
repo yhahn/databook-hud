@@ -1,0 +1,85 @@
+# Project: SUNRISE PARK (FLA20120140)
+
+- HUD ID: FLA20120140
+- HUD ID before: 
+- Project: SUNRISE PARK
+- Address: 750 OLD SCENIC HWY
+- City: LAKE WALES
+- State: FL
+- ZIP: 
+- ZIP extension: 
+- State project ID: 1665
+- Latitude: 
+- Longitude: 
+- County FIPS: 12105
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 12105014302
+- Tract 1990: 12105014300
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 38950
+- Place 1990: 1160
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 998400
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 36
+- 3-bedroom units: 20
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3600000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

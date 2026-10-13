@@ -1,0 +1,85 @@
+# Project: WHISPERING RIVERS APARTMENTS (WAA19950125)
+
+- HUD ID: WAA19950125
+- HUD ID before: 
+- Project: WHISPERING RIVERS APARTMENTS
+- Address: 209 CANYON ST
+- City: TWISP
+- State: WA
+- ZIP: 98856
+- ZIP extension: 
+- State project ID: 94-32N
+- Latitude: 48.363927
+- Longitude: -120.118367
+- County FIPS: 53047
+- County from: 2020
+- Tract 2020: 53047971000
+- Tract 2010: 53047971000
+- Tract 2000: 53047971000
+- Tract 1990: 53047971000
+- Place 2020: 73080
+- Place 2010: 73080
+- Place 2000: 73080
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 41180
+- Units: 23
+- Low-income units: 22
+- Units reported: 23
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 9
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

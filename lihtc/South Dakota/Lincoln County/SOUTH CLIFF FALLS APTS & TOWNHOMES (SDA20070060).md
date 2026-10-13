@@ -1,0 +1,85 @@
+# Project: SOUTH CLIFF FALLS APTS & TOWNHOMES (SDA20070060)
+
+- HUD ID: SDA20070060
+- HUD ID before: 
+- Project: SOUTH CLIFF FALLS APTS & TOWNHOMES
+- Address: 800 S CLIFF AVE
+- City: HARRISBURG
+- State: SD
+- ZIP: 57032
+- ZIP extension: 
+- State project ID: 01649
+- Latitude: 43.424212
+- Longitude: -96.707364
+- County FIPS: 46083
+- County from: 2020
+- Tract 2020: 46083010107
+- Tract 2010: 46083010107
+- Tract 2000: 46083010100
+- Tract 1990: 46083010100
+- Place 2020: 27260
+- Place 2010: 27260
+- Place 2000: 27260
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 313703
+- Units: 44
+- Low-income units: 43
+- Units reported: 44
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 43
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 488495
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VILLAS OF CAPRI (FLA19970075)
+
+- HUD ID: FLA19970075
+- HUD ID before: 
+- Project: VILLAS OF CAPRI
+- Address: 7725 TARA CIR
+- City: NAPLES
+- State: FL
+- ZIP: 34104
+- ZIP extension: 
+- State project ID: 901
+- Latitude: 26.152898
+- Longitude: -81.71562
+- County FIPS: 12021
+- County from: 2020
+- Tract 2020: 12021010519
+- Tract 2010: 12021010507
+- Tract 2000: 12021010504
+- Tract 1990: 12021010501
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 235
+- Low-income units: 235
+- Units reported: 235
+- Low-income reported: 235
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 96
+- 3-bedroom units: 108
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2585000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

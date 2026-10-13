@@ -1,0 +1,85 @@
+# Project: INDIAN HILLS APTS (SCA20010048)
+
+- HUD ID: SCA20010048
+- HUD ID before: 
+- Project: INDIAN HILLS APTS
+- Address: 1935 DRAYTON ST
+- City: NEWBERRY
+- State: SC
+- ZIP: 29108
+- ZIP extension: 
+- State project ID: SC-00-013
+- Latitude: 34.27458
+- Longitude: -81.632662
+- County FIPS: 45071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45071950502
+- Tract 2000: 45071950502
+- Tract 1990: 45071950300
+- Place 2020: 
+- Place 2010: 49570
+- Place 2000: 49570
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 72593
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 46
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: Resyndicated
+- Record status: Existing, unchanged

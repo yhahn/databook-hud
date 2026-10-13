@@ -1,0 +1,85 @@
+# Project: SUMMIT HEIGHTS (SDA20100030)
+
+- HUD ID: SDA20100030
+- HUD ID before: 
+- Project: SUMMIT HEIGHTS
+- Address: 330 S SUMMIT AVE
+- City: SIOUX FALLS
+- State: SD
+- ZIP: 57104
+- ZIP extension: 
+- State project ID: 2871
+- Latitude: 43.544307
+- Longitude: -96.735407
+- County FIPS: 46099
+- County from: 2020
+- Tract 2020: 46099000702
+- Tract 2010: 46099000700
+- Tract 2000: 46099000700
+- Tract 1990: 46099000700
+- Place 2020: 59020
+- Place 2010: 59020
+- Place 2000: 59020
+- Place 1990: 1225
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 401242
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 12
+- 1-bedroom units: 4
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 400000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PETTIGREW HEIGHTS APT.
+- Record status: Existing, unchanged

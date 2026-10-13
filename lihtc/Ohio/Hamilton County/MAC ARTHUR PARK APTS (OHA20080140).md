@@ -1,0 +1,85 @@
+# Project: MAC ARTHUR PARK APTS (OHA20080140)
+
+- HUD ID: OHA20080140
+- HUD ID before: 
+- Project: MAC ARTHUR PARK APTS
+- Address: 665 PARK LN
+- City: LOVELAND
+- State: OH
+- ZIP: 45140
+- ZIP extension: 
+- State project ID: 80-0002
+- Latitude: 39.271814
+- Longitude: -84.26903
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061024303
+- Tract 2010: 39061024303
+- Tract 2000: 39061024303
+- Tract 1990: 39061024303
+- Place 2020: 45108
+- Place 2010: 45108
+- Place 2000: 45108
+- Place 1990: 2305
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 85
+- Low-income units: 85
+- Units reported: 85
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 34
+- 3-bedroom units: 43
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

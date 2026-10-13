@@ -1,0 +1,85 @@
+# Project: ARTSPACE EVERETT LOFTS (WAA20100800)
+
+- HUD ID: WAA20100800
+- HUD ID before: 
+- Project: ARTSPACE EVERETT LOFTS
+- Address: 2917 HOYT AVE
+- City: EVERETT
+- State: WA
+- ZIP: 98201
+- ZIP extension: 
+- State project ID: 07-142A
+- Latitude: 47.978888
+- Longitude: -122.209805
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061040800
+- Tract 2010: 53061040800
+- Tract 2000: 53061040800
+- Tract 1990: 53061040800
+- Place 2020: 22640
+- Place 2010: 22640
+- Place 2000: 22640
+- Place 1990: 0420
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 387596
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

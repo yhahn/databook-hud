@@ -1,0 +1,85 @@
+# Project: ALTONA DONOE (VIA20110005)
+
+- HUD ID: VIA20110005
+- HUD ID before: 
+- Project: ALTONA DONOE
+- Address: 4100 ESTATE DONOE
+- City: ST THOMAS
+- State: VI
+- ZIP: 00802
+- ZIP extension: 
+- State project ID: VI-99-99
+- Latitude: 18.3499
+- Longitude: -64.9057
+- County FIPS: 78030
+- County from: 2020
+- Tract 2020: 78030960400
+- Tract 2010: 78030960400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 78300
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 26
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 20046244
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VIHM HOUSING REDEVELOPMENT.
+- Record status: Existing, unchanged

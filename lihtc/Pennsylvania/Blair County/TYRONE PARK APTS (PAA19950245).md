@@ -1,0 +1,85 @@
+# Project: TYRONE PARK APTS (PAA19950245)
+
+- HUD ID: PAA19950245
+- HUD ID before: 
+- Project: TYRONE PARK APTS
+- Address: 1359 BURLEY AVE
+- City: TYRONE
+- State: PA
+- ZIP: 16686
+- ZIP extension: 
+- State project ID: TC1993-0130
+- Latitude: 40.675718
+- Longitude: -78.238722
+- County FIPS: 42013
+- County from: 2020
+- Tract 2020: 42013010102
+- Tract 2010: 42013010102
+- Tract 2000: 42013010102
+- Tract 1990: 42013010102
+- Place 2020: 78168
+- Place 2010: 78168
+- Place 2000: 78168
+- Place 1990: 8338
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 50588
+- Units: 24
+- Low-income units: 6
+- Units reported: 24
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

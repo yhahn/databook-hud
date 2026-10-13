@@ -1,0 +1,85 @@
+# Project: STONEGATE APTS (INA20030145)
+
+- HUD ID: INA20030145
+- HUD ID before: 
+- Project: STONEGATE APTS
+- Address: 1226 N ILLINOIS ST
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46202
+- ZIP extension: 
+- State project ID: IN-01-03200
+- Latitude: 39.784237
+- Longitude: -86.159627
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097353300
+- Tract 2010: 18097353300
+- Tract 2000: 18097353300
+- Tract 1990: 18097353300
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 416210
+- Units: 53
+- Low-income units: 43
+- Units reported: 53
+- Low-income reported: 43
+- Efficiencies: 1
+- 1-bedroom units: 8
+- 2-bedroom units: 30
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2004043.
+- Record status: Existing, unchanged

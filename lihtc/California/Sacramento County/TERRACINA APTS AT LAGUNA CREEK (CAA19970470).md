@@ -1,0 +1,85 @@
+# Project: TERRACINA APTS AT LAGUNA CREEK (CAA19970470)
+
+- HUD ID: CAA19970470
+- HUD ID before: 
+- Project: TERRACINA APTS AT LAGUNA CREEK
+- Address: 9274 FRANKLIN BLVD
+- City: ELK GROVE
+- State: CA
+- ZIP: 95758
+- ZIP extension: 
+- State project ID: CA-95-131
+- Latitude: 38.42074
+- Longitude: -121.44863
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067009618
+- Tract 2010: 06067009618
+- Tract 2000: 06067009618
+- Tract 1990: 06067009603
+- Place 2020: 22020
+- Place 2010: 22020
+- Place 2000: 39173
+- Place 1990: 1418
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 822133
+- Units: 136
+- Low-income units: 134
+- Units reported: 136
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 49
+- 3-bedroom units: 41
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

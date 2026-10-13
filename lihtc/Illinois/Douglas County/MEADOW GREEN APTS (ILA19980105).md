@@ -1,0 +1,85 @@
+# Project: MEADOW GREEN APTS (ILA19980105)
+
+- HUD ID: ILA19980105
+- HUD ID before: 
+- Project: MEADOW GREEN APTS
+- Address: 206A NICHOLAS DR
+- City: TUSCOLA
+- State: IL
+- ZIP: 61953
+- ZIP extension: 
+- State project ID: 106597
+- Latitude: 39.788437
+- Longitude: -88.290738
+- County FIPS: 17041
+- County from: 2020
+- Tract 2020: 17041952200
+- Tract 2010: 17041952200
+- Tract 2000: 17041952200
+- Tract 1990: 17041952200
+- Place 2020: 76407
+- Place 2010: 76407
+- Place 2000: 76407
+- Place 1990: 5820
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 256196
+- Units: 41
+- Low-income units: 40
+- Units reported: 41
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ADAMS VIEW (WAA20130021)
+
+- HUD ID: WAA20130021
+- HUD ID before: 
+- Project: ADAMS VIEW
+- Address: 330 NUKSHAY DR
+- City: WAPATO
+- State: WA
+- ZIP: 98951
+- ZIP extension: 
+- State project ID: WA-11-00327
+- Latitude: 46.4415
+- Longitude: -120.4093
+- County FIPS: 53077
+- County from: 2020
+- Tract 2020: 53077940002
+- Tract 2010: 53077940004
+- Tract 2000: 53077002500
+- Tract 1990: 53077002500
+- Place 2020: 99999
+- Place 2010: 76125
+- Place 2000: 76125
+- Place 1990: 1375
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1399239
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 34
+- 4-bedroom units: 34
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 49
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA2012918, WAA0000448. AKA NEW ADAMS VIEW.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ELIZABETH ESTATES PHASE II (KSA20060050)
+
+- HUD ID: KSA20060050
+- HUD ID before: 
+- Project: ELIZABETH ESTATES PHASE II
+- Address: 1230 W 42ND ST S
+- City: WICHITA
+- State: KS
+- ZIP: 67217
+- ZIP extension: 
+- State project ID: 60436
+- Latitude: 37.616857
+- Longitude: -97.353819
+- County FIPS: 20173
+- County from: 2020
+- Tract 2020: 20173005402
+- Tract 2010: 20173005400
+- Tract 2000: 20173005400
+- Tract 1990: 20173005400
+- Place 2020: 79000
+- Place 2010: 79000
+- Place 2000: 31125
+- Place 1990: 3040
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 305394
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

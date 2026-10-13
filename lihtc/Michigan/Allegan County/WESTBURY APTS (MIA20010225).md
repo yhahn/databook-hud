@@ -1,0 +1,85 @@
+# Project: WESTBURY APTS (MIA20010225)
+
+- HUD ID: MIA20010225
+- HUD ID before: 
+- Project: WESTBURY APTS
+- Address: 201 HICKORY CT
+- City: WAYLAND
+- State: MI
+- ZIP: 49348
+- ZIP extension: 
+- State project ID: MI-2291
+- Latitude: 42.673276
+- Longitude: -85.636688
+- County FIPS: 26005
+- County from: 2020
+- Tract 2020: 26005030502
+- Tract 2010: 26005030500
+- Tract 2000: 26005030500
+- Tract 1990: 26005030500
+- Place 2020: 84880
+- Place 2010: 84880
+- Place 2000: 84880
+- Place 1990: 2805
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 18
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

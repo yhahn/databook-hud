@@ -1,0 +1,85 @@
+# Project: SUTTON SCHOOL APARTMENTS (WVA20160008)
+
+- HUD ID: WVA20160008
+- HUD ID before: 
+- Project: SUTTON SCHOOL APARTMENTS
+- Address: 411 NORTH HILL ROAD
+- City: SUTTON
+- State: WV
+- ZIP: 26601
+- ZIP extension: 
+- State project ID: WV-14-16
+- Latitude: 38.669714
+- Longitude: -80.707677
+- County FIPS: 54007
+- County from: 2020
+- Tract 2020: 54007968100
+- Tract 2010: 54007968100
+- Tract 2000: 54007968100
+- Tract 1990: 
+- Place 2020: 78580
+- Place 2010: 78580
+- Place 2000: 78580
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 448655
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 15
+- 2-bedroom units: 8
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 949000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

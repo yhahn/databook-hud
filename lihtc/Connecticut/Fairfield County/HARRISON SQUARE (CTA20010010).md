@@ -1,0 +1,85 @@
+# Project: HARRISON SQUARE (CTA20010010)
+
+- HUD ID: CTA20010010
+- HUD ID before: 
+- Project: HARRISON SQUARE
+- Address: 52 MAIN ST
+- City: DANBURY
+- State: CT
+- ZIP: 06810
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.389361
+- Longitude: -73.447658
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001210102
+- Tract 2010: 09001210100
+- Tract 2000: 09001210100
+- Tract 1990: 09001210100
+- Place 2020: 18430
+- Place 2010: 18430
+- Place 2000: 18430
+- Place 1990: 0530
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

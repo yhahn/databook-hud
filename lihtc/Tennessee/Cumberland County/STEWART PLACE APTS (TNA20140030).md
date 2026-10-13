@@ -1,0 +1,85 @@
+# Project: STEWART PLACE APTS (TNA20140030)
+
+- HUD ID: TNA20140030
+- HUD ID before: 
+- Project: STEWART PLACE APTS
+- Address: 642 MYRTLE AVE
+- City: CROSSVILLE
+- State: TN
+- ZIP: 38555
+- ZIP extension: 
+- State project ID: TN-13-081
+- Latitude: 35.942262
+- Longitude: -85.051287
+- County FIPS: 47035
+- County from: 2020
+- Tract 2020: 47035970601
+- Tract 2010: 47035970601
+- Tract 2000: 47035970600
+- Tract 1990: 47035970600
+- Place 2020: 18540
+- Place 2010: 99999
+- Place 2000: 17840
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 845280
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

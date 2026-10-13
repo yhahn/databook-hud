@@ -1,0 +1,85 @@
+# Project: THE HERITAGE AT CLARA BARTON II (NJA20010035)
+
+- HUD ID: NJA20010035
+- HUD ID before: 
+- Project: THE HERITAGE AT CLARA BARTON II
+- Address: 1015 AMBOY AVENUE
+- City: EDISON
+- State: NJ
+- ZIP: 08107
+- ZIP extension: 
+- State project ID: PM01138
+- Latitude: 40.534575
+- Longitude: -74.337075
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023001903
+- Tract 2010: 34023001903
+- Tract 2000: 34023001903
+- Tract 1990: 34023001903
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 20260
+- Place 1990: 1697
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 584589
+- Units: 84
+- Low-income units: 17
+- Units reported: 84
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2000015.
+- Record status: Existing, unchanged

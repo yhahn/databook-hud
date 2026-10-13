@@ -1,0 +1,85 @@
+# Project: HILLTOP SENIOR LITC #2016 (NJA20221013)
+
+- HUD ID: NJA20221013
+- HUD ID before: 
+- Project: HILLTOP SENIOR LITC #2016
+- Address: 280 PARK PL
+- City: IRVINGTON
+- State: NJ
+- ZIP: 07111
+- ZIP extension: 1791
+- State project ID: 07834-1
+- Latitude: 40.717493
+- Longitude: -74.243221
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013012000
+- Tract 2010: 34013012000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1499052
+- Units: 95
+- Low-income units: 69
+- Units reported: 95
+- Low-income reported: 69
+- Efficiencies: 4
+- 1-bedroom units: 65
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: TREMONT PARK APARTMENTS (WVA20240010)
+
+- HUD ID: WVA20240010
+- HUD ID before: 
+- Project: TREMONT PARK APARTMENTS
+- Address: 400 TREMONT PARK CIRCLE
+- City: BLUEWELL
+- State: WV
+- ZIP: 24701
+- ZIP extension: 
+- State project ID: WV-22-09
+- Latitude: 37.313769
+- Longitude: -81.256522
+- County FIPS: 54055
+- County from: 2020
+- Tract 2020: 54055001700
+- Tract 2010: 54055001700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 08764
+- Place 2010: 08764
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 428000
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

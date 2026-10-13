@@ -1,0 +1,85 @@
+# Project: RIVERVIEW APTS (GAA20010085)
+
+- HUD ID: GAA20010085
+- HUD ID before: 
+- Project: RIVERVIEW APTS
+- Address: 7350 CAMPBELLTON RD SW
+- City: ATLANTA
+- State: GA
+- ZIP: 30331
+- ZIP extension: 
+- State project ID: GA-99-511
+- Latitude: 33.692759
+- Longitude: -84.625182
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121010311
+- Tract 2010: 13121010301
+- Tract 2000: 13121010301
+- Tract 1990: 13121010301
+- Place 2020: 72122
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 240
+- Low-income units: 226
+- Units reported: 240
+- Low-income reported: 226
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 132
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

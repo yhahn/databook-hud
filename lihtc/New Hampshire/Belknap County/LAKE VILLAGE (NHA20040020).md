@@ -1,0 +1,85 @@
+# Project: LAKE VILLAGE (NHA20040020)
+
+- HUD ID: NHA20040020
+- HUD ID before: 
+- Project: LAKE VILLAGE
+- Address: 765 UNION AVE
+- City: LACONIA
+- State: NH
+- ZIP: 03246
+- ZIP extension: 
+- State project ID: NH36H019114
+- Latitude: 43.546898
+- Longitude: -71.462686
+- County FIPS: 33001
+- County from: 2020
+- Tract 2020: 33001966200
+- Tract 2010: 33001966200
+- Tract 2000: 33001966200
+- Tract 1990: 33001966200
+- Place 2020: 40180
+- Place 2010: 40180
+- Place 2000: 40180
+- Place 1990: 1390
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 70
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WELLS RIVER DOWNTOWN (VTA19980090)
+
+- HUD ID: VTA19980090
+- HUD ID before: 
+- Project: WELLS RIVER DOWNTOWN
+- Address: 28 GROVE ST
+- City: WELLS RIVER
+- State: VT
+- ZIP: 05081
+- ZIP extension: 
+- State project ID: 0183
+- Latitude: 44.151822
+- Longitude: -72.047312
+- County FIPS: 50017
+- County from: 2020
+- Tract 2020: 50017959000
+- Tract 2010: 50017959000
+- Tract 2000: 50017959000
+- Tract 1990: 50017959000
+- Place 2020: 78025
+- Place 2010: 78025
+- Place 2000: 48100
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 79759
+- Units: 22
+- Low-income units: 17
+- Units reported: 22
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 12
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

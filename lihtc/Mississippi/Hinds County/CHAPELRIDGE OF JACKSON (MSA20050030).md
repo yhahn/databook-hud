@@ -1,0 +1,85 @@
+# Project: CHAPELRIDGE OF JACKSON (MSA20050030)
+
+- HUD ID: MSA20050030
+- HUD ID before: 
+- Project: CHAPELRIDGE OF JACKSON
+- Address: 1636 RAYMOND RD
+- City: JACKSON
+- State: MS
+- ZIP: 39204
+- ZIP extension: 
+- State project ID: MS-03-038
+- Latitude: 32.280627
+- Longitude: -90.257022
+- County FIPS: 28049
+- County from: 2020
+- Tract 2020: 28049011001
+- Tract 2010: 28049011001
+- Tract 2000: 28049011001
+- Tract 1990: 28049011001
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 0615
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 211719
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 72
+- 3-bedroom units: 48
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2004015.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: OAK HILL VILLAGE (OHA20020131)
+
+- HUD ID: OHA20020131
+- HUD ID before: 
+- Project: OAK HILL VILLAGE
+- Address: 38464 OAK HILL LN
+- City: WILLOUGHBY
+- State: OH
+- ZIP: 44094
+- ZIP extension: 
+- State project ID: 010111
+- Latitude: 41.657454
+- Longitude: -81.400693
+- County FIPS: 39085
+- County from: 2020
+- Tract 2020: 39085201600
+- Tract 2010: 39085201600
+- Tract 2000: 39085201600
+- Tract 1990: 39085201600
+- Place 2020: 85484
+- Place 2010: 85484
+- Place 2000: 85484
+- Place 1990: 4720
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 346265
+- Units: 182
+- Low-income units: 181
+- Units reported: 182
+- Low-income reported: 181
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 115
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2002570, OHA2003192.
+- Record status: Existing, unchanged

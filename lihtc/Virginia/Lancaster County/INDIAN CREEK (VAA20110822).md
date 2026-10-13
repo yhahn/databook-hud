@@ -1,0 +1,85 @@
+# Project: INDIAN CREEK (VAA20110822)
+
+- HUD ID: VAA20110822
+- HUD ID before: 
+- Project: INDIAN CREEK
+- Address: 501 SOUTHPORT LN
+- City: KILMARNOCK
+- State: VA
+- ZIP: 22482
+- ZIP extension: 
+- State project ID: 1009
+- Latitude: 37.70409
+- Longitude: -76.379954
+- County FIPS: 51103
+- County from: 2020
+- Tract 2020: 51103030200
+- Tract 2010: 51103030200
+- Tract 2000: 51103990200
+- Tract 1990: 51103990200
+- Place 2020: 42424
+- Place 2010: 42424
+- Place 2000: 42424
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 97765
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 684284
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1990100.
+- Record status: Existing, unchanged

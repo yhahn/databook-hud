@@ -1,0 +1,85 @@
+# Project: EDNA CRAVEN ESTATES (NYB20220007)
+
+- HUD ID: NYB20220007
+- HUD ID before: 
+- Project: EDNA CRAVEN ESTATES
+- Address: 625 CLIFFORD AVENUE
+- City: ROCHESTER
+- State: NY
+- ZIP: 14621
+- ZIP extension: 
+- State project ID: NY-23-2708
+- Latitude: 43.174965
+- Longitude: -77.606633
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055000700
+- Tract 2010: 36055000700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 164
+- Low-income units: 164
+- Units reported: 164
+- Low-income reported: 164
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 98
+- 3-bedroom units: 24
+- 4-bedroom units: 5
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PLEASANT MEADOWS VILLAGE (OHA20000115)
+
+- HUD ID: OHA20000115
+- HUD ID before: 
+- Project: PLEASANT MEADOWS VILLAGE
+- Address: 324 PLEASANT MEADOW BLVD
+- City: CUYAHOGA FALLS
+- State: OH
+- ZIP: 44224
+- ZIP extension: 
+- State project ID: 99-0070
+- Latitude: 41.165353
+- Longitude: -81.494557
+- County FIPS: 39153
+- County from: 2020
+- Tract 2020: 39153532902
+- Tract 2010: 39153532902
+- Tract 2000: 39153532900
+- Tract 1990: 39153532900
+- Place 2020: 19778
+- Place 2010: 19778
+- Place 2000: 01000
+- Place 1990: 1075
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 392443
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 56
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

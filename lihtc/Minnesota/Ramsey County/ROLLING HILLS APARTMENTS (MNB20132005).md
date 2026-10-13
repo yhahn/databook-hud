@@ -1,0 +1,85 @@
+# Project: ROLLING HILLS APARTMENTS (MNB20132005)
+
+- HUD ID: MNB20132005
+- HUD ID before: 
+- Project: ROLLING HILLS APARTMENTS
+- Address: 1332 MISSISSIPPI STREET
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55130
+- ZIP extension: 3310
+- State project ID: D6685
+- Latitude: 44.981637
+- Longitude: -93.087944
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123030601
+- Tract 2010: 27123030601
+- Tract 2000: 27123030601
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 58000
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1019320
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 9
+- 1-bedroom units: 27
+- 2-bedroom units: 69
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: 
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1887184
+- CDBG: Yes
+- CDBG amount: 97880
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Single HH with Children, Families of Color, Single Men and Women
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

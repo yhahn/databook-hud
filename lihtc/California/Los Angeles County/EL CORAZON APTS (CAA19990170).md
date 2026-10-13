@@ -1,0 +1,85 @@
+# Project: EL CORAZON APTS (CAA19990170)
+
+- HUD ID: CAA19990170
+- HUD ID before: 
+- Project: EL CORAZON APTS
+- Address: 7006 ALABAMA AVE
+- City: CANOGA PARK
+- State: CA
+- ZIP: 91303
+- ZIP extension: 
+- State project ID: CA-98-923
+- Latitude: 34.197517
+- Longitude: -118.598814
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037134520
+- Tract 2010: 06037134520
+- Tract 2000: 06037134520
+- Tract 1990: 06037134500
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 74960
+- Units: 12
+- Low-income units: 11
+- Units reported: 12
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 3
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

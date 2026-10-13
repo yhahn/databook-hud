@@ -1,0 +1,85 @@
+# Project: NEWMAN FAMILY APTS (CAA20110315)
+
+- HUD ID: CAA20110315
+- HUD ID before: 
+- Project: NEWMAN FAMILY APTS
+- Address: 751 DRISKELL AVE
+- City: NEWMAN
+- State: CA
+- ZIP: 95360
+- ZIP extension: 
+- State project ID: CA-09-214
+- Latitude: 37.318546
+- Longitude: -121.020517
+- County FIPS: 06099
+- County from: 2020
+- Tract 2020: 06099003501
+- Tract 2010: 06099003500
+- Tract 2000: 06099003500
+- Tract 1990: 06099003500
+- Place 2020: 51140
+- Place 2010: 51140
+- Place 2000: 51140
+- Place 1990: 1910
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 954928
+- Units: 68
+- Low-income units: 67
+- Units reported: 68
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 16
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 58
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 283000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011601. AKA MUSTANG PEAK.
+- Record status: Existing, unchanged

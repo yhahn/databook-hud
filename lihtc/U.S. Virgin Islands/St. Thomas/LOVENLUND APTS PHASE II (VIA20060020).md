@@ -1,0 +1,85 @@
+# Project: LOVENLUND APTS PHASE II (VIA20060020)
+
+- HUD ID: VIA20060020
+- HUD ID before: 
+- Project: LOVENLUND APTS PHASE II
+- Address: 6050 ESTATE LOVENLUND
+- City: ST THOMAS
+- State: VI
+- ZIP: 00802
+- ZIP extension: 
+- State project ID: 
+- Latitude: 18.3382
+- Longitude: -64.9098
+- County FIPS: 78030
+- County from: 2020
+- Tract 2020: 78030961100
+- Tract 2010: 78030961100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 18100
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 48
+- 4-bedroom units: 24
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VIA0000025.
+- Record status: Existing, unchanged

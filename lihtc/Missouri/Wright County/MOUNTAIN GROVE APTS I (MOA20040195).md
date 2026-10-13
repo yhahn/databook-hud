@@ -1,0 +1,85 @@
+# Project: MOUNTAIN GROVE APTS I (MOA20040195)
+
+- HUD ID: MOA20040195
+- HUD ID before: 
+- Project: MOUNTAIN GROVE APTS I
+- Address: 405 E CLOUSE ST
+- City: MOUNTAIN GROVE
+- State: MO
+- ZIP: 65711
+- ZIP extension: 
+- State project ID: 03-414
+- Latitude: 37.121727
+- Longitude: -92.257834
+- County FIPS: 29229
+- County from: 2020
+- Tract 2020: 29229490400
+- Tract 2010: 29229490400
+- Tract 2000: 29229990400
+- Tract 1990: 29229990400
+- Place 2020: 50402
+- Place 2010: 50402
+- Place 2000: 50402
+- Place 1990: 2955
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

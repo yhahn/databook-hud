@@ -1,0 +1,85 @@
+# Project: VILLA SAN JOAQUIN (CAA20040630)
+
+- HUD ID: CAA20040630
+- HUD ID before: 
+- Project: VILLA SAN JOAQUIN
+- Address: 1165 W D ST
+- City: LEMOORE
+- State: CA
+- ZIP: 93245
+- ZIP extension: 
+- State project ID: CA-04-817
+- Latitude: 36.300815
+- Longitude: -119.798222
+- County FIPS: 06031
+- County from: 2020
+- Tract 2020: 06031000407
+- Tract 2010: 06031000404
+- Tract 2000: 06031000404
+- Tract 1990: 06031000401
+- Place 2020: 41152
+- Place 2010: 41152
+- Place 2000: 41152
+- Place 1990: 1515
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 45398
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

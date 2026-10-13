@@ -1,0 +1,85 @@
+# Project: 611 GARRETT ST APTS (WVA19910040)
+
+- HUD ID: WVA19910040
+- HUD ID before: 
+- Project: 611 GARRETT ST APTS
+- Address: 611 GARRETT ST
+- City: SOUTH CHARLESTON
+- State: WV
+- ZIP: 25309
+- ZIP extension: 
+- State project ID: WV-89-04301
+- Latitude: 38.35257
+- Longitude: -81.731737
+- County FIPS: 54039
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 54039013100
+- Tract 2000: 54039013100
+- Tract 1990: 54039013100
+- Place 2020: 
+- Place 2010: 75292
+- Place 2000: 41010
+- Place 1990: 1480
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 9
+- Units reported: 10
+- Low-income reported: 9
+- Efficiencies: 2
+- 1-bedroom units: 4
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

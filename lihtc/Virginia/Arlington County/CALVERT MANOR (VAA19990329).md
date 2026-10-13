@@ -1,0 +1,85 @@
+# Project: CALVERT MANOR (VAA19990329)
+
+- HUD ID: VAA19990329
+- HUD ID before: 
+- Project: CALVERT MANOR
+- Address: 1927 N CALVERT ST
+- City: ARLINGTON
+- State: VA
+- ZIP: 22201
+- ZIP extension: 
+- State project ID: 4744
+- Latitude: 38.895626
+- Longitude: -77.091978
+- County FIPS: 51013
+- County from: 2020
+- Tract 2020: 51013101501
+- Tract 2010: 51013101500
+- Tract 2000: 51013101500
+- Tract 1990: 51013101500
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0056
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 61194
+- Units: 23
+- Low-income units: 15
+- Units reported: 23
+- Low-income reported: 15
+- Efficiencies: 2
+- 1-bedroom units: 6
+- 2-bedroom units: 4
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1998035.
+- Record status: Existing, unchanged

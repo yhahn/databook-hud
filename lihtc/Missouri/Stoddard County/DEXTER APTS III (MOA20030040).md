@@ -1,0 +1,85 @@
+# Project: DEXTER APTS III (MOA20030040)
+
+- HUD ID: MOA20030040
+- HUD ID before: 
+- Project: DEXTER APTS III
+- Address: 9A APPLE CT
+- City: DEXTER
+- State: MO
+- ZIP: 63841
+- ZIP extension: 
+- State project ID: 02-072
+- Latitude: 36.807466
+- Longitude: -89.957279
+- County FIPS: 29207
+- County from: 2020
+- Tract 2020: 29207470500
+- Tract 2010: 29207470500
+- Tract 2000: 29207970500
+- Tract 1990: 29207970500
+- Place 2020: 19396
+- Place 2010: 19396
+- Place 2000: 19396
+- Place 1990: 1155
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 22
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

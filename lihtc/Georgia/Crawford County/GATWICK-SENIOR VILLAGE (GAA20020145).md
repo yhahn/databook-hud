@@ -1,0 +1,85 @@
+# Project: GATWICK-SENIOR VILLAGE (GAA20020145)
+
+- HUD ID: GAA20020145
+- HUD ID before: 
+- Project: GATWICK-SENIOR VILLAGE
+- Address: PO BOX 56
+- City: FORT VALLEY
+- State: GA
+- ZIP: 31030
+- ZIP extension: 0056
+- State project ID: GA-00-052
+- Latitude: 32.6108
+- Longitude: -83.9762
+- County FIPS: 13079
+- County from: 2020
+- Tract 2020: 13079070202
+- Tract 2010: 13079070202
+- Tract 2000: 13225040200
+- Tract 1990: 13225040200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 31096
+- Place 1990: 1130
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 47
+- Units reported: 60
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

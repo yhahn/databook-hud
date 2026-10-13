@@ -1,0 +1,85 @@
+# Project: CASA DOMINGUEZ (CAA20090115)
+
+- HUD ID: CAA20090115
+- HUD ID before: 
+- Project: CASA DOMINGUEZ
+- Address: 1571 S ATLANTIC DR
+- City: EAST RANCHO DOMINGUEZ
+- State: CA
+- ZIP: 90221
+- ZIP extension: 
+- State project ID: CA-08-051
+- Latitude: 33.884307
+- Longitude: -118.192785
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037542200
+- Tract 2010: 06037542200
+- Tract 2000: 06037542200
+- Tract 1990: 06037542200
+- Place 2020: 15044
+- Place 2010: 15044
+- Place 2000: 15044
+- Place 1990: 0590
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1754750
+- Units: 70
+- Low-income units: 69
+- Units reported: 70
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 31
+- 3-bedroom units: 23
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 69
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 5959411
+- CDBG: Yes
+- CDBG amount: 1685000
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

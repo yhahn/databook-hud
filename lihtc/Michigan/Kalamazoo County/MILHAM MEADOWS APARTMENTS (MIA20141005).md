@@ -1,0 +1,85 @@
+# Project: MILHAM MEADOWS APARTMENTS (MIA20141005)
+
+- HUD ID: MIA20141005
+- HUD ID before: 
+- Project: MILHAM MEADOWS APARTMENTS
+- Address: 6103 MALLARD CIRCLE
+- City: PORTAGE
+- State: MI
+- ZIP: 49024
+- ZIP extension: 0000
+- State project ID: 3695
+- Latitude: 42.227161
+- Longitude: -85.617184
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077002005
+- Tract 2010: 26077002005
+- Tract 2000: 26077002005
+- Tract 1990: 
+- Place 2020: 65560
+- Place 2010: 65560
+- Place 2000: 65560
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 748133
+- Units: 300
+- Low-income units: 296
+- Units reported: 300
+- Low-income reported: 296
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 158
+- 3-bedroom units: 70
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: POMEROY LANE (MAB19930110)
+
+- HUD ID: MAB19930110
+- HUD ID before: 
+- Project: POMEROY LANE
+- Address: 34 POMEROY LN
+- City: AMHERST
+- State: MA
+- ZIP: 01002
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.340193
+- Longitude: -72.518523
+- County FIPS: 25015
+- County from: 2020
+- Tract 2020: 25015820801
+- Tract 2010: 25015820801
+- Tract 2000: 25015820801
+- Tract 1990: 25015820801
+- Place 2020: 01370
+- Place 2010: 62675
+- Place 2000: 01360
+- Place 1990: 3932
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 18
+- Units reported: 25
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 11
+- 3-bedroom units: 9
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA POMEROY LANE COOPERATIVE.
+- Record status: Existing, unchanged

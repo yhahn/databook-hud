@@ -1,0 +1,85 @@
+# Project: HILLVILLE HEIGHTS I (COA19930035)
+
+- HUD ID: COA19930035
+- HUD ID before: 
+- Project: HILLVILLE HEIGHTS I
+- Address: 1418 ANITA ST
+- City: PUEBLO
+- State: CO
+- ZIP: 81001
+- ZIP extension: 
+- State project ID: CO-93-001
+- Latitude: 38.287231
+- Longitude: -104.584174
+- County FIPS: 08101
+- County from: 2020
+- Tract 2020: 08101000902
+- Tract 2010: 08101000902
+- Tract 2000: 08101000902
+- Tract 1990: 08101000902
+- Place 2020: 62000
+- Place 2010: 62000
+- Place 2000: 62000
+- Place 1990: 1085
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

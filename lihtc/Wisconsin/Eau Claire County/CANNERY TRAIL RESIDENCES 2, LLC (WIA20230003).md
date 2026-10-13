@@ -1,0 +1,85 @@
+# Project: CANNERY TRAIL RESIDENCES 2, LLC (WIA20230003)
+
+- HUD ID: WIA20230003
+- HUD ID before: 
+- Project: CANNERY TRAIL RESIDENCES 2, LLC
+- Address: 1700 N OXFORD AVE
+- City: EAU CLAIRE
+- State: WI
+- ZIP: 54703
+- ZIP extension: 
+- State project ID: WI-20-53280
+- Latitude: 44.816461
+- Longitude: -91.509682
+- County FIPS: 55035
+- County from: 2020
+- Tract 2020: 55035001200
+- Tract 2010: 55035001400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22300
+- Place 2010: 22300
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 483430
+- Units: 43
+- Low-income units: 36
+- Units reported: 43
+- Low-income reported: 36
+- Efficiencies: 4
+- 1-bedroom units: 15
+- 2-bedroom units: 18
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

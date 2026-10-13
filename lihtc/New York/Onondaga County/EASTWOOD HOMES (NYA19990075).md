@@ -1,0 +1,85 @@
+# Project: EASTWOOD HOMES (NYA19990075)
+
+- HUD ID: NYA19990075
+- HUD ID before: 
+- Project: EASTWOOD HOMES
+- Address: 244 TAFT AVE
+- City: SYRACUSE
+- State: NY
+- ZIP: 
+- ZIP extension: 
+- State project ID: 19970634
+- Latitude: 43.074465
+- Longitude: -76.114633
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067001000
+- Tract 2010: 36067001000
+- Tract 2000: 36067001000
+- Tract 1990: 36067001000
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 3565
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 134
+- Low-income units: 134
+- Units reported: 134
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 64
+- 3-bedroom units: 40
+- 4-bedroom units: 18
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SPRINGBROOK APTS (COA20050090)
+
+- HUD ID: COA20050090
+- HUD ID before: 
+- Project: SPRINGBROOK APTS
+- Address: 2021 E 78TH AVE
+- City: DENVER
+- State: CO
+- ZIP: 80229
+- ZIP extension: 
+- State project ID: 2003009
+- Latitude: 39.838299
+- Longitude: -104.963527
+- County FIPS: 08001
+- County from: 2020
+- Tract 2020: 08001009004
+- Tract 2010: 08001009002
+- Tract 2000: 08001009002
+- Tract 1990: 08001009002
+- Place 2020: 83120
+- Place 2010: 83120
+- Place 2000: 77290
+- Place 1990: 1344
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 119
+- Units reported: 120
+- Low-income reported: 119
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 48
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

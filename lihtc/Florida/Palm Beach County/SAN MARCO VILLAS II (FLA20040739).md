@@ -1,0 +1,85 @@
+# Project: SAN MARCO VILLAS II (FLA20040739)
+
+- HUD ID: FLA20040739
+- HUD ID before: 
+- Project: SAN MARCO VILLAS II
+- Address: 833 MURANO DR
+- City: LAKE PARK
+- State: FL
+- ZIP: 33403
+- ZIP extension: 
+- State project ID: 1195
+- Latitude: 26.801204
+- Longitude: -80.085541
+- County FIPS: 12099
+- County from: 2020
+- Tract 2020: 12099001101
+- Tract 2010: 12099001301
+- Tract 2000: 12099001301
+- Tract 1990: 12099001300
+- Place 2020: 38600
+- Place 2010: 38600
+- Place 2000: 38600
+- Place 1990: 1855
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 60
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

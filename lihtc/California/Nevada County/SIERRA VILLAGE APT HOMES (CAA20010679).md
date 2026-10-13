@@ -1,0 +1,85 @@
+# Project: SIERRA VILLAGE APT HOMES (CAA20010679)
+
+- HUD ID: CAA20010679
+- HUD ID before: 
+- Project: SIERRA VILLAGE APT HOMES
+- Address: 10081 MARTIS VALLEY RD
+- City: TRUCKEE
+- State: CA
+- ZIP: 96161
+- ZIP extension: 
+- State project ID: CA-00-117
+- Latitude: 39.3203
+- Longitude: -120.164071
+- County FIPS: 06057
+- County from: 2020
+- Tract 2020: 06057001207
+- Tract 2010: 06057001206
+- Tract 2000: 06057001201
+- Tract 1990: 06057001201
+- Place 2020: 80588
+- Place 2010: 80588
+- Place 2000: 80588
+- Place 1990: 2940
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 1032794
+- Units: 72
+- Low-income units: 56
+- Units reported: 72
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

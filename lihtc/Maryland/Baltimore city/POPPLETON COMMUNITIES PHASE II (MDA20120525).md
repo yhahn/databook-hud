@@ -1,0 +1,85 @@
+# Project: POPPLETON COMMUNITIES PHASE II (MDA20120525)
+
+- HUD ID: MDA20120525
+- HUD ID before: 
+- Project: POPPLETON COMMUNITIES PHASE II
+- Address: 874 W FAIRMOUNT AVE
+- City: BALTIMORE
+- State: MD
+- ZIP: 21201
+- ZIP extension: 
+- State project ID: MD10-22001
+- Latitude: 39.289601
+- Longitude: -76.630718
+- County FIPS: 24510
+- County from: 2020
+- Tract 2020: 24510280600
+- Tract 2010: 24510180100
+- Tract 2000: 24510180100
+- Tract 1990: 24510180100
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0025
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 111
+- Low-income units: 111
+- Units reported: 111
+- Low-income reported: 111
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 53
+- 3-bedroom units: 16
+- 4-bedroom units: 19
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CEDAR CREEK (COTTONDALE) (FLA19940035)
+
+- HUD ID: FLA19940035
+- HUD ID before: 
+- Project: CEDAR CREEK (COTTONDALE)
+- Address: 3131 WILLOW ST
+- City: COTTONDALE
+- State: FL
+- ZIP: 32431
+- ZIP extension: 
+- State project ID: 141
+- Latitude: 30.79496
+- Longitude: -85.368415
+- County FIPS: 12063
+- County from: 2020
+- Tract 2020: 12063210400
+- Tract 2010: 12063210400
+- Tract 2000: 12063980400
+- Tract 1990: 12063980400
+- Place 2020: 14850
+- Place 2010: 14850
+- Place 2000: 14850
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

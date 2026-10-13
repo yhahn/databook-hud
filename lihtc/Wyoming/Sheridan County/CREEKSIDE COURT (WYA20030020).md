@@ -1,0 +1,85 @@
+# Project: CREEKSIDE COURT (WYA20030020)
+
+- HUD ID: WYA20030020
+- HUD ID before: 
+- Project: CREEKSIDE COURT
+- Address: 2076 S SHERIDAN AVE
+- City: SHERIDAN
+- State: WY
+- ZIP: 82801
+- ZIP extension: 
+- State project ID: 01-005
+- Latitude: 44.775054
+- Longitude: -106.948565
+- County FIPS: 56033
+- County from: 2020
+- Tract 2020: 56033000100
+- Tract 2010: 56033000100
+- Tract 2000: 56033000100
+- Tract 1990: 56033953500
+- Place 2020: 69845
+- Place 2010: 69845
+- Place 2000: 69845
+- Place 1990: 0400
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 273661
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 50
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

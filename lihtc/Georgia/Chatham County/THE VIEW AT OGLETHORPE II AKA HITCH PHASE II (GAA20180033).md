@@ -1,0 +1,85 @@
+# Project: THE VIEW AT OGLETHORPE II AKA HITCH PHASE II (GAA20180033)
+
+- HUD ID: GAA20180033
+- HUD ID before: 
+- Project: THE VIEW AT OGLETHORPE II AKA HITCH PHASE II
+- Address: 280 RANDOLPH ST
+- City: SAVANNAH
+- State: GA
+- ZIP: 31401
+- ZIP extension: 2974
+- State project ID: 2015-014
+- Latitude: 32.073557
+- Longitude: -81.083273
+- County FIPS: 13051
+- County from: 2020
+- Tract 2020: 13051011800
+- Tract 2010: 13051010101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 960899
+- Units: 100
+- Low-income units: 80
+- Units reported: 100
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 56
+- 3-bedroom units: 26
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: OCEANVIEW 1, OCEANVIEW 2 & HEYSON GARDENS (NYC20120120)
+
+- HUD ID: NYC20120120
+- HUD ID before: 
+- Project: OCEANVIEW 1, OCEANVIEW 2 & HEYSON GARDENS
+- Address: 1410 NEW HAVEN AVE
+- City: QUEENS
+- State: NY
+- ZIP: 11691
+- ZIP extension: 
+- State project ID: NY-11-078
+- Latitude: 40.598589
+- Longitude: -73.74835
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081101004
+- Tract 2010: 36081101001
+- Tract 2000: 36081101001
+- Tract 1990: 36081101000
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1978002
+- Units: 328
+- Low-income units: 305
+- Units reported: 328
+- Low-income reported: 305
+- Efficiencies: 0
+- 1-bedroom units: 132
+- 2-bedroom units: 156
+- 3-bedroom units: 41
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

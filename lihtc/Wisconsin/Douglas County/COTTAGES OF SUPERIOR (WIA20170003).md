@@ -1,0 +1,85 @@
+# Project: COTTAGES OF SUPERIOR (WIA20170003)
+
+- HUD ID: WIA20170003
+- HUD ID before: 
+- Project: COTTAGES OF SUPERIOR
+- Address: 1406 N 51ST STREET
+- City: SUPERIOR
+- State: WI
+- ZIP: 54880
+- ZIP extension: 
+- State project ID: 6100
+- Latitude: 46.7166
+- Longitude: -92.1205
+- County FIPS: 55031
+- County from: 2020
+- Tract 2020: 55031020800
+- Tract 2010: 55031020700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 78650
+- Place 2010: 78650
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 220220
+- Units: 24
+- Low-income units: 6
+- Units reported: 24
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 8
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 497100
+- CDBG: Yes
+- CDBG amount: 590000
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

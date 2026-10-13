@@ -1,0 +1,85 @@
+# Project: SAN ANGELIN APTS (AZA20050085)
+
+- HUD ID: AZA20050085
+- HUD ID before: 
+- Project: SAN ANGELIN APTS
+- Address: 1935 S SUNNYVALE
+- City: MESA
+- State: AZ
+- ZIP: 85206
+- ZIP extension: 
+- State project ID: BD-0034
+- Latitude: 33.381362
+- Longitude: -111.714121
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013422638
+- Tract 2010: 04013422638
+- Tract 2000: 04013422608
+- Tract 1990: 04013422608
+- Place 2020: 46000
+- Place 2010: 46000
+- Place 2000: 27400
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 312
+- Low-income units: 282
+- Units reported: 312
+- Low-income reported: 282
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 224
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

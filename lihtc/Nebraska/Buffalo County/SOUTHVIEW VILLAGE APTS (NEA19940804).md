@@ -1,0 +1,85 @@
+# Project: SOUTHVIEW VILLAGE APTS (NEA19940804)
+
+- HUD ID: NEA19940804
+- HUD ID before: 
+- Project: SOUTHVIEW VILLAGE APTS
+- Address: 1004 W 11TH ST
+- City: KEARNEY
+- State: NE
+- ZIP: 68845
+- ZIP extension: 
+- State project ID: 7-0174
+- Latitude: 40.685035
+- Longitude: -99.095628
+- County FIPS: 31019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31019969700
+- Tract 2000: 31019969700
+- Tract 1990: 31019969700
+- Place 2020: 
+- Place 2010: 25055
+- Place 2000: 25055
+- Place 1990: 1350
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 184739
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA0000450.
+- Record status: Existing, unchanged

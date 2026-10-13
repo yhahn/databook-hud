@@ -1,0 +1,85 @@
+# Project: RETAMA PARK (TXA20163053)
+
+- HUD ID: TXA20163053
+- HUD ID before: 
+- Project: RETAMA PARK
+- Address: 151 CLARA BENNETT DR
+- City: BROWNSVILLE
+- State: TX
+- ZIP: 78575
+- ZIP extension: 
+- State project ID: TX5034
+- Latitude: 26.026324
+- Longitude: -97.530532
+- County FIPS: 48061
+- County from: 2020
+- Tract 2020: 48061014401
+- Tract 2010: 48061014400
+- Tract 2000: 48061012604
+- Tract 1990: 48061012400
+- Place 2020: 10768
+- Place 2010: 10768
+- Place 2000: 10768
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 148
+- Low-income units: 148
+- Units reported: 148
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

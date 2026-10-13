@@ -1,0 +1,85 @@
+# Project: WESTVIEW TERRACE (VTA19960030)
+
+- HUD ID: VTA19960030
+- HUD ID before: 
+- Project: WESTVIEW TERRACE
+- Address: 59 WESTVIEW TER
+- City: SPRINGFIELD
+- State: VT
+- ZIP: 05156
+- ZIP extension: 
+- State project ID: 0187
+- Latitude: 43.307791
+- Longitude: -72.493096
+- County FIPS: 50027
+- County from: 2020
+- Tract 2020: 50027966700
+- Tract 2010: 50027966700
+- Tract 2000: 50027966700
+- Tract 1990: 50027966700
+- Place 2020: 69475
+- Place 2010: 99999
+- Place 2000: 69475
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 384574
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 21
+- 3-bedroom units: 24
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

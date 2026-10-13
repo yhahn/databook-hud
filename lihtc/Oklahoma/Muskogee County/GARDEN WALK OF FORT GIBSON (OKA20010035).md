@@ -1,0 +1,85 @@
+# Project: GARDEN WALK OF FORT GIBSON (OKA20010035)
+
+- HUD ID: OKA20010035
+- HUD ID before: 
+- Project: GARDEN WALK OF FORT GIBSON
+- Address: 1200 CEDAR RIDGE DR
+- City: FORT GIBSON
+- State: OK
+- ZIP: 74434
+- ZIP extension: 
+- State project ID: OK-99-06-60
+- Latitude: 35.800327
+- Longitude: -95.235638
+- County FIPS: 40101
+- County from: 2020
+- Tract 2020: 40101001401
+- Tract 2010: 40101001400
+- Tract 2000: 40101001400
+- Tract 1990: 40101001400
+- Place 2020: 27200
+- Place 2010: 27200
+- Place 2000: 08400
+- Place 1990: 0865
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 95
+- Low-income units: 93
+- Units reported: 95
+- Low-income reported: 93
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 36
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

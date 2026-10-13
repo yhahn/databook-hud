@@ -1,0 +1,85 @@
+# Project: THE PEAKS AT BELLS FERRY (GAA20030257)
+
+- HUD ID: GAA20030257
+- HUD ID before: 
+- Project: THE PEAKS AT BELLS FERRY
+- Address: 100 PEAKS RDG
+- City: ACWORTH
+- State: GA
+- ZIP: 30102
+- ZIP extension: 1953
+- State project ID: GA-01-534
+- Latitude: 34.095135
+- Longitude: -84.581434
+- County FIPS: 13057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 13057091003
+- Tract 2000: 13057091003
+- Tract 1990: 13057091003
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 84176
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 499278
+- Units: 248
+- Low-income units: 148
+- Units reported: 248
+- Low-income reported: 148
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 136
+- 3-bedroom units: 67
+- 4-bedroom units: 45
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2004045.
+- Record status: Existing, unchanged

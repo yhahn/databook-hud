@@ -1,0 +1,85 @@
+# Project: KENSINGTON COURT AT LAKEVILLE STATION (MAB00000346)
+
+- HUD ID: MAB00000346
+- HUD ID before: 
+- Project: KENSINGTON COURT AT LAKEVILLE STATION
+- Address: 2 COMMERCIAL DR
+- City: LAKEVILLE
+- State: MA
+- ZIP: 02347
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 41.878628
+- Longitude: -70.923615
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023540101
+- Tract 2010: 25023540101
+- Tract 2000: 25023540100
+- Tract 1990: 25023540100
+- Place 2020: 48220
+- Place 2010: 48220
+- Place 2000: 48220
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 73
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

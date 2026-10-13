@@ -1,0 +1,85 @@
+# Project: TIMBER TRACE - TITUSVILLE (FLA20090120)
+
+- HUD ID: FLA20090120
+- HUD ID before: 
+- Project: TIMBER TRACE - TITUSVILLE
+- Address: 628 TIMBER TRACE LN
+- City: TITUSVILLE
+- State: FL
+- ZIP: 32780
+- ZIP extension: 
+- State project ID: 1764
+- Latitude: 28.543907
+- Longitude: -80.808019
+- County FIPS: 12009
+- County from: 2020
+- Tract 2020: 12009061201
+- Tract 2010: 12009061201
+- Tract 2000: 12009061200
+- Tract 1990: 12009061200
+- Place 2020: 71900
+- Place 2010: 71900
+- Place 2000: 71900
+- Place 1990: 2105
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1065276
+- Units: 204
+- Low-income units: 204
+- Units reported: 204
+- Low-income reported: 204
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 136
+- 3-bedroom units: 68
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PACIFIC GROVE SENIOR APTS (CAA20060375)
+
+- HUD ID: CAA20060375
+- HUD ID before: 
+- Project: PACIFIC GROVE SENIOR APTS
+- Address: 650 JEWELL AVE
+- City: PACIFIC GROVE
+- State: CA
+- ZIP: 93950
+- ZIP extension: 
+- State project ID: CA-04-838
+- Latitude: 36.624747
+- Longitude: -121.918233
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053012401
+- Tract 2010: 06053012401
+- Tract 2000: 06053012401
+- Tract 1990: 06053012401
+- Place 2020: 54848
+- Place 2010: 54848
+- Place 2000: 48872
+- Place 1990: 2065
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 420701
+- Units: 49
+- Low-income units: 48
+- Units reported: 49
+- Low-income reported: 48
+- Efficiencies: 8
+- 1-bedroom units: 34
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VISTA POINT AT PACIFIC GROVE.
+- Record status: Existing, unchanged

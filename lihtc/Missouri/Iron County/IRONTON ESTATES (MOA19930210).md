@@ -1,0 +1,85 @@
+# Project: IRONTON ESTATES (MOA19930210)
+
+- HUD ID: MOA19930210
+- HUD ID before: 
+- Project: IRONTON ESTATES
+- Address: 640 HAMMOND ST
+- City: IRONTON
+- State: MO
+- ZIP: 63650
+- ZIP extension: 
+- State project ID: 91078
+- Latitude: 37.59588
+- Longitude: -90.636121
+- County FIPS: 29093
+- County from: 2020
+- Tract 2020: 29093950300
+- Tract 2010: 29093950300
+- Tract 2000: 29093970300
+- Tract 1990: 29093970300
+- Place 2020: 35468
+- Place 2010: 35468
+- Place 2000: 01648
+- Place 1990: 2145
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FAIRLIE POPLAR APARTMENTS (GAA19980045)
+
+- HUD ID: GAA19980045
+- HUD ID before: 
+- Project: FAIRLIE POPLAR APARTMENTS
+- Address: 87 POPLAR ST NW
+- City: ATLANTA
+- State: GA
+- ZIP: 30303
+- ZIP extension: 
+- State project ID: GA-96-504
+- Latitude: 33.756901
+- Longitude: -84.389972
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011901
+- Tract 2010: 13121011900
+- Tract 2000: 13121002700
+- Tract 1990: 13121002700
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 3
+- Units reported: 15
+- Low-income reported: 3
+- Efficiencies: 3
+- 1-bedroom units: 6
+- 2-bedroom units: 2
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

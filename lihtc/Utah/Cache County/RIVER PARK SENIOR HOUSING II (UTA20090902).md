@@ -1,0 +1,85 @@
+# Project: RIVER PARK SENIOR HOUSING II (UTA20090902)
+
+- HUD ID: UTA20090902
+- HUD ID before: 
+- Project: RIVER PARK SENIOR HOUSING II
+- Address: 784 RIVERWALK PARKWAY
+- City: LOGAN
+- State: UT
+- ZIP: 84321
+- ZIP extension: 0000
+- State project ID: 2008-11
+- Latitude: 41.717379
+- Longitude: -111.83962
+- County FIPS: 49005
+- County from: 2020
+- Tract 2020: 49005001002
+- Tract 2010: 49005001002
+- Tract 2000: 49005001000
+- Tract 1990: 49005001000
+- Place 2020: 45860
+- Place 2010: 45860
+- Place 2000: 45860
+- Place 1990: 0520
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 153589
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

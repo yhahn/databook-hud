@@ -1,0 +1,85 @@
+# Project: UMOM FAMILY HOUSING I (AZA20100070)
+
+- HUD ID: AZA20100070
+- HUD ID before: 
+- Project: UMOM FAMILY HOUSING I
+- Address: 3330 E VAN BUREN ST
+- City: PHOENIX
+- State: AZ
+- ZIP: 85008
+- ZIP extension: 
+- State project ID: TC-0446
+- Latitude: 33.451452
+- Longitude: -112.008981
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013113602
+- Tract 2010: 04013113602
+- Tract 2000: 04013113602
+- Tract 1990: 04013113600
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 0260
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1000000
+- Units: 80
+- Low-income units: 72
+- Units reported: 80
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 36
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CROMESETT WOODS (MAB19940040)
+
+- HUD ID: MAB19940040
+- HUD ID before: 
+- Project: CROMESETT WOODS
+- Address: 6 CROMESETT RD
+- City: WAREHAM
+- State: MA
+- ZIP: 02571
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 41.749363
+- Longitude: -70.734919
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023545100
+- Tract 2010: 25023545100
+- Tract 2000: 25023545100
+- Tract 1990: 25023545100
+- Place 2020: 78850
+- Place 2010: 78850
+- Place 2000: 78410
+- Place 1990: 4815
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 27
+- Low-income units: 24
+- Units reported: 27
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

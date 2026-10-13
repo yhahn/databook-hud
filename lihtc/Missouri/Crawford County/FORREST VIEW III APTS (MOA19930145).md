@@ -1,0 +1,85 @@
+# Project: FORREST VIEW III APTS (MOA19930145)
+
+- HUD ID: MOA19930145
+- HUD ID before: 
+- Project: FORREST VIEW III APTS
+- Address: 68 IRA BLAND
+- City: SULLIVAN
+- State: MO
+- ZIP: 63080
+- ZIP extension: 
+- State project ID: 92036
+- Latitude: 38.203014
+- Longitude: -91.176207
+- County FIPS: 29055
+- County from: 2020
+- Tract 2020: 29055450103
+- Tract 2010: 29055450102
+- Tract 2000: 29055950100
+- Tract 1990: 29055950100
+- Place 2020: 71440
+- Place 2010: 71440
+- Place 2000: 07534
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: AKA FORREST VIEW APTS III.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: STONEY CREEK APTS (REED CITY) (MIA20030290)
+
+- HUD ID: MIA20030290
+- HUD ID before: 
+- Project: STONEY CREEK APTS (REED CITY)
+- Address: 815 S ROTH ST
+- City: REED CITY
+- State: MI
+- ZIP: 49677
+- ZIP extension: 
+- State project ID: MI-2217
+- Latitude: 43.867144
+- Longitude: -85.503571
+- County FIPS: 26133
+- County from: 2020
+- Tract 2020: 26133970600
+- Tract 2010: 26133970600
+- Tract 2000: 26133970600
+- Tract 1990: 26133970600
+- Place 2020: 67820
+- Place 2010: 67820
+- Place 2000: 37820
+- Place 1990: 2285
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

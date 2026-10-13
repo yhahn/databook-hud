@@ -1,0 +1,24 @@
+# Tax Credit Projects: Cortland County, NY
+
+- Level: County
+- Postal code: NY
+- State FIPS: 36
+- County FIPS: 36023
+- Counties: 
+- Projects: 7
+- Units: 324
+- Low-income units: 316
+
+The low-income housing tax credit projects of Cortland County, New York, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [POMEROY SCHOOL RENOVATION (NYA19910240)](./Cortland%20County/POMEROY%20SCHOOL%20RENOVATION%20%28NYA19910240%29.md) | NYA19910240 | CORTLAND | 1991 | 33 | 31 |
+| [PORT WATSON COMMONS (NYA19960265)](./Cortland%20County/PORT%20WATSON%20COMMONS%20%28NYA19960265%29.md) | NYA19960265 | CORTLAND | 1996 | 72 | 72 |
+| [ELLIS PINES SENIOR APTS (NYA20070075)](./Cortland%20County/ELLIS%20PINES%20SENIOR%20APTS%20%28NYA20070075%29.md) | NYA20070075 | HOMER | 2007 | 24 | 24 |
+| [CORTLAND CROWN HOMES (NYA20080085)](./Cortland%20County/CORTLAND%20CROWN%20HOMES%20%28NYA20080085%29.md) | NYA20080085 | CORTLAND | 2008 | 30 | 30 |
+| [RIVERVIEW APARTMENTS, CORTLAND (NYA20170014)](./Cortland%20County/RIVERVIEW%20APARTMENTS,%20CORTLAND%20%28NYA20170014%29.md) | NYA20170014 | CORTLAND | 2017 | 39 | 36 |
+| [GRACE BROWN HOUSE (NYA20221022)](./Cortland%20County/GRACE%20BROWN%20HOUSE%20%28NYA20221022%29.md) | NYA20221022 | CORTLAND | 2022 | 25 | 25 |
+| [FRIENDSHIP HOUSE (NYB20060030)](./Cortland%20County/FRIENDSHIP%20HOUSE%20%28NYB20060030%29.md) | NYB20060030 | CORTLAND | 2006 | 101 | 98 |

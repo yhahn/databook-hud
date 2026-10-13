@@ -1,0 +1,85 @@
+# Project: AVERY SQUARE (MIA19990040)
+
+- HUD ID: MIA19990040
+- HUD ID before: 
+- Project: AVERY SQUARE
+- Address: 510 ASHMUN ST
+- City: SAULT SAINTE MARIE
+- State: MI
+- ZIP: 49783
+- ZIP extension: 
+- State project ID: MI-925
+- Latitude: 46.497406
+- Longitude: -84.348081
+- County FIPS: 26033
+- County from: 2020
+- Tract 2020: 26033970300
+- Tract 2010: 26033970300
+- Tract 2000: 26033970300
+- Tract 1990: 26033970300
+- Place 2020: 71740
+- Place 2010: 71740
+- Place 2000: 71740
+- Place 1990: 2435
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 57
+- Low-income units: 29
+- Units reported: 57
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

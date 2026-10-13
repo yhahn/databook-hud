@@ -1,0 +1,85 @@
+# Project: PACIFIC PLACE APTS (NEA19980808)
+
+- HUD ID: NEA19980808
+- HUD ID before: 
+- Project: PACIFIC PLACE APTS
+- Address: 500 N PACIFIC ST
+- City: NORTH PLATTE
+- State: NE
+- ZIP: 69101
+- ZIP extension: 
+- State project ID: 67146
+- Latitude: 41.14165
+- Longitude: -100.796655
+- County FIPS: 31111
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31111960400
+- Tract 2000: 31111960400
+- Tract 1990: 31111960400
+- Place 2020: 
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1775
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 103666
+- Units: 64
+- Low-income units: 50
+- Units reported: 64
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

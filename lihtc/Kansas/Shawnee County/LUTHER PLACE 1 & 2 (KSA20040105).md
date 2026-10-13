@@ -1,0 +1,85 @@
+# Project: LUTHER PLACE 1 & 2 (KSA20040105)
+
+- HUD ID: KSA20040105
+- HUD ID before: 
+- Project: LUTHER PLACE 1 & 2
+- Address: 5000 SW HUNTOON ST
+- City: TOPEKA
+- State: KS
+- ZIP: 66604
+- ZIP extension: 
+- State project ID: 60268
+- Latitude: 39.04402
+- Longitude: -95.740785
+- County FIPS: 20177
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20177002400
+- Tract 2000: 20177002400
+- Tract 1990: 20177002400
+- Place 2020: 
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2795
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 421355
+- Units: 199
+- Low-income units: 196
+- Units reported: 199
+- Low-income reported: 196
+- Efficiencies: 0
+- 1-bedroom units: 193
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

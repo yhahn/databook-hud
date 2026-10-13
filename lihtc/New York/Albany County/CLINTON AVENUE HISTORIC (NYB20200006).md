@@ -1,0 +1,85 @@
+# Project: CLINTON AVENUE HISTORIC (NYB20200006)
+
+- HUD ID: NYB20200006
+- HUD ID before: 
+- Project: CLINTON AVENUE HISTORIC
+- Address: 321 CLINTON AVENUE
+- City: ALBANY
+- State: NY
+- ZIP: 12207
+- ZIP extension: 
+- State project ID: NY-21-2549
+- Latitude: 42.660606
+- Longitude: -73.760675
+- County FIPS: 36001
+- County from: 2020
+- Tract 2020: 36001000201
+- Tract 2010: 36001000200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 210
+- Low-income units: 187
+- Units reported: 210
+- Low-income reported: 187
+- Efficiencies: 2
+- 1-bedroom units: 131
+- 2-bedroom units: 71
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

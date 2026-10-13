@@ -1,0 +1,85 @@
+# Project: CENTURY TOWER APTS (MOA20020065)
+
+- HUD ID: MOA20020065
+- HUD ID before: 
+- Project: CENTURY TOWER APTS
+- Address: 627 N 25TH ST
+- City: ST JOSEPH
+- State: MO
+- ZIP: 64506
+- ZIP extension: 
+- State project ID: 01-018
+- Latitude: 39.771845
+- Longitude: -94.830136
+- County FIPS: 29021
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29021000900
+- Tract 2000: 29021000900
+- Tract 1990: 29021000900
+- Place 2020: 
+- Place 2010: 64550
+- Place 2000: 64550
+- Place 1990: 3865
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 27
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CENTURY TOWERS.
+- Record status: Existing, unchanged

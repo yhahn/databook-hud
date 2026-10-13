@@ -1,0 +1,85 @@
+# Project: ST PAUL'S PLACE (NYA20030200)
+
+- HUD ID: NYA20030200
+- HUD ID before: 
+- Project: ST PAUL'S PLACE
+- Address: 930 LAKE ST
+- City: ANGOLA
+- State: NY
+- ZIP: 14006
+- ZIP extension: 
+- State project ID: 20010879
+- Latitude: 42.638316
+- Longitude: -79.045997
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029015503
+- Tract 2010: 36029015503
+- Tract 2000: 36029015502
+- Tract 1990: 36029015502
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 02220
+- Place 1990: 1845
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 10
+- Units reported: 12
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

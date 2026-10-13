@@ -1,0 +1,85 @@
+# Project: IMAGINE JEFFERSON (UTA20140040)
+
+- HUD ID: UTA20140040
+- HUD ID before: 
+- Project: IMAGINE JEFFERSON
+- Address: 550 EAST 25TH STREET
+- City: OGDEN
+- State: UT
+- ZIP: 84401
+- ZIP extension: 0000
+- State project ID: 2012-21
+- Latitude: 41.220592
+- Longitude: -111.966009
+- County FIPS: 49057
+- County from: 2020
+- Tract 2020: 49057200900
+- Tract 2010: 49057200900
+- Tract 2000: 49057200900
+- Tract 1990: 49057201300
+- Place 2020: 55980
+- Place 2010: 55980
+- Place 2000: 55980
+- Place 1990: 0695
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 999389
+- Units: 59
+- Low-income units: 49
+- Units reported: 59
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 26
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

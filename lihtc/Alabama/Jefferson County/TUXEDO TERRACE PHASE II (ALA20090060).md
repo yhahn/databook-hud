@@ -1,0 +1,85 @@
+# Project: TUXEDO TERRACE PHASE II (ALA20090060)
+
+- HUD ID: ALA20090060
+- HUD ID before: 
+- Project: TUXEDO TERRACE PHASE II
+- Address: 1450 21ST ST ENSLEY
+- City: BIRMINGHAM
+- State: AL
+- ZIP: 35218
+- ZIP extension: 
+- State project ID: AL-08-0026
+- Latitude: 33.507798
+- Longitude: -86.890831
+- County FIPS: 01073
+- County from: 2020
+- Tract 2020: 01073003200
+- Tract 2010: 01073003200
+- Tract 2000: 01073003200
+- Tract 1990: 01073003200
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0185
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 70
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 108
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 8055900
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2009548. FKA TUXEDO COURT RENTAL PHASE II
+- Record status: Existing, unchanged

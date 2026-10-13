@@ -1,0 +1,85 @@
+# Project: VILLA PACIFICA SENIOR COMMUNITY (CAA19980565)
+
+- HUD ID: CAA19980565
+- HUD ID before: 
+- Project: VILLA PACIFICA SENIOR COMMUNITY
+- Address: 9609 BASELINE RD
+- City: RANCHO CUCAMONGA
+- State: CA
+- ZIP: 91730
+- ZIP extension: 
+- State project ID: CA-97-920
+- Latitude: 34.12136
+- Longitude: -117.595367
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071002027
+- Tract 2010: 06071002027
+- Tract 2000: 06071002005
+- Tract 1990: 06071002005
+- Place 2020: 59451
+- Place 2010: 59451
+- Place 2000: 59451
+- Place 1990: 2278
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 408128
+- Units: 158
+- Low-income units: 158
+- Units reported: 158
+- Low-income reported: 158
+- Efficiencies: 0
+- 1-bedroom units: 128
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

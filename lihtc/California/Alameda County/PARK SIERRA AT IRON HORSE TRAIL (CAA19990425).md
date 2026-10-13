@@ -1,0 +1,85 @@
+# Project: PARK SIERRA AT IRON HORSE TRAIL (CAA19990425)
+
+- HUD ID: CAA19990425
+- HUD ID before: 
+- Project: PARK SIERRA AT IRON HORSE TRAIL
+- Address: 6450 DOUGHERTY RD
+- City: DUBLIN
+- State: CA
+- ZIP: 94568
+- ZIP extension: 
+- State project ID: CA-99-925
+- Latitude: 37.710602
+- Longitude: -121.910575
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001450200
+- Tract 2010: 06001450200
+- Tract 2000: 06001450200
+- Tract 1990: 06001450200
+- Place 2020: 20018
+- Place 2010: 20018
+- Place 2000: 20018
+- Place 1990: 0802
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 212553
+- Units: 283
+- Low-income units: 57
+- Units reported: 283
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GRANITE RIDGE APARTMENTS (CAA20230101)
+
+- HUD ID: CAA20230101
+- HUD ID before: 
+- Project: GRANITE RIDGE APARTMENTS
+- Address: 3135 MEDINA COMMON
+- City: FREMONT
+- State: CA
+- ZIP: 94536
+- ZIP extension: 
+- State project ID: CA-2020-083
+- Latitude: 37.5585
+- Longitude: -121.9933
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001441702
+- Tract 2010: 06001441800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26000
+- Place 2010: 26000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2500000
+- Units: 73
+- Low-income units: 72
+- Units reported: 73
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 22
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 51
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

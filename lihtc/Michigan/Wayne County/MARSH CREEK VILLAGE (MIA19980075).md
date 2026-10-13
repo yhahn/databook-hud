@@ -1,0 +1,85 @@
+# Project: MARSH CREEK VILLAGE (MIA19980075)
+
+- HUD ID: MIA19980075
+- HUD ID before: 
+- Project: MARSH CREEK VILLAGE
+- Address: 25010 MARSH CREEK BLVD
+- City: WOODHAVEN
+- State: MI
+- ZIP: 48183
+- ZIP extension: 
+- State project ID: MI-1994
+- Latitude: 42.126153
+- Longitude: -83.22348
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163593001
+- Tract 2010: 26163593000
+- Tract 2000: 26163593000
+- Tract 1990: 26163593000
+- Place 2020: 88380
+- Place 2010: 88380
+- Place 2000: 88380
+- Place 1990: 2902
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 71
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

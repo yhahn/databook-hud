@@ -1,0 +1,85 @@
+# Project: IRVIN TRACT (MTA20080020)
+
+- HUD ID: MTA20080020
+- HUD ID before: 
+- Project: IRVIN TRACT
+- Address: PO BOX 449
+- City: BROWNING
+- State: MT
+- ZIP: 59417
+- ZIP extension: 0449
+- State project ID: 06050
+- Latitude: 48.5287
+- Longitude: -113.2089
+- County FIPS: 30035
+- County from: 2020
+- Tract 2020: 30035940400
+- Tract 2010: 30035940400
+- Tract 2000: 30035940100
+- Tract 1990: 30035976000
+- Place 2020: 54510
+- Place 2010: 54510
+- Place 2000: 22985
+- Place 1990: 0170
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 578083
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 10
+- 3-bedroom units: 24
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

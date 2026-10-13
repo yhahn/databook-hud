@@ -1,0 +1,85 @@
+# Project: ELVEN STED (WIA20110013)
+
+- HUD ID: WIA20110013
+- HUD ID before: 
+- Project: ELVEN STED
+- Address: 631 8TH ST
+- City: STOUGHTON
+- State: WI
+- ZIP: 53589
+- ZIP extension: 
+- State project ID: 5594
+- Latitude: 42.913552
+- Longitude: -89.212886
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025012300
+- Tract 2010: 55025012300
+- Tract 2000: 55025012300
+- Tract 1990: 55025012300
+- Place 2020: 77675
+- Place 2010: 77675
+- Place 2000: 77675
+- Place 1990: 2465
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 738900
+- Units: 33
+- Low-income units: 15
+- Units reported: 33
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 17
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 371257
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

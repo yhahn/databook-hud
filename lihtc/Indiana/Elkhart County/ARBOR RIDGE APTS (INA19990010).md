@@ -1,0 +1,85 @@
+# Project: ARBOR RIDGE APTS (INA19990010)
+
+- HUD ID: INA19990010
+- HUD ID before: 
+- Project: ARBOR RIDGE APTS
+- Address: 413 ARBOR CT
+- City: GOSHEN
+- State: IN
+- ZIP: 46528
+- ZIP extension: 
+- State project ID: IN-98-00600
+- Latitude: 41.601942
+- Longitude: -85.838307
+- County FIPS: 18039
+- County from: 2020
+- Tract 2020: 18039000201
+- Tract 2010: 18039000200
+- Tract 2000: 18039000200
+- Tract 1990: 18039000200
+- Place 2020: 28386
+- Place 2010: 28386
+- Place 2000: 28386
+- Place 1990: 0950
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 371805
+- Units: 75
+- Low-income units: 72
+- Units reported: 75
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 40
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ARBOR RIDGE APTSRP.
+- Record status: Existing, unchanged

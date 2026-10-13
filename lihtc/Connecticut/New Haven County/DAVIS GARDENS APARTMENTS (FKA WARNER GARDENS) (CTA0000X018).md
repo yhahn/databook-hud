@@ -1,0 +1,85 @@
+# Project: DAVIS GARDENS APARTMENTS (FKA WARNER GARDENS) (CTA0000X018)
+
+- HUD ID: CTA0000X018
+- HUD ID before: 
+- Project: DAVIS GARDENS APARTMENTS (FKA WARNER GARDENS)
+- Address: 164 WARNER STREET
+- City: WATERBURY
+- State: CT
+- ZIP: 06704
+- ZIP extension: 2813
+- State project ID: CT-14-061
+- Latitude: 41.565719
+- Longitude: -73.018109
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009351100
+- Tract 2010: 09009351100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 80000
+- Place 2010: 80000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 
+- Low-income units: 
+- Units reported: 
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

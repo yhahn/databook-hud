@@ -1,0 +1,85 @@
+# Project: PASEO DE LOS POETAS (CAA19970345)
+
+- HUD ID: CAA19970345
+- HUD ID before: 
+- Project: PASEO DE LOS POETAS
+- Address: 65143 CALLE PABLO NERUDA
+- City: MECCA
+- State: CA
+- ZIP: 92254
+- ZIP extension: 
+- State project ID: CA-96-198
+- Latitude: 33.575534
+- Longitude: -116.073247
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065045610
+- Tract 2010: 06065045604
+- Tract 2000: 06065045604
+- Tract 1990: 06065045602
+- Place 2020: 46660
+- Place 2010: 46660
+- Place 2000: 46660
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 213443
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

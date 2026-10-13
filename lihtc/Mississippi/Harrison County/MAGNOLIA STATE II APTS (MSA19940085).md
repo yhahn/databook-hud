@@ -1,0 +1,85 @@
+# Project: MAGNOLIA STATE II APTS (MSA19940085)
+
+- HUD ID: MSA19940085
+- HUD ID before: 
+- Project: MAGNOLIA STATE II APTS
+- Address: 1005 W BIRCH DR
+- City: GULFPORT
+- State: MS
+- ZIP: 39503
+- ZIP extension: 
+- State project ID: MS-93-025
+- Latitude: 30.452967
+- Longitude: -89.060162
+- County FIPS: 28047
+- County from: 2020
+- Tract 2020: 28047003215
+- Tract 2010: 28047003207
+- Tract 2000: 28047003203
+- Tract 1990: 28047003201
+- Place 2020: 29700
+- Place 2010: 29700
+- Place 2000: 06220
+- Place 1990: 0943
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

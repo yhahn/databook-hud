@@ -1,0 +1,85 @@
+# Project: BRAXTON MANOR APTS II (WVA19940005)
+
+- HUD ID: WVA19940005
+- HUD ID before: 
+- Project: BRAXTON MANOR APTS II
+- Address: 850 STATE ST
+- City: GASSAWAY
+- State: WV
+- ZIP: 26624
+- ZIP extension: 
+- State project ID: WV-93-131
+- Latitude: 38.671462
+- Longitude: -80.765522
+- County FIPS: 54007
+- County from: 2020
+- Tract 2020: 54007968000
+- Tract 2010: 54007968000
+- Tract 2000: 54007968000
+- Tract 1990: 54007968000
+- Place 2020: 30220
+- Place 2010: 30220
+- Place 2000: 30220
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

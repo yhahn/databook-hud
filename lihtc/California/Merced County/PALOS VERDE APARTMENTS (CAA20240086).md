@@ -1,0 +1,85 @@
+# Project: PALOS VERDE APARTMENTS (CAA20240086)
+
+- HUD ID: CAA20240086
+- HUD ID before: 
+- Project: PALOS VERDE APARTMENTS
+- Address: 21797 SOUTH REYNOLDS AVE.
+- City: DOS PALOS
+- State: CA
+- ZIP: 93620
+- ZIP extension: 
+- State project ID: CA-2022-076
+- Latitude: 36.9731
+- Longitude: -120.644925
+- County FIPS: 06047
+- County from: 2020
+- Tract 2020: 06047002403
+- Tract 2010: 06047002402
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 72954
+- Place 2010: 72954
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 451838
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

@@ -1,0 +1,85 @@
+# Project: LINCOLN COURT FAMILY PHASE III (OHA20020105)
+
+- HUD ID: OHA20020105
+- HUD ID before: 
+- Project: LINCOLN COURT FAMILY PHASE III
+- Address: 1202 LINN ST
+- City: CINCINNATI
+- State: OH
+- ZIP: 45203
+- ZIP extension: 
+- State project ID: OH-00-0008
+- Latitude: 39.107967
+- Longitude: -84.527622
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061026400
+- Tract 2010: 39061026400
+- Tract 2000: 39061000302
+- Tract 1990: 39061000302
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 310000
+- Units: 58
+- Low-income units: 40
+- Units reported: 58
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 32
+- 3-bedroom units: 19
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 301000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LINCOLN COURT III.
+- Record status: Existing, unchanged

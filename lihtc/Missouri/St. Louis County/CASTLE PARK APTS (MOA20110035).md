@@ -1,0 +1,85 @@
+# Project: CASTLE PARK APTS (MOA20110035)
+
+- HUD ID: MOA20110035
+- HUD ID before: 
+- Project: CASTLE PARK APTS
+- Address: 1600 CASTLE PARK DR
+- City: ST LOUIS
+- State: MO
+- ZIP: 
+- ZIP extension: 
+- State project ID: 09-430
+- Latitude: 38.693237
+- Longitude: -90.306516
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189213702
+- Tract 2010: 29189213700
+- Tract 2000: 29189213700
+- Tract 1990: 29189213700
+- Place 2020: 52796
+- Place 2010: 52796
+- Place 2000: 04240
+- Place 1990: 0295
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 849371
+- Units: 209
+- Low-income units: 209
+- Units reported: 209
+- Low-income reported: 209
+- Efficiencies: 0
+- 1-bedroom units: 148
+- 2-bedroom units: 61
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 7235700
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA2011523.
+- Record status: Existing, unchanged

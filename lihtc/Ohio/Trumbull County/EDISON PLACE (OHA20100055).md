@@ -1,0 +1,85 @@
+# Project: EDISON PLACE (OHA20100055)
+
+- HUD ID: OHA20100055
+- HUD ID before: 
+- Project: EDISON PLACE
+- Address: 36 W CHURCH ST
+- City: NILES
+- State: OH
+- ZIP: 44446
+- ZIP extension: 
+- State project ID: 080105
+- Latitude: 41.181798
+- Longitude: -80.766002
+- County FIPS: 39155
+- County from: 2020
+- Tract 2020: 39155932802
+- Tract 2010: 39155932802
+- Tract 2000: 39155932800
+- Tract 1990: 39155932800
+- Place 2020: 55916
+- Place 2010: 55916
+- Place 2000: 55916
+- Place 1990: 3090
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 50
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 750000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 562518
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NILES SENIOR APTS.
+- Record status: Existing, unchanged

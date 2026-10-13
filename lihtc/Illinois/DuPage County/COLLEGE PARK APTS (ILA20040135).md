@@ -1,0 +1,85 @@
+# Project: COLLEGE PARK APTS (ILA20040135)
+
+- HUD ID: ILA20040135
+- HUD ID before: 
+- Project: COLLEGE PARK APTS
+- Address: 902 W COLLEGE BLVD
+- City: ADDISON
+- State: IL
+- ZIP: 60101
+- ZIP extension: 
+- State project ID: 146303
+- Latitude: 41.943649
+- Longitude: -88.043516
+- County FIPS: 17043
+- County from: 2020
+- Tract 2020: 17043840907
+- Tract 2010: 17043840907
+- Tract 2000: 17043840902
+- Tract 1990: 17043840902
+- Place 2020: 00243
+- Place 2010: 00243
+- Place 2000: 00243
+- Place 1990: 0015
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 686118
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 129
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 80
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA2004015. AKA BRADFORD COURT APTS.
+- Record status: Existing, unchanged

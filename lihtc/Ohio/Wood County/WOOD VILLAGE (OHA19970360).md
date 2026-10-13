@@ -1,0 +1,85 @@
+# Project: WOOD VILLAGE (OHA19970360)
+
+- HUD ID: OHA19970360
+- HUD ID before: 
+- Project: WOOD VILLAGE
+- Address: 603 S POE RD
+- City: NORTH BALTIMORE
+- State: OH
+- ZIP: 45872
+- ZIP extension: 
+- State project ID: 960059
+- Latitude: 41.17569
+- Longitude: -83.663971
+- County FIPS: 39173
+- County from: 2020
+- Tract 2020: 39173022400
+- Tract 2010: 39173022400
+- Tract 2000: 39173022400
+- Tract 1990: 39173022400
+- Place 2020: 56154
+- Place 2010: 56154
+- Place 2000: 56154
+- Place 1990: 3095
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 44459
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

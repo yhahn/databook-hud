@@ -1,0 +1,85 @@
+# Project: GREYSTONE APARTMENTS OF MCDONOUGH (GAA20100085)
+
+- HUD ID: GAA20100085
+- HUD ID before: 
+- Project: GREYSTONE APARTMENTS OF MCDONOUGH
+- Address: 100 GREYSTONE DR
+- City: MCDONOUGH
+- State: GA
+- ZIP: 30252
+- ZIP extension: 8615
+- State project ID: GA-98-003
+- Latitude: 33.430731
+- Longitude: -84.132331
+- County FIPS: 13151
+- County from: 2020
+- Tract 2020: 13151070324
+- Tract 2010: 13151070304
+- Tract 2000: 13151070304
+- Tract 1990: 13151070302
+- Place 2020: 48624
+- Place 2010: 48624
+- Place 2000: 08340
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2000085, GAA2000025.
+- Record status: Existing, unchanged

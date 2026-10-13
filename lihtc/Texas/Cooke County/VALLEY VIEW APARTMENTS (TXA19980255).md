@@ -1,0 +1,85 @@
+# Project: VALLEY VIEW APARTMENTS (TXA19980255)
+
+- HUD ID: TXA19980255
+- HUD ID before: 
+- Project: VALLEY VIEW APARTMENTS
+- Address: 513 N PECAN CREEK TRL
+- City: VALLEY VIEW
+- State: TX
+- ZIP: 76272
+- ZIP extension: 
+- State project ID: TX1728
+- Latitude: 33.490756
+- Longitude: -97.153964
+- County FIPS: 48097
+- County from: 2020
+- Tract 2020: 48097000900
+- Tract 2010: 48097000900
+- Tract 2000: 48097990900
+- Tract 1990: 48097990900
+- Place 2020: 74756
+- Place 2010: 74756
+- Place 2000: 27984
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA1989555.
+- Record status: Existing, unchanged

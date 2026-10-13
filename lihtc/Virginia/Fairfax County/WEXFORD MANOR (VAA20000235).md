@@ -1,0 +1,85 @@
+# Project: WEXFORD MANOR (VAA20000235)
+
+- HUD ID: VAA20000235
+- HUD ID before: 
+- Project: WEXFORD MANOR
+- Address: 2798 HOLLYWOOD RD
+- City: FALLS CHURCH
+- State: VA
+- ZIP: 22043
+- ZIP extension: 
+- State project ID: 6282
+- Latitude: 38.878009
+- Longitude: -77.206218
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059471402
+- Tract 2010: 51059471402
+- Tract 2000: 51059471400
+- Tract 1990: 51059471400
+- Place 2020: 39448
+- Place 2010: 39448
+- Place 2000: 39448
+- Place 1990: 0649
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 128223
+- Units: 74
+- Low-income units: 74
+- Units reported: 74
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

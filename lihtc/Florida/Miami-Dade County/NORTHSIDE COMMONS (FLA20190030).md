@@ -1,0 +1,85 @@
+# Project: NORTHSIDE COMMONS (FLA20190030)
+
+- HUD ID: FLA20190030
+- HUD ID before: 
+- Project: NORTHSIDE COMMONS
+- Address: 8301 NW 27TH AVENUE
+- City: MIAMI
+- State: FL
+- ZIP: 33147
+- ZIP extension: 
+- State project ID: 2994
+- Latitude: 25.849794
+- Longitude: -80.241626
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086001003
+- Tract 2010: 12086001003
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76487
+- Place 2010: 76487
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 2110000
+- Units: 80
+- Low-income units: 72
+- Units reported: 80
+- Low-income reported: 72
+- Efficiencies: 29
+- 1-bedroom units: 46
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

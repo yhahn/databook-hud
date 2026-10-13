@@ -1,0 +1,85 @@
+# Project: ALICE PLACE AT NORWALK (IAA20211001)
+
+- HUD ID: IAA20211001
+- HUD ID before: 
+- Project: ALICE PLACE AT NORWALK
+- Address: 9310 MARKETPLACE DRIVE
+- City: NORWALK
+- State: IA
+- ZIP: 50211
+- ZIP extension: 1910
+- State project ID: 19-37
+- Latitude: 41.4705
+- Longitude: -93.6836
+- County FIPS: 19181
+- County from: 2020
+- Tract 2020: 19181020202
+- Tract 2010: 19181020200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 57675
+- Place 2010: 57675
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 839000
+- Units: 59
+- Low-income units: 53
+- Units reported: 59
+- Low-income reported: 53
+- Efficiencies: 4
+- 1-bedroom units: 0
+- 2-bedroom units: 55
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

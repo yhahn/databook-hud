@@ -1,0 +1,85 @@
+# Project: LITTLE LAKE VILLAGE APTS (CAA20030295)
+
+- HUD ID: CAA20030295
+- HUD ID before: 
+- Project: LITTLE LAKE VILLAGE APTS
+- Address: 10902 FULTON WELLS AVE
+- City: SANTA FE SPRINGS
+- State: CA
+- ZIP: 90670
+- ZIP extension: 
+- State project ID: CA-02-840
+- Latitude: 33.93327
+- Longitude: -118.075994
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037504200
+- Tract 2010: 06037502802
+- Tract 2000: 06037502800
+- Tract 1990: 06037502800
+- Place 2020: 69154
+- Place 2010: 69154
+- Place 2000: 69154
+- Place 1990: 2590
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 537500
+- Units: 144
+- Low-income units: 142
+- Units reported: 144
+- Low-income reported: 142
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

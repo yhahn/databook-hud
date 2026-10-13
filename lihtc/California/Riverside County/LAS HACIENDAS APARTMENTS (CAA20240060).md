@@ -1,0 +1,85 @@
+# Project: LAS HACIENDAS APARTMENTS (CAA20240060)
+
+- HUD ID: CAA20240060
+- HUD ID before: 
+- Project: LAS HACIENDAS APARTMENTS
+- Address: 28101, 28111, 28121 COLORADO AVENUE
+- City: TEMECULA
+- State: CA
+- ZIP: 92590
+- ZIP extension: 
+- State project ID: CA-2021-001
+- Latitude: 33.4939
+- Longitude: -117.1952
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065051200
+- Tract 2010: 06065051200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 78120
+- Place 2010: 78120
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2500000
+- Units: 77
+- Low-income units: 76
+- Units reported: 77
+- Low-income reported: 76
+- Efficiencies: 
+- 1-bedroom units: 15
+- 2-bedroom units: 39
+- 3-bedroom units: 23
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Veterans
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

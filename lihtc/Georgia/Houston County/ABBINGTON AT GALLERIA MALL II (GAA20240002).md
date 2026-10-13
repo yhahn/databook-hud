@@ -1,0 +1,85 @@
+# Project: ABBINGTON AT GALLERIA MALL II (GAA20240002)
+
+- HUD ID: GAA20240002
+- HUD ID before: 
+- Project: ABBINGTON AT GALLERIA MALL II
+- Address: 2922 WATSON BOULEVARD (NEAREST ADDRESS)
+- City: CENTERVILLE
+- State: GA
+- ZIP: 31028
+- ZIP extension: 0000
+- State project ID: 2021-048
+- Latitude: 32.618443
+- Longitude: -83.686737
+- County FIPS: 13153
+- County from: 2020
+- Tract 2020: 13153020112
+- Tract 2010: 13153020109
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14920
+- Place 2010: 80508
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 1000000
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 38
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

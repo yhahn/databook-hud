@@ -1,0 +1,85 @@
+# Project: LAFAYETTE APTS (MDA19920901)
+
+- HUD ID: MDA19920901
+- HUD ID before: 
+- Project: LAFAYETTE APTS
+- Address: 515 WARREN ST
+- City: HAVRE DE GRACE
+- State: MD
+- ZIP: 21078
+- ZIP extension: 
+- State project ID: MD89-25
+- Latitude: 39.55195
+- Longitude: -76.092359
+- County FIPS: 24025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24025306100
+- Tract 2000: 24025306100
+- Tract 1990: 24025306100
+- Place 2020: 
+- Place 2010: 37600
+- Place 2000: 37600
+- Place 1990: 0475
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA1991020.
+- Record status: Existing, unchanged

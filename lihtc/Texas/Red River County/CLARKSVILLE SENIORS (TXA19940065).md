@@ -1,0 +1,85 @@
+# Project: CLARKSVILLE SENIORS (TXA19940065)
+
+- HUD ID: TXA19940065
+- HUD ID before: 
+- Project: CLARKSVILLE SENIORS
+- Address: 1805 W COLLEGE AVE
+- City: CLARKSVILLE
+- State: TX
+- ZIP: 75426
+- ZIP extension: 
+- State project ID: TX0970
+- Latitude: 33.604777
+- Longitude: -95.066713
+- County FIPS: 48387
+- County from: 2020
+- Tract 2020: 48387950501
+- Tract 2010: 48387950500
+- Tract 2000: 48387950500
+- Tract 1990: 48387950500
+- Place 2020: 15160
+- Place 2010: 15160
+- Place 2000: 15160
+- Place 1990: 0840
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIVERSIDE (TARPON SPRINGS) (FLA20020195)
+
+- HUD ID: FLA20020195
+- HUD ID before: 
+- Project: RIVERSIDE (TARPON SPRINGS)
+- Address: 1589 STARLIGHT CV
+- City: TARPON SPRINGS
+- State: FL
+- ZIP: 34689
+- ZIP extension: 
+- State project ID: 706
+- Latitude: 28.166646
+- Longitude: -82.741942
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103027308
+- Tract 2010: 12103027308
+- Tract 2000: 12103027308
+- Tract 1990: 12103027308
+- Place 2020: 71150
+- Place 2010: 71150
+- Place 2000: 19206
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 304
+- Low-income units: 258
+- Units reported: 304
+- Low-income reported: 258
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 128
+- 3-bedroom units: 72
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

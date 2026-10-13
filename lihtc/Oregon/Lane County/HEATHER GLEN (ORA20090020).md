@@ -1,0 +1,85 @@
+# Project: HEATHER GLEN (ORA20090020)
+
+- HUD ID: ORA20090020
+- HUD ID before: 
+- Project: HEATHER GLEN
+- Address: 87962 TERRITORIAL RD
+- City: VENETA
+- State: OR
+- ZIP: 97487
+- ZIP extension: 
+- State project ID: OR08-571
+- Latitude: 44.045056
+- Longitude: -123.351878
+- County FIPS: 41039
+- County from: 2020
+- Tract 2020: 41039000904
+- Tract 2010: 41039000904
+- Tract 2000: 41039000904
+- Tract 1990: 41039000901
+- Place 2020: 77050
+- Place 2010: 77050
+- Place 2000: 77050
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 398000
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 14
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 575000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HERITAGE VILLAS (APALACHICOLA) (FLA19920055)
+
+- HUD ID: FLA19920055
+- HUD ID before: 
+- Project: HERITAGE VILLAS (APALACHICOLA)
+- Address: 398 24TH AVE
+- City: APALACHICOLA
+- State: FL
+- ZIP: 32320
+- ZIP extension: 
+- State project ID: 348
+- Latitude: 29.728813
+- Longitude: -85.003256
+- County FIPS: 12037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12037970302
+- Tract 2000: 12037970300
+- Tract 1990: 12037970300
+- Place 2020: 
+- Place 2010: 01625
+- Place 2000: 01625
+- Place 1990: 0030
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 14
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

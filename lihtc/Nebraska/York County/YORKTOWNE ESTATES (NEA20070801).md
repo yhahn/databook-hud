@@ -1,0 +1,85 @@
+# Project: YORKTOWNE ESTATES (NEA20070801)
+
+- HUD ID: NEA20070801
+- HUD ID before: 
+- Project: YORKTOWNE ESTATES
+- Address: 2020 E NINTH ST
+- City: YORK
+- State: NE
+- ZIP: 68467
+- ZIP extension: 
+- State project ID: 7-0657
+- Latitude: 40.869771
+- Longitude: -97.569755
+- County FIPS: 31185
+- County from: 2020
+- Tract 2020: 31185969700
+- Tract 2010: 31185969700
+- Tract 2000: 31185989700
+- Tract 1990: 31185989700
+- Place 2020: 54045
+- Place 2010: 54045
+- Place 2000: 54045
+- Place 1990: 2695
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 199803
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

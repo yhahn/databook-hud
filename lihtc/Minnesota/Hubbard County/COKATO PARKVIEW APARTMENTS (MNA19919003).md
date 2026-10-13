@@ -1,0 +1,85 @@
+# Project: COKATO PARKVIEW APARTMENTS (MNA19919003)
+
+- HUD ID: MNA19919003
+- HUD ID before: 
+- Project: COKATO PARKVIEW APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: COKATO
+- State: MN
+- ZIP: 56470
+- ZIP extension: 
+- State project ID: D0317
+- Latitude: 46.9168
+- Longitude: -95.0582
+- County FIPS: 27057
+- County from: 2020
+- Tract 2020: 27057070600
+- Tract 2010: 27057070600
+- Tract 2000: 27171101300
+- Tract 1990: 27171101300
+- Place 2020: 49768
+- Place 2010: 49768
+- Place 2000: 12430
+- Place 1990: 0770
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

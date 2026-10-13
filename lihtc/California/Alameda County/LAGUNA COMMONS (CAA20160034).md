@@ -1,0 +1,85 @@
+# Project: LAGUNA COMMONS (CAA20160034)
+
+- HUD ID: CAA20160034
+- HUD ID before: 
+- Project: LAGUNA COMMONS
+- Address: 41152 FREMONT BOULEVARD
+- City: FREMONT
+- State: CA
+- ZIP: 94538
+- ZIP extension: 
+- State project ID: CA-14-139
+- Latitude: 37.530866
+- Longitude: -121.958525
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001442301
+- Tract 2010: 06001442301
+- Tract 2000: 06001442300
+- Tract 1990: 
+- Place 2020: 26000
+- Place 2010: 26000
+- Place 2000: 26000
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 2135774
+- Units: 64
+- Low-income units: 63
+- Units reported: 64
+- Low-income reported: 63
+- Efficiencies: 20
+- 1-bedroom units: 21
+- 2-bedroom units: 12
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 45
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 387000
+- CDBG: Yes
+- CDBG amount: 269375
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SLOAN HOUSE (NYA19910267)
+
+- HUD ID: NYA19910267
+- HUD ID before: 
+- Project: SLOAN HOUSE
+- Address: 330 W 34TH ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10001
+- ZIP extension: 
+- State project ID: NY-92-0674
+- Latitude: 40.752669
+- Longitude: -73.995058
+- County FIPS: 36061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36061010300
+- Tract 2000: 36061010300
+- Tract 1990: 36061010300
+- Place 2020: 
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 2123597
+- Units: 638
+- Low-income units: 638
+- Units reported: 638
+- Low-income reported: 638
+- Efficiencies: 638
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

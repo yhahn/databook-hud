@@ -1,0 +1,85 @@
+# Project: STERLING VILLAGE (CAA20060525)
+
+- HUD ID: CAA20060525
+- HUD ID before: 
+- Project: STERLING VILLAGE
+- Address: 7360 STERLING AVE
+- City: SAN BERNARDINO
+- State: CA
+- ZIP: 92410
+- ZIP extension: 
+- State project ID: CA-05-917
+- Latitude: 34.120524
+- Longitude: -117.24385
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071006402
+- Tract 2010: 06071006402
+- Tract 2000: 06071006402
+- Tract 1990: 06071006400
+- Place 2020: 33588
+- Place 2010: 33588
+- Place 2000: 33588
+- Place 1990: 1260
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 207516
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 40
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

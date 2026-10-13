@@ -1,0 +1,85 @@
+# Project: MORRIS MANOR (SCA20040085)
+
+- HUD ID: SCA20040085
+- HUD ID before: 
+- Project: MORRIS MANOR
+- Address: 600 12TH AVE
+- City: AYNOR
+- State: SC
+- ZIP: 29511
+- ZIP extension: 
+- State project ID: SC-02-014
+- Latitude: 33.997789
+- Longitude: -79.19373
+- County FIPS: 45051
+- County from: 2020
+- Tract 2020: 45051080102
+- Tract 2010: 45051080102
+- Tract 2000: 45051080100
+- Tract 1990: 45051080100
+- Place 2020: 03430
+- Place 2010: 03430
+- Place 2000: 03430
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 142144
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 400000
+- CDBG: Yes
+- CDBG amount: 325000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

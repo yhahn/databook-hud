@@ -1,0 +1,85 @@
+# Project: SOUNDVIEW TOWNHOMES (VAA20220026)
+
+- HUD ID: VAA20220026
+- HUD ID before: 
+- Project: SOUNDVIEW TOWNHOMES
+- Address: 827 41ST ST
+- City: NEWPORT NEWS
+- State: VA
+- ZIP: 23607
+- ZIP extension: 
+- State project ID: 9812
+- Latitude: 36.99438
+- Longitude: -76.421074
+- County FIPS: 51700
+- County from: 2020
+- Tract 2020: 51700030800
+- Tract 2010: 51700030800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 790896
+- Units: 250
+- Low-income units: 250
+- Units reported: 250
+- Low-income reported: 250
+- Efficiencies: 
+- 1-bedroom units: 48
+- 2-bedroom units: 151
+- 3-bedroom units: 31
+- 4-bedroom units: 20
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 150
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

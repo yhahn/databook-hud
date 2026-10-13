@@ -1,0 +1,85 @@
+# Project: NORTHWOOD FOREST APTS (TXA19960115)
+
+- HUD ID: TXA19960115
+- HUD ID before: 
+- Project: NORTHWOOD FOREST APTS
+- Address: 5005 ALDINE MAIL RTE
+- City: HOUSTON
+- State: TX
+- ZIP: 77039
+- ZIP extension: 
+- State project ID: TX-94-080
+- Latitude: 29.902867
+- Longitude: -95.317272
+- County FIPS: 48201
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48201223001
+- Tract 2000: 48201223000
+- Tract 1990: 48201024002
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 326
+- Low-income units: 326
+- Units reported: 326
+- Low-income reported: 326
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 162
+- 3-bedroom units: 63
+- 4-bedroom units: 83
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

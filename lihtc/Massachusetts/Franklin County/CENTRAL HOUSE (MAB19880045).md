@@ -1,0 +1,85 @@
+# Project: CENTRAL HOUSE (MAB19880045)
+
+- HUD ID: MAB19880045
+- HUD ID before: 
+- Project: CENTRAL HOUSE
+- Address: 8 MILES ST
+- City: GREENFIELD
+- State: MA
+- ZIP: 01301
+- ZIP extension: 
+- State project ID: 10177
+- Latitude: 42.587428
+- Longitude: -72.60288
+- County FIPS: 25011
+- County from: 2020
+- Tract 2020: 25011041302
+- Tract 2010: 25011041300
+- Tract 2000: 25011041300
+- Tract 1990: 25011041300
+- Place 2020: 27060
+- Place 2010: 27100
+- Place 2000: 27060
+- Place 1990: 1520
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

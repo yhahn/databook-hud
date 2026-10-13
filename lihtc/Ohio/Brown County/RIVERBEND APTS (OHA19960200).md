@@ -1,0 +1,85 @@
+# Project: RIVERBEND APTS (OHA19960200)
+
+- HUD ID: OHA19960200
+- HUD ID before: 
+- Project: RIVERBEND APTS
+- Address: 1890 VISTA CIR
+- City: ABERDEEN
+- State: OH
+- ZIP: 45101
+- ZIP extension: 
+- State project ID: OH-95-0034
+- Latitude: 38.674354
+- Longitude: -83.770651
+- County FIPS: 39015
+- County from: 2020
+- Tract 2020: 39015951600
+- Tract 2010: 39015951600
+- Tract 2000: 39015951600
+- Tract 1990: 39015951600
+- Place 2020: 00142
+- Place 2010: 00142
+- Place 2000: 00142
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 42414
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

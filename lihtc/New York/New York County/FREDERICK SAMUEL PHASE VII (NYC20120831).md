@@ -1,0 +1,85 @@
+# Project: FREDERICK SAMUEL PHASE VII (NYC20120831)
+
+- HUD ID: NYC20120831
+- HUD ID before: 
+- Project: FREDERICK SAMUEL PHASE VII
+- Address: 649 MALCOLM X BLVD
+- City: NEW YORK
+- State: NY
+- ZIP: 10037
+- ZIP extension: 
+- State project ID: 1102091
+- Latitude: 40.818937
+- Longitude: -73.937654
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061023200
+- Tract 2010: 36061023200
+- Tract 2000: 36061023200
+- Tract 1990: 36061023200
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 50827
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 17
+- 1-bedroom units: 58
+- 2-bedroom units: 73
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2010265.
+- Record status: Existing, unchanged

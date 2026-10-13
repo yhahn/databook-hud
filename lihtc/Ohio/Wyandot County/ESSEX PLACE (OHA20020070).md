@@ -1,0 +1,85 @@
+# Project: ESSEX PLACE (OHA20020070)
+
+- HUD ID: OHA20020070
+- HUD ID before: 
+- Project: ESSEX PLACE
+- Address: 135 ESSEX WAY
+- City: UPPER SANDUSKY
+- State: OH
+- ZIP: 43351
+- ZIP extension: 
+- State project ID: 000062
+- Latitude: 40.837132
+- Longitude: -83.224673
+- County FIPS: 39175
+- County from: 2020
+- Tract 2020: 39175938500
+- Tract 2010: 39175938500
+- Tract 2000: 39175988400
+- Tract 1990: 39175988400
+- Place 2020: 79044
+- Place 2010: 79044
+- Place 2000: 79044
+- Place 1990: 4360
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 191907
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 17
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 451000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SEMO APTS I (MOA19930275)
+
+- HUD ID: MOA19930275
+- HUD ID before: 
+- Project: SEMO APTS I
+- Address: 308 E CT ST
+- City: BLOOMFIELD
+- State: MO
+- ZIP: 63825
+- ZIP extension: 
+- State project ID: 93015
+- Latitude: 36.88439
+- Longitude: -89.926506
+- County FIPS: 29207
+- County from: 2020
+- Tract 2020: 29207470300
+- Tract 2010: 29207470300
+- Tract 2000: 29207970300
+- Tract 1990: 29207970300
+- Place 2020: 06382
+- Place 2010: 06382
+- Place 2000: 06382
+- Place 1990: 0415
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

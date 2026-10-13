@@ -1,0 +1,85 @@
+# Project: TRES PALMAS (TXA20100110)
+
+- HUD ID: TXA20100110
+- HUD ID before: 
+- Project: TRES PALMAS
+- Address: 4470 RICH BEEM
+- City: EL PASO
+- State: TX
+- ZIP: 79938
+- ZIP extension: 
+- State project ID: TX4621
+- Latitude: 31.81487
+- Longitude: -106.24757
+- County FIPS: 48141
+- County from: 2020
+- Tract 2020: 48141010358
+- Tract 2010: 48141010339
+- Tract 2000: 48141010318
+- Tract 1990: 48141010308
+- Place 2020: 24000
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 1952
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 172
+- Low-income units: 172
+- Units reported: 172
+- Low-income reported: 172
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 68
+- 3-bedroom units: 72
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PALMAS APTS.
+- Record status: Existing, unchanged

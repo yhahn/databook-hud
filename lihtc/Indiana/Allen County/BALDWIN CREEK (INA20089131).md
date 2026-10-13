@@ -1,0 +1,85 @@
+# Project: BALDWIN CREEK (INA20089131)
+
+- HUD ID: INA20089131
+- HUD ID before: 
+- Project: BALDWIN CREEK
+- Address: 2020 HOBSON RD
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46805
+- ZIP extension: 
+- State project ID: IN-08-04000
+- Latitude: 41.094769
+- Longitude: -85.098201
+- County FIPS: 18003
+- County from: 2020
+- Tract 2020: 18003003500
+- Tract 2010: 18003003500
+- Tract 2000: 18003003500
+- Tract 1990: 18003003500
+- Place 2020: 25000
+- Place 2010: 25000
+- Place 2000: 25000
+- Place 1990: 0825
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 159
+- Units reported: 168
+- Low-income reported: 159
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 64
+- 4-bedroom units: 16
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

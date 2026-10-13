@@ -1,0 +1,85 @@
+# Project: WEST POINTE VILLAS (FLA20010270)
+
+- HUD ID: FLA20010270
+- HUD ID before: 
+- Project: WEST POINTE VILLAS
+- Address: 1207 W POINTE VILLAS BLVD
+- City: WINTER GARDEN
+- State: FL
+- ZIP: 34787
+- ZIP extension: 
+- State project ID: 943
+- Latitude: 28.550201
+- Longitude: -81.604298
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095017302
+- Tract 2010: 12095017300
+- Tract 2000: 12095017300
+- Tract 1990: 12095017300
+- Place 2020: 99999
+- Place 2010: 78250
+- Place 2000: 78250
+- Place 1990: 2280
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 288
+- Low-income units: 286
+- Units reported: 288
+- Low-income reported: 286
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 200
+- 3-bedroom units: 72
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

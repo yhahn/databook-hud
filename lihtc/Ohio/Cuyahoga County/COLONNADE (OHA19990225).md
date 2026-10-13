@@ -1,0 +1,85 @@
+# Project: COLONNADE (OHA19990225)
+
+- HUD ID: OHA19990225
+- HUD ID before: 
+- Project: COLONNADE
+- Address: 15409 EUCLID AVE
+- City: EAST CLEVELAND
+- State: OH
+- ZIP: 44112
+- ZIP extension: 
+- State project ID: OH-97-0093
+- Latitude: 41.538314
+- Longitude: -81.573787
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035150100
+- Tract 2010: 39035150100
+- Tract 2000: 39035150100
+- Tract 1990: 39035150100
+- Place 2020: 23380
+- Place 2010: 23380
+- Place 2000: 23380
+- Place 1990: 1225
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 247112
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 2
+- 1-bedroom units: 90
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SOUTH END REVITALIZATION (NYA20090060)
+
+- HUD ID: NYA20090060
+- HUD ID before: 
+- Project: SOUTH END REVITALIZATION
+- Address: 21 THIRD AVE
+- City: ALBANY
+- State: NY
+- ZIP: 12202
+- ZIP extension: 
+- State project ID: 20060092
+- Latitude: 42.638733
+- Longitude: -73.759794
+- County FIPS: 36001
+- County from: 2020
+- Tract 2020: 36001002500
+- Tract 2010: 36001002500
+- Tract 2000: 36001002500
+- Tract 1990: 36001002500
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0030
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 872625
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 10
+- 3-bedroom units: 5
+- 4-bedroom units: 3
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

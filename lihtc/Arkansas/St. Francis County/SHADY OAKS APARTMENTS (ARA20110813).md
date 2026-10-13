@@ -1,0 +1,85 @@
+# Project: SHADY OAKS APARTMENTS (ARA20110813)
+
+- HUD ID: ARA20110813
+- HUD ID before: 
+- Project: SHADY OAKS APARTMENTS
+- Address: 130 W COOK ST
+- City: FORREST CITY
+- State: AR
+- ZIP: 72335
+- ZIP extension: 
+- State project ID: AR-87-04-001
+- Latitude: 35.014251
+- Longitude: -90.790191
+- County FIPS: 05123
+- County from: 2020
+- Tract 2020: 05123960400
+- Tract 2010: 05123960400
+- Tract 2000: 05123960400
+- Tract 1990: 05123960400
+- Place 2020: 24430
+- Place 2010: 24430
+- Place 2000: 10450
+- Place 1990: 0695
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 44
+- Low-income units: 43
+- Units reported: 44
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1987030. AKA PDC THIRTY FOUR.
+- Record status: Existing, unchanged

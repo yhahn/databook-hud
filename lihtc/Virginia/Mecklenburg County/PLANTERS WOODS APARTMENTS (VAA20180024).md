@@ -1,0 +1,85 @@
+# Project: PLANTERS WOODS APARTMENTS (VAA20180024)
+
+- HUD ID: VAA20180024
+- HUD ID before: 
+- Project: PLANTERS WOODS APARTMENTS
+- Address: 517 AND 601 EAST FERRELL STREET
+- City: SOUTH HILL
+- State: VA
+- ZIP: 23970
+- ZIP extension: 
+- State project ID: 9727
+- Latitude: 36.7386
+- Longitude: -78.1458
+- County FIPS: 51117
+- County from: 2020
+- Tract 2020: 51117930202
+- Tract 2010: 51117930200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 73904
+- Place 2010: 73904
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 370461
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 
+- 1-bedroom units: 10
+- 2-bedroom units: 36
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

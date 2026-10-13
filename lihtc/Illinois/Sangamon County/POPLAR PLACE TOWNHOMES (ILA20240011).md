@@ -1,0 +1,85 @@
+# Project: POPLAR PLACE TOWNHOMES (ILA20240011)
+
+- HUD ID: ILA20240011
+- HUD ID before: 
+- Project: POPLAR PLACE TOWNHOMES
+- Address: 902 SOUTH 25TH STREET
+- City: SPRINGFIELD
+- State: IL
+- ZIP: 62703
+- ZIP extension: 
+- State project ID: 1207323
+- Latitude: 39.792354
+- Longitude: -89.620066
+- County FIPS: 17167
+- County from: 2020
+- Tract 2020: 17167001600
+- Tract 2010: 17167001600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 72000
+- Place 2010: 72000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 1576202
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 50
+- 3-bedroom units: 39
+- 4-bedroom units: 10
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: No
+- Affordability years: 30
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: Yes
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

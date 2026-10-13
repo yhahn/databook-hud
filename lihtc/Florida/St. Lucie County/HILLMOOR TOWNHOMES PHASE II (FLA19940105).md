@@ -1,0 +1,85 @@
+# Project: HILLMOOR TOWNHOMES PHASE II (FLA19940105)
+
+- HUD ID: FLA19940105
+- HUD ID before: 
+- Project: HILLMOOR TOWNHOMES PHASE II
+- Address: 1900 SE HILLMOOR DR
+- City: PORT ST LUCIE
+- State: FL
+- ZIP: 34952
+- ZIP extension: 
+- State project ID: 363
+- Latitude: 27.283882
+- Longitude: -80.290938
+- County FIPS: 12111
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12111381802
+- Tract 2000: 12111001802
+- Tract 1990: 12111001802
+- Place 2020: 
+- Place 2010: 58715
+- Place 2000: 58715
+- Place 1990: 1807
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COLUMBIA VIEW APTS (ORA19990040)
+
+- HUD ID: ORA19990040
+- HUD ID before: 
+- Project: COLUMBIA VIEW APTS
+- Address: 1695 OAK ST
+- City: HOOD RIVER
+- State: OR
+- ZIP: 97031
+- ZIP extension: 
+- State project ID: X001-287
+- Latitude: 45.708942
+- Longitude: -121.527242
+- County FIPS: 41027
+- County from: 2020
+- Tract 2020: 41027950302
+- Tract 2010: 41027950300
+- Tract 2000: 41027950300
+- Tract 1990: 41027950300
+- Place 2020: 34900
+- Place 2010: 34900
+- Place 2000: 34900
+- Place 1990: 0530
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 89000
+- Units: 48
+- Low-income units: 40
+- Units reported: 48
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 26
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 350000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

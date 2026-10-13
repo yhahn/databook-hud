@@ -1,0 +1,85 @@
+# Project: BIRCHWOOD HIGHLANDS III PHASE 3A (WIA20181006)
+
+- HUD ID: WIA20181006
+- HUD ID before: 
+- Project: BIRCHWOOD HIGHLANDS III PHASE 3A
+- Address: 3605 CROSS POINTE BLVD
+- City: WESTON
+- State: WI
+- ZIP: 54476
+- ZIP extension: 
+- State project ID: 6293
+- Latitude: 44.885221
+- Longitude: -89.579
+- County FIPS: 55073
+- County from: 2020
+- Tract 2020: 55073001106
+- Tract 2010: 55073001102
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 86025
+- Place 2010: 86025
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 35235
+- Units: 31
+- Low-income units: 4
+- Units reported: 31
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

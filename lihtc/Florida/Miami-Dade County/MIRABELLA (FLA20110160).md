@@ -1,0 +1,85 @@
+# Project: MIRABELLA (FLA20110160)
+
+- HUD ID: FLA20110160
+- HUD ID before: 
+- Project: MIRABELLA
+- Address: 12801 SW 252ND ST
+- City: PRINCETON
+- State: FL
+- ZIP: 33032
+- ZIP extension: 
+- State project ID: 2039
+- Latitude: 25.532787
+- Longitude: -80.398431
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010710
+- Tract 2010: 12086010703
+- Tract 2000: 12086010703
+- Tract 1990: 12025010500
+- Place 2020: 58975
+- Place 2010: 58975
+- Place 2000: 58975
+- Place 1990: 0758
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 2561000
+- Units: 204
+- Low-income units: 204
+- Units reported: 204
+- Low-income reported: 204
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 96
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 155900
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011510.
+- Record status: Existing, unchanged

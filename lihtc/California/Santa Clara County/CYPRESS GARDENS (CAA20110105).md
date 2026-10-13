@@ -1,0 +1,85 @@
+# Project: CYPRESS GARDENS (CAA20110105)
+
+- HUD ID: CAA20110105
+- HUD ID before: 
+- Project: CYPRESS GARDENS
+- Address: 3555 JUDRO WAY
+- City: SAN JOSE
+- State: CA
+- ZIP: 95117
+- ZIP extension: 
+- State project ID: CA-09-864
+- Latitude: 37.320334
+- Longitude: -121.961143
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085506301
+- Tract 2010: 06085506301
+- Tract 2000: 06085506301
+- Tract 1990: 06085506301
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 2510
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 846524
+- Units: 125
+- Low-income units: 123
+- Units reported: 125
+- Low-income reported: 123
+- Efficiencies: 0
+- 1-bedroom units: 111
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011583.
+- Record status: Existing, unchanged

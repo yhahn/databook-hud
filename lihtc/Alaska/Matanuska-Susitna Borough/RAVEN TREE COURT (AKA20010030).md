@@ -1,0 +1,85 @@
+# Project: RAVEN TREE COURT (AKA20010030)
+
+- HUD ID: AKA20010030
+- HUD ID before: 
+- Project: RAVEN TREE COURT
+- Address: 1310 S CENTURY CIR
+- City: WASILLA
+- State: AK
+- ZIP: 99654
+- ZIP extension: 
+- State project ID: AK-00-00001
+- Latitude: 61.569516
+- Longitude: -149.448623
+- County FIPS: 02170
+- County from: 2020
+- Tract 2020: 02170000900
+- Tract 2010: 02170000900
+- Tract 2000: 02170000900
+- Tract 1990: 02170975100
+- Place 2020: 83080
+- Place 2010: 83080
+- Place 2000: 83080
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 11
+- Units reported: 26
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

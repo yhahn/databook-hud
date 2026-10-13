@@ -1,0 +1,85 @@
+# Project: BROOKSIDE PHASE II RENTAL (CTA20123003)
+
+- HUD ID: CTA20123003
+- HUD ID before: 
+- Project: BROOKSIDE PHASE II RENTAL
+- Address: 120 BROOKSIDE AVENUE
+- City: NEW HAVEN
+- State: CT
+- ZIP: 06513
+- ZIP extension: 
+- State project ID: CT-10-015
+- Latitude: 41.349456
+- Longitude: -72.954124
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009141301
+- Tract 2010: 09009141300
+- Tract 2000: 09009141300
+- Tract 1990: 
+- Place 2020: 52000
+- Place 2010: 52000
+- Place 2000: 52000
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1684250
+- Units: 101
+- Low-income units: 80
+- Units reported: 101
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 36
+- 3-bedroom units: 65
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Supportive Housing
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

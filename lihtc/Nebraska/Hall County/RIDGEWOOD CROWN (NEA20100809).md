@@ -1,0 +1,85 @@
+# Project: RIDGEWOOD CROWN (NEA20100809)
+
+- HUD ID: NEA20100809
+- HUD ID before: 
+- Project: RIDGEWOOD CROWN
+- Address: 711 RIDGEWOOD AVE
+- City: GRAND ISLAND
+- State: NE
+- ZIP: 68803
+- ZIP extension: 
+- State project ID: 7-0721
+- Latitude: 40.924955
+- Longitude: -98.389727
+- County FIPS: 31079
+- County from: 2020
+- Tract 2020: 31079000600
+- Tract 2010: 31079000600
+- Tract 2000: 31079000600
+- Tract 1990: 31079000600
+- Place 2020: 19595
+- Place 2010: 19595
+- Place 2000: 19595
+- Place 1990: 1045
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 165206
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 935295
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,24 @@
+# Tax Credit Projects: Lampasas County, TX
+
+- Level: County
+- Postal code: TX
+- State FIPS: 48
+- County FIPS: 48281
+- Counties: 
+- Projects: 7
+- Units: 313
+- Low-income units: 313
+
+The low-income housing tax credit projects of Lampasas County, Texas, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [RIVER PARK VILLAGE EAST APTS (TXA00000489)](./Lampasas%20County/RIVER%20PARK%20VILLAGE%20EAST%20APTS%20%28TXA00000489%29.md) | TXA00000489 | LAMPASAS |  | 50 | 50 |
+| [PECAN GROVE VILLAGE APTS PHASE I (TXA19900250)](./Lampasas%20County/PECAN%20GROVE%20VILLAGE%20APTS%20PHASE%20I%20%28TXA19900250%29.md) | TXA19900250 | LAMPASAS | 1990 | 40 | 40 |
+| [LAMPASS VILLAGE OAKS APTS (TXA19910280)](./Lampasas%20County/LAMPASS%20VILLAGE%20OAKS%20APTS%20%28TXA19910280%29.md) | TXA19910280 | LAMPASAS | 1991 | 23 | 23 |
+| [MANOR AT HANCOCK PARK (TXA20136013)](./Lampasas%20County/MANOR%20AT%20HANCOCK%20PARK%20%28TXA20136013%29.md) | TXA20136013 | LAMPASAS | 2013 | 58 | 58 |
+| [PECAN GROVE (TXA20145022)](./Lampasas%20County/PECAN%20GROVE%20%28TXA20145022%29.md) | TXA20145022 | LAMPASAS | 2014 | 40 | 40 |
+| [LOMETA POINTE (TXA20172025)](./Lampasas%20County/LOMETA%20POINTE%20%28TXA20172025%29.md) | TXA20172025 | LAMPASAS | 2017 | 78 | 78 |
+| [LAMPASAS GARDENS (TXA20193624)](./Lampasas%20County/LAMPASAS%20GARDENS%20%28TXA20193624%29.md) | TXA20193624 | LAMPASAS | 2019 | 24 | 24 |

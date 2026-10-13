@@ -1,0 +1,85 @@
+# Project: RYE MANOR (NYB20142035)
+
+- HUD ID: NYB20142035
+- HUD ID before: 
+- Project: RYE MANOR
+- Address: 300 THEALL RD
+- City: RYE
+- State: NY
+- ZIP: 10580
+- ZIP extension: 
+- State project ID: NY-13-2213
+- Latitude: 40.969462
+- Longitude: -73.702354
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119007500
+- Tract 2010: 36119007500
+- Tract 2000: 36119007500
+- Tract 1990: 
+- Place 2020: 64309
+- Place 2010: 64309
+- Place 2000: 64309
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 781572
+- Units: 100
+- Low-income units: 98
+- Units reported: 100
+- Low-income reported: 98
+- Efficiencies: 25
+- 1-bedroom units: 75
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

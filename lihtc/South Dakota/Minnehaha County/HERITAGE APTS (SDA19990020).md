@@ -1,0 +1,85 @@
+# Project: HERITAGE APTS (SDA19990020)
+
+- HUD ID: SDA19990020
+- HUD ID before: 
+- Project: HERITAGE APTS
+- Address: 1818 E THIRD ST
+- City: SIOUX FALLS
+- State: SD
+- ZIP: 57103
+- ZIP extension: 
+- State project ID: 00705
+- Latitude: 43.554886
+- Longitude: -96.701439
+- County FIPS: 46099
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 46099000401
+- Tract 2000: 46099000401
+- Tract 1990: 46099000401
+- Place 2020: 
+- Place 2010: 59020
+- Place 2000: 59020
+- Place 1990: 1225
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 48
+- 1-bedroom units: 48
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

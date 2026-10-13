@@ -1,0 +1,85 @@
+# Project: CURWENSVILLE COMMONS (PAA19960060)
+
+- HUD ID: PAA19960060
+- HUD ID before: 
+- Project: CURWENSVILLE COMMONS
+- Address: 4TH AVE SUMMIT ST
+- City: CURWENSVILLE
+- State: PA
+- ZIP: 16833
+- ZIP extension: 
+- State project ID: TC19940139
+- Latitude: 40.9759
+- Longitude: -78.6272
+- County FIPS: 42033
+- County from: 2020
+- Tract 2020: 42033331401
+- Tract 2010: 42033331401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 45448
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 66549
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 20
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

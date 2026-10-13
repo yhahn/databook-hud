@@ -1,0 +1,85 @@
+# Project: ECLIPSE (FLA20090185)
+
+- HUD ID: FLA20090185
+- HUD ID before: 
+- Project: ECLIPSE
+- Address: 307 NW 1ST AVENUE
+- City: FT LAUDERDALE
+- State: FL
+- ZIP: 33301
+- ZIP extension: 
+- State project ID: 2439
+- Latitude: 26.125755
+- Longitude: -80.144537
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011041601
+- Tract 2010: 12011041600
+- Tract 2000: 12011041600
+- Tract 1990: 12011041600
+- Place 2020: 24000
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 0645
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 2435000
+- Units: 101
+- Low-income units: 79
+- Units reported: 101
+- Low-income reported: 79
+- Efficiencies: 27
+- 1-bedroom units: 56
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 38
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

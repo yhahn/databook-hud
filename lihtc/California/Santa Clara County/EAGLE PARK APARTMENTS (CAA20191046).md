@@ -1,0 +1,85 @@
+# Project: EAGLE PARK APARTMENTS (CAA20191046)
+
+- HUD ID: CAA20191046
+- HUD ID before: 
+- Project: EAGLE PARK APARTMENTS
+- Address: 1701 W EL CAMINO REAL
+- City: MOUNTAIN VIEW
+- State: CA
+- ZIP: 94040
+- ZIP extension: 
+- State project ID: CA-2017-510
+- Latitude: 37.39023
+- Longitude: -122.09349
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085509801
+- Tract 2010: 06085509801
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 49670
+- Place 2010: 49670
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 5669279
+- Units: 67
+- Low-income units: 66
+- Units reported: 67
+- Low-income reported: 66
+- Efficiencies: 62
+- 1-bedroom units: 5
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 49
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

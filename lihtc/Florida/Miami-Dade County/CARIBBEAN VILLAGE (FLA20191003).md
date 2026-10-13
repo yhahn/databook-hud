@@ -1,0 +1,85 @@
+# Project: CARIBBEAN VILLAGE (FLA20191003)
+
+- HUD ID: FLA20191003
+- HUD ID before: 
+- Project: CARIBBEAN VILLAGE
+- Address: 19755 SW 110 CT.
+- City: MIAMI
+- State: FL
+- ZIP: 33157
+- ZIP extension: 
+- State project ID: 2730
+- Latitude: 25.582009
+- Longitude: -80.370943
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010207
+- Tract 2010: 12086010207
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67575
+- Place 2010: 67575
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1316455
+- Units: 123
+- Low-income units: 123
+- Units reported: 123
+- Low-income reported: 123
+- Efficiencies: 
+- 1-bedroom units: 85
+- 2-bedroom units: 38
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 123
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

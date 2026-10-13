@@ -1,0 +1,85 @@
+# Project: MARKET SQUARE I (VAA20040644)
+
+- HUD ID: VAA20040644
+- HUD ID before: 
+- Project: MARKET SQUARE I
+- Address: 7300 TAW ST
+- City: NORTH CHESTERFIELD
+- State: VA
+- ZIP: 23237
+- ZIP extension: 
+- State project ID: 7768
+- Latitude: 37.424246
+- Longitude: -77.43963
+- County FIPS: 51041
+- County from: 2020
+- Tract 2020: 51041100406
+- Tract 2010: 51041100406
+- Tract 2000: 51041100406
+- Tract 1990: 51041100406
+- Place 2020: 06216
+- Place 2010: 06216
+- Place 2000: 06216
+- Place 1990: 0085
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 427040
+- Units: 63
+- Low-income units: 63
+- Units reported: 63
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2001135. AKA MARKET SQUARE ELDERLY.
+- Record status: Existing, unchanged

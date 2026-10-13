@@ -1,0 +1,85 @@
+# Project: CENTURY TERRACE AND HARBORVIEW APTS (MIA20221006)
+
+- HUD ID: MIA20221006
+- HUD ID before: 
+- Project: CENTURY TERRACE AND HARBORVIEW APTS
+- Address: 237-275 SIXTH AVENUE
+- City: MANISTEE
+- State: MI
+- ZIP: 49660
+- ZIP extension: 0000
+- State project ID: 3956
+- Latitude: 44.248705
+- Longitude: -86.326594
+- County FIPS: 26101
+- County from: 2020
+- Tract 2020: 26101000900
+- Tract 2010: 26101000900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50720
+- Place 2010: 50720
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1536959
+- Units: 167
+- Low-income units: 162
+- Units reported: 167
+- Low-income reported: 162
+- Efficiencies: 0
+- 1-bedroom units: 157
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 66
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

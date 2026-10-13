@@ -1,0 +1,85 @@
+# Project: GROVETON SENIORS (TXA19920115)
+
+- HUD ID: TXA19920115
+- HUD ID before: 
+- Project: GROVETON SENIORS
+- Address: 1110 E 1ST ST
+- City: GROVETON
+- State: TX
+- ZIP: 75845
+- ZIP extension: 
+- State project ID: TX0952
+- Latitude: 31.049562
+- Longitude: -95.11184
+- County FIPS: 48455
+- County from: 2020
+- Tract 2020: 48455950200
+- Tract 2010: 48455950200
+- Tract 2000: 48455950200
+- Tract 1990: 48455950200
+- Place 2020: 31340
+- Place 2010: 31340
+- Place 2000: 31340
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

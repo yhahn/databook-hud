@@ -1,0 +1,85 @@
+# Project: REGENCY PALMS (FLA19990811)
+
+- HUD ID: FLA19990811
+- HUD ID before: 
+- Project: REGENCY PALMS
+- Address: 8332 ALNWICK CIR
+- City: PORT RICHEY
+- State: FL
+- ZIP: 34668
+- ZIP extension: 
+- State project ID: 610
+- Latitude: 28.288686
+- Longitude: -82.679186
+- County FIPS: 12101
+- County from: 2020
+- Tract 2020: 12101031007
+- Tract 2010: 12101031007
+- Tract 2000: 12101031007
+- Tract 1990: 12101031000
+- Place 2020: 35350
+- Place 2010: 35350
+- Place 2000: 35350
+- Place 1990: 1008
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 160
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1999165. AKA PARK RICHEY APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VALLEY ESTATES OF HEBER SPRINGS (ARA20100805)
+
+- HUD ID: ARA20100805
+- HUD ID before: 
+- Project: VALLEY ESTATES OF HEBER SPRINGS
+- Address: 723 N VAN BUREN
+- City: HEBER SPRINGS
+- State: AR
+- ZIP: 72543
+- ZIP extension: 
+- State project ID: AR-08-10-001
+- Latitude: 35.49741
+- Longitude: -92.021758
+- County FIPS: 05023
+- County from: 2020
+- Tract 2020: 05023480301
+- Tract 2010: 05023480300
+- Tract 2000: 05023980300
+- Tract 1990: 05023980300
+- Place 2020: 31090
+- Place 2010: 31090
+- Place 2000: 31090
+- Place 1990: 0940
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 48
+- Low-income units: 38
+- Units reported: 48
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 17
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2010016.
+- Record status: Existing, unchanged

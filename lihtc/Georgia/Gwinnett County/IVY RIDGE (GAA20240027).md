@@ -1,0 +1,85 @@
+# Project: IVY RIDGE (GAA20240027)
+
+- HUD ID: GAA20240027
+- HUD ID before: 
+- Project: IVY RIDGE
+- Address: 1425 LAUREL CROSSING PARKWAY NE
+- City: BUFORD (GWINNETT)
+- State: GA
+- ZIP: 30519
+- ZIP extension: 6562
+- State project ID: 2020-506
+- Latitude: 34.0922
+- Longitude: -83.9443
+- County FIPS: 13135
+- County from: 2020
+- Tract 2020: 13135050611
+- Tract 2010: 13135050606
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 11784
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 1503464
+- Units: 256
+- Low-income units: 256
+- Units reported: 256
+- Low-income reported: 256
+- Efficiencies: 0
+- 1-bedroom units: 112
+- 2-bedroom units: 128
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

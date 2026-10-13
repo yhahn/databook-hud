@@ -1,0 +1,85 @@
+# Project: PROVIDENCE PLACE APTS II (DENTON) (TXA20070285)
+
+- HUD ID: TXA20070285
+- HUD ID before: 
+- Project: PROVIDENCE PLACE APTS II (DENTON)
+- Address: 3500 QUAIL CREEK DR
+- City: DENTON
+- State: TX
+- ZIP: 76208
+- ZIP extension: 
+- State project ID: TX3275
+- Latitude: 33.185845
+- Longitude: -97.093913
+- County FIPS: 48121
+- County from: 2020
+- Tract 2020: 48121021204
+- Tract 2010: 48121021201
+- Tract 2000: 48121021200
+- Tract 1990: 48121021200
+- Place 2020: 19972
+- Place 2010: 19972
+- Place 2000: 19972
+- Place 1990: 1140
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 1071070
+- Units: 252
+- Low-income units: 252
+- Units reported: 252
+- Low-income reported: 252
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 113
+- 3-bedroom units: 88
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: INTERGENERATIONAL
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA2004245. FKA QUAIL CREEK APTS
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SYCAMORE HILLS APTS (INA19940104)
+
+- HUD ID: INA19940104
+- HUD ID before: 
+- Project: SYCAMORE HILLS APTS
+- Address: 505 FLORENCE ST
+- City: SALEM
+- State: IN
+- ZIP: 47167
+- ZIP extension: 
+- State project ID: IN-94-06300
+- Latitude: 38.596369
+- Longitude: -86.095515
+- County FIPS: 18175
+- County from: 2020
+- Tract 2020: 18175967600
+- Tract 2010: 18175967600
+- Tract 2000: 18175967600
+- Tract 1990: 18175967600
+- Place 2020: 67464
+- Place 2010: 67464
+- Place 2000: 67464
+- Place 1990: 2260
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 34600
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

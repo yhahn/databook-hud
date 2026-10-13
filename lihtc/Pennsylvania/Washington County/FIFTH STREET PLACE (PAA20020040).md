@@ -1,0 +1,85 @@
+# Project: FIFTH STREET PLACE (PAA20020040)
+
+- HUD ID: PAA20020040
+- HUD ID before: 
+- Project: FIFTH STREET PLACE
+- Address: 207 FIFTH ST
+- City: CHARLEROI
+- State: PA
+- ZIP: 15022
+- ZIP extension: 
+- State project ID: TC20010422
+- Latitude: 40.138317
+- Longitude: -79.897423
+- County FIPS: 42125
+- County from: 2020
+- Tract 2020: 42125783300
+- Tract 2010: 42125783300
+- Tract 2000: 42125783300
+- Tract 1990: 42125783300
+- Place 2020: 12704
+- Place 2010: 12704
+- Place 2000: 12704
+- Place 1990: 1770
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 71792
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 425000
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

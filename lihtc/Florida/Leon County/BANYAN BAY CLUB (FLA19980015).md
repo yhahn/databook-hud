@@ -1,0 +1,85 @@
+# Project: BANYAN BAY CLUB (FLA19980015)
+
+- HUD ID: FLA19980015
+- HUD ID before: 
+- Project: BANYAN BAY CLUB
+- Address: 1800 MICCOSUKEE COMMONS DR
+- City: TALLAHASSEE
+- State: FL
+- ZIP: 32308
+- ZIP extension: 
+- State project ID: 61
+- Latitude: 30.465134
+- Longitude: -84.233015
+- County FIPS: 12073
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12073000901
+- Tract 2000: 12073000901
+- Tract 1990: 12073000901
+- Place 2020: 
+- Place 2010: 70600
+- Place 2000: 70600
+- Place 1990: 2070
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 280
+- Low-income units: 279
+- Units reported: 280
+- Low-income reported: 279
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 168
+- 3-bedroom units: 88
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

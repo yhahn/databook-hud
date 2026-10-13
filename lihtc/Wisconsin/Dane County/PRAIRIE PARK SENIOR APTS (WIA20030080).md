@@ -1,0 +1,85 @@
+# Project: PRAIRIE PARK SENIOR APTS (WIA20030080)
+
+- HUD ID: WIA20030080
+- HUD ID before: 
+- Project: PRAIRIE PARK SENIOR APTS
+- Address: 6530 SCHROEDER RD
+- City: MADISON
+- State: WI
+- ZIP: 53711
+- ZIP extension: 
+- State project ID: 2558
+- Latitude: 43.046438
+- Longitude: -89.494725
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025000408
+- Tract 2010: 55025000408
+- Tract 2000: 55025000404
+- Tract 1990: 55025000498
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 1475
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 96
+- Low-income units: 90
+- Units reported: 96
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 53
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

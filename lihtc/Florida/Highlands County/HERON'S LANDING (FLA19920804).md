@@ -1,0 +1,85 @@
+# Project: HERON'S LANDING (FLA19920804)
+
+- HUD ID: FLA19920804
+- HUD ID before: 
+- Project: HERON'S LANDING
+- Address: 1 HERONS LANDING DR
+- City: LAKE PLACID
+- State: FL
+- ZIP: 33852
+- ZIP extension: 
+- State project ID: 352
+- Latitude: 27.303477
+- Longitude: -81.361341
+- County FIPS: 12055
+- County from: 2020
+- Tract 2020: 12055961604
+- Tract 2010: 12055961603
+- Tract 2000: 12055961600
+- Tract 1990: 12055961600
+- Place 2020: 38625
+- Place 2010: 38625
+- Place 2000: 38625
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

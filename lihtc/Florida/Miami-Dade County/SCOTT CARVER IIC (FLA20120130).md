@@ -1,0 +1,85 @@
+# Project: SCOTT CARVER IIC (FLA20120130)
+
+- HUD ID: FLA20120130
+- HUD ID before: 
+- Project: SCOTT CARVER IIC
+- Address: 7343 NW 23RD CT
+- City: MIAMI
+- State: FL
+- ZIP: 33147
+- ZIP extension: 
+- State project ID: 2526
+- Latitude: 25.841916
+- Longitude: -80.23608
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086001004
+- Tract 2010: 12086001004
+- Tract 2000: 12086001004
+- Tract 1990: 12025001004
+- Place 2020: 25987
+- Place 2010: 25987
+- Place 2000: 25987
+- Place 1990: 0737
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 705010
+- Units: 134
+- Low-income units: 108
+- Units reported: 134
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 80
+- 3-bedroom units: 30
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: Yes
+- HOPE VI amount: 520040
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

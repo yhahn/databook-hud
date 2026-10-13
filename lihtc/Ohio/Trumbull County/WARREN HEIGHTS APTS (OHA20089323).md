@@ -1,0 +1,85 @@
+# Project: WARREN HEIGHTS APTS (OHA20089323)
+
+- HUD ID: OHA20089323
+- HUD ID before: 
+- Project: WARREN HEIGHTS APTS
+- Address: 540 DOUGLAS ST NE
+- City: WARREN
+- State: OH
+- ZIP: 44483
+- ZIP extension: 
+- State project ID: 050186
+- Latitude: 41.256622
+- Longitude: -80.81144
+- County FIPS: 39155
+- County from: 2020
+- Tract 2020: 39155921100
+- Tract 2010: 39155921100
+- Tract 2000: 39155921100
+- Tract 1990: 39155921100
+- Place 2020: 80892
+- Place 2010: 80892
+- Place 2000: 80892
+- Place 1990: 4480
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 188
+- Low-income units: 186
+- Units reported: 188
+- Low-income reported: 186
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007773, OHA2008275.
+- Record status: Existing, unchanged

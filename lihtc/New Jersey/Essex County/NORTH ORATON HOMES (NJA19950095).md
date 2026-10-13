@@ -1,0 +1,85 @@
+# Project: NORTH ORATON HOMES (NJA19950095)
+
+- HUD ID: NJA19950095
+- HUD ID before: 
+- Project: NORTH ORATON HOMES
+- Address: 170 NORTH ORATON PARKWAY
+- City: EAST ORANGE
+- State: NJ
+- ZIP: 07017
+- ZIP extension: 
+- State project ID: NJ-9330
+- Latitude: 40.763541
+- Longitude: -74.205396
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013010700
+- Tract 2010: 34013010700
+- Tract 2000: 34013010700
+- Tract 1990: 34013010700
+- Place 2020: 19390
+- Place 2010: 19390
+- Place 2000: 19390
+- Place 1990: 1665
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 389679
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2012860.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: OSKALOOSA IHA SENIOR HOUSING I (IAA19990345)
+
+- HUD ID: IAA19990345
+- HUD ID before: 
+- Project: OSKALOOSA IHA SENIOR HOUSING I
+- Address: 109 18TH AVE E
+- City: OSKALOOSA
+- State: IA
+- ZIP: 52577
+- ZIP extension: 
+- State project ID: 98-29
+- Latitude: 41.278647
+- Longitude: -92.644025
+- County FIPS: 19123
+- County from: 2020
+- Tract 2020: 19123950500
+- Tract 2010: 19123950500
+- Tract 2000: 19123950500
+- Tract 1990: 19123950500
+- Place 2020: 59925
+- Place 2010: 59925
+- Place 2000: 59925
+- Place 1990: 3245
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 80570
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 24
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2000080. FKA HIGHLAND PARK I
+- Record status: Existing, unchanged

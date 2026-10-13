@@ -1,0 +1,85 @@
+# Project: VALLEY VIEW APTS (WAA00000694)
+
+- HUD ID: WAA00000694
+- HUD ID before: 
+- Project: VALLEY VIEW APTS
+- Address: 5406 57TH ST CT W
+- City: UNIVERSITY PLACE
+- State: WA
+- ZIP: 98467
+- ZIP extension: 
+- State project ID: 88-23B
+- Latitude: 47.204378
+- Longitude: -122.508834
+- County FIPS: 53053
+- County from: 2020
+- Tract 2020: 53053072312
+- Tract 2010: 53053072312
+- Tract 2000: 53053072306
+- Tract 1990: 53053072306
+- Place 2020: 73465
+- Place 2010: 73465
+- Place 2000: 23970
+- Place 1990: 1343
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 110
+- Low-income units: 22
+- Units reported: 110
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 52
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

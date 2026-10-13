@@ -1,0 +1,85 @@
+# Project: APARICIO COMMUNITY APTS (CAA20110020)
+
+- HUD ID: CAA20110020
+- HUD ID before: 
+- Project: APARICIO COMMUNITY APTS
+- Address: 332 ELLWOOD BEACH DR
+- City: GOLETA
+- State: CA
+- ZIP: 93117
+- ZIP extension: 
+- State project ID: CA-10-502
+- Latitude: 34.427089
+- Longitude: -119.885421
+- County FIPS: 06083
+- County from: 2020
+- Tract 2020: 06083002935
+- Tract 2010: 06083002930
+- Tract 2000: 06083002904
+- Tract 1990: 06083002904
+- Place 2020: 30378
+- Place 2010: 30378
+- Place 2000: 30378
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 5
+- 1-bedroom units: 39
+- 2-bedroom units: 9
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3900950
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011547.
+- Record status: Existing, unchanged

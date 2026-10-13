@@ -1,0 +1,85 @@
+# Project: GEORGIAN COURT (MDA20010038)
+
+- HUD ID: MDA20010038
+- HUD ID before: 
+- Project: GEORGIAN COURT
+- Address: 3600 BEL PRE RD
+- City: SILVER SPRING
+- State: MD
+- ZIP: 20906
+- ZIP extension: 
+- State project ID: MD00-11001
+- Latitude: 39.092839
+- Longitude: -77.072731
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031703213
+- Tract 2010: 24031703213
+- Tract 2000: 24031703213
+- Tract 1990: 24031703204
+- Place 2020: 02825
+- Place 2010: 02825
+- Place 2000: 02825
+- Place 1990: 0021
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 147
+- Low-income units: 147
+- Units reported: 147
+- Low-income reported: 147
+- Efficiencies: 0
+- 1-bedroom units: 49
+- 2-bedroom units: 98
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

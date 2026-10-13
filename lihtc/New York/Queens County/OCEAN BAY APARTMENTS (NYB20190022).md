@@ -1,0 +1,85 @@
+# Project: OCEAN BAY APARTMENTS (NYB20190022)
+
+- HUD ID: NYB20190022
+- HUD ID before: 
+- Project: OCEAN BAY APARTMENTS
+- Address: 434 BEACH 54TH STREET
+- City: QUEENS
+- State: NY
+- ZIP: 11692
+- ZIP extension: 
+- State project ID: NY-20-2453
+- Latitude: 40.596228
+- Longitude: -73.784456
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081097205
+- Tract 2010: 36081097203
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 7362294
+- Units: 1395
+- Low-income units: 1290
+- Units reported: 1395
+- Low-income reported: 1290
+- Efficiencies: 133
+- 1-bedroom units: 206
+- 2-bedroom units: 551
+- 3-bedroom units: 380
+- 4-bedroom units: 122
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FOX RIDGE APTS (ALA19910085)
+
+- HUD ID: ALA19910085
+- HUD ID before: 
+- Project: FOX RIDGE APTS
+- Address: 100 FOXRIDGE PLZ
+- City: RUSSELLVILLE
+- State: AL
+- ZIP: 35654
+- ZIP extension: 
+- State project ID: AL-91-0012
+- Latitude: 34.487141
+- Longitude: -87.732353
+- County FIPS: 01059
+- County from: 2020
+- Tract 2020: 01059973300
+- Tract 2010: 01059973300
+- Tract 2000: 01059973300
+- Tract 1990: 01059973300
+- Place 2020: 67056
+- Place 2010: 67056
+- Place 2000: 67056
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 35558
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

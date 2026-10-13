@@ -1,0 +1,85 @@
+# Project: WILLOW POND APTS (NCA19940565)
+
+- HUD ID: NCA19940565
+- HUD ID before: 
+- Project: WILLOW POND APTS
+- Address: 3508 3525 FROG POND PLACE
+- City: WILMINGTON
+- State: NC
+- ZIP: 28403
+- ZIP extension: 
+- State project ID: 9002171
+- Latitude: 34.2169
+- Longitude: -77.852
+- County FIPS: 37129
+- County from: 2020
+- Tract 2020: 37129011906
+- Tract 2010: 37129011902
+- Tract 2000: 37129010501
+- Tract 1990: 37129010502
+- Place 2020: 74440
+- Place 2010: 74440
+- Place 2000: 
+- Place 1990: 2755
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 103899
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

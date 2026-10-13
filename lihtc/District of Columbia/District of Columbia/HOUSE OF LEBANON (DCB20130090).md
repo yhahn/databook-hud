@@ -1,0 +1,85 @@
+# Project: HOUSE OF LEBANON (DCB20130090)
+
+- HUD ID: DCB20130090
+- HUD ID before: 
+- Project: HOUSE OF LEBANON
+- Address: 27 O ST NW
+- City: WASHINGTON
+- State: DC
+- ZIP: 20001
+- ZIP extension: 
+- State project ID: DCB2014010
+- Latitude: 38.908733
+- Longitude: -77.010077
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001004600
+- Tract 2010: 11001004600
+- Tract 2000: 11001004600
+- Tract 1990: 11001004600
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 674048
+- Units: 82
+- Low-income units: 78
+- Units reported: 82
+- Low-income reported: 78
+- Efficiencies: 16
+- 1-bedroom units: 54
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 4744400
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WHITLEY MEADOWS APTS (INA20040035)
+
+- HUD ID: INA20040035
+- HUD ID before: 
+- Project: WHITLEY MEADOWS APTS
+- Address: 984 E HANNA ST
+- City: COLUMBIA CITY
+- State: IN
+- ZIP: 46725
+- ZIP extension: 
+- State project ID: IN-03-01700
+- Latitude: 41.14972
+- Longitude: -85.471455
+- County FIPS: 18183
+- County from: 2020
+- Tract 2020: 18183050500
+- Tract 2010: 18183050500
+- Tract 2000: 18183050500
+- Tract 1990: 18183050500
+- Place 2020: 14716
+- Place 2010: 14716
+- Place 2000: 14716
+- Place 1990: 0510
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 145399
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 300000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

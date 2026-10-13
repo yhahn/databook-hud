@@ -1,0 +1,85 @@
+# Project: HERITAGE APTS OF SCOTTSBLUFF (NEA19960801)
+
+- HUD ID: NEA19960801
+- HUD ID before: 
+- Project: HERITAGE APTS OF SCOTTSBLUFF
+- Address: 308 W 33RD ST
+- City: SCOTTSBLUFF
+- State: NE
+- ZIP: 69361
+- ZIP extension: 
+- State project ID: 7-0266
+- Latitude: 41.878716
+- Longitude: -103.667722
+- County FIPS: 31157
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31157953300
+- Tract 2000: 31157953300
+- Tract 1990: 31157953300
+- Place 2020: 
+- Place 2010: 44245
+- Place 2000: 44245
+- Place 1990: 2185
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 132731
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

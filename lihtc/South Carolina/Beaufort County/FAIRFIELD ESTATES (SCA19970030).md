@@ -1,0 +1,85 @@
+# Project: FAIRFIELD ESTATES (SCA19970030)
+
+- HUD ID: SCA19970030
+- HUD ID before: 
+- Project: FAIRFIELD ESTATES
+- Address: 200 SAMS POINT RD
+- City: BEAUFORT
+- State: SC
+- ZIP: 29907
+- ZIP extension: 
+- State project ID: SC-95-013
+- Latitude: 32.43077
+- Longitude: -80.640639
+- County FIPS: 45013
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45013000902
+- Tract 2000: 45013000900
+- Tract 1990: 45013000900
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 04690
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 608534
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 23
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

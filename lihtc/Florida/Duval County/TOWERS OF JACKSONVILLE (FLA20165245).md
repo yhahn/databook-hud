@@ -1,0 +1,85 @@
+# Project: TOWERS OF JACKSONVILLE (FLA20165245)
+
+- HUD ID: FLA20165245
+- HUD ID before: 
+- Project: TOWERS OF JACKSONVILLE
+- Address: 1400 LEBARON AVENUE
+- City: JACKSONVILLE
+- State: FL
+- ZIP: 32207
+- ZIP extension: 
+- State project ID: 1544
+- Latitude: 30.3023
+- Longitude: -81.6373
+- County FIPS: 12031
+- County from: 2020
+- Tract 2020: 12031000800
+- Tract 2010: 12031000600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 787009
+- Units: 194
+- Low-income units: 185
+- Units reported: 194
+- Low-income reported: 185
+- Efficiencies: 85
+- 1-bedroom units: 99
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

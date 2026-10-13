@@ -1,0 +1,85 @@
+# Project: ZORA NEALE HURSTON HOUSE (NYC20040350)
+
+- HUD ID: NYC20040350
+- HUD ID before: 
+- Project: ZORA NEALE HURSTON HOUSE
+- Address: 107 MORNINGSIDE AVE
+- City: NEW YORK
+- State: NY
+- ZIP: 10027
+- ZIP extension: 
+- State project ID: NY2005026
+- Latitude: 40.810278
+- Longitude: -73.954555
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061020901
+- Tract 2010: 36061020901
+- Tract 2000: 36061020901
+- Tract 1990: 36061020901
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 93
+- Low-income units: 70
+- Units reported: 93
+- Low-income reported: 70
+- Efficiencies: 12
+- 1-bedroom units: 11
+- 2-bedroom units: 54
+- 3-bedroom units: 11
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

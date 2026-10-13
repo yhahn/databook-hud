@@ -1,0 +1,85 @@
+# Project: ARBOR GLEN II (NCA20040005)
+
+- HUD ID: NCA20040005
+- HUD ID before: 
+- Project: ARBOR GLEN II
+- Address: CLANTON ROAD
+- City: CHARLOTTE
+- State: NC
+- ZIP: 28208
+- ZIP extension: 
+- State project ID: 9001036
+- Latitude: 35.235
+- Longitude: -80.9125
+- County FIPS: 37119
+- County from: 2020
+- Tract 2020: 37119004000
+- Tract 2010: 37119004000
+- Tract 2000: 37119004000
+- Tract 1990: 37119003902
+- Place 2020: 12000
+- Place 2010: 12000
+- Place 2000: 
+- Place 1990: 0480
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 867062
+- Units: 91
+- Low-income units: 91
+- Units reported: 91
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 58
+- 3-bedroom units: 33
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

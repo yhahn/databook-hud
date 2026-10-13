@@ -1,0 +1,85 @@
+# Project: 425 GRAND CONCOURSE (NYC20222004)
+
+- HUD ID: NYC20222004
+- HUD ID before: 
+- Project: 425 GRAND CONCOURSE
+- Address: 425 GRAND CONCOURSE
+- City: NEW YORK
+- State: NY
+- ZIP: 10451
+- ZIP extension: 
+- State project ID: NY 19 02 053
+- Latitude: 40.816812
+- Longitude: -73.928421
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005006301
+- Tract 2010: 36005006300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 4475462
+- Units: 277
+- Low-income units: 166
+- Units reported: 277
+- Low-income reported: 166
+- Efficiencies: 45
+- 1-bedroom units: 92
+- 2-bedroom units: 94
+- 3-bedroom units: 46
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: N
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

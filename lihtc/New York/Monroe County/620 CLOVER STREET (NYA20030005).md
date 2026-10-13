@@ -1,0 +1,85 @@
+# Project: 620 CLOVER STREET (NYA20030005)
+
+- HUD ID: NYA20030005
+- HUD ID before: 
+- Project: 620 CLOVER STREET
+- Address: 600 CLOVER ST
+- City: BRIGHTON
+- State: NY
+- ZIP: 14610
+- ZIP extension: 
+- State project ID: 20020676
+- Latitude: 43.146155
+- Longitude: -77.535825
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055012500
+- Tract 2010: 36055012500
+- Tract 2000: 36055012500
+- Tract 1990: 36055012500
+- Place 2020: 08257
+- Place 2010: 08257
+- Place 2000: 08257
+- Place 1990: 0393
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 6
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

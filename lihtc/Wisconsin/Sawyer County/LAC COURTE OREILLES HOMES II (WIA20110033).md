@@ -1,0 +1,85 @@
+# Project: LAC COURTE OREILLES HOMES II (WIA20110033)
+
+- HUD ID: WIA20110033
+- HUD ID before: 
+- Project: LAC COURTE OREILLES HOMES II
+- Address: 9012 N AKIKAANDAG LANE
+- City: HAYWARD
+- State: WI
+- ZIP: 54843
+- ZIP extension: 
+- State project ID: WI-5500
+- Latitude: 45.961716
+- Longitude: -91.361124
+- County FIPS: 55113
+- County from: 2020
+- Tract 2020: 55113940001
+- Tract 2010: 55113940000
+- Tract 2000: 55113980100
+- Tract 1990: 55113980100
+- Place 2020: 45220
+- Place 2010: 45220
+- Place 2000: 57050
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 699720
+- Units: 24
+- Low-income units: 6
+- Units reported: 24
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 12
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

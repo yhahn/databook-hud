@@ -1,0 +1,85 @@
+# Project: WILLOW CREEK APTS. V (UTA19910900)
+
+- HUD ID: UTA19910900
+- HUD ID before: 
+- Project: WILLOW CREEK APTS. V
+- Address: 236 WEST PLUM STREET
+- City: GRANTSVILLE
+- State: UT
+- ZIP: 84029
+- ZIP extension: 0000
+- State project ID: 1991-01
+- Latitude: 40.59659
+- Longitude: -112.471897
+- County FIPS: 49045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49045130800
+- Tract 2000: 49045130800
+- Tract 1990: 49045130800
+- Place 2020: 
+- Place 2010: 31120
+- Place 2000: 31120
+- Place 1990: 0320
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 12884
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Handicapped/ADA
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

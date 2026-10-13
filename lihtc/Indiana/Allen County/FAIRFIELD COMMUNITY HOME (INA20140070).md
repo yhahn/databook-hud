@@ -1,0 +1,85 @@
+# Project: FAIRFIELD COMMUNITY HOME (INA20140070)
+
+- HUD ID: INA20140070
+- HUD ID before: 
+- Project: FAIRFIELD COMMUNITY HOME
+- Address: 2828 FAIRFIELD AVE
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46807
+- ZIP extension: 
+- State project ID: IN-12-02200
+- Latitude: 41.059182
+- Longitude: -85.145202
+- County FIPS: 18003
+- County from: 2020
+- Tract 2020: 18003002000
+- Tract 2010: 18003002000
+- Tract 2000: 18003002000
+- Tract 1990: 18003002000
+- Place 2020: 25000
+- Place 2010: 25000
+- Place 2000: 25000
+- Place 1990: 0825
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 664366
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 6610865
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SUPPORTED LIVING
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA THE COURTYARD.
+- Record status: Existing, unchanged

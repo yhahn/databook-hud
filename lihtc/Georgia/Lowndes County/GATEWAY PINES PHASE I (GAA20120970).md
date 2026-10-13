@@ -1,0 +1,85 @@
+# Project: GATEWAY PINES PHASE I (GAA20120970)
+
+- HUD ID: GAA20120970
+- HUD ID before: 
+- Project: GATEWAY PINES PHASE I
+- Address: 770 UNION RD
+- City: HAHIRA
+- State: GA
+- ZIP: 31632
+- ZIP extension: 
+- State project ID: GA-10-004
+- Latitude: 30.988221
+- Longitude: -83.383746
+- County FIPS: 13185
+- County from: 2020
+- Tract 2020: 13185010203
+- Tract 2010: 13185010202
+- Tract 2000: 13185010202
+- Tract 1990: 13185010200
+- Place 2020: 36052
+- Place 2010: 36052
+- Place 2000: 36052
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 847221
+- Units: 57
+- Low-income units: 56
+- Units reported: 57
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000197.
+- Record status: Existing, unchanged

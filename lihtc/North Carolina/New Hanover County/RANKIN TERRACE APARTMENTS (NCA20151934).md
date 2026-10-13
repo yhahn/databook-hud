@@ -1,0 +1,85 @@
+# Project: RANKIN TERRACE APARTMENTS (NCA20151934)
+
+- HUD ID: NCA20151934
+- HUD ID before: 
+- Project: RANKIN TERRACE APARTMENTS
+- Address: 415 12TH STREET N
+- City: WILMINGTON
+- State: NC
+- ZIP: 28401
+- ZIP extension: 
+- State project ID: 9150913
+- Latitude: 34.240912
+- Longitude: -77.934814
+- County FIPS: 37129
+- County from: 2020
+- Tract 2020: 37129010100
+- Tract 2010: 37129010100
+- Tract 2000: 37129010100
+- Tract 1990: 37129010100
+- Place 2020: 74440
+- Place 2010: 74440
+- Place 2000: 74440
+- Place 1990: 2755
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 656635
+- Units: 77
+- Low-income units: 77
+- Units reported: 77
+- Low-income reported: 77
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 38
+- 4-bedroom units: 9
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

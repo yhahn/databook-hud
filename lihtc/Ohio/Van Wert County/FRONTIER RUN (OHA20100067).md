@@ -1,0 +1,85 @@
+# Project: FRONTIER RUN (OHA20100067)
+
+- HUD ID: OHA20100067
+- HUD ID before: 
+- Project: FRONTIER RUN
+- Address: 130 MENTZER RD
+- City: CONVOY
+- State: OH
+- ZIP: 45832
+- ZIP extension: 
+- State project ID: 090146
+- Latitude: 40.9181
+- Longitude: -84.700878
+- County FIPS: 39161
+- County from: 2020
+- Tract 2020: 39161020200
+- Tract 2010: 39161020200
+- Tract 2000: 39161020200
+- Tract 1990: 39161020200
+- Place 2020: 18546
+- Place 2010: 18546
+- Place 2000: 18546
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 511396
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2010820, OHA2009200.
+- Record status: Existing, unchanged

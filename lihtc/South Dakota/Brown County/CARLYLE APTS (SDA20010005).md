@@ -1,0 +1,85 @@
+# Project: CARLYLE APTS (SDA20010005)
+
+- HUD ID: SDA20010005
+- HUD ID before: 
+- Project: CARLYLE APTS
+- Address: 1901 THIRD AVE SE
+- City: ABERDEEN
+- State: SD
+- ZIP: 57401
+- ZIP extension: 
+- State project ID: 00265
+- Latitude: 45.462332
+- Longitude: -98.459756
+- County FIPS: 46013
+- County from: 2020
+- Tract 2020: 46013951800
+- Tract 2010: 46013951800
+- Tract 2000: 46013951800
+- Tract 1990: 46013951800
+- Place 2020: 00100
+- Place 2010: 00100
+- Place 2000: 00100
+- Place 1990: 0005
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

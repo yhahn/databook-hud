@@ -1,0 +1,85 @@
+# Project: COREY COMMONS (ORA20040040)
+
+- HUD ID: ORA20040040
+- HUD ID before: 
+- Project: COREY COMMONS
+- Address: 2000 S EIGHTH ST
+- City: COTTAGE GROVE
+- State: OR
+- ZIP: 97424
+- ZIP extension: 
+- State project ID: OR-03-00000221A
+- Latitude: 43.781332
+- Longitude: -123.059792
+- County FIPS: 41039
+- County from: 2020
+- Tract 2020: 41039001302
+- Tract 2010: 41039001302
+- Tract 2000: 41039001302
+- Tract 1990: 41039001300
+- Place 2020: 15950
+- Place 2010: 15950
+- Place 2000: 15950
+- Place 1990: 0230
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 271900
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 11
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 275000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NORTHLAND STRUM APTS (WIA19960120)
+
+- HUD ID: WIA19960120
+- HUD ID before: 
+- Project: NORTHLAND STRUM APTS
+- Address: 323 BIRCH ST
+- City: STRUM
+- State: WI
+- ZIP: 54770
+- ZIP extension: 
+- State project ID: 1841
+- Latitude: 44.551437
+- Longitude: -91.395722
+- County FIPS: 55121
+- County from: 2020
+- Tract 2020: 55121100200
+- Tract 2010: 55121100200
+- Tract 2000: 55121990200
+- Tract 1990: 55121990200
+- Place 2020: 77825
+- Place 2010: 77825
+- Place 2000: 23175
+- Place 1990: 2475
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 8
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

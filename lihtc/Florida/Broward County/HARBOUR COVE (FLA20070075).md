@@ -1,0 +1,85 @@
+# Project: HARBOUR COVE (FLA20070075)
+
+- HUD ID: FLA20070075
+- HUD ID before: 
+- Project: HARBOUR COVE
+- Address: 100 NW NINTH TER
+- City: HALLANDALE BEACH
+- State: FL
+- ZIP: 33009
+- ZIP extension: 
+- State project ID: 1215
+- Latitude: 25.986832
+- Longitude: -80.161812
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011100400
+- Tract 2010: 12011100400
+- Tract 2000: 12011100400
+- Tract 1990: 12011100400
+- Place 2020: 28452
+- Place 2010: 28452
+- Place 2000: 28450
+- Place 1990: 0815
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1166020
+- Units: 212
+- Low-income units: 212
+- Units reported: 212
+- Low-income reported: 212
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 102
+- 3-bedroom units: 46
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 663016
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

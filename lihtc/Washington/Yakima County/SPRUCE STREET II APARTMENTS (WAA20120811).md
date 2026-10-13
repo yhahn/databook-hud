@@ -1,0 +1,85 @@
+# Project: SPRUCE STREET II APARTMENTS (WAA20120811)
+
+- HUD ID: WAA20120811
+- HUD ID before: 
+- Project: SPRUCE STREET II APARTMENTS
+- Address: 1302 E. SPRUCE ST
+- City: YAKIMA
+- State: WA
+- ZIP: 98901
+- ZIP extension: 
+- State project ID: WA-11-00131
+- Latitude: 46.602162
+- Longitude: -120.484981
+- County FIPS: 53077
+- County from: 2020
+- Tract 2020: 53077000200
+- Tract 2010: 53077000200
+- Tract 2000: 53077000200
+- Tract 1990: 53077000200
+- Place 2020: 80010
+- Place 2010: 80010
+- Place 2000: 80010
+- Place 1990: 1485
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 723544
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 16
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Farmworker
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA0000622.
+- Record status: Existing, unchanged

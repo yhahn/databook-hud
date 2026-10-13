@@ -1,0 +1,85 @@
+# Project: MAGNOLIA COMMONS OF VICKSBURG (MSA20030060)
+
+- HUD ID: MSA20030060
+- HUD ID before: 
+- Project: MAGNOLIA COMMONS OF VICKSBURG
+- Address: 876 GRANGE HALL RD
+- City: VICKSBURG
+- State: MS
+- ZIP: 39180
+- ZIP extension: 
+- State project ID: MS-02-039
+- Latitude: 32.257907
+- Longitude: -90.911475
+- County FIPS: 28149
+- County from: 2020
+- Tract 2020: 28149950800
+- Tract 2010: 28149950800
+- Tract 2000: 28149950800
+- Tract 1990: 28149950800
+- Place 2020: 76720
+- Place 2010: 76720
+- Place 2000: 76720
+- Place 1990: 1390
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 192
+- Low-income units: 162
+- Units reported: 192
+- Low-income reported: 162
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

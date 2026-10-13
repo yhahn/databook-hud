@@ -1,0 +1,85 @@
+# Project: DEER RIDGE (ALA20040047)
+
+- HUD ID: ALA20040047
+- HUD ID before: 
+- Project: DEER RIDGE
+- Address: 1200 BURT HILL DR SW
+- City: FORT PAYNE
+- State: AL
+- ZIP: 35968
+- ZIP extension: 
+- State project ID: AL-04-0074
+- Latitude: 34.435686
+- Longitude: -85.766914
+- County FIPS: 01049
+- County from: 2020
+- Tract 2020: 01049960900
+- Tract 2010: 01049960900
+- Tract 2000: 01049960900
+- Tract 1990: 01049960900
+- Place 2020: 27616
+- Place 2010: 27616
+- Place 2000: 27616
+- Place 1990: 0655
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 252210
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1262450
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2006040.
+- Record status: Existing, unchanged

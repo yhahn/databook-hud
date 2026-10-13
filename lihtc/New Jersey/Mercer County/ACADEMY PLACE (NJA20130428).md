@@ -1,0 +1,85 @@
+# Project: ACADEMY PLACE (NJA20130428)
+
+- HUD ID: NJA20130428
+- HUD ID before: 
+- Project: ACADEMY PLACE
+- Address: 125A OLIVE STREET
+- City: TRENTON
+- State: NJ
+- ZIP: 08618
+- ZIP extension: 
+- State project ID: NJ-1904
+- Latitude: 40.223153
+- Longitude: -74.761203
+- County FIPS: 34021
+- County from: 2020
+- Tract 2020: 34021000900
+- Tract 2010: 34021000900
+- Tract 2000: 34021000900
+- Tract 1990: 34021000900
+- Place 2020: 74000
+- Place 2010: 74000
+- Place 2000: 74000
+- Place 1990: 3770
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 740615
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 23
+- 3-bedroom units: 15
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1998120, NJA1998005.
+- Record status: Existing, unchanged

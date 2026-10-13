@@ -1,0 +1,85 @@
+# Project: CLEVELAND FORWARD PHASE ONE (TNA20222001)
+
+- HUD ID: TNA20222001
+- HUD ID before: 
+- Project: CLEVELAND FORWARD PHASE ONE
+- Address: 450 WALKER ST. NE
+- City: CLEVELAND
+- State: TN
+- ZIP: 37320
+- ZIP extension: 
+- State project ID: TN-22-207
+- Latitude: 35.160195
+- Longitude: -84.870371
+- County FIPS: 47011
+- County from: 2020
+- Tract 2020: 47011010400
+- Tract 2010: 47011010400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 15400
+- Place 2010: 15400
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 13187706
+- Units: 146
+- Low-income units: 146
+- Units reported: 146
+- Low-income reported: 146
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 73
+- 3-bedroom units: 39
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

@@ -1,0 +1,85 @@
+# Project: WILLIAMSBURG HOMES (OHA19870205)
+
+- HUD ID: OHA19870205
+- HUD ID before: 
+- Project: WILLIAMSBURG HOMES
+- Address: 785 E MAIN ST
+- City: WILLIAMSBURG
+- State: OH
+- ZIP: 45176
+- ZIP extension: 
+- State project ID: OH-87-0141
+- Latitude: 39.048726
+- Longitude: -84.039156
+- County FIPS: 39025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39025040900
+- Tract 2000: 39025040900
+- Tract 1990: 39025040900
+- Place 2020: 
+- Place 2010: 85288
+- Place 2000: 85288
+- Place 1990: 
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THE RIVERS SENIOR LIVING (WIA20110065)
+
+- HUD ID: WIA20110065
+- HUD ID before: 
+- Project: THE RIVERS SENIOR LIVING
+- Address: 475 MARION RD
+- City: OSHKOSH
+- State: WI
+- ZIP: 54901
+- ZIP extension: 
+- State project ID: 5476
+- Latitude: 44.017508
+- Longitude: -88.54676
+- County FIPS: 55139
+- County from: 2020
+- Tract 2020: 55139000501
+- Tract 2010: 55139000500
+- Tract 2000: 55139000500
+- Tract 1990: 55139000500
+- Place 2020: 60500
+- Place 2010: 60500
+- Place 2000: 60500
+- Place 1990: 1930
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 857277
+- Units: 60
+- Low-income units: 9
+- Units reported: 60
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 9999
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

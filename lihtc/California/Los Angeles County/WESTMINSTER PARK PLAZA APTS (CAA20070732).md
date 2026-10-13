@@ -1,0 +1,85 @@
+# Project: WESTMINSTER PARK PLAZA APTS (CAA20070732)
+
+- HUD ID: CAA20070732
+- HUD ID before: 
+- Project: WESTMINSTER PARK PLAZA APTS
+- Address: 9300 MAIE AVE
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90002
+- ZIP extension: 
+- State project ID: CA-07-847
+- Latitude: 33.951834
+- Longitude: -118.244462
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037242300
+- Tract 2010: 06037242300
+- Tract 2000: 06037242300
+- Tract 1990: 06037242300
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 536092
+- Units: 130
+- Low-income units: 100
+- Units reported: 130
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 54
+- 3-bedroom units: 22
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1990131, CAA0001640.
+- Record status: Existing, unchanged

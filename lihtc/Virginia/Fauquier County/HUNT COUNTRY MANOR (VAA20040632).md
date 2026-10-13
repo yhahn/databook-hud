@@ -1,0 +1,85 @@
+# Project: HUNT COUNTRY MANOR (VAA20040632)
+
+- HUD ID: VAA20040632
+- HUD ID before: 
+- Project: HUNT COUNTRY MANOR
+- Address: 361 ROEBLING ST
+- City: WARRENTON
+- State: VA
+- ZIP: 20186
+- ZIP extension: 
+- State project ID: 5671
+- Latitude: 38.726271
+- Longitude: -77.801571
+- County FIPS: 51061
+- County from: 2020
+- Tract 2020: 51061930305
+- Tract 2010: 51061930302
+- Tract 2000: 51061990302
+- Tract 1990: 51061990298
+- Place 2020: 83136
+- Place 2010: 83136
+- Place 2000: 83136
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 87252
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 55
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

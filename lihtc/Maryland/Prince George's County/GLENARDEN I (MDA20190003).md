@@ -1,0 +1,85 @@
+# Project: GLENARDEN I (MDA20190003)
+
+- HUD ID: MDA20190003
+- HUD ID before: 
+- Project: GLENARDEN I
+- Address: 8405 HAMLIN STREET
+- City: LANHAM
+- State: MD
+- ZIP: 20706
+- ZIP extension: 
+- State project ID: MD-88-30001-8
+- Latitude: 38.926216
+- Longitude: -76.861961
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033803508
+- Tract 2010: 24033803508
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 32500
+- Place 2010: 32500
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1500000
+- Units: 114
+- Low-income units: 87
+- Units reported: 114
+- Low-income reported: 87
+- Efficiencies: 
+- 1-bedroom units: 40
+- 2-bedroom units: 41
+- 3-bedroom units: 6
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

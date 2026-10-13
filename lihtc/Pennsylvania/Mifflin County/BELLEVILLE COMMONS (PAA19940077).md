@@ -1,0 +1,85 @@
+# Project: BELLEVILLE COMMONS (PAA19940077)
+
+- HUD ID: PAA19940077
+- HUD ID before: 
+- Project: BELLEVILLE COMMONS
+- Address: 210 SECOND ST
+- City: BELLEVILLE
+- State: PA
+- ZIP: 17004
+- ZIP extension: 
+- State project ID: TC19940095
+- Latitude: 40.607986
+- Longitude: -77.720975
+- County FIPS: 42087
+- County from: 2020
+- Tract 2020: 42087960300
+- Tract 2010: 42087960300
+- Tract 2000: 42087960300
+- Tract 1990: 42087960300
+- Place 2020: 05304
+- Place 2010: 05304
+- Place 2000: 05304
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 56941
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1996025.
+- Record status: Existing, unchanged

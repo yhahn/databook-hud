@@ -1,0 +1,85 @@
+# Project: WALTER G. ALEXANDER REDEVELOPMENT PHASE II (NJA20120568)
+
+- HUD ID: NJA20120568
+- HUD ID before: 
+- Project: WALTER G. ALEXANDER REDEVELOPMENT PHASE II
+- Address: 105 WILSON PL
+- City: ORANGE
+- State: NJ
+- ZIP: 07050
+- ZIP extension: 3860
+- State project ID: 02622-1
+- Latitude: 40.765603
+- Longitude: -74.226638
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013018400
+- Tract 2010: 34013018400
+- Tract 2000: 34013018400
+- Tract 1990: 34013018400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 55020
+- Place 1990: 3065
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1134622
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: HAND TRADING COMPANY (GAA20191014)
+
+- HUD ID: GAA20191014
+- HUD ID before: 
+- Project: HAND TRADING COMPANY
+- Address: 107 W. RAILROAD ST.
+- City: PELHAM
+- State: GA
+- ZIP: 31179
+- ZIP extension: 
+- State project ID: 2017-031
+- Latitude: 31.127937
+- Longitude: -84.152379
+- County FIPS: 13205
+- County from: 2020
+- Tract 2020: 13205090501
+- Tract 2010: 13205090500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59976
+- Place 2010: 59976
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 648390
+- Units: 54
+- Low-income units: 44
+- Units reported: 54
+- Low-income reported: 44
+- Efficiencies: 
+- 1-bedroom units: 20
+- 2-bedroom units: 24
+- 3-bedroom units: 10
+- 4-bedroom units: 
+- Construction: 
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

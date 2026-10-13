@@ -1,0 +1,85 @@
+# Project: WILSON HOMES (GAA20181061)
+
+- HUD ID: GAA20181061
+- HUD ID before: 
+- Project: WILSON HOMES
+- Address: 3400 8TH AVENUE
+- City: COLUMBUS
+- State: GA
+- ZIP: 31904
+- ZIP extension: 
+- State project ID: GA1650462
+- Latitude: 32.495619
+- Longitude: -84.982517
+- County FIPS: 13215
+- County from: 2020
+- Tract 2020: 13215001600
+- Tract 2010: 13215001600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 
+- Units: 289
+- Low-income units: 279
+- Units reported: 289
+- Low-income reported: 279
+- Efficiencies: 
+- 1-bedroom units: 51
+- 2-bedroom units: 146
+- 3-bedroom units: 68
+- 4-bedroom units: 23
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

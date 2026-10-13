@@ -1,0 +1,85 @@
+# Project: VOSS BROTHERS LOFTS (ILA20060005)
+
+- HUD ID: ILA20060005
+- HUD ID before: 
+- Project: VOSS BROTHERS LOFTS
+- Address: 2125 THIRD AVE
+- City: ROCK ISLAND
+- State: IL
+- ZIP: 61201
+- ZIP extension: 
+- State project ID: 204404
+- Latitude: 41.511854
+- Longitude: -90.57065
+- County FIPS: 17161
+- County from: 2020
+- Tract 2020: 17161022600
+- Tract 2010: 17161022600
+- Tract 2000: 17161022600
+- Tract 1990: 17161022600
+- Place 2020: 65078
+- Place 2010: 65078
+- Place 2000: 65078
+- Place 1990: 4970
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 255000
+- Units: 35
+- Low-income units: 26
+- Units reported: 35
+- Low-income reported: 26
+- Efficiencies: 2
+- 1-bedroom units: 8
+- 2-bedroom units: 9
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

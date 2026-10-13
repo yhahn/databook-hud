@@ -1,0 +1,85 @@
+# Project: KENSINGTON GARDENS I (FLA20110004)
+
+- HUD ID: FLA20110004
+- HUD ID before: 
+- Project: KENSINGTON GARDENS I
+- Address: 6008 FARMINGTON OAKS PL
+- City: RIVERVIEW
+- State: FL
+- ZIP: 33578
+- ZIP extension: 
+- State project ID: 2262
+- Latitude: 27.893584
+- Longitude: -82.341645
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057013705
+- Tract 2010: 12057013704
+- Tract 2000: 12057013701
+- Tract 1990: 12057013700
+- Place 2020: 60950
+- Place 2010: 60950
+- Place 2000: 54387
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 2018165
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 104
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2010052, FLA2010505.
+- Record status: Existing, unchanged

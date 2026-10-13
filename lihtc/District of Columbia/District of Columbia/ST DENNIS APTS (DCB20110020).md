@@ -1,0 +1,85 @@
+# Project: ST DENNIS APTS (DCB20110020)
+
+- HUD ID: DCB20110020
+- HUD ID before: 
+- Project: ST DENNIS APTS
+- Address: 1636 KENYON ST NW
+- City: WASHINGTON
+- State: DC
+- ZIP: 20010
+- ZIP extension: 
+- State project ID: DCB-2011020
+- Latitude: 38.929579
+- Longitude: -77.038548
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001002702
+- Tract 2010: 11001002702
+- Tract 2000: 11001002702
+- Tract 1990: 11001002702
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 324285
+- Units: 98
+- Low-income units: 98
+- Units reported: 32
+- Low-income reported: 98
+- Efficiencies: 1
+- 1-bedroom units: 18
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1837607
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DCB2011505.
+- Record status: Existing, unchanged

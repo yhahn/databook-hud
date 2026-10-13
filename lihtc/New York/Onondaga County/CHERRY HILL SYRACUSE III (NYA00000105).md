@@ -1,0 +1,85 @@
+# Project: CHERRY HILL SYRACUSE III (NYA00000105)
+
+- HUD ID: NYA00000105
+- HUD ID before: 
+- Project: CHERRY HILL SYRACUSE III
+- Address: 110 BASSETT ST
+- City: SYRACUSE
+- State: NY
+- ZIP: 13210
+- ZIP extension: 
+- State project ID: 487
+- Latitude: 43.045367
+- Longitude: -76.122643
+- County FIPS: 36067
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36067003500
+- Tract 2000: 36067003500
+- Tract 1990: 36067003500
+- Place 2020: 
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 3565
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 164
+- Low-income units: 151
+- Units reported: 164
+- Low-income reported: 151
+- Efficiencies: 22
+- 1-bedroom units: 47
+- 2-bedroom units: 42
+- 3-bedroom units: 30
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

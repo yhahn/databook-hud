@@ -1,0 +1,85 @@
+# Project: UPTOWN PRESERVATION (ILB20070075)
+
+- HUD ID: ILB20070075
+- HUD ID before: 
+- Project: UPTOWN PRESERVATION
+- Address: 4431 N CLIFTON AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60640
+- ZIP extension: 
+- State project ID: TC-07-021
+- Latitude: 41.962397
+- Longitude: -87.657989
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031830700
+- Tract 2010: 17031830700
+- Tract 2000: 17031031600
+- Tract 1990: 17031031600
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 609604
+- Units: 77
+- Low-income units: 77
+- Units reported: 77
+- Low-income reported: 77
+- Efficiencies: 12
+- 1-bedroom units: 20
+- 2-bedroom units: 32
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 46
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: Yes
+- CDBG amount: 1137197
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB1988020.
+- Record status: Existing, unchanged

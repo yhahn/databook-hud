@@ -1,0 +1,85 @@
+# Project: COOPER CREEK DUPLEX UNITS (NEA19900803)
+
+- HUD ID: NEA19900803
+- HUD ID before: 
+- Project: COOPER CREEK DUPLEX UNITS
+- Address: 5032 COPPER CREEK RD
+- City: OMAHA
+- State: NE
+- ZIP: 68157
+- ZIP extension: 
+- State project ID: 7-0080
+- Latitude: 41.177532
+- Longitude: -95.992848
+- County FIPS: 31153
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31153010503
+- Tract 2000: 31153010503
+- Tract 1990: 31153010503
+- Place 2020: 
+- Place 2010: 03950
+- Place 2000: 03950
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 7488
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA0000135.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIDGEVIEW APTS (INA19910039)
+
+- HUD ID: INA19910039
+- HUD ID before: 
+- Project: RIDGEVIEW APTS
+- Address: 102 ROBYN AVE
+- City: HENRYVILLE
+- State: IN
+- ZIP: 47126
+- ZIP extension: 
+- State project ID: IN-91-00301
+- Latitude: 38.53583
+- Longitude: -85.77165
+- County FIPS: 18019
+- County from: 2020
+- Tract 2020: 18019050804
+- Tract 2010: 18019050804
+- Tract 2000: 18019050802
+- Tract 1990: 18019050802
+- Place 2020: 33142
+- Place 2010: 33142
+- Place 2000: 33142
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 8
+- Units reported: 12
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001405.
+- Record status: Existing, unchanged

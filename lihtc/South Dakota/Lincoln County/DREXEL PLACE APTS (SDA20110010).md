@@ -1,0 +1,85 @@
+# Project: DREXEL PLACE APTS (SDA20110010)
+
+- HUD ID: SDA20110010
+- HUD ID before: 
+- Project: DREXEL PLACE APTS
+- Address: 600 SPRUCE ST
+- City: HARRISBURG
+- State: SD
+- ZIP: 57032
+- ZIP extension: 
+- State project ID: 02844
+- Latitude: 43.430573
+- Longitude: -96.713114
+- County FIPS: 46083
+- County from: 2020
+- Tract 2020: 46083010107
+- Tract 2010: 46083010107
+- Tract 2000: 46083010100
+- Tract 1990: 46083010100
+- Place 2020: 27260
+- Place 2010: 27260
+- Place 2000: 27260
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 489580
+- Units: 48
+- Low-income units: 43
+- Units reported: 48
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 22
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 800000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SDA2011509.
+- Record status: Existing, unchanged

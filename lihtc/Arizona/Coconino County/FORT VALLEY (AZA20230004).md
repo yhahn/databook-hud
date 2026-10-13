@@ -1,0 +1,85 @@
+# Project: FORT VALLEY (AZA20230004)
+
+- HUD ID: AZA20230004
+- HUD ID before: 
+- Project: FORT VALLEY
+- Address: 1576 N FORT VALLEY RD
+- City: FLAGSTAFF
+- State: AZ
+- ZIP: 86001
+- ZIP extension: 
+- State project ID: TC-0922-19
+- Latitude: 35.216342
+- Longitude: -111.650394
+- County FIPS: 04005
+- County from: 2020
+- Tract 2020: 04005000200
+- Tract 2010: 04005000100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23620
+- Place 2010: 23620
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 2027272
+- Units: 77
+- Low-income units: 68
+- Units reported: 77
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 35
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 68
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

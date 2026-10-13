@@ -1,0 +1,85 @@
+# Project: SOUTHWYCK HILLS APTS (VAA20100936)
+
+- HUD ID: VAA20100936
+- HUD ID before: 
+- Project: SOUTHWYCK HILLS APTS
+- Address: 114 N HILLS CT
+- City: DANVILLE
+- State: VA
+- ZIP: 24541
+- ZIP extension: 
+- State project ID: 4185
+- Latitude: 36.551786
+- Longitude: -79.414151
+- County FIPS: 51590
+- County from: 2020
+- Tract 2020: 51590001200
+- Tract 2010: 51590001200
+- Tract 2000: 51590001200
+- Tract 1990: 51590001200
+- Place 2020: 21344
+- Place 2010: 21344
+- Place 2000: 21344
+- Place 1990: 0370
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 486550
+- Units: 116
+- Low-income units: 116
+- Units reported: 116
+- Low-income reported: 116
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 48
+- 3-bedroom units: 42
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2009125.
+- Record status: Existing, unchanged

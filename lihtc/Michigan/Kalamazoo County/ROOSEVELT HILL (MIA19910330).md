@@ -1,0 +1,85 @@
+# Project: ROOSEVELT HILL (MIA19910330)
+
+- HUD ID: MIA19910330
+- HUD ID before: 
+- Project: ROOSEVELT HILL
+- Address: 1300 SHERWOOD AVE
+- City: KALAMAZOO
+- State: MI
+- ZIP: 49048
+- ZIP extension: 
+- State project ID: MI-1406
+- Latitude: 42.297023
+- Longitude: -85.564138
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077000100
+- Tract 2010: 26077000100
+- Tract 2000: 26077000100
+- Tract 1990: 26077000100
+- Place 2020: 42160
+- Place 2010: 42160
+- Place 2000: 24500
+- Place 1990: 1370
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1991335.
+- Record status: Existing, unchanged

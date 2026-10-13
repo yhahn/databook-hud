@@ -1,0 +1,24 @@
+# Tax Credit Projects: Pine County, MN
+
+- Level: County
+- Postal code: MN
+- State FIPS: 27
+- County FIPS: 27115
+- Counties: 
+- Projects: 7
+- Units: 157
+- Low-income units: 156
+
+The low-income housing tax credit projects of Pine County, Minnesota, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [HALTER PINES I (MNA19890045)](./Pine%20County/HALTER%20PINES%20I%20%28MNA19890045%29.md) | MNA19890045 | PINE CITY | 1989 | 24 | 24 |
+| [SANDSTONE SQUARE (MNA19929009)](./Pine%20County/SANDSTONE%20SQUARE%20%28MNA19929009%29.md) | MNA19929009 | SANDSTONE | 1992 | 15 | 15 |
+| [HINCKLEY SQUARE APARTMENTS (MNA19930105)](./Pine%20County/HINCKLEY%20SQUARE%20APARTMENTS%20%28MNA19930105%29.md) | MNA19930105 | HINCKLEY | 1993 | 24 | 24 |
+| [HALTER PINES II (MNA19939004)](./Pine%20County/HALTER%20PINES%20II%20%28MNA19939004%29.md) | MNA19939004 | PINE CITY | 1993 | 20 | 20 |
+| [DUNN SQUARE ASSOCIATES (MNA19940062)](./Pine%20County/DUNN%20SQUARE%20ASSOCIATES%20%28MNA19940062%29.md) | MNA19940062 | HINCKLEY | 1994 | 34 | 34 |
+| [KETTLE RIVER TOWNHOMES (MNA20050080)](./Pine%20County/KETTLE%20RIVER%20TOWNHOMES%20%28MNA20050080%29.md) | MNA20050080 | SANDSTONE | 2005 | 12 | 12 |
+| [LADY LUCK ESTATES (MNA20182005)](./Pine%20County/LADY%20LUCK%20ESTATES%20%28MNA20182005%29.md) | MNA20182005 | HINCKLEY | 2018 | 28 | 27 |

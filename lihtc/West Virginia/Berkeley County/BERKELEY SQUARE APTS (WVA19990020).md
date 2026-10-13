@@ -1,0 +1,85 @@
+# Project: BERKELEY SQUARE APTS (WVA19990020)
+
+- HUD ID: WVA19990020
+- HUD ID before: 
+- Project: BERKELEY SQUARE APTS
+- Address: 154 JENNINGS DR
+- City: MARTINSBURG
+- State: WV
+- ZIP: 25404
+- ZIP extension: 
+- State project ID: WV-98-196
+- Latitude: 39.485182
+- Longitude: -77.959473
+- County FIPS: 54003
+- County from: 2020
+- Tract 2020: 54003971301
+- Tract 2010: 54003971300
+- Tract 2000: 54003971300
+- Tract 1990: 54003971300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 52060
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

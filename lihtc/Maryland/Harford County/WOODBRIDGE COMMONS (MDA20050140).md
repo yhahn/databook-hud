@@ -1,0 +1,85 @@
+# Project: WOODBRIDGE COMMONS (MDA20050140)
+
+- HUD ID: MDA20050140
+- HUD ID before: 
+- Project: WOODBRIDGE COMMONS
+- Address: 1315 WOODBRIDGE STATION WAY
+- City: EDGEWOOD
+- State: MD
+- ZIP: 21040
+- ZIP extension: 
+- State project ID: MD04-07001
+- Latitude: 39.431105
+- Longitude: -76.331038
+- County FIPS: 24025
+- County from: 2020
+- Tract 2020: 24025301302
+- Tract 2010: 24025301302
+- Tract 2000: 24025301302
+- Tract 1990: 24025301300
+- Place 2020: 25150
+- Place 2010: 25150
+- Place 2000: 25150
+- Place 1990: 0295
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 132
+- Low-income units: 131
+- Units reported: 132
+- Low-income reported: 131
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

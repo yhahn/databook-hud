@@ -1,0 +1,85 @@
+# Project: CENTURY COURT APARTMENTS (FKA CROW RIVER APTS.) (MNA19959004)
+
+- HUD ID: MNA19959004
+- HUD ID before: 
+- Project: CENTURY COURT APARTMENTS (FKA CROW RIVER APTS.)
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: HUTCHINSON
+- State: MN
+- ZIP: 55802
+- ZIP extension: 
+- State project ID: D0651
+- Latitude: 46.7826
+- Longitude: -92.0954
+- County FIPS: 27137
+- County from: 2020
+- Tract 2020: 27137001900
+- Tract 2010: 27137001900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 17000
+- Place 2010: 17000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 7
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA CROW RIVER APTS
+- Record status: Existing, unchanged

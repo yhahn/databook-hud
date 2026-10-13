@@ -1,0 +1,85 @@
+# Project: TOUCHSTONE APTS (ARA20030748)
+
+- HUD ID: ARA20030748
+- HUD ID before: 
+- Project: TOUCHSTONE APTS
+- Address: 501 SW 20TH ST
+- City: BENTONVILLE
+- State: AR
+- ZIP: 72712
+- ZIP extension: 
+- State project ID: AR-05-02-001
+- Latitude: 36.349702
+- Longitude: -94.214832
+- County FIPS: 05007
+- County from: 2020
+- Tract 2020: 05007020604
+- Tract 2010: 05007020604
+- Tract 2000: 05007020602
+- Tract 1990: 05007020602
+- Place 2020: 05320
+- Place 2010: 05320
+- Place 2000: 05320
+- Place 1990: 0175
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 315531
+- Units: 190
+- Low-income units: 189
+- Units reported: 190
+- Low-income reported: 189
+- Efficiencies: 1
+- 1-bedroom units: 97
+- 2-bedroom units: 91
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2003043. AKA TOUCHSTONE OF BENTONVILLE ARKANSAS.
+- Record status: Existing, unchanged

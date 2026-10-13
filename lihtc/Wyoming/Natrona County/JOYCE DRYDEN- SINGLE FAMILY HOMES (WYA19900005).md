@@ -1,0 +1,85 @@
+# Project: JOYCE DRYDEN- SINGLE FAMILY HOMES (WYA19900005)
+
+- HUD ID: WYA19900005
+- HUD ID before: 
+- Project: JOYCE DRYDEN- SINGLE FAMILY HOMES
+- Address: 1447 SHERIDAN DR
+- City: CASPER
+- State: WY
+- ZIP: 82604
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.835815
+- Longitude: -106.352858
+- County FIPS: 56025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 56025000800
+- Tract 2000: 56025000800
+- Tract 1990: 56025000800
+- Place 2020: 
+- Place 2010: 13150
+- Place 2000: 13150
+- Place 1990: 0045
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WYA0000005.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: EDGEMONT SENIOR APTS (PAA20109149)
+
+- HUD ID: PAA20109149
+- HUD ID before: 
+- Project: EDGEMONT SENIOR APTS
+- Address: 1001 AVE OF THE STATES
+- City: CHESTER
+- State: PA
+- ZIP: 19013
+- ZIP extension: 
+- State project ID: TC20090503
+- Latitude: 39.854844
+- Longitude: -75.360591
+- County FIPS: 42045
+- County from: 2020
+- Tract 2020: 42045405000
+- Tract 2010: 42045405000
+- Tract 2000: 42045405000
+- Tract 1990: 42045405000
+- Place 2020: 13208
+- Place 2010: 13208
+- Place 2000: 13208
+- Place 1990: 1855
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 87
+- Low-income units: 87
+- Units reported: 87
+- Low-income reported: 87
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 13614861
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

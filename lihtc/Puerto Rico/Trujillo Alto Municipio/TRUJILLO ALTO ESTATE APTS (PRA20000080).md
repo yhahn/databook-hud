@@ -1,0 +1,85 @@
+# Project: TRUJILLO ALTO ESTATE APTS (PRA20000080)
+
+- HUD ID: PRA20000080
+- HUD ID before: 
+- Project: TRUJILLO ALTO ESTATE APTS
+- Address: TRUJILLO ALTO ESTATES
+- City: TRUJILLO ALTO
+- State: PR
+- ZIP: 
+- ZIP extension: 
+- State project ID: 97-016
+- Latitude: 
+- Longitude: 
+- County FIPS: 72139
+- County from: 2020
+- Tract 2020: 72139060225
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 83606
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 2520410
+- Units: 250
+- Low-income units: 250
+- Units reported: 250
+- Low-income reported: 250
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 123
+- 3-bedroom units: 127
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

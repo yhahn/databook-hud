@@ -1,0 +1,85 @@
+# Project: FAIR HAVEN (CTA00000023)
+
+- HUD ID: CTA00000023
+- HUD ID before: 
+- Project: FAIR HAVEN
+- Address: 47 CLAY ST
+- City: NEW HAVEN
+- State: CT
+- ZIP: 06513
+- ZIP extension: 
+- State project ID: CT1012-382
+- Latitude: 41.310734
+- Longitude: -72.898318
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009142400
+- Tract 2010: 09009142400
+- Tract 2000: 09009142400
+- Tract 1990: 09009142400
+- Place 2020: 52000
+- Place 2010: 52000
+- Place 2000: 52000
+- Place 1990: 1450
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 63
+- Low-income units: 63
+- Units reported: 63
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WYNDAM PLACE SENIOR RESIDENCES (KSA20020095)
+
+- HUD ID: KSA20020095
+- HUD ID before: 
+- Project: WYNDAM PLACE SENIOR RESIDENCES
+- Address: 2734 HALL ST
+- City: HAYS
+- State: KS
+- ZIP: 67601
+- ZIP extension: 
+- State project ID: 60078
+- Latitude: 38.887655
+- Longitude: -99.336056
+- County FIPS: 20051
+- County from: 2020
+- Tract 2020: 20051072801
+- Tract 2010: 20051072800
+- Tract 2000: 20051972800
+- Tract 1990: 20051972800
+- Place 2020: 31100
+- Place 2010: 31100
+- Place 2000: 31100
+- Place 1990: 1210
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 276988
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WYNDAM PLACE SENIOR RESIDENCES - HAYS.
+- Record status: Existing, unchanged

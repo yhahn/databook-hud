@@ -1,0 +1,85 @@
+# Project: VILLAGE MANOR APTS (ILA19960215)
+
+- HUD ID: ILA19960215
+- HUD ID before: 
+- Project: VILLAGE MANOR APTS
+- Address: 104 S LINCOLN ST
+- City: OBLONG
+- State: IL
+- ZIP: 62449
+- ZIP extension: 
+- State project ID: 99096
+- Latitude: 39.000507
+- Longitude: -87.902939
+- County FIPS: 17033
+- County from: 2020
+- Tract 2020: 17033880200
+- Tract 2010: 17033880200
+- Tract 2000: 17033980200
+- Tract 1990: 17033980200
+- Place 2020: 55106
+- Place 2010: 55106
+- Place 2000: 55106
+- Place 1990: 4310
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 15447
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NORTHGATE APTS & RHOMBERG APTS (TXA20100802)
+
+- HUD ID: TXA20100802
+- HUD ID before: 
+- Project: NORTHGATE APTS & RHOMBERG APTS
+- Address: 105 NORTHGATE CIR
+- City: BURNET
+- State: TX
+- ZIP: 78611
+- ZIP extension: 
+- State project ID: 
+- Latitude: 30.776377
+- Longitude: -98.231529
+- County FIPS: 48053
+- County from: 2020
+- Tract 2020: 48053960302
+- Tract 2010: 48053960300
+- Tract 2000: 48053960300
+- Tract 1990: 48053960300
+- Place 2020: 11464
+- Place 2010: 11464
+- Place 2000: 11464
+- Place 1990: 0665
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2712282
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000733. FKA BURNET III
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SHANDAKEN VILLAGE APTS (NYA00000144)
+
+- HUD ID: NYA00000144
+- HUD ID before: 
+- Project: SHANDAKEN VILLAGE APTS
+- Address: 300 AVA MARIA DR
+- City: PHOENICIA
+- State: NY
+- ZIP: 12464
+- ZIP extension: 
+- State project ID: NY-90-0206_00083
+- Latitude: 42.087258
+- Longitude: -74.314369
+- County FIPS: 36111
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36111955300
+- Tract 2000: 36111950800
+- Tract 1990: 36111950800
+- Place 2020: 
+- Place 2010: 57650
+- Place 2000: 57650
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001560.
+- Record status: Existing, unchanged

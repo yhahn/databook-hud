@@ -1,0 +1,85 @@
+# Project: 2008 PERKINS AVE (TXA19870060)
+
+- HUD ID: TXA19870060
+- HUD ID before: 
+- Project: 2008 PERKINS AVE
+- Address: 2008 PERKINS AVE
+- City: MISSION
+- State: TX
+- ZIP: 78572
+- ZIP extension: 
+- State project ID: TX6358
+- Latitude: 26.226922
+- Longitude: -98.326002
+- County FIPS: 48215
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48215020204
+- Tract 2000: 48215020203
+- Tract 1990: 48215020200
+- Place 2020: 
+- Place 2010: 48768
+- Place 2000: 48768
+- Place 1990: 2850
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COUNTRY CLUB APTS - SANTA FE (NMA20030005)
+
+- HUD ID: NMA20030005
+- HUD ID before: 
+- Project: COUNTRY CLUB APTS - SANTA FE
+- Address: 1002 AIRPORT RD
+- City: SANTA FE
+- State: NM
+- ZIP: 87507
+- ZIP extension: 
+- State project ID: 00368
+- Latitude: 35.6475
+- Longitude: -106.0311
+- County FIPS: 35049
+- County from: 2020
+- Tract 2020: 35049001206
+- Tract 2010: 35049001204
+- Tract 2000: 35049001201
+- Tract 1990: 35049001200
+- Place 2020: 70500
+- Place 2010: 01220
+- Place 2000: 01220
+- Place 1990: 0360
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NMA2002900.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BROOKS LANE APARTMENTS (GAA19950045)
+
+- HUD ID: GAA19950045
+- HUD ID before: 
+- Project: BROOKS LANE APARTMENTS
+- Address: 1203 OLD 441 S
+- City: CLAYTON
+- State: GA
+- ZIP: 30525
+- ZIP extension: 5616
+- State project ID: GA-93-033
+- Latitude: 34.864967
+- Longitude: -83.411052
+- County FIPS: 13241
+- County from: 2020
+- Tract 2020: 13241970201
+- Tract 2010: 13241970201
+- Tract 2000: 13241970300
+- Tract 1990: 13241970300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 75328
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

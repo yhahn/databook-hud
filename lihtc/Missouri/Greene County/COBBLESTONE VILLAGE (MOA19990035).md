@@ -1,0 +1,85 @@
+# Project: COBBLESTONE VILLAGE (MOA19990035)
+
+- HUD ID: MOA19990035
+- HUD ID before: 
+- Project: COBBLESTONE VILLAGE
+- Address: 2865 S INGRAM MILL RD
+- City: SPRINGFIELD
+- State: MO
+- ZIP: 65804
+- ZIP extension: 
+- State project ID: 97036
+- Latitude: 37.159711
+- Longitude: -93.230451
+- County FIPS: 29077
+- County from: 2020
+- Tract 2020: 29077002502
+- Tract 2010: 29077002502
+- Tract 2000: 29077002500
+- Tract 1990: 29077002500
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 4075
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 72
+- Units reported: 144
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

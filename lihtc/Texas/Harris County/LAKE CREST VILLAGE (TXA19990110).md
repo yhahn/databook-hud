@@ -1,0 +1,85 @@
+# Project: LAKE CREST VILLAGE (TXA19990110)
+
+- HUD ID: TXA19990110
+- HUD ID before: 
+- Project: LAKE CREST VILLAGE
+- Address: 9300 TIDWELL RD
+- City: HOUSTON
+- State: TX
+- ZIP: 
+- ZIP extension: 
+- State project ID: TX-97-151
+- Latitude: 
+- Longitude: 
+- County FIPS: 48201
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 48201231200
+- Tract 1990: 48201022602
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 224
+- Low-income units: 168
+- Units reported: 224
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 80
+- 3-bedroom units: 91
+- 4-bedroom units: 53
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

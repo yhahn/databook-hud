@@ -1,0 +1,85 @@
+# Project: 1009 ELLSWORTH PL (INA00000015)
+
+- HUD ID: INA00000015
+- HUD ID before: 
+- Project: 1009 ELLSWORTH PL
+- Address: 1009 ELLSWORTH PL
+- City: GARY
+- State: IN
+- ZIP: 46404
+- ZIP extension: 
+- State project ID: IN-90-04700
+- Latitude: 41.592775
+- Longitude: -87.369598
+- County FIPS: 18089
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18089010900
+- Tract 2000: 18089010900
+- Tract 1990: 18089011400
+- Place 2020: 
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 0905
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

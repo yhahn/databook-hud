@@ -1,0 +1,85 @@
+# Project: ART AT BRATTONS EDGE (TXA20163005)
+
+- HUD ID: TXA20163005
+- HUD ID before: 
+- Project: ART AT BRATTONS EDGE
+- Address: 15405 LONG VISTA DRIVE
+- City: AUSTIN
+- State: TX
+- ZIP: 
+- ZIP extension: 
+- State project ID: TX5032
+- Latitude: 30.454534
+- Longitude: -97.677995
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453042300
+- Tract 2010: 48453001853
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 77196
+- Place 2010: 77196
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

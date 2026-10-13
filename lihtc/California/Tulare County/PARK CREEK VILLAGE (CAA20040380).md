@@ -1,0 +1,85 @@
+# Project: PARK CREEK VILLAGE (CAA20040380)
+
+- HUD ID: CAA20040380
+- HUD ID before: 
+- Project: PARK CREEK VILLAGE
+- Address: 398 W WALNUT AVE
+- City: FARMERSVILLE
+- State: CA
+- ZIP: 93223
+- ZIP extension: 
+- State project ID: CA-03-139
+- Latitude: 36.312474
+- Longitude: -119.210331
+- County FIPS: 06107
+- County from: 2020
+- Tract 2020: 06107001400
+- Tract 2010: 06107001400
+- Tract 2000: 06107001400
+- Tract 1990: 06107001400
+- Place 2020: 23616
+- Place 2010: 23616
+- Place 2000: 23616
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 487773
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 24
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

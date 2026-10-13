@@ -1,0 +1,85 @@
+# Project: WOODLAND MILLS I AKA WOODLAND PRESERVATION (DEA19970025)
+
+- HUD ID: DEA19970025
+- HUD ID before: 
+- Project: WOODLAND MILLS I AKA WOODLAND PRESERVATION
+- Address: 900 WOODLAND MILLS DRIVE
+- City: SEAFORD
+- State: DE
+- ZIP: 19973
+- ZIP extension: 
+- State project ID: DE143FY9610
+- Latitude: 38.652679
+- Longitude: -75.60304
+- County FIPS: 10005
+- County from: 2020
+- Tract 2020: 10005050406
+- Tract 2010: 10005050406
+- Tract 2000: 10005050402
+- Tract 1990: 10005050400
+- Place 2020: 64320
+- Place 2010: 64320
+- Place 2000: 64320
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 284642
+- Units: 97
+- Low-income units: 97
+- Units reported: 97
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 60
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

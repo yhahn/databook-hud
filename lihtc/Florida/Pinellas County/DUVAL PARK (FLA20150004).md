@@ -1,0 +1,85 @@
+# Project: DUVAL PARK (FLA20150004)
+
+- HUD ID: FLA20150004
+- HUD ID before: 
+- Project: DUVAL PARK
+- Address: 44TH WAY + DUVAL CIRCLE EAST
+- City: ST. PETERSBURG
+- State: FL
+- ZIP: 33714
+- ZIP extension: 
+- State project ID: 2618
+- Latitude: 27.8183
+- Longitude: -82.6722
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103024604
+- Tract 2010: 12103024602
+- Tract 2000: 12103024700
+- Tract 1990: 
+- Place 2020: 39775
+- Place 2010: 39775
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1300000
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 
+- 1-bedroom units: 40
+- 2-bedroom units: 28
+- 3-bedroom units: 16
+- 4-bedroom units: 2
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

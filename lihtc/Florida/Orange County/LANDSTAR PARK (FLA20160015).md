@@ -1,0 +1,85 @@
+# Project: LANDSTAR PARK (FLA20160015)
+
+- HUD ID: FLA20160015
+- HUD ID before: 
+- Project: LANDSTAR PARK
+- Address: 1001 LANDSTAR PARK DRIVE
+- City: ORLANDO
+- State: FL
+- ZIP: 32824
+- ZIP extension: 
+- State project ID: 2803
+- Latitude: 28.372811
+- Longitude: -81.368385
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016809
+- Tract 2010: 12095016806
+- Tract 2000: 12095016805
+- Tract 1990: 
+- Place 2020: 43800
+- Place 2010: 43800
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1114048
+- Units: 156
+- Low-income units: 156
+- Units reported: 156
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 24
+- 3-bedroom units: 95
+- 4-bedroom units: 23
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

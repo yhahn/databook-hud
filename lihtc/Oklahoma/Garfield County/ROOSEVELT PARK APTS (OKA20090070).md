@@ -1,0 +1,85 @@
+# Project: ROOSEVELT PARK APTS (OKA20090070)
+
+- HUD ID: OKA20090070
+- HUD ID before: 
+- Project: ROOSEVELT PARK APTS
+- Address: 831 E OKLAHOMA AVE
+- City: ENID
+- State: OK
+- ZIP: 73701
+- ZIP extension: 
+- State project ID: 080103
+- Latitude: 36.392976
+- Longitude: -97.866407
+- County FIPS: 40047
+- County from: 2020
+- Tract 2020: 40047000702
+- Tract 2010: 40047000700
+- Tract 2000: 40047000700
+- Tract 1990: 40047000700
+- Place 2020: 23950
+- Place 2010: 23950
+- Place 2000: 23950
+- Place 1990: 0790
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 535419
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 20
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 47
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

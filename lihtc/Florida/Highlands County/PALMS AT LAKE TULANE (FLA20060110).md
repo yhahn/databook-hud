@@ -1,0 +1,85 @@
+# Project: PALMS AT LAKE TULANE (FLA20060110)
+
+- HUD ID: FLA20060110
+- HUD ID before: 
+- Project: PALMS AT LAKE TULANE
+- Address: 1033 HAL MCRAE LOOP
+- City: AVON PARK
+- State: FL
+- ZIP: 33825
+- ZIP extension: 
+- State project ID: 1470
+- Latitude: 27.583796
+- Longitude: -81.507128
+- County FIPS: 12055
+- County from: 2020
+- Tract 2020: 12055960105
+- Tract 2010: 12055960103
+- Tract 2000: 12055960100
+- Tract 1990: 12055960100
+- Place 2020: 02750
+- Place 2010: 02750
+- Place 2000: 02750
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 673659
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 37
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

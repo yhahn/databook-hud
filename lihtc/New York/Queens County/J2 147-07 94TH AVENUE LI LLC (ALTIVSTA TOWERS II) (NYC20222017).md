@@ -1,0 +1,85 @@
+# Project: J2 147-07 94TH AVENUE LI LLC (ALTIVSTA TOWERS II) (NYC20222017)
+
+- HUD ID: NYC20222017
+- HUD ID before: 
+- Project: J2 147-07 94TH AVENUE LI LLC (ALTIVSTA TOWERS II)
+- Address: 147-25 9TH AVENUE
+- City: JAMAICA
+- State: NY
+- ZIP: 11435
+- ZIP extension: 
+- State project ID: NY 19 02 052
+- Latitude: 40.7036
+- Longitude: -73.8049
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081024000
+- Tract 2010: 36081024000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 3571875
+- Units: 543
+- Low-income units: 216
+- Units reported: 543
+- Low-income reported: 216
+- Efficiencies: 110
+- 1-bedroom units: 283
+- 2-bedroom units: 150
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 216
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: N
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

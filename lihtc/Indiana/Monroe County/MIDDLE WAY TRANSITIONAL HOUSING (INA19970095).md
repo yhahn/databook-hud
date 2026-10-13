@@ -1,0 +1,85 @@
+# Project: MIDDLE WAY TRANSITIONAL HOUSING (INA19970095)
+
+- HUD ID: INA19970095
+- HUD ID before: 
+- Project: MIDDLE WAY TRANSITIONAL HOUSING
+- Address: 401 S WASHINGTON ST
+- City: BLOOMINGTON
+- State: IN
+- ZIP: 47401
+- ZIP extension: 
+- State project ID: IN-95-02400
+- Latitude: 39.16282
+- Longitude: -86.532183
+- County FIPS: 18105
+- County from: 2020
+- Tract 2020: 18105000100
+- Tract 2010: 18105000100
+- Tract 2000: 18105000100
+- Tract 1990: 18105000100
+- Place 2020: 05860
+- Place 2010: 05860
+- Place 2000: 05860
+- Place 1990: 0195
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 330000
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA THE RISE.
+- Record status: Existing, unchanged

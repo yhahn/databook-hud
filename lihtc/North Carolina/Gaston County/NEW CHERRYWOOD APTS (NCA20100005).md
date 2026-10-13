@@ -1,0 +1,85 @@
+# Project: NEW CHERRYWOOD APTS (NCA20100005)
+
+- HUD ID: NCA20100005
+- HUD ID before: 
+- Project: NEW CHERRYWOOD APTS
+- Address: 106 SULLIVAN DR
+- City: CHERRYVILLE
+- State: NC
+- ZIP: 28021
+- ZIP extension: 
+- State project ID: 9105255
+- Latitude: 35.378067
+- Longitude: -81.360323
+- County FIPS: 37071
+- County from: 2020
+- Tract 2020: 37071030700
+- Tract 2010: 37071030700
+- Tract 2000: 37071030700
+- Tract 1990: 37071030798
+- Place 2020: 12340
+- Place 2010: 12340
+- Place 2000: 12340
+- Place 1990: 0490
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 78984
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NCA1991065. AKA CHERRYWOOD APTS.;
+- Record status: Existing, unchanged

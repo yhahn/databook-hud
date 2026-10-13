@@ -1,0 +1,85 @@
+# Project: SAN JON ESTATES (ELDON) (MOA19880065)
+
+- HUD ID: MOA19880065
+- HUD ID before: 
+- Project: SAN JON ESTATES (ELDON)
+- Address: 1505 JONES AVE
+- City: ELDON
+- State: MO
+- ZIP: 65026
+- ZIP extension: 
+- State project ID: 168008
+- Latitude: 38.35205
+- Longitude: -92.563895
+- County FIPS: 29131
+- County from: 2020
+- Tract 2020: 29131962902
+- Tract 2010: 29131962900
+- Tract 2000: 29131982900
+- Tract 1990: 29131982900
+- Place 2020: 21484
+- Place 2010: 21484
+- Place 2000: 21484
+- Place 1990: 1270
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

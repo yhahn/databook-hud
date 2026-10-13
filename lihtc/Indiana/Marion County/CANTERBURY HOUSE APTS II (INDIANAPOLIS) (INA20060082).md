@@ -1,0 +1,85 @@
+# Project: CANTERBURY HOUSE APTS II (INDIANAPOLIS) (INA20060082)
+
+- HUD ID: INA20060082
+- HUD ID before: 
+- Project: CANTERBURY HOUSE APTS II (INDIANAPOLIS)
+- Address: 7955 KINGSMEAD DR
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46226
+- ZIP extension: 
+- State project ID: IN-05-00500
+- Latitude: 39.842973
+- Longitude: -86.027719
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097330600
+- Tract 2010: 18097330600
+- Tract 2000: 18097330600
+- Tract 1990: 18097330600
+- Place 2020: 42426
+- Place 2010: 42426
+- Place 2000: 42426
+- Place 1990: 1340
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 40
+- Units reported: 46
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 22
+- 3-bedroom units: 12
+- 4-bedroom units: 6
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

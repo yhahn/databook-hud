@@ -1,0 +1,85 @@
+# Project: EL VERANO (CAA20200018)
+
+- HUD ID: CAA20200018
+- HUD ID before: 
+- Project: EL VERANO
+- Address: 1248 EAST LINCOLN AVENUE
+- City: ANAHEIM
+- State: CA
+- ZIP: 92805
+- ZIP extension: 
+- State project ID: CA-2018-099
+- Latitude: 33.838406
+- Longitude: -117.900523
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059086301
+- Tract 2010: 06059086301
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02000
+- Place 2010: 02000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1499221
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 
+- 1-bedroom units: 44
+- 2-bedroom units: 10
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 49
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

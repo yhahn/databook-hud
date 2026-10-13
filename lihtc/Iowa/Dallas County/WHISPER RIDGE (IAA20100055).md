@@ -1,0 +1,85 @@
+# Project: WHISPER RIDGE (IAA20100055)
+
+- HUD ID: IAA20100055
+- HUD ID before: 
+- Project: WHISPER RIDGE
+- Address: 9005 BRIDGEWOOD BLVD
+- City: WEST DES MOINES
+- State: IA
+- ZIP: 50266
+- ZIP extension: 
+- State project ID: 08-0902
+- Latitude: 41.565661
+- Longitude: -93.828526
+- County FIPS: 19049
+- County from: 2020
+- Tract 2020: 19049050816
+- Tract 2010: 19049050812
+- Tract 2000: 19049050802
+- Tract 1990: 19049050800
+- Place 2020: 83910
+- Place 2010: 83910
+- Place 2000: 14520
+- Place 1990: 4470
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 3000000
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 208
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 112
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 5983770
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GENERATIONS AT WEST MESA (NMA20190001)
+
+- HUD ID: NMA20190001
+- HUD ID before: 
+- Project: GENERATIONS AT WEST MESA
+- Address: 5710 AVALON ROAD NW
+- City: ALBUQUERQUE
+- State: NM
+- ZIP: 87105
+- ZIP extension: 
+- State project ID: TC170100
+- Latitude: 35.08481
+- Longitude: -106.702319
+- County FIPS: 35001
+- County from: 2020
+- Tract 2020: 35001002403
+- Tract 2010: 35001002402
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02000
+- Place 2010: 02000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 674999
+- Units: 54
+- Low-income units: 45
+- Units reported: 54
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 800000
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

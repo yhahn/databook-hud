@@ -1,0 +1,85 @@
+# Project: ST JOHN APTS (PAA20030165)
+
+- HUD ID: PAA20030165
+- HUD ID before: 
+- Project: ST JOHN APTS
+- Address: 419 N MAIN ST
+- City: WILKES BARRE
+- State: PA
+- ZIP: 18702
+- ZIP extension: 
+- State project ID: TC20010718
+- Latitude: 41.25332
+- Longitude: -75.868801
+- County FIPS: 42079
+- County from: 2020
+- Tract 2020: 42079201300
+- Tract 2010: 42079201300
+- Tract 2000: 42079201300
+- Tract 1990: 42079201300
+- Place 2020: 85152
+- Place 2010: 85152
+- Place 2000: 85152
+- Place 1990: 8904
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 169071
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 305000
+- CDBG: Yes
+- CDBG amount: 120000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

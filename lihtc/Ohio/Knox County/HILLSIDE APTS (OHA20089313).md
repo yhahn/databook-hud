@@ -1,0 +1,85 @@
+# Project: HILLSIDE APTS (OHA20089313)
+
+- HUD ID: OHA20089313
+- HUD ID before: 
+- Project: HILLSIDE APTS
+- Address: 100 MCGIBNEY RD
+- City: MT VERNON
+- State: OH
+- ZIP: 43050
+- ZIP extension: 
+- State project ID: 050119
+- Latitude: 40.405738
+- Longitude: -82.471147
+- County FIPS: 39083
+- County from: 2020
+- Tract 2020: 39083007200
+- Tract 2010: 39083007200
+- Tract 2000: 39083987200
+- Tract 1990: 39083987200
+- Place 2020: 53102
+- Place 2010: 53102
+- Place 2000: 53102
+- Place 1990: 2840
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 26128
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 35
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007756, OHA2008110. AKA KNO-HO-CO HILLSIDE APTS ASSOC.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PRESTON VISTA APTS (IDA19990030)
+
+- HUD ID: IDA19990030
+- HUD ID before: 
+- Project: PRESTON VISTA APTS
+- Address: 250 E FOURTH N
+- City: PRESTON
+- State: ID
+- ZIP: 83263
+- ZIP extension: 
+- State project ID: HC9707
+- Latitude: 42.103364
+- Longitude: -111.869939
+- County FIPS: 16041
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 16041970100
+- Tract 2000: 16041970100
+- Tract 1990: 16041970100
+- Place 2020: 
+- Place 2010: 65260
+- Place 2000: 16120
+- Place 1990: 0800
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 166238
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 18
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FORECLOSED.
+- Record status: Existing, unchanged

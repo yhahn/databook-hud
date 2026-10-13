@@ -1,0 +1,85 @@
+# Project: VILLA HERMOSA (FLA19960806)
+
+- HUD ID: FLA19960806
+- HUD ID before: 
+- Project: VILLA HERMOSA
+- Address: 11455 W FLAGLER ST
+- City: MIAMI
+- State: FL
+- ZIP: 33174
+- ZIP extension: 
+- State project ID: 893
+- Latitude: 25.768484
+- Longitude: -80.382115
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086009063
+- Tract 2010: 12086009023
+- Tract 2000: 12086009016
+- Tract 1990: 12025008904
+- Place 2020: 70345
+- Place 2010: 24562
+- Place 2000: 24562
+- Place 1990: 1573
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 76
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

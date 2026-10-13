@@ -1,0 +1,85 @@
+# Project: MARION MANOR (SCA20150021)
+
+- HUD ID: SCA20150021
+- HUD ID before: SCA19940065
+- Project: MARION MANOR
+- Address: 131 HOTEL STREET
+- City: ST STEPHEN
+- State: SC
+- ZIP: 29479
+- ZIP extension: 
+- State project ID: SC-51-406
+- Latitude: 33.402144
+- Longitude: -79.920378
+- County FIPS: 45015
+- County from: 2020
+- Tract 2020: 45015020201
+- Tract 2010: 45015020201
+- Tract 2000: 45015020200
+- Tract 1990: 
+- Place 2020: 62755
+- Place 2010: 62755
+- Place 2000: 62755
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 74505
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS SCA19940065;PIN=SC-93-014
+- Record status: Existing, unchanged

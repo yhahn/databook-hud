@@ -1,0 +1,85 @@
+# Project: PLUM CREEK TOWNHOMES (TXA20000130)
+
+- HUD ID: TXA20000130
+- HUD ID before: 
+- Project: PLUM CREEK TOWNHOMES
+- Address: 6969 S LOOP E
+- City: HOUSTON
+- State: TX
+- ZIP: 77087
+- ZIP extension: 
+- State project ID: TX2068
+- Latitude: 29.696525
+- Longitude: -95.303131
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201311701
+- Tract 2010: 48201311700
+- Tract 2000: 48201311700
+- Tract 1990: 48201031901
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 152
+- Low-income units: 114
+- Units reported: 152
+- Low-income reported: 114
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

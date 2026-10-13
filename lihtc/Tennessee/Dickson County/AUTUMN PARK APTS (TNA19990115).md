@@ -1,0 +1,85 @@
+# Project: AUTUMN PARK APTS (TNA19990115)
+
+- HUD ID: TNA19990115
+- HUD ID before: 
+- Project: AUTUMN PARK APTS
+- Address: 150 AUTUMN WAY
+- City: DICKSON
+- State: TN
+- ZIP: 37055
+- ZIP extension: 
+- State project ID: TN-98-110
+- Latitude: 36.061798
+- Longitude: -87.388427
+- County FIPS: 47043
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47043060602
+- Tract 2000: 47043060600
+- Tract 1990: 47043060600
+- Place 2020: 
+- Place 2010: 20620
+- Place 2000: 09880
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 224327
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 56
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

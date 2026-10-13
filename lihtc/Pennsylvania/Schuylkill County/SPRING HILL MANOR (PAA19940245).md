@@ -1,0 +1,85 @@
+# Project: SPRING HILL MANOR (PAA19940245)
+
+- HUD ID: PAA19940245
+- HUD ID before: 
+- Project: SPRING HILL MANOR
+- Address: 439 PERSHING AVE
+- City: FRACKVILLE
+- State: PA
+- ZIP: 17931
+- ZIP extension: 
+- State project ID: TC19930050
+- Latitude: 40.77972
+- Longitude: -76.225914
+- County FIPS: 42107
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42107000800
+- Tract 2000: 42107000800
+- Tract 1990: 42107000800
+- Place 2020: 
+- Place 2010: 27232
+- Place 2000: 27232
+- Place 1990: 4110
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 46647
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

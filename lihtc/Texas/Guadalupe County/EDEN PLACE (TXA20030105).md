@@ -1,0 +1,85 @@
+# Project: EDEN PLACE (TXA20030105)
+
+- HUD ID: TXA20030105
+- HUD ID before: 
+- Project: EDEN PLACE
+- Address: 1220 JEFFERSON AVE
+- City: SEGUIN
+- State: TX
+- ZIP: 78155
+- ZIP extension: 
+- State project ID: TX0331
+- Latitude: 29.566426
+- Longitude: -97.983894
+- County FIPS: 48187
+- County from: 2020
+- Tract 2020: 48187210300
+- Tract 2010: 48187210300
+- Tract 2000: 48187210300
+- Tract 1990: 48187210300
+- Place 2020: 66644
+- Place 2010: 66644
+- Place 2000: 66644
+- Place 1990: 3880
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 56
+- Units reported: 60
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA EDEN PLACE SENIOR.
+- Record status: Existing, unchanged

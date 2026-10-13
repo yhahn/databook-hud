@@ -1,0 +1,85 @@
+# Project: COLUMBIA MILL APARTMENTS (GAA20140989)
+
+- HUD ID: GAA20140989
+- HUD ID before: 
+- Project: COLUMBIA MILL APARTMENTS
+- Address: 2229 FLAT SHOALS RD SE
+- City: ATLANTA
+- State: GA
+- ZIP: 30316
+- ZIP extension: 3711
+- State project ID: GA-11-031
+- Latitude: 33.721341
+- Longitude: -84.314995
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089023702
+- Tract 2010: 13089023700
+- Tract 2000: 13089023700
+- Tract 1990: 13089023700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 950000
+- Units: 100
+- Low-income units: 60
+- Units reported: 100
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 30
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2013007, GAA1997030.
+- Record status: Existing, unchanged

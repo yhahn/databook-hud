@@ -1,0 +1,85 @@
+# Project: NEW SETON SQUARE DOVER II (OHA20090245)
+
+- HUD ID: OHA20090245
+- HUD ID before: 
+- Project: NEW SETON SQUARE DOVER II
+- Address: 139 FILMORE AVE
+- City: DOVER
+- State: OH
+- ZIP: 44622
+- ZIP extension: 
+- State project ID: 090128
+- Latitude: 40.507656
+- Longitude: -81.459135
+- County FIPS: 39157
+- County from: 2020
+- Tract 2020: 39157021100
+- Tract 2010: 39157021100
+- Tract 2000: 39157021100
+- Tract 1990: 39157021100
+- Place 2020: 22456
+- Place 2010: 22456
+- Place 2000: 22456
+- Place 1990: 1180
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 10
+- 1-bedroom units: 80
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 54
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 258931
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WINDSCAPE APTS (TXA19890580)
+
+- HUD ID: TXA19890580
+- HUD ID before: 
+- Project: WINDSCAPE APTS
+- Address: 601 N COLLEGE ST
+- City: VAN ALSTYNE
+- State: TX
+- ZIP: 75495
+- ZIP extension: 
+- State project ID: TX6744
+- Latitude: 33.42714
+- Longitude: -96.584188
+- County FIPS: 48181
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48181001803
+- Tract 2000: 48181001803
+- Tract 1990: 48181001800
+- Place 2020: 
+- Place 2010: 74924
+- Place 2000: 35084
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Existing
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

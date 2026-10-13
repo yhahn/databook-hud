@@ -1,0 +1,85 @@
+# Project: LAKES OF WILLIAMSBERG APTS (TXA19960185)
+
+- HUD ID: TXA19960185
+- HUD ID before: 
+- Project: LAKES OF WILLIAMSBERG APTS
+- Address: 2950 MUSTANG DR
+- City: GRAPEVINE
+- State: TX
+- ZIP: 76051
+- ZIP extension: 
+- State project ID: TX1324
+- Latitude: 32.920182
+- Longitude: -97.108508
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439113713
+- Tract 2010: 48439113705
+- Tract 2000: 48439113705
+- Tract 1990: 48439113702
+- Place 2020: 30644
+- Place 2010: 30644
+- Place 2000: 30644
+- Place 1990: 1720
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 224
+- Low-income units: 224
+- Units reported: 224
+- Low-income reported: 224
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 96
+- 3-bedroom units: 80
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LAKES OF WILLIAMSBURG APTS.
+- Record status: Existing, unchanged

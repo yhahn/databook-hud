@@ -1,0 +1,85 @@
+# Project: RANCHO CARRILLO APTS (CAA19990460)
+
+- HUD ID: CAA19990460
+- HUD ID before: 
+- Project: RANCHO CARRILLO APTS
+- Address: 6053 PASEO ACAMPO
+- City: CARLSBAD
+- State: CA
+- ZIP: 92009
+- ZIP extension: 
+- State project ID: CA-00-828
+- Latitude: 33.128345
+- Longitude: -117.243039
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073020031
+- Tract 2010: 06073020013
+- Tract 2000: 06073020013
+- Tract 1990: 06073020011
+- Place 2020: 11194
+- Place 2010: 11194
+- Place 2000: 11194
+- Place 1990: 0405
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 290072
+- Units: 116
+- Low-income units: 76
+- Units reported: 116
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 33
+- 3-bedroom units: 35
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

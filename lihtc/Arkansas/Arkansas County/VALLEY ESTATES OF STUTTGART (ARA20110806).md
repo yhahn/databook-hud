@@ -1,0 +1,85 @@
+# Project: VALLEY ESTATES OF STUTTGART (ARA20110806)
+
+- HUD ID: ARA20110806
+- HUD ID before: 
+- Project: VALLEY ESTATES OF STUTTGART
+- Address: 202 E RICHSMITH DR
+- City: STUTTGART
+- State: AR
+- ZIP: 72160
+- ZIP extension: 
+- State project ID: AR-08-11-001
+- Latitude: 34.4911
+- Longitude: -91.5729
+- County FIPS: 05001
+- County from: 2020
+- Tract 2020: 05001480400
+- Tract 2010: 05001480400
+- Tract 2000: 05001980400
+- Tract 1990: 05001980400
+- Place 2020: 67490
+- Place 2010: 67490
+- Place 2000: 67490
+- Place 1990: 1905
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 48
+- Low-income units: 38
+- Units reported: 48
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 14
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2011025.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: UNION SQUARE APTS (MIA20060210)
+
+- HUD ID: MIA20060210
+- HUD ID before: 
+- Project: UNION SQUARE APTS
+- Address: 425 N UNION ST
+- City: ITHACA
+- State: MI
+- ZIP: 48847
+- ZIP extension: 
+- State project ID: MI-3139
+- Latitude: 43.296203
+- Longitude: -84.597875
+- County FIPS: 26057
+- County from: 2020
+- Tract 2020: 26057001000
+- Tract 2010: 26057001000
+- Tract 2000: 26057990900
+- Tract 1990: 26057990900
+- Place 2020: 41340
+- Place 2010: 41340
+- Place 2000: 41340
+- Place 1990: 1355
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 45596
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

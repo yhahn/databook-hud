@@ -1,0 +1,85 @@
+# Project: OSPREY RIDGE APTS (FLA20010140)
+
+- HUD ID: FLA20010140
+- HUD ID before: 
+- Project: OSPREY RIDGE APTS
+- Address: 201 HUNT ST
+- City: CLERMONT
+- State: FL
+- ZIP: 34711
+- ZIP extension: 
+- State project ID: 582
+- Latitude: 28.562637
+- Longitude: -81.753996
+- County FIPS: 12069
+- County from: 2020
+- Tract 2020: 12069031312
+- Tract 2010: 12069031305
+- Tract 2000: 12069031305
+- Tract 1990: 12069031302
+- Place 2020: 12925
+- Place 2010: 12925
+- Place 2000: 12925
+- Place 1990: 0380
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 174
+- Units reported: 176
+- Low-income reported: 174
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 112
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

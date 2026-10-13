@@ -1,0 +1,85 @@
+# Project: WAVERLEY VIEW APARTMENTS (MDA20170024)
+
+- HUD ID: MDA20170024
+- HUD ID before: 
+- Project: WAVERLEY VIEW APARTMENTS
+- Address: 400 HARLAN WAY
+- City: FREDERICK
+- State: MD
+- ZIP: 21702
+- ZIP extension: 
+- State project ID: MD-15-18
+- Latitude: 39.42759
+- Longitude: -77.45876
+- County FIPS: 24021
+- County from: 2020
+- Tract 2020: 24021750508
+- Tract 2010: 24021750503
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 30325
+- Place 2010: 30325
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1166500
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 
+- 1-bedroom units: 32
+- 2-bedroom units: 144
+- 3-bedroom units: 64
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

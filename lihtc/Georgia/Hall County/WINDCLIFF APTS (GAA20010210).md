@@ -1,0 +1,85 @@
+# Project: WINDCLIFF APTS (GAA20010210)
+
+- HUD ID: GAA20010210
+- HUD ID before: 
+- Project: WINDCLIFF APTS
+- Address: 150 GABRIEL CIR
+- City: GAINESVILLE
+- State: GA
+- ZIP: 30501
+- ZIP extension: 
+- State project ID: GA-99-008
+- Latitude: 34.331154
+- Longitude: -83.804227
+- County FIPS: 13139
+- County from: 2020
+- Tract 2020: 13139000602
+- Tract 2010: 13139000600
+- Tract 2000: 13139000600
+- Tract 1990: 13139000600
+- Place 2020: 31908
+- Place 2010: 31908
+- Place 2000: 31908
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

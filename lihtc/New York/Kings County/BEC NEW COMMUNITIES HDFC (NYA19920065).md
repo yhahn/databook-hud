@@ -1,0 +1,85 @@
+# Project: BEC NEW COMMUNITIES HDFC (NYA19920065)
+
+- HUD ID: NYA19920065
+- HUD ID before: 
+- Project: BEC NEW COMMUNITIES HDFC
+- Address: 1440 BEDFORD AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11216
+- ZIP extension: 
+- State project ID: 19900771
+- Latitude: 40.673962
+- Longitude: -73.954093
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047022100
+- Tract 2010: 36047022100
+- Tract 2000: 36047022100
+- Tract 1990: 36047022100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 7
+- 1-bedroom units: 3
+- 2-bedroom units: 15
+- 3-bedroom units: 5
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BAKERSFIELD PARK MEADOW LTD (CAA19960212)
+
+- HUD ID: CAA19960212
+- HUD ID before: 
+- Project: BAKERSFIELD PARK MEADOW LTD
+- Address: 840 PARK MEADOWS AVE
+- City: BAKERSFIELD
+- State: CA
+- ZIP: 93308
+- ZIP extension: 
+- State project ID: CA-94-205
+- Latitude: 35.430632
+- Longitude: -119.038004
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029000105
+- Tract 2010: 06029000101
+- Tract 2000: 06029000101
+- Tract 1990: 06029000101
+- Place 2020: 53448
+- Place 2010: 53448
+- Place 2000: 53448
+- Place 1990: 1992
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 899575
+- Units: 140
+- Low-income units: 138
+- Units reported: 140
+- Low-income reported: 138
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 58
+- 3-bedroom units: 66
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PARK MEADOWS.
+- Record status: Existing, unchanged

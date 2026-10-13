@@ -1,0 +1,85 @@
+# Project: WINTER CREEK VILLAGE (CAA20030655)
+
+- HUD ID: CAA20030655
+- HUD ID before: 
+- Project: WINTER CREEK VILLAGE
+- Address: 9177 WINDSOR RD
+- City: WINDSOR
+- State: CA
+- ZIP: 95492
+- ZIP extension: 
+- State project ID: CA-02-830
+- Latitude: 38.550001
+- Longitude: -122.816986
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097153808
+- Tract 2010: 06097153808
+- Tract 2000: 06097153803
+- Tract 1990: 06097153800
+- Place 2020: 85922
+- Place 2010: 85922
+- Place 2000: 85922
+- Place 1990: 3131
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 308171
+- Units: 41
+- Low-income units: 40
+- Units reported: 41
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 12
+- 3-bedroom units: 18
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WINDSOR ROAD APT.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHURCH HILL VILLAGE APARTMERNTS (TNA20060165)
+
+- HUD ID: TNA20060165
+- HUD ID before: 
+- Project: CHURCH HILL VILLAGE APARTMERNTS
+- Address: 914 HOLLISTON MILLS RD
+- City: CHURCH HILL
+- State: TN
+- ZIP: 37642
+- ZIP extension: 
+- State project ID: TN-04-046
+- Latitude: 36.514451
+- Longitude: -82.757377
+- County FIPS: 47073
+- County from: 2020
+- Tract 2020: 47073050502
+- Tract 2010: 47073050502
+- Tract 2000: 47073050500
+- Tract 1990: 47073050500
+- Place 2020: 14980
+- Place 2010: 14980
+- Place 2000: 14980
+- Place 1990: 0247
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 320796
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 30
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

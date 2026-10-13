@@ -1,0 +1,85 @@
+# Project: REVERA PROJECT (ILA19950190)
+
+- HUD ID: ILA19950190
+- HUD ID before: 
+- Project: REVERA PROJECT
+- Address: 512 S CHICAGO AVE
+- City: KANKAKEE
+- State: IL
+- ZIP: 60901
+- ZIP extension: 
+- State project ID: TC-663-94
+- Latitude: 41.114411
+- Longitude: -87.85913
+- County FIPS: 17091
+- County from: 2020
+- Tract 2020: 17091012300
+- Tract 2010: 17091012300
+- Tract 2000: 17091012300
+- Tract 1990: 17091012300
+- Place 2020: 38934
+- Place 2010: 38934
+- Place 2000: 38934
+- Place 1990: 2915
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 304802
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 25
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA KEMPER APTS.
+- Record status: Existing, unchanged

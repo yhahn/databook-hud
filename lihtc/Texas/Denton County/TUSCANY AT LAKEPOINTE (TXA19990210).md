@@ -1,0 +1,85 @@
+# Project: TUSCANY AT LAKEPOINTE (TXA19990210)
+
+- HUD ID: TXA19990210
+- HUD ID before: 
+- Project: TUSCANY AT LAKEPOINTE
+- Address: 805 LAKESIDE CIR
+- City: LEWISVILLE
+- State: TX
+- ZIP: 75057
+- ZIP extension: 
+- State project ID: TX1766
+- Latitude: 33.008113
+- Longitude: -96.965391
+- County FIPS: 48121
+- County from: 2020
+- Tract 2020: 48121021620
+- Tract 2010: 48121021620
+- Tract 2000: 48121021601
+- Tract 1990: 48121021601
+- Place 2020: 42508
+- Place 2010: 42508
+- Place 2000: 13024
+- Place 1990: 2450
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 68
+- Units reported: 168
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 96
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

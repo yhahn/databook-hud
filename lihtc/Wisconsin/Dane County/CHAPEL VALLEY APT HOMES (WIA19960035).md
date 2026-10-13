@@ -1,0 +1,85 @@
+# Project: CHAPEL VALLEY APT HOMES (WIA19960035)
+
+- HUD ID: WIA19960035
+- HUD ID before: 
+- Project: CHAPEL VALLEY APT HOMES
+- Address: 5771 CHAPEL VALLEY RD
+- City: FITCHBURG
+- State: WI
+- ZIP: 53711
+- ZIP extension: 
+- State project ID: 1860
+- Latitude: 43.013825
+- Longitude: -89.43616
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025010701
+- Tract 2010: 55025010701
+- Tract 2000: 55025010701
+- Tract 1990: 55025010700
+- Place 2020: 25950
+- Place 2010: 25950
+- Place 2000: 25950
+- Place 1990: 0903
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 33
+- Units reported: 54
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

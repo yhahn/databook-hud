@@ -1,0 +1,85 @@
+# Project: CAPITOL GATEWAY SENIOR ESTATES (DCB20040025)
+
+- HUD ID: DCB20040025
+- HUD ID before: 
+- Project: CAPITOL GATEWAY SENIOR ESTATES
+- Address: 201 58TH ST NE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20019
+- ZIP extension: 
+- State project ID: DCB2004025
+- Latitude: 38.891703
+- Longitude: -76.917566
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001007808
+- Tract 2010: 11001007808
+- Tract 2000: 11001007808
+- Tract 1990: 11001007808
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 151
+- Low-income units: 151
+- Units reported: 151
+- Low-income reported: 151
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

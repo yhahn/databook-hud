@@ -1,0 +1,85 @@
+# Project: SUPERIOR TOWNHOMES (WIA20100065)
+
+- HUD ID: WIA20100065
+- HUD ID before: 
+- Project: SUPERIOR TOWNHOMES
+- Address: 1002 E 11TH AVE ASPEN COURT A
+- City: SUPERIOR
+- State: WI
+- ZIP: 54880
+- ZIP extension: 
+- State project ID: 5663
+- Latitude: 46.725277
+- Longitude: -92.092016
+- County FIPS: 55031
+- County from: 2020
+- Tract 2020: 55031020300
+- Tract 2010: 55031020300
+- Tract 2000: 55031020300
+- Tract 1990: 55031020300
+- Place 2020: 78650
+- Place 2010: 78650
+- Place 2000: 78650
+- Place 1990: 2500
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 360323
+- Units: 80
+- Low-income units: 4
+- Units reported: 80
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 19
+- 3-bedroom units: 59
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 496650
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

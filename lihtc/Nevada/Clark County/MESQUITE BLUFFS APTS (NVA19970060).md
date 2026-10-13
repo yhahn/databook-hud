@@ -1,0 +1,85 @@
+# Project: MESQUITE BLUFFS APTS (NVA19970060)
+
+- HUD ID: NVA19970060
+- HUD ID before: 
+- Project: MESQUITE BLUFFS APTS
+- Address: 100 N GRAPEVINE RD
+- City: MESQUITE
+- State: NV
+- ZIP: 89027
+- ZIP extension: 
+- State project ID: NV-97-96
+- Latitude: 36.805414
+- Longitude: -114.085018
+- County FIPS: 32003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 32003005607
+- Tract 2000: 32003005607
+- Tract 1990: 32003005603
+- Place 2020: 
+- Place 2010: 46000
+- Place 2000: 46000
+- Place 1990: 0074
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 296432
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 48
+- 1-bedroom units: 40
+- 2-bedroom units: 88
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NVA1998020. AKA LUCERNE MEADOWS I.
+- Record status: Existing, unchanged

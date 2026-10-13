@@ -1,0 +1,85 @@
+# Project: ELLIS HOLLOW APTS (NYA20060060)
+
+- HUD ID: NYA20060060
+- HUD ID before: 
+- Project: ELLIS HOLLOW APTS
+- Address: 1028 ELLIS HOLLOW RD
+- City: ITHACA
+- State: NY
+- ZIP: 14850
+- ZIP extension: 
+- State project ID: 20040566
+- Latitude: 42.435752
+- Longitude: -76.46121
+- County FIPS: 36109
+- County from: 2020
+- Tract 2020: 36109001302
+- Tract 2010: 36109001300
+- Tract 2000: 36109001300
+- Tract 1990: 36109001300
+- Place 2020: 22326
+- Place 2010: 99999
+- Place 2000: 22326
+- Place 1990: 1745
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 344008
+- Units: 104
+- Low-income units: 91
+- Units reported: 104
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 104
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

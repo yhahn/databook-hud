@@ -1,0 +1,85 @@
+# Project: AUTUMN RIDGE COMMONS (WYA20080005)
+
+- HUD ID: WYA20080005
+- HUD ID before: 
+- Project: AUTUMN RIDGE COMMONS
+- Address: 752 EVANS ST
+- City: LARAMIE
+- State: WY
+- ZIP: 82070
+- ZIP extension: 
+- State project ID: 06-014
+- Latitude: 41.321888
+- Longitude: -105.617437
+- County FIPS: 56001
+- County from: 2020
+- Tract 2020: 56001962800
+- Tract 2010: 56001962800
+- Tract 2000: 56001962800
+- Tract 1990: 56001962800
+- Place 2020: 45050
+- Place 2010: 45050
+- Place 2000: 45050
+- Place 1990: 0250
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 490280
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 7
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 47
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WYA0000015.
+- Record status: Existing, unchanged

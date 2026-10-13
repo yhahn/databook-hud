@@ -1,0 +1,85 @@
+# Project: LANDMARK AT FALL RIVER (MAA19990020)
+
+- HUD ID: MAA19990020
+- HUD ID before: 
+- Project: LANDMARK AT FALL RIVER
+- Address: 332 MILLIKEN BLVD
+- City: FALL RIVER
+- State: MA
+- ZIP: 02721
+- ZIP extension: 
+- State project ID: MA-97-005-R
+- Latitude: 41.699138
+- Longitude: -71.16022
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005641101
+- Tract 2010: 25005641101
+- Tract 2000: 25005641100
+- Tract 1990: 25005641100
+- Place 2020: 23000
+- Place 2010: 23000
+- Place 2000: 23000
+- Place 1990: 1220
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 88
+- Low-income units: 44
+- Units reported: 88
+- Low-income reported: 44
+- Efficiencies: 67
+- 1-bedroom units: 21
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

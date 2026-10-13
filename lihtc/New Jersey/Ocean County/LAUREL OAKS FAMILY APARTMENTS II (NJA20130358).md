@@ -1,0 +1,85 @@
+# Project: LAUREL OAKS FAMILY APARTMENTS II (NJA20130358)
+
+- HUD ID: NJA20130358
+- HUD ID before: 
+- Project: LAUREL OAKS FAMILY APARTMENTS II
+- Address: 465 N MAIN ST
+- City: BARNEGAT
+- State: NJ
+- ZIP: 08005
+- ZIP extension: 2407
+- State project ID: 02730-1
+- Latitude: 39.762247
+- Longitude: -74.219191
+- County FIPS: 34029
+- County from: 2020
+- Tract 2020: 34029734002
+- Tract 2010: 34029734002
+- Tract 2000: 34029734002
+- Tract 1990: 34029733000
+- Place 2020: 03040
+- Place 2010: 03040
+- Place 2000: 03040
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 523167
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 14
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000635, NJA0000568.
+- Record status: Updated

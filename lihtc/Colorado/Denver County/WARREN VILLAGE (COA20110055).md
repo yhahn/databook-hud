@@ -1,0 +1,85 @@
+# Project: WARREN VILLAGE (COA20110055)
+
+- HUD ID: COA20110055
+- HUD ID before: 
+- Project: WARREN VILLAGE
+- Address: 1323 N GILPIN ST
+- City: DENVER
+- State: CO
+- ZIP: 80218
+- ZIP extension: 
+- State project ID: M000-092
+- Latitude: 39.737194
+- Longitude: -104.967434
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031003204
+- Tract 2010: 08031003201
+- Tract 2000: 08031003201
+- Tract 1990: 08031003201
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 20000
+- Place 1990: 0320
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 94
+- Low-income units: 93
+- Units reported: 94
+- Low-income reported: 93
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 40
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 57
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5401172
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS COA2011502.
+- Record status: Existing, unchanged

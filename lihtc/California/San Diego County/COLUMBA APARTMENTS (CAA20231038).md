@@ -1,0 +1,85 @@
+# Project: COLUMBA APARTMENTS (CAA20231038)
+
+- HUD ID: CAA20231038
+- HUD ID before: 
+- Project: COLUMBA APARTMENTS
+- Address: 2040 TRANSIT GUIDEWAY
+- City: CHULA VISTA
+- State: CA
+- ZIP: 91915
+- ZIP extension: 
+- State project ID: CA-2021-502
+- Latitude: 32.6188
+- Longitude: -116.963922
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073013319
+- Tract 2010: 06073013314
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 13392
+- Place 2010: 13392
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 5048452
+- Units: 200
+- Low-income units: 198
+- Units reported: 200
+- Low-income reported: 198
+- Efficiencies: 
+- 1-bedroom units: 56
+- 2-bedroom units: 86
+- 3-bedroom units: 58
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: ADA and Accessible Units pursuant to CBC Chapter 11B
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

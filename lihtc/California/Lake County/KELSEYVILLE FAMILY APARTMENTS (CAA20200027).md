@@ -1,0 +1,85 @@
+# Project: KELSEYVILLE FAMILY APARTMENTS (CAA20200027)
+
+- HUD ID: CAA20200027
+- HUD ID before: 
+- Project: KELSEYVILLE FAMILY APARTMENTS
+- Address: 5400 GADDY LANE
+- City: KELSEYVILLE
+- State: CA
+- ZIP: 95451
+- ZIP extension: 
+- State project ID: CA-2018-123
+- Latitude: 38.981918
+- Longitude: -122.832995
+- County FIPS: 06033
+- County from: 2020
+- Tract 2020: 06033001000
+- Tract 2010: 06033001000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 38044
+- Place 2010: 38044
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 2500000
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 18
+- 3-bedroom units: 18
+- 4-bedroom units: 18
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: Yes
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Farmworker
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SPRING MANOR APTS (NYB20040025)
+
+- HUD ID: NYB20040025
+- HUD ID before: 
+- Project: SPRING MANOR APTS
+- Address: 600 SPRING MANOR CIR
+- City: POUGHKEEPSIE
+- State: NY
+- ZIP: 12601
+- ZIP extension: 
+- State project ID: NY-02-1568
+- Latitude: 41.67849
+- Longitude: -73.927538
+- County FIPS: 36027
+- County from: 2020
+- Tract 2020: 36027140500
+- Tract 2010: 36027140500
+- Tract 2000: 36027140500
+- Tract 1990: 36027140500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 70035
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 20
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

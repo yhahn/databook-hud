@@ -1,0 +1,85 @@
+# Project: ST MARY'S COMMON'S (NYB20040030)
+
+- HUD ID: NYB20040030
+- HUD ID before: 
+- Project: ST MARY'S COMMON'S
+- Address: 400 MILL ST
+- City: WILLIAMSVILLE
+- State: NY
+- ZIP: 14221
+- ZIP extension: 
+- State project ID: 1512
+- Latitude: 42.973877
+- Longitude: -78.744631
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029009602
+- Tract 2010: 36029009600
+- Tract 2000: 36029009600
+- Tract 1990: 36029009600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 82084
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 101
+- Low-income units: 101
+- Units reported: 101
+- Low-income reported: 101
+- Efficiencies: 2
+- 1-bedroom units: 65
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WINDSOR VALLEY APARTMENTS PH I AND II (MDA20160016)
+
+- HUD ID: MDA20160016
+- HUD ID before: 
+- Project: WINDSOR VALLEY APARTMENTS PH I AND II
+- Address: 570 MEADOWWOOD DRIVE
+- City: EDGEWOOD
+- State: MD
+- ZIP: 21040
+- ZIP extension: 
+- State project ID: MD-13-27
+- Latitude: 39.423659
+- Longitude: -76.311634
+- County FIPS: 24025
+- County from: 2020
+- Tract 2020: 24025301601
+- Tract 2010: 24025301601
+- Tract 2000: 24025301601
+- Tract 1990: 
+- Place 2020: 25150
+- Place 2010: 25150
+- Place 2000: 25150
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 891526
+- Units: 291
+- Low-income units: 291
+- Units reported: 291
+- Low-income reported: 291
+- Efficiencies: 
+- 1-bedroom units: 62
+- 2-bedroom units: 164
+- 3-bedroom units: 65
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HARVEY HEIGHTS PHASE I (NHA20200004)
+
+- HUD ID: NHA20200004
+- HUD ID before: 
+- Project: HARVEY HEIGHTS PHASE I
+- Address: 24-40 LEDGEWOOD LANE
+- City: ASHLAND
+- State: NH
+- ZIP: 03217
+- ZIP extension: 
+- State project ID: NH-19-00
+- Latitude: 43.690868
+- Longitude: -71.623224
+- County FIPS: 33009
+- County from: 2020
+- Tract 2020: 33009961101
+- Tract 2010: 33009961100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 01940
+- Place 2010: 01940
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 552835
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 605500
+- CDBG: Yes
+- CDBG amount: 485500
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

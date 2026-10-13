@@ -1,0 +1,25 @@
+# Tax Credit Projects: Grant County, NM
+
+- Level: County
+- Postal code: NM
+- State FIPS: 35
+- County FIPS: 35017
+- Counties: 
+- Projects: 8
+- Units: 316
+- Low-income units: 315
+
+The low-income housing tax credit projects of Grant County, New Mexico, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [BULLARD HOTEL (NMA00000085)](./Grant%20County/BULLARD%20HOTEL%20%28NMA00000085%29.md) | NMA00000085 | SILVER CITY |  | 9 | 9 |
+| [MANHATTAN APTS (NMA19930030)](./Grant%20County/MANHATTAN%20APTS%20%28NMA19930030%29.md) | NMA19930030 | SANTA CLARA | 1993 | 29 | 29 |
+| [VALLEY VIEW APTS (NMA19950035)](./Grant%20County/VALLEY%20VIEW%20APTS%20%28NMA19950035%29.md) | NMA19950035 | SILVER CITY | 1995 | 18 | 18 |
+| [CENTRAL APTS (NMA19980010)](./Grant%20County/CENTRAL%20APTS%20%28NMA19980010%29.md) | NMA19980010 | SANTA CLARA | 1998 | 20 | 20 |
+| [SILVER CLIFFS APTS (NMA20000045)](./Grant%20County/SILVER%20CLIFFS%20APTS%20%28NMA20000045%29.md) | NMA20000045 | SILVER CITY | 2000 | 80 | 80 |
+| [LINTERO (NMA20060826)](./Grant%20County/LINTERO%20%28NMA20060826%29.md) | NMA20060826 | SILVER CITY | 2006 | 50 | 50 |
+| [CASA LINDA APTS (NMA20090836)](./Grant%20County/CASA%20LINDA%20APTS%20%28NMA20090836%29.md) | NMA20090836 | SILVER CITY | 2009 | 41 | 40 |
+| [MOUNTAIN VIEW SENIOR APARTMENTS (NMA20190003)](./Grant%20County/MOUNTAIN%20VIEW%20SENIOR%20APARTMENTS%20%28NMA20190003%29.md) | NMA20190003 | SILVER CITY | 2019 | 69 | 69 |

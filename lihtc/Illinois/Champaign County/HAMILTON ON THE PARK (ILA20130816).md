@@ -1,0 +1,85 @@
+# Project: HAMILTON ON THE PARK (ILA20130816)
+
+- HUD ID: ILA20130816
+- HUD ID before: 
+- Project: HAMILTON ON THE PARK
+- Address: 1208 N WRIGHT ST
+- City: URBANA
+- State: IL
+- ZIP: 61801
+- ZIP extension: 
+- State project ID: 1059112
+- Latitude: 40.123847
+- Longitude: -88.228685
+- County FIPS: 17019
+- County from: 2020
+- Tract 2020: 17019005300
+- Tract 2010: 17019005300
+- Tract 2000: 17019005300
+- Tract 1990: 17019005300
+- Place 2020: 77005
+- Place 2010: 77005
+- Place 2000: 12385
+- Place 1990: 5845
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 669945
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 12
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA20130004.
+- Record status: Existing, unchanged

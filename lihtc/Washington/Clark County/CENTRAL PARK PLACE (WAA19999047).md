@@ -1,0 +1,85 @@
+# Project: CENTRAL PARK PLACE (WAA19999047)
+
+- HUD ID: WAA19999047
+- HUD ID before: 
+- Project: CENTRAL PARK PLACE
+- Address: 1900 FORT VANCOUVER WAY
+- City: VANCOUVER
+- State: WA
+- ZIP: 98663
+- ZIP extension: 3500
+- State project ID: 97-87A
+- Latitude: 45.635514
+- Longitude: -122.654872
+- County FIPS: 53011
+- County from: 2020
+- Tract 2020: 53011042602
+- Tract 2010: 53011042600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 74060
+- Place 2010: 74060
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 186461
+- Units: 249
+- Low-income units: 248
+- Units reported: 249
+- Low-income reported: 248
+- Efficiencies: 123
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

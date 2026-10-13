@@ -1,0 +1,85 @@
+# Project: CASA BRAZORIA (TXA00000105)
+
+- HUD ID: TXA00000105
+- HUD ID before: 
+- Project: CASA BRAZORIA
+- Address: 301 VERDE DR
+- City: CLUTE
+- State: TX
+- ZIP: 77531
+- ZIP extension: 
+- State project ID: 
+- Latitude: 29.031529
+- Longitude: -95.408737
+- County FIPS: 48039
+- County from: 2020
+- Tract 2020: 48039663800
+- Tract 2010: 48039663800
+- Tract 2000: 48039663800
+- Tract 1990: 48039062612
+- Place 2020: 15652
+- Place 2010: 15652
+- Place 2000: 15652
+- Place 1990: 0880
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 36
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 7448709
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

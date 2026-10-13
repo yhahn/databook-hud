@@ -1,0 +1,85 @@
+# Project: ST ANTHONY VILLAGE (OHA20020160)
+
+- HUD ID: OHA20020160
+- HUD ID before: 
+- Project: ST ANTHONY VILLAGE
+- Address: 1631 REPUBLIC ST
+- City: CINCINNATI
+- State: OH
+- ZIP: 45202
+- ZIP extension: 
+- State project ID: 00-0059
+- Latitude: 39.11392
+- Longitude: -84.517003
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061001600
+- Tract 2010: 39061001600
+- Tract 2000: 39061001600
+- Tract 1990: 39061001600
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 193255
+- Units: 22
+- Low-income units: 17
+- Units reported: 22
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 7
+- 3-bedroom units: 6
+- 4-bedroom units: 3
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SINGLE PARENTS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

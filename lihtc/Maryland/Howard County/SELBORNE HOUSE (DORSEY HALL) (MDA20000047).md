@@ -1,0 +1,85 @@
+# Project: SELBORNE HOUSE (DORSEY HALL) (MDA20000047)
+
+- HUD ID: MDA20000047
+- HUD ID before: 
+- Project: SELBORNE HOUSE (DORSEY HALL)
+- Address: 5320 DORSEY HALL DR
+- City: ELLICOTT CITY
+- State: MD
+- ZIP: 21042
+- ZIP extension: 
+- State project ID: MD99-13
+- Latitude: 39.246397
+- Longitude: -76.831476
+- County FIPS: 24027
+- County from: 2020
+- Tract 2020: 24027602306
+- Tract 2010: 24027602306
+- Tract 2000: 24027602306
+- Tract 1990: 24027602301
+- Place 2020: 26000
+- Place 2010: 26000
+- Place 2000: 26000
+- Place 1990: 0325
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

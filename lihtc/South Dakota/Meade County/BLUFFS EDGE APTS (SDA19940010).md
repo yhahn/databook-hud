@@ -1,0 +1,85 @@
+# Project: BLUFFS EDGE APTS (SDA19940010)
+
+- HUD ID: SDA19940010
+- HUD ID before: 
+- Project: BLUFFS EDGE APTS
+- Address: 2645 COTTONTAIL DR
+- City: STURGIS
+- State: SD
+- ZIP: 57785
+- ZIP extension: 
+- State project ID: 00165
+- Latitude: 44.394808
+- Longitude: -103.517993
+- County FIPS: 46093
+- County from: 2020
+- Tract 2020: 46093020401
+- Tract 2010: 46093020400
+- Tract 2000: 46093020400
+- Tract 1990: 46093020400
+- Place 2020: 62100
+- Place 2010: 62100
+- Place 2000: 62100
+- Place 1990: 1275
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

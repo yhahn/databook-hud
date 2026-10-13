@@ -1,0 +1,85 @@
+# Project: JEFFRIS FLATS (WIA19930090)
+
+- HUD ID: WIA19930090
+- HUD ID before: 
+- Project: JEFFRIS FLATS
+- Address: 318 DODGE ST
+- City: JANESVILLE
+- State: WI
+- ZIP: 53548
+- ZIP extension: 
+- State project ID: 1283
+- Latitude: 42.680571
+- Longitude: -89.026737
+- County FIPS: 55105
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55105000100
+- Tract 2000: 55105000100
+- Tract 1990: 55105000100
+- Place 2020: 
+- Place 2010: 37825
+- Place 2000: 37825
+- Place 1990: 1235
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

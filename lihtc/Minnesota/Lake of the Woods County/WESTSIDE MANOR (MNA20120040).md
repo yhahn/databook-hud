@@ -1,0 +1,85 @@
+# Project: WESTSIDE MANOR (MNA20120040)
+
+- HUD ID: MNA20120040
+- HUD ID before: 
+- Project: WESTSIDE MANOR
+- Address: 205 - 5TH ST W
+- City: BAUDETTE
+- State: MN
+- ZIP: 56623
+- ZIP extension: 
+- State project ID: D0111
+- Latitude: 48.707377
+- Longitude: -94.602028
+- County FIPS: 27077
+- County from: 2020
+- Tract 2020: 27077460300
+- Tract 2010: 27077460300
+- Tract 2000: 27077960300
+- Tract 1990: 27077960300
+- Place 2020: 04024
+- Place 2010: 04024
+- Place 2000: 04024
+- Place 1990: 0220
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 89168
+- Units: 20
+- Low-income units: 19
+- Units reported: 20
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA1990125.
+- Record status: Existing, unchanged

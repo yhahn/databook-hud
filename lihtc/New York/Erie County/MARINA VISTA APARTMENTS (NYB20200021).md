@@ -1,0 +1,85 @@
+# Project: MARINA VISTA APARTMENTS (NYB20200021)
+
+- HUD ID: NYB20200021
+- HUD ID before: 
+- Project: MARINA VISTA APARTMENTS
+- Address: 10 & 12 HERTEL AVENUE
+- City: BUFFALO
+- State: NY
+- ZIP: 14207
+- ZIP extension: 
+- State project ID: NY-05-2639
+- Latitude: 42.939872
+- Longitude: -78.908239
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029005900
+- Tract 2010: 36029005900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 11000
+- Place 2010: 11000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 195
+- Low-income units: 188
+- Units reported: 195
+- Low-income reported: 188
+- Efficiencies: 0
+- 1-bedroom units: 98
+- 2-bedroom units: 97
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

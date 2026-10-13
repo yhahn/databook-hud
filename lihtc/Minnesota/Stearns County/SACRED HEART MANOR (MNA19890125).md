@@ -1,0 +1,85 @@
+# Project: SACRED HEART MANOR (MNA19890125)
+
+- HUD ID: MNA19890125
+- HUD ID before: 
+- Project: SACRED HEART MANOR
+- Address: 109 THIRD AVE NE
+- City: FREEPORT
+- State: MN
+- ZIP: 56331
+- ZIP extension: 
+- State project ID: MN-88-012
+- Latitude: 45.662827
+- Longitude: -94.686943
+- County FIPS: 27145
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27145010500
+- Tract 2000: 27145010500
+- Tract 1990: 27145010500
+- Place 2020: 
+- Place 2010: 22652
+- Place 2000: 22652
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

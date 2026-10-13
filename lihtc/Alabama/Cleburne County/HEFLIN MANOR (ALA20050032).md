@@ -1,0 +1,85 @@
+# Project: HEFLIN MANOR (ALA20050032)
+
+- HUD ID: ALA20050032
+- HUD ID before: 
+- Project: HEFLIN MANOR
+- Address: 135 BROCKFORD RD
+- City: HEFLIN
+- State: AL
+- ZIP: 36264
+- ZIP extension: 
+- State project ID: AL-05-0045
+- Latitude: 33.636105
+- Longitude: -85.5894
+- County FIPS: 01029
+- County from: 2020
+- Tract 2020: 01029959600
+- Tract 2010: 01029959600
+- Tract 2000: 01029959600
+- Tract 1990: 01029959600
+- Place 2020: 33976
+- Place 2010: 33976
+- Place 2000: 23176
+- Place 1990: 0880
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 246426
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1096260
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2007070.
+- Record status: Existing, unchanged

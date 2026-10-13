@@ -1,0 +1,85 @@
+# Project: MARVIN GARDENS I (RIA19910030)
+
+- HUD ID: RIA19910030
+- HUD ID before: 
+- Project: MARVIN GARDENS I
+- Address: 128 OAK ST
+- City: PROVIDENCE
+- State: RI
+- ZIP: 02909
+- ZIP extension: 
+- State project ID: RI00162
+- Latitude: 41.814774
+- Longitude: -71.437635
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007001300
+- Tract 2010: 44007001300
+- Tract 2000: 44007001300
+- Tract 1990: 44007001300
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0400
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 38015
+- Units: 121
+- Low-income units: 121
+- Units reported: 121
+- Low-income reported: 121
+- Efficiencies: 0
+- 1-bedroom units: 109
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 121
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

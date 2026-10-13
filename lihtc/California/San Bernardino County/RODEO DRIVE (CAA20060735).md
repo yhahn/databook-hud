@@ -1,0 +1,85 @@
+# Project: RODEO DRIVE (CAA20060735)
+
+- HUD ID: CAA20060735
+- HUD ID before: 
+- Project: RODEO DRIVE
+- Address: 14200 RODEO DR
+- City: VICTORVILLE
+- State: CA
+- ZIP: 92395
+- ZIP extension: 
+- State project ID: CA-06-822
+- Latitude: 34.50947
+- Longitude: -117.304108
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071009912
+- Tract 2010: 06071009912
+- Tract 2000: 06071009903
+- Tract 1990: 06071009903
+- Place 2020: 82590
+- Place 2010: 82590
+- Place 2000: 82590
+- Place 1990: 3007
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 261774
+- Units: 99
+- Low-income units: 98
+- Units reported: 99
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 57
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA RODEO DRIVE APTS CA 2009 953.
+- Record status: Existing, unchanged

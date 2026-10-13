@@ -1,0 +1,85 @@
+# Project: FAIR HAVEN MUTUAL HOUSING (CTA20123006)
+
+- HUD ID: CTA20123006
+- HUD ID before: 
+- Project: FAIR HAVEN MUTUAL HOUSING
+- Address: WOLCOTT ST. MURRAY PLACE, SALTONSTALL CT, SALTONSTALL AVENUE
+- City: NEW HAVEN
+- State: CT
+- ZIP: 06513
+- ZIP extension: 
+- State project ID: CT-11-001
+- Latitude: 41.3144
+- Longitude: -72.8741
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009142605
+- Tract 2010: 09009142603
+- Tract 2000: 09009142602
+- Tract 1990: 
+- Place 2020: 52000
+- Place 2010: 52000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 921755
+- Units: 44
+- Low-income units: 39
+- Units reported: 44
+- Low-income reported: 39
+- Efficiencies: 
+- 1-bedroom units: 15
+- 2-bedroom units: 16
+- 3-bedroom units: 11
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 4000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BRADFORD PARK APTS (MSA20000003)
+
+- HUD ID: MSA20000003
+- HUD ID before: 
+- Project: BRADFORD PARK APTS
+- Address: 5735 ARBOR DR
+- City: SOUTHAVEN
+- State: MS
+- ZIP: 38671
+- ZIP extension: 
+- State project ID: MS-98-066
+- Latitude: 34.944192
+- Longitude: -89.994729
+- County FIPS: 28033
+- County from: 2020
+- Tract 2020: 28033070610
+- Tract 2010: 28033070610
+- Tract 2000: 28033070610
+- Tract 1990: 28033070600
+- Place 2020: 69280
+- Place 2010: 69280
+- Place 2000: 69280
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 208
+- Low-income units: 205
+- Units reported: 208
+- Low-income reported: 205
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 104
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2000620, MSA1999010.
+- Record status: Existing, unchanged

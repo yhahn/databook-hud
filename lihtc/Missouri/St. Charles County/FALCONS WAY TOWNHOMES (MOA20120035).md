@@ -1,0 +1,85 @@
+# Project: FALCONS WAY TOWNHOMES (MOA20120035)
+
+- HUD ID: MOA20120035
+- HUD ID before: 
+- Project: FALCONS WAY TOWNHOMES
+- Address: 2516 FALCONS WAY
+- City: ST CHARLES
+- State: MO
+- ZIP: 63303
+- ZIP extension: 
+- State project ID: 11-050
+- Latitude: 38.778849
+- Longitude: -90.521956
+- County FIPS: 29183
+- County from: 2020
+- Tract 2020: 29183310901
+- Tract 2010: 29183310901
+- Tract 2000: 29183310901
+- Tract 1990: 29183310901
+- Place 2020: 64082
+- Place 2010: 64082
+- Place 2000: 64082
+- Place 1990: 3830
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 315100
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WINDSOR PLACE APTS (NYA19960330)
+
+- HUD ID: NYA19960330
+- HUD ID before: 
+- Project: WINDSOR PLACE APTS
+- Address: 5607 BEAR RD
+- City: SYRACUSE
+- State: NY
+- ZIP: 13212
+- ZIP extension: 
+- State project ID: 19950378
+- Latitude: 43.144995
+- Longitude: -76.130717
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067011021
+- Tract 2010: 36067011021
+- Tract 2000: 36067011021
+- Tract 1990: 36067011002
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 180
+- Low-income units: 164
+- Units reported: 180
+- Low-income reported: 164
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 136
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

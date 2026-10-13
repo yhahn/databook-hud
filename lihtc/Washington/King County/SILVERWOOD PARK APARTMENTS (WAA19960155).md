@@ -1,0 +1,85 @@
+# Project: SILVERWOOD PARK APARTMENTS (WAA19960155)
+
+- HUD ID: WAA19960155
+- HUD ID before: 
+- Project: SILVERWOOD PARK APARTMENTS
+- Address: 23006 30TH AVE. SOUTH
+- City: DES MOINES
+- State: WA
+- ZIP: 98198
+- ZIP extension: 
+- State project ID: 95-49A
+- Latitude: 47.395363
+- Longitude: -122.293114
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033028902
+- Tract 2010: 53033028902
+- Tract 2000: 53033028902
+- Tract 1990: 53033028900
+- Place 2020: 17635
+- Place 2010: 17635
+- Place 2000: 17635
+- Place 1990: 0325
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 160866
+- Units: 63
+- Low-income units: 61
+- Units reported: 63
+- Low-income reported: 61
+- Efficiencies: 29
+- 1-bedroom units: 77
+- 2-bedroom units: 28
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

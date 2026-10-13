@@ -1,0 +1,85 @@
+# Project: SOUTH STATE STREET, LP (NJA20120836)
+
+- HUD ID: NJA20120836
+- HUD ID before: 
+- Project: SOUTH STATE STREET, LP
+- Address: 1217 SOUTH STATE STREET
+- City: HILLSIDE TWP.
+- State: NJ
+- ZIP: 07205
+- ZIP extension: 
+- State project ID: NJ-0369
+- Latitude: 40.692444
+- Longitude: -74.229298
+- County FIPS: 34039
+- County from: 2020
+- Tract 2020: 34039032401
+- Tract 2010: 34039032400
+- Tract 2000: 34039032400
+- Tract 1990: 34039032400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 32010
+- Place 1990: 2175
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 56307
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1993140, NJA0000095.
+- Record status: Existing, unchanged

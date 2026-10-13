@@ -1,0 +1,85 @@
+# Project: RUSSELL PARK APTS (TNA20010085)
+
+- HUD ID: TNA20010085
+- HUD ID before: 
+- Project: RUSSELL PARK APTS
+- Address: 134 BROWN W DR
+- City: ROCKWOOD
+- State: TN
+- ZIP: 37854
+- ZIP extension: 
+- State project ID: TN-99-023
+- Latitude: 35.841438
+- Longitude: -84.662774
+- County FIPS: 47145
+- County from: 2020
+- Tract 2020: 47145030402
+- Tract 2010: 47145030400
+- Tract 2000: 47145030500
+- Tract 1990: 47145030500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 32520
+- Place 1990: 1210
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 104752
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

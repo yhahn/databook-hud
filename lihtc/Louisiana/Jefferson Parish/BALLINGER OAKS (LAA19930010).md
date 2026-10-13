@@ -1,0 +1,85 @@
+# Project: BALLINGER OAKS (LAA19930010)
+
+- HUD ID: LAA19930010
+- HUD ID before: 
+- Project: BALLINGER OAKS
+- Address: 1117 WHITNEY AVE
+- City: GRETNA
+- State: LA
+- ZIP: 70056
+- ZIP extension: 
+- State project ID: LA-91-024
+- Latitude: 29.907061
+- Longitude: -90.042918
+- County FIPS: 22051
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22051025202
+- Tract 2000: 22051025202
+- Tract 1990: 22051025202
+- Place 2020: 
+- Place 2010: 75180
+- Place 2000: 75180
+- Place 1990: 1332
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 201
+- Low-income units: 201
+- Units reported: 201
+- Low-income reported: 201
+- Efficiencies: 1
+- 1-bedroom units: 119
+- 2-bedroom units: 64
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1993003. AKA BELLINGER OAKS.
+- Record status: Existing, unchanged

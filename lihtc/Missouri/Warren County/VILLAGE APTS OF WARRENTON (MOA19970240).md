@@ -1,0 +1,85 @@
+# Project: VILLAGE APTS OF WARRENTON (MOA19970240)
+
+- HUD ID: MOA19970240
+- HUD ID before: 
+- Project: VILLAGE APTS OF WARRENTON
+- Address: 109 SOUTHSIDE CT
+- City: WARRENTON
+- State: MO
+- ZIP: 63383
+- ZIP extension: 
+- State project ID: 96053
+- Latitude: 38.806775
+- Longitude: -91.149388
+- County FIPS: 29219
+- County from: 2020
+- Tract 2020: 29219820107
+- Tract 2010: 29219820102
+- Tract 2000: 29219820102
+- Tract 1990: 29219820100
+- Place 2020: 77128
+- Place 2010: 77128
+- Place 2000: 35240
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RUTLEDGE PLACE APTS (SCA20010075)
+
+- HUD ID: SCA20010075
+- HUD ID before: 
+- Project: RUTLEDGE PLACE APTS
+- Address: 554 RUTLEDGE AVE
+- City: CHARLESTON
+- State: SC
+- ZIP: 29403
+- ZIP extension: 
+- State project ID: SC-99-013
+- Latitude: 32.795425
+- Longitude: -79.949508
+- County FIPS: 45019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45019005300
+- Tract 2000: 45019001200
+- Tract 1990: 45019001200
+- Place 2020: 
+- Place 2010: 13330
+- Place 2000: 13330
+- Place 1990: 0245
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 374989
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 13
+- 1-bedroom units: 27
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

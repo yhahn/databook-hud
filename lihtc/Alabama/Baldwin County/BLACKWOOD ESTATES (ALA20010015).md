@@ -1,0 +1,85 @@
+# Project: BLACKWOOD ESTATES (ALA20010015)
+
+- HUD ID: ALA20010015
+- HUD ID before: 
+- Project: BLACKWOOD ESTATES
+- Address: 26648 S HOLLEY ST
+- City: LOXLEY
+- State: AL
+- ZIP: 36551
+- ZIP extension: 
+- State project ID: AL-00-0805
+- Latitude: 30.613654
+- Longitude: -87.750483
+- County FIPS: 01003
+- County from: 2020
+- Tract 2020: 01003010903
+- Tract 2010: 01003010903
+- Tract 2000: 01003010901
+- Tract 1990: 01003010901
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 44608
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 141905
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 56
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: AKA TKC SOUTH AL HOUSING I.
+- Record status: Existing, unchanged

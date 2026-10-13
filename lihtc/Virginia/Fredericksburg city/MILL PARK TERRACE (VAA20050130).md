@@ -1,0 +1,85 @@
+# Project: MILL PARK TERRACE (VAA20050130)
+
+- HUD ID: VAA20050130
+- HUD ID before: 
+- Project: MILL PARK TERRACE
+- Address: 2216 CAROLINE ST
+- City: FREDERICKSBURG
+- State: VA
+- ZIP: 22401
+- ZIP extension: 
+- State project ID: 4076
+- Latitude: 38.314754
+- Longitude: -77.467736
+- County FIPS: 51630
+- County from: 2020
+- Tract 2020: 51630000202
+- Tract 2010: 51630000200
+- Tract 2000: 51630000200
+- Tract 1990: 51630000200
+- Place 2020: 29744
+- Place 2010: 29744
+- Place 2000: 29744
+- Place 1990: 0505
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 334021
+- Units: 129
+- Low-income units: 129
+- Units reported: 129
+- Low-income reported: 129
+- Efficiencies: 0
+- 1-bedroom units: 129
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

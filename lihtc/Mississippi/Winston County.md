@@ -1,0 +1,26 @@
+# Tax Credit Projects: Winston County, MS
+
+- Level: County
+- Postal code: MS
+- State FIPS: 28
+- County FIPS: 28159
+- Counties: 
+- Projects: 9
+- Units: 261
+- Low-income units: 259
+
+The low-income housing tax credit projects of Winston County, Mississippi, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [BAREMORE APTS (MSA19890056)](./Winston%20County/BAREMORE%20APTS%20%28MSA19890056%29.md) | MSA19890056 | LOUISVILLE | 1989 | 2 | 2 |
+| [709 N COLUMBUS AVE (MSA19900115)](./Winston%20County/709%20N%20COLUMBUS%20AVE%20%28MSA19900115%29.md) | MSA19900115 | LOUISVILLE | 1990 | 24 | 24 |
+| [IVY APTS (MSA19900131)](./Winston%20County/IVY%20APTS%20%28MSA19900131%29.md) | MSA19900131 | LOUISVILLE | 1990 | 32 | 32 |
+| [AUBURN APTS (MSA19910010)](./Winston%20County/AUBURN%20APTS%20%28MSA19910010%29.md) | MSA19910010 | LOUISVILLE | 1991 | 16 | 16 |
+| [CEDAR CREEK APTS (MSA19920025)](./Winston%20County/CEDAR%20CREEK%20APTS%20%28MSA19920025%29.md) | MSA19920025 | LOUISVILLE | 1992 | 16 | 16 |
+| [WESTSIDE APTS (MSA19920150)](./Winston%20County/WESTSIDE%20APTS%20%28MSA19920150%29.md) | MSA19920150 | LOUISVILLE | 1992 | 32 | 32 |
+| [WINSTON PLACE APTS (MSA20080265)](./Winston%20County/WINSTON%20PLACE%20APTS%20%28MSA20080265%29.md) | MSA20080265 | LOUISVILLE | 2008 | 80 | 78 |
+| [HUDSON PLACE (MSA20150011)](./Winston%20County/HUDSON%20PLACE%20%28MSA20150011%29.md) | MSA20150011 | LOUISVILLE | 2015 | 35 | 35 |
+| [HUDSON PLACE II (MSA20230002)](./Winston%20County/HUDSON%20PLACE%20II%20%28MSA20230002%29.md) | MSA20230002 | LOUISVILLE | 2023 | 24 | 24 |

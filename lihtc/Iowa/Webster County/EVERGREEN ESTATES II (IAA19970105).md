@@ -1,0 +1,85 @@
+# Project: EVERGREEN ESTATES II (IAA19970105)
+
+- HUD ID: IAA19970105
+- HUD ID before: 
+- Project: EVERGREEN ESTATES II
+- Address: 1547 27TH AVE N
+- City: FORT DODGE
+- State: IA
+- ZIP: 50501
+- ZIP extension: 
+- State project ID: 96-17
+- Latitude: 42.531538
+- Longitude: -94.177455
+- County FIPS: 19187
+- County from: 2020
+- Tract 2020: 19187000200
+- Tract 2010: 19187000200
+- Tract 2000: 19187000200
+- Tract 1990: 19187000200
+- Place 2020: 28515
+- Place 2010: 28515
+- Place 2000: 28515
+- Place 1990: 1515
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 148399
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 19
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA ROLLING HILLS APTS PHASE II
+- Record status: Existing, unchanged

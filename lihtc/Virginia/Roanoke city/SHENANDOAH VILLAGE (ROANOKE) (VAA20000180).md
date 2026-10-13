@@ -1,0 +1,85 @@
+# Project: SHENANDOAH VILLAGE (ROANOKE) (VAA20000180)
+
+- HUD ID: VAA20000180
+- HUD ID before: 
+- Project: SHENANDOAH VILLAGE (ROANOKE)
+- Address: 733 29TH ST NW
+- City: ROANOKE
+- State: VA
+- ZIP: 24017
+- ZIP extension: 
+- State project ID: 1108
+- Latitude: 37.286954
+- Longitude: -79.983222
+- County FIPS: 51770
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 51770000900
+- Tract 2000: 51770000900
+- Tract 1990: 51770000900
+- Place 2020: 
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 1045
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 462008
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 40
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WESTLAND MEADOWS APTS (MIA20080225)
+
+- HUD ID: MIA20080225
+- HUD ID before: 
+- Project: WESTLAND MEADOWS APTS
+- Address: 4305 LEISURE LN
+- City: KALAMAZOO
+- State: MI
+- ZIP: 49006
+- ZIP extension: 
+- State project ID: MI-3254
+- Latitude: 42.289831
+- Longitude: -85.642616
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077001502
+- Tract 2010: 26077001502
+- Tract 2000: 26077001502
+- Tract 1990: 26077001502
+- Place 2020: 86380
+- Place 2010: 86380
+- Place 2000: 86380
+- Place 1990: 2832
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 455964
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 141
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

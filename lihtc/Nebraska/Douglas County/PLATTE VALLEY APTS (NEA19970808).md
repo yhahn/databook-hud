@@ -1,0 +1,85 @@
+# Project: PLATTE VALLEY APTS (NEA19970808)
+
+- HUD ID: NEA19970808
+- HUD ID before: 
+- Project: PLATTE VALLEY APTS
+- Address: 712 S W ST
+- City: VALLEY
+- State: NE
+- ZIP: 68064
+- ZIP extension: 
+- State project ID: 7-0387
+- Latitude: 41.307566
+- Longitude: -96.34901
+- County FIPS: 31055
+- County from: 2020
+- Tract 2020: 31055007504
+- Tract 2010: 31055007504
+- Tract 2000: 31055007504
+- Tract 1990: 31055007501
+- Place 2020: 50020
+- Place 2010: 50020
+- Place 2000: 50020
+- Place 1990: 2500
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 157185
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA1996040.
+- Record status: Existing, unchanged

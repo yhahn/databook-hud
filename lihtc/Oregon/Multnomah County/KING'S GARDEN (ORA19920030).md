@@ -1,0 +1,85 @@
+# Project: KING'S GARDEN (ORA19920030)
+
+- HUD ID: ORA19920030
+- HUD ID before: 
+- Project: KING'S GARDEN
+- Address: 2700 NE 205TH AVE
+- City: FAIRVIEW
+- State: OR
+- ZIP: 97024
+- ZIP extension: 
+- State project ID: OR91-392
+- Latitude: 45.542888
+- Longitude: -122.451275
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051010200
+- Tract 2010: 41051010200
+- Tract 2000: 41051010200
+- Tract 1990: 41051010200
+- Place 2020: 24250
+- Place 2010: 24250
+- Place 2000: 24250
+- Place 1990: 0465
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 561247
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 76
+- 3-bedroom units: 76
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

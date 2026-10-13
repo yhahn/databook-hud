@@ -1,0 +1,85 @@
+# Project: METRO PLACE II (FLA19990150)
+
+- HUD ID: FLA19990150
+- HUD ID before: 
+- Project: METRO PLACE II
+- Address: 907 S KIRKMAN RD
+- City: ORLANDO
+- State: FL
+- ZIP: 32811
+- ZIP extension: 
+- State project ID: 511
+- Latitude: 28.530943
+- Longitude: -81.458998
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095014601
+- Tract 2010: 12095014601
+- Tract 2000: 12095014601
+- Tract 1990: 12095014601
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1600
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 248
+- Low-income units: 224
+- Units reported: 248
+- Low-income reported: 224
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 168
+- 3-bedroom units: 48
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

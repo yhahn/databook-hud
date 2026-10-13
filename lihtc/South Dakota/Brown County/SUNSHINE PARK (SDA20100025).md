@@ -1,0 +1,85 @@
+# Project: SUNSHINE PARK (SDA20100025)
+
+- HUD ID: SDA20100025
+- HUD ID before: 
+- Project: SUNSHINE PARK
+- Address: 1524 S LAWSON ST
+- City: ABERDEEN
+- State: SD
+- ZIP: 57401
+- ZIP extension: 
+- State project ID: S/B 2772
+- Latitude: 45.448809
+- Longitude: -98.464977
+- County FIPS: 46013
+- County from: 2020
+- Tract 2020: 46013951800
+- Tract 2010: 46013951800
+- Tract 2000: 46013951800
+- Tract 1990: 46013951800
+- Place 2020: 00100
+- Place 2010: 00100
+- Place 2000: 00100
+- Place 1990: 0005
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 401916
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 6
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

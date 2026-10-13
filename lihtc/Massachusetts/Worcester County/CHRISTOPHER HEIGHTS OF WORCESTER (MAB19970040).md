@@ -1,0 +1,85 @@
+# Project: CHRISTOPHER HEIGHTS OF WORCESTER (MAB19970040)
+
+- HUD ID: MAB19970040
+- HUD ID before: 
+- Project: CHRISTOPHER HEIGHTS OF WORCESTER
+- Address: 20 MARY SCANO DR
+- City: WORCESTER
+- State: MA
+- ZIP: 01605
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.273925
+- Longitude: -71.778604
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027732002
+- Tract 2010: 25027732002
+- Tract 2000: 25027732100
+- Tract 1990: 25027732100
+- Place 2020: 82000
+- Place 2010: 82000
+- Place 2000: 82000
+- Place 1990: 5030
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 40
+- Units reported: 80
+- Low-income reported: 40
+- Efficiencies: 66
+- 1-bedroom units: 14
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

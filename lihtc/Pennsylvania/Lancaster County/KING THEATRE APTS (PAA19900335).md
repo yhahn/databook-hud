@@ -1,0 +1,85 @@
+# Project: KING THEATRE APTS (PAA19900335)
+
+- HUD ID: PAA19900335
+- HUD ID before: 
+- Project: KING THEATRE APTS
+- Address: 419 E KING ST
+- City: LANCASTER
+- State: PA
+- ZIP: 17602
+- ZIP extension: 
+- State project ID: TC20120111
+- Latitude: 40.039107
+- Longitude: -76.296822
+- County FIPS: 42071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42071000700
+- Tract 2000: 42071000700
+- Tract 1990: 42071000700
+- Place 2020: 
+- Place 2010: 41216
+- Place 2000: 41216
+- Place 1990: 5624
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 152032
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 6
+- 1-bedroom units: 29
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 20000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION. FKA KING THEATRE
+- Record status: Existing, unchanged

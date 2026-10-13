@@ -1,0 +1,85 @@
+# Project: SHADOWS APTS (CAA20070531)
+
+- HUD ID: CAA20070531
+- HUD ID before: 
+- Project: SHADOWS APTS
+- Address: 1949 LOS FELIZ DR
+- City: THOUSAND OAKS
+- State: CA
+- ZIP: 91362
+- ZIP extension: 
+- State project ID: CA-07-814
+- Latitude: 34.178199
+- Longitude: -118.84756
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111007100
+- Tract 2010: 06111007100
+- Tract 2000: 06111007100
+- Tract 1990: 06111007100
+- Place 2020: 78582
+- Place 2010: 78582
+- Place 2000: 78582
+- Place 1990: 2897
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1093213
+- Units: 148
+- Low-income units: 147
+- Units reported: 148
+- Low-income reported: 147
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 92
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

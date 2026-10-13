@@ -1,0 +1,85 @@
+# Project: MONTEREY POINT (IAA20020030)
+
+- HUD ID: IAA20020030
+- HUD ID before: 
+- Project: MONTEREY POINT
+- Address: 822 MONTEREY DR
+- City: CARROLL
+- State: IA
+- ZIP: 51401
+- ZIP extension: 
+- State project ID: 00-23
+- Latitude: 42.066218
+- Longitude: -94.850422
+- County FIPS: 19027
+- County from: 2020
+- Tract 2020: 19027960300
+- Tract 2010: 19027960300
+- Tract 2000: 19027960300
+- Tract 1990: 19027960300
+- Place 2020: 11080
+- Place 2010: 11080
+- Place 2000: 11080
+- Place 1990: 0625
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 101962
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

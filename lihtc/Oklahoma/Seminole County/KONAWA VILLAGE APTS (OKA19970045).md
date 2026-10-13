@@ -1,0 +1,85 @@
+# Project: KONAWA VILLAGE APTS (OKA19970045)
+
+- HUD ID: OKA19970045
+- HUD ID before: 
+- Project: KONAWA VILLAGE APTS
+- Address: 400 N E ST
+- City: KONAWA
+- State: OK
+- ZIP: 74849
+- ZIP extension: 
+- State project ID: 960828
+- Latitude: 34.961236
+- Longitude: -96.748643
+- County FIPS: 40133
+- County from: 2020
+- Tract 2020: 40133583800
+- Tract 2010: 40133583800
+- Tract 2000: 40133983800
+- Tract 1990: 40133983800
+- Place 2020: 40200
+- Place 2010: 40200
+- Place 2000: 40200
+- Place 1990: 1350
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

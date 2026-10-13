@@ -1,0 +1,85 @@
+# Project: SCATTERED SITE SPECIAL NEEDS HOUSING (MEA19970035)
+
+- HUD ID: MEA19970035
+- HUD ID before: 
+- Project: SCATTERED SITE SPECIAL NEEDS HOUSING
+- Address: 14 HIGH ST
+- City: SOUTH PARIS
+- State: ME
+- ZIP: 04281
+- ZIP extension: 
+- State project ID: MSHA-CROP-936
+- Latitude: 44.224516
+- Longitude: -70.513876
+- County FIPS: 23017
+- County from: 2020
+- Tract 2020: 23017966200
+- Tract 2010: 23017966200
+- Tract 2000: 23017996200
+- Tract 1990: 23017996200
+- Place 2020: 71780
+- Place 2010: 71780
+- Place 2000: 71780
+- Place 1990: 4220
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SCATTERED SITES CCI.
+- Record status: Existing, unchanged

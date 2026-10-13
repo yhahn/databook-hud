@@ -1,0 +1,85 @@
+# Project: HAMPSHIRE HOUSE (OHA20110065)
+
+- HUD ID: OHA20110065
+- HUD ID before: 
+- Project: HAMPSHIRE HOUSE
+- Address: 1467 FIFTH ST SW
+- City: WARREN
+- State: OH
+- ZIP: 44485
+- ZIP extension: 
+- State project ID: 090132
+- Latitude: 41.221356
+- Longitude: -80.838687
+- County FIPS: 39155
+- County from: 2020
+- Tract 2020: 39155934000
+- Tract 2010: 39155920600
+- Tract 2000: 39155920600
+- Tract 1990: 39155920600
+- Place 2020: 80892
+- Place 2010: 80892
+- Place 2000: 80892
+- Place 1990: 4480
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 60
+- 3-bedroom units: 50
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2011833, OHA2010085.
+- Record status: Existing, unchanged

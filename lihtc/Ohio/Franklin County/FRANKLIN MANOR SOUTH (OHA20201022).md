@@ -1,0 +1,85 @@
+# Project: FRANKLIN MANOR SOUTH (OHA20201022)
+
+- HUD ID: OHA20201022
+- HUD ID before: 
+- Project: FRANKLIN MANOR SOUTH
+- Address: 1475 STIMMEL RD
+- City: COLUMBUS
+- State: OH
+- ZIP: 43223
+- ZIP extension: 
+- State project ID: 190066
+- Latitude: 39.932224
+- Longitude: -83.034926
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049008340
+- Tract 2010: 39049008340
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 18000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1224029
+- Units: 149
+- Low-income units: 149
+- Units reported: 149
+- Low-income reported: 149
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 51
+- 3-bedroom units: 54
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

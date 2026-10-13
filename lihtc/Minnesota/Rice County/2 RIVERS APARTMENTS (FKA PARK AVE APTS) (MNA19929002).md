@@ -1,0 +1,85 @@
+# Project: 2 RIVERS APARTMENTS (FKA PARK AVE APTS) (MNA19929002)
+
+- HUD ID: MNA19929002
+- HUD ID before: 
+- Project: 2 RIVERS APARTMENTS (FKA PARK AVE APTS)
+- Address: 2426 PARK AVE
+- City: FARIBAULT
+- State: MN
+- ZIP: 55021
+- ZIP extension: 
+- State project ID: D0522
+- Latitude: 44.317472
+- Longitude: -93.292976
+- County FIPS: 27131
+- County from: 2020
+- Tract 2020: 27131070901
+- Tract 2010: 27131070901
+- Tract 2000: 27131970900
+- Tract 1990: 27131970900
+- Place 2020: 20546
+- Place 2010: 20546
+- Place 2000: 20546
+- Place 1990: 1250
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 23
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA 2 RIVERS APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WEST QUAKER HILL APARTMENTS (DEA20060015)
+
+- HUD ID: DEA20060015
+- HUD ID before: 
+- Project: WEST QUAKER HILL APARTMENTS
+- Address: 226D N. WEST STREET
+- City: WILMINGTON
+- State: DE
+- ZIP: 19801
+- ZIP extension: 
+- State project ID: DE-289FY0514
+- Latitude: 39.74052
+- Longitude: -75.555049
+- County FIPS: 10003
+- County from: 2020
+- Tract 2020: 10003002100
+- Tract 2010: 10003002100
+- Tract 2000: 10003002100
+- Tract 1990: 
+- Place 2020: 77580
+- Place 2010: 77580
+- Place 2000: 77580
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 481472
+- Units: 53
+- Low-income units: 48
+- Units reported: 53
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIVERCREST APTS (MIA20099093)
+
+- HUD ID: MIA20099093
+- HUD ID before: 
+- Project: RIVERCREST APTS
+- Address: 125 W HARRINGTON RD
+- City: CROSWELL
+- State: MI
+- ZIP: 48422
+- ZIP extension: 
+- State project ID: MI-3402
+- Latitude: 43.278925
+- Longitude: -82.62733
+- County FIPS: 26151
+- County from: 2020
+- Tract 2020: 26151970800
+- Tract 2010: 26151970800
+- Tract 2000: 26151970800
+- Tract 1990: 26151970800
+- Place 2020: 18920
+- Place 2010: 18920
+- Place 2000: 18920
+- Place 1990: 0625
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

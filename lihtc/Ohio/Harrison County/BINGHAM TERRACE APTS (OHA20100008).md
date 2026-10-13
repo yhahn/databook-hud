@@ -1,0 +1,85 @@
+# Project: BINGHAM TERRACE APTS (OHA20100008)
+
+- HUD ID: OHA20100008
+- HUD ID before: 
+- Project: BINGHAM TERRACE APTS
+- Address: 451 N MAIN ST
+- City: CADIZ
+- State: OH
+- ZIP: 43907
+- ZIP extension: 
+- State project ID: 070142
+- Latitude: 40.27762
+- Longitude: -80.991665
+- County FIPS: 39067
+- County from: 2020
+- Tract 2020: 39067976000
+- Tract 2010: 39067976000
+- Tract 2000: 39067976000
+- Tract 1990: 39067976000
+- Place 2020: 10800
+- Place 2010: 10800
+- Place 2000: 10800
+- Place 1990: 0645
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 28
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3106611
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2010822, OHA1989055.
+- Record status: Existing, unchanged

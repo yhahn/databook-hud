@@ -1,0 +1,85 @@
+# Project: GLENRIDGE GARDENS (MEA20040012)
+
+- HUD ID: MEA20040012
+- HUD ID before: 
+- Project: GLENRIDGE GARDENS
+- Address: 54 GLENRIDGE DR
+- City: AUGUSTA
+- State: ME
+- ZIP: 04330
+- ZIP extension: 
+- State project ID: MSHARLP1294H
+- Latitude: 44.303398
+- Longitude: -69.760847
+- County FIPS: 23011
+- County from: 2020
+- Tract 2020: 23011010500
+- Tract 2010: 23011010500
+- Tract 2000: 23011010500
+- Tract 1990: 23011010500
+- Place 2020: 02100
+- Place 2010: 02100
+- Place 2000: 02100
+- Place 1990: 0210
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 318729
+- Units: 120
+- Low-income units: 117
+- Units reported: 120
+- Low-income reported: 117
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 74
+- 3-bedroom units: 46
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1100660
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MEA2004503.
+- Record status: Existing, unchanged

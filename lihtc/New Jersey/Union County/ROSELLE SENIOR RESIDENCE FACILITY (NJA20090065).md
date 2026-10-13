@@ -1,0 +1,85 @@
+# Project: ROSELLE SENIOR RESIDENCE FACILITY (NJA20090065)
+
+- HUD ID: NJA20090065
+- HUD ID before: 
+- Project: ROSELLE SENIOR RESIDENCE FACILITY
+- Address: 408 GRAND ST
+- City: ROSELLE
+- State: NJ
+- ZIP: 07203
+- ZIP extension: 2200
+- State project ID: 2192-1
+- Latitude: 40.649201
+- Longitude: -74.249452
+- County FIPS: 34039
+- County from: 2020
+- Tract 2020: 34039034400
+- Tract 2010: 34039034400
+- Tract 2000: 34039034400
+- Tract 1990: 34039034400
+- Place 2020: 64620
+- Place 2010: 64620
+- Place 2000: 64620
+- Place 1990: 3425
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 250175
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

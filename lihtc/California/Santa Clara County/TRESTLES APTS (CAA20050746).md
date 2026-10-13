@@ -1,0 +1,85 @@
+# Project: TRESTLES APTS (CAA20050746)
+
+- HUD ID: CAA20050746
+- HUD ID before: 
+- Project: TRESTLES APTS
+- Address: 1566 SCOTT ST
+- City: SAN JOSE
+- State: CA
+- ZIP: 95126
+- ZIP extension: 
+- State project ID: CA-04-804
+- Latitude: 37.3195
+- Longitude: -121.919732
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085502002
+- Tract 2010: 06085502002
+- Tract 2000: 06085502002
+- Tract 1990: 06085502000
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 08848
+- Place 1990: 0341
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 451469
+- Units: 71
+- Low-income units: 69
+- Units reported: 71
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 43
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

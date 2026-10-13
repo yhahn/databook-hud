@@ -1,0 +1,85 @@
+# Project: CANE CREEK APTS (MEMPHIS) (TNA20050805)
+
+- HUD ID: TNA20050805
+- HUD ID before: 
+- Project: CANE CREEK APTS (MEMPHIS)
+- Address: 1528 RAGAN ST
+- City: MEMPHIS
+- State: TN
+- ZIP: 38106
+- ZIP extension: 
+- State project ID: TN-03-025
+- Latitude: 35.104352
+- Longitude: -90.009558
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157006500
+- Tract 2010: 47157006500
+- Tract 2000: 47157006500
+- Tract 1990: 47157006500
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 491538
+- Units: 125
+- Low-income units: 125
+- Units reported: 125
+- Low-income reported: 125
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 81
+- 4-bedroom units: 44
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2006010, TNA2005140. AKA CANE CREEK CROSSING.
+- Record status: Existing, unchanged

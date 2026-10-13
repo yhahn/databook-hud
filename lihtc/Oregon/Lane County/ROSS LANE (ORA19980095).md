@@ -1,0 +1,85 @@
+# Project: ROSS LANE (ORA19980095)
+
+- HUD ID: ORA19980095
+- HUD ID before: 
+- Project: ROSS LANE
+- Address: 2640 ROSS LN
+- City: EUGENE
+- State: OR
+- ZIP: 97404
+- ZIP extension: 
+- State project ID: X001-117A
+- Latitude: 44.101612
+- Longitude: -123.119536
+- County FIPS: 41039
+- County from: 2020
+- Tract 2020: 41039002301
+- Tract 2010: 41039002301
+- Tract 2000: 41039002300
+- Tract 1990: 41039002300
+- Place 2020: 23850
+- Place 2010: 23850
+- Place 2000: 23850
+- Place 1990: 1017
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 318920
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 14
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

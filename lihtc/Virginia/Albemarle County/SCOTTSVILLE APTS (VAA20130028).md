@@ -1,0 +1,85 @@
+# Project: SCOTTSVILLE APTS (VAA20130028)
+
+- HUD ID: VAA20130028
+- HUD ID before: 
+- Project: SCOTTSVILLE APTS
+- Address: 300 PAGE ST
+- City: SCOTTSVILLE
+- State: VA
+- ZIP: 24590
+- ZIP extension: 
+- State project ID: 4271
+- Latitude: 37.798046
+- Longitude: -78.49707
+- County FIPS: 51003
+- County from: 2020
+- Tract 2020: 51003011400
+- Tract 2010: 51003011400
+- Tract 2000: 51003011400
+- Tract 1990: 51003011400
+- Place 2020: 70800
+- Place 2010: 70800
+- Place 2000: 70800
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 99000
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1991095. AKA SCOTTSVILLE SCHOOL.
+- Record status: Existing, unchanged

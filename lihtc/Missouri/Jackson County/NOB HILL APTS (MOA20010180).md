@@ -1,0 +1,85 @@
+# Project: NOB HILL APTS (MOA20010180)
+
+- HUD ID: MOA20010180
+- HUD ID before: 
+- Project: NOB HILL APTS
+- Address: 9300 CLEVELAND AVE
+- City: KANSAS CITY
+- State: MO
+- ZIP: 64132
+- ZIP extension: 
+- State project ID: 99143
+- Latitude: 38.957558
+- Longitude: -94.544381
+- County FIPS: 29095
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29095010201
+- Tract 2000: 29095010201
+- Tract 1990: 29095010201
+- Place 2020: 
+- Place 2010: 38000
+- Place 2000: 38000
+- Place 1990: 2220
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 269
+- Low-income units: 267
+- Units reported: 269
+- Low-income reported: 267
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 161
+- 3-bedroom units: 62
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

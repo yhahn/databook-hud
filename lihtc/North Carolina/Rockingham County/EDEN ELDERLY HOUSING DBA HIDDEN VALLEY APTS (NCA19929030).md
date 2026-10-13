@@ -1,0 +1,85 @@
+# Project: EDEN ELDERLY HOUSING DBA HIDDEN VALLEY APTS (NCA19929030)
+
+- HUD ID: NCA19929030
+- HUD ID before: 
+- Project: EDEN ELDERLY HOUSING DBA HIDDEN VALLEY APTS
+- Address: 230 EAST HARRIS PL OFFICE 116
+- City: EDEN
+- State: NC
+- ZIP: 27288
+- ZIP extension: 
+- State project ID: 9001603
+- Latitude: 36.486209
+- Longitude: -79.736077
+- County FIPS: 37157
+- County from: 2020
+- Tract 2020: 37157040300
+- Tract 2010: 37157040300
+- Tract 2000: 37157040300
+- Tract 1990: 
+- Place 2020: 20080
+- Place 2010: 20080
+- Place 2000: 20080
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 121671
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

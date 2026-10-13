@@ -1,0 +1,85 @@
+# Project: LANGE APTS (INA20040146)
+
+- HUD ID: INA20040146
+- HUD ID before: 
+- Project: LANGE APTS
+- Address: 1400 N AVE
+- City: TERRE HAUTE
+- State: IN
+- ZIP: 47804
+- ZIP extension: 
+- State project ID: IN-03-01000
+- Latitude: 39.496218
+- Longitude: -87.395403
+- County FIPS: 18167
+- County from: 2020
+- Tract 2020: 18167001100
+- Tract 2010: 18167001100
+- Tract 2000: 18167001100
+- Tract 1990: 18167001100
+- Place 2020: 75428
+- Place 2010: 75428
+- Place 2000: 75428
+- Place 1990: 2505
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 293122
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 28
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HCI PROPERTY DEVELOPMENT - LANGE APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: EUCLID GARDENS (NYA19980105)
+
+- HUD ID: NYA19980105
+- HUD ID before: 
+- Project: EUCLID GARDENS
+- Address: 28 EUCLID AVE
+- City: JAMESTOWN
+- State: NY
+- ZIP: 14701
+- ZIP extension: 
+- State project ID: 19970427
+- Latitude: 42.108696
+- Longitude: -79.23834
+- County FIPS: 36013
+- County from: 2020
+- Tract 2020: 36013030200
+- Tract 2010: 36013030200
+- Tract 2000: 36013030200
+- Tract 1990: 36013030200
+- Place 2020: 38264
+- Place 2010: 38264
+- Place 2000: 38264
+- Place 1990: 1755
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SIERRA VISTA APTS (TXA19950355)
+
+- HUD ID: TXA19950355
+- HUD ID before: 
+- Project: SIERRA VISTA APTS
+- Address: 2775 NORTHAVEN RD
+- City: DALLAS
+- State: TX
+- ZIP: 75229
+- ZIP extension: 
+- State project ID: TX1145
+- Latitude: 32.90398
+- Longitude: -96.883425
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113009610
+- Tract 2010: 48113009610
+- Tract 2000: 48113009610
+- Tract 1990: 48113009606
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1085
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 224
+- Low-income units: 224
+- Units reported: 224
+- Low-income reported: 224
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 108
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA CHERRY WALK APT
+- Record status: Existing, unchanged

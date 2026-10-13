@@ -1,0 +1,85 @@
+# Project: LOCKWOOD PLAZA (RIA20020015)
+
+- HUD ID: RIA20020015
+- HUD ID before: 
+- Project: LOCKWOOD PLAZA
+- Address: 60 PRAIRIE AVE
+- City: PROVIDENCE
+- State: RI
+- ZIP: 02905
+- ZIP extension: 
+- State project ID: RI00098
+- Latitude: 41.813991
+- Longitude: -71.414995
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007000700
+- Tract 2010: 44007000700
+- Tract 2000: 44007000700
+- Tract 1990: 44007000700
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0400
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 1549
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 208
+- Efficiencies: 0
+- 1-bedroom units: 108
+- 2-bedroom units: 86
+- 3-bedroom units: 10
+- 4-bedroom units: 4
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LOCKWOOD COMMUNITY.
+- Record status: Existing, unchanged

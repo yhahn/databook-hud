@@ -1,0 +1,85 @@
+# Project: RISE APARTMENTS (WIA20240012)
+
+- HUD ID: WIA20240012
+- HUD ID before: 
+- Project: RISE APARTMENTS
+- Address: 411-413 N ONEIDA ST, 102-112 W HARRIS ST, 113 W HARRIS ST
+- City: APPLETON
+- State: WI
+- ZIP: 54911
+- ZIP extension: 
+- State project ID: 
+- Latitude: 44.264984
+- Longitude: -88.406186
+- County FIPS: 55087
+- County from: 2020
+- Tract 2020: 55087010100
+- Tract 2010: 55087010100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02375
+- Place 2010: 02375
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 48
+- Low-income units: 43
+- Units reported: 48
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 31
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 29
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

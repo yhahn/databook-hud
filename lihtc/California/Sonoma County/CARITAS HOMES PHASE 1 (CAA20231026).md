@@ -1,0 +1,85 @@
+# Project: CARITAS HOMES PHASE 1 (CAA20231026)
+
+- HUD ID: CAA20231026
+- HUD ID before: 
+- Project: CARITAS HOMES PHASE 1
+- Address: 340 7TH STREET
+- City: SANTA ROSA
+- State: CA
+- ZIP: 95401
+- ZIP extension: 
+- State project ID: CA-2020-173
+- Latitude: 38.441083
+- Longitude: -122.719546
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097152000
+- Tract 2010: 06097152000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 70098
+- Place 2010: 70098
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2303382
+- Units: 64
+- Low-income units: 63
+- Units reported: 64
+- Low-income reported: 63
+- Efficiencies: 29
+- 1-bedroom units: 27
+- 2-bedroom units: 8
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 63
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

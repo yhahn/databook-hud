@@ -1,0 +1,85 @@
+# Project: BRIARCREEK APTS (ORA19999166)
+
+- HUD ID: ORA19999166
+- HUD ID before: 
+- Project: BRIARCREEK APTS
+- Address: 1008 NW BRIARCREEK WAY
+- City: HILLSBORO
+- State: OR
+- ZIP: 97006
+- ZIP extension: 
+- State project ID: 702
+- Latitude: 45.526992
+- Longitude: -122.894067
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067031625
+- Tract 2010: 41067031609
+- Tract 2000: 41067031609
+- Tract 1990: 41067031603
+- Place 2020: 34100
+- Place 2010: 34100
+- Place 2000: 34100
+- Place 1990: 0520
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 216
+- Low-income units: 216
+- Units reported: 216
+- Low-income reported: 216
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

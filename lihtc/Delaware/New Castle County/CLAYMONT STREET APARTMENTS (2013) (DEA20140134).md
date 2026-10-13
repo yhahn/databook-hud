@@ -1,0 +1,85 @@
+# Project: CLAYMONT STREET APARTMENTS (2013) (DEA20140134)
+
+- HUD ID: DEA20140134
+- HUD ID before: 
+- Project: CLAYMONT STREET APARTMENTS (2013)
+- Address: 1300 EAST 16TH AND CLAYMONT ST
+- City: WILMINGTON
+- State: DE
+- ZIP: 19801
+- ZIP extension: 
+- State project ID: DE415FY1303
+- Latitude: 39.7466
+- Longitude: -75.5483
+- County FIPS: 10003
+- County from: 2020
+- Tract 2020: 10003003002
+- Tract 2010: 10003002800
+- Tract 2000: 10003000800
+- Tract 1990: 10003000800
+- Place 2020: 77580
+- Place 2010: 77580
+- Place 2000: 77580
+- Place 1990: 0255
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 292212
+- Units: 29
+- Low-income units: 29
+- Units reported: 29
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DEA0000032.;
+- Record status: Existing, unchanged

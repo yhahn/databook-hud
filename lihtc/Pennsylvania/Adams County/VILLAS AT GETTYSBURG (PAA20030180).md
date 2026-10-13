@@ -1,0 +1,85 @@
+# Project: VILLAS AT GETTYSBURG (PAA20030180)
+
+- HUD ID: PAA20030180
+- HUD ID before: 
+- Project: VILLAS AT GETTYSBURG
+- Address: 80 ROBERT CURTIS DR
+- City: GETTYSBURG
+- State: PA
+- ZIP: 17325
+- ZIP extension: 
+- State project ID: TC20010716
+- Latitude: 39.836767
+- Longitude: -77.208186
+- County FIPS: 42001
+- County from: 2020
+- Tract 2020: 42001030600
+- Tract 2010: 42001030600
+- Tract 2000: 42001030600
+- Tract 1990: 42001030600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 40981
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 341876
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1759552
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

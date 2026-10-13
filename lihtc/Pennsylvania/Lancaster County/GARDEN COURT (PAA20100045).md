@@ -1,0 +1,85 @@
+# Project: GARDEN COURT (PAA20100045)
+
+- HUD ID: PAA20100045
+- HUD ID before: 
+- Project: GARDEN COURT
+- Address: 520 E END AVE
+- City: LANCASTER
+- State: PA
+- ZIP: 17602
+- ZIP extension: 
+- State project ID: TC20090519
+- Latitude: 40.037643
+- Longitude: -76.294168
+- County FIPS: 42071
+- County from: 2020
+- Tract 2020: 42071000800
+- Tract 2010: 42071000800
+- Tract 2000: 42071000800
+- Tract 1990: 42071000800
+- Place 2020: 41216
+- Place 2010: 41216
+- Place 2000: 41216
+- Place 1990: 5624
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 11071515
+- Units: 264
+- Low-income units: 252
+- Units reported: 264
+- Low-income reported: 252
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 205
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 264
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 11120388
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

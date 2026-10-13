@@ -1,0 +1,85 @@
+# Project: MOUNT CARMEL MANOR (MNA20069011)
+
+- HUD ID: MNA20069011
+- HUD ID before: 
+- Project: MOUNT CARMEL MANOR
+- Address: 1560 BELLOWS ST
+- City: WEST SAINT PAUL
+- State: MN
+- ZIP: 55118
+- ZIP extension: 
+- State project ID: D3519
+- Latitude: 44.898647
+- Longitude: -93.092293
+- County FIPS: 27037
+- County from: 2020
+- Tract 2020: 27037060104
+- Tract 2010: 27037060104
+- Tract 2000: 27083960400
+- Tract 1990: 27083960400
+- Place 2020: 69700
+- Place 2010: 69700
+- Place 2000: 40688
+- Place 1990: 2475
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 87
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MARSHALL SQUARE APTS.
+- Record status: Existing, unchanged

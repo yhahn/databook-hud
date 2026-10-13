@@ -1,0 +1,85 @@
+# Project: CHESTNUT HILLS APTS (INA20030055)
+
+- HUD ID: INA20030055
+- HUD ID before: 
+- Project: CHESTNUT HILLS APTS
+- Address: 940 STEINMAN DR
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46814
+- ZIP extension: 
+- State project ID: IN-02-01200
+- Latitude: 41.074891
+- Longitude: -85.304937
+- County FIPS: 18003
+- County from: 2020
+- Tract 2020: 18003011608
+- Tract 2010: 18003011608
+- Tract 2000: 18003011602
+- Tract 1990: 18003011602
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 505528
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 44
+- 3-bedroom units: 27
+- 4-bedroom units: 9
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MERLO STATION APTS I (ORA20080055)
+
+- HUD ID: ORA20080055
+- HUD ID before: 
+- Project: MERLO STATION APTS I
+- Address: 2024 SW MERLO CT
+- City: BEAVERTON
+- State: OR
+- ZIP: 97003
+- ZIP extension: 
+- State project ID: 545
+- Latitude: 45.504685
+- Longitude: -122.846314
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067031623
+- Tract 2010: 41067031613
+- Tract 2000: 41067031613
+- Tract 1990: 41067031604
+- Place 2020: 05350
+- Place 2010: 05350
+- Place 2000: 01650
+- Place 1990: 0095
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 385446
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 4
+- 1-bedroom units: 6
+- 2-bedroom units: 14
+- 3-bedroom units: 49
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 38
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MARKET PLACE APTS (TXA20070210)
+
+- HUD ID: TXA20070210
+- HUD ID before: 
+- Project: MARKET PLACE APTS
+- Address: 340 MARKET PL BLVD
+- City: BROWNWOOD
+- State: TX
+- ZIP: 76801
+- ZIP extension: 
+- State project ID: TX4286
+- Latitude: 31.735167
+- Longitude: -98.97935
+- County FIPS: 48049
+- County from: 2020
+- Tract 2020: 48049950600
+- Tract 2010: 48049950600
+- Tract 2000: 48049950600
+- Tract 1990: 48049950600
+- Place 2020: 10780
+- Place 2010: 10780
+- Place 2000: 10780
+- Place 1990: 0605
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 518989
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

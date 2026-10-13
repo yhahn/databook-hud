@@ -1,0 +1,85 @@
+# Project: CANYON POINTE II (UTA19950921)
+
+- HUD ID: UTA19950921
+- HUD ID before: 
+- Project: CANYON POINTE II
+- Address: 1737 WEST 360 NORTH
+- City: ST. GEORGE
+- State: UT
+- ZIP: 84770
+- ZIP extension: 0000
+- State project ID: 1994-13
+- Latitude: 37.115345
+- Longitude: -113.620214
+- County FIPS: 49053
+- County from: 2020
+- Tract 2020: 49053270601
+- Tract 2010: 49053270600
+- Tract 2000: 49053270600
+- Tract 1990: 49053986000
+- Place 2020: 65330
+- Place 2010: 65330
+- Place 2000: 65330
+- Place 1990: 0855
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 356695
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 24
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

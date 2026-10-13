@@ -1,0 +1,85 @@
+# Project: SCOTTS CREEK CROWN (NEA20110813)
+
+- HUD ID: NEA20110813
+- HUD ID before: 
+- Project: SCOTTS CREEK CROWN
+- Address: 1007 RIDGE RD
+- City: HICKMAN
+- State: NE
+- ZIP: 68372
+- ZIP extension: 
+- State project ID: 7-0724
+- Latitude: 40.62874
+- Longitude: -96.633786
+- County FIPS: 31109
+- County from: 2020
+- Tract 2020: 31109010401
+- Tract 2010: 31109010400
+- Tract 2000: 31109010400
+- Tract 1990: 31109010400
+- Place 2020: 22325
+- Place 2010: 22325
+- Place 2000: 04300
+- Place 1990: 1205
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 211383
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 627940
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

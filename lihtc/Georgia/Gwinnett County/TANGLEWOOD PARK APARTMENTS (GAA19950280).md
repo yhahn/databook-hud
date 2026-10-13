@@ -1,0 +1,85 @@
+# Project: TANGLEWOOD PARK APARTMENTS (GAA19950280)
+
+- HUD ID: GAA19950280
+- HUD ID before: 
+- Project: TANGLEWOOD PARK APARTMENTS
+- Address: 5355 SUGARLOAF PKWY
+- City: LAWRENCEVILLE
+- State: GA
+- ZIP: 30043
+- ZIP extension: 
+- State project ID: 1993-044
+- Latitude: 33.96592
+- Longitude: -84.066175
+- County FIPS: 13135
+- County from: 2020
+- Tract 2020: 13135050562
+- Tract 2010: 13135050511
+- Tract 2000: 13135050511
+- Tract 1990: 13135050502
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 45488
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 130
+- Low-income units: 130
+- Units reported: 130
+- Low-income reported: 130
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 52
+- 3-bedroom units: 78
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1994180, GAA1994177. AKA TANGLEWOOD HEIGHTS APTS.
+- Record status: Updated

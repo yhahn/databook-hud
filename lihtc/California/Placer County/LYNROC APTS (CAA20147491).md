@@ -1,0 +1,85 @@
+# Project: LYNROC APTS (CAA20147491)
+
+- HUD ID: CAA20147491
+- HUD ID before: 
+- Project: LYNROC APTS
+- Address: 6105 SUNSET BLVD
+- City: ROCKLIN
+- State: CA
+- ZIP: 95677
+- ZIP extension: 
+- State project ID: CA-14-834
+- Latitude: 38.780334
+- Longitude: -121.23987
+- County FIPS: 06061
+- County from: 2020
+- Tract 2020: 06061021108
+- Tract 2010: 06061021108
+- Tract 2000: 06061021108
+- Tract 1990: 06061021101
+- Place 2020: 62364
+- Place 2010: 62364
+- Place 2000: 62364
+- Place 1990: 2375
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 67
+- Low-income units: 66
+- Units reported: 67
+- Low-income reported: 66
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

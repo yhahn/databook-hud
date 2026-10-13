@@ -1,0 +1,85 @@
+# Project: VISTA ESTERO (CAA20201067)
+
+- HUD ID: CAA20201067
+- HUD ID before: 
+- Project: VISTA ESTERO
+- Address: 285 8TH AVENUE
+- City: OAKLAND
+- State: CA
+- ZIP: 94606
+- ZIP extension: 
+- State project ID: CA-2018-631
+- Latitude: 37.788178
+- Longitude: -122.256901
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001406000
+- Tract 2010: 06001406000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 2701796
+- Units: 110
+- Low-income units: 109
+- Units reported: 110
+- Low-income reported: 109
+- Efficiencies: 0
+- 1-bedroom units: 106
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 76
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HAWTHORN AT 29TH PLACE APTS (ORA20120902)
+
+- HUD ID: ORA20120902
+- HUD ID before: 
+- Project: HAWTHORN AT 29TH PLACE APTS
+- Address: 2984 OAK ST
+- City: EUGENE
+- State: OR
+- ZIP: 97405
+- ZIP extension: 
+- State project ID: 1783
+- Latitude: 44.024767
+- Longitude: -123.089974
+- County FIPS: 41039
+- County from: 2020
+- Tract 2020: 41039005100
+- Tract 2010: 41039005100
+- Tract 2000: 41039005100
+- Tract 1990: 41039005100
+- Place 2020: 23850
+- Place 2010: 23850
+- Place 2000: 23850
+- Place 1990: 0360
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 361750
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

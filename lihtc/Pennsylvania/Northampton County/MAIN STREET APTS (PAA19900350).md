@@ -1,0 +1,85 @@
+# Project: MAIN STREET APTS (PAA19900350)
+
+- HUD ID: PAA19900350
+- HUD ID before: 
+- Project: MAIN STREET APTS
+- Address: 1700 MAIN ST
+- City: NORTHAMPTON
+- State: PA
+- ZIP: 18067
+- ZIP extension: 
+- State project ID: TC1989-0119
+- Latitude: 40.685521
+- Longitude: -75.496357
+- County FIPS: 42095
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42095016201
+- Tract 2000: 42095016201
+- Tract 1990: 42095016201
+- Place 2020: 
+- Place 2010: 54696
+- Place 2000: 54696
+- Place 1990: 6850
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 120080
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 74500
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

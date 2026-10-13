@@ -1,0 +1,25 @@
+# Tax Credit Projects: Chowan County, NC
+
+- Level: County
+- Postal code: NC
+- State FIPS: 37
+- County FIPS: 37041
+- Counties: 
+- Projects: 8
+- Units: 328
+- Low-income units: 325
+
+The low-income housing tax credit projects of Chowan County, North Carolina, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [RESIDENCE (NCA19870150)](./Chowan%20County/RESIDENCE%20%28NCA19870150%29.md) | NCA19870150 | EDENTON | 1987 | 1 | 1 |
+| [E A SWAIN APTS (NCA19880290)](./Chowan%20County/E%20A%20SWAIN%20APTS%20%28NCA19880290%29.md) | NCA19880290 | EDENTON | 1988 | 38 | 38 |
+| [E.A. SWAIN APARTMENTS (NCA19889824)](./Chowan%20County/E.A.%20SWAIN%20APARTMENTS%20%28NCA19889824%29.md) | NCA19889824 | EDENTON | 1988 | 38 | 38 |
+| [FILBERT'S CREEK APARTMENTS (NCA20050075)](./Chowan%20County/FILBERT%27S%20CREEK%20APARTMENTS%20%28NCA20050075%29.md) | NCA20050075 | EDENTON | 2005 | 40 | 40 |
+| [TYLER RUN I (NCA20050185)](./Chowan%20County/TYLER%20RUN%20I%20%28NCA20050185%29.md) | NCA20050185 | EDENTON | 2005 | 51 | 50 |
+| [TYLER RUN II (NCA20060205)](./Chowan%20County/TYLER%20RUN%20II%20%28NCA20060205%29.md) | NCA20060205 | EDENTON | 2006 | 60 | 60 |
+| [WATERFORD PLACE APARTMENTS (NCA20080215)](./Chowan%20County/WATERFORD%20PLACE%20APARTMENTS%20%28NCA20080215%29.md) | NCA20080215 | EDENTON | 2008 | 50 | 49 |
+| [WEDGEWOOD APARTMENTS (NCA20100245)](./Chowan%20County/WEDGEWOOD%20APARTMENTS%20%28NCA20100245%29.md) | NCA20100245 | EDENTON | 2010 | 50 | 49 |

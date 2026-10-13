@@ -1,0 +1,85 @@
+# Project: PEREGRINE PARTNERS II (CHESTER) (PAA19910510)
+
+- HUD ID: PAA19910510
+- HUD ID before: 
+- Project: PEREGRINE PARTNERS II (CHESTER)
+- Address: 2623 MCCAREY ST
+- City: CHESTER
+- State: PA
+- ZIP: 19013
+- ZIP extension: 
+- State project ID: TC1991-0165
+- Latitude: 39.838795
+- Longitude: -75.394204
+- County FIPS: 42045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42045405300
+- Tract 2000: 42045405300
+- Tract 1990: 42045405300
+- Place 2020: 
+- Place 2010: 13208
+- Place 2000: 13208
+- Place 1990: 1855
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 11881
+- Units: 7
+- Low-income units: 7
+- Units reported: 7
+- Low-income reported: 7
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

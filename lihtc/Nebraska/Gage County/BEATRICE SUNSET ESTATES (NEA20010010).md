@@ -1,0 +1,85 @@
+# Project: BEATRICE SUNSET ESTATES (NEA20010010)
+
+- HUD ID: NEA20010010
+- HUD ID before: 
+- Project: BEATRICE SUNSET ESTATES
+- Address: 1108 MERIWETHER ST
+- City: BEATRICE
+- State: NE
+- ZIP: 68310
+- ZIP extension: 
+- State project ID: 7-0532
+- Latitude: 40.266935
+- Longitude: -96.778977
+- County FIPS: 31067
+- County from: 2020
+- Tract 2020: 31067964800
+- Tract 2010: 31067964800
+- Tract 2000: 31067994800
+- Tract 1990: 31067994800
+- Place 2020: 03390
+- Place 2010: 03390
+- Place 2000: 03390
+- Place 1990: 0195
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 165282
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: EDENFIELD PLACE APARTMENTS (GAA19960800)
+
+- HUD ID: GAA19960800
+- HUD ID before: 
+- Project: EDENFIELD PLACE APARTMENTS
+- Address: 535 BRIER CREEK CT
+- City: MILLEN
+- State: GA
+- ZIP: 30442
+- ZIP extension: 1741
+- State project ID: GA-95-044
+- Latitude: 32.796159
+- Longitude: -81.940392
+- County FIPS: 13165
+- County from: 2020
+- Tract 2020: 13165960100
+- Tract 2010: 13165960100
+- Tract 2000: 13165960100
+- Tract 1990: 13165960100
+- Place 2020: 51520
+- Place 2010: 51520
+- Place 2000: 51520
+- Place 1990: 1850
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 23623
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000137, GAA1995310, GAA1997045.
+- Record status: Existing, unchanged

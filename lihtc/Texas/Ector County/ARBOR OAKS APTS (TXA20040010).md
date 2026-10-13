@@ -1,0 +1,85 @@
+# Project: ARBOR OAKS APTS (TXA20040010)
+
+- HUD ID: TXA20040010
+- HUD ID before: 
+- Project: ARBOR OAKS APTS
+- Address: 1000 E MONAHANS ST
+- City: ODESSA
+- State: TX
+- ZIP: 79761
+- ZIP extension: 
+- State project ID: TX3238
+- Latitude: 31.835571
+- Longitude: -102.345774
+- County FIPS: 48135
+- County from: 2020
+- Tract 2020: 48135001800
+- Tract 2010: 48135001800
+- Tract 2000: 48135001800
+- Tract 1990: 48135001800
+- Place 2020: 53388
+- Place 2010: 53388
+- Place 2000: 53388
+- Place 1990: 3080
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ARBOR TERRACE APTS II.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GLADESHIRE (MIA20100030)
+
+- HUD ID: MIA20100030
+- HUD ID before: 
+- Project: GLADESHIRE
+- Address: 1837 S WESTNEDGE AVE
+- City: KALAMAZOO
+- State: MI
+- ZIP: 49008
+- ZIP extension: 
+- State project ID: MI-902
+- Latitude: 42.272243
+- Longitude: -85.588652
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077001100
+- Tract 2010: 26077001100
+- Tract 2000: 26077001100
+- Tract 1990: 26077001100
+- Place 2020: 42160
+- Place 2010: 42160
+- Place 2000: 42160
+- Place 1990: 1370
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 187747
+- Units: 41
+- Low-income units: 40
+- Units reported: 41
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 31
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1854023
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1993195. AKA KALAMAZOO GLADESHIRE.
+- Record status: Existing, unchanged

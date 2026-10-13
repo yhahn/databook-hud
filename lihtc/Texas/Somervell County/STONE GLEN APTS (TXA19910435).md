@@ -1,0 +1,85 @@
+# Project: STONE GLEN APTS (TXA19910435)
+
+- HUD ID: TXA19910435
+- HUD ID before: 
+- Project: STONE GLEN APTS
+- Address: 105 RIO GRANDE ST
+- City: GLEN ROSE
+- State: TX
+- ZIP: 76043
+- ZIP extension: 
+- State project ID: TX0984
+- Latitude: 32.241048
+- Longitude: -97.753416
+- County FIPS: 48425
+- County from: 2020
+- Tract 2020: 48425000101
+- Tract 2010: 48425000100
+- Tract 2000: 48425990100
+- Tract 1990: 48425990100
+- Place 2020: 29876
+- Place 2010: 29876
+- Place 2000: 29876
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

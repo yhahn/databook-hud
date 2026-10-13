@@ -1,0 +1,85 @@
+# Project: BUENA GARDENS SENIOR APARTMENTS (NJA20080100)
+
+- HUD ID: NJA20080100
+- HUD ID before: 
+- Project: BUENA GARDENS SENIOR APARTMENTS
+- Address: 115 WEST PACIFIC AVENUE
+- City: BUENA BORO
+- State: NJ
+- ZIP: 08341
+- ZIP extension: 
+- State project ID: NJ-01397-1
+- Latitude: 39.517796
+- Longitude: -74.949879
+- County FIPS: 34001
+- County from: 2020
+- Tract 2020: 34001011300
+- Tract 2010: 34001011300
+- Tract 2000: 34001011300
+- Tract 1990: 34001011300
+- Place 2020: 08680
+- Place 2010: 08680
+- Place 2000: 08680
+- Place 1990: 1345
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 435700
+- Units: 78
+- Low-income units: 77
+- Units reported: 78
+- Low-income reported: 77
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

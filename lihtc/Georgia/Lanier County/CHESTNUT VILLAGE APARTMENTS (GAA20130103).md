@@ -1,0 +1,85 @@
+# Project: CHESTNUT VILLAGE APARTMENTS (GAA20130103)
+
+- HUD ID: GAA20130103
+- HUD ID before: 
+- Project: CHESTNUT VILLAGE APARTMENTS
+- Address: 23 CHESTNUT RIDGE CIR
+- City: LAKELAND
+- State: GA
+- ZIP: 31635
+- ZIP extension: 5583
+- State project ID: GA-11-027
+- Latitude: 31.04655
+- Longitude: -83.074932
+- County FIPS: 13173
+- County from: 2020
+- Tract 2020: 13173950201
+- Tract 2010: 13173950200
+- Tract 2000: 13173950200
+- Tract 1990: 13173950200
+- Place 2020: 44592
+- Place 2010: 44592
+- Place 2000: 44592
+- Place 1990: 1555
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 573951
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2013006, GAA1993025, GAA0000103. AKA CHESTNUT VILLAGE LAKELAND.;
+- Record status: Existing, unchanged

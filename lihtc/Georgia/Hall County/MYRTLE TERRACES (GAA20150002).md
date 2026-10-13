@@ -1,0 +1,85 @@
+# Project: MYRTLE TERRACES (GAA20150002)
+
+- HUD ID: GAA20150002
+- HUD ID before: 
+- Project: MYRTLE TERRACES
+- Address: 1326 MYRTLE STREET SE
+- City: GAINESVILLE
+- State: GA
+- ZIP: 30501
+- ZIP extension: 
+- State project ID: GA-12-057
+- Latitude: 34.299969
+- Longitude: -83.811348
+- County FIPS: 13139
+- County from: 2020
+- Tract 2020: 13139000800
+- Tract 2010: 13139000800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 31908
+- Place 2010: 31908
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 84
+- Low-income units: 76
+- Units reported: 84
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000293.;
+- Record status: Existing, unchanged

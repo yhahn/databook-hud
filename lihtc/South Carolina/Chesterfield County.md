@@ -1,0 +1,27 @@
+# Tax Credit Projects: Chesterfield County, SC
+
+- Level: County
+- Postal code: SC
+- State FIPS: 45
+- County FIPS: 45025
+- Counties: 
+- Projects: 10
+- Units: 306
+- Low-income units: 306
+
+The low-income housing tax credit projects of Chesterfield County, South Carolina, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [GREYSTONE APTS III (SCA19880235)](./Chesterfield%20County/GREYSTONE%20APTS%20III%20%28SCA19880235%29.md) | SCA19880235 | CHERAW | 1988 | 14 | 14 |
+| [THIRD STREET APTS (SCA19880340)](./Chesterfield%20County/THIRD%20STREET%20APTS%20%28SCA19880340%29.md) | SCA19880340 | CHERAW | 1988 | 8 | 8 |
+| [PAGE SQUARE APTS (SCA19950055)](./Chesterfield%20County/PAGE%20SQUARE%20APTS%20%28SCA19950055%29.md) | SCA19950055 | PAGELAND | 1995 | 39 | 39 |
+| [COOL BREEZE CROSSING (SCA20050045)](./Chesterfield%20County/COOL%20BREEZE%20CROSSING%20%28SCA20050045%29.md) | SCA20050045 | CHERAW | 2005 | 40 | 40 |
+| [PAGELAND PLACE APTS (SCA20060032)](./Chesterfield%20County/PAGELAND%20PLACE%20APTS%20%28SCA20060032%29.md) | SCA20060032 | PAGELAND | 2006 | 50 | 50 |
+| [OAK TERRACE APTS (SCA20070107)](./Chesterfield%20County/OAK%20TERRACE%20APTS%20%28SCA20070107%29.md) | SCA20070107 | PAGELAND | 2007 | 24 | 24 |
+| [RIVER BIRCH APTS (SCA20070130)](./Chesterfield%20County/RIVER%20BIRCH%20APTS%20%28SCA20070130%29.md) | SCA20070130 | CHERAW | 2007 | 14 | 14 |
+| [WATER OAK APARTMENTS (SCA20180027)](./Chesterfield%20County/WATER%20OAK%20APARTMENTS%20%28SCA20180027%29.md) | SCA20180027 | JEFFERSON | 2018 | 40 | 40 |
+| [WEST PINES APARTMENTS (SCA20180028)](./Chesterfield%20County/WEST%20PINES%20APARTMENTS%20%28SCA20180028%29.md) | SCA20180028 | CHERAW | 2018 | 40 | 40 |
+| [PECAN COMMONS (SCA20201001)](./Chesterfield%20County/PECAN%20COMMONS%20%28SCA20201001%29.md) | SCA20201001 | CHERAW | 2020 | 37 | 37 |

@@ -1,0 +1,85 @@
+# Project: THIRD AVENUE APTS (ALA19900160)
+
+- HUD ID: ALA19900160
+- HUD ID before: 
+- Project: THIRD AVENUE APTS
+- Address: 2400 THIRD AVE
+- City: DOTHAN
+- State: AL
+- ZIP: 36301
+- ZIP extension: 
+- State project ID: AL-89-0061
+- Latitude: 31.189633
+- Longitude: -85.379748
+- County FIPS: 01069
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01069040900
+- Tract 2000: 01069040900
+- Tract 1990: 01069040900
+- Place 2020: 
+- Place 2010: 21184
+- Place 2000: 18088
+- Place 1990: 0500
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ENTERPRISE APTS PHASE II.
+- Record status: Existing, unchanged

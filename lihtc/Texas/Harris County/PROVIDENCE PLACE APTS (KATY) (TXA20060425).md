@@ -1,0 +1,85 @@
+# Project: PROVIDENCE PLACE APTS (KATY) (TXA20060425)
+
+- HUD ID: TXA20060425
+- HUD ID before: 
+- Project: PROVIDENCE PLACE APTS (KATY)
+- Address: 20300 SAUMS RD
+- City: KATY
+- State: TX
+- ZIP: 77449
+- ZIP extension: 
+- State project ID: TX4294
+- Latitude: 29.80126
+- Longitude: -95.730866
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201542302
+- Tract 2010: 48201542302
+- Tract 2000: 48201542300
+- Tract 1990: 48201045222
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 35000
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 984852
+- Units: 174
+- Low-income units: 166
+- Units reported: 174
+- Low-income reported: 166
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 75
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

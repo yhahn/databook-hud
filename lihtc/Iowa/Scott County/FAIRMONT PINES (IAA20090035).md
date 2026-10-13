@@ -1,0 +1,85 @@
+# Project: FAIRMONT PINES (IAA20090035)
+
+- HUD ID: IAA20090035
+- HUD ID before: 
+- Project: FAIRMONT PINES
+- Address: 3525 W 42ND ST
+- City: DAVENPORT
+- State: IA
+- ZIP: 52806
+- ZIP extension: 
+- State project ID: 07-32
+- Latitude: 41.563574
+- Longitude: -90.626907
+- County FIPS: 19163
+- County from: 2020
+- Tract 2020: 19163012602
+- Tract 2010: 19163012602
+- Tract 2000: 19163012602
+- Tract 1990: 19163012000
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1040
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 540456
+- Units: 112
+- Low-income units: 112
+- Units reported: 112
+- Low-income reported: 112
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 27
+- 3-bedroom units: 41
+- 4-bedroom units: 30
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA HORIZON HOMES
+- Record status: Existing, unchanged

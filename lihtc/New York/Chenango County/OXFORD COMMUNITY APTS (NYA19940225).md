@@ -1,0 +1,85 @@
+# Project: OXFORD COMMUNITY APTS (NYA19940225)
+
+- HUD ID: NYA19940225
+- HUD ID before: 
+- Project: OXFORD COMMUNITY APTS
+- Address: 19 CHENANGO ST
+- City: OXFORD
+- State: NY
+- ZIP: 13830
+- ZIP extension: 
+- State project ID: 19920108
+- Latitude: 42.446982
+- Longitude: -75.599498
+- County FIPS: 36017
+- County from: 2020
+- Tract 2020: 36017970700
+- Tract 2010: 36017970700
+- Tract 2000: 36017990700
+- Tract 1990: 36017990700
+- Place 2020: 55948
+- Place 2010: 55948
+- Place 2000: 55948
+- Place 1990: 2755
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 95TH AND INTERNATIONAL APARTMENTS (CAA20230009)
+
+- HUD ID: CAA20230009
+- HUD ID before: 
+- Project: 95TH AND INTERNATIONAL APARTMENTS
+- Address: 9415 INTERNATIONAL BOULEVARD
+- City: OAKLAND
+- State: CA
+- ZIP: 94603
+- ZIP extension: 
+- State project ID: CA-2020-718
+- Latitude: 37.746955
+- Longitude: -122.172738
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001409400
+- Tract 2010: 06001409400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2136658
+- Units: 55
+- Low-income units: 54
+- Units reported: 55
+- Low-income reported: 54
+- Efficiencies: 3
+- 1-bedroom units: 24
+- 2-bedroom units: 14
+- 3-bedroom units: 14
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 54
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

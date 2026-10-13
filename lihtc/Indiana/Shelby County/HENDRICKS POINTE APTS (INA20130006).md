@@ -1,0 +1,85 @@
+# Project: HENDRICKS POINTE APTS (INA20130006)
+
+- HUD ID: INA20130006
+- HUD ID before: 
+- Project: HENDRICKS POINTE APTS
+- Address: 415 W TAYLOR ST
+- City: SHELBYVILLE
+- State: IN
+- ZIP: 46176
+- ZIP extension: 
+- State project ID: IN-12-00600
+- Latitude: 39.520692
+- Longitude: -85.783966
+- County FIPS: 18145
+- County from: 2020
+- Tract 2020: 18145710602
+- Tract 2010: 18145710602
+- Tract 2000: 18145710600
+- Tract 1990: 18145710600
+- Place 2020: 69318
+- Place 2010: 69318
+- Place 2000: 69318
+- Place 1990: 2325
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 759000
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 15
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

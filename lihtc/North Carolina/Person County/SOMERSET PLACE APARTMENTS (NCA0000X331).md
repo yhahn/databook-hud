@@ -1,0 +1,85 @@
+# Project: SOMERSET PLACE APARTMENTS (NCA0000X331)
+
+- HUD ID: NCA0000X331
+- HUD ID before: 
+- Project: SOMERSET PLACE APARTMENTS
+- Address: 1700 OLD DURHAM ROAD
+- City: ROXBORO
+- State: NC
+- ZIP: 27573
+- ZIP extension: 
+- State project ID: 9265048
+- Latitude: 36.355867
+- Longitude: -78.979268
+- County FIPS: 37145
+- County from: 2020
+- Tract 2020: 37145920500
+- Tract 2010: 37145920500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 58160
+- Place 2010: 58160
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 43
+- 3-bedroom units: 27
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

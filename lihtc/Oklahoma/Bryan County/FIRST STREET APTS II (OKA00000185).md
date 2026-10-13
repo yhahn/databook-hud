@@ -1,0 +1,85 @@
+# Project: FIRST STREET APTS II (OKA00000185)
+
+- HUD ID: OKA00000185
+- HUD ID before: 
+- Project: FIRST STREET APTS II
+- Address: 3131 N FIRST AVE
+- City: DURANT
+- State: OK
+- ZIP: 74701
+- ZIP extension: 
+- State project ID: OK-88-0316-006
+- Latitude: 34.019611
+- Longitude: -96.373139
+- County FIPS: 40013
+- County from: 2020
+- Tract 2020: 40013796101
+- Tract 2010: 40013796100
+- Tract 2000: 40013996100
+- Tract 1990: 40013996100
+- Place 2020: 22050
+- Place 2010: 22050
+- Place 2000: 22050
+- Place 1990: 0730
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

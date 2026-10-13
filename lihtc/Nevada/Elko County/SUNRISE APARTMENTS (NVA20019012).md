@@ -1,0 +1,85 @@
+# Project: SUNRISE APARTMENTS (NVA20019012)
+
+- HUD ID: NVA20019012
+- HUD ID before: NVA00000054
+- Project: SUNRISE APARTMENTS
+- Address: 950 METZLER
+- City: ELKO
+- State: NV
+- ZIP: 89801
+- ZIP extension: 0000
+- State project ID: 01-14
+- Latitude: 40.832857
+- Longitude: -115.740188
+- County FIPS: 32007
+- County from: 2020
+- Tract 2020: 32007951202
+- Tract 2010: 32007951202
+- Tract 2000: 32007951200
+- Tract 1990: 32007951200
+- Place 2020: 22500
+- Place 2010: 22500
+- Place 2000: 22500
+- Place 1990: 0035
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 60338
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS NVA00000054
+- Record status: Existing, unchanged

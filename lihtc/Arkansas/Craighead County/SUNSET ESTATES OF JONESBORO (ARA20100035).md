@@ -1,0 +1,85 @@
+# Project: SUNSET ESTATES OF JONESBORO (ARA20100035)
+
+- HUD ID: ARA20100035
+- HUD ID before: 
+- Project: SUNSET ESTATES OF JONESBORO
+- Address: 1101 MAYS LN
+- City: JONESBORO
+- State: AR
+- ZIP: 72401
+- ZIP extension: 
+- State project ID: AR-08-09-001
+- Latitude: 35.854326
+- Longitude: -90.684326
+- County FIPS: 05031
+- County from: 2020
+- Tract 2020: 05031000601
+- Tract 2010: 05031000601
+- Tract 2000: 05031000400
+- Tract 1990: 05031000400
+- Place 2020: 35710
+- Place 2010: 35710
+- Place 2000: 35710
+- Place 1990: 1070
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 17
+- 4-bedroom units: 14
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2009793, ARA2009043.
+- Record status: Existing, unchanged

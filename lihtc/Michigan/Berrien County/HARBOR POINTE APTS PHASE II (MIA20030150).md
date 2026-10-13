@@ -1,0 +1,85 @@
+# Project: HARBOR POINTE APTS PHASE II (MIA20030150)
+
+- HUD ID: MIA20030150
+- HUD ID before: 
+- Project: HARBOR POINTE APTS PHASE II
+- Address: 1982 PLAZA DR
+- City: BENTON HARBOR
+- State: MI
+- ZIP: 49022
+- ZIP extension: 
+- State project ID: MI-1900
+- Latitude: 42.081933
+- Longitude: -86.431075
+- County FIPS: 26021
+- County from: 2020
+- Tract 2020: 26021002100
+- Tract 2010: 26021002100
+- Tract 2000: 26021002100
+- Tract 1990: 26021002100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 07540
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 54
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HARBOR POINTE II.
+- Record status: Existing, unchanged

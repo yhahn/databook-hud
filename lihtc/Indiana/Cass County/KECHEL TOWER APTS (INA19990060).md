@@ -1,0 +1,85 @@
+# Project: KECHEL TOWER APTS (INA19990060)
+
+- HUD ID: INA19990060
+- HUD ID before: 
+- Project: KECHEL TOWER APTS
+- Address: 400 N ST
+- City: LOGANSPORT
+- State: IN
+- ZIP: 46947
+- ZIP extension: 
+- State project ID: IN-98-02600
+- Latitude: 40.755401
+- Longitude: -86.365582
+- County FIPS: 18017
+- County from: 2020
+- Tract 2020: 18017951400
+- Tract 2010: 18017951400
+- Tract 2000: 18017951400
+- Tract 1990: 18017951400
+- Place 2020: 44658
+- Place 2010: 44658
+- Place 2000: 44658
+- Place 1990: 1405
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 125829
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

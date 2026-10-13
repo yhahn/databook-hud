@@ -1,0 +1,85 @@
+# Project: GODDARD SENIOR APTS (KSA20060070)
+
+- HUD ID: KSA20060070
+- HUD ID before: 
+- Project: GODDARD SENIOR APTS
+- Address: 500 EASY ST
+- City: GODDARD
+- State: KS
+- ZIP: 67052
+- ZIP extension: 
+- State project ID: 60447
+- Latitude: 37.661562
+- Longitude: -97.581999
+- County FIPS: 20173
+- County from: 2020
+- Tract 2020: 20173009508
+- Tract 2010: 20173009508
+- Tract 2000: 20173009508
+- Tract 1990: 20173009502
+- Place 2020: 26725
+- Place 2010: 26725
+- Place 2000: 26725
+- Place 1990: 3040
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 63884
+- Units: 12
+- Low-income units: 10
+- Units reported: 12
+- Low-income reported: 10
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

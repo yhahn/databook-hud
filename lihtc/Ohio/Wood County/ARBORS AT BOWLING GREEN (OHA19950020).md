@@ -1,0 +1,85 @@
+# Project: ARBORS AT BOWLING GREEN (OHA19950020)
+
+- HUD ID: OHA19950020
+- HUD ID before: 
+- Project: ARBORS AT BOWLING GREEN
+- Address: 360 COLONY LN
+- City: BOWLING GREEN
+- State: OH
+- ZIP: 43402
+- ZIP extension: 
+- State project ID: OH-93-1030
+- Latitude: 41.354513
+- Longitude: -83.655316
+- County FIPS: 39173
+- County from: 2020
+- Tract 2020: 39173021901
+- Tract 2010: 39173021901
+- Tract 2000: 39173021900
+- Tract 1990: 39173021900
+- Place 2020: 07972
+- Place 2010: 07972
+- Place 2000: 07972
+- Place 1990: 0480
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 586580
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 48
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TOMPKINS TERRACE (NYA20080215)
+
+- HUD ID: NYA20080215
+- HUD ID before: 
+- Project: TOMPKINS TERRACE
+- Address: 194 TOMPKINS TER
+- City: BEACON
+- State: NY
+- ZIP: 12508
+- ZIP extension: 
+- State project ID: 20070044
+- Latitude: 41.510357
+- Longitude: -73.981967
+- County FIPS: 36027
+- County from: 2020
+- Tract 2020: 36027210101
+- Tract 2010: 36027210101
+- Tract 2000: 36027210100
+- Tract 1990: 36027210100
+- Place 2020: 05100
+- Place 2010: 05100
+- Place 2000: 05100
+- Place 1990: 0270
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 785968
+- Units: 193
+- Low-income units: 193
+- Units reported: 193
+- Low-income reported: 193
+- Efficiencies: 22
+- 1-bedroom units: 74
+- 2-bedroom units: 51
+- 3-bedroom units: 34
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 38
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ARBOURS AT WILLISTON (FLA20060792)
+
+- HUD ID: FLA20060792
+- HUD ID before: 
+- Project: ARBOURS AT WILLISTON
+- Address: 13 SW EIGHTH PL
+- City: WILLISTON
+- State: FL
+- ZIP: 32696
+- ZIP extension: 
+- State project ID: 1431
+- Latitude: 29.377068
+- Longitude: -82.450106
+- County FIPS: 12075
+- County from: 2020
+- Tract 2020: 12075970600
+- Tract 2010: 12075970600
+- Tract 2000: 12075970600
+- Tract 1990: 12075970600
+- Place 2020: 77825
+- Place 2010: 77825
+- Place 2000: 19575
+- Place 1990: 2255
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

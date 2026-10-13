@@ -1,0 +1,85 @@
+# Project: TRINITY VILLAGE I (MIA19930280)
+
+- HUD ID: MIA19930280
+- HUD ID before: 
+- Project: TRINITY VILLAGE I
+- Address: 2224 VALLEY ST
+- City: NORTON SHORES
+- State: MI
+- ZIP: 49444
+- ZIP extension: 
+- State project ID: MI-1412
+- Latitude: 43.211736
+- Longitude: -86.220589
+- County FIPS: 26121
+- County from: 2020
+- Tract 2020: 26121000402
+- Tract 2010: 26121000402
+- Tract 2000: 26121000400
+- Tract 1990: 26121000400
+- Place 2020: 56320
+- Place 2010: 56320
+- Place 2000: 56320
+- Place 1990: 1875
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 18
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TRINITY VILLAGE LDHA.
+- Record status: Existing, unchanged

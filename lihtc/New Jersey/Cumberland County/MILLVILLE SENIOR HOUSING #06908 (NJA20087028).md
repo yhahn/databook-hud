@@ -1,0 +1,85 @@
+# Project: MILLVILLE SENIOR HOUSING #06908 (NJA20087028)
+
+- HUD ID: NJA20087028
+- HUD ID before: 
+- Project: MILLVILLE SENIOR HOUSING #06908
+- Address: 224 SOUTH 2ND STREET
+- City: MILLVILLE
+- State: NJ
+- ZIP: 08332
+- ZIP extension: 4208
+- State project ID: 02530-1
+- Latitude: 39.39258
+- Longitude: -75.036009
+- County FIPS: 34011
+- County from: 2020
+- Tract 2020: 34011030200
+- Tract 2010: 34011030200
+- Tract 2000: 34011030200
+- Tract 1990: 
+- Place 2020: 46680
+- Place 2010: 46680
+- Place 2000: 46680
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 73
+- Low-income units: 73
+- Units reported: 73
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

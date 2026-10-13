@@ -1,0 +1,85 @@
+# Project: LUND & HILL APTS (WIA19890115)
+
+- HUD ID: WIA19890115
+- HUD ID before: 
+- Project: LUND & HILL APTS
+- Address: 914 TOWER AVE
+- City: SUPERIOR
+- State: WI
+- ZIP: 54880
+- ZIP extension: 
+- State project ID: 134
+- Latitude: 46.727729
+- Longitude: -92.10362
+- County FIPS: 55031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55031021100
+- Tract 2000: 55031020200
+- Tract 1990: 55031020200
+- Place 2020: 
+- Place 2010: 78650
+- Place 2000: 78650
+- Place 1990: 2500
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 158
+- Low-income units: 158
+- Units reported: 158
+- Low-income reported: 158
+- Efficiencies: 0
+- 1-bedroom units: 157
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

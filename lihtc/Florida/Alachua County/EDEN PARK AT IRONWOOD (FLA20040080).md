@@ -1,0 +1,85 @@
+# Project: EDEN PARK AT IRONWOOD (FLA20040080)
+
+- HUD ID: FLA20040080
+- HUD ID before: 
+- Project: EDEN PARK AT IRONWOOD
+- Address: 1330 NE 39TH AVE
+- City: GAINESVILLE
+- State: FL
+- ZIP: 32609
+- ZIP extension: 
+- State project ID: 1072
+- Latitude: 29.688603
+- Longitude: -82.3086
+- County FIPS: 12001
+- County from: 2020
+- Tract 2020: 12001001902
+- Tract 2010: 12001001902
+- Tract 2000: 12001001902
+- Tract 1990: 12001001902
+- Place 2020: 25175
+- Place 2010: 25175
+- Place 2000: 25175
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

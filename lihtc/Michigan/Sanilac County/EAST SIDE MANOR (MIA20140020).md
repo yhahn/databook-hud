@@ -1,0 +1,85 @@
+# Project: EAST SIDE MANOR (MIA20140020)
+
+- HUD ID: MIA20140020
+- HUD ID before: 
+- Project: EAST SIDE MANOR
+- Address: 239 ROBERTS ST
+- City: SANDUSKY
+- State: MI
+- ZIP: 48471
+- ZIP extension: 
+- State project ID: MI-3361
+- Latitude: 43.415732
+- Longitude: -82.823983
+- County FIPS: 26151
+- County from: 2020
+- Tract 2020: 26151970900
+- Tract 2010: 26151970900
+- Tract 2000: 26151970900
+- Tract 1990: 26151970900
+- Place 2020: 71540
+- Place 2010: 71540
+- Place 2000: 71540
+- Place 1990: 2420
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 124229
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

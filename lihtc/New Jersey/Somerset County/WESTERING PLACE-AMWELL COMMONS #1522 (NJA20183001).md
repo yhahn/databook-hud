@@ -1,0 +1,85 @@
+# Project: WESTERING PLACE/AMWELL COMMONS #1522 (NJA20183001)
+
+- HUD ID: NJA20183001
+- HUD ID before: 
+- Project: WESTERING PLACE/AMWELL COMMONS #1522
+- Address: 2 CPL LANGON WAY
+- City: HILLSBOROUGH
+- State: NJ
+- ZIP: 08844
+- ZIP extension: 3503
+- State project ID: 03333
+- Latitude: 40.498997
+- Longitude: -74.663786
+- County FIPS: 34035
+- County from: 2020
+- Tract 2020: 34035053705
+- Tract 2010: 34035053705
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 31880
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1043309
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 30
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: FAITH CROSSING (GAA20120050)
+
+- HUD ID: GAA20120050
+- HUD ID before: 
+- Project: FAITH CROSSING
+- Address: 123 AGAN DRIVE
+- City: VIDALIA
+- State: GA
+- ZIP: 30474
+- ZIP extension: 8694
+- State project ID: GA-10-057
+- Latitude: 32.2172
+- Longitude: -82.394
+- County FIPS: 13279
+- County from: 2020
+- Tract 2020: 13279970202
+- Tract 2010: 13279970200
+- Tract 2000: 13279970200
+- Tract 1990: 13279970200
+- Place 2020: 79388
+- Place 2010: 79388
+- Place 2000: 48232
+- Place 1990: 2925
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 678213
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

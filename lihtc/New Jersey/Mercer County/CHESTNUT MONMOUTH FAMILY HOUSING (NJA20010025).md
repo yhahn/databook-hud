@@ -1,0 +1,85 @@
+# Project: CHESTNUT MONMOUTH FAMILY HOUSING (NJA20010025)
+
+- HUD ID: NJA20010025
+- HUD ID before: 
+- Project: CHESTNUT MONMOUTH FAMILY HOUSING
+- Address: 326 CHESTNUT STREET
+- City: TRENTON CITY
+- State: NJ
+- ZIP: 08608
+- ZIP extension: 
+- State project ID: NJ-602
+- Latitude: 40.21647
+- Longitude: -74.748336
+- County FIPS: 34021
+- County from: 2020
+- Tract 2020: 34021002100
+- Tract 2010: 34021002100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 74000
+- Place 2010: 74000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 169653
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000045.
+- Record status: Existing, unchanged

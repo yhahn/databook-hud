@@ -1,0 +1,85 @@
+# Project: PARKLAND MANOR (WAA20060160)
+
+- HUD ID: WAA20060160
+- HUD ID before: 
+- Project: PARKLAND MANOR
+- Address: 1756 106TH ST S
+- City: TACOMA
+- State: WA
+- ZIP: 98444
+- ZIP extension: 
+- State project ID: WA-05-00470
+- Latitude: 47.16116
+- Longitude: -122.459831
+- County FIPS: 53053
+- County from: 2020
+- Tract 2020: 53053071704
+- Tract 2010: 53053071704
+- Tract 2000: 53053071704
+- Tract 1990: 53053071701
+- Place 2020: 53335
+- Place 2010: 53335
+- Place 2000: 38038
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 220038
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 23
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

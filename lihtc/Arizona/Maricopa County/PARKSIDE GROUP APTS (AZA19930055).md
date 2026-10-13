@@ -1,0 +1,85 @@
+# Project: PARKSIDE GROUP APTS (AZA19930055)
+
+- HUD ID: AZA19930055
+- HUD ID before: 
+- Project: PARKSIDE GROUP APTS
+- Address: 109 E BRINKER DR
+- City: AVONDALE
+- State: AZ
+- ZIP: 85323
+- ZIP extension: 
+- State project ID: AZ-92-00105
+- Latitude: 33.440974
+- Longitude: -112.348759
+- County FIPS: 04013
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04013061200
+- Tract 2000: 04013061200
+- Tract 1990: 04013061200
+- Place 2020: 
+- Place 2010: 04720
+- Place 2000: 04720
+- Place 1990: 0013
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 26
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

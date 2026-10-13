@@ -1,0 +1,85 @@
+# Project: PARKVIEW AND PARKVIEW II APARTMENTS (MNA20110806)
+
+- HUD ID: MNA20110806
+- HUD ID before: 
+- Project: PARKVIEW AND PARKVIEW II APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: PARK RAPIDS
+- State: MN
+- ZIP: 56470
+- ZIP extension: 
+- State project ID: D6285
+- Latitude: 46.9168
+- Longitude: -95.0582
+- County FIPS: 27057
+- County from: 2020
+- Tract 2020: 27057070600
+- Tract 2010: 27057070600
+- Tract 2000: 27057970600
+- Tract 1990: 27057970600
+- Place 2020: 49768
+- Place 2010: 49768
+- Place 2000: 49768
+- Place 1990: 2995
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 135961
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 19
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA0000072, MNA0000500. AKA PARKVIEW & PARKVIEW II APTS.
+- Record status: Existing, unchanged

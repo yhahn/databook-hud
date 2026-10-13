@@ -1,0 +1,85 @@
+# Project: PHOENIX PLACE (SCA20070122)
+
+- HUD ID: SCA20070122
+- HUD ID before: 
+- Project: PHOENIX PLACE
+- Address: 1401 PHOENIX ST
+- City: GREENWOOD
+- State: SC
+- ZIP: 29646
+- ZIP extension: 
+- State project ID: SC-06-006
+- Latitude: 34.176252
+- Longitude: -82.147203
+- County FIPS: 45047
+- County from: 2020
+- Tract 2020: 45047970801
+- Tract 2010: 45047970800
+- Tract 2000: 45047970800
+- Tract 1990: 45047970800
+- Place 2020: 30895
+- Place 2010: 30895
+- Place 2000: 30895
+- Place 1990: 0570
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 351609
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 58
+- 3-bedroom units: 24
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GREENWOOD GARDENS.
+- Record status: Existing, unchanged

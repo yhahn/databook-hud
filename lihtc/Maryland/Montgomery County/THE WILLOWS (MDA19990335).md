@@ -1,0 +1,85 @@
+# Project: THE WILLOWS (MDA19990335)
+
+- HUD ID: MDA19990335
+- HUD ID before: 
+- Project: THE WILLOWS
+- Address: 407 W DIAMOND AVE
+- City: GAITHERSBURG
+- State: MD
+- ZIP: 20877
+- ZIP extension: 
+- State project ID: MD98-21
+- Latitude: 39.140579
+- Longitude: -77.208724
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031700724
+- Tract 2010: 24031700724
+- Tract 2000: 24031700714
+- Tract 1990: 24031700707
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 31175
+- Place 1990: 0385
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 195
+- Low-income units: 195
+- Units reported: 195
+- Low-income reported: 195
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA1999152. AKA THE WILLOWS OF GAITHERSBURG.
+- Record status: Existing, unchanged

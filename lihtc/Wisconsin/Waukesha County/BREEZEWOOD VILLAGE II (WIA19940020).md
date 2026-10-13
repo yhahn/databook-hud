@@ -1,0 +1,85 @@
+# Project: BREEZEWOOD VILLAGE II (WIA19940020)
+
+- HUD ID: WIA19940020
+- HUD ID before: 
+- Project: BREEZEWOOD VILLAGE II
+- Address: 450 SUNNYSLOPE DR
+- City: HARTLAND
+- State: WI
+- ZIP: 53029
+- ZIP extension: 
+- State project ID: 1296
+- Latitude: 43.11143
+- Longitude: -88.339592
+- County FIPS: 55133
+- County from: 2020
+- Tract 2020: 55133203601
+- Tract 2010: 55133203601
+- Tract 2000: 55133203601
+- Tract 1990: 55133203500
+- Place 2020: 33100
+- Place 2010: 33100
+- Place 2000: 14225
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 65
+- Low-income units: 65
+- Units reported: 65
+- Low-income reported: 65
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

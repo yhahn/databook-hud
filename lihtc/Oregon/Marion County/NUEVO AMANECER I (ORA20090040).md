@@ -1,0 +1,85 @@
+# Project: NUEVO AMANECER I (ORA20090040)
+
+- HUD ID: ORA20090040
+- HUD ID before: 
+- Project: NUEVO AMANECER I
+- Address: 1274 FIFTH ST
+- City: WOODBURN
+- State: OR
+- ZIP: 97071
+- ZIP extension: 
+- State project ID: OR08-143
+- Latitude: 45.150044
+- Longitude: -122.853861
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047010309
+- Tract 2010: 41047010306
+- Tract 2000: 41047010301
+- Tract 1990: 41047010301
+- Place 2020: 83750
+- Place 2010: 83750
+- Place 2000: 83750
+- Place 1990: 1240
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 471294
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 25
+- 4-bedroom units: 10
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 50
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THOMAS PLACE - ORLAND PARK (ILA20130009)
+
+- HUD ID: ILA20130009
+- HUD ID before: 
+- Project: THOMAS PLACE - ORLAND PARK
+- Address: 15415 S HARLEM AVE
+- City: ORLAND PARK
+- State: IL
+- ZIP: 60462
+- ZIP extension: 
+- State project ID: 1045611
+- Latitude: 41.611379
+- Longitude: -87.79416
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031824508
+- Tract 2010: 17031824506
+- Tract 2000: 17031824506
+- Tract 1990: 17031824107
+- Place 2020: 56640
+- Place 2010: 56640
+- Place 2000: 54638
+- Place 1990: 4440
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1950000
+- Units: 80
+- Low-income units: 72
+- Units reported: 80
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 74
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

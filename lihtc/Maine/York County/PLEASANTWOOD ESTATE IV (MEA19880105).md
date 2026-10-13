@@ -1,0 +1,85 @@
+# Project: PLEASANTWOOD ESTATE IV (MEA19880105)
+
+- HUD ID: MEA19880105
+- HUD ID before: 
+- Project: PLEASANTWOOD ESTATE IV
+- Address: 169 SACO AVE
+- City: OLD ORCHARD BEACH
+- State: ME
+- ZIP: 04064
+- ZIP extension: 
+- State project ID: ME-88-00081-83
+- Latitude: 43.511491
+- Longitude: -70.394258
+- County FIPS: 23031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 23031006101
+- Tract 2000: 23031006100
+- Tract 1990: 23031006100
+- Place 2020: 
+- Place 2010: 55120
+- Place 2000: 55120
+- Place 1990: 3400
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 6
+- Units reported: 30
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

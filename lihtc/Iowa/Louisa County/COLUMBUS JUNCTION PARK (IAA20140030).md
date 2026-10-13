@@ -1,0 +1,85 @@
+# Project: COLUMBUS JUNCTION PARK (IAA20140030)
+
+- HUD ID: IAA20140030
+- HUD ID before: 
+- Project: COLUMBUS JUNCTION PARK
+- Address: 820 SPRINGER AVE
+- City: COLUMBUS JUNCTION
+- State: IA
+- ZIP: 52738
+- ZIP extension: 1314
+- State project ID: 13-13-40
+- Latitude: 41.271141
+- Longitude: -91.369313
+- County FIPS: 19115
+- County from: 2020
+- Tract 2020: 19115450200
+- Tract 2010: 19115450200
+- Tract 2000: 19115950200
+- Tract 1990: 19115950200
+- Place 2020: 15420
+- Place 2010: 15420
+- Place 2000: 15375
+- Place 1990: 0875
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 245408
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA1990045.
+- Record status: Existing, unchanged

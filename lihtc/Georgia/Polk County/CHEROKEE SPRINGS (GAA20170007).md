@@ -1,0 +1,85 @@
+# Project: CHEROKEE SPRINGS (GAA20170007)
+
+- HUD ID: GAA20170007
+- HUD ID before: 
+- Project: CHEROKEE SPRINGS
+- Address: 318 MAIN ST
+- City: CEDARTOWN
+- State: GA
+- ZIP: 30125
+- ZIP extension: 3042
+- State project ID: 2015-502
+- Latitude: 34.011469
+- Longitude: -85.255128
+- County FIPS: 13233
+- County from: 2020
+- Tract 2020: 13233010500
+- Tract 2010: 13233010500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14500
+- Place 2010: 14500
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 423207
+- Units: 134
+- Low-income units: 134
+- Units reported: 134
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 63
+- 3-bedroom units: 43
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 81
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

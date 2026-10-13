@@ -1,0 +1,85 @@
+# Project: WHITTIER PLACE HOUSING (SITE A) (CAA20156287)
+
+- HUD ID: CAA20156287
+- HUD ID before: 
+- Project: WHITTIER PLACE HOUSING (SITE A)
+- Address: 4125 WHITTIER BLVD
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90023
+- ZIP extension: 
+- State project ID: CA-13-148
+- Latitude: 34.024094
+- Longitude: -118.181831
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037531202
+- Tract 2010: 06037531202
+- Tract 2000: 06037531202
+- Tract 1990: 06037531202
+- Place 2020: 20802
+- Place 2010: 20802
+- Place 2000: 20802
+- Place 1990: 0820
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 24
+- Units reported: 25
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NEWPORT FAMILY HOUSING (VTA20120030)
+
+- HUD ID: VTA20120030
+- HUD ID before: VTA19920022
+- Project: NEWPORT FAMILY HOUSING
+- Address: 48 PLEASANT ST
+- City: NEWPORT
+- State: VT
+- ZIP: 05855
+- ZIP extension: 
+- State project ID: 0429
+- Latitude: 44.933421
+- Longitude: -72.21213
+- County FIPS: 50019
+- County from: 2020
+- Tract 2020: 50019951500
+- Tract 2010: 50019951500
+- Tract 2000: 50019951500
+- Tract 1990: 50019951500
+- Place 2020: 48850
+- Place 2010: 48850
+- Place 2000: 48850
+- Place 1990: 1730
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 409500
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 10
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 736744
+- CDBG: Yes
+- CDBG amount: 600000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS VTA19920022;PIN=0117
+- Record status: Existing, unchanged

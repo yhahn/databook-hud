@@ -1,0 +1,85 @@
+# Project: HARMONY TERRACE (CAA19990245)
+
+- HUD ID: CAA19990245
+- HUD ID before: 
+- Project: HARMONY TERRACE
+- Address: 941 SUNSET GARDEN LN
+- City: SIMI VALLEY
+- State: CA
+- ZIP: 93065
+- ZIP extension: 
+- State project ID: CA-97-506
+- Latitude: 34.25657
+- Longitude: -118.809268
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111007515
+- Tract 2010: 06111007514
+- Tract 2000: 06111007504
+- Tract 1990: 06111007504
+- Place 2020: 72016
+- Place 2010: 72016
+- Place 2000: 72016
+- Place 1990: 2702
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 1074855
+- Units: 136
+- Low-income units: 134
+- Units reported: 136
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 111
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

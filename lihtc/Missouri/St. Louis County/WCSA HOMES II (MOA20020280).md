@@ -1,0 +1,85 @@
+# Project: WCSA HOMES II (MOA20020280)
+
+- HUD ID: MOA20020280
+- HUD ID before: 
+- Project: WCSA HOMES II
+- Address: 1549 WELLSTON AVE
+- City: WELLSTON
+- State: MO
+- ZIP: 63133
+- ZIP extension: 
+- State project ID: 01-064
+- Latitude: 38.679994
+- Longitude: -90.290317
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189213900
+- Tract 2010: 29189213900
+- Tract 2000: 29189213900
+- Tract 1990: 29189213900
+- Place 2020: 78370
+- Place 2010: 78370
+- Place 2000: 32266
+- Place 1990: 4520
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 23
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

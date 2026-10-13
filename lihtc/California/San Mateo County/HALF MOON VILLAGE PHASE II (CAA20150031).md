@@ -1,0 +1,85 @@
+# Project: HALF MOON VILLAGE PHASE II (CAA20150031)
+
+- HUD ID: CAA20150031
+- HUD ID before: 
+- Project: HALF MOON VILLAGE PHASE II
+- Address: 1 BLOOM LANE
+- City: HALF MOON BAY
+- State: CA
+- ZIP: 94019
+- ZIP extension: 
+- State project ID: CA-13-114
+- Latitude: 37.457603
+- Longitude: -122.429561
+- County FIPS: 06081
+- County from: 2020
+- Tract 2020: 06081613702
+- Tract 2010: 06081613700
+- Tract 2000: 06081613700
+- Tract 1990: 
+- Place 2020: 31708
+- Place 2010: 31708
+- Place 2000: 31708
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 2413336
+- Units: 115
+- Low-income units: 114
+- Units reported: 115
+- Low-income reported: 114
+- Efficiencies: 0
+- 1-bedroom units: 107
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 114
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1227313
+- CDBG: Yes
+- CDBG amount: 512687
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

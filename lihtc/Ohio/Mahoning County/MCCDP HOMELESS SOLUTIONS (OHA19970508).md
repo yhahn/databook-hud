@@ -1,0 +1,85 @@
+# Project: MCCDP HOMELESS SOLUTIONS (OHA19970508)
+
+- HUD ID: OHA19970508
+- HUD ID before: 
+- Project: MCCDP HOMELESS SOLUTIONS
+- Address: 550 W CHALMERS AVE
+- City: YOUNGSTOWN
+- State: OH
+- ZIP: 44511
+- ZIP extension: 
+- State project ID: OH-96-0101
+- Latitude: 41.085106
+- Longitude: -80.670663
+- County FIPS: 39099
+- County from: 2020
+- Tract 2020: 39099813900
+- Tract 2010: 39099813900
+- Tract 2000: 39099802200
+- Tract 1990: 39099802200
+- Place 2020: 88000
+- Place 2010: 88000
+- Place 2000: 88000
+- Place 1990: 4845
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 256181
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 89
+- Efficiencies: 81
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1997160, OHA1997112.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PECAN LANE APTS (ALA19890090)
+
+- HUD ID: ALA19890090
+- HUD ID before: 
+- Project: PECAN LANE APTS
+- Address: 23 PECAN ST
+- City: HAYNEVILLE
+- State: AL
+- ZIP: 36040
+- ZIP extension: 
+- State project ID: AL-89-0060
+- Latitude: 32.180416
+- Longitude: -86.577161
+- County FIPS: 01085
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01085780800
+- Tract 2000: 01085980800
+- Tract 1990: 01085980800
+- Place 2020: 
+- Place 2010: 33712
+- Place 2000: 33712
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LOWNDES COUNTY HOUSING.
+- Record status: Existing, unchanged

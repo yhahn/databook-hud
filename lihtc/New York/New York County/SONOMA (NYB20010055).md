@@ -1,0 +1,85 @@
+# Project: SONOMA (NYB20010055)
+
+- HUD ID: NYB20010055
+- HUD ID before: 
+- Project: SONOMA
+- Address: 300 E 39TH ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10016
+- ZIP extension: 
+- State project ID: 
+- Latitude: 40.747771
+- Longitude: -73.973682
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061007800
+- Tract 2010: 36061007800
+- Tract 2000: 36061007800
+- Tract 1990: 36061007800
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 254
+- Low-income units: 64
+- Units reported: 254
+- Low-income reported: 64
+- Efficiencies: 54
+- 1-bedroom units: 143
+- 2-bedroom units: 57
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

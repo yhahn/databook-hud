@@ -1,0 +1,85 @@
+# Project: JACOB'S SQUARE (CAA19940170)
+
+- HUD ID: CAA19940170
+- HUD ID before: 
+- Project: JACOB'S SQUARE
+- Address: 301 JACOB PL
+- City: EXETER
+- State: CA
+- ZIP: 93221
+- ZIP extension: 
+- State project ID: CA-92-050
+- Latitude: 36.298853
+- Longitude: -119.157407
+- County FIPS: 06107
+- County from: 2020
+- Tract 2020: 06107001501
+- Tract 2010: 06107001501
+- Tract 2000: 06107001501
+- Tract 1990: 06107001500
+- Place 2020: 23126
+- Place 2010: 23126
+- Place 2000: 23126
+- Place 1990: 0950
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 194117
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

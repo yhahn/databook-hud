@@ -1,0 +1,85 @@
+# Project: FORT KING COLONY (FLA20110803)
+
+- HUD ID: FLA20110803
+- HUD ID before: 
+- Project: FORT KING COLONY
+- Address: 6900 AQUA VISTA DR
+- City: ZEPHYRHILLS
+- State: FL
+- ZIP: 33542
+- ZIP extension: 
+- State project ID: 2212
+- Latitude: 28.258164
+- Longitude: -82.192179
+- County FIPS: 12101
+- County from: 2020
+- Tract 2020: 12101032804
+- Tract 2010: 12101032804
+- Tract 2000: 12101032800
+- Tract 1990: 12101032800
+- Place 2020: 79225
+- Place 2010: 79225
+- Place 2000: 16125
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 104
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 11993955
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

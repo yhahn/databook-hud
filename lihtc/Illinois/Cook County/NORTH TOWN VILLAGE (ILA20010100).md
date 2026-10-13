@@ -1,0 +1,85 @@
+# Project: NORTH TOWN VILLAGE (ILA20010100)
+
+- HUD ID: ILA20010100
+- HUD ID before: 
+- Project: NORTH TOWN VILLAGE
+- Address: 1311 N HALSTED ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60642
+- ZIP extension: 
+- State project ID: 120299
+- Latitude: 41.905324
+- Longitude: -87.647892
+- County FIPS: 17031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17031842200
+- Tract 2000: 17031080500
+- Tract 1990: 17031080500
+- Place 2020: 
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 910000
+- Units: 116
+- Low-income units: 78
+- Units reported: 116
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 50
+- 3-bedroom units: 14
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2001035.
+- Record status: Existing, unchanged

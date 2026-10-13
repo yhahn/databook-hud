@@ -1,0 +1,85 @@
+# Project: DEER RUN CROSSING (MOA20060144)
+
+- HUD ID: MOA20060144
+- HUD ID before: 
+- Project: DEER RUN CROSSING
+- Address: 1430 ROBIN LN
+- City: CARTHAGE
+- State: MO
+- ZIP: 64836
+- ZIP extension: 
+- State project ID: 05-064
+- Latitude: 37.163441
+- Longitude: -94.331255
+- County FIPS: 29097
+- County from: 2020
+- Tract 2020: 29097011800
+- Tract 2010: 29097011800
+- Tract 2000: 29097011800
+- Tract 1990: 29097011800
+- Place 2020: 11656
+- Place 2010: 11656
+- Place 2000: 11656
+- Place 1990: 0720
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 290197
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 385000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA1989516. AKA DEER WALK APTS.
+- Record status: Existing, unchanged

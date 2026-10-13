@@ -1,0 +1,85 @@
+# Project: HENRY STOUT SENIOR APTS (IAA20020015)
+
+- HUD ID: IAA20020015
+- HUD ID before: 
+- Project: HENRY STOUT SENIOR APTS
+- Address: 125 W NINTH ST
+- City: DUBUQUE
+- State: IA
+- ZIP: 52001
+- ZIP extension: 
+- State project ID: 00-03
+- Latitude: 42.50199
+- Longitude: -90.666985
+- County FIPS: 19061
+- County from: 2020
+- Tract 2020: 19061000100
+- Tract 2010: 19061000100
+- Tract 2000: 19061000100
+- Tract 1990: 19061000100
+- Place 2020: 22395
+- Place 2010: 22395
+- Place 2000: 22395
+- Place 1990: 1215
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 289376
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

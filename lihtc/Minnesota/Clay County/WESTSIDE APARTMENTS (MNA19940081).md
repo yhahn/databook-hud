@@ -1,0 +1,85 @@
+# Project: WESTSIDE APARTMENTS (MNA19940081)
+
+- HUD ID: MNA19940081
+- HUD ID before: 
+- Project: WESTSIDE APARTMENTS
+- Address: 1039 MAIN ST
+- City: HAWLEY
+- State: MN
+- ZIP: 56549
+- ZIP extension: 
+- State project ID: D0618
+- Latitude: 46.878777
+- Longitude: -96.326056
+- County FIPS: 27027
+- County from: 2020
+- Tract 2020: 27027030201
+- Tract 2010: 27027030201
+- Tract 2000: 27027030201
+- Tract 1990: 27027030201
+- Place 2020: 27746
+- Place 2010: 27746
+- Place 2000: 20834
+- Place 1990: 1695
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 9
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

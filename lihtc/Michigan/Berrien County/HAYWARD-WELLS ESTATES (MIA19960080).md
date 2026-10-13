@@ -1,0 +1,85 @@
+# Project: HAYWARD-WELLS ESTATES (MIA19960080)
+
+- HUD ID: MIA19960080
+- HUD ID before: 
+- Project: HAYWARD-WELLS ESTATES
+- Address: 604 EIGHTH ST
+- City: BENTON HARBOR
+- State: MI
+- ZIP: 49022
+- ZIP extension: 
+- State project ID: MI-933
+- Latitude: 42.106598
+- Longitude: -86.457364
+- County FIPS: 26021
+- County from: 2020
+- Tract 2020: 26021000400
+- Tract 2010: 26021000400
+- Tract 2000: 26021000400
+- Tract 1990: 26021000400
+- Place 2020: 07520
+- Place 2010: 07520
+- Place 2000: 07520
+- Place 1990: 0215
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 48
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

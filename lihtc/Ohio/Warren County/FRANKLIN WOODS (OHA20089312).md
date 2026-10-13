@@ -1,0 +1,85 @@
+# Project: FRANKLIN WOODS (OHA20089312)
+
+- HUD ID: OHA20089312
+- HUD ID before: 
+- Project: FRANKLIN WOODS
+- Address: 944 FRANKLIN COMMONS CIR
+- City: FRANKLIN
+- State: OH
+- ZIP: 45005
+- ZIP extension: 
+- State project ID: 060160
+- Latitude: 39.554342
+- Longitude: -84.282073
+- County FIPS: 39165
+- County from: 2020
+- Tract 2020: 39165030501
+- Tract 2010: 39165030501
+- Tract 2000: 39165030501
+- Tract 1990: 39165030501
+- Place 2020: 28476
+- Place 2010: 28476
+- Place 2000: 28476
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 114
+- Low-income units: 114
+- Units reported: 114
+- Low-income reported: 114
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 70
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007731, OHA2008090.
+- Record status: Existing, unchanged

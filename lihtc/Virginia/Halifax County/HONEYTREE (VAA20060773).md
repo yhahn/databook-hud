@@ -1,0 +1,85 @@
+# Project: HONEYTREE (VAA20060773)
+
+- HUD ID: VAA20060773
+- HUD ID before: 
+- Project: HONEYTREE
+- Address: 2313 HAMILTON BLVD
+- City: SOUTH BOSTON
+- State: VA
+- ZIP: 24592
+- ZIP extension: 
+- State project ID: 9072
+- Latitude: 36.711315
+- Longitude: -78.88534
+- County FIPS: 51083
+- County from: 2020
+- Tract 2020: 51083930800
+- Tract 2010: 51083930800
+- Tract 2000: 51083990800
+- Tract 1990: 51083990300
+- Place 2020: 73712
+- Place 2010: 73712
+- Place 2000: 73712
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 123782
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2005082.
+- Record status: Existing, unchanged

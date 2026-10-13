@@ -1,0 +1,85 @@
+# Project: DEFIANCE CROSSING LEASE PURCHASE HOUSING (OHA20100028)
+
+- HUD ID: OHA20100028
+- HUD ID before: 
+- Project: DEFIANCE CROSSING LEASE PURCHASE HOUSING
+- Address: 565 DEFIANCE XING
+- City: DEFIANCE
+- State: OH
+- ZIP: 43512
+- ZIP extension: 
+- State project ID: OH-07-0146
+- Latitude: 41.266104
+- Longitude: -84.349591
+- County FIPS: 39039
+- County from: 2020
+- Tract 2020: 39039958700
+- Tract 2010: 39039958700
+- Tract 2000: 39039958700
+- Tract 1990: 39039958700
+- Place 2020: 21308
+- Place 2010: 21308
+- Place 2000: 21308
+- Place 1990: 1125
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 16
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1283376
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2010828.
+- Record status: Existing, unchanged

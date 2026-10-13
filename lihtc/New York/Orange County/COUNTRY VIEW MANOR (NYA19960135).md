@@ -1,0 +1,85 @@
+# Project: COUNTRY VIEW MANOR (NYA19960135)
+
+- HUD ID: NYA19960135
+- HUD ID before: 
+- Project: COUNTRY VIEW MANOR
+- Address: 203 GENUNG ST
+- City: MIDDLETOWN
+- State: NY
+- ZIP: 10940
+- ZIP extension: 
+- State project ID: NY-94-0610_00764
+- Latitude: 41.432393
+- Longitude: -74.412449
+- County FIPS: 36071
+- County from: 2020
+- Tract 2020: 36071001500
+- Tract 2010: 36071011200
+- Tract 2000: 36071011200
+- Tract 1990: 36071011200
+- Place 2020: 47042
+- Place 2010: 46349
+- Place 2000: 46349
+- Place 1990: 1005
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 90
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

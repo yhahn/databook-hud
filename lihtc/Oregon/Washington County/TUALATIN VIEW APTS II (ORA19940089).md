@@ -1,0 +1,85 @@
+# Project: TUALATIN VIEW APTS II (ORA19940089)
+
+- HUD ID: ORA19940089
+- HUD ID before: 
+- Project: TUALATIN VIEW APTS II
+- Address: 18480 SW BOONES FERRY RD
+- City: DURHAM
+- State: OR
+- ZIP: 97224
+- ZIP extension: 
+- State project ID: OR92-148
+- Latitude: 45.386258
+- Longitude: -122.75742
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067032005
+- Tract 2010: 41067032005
+- Tract 2000: 41067032002
+- Tract 1990: 41067032000
+- Place 2020: 21250
+- Place 2010: 21250
+- Place 2000: 21250
+- Place 1990: 1150
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 961482
+- Units: 210
+- Low-income units: 209
+- Units reported: 210
+- Low-income reported: 209
+- Efficiencies: 0
+- 1-bedroom units: 66
+- 2-bedroom units: 92
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

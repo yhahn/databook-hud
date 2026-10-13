@@ -1,0 +1,85 @@
+# Project: VISTA PARK SENIOR LIVING (FLA20150022)
+
+- HUD ID: FLA20150022
+- HUD ID before: 
+- Project: VISTA PARK SENIOR LIVING
+- Address: 12255 CORTEZ BOULEVARD
+- City: BROOKSVILLE
+- State: FL
+- ZIP: 34613
+- ZIP extension: 
+- State project ID: 2629
+- Latitude: 28.533759
+- Longitude: -82.523576
+- County FIPS: 12053
+- County from: 2020
+- Tract 2020: 12053040801
+- Tract 2010: 12053040801
+- Tract 2000: 12053040800
+- Tract 1990: 
+- Place 2020: 30494
+- Place 2010: 30494
+- Place 2000: 30494
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1510000
+- Units: 103
+- Low-income units: 94
+- Units reported: 103
+- Low-income reported: 94
+- Efficiencies: 
+- 1-bedroom units: 53
+- 2-bedroom units: 39
+- 3-bedroom units: 11
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

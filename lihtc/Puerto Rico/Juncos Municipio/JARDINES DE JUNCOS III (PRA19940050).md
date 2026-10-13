@@ -1,0 +1,85 @@
+# Project: JARDINES DE JUNCOS III (PRA19940050)
+
+- HUD ID: PRA19940050
+- HUD ID before: 
+- Project: JARDINES DE JUNCOS III
+- Address: 100 CARR 189
+- City: JUNCOS
+- State: PR
+- ZIP: 00777
+- ZIP extension: 
+- State project ID: 92-025
+- Latitude: 18.219
+- Longitude: -65.9172
+- County FIPS: 72077
+- County from: 2020
+- Tract 2020: 72077500200
+- Tract 2010: 72077500302
+- Tract 2000: 72077500302
+- Tract 1990: 72077500300
+- Place 2020: 39574
+- Place 2010: 39574
+- Place 2000: 39574
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 66397
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA1994010.
+- Record status: Existing, unchanged

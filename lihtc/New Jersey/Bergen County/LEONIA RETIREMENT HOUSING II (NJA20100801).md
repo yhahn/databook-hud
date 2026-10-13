@@ -1,0 +1,85 @@
+# Project: LEONIA RETIREMENT HOUSING II (NJA20100801)
+
+- HUD ID: NJA20100801
+- HUD ID before: 
+- Project: LEONIA RETIREMENT HOUSING II
+- Address: 270 GLENWOOD AVENUE
+- City: LEONIA TWP.
+- State: NJ
+- ZIP: 07605
+- ZIP extension: 
+- State project ID: 00539
+- Latitude: 40.863381
+- Longitude: -73.983817
+- County FIPS: 34003
+- County from: 2020
+- Tract 2020: 34003028002
+- Tract 2010: 34003028002
+- Tract 2000: 34003028002
+- Tract 1990: 34003028097
+- Place 2020: 40020
+- Place 2010: 40020
+- Place 2000: 40020
+- Place 1990: 2415
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 263394
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2010055, NJA2010045, NJA0000400, NJA0000375.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIDGECREST APARTMENTS (MNA19939007)
+
+- HUD ID: MNA19939007
+- HUD ID before: 
+- Project: RIDGECREST APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: PELICAN RAPIDS
+- State: MN
+- ZIP: 56572
+- ZIP extension: 
+- State project ID: D1116
+- Latitude: 46.59
+- Longitude: -96.1561
+- County FIPS: 27111
+- County from: 2020
+- Tract 2020: 27111960300
+- Tract 2010: 27111960300
+- Tract 2000: 27111960300
+- Tract 1990: 27111960300
+- Place 2020: 50164
+- Place 2010: 50164
+- Place 2000: 50164
+- Place 1990: 3015
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

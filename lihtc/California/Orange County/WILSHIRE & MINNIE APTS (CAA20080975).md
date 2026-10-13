@@ -1,0 +1,85 @@
+# Project: WILSHIRE & MINNIE APTS (CAA20080975)
+
+- HUD ID: CAA20080975
+- HUD ID before: 
+- Project: WILSHIRE & MINNIE APTS
+- Address: 1201 E WILSHIRE AVE
+- City: SANTA ANA
+- State: CA
+- ZIP: 92707
+- ZIP extension: 
+- State project ID: CA-07-816
+- Latitude: 33.73079
+- Longitude: -117.856404
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059074403
+- Tract 2010: 06059074403
+- Tract 2000: 06059074403
+- Tract 1990: 06059074403
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 69000
+- Place 1990: 2570
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 819913
+- Units: 144
+- Low-income units: 143
+- Units reported: 144
+- Low-income reported: 143
+- Efficiencies: 0
+- 1-bedroom units: 108
+- 2-bedroom units: 16
+- 3-bedroom units: 18
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 58
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2400000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WILSHIREMINNIE APTS.
+- Record status: Existing, unchanged

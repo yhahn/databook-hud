@@ -1,0 +1,85 @@
+# Project: TORRE WESTMINSTER VISTA (MNB20079009)
+
+- HUD ID: MNB20079009
+- HUD ID before: 
+- Project: TORRE WESTMINSTER VISTA
+- Address: 1374 WESTMINSTER STREET
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55130
+- ZIP extension: 3367
+- State project ID: D5525
+- Latitude: 44.98238
+- Longitude: -93.085999
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123030601
+- Tract 2010: 27123030601
+- Tract 2000: 27123030601
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 58000
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 504817
+- Units: 289
+- Low-income units: 289
+- Units reported: 289
+- Low-income reported: 289
+- Efficiencies: 0
+- 1-bedroom units: 68
+- 2-bedroom units: 143
+- 3-bedroom units: 64
+- 4-bedroom units: 14
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 116766
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

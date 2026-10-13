@@ -1,0 +1,85 @@
+# Project: BUENA VISTA - GLENDALE (MIA19930200)
+
+- HUD ID: MIA19930200
+- HUD ID before: 
+- Project: BUENA VISTA - GLENDALE
+- Address: 2 E BUENA VISTA ST
+- City: HIGHLAND PARK
+- State: MI
+- ZIP: 48203
+- ZIP extension: 
+- State project ID: MI-280
+- Latitude: 42.401135
+- Longitude: -83.092979
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163553601
+- Tract 2010: 26163553600
+- Tract 2000: 26163553600
+- Tract 1990: 26163553600
+- Place 2020: 38180
+- Place 2010: 38180
+- Place 2000: 38180
+- Place 1990: 1225
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 93
+- Low-income units: 93
+- Units reported: 93
+- Low-income reported: 93
+- Efficiencies: 0
+- 1-bedroom units: 65
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

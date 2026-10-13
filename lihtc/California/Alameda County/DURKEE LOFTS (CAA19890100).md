@@ -1,0 +1,85 @@
+# Project: DURKEE LOFTS (CAA19890100)
+
+- HUD ID: CAA19890100
+- HUD ID before: 
+- Project: DURKEE LOFTS
+- Address: 800 HEINZ AVE
+- City: BERKELEY
+- State: CA
+- ZIP: 94710
+- ZIP extension: 
+- State project ID: CA-89-116
+- Latitude: 37.852844
+- Longitude: -122.294182
+- County FIPS: 06001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06001422000
+- Tract 2000: 06001422000
+- Tract 1990: 06001422000
+- Place 2020: 
+- Place 2010: 06000
+- Place 2000: 06000
+- Place 1990: 0245
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 166348
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0000575.
+- Record status: Existing, unchanged

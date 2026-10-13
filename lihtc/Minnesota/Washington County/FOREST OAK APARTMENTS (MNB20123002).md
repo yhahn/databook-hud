@@ -1,0 +1,85 @@
+# Project: FOREST OAK APARTMENTS (MNB20123002)
+
+- HUD ID: MNB20123002
+- HUD ID before: 
+- Project: FOREST OAK APARTMENTS
+- Address: 19830 FOREST ROAD NORTH
+- City: FOREST LAKE
+- State: MN
+- ZIP: 55025
+- ZIP extension: 8184
+- State project ID: D6265
+- Latitude: 45.239397
+- Longitude: -92.992005
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163070107
+- Tract 2010: 27163070106
+- Tract 2000: 27163070106
+- Tract 1990: 
+- Place 2020: 21770
+- Place 2010: 21770
+- Place 2000: 21770
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 705684
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 36
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

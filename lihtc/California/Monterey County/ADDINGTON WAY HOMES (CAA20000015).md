@@ -1,0 +1,85 @@
+# Project: ADDINGTON WAY HOMES (CAA20000015)
+
+- HUD ID: CAA20000015
+- HUD ID before: 
+- Project: ADDINGTON WAY HOMES
+- Address: 288 ADDINGTON LN
+- City: SALINAS
+- State: CA
+- ZIP: 93907
+- ZIP extension: 
+- State project ID: CA-99-054
+- Latitude: 36.697524
+- Longitude: -121.676606
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053001801
+- Tract 2010: 06053001801
+- Tract 2000: 06053001800
+- Tract 1990: 06053001800
+- Place 2020: 07578
+- Place 2010: 07578
+- Place 2000: 07578
+- Place 1990: 2435
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 30304
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

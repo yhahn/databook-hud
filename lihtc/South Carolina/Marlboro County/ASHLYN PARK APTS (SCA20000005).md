@@ -1,0 +1,85 @@
+# Project: ASHLYN PARK APTS (SCA20000005)
+
+- HUD ID: SCA20000005
+- HUD ID before: 
+- Project: ASHLYN PARK APTS
+- Address: 419 ARCADIA DR
+- City: MCCOLL
+- State: SC
+- ZIP: 29570
+- ZIP extension: 
+- State project ID: SC-98-034
+- Latitude: 34.658791
+- Longitude: -79.533139
+- County FIPS: 45069
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45069960400
+- Tract 2000: 45069960400
+- Tract 1990: 45069960400
+- Place 2020: 
+- Place 2010: 43630
+- Place 2000: 43630
+- Place 1990: 0870
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 80546
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

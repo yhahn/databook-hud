@@ -1,0 +1,85 @@
+# Project: HAUENSTEIN HILLS APTS II (INA20050030)
+
+- HUD ID: INA20050030
+- HUD ID before: 
+- Project: HAUENSTEIN HILLS APTS II
+- Address: 340 HAUENSTEIN RD
+- City: HUNTINGTON
+- State: IN
+- ZIP: 46750
+- ZIP extension: 
+- State project ID: IN-03-02700
+- Latitude: 40.895438
+- Longitude: -85.519112
+- County FIPS: 18069
+- County from: 2020
+- Tract 2020: 18069961400
+- Tract 2010: 18069961400
+- Tract 2000: 18069991400
+- Tract 1990: 18069991400
+- Place 2020: 35302
+- Place 2010: 35302
+- Place 2000: 35302
+- Place 1990: 1130
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 493470
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 28
+- 3-bedroom units: 12
+- 4-bedroom units: 6
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2004025.
+- Record status: Existing, unchanged

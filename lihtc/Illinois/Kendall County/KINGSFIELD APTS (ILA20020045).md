@@ -1,0 +1,85 @@
+# Project: KINGSFIELD APTS (ILA20020045)
+
+- HUD ID: ILA20020045
+- HUD ID before: 
+- Project: KINGSFIELD APTS
+- Address: 300 S LOUIS ST
+- City: PLANO
+- State: IL
+- ZIP: 60545
+- ZIP extension: 
+- State project ID: 135201
+- Latitude: 41.657936
+- Longitude: -88.545731
+- County FIPS: 17093
+- County from: 2020
+- Tract 2020: 17093890501
+- Tract 2010: 17093890500
+- Tract 2000: 17093890500
+- Tract 1990: 17093890500
+- Place 2020: 60352
+- Place 2010: 60352
+- Place 2000: 60352
+- Place 1990: 4690
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 56832
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 12
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MAY APTS (ILA20158125)
+
+- HUD ID: ILA20158125
+- HUD ID before: 
+- Project: MAY APTS
+- Address: 1701 BRYANT AVE
+- City: EDWARDSVILLE
+- State: IL
+- ZIP: 62025
+- ZIP extension: 
+- State project ID: 1105113
+- Latitude: 38.793615
+- Longitude: -89.95572
+- County FIPS: 17119
+- County from: 2020
+- Tract 2020: 17119403001
+- Tract 2010: 17119403001
+- Tract 2000: 17119403001
+- Tract 1990: 17119403001
+- Place 2020: 22697
+- Place 2010: 22697
+- Place 2000: 22697
+- Place 1990: 1685
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1085207
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

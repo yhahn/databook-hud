@@ -1,0 +1,85 @@
+# Project: LEGACY PARK APTS (OKA20060030)
+
+- HUD ID: OKA20060030
+- HUD ID before: 
+- Project: LEGACY PARK APTS
+- Address: 1701 AIRPORT DR
+- City: SHAWNEE
+- State: OK
+- ZIP: 74804
+- ZIP extension: 
+- State project ID: 41730
+- Latitude: 35.350567
+- Longitude: -96.934617
+- County FIPS: 40125
+- County from: 2020
+- Tract 2020: 40125500500
+- Tract 2010: 40125500500
+- Tract 2000: 40125500500
+- Tract 1990: 40125500500
+- Place 2020: 66800
+- Place 2010: 66800
+- Place 2000: 66800
+- Place 1990: 2195
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 479183
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 950000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OKA2005070.
+- Record status: Existing, unchanged

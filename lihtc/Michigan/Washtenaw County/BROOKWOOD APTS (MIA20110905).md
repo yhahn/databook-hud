@@ -1,0 +1,85 @@
+# Project: BROOKWOOD APTS (MIA20110905)
+
+- HUD ID: MIA20110905
+- HUD ID before: 
+- Project: BROOKWOOD APTS
+- Address: 8990 BROOKWOOD ST
+- City: YPSILANTI
+- State: MI
+- ZIP: 48197
+- ZIP extension: 
+- State project ID: MI-832
+- Latitude: 42.209034
+- Longitude: -83.581907
+- County FIPS: 26161
+- County from: 2020
+- Tract 2020: 26161412700
+- Tract 2010: 26161412700
+- Tract 2000: 26161412700
+- Tract 1990: 26161412700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 89140
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 81
+- Units reported: 81
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 66
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2349000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1991115.
+- Record status: Existing, unchanged

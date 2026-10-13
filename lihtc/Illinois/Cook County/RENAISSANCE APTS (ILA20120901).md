@@ -1,0 +1,85 @@
+# Project: RENAISSANCE APTS (ILA20120901)
+
+- HUD ID: ILA20120901
+- HUD ID before: 
+- Project: RENAISSANCE APTS
+- Address: 6105 S ELLIS AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60637
+- ZIP extension: 
+- State project ID: 1056311
+- Latitude: 41.78402
+- Longitude: -87.600919
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031420300
+- Tract 2010: 17031420300
+- Tract 2000: 17031420300
+- Tract 1990: 17031420300
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 442525
+- Units: 117
+- Low-income units: 117
+- Units reported: 117
+- Low-income reported: 117
+- Efficiencies: 11
+- 1-bedroom units: 35
+- 2-bedroom units: 48
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS,,, ILB1995050. AKA RENAISSA.
+- Record status: Existing, unchanged

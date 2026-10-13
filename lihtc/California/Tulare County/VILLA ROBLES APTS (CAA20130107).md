@@ -1,0 +1,85 @@
+# Project: VILLA ROBLES APTS (CAA20130107)
+
+- HUD ID: CAA20130107
+- HUD ID before: 
+- Project: VILLA ROBLES APTS
+- Address: 450 W SPRINGVILLE DR
+- City: PORTERVILLE
+- State: CA
+- ZIP: 93257
+- ZIP extension: 
+- State project ID: CA-12-851
+- Latitude: 36.055144
+- Longitude: -119.027287
+- County FIPS: 06107
+- County from: 2020
+- Tract 2020: 06107004103
+- Tract 2010: 06107004101
+- Tract 2000: 06107004101
+- Tract 1990: 06107004100
+- Place 2020: 58240
+- Place 2010: 58240
+- Place 2000: 21012
+- Place 1990: 2245
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 271000
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 64
+- 4-bedroom units: 28
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1998570. AKA JAYE FAMILY APTS.
+- Record status: Existing, unchanged

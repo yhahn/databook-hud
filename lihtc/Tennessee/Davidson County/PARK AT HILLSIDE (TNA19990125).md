@@ -1,0 +1,85 @@
+# Project: PARK AT HILLSIDE (TNA19990125)
+
+- HUD ID: TNA19990125
+- HUD ID before: 
+- Project: PARK AT HILLSIDE
+- Address: 910 HILLSIDE AVE
+- City: NASHVILLE
+- State: TN
+- ZIP: 
+- ZIP extension: 
+- State project ID: TN-98-103
+- Latitude: 36.1594
+- Longitude: -86.7797
+- County FIPS: 47037
+- County from: 2020
+- Tract 2020: 47037019501
+- Tract 2010: 47037019500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 52006
+- Place 2010: 52006
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 309499
+- Units: 291
+- Low-income units: 291
+- Units reported: 290
+- Low-income reported: 291
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 191
+- 3-bedroom units: 65
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 58
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA1999100.
+- Record status: Existing, unchanged

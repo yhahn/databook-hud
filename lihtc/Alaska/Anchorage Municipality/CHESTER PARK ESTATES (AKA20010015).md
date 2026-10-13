@@ -1,0 +1,85 @@
+# Project: CHESTER PARK ESTATES (AKA20010015)
+
+- HUD ID: AKA20010015
+- HUD ID before: 
+- Project: CHESTER PARK ESTATES
+- Address: 1019 E 20TH AVE
+- City: ANCHORAGE
+- State: AK
+- ZIP: 99501
+- ZIP extension: 
+- State project ID: 36892
+- Latitude: 61.201994
+- Longitude: -149.863086
+- County FIPS: 02020
+- County from: 2020
+- Tract 2020: 02020000902
+- Tract 2010: 02020000902
+- Tract 2000: 02020000902
+- Tract 1990: 02020000902
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0140
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 28
+- 3-bedroom units: 76
+- 4-bedroom units: 60
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WOODSIDE VILLAGE.
+- Record status: Existing, unchanged

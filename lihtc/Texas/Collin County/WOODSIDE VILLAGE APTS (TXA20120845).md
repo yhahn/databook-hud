@@ -1,0 +1,85 @@
+# Project: WOODSIDE VILLAGE APTS (TXA20120845)
+
+- HUD ID: TXA20120845
+- HUD ID before: 
+- Project: WOODSIDE VILLAGE APTS
+- Address: 703 BUMPAS ST
+- City: MCKINNEY
+- State: TX
+- ZIP: 75069
+- ZIP extension: 
+- State project ID: TX4801
+- Latitude: 33.189116
+- Longitude: -96.603166
+- County FIPS: 48085
+- County from: 2020
+- Tract 2020: 48085030903
+- Tract 2010: 48085030900
+- Tract 2000: 48085030900
+- Tract 1990: 48085030900
+- Place 2020: 45744
+- Place 2010: 45744
+- Place 2000: 25224
+- Place 1990: 2610
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SUMMIT WOODSIDE VILLAGE APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ADELAIDE SRO PROJECT (AKA19979002)
+
+- HUD ID: AKA19979002
+- HUD ID before: 
+- Project: ADELAIDE SRO PROJECT
+- Address: 201 E. 9TH STREET
+- City: ANCHORAGE
+- State: AK
+- ZIP: 99501
+- ZIP extension: 
+- State project ID: AK-99-99
+- Latitude: 61.21381
+- Longitude: -149.880521
+- County FIPS: 02020
+- County from: 2020
+- Tract 2020: 02020001100
+- Tract 2010: 02020001100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 73
+- Low-income units: 71
+- Units reported: 73
+- Low-income reported: 71
+- Efficiencies: 71
+- 1-bedroom units: 2
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

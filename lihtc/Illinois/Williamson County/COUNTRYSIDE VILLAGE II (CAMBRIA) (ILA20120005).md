@@ -1,0 +1,85 @@
+# Project: COUNTRYSIDE VILLAGE II (CAMBRIA) (ILA20120005)
+
+- HUD ID: ILA20120005
+- HUD ID before: 
+- Project: COUNTRYSIDE VILLAGE II (CAMBRIA)
+- Address: 102 RALPH ST
+- City: CAMBRIA
+- State: IL
+- ZIP: 62915
+- ZIP extension: 
+- State project ID: 10430-11
+- Latitude: 37.7784
+- Longitude: -89.123656
+- County FIPS: 17199
+- County from: 2020
+- Tract 2020: 17199020100
+- Tract 2010: 17199020100
+- Tract 2000: 17199020100
+- Tract 1990: 17199020100
+- Place 2020: 10630
+- Place 2010: 10630
+- Place 2000: 10084
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 139601
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

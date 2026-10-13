@@ -1,0 +1,85 @@
+# Project: ASPEN COURT APTS (WYA20000005)
+
+- HUD ID: WYA20000005
+- HUD ID before: 
+- Project: ASPEN COURT APTS
+- Address: 760 LANDMARK DR
+- City: CASPER
+- State: WY
+- ZIP: 82609
+- ZIP extension: 
+- State project ID: 97-010
+- Latitude: 42.841971
+- Longitude: -106.261134
+- County FIPS: 56025
+- County from: 2020
+- Tract 2020: 56025001602
+- Tract 2010: 56025001602
+- Tract 2000: 56025001601
+- Tract 1990: 56025001601
+- Place 2020: 13150
+- Place 2010: 13150
+- Place 2000: 10175
+- Place 1990: 0045
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 331130
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 110
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 150
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

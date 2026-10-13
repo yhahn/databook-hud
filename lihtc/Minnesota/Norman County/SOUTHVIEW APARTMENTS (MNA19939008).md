@@ -1,0 +1,85 @@
+# Project: SOUTHVIEW APARTMENTS (MNA19939008)
+
+- HUD ID: MNA19939008
+- HUD ID before: 
+- Project: SOUTHVIEW APARTMENTS
+- Address: 500 2ND ST SW
+- City: TWIN VALLEY
+- State: MN
+- ZIP: 56584
+- ZIP extension: 
+- State project ID: D1663
+- Latitude: 47.255789
+- Longitude: -96.26069
+- County FIPS: 27107
+- County from: 2020
+- Tract 2020: 27107960100
+- Tract 2010: 27107960100
+- Tract 2000: 27027030103
+- Tract 1990: 27027030103
+- Place 2020: 65938
+- Place 2010: 65938
+- Place 2000: 43864
+- Place 1990: 2645
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 8
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

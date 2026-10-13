@@ -1,0 +1,85 @@
+# Project: KESTREL MEADOWS TOWNHOMES (MNA19999006)
+
+- HUD ID: MNA19999006
+- HUD ID before: 
+- Project: KESTREL MEADOWS TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: NORTH BRANCH
+- State: MN
+- ZIP: 55056
+- ZIP extension: 
+- State project ID: D2468
+- Latitude: 45.4934
+- Longitude: -92.9601
+- County FIPS: 27025
+- County from: 2020
+- Tract 2020: 27025110302
+- Tract 2010: 27025110302
+- Tract 2000: 27025110300
+- Tract 1990: 27025110300
+- Place 2020: 46798
+- Place 2010: 46798
+- Place 2000: 46798
+- Place 1990: 0437
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA KESTREL MEADOWS TOWNHOMES.
+- Record status: Existing, unchanged

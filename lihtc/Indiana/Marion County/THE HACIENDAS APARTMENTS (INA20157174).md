@@ -1,0 +1,85 @@
+# Project: THE HACIENDAS APARTMENTS (INA20157174)
+
+- HUD ID: INA20157174
+- HUD ID before: 
+- Project: THE HACIENDAS APARTMENTS
+- Address: 3806 MARIETTA DR
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46235
+- ZIP extension: 
+- State project ID: IN-13-02200
+- Latitude: 39.826612
+- Longitude: -85.988879
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097330211
+- Tract 2010: 18097330202
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 36003
+- Place 2010: 36003
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 469480
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 127
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

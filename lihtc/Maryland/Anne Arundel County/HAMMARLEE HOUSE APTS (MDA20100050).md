@@ -1,0 +1,85 @@
+# Project: HAMMARLEE HOUSE APTS (MDA20100050)
+
+- HUD ID: MDA20100050
+- HUD ID before: 
+- Project: HAMMARLEE HOUSE APTS
+- Address: 20 HAMMARLEE RD
+- City: GLEN BURNIE
+- State: MD
+- ZIP: 21060
+- ZIP extension: 
+- State project ID: MD-10-03001
+- Latitude: 39.174059
+- Longitude: -76.604555
+- County FIPS: 24003
+- County from: 2020
+- Tract 2020: 24003751102
+- Tract 2010: 24003751102
+- Tract 2000: 24003751102
+- Tract 1990: 24003751101
+- Place 2020: 32650
+- Place 2010: 32650
+- Place 2000: 10475
+- Place 1990: 0407
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NASSAU BAY I (FLA20140080)
+
+- HUD ID: FLA20140080
+- HUD ID before: 
+- Project: NASSAU BAY I
+- Address: 5200 N. ORANGE BLOSSOM TRAIL
+- City: ORLANDO
+- State: FL
+- ZIP: 32810
+- ZIP extension: 
+- State project ID: 109
+- Latitude: 28.60605
+- Longitude: -81.42258
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095012402
+- Tract 2010: 12095012402
+- Tract 2000: 12095012402
+- Tract 1990: 12095012400
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 21750
+- Place 1990: 1600
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1890265
+- Units: 252
+- Low-income units: 252
+- Units reported: 252
+- Low-income reported: 252
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 100
+- 3-bedroom units: 76
+- 4-bedroom units: 16
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1996801.
+- Record status: Existing, unchanged

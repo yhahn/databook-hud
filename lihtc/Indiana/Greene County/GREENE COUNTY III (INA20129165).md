@@ -1,0 +1,85 @@
+# Project: GREENE COUNTY III (INA20129165)
+
+- HUD ID: INA20129165
+- HUD ID before: 
+- Project: GREENE COUNTY III
+- Address: 1000 MEADOWBROOK
+- City: LINTON
+- State: IN
+- ZIP: 47441
+- ZIP extension: 
+- State project ID: IN-10-01200
+- Latitude: 39.04131
+- Longitude: -87.138977
+- County FIPS: 18055
+- County from: 2020
+- Tract 2020: 18055954900
+- Tract 2010: 18055954900
+- Tract 2000: 18055954900
+- Tract 1990: 18055954900
+- Place 2020: 44190
+- Place 2010: 44190
+- Place 2000: 44190
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 588868
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 89
+- Efficiencies: 0
+- 1-bedroom units: 83
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

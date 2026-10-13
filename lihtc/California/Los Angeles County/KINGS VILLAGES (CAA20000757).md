@@ -1,0 +1,85 @@
+# Project: KINGS VILLAGES (CAA20000757)
+
+- HUD ID: CAA20000757
+- HUD ID before: 
+- Project: KINGS VILLAGES
+- Address: 1141 N FAIR OAKS AVE
+- City: PASADENA
+- State: CA
+- ZIP: 91103
+- ZIP extension: 
+- State project ID: CA-00-837
+- Latitude: 34.165767
+- Longitude: -118.150846
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037461600
+- Tract 2010: 06037461600
+- Tract 2000: 06037461600
+- Tract 1990: 06037461600
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 56000
+- Place 1990: 2125
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 1230767
+- Units: 313
+- Low-income units: 312
+- Units reported: 313
+- Low-income reported: 312
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 113
+- 3-bedroom units: 150
+- 4-bedroom units: 20
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PASADENA VILLAGES.
+- Record status: Existing, unchanged

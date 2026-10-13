@@ -1,0 +1,85 @@
+# Project: NEW CANONCHET CLIFFS (RIA20080020)
+
+- HUD ID: RIA20080020
+- HUD ID before: 
+- Project: NEW CANONCHET CLIFFS
+- Address: 825 MAIN ST
+- City: HOPE VALLEY
+- State: RI
+- ZIP: 02832
+- ZIP extension: 
+- State project ID: RI00070
+- Latitude: 41.48935
+- Longitude: -71.736058
+- County FIPS: 44009
+- County from: 2020
+- Tract 2020: 44009050701
+- Tract 2010: 44009050700
+- Tract 2000: 44009050700
+- Tract 1990: 44009050700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 03520
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 356628
+- Units: 114
+- Low-income units: 114
+- Units reported: 114
+- Low-income reported: 114
+- Efficiencies: 15
+- 1-bedroom units: 99
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SILVER TERRACE APARTMENTS (NVA20039019)
+
+- HUD ID: NVA20039019
+- HUD ID before: NVA00000047
+- Project: SILVER TERRACE APARTMENTS
+- Address: 1611 WEDEKIND ROAD
+- City: RENO
+- State: NV
+- ZIP: 89512
+- ZIP extension: 0000
+- State project ID: 03-51
+- Latitude: 39.546515
+- Longitude: -119.802309
+- County FIPS: 32031
+- County from: 2020
+- Tract 2020: 32031001503
+- Tract 2010: 32031001502
+- Tract 2000: 32031001500
+- Tract 1990: 32031001500
+- Place 2020: 60600
+- Place 2010: 60600
+- Place 2000: 60600
+- Place 1990: 0090
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 287941
+- Units: 126
+- Low-income units: 126
+- Units reported: 126
+- Low-income reported: 126
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 77
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS NVA00000047
+- Record status: Existing, unchanged

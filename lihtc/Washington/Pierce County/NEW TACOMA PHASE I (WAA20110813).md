@@ -1,0 +1,85 @@
+# Project: NEW TACOMA PHASE I (WAA20110813)
+
+- HUD ID: WAA20110813
+- HUD ID before: 
+- Project: NEW TACOMA PHASE I
+- Address: 1709 SOUTH G ST
+- City: TACOMA
+- State: WA
+- ZIP: 98405
+- ZIP extension: 
+- State project ID: 09-66A
+- Latitude: 47.246363
+- Longitude: -122.444231
+- County FIPS: 53053
+- County from: 2020
+- Tract 2020: 53053061400
+- Tract 2010: 53053061400
+- Tract 2000: 53053061400
+- Tract 1990: 53053061400
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 1280
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 768572
+- Units: 75
+- Low-income units: 74
+- Units reported: 75
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 74
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 2800000
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA0000451.
+- Record status: Updated

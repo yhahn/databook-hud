@@ -1,0 +1,85 @@
+# Project: MARTIN'S LANDING APARTMENT HOMES AND TIMBERLEAF ESTATES (WVA20150006)
+
+- HUD ID: WVA20150006
+- HUD ID before: 
+- Project: MARTIN'S LANDING APARTMENT HOMES AND TIMBERLEAF ESTATES
+- Address: 2100 MARTIN'S LANDING CIRCLE
+- City: MARTINSBURG
+- State: WV
+- ZIP: 25401
+- ZIP extension: 
+- State project ID: 2014 - #33
+- Latitude: 39.478383
+- Longitude: -77.979766
+- County FIPS: 54003
+- County from: 2020
+- Tract 2020: 54003971301
+- Tract 2010: 54003971300
+- Tract 2000: 54003971300
+- Tract 1990: 
+- Place 2020: 52060
+- Place 2010: 52060
+- Place 2000: 52060
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 795138
+- Units: 257
+- Low-income units: 257
+- Units reported: 257
+- Low-income reported: 257
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 102
+- 3-bedroom units: 101
+- 4-bedroom units: 54
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

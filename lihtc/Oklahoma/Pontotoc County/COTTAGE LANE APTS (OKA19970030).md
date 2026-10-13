@@ -1,0 +1,85 @@
+# Project: COTTAGE LANE APTS (OKA19970030)
+
+- HUD ID: OKA19970030
+- HUD ID before: 
+- Project: COTTAGE LANE APTS
+- Address: 1318 NADINE DR
+- City: ADA
+- State: OK
+- ZIP: 74820
+- ZIP extension: 
+- State project ID: 960823
+- Latitude: 34.78724
+- Longitude: -96.680854
+- County FIPS: 40123
+- County from: 2020
+- Tract 2020: 40123089100
+- Tract 2010: 40123089100
+- Tract 2000: 40123989100
+- Tract 1990: 40123989100
+- Place 2020: 00200
+- Place 2010: 00200
+- Place 2000: 00200
+- Place 1990: 0010
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

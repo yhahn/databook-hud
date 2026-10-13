@@ -1,0 +1,85 @@
+# Project: BAYOU WILLOW APTS (TXA20040020)
+
+- HUD ID: TXA20040020
+- HUD ID before: 
+- Project: BAYOU WILLOW APTS
+- Address: 4102 YOUNG ST
+- City: PASADENA
+- State: TX
+- ZIP: 77504
+- ZIP extension: 
+- State project ID: TX3438
+- Latitude: 29.648631
+- Longitude: -95.194412
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201323601
+- Tract 2010: 48201323600
+- Tract 2000: 48201323600
+- Tract 1990: 48201035911
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 56000
+- Place 1990: 3200
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 212
+- Low-income units: 212
+- Units reported: 212
+- Low-income reported: 212
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BAYOU WILLOWS APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARK AT CLIFF CREEK (TXA19960190)
+
+- HUD ID: TXA19960190
+- HUD ID before: 
+- Project: PARK AT CLIFF CREEK
+- Address: 7310 MARVIN D LOVE FWY
+- City: DALLAS
+- State: TX
+- ZIP: 75237
+- ZIP extension: 
+- State project ID: TX1312
+- Latitude: 32.658701
+- Longitude: -96.872544
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113010905
+- Tract 2010: 48113010902
+- Tract 2000: 48113010902
+- Tract 1990: 48113010900
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1085
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 280
+- Low-income units: 280
+- Units reported: 280
+- Low-income reported: 280
+- Efficiencies: 24
+- 1-bedroom units: 48
+- 2-bedroom units: 120
+- 3-bedroom units: 88
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

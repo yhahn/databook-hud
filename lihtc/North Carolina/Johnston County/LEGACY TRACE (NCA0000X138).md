@@ -1,0 +1,85 @@
+# Project: LEGACY TRACE (NCA0000X138)
+
+- HUD ID: NCA0000X138
+- HUD ID before: 
+- Project: LEGACY TRACE
+- Address: 1150 BERKLEY BELLE DR
+- City: BENSON
+- State: NC
+- ZIP: 27504
+- ZIP extension: 
+- State project ID: 9215134
+- Latitude: 35.4063
+- Longitude: -78.5126
+- County FIPS: 37101
+- County from: 2020
+- Tract 2020: 37101041402
+- Tract 2010: 37101041400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 05040
+- Place 2010: 05040
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 652950
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 38
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 1600000
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

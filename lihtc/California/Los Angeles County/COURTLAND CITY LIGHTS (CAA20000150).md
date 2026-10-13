@@ -1,0 +1,85 @@
+# Project: COURTLAND CITY LIGHTS (CAA20000150)
+
+- HUD ID: CAA20000150
+- HUD ID before: 
+- Project: COURTLAND CITY LIGHTS
+- Address: 1355 W CT ST
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90026
+- ZIP extension: 
+- State project ID: CA-99-194
+- Latitude: 34.064598
+- Longitude: -118.257519
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037208002
+- Tract 2010: 06037208000
+- Tract 2000: 06037208000
+- Tract 1990: 06037208000
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 102006
+- Units: 92
+- Low-income units: 91
+- Units reported: 92
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 60
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2000145.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COPPERTREE VILLAGE (TXA19920050)
+
+- HUD ID: TXA19920050
+- HUD ID before: 
+- Project: COPPERTREE VILLAGE
+- Address: 1415 W GULF BANK RD
+- City: HOUSTON
+- State: TX
+- ZIP: 77088
+- ZIP extension: 
+- State project ID: TX0931
+- Latitude: 29.887549
+- Longitude: -95.422543
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201533302
+- Tract 2010: 48201533300
+- Tract 2000: 48201533300
+- Tract 1990: 48201053103
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 324
+- Low-income units: 324
+- Units reported: 324
+- Low-income reported: 324
+- Efficiencies: 0
+- 1-bedroom units: 192
+- 2-bedroom units: 132
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

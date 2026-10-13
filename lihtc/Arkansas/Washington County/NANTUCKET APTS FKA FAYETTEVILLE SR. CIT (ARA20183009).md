@@ -1,0 +1,85 @@
+# Project: NANTUCKET APTS FKA FAYETTEVILLE SR. CIT (ARA20183009)
+
+- HUD ID: ARA20183009
+- HUD ID before: 
+- Project: NANTUCKET APTS FKA FAYETTEVILLE SR. CIT
+- Address: 611 E NANTUCKET DR
+- City: FAYETTEVILLE
+- State: AR
+- ZIP: 72702
+- ZIP extension: 
+- State project ID: 1146
+- Latitude: 36.051183
+- Longitude: -94.151347
+- County FIPS: 05143
+- County from: 2020
+- Tract 2020: 05143011104
+- Tract 2010: 05143011101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23290
+- Place 2010: 23290
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

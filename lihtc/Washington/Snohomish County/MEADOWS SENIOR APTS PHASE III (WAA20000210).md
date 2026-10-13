@@ -1,0 +1,85 @@
+# Project: MEADOWS SENIOR APTS PHASE III (WAA20000210)
+
+- HUD ID: WAA20000210
+- HUD ID before: 
+- Project: MEADOWS SENIOR APTS PHASE III
+- Address: 1131 RAINIER AVE
+- City: EVERETT
+- State: WA
+- ZIP: 98201
+- ZIP extension: 
+- State project ID: 98-28V
+- Latitude: 48.00206
+- Longitude: -122.198202
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061040200
+- Tract 2010: 53061040200
+- Tract 2000: 53061040200
+- Tract 1990: 53061040200
+- Place 2020: 22640
+- Place 2010: 22640
+- Place 2000: 22640
+- Place 1990: 0420
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 470132
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 50
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA1999235.
+- Record status: Existing, unchanged

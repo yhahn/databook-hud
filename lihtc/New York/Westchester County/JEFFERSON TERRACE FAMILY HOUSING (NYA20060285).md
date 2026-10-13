@@ -1,0 +1,85 @@
+# Project: JEFFERSON TERRACE FAMILY HOUSING (NYA20060285)
+
+- HUD ID: NYA20060285
+- HUD ID before: 
+- Project: JEFFERSON TERRACE FAMILY HOUSING
+- Address: 108 JEFFERSON ST
+- City: YONKERS
+- State: NY
+- ZIP: 10701
+- ZIP extension: 
+- State project ID: 20060430
+- Latitude: 40.927298
+- Longitude: -73.899921
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119000101
+- Tract 2010: 36119000101
+- Tract 2000: 36119000101
+- Tract 1990: 36119000101
+- Place 2020: 84000
+- Place 2010: 84000
+- Place 2000: 84000
+- Place 1990: 4075
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 233723
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 13
+- 3-bedroom units: 12
+- 4-bedroom units: 14
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 53
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VINTAGE SHORES (CAA20020485)
+
+- HUD ID: CAA20020485
+- HUD ID before: 
+- Project: VINTAGE SHORES
+- Address: 366 CAMINO DE ESTRELLA
+- City: SAN CLEMENTE
+- State: CA
+- ZIP: 92672
+- ZIP extension: 
+- State project ID: CA-01-811
+- Latitude: 33.455872
+- Longitude: -117.658233
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059042206
+- Tract 2010: 06059042206
+- Tract 2000: 06059042206
+- Tract 1990: 06059042204
+- Place 2020: 65084
+- Place 2010: 65084
+- Place 2000: 17946
+- Place 1990: 2470
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 388388
+- Units: 122
+- Low-income units: 120
+- Units reported: 122
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 42
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VINTAGE SHORES SENIOR APTS.
+- Record status: Existing, unchanged

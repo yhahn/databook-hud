@@ -1,0 +1,85 @@
+# Project: LORO LANDING (F.K.A. PARROTT STREET APARTMENTS) (CAA20221047)
+
+- HUD ID: CAA20221047
+- HUD ID before: 
+- Project: LORO LANDING (F.K.A. PARROTT STREET APARTMENTS)
+- Address: 1604 SAN LEANDRO BLVD
+- City: SAN LEANDRO
+- State: CA
+- ZIP: 94577
+- ZIP extension: 
+- State project ID: CA-2019-061
+- Latitude: 37.720297
+- Longitude: -122.158668
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001432601
+- Tract 2010: 06001432600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 68084
+- Place 2010: 68084
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 2500000
+- Units: 62
+- Low-income units: 60
+- Units reported: 62
+- Low-income reported: 60
+- Efficiencies: 22
+- 1-bedroom units: 22
+- 2-bedroom units: 18
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 43
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

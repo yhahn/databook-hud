@@ -1,0 +1,85 @@
+# Project: CASA NETTLETON APTS (CAA19990085)
+
+- HUD ID: CAA19990085
+- HUD ID before: 
+- Project: CASA NETTLETON APTS
+- Address: 160 NETTLETON RD
+- City: VISTA
+- State: CA
+- ZIP: 92083
+- ZIP extension: 
+- State project ID: CA-97-039
+- Latitude: 33.188819
+- Longitude: -117.282431
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073018519
+- Tract 2010: 06073018519
+- Tract 2000: 06073018519
+- Tract 1990: 06073018598
+- Place 2020: 82996
+- Place 2010: 82996
+- Place 2000: 53322
+- Place 1990: 1990
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 272857
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 18
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NETTLETON ROAD APTS.
+- Record status: Existing, unchanged

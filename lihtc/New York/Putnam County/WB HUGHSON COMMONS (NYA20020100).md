@@ -1,0 +1,85 @@
+# Project: WB HUGHSON COMMONS (NYA20020100)
+
+- HUD ID: NYA20020100
+- HUD ID before: 
+- Project: WB HUGHSON COMMONS
+- Address: 1100 GABLES WAY
+- City: CARMEL
+- State: NY
+- ZIP: 10512
+- ZIP extension: 
+- State project ID: NY-00-0086_01006
+- Latitude: 41.409375
+- Longitude: -73.658013
+- County FIPS: 36079
+- County from: 2020
+- Tract 2020: 36079011501
+- Tract 2010: 36079011500
+- Tract 2000: 36079011500
+- Tract 1990: 36079011500
+- Place 2020: 12518
+- Place 2010: 12532
+- Place 2000: 12532
+- Place 1990: 0525
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 94
+- Low-income units: 94
+- Units reported: 94
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 78
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

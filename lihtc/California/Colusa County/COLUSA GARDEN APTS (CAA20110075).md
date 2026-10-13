@@ -1,0 +1,85 @@
+# Project: COLUSA GARDEN APTS (CAA20110075)
+
+- HUD ID: CAA20110075
+- HUD ID before: 
+- Project: COLUSA GARDEN APTS
+- Address: 1319 WESCOTT RD
+- City: COLUSA
+- State: CA
+- ZIP: 95932
+- ZIP extension: 
+- State project ID: CA-10-180
+- Latitude: 39.203463
+- Longitude: -122.004774
+- County FIPS: 06011
+- County from: 2020
+- Tract 2020: 06011000200
+- Tract 2010: 06011000200
+- Tract 2000: 06011000200
+- Tract 1990: 06011000200
+- Place 2020: 14946
+- Place 2010: 14946
+- Place 2000: 14946
+- Place 1990: 0585
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 441286
+- Units: 96
+- Low-income units: 94
+- Units reported: 96
+- Low-income reported: 94
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 64
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 54
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011579.
+- Record status: Existing, unchanged

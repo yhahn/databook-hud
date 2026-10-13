@@ -1,0 +1,85 @@
+# Project: DAINES VILLAGE APARTMENTS (OHA20200013)
+
+- HUD ID: OHA20200013
+- HUD ID before: 
+- Project: DAINES VILLAGE APARTMENTS
+- Address: 1143 DAINES COURT
+- City: LONDON
+- State: OH
+- ZIP: 43140
+- ZIP extension: 
+- State project ID: 180007
+- Latitude: 39.9049
+- Longitude: -83.4139
+- County FIPS: 39097
+- County from: 2020
+- Tract 2020: 39097040600
+- Tract 2010: 39097040600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 44674
+- Place 2010: 44674
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 799500
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 21
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

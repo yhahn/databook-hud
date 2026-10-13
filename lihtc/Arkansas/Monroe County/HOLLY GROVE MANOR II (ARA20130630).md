@@ -1,0 +1,85 @@
+# Project: HOLLY GROVE MANOR II (ARA20130630)
+
+- HUD ID: ARA20130630
+- HUD ID before: 
+- Project: HOLLY GROVE MANOR II
+- Address: 469 SPRUCE ST
+- City: HOLLY GROVE
+- State: AR
+- ZIP: 72069
+- ZIP extension: 
+- State project ID: AR-94-09
+- Latitude: 34.598867
+- Longitude: -91.198263
+- County FIPS: 05095
+- County from: 2020
+- Tract 2020: 05095950300
+- Tract 2010: 05095950300
+- Tract 2000: 05095950300
+- Tract 1990: 05095950300
+- Place 2020: 32800
+- Place 2010: 32800
+- Place 2000: 08950
+- Place 1990: 0970
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 205281
+- Units: 25
+- Low-income units: 24
+- Units reported: 25
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1995062, ARA1995646.
+- Record status: Existing, unchanged

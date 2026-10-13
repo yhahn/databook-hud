@@ -1,0 +1,85 @@
+# Project: CASTLE WOODS (FLA19930035)
+
+- HUD ID: FLA19930035
+- HUD ID before: 
+- Project: CASTLE WOODS
+- Address: 1131 CASTLE WOOD TER
+- City: CASSELBERRY
+- State: FL
+- ZIP: 32707
+- ZIP extension: 
+- State project ID: 140
+- Latitude: 28.676602
+- Longitude: -81.310886
+- County FIPS: 12117
+- County from: 2020
+- Tract 2020: 12117022101
+- Tract 2010: 12117022101
+- Tract 2000: 12117022101
+- Tract 1990: 12117022101
+- Place 2020: 11050
+- Place 2010: 11050
+- Place 2000: 11050
+- Place 1990: 0310
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 304
+- Low-income units: 304
+- Units reported: 304
+- Low-income reported: 304
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 136
+- 3-bedroom units: 120
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

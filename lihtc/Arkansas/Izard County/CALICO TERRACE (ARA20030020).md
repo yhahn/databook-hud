@@ -1,0 +1,85 @@
+# Project: CALICO TERRACE (ARA20030020)
+
+- HUD ID: ARA20030020
+- HUD ID before: 
+- Project: CALICO TERRACE
+- Address: 200 HIGHLAND ST
+- City: CALICO ROCK
+- State: AR
+- ZIP: 72519
+- ZIP extension: 
+- State project ID: AR-03-04-001
+- Latitude: 36.124728
+- Longitude: -92.133936
+- County FIPS: 05065
+- County from: 2020
+- Tract 2020: 05065960300
+- Tract 2010: 05065960300
+- Tract 2000: 05065960300
+- Tract 1990: 05065960300
+- Place 2020: 10570
+- Place 2010: 10570
+- Place 2000: 10570
+- Place 1990: 0305
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 64002
+- Units: 29
+- Low-income units: 28
+- Units reported: 29
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

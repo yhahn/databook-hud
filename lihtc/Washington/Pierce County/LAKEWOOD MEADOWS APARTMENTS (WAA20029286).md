@@ -1,0 +1,85 @@
+# Project: LAKEWOOD MEADOWS APARTMENTS (WAA20029286)
+
+- HUD ID: WAA20029286
+- HUD ID before: 
+- Project: LAKEWOOD MEADOWS APARTMENTS
+- Address: 5228 112TH STREET SW
+- City: LAKEWOOD
+- State: WA
+- ZIP: 98499
+- ZIP extension: 
+- State project ID: 00-17A
+- Latitude: 47.155673
+- Longitude: -122.508627
+- County FIPS: 53053
+- County from: 2020
+- Tract 2020: 53053071901
+- Tract 2010: 53053071901
+- Tract 2000: 53053071901
+- Tract 1990: 
+- Place 2020: 38038
+- Place 2010: 38038
+- Place 2000: 38038
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 377686
+- Units: 168
+- Low-income units: 165
+- Units reported: 168
+- Low-income reported: 165
+- Efficiencies: 0
+- 1-bedroom units: 86
+- 2-bedroom units: 82
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

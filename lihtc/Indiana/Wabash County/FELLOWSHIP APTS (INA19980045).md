@@ -1,0 +1,85 @@
+# Project: FELLOWSHIP APTS (INA19980045)
+
+- HUD ID: INA19980045
+- HUD ID before: 
+- Project: FELLOWSHIP APTS
+- Address: 301 FELLOWSHIP DR
+- City: NORTH MANCHESTER
+- State: IN
+- ZIP: 46962
+- ZIP extension: 
+- State project ID: IN-97-01000
+- Latitude: 41.00173
+- Longitude: -85.754531
+- County FIPS: 18169
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18169102300
+- Tract 2000: 18169992300
+- Tract 1990: 18169992300
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 54954
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 17
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BAYARD PLAZA (DEA20123001)
+
+- HUD ID: DEA20123001
+- HUD ID before: 
+- Project: BAYARD PLAZA
+- Address: 206 W. LOOCKERMAN STREET
+- City: DOVER
+- State: DE
+- ZIP: 19901
+- ZIP extension: 
+- State project ID: DE382FY1118
+- Latitude: 39.157459
+- Longitude: -75.527078
+- County FIPS: 10001
+- County from: 2020
+- Tract 2020: 10001041400
+- Tract 2010: 10001041400
+- Tract 2000: 10001041400
+- Tract 1990: 
+- Place 2020: 21200
+- Place 2010: 21200
+- Place 2000: 21200
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 448487
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 4
+- 1-bedroom units: 8
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

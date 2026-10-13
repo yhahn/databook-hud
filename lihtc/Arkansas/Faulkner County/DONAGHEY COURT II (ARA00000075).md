@@ -1,0 +1,85 @@
+# Project: DONAGHEY COURT II (ARA00000075)
+
+- HUD ID: ARA00000075
+- HUD ID before: 
+- Project: DONAGHEY COURT II
+- Address: 855 S GERMAN LN
+- City: CONWAY
+- State: AR
+- ZIP: 72034
+- ZIP extension: 
+- State project ID: AR-09-15
+- Latitude: 35.068708
+- Longitude: -92.441951
+- County FIPS: 05045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05045030900
+- Tract 2000: 05045030900
+- Tract 1990: 05045030900
+- Place 2020: 
+- Place 2010: 15190
+- Place 2000: 15190
+- Place 1990: 0440
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 480299
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 195100
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000504.
+- Record status: Existing, unchanged

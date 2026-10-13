@@ -1,0 +1,85 @@
+# Project: KATHERINE HEIGHTS TOWNHOMES I (AZA20070055)
+
+- HUD ID: AZA20070055
+- HUD ID before: 
+- Project: KATHERINE HEIGHTS TOWNHOMES I
+- Address: 1207 N POWER LINE RD
+- City: BULLHEAD CITY
+- State: AZ
+- ZIP: 86429
+- ZIP extension: 
+- State project ID: TC-0348
+- Latitude: 35.188002
+- Longitude: -114.461605
+- County FIPS: 04015
+- County from: 2020
+- Tract 2020: 04015950500
+- Tract 2010: 04015950500
+- Tract 2000: 04015950500
+- Tract 1990: 04015950500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 08220
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 900000
+- Units: 5
+- Low-income units: 4
+- Units reported: 5
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA2007050.
+- Record status: Existing, unchanged

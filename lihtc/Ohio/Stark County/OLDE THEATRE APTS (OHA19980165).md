@@ -1,0 +1,85 @@
+# Project: OLDE THEATRE APTS (OHA19980165)
+
+- HUD ID: OHA19980165
+- HUD ID before: 
+- Project: OLDE THEATRE APTS
+- Address: 247 W MAIN ST
+- City: ALLIANCE
+- State: OH
+- ZIP: 44601
+- ZIP extension: 
+- State project ID: OH-96-0035
+- Latitude: 40.921954
+- Longitude: -81.110827
+- County FIPS: 39151
+- County from: 2020
+- Tract 2020: 39151710300
+- Tract 2010: 39151710300
+- Tract 2000: 39151710300
+- Tract 1990: 39151710300
+- Place 2020: 01420
+- Place 2010: 01420
+- Place 2000: 01420
+- Place 1990: 0055
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 284471
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 7
+- 1-bedroom units: 18
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

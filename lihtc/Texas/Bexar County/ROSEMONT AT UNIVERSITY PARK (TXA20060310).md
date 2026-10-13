@@ -1,0 +1,85 @@
+# Project: ROSEMONT AT UNIVERSITY PARK (TXA20060310)
+
+- HUD ID: TXA20060310
+- HUD ID before: 
+- Project: ROSEMONT AT UNIVERSITY PARK
+- Address: 9900 MOURSUND BLVD
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78221
+- ZIP extension: 
+- State project ID: TX4466
+- Latitude: 29.31854
+- Longitude: -98.503321
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029152000
+- Tract 2010: 48029152000
+- Tract 2000: 48029152000
+- Tract 1990: 48029152000
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 840926
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 108
+- 3-bedroom units: 84
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

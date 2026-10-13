@@ -1,0 +1,85 @@
+# Project: CENTRAL TERRACE APARTMENTS (CAA20240020)
+
+- HUD ID: CAA20240020
+- HUD ID before: 
+- Project: CENTRAL TERRACE APARTMENTS
+- Address: 217-235 EAST SIXTH STREET
+- City: OXNARD
+- State: CA
+- ZIP: 93030
+- ZIP extension: 
+- State project ID: CA-2021-736
+- Latitude: 34.196511
+- Longitude: -119.175829
+- County FIPS: 06111
+- County from: 2020
+- Tract 2020: 06111009100
+- Tract 2010: 06111009100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 54652
+- Place 2010: 54652
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 2168418
+- Units: 87
+- Low-income units: 86
+- Units reported: 87
+- Low-income reported: 86
+- Efficiencies: 
+- 1-bedroom units: 86
+- 2-bedroom units: 1
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 55
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

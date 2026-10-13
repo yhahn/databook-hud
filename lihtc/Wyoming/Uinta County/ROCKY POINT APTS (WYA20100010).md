@@ -1,0 +1,85 @@
+# Project: ROCKY POINT APTS (WYA20100010)
+
+- HUD ID: WYA20100010
+- HUD ID before: 
+- Project: ROCKY POINT APTS
+- Address: 215 FEATHER WAY
+- City: EVANSTON
+- State: WY
+- ZIP: 82930
+- ZIP extension: 
+- State project ID: 09-007
+- Latitude: 41.244496
+- Longitude: -110.988476
+- County FIPS: 56041
+- County from: 2020
+- Tract 2020: 56041975301
+- Tract 2010: 56041975300
+- Tract 2000: 56041975300
+- Tract 1990: 56041975300
+- Place 2020: 25620
+- Place 2010: 25620
+- Place 2000: 25620
+- Place 1990: 0135
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 154255
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 17
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

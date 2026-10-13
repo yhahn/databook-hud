@@ -1,0 +1,85 @@
+# Project: HAMPTON SQUARE APTS (CAA19970165)
+
+- HUD ID: CAA19970165
+- HUD ID before: 
+- Project: HAMPTON SQUARE APTS
+- Address: 16331 MCFADDEN AVE
+- City: TUSTIN
+- State: CA
+- ZIP: 92780
+- ZIP extension: 
+- State project ID: CA-96-918
+- Latitude: 33.73392
+- Longitude: -117.842216
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059074407
+- Tract 2010: 06059074407
+- Tract 2000: 06059074407
+- Tract 1990: 06059074404
+- Place 2020: 80854
+- Place 2010: 80854
+- Place 2000: 69000
+- Place 1990: 2965
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 296113
+- Units: 350
+- Low-income units: 212
+- Units reported: 350
+- Low-income reported: 212
+- Efficiencies: 0
+- 1-bedroom units: 125
+- 2-bedroom units: 87
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

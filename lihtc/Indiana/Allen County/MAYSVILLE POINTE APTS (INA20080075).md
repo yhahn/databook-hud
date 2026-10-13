@@ -1,0 +1,85 @@
+# Project: MAYSVILLE POINTE APTS (INA20080075)
+
+- HUD ID: INA20080075
+- HUD ID before: 
+- Project: MAYSVILLE POINTE APTS
+- Address: 9718 FEATHER REED DR
+- City: FORT WAYNE
+- State: IN
+- ZIP: 46815
+- ZIP extension: 
+- State project ID: IN-07-01700
+- Latitude: 41.115471
+- Longitude: -85.0192
+- County FIPS: 18003
+- County from: 2020
+- Tract 2020: 18003010809
+- Tract 2010: 18003010809
+- Tract 2000: 18003010809
+- Tract 1990: 18003010809
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 25000
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 556900
+- Units: 80
+- Low-income units: 76
+- Units reported: 80
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 36
+- 3-bedroom units: 23
+- 4-bedroom units: 9
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

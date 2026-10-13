@@ -1,0 +1,85 @@
+# Project: CASCADE CREEK APARTMENTS (MNA20120011)
+
+- HUD ID: MNA20120011
+- HUD ID before: 
+- Project: CASCADE CREEK APARTMENTS
+- Address: 421 6TH AVE
+- City: ROCHESTER
+- State: MN
+- ZIP: 55901
+- ZIP extension: 
+- State project ID: D6353
+- Latitude: 44.027366
+- Longitude: -92.471243
+- County FIPS: 27109
+- County from: 2020
+- Tract 2020: 27109000500
+- Tract 2010: 27109000500
+- Tract 2000: 27109000500
+- Tract 1990: 27109000500
+- Place 2020: 54880
+- Place 2010: 54880
+- Place 2000: 54880
+- Place 1990: 3235
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 19
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1500000
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

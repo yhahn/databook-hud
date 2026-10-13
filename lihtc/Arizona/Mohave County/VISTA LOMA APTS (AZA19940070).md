@@ -1,0 +1,85 @@
+# Project: VISTA LOMA APTS (AZA19940070)
+
+- HUD ID: AZA19940070
+- HUD ID before: 
+- Project: VISTA LOMA APTS
+- Address: 2367 MERRILL AVE
+- City: BULLHEAD CITY
+- State: AZ
+- ZIP: 86442
+- ZIP extension: 
+- State project ID: TC-0095
+- Latitude: 35.126712
+- Longitude: -114.568078
+- County FIPS: 04015
+- County from: 2020
+- Tract 2020: 04015951404
+- Tract 2010: 04015951402
+- Tract 2000: 04015951400
+- Tract 1990: 04015951400
+- Place 2020: 08220
+- Place 2010: 08220
+- Place 2000: 08220
+- Place 1990: 0031
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 17
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

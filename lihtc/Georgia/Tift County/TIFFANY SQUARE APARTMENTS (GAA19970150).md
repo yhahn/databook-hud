@@ -1,0 +1,85 @@
+# Project: TIFFANY SQUARE APARTMENTS (GAA19970150)
+
+- HUD ID: GAA19970150
+- HUD ID before: 
+- Project: TIFFANY SQUARE APARTMENTS
+- Address: 1430 PRINCE AVE
+- City: TIFTON
+- State: GA
+- ZIP: 31794
+- ZIP extension: 
+- State project ID: GA-95-144
+- Latitude: 31.466119
+- Longitude: -83.499956
+- County FIPS: 13277
+- County from: 2020
+- Tract 2020: 13277960402
+- Tract 2010: 13277960400
+- Tract 2000: 13277990400
+- Tract 1990: 13277990400
+- Place 2020: 76476
+- Place 2010: 76476
+- Place 2000: 76476
+- Place 1990: 2820
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TIFFANY APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIVOLI HOUSE (NYA19980175)
+
+- HUD ID: NYA19980175
+- HUD ID before: 
+- Project: RIVOLI HOUSE
+- Address: 40 W COLUMBIA ST
+- City: HEMPSTEAD
+- State: NY
+- ZIP: 11550
+- ZIP extension: 
+- State project ID: 19960058
+- Latitude: 40.711531
+- Longitude: -73.62633
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059406801
+- Tract 2010: 36059406801
+- Tract 2000: 36059406800
+- Tract 1990: 36059406800
+- Place 2020: 33139
+- Place 2010: 33139
+- Place 2000: 33139
+- Place 1990: 1545
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 112
+- Low-income units: 111
+- Units reported: 112
+- Low-income reported: 111
+- Efficiencies: 0
+- 1-bedroom units: 81
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

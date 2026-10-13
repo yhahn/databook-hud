@@ -1,0 +1,25 @@
+# Tax Credit Projects: Roane County, TN
+
+- Level: County
+- Postal code: TN
+- State FIPS: 47
+- County FIPS: 47145
+- Counties: 
+- Projects: 8
+- Units: 562
+- Low-income units: 561
+
+The low-income housing tax credit projects of Roane County, Tennessee, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [KINGSTON FOUR APTS PHASE II (TNA19870175)](./Roane%20County/KINGSTON%20FOUR%20APTS%20PHASE%20II%20%28TNA19870175%29.md) | TNA19870175 | KINGSTON | 1987 | 40 | 40 |
+| [THE MEADOWS (TNA19880844)](./Roane%20County/THE%20MEADOWS%20%28TNA19880844%29.md) | TNA19880844 | ROCKWOOD | 1988 | 50 | 50 |
+| [ROCKWOOD VILLAGE (TNA19890809)](./Roane%20County/ROCKWOOD%20VILLAGE%20%28TNA19890809%29.md) | TNA19890809 | ROCKWOOD | 1989 | 126 | 126 |
+| [COURTNEY SQUARE APTS (TNA19960010)](./Roane%20County/COURTNEY%20SQUARE%20APTS%20%28TNA19960010%29.md) | TNA19960010 | ROCKWOOD | 1996 | 40 | 40 |
+| [RUSSELL PARK APTS (TNA20010085)](./Roane%20County/RUSSELL%20PARK%20APTS%20%28TNA20010085%29.md) | TNA20010085 | ROCKWOOD | 2001 | 25 | 25 |
+| [DEER RUN APTS (TNA20070020)](./Roane%20County/DEER%20RUN%20APTS%20%28TNA20070020%29.md) | TNA20070020 | ROCKWOOD | 2007 | 72 | 72 |
+| [HERITAGE HILLS (TNA20130004)](./Roane%20County/HERITAGE%20HILLS%20%28TNA20130004%29.md) | TNA20130004 | ROCKWOOD | 2013 | 72 | 72 |
+| [HARRIMAN GARDENS (TNA20171005)](./Roane%20County/HARRIMAN%20GARDENS%20%28TNA20171005%29.md) | TNA20171005 | HARRIMAN | 2017 | 137 | 136 |

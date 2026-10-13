@@ -1,0 +1,85 @@
+# Project: RIO ABAJO APTS (NMA20090834)
+
+- HUD ID: NMA20090834
+- HUD ID before: 
+- Project: RIO ABAJO APTS
+- Address: 1485 E SECOND AVE
+- City: TRUTH OR CONSEQUENCES
+- State: NM
+- ZIP: 87901
+- ZIP extension: 
+- State project ID: 00121
+- Latitude: 33.131965
+- Longitude: -107.234996
+- County FIPS: 35051
+- County from: 2020
+- Tract 2020: 35051962200
+- Tract 2010: 35051962200
+- Tract 2000: 35051982200
+- Tract 1990: 35051982200
+- Place 2020: 79840
+- Place 2010: 79840
+- Place 2000: 79840
+- Place 1990: 0423
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 85021
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NMA0000320.
+- Record status: Existing, unchanged

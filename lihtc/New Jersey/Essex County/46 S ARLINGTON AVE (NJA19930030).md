@@ -1,0 +1,85 @@
+# Project: 46 S ARLINGTON AVE (NJA19930030)
+
+- HUD ID: NJA19930030
+- HUD ID before: 
+- Project: 46 S ARLINGTON AVE
+- Address: 46 S ARLINGTON AVE
+- City: EAST ORANGE
+- State: NJ
+- ZIP: 07018
+- ZIP extension: 
+- State project ID: 361
+- Latitude: 40.759218
+- Longitude: -74.211881
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013011100
+- Tract 2010: 34013011100
+- Tract 2000: 34013011100
+- Tract 1990: 34013011100
+- Place 2020: 19390
+- Place 2010: 19390
+- Place 2000: 19390
+- Place 1990: 1665
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUNSET SENIOR APTS (ILA19880067)
+
+- HUD ID: ILA19880067
+- HUD ID before: 
+- Project: SUNSET SENIOR APTS
+- Address: 710 W METZEN ST
+- City: HARVARD
+- State: IL
+- ZIP: 60033
+- ZIP extension: 
+- State project ID: 168-88
+- Latitude: 42.418386
+- Longitude: -88.624386
+- County FIPS: 17111
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17111870302
+- Tract 2000: 17111870300
+- Tract 1990: 17111870300
+- Place 2020: 
+- Place 2010: 33331
+- Place 2000: 33331
+- Place 1990: 2475
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 32078
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000940.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WOODSDALE OAKS (FLA20070180)
+
+- HUD ID: FLA20070180
+- HUD ID before: 
+- Project: WOODSDALE OAKS
+- Address: 2573 NW 49TH AVE
+- City: LAUDERDALE LAKES
+- State: FL
+- ZIP: 33313
+- ZIP extension: 
+- State project ID: 1004
+- Latitude: 26.159186
+- Longitude: -80.217287
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011050312
+- Tract 2010: 12011050312
+- Tract 2000: 12011050303
+- Tract 1990: 12011050303
+- Place 2020: 39525
+- Place 2010: 39525
+- Place 2000: 39525
+- Place 1990: 1183
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 445114
+- Units: 172
+- Low-income units: 172
+- Units reported: 172
+- Low-income reported: 172
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 64
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1992170.
+- Record status: Existing, unchanged

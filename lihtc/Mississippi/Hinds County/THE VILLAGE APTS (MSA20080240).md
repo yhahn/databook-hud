@@ -1,0 +1,85 @@
+# Project: THE VILLAGE APTS (MSA20080240)
+
+- HUD ID: MSA20080240
+- HUD ID before: 
+- Project: THE VILLAGE APTS
+- Address: 386 RAYMOND RD
+- City: JACKSON
+- State: MS
+- ZIP: 39204
+- ZIP extension: 
+- State project ID: MS-07-009
+- Latitude: 32.283178
+- Longitude: -90.217382
+- County FIPS: 28049
+- County from: 2020
+- Tract 2020: 28049003400
+- Tract 2010: 28049003400
+- Tract 2000: 28049003400
+- Tract 1990: 28049003400
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 0615
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 2110000
+- Units: 264
+- Low-income units: 264
+- Units reported: 264
+- Low-income reported: 264
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 211
+- 3-bedroom units: 24
+- 4-bedroom units: 14
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 53
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VILLAGE APTS.
+- Record status: Existing, unchanged

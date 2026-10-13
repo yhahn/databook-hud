@@ -1,0 +1,85 @@
+# Project: SOUTHFIELD VILLAGE SOUTHWOOD SQUARE I (CTA00000280)
+
+- HUD ID: CTA00000280
+- HUD ID before: 
+- Project: SOUTHFIELD VILLAGE SOUTHWOOD SQUARE I
+- Address: 15 SOUTHWOOD DR
+- City: STAMFORD
+- State: CT
+- ZIP: 06902
+- ZIP extension: 
+- State project ID: CT-01-010(D)
+- Latitude: 41.043488
+- Longitude: -73.555788
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001022300
+- Tract 2010: 09001022300
+- Tract 2000: 09001022300
+- Tract 1990: 09001022300
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 2180
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 136
+- Low-income units: 82
+- Units reported: 136
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 79
+- 3-bedroom units: 24
+- 4-bedroom units: 6
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

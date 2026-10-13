@@ -1,0 +1,85 @@
+# Project: SASSAFRAS TERRACE APTS (PAA19910570)
+
+- HUD ID: PAA19910570
+- HUD ID before: 
+- Project: SASSAFRAS TERRACE APTS
+- Address: 330 E MAIN ST
+- City: MT JOY
+- State: PA
+- ZIP: 17552
+- ZIP extension: 
+- State project ID: TC1990-0039
+- Latitude: 40.108947
+- Longitude: -76.495225
+- County FIPS: 42071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42071010900
+- Tract 2000: 42071010900
+- Tract 1990: 42071010900
+- Place 2020: 
+- Place 2010: 51656
+- Place 2000: 51656
+- Place 1990: 6644
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 243965
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 35
+- 3-bedroom units: 13
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

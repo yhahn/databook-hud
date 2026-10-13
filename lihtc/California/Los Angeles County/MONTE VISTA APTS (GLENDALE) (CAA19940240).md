@@ -1,0 +1,85 @@
+# Project: MONTE VISTA APTS (GLENDALE) (CAA19940240)
+
+- HUD ID: CAA19940240
+- HUD ID before: 
+- Project: MONTE VISTA APTS (GLENDALE)
+- Address: 714 E ELK AVE
+- City: GLENDALE
+- State: CA
+- ZIP: 91205
+- ZIP extension: 
+- State project ID: CA-92-007
+- Latitude: 34.141603
+- Longitude: -118.246545
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037302202
+- Tract 2010: 06037302202
+- Tract 2000: 06037302202
+- Tract 1990: 06037302200
+- Place 2020: 30000
+- Place 2010: 30000
+- Place 2000: 30000
+- Place 1990: 1130
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 101439
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

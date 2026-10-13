@@ -1,0 +1,85 @@
+# Project: OSWEGO HAMILTON HOMES PHASE I (NYA20090140)
+
+- HUD ID: NYA20090140
+- HUD ID before: 
+- Project: OSWEGO HAMILTON HOMES PHASE I
+- Address: 92 HAMILTON ST
+- City: OSWEGO
+- State: NY
+- ZIP: 13126
+- ZIP extension: 
+- State project ID: 20070055
+- Latitude: 43.451662
+- Longitude: -76.491459
+- County FIPS: 36075
+- County from: 2020
+- Tract 2020: 36075021604
+- Tract 2010: 36075021604
+- Tract 2000: 36075021604
+- Tract 1990: 36075021604
+- Place 2020: 55574
+- Place 2010: 55574
+- Place 2000: 55574
+- Place 1990: 2730
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1000000
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 28
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2200000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

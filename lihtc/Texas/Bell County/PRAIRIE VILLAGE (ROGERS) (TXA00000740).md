@@ -1,0 +1,85 @@
+# Project: PRAIRIE VILLAGE (ROGERS) (TXA00000740)
+
+- HUD ID: TXA00000740
+- HUD ID before: 
+- Project: PRAIRIE VILLAGE (ROGERS)
+- Address: 611 PAUL ST
+- City: ROGERS
+- State: TX
+- ZIP: 76569
+- ZIP extension: 
+- State project ID: TX-742610542
+- Latitude: 30.924187
+- Longitude: -97.223793
+- County FIPS: 48027
+- County from: 2020
+- Tract 2020: 48027023402
+- Tract 2010: 48027023402
+- Tract 2000: 48027023402
+- Tract 1990: 48027023400
+- Place 2020: 62924
+- Place 2010: 62924
+- Place 2000: 34508
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1279003
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: REGENCY PARK (WAA20010205)
+
+- HUD ID: WAA20010205
+- HUD ID before: 
+- Project: REGENCY PARK
+- Address: 2050 FRASER STREET
+- City: BELLINGHAM
+- State: WA
+- ZIP: 98226
+- ZIP extension: 
+- State project ID: 99-91A
+- Latitude: 48.751825
+- Longitude: -122.44866
+- County FIPS: 53073
+- County from: 2020
+- Tract 2020: 53073000903
+- Tract 2010: 53073000901
+- Tract 2000: 53073000900
+- Tract 1990: 53073000900
+- Place 2020: 05280
+- Place 2010: 05280
+- Place 2000: 05280
+- Place 1990: 0080
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 672144
+- Units: 228
+- Low-income units: 225
+- Units reported: 228
+- Low-income reported: 225
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 48
+- 3-bedroom units: 72
+- 4-bedroom units: 48
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA2000130.
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: VISTA BELLA (TXA0000X195)
+
+- HUD ID: TXA0000X195
+- HUD ID before: 
+- Project: VISTA BELLA
+- Address: 21101 BOGGY FORD ROAD
+- City: LAGO VISTA
+- State: TX
+- ZIP: 78645
+- ZIP extension: 
+- State project ID: TX5267
+- Latitude: 30.432898
+- Longitude: -98.010513
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453037400
+- Tract 2010: 48453001779
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 40264
+- Place 2010: 40264
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 40
+- Units reported: 72
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 44
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1935000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AUGUSTA SPRINGS SENIOR II (GAA20010140)
+
+- HUD ID: GAA20010140
+- HUD ID before: 
+- Project: AUGUSTA SPRINGS SENIOR II
+- Address: 1730 SIBLEY RD
+- City: AUGUSTA
+- State: GA
+- ZIP: 30909
+- ZIP extension: 
+- State project ID: GA-00-002
+- Latitude: 33.466043
+- Longitude: -82.064607
+- County FIPS: 13245
+- County from: 2020
+- Tract 2020: 13245001604
+- Tract 2010: 13245001601
+- Tract 2000: 13245001600
+- Tract 1990: 13245001600
+- Place 2020: 04204
+- Place 2010: 04204
+- Place 2000: 04204
+- Place 1990: 3012
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 485889
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 89
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HERITAGE SQUARE APTS (TXA19910220)
+
+- HUD ID: TXA19910220
+- HUD ID before: 
+- Project: HERITAGE SQUARE APTS
+- Address: 7626 HWY 60
+- City: WALLIS
+- State: TX
+- ZIP: 77485
+- ZIP extension: 
+- State project ID: 91013
+- Latitude: 29.629766
+- Longitude: -96.068222
+- County FIPS: 48015
+- County from: 2020
+- Tract 2020: 48015760100
+- Tract 2010: 48015760100
+- Tract 2000: 48015760100
+- Tract 1990: 48015160100
+- Place 2020: 76240
+- Place 2010: 76240
+- Place 2000: 76240
+- Place 1990: 4435
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 626111
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1347972
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000769.
+- Record status: Existing, unchanged

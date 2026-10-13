@@ -1,0 +1,85 @@
+# Project: PENNS COMMON COURT (PAA19910505)
+
+- HUD ID: PAA19910505
+- HUD ID before: 
+- Project: PENNS COMMON COURT
+- Address: 1040 PENN ST
+- City: READING
+- State: PA
+- ZIP: 19602
+- ZIP extension: 
+- State project ID: TC1990-0037
+- Latitude: 40.335012
+- Longitude: -75.917367
+- County FIPS: 42011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42011001900
+- Tract 2000: 42011001900
+- Tract 1990: 42011001900
+- Place 2020: 
+- Place 2010: 63624
+- Place 2000: 63624
+- Place 1990: 7418
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 225832
+- Units: 46
+- Low-income units: 36
+- Units reported: 46
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 740000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

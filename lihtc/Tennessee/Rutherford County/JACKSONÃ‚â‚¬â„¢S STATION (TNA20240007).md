@@ -1,0 +1,85 @@
+# Project: JACKSONÃ‚â‚¬â„¢S STATION (TNA20240007)
+
+- HUD ID: TNA20240007
+- HUD ID before: 
+- Project: JACKSONÃ‚â‚¬â„¢S STATION
+- Address: 317 OLD NASHVILLE HWY
+- City: LAVERGNE
+- State: TN
+- ZIP: 37086
+- ZIP extension: 
+- State project ID: TN-21-045
+- Latitude: 36.011929
+- Longitude: -86.571654
+- County FIPS: 47149
+- County from: 2020
+- Tract 2020: 47149040200
+- Tract 2010: 47149040200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 41200
+- Place 2010: 41200
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 8949105
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

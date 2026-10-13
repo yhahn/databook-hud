@@ -1,0 +1,85 @@
+# Project: WHEATON METRO KISS & RIDE (MDA20080140)
+
+- HUD ID: MDA20080140
+- HUD ID before: 
+- Project: WHEATON METRO KISS & RIDE
+- Address: 11175 GEORGIA AVE
+- City: WHEATON
+- State: MD
+- ZIP: 20902
+- ZIP extension: 
+- State project ID: MD06-05001
+- Latitude: 39.038138
+- Longitude: -77.050394
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031703800
+- Tract 2010: 24031703800
+- Tract 2000: 24031703800
+- Tract 1990: 24031703800
+- Place 2020: 83775
+- Place 2010: 83775
+- Place 2000: 56712
+- Place 1990: 1036
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 16
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

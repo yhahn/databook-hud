@@ -1,0 +1,85 @@
+# Project: THE WELLSTONE-(FRANKLINPORTLANDGATEWAY PHASE III) (MNA20099009)
+
+- HUD ID: MNA20099009
+- HUD ID before: 
+- Project: THE WELLSTONE-(FRANKLINPORTLANDGATEWAY PHASE III)
+- Address: 620 FRANKLIN AVE E
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55404
+- ZIP extension: 
+- State project ID: D3863
+- Latitude: 44.962853
+- Longitude: -93.266474
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053005902
+- Tract 2010: 27053005902
+- Tract 2000: 27053005902
+- Tract 1990: 27053005800
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 2585
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 739507
+- Units: 49
+- Low-income units: 37
+- Units reported: 49
+- Low-income reported: 37
+- Efficiencies: 5
+- 1-bedroom units: 6
+- 2-bedroom units: 25
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 725000
+- CDBG: Yes
+- CDBG amount: 205000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA0000090.
+- Record status: Existing, unchanged

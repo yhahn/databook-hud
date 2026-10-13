@@ -1,0 +1,85 @@
+# Project: SPRING ELLIOT & VALGAR (VTA19960020)
+
+- HUD ID: VTA19960020
+- HUD ID before: 
+- Project: SPRING ELLIOT & VALGAR
+- Address: 14 SPRING ST
+- City: BRATTLEBORO
+- State: VT
+- ZIP: 05301
+- ZIP extension: 
+- State project ID: 0210
+- Latitude: 42.851801
+- Longitude: -72.561887
+- County FIPS: 50025
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 50025968500
+- Tract 2000: 50025968500
+- Tract 1990: 50025968500
+- Place 2020: 
+- Place 2010: 07975
+- Place 2000: 07975
+- Place 1990: 0338
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 111233
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 13
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA SPRING & ELLIOT STREETS
+- Record status: Existing, unchanged

@@ -1,0 +1,24 @@
+# Tax Credit Projects: Ben Hill County, GA
+
+- Level: County
+- Postal code: GA
+- State FIPS: 13
+- County FIPS: 13017
+- Counties: 
+- Projects: 7
+- Units: 383
+- Low-income units: 377
+
+The low-income housing tax credit projects of Ben Hill County, Georgia, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [COLONY SQUARE (GAA19920030)](./Ben%20Hill%20County/COLONY%20SQUARE%20%28GAA19920030%29.md) | GAA19920030 | FITZGERALD | 1992 | 24 | 24 |
+| [JACK ALLEN (GAA20040168)](./Ben%20Hill%20County/JACK%20ALLEN%20%28GAA20040168%29.md) | GAA20040168 | FITZGERALD | 2004 | 60 | 54 |
+| [BRIDGECREEK APARTMENTS (GAA20080027)](./Ben%20Hill%20County/BRIDGECREEK%20APARTMENTS%20%28GAA20080027%29.md) | GAA20080027 | FITZGERALD | 2008 | 71 | 71 |
+| [MERRIMAC APARTMENTS (GAA20080077)](./Ben%20Hill%20County/MERRIMAC%20APARTMENTS%20%28GAA20080077%29.md) | GAA20080077 | FITZGERALD | 2008 | 50 | 50 |
+| [MULBERRY COURT (GAA20080078)](./Ben%20Hill%20County/MULBERRY%20COURT%20%28GAA20080078%29.md) | GAA20080078 | FITZGERALD | 2008 | 48 | 48 |
+| [VILLAGE OF BEN HILL (GAA20180037)](./Ben%20Hill%20County/VILLAGE%20OF%20BEN%20HILL%20%28GAA20180037%29.md) | GAA20180037 | FITZGERALD | 2018 | 80 | 80 |
+| [THE VILLAGE OF BEN HILL (GAA20184191)](./Ben%20Hill%20County/THE%20VILLAGE%20OF%20BEN%20HILL%20%28GAA20184191%29.md) | GAA20184191 | FITZGERALD | 2018 | 50 | 50 |

@@ -1,0 +1,85 @@
+# Project: TERRILL SUITES (OHA20130038)
+
+- HUD ID: OHA20130038
+- HUD ID before: 
+- Project: TERRILL SUITES
+- Address: 870 CLEVELAND RD
+- City: RAVENNA
+- State: OH
+- ZIP: 44266
+- ZIP extension: 
+- State project ID: 110093
+- Latitude: 41.167805
+- Longitude: -81.255622
+- County FIPS: 39133
+- County from: 2020
+- Tract 2020: 39133600901
+- Tract 2010: 39133600901
+- Tract 2000: 39133600901
+- Tract 1990: 39133600901
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 65592
+- Place 1990: 3595
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 65
+- Low-income units: 5
+- Units reported: 65
+- Low-income reported: 5
+- Efficiencies: 8
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 40
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

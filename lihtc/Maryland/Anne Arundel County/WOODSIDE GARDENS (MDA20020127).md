@@ -1,0 +1,85 @@
+# Project: WOODSIDE GARDENS (MDA20020127)
+
+- HUD ID: MDA20020127
+- HUD ID before: 
+- Project: WOODSIDE GARDENS
+- Address: 701 NEWTOWNE DR
+- City: ANNAPOLIS
+- State: MD
+- ZIP: 21401
+- ZIP extension: 
+- State project ID: MD02-25001
+- Latitude: 38.965685
+- Longitude: -76.519896
+- County FIPS: 24003
+- County from: 2020
+- Tract 2020: 24003702500
+- Tract 2010: 24003702500
+- Tract 2000: 24003702500
+- Tract 1990: 24003702500
+- Place 2020: 01600
+- Place 2010: 01600
+- Place 2000: 01600
+- Place 1990: 0011
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 52
+- 3-bedroom units: 92
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

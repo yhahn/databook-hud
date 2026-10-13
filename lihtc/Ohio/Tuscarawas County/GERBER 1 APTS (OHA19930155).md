@@ -1,0 +1,85 @@
+# Project: GERBER 1 APTS (OHA19930155)
+
+- HUD ID: OHA19930155
+- HUD ID before: 
+- Project: GERBER 1 APTS
+- Address: 832 W HIGH AVE
+- City: NEW PHILADELPHIA
+- State: OH
+- ZIP: 44663
+- ZIP extension: 
+- State project ID: OH-93-1022
+- Latitude: 40.492057
+- Longitude: -81.461297
+- County FIPS: 39157
+- County from: 2020
+- Tract 2020: 39157020801
+- Tract 2010: 39157020800
+- Tract 2000: 39157020800
+- Tract 1990: 39157020800
+- Place 2020: 55216
+- Place 2010: 55216
+- Place 2000: 55216
+- Place 1990: 3025
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 2510
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

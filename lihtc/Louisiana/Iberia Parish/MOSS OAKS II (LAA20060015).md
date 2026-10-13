@@ -1,0 +1,85 @@
+# Project: MOSS OAKS II (LAA20060015)
+
+- HUD ID: LAA20060015
+- HUD ID before: 
+- Project: MOSS OAKS II
+- Address: 905 MOSS OAK DR
+- City: NEW IBERIA
+- State: LA
+- ZIP: 70560
+- ZIP extension: 
+- State project ID: LA-03-025
+- Latitude: 29.988254
+- Longitude: -91.820917
+- County FIPS: 22045
+- County from: 2020
+- Tract 2020: 22045031000
+- Tract 2010: 22045031000
+- Tract 2000: 22045031000
+- Tract 1990: 22045031000
+- Place 2020: 54035
+- Place 2010: 54035
+- Place 2000: 54035
+- Place 1990: 0950
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 236764
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 21
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

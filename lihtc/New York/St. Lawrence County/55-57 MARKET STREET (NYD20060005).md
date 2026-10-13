@@ -1,0 +1,85 @@
+# Project: 55-57 MARKET STREET (NYD20060005)
+
+- HUD ID: NYD20060005
+- HUD ID before: 
+- Project: 55-57 MARKET STREET
+- Address: 55 MARKET ST
+- City: POTSDAM
+- State: NY
+- ZIP: 13676
+- ZIP extension: 
+- State project ID: 16
+- Latitude: 44.670262
+- Longitude: -74.98709
+- County FIPS: 36089
+- County from: 2020
+- Tract 2020: 36089490900
+- Tract 2010: 36089490900
+- Tract 2000: 36089990900
+- Tract 1990: 36089990900
+- Place 2020: 59564
+- Place 2010: 59564
+- Place 2000: 59564
+- Place 1990: 2980
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 129894
+- Units: 7
+- Low-income units: 7
+- Units reported: 7
+- Low-income reported: 7
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 375000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

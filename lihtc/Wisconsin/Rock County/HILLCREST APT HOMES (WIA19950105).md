@@ -1,0 +1,85 @@
+# Project: HILLCREST APT HOMES (WIA19950105)
+
+- HUD ID: WIA19950105
+- HUD ID before: 
+- Project: HILLCREST APT HOMES
+- Address: 2200 BURTON ST
+- City: BELOIT
+- State: WI
+- ZIP: 53511
+- ZIP extension: 
+- State project ID: 1597
+- Latitude: 42.525289
+- Longitude: -89.066118
+- County FIPS: 55105
+- County from: 2020
+- Tract 2020: 55105002100
+- Tract 2010: 55105002100
+- Tract 2000: 55105002100
+- Tract 1990: 55105002100
+- Place 2020: 06500
+- Place 2010: 06500
+- Place 2000: 06500
+- Place 1990: 0215
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 67
+- Low-income units: 66
+- Units reported: 67
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BELOIT BURTON LLC.
+- Record status: Existing, unchanged

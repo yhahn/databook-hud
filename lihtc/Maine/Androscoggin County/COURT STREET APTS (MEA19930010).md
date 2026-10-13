@@ -1,0 +1,85 @@
+# Project: COURT STREET APTS (MEA19930010)
+
+- HUD ID: MEA19930010
+- HUD ID before: 
+- Project: COURT STREET APTS
+- Address: 108 CT ST
+- City: AUBURN
+- State: ME
+- ZIP: 04210
+- ZIP extension: 
+- State project ID: ME-93-00001
+- Latitude: 44.097415
+- Longitude: -70.227068
+- County FIPS: 23001
+- County from: 2020
+- Tract 2020: 23001010100
+- Tract 2010: 23001010100
+- Tract 2000: 23001010100
+- Tract 1990: 23001010100
+- Place 2020: 02060
+- Place 2010: 02060
+- Place 2000: 02060
+- Place 1990: 0200
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: No
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

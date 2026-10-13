@@ -1,0 +1,85 @@
+# Project: MERCY SIENA VILLAGE (OHA19970170)
+
+- HUD ID: OHA19970170
+- HUD ID before: 
+- Project: MERCY SIENA VILLAGE
+- Address: 6045 N MAIN ST
+- City: DAYTON
+- State: OH
+- ZIP: 45415
+- ZIP extension: 
+- State project ID: 950026
+- Latitude: 39.821905
+- Longitude: -84.238443
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113080100
+- Tract 2010: 39113080100
+- Tract 2000: 39113080100
+- Tract 1990: 39113080100
+- Place 2020: 72284
+- Place 2010: 99999
+- Place 2000: 21000
+- Place 1990: 1412
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 465814
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 95
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

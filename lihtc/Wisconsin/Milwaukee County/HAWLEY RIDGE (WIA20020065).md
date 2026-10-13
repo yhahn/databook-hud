@@ -1,0 +1,85 @@
+# Project: HAWLEY RIDGE (WIA20020065)
+
+- HUD ID: WIA20020065
+- HUD ID before: 
+- Project: HAWLEY RIDGE
+- Address: 920 N HAWLEY RD
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53213
+- ZIP extension: 
+- State project ID: 2488
+- Latitude: 43.040813
+- Longitude: -87.982702
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079012500
+- Tract 2010: 55079012500
+- Tract 2000: 55079012500
+- Tract 1990: 55079012500
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 58
+- Low-income units: 51
+- Units reported: 58
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

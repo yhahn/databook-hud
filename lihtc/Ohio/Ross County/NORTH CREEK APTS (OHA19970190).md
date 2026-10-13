@@ -1,0 +1,85 @@
+# Project: NORTH CREEK APTS (OHA19970190)
+
+- HUD ID: OHA19970190
+- HUD ID before: 
+- Project: NORTH CREEK APTS
+- Address: 176 CLINTON RD
+- City: CHILLICOTHE
+- State: OH
+- ZIP: 45601
+- ZIP extension: 
+- State project ID: 950024
+- Latitude: 39.355512
+- Longitude: -83.045485
+- County FIPS: 39141
+- County from: 2020
+- Tract 2020: 39141956000
+- Tract 2010: 39141956000
+- Tract 2000: 39141956000
+- Tract 1990: 39141956000
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 14184
+- Place 1990: 0850
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 188013
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

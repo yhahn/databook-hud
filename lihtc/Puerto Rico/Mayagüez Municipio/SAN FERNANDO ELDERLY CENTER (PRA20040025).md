@@ -1,0 +1,85 @@
+# Project: SAN FERNANDO ELDERLY CENTER (PRA20040025)
+
+- HUD ID: PRA20040025
+- HUD ID before: 
+- Project: SAN FERNANDO ELDERLY CENTER
+- Address: 453 CALLE POST S
+- City: MAYAGUEZ
+- State: PR
+- ZIP: 00680
+- ZIP extension: 
+- State project ID: 02-023
+- Latitude: 18.182111
+- Longitude: -67.143463
+- County FIPS: 72097
+- County from: 2020
+- Tract 2020: 72097082103
+- Tract 2010: 72097082103
+- Tract 2000: 72097082103
+- Tract 1990: 72097082103
+- Place 2020: 52431
+- Place 2010: 52431
+- Place 2000: 52431
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 614001
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 66
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA2004010.
+- Record status: Existing, unchanged

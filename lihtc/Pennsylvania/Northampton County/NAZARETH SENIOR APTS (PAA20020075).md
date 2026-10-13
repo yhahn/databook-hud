@@ -1,0 +1,85 @@
+# Project: NAZARETH SENIOR APTS (PAA20020075)
+
+- HUD ID: PAA20020075
+- HUD ID before: 
+- Project: NAZARETH SENIOR APTS
+- Address: 368 MADISON AVE
+- City: NAZARETH
+- State: PA
+- ZIP: 18064
+- ZIP extension: 
+- State project ID: TC20000008
+- Latitude: 40.739918
+- Longitude: -75.31842
+- County FIPS: 42095
+- County from: 2020
+- Tract 2020: 42095016801
+- Tract 2010: 42095016800
+- Tract 2000: 42095016800
+- Tract 1990: 42095016800
+- Place 2020: 52808
+- Place 2010: 52808
+- Place 2000: 52808
+- Place 1990: 6700
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 190432
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

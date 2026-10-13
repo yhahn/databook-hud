@@ -1,0 +1,85 @@
+# Project: HUNTINGTON VILLAGE (PINES) (DCB20060020)
+
+- HUD ID: DCB20060020
+- HUD ID before: 
+- Project: HUNTINGTON VILLAGE (PINES)
+- Address: 1781 TRENTON PL SE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20020
+- ZIP extension: 
+- State project ID: DCB2006020
+- Latitude: 38.844659
+- Longitude: -76.978137
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001007409
+- Tract 2010: 11001007409
+- Tract 2000: 11001007409
+- Tract 1990: 11001007409
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 745562
+- Units: 202
+- Low-income units: 202
+- Units reported: 202
+- Low-income reported: 202
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 121
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 202
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 65410
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

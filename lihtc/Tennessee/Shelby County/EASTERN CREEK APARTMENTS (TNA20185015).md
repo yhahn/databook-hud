@@ -1,0 +1,85 @@
+# Project: EASTERN CREEK APARTMENTS (TNA20185015)
+
+- HUD ID: TNA20185015
+- HUD ID before: 
+- Project: EASTERN CREEK APARTMENTS
+- Address: SCATTERED SITE
+- City: MEMPHIS
+- State: TN
+- ZIP: 38128
+- ZIP extension: 
+- State project ID: TN-16-006
+- Latitude: 35.2134
+- Longitude: -89.9094
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157020541
+- Tract 2010: 47157020541
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 226
+- Low-income units: 226
+- Units reported: 226
+- Low-income reported: 226
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 148
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

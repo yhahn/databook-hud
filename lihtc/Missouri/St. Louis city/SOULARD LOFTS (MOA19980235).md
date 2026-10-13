@@ -1,0 +1,85 @@
+# Project: SOULARD LOFTS (MOA19980235)
+
+- HUD ID: MOA19980235
+- HUD ID before: 
+- Project: SOULARD LOFTS
+- Address: 1910 S EIGHTH ST
+- City: ST LOUIS
+- State: MO
+- ZIP: 63104
+- ZIP extension: 
+- State project ID: 97095
+- Latitude: 38.607988
+- Longitude: -90.203084
+- County FIPS: 29510
+- County from: 2020
+- Tract 2020: 29510127600
+- Tract 2010: 29510127600
+- Tract 2000: 29510123400
+- Tract 1990: 29510123400
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 19
+- Low-income units: 5
+- Units reported: 19
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

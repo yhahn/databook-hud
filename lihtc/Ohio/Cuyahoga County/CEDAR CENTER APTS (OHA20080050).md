@@ -1,0 +1,85 @@
+# Project: CEDAR CENTER APTS (OHA20080050)
+
+- HUD ID: OHA20080050
+- HUD ID before: 
+- Project: CEDAR CENTER APTS
+- Address: 14050 CEDAR RD
+- City: UNIVERSITY HEIGHTS
+- State: OH
+- ZIP: 44118
+- ZIP extension: 
+- State project ID: 070174
+- Latitude: 41.501193
+- Longitude: -81.534426
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035187105
+- Tract 2010: 39035187105
+- Tract 2000: 39035187105
+- Tract 1990: 39035187105
+- Place 2020: 78932
+- Place 2010: 78932
+- Place 2000: 78932
+- Place 1990: 4350
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 82
+- Low-income units: 81
+- Units reported: 82
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 81
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

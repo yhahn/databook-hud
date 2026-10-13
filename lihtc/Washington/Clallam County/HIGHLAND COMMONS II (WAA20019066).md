@@ -1,0 +1,85 @@
+# Project: HIGHLAND COMMONS II (WAA20019066)
+
+- HUD ID: WAA20019066
+- HUD ID before: 
+- Project: HIGHLAND COMMONS II
+- Address: 1701 MELODY CIRCLE
+- City: PORT ANGELES
+- State: WA
+- ZIP: 98362
+- ZIP extension: 
+- State project ID: 97-44J
+- Latitude: 48.100017
+- Longitude: -123.406187
+- County FIPS: 53009
+- County from: 2020
+- Tract 2020: 53009001200
+- Tract 2010: 53009001200
+- Tract 2000: 53009981200
+- Tract 1990: 53009981200
+- Place 2020: 55365
+- Place 2010: 55365
+- Place 2000: 55365
+- Place 1990: 0990
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 356631
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

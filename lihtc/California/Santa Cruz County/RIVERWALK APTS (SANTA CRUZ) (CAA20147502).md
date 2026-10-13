@@ -1,0 +1,85 @@
+# Project: RIVERWALK APTS (SANTA CRUZ) (CAA20147502)
+
+- HUD ID: CAA20147502
+- HUD ID before: 
+- Project: RIVERWALK APTS (SANTA CRUZ)
+- Address: 110 LINDBERG ST
+- City: SANTA CRUZ
+- State: CA
+- ZIP: 95060
+- ZIP extension: 
+- State project ID: CA-13-091
+- Latitude: 36.9768
+- Longitude: -122.0272
+- County FIPS: 06087
+- County from: 2020
+- Tract 2020: 06087100700
+- Tract 2010: 06087100700
+- Tract 2000: 06087100700
+- Tract 1990: 06087100700
+- Place 2020: 69112
+- Place 2010: 69112
+- Place 2000: 69112
+- Place 1990: 2585
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 21
+- Low-income units: 20
+- Units reported: 21
+- Low-income reported: 20
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0000186.
+- Record status: Existing, unchanged

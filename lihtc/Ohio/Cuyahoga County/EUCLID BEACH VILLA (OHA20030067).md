@@ -1,0 +1,85 @@
+# Project: EUCLID BEACH VILLA (OHA20030067)
+
+- HUD ID: OHA20030067
+- HUD ID before: 
+- Project: EUCLID BEACH VILLA
+- Address: 125 E 156TH ST
+- City: CLEVELAND
+- State: OH
+- ZIP: 44110
+- ZIP extension: 
+- State project ID: 030118
+- Latitude: 41.580012
+- Longitude: -81.571827
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035117201
+- Tract 2010: 39035117201
+- Tract 2000: 39035117201
+- Tract 1990: 39035117201
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 701680
+- Units: 559
+- Low-income units: 559
+- Units reported: 559
+- Low-income reported: 559
+- Efficiencies: 0
+- 1-bedroom units: 446
+- 2-bedroom units: 113
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003602, OHA2005063.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: REDWOOD VILLA (CAA20080005)
+
+- HUD ID: CAA20080005
+- HUD ID before: 
+- Project: REDWOOD VILLA
+- Address: 3060 53RD ST
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92105
+- ZIP extension: 
+- State project ID: CA-07-854
+- Latitude: 32.737237
+- Longitude: -117.081629
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073002705
+- Tract 2010: 06073002705
+- Tract 2000: 06073002705
+- Tract 1990: 06073002705
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 457845
+- Units: 92
+- Low-income units: 90
+- Units reported: 92
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 66
+- 2-bedroom units: 24
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0001270, CAA1988310.
+- Record status: Existing, unchanged

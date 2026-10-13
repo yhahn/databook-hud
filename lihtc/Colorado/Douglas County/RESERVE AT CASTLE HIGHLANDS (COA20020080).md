@@ -1,0 +1,85 @@
+# Project: RESERVE AT CASTLE HIGHLANDS (COA20020080)
+
+- HUD ID: COA20020080
+- HUD ID before: 
+- Project: RESERVE AT CASTLE HIGHLANDS
+- Address: 1040 HIGHLAND VISTA AVE
+- City: CASTLE ROCK
+- State: CO
+- ZIP: 80109
+- ZIP extension: 
+- State project ID: CO-00-506
+- Latitude: 39.377361
+- Longitude: -104.87542
+- County FIPS: 08035
+- County from: 2020
+- Tract 2020: 08035014407
+- Tract 2010: 08035014403
+- Tract 2000: 08035014402
+- Tract 1990: 08035014402
+- Place 2020: 12415
+- Place 2010: 12415
+- Place 2000: 12415
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 68
+- 2-bedroom units: 100
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

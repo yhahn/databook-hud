@@ -1,0 +1,85 @@
+# Project: APPLEYARD TERRACE TOWNHOMES PHASE II (NYA20090005)
+
+- HUD ID: NYA20090005
+- HUD ID before: 
+- Project: APPLEYARD TERRACE TOWNHOMES PHASE II
+- Address: 15 CRESCENT ST
+- City: JAMESTOWN
+- State: NY
+- ZIP: 14701
+- ZIP extension: 
+- State project ID: 20070042
+- Latitude: 42.099079
+- Longitude: -79.231111
+- County FIPS: 36013
+- County from: 2020
+- Tract 2020: 36013030500
+- Tract 2010: 36013030500
+- Tract 2000: 36013030500
+- Tract 1990: 36013030500
+- Place 2020: 38264
+- Place 2010: 38264
+- Place 2000: 38264
+- Place 1990: 1755
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 239905
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 10
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2234727
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

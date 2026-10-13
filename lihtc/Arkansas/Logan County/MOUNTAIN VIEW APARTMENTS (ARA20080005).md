@@ -1,0 +1,85 @@
+# Project: MOUNTAIN VIEW APARTMENTS (ARA20080005)
+
+- HUD ID: ARA20080005
+- HUD ID before: 
+- Project: MOUNTAIN VIEW APARTMENTS
+- Address: 300 KALAMAZOO RD
+- City: PARIS
+- State: AR
+- ZIP: 72855
+- ZIP extension: 
+- State project ID: AR-88-10-001
+- Latitude: 35.294774
+- Longitude: -93.703063
+- County FIPS: 05083
+- County from: 2020
+- Tract 2020: 05083950300
+- Tract 2010: 05083950300
+- Tract 2000: 05083950300
+- Tract 1990: 05083950300
+- Place 2020: 53480
+- Place 2010: 53480
+- Place 2000: 53480
+- Place 1990: 1570
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 135624
+- Units: 33
+- Low-income units: 32
+- Units reported: 33
+- Low-income reported: 32
+- Efficiencies: 12
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2007774, ARA2007027, ARA1988055. AKA PDC THIRTY ONE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ARLINGTON MANOR (TNA19910065)
+
+- HUD ID: TNA19910065
+- HUD ID before: 
+- Project: ARLINGTON MANOR
+- Address: 11216 MARQUIS CT
+- City: ARLINGTON
+- State: TN
+- ZIP: 38002
+- ZIP extension: 
+- State project ID: TN-90-033
+- Latitude: 35.28347
+- Longitude: -89.688727
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157020902
+- Tract 2010: 47157020900
+- Tract 2000: 47157020900
+- Tract 1990: 47157020900
+- Place 2020: 01740
+- Place 2010: 01740
+- Place 2000: 01740
+- Place 1990: 0045
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 11006
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 1
+- 1-bedroom units: 16
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

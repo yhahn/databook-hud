@@ -1,0 +1,85 @@
+# Project: OAKDALE SENIOR CENTER (CAA19930180)
+
+- HUD ID: CAA19930180
+- HUD ID before: 
+- Project: OAKDALE SENIOR CENTER
+- Address: 470 E A ST
+- City: OAKDALE
+- State: CA
+- ZIP: 95361
+- ZIP extension: 
+- State project ID: CA-91-192
+- Latitude: 37.773214
+- Longitude: -120.849617
+- County FIPS: 06099
+- County from: 2020
+- Tract 2020: 06099000204
+- Tract 2010: 06099000203
+- Tract 2000: 06099000203
+- Tract 1990: 06099000203
+- Place 2020: 52694
+- Place 2010: 52694
+- Place 2000: 20907
+- Place 1990: 1965
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 211048
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

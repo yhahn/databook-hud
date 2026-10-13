@@ -1,0 +1,85 @@
+# Project: PARKVIEW AT OAK CREST (PAA20010145)
+
+- HUD ID: PAA20010145
+- HUD ID before: 
+- Project: PARKVIEW AT OAK CREST
+- Address: 560 OAK DR
+- City: HARLEYSVILLE
+- State: PA
+- ZIP: 19438
+- ZIP extension: 
+- State project ID: TC1999-0076
+- Latitude: 40.276297
+- Longitude: -75.39358
+- County FIPS: 42091
+- County from: 2020
+- Tract 2020: 42091207004
+- Tract 2010: 42091207004
+- Tract 2000: 42091207004
+- Tract 1990: 42091207001
+- Place 2020: 32616
+- Place 2010: 32616
+- Place 2000: 32616
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 816076
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 86
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 829708
+- CDBG: Yes
+- CDBG amount: 533953
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

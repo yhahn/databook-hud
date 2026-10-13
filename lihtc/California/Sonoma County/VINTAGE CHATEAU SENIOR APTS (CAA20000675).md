@@ -1,0 +1,85 @@
+# Project: VINTAGE CHATEAU SENIOR APTS (CAA20000675)
+
+- HUD ID: CAA20000675
+- HUD ID before: 
+- Project: VINTAGE CHATEAU SENIOR APTS
+- Address: 333 N MCDOWELL BLVD
+- City: PETALUMA
+- State: CA
+- ZIP: 94954
+- ZIP extension: 
+- State project ID: CA-00-838
+- Latitude: 38.252516
+- Longitude: -122.632167
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097150603
+- Tract 2010: 06097150603
+- Tract 2000: 06097150603
+- Tract 1990: 06097150603
+- Place 2020: 56784
+- Place 2010: 56784
+- Place 2000: 56784
+- Place 1990: 2140
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 807848
+- Units: 240
+- Low-income units: 238
+- Units reported: 240
+- Low-income reported: 238
+- Efficiencies: 0
+- 1-bedroom units: 144
+- 2-bedroom units: 96
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

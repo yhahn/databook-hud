@@ -1,0 +1,85 @@
+# Project: OPEN DOORS (CAA19930190)
+
+- HUD ID: CAA19930190
+- HUD ID before: 
+- Project: OPEN DOORS
+- Address: 634 W PARR AVE
+- City: LOS GATOS
+- State: CA
+- ZIP: 95032
+- ZIP extension: 
+- State project ID: CA-91-084
+- Latitude: 37.263895
+- Longitude: -121.966132
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085506703
+- Tract 2010: 06085506703
+- Tract 2000: 06085506703
+- Tract 1990: 06085506703
+- Place 2020: 44112
+- Place 2010: 44112
+- Place 2000: 10345
+- Place 1990: 0390
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 685759
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 34
+- 3-bedroom units: 28
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

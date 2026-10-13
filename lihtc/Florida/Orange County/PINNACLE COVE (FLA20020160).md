@@ -1,0 +1,85 @@
+# Project: PINNACLE COVE (FLA20020160)
+
+- HUD ID: FLA20020160
+- HUD ID before: 
+- Project: PINNACLE COVE
+- Address: 13513 INLET LN
+- City: ORLANDO
+- State: FL
+- ZIP: 32824
+- ZIP extension: 
+- State project ID: 639
+- Latitude: 28.372964
+- Longitude: -81.369992
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016809
+- Tract 2010: 12095016806
+- Tract 2000: 12095016805
+- Tract 1990: 12095016801
+- Place 2020: 43800
+- Place 2010: 43800
+- Place 2000: 43800
+- Place 1990: 1333
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 420
+- Low-income units: 420
+- Units reported: 420
+- Low-income reported: 420
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 216
+- 3-bedroom units: 144
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

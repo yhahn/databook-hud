@@ -1,0 +1,85 @@
+# Project: TIERRA ANTIGUA (AZA20039191)
+
+- HUD ID: AZA20039191
+- HUD ID before: 
+- Project: TIERRA ANTIGUA
+- Address: 339 N 75TH ST
+- City: MESA
+- State: AZ
+- ZIP: 85207
+- ZIP extension: 
+- State project ID: BD-0009
+- Latitude: 33.420915
+- Longitude: -111.670547
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013420113
+- Tract 2010: 04013420113
+- Tract 2000: 04013420103
+- Tract 1990: 04013420103
+- Place 2020: 46000
+- Place 2010: 46000
+- Place 2000: 46000
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 174
+- Low-income units: 174
+- Units reported: 174
+- Low-income reported: 174
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 77
+- 3-bedroom units: 81
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000564. AKA BRISBEN TIERRA ANTIGUA.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SHILOH ARMS APTS (CAA20100801)
+
+- HUD ID: CAA20100801
+- HUD ID before: 
+- Project: SHILOH ARMS APTS
+- Address: 4009 23RD AVE
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95820
+- ZIP extension: 
+- State project ID: CA-09-572
+- Latitude: 38.532381
+- Longitude: -121.460746
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067004402
+- Tract 2010: 06067004402
+- Tract 2000: 06067004402
+- Tract 1990: 06067004402
+- Place 2020: 27130
+- Place 2010: 27130
+- Place 2000: 55837
+- Place 1990: 2117
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 107
+- Low-income units: 106
+- Units reported: 107
+- Low-income reported: 106
+- Efficiencies: 10
+- 1-bedroom units: 18
+- 2-bedroom units: 29
+- 3-bedroom units: 42
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3829234
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

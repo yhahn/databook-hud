@@ -1,0 +1,85 @@
+# Project: THE VILLAGE AT FLATROCK APTS (INA20050075)
+
+- HUD ID: INA20050075
+- HUD ID before: 
+- Project: THE VILLAGE AT FLATROCK APTS
+- Address: 1800 N FLATROCK RIVER CT
+- City: RUSHVILLE
+- State: IN
+- ZIP: 46173
+- ZIP extension: 
+- State project ID: IN-03-03700
+- Latitude: 39.628737
+- Longitude: -85.446376
+- County FIPS: 18139
+- County from: 2020
+- Tract 2020: 18139974300
+- Tract 2010: 18139974300
+- Tract 2000: 18139974300
+- Tract 1990: 18139974300
+- Place 2020: 66438
+- Place 2010: 66438
+- Place 2000: 66438
+- Place 1990: 2220
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 30
+- 3-bedroom units: 12
+- 4-bedroom units: 6
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BBR - VISION III.
+- Record status: Existing, unchanged

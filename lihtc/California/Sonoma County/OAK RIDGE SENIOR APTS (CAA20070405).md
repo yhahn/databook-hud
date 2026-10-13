@@ -1,0 +1,85 @@
+# Project: OAK RIDGE SENIOR APTS (CAA20070405)
+
+- HUD ID: CAA20070405
+- HUD ID before: 
+- Project: OAK RIDGE SENIOR APTS
+- Address: 18800 BEATRICE DR
+- City: SONOMA
+- State: CA
+- ZIP: 95476
+- ZIP extension: 
+- State project ID: CA-07-853
+- Latitude: 38.306107
+- Longitude: -122.475649
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097150205
+- Tract 2010: 06097150202
+- Tract 2000: 06097150202
+- Tract 1990: 06097150200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 72646
+- Place 1990: 2715
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 211177
+- Units: 35
+- Low-income units: 34
+- Units reported: 35
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

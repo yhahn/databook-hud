@@ -1,0 +1,85 @@
+# Project: CHUCK COSTELLO INDEPENDENT LIVING (NJA20060135)
+
+- HUD ID: NJA20060135
+- HUD ID before: 
+- Project: CHUCK COSTELLO INDEPENDENT LIVING
+- Address: 1998 RTE 18 N
+- City: OLD BRIDGE
+- State: NJ
+- ZIP: 08857
+- ZIP extension: 
+- State project ID: NJ-0746
+- Latitude: 40.382562
+- Longitude: -74.327466
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023007804
+- Tract 2010: 34023007804
+- Tract 2000: 34023007804
+- Tract 1990: 34023007804
+- Place 2020: 54690
+- Place 2010: 54690
+- Place 2000: 54690
+- Place 1990: 3048
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2006080. AKA CHUCK COSTELLO.
+- Record status: Existing, unchanged

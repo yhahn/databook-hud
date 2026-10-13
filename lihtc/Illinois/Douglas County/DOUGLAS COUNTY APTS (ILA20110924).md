@@ -1,0 +1,85 @@
+# Project: DOUGLAS COUNTY APTS (ILA20110924)
+
+- HUD ID: ILA20110924
+- HUD ID before: 
+- Project: DOUGLAS COUNTY APTS
+- Address: 200 VAN VOORHIS DR
+- City: TUSCOLA
+- State: IL
+- ZIP: 61953
+- ZIP extension: 
+- State project ID: 262607
+- Latitude: 39.78989
+- Longitude: -88.290357
+- County FIPS: 17041
+- County from: 2020
+- Tract 2020: 17041952200
+- Tract 2010: 17041952200
+- Tract 2000: 17041952200
+- Tract 1990: 17041952200
+- Place 2020: 76407
+- Place 2010: 76407
+- Place 2000: 76407
+- Place 1990: 5820
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 87882
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 14
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 504616
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000051.
+- Record status: Existing, unchanged

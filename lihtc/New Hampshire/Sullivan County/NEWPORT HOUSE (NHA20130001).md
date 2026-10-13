@@ -1,0 +1,85 @@
+# Project: NEWPORT HOUSE (NHA20130001)
+
+- HUD ID: NHA20130001
+- HUD ID before: 
+- Project: NEWPORT HOUSE
+- Address: 17 PEARL ST
+- City: NEWPORT
+- State: NH
+- ZIP: 03773
+- ZIP extension: 
+- State project ID: NH36H019126
+- Latitude: 43.365725
+- Longitude: -72.17605
+- County FIPS: 33019
+- County from: 2020
+- Tract 2020: 33019975401
+- Tract 2010: 33019975400
+- Tract 2000: 33019975400
+- Tract 1990: 33019975400
+- Place 2020: 52500
+- Place 2010: 52500
+- Place 2000: 52500
+- Place 1990: 1910
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 132946
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 100000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

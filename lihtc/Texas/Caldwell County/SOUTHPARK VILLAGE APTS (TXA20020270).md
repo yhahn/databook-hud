@@ -1,0 +1,85 @@
+# Project: SOUTHPARK VILLAGE APTS (TXA20020270)
+
+- HUD ID: TXA20020270
+- HUD ID before: 
+- Project: SOUTHPARK VILLAGE APTS
+- Address: 1825 S COLORADO ST
+- City: LOCKHART
+- State: TX
+- ZIP: 78644
+- ZIP extension: 
+- State project ID: TX1577
+- Latitude: 29.858643
+- Longitude: -97.668552
+- County FIPS: 48055
+- County from: 2020
+- Tract 2020: 48055960200
+- Tract 2010: 48055960200
+- Tract 2000: 48055960200
+- Tract 1990: 48055960200
+- Place 2020: 43240
+- Place 2010: 43240
+- Place 2000: 43240
+- Place 1990: 2500
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA1998215. FKA SOUTHPARK VILLAGE APTS I & II
+- Record status: Existing, unchanged

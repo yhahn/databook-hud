@@ -1,0 +1,85 @@
+# Project: HOMETOWNE AT PICADILLY (TXA00000334)
+
+- HUD ID: TXA00000334
+- HUD ID before: 
+- Project: HOMETOWNE AT PICADILLY
+- Address: 500 GRAND AVE PKWY
+- City: PFLUGERVILLE
+- State: TX
+- ZIP: 78660
+- ZIP extension: 
+- State project ID: TX4396
+- Latitude: 30.465578
+- Longitude: -97.645183
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453046500
+- Tract 2010: 48453001857
+- Tract 2000: 48453001836
+- Tract 1990: 48453001836
+- Place 2020: 57176
+- Place 2010: 57176
+- Place 2000: 05000
+- Place 1990: 4632
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 167
+- Low-income units: 167
+- Units reported: 167
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

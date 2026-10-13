@@ -1,0 +1,85 @@
+# Project: GRANDVIEW APARTMENTS - FAYETTEVILLE (ARA20040754)
+
+- HUD ID: ARA20040754
+- HUD ID before: 
+- Project: GRANDVIEW APARTMENTS - FAYETTEVILLE
+- Address: 401 W 24TH ST
+- City: FAYETTEVILLE
+- State: AR
+- ZIP: 72701
+- ZIP extension: 
+- State project ID: AR-06-03-001
+- Latitude: 36.037274
+- Longitude: -94.16629
+- County FIPS: 05143
+- County from: 2020
+- Tract 2020: 05143011105
+- Tract 2010: 05143011101
+- Tract 2000: 05143011101
+- Tract 1990: 05143011101
+- Place 2020: 23290
+- Place 2010: 23290
+- Place 2000: 23290
+- Place 1990: 0670
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 179879
+- Units: 128
+- Low-income units: 128
+- Units reported: 128
+- Low-income reported: 128
+- Efficiencies: 1
+- 1-bedroom units: 25
+- 2-bedroom units: 80
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2004037.
+- Record status: Existing, unchanged

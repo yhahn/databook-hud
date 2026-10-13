@@ -1,0 +1,85 @@
+# Project: SOUTHSIDE REVITALIZATION PHASE I (NCA20140125)
+
+- HUD ID: NCA20140125
+- HUD ID before: 
+- Project: SOUTHSIDE REVITALIZATION PHASE I
+- Address: 703 S ROXBORO ST
+- City: DURHAM
+- State: NC
+- ZIP: 27707
+- ZIP extension: 1797
+- State project ID: 9109712
+- Latitude: 35.987443
+- Longitude: -78.902434
+- County FIPS: 37063
+- County from: 2020
+- Tract 2020: 37063002300
+- Tract 2010: 37063002300
+- Tract 2000: 37063001202
+- Tract 1990: 37063001202
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 0750
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1300000
+- Units: 119
+- Low-income units: 80
+- Units reported: 119
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 75
+- 2-bedroom units: 52
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

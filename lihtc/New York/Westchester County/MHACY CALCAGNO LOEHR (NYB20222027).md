@@ -1,0 +1,85 @@
+# Project: MHACY CALCAGNO LOEHR (NYB20222027)
+
+- HUD ID: NYB20222027
+- HUD ID before: 
+- Project: MHACY CALCAGNO LOEHR
+- Address: 55 SCHOOL STREET
+- City: YONKERS
+- State: NY
+- ZIP: 10701
+- ZIP extension: 
+- State project ID: NY-22-2681
+- Latitude: 40.930209
+- Longitude: -73.894631
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119000300
+- Tract 2010: 36119000300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 84000
+- Place 2010: 84000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 3923239
+- Units: 338
+- Low-income units: 330
+- Units reported: 338
+- Low-income reported: 330
+- Efficiencies: 0
+- 1-bedroom units: 107
+- 2-bedroom units: 171
+- 3-bedroom units: 48
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

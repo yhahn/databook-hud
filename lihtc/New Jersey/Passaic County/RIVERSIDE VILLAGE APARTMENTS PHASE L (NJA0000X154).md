@@ -1,0 +1,85 @@
+# Project: RIVERSIDE VILLAGE APARTMENTS PHASE L (NJA0000X154)
+
+- HUD ID: NJA0000X154
+- HUD ID before: 
+- Project: RIVERSIDE VILLAGE APARTMENTS PHASE L
+- Address: 416- 462 FIFTH AVENUE
+- City: PATERSON CITY
+- State: NJ
+- ZIP: 07514
+- ZIP extension: 
+- State project ID: 3306
+- Latitude: 40.932784
+- Longitude: -74.14347
+- County FIPS: 34031
+- County from: 2020
+- Tract 2020: 34031181101
+- Tract 2010: 34031181100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 57000
+- Place 2010: 57000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 2745757
+- Units: 165
+- Low-income units: 165
+- Units reported: 165
+- Low-income reported: 165
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

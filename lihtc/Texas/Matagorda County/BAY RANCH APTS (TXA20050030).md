@@ -1,0 +1,85 @@
+# Project: BAY RANCH APTS (TXA20050030)
+
+- HUD ID: TXA20050030
+- HUD ID before: 
+- Project: BAY RANCH APTS
+- Address: 1401 THOMPSON DR
+- City: BAY CITY
+- State: TX
+- ZIP: 77414
+- ZIP extension: 
+- State project ID: TX3350
+- Latitude: 28.962043
+- Longitude: -95.971734
+- County FIPS: 48321
+- County from: 2020
+- Tract 2020: 48321730400
+- Tract 2010: 48321730400
+- Tract 2000: 48321730400
+- Tract 1990: 48321130400
+- Place 2020: 05984
+- Place 2010: 05984
+- Place 2000: 05984
+- Place 1990: 0310
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 60
+- Units reported: 64
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BAY CITY BAY RANCH APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PHEASANT RIDGE (OHA20110132)
+
+- HUD ID: OHA20110132
+- HUD ID before: 
+- Project: PHEASANT RIDGE
+- Address: 649 PINE BARK LN
+- City: MCCONNELSVILLE
+- State: OH
+- ZIP: 43756
+- ZIP extension: 
+- State project ID: OH-09-0062
+- Latitude: 39.655153
+- Longitude: -81.854313
+- County FIPS: 39115
+- County from: 2020
+- Tract 2020: 39115968900
+- Tract 2010: 39115968900
+- Tract 2000: 39115968900
+- Tract 1990: 39115968900
+- Place 2020: 45822
+- Place 2010: 45822
+- Place 2000: 45822
+- Place 1990: 2375
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3684994
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

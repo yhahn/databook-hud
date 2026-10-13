@@ -1,0 +1,85 @@
+# Project: PARKSTONE SENIOR VILLAGE (TXA20020205)
+
+- HUD ID: TXA20020205
+- HUD ID before: 
+- Project: PARKSTONE SENIOR VILLAGE
+- Address: 1727 RATHGEBER RD
+- City: WICHITA FALLS
+- State: TX
+- ZIP: 76310
+- ZIP extension: 
+- State project ID: TX0121
+- Latitude: 33.84383
+- Longitude: -98.461711
+- County FIPS: 48485
+- County from: 2020
+- Tract 2020: 48485011600
+- Tract 2010: 48485011500
+- Tract 2000: 48485011500
+- Tract 1990: 48485011500
+- Place 2020: 79000
+- Place 2010: 99999
+- Place 2000: 79000
+- Place 1990: 4605
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 140
+- Low-income units: 140
+- Units reported: 140
+- Low-income reported: 140
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA2002200.
+- Record status: Existing, unchanged

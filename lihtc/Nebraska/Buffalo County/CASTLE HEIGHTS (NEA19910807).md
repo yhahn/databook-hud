@@ -1,0 +1,85 @@
+# Project: CASTLE HEIGHTS (NEA19910807)
+
+- HUD ID: NEA19910807
+- HUD ID before: 
+- Project: CASTLE HEIGHTS
+- Address: 1601 W 39TH ST
+- City: KEARNEY
+- State: NE
+- ZIP: 68845
+- ZIP extension: 
+- State project ID: 7-0123
+- Latitude: 40.714114
+- Longitude: -99.103229
+- County FIPS: 31019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31019969204
+- Tract 2000: 31019969201
+- Tract 1990: 31019969200
+- Place 2020: 
+- Place 2010: 25055
+- Place 2000: 25055
+- Place 1990: 1350
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 44273
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA0000210.
+- Record status: Existing, unchanged

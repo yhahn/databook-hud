@@ -1,0 +1,85 @@
+# Project: HORACE MANN HOPE DEVELOPMENT VI (INA20060045)
+
+- HUD ID: INA20060045
+- HUD ID before: 
+- Project: HORACE MANN HOPE DEVELOPMENT VI
+- Address: 660 WASHINGTON ST
+- City: GARY
+- State: IN
+- ZIP: 46402
+- ZIP extension: 
+- State project ID: IN-04-01900
+- Latitude: 41.598781
+- Longitude: -87.338646
+- County FIPS: 18089
+- County from: 2020
+- Tract 2020: 18089010205
+- Tract 2010: 18089010205
+- Tract 2000: 18089010202
+- Tract 1990: 18089010298
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 0905
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 684832
+- Units: 123
+- Low-income units: 89
+- Units reported: 123
+- Low-income reported: 89
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 68
+- 3-bedroom units: 32
+- 4-bedroom units: 9
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

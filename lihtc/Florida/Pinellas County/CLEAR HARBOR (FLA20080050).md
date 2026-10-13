@@ -1,0 +1,85 @@
+# Project: CLEAR HARBOR (FLA20080050)
+
+- HUD ID: FLA20080050
+- HUD ID before: 
+- Project: CLEAR HARBOR
+- Address: 11240 US HWY 19 N
+- City: CLEARWATER
+- State: FL
+- ZIP: 33764
+- ZIP extension: 
+- State project ID: 1763
+- Latitude: 27.874945
+- Longitude: -82.709599
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103024505
+- Tract 2010: 12103024505
+- Tract 2000: 12103024505
+- Tract 1990: 12103024505
+- Place 2020: 56975
+- Place 2010: 56975
+- Place 2000: 39425
+- Place 1990: 1750
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 444250
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 48
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

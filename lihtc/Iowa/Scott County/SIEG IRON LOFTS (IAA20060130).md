@@ -1,0 +1,85 @@
+# Project: SIEG IRON LOFTS (IAA20060130)
+
+- HUD ID: IAA20060130
+- HUD ID before: 
+- Project: SIEG IRON LOFTS
+- Address: 320 E FOURTH ST
+- City: DAVENPORT
+- State: IA
+- ZIP: 52801
+- ZIP extension: 
+- State project ID: 05-34
+- Latitude: 41.523669
+- Longitude: -90.570767
+- County FIPS: 19163
+- County from: 2020
+- Tract 2020: 19163010600
+- Tract 2010: 19163010600
+- Tract 2000: 19163010600
+- Tract 1990: 19163010600
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1040
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 428898
+- Units: 53
+- Low-income units: 37
+- Units reported: 53
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 43
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 319000
+- CDBG: Yes
+- CDBG amount: 300000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

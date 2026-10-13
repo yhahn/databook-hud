@@ -1,0 +1,85 @@
+# Project: SINAI VILLAGE (ILA20110901)
+
+- HUD ID: ILA20110901
+- HUD ID before: 
+- Project: SINAI VILLAGE
+- Address: 1200 ST LOUIS AVE
+- City: EAST ST LOUIS
+- State: IL
+- ZIP: 62201
+- ZIP extension: 
+- State project ID: 294209
+- Latitude: 38.62145
+- Longitude: -90.150361
+- County FIPS: 17163
+- County from: 2020
+- Tract 2020: 17163500900
+- Tract 2010: 17163500900
+- Tract 2000: 17163500900
+- Tract 1990: 17163500900
+- Place 2020: 22255
+- Place 2010: 22255
+- Place 2000: 22255
+- Place 1990: 1660
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 21
+- 4-bedroom units: 9
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 768037
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

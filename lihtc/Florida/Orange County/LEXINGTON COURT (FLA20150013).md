@@ -1,0 +1,85 @@
+# Project: LEXINGTON COURT (FLA20150013)
+
+- HUD ID: FLA20150013
+- HUD ID before: 
+- Project: LEXINGTON COURT
+- Address: 315 WEST CONCORD STREET
+- City: ORLANDO
+- State: FL
+- ZIP: 32801
+- ZIP extension: 
+- State project ID: 2631
+- Latitude: 28.551082
+- Longitude: -81.383638
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095018901
+- Tract 2010: 12095018900
+- Tract 2000: 12095010600
+- Tract 1990: 
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 2110000
+- Units: 104
+- Low-income units: 97
+- Units reported: 104
+- Low-income reported: 97
+- Efficiencies: 
+- 1-bedroom units: 28
+- 2-bedroom units: 16
+- 3-bedroom units: 60
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

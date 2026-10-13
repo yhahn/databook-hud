@@ -1,0 +1,85 @@
+# Project: HOMEWORKS PHASE I (WAA20070110)
+
+- HUD ID: WAA20070110
+- HUD ID before: 
+- Project: HOMEWORKS PHASE I
+- Address: 2445 NW 57TH ST
+- City: SEATTLE
+- State: WA
+- ZIP: 98107
+- ZIP extension: 
+- State project ID: 05-167A
+- Latitude: 47.670011
+- Longitude: -122.388717
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033003201
+- Tract 2010: 53033003200
+- Tract 2000: 53033003200
+- Tract 1990: 53033003200
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 1140
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1013276
+- Units: 704
+- Low-income units: 669
+- Units reported: 704
+- Low-income reported: 669
+- Efficiencies: 147
+- 1-bedroom units: 556
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

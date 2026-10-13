@@ -1,0 +1,85 @@
+# Project: WVCO - KEYSER (WVA19900100)
+
+- HUD ID: WVA19900100
+- HUD ID before: 
+- Project: WVCO - KEYSER
+- Address: 1600 CORNELL ST
+- City: KEYSER
+- State: WV
+- ZIP: 26726
+- ZIP extension: 
+- State project ID: WV89-00901
+- Latitude: 39.42895
+- Longitude: -78.996301
+- County FIPS: 54057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 54057010600
+- Tract 2000: 54057010600
+- Tract 1990: 54057010600
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 43492
+- Place 1990: 0815
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 5
+- Low-income units: 5
+- Units reported: 5
+- Low-income reported: 5
+- Efficiencies: 5
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

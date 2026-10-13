@@ -1,0 +1,85 @@
+# Project: EDGEWATER ISLE SENIOR APARTMENTS (CAA20161019)
+
+- HUD ID: CAA20161019
+- HUD ID before: 
+- Project: EDGEWATER ISLE SENIOR APARTMENTS
+- Address: 1490 MIRAMAR
+- City: SAN MATEO
+- State: CA
+- ZIP: 94404
+- ZIP extension: 
+- State project ID: CA-15-808
+- Latitude: 37.554051
+- Longitude: -122.286533
+- County FIPS: 06081
+- County from: 2020
+- Tract 2020: 06081607900
+- Tract 2010: 06081607900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 68252
+- Place 2010: 68252
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1063525
+- Units: 92
+- Low-income units: 91
+- Units reported: 92
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 92
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

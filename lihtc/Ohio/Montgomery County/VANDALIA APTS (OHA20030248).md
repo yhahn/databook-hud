@@ -1,0 +1,85 @@
+# Project: VANDALIA APTS (OHA20030248)
+
+- HUD ID: OHA20030248
+- HUD ID before: 
+- Project: VANDALIA APTS
+- Address: 10 E ALKALINE SPRINGS RD
+- City: VANDALIA
+- State: OH
+- ZIP: 45377
+- ZIP extension: 
+- State project ID: OH-02-0103
+- Latitude: 39.882881
+- Longitude: -84.199011
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113115012
+- Tract 2010: 39113115012
+- Tract 2000: 39113115012
+- Tract 1990: 39113115012
+- Place 2020: 79492
+- Place 2010: 79492
+- Place 2000: 79492
+- Place 1990: 4395
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 48028
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 29
+- 3-bedroom units: 4
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003594, OHA2004272.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUMMIT RIDGE APARTMENTS (WAA20164040)
+
+- HUD ID: WAA20164040
+- HUD ID before: 
+- Project: SUMMIT RIDGE APARTMENTS
+- Address: 3307 E 55TH AVENUE
+- City: SPOKANE
+- State: WA
+- ZIP: 99223
+- ZIP extension: 
+- State project ID: 14-42A
+- Latitude: 47.604104
+- Longitude: -117.361426
+- County FIPS: 53063
+- County from: 2020
+- Tract 2020: 53063005000
+- Tract 2010: 53063005000
+- Tract 2000: 53063005000
+- Tract 1990: 53063013402
+- Place 2020: 67000
+- Place 2010: 99999
+- Place 2000: 67000
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 431616
+- Units: 120
+- Low-income units: 119
+- Units reported: 120
+- Low-income reported: 119
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 72
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

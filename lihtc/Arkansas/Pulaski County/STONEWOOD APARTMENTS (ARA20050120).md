@@ -1,0 +1,85 @@
+# Project: STONEWOOD APARTMENTS (ARA20050120)
+
+- HUD ID: ARA20050120
+- HUD ID before: 
+- Project: STONEWOOD APARTMENTS
+- Address: 3600 SPRINGER BLVD
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72206
+- ZIP extension: 
+- State project ID: AR-03-49-001
+- Latitude: 34.712855
+- Longitude: -92.255411
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119004001
+- Tract 2010: 05119004001
+- Tract 2000: 05119000500
+- Tract 1990: 05119000500
+- Place 2020: 41000
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 300000
+- Units: 52
+- Low-income units: 41
+- Units reported: 52
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 26
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

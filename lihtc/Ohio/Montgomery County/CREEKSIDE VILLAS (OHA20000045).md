@@ -1,0 +1,85 @@
+# Project: CREEKSIDE VILLAS (OHA20000045)
+
+- HUD ID: OHA20000045
+- HUD ID before: 
+- Project: CREEKSIDE VILLAS
+- Address: 5264 COBBLEGATE BLVD
+- City: MORAINE
+- State: OH
+- ZIP: 45439
+- ZIP extension: 
+- State project ID: 990096
+- Latitude: 39.678244
+- Longitude: -84.216206
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113030100
+- Tract 2010: 39113030100
+- Tract 2000: 39113030100
+- Tract 1990: 39113030100
+- Place 2020: 52010
+- Place 2010: 52010
+- Place 2000: 40040
+- Place 1990: 2770
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 419900
+- Units: 156
+- Low-income units: 156
+- Units reported: 156
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 129
+- 3-bedroom units: 27
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MORAINE VILLAGE APTS.
+- Record status: Existing, unchanged

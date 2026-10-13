@@ -1,0 +1,85 @@
+# Project: CORONADO COURTS APTS (AZA19870010)
+
+- HUD ID: AZA19870010
+- HUD ID before: 
+- Project: CORONADO COURTS APTS
+- Address: 1830 BONITA AVE
+- City: DOUGLAS
+- State: AZ
+- ZIP: 85607
+- ZIP extension: 
+- State project ID: TC-0471
+- Latitude: 31.352846
+- Longitude: -109.544143
+- County FIPS: 04003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04003000800
+- Tract 2000: 04003000800
+- Tract 1990: 04003000800
+- Place 2020: 
+- Place 2010: 20050
+- Place 2000: 20050
+- Place 1990: 0080
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 145
+- Low-income units: 145
+- Units reported: 145
+- Low-income reported: 145
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

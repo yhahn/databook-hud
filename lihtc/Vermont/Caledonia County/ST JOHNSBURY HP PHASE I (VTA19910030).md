@@ -1,0 +1,85 @@
+# Project: ST JOHNSBURY HP PHASE I (VTA19910030)
+
+- HUD ID: VTA19910030
+- HUD ID before: 
+- Project: ST JOHNSBURY HP PHASE I
+- Address: 426 SUMMER ST
+- City: ST JOHNSBURY
+- State: VT
+- ZIP: 05819
+- ZIP extension: 
+- State project ID: 0169
+- Latitude: 44.425
+- Longitude: -72.019475
+- County FIPS: 50005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 50005957400
+- Tract 2000: 50005957400
+- Tract 1990: 50005957400
+- Place 2020: 
+- Place 2010: 62125
+- Place 2000: 62125
+- Place 1990: 2268
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 46652
+- Units: 32
+- Low-income units: 22
+- Units reported: 32
+- Low-income reported: 22
+- Efficiencies: 1
+- 1-bedroom units: 4
+- 2-bedroom units: 8
+- 3-bedroom units: 13
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

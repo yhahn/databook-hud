@@ -1,0 +1,85 @@
+# Project: CHURCH STREET APTS (NYA19950115)
+
+- HUD ID: NYA19950115
+- HUD ID before: 
+- Project: CHURCH STREET APTS
+- Address: 27 CHURCH ST
+- City: PORT BYRON
+- State: NY
+- ZIP: 13140
+- ZIP extension: 
+- State project ID: 19930025
+- Latitude: 43.03564
+- Longitude: -76.625607
+- County FIPS: 36011
+- County from: 2020
+- Tract 2020: 36011040300
+- Tract 2010: 36011040300
+- Tract 2000: 36011040300
+- Tract 1990: 36011040300
+- Place 2020: 59212
+- Place 2010: 59212
+- Place 2000: 59212
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 21
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

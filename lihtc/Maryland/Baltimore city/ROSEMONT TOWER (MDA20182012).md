@@ -1,0 +1,85 @@
+# Project: ROSEMONT TOWER (MDA20182012)
+
+- HUD ID: MDA20182012
+- HUD ID before: 
+- Project: ROSEMONT TOWER
+- Address: 740 POPLAR GROVE STREET
+- City: BALTIMORE
+- State: MD
+- ZIP: 21216
+- ZIP extension: 
+- State project ID: MD-18-22001
+- Latitude: 39.296383
+- Longitude: -76.665235
+- County FIPS: 24510
+- County from: 2020
+- Tract 2020: 24510160600
+- Tract 2010: 24510160600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1647840
+- Units: 203
+- Low-income units: 203
+- Units reported: 203
+- Low-income reported: 203
+- Efficiencies: 
+- 1-bedroom units: 203
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: Yes
+- Other population named: Special Needs
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

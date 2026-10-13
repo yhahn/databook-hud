@@ -1,0 +1,85 @@
+# Project: SPANISH HILLS APTS (NVA20000070)
+
+- HUD ID: NVA20000070
+- HUD ID before: 
+- Project: SPANISH HILLS APTS
+- Address: 1475 VISTA DEL RANCHO PKWY
+- City: SPARKS
+- State: NV
+- ZIP: 89436
+- ZIP extension: 
+- State project ID: 98-51
+- Latitude: 39.594007
+- Longitude: -119.716069
+- County FIPS: 32031
+- County from: 2020
+- Tract 2020: 32031003521
+- Tract 2010: 32031003509
+- Tract 2000: 32031003502
+- Tract 1990: 32031003498
+- Place 2020: 68400
+- Place 2010: 68400
+- Place 2000: 68400
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 307183
+- Units: 152
+- Low-income units: 152
+- Units reported: 152
+- Low-income reported: 152
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 40
+- 3-bedroom units: 80
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

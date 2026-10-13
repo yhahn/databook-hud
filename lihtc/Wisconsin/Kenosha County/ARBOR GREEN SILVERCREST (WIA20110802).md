@@ -1,0 +1,85 @@
+# Project: ARBOR GREEN SILVERCREST (WIA20110802)
+
+- HUD ID: WIA20110802
+- HUD ID before: 
+- Project: ARBOR GREEN SILVERCREST
+- Address: 630 S COGSWELL DR
+- City: SILVER LAKE
+- State: WI
+- ZIP: 53170
+- ZIP extension: 
+- State project ID: 5705
+- Latitude: 42.545015
+- Longitude: -88.165993
+- County FIPS: 55059
+- County from: 2020
+- Tract 2020: 55059002903
+- Tract 2010: 55059002903
+- Tract 2000: 55059002901
+- Tract 1990: 55059002901
+- Place 2020: 71163
+- Place 2010: 74025
+- Place 2000: 12400
+- Place 1990: 0437
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 644155
+- Units: 84
+- Low-income units: 9
+- Units reported: 84
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 51
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NEW SETON SQUARE ZANESVILLE (OHA20090265)
+
+- HUD ID: OHA20090265
+- HUD ID before: 
+- Project: NEW SETON SQUARE ZANESVILLE
+- Address: 516 SHERIDAN ST
+- City: ZANESVILLE
+- State: OH
+- ZIP: 43701
+- ZIP extension: 
+- State project ID: 090125
+- Latitude: 39.955883
+- Longitude: -82.008866
+- County FIPS: 39119
+- County from: 2020
+- Tract 2020: 39119911800
+- Tract 2010: 39119911800
+- Tract 2000: 39119981800
+- Tract 1990: 39119981800
+- Place 2020: 88084
+- Place 2010: 88084
+- Place 2000: 88084
+- Place 1990: 4860
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 11
+- 1-bedroom units: 34
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 27
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 487185
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

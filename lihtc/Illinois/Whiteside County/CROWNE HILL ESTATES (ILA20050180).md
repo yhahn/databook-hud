@@ -1,0 +1,85 @@
+# Project: CROWNE HILL ESTATES (ILA20050180)
+
+- HUD ID: ILA20050180
+- HUD ID before: 
+- Project: CROWNE HILL ESTATES
+- Address: 1101 W 24TH ST
+- City: ROCK FALLS
+- State: IL
+- ZIP: 61071
+- ZIP extension: 
+- State project ID: 151603
+- Latitude: 41.760535
+- Longitude: -89.705363
+- County FIPS: 17195
+- County from: 2020
+- Tract 2020: 17195001700
+- Tract 2010: 17195001700
+- Tract 2000: 17195001700
+- Tract 1990: 17195001700
+- Place 2020: 64928
+- Place 2010: 64928
+- Place 2000: 64928
+- Place 1990: 4960
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 351146
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 17
+- 3-bedroom units: 6
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

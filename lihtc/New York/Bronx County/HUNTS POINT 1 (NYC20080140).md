@@ -1,0 +1,85 @@
+# Project: HUNTS POINT 1 (NYC20080140)
+
+- HUD ID: NYC20080140
+- HUD ID before: 
+- Project: HUNTS POINT 1
+- Address: 671 MANIDA ST
+- City: BRONX
+- State: NY
+- ZIP: 10474
+- ZIP extension: 
+- State project ID: NY-08-010
+- Latitude: 40.813861
+- Longitude: -73.888452
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005009301
+- Tract 2010: 36005009300
+- Tract 2000: 36005009900
+- Tract 1990: 36005009900
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1300000
+- Units: 125
+- Low-income units: 124
+- Units reported: 125
+- Low-income reported: 124
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 64
+- 3-bedroom units: 32
+- 4-bedroom units: 9
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

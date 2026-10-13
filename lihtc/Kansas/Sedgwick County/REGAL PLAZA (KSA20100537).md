@@ -1,0 +1,85 @@
+# Project: REGAL PLAZA (KSA20100537)
+
+- HUD ID: KSA20100537
+- HUD ID before: 
+- Project: REGAL PLAZA
+- Address: 2500 E 27TH ST
+- City: WICHITA
+- State: KS
+- ZIP: 67219
+- ZIP extension: 
+- State project ID: 60530
+- Latitude: 37.733901
+- Longitude: -97.306514
+- County FIPS: 20173
+- County from: 2020
+- Tract 2020: 20173007800
+- Tract 2010: 20173007800
+- Tract 2000: 20173007800
+- Tract 1990: 20173007800
+- Place 2020: 79000
+- Place 2010: 79000
+- Place 2000: 79000
+- Place 1990: 3040
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 371623
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2106000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2010083, KSA2010081.
+- Record status: Existing, unchanged

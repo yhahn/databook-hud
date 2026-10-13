@@ -1,0 +1,85 @@
+# Project: GROVES OF DELRAY (FLA20120802)
+
+- HUD ID: FLA20120802
+- HUD ID before: 
+- Project: GROVES OF DELRAY
+- Address: 1301 SW TENTH AVE
+- City: DELRAY BEACH
+- State: FL
+- ZIP: 33444
+- ZIP extension: 
+- State project ID: 318
+- Latitude: 26.443333
+- Longitude: -80.083361
+- County FIPS: 12099
+- County from: 2020
+- Tract 2020: 12099006801
+- Tract 2010: 12099006801
+- Tract 2000: 12099006801
+- Tract 1990: 12099006801
+- Place 2020: 17100
+- Place 2010: 17100
+- Place 2000: 17100
+- Place 1990: 0510
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 158
+- Low-income units: 158
+- Units reported: 158
+- Low-income reported: 158
+- Efficiencies: 0
+- 1-bedroom units: 86
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

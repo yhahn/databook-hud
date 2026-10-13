@@ -1,0 +1,85 @@
+# Project: ROSEMONT AT HEATHER BEND (TXA00000499)
+
+- HUD ID: TXA00000499
+- HUD ID before: 
+- Project: ROSEMONT AT HEATHER BEND
+- Address: 16701 N HEATHERWILDE BLVD
+- City: PFLUGERVILLE
+- State: TX
+- ZIP: 78660
+- ZIP extension: 
+- State project ID: TX3327
+- Latitude: 30.467024
+- Longitude: -97.629586
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453046200
+- Tract 2010: 48453001855
+- Tract 2000: 48453001836
+- Tract 1990: 48453001836
+- Place 2020: 57176
+- Place 2010: 57176
+- Place 2000: 05000
+- Place 1990: 4632
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 255
+- Low-income units: 255
+- Units reported: 255
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: DERMOTT TERRACE FKA DERMOTT VILLAS (ARA20070010)
+
+- HUD ID: ARA20070010
+- HUD ID before: 
+- Project: DERMOTT TERRACE FKA DERMOTT VILLAS
+- Address: 208 W ASH ST
+- City: DERMOTT
+- State: AR
+- ZIP: 71638
+- ZIP extension: 
+- State project ID: AR-90-07-001
+- Latitude: 33.529724
+- Longitude: -91.436932
+- County FIPS: 05017
+- County from: 2020
+- Tract 2020: 05017080200
+- Tract 2010: 05017080200
+- Tract 2000: 05017980200
+- Tract 1990: 05017980200
+- Place 2020: 18520
+- Place 2010: 18520
+- Place 2000: 18520
+- Place 1990: 0545
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 130681
+- Units: 33
+- Low-income units: 32
+- Units reported: 33
+- Low-income reported: 32
+- Efficiencies: 2
+- 1-bedroom units: 7
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA DERMOTT VILLAS
+- Record status: Existing, unchanged

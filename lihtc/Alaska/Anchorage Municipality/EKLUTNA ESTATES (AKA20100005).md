@@ -1,0 +1,85 @@
+# Project: EKLUTNA ESTATES (AKA20100005)
+
+- HUD ID: AKA20100005
+- HUD ID before: 
+- Project: EKLUTNA ESTATES
+- Address: 8850 CENTENNIAL CIR
+- City: ANCHORAGE
+- State: AK
+- ZIP: 99504
+- ZIP extension: 
+- State project ID: AK-09-00015
+- Latitude: 61.225727
+- Longitude: -149.713797
+- County FIPS: 02020
+- County from: 2020
+- Tract 2020: 02020000703
+- Tract 2010: 02020000703
+- Tract 2000: 02020000703
+- Tract 1990: 02020000703
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0140
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1670473
+- Units: 59
+- Low-income units: 51
+- Units reported: 59
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

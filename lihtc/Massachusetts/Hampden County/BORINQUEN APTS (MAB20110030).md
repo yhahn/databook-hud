@@ -1,0 +1,85 @@
+# Project: BORINQUEN APTS (MAB20110030)
+
+- HUD ID: MAB20110030
+- HUD ID before: 
+- Project: BORINQUEN APTS
+- Address: 2772 MAIN ST
+- City: SPRINGFIELD
+- State: MA
+- ZIP: 01107
+- ZIP extension: 
+- State project ID: 1209
+- Latitude: 42.116117
+- Longitude: -72.606898
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013800600
+- Tract 2010: 25013800600
+- Tract 2000: 25013800600
+- Tract 1990: 25013800600
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 4090
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 13
+- 3-bedroom units: 11
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 8097586
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB20110030.
+- Record status: Existing, unchanged

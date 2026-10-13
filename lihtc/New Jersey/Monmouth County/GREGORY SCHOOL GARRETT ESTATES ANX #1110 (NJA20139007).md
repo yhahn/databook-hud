@@ -1,0 +1,85 @@
+# Project: GREGORY SCHOOL GARRETT ESTATES ANX #1110 (NJA20139007)
+
+- HUD ID: NJA20139007
+- HUD ID before: 
+- Project: GREGORY SCHOOL GARRETT ESTATES ANX #1110
+- Address: 157 7TH AVE
+- City: LONG BRANCH
+- State: NJ
+- ZIP: 07740
+- ZIP extension: 7295
+- State project ID: 02811-2
+- Latitude: 40.30824
+- Longitude: -73.997136
+- County FIPS: 34025
+- County from: 2020
+- Tract 2020: 34025805500
+- Tract 2010: 34025805500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 41310
+- Place 2010: 41310
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1400000
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

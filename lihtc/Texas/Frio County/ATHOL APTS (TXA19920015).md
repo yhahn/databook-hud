@@ -1,0 +1,85 @@
+# Project: ATHOL APTS (TXA19920015)
+
+- HUD ID: TXA19920015
+- HUD ID before: 
+- Project: ATHOL APTS
+- Address: 601 ATHOL LN
+- City: PEARSALL
+- State: TX
+- ZIP: 78061
+- ZIP extension: 
+- State project ID: TX0945
+- Latitude: 28.902852
+- Longitude: -99.097574
+- County FIPS: 48163
+- County from: 2020
+- Tract 2020: 48163950202
+- Tract 2010: 48163950200
+- Tract 2000: 48163950200
+- Tract 1990: 48163950200
+- Place 2020: 56384
+- Place 2010: 56384
+- Place 2000: 52302
+- Place 1990: 3225
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

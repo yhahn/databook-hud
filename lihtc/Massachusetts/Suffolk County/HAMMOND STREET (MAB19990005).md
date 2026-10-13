@@ -1,0 +1,85 @@
+# Project: HAMMOND STREET (MAB19990005)
+
+- HUD ID: MAB19990005
+- HUD ID before: 
+- Project: HAMMOND STREET
+- Address: 10 HAMMOND ST
+- City: ROXBURY CROSSING
+- State: MA
+- ZIP: 02120
+- ZIP extension: 
+- State project ID: MA98-10001
+- Latitude: 42.334493
+- Longitude: -71.082269
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025080500
+- Tract 2010: 25025080500
+- Tract 2000: 25025080500
+- Tract 1990: 25025080500
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 74
+- Low-income units: 70
+- Units reported: 74
+- Low-income reported: 70
+- Efficiencies: 7
+- 1-bedroom units: 36
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000298.
+- Record status: Existing, unchanged

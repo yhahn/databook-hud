@@ -1,0 +1,85 @@
+# Project: AUTUMN CREST (GAA20080013)
+
+- HUD ID: GAA20080013
+- HUD ID before: 
+- Project: AUTUMN CREST
+- Address: 887 FORRESTER DR SE
+- City: DAWSON
+- State: GA
+- ZIP: 39842
+- ZIP extension: 2042
+- State project ID: GA-06-024
+- Latitude: 31.761396
+- Longitude: -84.437766
+- County FIPS: 13273
+- County from: 2020
+- Tract 2020: 13273120400
+- Tract 2010: 13273120400
+- Tract 2000: 13273980400
+- Tract 1990: 13273980400
+- Place 2020: 21912
+- Place 2010: 21912
+- Place 2000: 21912
+- Place 1990: 0810
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 388889
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2007200.
+- Record status: Existing, unchanged

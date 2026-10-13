@@ -1,0 +1,85 @@
+# Project: HOLLYWOOD & VINE APTS (CAA20100803)
+
+- HUD ID: CAA20100803
+- HUD ID before: 
+- Project: HOLLYWOOD & VINE APTS
+- Address: 1600 VINE ST
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90028
+- ZIP extension: 
+- State project ID: CA-08-902
+- Latitude: 34.099799
+- Longitude: -118.326475
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037191000
+- Tract 2010: 06037191000
+- Tract 2000: 06037191000
+- Tract 1990: 06037191000
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1229736
+- Units: 78
+- Low-income units: 78
+- Units reported: 75
+- Low-income reported: 78
+- Efficiencies: 22
+- 1-bedroom units: 28
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

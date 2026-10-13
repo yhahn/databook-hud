@@ -1,0 +1,85 @@
+# Project: OXFORD PLACE (PAA19940195)
+
+- HUD ID: PAA19940195
+- HUD ID before: 
+- Project: OXFORD PLACE
+- Address: 305 MARKET ST
+- City: OXFORD
+- State: PA
+- ZIP: 19363
+- ZIP extension: 
+- State project ID: PA-94-0140
+- Latitude: 39.785085
+- Longitude: -75.978629
+- County FIPS: 42029
+- County from: 2020
+- Tract 2020: 42029308000
+- Tract 2010: 42029308000
+- Tract 2000: 42029308000
+- Tract 1990: 42029308000
+- Place 2020: 57480
+- Place 2010: 57480
+- Place 2000: 57480
+- Place 1990: 7046
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

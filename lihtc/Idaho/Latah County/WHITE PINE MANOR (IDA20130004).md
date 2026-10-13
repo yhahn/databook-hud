@@ -1,0 +1,85 @@
+# Project: WHITE PINE MANOR (IDA20130004)
+
+- HUD ID: IDA20130004
+- HUD ID before: 
+- Project: WHITE PINE MANOR
+- Address: 400 6TH STREET
+- City: POTLATCH
+- State: ID
+- ZIP: 83358
+- ZIP extension: 
+- State project ID: HC1212
+- Latitude: 46.921761
+- Longitude: -116.897349
+- County FIPS: 16057
+- County from: 2020
+- Tract 2020: 16057005500
+- Tract 2010: 16057005500
+- Tract 2000: 16057005500
+- Tract 1990: 
+- Place 2020: 64900
+- Place 2010: 64900
+- Place 2000: 64900
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 327457
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 14
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

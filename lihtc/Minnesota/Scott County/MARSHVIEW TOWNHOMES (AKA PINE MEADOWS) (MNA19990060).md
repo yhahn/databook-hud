@@ -1,0 +1,85 @@
+# Project: MARSHVIEW TOWNHOMES (AKA PINE MEADOWS) (MNA19990060)
+
+- HUD ID: MNA19990060
+- HUD ID before: 
+- Project: MARSHVIEW TOWNHOMES (AKA PINE MEADOWS)
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: SAVAGE
+- State: MN
+- ZIP: 55378
+- ZIP extension: 
+- State project ID: D2545
+- Latitude: 44.7573
+- Longitude: -93.3437
+- County FIPS: 27139
+- County from: 2020
+- Tract 2020: 27139080202
+- Tract 2010: 27139080203
+- Tract 2000: 27139080204
+- Tract 1990: 27139080200
+- Place 2020: 58738
+- Place 2010: 58738
+- Place 2000: 58738
+- Place 1990: 3485
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 17
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PINE MEADOWS.
+- Record status: Existing, unchanged

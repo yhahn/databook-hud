@@ -1,0 +1,85 @@
+# Project: ASPEN LAKES MIAMI (FLA20020165)
+
+- HUD ID: FLA20020165
+- HUD ID before: 
+- Project: ASPEN LAKES MIAMI
+- Address: 18701 NE THIRD CT
+- City: MIAMI
+- State: FL
+- ZIP: 33179
+- ZIP extension: 
+- State project ID: 1028
+- Latitude: 25.946748
+- Longitude: -80.19394
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086009601
+- Tract 2010: 12086009600
+- Tract 2000: 12086009600
+- Tract 1990: 12025009600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 49000
+- Place 1990: 1488
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 226
+- Low-income units: 226
+- Units reported: 226
+- Low-income reported: 226
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 142
+- 3-bedroom units: 39
+- 4-bedroom units: 7
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

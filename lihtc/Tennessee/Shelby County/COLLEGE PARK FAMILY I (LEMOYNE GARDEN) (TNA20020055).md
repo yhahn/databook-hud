@@ -1,0 +1,85 @@
+# Project: COLLEGE PARK FAMILY I (LEMOYNE GARDEN) (TNA20020055)
+
+- HUD ID: TNA20020055
+- HUD ID before: 
+- Project: COLLEGE PARK FAMILY I (LEMOYNE GARDEN)
+- Address: 942 GARDEN ROW DR
+- City: MEMPHIS
+- State: TN
+- ZIP: 38126
+- ZIP extension: 
+- State project ID: TN-00-103
+- Latitude: 35.121045
+- Longitude: -90.034224
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157011600
+- Tract 2010: 47157011600
+- Tract 2000: 47157004800
+- Tract 1990: 47157004800
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 248027
+- Units: 108
+- Low-income units: 108
+- Units reported: 107
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 53
+- 3-bedroom units: 30
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2001125. AKA LEMOYNE GARDEN FAMILY 1.
+- Record status: Existing, unchanged

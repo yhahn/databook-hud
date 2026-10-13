@@ -1,0 +1,85 @@
+# Project: MARIAN MANOR (WIA20070165)
+
+- HUD ID: WIA20070165
+- HUD ID before: 
+- Project: MARIAN MANOR
+- Address: 600 MERRITT AVE
+- City: OSHKOSH
+- State: WI
+- ZIP: 54901
+- ZIP extension: 
+- State project ID: 5103
+- Latitude: 44.019801
+- Longitude: -88.529301
+- County FIPS: 55139
+- County from: 2020
+- Tract 2020: 55139000200
+- Tract 2010: 55139000200
+- Tract 2000: 55139000200
+- Tract 1990: 55139000200
+- Place 2020: 60500
+- Place 2010: 60500
+- Place 2000: 60500
+- Place 1990: 1930
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 750000
+- Units: 121
+- Low-income units: 3
+- Units reported: 121
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 363825
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

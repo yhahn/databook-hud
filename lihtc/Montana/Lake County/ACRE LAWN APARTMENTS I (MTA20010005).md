@@ -1,0 +1,85 @@
+# Project: ACRE LAWN APARTMENTS I (MTA20010005)
+
+- HUD ID: MTA20010005
+- HUD ID before: 
+- Project: ACRE LAWN APARTMENTS I
+- Address: 217 - 219 11TH AVE NW
+- City: RONAN
+- State: MT
+- ZIP: 59864
+- ZIP extension: 0000
+- State project ID: 00110
+- Latitude: 47.531615
+- Longitude: -114.114645
+- County FIPS: 30047
+- County from: 2020
+- Tract 2020: 30047940500
+- Tract 2010: 30047940500
+- Tract 2000: 30047940500
+- Tract 1990: 30047995400
+- Place 2020: 64150
+- Place 2010: 64150
+- Place 2000: 13900
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 70000
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 6
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 46
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

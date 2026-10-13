@@ -1,0 +1,85 @@
+# Project: TEXARKANA RAD HOUSING ALLIANCE (ARA20200008)
+
+- HUD ID: ARA20200008
+- HUD ID before: 
+- Project: TEXARKANA RAD HOUSING ALLIANCE
+- Address: VARIOUS ADDRESSES
+- City: TEXARKANA
+- State: AR
+- ZIP: 71854
+- ZIP extension: 
+- State project ID: 1111
+- Latitude: 33.424
+- Longitude: -94.018
+- County FIPS: 05091
+- County from: 2020
+- Tract 2020: 05091020600
+- Tract 2010: 05091020600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 68810
+- Place 2010: 68810
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 335
+- Low-income units: 335
+- Units reported: 335
+- Low-income reported: 335
+- Efficiencies: 18
+- 1-bedroom units: 62
+- 2-bedroom units: 135
+- 3-bedroom units: 105
+- 4-bedroom units: 15
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: LORENA APTS (TXA19890440)
+
+- HUD ID: TXA19890440
+- HUD ID before: 
+- Project: LORENA APTS
+- Address: 525 PROSPECT ST
+- City: EL PASO
+- State: TX
+- ZIP: 79902
+- ZIP extension: 
+- State project ID: TX6911
+- Latitude: 31.761284
+- Longitude: -106.4956
+- County FIPS: 48141
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48141001600
+- Tract 2000: 48141001600
+- Tract 1990: 48141001600
+- Place 2020: 
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 1340
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 20
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

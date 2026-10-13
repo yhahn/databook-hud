@@ -1,0 +1,85 @@
+# Project: WOODROW WILSON PHASE III (NJA20149020)
+
+- HUD ID: NJA20149020
+- HUD ID before: 
+- Project: WOODROW WILSON PHASE III
+- Address: 157 GARRETT DR
+- City: LONG BRANCH
+- State: NJ
+- ZIP: 07740
+- ZIP extension: 5587
+- State project ID: 02870
+- Latitude: 40.291794
+- Longitude: -73.997323
+- County FIPS: 34025
+- County from: 2020
+- Tract 2020: 34025805900
+- Tract 2010: 34025805900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 41310
+- Place 2010: 41310
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1046598
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 23
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

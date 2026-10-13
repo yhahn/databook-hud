@@ -1,0 +1,85 @@
+# Project: KILPATRICK RENAISSANCE (ILB20153002)
+
+- HUD ID: ILB20153002
+- HUD ID before: 
+- Project: KILPATRICK RENAISSANCE
+- Address: 4655 W. BERTEAU AVENUE
+- City: CHICAGO
+- State: IL
+- ZIP: 60641
+- ZIP extension: 2629
+- State project ID: IL-14-001
+- Latitude: 41.956381
+- Longitude: -87.745167
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031831700
+- Tract 2010: 17031831700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 98
+- Low-income units: 90
+- Units reported: 98
+- Low-income reported: 90
+- Efficiencies: 38
+- 1-bedroom units: 54
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

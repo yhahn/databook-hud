@@ -1,0 +1,85 @@
+# Project: KELLER COURT APTS (ALA19950082)
+
+- HUD ID: ALA19950082
+- HUD ID before: 
+- Project: KELLER COURT APTS
+- Address: 901 KELLER LN
+- City: TUSCUMBIA
+- State: AL
+- ZIP: 35674
+- ZIP extension: 
+- State project ID: AL-95-0087
+- Latitude: 34.744011
+- Longitude: -87.706043
+- County FIPS: 01033
+- County from: 2020
+- Tract 2020: 01033020500
+- Tract 2010: 01033020500
+- Tract 2000: 01033020500
+- Tract 1990: 01033020500
+- Place 2020: 77280
+- Place 2010: 77280
+- Place 2000: 77280
+- Place 1990: 1725
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 140550
+- Units: 105
+- Low-income units: 105
+- Units reported: 105
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 70
+- 2-bedroom units: 27
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 105
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1997095.
+- Record status: Existing, unchanged

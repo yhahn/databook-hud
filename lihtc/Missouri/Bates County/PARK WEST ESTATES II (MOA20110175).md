@@ -1,0 +1,85 @@
+# Project: PARK WEST ESTATES II (MOA20110175)
+
+- HUD ID: MOA20110175
+- HUD ID before: 
+- Project: PARK WEST ESTATES II
+- Address: 813 BIRCH ST
+- City: BUTLER
+- State: MO
+- ZIP: 64730
+- ZIP extension: 
+- State project ID: 10-046
+- Latitude: 38.246283
+- Longitude: -94.342464
+- County FIPS: 29013
+- County from: 2020
+- Tract 2020: 29013070300
+- Tract 2010: 29013070300
+- Tract 2000: 29013970300
+- Tract 1990: 29013970300
+- Place 2020: 10054
+- Place 2010: 10054
+- Place 2000: 10054
+- Place 1990: 0610
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 346081
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA2011541.
+- Record status: Existing, unchanged

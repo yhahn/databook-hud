@@ -1,0 +1,25 @@
+# Tax Credit Projects: Calhoun County, MS
+
+- Level: County
+- Postal code: MS
+- State FIPS: 28
+- County FIPS: 28013
+- Counties: 
+- Projects: 8
+- Units: 222
+- Low-income units: 221
+
+The low-income housing tax credit projects of Calhoun County, Mississippi, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [BRUCE HOUSING APTS (MSA19900119)](./Calhoun%20County/BRUCE%20HOUSING%20APTS%20%28MSA19900119%29.md) | MSA19900119 | BRUCE | 1990 | 40 | 40 |
+| [BRADFORD MANOR APTS (MSA19910025)](./Calhoun%20County/BRADFORD%20MANOR%20APTS%20%28MSA19910025%29.md) | MSA19910025 | BRUCE | 1991 | 24 | 24 |
+| [NORTH CALHOUN CITY APTS (MSA19910130)](./Calhoun%20County/NORTH%20CALHOUN%20CITY%20APTS%20%28MSA19910130%29.md) | MSA19910130 | CALHOUN CITY | 1991 | 18 | 18 |
+| [WEST CALHOUN CITY APTS (MSA19910170)](./Calhoun%20County/WEST%20CALHOUN%20CITY%20APTS%20%28MSA19910170%29.md) | MSA19910170 | CALHOUN CITY | 1991 | 28 | 28 |
+| [EDMONDSON MANOR (MSA19920045)](./Calhoun%20County/EDMONDSON%20MANOR%20%28MSA19920045%29.md) | MSA19920045 | CALHOUN CITY | 1992 | 24 | 24 |
+| [VARDAMAN MANOR (MSA19930078)](./Calhoun%20County/VARDAMAN%20MANOR%20%28MSA19930078%29.md) | MSA19930078 | VARDAMAN | 1993 | 24 | 24 |
+| [CALHOUN MANOR (MSA19950030)](./Calhoun%20County/CALHOUN%20MANOR%20%28MSA19950030%29.md) | MSA19950030 | CALHOUN CITY | 1995 | 32 | 32 |
+| [PARKER ESTATES (MSA20020020)](./Calhoun%20County/PARKER%20ESTATES%20%28MSA20020020%29.md) | MSA20020020 | VARDAMAN | 2002 | 32 | 31 |

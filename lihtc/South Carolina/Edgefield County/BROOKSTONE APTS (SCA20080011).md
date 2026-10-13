@@ -1,0 +1,85 @@
+# Project: BROOKSTONE APTS (SCA20080011)
+
+- HUD ID: SCA20080011
+- HUD ID before: 
+- Project: BROOKSTONE APTS
+- Address: 10 MURRAH RD EXT
+- City: NORTH AUGUSTA
+- State: SC
+- ZIP: 29860
+- ZIP extension: 
+- State project ID: SC-06-034
+- Latitude: 33.586284
+- Longitude: -81.948481
+- County FIPS: 45037
+- County from: 2020
+- Tract 2020: 45037970502
+- Tract 2010: 45037970502
+- Tract 2000: 45037970500
+- Tract 1990: 45037970500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 48900
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 453625
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 20
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA2008589, SCA2006125.
+- Record status: Existing, unchanged

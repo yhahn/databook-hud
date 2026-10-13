@@ -1,0 +1,85 @@
+# Project: OASIS SENIOR LIVING (ILA20060195)
+
+- HUD ID: ILA20060195
+- HUD ID before: 
+- Project: OASIS SENIOR LIVING
+- Address: 3833 W WASHINGTON BLVD
+- City: CHICAGO
+- State: IL
+- ZIP: 60624
+- ZIP extension: 
+- State project ID: 230505
+- Latitude: 41.881736
+- Longitude: -87.721507
+- County FIPS: 17031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17031260100
+- Tract 2000: 17031260100
+- Tract 1990: 17031260100
+- Place 2020: 
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 604567
+- Units: 217
+- Low-income units: 217
+- Units reported: 217
+- Low-income reported: 217
+- Efficiencies: 57
+- 1-bedroom units: 160
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: Yes
+- QOZF amount: 0
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA2006085. AKA GREEN CASTLE OF GARFIELD.
+- Record status: Existing, unchanged

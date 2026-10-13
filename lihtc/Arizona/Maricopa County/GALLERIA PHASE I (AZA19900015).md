@@ -1,0 +1,85 @@
+# Project: GALLERIA PHASE I (AZA19900015)
+
+- HUD ID: AZA19900015
+- HUD ID before: 
+- Project: GALLERIA PHASE I
+- Address: 10654 N 60TH AVE
+- City: GLENDALE
+- State: AZ
+- ZIP: 85304
+- ZIP extension: 
+- State project ID: TC-0051
+- Latitude: 33.583822
+- Longitude: -112.188812
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013104222
+- Tract 2010: 04013104222
+- Tract 2000: 04013104222
+- Tract 1990: 04013104222
+- Place 2020: 27820
+- Place 2010: 27820
+- Place 2000: 27820
+- Place 1990: 0140
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 123
+- Units reported: 184
+- Low-income reported: 123
+- Efficiencies: 0
+- 1-bedroom units: 67
+- 2-bedroom units: 117
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA1989025, AZA0000549, AZA0000155. AKA SHADOW CREEK PHASE I.
+- Record status: Existing, unchanged

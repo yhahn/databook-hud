@@ -1,0 +1,85 @@
+# Project: BROOKSIDE SENIOR APTS (CAA19990045)
+
+- HUD ID: CAA19990045
+- HUD ID before: 
+- Project: BROOKSIDE SENIOR APTS
+- Address: 738 MIKKELSEN DR
+- City: AUBURN
+- State: CA
+- ZIP: 95603
+- ZIP extension: 
+- State project ID: CA-98-005
+- Latitude: 38.910123
+- Longitude: -121.072065
+- County FIPS: 06061
+- County from: 2020
+- Tract 2020: 06061020300
+- Tract 2010: 06061020300
+- Tract 2000: 06061020300
+- Tract 1990: 06061020300
+- Place 2020: 03204
+- Place 2010: 03204
+- Place 2000: 03204
+- Place 1990: 0160
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 39779
+- Units: 48
+- Low-income units: 41
+- Units reported: 48
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARKVIEW TOWERS APTS (ILA00000114)
+
+- HUD ID: ILA00000114
+- HUD ID before: 
+- Project: PARKVIEW TOWERS APTS
+- Address: 5110 S KING DR
+- City: CHICAGO
+- State: IL
+- ZIP: 60615
+- ZIP extension: 
+- State project ID: 1041210
+- Latitude: 41.801699
+- Longitude: -87.616395
+- County FIPS: 17031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17031836100
+- Tract 2000: 17031400100
+- Tract 1990: 17031400100
+- Place 2020: 
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1010628
+- Units: 102
+- Low-income units: 102
+- Units reported: 102
+- Low-income reported: 102
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 34
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5712159
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

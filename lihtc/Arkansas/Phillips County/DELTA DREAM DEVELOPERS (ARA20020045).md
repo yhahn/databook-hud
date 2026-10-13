@@ -1,0 +1,85 @@
+# Project: DELTA DREAM DEVELOPERS (ARA20020045)
+
+- HUD ID: ARA20020045
+- HUD ID before: 
+- Project: DELTA DREAM DEVELOPERS
+- Address: 3 S BARINGO CT
+- City: WEST HELENA
+- State: AR
+- ZIP: 72390
+- ZIP extension: 
+- State project ID: AR-01-06
+- Latitude: 34.536982
+- Longitude: -90.654549
+- County FIPS: 05107
+- County from: 2020
+- Tract 2020: 05107480500
+- Tract 2010: 05107480500
+- Tract 2000: 05107980500
+- Tract 1990: 05107980500
+- Place 2020: 31190
+- Place 2010: 31190
+- Place 2000: 31180
+- Place 1990: 3000
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 224780
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHURCHMAN WOODS SENIOR APTS (INA19960040)
+
+- HUD ID: INA19960040
+- HUD ID before: 
+- Project: CHURCHMAN WOODS SENIOR APTS
+- Address: 5350 CHURCHMAN AVE
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46203
+- ZIP extension: 
+- State project ID: IN-94-05100
+- Latitude: 39.714315
+- Longitude: -86.076694
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097390102
+- Tract 2010: 18097390102
+- Tract 2000: 18097390100
+- Tract 1990: 18097390100
+- Place 2020: 04204
+- Place 2010: 04204
+- Place 2000: 04204
+- Place 1990: 1145
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 414135
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 58
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MADILL AFFORDABLE HOUSING (OKA20130010)
+
+- HUD ID: OKA20130010
+- HUD ID before: 
+- Project: MADILL AFFORDABLE HOUSING
+- Address: 604 DUNN DR
+- City: MADILL
+- State: OK
+- ZIP: 73446
+- ZIP extension: 
+- State project ID: 110718
+- Latitude: 34.087157
+- Longitude: -96.797401
+- County FIPS: 40095
+- County from: 2020
+- Tract 2020: 40095094700
+- Tract 2010: 40095094700
+- Tract 2000: 40095994700
+- Tract 1990: 40095994700
+- Place 2020: 45750
+- Place 2010: 45750
+- Place 2000: 45750
+- Place 1990: 1520
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 9045198
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 19
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

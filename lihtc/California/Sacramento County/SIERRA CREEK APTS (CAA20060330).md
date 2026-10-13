@@ -1,0 +1,85 @@
+# Project: SIERRA CREEK APTS (CAA20060330)
+
+- HUD ID: CAA20060330
+- HUD ID before: 
+- Project: SIERRA CREEK APTS
+- Address: 4500 ELVERTA RD
+- City: ANTELOPE
+- State: CA
+- ZIP: 95843
+- ZIP extension: 
+- State project ID: CA-04-800
+- Latitude: 38.712211
+- Longitude: -121.359774
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067007438
+- Tract 2010: 06067007433
+- Tract 2000: 06067007419
+- Tract 1990: 06067007410
+- Place 2020: 02210
+- Place 2010: 02210
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 631556
+- Units: 144
+- Low-income units: 143
+- Units reported: 144
+- Low-income reported: 143
+- Efficiencies: 0
+- 1-bedroom units: 104
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA ANTELOPE SENIOR APTS
+- Record status: Existing, unchanged

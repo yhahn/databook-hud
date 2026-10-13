@@ -1,0 +1,85 @@
+# Project: SCHOOL STREET GARDENS (NYA19940270)
+
+- HUD ID: NYA19940270
+- HUD ID before: 
+- Project: SCHOOL STREET GARDENS
+- Address: 27 ARTS BLVD
+- City: LIVINGSTON MANOR
+- State: NY
+- ZIP: 12758
+- ZIP extension: 
+- State project ID: 19940201
+- Latitude: 41.905732
+- Longitude: -74.827486
+- County FIPS: 36105
+- County from: 2020
+- Tract 2020: 36105950201
+- Tract 2010: 36105950200
+- Tract 2000: 36105950200
+- Tract 1990: 36105950200
+- Place 2020: 42928
+- Place 2010: 42928
+- Place 2000: 42928
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 39
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

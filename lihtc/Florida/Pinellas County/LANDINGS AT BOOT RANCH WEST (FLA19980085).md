@@ -1,0 +1,85 @@
+# Project: LANDINGS AT BOOT RANCH WEST (FLA19980085)
+
+- HUD ID: FLA19980085
+- HUD ID before: 
+- Project: LANDINGS AT BOOT RANCH WEST
+- Address: 205 KATHERINE BLVD
+- City: PALM HARBOR
+- State: FL
+- ZIP: 34684
+- ZIP extension: 
+- State project ID: 454
+- Latitude: 28.067339
+- Longitude: -82.711466
+- County FIPS: 12103
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12103027314
+- Tract 2000: 12103027314
+- Tract 1990: 12103027305
+- Place 2020: 
+- Place 2010: 54350
+- Place 2000: 54350
+- Place 1990: 1663
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 232
+- Low-income units: 58
+- Units reported: 232
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 132
+- 3-bedroom units: 46
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

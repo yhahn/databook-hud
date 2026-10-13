@@ -1,0 +1,85 @@
+# Project: RESIDENCES AT EASTLAND (TXA20090025)
+
+- HUD ID: TXA20090025
+- HUD ID before: 
+- Project: RESIDENCES AT EASTLAND
+- Address: 5500 EASTLAND ST
+- City: FORT WORTH
+- State: TX
+- ZIP: 76119
+- ZIP extension: 
+- State project ID: TX4459
+- Latitude: 32.705588
+- Longitude: -97.237784
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439106202
+- Tract 2010: 48439106202
+- Tract 2000: 48439106202
+- Tract 1990: 48439106202
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1500
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 146
+- Low-income units: 140
+- Units reported: 146
+- Low-income reported: 140
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 82
+- 3-bedroom units: 58
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

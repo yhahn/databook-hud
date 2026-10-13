@@ -1,0 +1,85 @@
+# Project: CARDINAL TERRACE APTS (INA19950035)
+
+- HUD ID: INA19950035
+- HUD ID before: 
+- Project: CARDINAL TERRACE APTS
+- Address: 501 E CHICAGO AVE
+- City: EAST CHICAGO
+- State: IN
+- ZIP: 46312
+- ZIP extension: 
+- State project ID: IN-94-10500
+- Latitude: 41.629135
+- Longitude: -87.466132
+- County FIPS: 18089
+- County from: 2020
+- Tract 2020: 18089030300
+- Tract 2010: 18089030300
+- Tract 2000: 18089030300
+- Tract 1990: 18089030300
+- Place 2020: 19486
+- Place 2010: 19486
+- Place 2000: 19486
+- Place 1990: 0680
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 396964
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: QUIMBY APTS RENEWAL (ORA20100090)
+
+- HUD ID: ORA20100090
+- HUD ID before: 
+- Project: QUIMBY APTS RENEWAL
+- Address: 455 NE QUIMBY AVE
+- City: BEND
+- State: OR
+- ZIP: 97701
+- ZIP extension: 
+- State project ID: OR10-218
+- Latitude: 44.066463
+- Longitude: -121.299655
+- County FIPS: 41017
+- County from: 2020
+- Tract 2020: 41017001602
+- Tract 2010: 41017001600
+- Tract 2000: 41017991600
+- Tract 1990: 41017991600
+- Place 2020: 05800
+- Place 2010: 05800
+- Place 2000: 05800
+- Place 1990: 0100
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 441050
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

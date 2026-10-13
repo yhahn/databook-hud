@@ -1,0 +1,85 @@
+# Project: HALE MOENA OHANA (AKA KAPOLEI MIXED USE DEVELOPMENT PHASE II) (HIA20211001)
+
+- HUD ID: HIA20211001
+- HUD ID before: 
+- Project: HALE MOENA OHANA (AKA KAPOLEI MIXED USE DEVELOPMENT PHASE II)
+- Address: 1055 ALOHIKEA ST
+- City: KAPOLEI
+- State: HI
+- ZIP: 96707
+- ZIP extension: 
+- State project ID: HI-2017-010
+- Latitude: 21.3326
+- Longitude: -158.0799
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003011500
+- Tract 2010: 15003011500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 30300
+- Place 2010: 30300
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 2719924
+- Units: 143
+- Low-income units: 142
+- Units reported: 143
+- Low-income reported: 142
+- Efficiencies: 11
+- 1-bedroom units: 44
+- 2-bedroom units: 77
+- 3-bedroom units: 11
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

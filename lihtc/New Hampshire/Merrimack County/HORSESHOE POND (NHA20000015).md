@@ -1,0 +1,85 @@
+# Project: HORSESHOE POND (NHA20000015)
+
+- HUD ID: NHA20000015
+- HUD ID before: 
+- Project: HORSESHOE POND
+- Address: 26 COMMERCIAL ST
+- City: CONCORD
+- State: NH
+- ZIP: 03301
+- ZIP extension: 
+- State project ID: 81
+- Latitude: 43.217957
+- Longitude: -71.538942
+- County FIPS: 33013
+- County from: 2020
+- Tract 2020: 33013032400
+- Tract 2010: 33013032400
+- Tract 2000: 33013032400
+- Tract 1990: 33013032400
+- Place 2020: 14200
+- Place 2010: 14200
+- Place 2000: 14200
+- Place 1990: 0520
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 77
+- Low-income units: 73
+- Units reported: 77
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA HORSESHOE POND I & II
+- Record status: Existing, unchanged

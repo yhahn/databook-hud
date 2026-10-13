@@ -1,0 +1,85 @@
+# Project: BAY PARK ONE COMPANY (NYB20171009)
+
+- HUD ID: NYB20171009
+- HUD ID before: 
+- Project: BAY PARK ONE COMPANY
+- Address: 2750-2770 WEST 33RD ST
+- City: BROOKLYN
+- State: NY
+- ZIP: 11224
+- ZIP extension: 
+- State project ID: NY-15-2260
+- Latitude: 40.579655
+- Longitude: -74.000699
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047033000
+- Tract 2010: 36047033000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1445516
+- Units: 334
+- Low-income units: 294
+- Units reported: 334
+- Low-income reported: 294
+- Efficiencies: 19
+- 1-bedroom units: 45
+- 2-bedroom units: 132
+- 3-bedroom units: 105
+- 4-bedroom units: 31
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

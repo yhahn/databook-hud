@@ -1,0 +1,85 @@
+# Project: CLARE HOUSE INDEPENDENT APTS (WAA19990060)
+
+- HUD ID: WAA19990060
+- HUD ID before: 
+- Project: CLARE HOUSE INDEPENDENT APTS
+- Address: 4827 S PALOUSE HWY
+- City: SPOKANE
+- State: WA
+- ZIP: 99223
+- ZIP extension: 
+- State project ID: 97-33A
+- Latitude: 47.60975
+- Longitude: -117.36337
+- County FIPS: 53063
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53063004800
+- Tract 2000: 53063004800
+- Tract 1990: 53063004700
+- Place 2020: 
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 1220
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 162929
+- Units: 124
+- Low-income units: 93
+- Units reported: 124
+- Low-income reported: 93
+- Efficiencies: 14
+- 1-bedroom units: 102
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 27
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

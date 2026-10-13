@@ -1,0 +1,85 @@
+# Project: JEFFERSON STREET APARTMENTS (WIA20140015)
+
+- HUD ID: WIA20140015
+- HUD ID before: 
+- Project: JEFFERSON STREET APARTMENTS
+- Address: 123 JEFFERSON STREET
+- City: RIPON
+- State: WI
+- ZIP: 54971
+- ZIP extension: 
+- State project ID: 5939
+- Latitude: 43.847022
+- Longitude: -88.838954
+- County FIPS: 55039
+- County from: 2020
+- Tract 2020: 55039041600
+- Tract 2010: 55039041600
+- Tract 2000: 55039041600
+- Tract 1990: 55039041600
+- Place 2020: 68175
+- Place 2010: 68175
+- Place 2000: 68175
+- Place 1990: 2190
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 274955
+- Units: 24
+- Low-income units: 8
+- Units reported: 24
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 17
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 483000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

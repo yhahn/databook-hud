@@ -1,0 +1,85 @@
+# Project: EAGLE'S LANDING (FLA20000060)
+
+- HUD ID: FLA20000060
+- HUD ID before: 
+- Project: EAGLE'S LANDING
+- Address: 18800 NW 27TH AVE
+- City: MIAMI GARDENS
+- State: FL
+- ZIP: 33056
+- ZIP extension: 
+- State project ID: 245
+- Latitude: 25.951931
+- Longitude: -80.247377
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010023
+- Tract 2010: 12086010011
+- Tract 2000: 12086010002
+- Tract 1990: 12025010002
+- Place 2020: 45060
+- Place 2010: 45060
+- Place 2000: 10650
+- Place 1990: 0295
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 321
+- Low-income units: 321
+- Units reported: 321
+- Low-income reported: 321
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 137
+- 3-bedroom units: 112
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SYCAMORE PLACE (OHA20010206)
+
+- HUD ID: OHA20010206
+- HUD ID before: 
+- Project: SYCAMORE PLACE
+- Address: 31 TREMBLE AVE
+- City: CAMPBELL
+- State: OH
+- ZIP: 44405
+- ZIP extension: 
+- State project ID: 990023
+- Latitude: 41.073422
+- Longitude: -80.592452
+- County FIPS: 39099
+- County from: 2020
+- Tract 2020: 39099810300
+- Tract 2010: 39099810300
+- Tract 2000: 39099810300
+- Tract 1990: 39099810300
+- Place 2020: 11066
+- Place 2010: 11066
+- Place 2000: 11066
+- Place 1990: 0680
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 57
+- Low-income units: 57
+- Units reported: 57
+- Low-income reported: 57
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 57
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2001561.
+- Record status: Updated

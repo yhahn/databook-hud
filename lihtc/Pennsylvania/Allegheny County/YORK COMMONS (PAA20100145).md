@@ -1,0 +1,85 @@
+# Project: YORK COMMONS (PAA20100145)
+
+- HUD ID: PAA20100145
+- HUD ID before: 
+- Project: YORK COMMONS
+- Address: 4003 PENN AVE
+- City: PITTSBURGH
+- State: PA
+- ZIP: 15224
+- ZIP extension: 
+- State project ID: TC20080302
+- Latitude: 40.46551
+- Longitude: -79.957171
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003090200
+- Tract 2010: 42003090200
+- Tract 2000: 42003090200
+- Tract 1990: 42003090200
+- Place 2020: 61000
+- Place 2010: 61000
+- Place 2000: 61000
+- Place 1990: 7234
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1434499
+- Units: 102
+- Low-income units: 97
+- Units reported: 102
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 102
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 92
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

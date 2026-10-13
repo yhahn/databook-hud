@@ -1,0 +1,85 @@
+# Project: LINDEN GREENE-BEAUMONT PLACE (OHA20070080)
+
+- HUD ID: OHA20070080
+- HUD ID before: 
+- Project: LINDEN GREENE-BEAUMONT PLACE
+- Address: 3 HUNTERS POINTE DR
+- City: JAMESTOWN
+- State: OH
+- ZIP: 45335
+- ZIP extension: 
+- State project ID: 05-0076
+- Latitude: 39.650756
+- Longitude: -83.762655
+- County FIPS: 39057
+- County from: 2020
+- Tract 2020: 39057270100
+- Tract 2010: 39057270100
+- Tract 2000: 39057270100
+- Tract 1990: 39057270100
+- Place 2020: 38374
+- Place 2010: 38374
+- Place 2000: 38374
+- Place 1990: 1950
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 499999
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 25
+- 4-bedroom units: 19
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

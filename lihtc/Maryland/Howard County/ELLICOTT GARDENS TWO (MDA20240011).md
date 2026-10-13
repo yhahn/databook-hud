@@ -1,0 +1,85 @@
+# Project: ELLICOTT GARDENS TWO (MDA20240011)
+
+- HUD ID: MDA20240011
+- HUD ID before: 
+- Project: ELLICOTT GARDENS TWO
+- Address: 5511 AND 5513 WATERLOO ROAD
+- City: ELLICOTT CITY
+- State: MD
+- ZIP: 21043
+- ZIP extension: 
+- State project ID: MD-21-02001
+- Latitude: 39.2594
+- Longitude: -76.8088
+- County FIPS: 24027
+- County from: 2020
+- Tract 2020: 24027602800
+- Tract 2010: 24027602800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26000
+- Place 2010: 26000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 1500000
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 28
+- 2-bedroom units: 20
+- 3-bedroom units: 22
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

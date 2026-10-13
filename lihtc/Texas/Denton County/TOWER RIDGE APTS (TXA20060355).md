@@ -1,0 +1,85 @@
+# Project: TOWER RIDGE APTS (TXA20060355)
+
+- HUD ID: TXA20060355
+- HUD ID before: 
+- Project: TOWER RIDGE APTS
+- Address: 2560 TOWER RIDGE DR
+- City: CORINTH
+- State: TX
+- ZIP: 76210
+- ZIP extension: 
+- State project ID: TX4194
+- Latitude: 33.14116
+- Longitude: -97.056074
+- County FIPS: 48121
+- County from: 2020
+- Tract 2020: 48121021419
+- Tract 2010: 48121021409
+- Tract 2000: 48121021402
+- Tract 1990: 48121021402
+- Place 2020: 16696
+- Place 2010: 16696
+- Place 2000: 16696
+- Place 1990: 0977
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 665729
+- Units: 224
+- Low-income units: 224
+- Units reported: 224
+- Low-income reported: 224
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 96
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

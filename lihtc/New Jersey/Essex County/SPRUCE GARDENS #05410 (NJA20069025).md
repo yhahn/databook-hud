@@ -1,0 +1,85 @@
+# Project: SPRUCE GARDENS #05410 (NJA20069025)
+
+- HUD ID: NJA20069025
+- HUD ID before: 
+- Project: SPRUCE GARDENS #05410
+- Address: 147 CHARLTON ST
+- City: NEWARK
+- State: NJ
+- ZIP: 07103
+- ZIP extension: 2911
+- State project ID: 01469-1
+- Latitude: 40.729113
+- Longitude: -74.189688
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013006200
+- Tract 2010: 34013006200
+- Tract 2000: 34013006600
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1348194
+- Units: 105
+- Low-income units: 105
+- Units reported: 105
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 36
+- 3-bedroom units: 51
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

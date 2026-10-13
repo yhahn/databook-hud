@@ -1,0 +1,85 @@
+# Project: WOODBURY PARK (VAA20170047)
+
+- HUD ID: VAA20170047
+- HUD ID before: 
+- Project: WOODBURY PARK
+- Address: 2399 11TH STREET N
+- City: ARLINGTON
+- State: VA
+- ZIP: 22201
+- ZIP extension: 
+- State project ID: 9415
+- Latitude: 38.886081
+- Longitude: -77.087047
+- County FIPS: 51013
+- County from: 2020
+- Tract 2020: 51013101804
+- Tract 2010: 51013101802
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1387709
+- Units: 364
+- Low-income units: 204
+- Units reported: 364
+- Low-income reported: 204
+- Efficiencies: 3
+- 1-bedroom units: 187
+- 2-bedroom units: 130
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

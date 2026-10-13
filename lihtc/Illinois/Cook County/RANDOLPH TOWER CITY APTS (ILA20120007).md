@@ -1,0 +1,85 @@
+# Project: RANDOLPH TOWER CITY APTS (ILA20120007)
+
+- HUD ID: ILA20120007
+- HUD ID before: 
+- Project: RANDOLPH TOWER CITY APTS
+- Address: 188 W RANDOLPH ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60601
+- ZIP extension: 
+- State project ID: 1016410
+- Latitude: 41.884637
+- Longitude: -87.633631
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031839100
+- Tract 2010: 17031839100
+- Tract 2000: 17031320200
+- Tract 1990: 17031320200
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 10000000
+- Units: 312
+- Low-income units: 63
+- Units reported: 312
+- Low-income reported: 63
+- Efficiencies: 61
+- 1-bedroom units: 207
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 10000000
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

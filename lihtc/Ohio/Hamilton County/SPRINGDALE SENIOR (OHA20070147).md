@@ -1,0 +1,85 @@
+# Project: SPRINGDALE SENIOR (OHA20070147)
+
+- HUD ID: OHA20070147
+- HUD ID before: 
+- Project: SPRINGDALE SENIOR
+- Address: 11111 SPRINGFIELD PIKE
+- City: SPRINGDALE
+- State: OH
+- ZIP: 45246
+- ZIP extension: 
+- State project ID: 050016
+- Latitude: 39.275344
+- Longitude: -84.479748
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061021501
+- Tract 2010: 39061021501
+- Tract 2000: 39061021501
+- Tract 1990: 39061021501
+- Place 2020: 74104
+- Place 2010: 74104
+- Place 2000: 27706
+- Place 1990: 4097
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 98
+- Units reported: 100
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007769.
+- Record status: Existing, unchanged

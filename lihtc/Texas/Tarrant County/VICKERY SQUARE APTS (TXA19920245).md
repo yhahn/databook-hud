@@ -1,0 +1,85 @@
+# Project: VICKERY SQUARE APTS (TXA19920245)
+
+- HUD ID: TXA19920245
+- HUD ID before: 
+- Project: VICKERY SQUARE APTS
+- Address: 3015 W PIPELINE RD
+- City: EULESS
+- State: TX
+- ZIP: 76040
+- ZIP extension: 
+- State project ID: TX2321
+- Latitude: 32.821899
+- Longitude: -97.133691
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439113511
+- Tract 2010: 48439113511
+- Tract 2000: 48439113511
+- Tract 1990: 48439113505
+- Place 2020: 24768
+- Place 2010: 24768
+- Place 2000: 07132
+- Place 1990: 1380
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CROSSROADS APTS HAWAII.
+- Record status: Existing, unchanged

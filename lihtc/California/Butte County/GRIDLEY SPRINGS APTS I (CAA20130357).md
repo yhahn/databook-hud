@@ -1,0 +1,85 @@
+# Project: GRIDLEY SPRINGS APTS I (CAA20130357)
+
+- HUD ID: CAA20130357
+- HUD ID before: 
+- Project: GRIDLEY SPRINGS APTS I
+- Address: 210 FORD AVE
+- City: GRIDLEY
+- State: CA
+- ZIP: 95948
+- ZIP extension: 
+- State project ID: CA-12-839
+- Latitude: 39.369672
+- Longitude: -121.69151
+- County FIPS: 06007
+- County from: 2020
+- Tract 2020: 06007003502
+- Tract 2010: 06007003502
+- Tract 2000: 06007003500
+- Tract 1990: 06007003500
+- Place 2020: 31260
+- Place 2010: 31260
+- Place 2000: 31260
+- Place 1990: 1170
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 117467
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 18
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: Yes
+- HOME amount: 2080000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1989135, CAA0000730.
+- Record status: Existing, unchanged

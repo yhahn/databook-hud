@@ -1,0 +1,85 @@
+# Project: CEDAR RIDGE APTS OF BING (OKA00000095)
+
+- HUD ID: OKA00000095
+- HUD ID before: 
+- Project: CEDAR RIDGE APTS OF BING
+- Address: 407 W LOCUST ST
+- City: BINGER
+- State: OK
+- ZIP: 
+- ZIP extension: 
+- State project ID: OK-91-24
+- Latitude: 35.310017
+- Longitude: -98.347889
+- County FIPS: 40015
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 40015161600
+- Tract 2000: 40015961600
+- Tract 1990: 40015961600
+- Place 2020: 
+- Place 2010: 06200
+- Place 2000: 06200
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

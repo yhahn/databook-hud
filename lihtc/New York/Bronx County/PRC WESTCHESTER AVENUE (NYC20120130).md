@@ -1,0 +1,85 @@
+# Project: PRC WESTCHESTER AVENUE (NYC20120130)
+
+- HUD ID: NYC20120130
+- HUD ID before: 
+- Project: PRC WESTCHESTER AVENUE
+- Address: 985 SIMPSON ST
+- City: BRONX
+- State: NY
+- ZIP: 10459
+- ZIP extension: 
+- State project ID: 1202034
+- Latitude: 40.822287
+- Longitude: -73.893107
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005015900
+- Tract 2010: 36005015900
+- Tract 2000: 36005012702
+- Tract 1990: 36005012702
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 2109432
+- Units: 409
+- Low-income units: 407
+- Units reported: 409
+- Low-income reported: 407
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 246
+- 3-bedroom units: 111
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1089595
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

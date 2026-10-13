@@ -1,0 +1,85 @@
+# Project: TIMBER RIDGE II (MSA19900030)
+
+- HUD ID: MSA19900030
+- HUD ID before: 
+- Project: TIMBER RIDGE II
+- Address: 211 LLEWELLYN AVE
+- City: MCCOMB
+- State: MS
+- ZIP: 39648
+- ZIP extension: 
+- State project ID: 
+- Latitude: 31.249599
+- Longitude: -90.476014
+- County FIPS: 28113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 28113950400
+- Tract 2000: 28113950400
+- Tract 1990: 28113950400
+- Place 2020: 
+- Place 2010: 43280
+- Place 2000: 43280
+- Place 1990: 0730
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA0000685.
+- Record status: Existing, unchanged

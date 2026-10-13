@@ -1,0 +1,85 @@
+# Project: WESTGATE GARDEN APTS (OHA20030286)
+
+- HUD ID: OHA20030286
+- HUD ID before: 
+- Project: WESTGATE GARDEN APTS
+- Address: 3005 LEAVITT RD
+- City: LORAIN
+- State: OH
+- ZIP: 44052
+- ZIP extension: 
+- State project ID: 030110
+- Latitude: 41.444576
+- Longitude: -82.202202
+- County FIPS: 39093
+- County from: 2020
+- Tract 2020: 39093022800
+- Tract 2010: 39093022800
+- Tract 2000: 39093022800
+- Tract 1990: 39093022800
+- Place 2020: 44856
+- Place 2010: 44856
+- Place 2000: 44856
+- Place 1990: 2285
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 48414
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003605, OHA2005141.
+- Record status: Existing, unchanged

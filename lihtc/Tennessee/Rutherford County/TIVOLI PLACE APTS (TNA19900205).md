@@ -1,0 +1,85 @@
+# Project: TIVOLI PLACE APTS (TNA19900205)
+
+- HUD ID: TNA19900205
+- HUD ID before: 
+- Project: TIVOLI PLACE APTS
+- Address: 325 WARRIOR DR
+- City: MURFREESBORO
+- State: TN
+- ZIP: 37128
+- ZIP extension: 
+- State project ID: TN-89-065
+- Latitude: 35.806997
+- Longitude: -86.402784
+- County FIPS: 47149
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47149041800
+- Tract 2000: 47149041800
+- Tract 1990: 47149041800
+- Place 2020: 
+- Place 2010: 51560
+- Place 2000: 51560
+- Place 1990: 1010
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 368704
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 61
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GOLDEN BAMBOO VILLAGE III (TXA20120824)
+
+- HUD ID: TXA20120824
+- HUD ID before: 
+- Project: GOLDEN BAMBOO VILLAGE III
+- Address: 6628 SYNOTT RD
+- City: HOUSTON
+- State: TX
+- ZIP: 77083
+- ZIP extension: 
+- State project ID: TX4748
+- Latitude: 29.704658
+- Longitude: -95.61506
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201452602
+- Tract 2010: 48201452600
+- Tract 2000: 48201452600
+- Tract 1990: 48201043712
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 130
+- Low-income units: 130
+- Units reported: 130
+- Low-income reported: 130
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000709. AKA LAFAYETTE NEIGHBORHOOD HOUSING SERVICES INC.
+- Record status: Existing, unchanged

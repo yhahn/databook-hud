@@ -1,0 +1,85 @@
+# Project: EVERGREEN PLACE (SCA20070050)
+
+- HUD ID: SCA20070050
+- HUD ID before: 
+- Project: EVERGREEN PLACE
+- Address: 102 ROOSEVELT AVE
+- City: GREENVILLE
+- State: SC
+- ZIP: 29607
+- ZIP extension: 
+- State project ID: SC-50-601
+- Latitude: 34.838452
+- Longitude: -82.381403
+- County FIPS: 45045
+- County from: 2020
+- Tract 2020: 45045004300
+- Tract 2010: 45045004300
+- Tract 2000: 45045000300
+- Tract 1990: 45045000300
+- Place 2020: 30850
+- Place 2010: 30850
+- Place 2000: 30850
+- Place 1990: 0565
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 539353
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 102
+- 3-bedroom units: 38
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

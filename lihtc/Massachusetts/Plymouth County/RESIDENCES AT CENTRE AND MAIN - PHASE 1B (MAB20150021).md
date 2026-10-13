@@ -1,0 +1,85 @@
+# Project: RESIDENCES AT CENTRE AND MAIN - PHASE 1B (MAB20150021)
+
+- HUD ID: MAB20150021
+- HUD ID before: 
+- Project: RESIDENCES AT CENTRE AND MAIN - PHASE 1B
+- Address: CENTRE STREET
+- City: BROCKTON
+- State: MA
+- ZIP: 02301
+- ZIP extension: 
+- State project ID: 3153
+- Latitude: 42.08
+- Longitude: -71.0384
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023510700
+- Tract 2010: 25023510700
+- Tract 2000: 25023510700
+- Tract 1990: 
+- Place 2020: 09000
+- Place 2010: 09000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 723712
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

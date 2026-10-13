@@ -1,0 +1,85 @@
+# Project: ATLAS BUILDING (OHA20030251)
+
+- HUD ID: OHA20030251
+- HUD ID before: 
+- Project: ATLAS BUILDING
+- Address: 5644 BROADWAY AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44127
+- ZIP extension: 
+- State project ID: 01-0062
+- Latitude: 41.466769
+- Longitude: -81.651241
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035197900
+- Tract 2010: 39035110801
+- Tract 2000: 39035110800
+- Tract 1990: 39035110800
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 171071
+- Units: 15
+- Low-income units: 12
+- Units reported: 15
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2003245.
+- Record status: Existing, unchanged

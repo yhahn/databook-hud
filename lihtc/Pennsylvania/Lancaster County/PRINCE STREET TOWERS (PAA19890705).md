@@ -1,0 +1,85 @@
+# Project: PRINCE STREET TOWERS (PAA19890705)
+
+- HUD ID: PAA19890705
+- HUD ID before: 
+- Project: PRINCE STREET TOWERS
+- Address: 335 N PRINCE ST
+- City: LANCASTER
+- State: PA
+- ZIP: 17603
+- ZIP extension: 
+- State project ID: TC1989-0166
+- Latitude: 40.043203
+- Longitude: -76.308511
+- County FIPS: 42071
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42071000400
+- Tract 2000: 42071000400
+- Tract 1990: 42071000400
+- Place 2020: 
+- Place 2010: 41216
+- Place 2000: 41216
+- Place 1990: 5624
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 357570
+- Units: 201
+- Low-income units: 200
+- Units reported: 201
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 200
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COLONY RUN TOWNHOUSES (NYA19950135)
+
+- HUD ID: NYA19950135
+- HUD ID before: 
+- Project: COLONY RUN TOWNHOUSES
+- Address: 89 COLONY RUN
+- City: ATTICA
+- State: NY
+- ZIP: 14011
+- ZIP extension: 
+- State project ID: 19920618
+- Latitude: 42.874025
+- Longitude: -78.276474
+- County FIPS: 36037
+- County from: 2020
+- Tract 2020: 36037951400
+- Tract 2010: 36037951400
+- Tract 2000: 36037951400
+- Tract 1990: 36037951400
+- Place 2020: 03001
+- Place 2010: 03001
+- Place 2000: 01154
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 12
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PENNYWISE PATH (MAA20070025)
+
+- HUD ID: MAA20070025
+- HUD ID before: 
+- Project: PENNYWISE PATH
+- Address: 2 WHITE OAK CIR
+- City: EDGARTOWN
+- State: MA
+- ZIP: 02539
+- ZIP extension: 
+- State project ID: MA-07-80022
+- Latitude: 41.399262
+- Longitude: -70.559606
+- County FIPS: 25007
+- County from: 2020
+- Tract 2020: 25007200300
+- Tract 2010: 25007200300
+- Tract 2000: 25007200300
+- Tract 1990: 25007200300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 442468
+- Units: 60
+- Low-income units: 45
+- Units reported: 60
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 33
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 45
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 750000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000499. AKA MORGAN WOODS.
+- Record status: Existing, unchanged

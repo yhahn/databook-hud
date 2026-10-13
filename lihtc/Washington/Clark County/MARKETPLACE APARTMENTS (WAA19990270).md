@@ -1,0 +1,85 @@
+# Project: MARKETPLACE APARTMENTS (WAA19990270)
+
+- HUD ID: WAA19990270
+- HUD ID before: 
+- Project: MARKETPLACE APARTMENTS
+- Address: 2900 GENERAL ANDERSON ROAD
+- City: VANCOUVER
+- State: WA
+- ZIP: 98661
+- ZIP extension: 
+- State project ID: 96-61A
+- Latitude: 45.641701
+- Longitude: -122.621635
+- County FIPS: 53011
+- County from: 2020
+- Tract 2020: 53011041600
+- Tract 2010: 53011041600
+- Tract 2000: 53011041600
+- Tract 1990: 53011041600
+- Place 2020: 74060
+- Place 2010: 74060
+- Place 2000: 46125
+- Place 1990: 1350
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 363860
+- Units: 173
+- Low-income units: 171
+- Units reported: 173
+- Low-income reported: 171
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 95
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA1998125.
+- Record status: Updated

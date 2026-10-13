@@ -1,0 +1,85 @@
+# Project: EDGEWOOD PARK (OHA20090060)
+
+- HUD ID: OHA20090060
+- HUD ID before: 
+- Project: EDGEWOOD PARK
+- Address: 3215 E 55TH ST
+- City: CLEVELAND
+- State: OH
+- ZIP: 44127
+- ZIP extension: 
+- State project ID: 070015
+- Latitude: 41.471156
+- Longitude: -81.651138
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035198000
+- Tract 2010: 39035114900
+- Tract 2000: 39035114900
+- Tract 1990: 39035114900
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 78870
+- Units: 71
+- Low-income units: 63
+- Units reported: 71
+- Low-income reported: 63
+- Efficiencies: 71
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 750000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

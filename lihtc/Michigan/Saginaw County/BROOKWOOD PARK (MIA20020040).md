@@ -1,0 +1,85 @@
+# Project: BROOKWOOD PARK (MIA20020040)
+
+- HUD ID: MIA20020040
+- HUD ID before: 
+- Project: BROOKWOOD PARK
+- Address: 1 BROOKWOOD LN S
+- City: SAGINAW
+- State: MI
+- ZIP: 48601
+- ZIP extension: 
+- State project ID: MI-1699
+- Latitude: 43.400379
+- Longitude: -83.91795
+- County FIPS: 26145
+- County from: 2020
+- Tract 2020: 26145000900
+- Tract 2010: 26145000900
+- Tract 2000: 26145000900
+- Tract 1990: 26145000900
+- Place 2020: 70520
+- Place 2010: 70520
+- Place 2000: 70520
+- Place 1990: 2370
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 36
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: Sale under qualified contract
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MOUNTAIN VIEW APTS (NMA00000220)
+
+- HUD ID: NMA00000220
+- HUD ID before: 
+- Project: MOUNTAIN VIEW APTS
+- Address: 2000 HOPEWELL ST
+- City: SANTA FE
+- State: NM
+- ZIP: 87505
+- ZIP extension: 
+- State project ID: 002-1989
+- Latitude: 35.660985
+- Longitude: -105.972701
+- County FIPS: 35049
+- County from: 2020
+- Tract 2020: 35049001002
+- Tract 2010: 35049001002
+- Tract 2000: 35049001002
+- Tract 1990: 35049001002
+- Place 2020: 70500
+- Place 2010: 70500
+- Place 2000: 70500
+- Place 1990: 0360
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 279
+- Low-income units: 279
+- Units reported: 279
+- Low-income reported: 279
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

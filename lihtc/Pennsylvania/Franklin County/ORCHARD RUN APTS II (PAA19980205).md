@@ -1,0 +1,85 @@
+# Project: ORCHARD RUN APTS II (PAA19980205)
+
+- HUD ID: PAA19980205
+- HUD ID before: 
+- Project: ORCHARD RUN APTS II
+- Address: 200 APPLE BLOSSOM WAY
+- City: CHAMBERSBURG
+- State: PA
+- ZIP: 17201
+- ZIP extension: 
+- State project ID: TC1996-0083
+- Latitude: 39.919887
+- Longitude: -77.649709
+- County FIPS: 42055
+- County from: 2020
+- Tract 2020: 42055010800
+- Tract 2010: 42055010800
+- Tract 2000: 42055010800
+- Tract 1990: 42055010800
+- Place 2020: 12536
+- Place 2010: 12536
+- Place 2000: 12536
+- Place 1990: 1745
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 195217
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1322000
+- CDBG: Yes
+- CDBG amount: 7000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

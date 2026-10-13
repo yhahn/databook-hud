@@ -1,0 +1,85 @@
+# Project: SUMMERFIELD PARK (IAA20010075)
+
+- HUD ID: IAA20010075
+- HUD ID before: 
+- Project: SUMMERFIELD PARK
+- Address: 2300 SUNNER AVE
+- City: SPIRIT LAKE
+- State: IA
+- ZIP: 51360
+- ZIP extension: 
+- State project ID: 00-18
+- Latitude: 43.418345
+- Longitude: -95.118086
+- County FIPS: 19059
+- County from: 2020
+- Tract 2020: 19059450502
+- Tract 2010: 19059450500
+- Tract 2000: 19059950500
+- Tract 1990: 19059950500
+- Place 2020: 74415
+- Place 2010: 74415
+- Place 2000: 59655
+- Place 1990: 4035
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 136502
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2001080.
+- Record status: Existing, unchanged

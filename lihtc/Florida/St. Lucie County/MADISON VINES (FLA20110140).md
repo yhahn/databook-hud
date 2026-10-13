@@ -1,0 +1,85 @@
+# Project: MADISON VINES (FLA20110140)
+
+- HUD ID: FLA20110140
+- HUD ID before: 
+- Project: MADISON VINES
+- Address: 4262 OLEANDER AVE
+- City: FORT PIERCE
+- State: FL
+- ZIP: 
+- ZIP extension: 
+- State project ID: 2384
+- Latitude: 
+- Longitude: 
+- County FIPS: 12111
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 12111001402
+- Tract 1990: 12111001402
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 24300
+- Place 1990: 0668
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 36
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 10837500
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011521.
+- Record status: Existing, unchanged

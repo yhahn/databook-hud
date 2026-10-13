@@ -1,0 +1,85 @@
+# Project: WHISPERING SANDS TOWNHOMES (TXA20040410)
+
+- HUD ID: TXA20040410
+- HUD ID before: 
+- Project: WHISPERING SANDS TOWNHOMES
+- Address: 500 OMAR ST
+- City: ANTHONY
+- State: TX
+- ZIP: 79821
+- ZIP extension: 
+- State project ID: TX3374
+- Latitude: 31.997876
+- Longitude: -106.608316
+- County FIPS: 48141
+- County from: 2020
+- Tract 2020: 48141010203
+- Tract 2010: 48141010203
+- Tract 2000: 48141010208
+- Tract 1990: 48141010205
+- Place 2020: 03432
+- Place 2010: 03432
+- Place 2000: 03432
+- Place 1990: 0720
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CROYDON MANOR APTS (MDA19970030)
+
+- HUD ID: MDA19970030
+- HUD ID before: 
+- Project: CROYDON MANOR APTS
+- Address: 100 CROYDON CT
+- City: SILVER SPRING
+- State: MD
+- ZIP: 20901
+- ZIP extension: 
+- State project ID: MD96-17
+- Latitude: 39.004097
+- Longitude: -77.011872
+- County FIPS: 24031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24031702302
+- Tract 2000: 24031702302
+- Tract 1990: 24031702302
+- Place 2020: 
+- Place 2010: 72450
+- Place 2000: 72450
+- Place 1990: 0900
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 97
+- Low-income units: 97
+- Units reported: 97
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 39
+- 2-bedroom units: 57
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

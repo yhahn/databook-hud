@@ -1,0 +1,85 @@
+# Project: SUNSET HEIGHTS APTS (CAA20070590)
+
+- HUD ID: CAA20070590
+- HUD ID before: 
+- Project: SUNSET HEIGHTS APTS
+- Address: 6230 HAVEN AVE
+- City: RANCHO CUCAMONGA
+- State: CA
+- ZIP: 91737
+- ZIP extension: 
+- State project ID: CA-05-884
+- Latitude: 34.141028
+- Longitude: -117.576158
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071002018
+- Tract 2010: 06071002018
+- Tract 2000: 06071002002
+- Tract 1990: 06071002002
+- Place 2020: 59451
+- Place 2010: 59451
+- Place 2000: 59451
+- Place 1990: 2278
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 482676
+- Units: 117
+- Low-income units: 116
+- Units reported: 117
+- Low-income reported: 116
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 86
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

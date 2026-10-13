@@ -1,0 +1,85 @@
+# Project: MAPLE RIDGE SENIOR APTS (MIA20010100)
+
+- HUD ID: MIA20010100
+- HUD ID before: 
+- Project: MAPLE RIDGE SENIOR APTS
+- Address: 110 N DETTMAN RD
+- City: JACKSON
+- State: MI
+- ZIP: 49202
+- ZIP extension: 
+- State project ID: MI-1986
+- Latitude: 42.25665
+- Longitude: -84.365156
+- County FIPS: 26075
+- County from: 2020
+- Tract 2020: 26075005900
+- Tract 2010: 26075005900
+- Tract 2000: 26075005900
+- Tract 1990: 26075005900
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 69
+- Low-income units: 68
+- Units reported: 69
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

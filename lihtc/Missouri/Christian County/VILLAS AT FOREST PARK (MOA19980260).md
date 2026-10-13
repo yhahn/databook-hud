@@ -1,0 +1,85 @@
+# Project: VILLAS AT FOREST PARK (MOA19980260)
+
+- HUD ID: MOA19980260
+- HUD ID before: 
+- Project: VILLAS AT FOREST PARK
+- Address: 840 S RED MAPLE CT
+- City: NIXA
+- State: MO
+- ZIP: 65714
+- ZIP extension: 
+- State project ID: 97-026
+- Latitude: 37.027524
+- Longitude: -93.314164
+- County FIPS: 29043
+- County from: 2020
+- Tract 2020: 29043020205
+- Tract 2010: 29043020205
+- Tract 2000: 29043020205
+- Tract 1990: 29043020200
+- Place 2020: 52616
+- Place 2010: 52616
+- Place 2000: 52616
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA1998255.
+- Record status: Existing, unchanged

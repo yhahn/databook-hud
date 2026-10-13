@@ -1,0 +1,85 @@
+# Project: PANOLA SQUARE (TXA19900235)
+
+- HUD ID: TXA19900235
+- HUD ID before: 
+- Project: PANOLA SQUARE
+- Address: 700 DIXIE LAKE RD
+- City: CARTHAGE
+- State: TX
+- ZIP: 75633
+- ZIP extension: 
+- State project ID: TX6617
+- Latitude: 32.145516
+- Longitude: -94.355894
+- County FIPS: 48365
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48365950400
+- Tract 2000: 48365950400
+- Tract 1990: 48365950400
+- Place 2020: 
+- Place 2010: 13108
+- Place 2000: 13108
+- Place 1990: 0745
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

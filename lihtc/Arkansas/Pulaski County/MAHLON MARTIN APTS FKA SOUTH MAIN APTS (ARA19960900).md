@@ -1,0 +1,85 @@
+# Project: MAHLON MARTIN APTS FKA SOUTH MAIN APTS (ARA19960900)
+
+- HUD ID: ARA19960900
+- HUD ID before: 
+- Project: MAHLON MARTIN APTS FKA SOUTH MAIN APTS
+- Address: 1923 MAIN ST
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72206
+- ZIP extension: 
+- State project ID: AR-94-15-001
+- Latitude: 34.730402
+- Longitude: -92.273456
+- County FIPS: 05119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05119004700
+- Tract 2000: 05119000600
+- Tract 1990: 05119000600
+- Place 2020: 
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 198179
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 1
+- 1-bedroom units: 9
+- 2-bedroom units: 30
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1997075, ARA1996659, ARA1996051. FKA SOUTH MAIN APTS
+- Record status: Existing, unchanged

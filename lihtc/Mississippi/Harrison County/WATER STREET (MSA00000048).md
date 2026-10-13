@@ -1,0 +1,85 @@
+# Project: WATER STREET (MSA00000048)
+
+- HUD ID: MSA00000048
+- HUD ID before: 
+- Project: WATER STREET
+- Address: 634 WATER ST
+- City: BILOXI
+- State: MS
+- ZIP: 39530
+- ZIP extension: 
+- State project ID: F217443735
+- Latitude: 30.394671
+- Longitude: -88.883048
+- County FIPS: 28047
+- County from: 2020
+- Tract 2020: 28047003600
+- Tract 2010: 28047003600
+- Tract 2000: 28047000200
+- Tract 1990: 28047000200
+- Place 2020: 06220
+- Place 2010: 06220
+- Place 2000: 06220
+- Place 1990: 0110
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RAINBOW TERRACE (OHA20020137)
+
+- HUD ID: OHA20020137
+- HUD ID before: 
+- Project: RAINBOW TERRACE
+- Address: 7310 CARSON AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44104
+- ZIP extension: 
+- State project ID: 01-0105
+- Latitude: 41.474569
+- Longitude: -81.636338
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035114800
+- Tract 2010: 39035114300
+- Tract 2000: 39035114300
+- Tract 1990: 39035114300
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 2399991
+- Units: 484
+- Low-income units: 484
+- Units reported: 484
+- Low-income reported: 484
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 306
+- 3-bedroom units: 178
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2002568, OHA2003208.
+- Record status: Existing, unchanged

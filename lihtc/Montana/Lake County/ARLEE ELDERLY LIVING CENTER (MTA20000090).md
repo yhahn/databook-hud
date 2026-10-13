@@ -1,0 +1,85 @@
+# Project: ARLEE ELDERLY LIVING CENTER (MTA20000090)
+
+- HUD ID: MTA20000090
+- HUD ID before: 
+- Project: ARLEE ELDERLY LIVING CENTER
+- Address: 107 LUMPRY ROAD
+- City: ARLEE
+- State: MT
+- ZIP: 59821
+- ZIP extension: 0000
+- State project ID: 99020
+- Latitude: 47.152807
+- Longitude: -114.078065
+- County FIPS: 30047
+- County from: 2020
+- Tract 2020: 30047940700
+- Tract 2010: 30047940700
+- Tract 2000: 30047940700
+- Tract 1990: 30047995600
+- Place 2020: 02425
+- Place 2010: 02425
+- Place 2000: 02425
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 49999
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 45
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

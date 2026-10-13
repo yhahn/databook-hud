@@ -1,0 +1,85 @@
+# Project: HERITAGE PLACE SENIOR LIVING (MOA19980095)
+
+- HUD ID: MOA19980095
+- HUD ID before: 
+- Project: HERITAGE PLACE SENIOR LIVING
+- Address: 10701 ST COSMAS LN
+- City: ST ANN
+- State: MO
+- ZIP: 63074
+- ZIP extension: 
+- State project ID: 97034
+- Latitude: 38.726706
+- Longitude: -90.390097
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189214800
+- Tract 2010: 29189214800
+- Tract 2000: 29189214800
+- Tract 1990: 29189214800
+- Place 2020: 63956
+- Place 2010: 63956
+- Place 2000: 08398
+- Place 1990: 3825
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 113
+- Low-income units: 113
+- Units reported: 113
+- Low-income reported: 113
+- Efficiencies: 0
+- 1-bedroom units: 79
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

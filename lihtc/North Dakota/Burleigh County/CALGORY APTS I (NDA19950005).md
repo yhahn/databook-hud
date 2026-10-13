@@ -1,0 +1,85 @@
+# Project: CALGORY APTS I (NDA19950005)
+
+- HUD ID: NDA19950005
+- HUD ID before: 
+- Project: CALGORY APTS I
+- Address: 3310 N 19TH ST
+- City: BISMARCK
+- State: ND
+- ZIP: 58503
+- ZIP extension: 
+- State project ID: 93-03
+- Latitude: 46.842119
+- Longitude: -100.763942
+- County FIPS: 38015
+- County from: 2020
+- Tract 2020: 38015011001
+- Tract 2010: 38015011001
+- Tract 2000: 38015011000
+- Tract 1990: 38015011000
+- Place 2020: 07200
+- Place 2010: 07200
+- Place 2000: 07200
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 73455
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 17
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

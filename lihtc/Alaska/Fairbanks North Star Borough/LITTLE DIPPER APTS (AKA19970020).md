@@ -1,0 +1,85 @@
+# Project: LITTLE DIPPER APTS (AKA19970020)
+
+- HUD ID: AKA19970020
+- HUD ID before: 
+- Project: LITTLE DIPPER APTS
+- Address: 1910 TURNER ST
+- City: FAIRBANKS
+- State: AK
+- ZIP: 99701
+- ZIP extension: 
+- State project ID: AK-97-00033
+- Latitude: 64.829858
+- Longitude: -147.723667
+- County FIPS: 02090
+- County from: 2020
+- Tract 2020: 02090000300
+- Tract 2010: 02090000300
+- Tract 2000: 02090000300
+- Tract 1990: 02090000300
+- Place 2020: 24230
+- Place 2010: 24230
+- Place 2000: 24230
+- Place 1990: 1080
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

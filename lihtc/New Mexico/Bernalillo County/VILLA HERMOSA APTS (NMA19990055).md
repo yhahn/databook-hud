@@ -1,0 +1,85 @@
+# Project: VILLA HERMOSA APTS (NMA19990055)
+
+- HUD ID: NMA19990055
+- HUD ID before: 
+- Project: VILLA HERMOSA APTS
+- Address: 2600 AMERICARE CT NW
+- City: ALBUQUERQUE
+- State: NM
+- ZIP: 87120
+- ZIP extension: 
+- State project ID: 00225
+- Latitude: 35.11359
+- Longitude: -106.705452
+- County FIPS: 35001
+- County from: 2020
+- Tract 2020: 35001004749
+- Tract 2010: 35001004749
+- Tract 2000: 35001004730
+- Tract 1990: 35001004711
+- Place 2020: 02000
+- Place 2010: 02000
+- Place 2000: 02000
+- Place 1990: 0015
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 288
+- Low-income units: 288
+- Units reported: 288
+- Low-income reported: 288
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 216
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 509 ASHBOURNE ROAD (PAA00000004)
+
+- HUD ID: PAA00000004
+- HUD ID before: 
+- Project: 509 ASHBOURNE ROAD
+- Address: 1509 ASHBOURNE RD
+- City: ELKINS PARK
+- State: PA
+- ZIP: 19027
+- ZIP extension: 
+- State project ID: TC20090620
+- Latitude: 40.070389
+- Longitude: -75.131732
+- County FIPS: 42091
+- County from: 2020
+- Tract 2020: 42091202302
+- Tract 2010: 42091202302
+- Tract 2000: 42091202302
+- Tract 1990: 42091202302
+- Place 2020: 23128
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 85
+- Low-income units: 85
+- Units reported: 85
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

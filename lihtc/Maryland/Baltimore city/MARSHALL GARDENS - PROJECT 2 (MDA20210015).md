@@ -1,0 +1,85 @@
+# Project: MARSHALL GARDENS - PROJECT 2 (MDA20210015)
+
+- HUD ID: MDA20210015
+- HUD ID before: 
+- Project: MARSHALL GARDENS - PROJECT 2
+- Address: 500 BLOCKS OF LAUREN AND ROBERT STREETS
+- City: BALTIMORE
+- State: MD
+- ZIP: 21217
+- ZIP extension: 
+- State project ID: MD-20-20001-10
+- Latitude: 39.3068
+- Longitude: -76.6355
+- County FIPS: 24510
+- County from: 2020
+- Tract 2020: 24510140300
+- Tract 2010: 24510140300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 995778
+- Units: 62
+- Low-income units: 53
+- Units reported: 62
+- Low-income reported: 53
+- Efficiencies: 
+- 1-bedroom units: 7
+- 2-bedroom units: 21
+- 3-bedroom units: 23
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 42
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

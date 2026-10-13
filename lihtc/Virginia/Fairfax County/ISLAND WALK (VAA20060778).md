@@ -1,0 +1,85 @@
+# Project: ISLAND WALK (VAA20060778)
+
+- HUD ID: VAA20060778
+- HUD ID before: 
+- Project: ISLAND WALK
+- Address: 1701 TORREY PINES CT
+- City: RESTON
+- State: VA
+- ZIP: 20190
+- ZIP extension: 
+- State project ID: 9006
+- Latitude: 38.958599
+- Longitude: -77.341989
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059482201
+- Tract 2010: 51059482201
+- Tract 2000: 51059482200
+- Tract 1990: 51059482200
+- Place 2020: 66672
+- Place 2010: 66672
+- Place 2000: 66672
+- Place 1990: 1022
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 480003
+- Units: 102
+- Low-income units: 102
+- Units reported: 102
+- Low-income reported: 102
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 58
+- 3-bedroom units: 30
+- 4-bedroom units: 14
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2005098.
+- Record status: Existing, unchanged

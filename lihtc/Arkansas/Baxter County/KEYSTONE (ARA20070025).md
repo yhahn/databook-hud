@@ -1,0 +1,85 @@
+# Project: KEYSTONE (ARA20070025)
+
+- HUD ID: ARA20070025
+- HUD ID before: 
+- Project: KEYSTONE
+- Address: 777 HWY 201 N
+- City: MOUNTAIN HOME
+- State: AR
+- ZIP: 72653
+- ZIP extension: 
+- State project ID: AR-89-12-001
+- Latitude: 36.350213
+- Longitude: -92.38595
+- County FIPS: 05005
+- County from: 2020
+- Tract 2020: 05005950300
+- Tract 2010: 05005950300
+- Tract 2000: 05005950300
+- Tract 1990: 05005950300
+- Place 2020: 47390
+- Place 2010: 47390
+- Place 2000: 47390
+- Place 1990: 1405
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 183877
+- Units: 45
+- Low-income units: 44
+- Units reported: 45
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 45
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2007022, ARA2005766, ARA2005062, ARA1989060.
+- Record status: Existing, unchanged

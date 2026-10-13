@@ -1,0 +1,85 @@
+# Project: HEATHER LANE APTS (TXA20000060)
+
+- HUD ID: TXA20000060
+- HUD ID before: 
+- Project: HEATHER LANE APTS
+- Address: 100 HEATHER LN CIR
+- City: TERRELL
+- State: TX
+- ZIP: 75160
+- ZIP extension: 
+- State project ID: TX-99-05T
+- Latitude: 32.724848
+- Longitude: -96.314917
+- County FIPS: 48257
+- County from: 2020
+- Tract 2020: 48257050500
+- Tract 2010: 48257050500
+- Tract 2000: 48257050500
+- Tract 1990: 48257050500
+- Place 2020: 72284
+- Place 2010: 72284
+- Place 2000: 72284
+- Place 1990: 4215
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

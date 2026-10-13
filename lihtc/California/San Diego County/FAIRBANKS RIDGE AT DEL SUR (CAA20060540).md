@@ -1,0 +1,85 @@
+# Project: FAIRBANKS RIDGE AT DEL SUR (CAA20060540)
+
+- HUD ID: CAA20060540
+- HUD ID before: 
+- Project: FAIRBANKS RIDGE AT DEL SUR
+- Address: 16016 BABCOCK ST
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92127
+- ZIP extension: 
+- State project ID: CA-05-836
+- Latitude: 33.019385
+- Longitude: -117.132157
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073017065
+- Tract 2010: 06073017030
+- Tract 2000: 06073017030
+- Tract 1990: 06073017016
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 1930431
+- Units: 204
+- Low-income units: 202
+- Units reported: 204
+- Low-income reported: 202
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 72
+- 3-bedroom units: 84
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

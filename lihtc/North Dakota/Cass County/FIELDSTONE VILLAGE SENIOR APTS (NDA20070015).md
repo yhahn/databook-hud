@@ -1,0 +1,85 @@
+# Project: FIELDSTONE VILLAGE SENIOR APTS (NDA20070015)
+
+- HUD ID: NDA20070015
+- HUD ID before: 
+- Project: FIELDSTONE VILLAGE SENIOR APTS
+- Address: 4574 44TH AVE S
+- City: FARGO
+- State: ND
+- ZIP: 58104
+- ZIP extension: 
+- State project ID: TC0602
+- Latitude: 46.814785
+- Longitude: -96.863751
+- County FIPS: 38017
+- County from: 2020
+- Tract 2020: 38017040501
+- Tract 2010: 38017040500
+- Tract 2000: 38017040500
+- Tract 1990: 38017040500
+- Place 2020: 25700
+- Place 2010: 25700
+- Place 2000: 09320
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 281577
+- Units: 49
+- Low-income units: 48
+- Units reported: 49
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VNA SENIOR LIVING COMMUNITY (MAB20080105)
+
+- HUD ID: MAB20080105
+- HUD ID before: 
+- Project: VNA SENIOR LIVING COMMUNITY
+- Address: 405 ALEWIFE BROOK PKWY
+- City: SOMERVILLE
+- State: MA
+- ZIP: 02144
+- ZIP extension: 
+- State project ID: 1199
+- Latitude: 42.414259
+- Longitude: -71.130999
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017350702
+- Tract 2010: 25017350700
+- Tract 2000: 25017350700
+- Tract 1990: 25017350700
+- Place 2020: 62535
+- Place 2010: 62535
+- Place 2000: 62535
+- Place 1990: 3920
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 745000
+- Units: 99
+- Low-income units: 72
+- Units reported: 99
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 750000
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000676. AKA VISITING NURSE ASSISTED LIVING COMMUNITY.
+- Record status: Existing, unchanged

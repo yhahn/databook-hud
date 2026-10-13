@@ -1,0 +1,85 @@
+# Project: EDGEWOOD VILLAGE SOUTH (OHA20120050)
+
+- HUD ID: OHA20120050
+- HUD ID before: 
+- Project: EDGEWOOD VILLAGE SOUTH
+- Address: 840 RAYMOND ST
+- City: AKRON
+- State: OH
+- ZIP: 44307
+- ZIP extension: 
+- State project ID: 100059
+- Latitude: 41.071241
+- Longitude: -81.541368
+- County FIPS: 39153
+- County from: 2020
+- Tract 2020: 39153501800
+- Tract 2010: 39153501800
+- Tract 2000: 39153501800
+- Tract 1990: 39153501800
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0035
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 25
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA EDGEWOOD VILLAGE SOUTH LLC.
+- Record status: Existing, unchanged

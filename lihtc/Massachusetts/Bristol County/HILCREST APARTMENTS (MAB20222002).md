@@ -1,0 +1,85 @@
+# Project: HILCREST APARTMENTS (MAB20222002)
+
+- HUD ID: MAB20222002
+- HUD ID before: 
+- Project: HILCREST APARTMENTS
+- Address: 111-128 HILLSIDE AVENUE
+- City: ATTLEBORO
+- State: MA
+- ZIP: 02703
+- ZIP extension: 
+- State project ID: MA-25-26
+- Latitude: 41.942913
+- Longitude: -71.267244
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005631700
+- Tract 2010: 25005631700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02690
+- Place 2010: 02690
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 679362
+- Units: 100
+- Low-income units: 80
+- Units reported: 100
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 16
+- 2-bedroom units: 72
+- 3-bedroom units: 12
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

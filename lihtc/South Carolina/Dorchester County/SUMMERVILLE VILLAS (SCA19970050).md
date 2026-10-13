@@ -1,0 +1,85 @@
+# Project: SUMMERVILLE VILLAS (SCA19970050)
+
+- HUD ID: SCA19970050
+- HUD ID before: 
+- Project: SUMMERVILLE VILLAS
+- Address: 350 LUDEN DR
+- City: SUMMERVILLE
+- State: SC
+- ZIP: 29485
+- ZIP extension: 
+- State project ID: SC-96-013
+- Latitude: 32.990845
+- Longitude: -80.206189
+- County FIPS: 45035
+- County from: 2020
+- Tract 2020: 45035010505
+- Tract 2010: 45035010505
+- Tract 2000: 45035010502
+- Tract 1990: 45035010500
+- Place 2020: 70270
+- Place 2010: 70270
+- Place 2000: 70270
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 55372
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

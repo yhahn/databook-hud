@@ -1,0 +1,85 @@
+# Project: GRANITE TERRACE LLC (NYC20080816)
+
+- HUD ID: NYC20080816
+- HUD ID before: 
+- Project: GRANITE TERRACE LLC
+- Address: 520 CONCORD AVENUE
+- City: BRONX
+- State: NY
+- ZIP: 10455
+- ZIP extension: 
+- State project ID: 20-5545649
+- Latitude: 40.812413
+- Longitude: -73.908172
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005003500
+- Tract 2010: 36005003500
+- Tract 2000: 36005003500
+- Tract 1990: 36005003500
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 748034
+- Units: 77
+- Low-income units: 76
+- Units reported: 77
+- Low-income reported: 76
+- Efficiencies: 26
+- 1-bedroom units: 10
+- 2-bedroom units: 41
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

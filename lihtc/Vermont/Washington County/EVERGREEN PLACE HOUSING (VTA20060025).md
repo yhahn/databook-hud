@@ -1,0 +1,85 @@
+# Project: EVERGREEN PLACE HOUSING (VTA20060025)
+
+- HUD ID: VTA20060025
+- HUD ID before: 
+- Project: EVERGREEN PLACE HOUSING
+- Address: 5308 MAIN ST
+- City: WAITSFIELD
+- State: VT
+- ZIP: 05673
+- ZIP extension: 
+- State project ID: 0294
+- Latitude: 44.182507
+- Longitude: -72.839306
+- County FIPS: 50023
+- County from: 2020
+- Tract 2020: 50023955700
+- Tract 2010: 50023955700
+- Tract 2000: 50023955700
+- Tract 1990: 50023955700
+- Place 2020: 75250
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 121893
+- Units: 18
+- Low-income units: 17
+- Units reported: 18
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 375000
+- CDBG: Yes
+- CDBG amount: 397000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

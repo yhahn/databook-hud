@@ -1,0 +1,85 @@
+# Project: JENNING MILLS APARTMENTS (ARA20050758)
+
+- HUD ID: ARA20050758
+- HUD ID before: 
+- Project: JENNING MILLS APARTMENTS
+- Address: 62 E 7TH ST
+- City: FAYETTEVILLE
+- State: AR
+- ZIP: 72701
+- ZIP extension: 
+- State project ID: AR-03-37
+- Latitude: 36.0556
+- Longitude: -94.159148
+- County FIPS: 05143
+- County from: 2020
+- Tract 2020: 05143011104
+- Tract 2010: 05143011101
+- Tract 2000: 05143011101
+- Tract 1990: 05143011101
+- Place 2020: 23290
+- Place 2010: 23290
+- Place 2000: 23290
+- Place 1990: 0670
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 81411
+- Units: 14
+- Low-income units: 11
+- Units reported: 14
+- Low-income reported: 11
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2005060, ARA2005057.
+- Record status: Existing, unchanged

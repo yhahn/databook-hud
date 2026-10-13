@@ -1,0 +1,85 @@
+# Project: PARKSIDE TOWNHOMES (MNC19929002)
+
+- HUD ID: MNC19929002
+- HUD ID before: 
+- Project: PARKSIDE TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: ROSEMOUNT
+- State: MN
+- ZIP: 55068
+- ZIP extension: 
+- State project ID: D0250
+- Latitude: 44.7443
+- Longitude: -93.1029
+- County FIPS: 27037
+- County from: 2020
+- Tract 2020: 27037061009
+- Tract 2010: 27037061009
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 55726
+- Place 2010: 55726
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 140565
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 58706
+- CDBG: Yes
+- CDBG amount: 58706
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

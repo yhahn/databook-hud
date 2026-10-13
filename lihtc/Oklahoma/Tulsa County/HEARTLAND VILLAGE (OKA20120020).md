@@ -1,0 +1,85 @@
+# Project: HEARTLAND VILLAGE (OKA20120020)
+
+- HUD ID: OKA20120020
+- HUD ID before: 
+- Project: HEARTLAND VILLAGE
+- Address: 109 E 38TH ST
+- City: SAND SPRINGS
+- State: OK
+- ZIP: 74063
+- ZIP extension: 
+- State project ID: 100510
+- Latitude: 36.108433
+- Longitude: -96.115472
+- County FIPS: 40143
+- County from: 2020
+- Tract 2020: 40143006506
+- Tract 2010: 40143006506
+- Tract 2000: 40143006506
+- Tract 1990: 40143006501
+- Place 2020: 65300
+- Place 2010: 65300
+- Place 2000: 65300
+- Place 1990: 2125
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 597520
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

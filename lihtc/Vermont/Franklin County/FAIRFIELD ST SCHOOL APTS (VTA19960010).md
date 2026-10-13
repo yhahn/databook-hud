@@ -1,0 +1,85 @@
+# Project: FAIRFIELD ST SCHOOL APTS (VTA19960010)
+
+- HUD ID: VTA19960010
+- HUD ID before: 
+- Project: FAIRFIELD ST SCHOOL APTS
+- Address: 72 FAIRFIELD ST
+- City: ST ALBANS
+- State: VT
+- ZIP: 05478
+- ZIP extension: 
+- State project ID: 0059
+- Latitude: 44.80858
+- Longitude: -73.078429
+- County FIPS: 50011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 50011010800
+- Tract 2000: 50011010800
+- Tract 1990: 50011010800
+- Place 2020: 
+- Place 2010: 61675
+- Place 2000: 61675
+- Place 1990: 2240
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 90034
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 1
+- 1-bedroom units: 9
+- 2-bedroom units: 8
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ST ALBANS SPECIAL N.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ASHLEY HOUSE APARTMENTS, PHASE II (GAA20148100)
+
+- HUD ID: GAA20148100
+- HUD ID before: 
+- Project: ASHLEY HOUSE APARTMENTS, PHASE II
+- Address: 109 E HILL AVE
+- City: VALDOSTA
+- State: GA
+- ZIP: 31601
+- ZIP extension: 5656
+- State project ID: 2012-033
+- Latitude: 30.830656
+- Longitude: -83.278602
+- County FIPS: 13185
+- County from: 2020
+- Tract 2020: 13185011302
+- Tract 2010: 13185011302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 78800
+- Place 2010: 78800
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 17
+- 1-bedroom units: 37
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

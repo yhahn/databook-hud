@@ -1,0 +1,85 @@
+# Project: PP 38 SIXTH AVENUE TC RS, LLC (NYC20171047)
+
+- HUD ID: NYC20171047
+- HUD ID before: 
+- Project: PP 38 SIXTH AVENUE TC RS, LLC
+- Address: 38 SIXTH AVENUE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11217
+- ZIP extension: 
+- State project ID: 38-3968568
+- Latitude: 40.681666
+- Longitude: -73.974379
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047012902
+- Tract 2010: 36047012902
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1932990
+- Units: 303
+- Low-income units: 91
+- Units reported: 303
+- Low-income reported: 91
+- Efficiencies: 66
+- 1-bedroom units: 131
+- 2-bedroom units: 90
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

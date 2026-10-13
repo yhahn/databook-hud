@@ -1,0 +1,85 @@
+# Project: BUENA VISTA APTS (INA19870002)
+
+- HUD ID: INA19870002
+- HUD ID before: 
+- Project: BUENA VISTA APTS
+- Address: 1210 VISTA CT
+- City: EVANSVILLE
+- State: IN
+- ZIP: 47710
+- ZIP extension: 
+- State project ID: IN-87-01001
+- Latitude: 38.015494
+- Longitude: -87.580508
+- County FIPS: 18163
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18163003900
+- Tract 2000: 18163003900
+- Tract 1990: 18163003900
+- Place 2020: 
+- Place 2010: 22000
+- Place 2000: 22000
+- Place 1990: 0775
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 28
+- 3-bedroom units: 13
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0000860.
+- Record status: Existing, unchanged

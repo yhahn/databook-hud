@@ -1,0 +1,85 @@
+# Project: GATEWAY VILLAGE PHASE III (MDA20050065)
+
+- HUD ID: MDA20050065
+- HUD ID before: 
+- Project: GATEWAY VILLAGE PHASE III
+- Address: 610 SENIOR WAY
+- City: SALISBURY
+- State: MD
+- ZIP: 21801
+- ZIP extension: 
+- State project ID: MD-00-22
+- Latitude: 38.373275
+- Longitude: -75.615233
+- County FIPS: 24045
+- County from: 2020
+- Tract 2020: 24045010200
+- Tract 2010: 24045010200
+- Tract 2000: 24045010200
+- Tract 1990: 24045010200
+- Place 2020: 69925
+- Place 2010: 69925
+- Place 2000: 69925
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA2001037.
+- Record status: Existing, unchanged

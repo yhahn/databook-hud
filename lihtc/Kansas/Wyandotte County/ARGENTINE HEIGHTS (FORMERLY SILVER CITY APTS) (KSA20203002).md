@@ -1,0 +1,85 @@
+# Project: ARGENTINE HEIGHTS (FORMERLY SILVER CITY APTS) (KSA20203002)
+
+- HUD ID: KSA20203002
+- HUD ID before: 
+- Project: ARGENTINE HEIGHTS (FORMERLY SILVER CITY APTS)
+- Address: 2206 BIRCH DRIVE
+- City: KANSAS CITY
+- State: KS
+- ZIP: 66106
+- ZIP extension: 
+- State project ID: KS-94-60047
+- Latitude: 39.070381
+- Longitude: -94.654539
+- County FIPS: 20209
+- County from: 2020
+- Tract 2020: 20209042800
+- Tract 2010: 20209042800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 885109
+- Units: 160
+- Low-income units: 107
+- Units reported: 160
+- Low-income reported: 107
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 74
+- 3-bedroom units: 86
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 500000
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

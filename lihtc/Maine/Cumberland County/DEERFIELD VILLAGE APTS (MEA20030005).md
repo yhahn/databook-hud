@@ -1,0 +1,85 @@
+# Project: DEERFIELD VILLAGE APTS (MEA20030005)
+
+- HUD ID: MEA20030005
+- HUD ID before: 
+- Project: DEERFIELD VILLAGE APTS
+- Address: 246 POND RD
+- City: BRIDGTON
+- State: ME
+- ZIP: 04009
+- ZIP extension: 
+- State project ID: RLP1264
+- Latitude: 44.058091
+- Longitude: -70.689349
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005016002
+- Tract 2010: 23005016000
+- Tract 2000: 23005016000
+- Tract 1990: 23005016098
+- Place 2020: 07135
+- Place 2010: 07135
+- Place 2000: 07135
+- Place 1990: 0580
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

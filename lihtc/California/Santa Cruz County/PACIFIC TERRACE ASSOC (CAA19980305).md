@@ -1,0 +1,85 @@
+# Project: PACIFIC TERRACE ASSOC (CAA19980305)
+
+- HUD ID: CAA19980305
+- HUD ID before: 
+- Project: PACIFIC TERRACE ASSOC
+- Address: 131 LANDIS AVE
+- City: FREEDOM
+- State: CA
+- ZIP: 95019
+- ZIP extension: 
+- State project ID: CA-96-075
+- Latitude: 36.932432
+- Longitude: -121.774178
+- County FIPS: 06087
+- County from: 2020
+- Tract 2020: 06087110503
+- Tract 2010: 06087110502
+- Tract 2000: 06087110502
+- Tract 1990: 06087110500
+- Place 2020: 83668
+- Place 2010: 83668
+- Place 2000: 25576
+- Place 1990: 3055
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 297324
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

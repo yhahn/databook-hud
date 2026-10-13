@@ -1,0 +1,85 @@
+# Project: LAKEVIEW VILLAGE & HIGHVIEW APTS (NYA20060090)
+
+- HUD ID: NYA20060090
+- HUD ID before: 
+- Project: LAKEVIEW VILLAGE & HIGHVIEW APTS
+- Address: 125 LAKEVIEW VLG
+- City: SPRING VALLEY
+- State: NY
+- ZIP: 10977
+- ZIP extension: 
+- State project ID: 20050952
+- Latitude: 41.115589
+- Longitude: -74.041123
+- County FIPS: 36087
+- County from: 2020
+- Tract 2020: 36087011304
+- Tract 2010: 36087011301
+- Tract 2000: 36087011301
+- Tract 1990: 36087011300
+- Place 2020: 70420
+- Place 2010: 70420
+- Place 2000: 49407
+- Place 1990: 2407
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 754106
+- Units: 220
+- Low-income units: 220
+- Units reported: 220
+- Low-income reported: 220
+- Efficiencies: 16
+- 1-bedroom units: 151
+- 2-bedroom units: 32
+- 3-bedroom units: 13
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

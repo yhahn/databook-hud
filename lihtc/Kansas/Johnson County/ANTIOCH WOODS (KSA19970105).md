@@ -1,0 +1,85 @@
+# Project: ANTIOCH WOODS (KSA19970105)
+
+- HUD ID: KSA19970105
+- HUD ID before: 
+- Project: ANTIOCH WOODS
+- Address: 8710 W 106TH TER
+- City: OVERLAND PARK
+- State: KS
+- ZIP: 66212
+- ZIP extension: 
+- State project ID: 60011
+- Latitude: 38.936006
+- Longitude: -94.6871
+- County FIPS: 20091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20091051908
+- Tract 2000: 20091051905
+- Tract 1990: 20091051905
+- Place 2020: 
+- Place 2010: 53775
+- Place 2000: 53775
+- Place 1990: 2194
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 185146
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 950 MAIN STREET (RIA19940010)
+
+- HUD ID: RIA19940010
+- HUD ID before: 
+- Project: 950 MAIN STREET
+- Address: 950 MAIN ST
+- City: PAWTUCKET
+- State: RI
+- ZIP: 02860
+- ZIP extension: 
+- State project ID: RI00020
+- Latitude: 41.86563
+- Longitude: -71.398978
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007016400
+- Tract 2010: 44007016400
+- Tract 2000: 44007016400
+- Tract 1990: 44007016400
+- Place 2020: 54640
+- Place 2010: 54640
+- Place 2000: 54640
+- Place 1990: 0380
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 11112
+- Units: 24
+- Low-income units: 21
+- Units reported: 24
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

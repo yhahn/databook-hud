@@ -1,0 +1,85 @@
+# Project: CENTRAL SCHOOL SENIOR APTS (INA20070055)
+
+- HUD ID: INA20070055
+- HUD ID before: 
+- Project: CENTRAL SCHOOL SENIOR APTS
+- Address: 2120 CENTRAL AVE
+- City: ANDERSON
+- State: IN
+- ZIP: 46016
+- ZIP extension: 
+- State project ID: IN-06-00700
+- Latitude: 40.095088
+- Longitude: -85.676597
+- County FIPS: 18095
+- County from: 2020
+- Tract 2020: 18095000800
+- Tract 2010: 18095000800
+- Tract 2000: 18095000800
+- Tract 1990: 18095000800
+- Place 2020: 01468
+- Place 2010: 01468
+- Place 2000: 01468
+- Place 1990: 0065
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 28
+- Units reported: 35
+- Low-income reported: 28
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: MULTIFAMILY
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

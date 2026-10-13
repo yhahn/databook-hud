@@ -1,0 +1,27 @@
+# Tax Credit Projects: Montezuma County, CO
+
+- Level: County
+- Postal code: CO
+- State FIPS: 08
+- County FIPS: 08083
+- Counties: 
+- Projects: 10
+- Units: 358
+- Low-income units: 357
+
+The low-income housing tax credit projects of Montezuma County, Colorado, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [MENEFEE APTS (COA19930055)](./Montezuma%20County/MENEFEE%20APTS%20%28COA19930055%29.md) | COA19930055 | MANCOS | 1993 | 12 | 12 |
+| [CORTEZ PARK (COA19940076)](./Montezuma%20County/CORTEZ%20PARK%20%28COA19940076%29.md) | COA19940076 | CORTEZ | 1994 | 24 | 24 |
+| [MESA PARK APTS (COA19960090)](./Montezuma%20County/MESA%20PARK%20APTS%20%28COA19960090%29.md) | COA19960090 | CORTEZ | 1996 | 20 | 19 |
+| [OVERLOOK VILLAGE (COA19980176)](./Montezuma%20County/OVERLOOK%20VILLAGE%20%28COA19980176%29.md) | COA19980176 | MANCOS | 1998 | 30 | 30 |
+| [PRAIRIE MESA ESTATES (COA20010070)](./Montezuma%20County/PRAIRIE%20MESA%20ESTATES%20%28COA20010070%29.md) | COA20010070 | CORTEZ | 2001 | 30 | 30 |
+| [SLEEPING UTE APTS (COA20060115)](./Montezuma%20County/SLEEPING%20UTE%20APTS%20%28COA20060115%29.md) | COA20060115 | CORTEZ | 2006 | 60 | 60 |
+| [BRUBAKER PLACE (COA20110015)](./Montezuma%20County/BRUBAKER%20PLACE%20%28COA20110015%29.md) | COA20110015 | CORTEZ | 2011 | 48 | 48 |
+| [VALLEY SUN VILLAGE (COA20200035)](./Montezuma%20County/VALLEY%20SUN%20VILLAGE%20%28COA20200035%29.md) | COA20200035 | CORTEZ | 2020 | 50 | 50 |
+| [CALKINS COMMONS (COA20220009)](./Montezuma%20County/CALKINS%20COMMONS%20%28COA20220009%29.md) | COA20220009 | CORTEZ | 2022 | 42 | 42 |
+| [TAWI KAAN (COA20240034)](./Montezuma%20County/TAWI%20KAAN%20%28COA20240034%29.md) | COA20240034 | CORTEZ | 2024 | 42 | 42 |

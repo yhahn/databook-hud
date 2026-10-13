@@ -1,0 +1,85 @@
+# Project: AMHERST ACRES #2 (VAA19910015)
+
+- HUD ID: VAA19910015
+- HUD ID before: 
+- Project: AMHERST ACRES #2
+- Address: 606 WALNUT ST
+- City: AMHERST
+- State: VA
+- ZIP: 24521
+- ZIP extension: 
+- State project ID: 910
+- Latitude: 37.591359
+- Longitude: -79.036359
+- County FIPS: 51009
+- County from: 2020
+- Tract 2020: 51009010201
+- Tract 2010: 51009010200
+- Tract 2000: 51009010200
+- Tract 1990: 51009010200
+- Place 2020: 01672
+- Place 2010: 01672
+- Place 2000: 01672
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 72209
+- Units: 5
+- Low-income units: 5
+- Units reported: 5
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1988030.
+- Record status: Existing, unchanged

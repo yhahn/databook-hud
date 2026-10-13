@@ -1,0 +1,85 @@
+# Project: HIGHLAND HOUSE VILLAS (MOA19910330)
+
+- HUD ID: MOA19910330
+- HUD ID before: 
+- Project: HIGHLAND HOUSE VILLAS
+- Address: 2903 HIGHLAND HOUSE VILLAS CT
+- City: ARNOLD
+- State: MO
+- ZIP: 63010
+- ZIP extension: 
+- State project ID: 91-075
+- Latitude: 38.416554
+- Longitude: -90.405704
+- County FIPS: 29099
+- County from: 2020
+- Tract 2020: 29099700116
+- Tract 2010: 29099700116
+- Tract 2000: 29099700108
+- Tract 1990: 29099700106
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 01972
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

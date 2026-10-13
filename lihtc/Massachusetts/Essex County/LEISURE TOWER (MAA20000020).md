@@ -1,0 +1,85 @@
+# Project: LEISURE TOWER (MAA20000020)
+
+- HUD ID: MAA20000020
+- HUD ID before: 
+- Project: LEISURE TOWER
+- Address: 10 FARRAR ST
+- City: LYNN
+- State: MA
+- ZIP: 01902
+- ZIP extension: 
+- State project ID: 98-011
+- Latitude: 42.462186
+- Longitude: -70.940469
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009206900
+- Tract 2010: 25009206900
+- Tract 2000: 25009206900
+- Tract 1990: 25009206900
+- Place 2020: 37490
+- Place 2010: 37490
+- Place 2000: 37490
+- Place 1990: 2210
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 26
+- 1-bedroom units: 154
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000355.
+- Record status: Existing, unchanged

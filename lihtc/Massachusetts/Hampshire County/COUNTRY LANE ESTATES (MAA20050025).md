@@ -1,0 +1,85 @@
+# Project: COUNTRY LANE ESTATES (MAA20050025)
+
+- HUD ID: MAA20050025
+- HUD ID before: 
+- Project: COUNTRY LANE ESTATES
+- Address: 491 BRIDGE RD
+- City: FLORENCE
+- State: MA
+- ZIP: 01062
+- ZIP extension: 
+- State project ID: 71-185
+- Latitude: 42.341075
+- Longitude: -72.660952
+- County FIPS: 25015
+- County from: 2020
+- Tract 2020: 25015821602
+- Tract 2010: 25015821602
+- Tract 2000: 25015821602
+- Tract 1990: 25015821602
+- Place 2020: 46330
+- Place 2010: 46330
+- Place 2000: 46330
+- Place 1990: 2865
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 252
+- Low-income units: 222
+- Units reported: 252
+- Low-income reported: 222
+- Efficiencies: 0
+- 1-bedroom units: 90
+- 2-bedroom units: 127
+- 3-bedroom units: 25
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000421. AKA MEADOWBROOK APTS.
+- Record status: Existing, unchanged

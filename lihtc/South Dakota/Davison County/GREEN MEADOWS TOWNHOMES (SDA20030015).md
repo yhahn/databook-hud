@@ -1,0 +1,85 @@
+# Project: GREEN MEADOWS TOWNHOMES (SDA20030015)
+
+- HUD ID: SDA20030015
+- HUD ID before: 
+- Project: GREEN MEADOWS TOWNHOMES
+- Address: 1515 N DAVISON ST
+- City: MITCHELL
+- State: SD
+- ZIP: 57301
+- ZIP extension: 
+- State project ID: S/B 624
+- Latitude: 43.724283
+- Longitude: -98.019908
+- County FIPS: 46035
+- County from: 2020
+- Tract 2020: 46035962700
+- Tract 2010: 46035962700
+- Tract 2000: 46035962700
+- Tract 1990: 46035962700
+- Place 2020: 43100
+- Place 2010: 43100
+- Place 2000: 43100
+- Place 1990: 0930
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

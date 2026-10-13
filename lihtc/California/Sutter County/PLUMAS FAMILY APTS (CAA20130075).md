@@ -1,0 +1,85 @@
+# Project: PLUMAS FAMILY APTS (CAA20130075)
+
+- HUD ID: CAA20130075
+- HUD ID before: 
+- Project: PLUMAS FAMILY APTS
+- Address: 1240 PLUMAS ST
+- City: YUBA CITY
+- State: CA
+- ZIP: 95991
+- ZIP extension: 
+- State project ID: CA-11-173
+- Latitude: 39.14818
+- Longitude: -121.617794
+- County FIPS: 06101
+- County from: 2020
+- Tract 2020: 06101050102
+- Tract 2010: 06101050102
+- Tract 2000: 06101050102
+- Tract 1990: 06101050100
+- Place 2020: 86972
+- Place 2010: 86972
+- Place 2000: 86972
+- Place 1990: 3185
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 352595
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA YUBA CITY PACIFIC ASSOC.
+- Record status: Existing, unchanged

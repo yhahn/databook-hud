@@ -1,0 +1,85 @@
+# Project: BOWLING GREEN SENIOR COMMUNITY (OHA20080030)
+
+- HUD ID: OHA20080030
+- HUD ID before: 
+- Project: BOWLING GREEN SENIOR COMMUNITY
+- Address: 1009 CHAUNCEY LN
+- City: BOWLING GREEN
+- State: OH
+- ZIP: 43402
+- ZIP extension: 
+- State project ID: 60009
+- Latitude: 41.368261
+- Longitude: -83.637485
+- County FIPS: 39173
+- County from: 2020
+- Tract 2020: 39173021902
+- Tract 2010: 39173021902
+- Tract 2000: 39173021900
+- Tract 1990: 39173021900
+- Place 2020: 07972
+- Place 2010: 07972
+- Place 2000: 07972
+- Place 1990: 0480
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 64
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

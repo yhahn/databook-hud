@@ -1,0 +1,85 @@
+# Project: MILLER BRIGHTON APTS (ILA19890123)
+
+- HUD ID: ILA19890123
+- HUD ID before: 
+- Project: MILLER BRIGHTON APTS
+- Address: 303 BROWN ST
+- City: BRIGHTON
+- State: IL
+- ZIP: 
+- ZIP extension: 
+- State project ID: 189-89
+- Latitude: 39.038533
+- Longitude: -90.136154
+- County FIPS: 17117
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17117956600
+- Tract 2000: 17117956600
+- Tract 1990: 17117956600
+- Place 2020: 
+- Place 2010: 08264
+- Place 2000: 08264
+- Place 1990: 0625
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 26183
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 15
+- 1-bedroom units: 4
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000650.
+- Record status: Existing, unchanged

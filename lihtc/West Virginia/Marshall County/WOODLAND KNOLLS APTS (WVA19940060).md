@@ -1,0 +1,85 @@
+# Project: WOODLAND KNOLLS APTS (WVA19940060)
+
+- HUD ID: WVA19940060
+- HUD ID before: 
+- Project: WOODLAND KNOLLS APTS
+- Address: 248 WOODLAND KNLS
+- City: MOUNDSVILLE
+- State: WV
+- ZIP: 26041
+- ZIP extension: 
+- State project ID: WV-94-148
+- Latitude: 39.945581
+- Longitude: -80.662666
+- County FIPS: 54051
+- County from: 2020
+- Tract 2020: 54051021001
+- Tract 2010: 54051021000
+- Tract 2000: 54051020900
+- Tract 1990: 54051020900
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 56020
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NAZARETH INN I (LAA20090130)
+
+- HUD ID: LAA20090130
+- HUD ID before: 
+- Project: NAZARETH INN I
+- Address: 9630 HAYNES BOULEVARD
+- City: NEW ORLEANS
+- State: LA
+- ZIP: 70127
+- ZIP extension: 0000
+- State project ID: LA-06-153
+- Latitude: 30.047203
+- Longitude: -89.988091
+- County FIPS: 22071
+- County from: 2020
+- Tract 2020: 22071001754
+- Tract 2010: 22071001725
+- Tract 2000: 22071001725
+- Tract 1990: 22071001725
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 0956
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 838366
+- Units: 150
+- Low-income units: 149
+- Units reported: 150
+- Low-income reported: 149
+- Efficiencies: 6
+- 1-bedroom units: 141
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

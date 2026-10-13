@@ -1,0 +1,85 @@
+# Project: ANISE TURINA APTS (CAA20040681)
+
+- HUD ID: CAA20040681
+- HUD ID before: 
+- Project: ANISE TURINA APTS
+- Address: 10 LABREA WAY
+- City: SAN RAFAEL
+- State: CA
+- ZIP: 94903
+- ZIP extension: 
+- State project ID: CA-03-865
+- Latitude: 38.012829
+- Longitude: -122.513812
+- County FIPS: 06041
+- County from: 2020
+- Tract 2020: 06041106002
+- Tract 2010: 06041106002
+- Tract 2000: 06041106002
+- Tract 1990: 06041106002
+- Place 2020: 70154
+- Place 2010: 70154
+- Place 2000: 68364
+- Place 1990: 2617
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 90705
+- Units: 28
+- Low-income units: 27
+- Units reported: 28
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 8
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

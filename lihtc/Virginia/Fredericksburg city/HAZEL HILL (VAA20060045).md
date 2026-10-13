@@ -1,0 +1,85 @@
+# Project: HAZEL HILL (VAA20060045)
+
+- HUD ID: VAA20060045
+- HUD ID before: 
+- Project: HAZEL HILL
+- Address: 100 PRINCESS ANNE ST
+- City: FREDERICKSBURG
+- State: VA
+- ZIP: 22401
+- ZIP extension: 
+- State project ID: 9036
+- Latitude: 38.293734
+- Longitude: -77.454822
+- County FIPS: 51630
+- County from: 2020
+- Tract 2020: 51630000400
+- Tract 2010: 51630000400
+- Tract 2000: 51630000400
+- Tract 1990: 51630000498
+- Place 2020: 29744
+- Place 2010: 29744
+- Place 2000: 29744
+- Place 1990: 0505
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 556128
+- Units: 147
+- Low-income units: 145
+- Units reported: 147
+- Low-income reported: 145
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 89
+- 3-bedroom units: 30
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

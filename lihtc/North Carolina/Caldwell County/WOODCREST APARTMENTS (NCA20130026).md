@@ -1,0 +1,85 @@
+# Project: WOODCREST APARTMENTS (NCA20130026)
+
+- HUD ID: NCA20130026
+- HUD ID before: 
+- Project: WOODCREST APARTMENTS
+- Address: 226 WILSON STREET
+- City: LENOIR
+- State: NC
+- ZIP: 28645
+- ZIP extension: 
+- State project ID: 9133993
+- Latitude: 35.917789
+- Longitude: -81.529233
+- County FIPS: 37027
+- County from: 2020
+- Tract 2020: 37027030100
+- Tract 2010: 37027030100
+- Tract 2000: 37027030100
+- Tract 1990: 37027030100
+- Place 2020: 37760
+- Place 2010: 37760
+- Place 2000: 37760
+- Place 1990: 1435
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 517988
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 22
+- 3-bedroom units: 28
+- 4-bedroom units: 10
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

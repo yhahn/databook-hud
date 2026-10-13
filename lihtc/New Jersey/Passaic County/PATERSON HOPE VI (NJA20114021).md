@@ -1,0 +1,85 @@
+# Project: PATERSON HOPE VI (NJA20114021)
+
+- HUD ID: NJA20114021
+- HUD ID before: 
+- Project: PATERSON HOPE VI
+- Address: 685 E 34TH ST
+- City: PATERSON
+- State: NJ
+- ZIP: 07513
+- ZIP extension: 1805
+- State project ID: 2162-1
+- Latitude: 40.901224
+- Longitude: -74.144223
+- County FIPS: 34031
+- County from: 2020
+- Tract 2020: 34031183101
+- Tract 2010: 34031183101
+- Tract 2000: 34031183100
+- Tract 1990: 
+- Place 2020: 57000
+- Place 2010: 57000
+- Place 2000: 57000
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1350000
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 40
+- 3-bedroom units: 19
+- 4-bedroom units: 14
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

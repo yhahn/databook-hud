@@ -1,0 +1,85 @@
+# Project: PANA VILLA (FLA20110511)
+
+- HUD ID: FLA20110511
+- HUD ID before: 
+- Project: PANA VILLA
+- Address: 1802 FLOWER AVE
+- City: PANAMA CITY
+- State: FL
+- ZIP: 32405
+- ZIP extension: 
+- State project ID: 2056
+- Latitude: 30.180767
+- Longitude: -85.688741
+- County FIPS: 12005
+- County from: 2020
+- Tract 2020: 12005002200
+- Tract 2010: 12005002200
+- Tract 2000: 12005002200
+- Tract 1990: 12005002200
+- Place 2020: 54700
+- Place 2010: 54700
+- Place 2000: 54700
+- Place 1990: 1675
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 155900
+- CDBG: 
+- CDBG amount: 
+- TCAP: Yes
+- TCAP amount: 1706577
+- TCEP: Yes
+- TCEP amount: 7905595
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011190.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIVERWOOD PINES (MNA20079005)
+
+- HUD ID: MNA20079005
+- HUD ID before: 
+- Project: RIVERWOOD PINES
+- Address: 18795 RIVERWOOD DR
+- City: LITTLE FALLS
+- State: MN
+- ZIP: 56345
+- ZIP extension: 
+- State project ID: D3884
+- Latitude: 46.033258
+- Longitude: -94.33859
+- County FIPS: 27097
+- County from: 2020
+- Tract 2020: 27097780300
+- Tract 2010: 27097780300
+- Tract 2000: 27097980300
+- Tract 1990: 27097980300
+- Place 2020: 37556
+- Place 2010: 37556
+- Place 2000: 37556
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 241067
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 284981
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SINGLES
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

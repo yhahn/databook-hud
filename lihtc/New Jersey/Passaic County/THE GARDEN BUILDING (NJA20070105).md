@@ -1,0 +1,85 @@
+# Project: THE GARDEN BUILDING (NJA20070105)
+
+- HUD ID: NJA20070105
+- HUD ID before: 
+- Project: THE GARDEN BUILDING
+- Address: 29 HOWE AVENUE
+- City: PASSAIC
+- State: NJ
+- ZIP: 07055
+- ZIP extension: 
+- State project ID: 01432
+- Latitude: 40.861105
+- Longitude: -74.127026
+- County FIPS: 34031
+- County from: 2020
+- Tract 2020: 34031175804
+- Tract 2010: 34031175802
+- Tract 2000: 34031175800
+- Tract 1990: 34031175800
+- Place 2020: 56550
+- Place 2010: 56550
+- Place 2000: 56550
+- Place 1990: 3110
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 817702
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

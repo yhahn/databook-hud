@@ -1,0 +1,85 @@
+# Project: CHASE HOUSE (MDA20180006)
+
+- HUD ID: MDA20180006
+- HUD ID before: 
+- Project: CHASE HOUSE
+- Address: 1037 CATHEDRAL STREET
+- City: BALTIMORE
+- State: MD
+- ZIP: 21201
+- ZIP extension: 
+- State project ID: MD-16-04001
+- Latitude: 39.302058
+- Longitude: -76.617739
+- County FIPS: 24510
+- County from: 2020
+- Tract 2020: 24510110200
+- Tract 2010: 24510110200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 1120229
+- Units: 189
+- Low-income units: 184
+- Units reported: 189
+- Low-income reported: 184
+- Efficiencies: 
+- 1-bedroom units: 80
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

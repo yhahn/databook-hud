@@ -1,0 +1,85 @@
+# Project: VILLA ST ROSE OF KIRBY MANOR (OHA20050080)
+
+- HUD ID: OHA20050080
+- HUD ID before: 
+- Project: VILLA ST ROSE OF KIRBY MANOR
+- Address: 11500 DETROIT AVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44102
+- ZIP extension: 
+- State project ID: 030075
+- Latitude: 41.483256
+- Longitude: -81.766708
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035101300
+- Tract 2010: 39035101300
+- Tract 2000: 39035101300
+- Tract 1990: 39035101300
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1100000
+- Units: 147
+- Low-income units: 147
+- Units reported: 147
+- Low-income reported: 147
+- Efficiencies: 9
+- 1-bedroom units: 58
+- 2-bedroom units: 80
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA KIRBY MANOR SENIOR.
+- Record status: Existing, unchanged

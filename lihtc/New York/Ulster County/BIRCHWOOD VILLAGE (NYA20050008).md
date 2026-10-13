@@ -1,0 +1,85 @@
+# Project: BIRCHWOOD VILLAGE (NYA20050008)
+
+- HUD ID: NYA20050008
+- HUD ID before: 
+- Project: BIRCHWOOD VILLAGE
+- Address: 174 FLATBUSH AVE
+- City: KINGSTON
+- State: NY
+- ZIP: 12401
+- ZIP extension: 
+- State project ID: 20030393
+- Latitude: 41.9389
+- Longitude: -73.994844
+- County FIPS: 36111
+- County from: 2020
+- Tract 2020: 36111951800
+- Tract 2010: 36111951800
+- Tract 2000: 36111951800
+- Tract 1990: 36111951800
+- Place 2020: 39727
+- Place 2010: 39727
+- Place 2000: 39727
+- Place 1990: 1825
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 987136
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 44
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

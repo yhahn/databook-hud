@@ -1,0 +1,26 @@
+# Tax Credit Projects: Pontotoc County, OK
+
+- Level: County
+- Postal code: OK
+- State FIPS: 40
+- County FIPS: 40123
+- Counties: 
+- Projects: 9
+- Units: 356
+- Low-income units: 356
+
+The low-income housing tax credit projects of Pontotoc County, Oklahoma, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [ADA VILLAGE APTS (OKA19930005)](./Pontotoc%20County/ADA%20VILLAGE%20APTS%20%28OKA19930005%29.md) | OKA19930005 | ADA | 1993 | 44 | 44 |
+| [CONCEPT HOUSING OF ADA (OKA19940020)](./Pontotoc%20County/CONCEPT%20HOUSING%20OF%20ADA%20%28OKA19940020%29.md) | OKA19940020 | ADA | 1994 | 8 | 8 |
+| [COTTAGE LANE APTS (OKA19970030)](./Pontotoc%20County/COTTAGE%20LANE%20APTS%20%28OKA19970030%29.md) | OKA19970030 | ADA | 1997 | 44 | 44 |
+| [THE LINDEN'S OF ADA (OKA20030070)](./Pontotoc%20County/THE%20LINDEN%27S%20OF%20ADA%20%28OKA20030070%29.md) | OKA20030070 | ADA | 2003 | 42 | 42 |
+| [ADA MEADOWS (OKA20070005)](./Pontotoc%20County/ADA%20MEADOWS%20%28OKA20070005%29.md) | OKA20070005 | ADA | 2007 | 20 | 20 |
+| [ADA SQUARE (OKA20090005)](./Pontotoc%20County/ADA%20SQUARE%20%28OKA20090005%29.md) | OKA20090005 | ADA | 2009 | 56 | 56 |
+| [ADA HEIGHTS (OKA20110005)](./Pontotoc%20County/ADA%20HEIGHTS%20%28OKA20110005%29.md) | OKA20110005 | ADA | 2011 | 48 | 48 |
+| [COTTAGE LANE FAMILY RESIDENCES (OKA20160006)](./Pontotoc%20County/COTTAGE%20LANE%20FAMILY%20RESIDENCES%20%28OKA20160006%29.md) | OKA20160006 | ADA | 2016 | 52 | 52 |
+| [LEGACY SENIOR RESIDENCES - ADA (OKA20170007)](./Pontotoc%20County/LEGACY%20SENIOR%20RESIDENCES%20-%20ADA%20%28OKA20170007%29.md) | OKA20170007 | ADA | 2017 | 42 | 42 |

@@ -1,0 +1,85 @@
+# Project: BARRINGTON FARMS SUBDIVISION (ILA20120010)
+
+- HUD ID: ILA20120010
+- HUD ID before: 
+- Project: BARRINGTON FARMS SUBDIVISION
+- Address: 1707 W CHERRY ST
+- City: ROBINSON
+- State: IL
+- ZIP: 62454
+- ZIP extension: 
+- State project ID: 1039110
+- Latitude: 39.008694
+- Longitude: -87.758669
+- County FIPS: 17033
+- County from: 2020
+- Tract 2020: 17033880300
+- Tract 2010: 17033880300
+- Tract 2000: 17033980300
+- Tract 1990: 17033980300
+- Place 2020: 64707
+- Place 2010: 64707
+- Place 2000: 64707
+- Place 1990: 4930
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 5738207
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

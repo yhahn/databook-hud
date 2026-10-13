@@ -1,0 +1,85 @@
+# Project: PARC CREST AT POPLAR FOREST (VAA20090090)
+
+- HUD ID: VAA20090090
+- HUD ID before: 
+- Project: PARC CREST AT POPLAR FOREST
+- Address: 306 PARC CREST DR
+- City: FARMVILLE
+- State: VA
+- ZIP: 23901
+- ZIP extension: 
+- State project ID: 9239
+- Latitude: 37.264697
+- Longitude: -78.393283
+- County FIPS: 51147
+- County from: 2020
+- Tract 2020: 51147930102
+- Tract 2010: 51147930100
+- Tract 2000: 51147990100
+- Tract 1990: 51147990100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 27440
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 402905
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 44
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

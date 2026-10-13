@@ -1,0 +1,85 @@
+# Project: RESIDENCE AT OAKRIDGE (COA20020110)
+
+- HUD ID: COA20020110
+- HUD ID before: 
+- Project: RESIDENCE AT OAKRIDGE
+- Address: 4750 WHEATON DR
+- City: FORT COLLINS
+- State: CO
+- ZIP: 80525
+- ZIP extension: 
+- State project ID: 2001504
+- Latitude: 40.521168
+- Longitude: -105.05315
+- County FIPS: 08069
+- County from: 2020
+- Tract 2020: 08069001010
+- Tract 2010: 08069001010
+- Tract 2000: 08069001010
+- Tract 1990: 08069001006
+- Place 2020: 27425
+- Place 2010: 27425
+- Place 2000: 27425
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 22
+- Units reported: 44
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

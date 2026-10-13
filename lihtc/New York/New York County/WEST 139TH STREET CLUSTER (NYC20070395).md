@@ -1,0 +1,85 @@
+# Project: WEST 139TH STREET CLUSTER (NYC20070395)
+
+- HUD ID: NYC20070395
+- HUD ID before: 
+- Project: WEST 139TH STREET CLUSTER
+- Address: 106 W 134TH ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10030
+- ZIP extension: 
+- State project ID: NY0502083
+- Latitude: 40.81358
+- Longitude: -73.942144
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061022600
+- Tract 2010: 36061022600
+- Tract 2000: 36061022600
+- Tract 1990: 36061022600
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 221339
+- Units: 20
+- Low-income units: 13
+- Units reported: 20
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 10
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1195818
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2007405.
+- Record status: Existing, unchanged

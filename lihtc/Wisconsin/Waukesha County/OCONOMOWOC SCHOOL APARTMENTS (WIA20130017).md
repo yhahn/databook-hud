@@ -1,0 +1,85 @@
+# Project: OCONOMOWOC SCHOOL APARTMENTS (WIA20130017)
+
+- HUD ID: WIA20130017
+- HUD ID before: 
+- Project: OCONOMOWOC SCHOOL APARTMENTS
+- Address: 623 E SUMMIT AVENUE
+- City: OCONOMOWOC
+- State: WI
+- ZIP: 53066
+- ZIP extension: 
+- State project ID: 5823
+- Latitude: 43.041349
+- Longitude: -88.463147
+- County FIPS: 55133
+- County from: 2020
+- Tract 2020: 55133204100
+- Tract 2010: 55133204100
+- Tract 2000: 55133204300
+- Tract 1990: 55133204300
+- Place 2020: 78375
+- Place 2010: 99999
+- Place 2000: 59250
+- Place 1990: 1860
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 708803
+- Units: 55
+- Low-income units: 50
+- Units reported: 55
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 28
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 33
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 161000
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

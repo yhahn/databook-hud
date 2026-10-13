@@ -1,0 +1,85 @@
+# Project: OLD CHURCH INN APTS (LAA19940077)
+
+- HUD ID: LAA19940077
+- HUD ID before: 
+- Project: OLD CHURCH INN APTS
+- Address: 103 JEFFERSON ST
+- City: MANSFIELD
+- State: LA
+- ZIP: 71052
+- ZIP extension: 
+- State project ID: LA-93-063
+- Latitude: 32.037482
+- Longitude: -93.708972
+- County FIPS: 22031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22031950400
+- Tract 2000: 22031950400
+- Tract 1990: 22031950400
+- Place 2020: 
+- Place 2010: 48365
+- Place 2000: 48365
+- Place 1990: 0820
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 118532
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 19
+- 1-bedroom units: 17
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1994075.
+- Record status: Existing, unchanged

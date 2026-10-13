@@ -1,0 +1,85 @@
+# Project: CARRIER POINT II (VAA20222006)
+
+- HUD ID: VAA20222006
+- HUD ID before: 
+- Project: CARRIER POINT II
+- Address: 2700 JEFFERSON AVENUE
+- City: NEWPORT NEWS
+- State: VA
+- ZIP: 23607
+- ZIP extension: 
+- State project ID: 10027
+- Latitude: 36.982774
+- Longitude: -76.421685
+- County FIPS: 51700
+- County from: 2020
+- Tract 2020: 51700030400
+- Tract 2010: 51700030400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 518810
+- Units: 38
+- Low-income units: 34
+- Units reported: 38
+- Low-income reported: 34
+- Efficiencies: 
+- 1-bedroom units: 14
+- 2-bedroom units: 21
+- 3-bedroom units: 3
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 10000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

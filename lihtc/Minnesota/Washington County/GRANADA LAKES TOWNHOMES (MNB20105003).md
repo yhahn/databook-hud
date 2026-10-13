@@ -1,0 +1,85 @@
+# Project: GRANADA LAKES TOWNHOMES (MNB20105003)
+
+- HUD ID: MNB20105003
+- HUD ID before: 
+- Project: GRANADA LAKES TOWNHOMES
+- Address: 3915 GRANADA WAY NORTH
+- City: OAKDALE
+- State: MN
+- ZIP: 55128
+- ZIP extension: 3034
+- State project ID: D6241
+- Latitude: 45.004155
+- Longitude: -92.973072
+- County FIPS: 27163
+- County from: 2020
+- Tract 2020: 27163070906
+- Tract 2010: 27163070906
+- Tract 2000: 27163070906
+- Tract 1990: 
+- Place 2020: 47680
+- Place 2010: 47680
+- Place 2000: 47680
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 757304
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 68
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 1445624
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Single HoH and Families of Color
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

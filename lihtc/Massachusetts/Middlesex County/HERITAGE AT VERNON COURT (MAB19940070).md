@@ -1,0 +1,85 @@
+# Project: HERITAGE AT VERNON COURT (MAB19940070)
+
+- HUD ID: MAB19940070
+- HUD ID before: 
+- Project: HERITAGE AT VERNON COURT
+- Address: 430 CENTRE ST
+- City: NEWTON
+- State: MA
+- ZIP: 02458
+- ZIP extension: 
+- State project ID: 10364
+- Latitude: 42.355904
+- Longitude: -71.185046
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017373100
+- Tract 2010: 25017373100
+- Tract 2000: 25017373100
+- Tract 1990: 25017373100
+- Place 2020: 45560
+- Place 2010: 45560
+- Place 2000: 45560
+- Place 1990: 2830
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 
+- Low-income units: 
+- Units reported: 
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

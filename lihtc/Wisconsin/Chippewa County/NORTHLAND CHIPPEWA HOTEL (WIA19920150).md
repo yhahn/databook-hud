@@ -1,0 +1,85 @@
+# Project: NORTHLAND CHIPPEWA HOTEL (WIA19920150)
+
+- HUD ID: WIA19920150
+- HUD ID before: 
+- Project: NORTHLAND CHIPPEWA HOTEL
+- Address: 16 BAY ST
+- City: CHIPPEWA FALLS
+- State: WI
+- ZIP: 54729
+- ZIP extension: 
+- State project ID: 1312
+- Latitude: 44.93449
+- Longitude: -91.392695
+- County FIPS: 55017
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55017010300
+- Tract 2000: 55017010300
+- Tract 1990: 55017010300
+- Place 2020: 
+- Place 2010: 14575
+- Place 2000: 14575
+- Place 1990: 0510
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

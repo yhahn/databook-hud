@@ -1,0 +1,85 @@
+# Project: CENTENNIAL PLACE APARTMENTS, PHASE III (GAA19980170)
+
+- HUD ID: GAA19980170
+- HUD ID before: 
+- Project: CENTENNIAL PLACE APARTMENTS, PHASE III
+- Address: 526 CENTENNIAL OLYMPIC PARK DR
+- City: ATLANTA
+- State: GA
+- ZIP: 30313
+- ZIP extension: 2359
+- State project ID: GA-96-030
+- Latitude: 33.768632
+- Longitude: -84.39224
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121001901
+- Tract 2010: 13121001900
+- Tract 2000: 13121002100
+- Tract 1990: 13121002100
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 647991
+- Units: 185
+- Low-income units: 185
+- Units reported: 185
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1998070. AKA LAGACY III.
+- Record status: Existing, unchanged

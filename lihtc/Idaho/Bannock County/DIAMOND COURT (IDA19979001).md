@@ -1,0 +1,85 @@
+# Project: DIAMOND COURT (IDA19979001)
+
+- HUD ID: IDA19979001
+- HUD ID before: 
+- Project: DIAMOND COURT
+- Address: 5315 DIAMOND CIRCLE
+- City: CHUBBOCK
+- State: ID
+- ZIP: 83202
+- ZIP extension: 
+- State project ID: HC9620
+- Latitude: 42.930057
+- Longitude: -112.462773
+- County FIPS: 16005
+- County from: 2020
+- Tract 2020: 16005000301
+- Tract 2010: 16005000300
+- Tract 2000: 16005000300
+- Tract 1990: 
+- Place 2020: 14680
+- Place 2010: 14680
+- Place 2000: 14680
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 321785
+- Units: 96
+- Low-income units: 72
+- Units reported: 96
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 37
+- 3-bedroom units: 59
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 47
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

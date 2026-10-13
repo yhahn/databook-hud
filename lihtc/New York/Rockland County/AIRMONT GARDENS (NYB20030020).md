@@ -1,0 +1,85 @@
+# Project: AIRMONT GARDENS (NYB20030020)
+
+- HUD ID: NYB20030020
+- HUD ID before: 
+- Project: AIRMONT GARDENS
+- Address: 60 DE BAUN AVE
+- City: AIRMONT
+- State: NY
+- ZIP: 10901
+- ZIP extension: 
+- State project ID: NY-01-1466
+- Latitude: 41.10989
+- Longitude: -74.109993
+- County FIPS: 36087
+- County from: 2020
+- Tract 2020: 36087011603
+- Tract 2010: 36087011603
+- Tract 2000: 36087011603
+- Tract 1990: 36087011600
+- Place 2020: 00408
+- Place 2010: 00408
+- Place 2000: 00408
+- Place 1990: 0023
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 140
+- Low-income units: 139
+- Units reported: 140
+- Low-income reported: 139
+- Efficiencies: 0
+- 1-bedroom units: 110
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

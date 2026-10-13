@@ -1,0 +1,85 @@
+# Project: CASA RAMON APTS (CAA20000085)
+
+- HUD ID: CAA20000085
+- HUD ID before: 
+- Project: CASA RAMON APTS
+- Address: 840 W WALNUT AVE
+- City: ORANGE
+- State: CA
+- ZIP: 92868
+- ZIP extension: 
+- State project ID: CA-99-902
+- Latitude: 33.794967
+- Longitude: -117.861451
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059075901
+- Tract 2010: 06059075901
+- Tract 2000: 06059075901
+- Tract 1990: 06059075901
+- Place 2020: 53980
+- Place 2010: 53980
+- Place 2000: 53980
+- Place 1990: 2015
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 201578
+- Units: 75
+- Low-income units: 74
+- Units reported: 75
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 41
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

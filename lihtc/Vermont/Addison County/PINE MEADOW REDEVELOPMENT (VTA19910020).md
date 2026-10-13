@@ -1,0 +1,85 @@
+# Project: PINE MEADOW REDEVELOPMENT (VTA19910020)
+
+- HUD ID: VTA19910020
+- HUD ID before: 
+- Project: PINE MEADOW REDEVELOPMENT
+- Address: 16 PINEWOOD RD
+- City: MIDDLEBURY
+- State: VT
+- ZIP: 05753
+- ZIP extension: 
+- State project ID: 0135
+- Latitude: 44.027534
+- Longitude: -73.174968
+- County FIPS: 50001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 50001960800
+- Tract 2000: 50001960800
+- Tract 1990: 50001960800
+- Place 2020: 
+- Place 2010: 44275
+- Place 2000: 44275
+- Place 1990: 1528
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 166062
+- Units: 30
+- Low-income units: 24
+- Units reported: 30
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA PINE MEADOW
+- Record status: Existing, unchanged

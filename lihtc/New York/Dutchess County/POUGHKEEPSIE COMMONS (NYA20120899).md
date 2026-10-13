@@ -1,0 +1,85 @@
+# Project: POUGHKEEPSIE COMMONS (NYA20120899)
+
+- HUD ID: NYA20120899
+- HUD ID before: 
+- Project: POUGHKEEPSIE COMMONS
+- Address: 130 HUDSON AVE
+- City: POUGHKEEPSIE
+- State: NY
+- ZIP: 12601
+- ZIP extension: 
+- State project ID: 20116039
+- Latitude: 41.70951
+- Longitude: -73.909145
+- County FIPS: 36027
+- County from: 2020
+- Tract 2020: 36027220300
+- Tract 2010: 36027220300
+- Tract 2000: 36027220300
+- Tract 1990: 36027220300
+- Place 2020: 59641
+- Place 2010: 59641
+- Place 2000: 59641
+- Place 1990: 2985
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1315969
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 71
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: VETERANS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

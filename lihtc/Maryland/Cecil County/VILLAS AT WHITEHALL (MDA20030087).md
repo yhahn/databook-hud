@@ -1,0 +1,85 @@
+# Project: VILLAS AT WHITEHALL (MDA20030087)
+
+- HUD ID: MDA20030087
+- HUD ID before: 
+- Project: VILLAS AT WHITEHALL
+- Address: 100 SKIPJACK CT
+- City: ELKTON
+- State: MD
+- ZIP: 21921
+- ZIP extension: 
+- State project ID: MD01-08001
+- Latitude: 39.590113
+- Longitude: -75.829285
+- County FIPS: 24015
+- County from: 2020
+- Tract 2020: 24015030505
+- Tract 2010: 24015030505
+- Tract 2000: 24015030504
+- Tract 1990: 24015030504
+- Place 2020: 25800
+- Place 2010: 25800
+- Place 2000: 25800
+- Place 1990: 0315
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

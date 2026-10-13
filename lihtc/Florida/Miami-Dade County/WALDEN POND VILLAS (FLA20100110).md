@@ -1,0 +1,85 @@
+# Project: WALDEN POND VILLAS (FLA20100110)
+
+- HUD ID: FLA20100110
+- HUD ID before: 
+- Project: WALDEN POND VILLAS
+- Address: 20880 NW SEVENTH AVE
+- City: MIAMI GARDENS
+- State: FL
+- ZIP: 33169
+- ZIP extension: 
+- State project ID: 916
+- Latitude: 25.968558
+- Longitude: -80.21494
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086009908
+- Tract 2010: 12086009901
+- Tract 2000: 12086009901
+- Tract 1990: 12025009901
+- Place 2020: 45060
+- Place 2010: 45060
+- Place 2000: 01315
+- Place 1990: 0024
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 815820
+- Units: 290
+- Low-income units: 290
+- Units reported: 290
+- Low-income reported: 290
+- Efficiencies: 0
+- 1-bedroom units: 82
+- 2-bedroom units: 128
+- 3-bedroom units: 80
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1997090, FLA1994210.
+- Record status: Existing, unchanged

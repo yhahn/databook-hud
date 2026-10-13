@@ -1,0 +1,85 @@
+# Project: BRECKENRIDGE VILLAGE (TXA19970025)
+
+- HUD ID: TXA19970025
+- HUD ID before: 
+- Project: BRECKENRIDGE VILLAGE
+- Address: 2001A FLOYD ST
+- City: ENNIS
+- State: TX
+- ZIP: 75119
+- ZIP extension: 
+- State project ID: TX1391
+- Latitude: 32.344772
+- Longitude: -96.635686
+- County FIPS: 48139
+- County from: 2020
+- Tract 2020: 48139061600
+- Tract 2010: 48139061600
+- Tract 2000: 48139061600
+- Tract 1990: 48139061600
+- Place 2020: 24348
+- Place 2010: 24348
+- Place 2000: 24348
+- Place 1990: 1370
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 66
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

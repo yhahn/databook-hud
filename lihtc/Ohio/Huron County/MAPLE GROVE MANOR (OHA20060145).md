@@ -1,0 +1,85 @@
+# Project: MAPLE GROVE MANOR (OHA20060145)
+
+- HUD ID: OHA20060145
+- HUD ID before: 
+- Project: MAPLE GROVE MANOR
+- Address: 190 BENEDICT AVE
+- City: NORWALK
+- State: OH
+- ZIP: 44857
+- ZIP extension: 
+- State project ID: OH-04-0076
+- Latitude: 41.232236
+- Longitude: -82.607677
+- County FIPS: 39077
+- County from: 2020
+- Tract 2020: 39077915600
+- Tract 2010: 39077915600
+- Tract 2000: 39077995600
+- Tract 1990: 39077995600
+- Place 2020: 57302
+- Place 2010: 57302
+- Place 2000: 57302
+- Place 1990: 3185
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 177215
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

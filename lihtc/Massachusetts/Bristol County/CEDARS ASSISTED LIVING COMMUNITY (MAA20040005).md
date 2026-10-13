@@ -1,0 +1,85 @@
+# Project: CEDARS ASSISTED LIVING COMMUNITY (MAA20040005)
+
+- HUD ID: MAA20040005
+- HUD ID before: 
+- Project: CEDARS ASSISTED LIVING COMMUNITY
+- Address: 626 OLD WESTPORT RD
+- City: DARTMOUTH
+- State: MA
+- ZIP: 02747
+- ZIP extension: 
+- State project ID: MA-03-010-N
+- Latitude: 41.624781
+- Longitude: -71.034482
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005653101
+- Tract 2010: 25005653101
+- Tract 2000: 25005653101
+- Tract 1990: 25005653100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 62300
+- Place 1990: 3900
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 78
+- Low-income units: 16
+- Units reported: 78
+- Low-income reported: 16
+- Efficiencies: 24
+- 1-bedroom units: 52
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000631.
+- Record status: Existing, unchanged

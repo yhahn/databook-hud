@@ -1,0 +1,85 @@
+# Project: ORCHARD PARK APTS (SCA20070108)
+
+- HUD ID: SCA20070108
+- HUD ID before: 
+- Project: ORCHARD PARK APTS
+- Address: 101 PEACH LEAF CURL
+- City: RIDGE SPRING
+- State: SC
+- ZIP: 29129
+- ZIP extension: 
+- State project ID: SC-06-056
+- Latitude: 33.84663
+- Longitude: -81.654311
+- County FIPS: 45081
+- County from: 2020
+- Tract 2020: 45081960400
+- Tract 2010: 45081960400
+- Tract 2000: 45081960400
+- Tract 1990: 45081960400
+- Place 2020: 60325
+- Place 2010: 60325
+- Place 2000: 47320
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 72623
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 240092
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MEADOWBROOK VILLAGE (GAA20134023)
+
+- HUD ID: GAA20134023
+- HUD ID before: 
+- Project: MEADOWBROOK VILLAGE
+- Address: 130 LONNIE LN
+- City: AMERICUS
+- State: GA
+- ZIP: 31709
+- ZIP extension: 4907
+- State project ID: 2011-505, 89
+- Latitude: 32.069916
+- Longitude: -84.208906
+- County FIPS: 13261
+- County from: 2020
+- Tract 2020: 13261950700
+- Tract 2010: 13261950700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02116
+- Place 2010: 02116
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

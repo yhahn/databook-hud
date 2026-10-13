@@ -1,0 +1,85 @@
+# Project: LOSANTIVILLE APTS (OHA20140031)
+
+- HUD ID: OHA20140031
+- HUD ID before: 
+- Project: LOSANTIVILLE APTS
+- Address: 1825 BAYMILLER ST
+- City: CINCINNATI
+- State: OH
+- ZIP: 45214
+- ZIP extension: 
+- State project ID: 120158
+- Latitude: 39.116789
+- Longitude: -84.529431
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061026900
+- Tract 2010: 39061026900
+- Tract 2000: 39061001500
+- Tract 1990: 39061001500
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1370445
+- Units: 87
+- Low-income units: 87
+- Units reported: 87
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2014090, OHA2014085, OHA2014080.
+- Record status: Existing, unchanged

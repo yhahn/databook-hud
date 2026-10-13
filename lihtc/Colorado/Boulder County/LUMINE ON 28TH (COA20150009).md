@@ -1,0 +1,85 @@
+# Project: LUMINE ON 28TH (COA20150009)
+
+- HUD ID: COA20150009
+- HUD ID before: 
+- Project: LUMINE ON 28TH
+- Address: 2675, 2701, 2785, 2805 28TH STREET
+- City: BOULDER
+- State: CO
+- ZIP: 80301
+- ZIP extension: 
+- State project ID: 2012506
+- Latitude: 40.028071
+- Longitude: -105.258625
+- County FIPS: 08013
+- County from: 2020
+- Tract 2020: 08013012107
+- Tract 2010: 08013012102
+- Tract 2000: 08013012102
+- Tract 1990: 
+- Place 2020: 07850
+- Place 2010: 07850
+- Place 2000: 07850
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 336679
+- Units: 69
+- Low-income units: 69
+- Units reported: 69
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 32
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

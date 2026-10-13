@@ -1,0 +1,85 @@
+# Project: HAMPTON PLACE THREE (ILA20110921)
+
+- HUD ID: ILA20110921
+- HUD ID before: 
+- Project: HAMPTON PLACE THREE
+- Address: 1200 HIGHLAND AVE
+- City: ALTON
+- State: IL
+- ZIP: 62002
+- ZIP extension: 
+- State project ID: 1048811
+- Latitude: 38.898598
+- Longitude: -90.167727
+- County FIPS: 17119
+- County from: 2020
+- Tract 2020: 17119402500
+- Tract 2010: 17119402500
+- Tract 2000: 17119402500
+- Tract 1990: 17119402500
+- Place 2020: 01114
+- Place 2010: 01114
+- Place 2000: 01114
+- Place 1990: 0115
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 786343
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 5
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

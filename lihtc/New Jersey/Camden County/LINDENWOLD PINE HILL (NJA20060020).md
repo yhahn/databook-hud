@@ -1,0 +1,85 @@
+# Project: LINDENWOLD PINE HILL (NJA20060020)
+
+- HUD ID: NJA20060020
+- HUD ID before: 
+- Project: LINDENWOLD PINE HILL
+- Address: 350 AND 201 BLACKWOOD-CLEMONTON ROAD
+- City: LINDENWOLD BORO/PINE HILL
+- State: NJ
+- ZIP: 08021
+- ZIP extension: 
+- State project ID: 2345
+- Latitude: 39.8143
+- Longitude: -74.9995
+- County FIPS: 34007
+- County from: 2020
+- Tract 2020: 34007607802
+- Tract 2010: 34007607802
+- Tract 2000: 34007608503
+- Tract 1990: 34007608500
+- Place 2020: 40440
+- Place 2010: 40440
+- Place 2000: 58770
+- Place 1990: 3180
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 509587
+- Units: 500
+- Low-income units: 350
+- Units reported: 500
+- Low-income reported: 350
+- Efficiencies: 0
+- 1-bedroom units: 376
+- 2-bedroom units: 124
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

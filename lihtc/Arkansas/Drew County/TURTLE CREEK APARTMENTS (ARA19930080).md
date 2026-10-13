@@ -1,0 +1,85 @@
+# Project: TURTLE CREEK APARTMENTS (ARA19930080)
+
+- HUD ID: ARA19930080
+- HUD ID before: 
+- Project: TURTLE CREEK APARTMENTS
+- Address: 130 W OAKLAND
+- City: MONTICELLO
+- State: AR
+- ZIP: 71655
+- ZIP extension: 
+- State project ID: AR-92-18
+- Latitude: 33.634195
+- Longitude: -91.79194
+- County FIPS: 05043
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05043490300
+- Tract 2000: 05043990300
+- Tract 1990: 05043990300
+- Place 2020: 
+- Place 2010: 46580
+- Place 2000: 46580
+- Place 1990: 1380
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 38914
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 2
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TURTLE CREEK FAMILY.
+- Record status: Existing, unchanged

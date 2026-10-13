@@ -1,0 +1,85 @@
+# Project: DENTON GREEN HOUSING (NYA20130281)
+
+- HUD ID: NYA20130281
+- HUD ID before: 
+- Project: DENTON GREEN HOUSING
+- Address: 500 DENTON AVE
+- City: NEW HYDE PARK
+- State: NY
+- ZIP: 11040
+- ZIP extension: 
+- State project ID: 20116065
+- Latitude: 40.748976
+- Longitude: -73.672584
+- County FIPS: 36059
+- County from: 2020
+- Tract 2020: 36059303204
+- Tract 2010: 36059303202
+- Tract 2000: 36059303202
+- Tract 1990: 36059303202
+- Place 2020: 28189
+- Place 2010: 28189
+- Place 2000: 28189
+- Place 1990: 1335
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 998027
+- Units: 91
+- Low-income units: 91
+- Units reported: 91
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DENTON GREEN.
+- Record status: Existing, unchanged

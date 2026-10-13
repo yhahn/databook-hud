@@ -1,0 +1,85 @@
+# Project: PIONEER CROSSING FOR SENIORS BURKBURNETT (TXA20130814)
+
+- HUD ID: TXA20130814
+- HUD ID before: 
+- Project: PIONEER CROSSING FOR SENIORS BURKBURNETT
+- Address: 1406 SHADY LN
+- City: BURKBURNETT
+- State: TX
+- ZIP: 76354
+- ZIP extension: 
+- State project ID: TX4780
+- Latitude: 34.070393
+- Longitude: -98.54741
+- County FIPS: 48485
+- County from: 2020
+- Tract 2020: 48485013502
+- Tract 2010: 48485013502
+- Tract 2000: 48485013502
+- Tract 1990: 48485013500
+- Place 2020: 11368
+- Place 2010: 11368
+- Place 2000: 11368
+- Place 1990: 0655
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

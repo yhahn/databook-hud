@@ -1,0 +1,85 @@
+# Project: FRANKLIN SCHOOL APARTMENTS (WIA20160004)
+
+- HUD ID: WIA20160004
+- HUD ID before: 
+- Project: FRANKLIN SCHOOL APARTMENTS
+- Address: 1011 S MAIN STREET
+- City: RICE LAKE
+- State: WI
+- ZIP: 54868
+- ZIP extension: 
+- State project ID: 6012
+- Latitude: 45.48994
+- Longitude: -91.733089
+- County FIPS: 55005
+- County from: 2020
+- Tract 2020: 55005000602
+- Tract 2010: 55005000600
+- Tract 2000: 55005000600
+- Tract 1990: 
+- Place 2020: 67350
+- Place 2010: 67350
+- Place 2000: 67350
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 315810
+- Units: 20
+- Low-income units: 8
+- Units reported: 20
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 9
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LA CASA ROSA (COA19980050)
+
+- HUD ID: COA19980050
+- HUD ID before: 
+- Project: LA CASA ROSA
+- Address: 1011 C ST
+- City: GREELEY
+- State: CO
+- ZIP: 80631
+- ZIP extension: 
+- State project ID: CO-97-0035
+- Latitude: 40.43731
+- Longitude: -104.694983
+- County FIPS: 08123
+- County from: 2020
+- Tract 2020: 08123000705
+- Tract 2010: 08123000600
+- Tract 2000: 08123000600
+- Tract 1990: 08123000600
+- Place 2020: 99999
+- Place 2010: 32155
+- Place 2000: 32155
+- Place 1990: 0570
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WODA ST PAUL TERRACE LTD PTRSHP (WVA19989066)
+
+- HUD ID: WVA19989066
+- HUD ID before: 
+- Project: WODA ST PAUL TERRACE LTD PTRSHP
+- Address: 6850 CENTRAL AVENUE
+- City: PARKERSBURG
+- State: WV
+- ZIP: 26101
+- ZIP extension: 
+- State project ID: WV-96-24
+- Latitude: 39.28004
+- Longitude: -81.543249
+- County FIPS: 54107
+- County from: 2020
+- Tract 2020: 54107000300
+- Tract 2010: 54107000300
+- Tract 2000: 54107000300
+- Tract 1990: 54107000300
+- Place 2020: 62140
+- Place 2010: 62140
+- Place 2000: 62140
+- Place 1990: 1215
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Updated

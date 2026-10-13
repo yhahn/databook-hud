@@ -1,0 +1,85 @@
+# Project: CASCADES (DEA20132002)
+
+- HUD ID: DEA20132002
+- HUD ID before: 
+- Project: CASCADES
+- Address: 151 CASCADES LANE
+- City: MILFORD
+- State: DE
+- ZIP: 19963
+- ZIP extension: 
+- State project ID: DE410FY1215
+- Latitude: 38.926516
+- Longitude: -75.44262
+- County FIPS: 10001
+- County from: 2020
+- Tract 2020: 10001043400
+- Tract 2010: 10001043400
+- Tract 2000: 10001042600
+- Tract 1990: 
+- Place 2020: 47420
+- Place 2010: 47420
+- Place 2000: 47420
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 881566
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 22
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ARCADIA OAKS (FLA20090160)
+
+- HUD ID: FLA20090160
+- HUD ID before: 
+- Project: ARCADIA OAKS
+- Address: 302 N TENTH AVE
+- City: ARCADIA
+- State: FL
+- ZIP: 34266
+- ZIP extension: 
+- State project ID: 2132
+- Latitude: 27.214097
+- Longitude: -81.848125
+- County FIPS: 12027
+- County from: 2020
+- Tract 2020: 12027010200
+- Tract 2010: 12027010200
+- Tract 2000: 12027980200
+- Tract 1990: 12027980200
+- Place 2020: 01750
+- Place 2010: 01750
+- Place 2000: 01750
+- Place 1990: 0040
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 789386
+- Units: 130
+- Low-income units: 130
+- Units reported: 130
+- Low-income reported: 130
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 38
+- 3-bedroom units: 44
+- 4-bedroom units: 22
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 124
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GREENTREE VILLAGE APTS (COA20080050)
+
+- HUD ID: COA20080050
+- HUD ID before: 
+- Project: GREENTREE VILLAGE APTS
+- Address: 3562 N CAREFREE CIR
+- City: COLORADO SPRINGS
+- State: CO
+- ZIP: 80917
+- ZIP extension: 
+- State project ID: CO-07-502
+- Latitude: 38.882134
+- Longitude: -104.754626
+- County FIPS: 08041
+- County from: 2020
+- Tract 2020: 08041005502
+- Tract 2010: 08041005502
+- Tract 2000: 08041005502
+- Tract 1990: 08041005500
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0240
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 633521
+- Units: 216
+- Low-income units: 214
+- Units reported: 216
+- Low-income reported: 214
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 214
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 140
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

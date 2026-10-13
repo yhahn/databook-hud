@@ -1,0 +1,85 @@
+# Project: GROVETON VILLAGE APTS (PAA20030085)
+
+- HUD ID: PAA20030085
+- HUD ID before: 
+- Project: GROVETON VILLAGE APTS
+- Address: 507 GROVETON DR
+- City: CORAOPOLIS
+- State: PA
+- ZIP: 15108
+- ZIP extension: 
+- State project ID: TC20010417
+- Latitude: 40.504572
+- Longitude: -80.141128
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003459101
+- Tract 2010: 42003459101
+- Tract 2000: 42003459101
+- Tract 1990: 42003459101
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 65378
+- Place 1990: 7505
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 558097
+- Units: 69
+- Low-income units: 66
+- Units reported: 69
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 16
+- 3-bedroom units: 45
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

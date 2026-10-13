@@ -1,0 +1,85 @@
+# Project: MISTY COURT DUPLEXES (TXA19920145)
+
+- HUD ID: TXA19920145
+- HUD ID before: 
+- Project: MISTY COURT DUPLEXES
+- Address: 103 MISTY CT
+- City: WAXAHACHIE
+- State: TX
+- ZIP: 75165
+- ZIP extension: 
+- State project ID: TX0890
+- Latitude: 32.417776
+- Longitude: -96.851524
+- County FIPS: 48139
+- County from: 2020
+- Tract 2020: 48139060601
+- Tract 2010: 48139060600
+- Tract 2000: 48139060600
+- Tract 1990: 48139060600
+- Place 2020: 76816
+- Place 2010: 76816
+- Place 2000: 76816
+- Place 1990: 4455
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

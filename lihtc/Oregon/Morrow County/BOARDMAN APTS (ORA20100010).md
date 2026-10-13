@@ -1,0 +1,85 @@
+# Project: BOARDMAN APTS (ORA20100010)
+
+- HUD ID: ORA20100010
+- HUD ID before: 
+- Project: BOARDMAN APTS
+- Address: 331 NW BOARDMAN AVE
+- City: BOARDMAN
+- State: OR
+- ZIP: 97818
+- ZIP extension: 
+- State project ID: 912
+- Latitude: 45.838856
+- Longitude: -119.713211
+- County FIPS: 41049
+- County from: 2020
+- Tract 2020: 41049970101
+- Tract 2010: 41049970100
+- Tract 2000: 41049970100
+- Tract 1990: 41049970100
+- Place 2020: 07200
+- Place 2010: 07200
+- Place 2000: 07200
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 60777
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA1993015, ORA0000004. AKA HAB DOC APTS.
+- Record status: Existing, unchanged

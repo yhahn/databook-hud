@@ -1,0 +1,85 @@
+# Project: RIVERWALK APTS PHASE I (MSA20000060)
+
+- HUD ID: MSA20000060
+- HUD ID before: 
+- Project: RIVERWALK APTS PHASE I
+- Address: 738 W UNION ST
+- City: GREENVILLE
+- State: MS
+- ZIP: 38701
+- ZIP extension: 
+- State project ID: MS-98-034
+- Latitude: 33.415448
+- Longitude: -91.051002
+- County FIPS: 28151
+- County from: 2020
+- Tract 2020: 28151000400
+- Tract 2010: 28151000400
+- Tract 2000: 28151000400
+- Tract 1990: 28151000400
+- Place 2020: 29180
+- Place 2010: 29180
+- Place 2000: 29180
+- Place 1990: 0495
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 1882306
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA RIVERWALK APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: KENT STREET HOUSING (NJA20070065)
+
+- HUD ID: NJA20070065
+- HUD ID before: 
+- Project: KENT STREET HOUSING
+- Address: 11 KENT AVENUE
+- City: PENNSVILLE TOWNSHIP
+- State: NJ
+- ZIP: 08070
+- ZIP extension: 
+- State project ID: 01433
+- Latitude: 39.672877
+- Longitude: -75.49851
+- County FIPS: 34033
+- County from: 2020
+- Tract 2020: 34033021400
+- Tract 2010: 34033021400
+- Tract 2000: 34033021400
+- Tract 1990: 34033021400
+- Place 2020: 57840
+- Place 2010: 57840
+- Place 2000: 57840
+- Place 1990: 3155
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 471035
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA KENT SENIOR CITIZEN.
+- Record status: Existing, unchanged

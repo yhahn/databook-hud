@@ -1,0 +1,85 @@
+# Project: VILLARD COMMONS (WIA20210002)
+
+- HUD ID: WIA20210002
+- HUD ID before: 
+- Project: VILLARD COMMONS
+- Address: 3621 W VILLARD AVE
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53209
+- ZIP extension: 
+- State project ID: WI-18-52984
+- Latitude: 43.111767
+- Longitude: -87.95828
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079002400
+- Tract 2010: 55079002400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 43
+- Low-income units: 36
+- Units reported: 43
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 22
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

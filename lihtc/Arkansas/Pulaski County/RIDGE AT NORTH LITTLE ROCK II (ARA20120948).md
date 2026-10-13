@@ -1,0 +1,85 @@
+# Project: RIDGE AT NORTH LITTLE ROCK II (ARA20120948)
+
+- HUD ID: ARA20120948
+- HUD ID before: 
+- Project: RIDGE AT NORTH LITTLE ROCK II
+- Address: 940 W SCENIC DR
+- City: NORTH LITTLE ROCK
+- State: AR
+- ZIP: 72118
+- ZIP extension: 
+- State project ID: AR-09-22
+- Latitude: 34.78511
+- Longitude: -92.294366
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119003100
+- Tract 2010: 05119003100
+- Tract 2000: 05119003100
+- Tract 1990: 05119003100
+- Place 2020: 50450
+- Place 2010: 50450
+- Place 2000: 50450
+- Place 1990: 1475
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 1
+- 1-bedroom units: 6
+- 2-bedroom units: 17
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000516, ARA0000175.
+- Record status: Existing, unchanged

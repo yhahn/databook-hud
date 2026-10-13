@@ -1,0 +1,24 @@
+# Tax Credit Projects: Cass County, MI
+
+- Level: County
+- Postal code: MI
+- State FIPS: 26
+- County FIPS: 26027
+- Counties: 
+- Projects: 7
+- Units: 338
+- Low-income units: 334
+
+The low-income housing tax credit projects of Cass County, Michigan, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [EDWARDSBURG MANOR (MIA19870170)](./Cass%20County/EDWARDSBURG%20MANOR%20%28MIA19870170%29.md) | MIA19870170 | EDWARDSBURG | 1987 | 24 | 20 |
+| [WOODLAND APTS (MIA19900530)](./Cass%20County/WOODLAND%20APTS%20%28MIA19900530%29.md) | MIA19900530 | MARCELLUS | 1990 | 24 | 24 |
+| [RIVERSIDE (DOWAGIAC) (MIA19970105)](./Cass%20County/RIVERSIDE%20%28DOWAGIAC%29%20%28MIA19970105%29.md) | MIA19970105 | DOWAGIAC | 1997 | 32 | 32 |
+| [EAGLE'S WOOD APTS & SENIOR RESIDEN (MIA20040085)](./Cass%20County/EAGLE%27S%20WOOD%20APTS%20%26%20SENIOR%20RESIDEN%20%28MIA20040085%29.md) | MIA20040085 | DOWAGIAC | 2004 | 49 | 49 |
+| [EAGLES TRACE APTS (MIA20060040)](./Cass%20County/EAGLES%20TRACE%20APTS%20%28MIA20060040%29.md) | MIA20060040 | DOWAGIAC | 2006 | 40 | 40 |
+| [STONE LAKE MANOR APTS (MIA20089238)](./Cass%20County/STONE%20LAKE%20MANOR%20APTS%20%28MIA20089238%29.md) | MIA20089238 | CASSOPOLIS | 2008 | 49 | 49 |
+| [VINEYARD PLACE (MIA20142003)](./Cass%20County/VINEYARD%20PLACE%20%28MIA20142003%29.md) | MIA20142003 | DOWAGIAC | 2014 | 120 | 120 |

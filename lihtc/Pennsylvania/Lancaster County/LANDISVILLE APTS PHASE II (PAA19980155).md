@@ -1,0 +1,85 @@
+# Project: LANDISVILLE APTS PHASE II (PAA19980155)
+
+- HUD ID: PAA19980155
+- HUD ID before: 
+- Project: LANDISVILLE APTS PHASE II
+- Address: 170 ELIZABETH ST
+- City: LANDISVILLE
+- State: PA
+- ZIP: 17538
+- ZIP extension: 
+- State project ID: TC20000046
+- Latitude: 40.094127
+- Longitude: -76.426352
+- County FIPS: 42071
+- County from: 2020
+- Tract 2020: 42071011504
+- Tract 2010: 42071011504
+- Tract 2000: 42071011504
+- Tract 1990: 42071011501
+- Place 2020: 67656
+- Place 2010: 67656
+- Place 2000: 52016
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 140245
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MUMMA APTS.
+- Record status: Existing, unchanged

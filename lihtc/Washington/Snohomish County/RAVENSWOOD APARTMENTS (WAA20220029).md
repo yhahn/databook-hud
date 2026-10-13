@@ -1,0 +1,85 @@
+# Project: RAVENSWOOD APARTMENTS (WAA20220029)
+
+- HUD ID: WAA20220029
+- HUD ID before: 
+- Project: RAVENSWOOD APARTMENTS
+- Address: 16003 ADMIRALTY WAY
+- City: LYNNWOOD
+- State: WA
+- ZIP: 98037
+- ZIP extension: 
+- State project ID: 18-130A
+- Latitude: 47.854244
+- Longitude: -122.278902
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061051803
+- Tract 2010: 53061051803
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 49940
+- Place 2010: 49940
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 4348943
+- Units: 295
+- Low-income units: 292
+- Units reported: 295
+- Low-income reported: 292
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 80
+- 3-bedroom units: 80
+- 4-bedroom units: 75
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 37
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

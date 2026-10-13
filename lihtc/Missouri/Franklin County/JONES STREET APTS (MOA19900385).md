@@ -1,0 +1,85 @@
+# Project: JONES STREET APTS (MOA19900385)
+
+- HUD ID: MOA19900385
+- HUD ID before: 
+- Project: JONES STREET APTS
+- Address: 323 JONES ST
+- City: SULLIVAN
+- State: MO
+- ZIP: 63080
+- ZIP extension: 
+- State project ID: 169434
+- Latitude: 38.213067
+- Longitude: -91.153003
+- County FIPS: 29071
+- County from: 2020
+- Tract 2020: 29071801101
+- Tract 2010: 29071801101
+- Tract 2000: 29071801100
+- Tract 1990: 29071801100
+- Place 2020: 71440
+- Place 2010: 71440
+- Place 2000: 48880
+- Place 1990: 4165
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WALNUT CORNERS (WAA20109023)
+
+- HUD ID: WAA20109023
+- HUD ID before: 
+- Project: WALNUT CORNERS
+- Address: 1423 WEST BROADWAY
+- City: SPOKANE
+- State: WA
+- ZIP: 99201
+- ZIP extension: 
+- State project ID: 08-14
+- Latitude: 47.664187
+- Longitude: -117.433583
+- County FIPS: 53063
+- County from: 2020
+- Tract 2020: 53063002400
+- Tract 2010: 53063002400
+- Tract 2000: 53063002400
+- Tract 1990: 53063002400
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 1220
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 713703
+- Units: 47
+- Low-income units: 46
+- Units reported: 47
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 17
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 85930
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 12132958
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

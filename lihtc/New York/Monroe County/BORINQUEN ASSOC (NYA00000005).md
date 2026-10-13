@@ -1,0 +1,85 @@
+# Project: BORINQUEN ASSOC (NYA00000005)
+
+- HUD ID: NYA00000005
+- HUD ID before: 
+- Project: BORINQUEN ASSOC
+- Address: 10 BORINQUEN PLZ
+- City: ROCHESTER
+- State: NY
+- ZIP: 14605
+- ZIP extension: 
+- State project ID: 492
+- Latitude: 43.170419
+- Longitude: -77.612542
+- County FIPS: 36055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36055009200
+- Tract 2000: 36055009200
+- Tract 1990: 36055009200
+- Place 2020: 
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 3100
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 153
+- Low-income units: 149
+- Units reported: 153
+- Low-income reported: 149
+- Efficiencies: 12
+- 1-bedroom units: 45
+- 2-bedroom units: 47
+- 3-bedroom units: 29
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

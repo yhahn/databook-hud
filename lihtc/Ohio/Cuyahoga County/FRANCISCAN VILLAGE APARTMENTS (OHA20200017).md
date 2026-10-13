@@ -1,0 +1,85 @@
+# Project: FRANCISCAN VILLAGE APARTMENTS (OHA20200017)
+
+- HUD ID: OHA20200017
+- HUD ID before: 
+- Project: FRANCISCAN VILLAGE APARTMENTS
+- Address: 3648 ROCKY RIVER DRIVE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44111
+- ZIP extension: 3976
+- State project ID: 200227
+- Latitude: 41.454419
+- Longitude: -81.815976
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035123400
+- Tract 2010: 39035123400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 997937
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 173
+- 2-bedroom units: 0
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

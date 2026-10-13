@@ -1,0 +1,85 @@
+# Project: JOSHUA GARDENS APTS (WVA20020025)
+
+- HUD ID: WVA20020025
+- HUD ID before: 
+- Project: JOSHUA GARDENS APTS
+- Address: 214 JOSHUA DR
+- City: MARTINSBURG
+- State: WV
+- ZIP: 25404
+- ZIP extension: 
+- State project ID: WV-01-236
+- Latitude: 39.485031
+- Longitude: -77.950632
+- County FIPS: 54003
+- County from: 2020
+- Tract 2020: 54003971301
+- Tract 2010: 54003971300
+- Tract 2000: 54003971300
+- Tract 1990: 54003971300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 52060
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: EASTLAND WOODS (OHA20040651)
+
+- HUD ID: OHA20040651
+- HUD ID before: 
+- Project: EASTLAND WOODS
+- Address: 1094 MORNINGVIEW AVE
+- City: AKRON
+- State: OH
+- ZIP: 44305
+- ZIP extension: 
+- State project ID: 040101
+- Latitude: 41.090616
+- Longitude: -81.454728
+- County FIPS: 39153
+- County from: 2020
+- Tract 2020: 39153502700
+- Tract 2010: 39153502700
+- Tract 2000: 39153502700
+- Tract 1990: 39153502700
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0035
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 477100
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 40
+- 4-bedroom units: 60
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006060, OHA2004660, OHA200493. AKA EASTLAND WOODS LLC.
+- Record status: Existing, unchanged

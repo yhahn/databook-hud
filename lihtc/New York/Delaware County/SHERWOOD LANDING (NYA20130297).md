@@ -1,0 +1,85 @@
+# Project: SHERWOOD LANDING (NYA20130297)
+
+- HUD ID: NYA20130297
+- HUD ID before: 
+- Project: SHERWOOD LANDING
+- Address: 32 LANDING DR
+- City: SIDNEY
+- State: NY
+- ZIP: 13838
+- ZIP extension: 
+- State project ID: 20126001
+- Latitude: 42.306934
+- Longitude: -75.381406
+- County FIPS: 36025
+- County from: 2020
+- Tract 2020: 36025970402
+- Tract 2010: 36025970400
+- Tract 2000: 36025990400
+- Tract 1990: 36025990400
+- Place 2020: 67334
+- Place 2010: 67334
+- Place 2000: 67334
+- Place 1990: 3380
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 519103
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SIDNEY HOUSING RECOVERY.
+- Record status: Existing, unchanged

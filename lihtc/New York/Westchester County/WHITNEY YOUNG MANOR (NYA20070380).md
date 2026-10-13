@@ -1,0 +1,85 @@
+# Project: WHITNEY YOUNG MANOR (NYA20070380)
+
+- HUD ID: NYA20070380
+- HUD ID before: 
+- Project: WHITNEY YOUNG MANOR
+- Address: 358 NEPPERHAN AVE
+- City: YONKERS
+- State: NY
+- ZIP: 10701
+- ZIP extension: 
+- State project ID: 20060541
+- Latitude: 40.938301
+- Longitude: -73.885975
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119001000
+- Tract 2010: 36119001000
+- Tract 2000: 36119001000
+- Tract 1990: 36119001000
+- Place 2020: 84000
+- Place 2010: 84000
+- Place 2000: 84000
+- Place 1990: 4075
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1294948
+- Units: 195
+- Low-income units: 195
+- Units reported: 195
+- Low-income reported: 195
+- Efficiencies: 32
+- 1-bedroom units: 34
+- 2-bedroom units: 60
+- 3-bedroom units: 54
+- 4-bedroom units: 15
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

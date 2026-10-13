@@ -1,0 +1,85 @@
+# Project: THE LANDINGS (IAA19970125)
+
+- HUD ID: IAA19970125
+- HUD ID before: 
+- Project: THE LANDINGS
+- Address: 1110 E CROSS ST
+- City: CENTERVILLE
+- State: IA
+- ZIP: 52544
+- ZIP extension: 
+- State project ID: 95-71
+- Latitude: 40.740735
+- Longitude: -92.863227
+- County FIPS: 19007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19007950300
+- Tract 2000: 19007950300
+- Tract 1990: 19007950300
+- Place 2020: 
+- Place 2010: 12315
+- Place 2000: 12315
+- Place 1990: 0685
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 219064
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 25
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

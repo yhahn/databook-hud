@@ -1,0 +1,85 @@
+# Project: WENTWORTH GARDENS (ILA19890145)
+
+- HUD ID: ILA19890145
+- HUD ID before: 
+- Project: WENTWORTH GARDENS
+- Address: 1100 WENTWORTH AVE
+- City: CHICAGO HEIGHTS
+- State: IL
+- ZIP: 
+- ZIP extension: 
+- State project ID: 215-89
+- Latitude: 41.510741
+- Longitude: -87.621335
+- County FIPS: 17031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17031829000
+- Tract 2000: 17031829000
+- Tract 1990: 17031829000
+- Place 2020: 
+- Place 2010: 14026
+- Place 2000: 14026
+- Place 1990: 1055
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 139891
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 10
+- 1-bedroom units: 20
+- 2-bedroom units: 30
+- 3-bedroom units: 120
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000029.
+- Record status: Existing, unchanged

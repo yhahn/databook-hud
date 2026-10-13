@@ -1,0 +1,85 @@
+# Project: RAVENWOOD APTS (OHA19980175)
+
+- HUD ID: OHA19980175
+- HUD ID before: 
+- Project: RAVENWOOD APTS
+- Address: 2220 WESTWOOD NORTHERN BLVD
+- City: CINCINNATI
+- State: OH
+- ZIP: 45225
+- ZIP extension: 
+- State project ID: 97-0066
+- Latitude: 39.145828
+- Longitude: -84.566084
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061008800
+- Tract 2010: 39061008800
+- Tract 2000: 39061008800
+- Tract 1990: 39061008800
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 167601
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CINCINNATI RAVENWOOD APTS.
+- Record status: Existing, unchanged

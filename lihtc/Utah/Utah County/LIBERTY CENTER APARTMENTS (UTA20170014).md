@@ -1,0 +1,85 @@
+# Project: LIBERTY CENTER APARTMENTS (UTA20170014)
+
+- HUD ID: UTA20170014
+- HUD ID before: 
+- Project: LIBERTY CENTER APARTMENTS
+- Address: 35 NORTH 300 WEST
+- City: PROVO
+- State: UT
+- ZIP: 84601
+- ZIP extension: 0000
+- State project ID: 2016-02
+- Latitude: 40.23441
+- Longitude: -111.664134
+- County FIPS: 49049
+- County from: 2020
+- Tract 2020: 49049002400
+- Tract 2010: 49049002400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 62470
+- Place 2010: 62470
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 326436
+- Units: 120
+- Low-income units: 60
+- Units reported: 120
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 75
+- 2-bedroom units: 45
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

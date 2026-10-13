@@ -1,0 +1,85 @@
+# Project: HEDGE LANE APARTMENTS (KSA20240005)
+
+- HUD ID: KSA20240005
+- HUD ID before: 
+- Project: HEDGE LANE APARTMENTS
+- Address: 7405 HEDGE LANE TERRACE
+- City: SHAWNEE
+- State: KS
+- ZIP: 66227
+- ZIP extension: 
+- State project ID: KS-24-68210
+- Latitude: 38.994249
+- Longitude: -94.856785
+- County FIPS: 20091
+- County from: 2020
+- Tract 2020: 20091052604
+- Tract 2010: 20091052604
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 64500
+- Place 2010: 64500
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1483331
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 72
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

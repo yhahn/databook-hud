@@ -1,0 +1,85 @@
+# Project: HOLY CROSS SENIOR HOUSING (VTA19970015)
+
+- HUD ID: VTA19970015
+- HUD ID before: 
+- Project: HOLY CROSS SENIOR HOUSING
+- Address: 468 CHURCH RD
+- City: COLCHESTER
+- State: VT
+- ZIP: 05446
+- ZIP extension: 
+- State project ID: 0080
+- Latitude: 44.544111
+- Longitude: -73.250379
+- County FIPS: 50007
+- County from: 2020
+- Tract 2020: 50007002303
+- Tract 2010: 50007002302
+- Tract 2000: 50007002300
+- Tract 1990: 50007002300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 158978
+- Units: 40
+- Low-income units: 33
+- Units reported: 40
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

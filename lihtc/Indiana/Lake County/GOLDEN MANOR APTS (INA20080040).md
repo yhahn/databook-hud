@@ -1,0 +1,85 @@
+# Project: GOLDEN MANOR APTS (INA20080040)
+
+- HUD ID: INA20080040
+- HUD ID before: 
+- Project: GOLDEN MANOR APTS
+- Address: 1201 175TH ST
+- City: HAMMOND
+- State: IN
+- ZIP: 46324
+- ZIP extension: 
+- State project ID: IN-06-01000
+- Latitude: 41.577633
+- Longitude: -87.499598
+- County FIPS: 18089
+- County from: 2020
+- Tract 2020: 18089021800
+- Tract 2010: 18089021800
+- Tract 2000: 18089021800
+- Tract 1990: 18089021800
+- Place 2020: 31000
+- Place 2010: 31000
+- Place 2000: 31000
+- Place 1990: 1040
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 766720
+- Units: 80
+- Low-income units: 76
+- Units reported: 80
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

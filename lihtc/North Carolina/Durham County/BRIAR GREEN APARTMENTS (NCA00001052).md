@@ -1,0 +1,85 @@
+# Project: BRIAR GREEN APARTMENTS (NCA00001052)
+
+- HUD ID: NCA00001052
+- HUD ID before: 
+- Project: BRIAR GREEN APARTMENTS
+- Address: 1155 BRIAR ROSE LANE
+- City: DURHAM
+- State: NC
+- ZIP: 27704
+- ZIP extension: 
+- State project ID: 9181746
+- Latitude: 36.056784
+- Longitude: -78.886828
+- County FIPS: 37063
+- County from: 2020
+- Tract 2020: 37063001709
+- Tract 2010: 37063001709
+- Tract 2000: 37063001801
+- Tract 1990: 
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 1536499
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 96
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

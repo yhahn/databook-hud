@@ -1,0 +1,85 @@
+# Project: MOBERLY APTS PHASE II (MOA20060151)
+
+- HUD ID: MOA20060151
+- HUD ID before: 
+- Project: MOBERLY APTS PHASE II
+- Address: 2105 SILVA LN
+- City: MOBERLY
+- State: MO
+- ZIP: 65270
+- ZIP extension: 
+- State project ID: 05-083
+- Latitude: 39.446039
+- Longitude: -92.428042
+- County FIPS: 29175
+- County from: 2020
+- Tract 2020: 29175490300
+- Tract 2010: 29175490300
+- Tract 2000: 29175990300
+- Tract 1990: 29175990300
+- Place 2020: 49034
+- Place 2010: 49034
+- Place 2000: 49034
+- Place 1990: 2850
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 87335
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 190000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

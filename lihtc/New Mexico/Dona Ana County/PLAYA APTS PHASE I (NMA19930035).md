@@ -1,0 +1,85 @@
+# Project: PLAYA APTS PHASE I (NMA19930035)
+
+- HUD ID: NMA19930035
+- HUD ID before: 
+- Project: PLAYA APTS PHASE I
+- Address: 142 LINDA VISTA DR
+- City: SUNLAND PARK
+- State: NM
+- ZIP: 88063
+- ZIP extension: 
+- State project ID: 020-1991
+- Latitude: 31.801202
+- Longitude: -106.58465
+- County FIPS: 35013
+- County from: 2020
+- Tract 2020: 35013001707
+- Tract 2010: 35013001707
+- Tract 2000: 35013001704
+- Tract 1990: 35013001700
+- Place 2020: 75640
+- Place 2010: 75640
+- Place 2000: 75640
+- Place 1990: 0400
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NEW LIMA HOMES (OHA20050105)
+
+- HUD ID: OHA20050105
+- HUD ID before: 
+- Project: NEW LIMA HOMES
+- Address: 209 E TENTH ST
+- City: LIMA
+- State: OH
+- ZIP: 45804
+- ZIP extension: 
+- State project ID: 030006
+- Latitude: 40.709593
+- Longitude: -84.103665
+- County FIPS: 39003
+- County from: 2020
+- Tract 2020: 39003013800
+- Tract 2010: 39003013800
+- Tract 2000: 39003013800
+- Tract 1990: 39003013800
+- Place 2020: 43554
+- Place 2010: 43554
+- Place 2000: 43554
+- Place 1990: 2205
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 60
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 450000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

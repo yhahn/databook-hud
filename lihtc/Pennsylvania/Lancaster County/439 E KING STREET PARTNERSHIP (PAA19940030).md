@@ -1,0 +1,85 @@
+# Project: 439 E KING STREET PARTNERSHIP (PAA19940030)
+
+- HUD ID: PAA19940030
+- HUD ID before: 
+- Project: 439 E KING STREET PARTNERSHIP
+- Address: 439 E KING ST
+- City: LANCASTER
+- State: PA
+- ZIP: 17602
+- ZIP extension: 
+- State project ID: TC19930142
+- Latitude: 40.039163
+- Longitude: -76.296404
+- County FIPS: 42071
+- County from: 2020
+- Tract 2020: 42071000700
+- Tract 2010: 42071000700
+- Tract 2000: 42071000700
+- Tract 1990: 42071000700
+- Place 2020: 41216
+- Place 2010: 41216
+- Place 2000: 41216
+- Place 1990: 5624
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 66545
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 12
+- 1-bedroom units: 14
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Existing, unchanged

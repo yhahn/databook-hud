@@ -1,0 +1,85 @@
+# Project: JOHN H ENGLAND JR MANOR (ALA19900058)
+
+- HUD ID: ALA19900058
+- HUD ID before: 
+- Project: JOHN H ENGLAND JR MANOR
+- Address: 1913 29TH AVE
+- City: TUSCALOOSA
+- State: AL
+- ZIP: 35401
+- ZIP extension: 
+- State project ID: AL-90-0050
+- Latitude: 33.195056
+- Longitude: -87.572371
+- County FIPS: 01125
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01125011800
+- Tract 2000: 01125011800
+- Tract 1990: 01125011800
+- Place 2020: 
+- Place 2010: 77256
+- Place 2000: 77256
+- Place 1990: 1720
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 13465
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1991210. FKA WESTSIDE APTS II
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CROWFIELD GREENE (2009 TCEX EXCH FUNDS) (SCA20100040)
+
+- HUD ID: SCA20100040
+- HUD ID before: 
+- Project: CROWFIELD GREENE (2009 TCEX EXCH FUNDS)
+- Address: 179 TURNMILL DR
+- City: GOOSE CREEK
+- State: SC
+- ZIP: 29445
+- ZIP extension: 
+- State project ID: SC-09-001
+- Latitude: 33.022882
+- Longitude: -80.062916
+- County FIPS: 45015
+- County from: 2020
+- Tract 2020: 45015020720
+- Tract 2010: 45015020719
+- Tract 2000: 45015020706
+- Tract 1990: 45015020706
+- Place 2020: 29815
+- Place 2010: 29815
+- Place 2000: 29815
+- Place 1990: 0536
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 523827
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 600000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 4452529
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

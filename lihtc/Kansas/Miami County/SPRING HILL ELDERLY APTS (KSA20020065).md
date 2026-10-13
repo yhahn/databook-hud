@@ -1,0 +1,85 @@
+# Project: SPRING HILL ELDERLY APTS (KSA20020065)
+
+- HUD ID: KSA20020065
+- HUD ID before: 
+- Project: SPRING HILL ELDERLY APTS
+- Address: 21511 S MAIN ST
+- City: SPRING HILL
+- State: KS
+- ZIP: 66083
+- ZIP extension: 
+- State project ID: 60005
+- Latitude: 38.738125
+- Longitude: -94.817083
+- County FIPS: 20121
+- County from: 2020
+- Tract 2020: 20121100200
+- Tract 2010: 20121100200
+- Tract 2000: 20121100200
+- Tract 1990: 20121100200
+- Place 2020: 67625
+- Place 2010: 67625
+- Place 2000: 42875
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 41
+- Units reported: 46
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

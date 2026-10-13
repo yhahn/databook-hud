@@ -1,0 +1,85 @@
+# Project: CASCADIA VILLAGE APTS (ORA19990030)
+
+- HUD ID: ORA19990030
+- HUD ID before: 
+- Project: CASCADIA VILLAGE APTS
+- Address: 1241 23RD AVE
+- City: SWEET HOME
+- State: OR
+- ZIP: 97386
+- ZIP extension: 
+- State project ID: X001-304
+- Latitude: 44.399396
+- Longitude: -122.715763
+- County FIPS: 41043
+- County from: 2020
+- Tract 2020: 41043030401
+- Tract 2010: 41043030401
+- Tract 2000: 41043030401
+- Tract 1990: 41043030401
+- Place 2020: 71950
+- Place 2010: 71950
+- Place 2000: 71950
+- Place 1990: 1120
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 104000
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 250000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

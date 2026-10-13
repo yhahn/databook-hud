@@ -1,0 +1,85 @@
+# Project: MALLALIEU POINTE (GAA20180014)
+
+- HUD ID: GAA20180014
+- HUD ID before: 
+- Project: MALLALIEU POINTE
+- Address: 2621 CHURCH STREET
+- City: EAST POINT
+- State: GA
+- ZIP: 30344
+- ZIP extension: 
+- State project ID: 2015-024
+- Latitude: 33.683973
+- Longitude: -84.441074
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011202
+- Tract 2010: 13121011202
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 25720
+- Place 2010: 25720
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 67
+- Low-income units: 60
+- Units reported: 67
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 32
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

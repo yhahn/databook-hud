@@ -1,0 +1,85 @@
+# Project: TALL OAKS (INA19990123)
+
+- HUD ID: INA19990123
+- HUD ID before: 
+- Project: TALL OAKS
+- Address: 306 BINFORD ST
+- City: CRAWFORDSVILLE
+- State: IN
+- ZIP: 47933
+- ZIP extension: 
+- State project ID: IN-99-03200
+- Latitude: 40.044092
+- Longitude: -86.897244
+- County FIPS: 18107
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18107957100
+- Tract 2000: 18107957100
+- Tract 1990: 18107957100
+- Place 2020: 
+- Place 2010: 15742
+- Place 2000: 15742
+- Place 1990: 0550
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 
+- Low-income units: 
+- Units reported: 
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA GREAT OAKS
+- Record status: Existing, unchanged

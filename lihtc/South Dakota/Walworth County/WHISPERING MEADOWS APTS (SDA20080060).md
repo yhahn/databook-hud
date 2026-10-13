@@ -1,0 +1,85 @@
+# Project: WHISPERING MEADOWS APTS (SDA20080060)
+
+- HUD ID: SDA20080060
+- HUD ID before: 
+- Project: WHISPERING MEADOWS APTS
+- Address: 1008 FIFTH AVE W
+- City: MOBRIDGE
+- State: SD
+- ZIP: 57601
+- ZIP extension: 
+- State project ID: 2287
+- Latitude: 45.542531
+- Longitude: -100.440821
+- County FIPS: 46129
+- County from: 2020
+- Tract 2020: 46129965200
+- Tract 2010: 46129965200
+- Tract 2000: 46129985200
+- Tract 1990: 46129985200
+- Place 2020: 43180
+- Place 2010: 43180
+- Place 2000: 43180
+- Place 1990: 0935
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 93056
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

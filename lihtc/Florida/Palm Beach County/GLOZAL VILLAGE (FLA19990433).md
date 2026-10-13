@@ -1,0 +1,85 @@
+# Project: GLOZAL VILLAGE (FLA19990433)
+
+- HUD ID: FLA19990433
+- HUD ID before: 
+- Project: GLOZAL VILLAGE
+- Address: 706 EIGHTH ST
+- City: WEST PALM BEACH
+- State: FL
+- ZIP: 33401
+- ZIP extension: 
+- State project ID: 715
+- Latitude: 26.720605
+- Longitude: -80.058564
+- County FIPS: 12099
+- County from: 2020
+- Tract 2020: 12099002400
+- Tract 2010: 12099002400
+- Tract 2000: 12099002400
+- Tract 1990: 12099002400
+- Place 2020: 76600
+- Place 2010: 76600
+- Place 2000: 76600
+- Place 1990: 2215
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 53
+- Low-income units: 52
+- Units reported: 53
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2000185.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: OAKS ASSISTED LIVING (ARA20118032)
+
+- HUD ID: ARA20118032
+- HUD ID before: 
+- Project: OAKS ASSISTED LIVING
+- Address: 1341 S MENA ST
+- City: MENA
+- State: AR
+- ZIP: 71953
+- ZIP extension: 
+- State project ID: 771
+- Latitude: 34.577685
+- Longitude: -94.231753
+- County FIPS: 05113
+- County from: 2020
+- Tract 2020: 05113950400
+- Tract 2010: 05113950400
+- Tract 2000: 05075970500
+- Tract 1990: 05075970500
+- Place 2020: 45170
+- Place 2010: 45170
+- Place 2000: 33580
+- Place 1990: 2050
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 24
+- 1-bedroom units: 6
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2009017, ARA2008090.
+- Record status: Existing, unchanged

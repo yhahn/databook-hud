@@ -1,0 +1,85 @@
+# Project: WOODLAND LAKES (LAA20030060)
+
+- HUD ID: LAA20030060
+- HUD ID before: 
+- Project: WOODLAND LAKES
+- Address: 4499 LAKE CHARLES DRIVE
+- City: LAKE CHARLES
+- State: LA
+- ZIP: 70615
+- ZIP extension: 0000
+- State project ID: LA-01-021
+- Latitude: 30.2219
+- Longitude: -93.1654
+- County FIPS: 22019
+- County from: 2020
+- Tract 2020: 22019001401
+- Tract 2010: 22019001600
+- Tract 2000: 22019001400
+- Tract 1990: 22019001400
+- Place 2020: 99999
+- Place 2010: 41155
+- Place 2000: 
+- Place 1990: 0715
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 10236
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

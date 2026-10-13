@@ -1,0 +1,85 @@
+# Project: NORTH LAKE VILLAGE I (DEA20132005)
+
+- HUD ID: DEA20132005
+- HUD ID before: 
+- Project: NORTH LAKE VILLAGE I
+- Address: 400 N. CATHERINE STREET #31
+- City: MIDDLETOWN
+- State: DE
+- ZIP: 19709
+- ZIP extension: 
+- State project ID: DE26R000007
+- Latitude: 39.454313
+- Longitude: -75.713973
+- County FIPS: 10003
+- County from: 2020
+- Tract 2020: 10003016613
+- Tract 2010: 10003016604
+- Tract 2000: 10003016604
+- Tract 1990: 
+- Place 2020: 47030
+- Place 2010: 47030
+- Place 2000: 47030
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 525474
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 22
+- 3-bedroom units: 12
+- 4-bedroom units: 6
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

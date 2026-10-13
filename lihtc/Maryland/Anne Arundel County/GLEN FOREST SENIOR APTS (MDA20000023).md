@@ -1,0 +1,85 @@
+# Project: GLEN FOREST SENIOR APTS (MDA20000023)
+
+- HUD ID: MDA20000023
+- HUD ID before: 
+- Project: GLEN FOREST SENIOR APTS
+- Address: 7975 CRAIN HWY S
+- City: GLEN BURNIE
+- State: MD
+- ZIP: 21061
+- ZIP extension: 
+- State project ID: MD98-13
+- Latitude: 39.131603
+- Longitude: -76.637924
+- County FIPS: 24003
+- County from: 2020
+- Tract 2020: 24003730514
+- Tract 2010: 24003730505
+- Tract 2000: 24003730503
+- Tract 1990: 24003730503
+- Place 2020: 32650
+- Place 2010: 32650
+- Place 2000: 73550
+- Place 1990: 0922
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

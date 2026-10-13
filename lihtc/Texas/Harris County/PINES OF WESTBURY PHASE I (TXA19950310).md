@@ -1,0 +1,85 @@
+# Project: PINES OF WESTBURY PHASE I (TXA19950310)
+
+- HUD ID: TXA19950310
+- HUD ID before: 
+- Project: PINES OF WESTBURY PHASE I
+- Address: 12500 DUNLAP ST
+- City: HOUSTON
+- State: TX
+- ZIP: 77035
+- ZIP extension: 
+- State project ID: TX1144
+- Latitude: 29.640407
+- Longitude: -95.495587
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201422200
+- Tract 2010: 48201422200
+- Tract 2000: 48201422200
+- Tract 1990: 48201043298
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1975
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 377
+- Low-income units: 377
+- Units reported: 377
+- Low-income reported: 377
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 258
+- 3-bedroom units: 119
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

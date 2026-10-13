@@ -1,0 +1,85 @@
+# Project: VILLAGE AT BLACKSHEAR (GAA20130018)
+
+- HUD ID: GAA20130018
+- HUD ID before: 
+- Project: VILLAGE AT BLACKSHEAR
+- Address: 940 WARE ST
+- City: BLACKSHEAR
+- State: GA
+- ZIP: 31516
+- ZIP extension: 1604
+- State project ID: GA-12-044
+- Latitude: 31.30135
+- Longitude: -82.256229
+- County FIPS: 13229
+- County from: 2020
+- Tract 2020: 13229960301
+- Tract 2010: 13229960300
+- Tract 2000: 13229960300
+- Tract 1990: 13229960300
+- Place 2020: 08284
+- Place 2010: 08284
+- Place 2000: 08284
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1991125.
+- Record status: Existing, unchanged

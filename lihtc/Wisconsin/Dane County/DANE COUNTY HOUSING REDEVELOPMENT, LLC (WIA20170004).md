@@ -1,0 +1,85 @@
+# Project: DANE COUNTY HOUSING REDEVELOPMENT, LLC (WIA20170004)
+
+- HUD ID: WIA20170004
+- HUD ID before: 
+- Project: DANE COUNTY HOUSING REDEVELOPMENT, LLC
+- Address: 1601 VERNON ST
+- City: STOUGHTON
+- State: WI
+- ZIP: 53589
+- ZIP extension: 
+- State project ID: 6132
+- Latitude: 42.916561
+- Longitude: -89.201664
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025012300
+- Tract 2010: 55025012300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 77675
+- Place 2010: 77675
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 179215
+- Units: 54
+- Low-income units: 6
+- Units reported: 54
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

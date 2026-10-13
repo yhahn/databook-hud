@@ -1,0 +1,85 @@
+# Project: LAWSON HEIGHTS II APARTMENTS (LAA20070063)
+
+- HUD ID: LAA20070063
+- HUD ID before: 
+- Project: LAWSON HEIGHTS II APARTMENTS
+- Address: 5759 HARRIS DRIVE
+- City: ALEXANDRIA
+- State: LA
+- ZIP: 71302
+- ZIP extension: 0000
+- State project ID: LA-06-424
+- Latitude: 31.248708
+- Longitude: -92.427736
+- County FIPS: 22079
+- County from: 2020
+- Tract 2020: 22079012700
+- Tract 2010: 22079012700
+- Tract 2000: 22079012500
+- Tract 1990: 22079012500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 0025
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 13004
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: KALAMAZOO VILLAGE SOUTH (MIA20050100)
+
+- HUD ID: MIA20050100
+- HUD ID before: 
+- Project: KALAMAZOO VILLAGE SOUTH
+- Address: 3914 S BURDICK ST
+- City: KALAMAZOO
+- State: MI
+- ZIP: 49001
+- ZIP extension: 
+- State project ID: MI-1947
+- Latitude: 42.2526
+- Longitude: -85.580076
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077001702
+- Tract 2010: 26077001702
+- Tract 2000: 26077001702
+- Tract 1990: 26077001702
+- Place 2020: 42160
+- Place 2010: 42160
+- Place 2000: 42160
+- Place 1990: 1370
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

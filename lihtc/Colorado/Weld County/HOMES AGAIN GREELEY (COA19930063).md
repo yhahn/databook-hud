@@ -1,0 +1,85 @@
+# Project: HOMES AGAIN GREELEY (COA19930063)
+
+- HUD ID: COA19930063
+- HUD ID before: 
+- Project: HOMES AGAIN GREELEY
+- Address: 1329 7TH STREET
+- City: GREELEY
+- State: CO
+- ZIP: 
+- ZIP extension: 
+- State project ID: 9Z01-430
+- Latitude: 40.426059
+- Longitude: -104.700323
+- County FIPS: 08123
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 08123000502
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 32155
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 17
+- Low-income units: 7
+- Units reported: 17
+- Low-income reported: 7
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VINTAGE AT EVERETT (WAA20079133)
+
+- HUD ID: WAA20079133
+- HUD ID before: 
+- Project: VINTAGE AT EVERETT
+- Address: 1001 EAST MARINE VIEW DR
+- City: EVERETT
+- State: WA
+- ZIP: 98201
+- ZIP extension: 
+- State project ID: 04-82A
+- Latitude: 48.003803
+- Longitude: -122.188704
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061040200
+- Tract 2010: 53061040200
+- Tract 2000: 53061040200
+- Tract 1990: 53061040200
+- Place 2020: 22640
+- Place 2010: 22640
+- Place 2000: 22640
+- Place 1990: 0420
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1262739
+- Units: 259
+- Low-income units: 256
+- Units reported: 259
+- Low-income reported: 256
+- Efficiencies: 0
+- 1-bedroom units: 121
+- 2-bedroom units: 138
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

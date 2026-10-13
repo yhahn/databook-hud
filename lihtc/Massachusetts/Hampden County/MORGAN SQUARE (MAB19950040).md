@@ -1,0 +1,85 @@
+# Project: MORGAN SQUARE (MAB19950040)
+
+- HUD ID: MAB19950040
+- HUD ID before: 
+- Project: MORGAN SQUARE
+- Address: 1607 MAIN ST
+- City: SPRINGFIELD
+- State: MA
+- ZIP: 01103
+- ZIP extension: 
+- State project ID: 04+3252546
+- Latitude: 42.103993
+- Longitude: -72.59308
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013801101
+- Tract 2010: 25013801101
+- Tract 2000: 25013801101
+- Tract 1990: 25013801101
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 4090
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 266
+- Low-income units: 240
+- Units reported: 266
+- Low-income reported: 240
+- Efficiencies: 13
+- 1-bedroom units: 214
+- 2-bedroom units: 38
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BRYAN SENIOR HOUSING (OHA20080035)
+
+- HUD ID: OHA20080035
+- HUD ID before: 
+- Project: BRYAN SENIOR HOUSING
+- Address: 1915 E WILSON ST
+- City: BRYAN
+- State: OH
+- ZIP: 43506
+- ZIP extension: 
+- State project ID: 06-0132
+- Latitude: 41.471016
+- Longitude: -84.521866
+- County FIPS: 39171
+- County from: 2020
+- Tract 2020: 39171950600
+- Tract 2010: 39171950600
+- Tract 2000: 39171950600
+- Tract 1990: 39171950600
+- Place 2020: 09792
+- Place 2010: 09792
+- Place 2000: 09792
+- Place 1990: 0575
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 32243
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

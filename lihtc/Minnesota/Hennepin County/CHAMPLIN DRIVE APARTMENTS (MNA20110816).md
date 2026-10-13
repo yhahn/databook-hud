@@ -1,0 +1,85 @@
+# Project: CHAMPLIN DRIVE APARTMENTS (MNA20110816)
+
+- HUD ID: MNA20110816
+- HUD ID before: 
+- Project: CHAMPLIN DRIVE APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: CHAMPLIN
+- State: MN
+- ZIP: 55316
+- ZIP extension: 
+- State project ID: D0287
+- Latitude: 45.169
+- Longitude: -93.3723
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053026906
+- Tract 2010: 27053026906
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 10846
+- Place 2010: 10846
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 42
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

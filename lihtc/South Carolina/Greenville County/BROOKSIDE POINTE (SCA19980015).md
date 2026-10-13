@@ -1,0 +1,85 @@
+# Project: BROOKSIDE POINTE (SCA19980015)
+
+- HUD ID: SCA19980015
+- HUD ID before: 
+- Project: BROOKSIDE POINTE
+- Address: 1600 BROOKS POINTE CIR
+- City: TRAVELERS REST
+- State: SC
+- ZIP: 29690
+- ZIP extension: 
+- State project ID: SC-96-029
+- Latitude: 34.956748
+- Longitude: -82.446299
+- County FIPS: 45045
+- County from: 2020
+- Tract 2020: 45045003906
+- Tract 2010: 45045003904
+- Tract 2000: 45045003904
+- Tract 1990: 45045003904
+- Place 2020: 72430
+- Place 2010: 72430
+- Place 2000: 72430
+- Place 1990: 1430
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 475296
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 56
+- 4-bedroom units: 40
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

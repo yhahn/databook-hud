@@ -1,0 +1,85 @@
+# Project: LODGES AT PINELLAS PARK (FLA20110540)
+
+- HUD ID: FLA20110540
+- HUD ID before: 
+- Project: LODGES AT PINELLAS PARK
+- Address: 6781 PARK BLVD N
+- City: PINELLAS PARK
+- State: FL
+- ZIP: 33781
+- ZIP extension: 
+- State project ID: 2477
+- Latitude: 27.839402
+- Longitude: -82.731542
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103025004
+- Tract 2010: 12103025004
+- Tract 2000: 12103025004
+- Tract 1990: 12103025004
+- Place 2020: 56975
+- Place 2010: 56975
+- Place 2000: 56975
+- Place 1990: 1750
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1603784
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 60
+- 3-bedroom units: 36
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3120000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011130.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PITTSBURGH (GAA19950235)
+
+- HUD ID: GAA19950235
+- HUD ID before: 
+- Project: PITTSBURGH
+- Address: PO BOX 11303
+- City: ATLANTA
+- State: GA
+- ZIP: 30310
+- ZIP extension: 
+- State project ID: GA-93-014
+- Latitude: 33.7255
+- Longitude: -84.422
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121006200
+- Tract 2010: 13121006200
+- Tract 2000: 13121006200
+- Tract 1990: 13121006200
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 7
+- Low-income units: 7
+- Units reported: 7
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PITTSBURGH PARTNERSHIP.
+- Record status: Existing, unchanged

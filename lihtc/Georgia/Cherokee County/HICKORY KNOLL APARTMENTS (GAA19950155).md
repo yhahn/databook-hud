@@ -1,0 +1,85 @@
+# Project: HICKORY KNOLL APARTMENTS (GAA19950155)
+
+- HUD ID: GAA19950155
+- HUD ID before: 
+- Project: HICKORY KNOLL APARTMENTS
+- Address: 800 OAKDALE RD
+- City: CANTON
+- State: GA
+- ZIP: 30114
+- ZIP extension: 
+- State project ID: GA-93-050
+- Latitude: 34.231647
+- Longitude: -84.510273
+- County FIPS: 13057
+- County from: 2020
+- Tract 2020: 13057090605
+- Tract 2010: 13057090601
+- Tract 2000: 13057090601
+- Tract 1990: 13057090600
+- Place 2020: 12988
+- Place 2010: 12988
+- Place 2000: 12988
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 145
+- Low-income units: 143
+- Units reported: 145
+- Low-income reported: 143
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 91
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

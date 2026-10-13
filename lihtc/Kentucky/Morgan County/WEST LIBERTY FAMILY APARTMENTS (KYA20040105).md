@@ -1,0 +1,85 @@
+# Project: WEST LIBERTY FAMILY APARTMENTS (KYA20040105)
+
+- HUD ID: KYA20040105
+- HUD ID before: 
+- Project: WEST LIBERTY FAMILY APARTMENTS
+- Address: W. MAIN ST.
+- City: WEST LIBERTY
+- State: KY
+- ZIP: 41472
+- ZIP extension: 
+- State project ID: KY-01-082
+- Latitude: 37.8752
+- Longitude: -83.2164
+- County FIPS: 21175
+- County from: 2020
+- Tract 2020: 21175950400
+- Tract 2010: 21175950400
+- Tract 2000: 21175950400
+- Tract 1990: 21175950400
+- Place 2020: 81858
+- Place 2010: 81858
+- Place 2000: 
+- Place 1990: 2085
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 46612
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

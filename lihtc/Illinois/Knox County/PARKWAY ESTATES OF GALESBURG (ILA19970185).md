@@ -1,0 +1,85 @@
+# Project: PARKWAY ESTATES OF GALESBURG (ILA19970185)
+
+- HUD ID: ILA19970185
+- HUD ID before: 
+- Project: PARKWAY ESTATES OF GALESBURG
+- Address: 1711 W CARL SANDBURG DR
+- City: GALESBURG
+- State: IL
+- ZIP: 61401
+- ZIP extension: 
+- State project ID: 91795
+- Latitude: 40.963835
+- Longitude: -90.398736
+- County FIPS: 17095
+- County from: 2020
+- Tract 2020: 17095000400
+- Tract 2010: 17095000400
+- Tract 2000: 17095000400
+- Tract 1990: 17095000400
+- Place 2020: 99999
+- Place 2010: 28326
+- Place 2000: 28326
+- Place 1990: 2100
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 122667
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 36
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1997100.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SOUTHFAIR APTS (ORA20000115)
+
+- HUD ID: ORA20000115
+- HUD ID before: 
+- Project: SOUTHFAIR APTS
+- Address: 1901 FAIRGROUNDS RD NE
+- City: SALEM
+- State: OR
+- ZIP: 97301
+- ZIP extension: 
+- State project ID: X001-315
+- Latitude: 44.955434
+- Longitude: -123.022495
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047000300
+- Tract 2010: 41047000300
+- Tract 2000: 41047000300
+- Tract 1990: 41047000300
+- Place 2020: 64900
+- Place 2010: 64900
+- Place 2000: 64900
+- Place 1990: 1005
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 56430
+- Units: 38
+- Low-income units: 32
+- Units reported: 38
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 24
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

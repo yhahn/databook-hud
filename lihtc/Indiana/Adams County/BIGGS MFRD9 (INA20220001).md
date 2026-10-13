@@ -1,0 +1,85 @@
+# Project: BIGGS MFRD9 (INA20220001)
+
+- HUD ID: INA20220001
+- HUD ID before: 
+- Project: BIGGS MFRD9
+- Address: SCATTERED SITES
+- City: SCATTERED
+- State: IN
+- ZIP: 46733
+- ZIP extension: 
+- State project ID: IN-19-02600
+- Latitude: 40.8321
+- Longitude: -84.9431
+- County FIPS: 18001
+- County from: 2020
+- Tract 2020: 18001030200
+- Tract 2010: 18001030200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 17074
+- Place 2010: 17074
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 725000
+- Units: 87
+- Low-income units: 87
+- Units reported: 87
+- Low-income reported: 87
+- Efficiencies: 0
+- 1-bedroom units: 58
+- 2-bedroom units: 29
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

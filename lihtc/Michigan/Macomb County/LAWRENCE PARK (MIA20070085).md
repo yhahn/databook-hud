@@ -1,0 +1,85 @@
+# Project: LAWRENCE PARK (MIA20070085)
+
+- HUD ID: MIA20070085
+- HUD ID before: 
+- Project: LAWRENCE PARK
+- Address: 7000 E 10 MILE RD
+- City: CENTER LINE
+- State: MI
+- ZIP: 48015
+- ZIP extension: 
+- State project ID: MI-663
+- Latitude: 42.477116
+- Longitude: -83.033858
+- County FIPS: 26099
+- County from: 2020
+- Tract 2020: 26099268100
+- Tract 2010: 26099268100
+- Tract 2000: 26099268100
+- Tract 1990: 26099268100
+- Place 2020: 14320
+- Place 2010: 14320
+- Place 2000: 14320
+- Place 1990: 0465
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 635950
+- Units: 252
+- Low-income units: 250
+- Units reported: 252
+- Low-income reported: 250
+- Efficiencies: 0
+- 1-bedroom units: 119
+- 2-bedroom units: 109
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

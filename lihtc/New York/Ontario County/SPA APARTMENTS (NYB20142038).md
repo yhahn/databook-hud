@@ -1,0 +1,85 @@
+# Project: SPA APARTMENTS (NYB20142038)
+
+- HUD ID: NYB20142038
+- HUD ID before: 
+- Project: SPA APARTMENTS
+- Address: 11 EAST MAIN ST
+- City: CLIFTON SPRINGS
+- State: NY
+- ZIP: 14432
+- ZIP extension: 
+- State project ID: NY-14-2248
+- Latitude: 42.961276
+- Longitude: -77.134999
+- County FIPS: 36069
+- County from: 2020
+- Tract 2020: 36069050303
+- Tract 2010: 36069050301
+- Tract 2000: 36069050301
+- Tract 1990: 
+- Place 2020: 16375
+- Place 2010: 16375
+- Place 2000: 16375
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 326347
+- Units: 109
+- Low-income units: 96
+- Units reported: 109
+- Low-income reported: 96
+- Efficiencies: 41
+- 1-bedroom units: 65
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

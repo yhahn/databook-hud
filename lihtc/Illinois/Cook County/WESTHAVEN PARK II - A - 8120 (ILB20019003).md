@@ -1,0 +1,85 @@
+# Project: WESTHAVEN PARK II - A - 8120 (ILB20019003)
+
+- HUD ID: ILB20019003
+- HUD ID before: 
+- Project: WESTHAVEN PARK II - A - 8120
+- Address: 2237 W MAYPOLE AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60612
+- ZIP extension: 2645
+- State project ID: IL-02-025
+- Latitude: 41.883816
+- Longitude: -87.682473
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031837800
+- Tract 2010: 17031837800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 121
+- Low-income units: 97
+- Units reported: 121
+- Low-income reported: 97
+- Efficiencies: 
+- 1-bedroom units: 9
+- 2-bedroom units: 78
+- 3-bedroom units: 29
+- 4-bedroom units: 5
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 68
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

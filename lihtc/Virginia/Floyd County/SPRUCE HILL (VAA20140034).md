@@ -1,0 +1,85 @@
+# Project: SPRUCE HILL (VAA20140034)
+
+- HUD ID: VAA20140034
+- HUD ID before: 
+- Project: SPRUCE HILL
+- Address: 316 PENN AVE NW
+- City: FLOYD
+- State: VA
+- ZIP: 24091
+- ZIP extension: 
+- State project ID: 1079
+- Latitude: 36.914088
+- Longitude: -80.322793
+- County FIPS: 51063
+- County from: 2020
+- Tract 2020: 51063920104
+- Tract 2010: 51063920101
+- Tract 2000: 51063990100
+- Tract 1990: 51063990100
+- Place 2020: 28544
+- Place 2010: 28544
+- Place 2000: 28544
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 234749
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: REALLOCATION BUT NO INFO ON EARLIER RECORD.
+- Record status: Existing, unchanged

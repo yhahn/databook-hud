@@ -1,0 +1,85 @@
+# Project: PINEWOOD MANOR (ALA19960182)
+
+- HUD ID: ALA19960182
+- HUD ID before: 
+- Project: PINEWOOD MANOR
+- Address: 201 BELL GRAYSON RD
+- City: DEMOPOLIS
+- State: AL
+- ZIP: 36732
+- ZIP extension: 
+- State project ID: AL-96-0022
+- Latitude: 32.488653
+- Longitude: -87.811522
+- County FIPS: 01091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01091972900
+- Tract 2000: 01091982900
+- Tract 1990: 01091982900
+- Place 2020: 
+- Place 2010: 20296
+- Place 2000: 20296
+- Place 1990: 0485
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 46112
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 3
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1997135.
+- Record status: Existing, unchanged

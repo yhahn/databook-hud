@@ -1,0 +1,85 @@
+# Project: LAKESHORE APTS (ALA20080025)
+
+- HUD ID: ALA20080025
+- HUD ID before: 
+- Project: LAKESHORE APTS
+- Address: 205 LAKEVIEW RD
+- City: TUSKEGEE
+- State: AL
+- ZIP: 36083
+- ZIP extension: 
+- State project ID: AL-90-0024
+- Latitude: 32.423156
+- Longitude: -85.673495
+- County FIPS: 01087
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01087231602
+- Tract 2000: 01087982000
+- Tract 1990: 01087982000
+- Place 2020: 
+- Place 2010: 77304
+- Place 2000: 77304
+- Place 1990: 1730
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 140297
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1991135, ALA1990077. FKA LAKESHORE APTS PHASES I & II
+- Record status: Existing, unchanged

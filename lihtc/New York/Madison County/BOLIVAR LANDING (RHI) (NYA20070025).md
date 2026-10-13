@@ -1,0 +1,85 @@
+# Project: BOLIVAR LANDING (RHI) (NYA20070025)
+
+- HUD ID: NYA20070025
+- HUD ID before: 
+- Project: BOLIVAR LANDING (RHI)
+- Address: 6860 BOLIVAR RD
+- City: SULLIVAN
+- State: NY
+- ZIP: 13037
+- ZIP extension: 
+- State project ID: 20060031
+- Latitude: 43.055124
+- Longitude: -75.881173
+- County FIPS: 36053
+- County from: 2020
+- Tract 2020: 36053030401
+- Tract 2010: 36053940403
+- Tract 2000: 36053030403
+- Tract 1990: 36053030403
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 15561
+- Place 1990: 0675
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 240065
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 946537
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA2008060. AKA BOLIVAR LANDING.
+- Record status: Existing, unchanged

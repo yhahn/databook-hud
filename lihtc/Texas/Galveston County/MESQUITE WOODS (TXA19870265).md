@@ -1,0 +1,85 @@
+# Project: MESQUITE WOODS (TXA19870265)
+
+- HUD ID: TXA19870265
+- HUD ID before: 
+- Project: MESQUITE WOODS
+- Address: 5809 DELANY RD
+- City: HITCHCOCK
+- State: TX
+- ZIP: 77563
+- ZIP extension: 
+- State project ID: TX6352
+- Latitude: 29.362759
+- Longitude: -95.020322
+- County FIPS: 48167
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48167723200
+- Tract 2000: 48167723200
+- Tract 1990: 48167121800
+- Place 2020: 
+- Place 2010: 34220
+- Place 2000: 34220
+- Place 1990: 1935
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

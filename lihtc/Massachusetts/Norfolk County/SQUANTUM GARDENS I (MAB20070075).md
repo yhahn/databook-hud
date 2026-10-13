@@ -1,0 +1,85 @@
+# Project: SQUANTUM GARDENS I (MAB20070075)
+
+- HUD ID: MAB20070075
+- HUD ID before: 
+- Project: SQUANTUM GARDENS I
+- Address: 400 E SQUANTUM ST
+- City: QUINCY
+- State: MA
+- ZIP: 02171
+- ZIP extension: 
+- State project ID: MA08-80012
+- Latitude: 42.288482
+- Longitude: -71.023263
+- County FIPS: 25021
+- County from: 2020
+- Tract 2020: 25021417300
+- Tract 2010: 25021417300
+- Tract 2000: 25021417300
+- Tract 1990: 25021417300
+- Place 2020: 55745
+- Place 2010: 55745
+- Place 2000: 55745
+- Place 1990: 3460
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1350000
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 110
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 61
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 450000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAA2007020. AKA MOORINGS AT SQUANTUM GARDENS.
+- Record status: Existing, unchanged

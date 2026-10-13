@@ -1,0 +1,85 @@
+# Project: SCHMIDT ARTIST LOFTS (MNA20142022)
+
+- HUD ID: MNA20142022
+- HUD ID before: 
+- Project: SCHMIDT ARTIST LOFTS
+- Address: 900 WEST 7TH STREET
+- City: SAINT PAUL
+- State: MN
+- ZIP: 55102
+- ZIP extension: 3553
+- State project ID: D7523
+- Latitude: 44.928877
+- Longitude: -93.124668
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123036900
+- Tract 2010: 27123036900
+- Tract 2000: 27123036900
+- Tract 1990: 
+- Place 2020: 58000
+- Place 2010: 58000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 3437667
+- Units: 260
+- Low-income units: 259
+- Units reported: 260
+- Low-income reported: 259
+- Efficiencies: 8
+- 1-bedroom units: 135
+- 2-bedroom units: 97
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 300000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Artists
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

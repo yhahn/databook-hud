@@ -1,0 +1,85 @@
+# Project: BAYSHORE VILLAGE (NJA20170004)
+
+- HUD ID: NJA20170004
+- HUD ID before: 
+- Project: BAYSHORE VILLAGE
+- Address: 100 SHOAL HARBOR COURT
+- City: MIDDLETOWN TWP.
+- State: NJ
+- ZIP: 07758
+- ZIP extension: 
+- State project ID: 1558
+- Latitude: 40.429952
+- Longitude: -74.104449
+- County FIPS: 34025
+- County from: 2020
+- Tract 2020: 34025800601
+- Tract 2010: 34025800601
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 60360
+- Place 2010: 60360
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 794877
+- Units: 109
+- Low-income units: 109
+- Units reported: 109
+- Low-income reported: 109
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

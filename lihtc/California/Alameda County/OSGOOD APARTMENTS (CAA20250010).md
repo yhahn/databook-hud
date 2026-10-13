@@ -1,0 +1,85 @@
+# Project: OSGOOD APARTMENTS (CAA20250010)
+
+- HUD ID: CAA20250010
+- HUD ID before: 
+- Project: OSGOOD APARTMENTS
+- Address: 41829 OSGOOD ROAD
+- City: FREMONT
+- State: CA
+- ZIP: 94539
+- ZIP extension: 
+- State project ID: CA-2021-655
+- Latitude: 37.530027
+- Longitude: -121.952445
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001442200
+- Tract 2010: 06001442200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26000
+- Place 2010: 26000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2025
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 3420815
+- Units: 112
+- Low-income units: 111
+- Units reported: 112
+- Low-income reported: 111
+- Efficiencies: 50
+- 1-bedroom units: 
+- 2-bedroom units: 32
+- 3-bedroom units: 30
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Sensory impaired pursuant to CBC Chapter 11B, ADA and Accessible Units pursuant to CBC Chapter 11B
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

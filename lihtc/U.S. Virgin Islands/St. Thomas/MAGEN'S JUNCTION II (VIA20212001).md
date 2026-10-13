@@ -1,0 +1,85 @@
+# Project: MAGEN'S JUNCTION II (VIA20212001)
+
+- HUD ID: VIA20212001
+- HUD ID before: 
+- Project: MAGEN'S JUNCTION II
+- Address: JOSEPH + ROSENDAHL 7-1 GR NORTHSIDE QTR,
+- City: ST THOMAS
+- State: VI
+- ZIP: 00802
+- ZIP extension: 
+- State project ID: VI-99-999
+- Latitude: 18.3388
+- Longitude: -64.9133
+- County FIPS: 78030
+- County from: 2020
+- Tract 2020: 78030961100
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 16300
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 30
+- 2-bedroom units: 30
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

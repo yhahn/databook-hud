@@ -1,0 +1,85 @@
+# Project: FAIRMONT TOWERS APTS. (LAA20010057)
+
+- HUD ID: LAA20010057
+- HUD ID before: 
+- Project: FAIRMONT TOWERS APTS.
+- Address: 726 COTTON STREET
+- City: SHREVEPORT
+- State: LA
+- ZIP: 71101
+- ZIP extension: 0000
+- State project ID: LA-99-044
+- Latitude: 32.508932
+- Longitude: -93.749544
+- County FIPS: 22017
+- County from: 2020
+- Tract 2020: 22017025300
+- Tract 2010: 22017025300
+- Tract 2000: 22017020100
+- Tract 1990: 22017020100
+- Place 2020: 70000
+- Place 2010: 70000
+- Place 2000: 70000
+- Place 1990: 1240
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 289290
+- Units: 254
+- Low-income units: 226
+- Units reported: 254
+- Low-income reported: 226
+- Efficiencies: 153
+- 1-bedroom units: 81
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Acquisition/Rehab
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

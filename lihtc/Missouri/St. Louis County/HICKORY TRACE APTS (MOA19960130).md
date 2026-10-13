@@ -1,0 +1,85 @@
+# Project: HICKORY TRACE APTS (MOA19960130)
+
+- HUD ID: MOA19960130
+- HUD ID before: 
+- Project: HICKORY TRACE APTS
+- Address: 3591 DEHART PL
+- City: ST ANN
+- State: MO
+- ZIP: 63074
+- ZIP extension: 
+- State project ID: 95035
+- Latitude: 38.720151
+- Longitude: -90.372109
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189214700
+- Tract 2010: 29189214700
+- Tract 2000: 29189214700
+- Tract 1990: 29189214700
+- Place 2020: 08164
+- Place 2010: 08164
+- Place 2000: 08164
+- Place 1990: 0520
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 126
+- Low-income units: 116
+- Units reported: 126
+- Low-income reported: 116
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

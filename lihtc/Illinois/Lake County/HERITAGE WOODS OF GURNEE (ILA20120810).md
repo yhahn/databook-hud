@@ -1,0 +1,85 @@
+# Project: HERITAGE WOODS OF GURNEE (ILA20120810)
+
+- HUD ID: ILA20120810
+- HUD ID before: 
+- Project: HERITAGE WOODS OF GURNEE
+- Address: 3755 GRAND AVE
+- City: GURNEE
+- State: IL
+- ZIP: 60031
+- ZIP extension: 
+- State project ID: 1028510
+- Latitude: 42.370505
+- Longitude: -87.893171
+- County FIPS: 17097
+- County from: 2020
+- Tract 2020: 17097861510
+- Tract 2010: 17097861510
+- Tract 2000: 17097861510
+- Tract 1990: 17097861503
+- Place 2020: 32018
+- Place 2010: 32018
+- Place 2000: 32018
+- Place 1990: 2385
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 1113922
+- Units: 105
+- Low-income units: 84
+- Units reported: 105
+- Low-income reported: 84
+- Efficiencies: 33
+- 1-bedroom units: 72
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

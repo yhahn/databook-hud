@@ -1,0 +1,85 @@
+# Project: LESTER MORTON COURT (MDA20050075)
+
+- HUD ID: MDA20050075
+- HUD ID before: 
+- Project: LESTER MORTON COURT
+- Address: 1525 LESTER MORTON CT
+- City: BALTIMORE
+- State: MD
+- ZIP: 21205
+- ZIP extension: 
+- State project ID: MD04-24001
+- Latitude: 39.298808
+- Longitude: -76.597141
+- County FIPS: 24510
+- County from: 2020
+- Tract 2020: 24510070400
+- Tract 2010: 24510070400
+- Tract 2000: 24510070400
+- Tract 1990: 24510070400
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0025
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 30
+- 3-bedroom units: 28
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SPECIAL NEEDS, ALTERNATIVE HOUSING
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

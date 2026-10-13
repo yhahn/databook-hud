@@ -1,0 +1,24 @@
+# Tax Credit Projects: Perry County, MO
+
+- Level: County
+- Postal code: MO
+- State FIPS: 29
+- County FIPS: 29157
+- Counties: 
+- Projects: 7
+- Units: 219
+- Low-income units: 213
+
+The low-income housing tax credit projects of Perry County, Missouri, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [WINKLER DRIVE (MOA19890840)](./Perry%20County/WINKLER%20DRIVE%20%28MOA19890840%29.md) | MOA19890840 | PERRYVILLE | 1989 | 24 | 24 |
+| [CREEKWOOD APTS (MOA19980055)](./Perry%20County/CREEKWOOD%20APTS%20%28MOA19980055%29.md) | MOA19980055 | PERRYVILLE | 1998 | 40 | 40 |
+| [PERRYVILLE MANOR APTS (MOA20030115)](./Perry%20County/PERRYVILLE%20MANOR%20APTS%20%28MOA20030115%29.md) | MOA20030115 | PERRYVILLE | 2003 | 28 | 28 |
+| [BREEZEWAY ESTATES (MOA20089113)](./Perry%20County/BREEZEWAY%20ESTATES%20%28MOA20089113%29.md) | MOA20089113 | PERRYVILLE | 2008 | 15 | 15 |
+| [SYCAMORE VILLAGE APTS (MOA20109127)](./Perry%20County/SYCAMORE%20VILLAGE%20APTS%20%28MOA20109127%29.md) | MOA20109127 | PERRYVILLE | 2010 | 36 | 36 |
+| [THE MEADOWS OF PERRYVILLE (MOA20170031)](./Perry%20County/THE%20MEADOWS%20OF%20PERRYVILLE%20%28MOA20170031%29.md) | MOA20170031 | PERRYVILLE | 2017 | 48 | 48 |
+| [PIRATES POINTE (MOA20210008)](./Perry%20County/PIRATES%20POINTE%20%28MOA20210008%29.md) | MOA20210008 | PERRYVILLE | 2021 | 28 | 22 |

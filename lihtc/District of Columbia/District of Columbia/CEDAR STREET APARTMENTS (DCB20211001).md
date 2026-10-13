@@ -1,0 +1,85 @@
+# Project: CEDAR STREET APARTMENTS (DCB20211001)
+
+- HUD ID: DCB20211001
+- HUD ID before: 
+- Project: CEDAR STREET APARTMENTS
+- Address: 410 CEDAR STREET, NW
+- City: WASHINGTON
+- State: DC
+- ZIP: 20012
+- ZIP extension: 
+- State project ID: DCB2023020
+- Latitude: 38.974547
+- Longitude: -77.018196
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001001702
+- Tract 2010: 11001001702
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 4340080
+- Units: 40
+- Low-income units: 30
+- Units reported: 40
+- Low-income reported: 30
+- Efficiencies: 
+- 1-bedroom units: 14
+- 2-bedroom units: 15
+- 3-bedroom units: 1
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

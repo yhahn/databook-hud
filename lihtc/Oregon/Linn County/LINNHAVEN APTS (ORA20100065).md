@@ -1,0 +1,85 @@
+# Project: LINNHAVEN APTS (ORA20100065)
+
+- HUD ID: ORA20100065
+- HUD ID before: 
+- Project: LINNHAVEN APTS
+- Address: 1220 23RD AVE
+- City: SWEET HOME
+- State: OR
+- ZIP: 97386
+- ZIP extension: 
+- State project ID: OR09-322
+- Latitude: 44.39869
+- Longitude: -122.716402
+- County FIPS: 41043
+- County from: 2020
+- Tract 2020: 41043030401
+- Tract 2010: 41043030401
+- Tract 2000: 41043030401
+- Tract 1990: 41043030401
+- Place 2020: 71950
+- Place 2010: 71950
+- Place 2000: 71950
+- Place 1990: 1120
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 362100
+- Units: 51
+- Low-income units: 50
+- Units reported: 51
+- Low-income reported: 50
+- Efficiencies: 6
+- 1-bedroom units: 28
+- 2-bedroom units: 16
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 585000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3074905
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA STONEBROOK APTS.
+- Record status: Existing, unchanged

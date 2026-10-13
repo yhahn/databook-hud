@@ -1,0 +1,85 @@
+# Project: NORTHPOINT CROSSING APTS (WIA20040100)
+
+- HUD ID: WIA20040100
+- HUD ID before: 
+- Project: NORTHPOINT CROSSING APTS
+- Address: 1728 BIRCH RD
+- City: KENOSHA
+- State: WI
+- ZIP: 53140
+- ZIP extension: 
+- State project ID: 3001
+- Latitude: 42.626528
+- Longitude: -87.830174
+- County FIPS: 55059
+- County from: 2020
+- Tract 2020: 55059000501
+- Tract 2010: 55059000500
+- Tract 2000: 55059000500
+- Tract 1990: 55059000500
+- Place 2020: 39225
+- Place 2010: 39225
+- Place 2000: 39225
+- Place 1990: 1280
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 71
+- Units reported: 72
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

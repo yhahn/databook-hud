@@ -1,0 +1,85 @@
+# Project: 61-63 WARD STREET (CTA19890020)
+
+- HUD ID: CTA19890020
+- HUD ID before: 
+- Project: 61-63 WARD STREET
+- Address: 61 WARD ST
+- City: WATERBURY
+- State: CT
+- ZIP: 06704
+- ZIP extension: 
+- State project ID: CT-89-502
+- Latitude: 41.560974
+- Longitude: -73.028737
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009350300
+- Tract 2010: 09009350300
+- Tract 2000: 09009350300
+- Tract 1990: 09009350300
+- Place 2020: 80000
+- Place 2010: 80000
+- Place 2000: 80000
+- Place 1990: 2460
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

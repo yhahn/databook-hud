@@ -1,0 +1,85 @@
+# Project: SUMMER FIELD (CAA20020405)
+
+- HUD ID: CAA20020405
+- HUD ID before: 
+- Project: SUMMER FIELD
+- Address: 83 421 CAPRICORN ST
+- City: INDIO
+- State: CA
+- ZIP: 
+- ZIP extension: 
+- State project ID: CA-01-887
+- Latitude: 
+- Longitude: 
+- County FIPS: 06065
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 728916
+- Units: 268
+- Low-income units: 265
+- Units reported: 268
+- Low-income reported: 265
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 92
+- 3-bedroom units: 96
+- 4-bedroom units: 32
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA INDIO SUMMERFIELD.
+- Record status: Existing, unchanged

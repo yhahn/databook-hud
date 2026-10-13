@@ -1,0 +1,85 @@
+# Project: SAVANNAH COVE (FLA20040200)
+
+- HUD ID: FLA20040200
+- HUD ID before: 
+- Project: SAVANNAH COVE
+- Address: 1124 LAUREN LN
+- City: TARPON SPRINGS
+- State: FL
+- ZIP: 34689
+- ZIP extension: 
+- State project ID: 1353
+- Latitude: 28.130549
+- Longitude: -82.754926
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103027404
+- Tract 2010: 12103027402
+- Tract 2000: 12103027402
+- Tract 1990: 12103027402
+- Place 2020: 71150
+- Place 2010: 71150
+- Place 2000: 71150
+- Place 1990: 2080
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 80
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

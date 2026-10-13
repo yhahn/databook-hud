@@ -1,0 +1,85 @@
+# Project: 621 DREXEL AVENUE (NJA19899019)
+
+- HUD ID: NJA19899019
+- HUD ID before: 
+- Project: 621 DREXEL AVENUE
+- Address: 621 DREXEL AVENUE
+- City: ATLANTIC CITY
+- State: NJ
+- ZIP: 08401
+- ZIP extension: 
+- State project ID: 01698
+- Latitude: 39.371019
+- Longitude: -74.421612
+- County FIPS: 34001
+- County from: 2020
+- Tract 2020: 34001001400
+- Tract 2010: 34001001400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02080
+- Place 2010: 02080
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

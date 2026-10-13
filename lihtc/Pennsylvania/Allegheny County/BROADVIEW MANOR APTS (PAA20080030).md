@@ -1,0 +1,85 @@
+# Project: BROADVIEW MANOR APTS (PAA20080030)
+
+- HUD ID: PAA20080030
+- HUD ID before: 
+- Project: BROADVIEW MANOR APTS
+- Address: 270 BROADWAY
+- City: PITCAIRN
+- State: PA
+- ZIP: 15140
+- ZIP extension: 
+- State project ID: TC20070101
+- Latitude: 40.401062
+- Longitude: -79.783057
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003522000
+- Tract 2010: 42003522000
+- Tract 2000: 42003522000
+- Tract 1990: 42003522000
+- Place 2020: 60712
+- Place 2010: 60712
+- Place 2000: 60712
+- Place 1990: 7232
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 92741
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 72
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

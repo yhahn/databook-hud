@@ -1,0 +1,85 @@
+# Project: COOPER HOUSE (NDA20100010)
+
+- HUD ID: NDA20100010
+- HUD ID before: 
+- Project: COOPER HOUSE
+- Address: 414 11TH ST N
+- City: FARGO
+- State: ND
+- ZIP: 58102
+- ZIP extension: 
+- State project ID: TC0807
+- Latitude: 46.880925
+- Longitude: -96.795721
+- County FIPS: 38017
+- County from: 2020
+- Tract 2020: 38017000602
+- Tract 2010: 38017000600
+- Tract 2000: 38017000600
+- Tract 1990: 38017000600
+- Place 2020: 25700
+- Place 2010: 25700
+- Place 2000: 25700
+- Place 1990: 0545
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 375828
+- Units: 43
+- Low-income units: 42
+- Units reported: 43
+- Low-income reported: 42
+- Efficiencies: 33
+- 1-bedroom units: 10
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

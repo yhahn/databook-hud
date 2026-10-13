@@ -1,0 +1,85 @@
+# Project: FOREST HILLS APTS (MSA19940040)
+
+- HUD ID: MSA19940040
+- HUD ID before: 
+- Project: FOREST HILLS APTS
+- Address: 320 FISHER FERRY RD
+- City: VICKSBURG
+- State: MS
+- ZIP: 39180
+- ZIP extension: 
+- State project ID: MS-129
+- Latitude: 32.287201
+- Longitude: -90.867785
+- County FIPS: 28149
+- County from: 2020
+- Tract 2020: 28149951101
+- Tract 2010: 28149951101
+- Tract 2000: 28149950800
+- Tract 1990: 28149950800
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 76720
+- Place 1990: 1390
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 62
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

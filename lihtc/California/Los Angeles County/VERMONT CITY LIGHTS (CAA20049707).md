@@ -1,0 +1,85 @@
+# Project: VERMONT CITY LIGHTS (CAA20049707)
+
+- HUD ID: CAA20049707
+- HUD ID before: 
+- Project: VERMONT CITY LIGHTS
+- Address: 4215 - 4225 S VERMONT AVE AND 1011 W 42ND PL
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90017
+- ZIP extension: 
+- State project ID: CA-03-009
+- Latitude: 34.007014
+- Longitude: -118.291743
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037231603
+- Tract 2010: 06037231600
+- Tract 2000: 06037209102
+- Tract 1990: 06037209102
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 58
+- Units reported: 60
+- Low-income reported: 58
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

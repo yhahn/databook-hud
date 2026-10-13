@@ -1,0 +1,85 @@
+# Project: HUDSON PARK TOWERS (PAA19900325)
+
+- HUD ID: PAA19900325
+- HUD ID before: 
+- Project: HUDSON PARK TOWERS
+- Address: 401 RIDGE AVE
+- City: YORK
+- State: PA
+- ZIP: 17403
+- ZIP extension: 
+- State project ID: TC1989-0023
+- Latitude: 39.971768
+- Longitude: -76.717238
+- County FIPS: 42133
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42133000300
+- Tract 2000: 42133000300
+- Tract 1990: 42133000300
+- Place 2020: 
+- Place 2010: 87048
+- Place 2000: 87048
+- Place 1990: 9034
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 260040
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 120000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

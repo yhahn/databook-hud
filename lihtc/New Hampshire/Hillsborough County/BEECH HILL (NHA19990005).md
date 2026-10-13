@@ -1,0 +1,85 @@
+# Project: BEECH HILL (NHA19990005)
+
+- HUD ID: NHA19990005
+- HUD ID before: 
+- Project: BEECH HILL
+- Address: 136 BEECH HILL AVE
+- City: MANCHESTER
+- State: NH
+- ZIP: 03103
+- ZIP extension: 
+- State project ID: 99-30-MF-617
+- Latitude: 42.959409
+- Longitude: -71.452332
+- County FIPS: 33011
+- County from: 2020
+- Tract 2020: 33011002400
+- Tract 2010: 33011002400
+- Tract 2000: 33011002400
+- Tract 1990: 33011002400
+- Place 2020: 45140
+- Place 2010: 45140
+- Place 2000: 45140
+- Place 1990: 1610
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 320
+- Low-income units: 288
+- Units reported: 320
+- Low-income reported: 288
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 260
+- 3-bedroom units: 42
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BEECH HILL PARK I.
+- Record status: Existing, unchanged

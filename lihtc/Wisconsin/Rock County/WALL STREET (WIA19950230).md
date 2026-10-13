@@ -1,0 +1,85 @@
+# Project: WALL STREET (WIA19950230)
+
+- HUD ID: WIA19950230
+- HUD ID before: 
+- Project: WALL STREET
+- Address: 2700 W WALL ST
+- City: JANESVILLE
+- State: WI
+- ZIP: 53548
+- ZIP extension: 
+- State project ID: 1590
+- Latitude: 42.680852
+- Longitude: -89.054904
+- County FIPS: 55105
+- County from: 2020
+- Tract 2020: 55105001201
+- Tract 2010: 55105001201
+- Tract 2000: 55105001200
+- Tract 1990: 55105001200
+- Place 2020: 37825
+- Place 2010: 37825
+- Place 2000: 37825
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 22
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA JANESVILLE WALL ST LLC.
+- Record status: Existing, unchanged

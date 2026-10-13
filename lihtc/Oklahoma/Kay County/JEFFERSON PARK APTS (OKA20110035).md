@@ -1,0 +1,85 @@
+# Project: JEFFERSON PARK APTS (OKA20110035)
+
+- HUD ID: OKA20110035
+- HUD ID before: 
+- Project: JEFFERSON PARK APTS
+- Address: 1012 S TENTH ST
+- City: BLACKWELL
+- State: OK
+- ZIP: 74631
+- ZIP extension: 
+- State project ID: 090937
+- Latitude: 36.794677
+- Longitude: -97.296438
+- County FIPS: 40071
+- County from: 2020
+- Tract 2020: 40071001301
+- Tract 2010: 40071001301
+- Tract 2000: 40071001000
+- Tract 1990: 40071001000
+- Place 2020: 06600
+- Place 2010: 06600
+- Place 2000: 06600
+- Place 1990: 0205
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 16
+- 1-bedroom units: 10
+- 2-bedroom units: 14
+- 3-bedroom units: 14
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 42
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2602955
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OKA2011512.
+- Record status: Existing, unchanged

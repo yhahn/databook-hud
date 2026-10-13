@@ -1,0 +1,85 @@
+# Project: COLGAN MEADOWS (CAA20080215)
+
+- HUD ID: CAA20080215
+- HUD ID before: 
+- Project: COLGAN MEADOWS
+- Address: 2701 CREEK PARK LN
+- City: SANTA ROSA
+- State: CA
+- ZIP: 95407
+- ZIP extension: 
+- State project ID: CA-07-819
+- Latitude: 38.403628
+- Longitude: -122.726621
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097153201
+- Tract 2010: 06097153200
+- Tract 2000: 06097153200
+- Tract 1990: 06097153200
+- Place 2020: 70098
+- Place 2010: 70098
+- Place 2000: 62546
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1050625
+- Units: 84
+- Low-income units: 83
+- Units reported: 84
+- Low-income reported: 83
+- Efficiencies: 2
+- 1-bedroom units: 22
+- 2-bedroom units: 25
+- 3-bedroom units: 32
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 74
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

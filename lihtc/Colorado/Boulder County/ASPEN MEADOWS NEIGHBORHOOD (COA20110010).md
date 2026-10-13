@@ -1,0 +1,85 @@
+# Project: ASPEN MEADOWS NEIGHBORHOOD (COA20110010)
+
+- HUD ID: COA20110010
+- HUD ID before: 
+- Project: ASPEN MEADOWS NEIGHBORHOOD
+- Address: 50 21ST AVE
+- City: LONGMONT
+- State: CO
+- ZIP: 80501
+- ZIP extension: 
+- State project ID: 2009017
+- Latitude: 40.195987
+- Longitude: -105.094287
+- County FIPS: 08013
+- County from: 2020
+- Tract 2020: 08013013505
+- Tract 2010: 08013013505
+- Tract 2000: 08013013501
+- Tract 1990: 08013013501
+- Place 2020: 45970
+- Place 2010: 45970
+- Place 2000: 45970
+- Place 1990: 0820
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 522549
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 6
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS COA2011503.
+- Record status: Existing, unchanged

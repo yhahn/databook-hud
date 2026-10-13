@@ -1,0 +1,85 @@
+# Project: ELMWOOD GARDEN APTS (PAA20070050)
+
+- HUD ID: PAA20070050
+- HUD ID before: 
+- Project: ELMWOOD GARDEN APTS
+- Address: 100 HARLAN DR
+- City: COATESVILLE
+- State: PA
+- ZIP: 19320
+- ZIP extension: 
+- State project ID: TC20050631
+- Latitude: 39.987503
+- Longitude: -75.818354
+- County FIPS: 42029
+- County from: 2020
+- Tract 2020: 42029305500
+- Tract 2010: 42029305500
+- Tract 2000: 42029305500
+- Tract 1990: 42029305500
+- Place 2020: 14712
+- Place 2010: 14712
+- Place 2000: 14712
+- Place 1990: 2125
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 713896
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 43
+- 3-bedroom units: 8
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 516509
+- CDBG: Yes
+- CDBG amount: 773000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GABILAN HILLS TOWNHOMES (CAA19950058)
+
+- HUD ID: CAA19950058
+- HUD ID before: 
+- Project: GABILAN HILLS TOWNHOMES
+- Address: 1051 PASEO GRANDE
+- City: SALINAS
+- State: CA
+- ZIP: 93905
+- ZIP extension: 
+- State project ID: CA-94-138
+- Latitude: 36.690809
+- Longitude: -121.603208
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053010605
+- Tract 2010: 06053010605
+- Tract 2000: 06053010605
+- Tract 1990: 06053010601
+- Place 2020: 64224
+- Place 2010: 64224
+- Place 2000: 64224
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 1119013
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

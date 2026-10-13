@@ -1,0 +1,85 @@
+# Project: WOODLANDS APTS (COA19970100)
+
+- HUD ID: COA19970100
+- HUD ID before: 
+- Project: WOODLANDS APTS
+- Address: 1025 WAKEROBIN LN
+- City: FORT COLLINS
+- State: CO
+- ZIP: 80526
+- ZIP extension: 
+- State project ID: 9511
+- Latitude: 40.524663
+- Longitude: -105.094237
+- County FIPS: 08069
+- County from: 2020
+- Tract 2020: 08069001109
+- Tract 2010: 08069001109
+- Tract 2000: 08069001109
+- Tract 1990: 08069001109
+- Place 2020: 27425
+- Place 2010: 27425
+- Place 2000: 27425
+- Place 1990: 0455
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 116
+- Low-income units: 115
+- Units reported: 116
+- Low-income reported: 115
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 64
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

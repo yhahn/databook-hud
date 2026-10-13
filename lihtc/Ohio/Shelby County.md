@@ -1,0 +1,25 @@
+# Tax Credit Projects: Shelby County, OH
+
+- Level: County
+- Postal code: OH
+- State FIPS: 39
+- County FIPS: 39149
+- Counties: 
+- Projects: 8
+- Units: 349
+- Low-income units: 310
+
+The low-income housing tax credit projects of Shelby County, Ohio, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [BLOSSOM VILLAGE APTS (OHA19890065)](./Shelby%20County/BLOSSOM%20VILLAGE%20APTS%20%28OHA19890065%29.md) | OHA19890065 | JACKSON CTR | 1989 | 18 | 18 |
+| [BUCKEYE AVENUE (OHA19910070)](./Shelby%20County/BUCKEYE%20AVENUE%20%28OHA19910070%29.md) | OHA19910070 | SIDNEY | 1991 | 29 | 29 |
+| [NORTHSIDE COMMONS (OHA19930230)](./Shelby%20County/NORTHSIDE%20COMMONS%20%28OHA19930230%29.md) | OHA19930230 | SIDNEY | 1993 | 33 | 33 |
+| [AUTUMN PARK RETIREMENT (OHA19940020)](./Shelby%20County/AUTUMN%20PARK%20RETIREMENT%20%28OHA19940020%29.md) | OHA19940020 | SIDNEY | 1994 | 21 | 21 |
+| [OLDHAM TOWERS (OHA19950215)](./Shelby%20County/OLDHAM%20TOWERS%20%28OHA19950215%29.md) | OHA19950215 | SIDNEY | 1995 | 60 | 60 |
+| [SIDNEY VILLAGE (OHA19960225)](./Shelby%20County/SIDNEY%20VILLAGE%20%28OHA19960225%29.md) | OHA19960225 | SIDNEY | 1996 | 32 | 32 |
+| [SYCAMORE CREEK APTS (OHA20009250)](./Shelby%20County/SYCAMORE%20CREEK%20APTS%20%28OHA20009250%29.md) | OHA20009250 | SIDNEY | 2000 | 96 | 57 |
+| [COUNTRYSIDE COMMONS (OHA20089310)](./Shelby%20County/COUNTRYSIDE%20COMMONS%20%28OHA20089310%29.md) | OHA20089310 | SIDNEY | 2008 | 60 | 60 |

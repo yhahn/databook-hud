@@ -1,0 +1,85 @@
+# Project: #733 HILLCREST MANOR (NJA20096003)
+
+- HUD ID: NJA20096003
+- HUD ID before: 
+- Project: #733 HILLCREST MANOR
+- Address: 2097 HIGHWAY 35
+- City: SOUTH AMBOY
+- State: NJ
+- ZIP: 08879
+- ZIP extension: 1499
+- State project ID: 01411-1
+- Latitude: 40.471999
+- Longitude: -74.285205
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023007600
+- Tract 2010: 34023007600
+- Tract 2000: 34023007402
+- Tract 1990: 
+- Place 2020: 68550
+- Place 2010: 68550
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 221448
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

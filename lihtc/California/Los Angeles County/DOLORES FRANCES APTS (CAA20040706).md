@@ -1,0 +1,85 @@
+# Project: DOLORES FRANCES APTS (CAA20040706)
+
+- HUD ID: CAA20040706
+- HUD ID before: 
+- Project: DOLORES FRANCES APTS
+- Address: 1809 W 11TH ST
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90006
+- ZIP extension: 
+- State project ID: CA-03-809
+- Latitude: 34.049154
+- Longitude: -118.27789
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037209520
+- Tract 2010: 06037209520
+- Tract 2000: 06037209520
+- Tract 1990: 06037209500
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 1033999
+- Units: 390
+- Low-income units: 366
+- Units reported: 390
+- Low-income reported: 366
+- Efficiencies: 64
+- 1-bedroom units: 148
+- 2-bedroom units: 67
+- 3-bedroom units: 77
+- 4-bedroom units: 14
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 80
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA PICO UNION
+- Record status: Existing, unchanged

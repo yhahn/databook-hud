@@ -1,0 +1,85 @@
+# Project: MADISON APTS (MTA19970050)
+
+- HUD ID: MTA19970050
+- HUD ID before: 
+- Project: MADISON APTS
+- Address: 432 ELECTRIC ST
+- City: WEST YELLOWSTONE
+- State: MT
+- ZIP: 59758
+- ZIP extension: 
+- State project ID: MT-96-100
+- Latitude: 44.667036
+- Longitude: -111.103856
+- County FIPS: 30031
+- County from: 2020
+- Tract 2020: 30031001500
+- Tract 2010: 30031001500
+- Tract 2000: 30031001300
+- Tract 1990: 30031986700
+- Place 2020: 79525
+- Place 2010: 79525
+- Place 2000: 06325
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 178193
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MTA1997025.
+- Record status: Existing, unchanged

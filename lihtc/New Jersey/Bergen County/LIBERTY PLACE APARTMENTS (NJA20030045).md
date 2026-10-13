@@ -1,0 +1,85 @@
+# Project: LIBERTY PLACE APARTMENTS (NJA20030045)
+
+- HUD ID: NJA20030045
+- HUD ID before: 
+- Project: LIBERTY PLACE APARTMENTS
+- Address: 1 LIBERTY PLACE
+- City: FORT LEE BORO
+- State: NJ
+- ZIP: 07650
+- ZIP extension: 
+- State project ID: NJ-1347-1
+- Latitude: 40.851943
+- Longitude: -73.998238
+- County FIPS: 34003
+- County from: 2020
+- Tract 2020: 34003041100
+- Tract 2010: 34003041100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 55770
+- Place 2010: 55770
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 467464
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FORT HOUSING.;
+- Record status: Existing, unchanged

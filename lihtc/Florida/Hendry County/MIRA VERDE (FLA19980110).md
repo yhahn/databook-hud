@@ -1,0 +1,85 @@
+# Project: MIRA VERDE (FLA19980110)
+
+- HUD ID: FLA19980110
+- HUD ID before: 
+- Project: MIRA VERDE
+- Address: 6849 SANTA FE S
+- City: LABELLE
+- State: FL
+- ZIP: 33935
+- ZIP extension: 
+- State project ID: 517
+- Latitude: 26.750812
+- Longitude: -81.374599
+- County FIPS: 12051
+- County from: 2020
+- Tract 2020: 12051000300
+- Tract 2010: 12051000300
+- Tract 2000: 12051000300
+- Tract 1990: 12051960300
+- Place 2020: 58420
+- Place 2010: 58420
+- Place 2000: 37225
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 140
+- Low-income units: 140
+- Units reported: 140
+- Low-income reported: 140
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 60
+- 4-bedroom units: 60
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

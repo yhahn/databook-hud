@@ -1,0 +1,85 @@
+# Project: ARTSPACE NORWICH (CTA20010005)
+
+- HUD ID: CTA20010005
+- HUD ID before: 
+- Project: ARTSPACE NORWICH
+- Address: 35 CHESTNUT ST
+- City: NORWICH
+- State: CT
+- ZIP: 06360
+- ZIP extension: 
+- State project ID: 
+- Latitude: 41.526685
+- Longitude: -72.074625
+- County FIPS: 09011
+- County from: 2020
+- Tract 2020: 09011696800
+- Tract 2010: 09011696800
+- Tract 2000: 09011696800
+- Tract 1990: 09011696800
+- Place 2020: 56200
+- Place 2010: 56200
+- Place 2000: 56200
+- Place 1990: 1650
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 58
+- Low-income units: 47
+- Units reported: 58
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 36
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

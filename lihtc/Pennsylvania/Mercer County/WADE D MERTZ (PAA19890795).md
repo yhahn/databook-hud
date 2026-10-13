@@ -1,0 +1,85 @@
+# Project: WADE D MERTZ (PAA19890795)
+
+- HUD ID: PAA19890795
+- HUD ID before: 
+- Project: WADE D MERTZ
+- Address: 52 S MERCER AVE
+- City: SHARPSVILLE
+- State: PA
+- ZIP: 16150
+- ZIP extension: 
+- State project ID: TC1989-0185
+- Latitude: 41.263326
+- Longitude: -80.473958
+- County FIPS: 42085
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42085033300
+- Tract 2000: 42085031600
+- Tract 1990: 42085031600
+- Place 2020: 
+- Place 2010: 69800
+- Place 2000: 69800
+- Place 1990: 7748
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 161106
+- Units: 103
+- Low-income units: 102
+- Units reported: 103
+- Low-income reported: 102
+- Efficiencies: 0
+- 1-bedroom units: 103
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PLEASANTVILLE PARK APTS (IAA19880100)
+
+- HUD ID: IAA19880100
+- HUD ID before: 
+- Project: PLEASANTVILLE PARK APTS
+- Address: 200 N COLUMBUS ST
+- City: PLEASANTVILLE
+- State: IA
+- ZIP: 50225
+- ZIP extension: 
+- State project ID: 88-15
+- Latitude: 41.387527
+- Longitude: -93.267671
+- County FIPS: 19125
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19125030100
+- Tract 2000: 19125030100
+- Tract 1990: 19125030100
+- Place 2020: 
+- Place 2010: 63750
+- Place 2000: 62040
+- Place 1990: 3435
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 6619
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

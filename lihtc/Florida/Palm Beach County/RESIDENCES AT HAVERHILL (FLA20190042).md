@@ -1,0 +1,85 @@
+# Project: RESIDENCES AT HAVERHILL (FLA20190042)
+
+- HUD ID: FLA20190042
+- HUD ID before: 
+- Project: RESIDENCES AT HAVERHILL
+- Address: 1281 S. STACY STREET
+- City: WEST PALM BEACH
+- State: FL
+- ZIP: 33417
+- ZIP extension: 
+- State project ID: 2856
+- Latitude: 26.696768
+- Longitude: -80.126401
+- County FIPS: 12099
+- County from: 2020
+- Tract 2020: 12099001910
+- Tract 2010: 12099003102
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 68487
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 2110000
+- Units: 117
+- Low-income units: 117
+- Units reported: 117
+- Low-income reported: 117
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 65
+- 3-bedroom units: 27
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

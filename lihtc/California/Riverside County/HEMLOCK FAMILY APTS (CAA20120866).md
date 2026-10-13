@@ -1,0 +1,85 @@
+# Project: HEMLOCK FAMILY APTS (CAA20120866)
+
+- HUD ID: CAA20120866
+- HUD ID before: 
+- Project: HEMLOCK FAMILY APTS
+- Address: 24889 HEMLOCK AVE
+- City: MORENO VALLEY
+- State: CA
+- ZIP: 92557
+- ZIP extension: 
+- State project ID: CA-11-876
+- Latitude: 33.942542
+- Longitude: -117.228942
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065042404
+- Tract 2010: 06065042404
+- Tract 2000: 06065042404
+- Tract 1990: 06065042400
+- Place 2020: 49270
+- Place 2010: 49270
+- Place 2000: 49270
+- Place 1990: 1849
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 611421
+- Units: 78
+- Low-income units: 77
+- Units reported: 78
+- Low-income reported: 77
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 53
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1900000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

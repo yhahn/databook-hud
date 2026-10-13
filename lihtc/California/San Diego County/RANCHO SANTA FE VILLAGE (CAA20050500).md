@@ -1,0 +1,85 @@
+# Project: RANCHO SANTA FE VILLAGE (CAA20050500)
+
+- HUD ID: CAA20050500
+- HUD ID before: 
+- Project: RANCHO SANTA FE VILLAGE
+- Address: 500 S RANCHO SANTA FE RD
+- City: SAN MARCOS
+- State: CA
+- ZIP: 92078
+- ZIP extension: 
+- State project ID: CA-04-856
+- Latitude: 33.137477
+- Longitude: -117.204979
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073020019
+- Tract 2010: 06073020019
+- Tract 2000: 06073020019
+- Tract 1990: 06073020005
+- Place 2020: 68196
+- Place 2010: 68196
+- Place 2000: 11194
+- Place 1990: 2537
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 746349
+- Units: 120
+- Low-income units: 119
+- Units reported: 120
+- Low-income reported: 119
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

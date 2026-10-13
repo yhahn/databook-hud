@@ -1,0 +1,85 @@
+# Project: CLINTON COMMONS (OHA20050026)
+
+- HUD ID: OHA20050026
+- HUD ID before: 
+- Project: CLINTON COMMONS
+- Address: 136 COMMONS LN
+- City: WILMINGTON
+- State: OH
+- ZIP: 45177
+- ZIP extension: 
+- State project ID: 040068
+- Latitude: 39.453429
+- Longitude: -83.838874
+- County FIPS: 39027
+- County from: 2020
+- Tract 2020: 39027964501
+- Tract 2010: 39027964500
+- Tract 2000: 39027994500
+- Tract 1990: 39027994500
+- Place 2020: 85792
+- Place 2010: 85792
+- Place 2000: 85792
+- Place 1990: 4740
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 386505
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 42
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2005657, OHA2006050.
+- Record status: Existing, unchanged

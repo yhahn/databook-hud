@@ -1,0 +1,85 @@
+# Project: OAK RIDGE TOWNHOMES (MNC19969006)
+
+- HUD ID: MNC19969006
+- HUD ID before: 
+- Project: OAK RIDGE TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: EAGAN
+- State: MN
+- ZIP: 55122
+- ZIP extension: 
+- State project ID: D0476
+- Latitude: 44.812
+- Longitude: -93.2001
+- County FIPS: 27037
+- County from: 2020
+- Tract 2020: 27037060750
+- Tract 2010: 27037060750
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 17288
+- Place 2010: 17288
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 344091
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 21
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 356000
+- CDBG: Yes
+- CDBG amount: 5167180
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

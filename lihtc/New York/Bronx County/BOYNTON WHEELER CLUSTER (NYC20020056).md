@@ -1,0 +1,85 @@
+# Project: BOYNTON WHEELER CLUSTER (NYC20020056)
+
+- HUD ID: NYC20020056
+- HUD ID before: 
+- Project: BOYNTON WHEELER CLUSTER
+- Address: 1226 WHEELER AVE
+- City: BRONX
+- State: NY
+- ZIP: 10472
+- ZIP extension: 
+- State project ID: NY0202096
+- Latitude: 40.829235
+- Longitude: -73.880064
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005005400
+- Tract 2010: 36005005400
+- Tract 2000: 36005005400
+- Tract 1990: 36005005400
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 85895
+- Units: 15
+- Low-income units: 11
+- Units reported: 15
+- Low-income reported: 11
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

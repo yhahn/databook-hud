@@ -1,0 +1,85 @@
+# Project: HARBOR STREET LOFTS (NYA20170005)
+
+- HUD ID: NYA20170005
+- HUD ID before: 
+- Project: HARBOR STREET LOFTS
+- Address: 700 EMERSON AVE
+- City: SYRACUSE
+- State: NY
+- ZIP: 13204
+- ZIP extension: 
+- State project ID: 20146017
+- Latitude: 43.054872
+- Longitude: -76.188476
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067002000
+- Tract 2010: 36067002000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 567676
+- Units: 40
+- Low-income units: 35
+- Units reported: 40
+- Low-income reported: 35
+- Efficiencies: 
+- 1-bedroom units: 30
+- 2-bedroom units: 5
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HEARTHSIDE APTS (MIA20110065)
+
+- HUD ID: MIA20110065
+- HUD ID before: 
+- Project: HEARTHSIDE APTS
+- Address: 7671 CURRIER DR
+- City: PORTAGE
+- State: MI
+- ZIP: 49002
+- ZIP extension: 
+- State project ID: MI-3341
+- Latitude: 42.206
+- Longitude: -85.586192
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077001905
+- Tract 2010: 26077001905
+- Tract 2000: 26077001905
+- Tract 1990: 26077001905
+- Place 2020: 65560
+- Place 2010: 65560
+- Place 2000: 65560
+- Place 1990: 2206
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 370385
+- Units: 160
+- Low-income units: 128
+- Units reported: 160
+- Low-income reported: 128
+- Efficiencies: 0
+- 1-bedroom units: 130
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 59
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 9659912
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA2011525, MIA1991210. AKA PORTAGE HEARTHSIDE.
+- Record status: Existing, unchanged

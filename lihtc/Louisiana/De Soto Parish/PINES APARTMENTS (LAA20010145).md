@@ -1,0 +1,85 @@
+# Project: PINES APARTMENTS (LAA20010145)
+
+- HUD ID: LAA20010145
+- HUD ID before: 
+- Project: PINES APARTMENTS
+- Address: 205 LAKE ROAD
+- City: MANSFIELD
+- State: LA
+- ZIP: 71052
+- ZIP extension: 0000
+- State project ID: LA-00-023
+- Latitude: 32.040455
+- Longitude: -93.694415
+- County FIPS: 22031
+- County from: 2020
+- Tract 2020: 22031950400
+- Tract 2010: 22031950400
+- Tract 2000: 22031950400
+- Tract 1990: 22031950400
+- Place 2020: 48365
+- Place 2010: 48365
+- Place 2000: 48365
+- Place 1990: 0820
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 14266
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

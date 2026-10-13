@@ -1,0 +1,85 @@
+# Project: MESA VERDE APTS (NMA19970020)
+
+- HUD ID: NMA19970020
+- HUD ID before: 
+- Project: MESA VERDE APTS
+- Address: 502 S WYOMING AVE
+- City: ROSWELL
+- State: NM
+- ZIP: 88203
+- ZIP extension: 
+- State project ID: 00210
+- Latitude: 33.388709
+- Longitude: -104.545735
+- County FIPS: 35005
+- County from: 2020
+- Tract 2020: 35005000202
+- Tract 2010: 35005000202
+- Tract 2000: 35005000200
+- Tract 1990: 35005000200
+- Place 2020: 64930
+- Place 2010: 64930
+- Place 2000: 64930
+- Place 1990: 0334
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 142
+- Low-income units: 142
+- Units reported: 142
+- Low-income reported: 142
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

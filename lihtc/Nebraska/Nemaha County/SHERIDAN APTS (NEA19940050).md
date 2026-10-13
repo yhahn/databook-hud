@@ -1,0 +1,85 @@
+# Project: SHERIDAN APTS (NEA19940050)
+
+- HUD ID: NEA19940050
+- HUD ID before: 
+- Project: SHERIDAN APTS
+- Address: 1302 NINTH ST
+- City: AUBURN
+- State: NE
+- ZIP: 68305
+- ZIP extension: 
+- State project ID: 7-0229
+- Latitude: 40.396116
+- Longitude: -95.842972
+- County FIPS: 31127
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31127968200
+- Tract 2000: 31127998200
+- Tract 1990: 31127998200
+- Place 2020: 
+- Place 2010: 02655
+- Place 2000: 02655
+- Place 1990: 0125
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 25840
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

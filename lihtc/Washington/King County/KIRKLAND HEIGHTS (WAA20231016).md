@@ -1,0 +1,85 @@
+# Project: KIRKLAND HEIGHTS (WAA20231016)
+
+- HUD ID: WAA20231016
+- HUD ID before: 
+- Project: KIRKLAND HEIGHTS
+- Address: 13310 NE 133RD ST
+- City: KIRKLAND
+- State: WA
+- ZIP: 98034
+- ZIP extension: 
+- State project ID: 23-52A
+- Latitude: 47.719853
+- Longitude: -122.162396
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033021904
+- Tract 2010: 53033021904
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 35940
+- Place 2010: 35835
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 276
+- Low-income units: 274
+- Units reported: 276
+- Low-income reported: 274
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 128
+- 3-bedroom units: 114
+- 4-bedroom units: 22
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

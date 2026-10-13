@@ -1,0 +1,85 @@
+# Project: LA ESTANCIA APTS (WESLACO) (TXA20020145)
+
+- HUD ID: TXA20020145
+- HUD ID before: 
+- Project: LA ESTANCIA APTS (WESLACO)
+- Address: 3601 E MILE 8 N
+- City: WESLACO
+- State: TX
+- ZIP: 78599
+- ZIP extension: 
+- State project ID: TX0274
+- Latitude: 26.170459
+- Longitude: -97.955418
+- County FIPS: 48215
+- County from: 2020
+- Tract 2020: 48215022502
+- Tract 2010: 48215023103
+- Tract 2000: 48215023101
+- Tract 1990: 48215023101
+- Place 2020: 77272
+- Place 2010: 77272
+- Place 2000: 35915
+- Place 1990: 2765
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

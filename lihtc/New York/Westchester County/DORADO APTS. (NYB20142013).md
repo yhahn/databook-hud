@@ -1,0 +1,85 @@
+# Project: DORADO APTS. (NYB20142013)
+
+- HUD ID: NYB20142013
+- HUD ID before: 
+- Project: DORADO APTS.
+- Address: 160 WARBURTON AVE
+- City: YONKERS
+- State: NY
+- ZIP: 10701
+- ZIP extension: 
+- State project ID: NY-14-2189
+- Latitude: 40.940408
+- Longitude: -73.897784
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119000403
+- Tract 2010: 36119000402
+- Tract 2000: 36119000402
+- Tract 1990: 
+- Place 2020: 84000
+- Place 2010: 84000
+- Place 2000: 84000
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1063111
+- Units: 189
+- Low-income units: 165
+- Units reported: 189
+- Low-income reported: 165
+- Efficiencies: 31
+- 1-bedroom units: 93
+- 2-bedroom units: 65
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

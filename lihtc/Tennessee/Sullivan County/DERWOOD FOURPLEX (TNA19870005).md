@@ -1,0 +1,85 @@
+# Project: DERWOOD FOURPLEX (TNA19870005)
+
+- HUD ID: TNA19870005
+- HUD ID before: 
+- Project: DERWOOD FOURPLEX
+- Address: 1005 DERWOOD CT
+- City: KINGSPORT
+- State: TN
+- ZIP: 37660
+- ZIP extension: 
+- State project ID: TN-87-028
+- Latitude: 36.569437
+- Longitude: -82.570729
+- County FIPS: 47163
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47163040500
+- Tract 2000: 47163040500
+- Tract 1990: 47163040500
+- Place 2020: 
+- Place 2010: 39560
+- Place 2000: 39560
+- Place 1990: 0750
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 1507
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

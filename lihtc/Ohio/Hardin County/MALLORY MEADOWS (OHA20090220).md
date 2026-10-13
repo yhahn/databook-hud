@@ -1,0 +1,85 @@
+# Project: MALLORY MEADOWS (OHA20090220)
+
+- HUD ID: OHA20090220
+- HUD ID before: 
+- Project: MALLORY MEADOWS
+- Address: 409 E PATTERSON ST
+- City: DUNKIRK
+- State: OH
+- ZIP: 45836
+- ZIP extension: 
+- State project ID: 090145
+- Latitude: 40.790334
+- Longitude: -83.639376
+- County FIPS: 39065
+- County from: 2020
+- Tract 2020: 39065000300
+- Tract 2010: 39065000300
+- Tract 2000: 39065983300
+- Tract 1990: 39065983300
+- Place 2020: 22946
+- Place 2010: 22946
+- Place 2000: 22946
+- Place 1990: 1200
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 408411
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: ACADEMY PLACE #1202 (NJA00000032)
+
+- HUD ID: NJA00000032
+- HUD ID before: 
+- Project: ACADEMY PLACE #1202
+- Address: 248 ACADEMY ST
+- City: TRENTON
+- State: NJ
+- ZIP: 08618
+- ZIP extension: 
+- State project ID: NJ-96-46
+- Latitude: 40.222801
+- Longitude: -74.760896
+- County FIPS: 34021
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 34021000900
+- Tract 2000: 34021000900
+- Tract 1990: 34021000900
+- Place 2020: 
+- Place 2010: 74000
+- Place 2000: 74000
+- Place 1990: 3770
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

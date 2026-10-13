@@ -1,0 +1,85 @@
+# Project: NORTHGATE APTS (VTA19910015)
+
+- HUD ID: VTA19910015
+- HUD ID before: 
+- Project: NORTHGATE APTS
+- Address: 275 NORTHGATE RD
+- City: BURLINGTON
+- State: VT
+- ZIP: 05408
+- ZIP extension: 
+- State project ID: 0123
+- Latitude: 44.519278
+- Longitude: -73.266467
+- County FIPS: 50007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 50007000200
+- Tract 2000: 50007000200
+- Tract 1990: 50007000200
+- Place 2020: 
+- Place 2010: 10675
+- Place 2000: 10675
+- Place 1990: 0460
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 426130
+- Units: 336
+- Low-income units: 179
+- Units reported: 336
+- Low-income reported: 179
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 202
+- 3-bedroom units: 98
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VTA0000020.
+- Record status: Existing, unchanged

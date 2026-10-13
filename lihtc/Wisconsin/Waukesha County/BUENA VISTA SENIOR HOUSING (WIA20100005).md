@@ -1,0 +1,85 @@
+# Project: BUENA VISTA SENIOR HOUSING (WIA20100005)
+
+- HUD ID: WIA20100005
+- HUD ID before: 
+- Project: BUENA VISTA SENIOR HOUSING
+- Address: W129 - N6845 NORTHFIELD DR
+- City: MENOMONEE FALLS
+- State: WI
+- ZIP: 53051
+- ZIP extension: 
+- State project ID: 5534
+- Latitude: 43.144239
+- Longitude: -88.07082
+- County FIPS: 55133
+- County from: 2020
+- Tract 2020: 55133200400
+- Tract 2010: 55133200400
+- Tract 2000: 55133200400
+- Tract 1990: 55133200400
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 1585
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 819517
+- Units: 57
+- Low-income units: 14
+- Units reported: 57
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 9999
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

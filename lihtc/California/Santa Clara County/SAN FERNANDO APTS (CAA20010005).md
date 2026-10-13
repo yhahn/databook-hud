@@ -1,0 +1,85 @@
+# Project: SAN FERNANDO APTS (CAA20010005)
+
+- HUD ID: CAA20010005
+- HUD ID before: 
+- Project: SAN FERNANDO APTS
+- Address: 101 E SAN FERNANDO ST
+- City: SAN JOSE
+- State: CA
+- ZIP: 95112
+- ZIP extension: 
+- State project ID: CA-03-803
+- Latitude: 37.335533
+- Longitude: -121.887016
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085500901
+- Tract 2010: 06085500901
+- Tract 2000: 06085500901
+- Tract 1990: 06085500900
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 68000
+- Place 1990: 2510
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 457665
+- Units: 323
+- Low-income units: 67
+- Units reported: 323
+- Low-income reported: 67
+- Efficiencies: 7
+- 1-bedroom units: 37
+- 2-bedroom units: 26
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,24 @@
+# Tax Credit Projects: Ascension Parish, LA
+
+- Level: County
+- Postal code: LA
+- State FIPS: 22
+- County FIPS: 22005
+- Counties: 
+- Projects: 7
+- Units: 418
+- Low-income units: 404
+
+The low-income housing tax credit projects of Ascension Parish, Louisiana, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [DONALDSONVILLE SRS APTS (LAA19880050)](./Ascension%20Parish/DONALDSONVILLE%20SRS%20APTS%20%28LAA19880050%29.md) | LAA19880050 | DONALDSONVILLE | 1988 | 32 | 32 |
+| [MAGNOLIA CROSSING (LAA19990110)](./Ascension%20Parish/MAGNOLIA%20CROSSING%20%28LAA19990110%29.md) | LAA19990110 | GONZALES | 1999 | 104 | 104 |
+| [GALVEZ MANOR (LAA20000035)](./Ascension%20Parish/GALVEZ%20MANOR%20%28LAA20000035%29.md) | LAA20000035 | PRAIRIEVILLE | 2000 | 32 | 32 |
+| [GONZALES PLAZA (LAA20000040)](./Ascension%20Parish/GONZALES%20PLAZA%20%28LAA20000040%29.md) | LAA20000040 | GONZALES | 2000 | 32 | 32 |
+| [D'VILLE VILLAGE APARTMENTS (LAA20167972)](./Ascension%20Parish/D%27VILLE%20VILLAGE%20APARTMENTS%20%28LAA20167972%29.md) | LAA20167972 | DONALDSONVILLE | 2016 | 100 | 100 |
+| [RIVERVIEW APARTMENTS (LAA20167977)](./Ascension%20Parish/RIVERVIEW%20APARTMENTS%20%28LAA20167977%29.md) | LAA20167977 | DONALDSONVILLE | 2016 | 50 | 50 |
+| [BAYOU OAKS HOMES (LAA20176440)](./Ascension%20Parish/BAYOU%20OAKS%20HOMES%20%28LAA20176440%29.md) | LAA20176440 | DONALDSONVILLE | 2017 | 68 | 54 |

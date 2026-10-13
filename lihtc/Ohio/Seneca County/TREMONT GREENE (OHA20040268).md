@@ -1,0 +1,85 @@
+# Project: TREMONT GREENE (OHA20040268)
+
+- HUD ID: OHA20040268
+- HUD ID before: 
+- Project: TREMONT GREENE
+- Address: 157 DALLAS ST
+- City: TIFFIN
+- State: OH
+- ZIP: 44883
+- ZIP extension: 
+- State project ID: 020037
+- Latitude: 41.132409
+- Longitude: -83.16808
+- County FIPS: 39147
+- County from: 2020
+- Tract 2020: 39147963400
+- Tract 2010: 39147963400
+- Tract 2000: 39147963400
+- Tract 1990: 39147963400
+- Place 2020: 76778
+- Place 2010: 76778
+- Place 2000: 76778
+- Place 1990: 4240
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 214396
+- Units: 40
+- Low-income units: 34
+- Units reported: 40
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 20
+- 3-bedroom units: 8
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 551000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2005130.
+- Record status: Existing, unchanged

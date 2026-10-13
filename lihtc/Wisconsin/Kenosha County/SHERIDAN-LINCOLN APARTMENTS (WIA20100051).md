@@ -1,0 +1,85 @@
+# Project: SHERIDAN/LINCOLN APARTMENTS (WIA20100051)
+
+- HUD ID: WIA20100051
+- HUD ID before: 
+- Project: SHERIDAN/LINCOLN APARTMENTS
+- Address: 901 82ND ST
+- City: KENOSHA
+- State: WI
+- ZIP: 53143
+- ZIP extension: 
+- State project ID: 5441
+- Latitude: 42.555808
+- Longitude: -87.822524
+- County FIPS: 55059
+- County from: 2020
+- Tract 2020: 55059002100
+- Tract 2010: 55059002100
+- Tract 2000: 55059002100
+- Tract 1990: 55059001600
+- Place 2020: 39225
+- Place 2010: 39225
+- Place 2000: 39225
+- Place 1990: 1280
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 370644
+- Units: 48
+- Low-income units: 3
+- Units reported: 48
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 9999
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

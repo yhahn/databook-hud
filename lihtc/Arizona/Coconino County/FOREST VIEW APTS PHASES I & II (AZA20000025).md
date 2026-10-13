@@ -1,0 +1,85 @@
+# Project: FOREST VIEW APTS PHASES I & II (AZA20000025)
+
+- HUD ID: AZA20000025
+- HUD ID before: 
+- Project: FOREST VIEW APTS PHASES I & II
+- Address: 3700 S YAQUI DR
+- City: FLAGSTAFF
+- State: AZ
+- ZIP: 86005
+- ZIP extension: 
+- State project ID: AZ200005
+- Latitude: 35.163185
+- Longitude: -111.658405
+- County FIPS: 04005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 04005000900
+- Tract 2000: 04005000900
+- Tract 1990: 04005000900
+- Place 2020: 
+- Place 2010: 23620
+- Place 2000: 23620
+- Place 1990: 0115
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 42
+- 3-bedroom units: 66
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA1997010.
+- Record status: Existing, unchanged

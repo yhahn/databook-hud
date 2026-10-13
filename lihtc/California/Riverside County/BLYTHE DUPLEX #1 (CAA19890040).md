@@ -1,0 +1,85 @@
+# Project: BLYTHE DUPLEX #1 (CAA19890040)
+
+- HUD ID: CAA19890040
+- HUD ID before: 
+- Project: BLYTHE DUPLEX #1
+- Address: 350 STEWART ST
+- City: BLYTHE
+- State: CA
+- ZIP: 92225
+- ZIP extension: 
+- State project ID: CA-89-036
+- Latitude: 33.615783
+- Longitude: -114.593366
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065046101
+- Tract 2010: 06065046101
+- Tract 2000: 06065046101
+- Tract 1990: 06065046100
+- Place 2020: 07218
+- Place 2010: 07218
+- Place 2000: 07218
+- Place 1990: 0290
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 9851
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0000355.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUGAR MILL AKA SUGAR MILL VILLAS (VIA20158001)
+
+- HUD ID: VIA20158001
+- HUD ID before: 
+- Project: SUGAR MILL AKA SUGAR MILL VILLAS
+- Address: 295 ESTATE BARREN SPOT
+- City: KINGSHILL
+- State: VI
+- ZIP: 00850
+- ZIP extension: 
+- State project ID: VI-99-999
+- Latitude: 17.7346
+- Longitude: -64.7915
+- County FIPS: 78010
+- County from: 2020
+- Tract 2020: 78010970800
+- Tract 2010: 
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 35532
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 33
+- Units reported: 34
+- Low-income reported: 33
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 30
+- 3-bedroom units: 
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

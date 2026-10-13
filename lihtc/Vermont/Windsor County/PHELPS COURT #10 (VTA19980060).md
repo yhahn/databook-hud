@@ -1,0 +1,85 @@
+# Project: PHELPS COURT #10 (VTA19980060)
+
+- HUD ID: VTA19980060
+- HUD ID before: 
+- Project: PHELPS COURT #10
+- Address: 10 PHELPS CT
+- City: WINDSOR
+- State: VT
+- ZIP: 05089
+- ZIP extension: 
+- State project ID: 0003
+- Latitude: 43.480823
+- Longitude: -72.3893
+- County FIPS: 50027
+- County from: 2020
+- Tract 2020: 50027966000
+- Tract 2010: 50027966000
+- Tract 2000: 50027966000
+- Tract 1990: 50027966000
+- Place 2020: 85000
+- Place 2010: 85000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 17315
+- Units: 4
+- Low-income units: 2
+- Units reported: 4
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

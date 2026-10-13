@@ -1,0 +1,85 @@
+# Project: ALBANY ESTATES (MOA19930070)
+
+- HUD ID: MOA19930070
+- HUD ID before: 
+- Project: ALBANY ESTATES
+- Address: 906 N 18TH ST
+- City: ALBANY
+- State: MO
+- ZIP: 64402
+- ZIP extension: 
+- State project ID: 92044
+- Latitude: 40.25429
+- Longitude: -94.316039
+- County FIPS: 29075
+- County from: 2020
+- Tract 2020: 29075960100
+- Tract 2010: 29075960100
+- Tract 2000: 29075960100
+- Tract 1990: 29075960100
+- Place 2020: 00514
+- Place 2010: 00514
+- Place 2000: 00514
+- Place 1990: 0030
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

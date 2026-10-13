@@ -1,0 +1,85 @@
+# Project: TEWELES SEED TOWERS (WIA20040120)
+
+- HUD ID: WIA20040120
+- HUD ID before: 
+- Project: TEWELES SEED TOWERS
+- Address: 222 S THIRD ST
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53204
+- ZIP extension: 
+- State project ID: 2582
+- Latitude: 43.028734
+- Longitude: -87.913764
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079187400
+- Tract 2010: 55079187400
+- Tract 2000: 55079013200
+- Tract 1990: 55079013200
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 115
+- Low-income units: 68
+- Units reported: 115
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 58
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HISTORIC TEWELES SEED.
+- Record status: Existing, unchanged

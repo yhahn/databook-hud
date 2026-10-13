@@ -1,0 +1,85 @@
+# Project: EASTGATE APTS (IAA19920075)
+
+- HUD ID: IAA19920075
+- HUD ID before: 
+- Project: EASTGATE APTS
+- Address: 104 S IOWA ST
+- City: LAKE MILLS
+- State: IA
+- ZIP: 50450
+- ZIP extension: 
+- State project ID: 90-63
+- Latitude: 43.418936
+- Longitude: -93.521342
+- County FIPS: 19189
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19189680100
+- Tract 2000: 19189980100
+- Tract 1990: 19189980100
+- Place 2020: 
+- Place 2010: 42555
+- Place 2000: 28380
+- Place 1990: 2230
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 25901
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

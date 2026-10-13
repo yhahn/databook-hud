@@ -1,0 +1,85 @@
+# Project: FIELDSTONE APTS PHASE II (KSA20080027)
+
+- HUD ID: KSA20080027
+- HUD ID before: 
+- Project: FIELDSTONE APTS PHASE II
+- Address: 5050 N MAIZE RD
+- City: MAIZE
+- State: KS
+- ZIP: 67101
+- ZIP extension: 
+- State project ID: 60469
+- Latitude: 37.775587
+- Longitude: -97.462931
+- County FIPS: 20173
+- County from: 2020
+- Tract 2020: 20173010302
+- Tract 2010: 20173010300
+- Tract 2000: 20173010300
+- Tract 1990: 20173010300
+- Place 2020: 44200
+- Place 2010: 44200
+- Place 2000: 44200
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 313096
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2008530.
+- Record status: Existing, unchanged

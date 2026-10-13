@@ -1,0 +1,85 @@
+# Project: UPPER SADDLE RIVER SUPPORTIVE HOUSING (NJA20230171)
+
+- HUD ID: NJA20230171
+- HUD ID before: 
+- Project: UPPER SADDLE RIVER SUPPORTIVE HOUSING
+- Address: 570 ROUTE 17 NORTH
+- City: UPPER SADDLE RIVER BORO
+- State: NJ
+- ZIP: 07458
+- ZIP extension: 
+- State project ID: NJ-99-99
+- Latitude: 41.0651
+- Longitude: -74.0982
+- County FIPS: 34003
+- County from: 2020
+- Tract 2020: 34003044201
+- Tract 2010: 34003053200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 61680
+- Place 2010: 75140
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1129420
+- Units: 70
+- Low-income units: 24
+- Units reported: 70
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

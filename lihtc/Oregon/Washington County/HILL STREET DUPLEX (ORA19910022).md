@@ -1,0 +1,85 @@
+# Project: HILL STREET DUPLEX (ORA19910022)
+
+- HUD ID: ORA19910022
+- HUD ID before: 
+- Project: HILL STREET DUPLEX
+- Address: 9283 SW HILL ST
+- City: TIGARD
+- State: OR
+- ZIP: 97223
+- ZIP extension: 
+- State project ID: OR89-206
+- Latitude: 45.424156
+- Longitude: -122.771842
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067030801
+- Tract 2010: 41067030801
+- Tract 2000: 41067030801
+- Tract 1990: 41067030801
+- Place 2020: 73650
+- Place 2010: 73650
+- Place 2000: 73650
+- Place 1990: 1132
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 14368
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA1990040.
+- Record status: Existing, unchanged

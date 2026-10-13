@@ -1,0 +1,85 @@
+# Project: MEADOWVIEW II (CAA20100148)
+
+- HUD ID: CAA20100148
+- HUD ID before: 
+- Project: MEADOWVIEW II
+- Address: 150 E NUEVO RD
+- City: PERRIS
+- State: CA
+- ZIP: 92571
+- ZIP extension: 
+- State project ID: CA-10-812
+- Latitude: 33.801268
+- Longitude: -117.222004
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065042628
+- Tract 2010: 06065042617
+- Tract 2000: 06065042603
+- Tract 1990: 06065042603
+- Place 2020: 56700
+- Place 2010: 56700
+- Place 2000: 56700
+- Place 1990: 2138
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 258354
+- Units: 76
+- Low-income units: 75
+- Units reported: 76
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2010524.
+- Record status: Existing, unchanged

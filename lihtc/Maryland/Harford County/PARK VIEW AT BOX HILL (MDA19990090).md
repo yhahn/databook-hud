@@ -1,0 +1,85 @@
+# Project: PARK VIEW AT BOX HILL (MDA19990090)
+
+- HUD ID: MDA19990090
+- HUD ID before: 
+- Project: PARK VIEW AT BOX HILL
+- Address: 20 BOX HILL S PKWY
+- City: ABINGDON
+- State: MD
+- ZIP: 21009
+- ZIP extension: 
+- State project ID: MD98-04
+- Latitude: 39.470306
+- Longitude: -76.306794
+- County FIPS: 24025
+- County from: 2020
+- Tract 2020: 24025301107
+- Tract 2010: 24025301107
+- Tract 2000: 24025301104
+- Tract 1990: 24025301101
+- Place 2020: 05950
+- Place 2010: 05950
+- Place 2000: 05950
+- Place 1990: 0048
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

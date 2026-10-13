@@ -1,0 +1,85 @@
+# Project: MESQUITE TRAILS (TXA19980150)
+
+- HUD ID: TXA19980150
+- HUD ID before: 
+- Project: MESQUITE TRAILS
+- Address: 119 S FIFTH ST
+- City: JACKSBORO
+- State: TX
+- ZIP: 76458
+- ZIP extension: 
+- State project ID: TX1741
+- Latitude: 33.217896
+- Longitude: -98.170383
+- County FIPS: 48237
+- County from: 2020
+- Tract 2020: 48237950300
+- Tract 2010: 48237950300
+- Tract 2000: 48237950300
+- Tract 1990: 48237950300
+- Place 2020: 37168
+- Place 2010: 37168
+- Place 2000: 37168
+- Place 1990: 2080
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 21
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA1989480. FKA PINE MANOR
+- Record status: Existing, unchanged

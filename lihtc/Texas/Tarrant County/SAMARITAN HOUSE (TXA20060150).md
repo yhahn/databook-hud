@@ -1,0 +1,85 @@
+# Project: SAMARITAN HOUSE (TXA20060150)
+
+- HUD ID: TXA20060150
+- HUD ID before: 
+- Project: SAMARITAN HOUSE
+- Address: 929 HEMPHILL ST
+- City: FORT WORTH
+- State: TX
+- ZIP: 76104
+- ZIP extension: 
+- State project ID: TX4062
+- Latitude: 32.735264
+- Longitude: -97.331766
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439123600
+- Tract 2010: 48439123600
+- Tract 2000: 48439103100
+- Tract 1990: 48439103100
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1500
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 819331
+- Units: 126
+- Low-income units: 126
+- Units reported: 126
+- Low-income reported: 126
+- Efficiencies: 60
+- 1-bedroom units: 35
+- 2-bedroom units: 25
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

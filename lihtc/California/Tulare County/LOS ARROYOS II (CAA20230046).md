@@ -1,0 +1,85 @@
+# Project: LOS ARROYOS II (CAA20230046)
+
+- HUD ID: CAA20230046
+- HUD ID before: 
+- Project: LOS ARROYOS II
+- Address: 135 E. WALNUT AVENUE
+- City: FARMERSVILLE
+- State: CA
+- ZIP: 93223
+- ZIP extension: 
+- State project ID: CA-2021-118
+- Latitude: 36.301
+- Longitude: -119.2042
+- County FIPS: 06107
+- County from: 2020
+- Tract 2020: 06107001601
+- Tract 2010: 06107001601
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 23616
+- Place 2010: 23616
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1609203
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 
+- 1-bedroom units: 18
+- 2-bedroom units: 18
+- 3-bedroom units: 18
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 53
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: Yes
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LAKE HARRIS COVE (FLA20070085)
+
+- HUD ID: FLA20070085
+- HUD ID before: 
+- Project: LAKE HARRIS COVE
+- Address: 32511 LAKE HARRIS COVE AVE
+- City: LEESBURG
+- State: FL
+- ZIP: 34788
+- ZIP extension: 
+- State project ID: 1578
+- Latitude: 28.8148
+- Longitude: -81.82
+- County FIPS: 12069
+- County from: 2020
+- Tract 2020: 12069030702
+- Tract 2010: 12069030702
+- Tract 2000: 12069030702
+- Tract 1990: 12069030702
+- Place 2020: 39875
+- Place 2010: 39875
+- Place 2000: 39875
+- Place 1990: 2044
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 615575
+- Units: 152
+- Low-income units: 116
+- Units reported: 152
+- Low-income reported: 116
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 64
+- 3-bedroom units: 32
+- 4-bedroom units: 40
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

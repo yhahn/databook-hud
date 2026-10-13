@@ -1,0 +1,85 @@
+# Project: WILLOW BEND TOWNHOMES (OHA20100148)
+
+- HUD ID: OHA20100148
+- HUD ID before: 
+- Project: WILLOW BEND TOWNHOMES
+- Address: 1531 WHISPERING WILLOW LN
+- City: HILLIARD
+- State: OH
+- ZIP: 43026
+- ZIP extension: 
+- State project ID: OH-09-0156
+- Latitude: 39.982758
+- Longitude: -83.15984
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049007960
+- Tract 2010: 39049007953
+- Tract 2000: 39049007942
+- Tract 1990: 39049007940
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 18000
+- Place 1990: 0960
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 92
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 55
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2010814, OHA1992320. AKA WILLOW BEND TOWNHOMES II.
+- Record status: Existing, unchanged

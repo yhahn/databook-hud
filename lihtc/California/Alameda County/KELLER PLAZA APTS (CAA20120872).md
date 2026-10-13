@@ -1,0 +1,85 @@
+# Project: KELLER PLAZA APTS (CAA20120872)
+
+- HUD ID: CAA20120872
+- HUD ID before: 
+- Project: KELLER PLAZA APTS
+- Address: 5321 TELEGRAPH AVE
+- City: OAKLAND
+- State: CA
+- ZIP: 94609
+- ZIP extension: 
+- State project ID: CA-11-867
+- Latitude: 37.839019
+- Longitude: -122.262275
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001400300
+- Tract 2010: 06001400300
+- Tract 2000: 06001400300
+- Tract 1990: 06001400300
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1970
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 783530
+- Units: 201
+- Low-income units: 167
+- Units reported: 201
+- Low-income reported: 167
+- Efficiencies: 40
+- 1-bedroom units: 120
+- 2-bedroom units: 41
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 145
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

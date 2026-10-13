@@ -1,0 +1,85 @@
+# Project: SENIOR CITIZENS HOUSING (ILA19890133)
+
+- HUD ID: ILA19890133
+- HUD ID before: 
+- Project: SENIOR CITIZENS HOUSING
+- Address: 944 CARLA DR
+- City: TROY
+- State: IL
+- ZIP: 62294
+- ZIP extension: 
+- State project ID: 285-89
+- Latitude: 38.730226
+- Longitude: -89.919456
+- County FIPS: 17119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17119403533
+- Tract 2000: 17119403501
+- Tract 1990: 17119403501
+- Place 2020: 
+- Place 2010: 76199
+- Place 2000: 15599
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 14256
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000850.
+- Record status: Existing, unchanged

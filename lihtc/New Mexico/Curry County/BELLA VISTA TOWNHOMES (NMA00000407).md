@@ -1,0 +1,85 @@
+# Project: BELLA VISTA TOWNHOMES (NMA00000407)
+
+- HUD ID: NMA00000407
+- HUD ID before: 
+- Project: BELLA VISTA TOWNHOMES
+- Address: 3400 GIDDING ST
+- City: CLOVIS
+- State: NM
+- ZIP: 88101
+- ZIP extension: 
+- State project ID: 00630
+- Latitude: 34.431057
+- Longitude: -103.202804
+- County FIPS: 35009
+- County from: 2020
+- Tract 2020: 35009000306
+- Tract 2010: 35009000301
+- Tract 2000: 35009000301
+- Tract 1990: 35009000301
+- Place 2020: 16420
+- Place 2010: 16420
+- Place 2000: 16420
+- Place 1990: 0085
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

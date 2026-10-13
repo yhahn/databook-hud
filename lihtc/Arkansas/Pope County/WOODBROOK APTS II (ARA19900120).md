@@ -1,0 +1,85 @@
+# Project: WOODBROOK APTS II (ARA19900120)
+
+- HUD ID: ARA19900120
+- HUD ID before: 
+- Project: WOODBROOK APTS II
+- Address: 1616 E 16TH ST
+- City: RUSSELLVILLE
+- State: AR
+- ZIP: 72802
+- ZIP extension: 
+- State project ID: AR-90-12
+- Latitude: 35.26359
+- Longitude: -93.113315
+- County FIPS: 05115
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05115951600
+- Tract 2000: 05115951600
+- Tract 1990: 05115951600
+- Place 2020: 
+- Place 2010: 61670
+- Place 2000: 56990
+- Place 1990: 1770
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 
+- Efficiencies: 1
+- 1-bedroom units: 16
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1990590.
+- Record status: Existing, unchanged

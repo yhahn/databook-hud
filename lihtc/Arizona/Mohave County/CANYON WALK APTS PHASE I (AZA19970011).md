@@ -1,0 +1,85 @@
+# Project: CANYON WALK APTS PHASE I (AZA19970011)
+
+- HUD ID: AZA19970011
+- HUD ID before: 
+- Project: CANYON WALK APTS PHASE I
+- Address: 2795 DESERT FOOTHILLS BLVD
+- City: BULLHEAD CITY
+- State: AZ
+- ZIP: 86429
+- ZIP extension: 
+- State project ID: TC-0119
+- Latitude: 35.147763
+- Longitude: -114.536143
+- County FIPS: 04015
+- County from: 2020
+- Tract 2020: 04015951403
+- Tract 2010: 04015951402
+- Tract 2000: 04015951400
+- Tract 1990: 04015951400
+- Place 2020: 08220
+- Place 2010: 08220
+- Place 2000: 08220
+- Place 1990: 0031
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 156
+- Low-income units: 156
+- Units reported: 156
+- Low-income reported: 156
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 72
+- 3-bedroom units: 49
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000531, AZA1997005.
+- Record status: Existing, unchanged

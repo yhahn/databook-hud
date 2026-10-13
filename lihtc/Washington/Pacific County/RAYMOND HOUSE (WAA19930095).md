@@ -1,0 +1,85 @@
+# Project: RAYMOND HOUSE (WAA19930095)
+
+- HUD ID: WAA19930095
+- HUD ID before: 
+- Project: RAYMOND HOUSE
+- Address: 331 - 1ST ST
+- City: RAYMOND
+- State: WA
+- ZIP: 98577
+- ZIP extension: 
+- State project ID: 87-11Z
+- Latitude: 46.675866
+- Longitude: -123.66813
+- County FIPS: 53049
+- County from: 2020
+- Tract 2020: 53049950400
+- Tract 2010: 53049950400
+- Tract 2000: 53049950200
+- Tract 1990: 53049950200
+- Place 2020: 78995
+- Place 2010: 78995
+- Place 2000: 57430
+- Place 1990: 1055
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 78315
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

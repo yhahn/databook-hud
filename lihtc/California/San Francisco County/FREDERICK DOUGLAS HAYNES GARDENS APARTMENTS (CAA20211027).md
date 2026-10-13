@@ -1,0 +1,85 @@
+# Project: FREDERICK DOUGLAS HAYNES GARDENS APARTMENTS (CAA20211027)
+
+- HUD ID: CAA20211027
+- HUD ID before: 
+- Project: FREDERICK DOUGLAS HAYNES GARDENS APARTMENTS
+- Address: 1049 GOLDEN GATE AVENUE
+- City: SAN FRANCISCO
+- State: CA
+- ZIP: 94115
+- ZIP extension: 
+- State project ID: CA-2019-581
+- Latitude: 37.779857
+- Longitude: -122.428538
+- County FIPS: 06075
+- County from: 2020
+- Tract 2020: 06075016102
+- Tract 2010: 06075016100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 3402112
+- Units: 104
+- Low-income units: 103
+- Units reported: 104
+- Low-income reported: 103
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 40
+- 3-bedroom units: 29
+- 4-bedroom units: 9
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

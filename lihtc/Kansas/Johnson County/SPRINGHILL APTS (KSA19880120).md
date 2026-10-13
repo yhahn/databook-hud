@@ -1,0 +1,85 @@
+# Project: SPRINGHILL APTS (KSA19880120)
+
+- HUD ID: KSA19880120
+- HUD ID before: 
+- Project: SPRINGHILL APTS
+- Address: 8755 W 121ST TER
+- City: OVERLAND PARK
+- State: KS
+- ZIP: 66213
+- ZIP extension: 
+- State project ID: KS87-0015
+- Latitude: 38.907902
+- Longitude: -94.686701
+- County FIPS: 20091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20091053105
+- Tract 2000: 20091053105
+- Tract 1990: 20091053103
+- Place 2020: 
+- Place 2010: 53775
+- Place 2000: 53775
+- Place 1990: 2194
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 56
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

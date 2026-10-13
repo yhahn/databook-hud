@@ -1,0 +1,85 @@
+# Project: PERMANENCE HOUSES (NYC20110075)
+
+- HUD ID: NYC20110075
+- HUD ID before: 
+- Project: PERMANENCE HOUSES
+- Address: 189 E SECOND ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10009
+- ZIP extension: 
+- State project ID: 2007-084
+- Latitude: 40.722193
+- Longitude: -73.984302
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061003002
+- Tract 2010: 36061003002
+- Tract 2000: 36061003002
+- Tract 1990: 36061003002
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 408243
+- Units: 30
+- Low-income units: 23
+- Units reported: 30
+- Low-income reported: 23
+- Efficiencies: 11
+- 1-bedroom units: 10
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2729500
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2011576, NYC2008230.
+- Record status: Existing, unchanged

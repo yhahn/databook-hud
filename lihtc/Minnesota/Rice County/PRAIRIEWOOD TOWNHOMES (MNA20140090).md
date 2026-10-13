@@ -1,0 +1,85 @@
+# Project: PRAIRIEWOOD TOWNHOMES (MNA20140090)
+
+- HUD ID: MNA20140090
+- HUD ID before: 
+- Project: PRAIRIEWOOD TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: FARIBAULT
+- State: MN
+- ZIP: 55021
+- ZIP extension: 
+- State project ID: D7592
+- Latitude: 44.3164
+- Longitude: -93.2899
+- County FIPS: 27131
+- County from: 2020
+- Tract 2020: 27131070901
+- Tract 2010: 27131070901
+- Tract 2000: 27131970800
+- Tract 1990: 27131970800
+- Place 2020: 20546
+- Place 2010: 20546
+- Place 2000: 20546
+- Place 1990: 1250
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 636773
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 22
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: MENTAL ILLNESS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PRAIRIEWOOD TOWNHOMES.
+- Record status: Existing, unchanged

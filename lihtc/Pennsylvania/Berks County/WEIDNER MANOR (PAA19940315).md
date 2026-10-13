@@ -1,0 +1,85 @@
+# Project: WEIDNER MANOR (PAA19940315)
+
+- HUD ID: PAA19940315
+- HUD ID before: 
+- Project: WEIDNER MANOR
+- Address: 1135 BEN FRANKLIN HWY W
+- City: DOUGLASSVILLE
+- State: PA
+- ZIP: 19518
+- ZIP extension: 
+- State project ID: TC19930098
+- Latitude: 40.263035
+- Longitude: -75.734079
+- County FIPS: 42011
+- County from: 2020
+- Tract 2020: 42011011906
+- Tract 2010: 42011011904
+- Tract 2000: 42011011901
+- Tract 1990: 42011011900
+- Place 2020: 02349
+- Place 2010: 02349
+- Place 2000: 02349
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 168941
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 4
+- Why, other: NA
+- Data note: 
+- Record status: Existing, unchanged

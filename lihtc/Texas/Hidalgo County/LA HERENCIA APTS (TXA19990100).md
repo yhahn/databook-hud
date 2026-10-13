@@ -1,0 +1,85 @@
+# Project: LA HERENCIA APTS (TXA19990100)
+
+- HUD ID: TXA19990100
+- HUD ID before: 
+- Project: LA HERENCIA APTS
+- Address: 100 LA HERENCIA
+- City: MERCEDES
+- State: TX
+- ZIP: 78570
+- ZIP extension: 
+- State project ID: TX1697
+- Latitude: 26.163088
+- Longitude: -97.94972
+- County FIPS: 48215
+- County from: 2020
+- Tract 2020: 48215023103
+- Tract 2010: 48215023103
+- Tract 2000: 48215023101
+- Tract 1990: 48215023101
+- Place 2020: 47700
+- Place 2010: 47700
+- Place 2000: 35915
+- Place 1990: 2765
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 40
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

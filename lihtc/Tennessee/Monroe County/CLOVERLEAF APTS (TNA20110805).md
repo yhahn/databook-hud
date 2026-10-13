@@ -1,0 +1,85 @@
+# Project: CLOVERLEAF APTS (TNA20110805)
+
+- HUD ID: TNA20110805
+- HUD ID before: 
+- Project: CLOVERLEAF APTS
+- Address: 121 WAYMAN RD
+- City: MADISONVILLE
+- State: TN
+- ZIP: 37354
+- ZIP extension: 
+- State project ID: TN-10-314
+- Latitude: 35.540638
+- Longitude: -84.330214
+- County FIPS: 47123
+- County from: 2020
+- Tract 2020: 47123925402
+- Tract 2010: 47123925400
+- Tract 2000: 47123985400
+- Tract 1990: 47123985400
+- Place 2020: 45320
+- Place 2010: 99999
+- Place 2000: 45320
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 4036259
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4036259
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

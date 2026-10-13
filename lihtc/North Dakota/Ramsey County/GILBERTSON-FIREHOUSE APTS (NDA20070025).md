@@ -1,0 +1,85 @@
+# Project: GILBERTSON/FIREHOUSE APTS (NDA20070025)
+
+- HUD ID: NDA20070025
+- HUD ID before: 
+- Project: GILBERTSON/FIREHOUSE APTS
+- Address: 418 FIFTH ST SE
+- City: DEVILS LAKE
+- State: ND
+- ZIP: 58301
+- ZIP extension: 
+- State project ID: TC0514
+- Latitude: 48.104529
+- Longitude: -98.860184
+- County FIPS: 38071
+- County from: 2020
+- Tract 2020: 38071957600
+- Tract 2010: 38071957600
+- Tract 2000: 38071957400
+- Tract 1990: 38071957400
+- Place 2020: 19420
+- Place 2010: 19420
+- Place 2000: 19420
+- Place 1990: 0415
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 203526
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NDA1990010. AKA GILBERTSON-FIREHOUSE.
+- Record status: Existing, unchanged

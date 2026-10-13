@@ -1,0 +1,85 @@
+# Project: TRI-HARBOR LANDING (ORA20050091)
+
+- HUD ID: ORA20050091
+- HUD ID before: 
+- Project: TRI-HARBOR LANDING
+- Address: 210 KLICKITAT ST
+- City: UMATILLA
+- State: OR
+- ZIP: 97882
+- ZIP extension: 
+- State project ID: OR-04-00000488A
+- Latitude: 45.918954
+- Longitude: -119.287473
+- County FIPS: 41059
+- County from: 2020
+- Tract 2020: 41059950800
+- Tract 2010: 41059950800
+- Tract 2000: 41059950800
+- Tract 1990: 41059950800
+- Place 2020: 75650
+- Place 2010: 75650
+- Place 2000: 75650
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 143070
+- Units: 106
+- Low-income units: 106
+- Units reported: 106
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 59
+- 2-bedroom units: 43
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 105
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA1988265. AKA PRAIRIE APTS.
+- Record status: Existing, unchanged

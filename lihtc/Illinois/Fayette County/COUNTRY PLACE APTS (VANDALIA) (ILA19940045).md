@@ -1,0 +1,85 @@
+# Project: COUNTRY PLACE APTS (VANDALIA) (ILA19940045)
+
+- HUD ID: ILA19940045
+- HUD ID before: 
+- Project: COUNTRY PLACE APTS (VANDALIA)
+- Address: 929 W JOHNSON ST
+- City: VANDALIA
+- State: IL
+- ZIP: 62471
+- ZIP extension: 
+- State project ID: 74794
+- Latitude: 38.95946
+- Longitude: -89.102198
+- County FIPS: 17051
+- County from: 2020
+- Tract 2020: 17051950900
+- Tract 2010: 17051950900
+- Tract 2000: 17051950900
+- Tract 1990: 17051950900
+- Place 2020: 77317
+- Place 2010: 77317
+- Place 2000: 77317
+- Place 1990: 5870
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 39702
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COUNTRY PLACE APTS VILLA GROVE.
+- Record status: Existing, unchanged

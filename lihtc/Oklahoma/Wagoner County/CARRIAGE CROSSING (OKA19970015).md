@@ -1,0 +1,85 @@
+# Project: CARRIAGE CROSSING (OKA19970015)
+
+- HUD ID: OKA19970015
+- HUD ID before: 
+- Project: CARRIAGE CROSSING
+- Address: 28505 E 141ST ST S
+- City: COWETA
+- State: OK
+- ZIP: 74429
+- ZIP extension: 
+- State project ID: OK-96-0837
+- Latitude: 35.959298
+- Longitude: -95.659434
+- County FIPS: 40145
+- County from: 2020
+- Tract 2020: 40145030603
+- Tract 2010: 40145030602
+- Tract 2000: 40145030602
+- Tract 1990: 40145030602
+- Place 2020: 17800
+- Place 2010: 17800
+- Place 2000: 17800
+- Place 1990: 0585
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

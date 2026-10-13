@@ -1,0 +1,85 @@
+# Project: WHISPERING WIND (ILA20020105)
+
+- HUD ID: ILA20020105
+- HUD ID before: 
+- Project: WHISPERING WIND
+- Address: 1101 W 23RD ST
+- City: ROCK FALLS
+- State: IL
+- ZIP: 61071
+- ZIP extension: 
+- State project ID: 133101
+- Latitude: 41.760995
+- Longitude: -89.703636
+- County FIPS: 17195
+- County from: 2020
+- Tract 2020: 17195001700
+- Tract 2010: 17195001700
+- Tract 2000: 17195001700
+- Tract 1990: 17195001700
+- Place 2020: 64928
+- Place 2010: 64928
+- Place 2000: 64928
+- Place 1990: 4960
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 134526
+- Units: 15
+- Low-income units: 13
+- Units reported: 15
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 10
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

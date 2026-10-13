@@ -1,0 +1,85 @@
+# Project: CHAMPION PARK APTS (ORA19980055)
+
+- HUD ID: ORA19980055
+- HUD ID before: 
+- Project: CHAMPION PARK APTS
+- Address: 4317 BROOKFIELD AVE
+- City: TILLAMOOK
+- State: OR
+- ZIP: 97141
+- ZIP extension: 
+- State project ID: X001-124A
+- Latitude: 45.453983
+- Longitude: -123.810603
+- County FIPS: 41057
+- County from: 2020
+- Tract 2020: 41057960402
+- Tract 2010: 41057960400
+- Tract 2000: 41057960400
+- Tract 1990: 41057960400
+- Place 2020: 73700
+- Place 2010: 73700
+- Place 2000: 73700
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 500000
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 42
+- 3-bedroom units: 20
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

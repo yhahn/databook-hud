@@ -1,0 +1,85 @@
+# Project: OHIO PLACE APTS (ILA19950150)
+
+- HUD ID: ILA19950150
+- HUD ID before: 
+- Project: OHIO PLACE APTS
+- Address: 210 S GROVE ST
+- City: OHIO
+- State: IL
+- ZIP: 61349
+- ZIP extension: 
+- State project ID: 68394
+- Latitude: 41.555307
+- Longitude: -89.463177
+- County FIPS: 17011
+- County from: 2020
+- Tract 2020: 17011964700
+- Tract 2010: 17011964700
+- Tract 2000: 17011964700
+- Tract 1990: 17011964700
+- Place 2020: 55379
+- Place 2010: 55379
+- Place 2000: 12970
+- Place 1990: 3120
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 5302
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

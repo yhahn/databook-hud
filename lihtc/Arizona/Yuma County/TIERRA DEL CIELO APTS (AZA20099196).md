@@ -1,0 +1,85 @@
+# Project: TIERRA DEL CIELO APTS (AZA20099196)
+
+- HUD ID: AZA20099196
+- HUD ID before: 
+- Project: TIERRA DEL CIELO APTS
+- Address: 144 W BRENDA ST
+- City: SOMERTON
+- State: AZ
+- ZIP: 
+- ZIP extension: 
+- State project ID: TC-0266
+- Latitude: 
+- Longitude: 
+- County FIPS: 04027
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 04027011502
+- Tract 1990: 04027011500
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 68080
+- Place 1990: 0325
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000565.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LINCOLN-HUBBARD APTS (MOA20090085)
+
+- HUD ID: MOA20090085
+- HUD ID before: 
+- Project: LINCOLN-HUBBARD APTS
+- Address: 711 N OSAGE AVE
+- City: SEDALIA
+- State: MO
+- ZIP: 65301
+- ZIP extension: 
+- State project ID: 07-045
+- Latitude: 38.716703
+- Longitude: -93.227195
+- County FIPS: 29159
+- County from: 2020
+- Tract 2020: 29159480600
+- Tract 2010: 29159480600
+- Tract 2000: 29159980600
+- Tract 1990: 29159980600
+- Place 2020: 66440
+- Place 2010: 66440
+- Place 2000: 66440
+- Place 1990: 3935
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 700000
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 29
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

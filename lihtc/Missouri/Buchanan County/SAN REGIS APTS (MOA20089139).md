@@ -1,0 +1,85 @@
+# Project: SAN REGIS APTS (MOA20089139)
+
+- HUD ID: MOA20089139
+- HUD ID before: 
+- Project: SAN REGIS APTS
+- Address: 1015 FARAON ST
+- City: ST JOSEPH
+- State: MO
+- ZIP: 64501
+- ZIP extension: 
+- State project ID: 07-070
+- Latitude: 39.769232
+- Longitude: -94.847218
+- County FIPS: 29021
+- County from: 2020
+- Tract 2020: 29021001100
+- Tract 2010: 29021001100
+- Tract 2000: 29021001100
+- Tract 1990: 29021001100
+- Place 2020: 64550
+- Place 2010: 64550
+- Place 2000: 64550
+- Place 1990: 3865
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 39
+- Low-income units: 39
+- Units reported: 31
+- Low-income reported: 39
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

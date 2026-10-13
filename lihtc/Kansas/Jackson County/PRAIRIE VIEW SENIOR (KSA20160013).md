@@ -1,0 +1,85 @@
+# Project: PRAIRIE VIEW SENIOR (KSA20160013)
+
+- HUD ID: KSA20160013
+- HUD ID before: 
+- Project: PRAIRIE VIEW SENIOR
+- Address: 115 WEST 4TH ST., SUITE 100
+- City: HOLTON
+- State: KS
+- ZIP: 66436
+- ZIP extension: 
+- State project ID: KS-15-35
+- Latitude: 39.463248
+- Longitude: -95.73492
+- County FIPS: 20085
+- County from: 2020
+- Tract 2020: 20085082700
+- Tract 2010: 20085082700
+- Tract 2000: 20085982700
+- Tract 1990: 
+- Place 2020: 32825
+- Place 2010: 32825
+- Place 2000: 32825
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 514649
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

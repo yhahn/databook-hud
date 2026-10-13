@@ -1,0 +1,85 @@
+# Project: SPRING CHASE APTS (TXA19880695)
+
+- HUD ID: TXA19880695
+- HUD ID before: 
+- Project: SPRING CHASE APTS
+- Address: 2201 E BERRY ST
+- City: FORT WORTH
+- State: TX
+- ZIP: 76119
+- ZIP extension: 
+- State project ID: TX6498
+- Latitude: 32.70636
+- Longitude: -97.298968
+- County FIPS: 48439
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48439104605
+- Tract 2000: 48439104605
+- Tract 1990: 48439104605
+- Place 2020: 
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 1500
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 163
+- Low-income units: 163
+- Units reported: 163
+- Low-income reported: 163
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 112
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

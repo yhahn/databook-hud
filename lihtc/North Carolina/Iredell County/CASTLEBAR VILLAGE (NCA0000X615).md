@@ -1,0 +1,85 @@
+# Project: CASTLEBAR VILLAGE (NCA0000X615)
+
+- HUD ID: NCA0000X615
+- HUD ID before: 
+- Project: CASTLEBAR VILLAGE
+- Address: 1130 N MAIN ST
+- City: MOORESVILLE
+- State: NC
+- ZIP: 28115
+- ZIP extension: 
+- State project ID: 9293837
+- Latitude: 35.59081
+- Longitude: -80.791851
+- County FIPS: 37097
+- County from: 2020
+- Tract 2020: 37097061501
+- Tract 2010: 37097061501
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 44220
+- Place 2010: 44220
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 39
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 1410000
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

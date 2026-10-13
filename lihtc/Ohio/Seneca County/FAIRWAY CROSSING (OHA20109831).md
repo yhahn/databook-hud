@@ -1,0 +1,85 @@
+# Project: FAIRWAY CROSSING (OHA20109831)
+
+- HUD ID: OHA20109831
+- HUD ID before: 
+- Project: FAIRWAY CROSSING
+- Address: 65 DALLAS ST
+- City: TIFFIN
+- State: OH
+- ZIP: 44883
+- ZIP extension: 
+- State project ID: 080131
+- Latitude: 41.132252
+- Longitude: -83.171227
+- County FIPS: 39147
+- County from: 2020
+- Tract 2020: 39147963400
+- Tract 2010: 39147963400
+- Tract 2000: 39147963400
+- Tract 1990: 39147963400
+- Place 2020: 76778
+- Place 2010: 76778
+- Place 2000: 76778
+- Place 1990: 4240
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 18
+- 4-bedroom units: 17
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ROLLING RIDGE APTS (CTA20000025)
+
+- HUD ID: CTA20000025
+- HUD ID before: 
+- Project: ROLLING RIDGE APTS
+- Address: 16 RIDGE CT W
+- City: WEST HAVEN
+- State: CT
+- ZIP: 06516
+- ZIP extension: 
+- State project ID: CT-99032
+- Latitude: 41.275448
+- Longitude: -72.974208
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009154200
+- Tract 2010: 09009154200
+- Tract 2000: 09009154200
+- Tract 1990: 09009154200
+- Place 2020: 82800
+- Place 2010: 82800
+- Place 2000: 82800
+- Place 1990: 2535
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 108
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

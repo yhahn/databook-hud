@@ -1,0 +1,85 @@
+# Project: FIFE LAKE & KINGSLEY ARMS APTS (MIA20080100)
+
+- HUD ID: MIA20080100
+- HUD ID before: 
+- Project: FIFE LAKE & KINGSLEY ARMS APTS
+- Address: 10800 VANS LN
+- City: FIFE LAKE
+- State: MI
+- ZIP: 49633
+- ZIP extension: 
+- State project ID: MI-3230
+- Latitude: 44.583989
+- Longitude: -85.356852
+- County FIPS: 26055
+- County from: 2020
+- Tract 2020: 26055550200
+- Tract 2010: 26055550200
+- Tract 2000: 26055990200
+- Tract 1990: 26055990200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 28000
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 172604
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

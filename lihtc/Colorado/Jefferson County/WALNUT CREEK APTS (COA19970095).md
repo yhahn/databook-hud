@@ -1,0 +1,85 @@
+# Project: WALNUT CREEK APTS (COA19970095)
+
+- HUD ID: COA19970095
+- HUD ID before: 
+- Project: WALNUT CREEK APTS
+- Address: 10350 DOVER ST
+- City: WESTMINSTER
+- State: CO
+- ZIP: 80021
+- ZIP extension: 
+- State project ID: 95035
+- Latitude: 39.882925
+- Longitude: -105.094427
+- County FIPS: 08059
+- County from: 2020
+- Tract 2020: 08059060501
+- Tract 2010: 08059060500
+- Tract 2000: 08059009822
+- Tract 1990: 08059009820
+- Place 2020: 83835
+- Place 2010: 83835
+- Place 2000: 03455
+- Place 1990: 1355
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 220
+- Low-income units: 55
+- Units reported: 220
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 120
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

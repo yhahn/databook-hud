@@ -1,0 +1,85 @@
+# Project: CENTURY SQUARE TOWNHOMES (NDA20010010)
+
+- HUD ID: NDA20010010
+- HUD ID before: 
+- Project: CENTURY SQUARE TOWNHOMES
+- Address: 3820 25TH ST S
+- City: FARGO
+- State: ND
+- ZIP: 58104
+- ZIP extension: 
+- State project ID: TC0010
+- Latitude: 46.820501
+- Longitude: -96.819183
+- County FIPS: 38017
+- County from: 2020
+- Tract 2020: 38017010307
+- Tract 2010: 38017010307
+- Tract 2000: 38017010304
+- Tract 1990: 38017010302
+- Place 2020: 25700
+- Place 2010: 25700
+- Place 2000: 25700
+- Place 1990: 0545
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 128770
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

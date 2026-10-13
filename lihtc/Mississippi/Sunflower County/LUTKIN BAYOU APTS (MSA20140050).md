@@ -1,0 +1,85 @@
+# Project: LUTKIN BAYOU APTS (MSA20140050)
+
+- HUD ID: MSA20140050
+- HUD ID before: 
+- Project: LUTKIN BAYOU APTS
+- Address: 379 S BLVD
+- City: DREW
+- State: MS
+- ZIP: 38737
+- ZIP extension: 
+- State project ID: MS-12-1-048
+- Latitude: 33.804507
+- Longitude: -90.539393
+- County FIPS: 28133
+- County from: 2020
+- Tract 2020: 28133950100
+- Tract 2010: 28133950100
+- Tract 2000: 28133950100
+- Tract 1990: 28133950100
+- Place 2020: 20020
+- Place 2010: 20020
+- Place 2000: 20020
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 248595
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 35
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1997060.
+- Record status: Existing, unchanged

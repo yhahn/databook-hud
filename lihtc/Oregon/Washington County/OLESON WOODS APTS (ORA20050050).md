@@ -1,0 +1,85 @@
+# Project: OLESON WOODS APTS (ORA20050050)
+
+- HUD ID: ORA20050050
+- HUD ID before: 
+- Project: OLESON WOODS APTS
+- Address: 9166 SW 91ST AVE
+- City: TIGARD
+- State: OR
+- ZIP: 97223
+- ZIP extension: 
+- State project ID: 330
+- Latitude: 45.454007
+- Longitude: -122.770358
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067030502
+- Tract 2010: 41067030502
+- Tract 2000: 41067030502
+- Tract 1990: 41067030502
+- Place 2020: 47800
+- Place 2010: 47800
+- Place 2000: 27825
+- Place 1990: 0403
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 384982
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 0
+- 3-bedroom units: 21
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: DOVE TERRACE APARTMENTS (MNA20089006)
+
+- HUD ID: MNA20089006
+- HUD ID before: 
+- Project: DOVE TERRACE APARTMENTS
+- Address: 1227 SCHOOL ST
+- City: ELK RIVER
+- State: MN
+- ZIP: 55330
+- ZIP extension: 
+- State project ID: D0492
+- Latitude: 45.311386
+- Longitude: -93.577857
+- County FIPS: 27141
+- County from: 2020
+- Tract 2020: 27141030503
+- Tract 2010: 27141030503
+- Tract 2000: 27141030501
+- Tract 1990: 27141030500
+- Place 2020: 18674
+- Place 2010: 18674
+- Place 2000: 18674
+- Place 1990: 1145
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 127580
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 35
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 629958
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA1991050.
+- Record status: Existing, unchanged

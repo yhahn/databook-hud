@@ -1,0 +1,85 @@
+# Project: STONEGATE VILLAGE (VAA19930090)
+
+- HUD ID: VAA19930090
+- HUD ID before: 
+- Project: STONEGATE VILLAGE
+- Address: 2244 STONE WHEEL DR
+- City: RESTON
+- State: VA
+- ZIP: 20191
+- ZIP extension: 
+- State project ID: 4399
+- Latitude: 38.939222
+- Longitude: -77.366073
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059481202
+- Tract 2010: 51059481202
+- Tract 2000: 51059481200
+- Tract 1990: 51059481200
+- Place 2020: 66672
+- Place 2010: 66672
+- Place 2000: 66672
+- Place 1990: 1022
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 748652
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 85
+- 3-bedroom units: 80
+- 4-bedroom units: 35
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2005772.
+- Record status: Existing, unchanged

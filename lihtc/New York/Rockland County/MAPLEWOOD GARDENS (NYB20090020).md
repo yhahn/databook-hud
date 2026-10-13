@@ -1,0 +1,85 @@
+# Project: MAPLEWOOD GARDENS (NYB20090020)
+
+- HUD ID: NYB20090020
+- HUD ID before: 
+- Project: MAPLEWOOD GARDENS
+- Address: MAPLEWOOD GARDENS
+- City: NANUET
+- State: NY
+- ZIP: 
+- ZIP extension: 
+- State project ID: NY-09-1694
+- Latitude: 41.1075
+- Longitude: -74.0253
+- County FIPS: 36087
+- County from: 2020
+- Tract 2020: 36087011305
+- Tract 2010: 36087011301
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 49407
+- Place 2010: 49407
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 147272
+- Units: 50
+- Low-income units: 48
+- Units reported: 50
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 20
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

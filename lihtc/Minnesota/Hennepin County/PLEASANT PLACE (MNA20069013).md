@@ -1,0 +1,85 @@
+# Project: PLEASANT PLACE (MNA20069013)
+
+- HUD ID: MNA20069013
+- HUD ID before: 
+- Project: PLEASANT PLACE
+- Address: 21001 JOHN MILLNESS DR
+- City: ROGERS
+- State: MN
+- ZIP: 55102
+- ZIP extension: 
+- State project ID: D3447
+- Latitude: 45.188808
+- Longitude: -93.547789
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053026912
+- Tract 2010: 27053026909
+- Tract 2000: 27053026909
+- Tract 1990: 27053026901
+- Place 2020: 55186
+- Place 2010: 55186
+- Place 2000: 26990
+- Place 1990: 0930
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 56957
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

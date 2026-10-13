@@ -1,0 +1,85 @@
+# Project: ARBORS AT IRONWOOD APTS I (INA20010082)
+
+- HUD ID: INA20010082
+- HUD ID before: 
+- Project: ARBORS AT IRONWOOD APTS I
+- Address: 1310 BLOSSOM DR
+- City: MISHAWAKA
+- State: IN
+- ZIP: 46544
+- ZIP extension: 
+- State project ID: IN-00-00200
+- Latitude: 41.650007
+- Longitude: -86.213237
+- County FIPS: 18141
+- County from: 2020
+- Tract 2020: 18141011703
+- Tract 2010: 18141011702
+- Tract 2000: 18141011702
+- Tract 1990: 18141011702
+- Place 2020: 49932
+- Place 2010: 49932
+- Place 2000: 49932
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 48
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2001078, INA2000002.
+- Record status: Existing, unchanged

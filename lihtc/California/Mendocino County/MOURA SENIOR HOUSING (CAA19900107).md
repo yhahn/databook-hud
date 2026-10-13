@@ -1,0 +1,85 @@
+# Project: MOURA SENIOR HOUSING (CAA19900107)
+
+- HUD ID: CAA19900107
+- HUD ID before: 
+- Project: MOURA SENIOR HOUSING
+- Address: 400 S ST
+- City: FORT BRAGG
+- State: CA
+- ZIP: 95437
+- ZIP extension: 
+- State project ID: CA-89-158
+- Latitude: 39.429463
+- Longitude: -123.80145
+- County FIPS: 06045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06045010500
+- Tract 2000: 06045010500
+- Tract 1990: 06045010500
+- Place 2020: 
+- Place 2010: 25058
+- Place 2000: 25058
+- Place 1990: 1050
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 68404
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0001070.
+- Record status: Existing, unchanged

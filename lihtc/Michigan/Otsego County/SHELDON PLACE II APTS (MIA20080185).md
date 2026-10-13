@@ -1,0 +1,85 @@
+# Project: SHELDON PLACE II APTS (MIA20080185)
+
+- HUD ID: MIA20080185
+- HUD ID before: 
+- Project: SHELDON PLACE II APTS
+- Address: 915 W SHELDON ST
+- City: GAYLORD
+- State: MI
+- ZIP: 49735
+- ZIP extension: 
+- State project ID: MI-3313
+- Latitude: 45.030005
+- Longitude: -84.685338
+- County FIPS: 26137
+- County from: 2020
+- Tract 2020: 26137950300
+- Tract 2010: 26137950300
+- Tract 2000: 26137950300
+- Tract 1990: 26137950300
+- Place 2020: 31720
+- Place 2010: 31720
+- Place 2000: 31720
+- Place 1990: 1035
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

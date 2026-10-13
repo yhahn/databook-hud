@@ -1,0 +1,85 @@
+# Project: PISCATAQUOG RIVER FAMILY HOUSING (NHA20040132)
+
+- HUD ID: NHA20040132
+- HUD ID before: 
+- Project: PISCATAQUOG RIVER FAMILY HOUSING
+- Address: 235 AGNES ST
+- City: MANCHESTER
+- State: NH
+- ZIP: 03102
+- ZIP extension: 
+- State project ID: 116
+- Latitude: 42.994155
+- Longitude: -71.498276
+- County FIPS: 33011
+- County from: 2020
+- Tract 2020: 33011002200
+- Tract 2010: 33011002200
+- Tract 2000: 33011002200
+- Tract 1990: 33011002200
+- Place 2020: 45140
+- Place 2010: 45140
+- Place 2000: 45140
+- Place 1990: 1610
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 90
+- Units reported: 120
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 100
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

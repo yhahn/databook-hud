@@ -1,0 +1,85 @@
+# Project: FAIRFAX HALL (VAA20010100)
+
+- HUD ID: VAA20010100
+- HUD ID before: 
+- Project: FAIRFAX HALL
+- Address: 1101 RESERVOIR ST
+- City: WAYNESBORO
+- State: VA
+- ZIP: 22980
+- ZIP extension: 
+- State project ID: 7767
+- Latitude: 38.069459
+- Longitude: -78.87011
+- County FIPS: 51820
+- County from: 2020
+- Tract 2020: 51820003200
+- Tract 2010: 51820003200
+- Tract 2000: 51820003200
+- Tract 1990: 51015070598
+- Place 2020: 83680
+- Place 2010: 83680
+- Place 2000: 83680
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 361010
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 8
+- 1-bedroom units: 45
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

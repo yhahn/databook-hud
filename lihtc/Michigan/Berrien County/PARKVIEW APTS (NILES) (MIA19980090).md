@@ -1,0 +1,85 @@
+# Project: PARKVIEW APTS (NILES) (MIA19980090)
+
+- HUD ID: MIA19980090
+- HUD ID before: 
+- Project: PARKVIEW APTS (NILES)
+- Address: 613 N FRONT ST
+- City: NILES
+- State: MI
+- ZIP: 49120
+- ZIP extension: 
+- State project ID: MI-3603
+- Latitude: 41.833736
+- Longitude: -86.258441
+- County FIPS: 26021
+- County from: 2020
+- Tract 2020: 26021020500
+- Tract 2010: 26021020500
+- Tract 2000: 26021020500
+- Tract 1990: 26021020500
+- Place 2020: 57760
+- Place 2010: 57760
+- Place 2000: 57760
+- Place 1990: 1935
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 73
+- Units reported: 80
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 45
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

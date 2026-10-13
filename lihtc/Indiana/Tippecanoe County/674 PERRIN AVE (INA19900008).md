@@ -1,0 +1,85 @@
+# Project: 674 PERRIN AVE (INA19900008)
+
+- HUD ID: INA19900008
+- HUD ID before: 
+- Project: 674 PERRIN AVE
+- Address: 674 PERRIN AVE
+- City: LAFAYETTE
+- State: IN
+- ZIP: 47904
+- ZIP extension: 
+- State project ID: IN-90-03700
+- Latitude: 40.423
+- Longitude: -86.878001
+- County FIPS: 18157
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18157000700
+- Tract 2000: 18157000700
+- Tract 1990: 18157000700
+- Place 2020: 
+- Place 2010: 40788
+- Place 2000: 40788
+- Place 1990: 1285
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0000650.
+- Record status: Existing, unchanged

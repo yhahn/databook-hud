@@ -1,0 +1,85 @@
+# Project: VOEGELE BUILDING (OHA20010225)
+
+- HUD ID: OHA20010225
+- HUD ID before: 
+- Project: VOEGELE BUILDING
+- Address: 211 N MAIN ST
+- City: MANSFIELD
+- State: OH
+- ZIP: 44902
+- ZIP extension: 
+- State project ID: 990059
+- Latitude: 40.764347
+- Longitude: -82.515424
+- County FIPS: 39139
+- County from: 2020
+- Tract 2020: 39139003100
+- Tract 2010: 39139003100
+- Tract 2000: 39139000200
+- Tract 1990: 39139000200
+- Place 2020: 47138
+- Place 2010: 47138
+- Place 2000: 47138
+- Place 1990: 2440
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 227478
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

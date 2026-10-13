@@ -1,0 +1,85 @@
+# Project: SAN MARCOS SENIORS COMMUNITY II (TXA19980205)
+
+- HUD ID: TXA19980205
+- HUD ID before: 
+- Project: SAN MARCOS SENIORS COMMUNITY II
+- Address: 500 PARKER DR
+- City: SAN MARCOS
+- State: TX
+- ZIP: 78666
+- ZIP extension: 
+- State project ID: TX-96-113
+- Latitude: 29.859206
+- Longitude: -97.94076
+- County FIPS: 48209
+- County from: 2020
+- Tract 2020: 48209010401
+- Tract 2010: 48209010400
+- Tract 2000: 48209010400
+- Tract 1990: 48209010400
+- Place 2020: 65600
+- Place 2010: 65600
+- Place 2000: 65600
+- Place 1990: 3795
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

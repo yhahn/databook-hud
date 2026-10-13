@@ -1,0 +1,85 @@
+# Project: GATEWAYS APARTMENTS (NYC20106012)
+
+- HUD ID: NYC20106012
+- HUD ID before: 
+- Project: GATEWAYS APARTMENTS
+- Address: 1409 GATEWAY BOULEVARD
+- City: FAR ROCKAWAY
+- State: NY
+- ZIP: 11691
+- ZIP extension: 
+- State project ID: 26-3376904
+- Latitude: 40.601475
+- Longitude: -73.749068
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081101003
+- Tract 2010: 36081101001
+- Tract 2000: 36081101001
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1033094
+- Units: 365
+- Low-income units: 350
+- Units reported: 365
+- Low-income reported: 350
+- Efficiencies: 35
+- 1-bedroom units: 159
+- 2-bedroom units: 152
+- 3-bedroom units: 10
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

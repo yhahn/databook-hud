@@ -1,0 +1,85 @@
+# Project: CASABLANCA APTS (CAA20000095)
+
+- HUD ID: CAA20000095
+- HUD ID before: 
+- Project: CASABLANCA APTS
+- Address: 4160 E AVE R
+- City: PALMDALE
+- State: CA
+- ZIP: 93552
+- ZIP extension: 
+- State project ID: CA-98-570
+- Latitude: 34.57295
+- Longitude: -118.054724
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037910720
+- Tract 2010: 06037910711
+- Tract 2000: 06037910703
+- Tract 1990: 06037910701
+- Place 2020: 55156
+- Place 2010: 55156
+- Place 2000: 55156
+- Place 1990: 2072
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 1877261
+- Units: 200
+- Low-income units: 198
+- Units reported: 200
+- Low-income reported: 198
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 100
+- 3-bedroom units: 100
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BATH STREET APRTMENTS INC.
+- Record status: Existing, unchanged

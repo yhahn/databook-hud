@@ -1,0 +1,85 @@
+# Project: MONTEVISTA SENIOR APTS (CAA20030330)
+
+- HUD ID: CAA20030330
+- HUD ID before: 
+- Project: MONTEVISTA SENIOR APTS
+- Address: 13728 SAN PABLO AVE
+- City: SAN PABLO
+- State: CA
+- ZIP: 94806
+- ZIP extension: 
+- State project ID: CA-00-208
+- Latitude: 37.958202
+- Longitude: -122.339036
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013369001
+- Tract 2010: 06013369001
+- Tract 2000: 06013369001
+- Tract 1990: 06013369000
+- Place 2020: 68294
+- Place 2010: 68294
+- Place 2000: 68294
+- Place 1990: 2560
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 585816
+- Units: 82
+- Low-income units: 66
+- Units reported: 82
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 53
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

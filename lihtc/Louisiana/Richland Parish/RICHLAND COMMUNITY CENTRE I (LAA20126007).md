@@ -1,0 +1,85 @@
+# Project: RICHLAND COMMUNITY CENTRE I (LAA20126007)
+
+- HUD ID: LAA20126007
+- HUD ID before: 
+- Project: RICHLAND COMMUNITY CENTRE I
+- Address: 411 MADELINE ST
+- City: RAYVILLE
+- State: LA
+- ZIP: 71269
+- ZIP extension: 
+- State project ID: LA-11-013
+- Latitude: 32.47593
+- Longitude: -91.756137
+- County FIPS: 22083
+- County from: 2020
+- Tract 2020: 22083970500
+- Tract 2010: 22083970500
+- Tract 2000: 22083970500
+- Tract 1990: 22083970500
+- Place 2020: 63680
+- Place 2010: 63680
+- Place 2000: 63680
+- Place 1990: 1145
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 297546
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA0000018.
+- Record status: Existing, unchanged

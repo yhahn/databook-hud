@@ -1,0 +1,85 @@
+# Project: WALNUT GROVE APTS (MIA20030330)
+
+- HUD ID: MIA20030330
+- HUD ID before: 
+- Project: WALNUT GROVE APTS
+- Address: 876 SHEFFIELD ST SW
+- City: GRAND RAPIDS
+- State: MI
+- ZIP: 49503
+- ZIP extension: 
+- State project ID: MI-2276
+- Latitude: 42.949337
+- Longitude: -85.687158
+- County FIPS: 26081
+- County from: 2020
+- Tract 2020: 26081002600
+- Tract 2010: 26081002600
+- Tract 2000: 26081002600
+- Tract 1990: 26081002600
+- Place 2020: 34000
+- Place 2010: 34000
+- Place 2000: 34000
+- Place 1990: 1085
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 32
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1165364
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA HILLCREST HOMES
+- Record status: Existing, unchanged

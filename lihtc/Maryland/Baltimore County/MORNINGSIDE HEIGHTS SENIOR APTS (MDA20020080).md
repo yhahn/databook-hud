@@ -1,0 +1,85 @@
+# Project: MORNINGSIDE HEIGHTS SENIOR APTS (MDA20020080)
+
+- HUD ID: MDA20020080
+- HUD ID before: 
+- Project: MORNINGSIDE HEIGHTS SENIOR APTS
+- Address: 104 PLEASANT RIDGE DR
+- City: OWINGS MILLS
+- State: MD
+- ZIP: 21117
+- ZIP extension: 
+- State project ID: MD00-24001
+- Latitude: 39.426328
+- Longitude: -76.784457
+- County FIPS: 24005
+- County from: 2020
+- Tract 2020: 24005404202
+- Tract 2010: 24005404202
+- Tract 2000: 24005404202
+- Tract 1990: 24005404202
+- Place 2020: 59425
+- Place 2010: 59425
+- Place 2000: 59425
+- Place 1990: 0740
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 82
+- Low-income units: 82
+- Units reported: 82
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 69
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MORNINGSIDE SENIOR APTS.
+- Record status: Existing, unchanged

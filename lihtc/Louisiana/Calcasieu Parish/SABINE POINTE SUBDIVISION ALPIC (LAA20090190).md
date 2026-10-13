@@ -1,0 +1,85 @@
+# Project: SABINE POINTE SUBDIVISION ALPIC (LAA20090190)
+
+- HUD ID: LAA20090190
+- HUD ID before: 
+- Project: SABINE POINTE SUBDIVISION ALPIC
+- Address: 1201 SABINE POINTE DRIVE
+- City: VINTON
+- State: LA
+- ZIP: 70668
+- ZIP extension: 0000
+- State project ID: LA-06-120
+- Latitude: 30.192442
+- Longitude: -93.566872
+- County FIPS: 22019
+- County from: 2020
+- Tract 2020: 22019003500
+- Tract 2010: 22019003500
+- Tract 2000: 22019003500
+- Tract 1990: 22019003500
+- Place 2020: 78820
+- Place 2010: 78820
+- Place 2000: 
+- Place 1990: 1380
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 21346
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

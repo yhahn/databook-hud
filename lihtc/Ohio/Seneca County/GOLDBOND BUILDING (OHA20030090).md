@@ -1,0 +1,85 @@
+# Project: GOLDBOND BUILDING (OHA20030090)
+
+- HUD ID: OHA20030090
+- HUD ID before: 
+- Project: GOLDBOND BUILDING
+- Address: 154 S WASHINGTON ST
+- City: TIFFIN
+- State: OH
+- ZIP: 44883
+- ZIP extension: 
+- State project ID: 01-0065
+- Latitude: 41.113126
+- Longitude: -83.176546
+- County FIPS: 39147
+- County from: 2020
+- Tract 2020: 39147963700
+- Tract 2010: 39147963700
+- Tract 2000: 39147963700
+- Tract 1990: 39147963700
+- Place 2020: 76778
+- Place 2010: 76778
+- Place 2000: 76778
+- Place 1990: 4240
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 147871
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 2
+- 1-bedroom units: 10
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

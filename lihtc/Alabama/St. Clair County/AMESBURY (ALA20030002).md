@@ -1,0 +1,85 @@
+# Project: AMESBURY (ALA20030002)
+
+- HUD ID: ALA20030002
+- HUD ID before: 
+- Project: AMESBURY
+- Address: 310 SEVENTH CT N
+- City: PELL CITY
+- State: AL
+- ZIP: 35125
+- ZIP extension: 
+- State project ID: AL-03-0054
+- Latitude: 33.595196
+- Longitude: -86.273622
+- County FIPS: 01115
+- County from: 2020
+- Tract 2020: 01115040211
+- Tract 2010: 01115040204
+- Tract 2000: 01115040202
+- Tract 1990: 01115040202
+- Place 2020: 58896
+- Place 2010: 58896
+- Place 2000: 58896
+- Place 1990: 1350
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 376956
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 56
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1733230
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2005005.
+- Record status: Existing, unchanged

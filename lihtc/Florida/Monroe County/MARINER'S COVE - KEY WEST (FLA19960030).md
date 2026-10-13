@@ -1,0 +1,85 @@
+# Project: MARINER'S COVE - KEY WEST (FLA19960030)
+
+- HUD ID: FLA19960030
+- HUD ID before: 
+- Project: MARINER'S COVE - KEY WEST
+- Address: 3314 NORTHSIDE DR
+- City: KEY WEST
+- State: FL
+- ZIP: 33040
+- ZIP extension: 
+- State project ID: 507
+- Latitude: 24.569127
+- Longitude: -81.763004
+- County FIPS: 12087
+- County from: 2020
+- Tract 2020: 12087971900
+- Tract 2010: 12087971900
+- Tract 2000: 12087971900
+- Tract 1990: 12087971900
+- Place 2020: 36550
+- Place 2010: 36550
+- Place 2000: 36550
+- Place 1990: 1070
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 33
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

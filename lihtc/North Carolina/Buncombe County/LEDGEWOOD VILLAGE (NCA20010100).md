@@ -1,0 +1,85 @@
+# Project: LEDGEWOOD VILLAGE (NCA20010100)
+
+- HUD ID: NCA20010100
+- HUD ID before: 
+- Project: LEDGEWOOD VILLAGE
+- Address: 15 FUTURE DRIVE
+- City: ASHEVILLE
+- State: NC
+- ZIP: 28803
+- ZIP extension: 
+- State project ID: 9001434
+- Latitude: 35.571126
+- Longitude: -82.516719
+- County FIPS: 37021
+- County from: 2020
+- Tract 2020: 37021002000
+- Tract 2010: 37021002000
+- Tract 2000: 37021002000
+- Tract 1990: 37021002000
+- Place 2020: 02140
+- Place 2010: 02140
+- Place 2000: 02140
+- Place 1990: 0095
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 308648
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 76
+- 3-bedroom units: 54
+- 4-bedroom units: 20
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

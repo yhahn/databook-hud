@@ -1,0 +1,85 @@
+# Project: HIGHLAND SQUARE SENIOR APARTMENTS (AZA20160010)
+
+- HUD ID: AZA20160010
+- HUD ID before: 
+- Project: HIGHLAND SQUARE SENIOR APARTMENTS
+- Address: 299 W. MINGUS AVENUE
+- City: COTTONWOOD
+- State: AZ
+- ZIP: 86326
+- ZIP extension: 3638
+- State project ID: TC-0785-14
+- Latitude: 34.739396
+- Longitude: -112.030673
+- County FIPS: 04025
+- County from: 2020
+- Tract 2020: 04025002001
+- Tract 2010: 04025002001
+- Tract 2000: 04025002000
+- Tract 1990: 
+- Place 2020: 16410
+- Place 2010: 16410
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 738746
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 42
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 750000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

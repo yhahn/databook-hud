@@ -1,0 +1,85 @@
+# Project: MORRIS AVENUE APTS (STATEN ISLAND) (NYC20120583)
+
+- HUD ID: NYC20120583
+- HUD ID before: 
+- Project: MORRIS AVENUE APTS (STATEN ISLAND)
+- Address: 181 GORDON ST
+- City: STATEN ISLAND
+- State: NY
+- ZIP: 10304
+- ZIP extension: 
+- State project ID: NY-12-015
+- Latitude: 40.622917
+- Longitude: -74.082665
+- County FIPS: 36085
+- County from: 2020
+- Tract 2020: 36085002900
+- Tract 2010: 36085002900
+- Tract 2000: 36085002900
+- Tract 1990: 36085002900
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1984976
+- Units: 201
+- Low-income units: 179
+- Units reported: 201
+- Low-income reported: 179
+- Efficiencies: 30
+- 1-bedroom units: 63
+- 2-bedroom units: 77
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

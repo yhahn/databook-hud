@@ -1,0 +1,85 @@
+# Project: MILL CREEK FKA SPRINGDALE SR CIT APTS (ARA20020120)
+
+- HUD ID: ARA20020120
+- HUD ID before: 
+- Project: MILL CREEK FKA SPRINGDALE SR CIT APTS
+- Address: 126 RHODES AVE
+- City: SPRINGDALE
+- State: AR
+- ZIP: 72764
+- ZIP extension: 
+- State project ID: AR-00-23-001
+- Latitude: 36.189995
+- Longitude: -94.129541
+- County FIPS: 05143
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05143010200
+- Tract 2000: 05143010200
+- Tract 1990: 05143010200
+- Place 2020: 
+- Place 2010: 66080
+- Place 2000: 66080
+- Place 1990: 1875
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 257164
+- Units: 63
+- Low-income units: 51
+- Units reported: 63
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA SPRINGDALE SENIOR CITIZEN APTS
+- Record status: Existing, unchanged

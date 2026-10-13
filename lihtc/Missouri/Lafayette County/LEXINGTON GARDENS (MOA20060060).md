@@ -1,0 +1,85 @@
+# Project: LEXINGTON GARDENS (MOA20060060)
+
+- HUD ID: MOA20060060
+- HUD ID before: 
+- Project: LEXINGTON GARDENS
+- Address: 2201 OAKDALE DR
+- City: LEXINGTON
+- State: MO
+- ZIP: 64067
+- ZIP extension: 
+- State project ID: 06-119
+- Latitude: 39.166438
+- Longitude: -93.877401
+- County FIPS: 29107
+- County from: 2020
+- Tract 2020: 29107090200
+- Tract 2010: 29107090200
+- Tract 2000: 29107090200
+- Tract 1990: 29107090200
+- Place 2020: 41870
+- Place 2010: 41870
+- Place 2000: 19918
+- Place 1990: 2465
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 180000
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 20
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

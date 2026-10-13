@@ -1,0 +1,85 @@
+# Project: WINGATE MANOR I (ILA20100015)
+
+- HUD ID: ILA20100015
+- HUD ID before: 
+- Project: WINGATE MANOR I
+- Address: 161 WINGATE BLVD
+- City: SHILOH
+- State: IL
+- ZIP: 62221
+- ZIP extension: 
+- State project ID: 293708
+- Latitude: 38.531007
+- Longitude: -89.92637
+- County FIPS: 17163
+- County from: 2020
+- Tract 2020: 17163503908
+- Tract 2010: 17163503904
+- Tract 2000: 17163503901
+- Tract 1990: 17163503304
+- Place 2020: 69524
+- Place 2010: 69524
+- Place 2000: 04845
+- Place 1990: 0430
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 570415
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000111.
+- Record status: Existing, unchanged

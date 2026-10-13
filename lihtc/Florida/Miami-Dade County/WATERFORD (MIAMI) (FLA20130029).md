@@ -1,0 +1,85 @@
+# Project: WATERFORD (MIAMI) (FLA20130029)
+
+- HUD ID: FLA20130029
+- HUD ID before: 
+- Project: WATERFORD (MIAMI)
+- Address: 19580 W DIXIE HWY
+- City: MIAMI
+- State: FL
+- ZIP: 33180
+- ZIP extension: 
+- State project ID: 2606
+- Latitude: 25.956699
+- Longitude: -80.147625
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086009704
+- Tract 2010: 12086009704
+- Tract 2000: 12086009701
+- Tract 1990: 12025009701
+- Place 2020: 51125
+- Place 2010: 51125
+- Place 2000: 34400
+- Place 1990: 1563
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 64
+- Units reported: 72
+- Low-income reported: 64
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2001255.
+- Record status: Existing, unchanged

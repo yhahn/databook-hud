@@ -1,0 +1,85 @@
+# Project: SERENITY VILLAGE APTS (COA20040055)
+
+- HUD ID: COA20040055
+- HUD ID before: 
+- Project: SERENITY VILLAGE APTS
+- Address: 3730 W 24TH ST
+- City: GREELEY
+- State: CO
+- ZIP: 80634
+- ZIP extension: 
+- State project ID: 2002521
+- Latitude: 40.399124
+- Longitude: -104.73769
+- County FIPS: 08123
+- County from: 2020
+- Tract 2020: 08123001409
+- Tract 2010: 08123001409
+- Tract 2000: 08123001403
+- Tract 1990: 08123001403
+- Place 2020: 32155
+- Place 2010: 32155
+- Place 2000: 32155
+- Place 1990: 0570
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 112
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WESTPARK VILLAGE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VILLA CAPRI (WAA20060195)
+
+- HUD ID: WAA20060195
+- HUD ID before: 
+- Project: VILLA CAPRI
+- Address: 28621 25TH PL S
+- City: FEDERAL WAY
+- State: WA
+- ZIP: 98003
+- ZIP extension: 
+- State project ID: WA-05-00204
+- Latitude: 47.343969
+- Longitude: -122.300219
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033030008
+- Tract 2010: 53033030004
+- Tract 2000: 53033030004
+- Tract 1990: 53033030001
+- Place 2020: 23515
+- Place 2010: 23515
+- Place 2000: 23515
+- Place 1990: 0443
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 494282
+- Units: 85
+- Low-income units: 85
+- Units reported: 85
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 61
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 78
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

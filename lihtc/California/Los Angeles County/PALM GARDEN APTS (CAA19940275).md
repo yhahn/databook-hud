@@ -1,0 +1,85 @@
+# Project: PALM GARDEN APTS (CAA19940275)
+
+- HUD ID: CAA19940275
+- HUD ID before: 
+- Project: PALM GARDEN APTS
+- Address: 10130 VALLEY BLVD
+- City: EL MONTE
+- State: CA
+- ZIP: 91731
+- ZIP extension: 
+- State project ID: CA-93-045
+- Latitude: 34.077482
+- Longitude: -118.049507
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037432801
+- Tract 2010: 06037432801
+- Tract 2000: 06037432801
+- Tract 1990: 06037432800
+- Place 2020: 22230
+- Place 2010: 22230
+- Place 2000: 22230
+- Place 1990: 0880
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 249271
+- Units: 90
+- Low-income units: 89
+- Units reported: 90
+- Low-income reported: 89
+- Efficiencies: 89
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

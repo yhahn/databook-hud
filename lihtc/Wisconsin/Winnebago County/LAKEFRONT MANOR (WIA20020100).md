@@ -1,0 +1,85 @@
+# Project: LAKEFRONT MANOR (WIA20020100)
+
+- HUD ID: WIA20020100
+- HUD ID before: 
+- Project: LAKEFRONT MANOR
+- Address: 651 OAK ST
+- City: OSHKOSH
+- State: WI
+- ZIP: 54901
+- ZIP extension: 
+- State project ID: 2505
+- Latitude: 44.023564
+- Longitude: -88.523962
+- County FIPS: 55139
+- County from: 2020
+- Tract 2020: 55139000200
+- Tract 2010: 55139000200
+- Tract 2000: 55139000200
+- Tract 1990: 55139000200
+- Place 2020: 60500
+- Place 2010: 60500
+- Place 2000: 60500
+- Place 1990: 1930
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 58
+- Units reported: 66
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: EAST BROAD CROSSING (NCA20060085)
+
+- HUD ID: NCA20060085
+- HUD ID before: 
+- Project: EAST BROAD CROSSING
+- Address: 2150 DEERVIEW CIRCLE
+- City: STATESVILLE
+- State: NC
+- ZIP: 28625
+- ZIP extension: 
+- State project ID: 9002304
+- Latitude: 35.794618
+- Longitude: -80.849109
+- County FIPS: 37097
+- County from: 2020
+- Tract 2020: 37097060601
+- Tract 2010: 37097060601
+- Tract 2000: 37097060600
+- Tract 1990: 37097060600
+- Place 2020: 64740
+- Place 2010: 64740
+- Place 2000: 64740
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 319474
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

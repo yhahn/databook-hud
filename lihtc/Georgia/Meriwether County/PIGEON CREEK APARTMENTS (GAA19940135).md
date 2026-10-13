@@ -1,0 +1,85 @@
+# Project: PIGEON CREEK APARTMENTS (GAA19940135)
+
+- HUD ID: GAA19940135
+- HUD ID before: 
+- Project: PIGEON CREEK APARTMENTS
+- Address: 1135 WARM SPRINGS HWY
+- City: MANCHESTER
+- State: GA
+- ZIP: 31816
+- ZIP extension: 
+- State project ID: GA-92-006
+- Latitude: 32.868959
+- Longitude: -84.630334
+- County FIPS: 13199
+- County from: 2020
+- Tract 2020: 13199970501
+- Tract 2010: 13199970500
+- Tract 2000: 13199970500
+- Tract 1990: 13199970500
+- Place 2020: 49532
+- Place 2010: 49532
+- Place 2000: 49532
+- Place 1990: 1740
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 43
+- Low-income units: 42
+- Units reported: 43
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

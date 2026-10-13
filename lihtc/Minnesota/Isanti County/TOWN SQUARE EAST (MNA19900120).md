@@ -1,0 +1,85 @@
+# Project: TOWN SQUARE EAST (MNA19900120)
+
+- HUD ID: MNA19900120
+- HUD ID before: 
+- Project: TOWN SQUARE EAST
+- Address: 365 11TH AVE SE
+- City: CAMBRIDGE
+- State: MN
+- ZIP: 55008
+- ZIP extension: 
+- State project ID: MN-88-002
+- Latitude: 45.561792
+- Longitude: -93.221977
+- County FIPS: 27059
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27059130301
+- Tract 2000: 27059130300
+- Tract 1990: 27059130300
+- Place 2020: 
+- Place 2010: 09370
+- Place 2000: 09370
+- Place 1990: 0570
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

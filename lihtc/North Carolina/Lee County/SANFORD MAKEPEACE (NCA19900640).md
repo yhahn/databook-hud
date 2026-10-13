@@ -1,0 +1,85 @@
+# Project: SANFORD MAKEPEACE (NCA19900640)
+
+- HUD ID: NCA19900640
+- HUD ID before: 
+- Project: SANFORD MAKEPEACE
+- Address: 102 CARTHAGE ST
+- City: SANFORD
+- State: NC
+- ZIP: 27330
+- ZIP extension: 
+- State project ID: 405
+- Latitude: 35.481376
+- Longitude: -79.17833
+- County FIPS: 37105
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37105030101
+- Tract 2000: 37105030100
+- Tract 1990: 37105030100
+- Place 2020: 
+- Place 2010: 59280
+- Place 2000: 59280
+- Place 1990: 2210
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 45039
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 1
+- 1-bedroom units: 22
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,26 @@
+# Tax Credit Projects: Payette County, ID
+
+- Level: County
+- Postal code: ID
+- State FIPS: 16
+- County FIPS: 16075
+- Counties: 
+- Projects: 9
+- Units: 275
+- Low-income units: 263
+
+The low-income housing tax credit projects of Payette County, Idaho, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [MESA VERDE III (IDA19880006)](./Payette%20County/MESA%20VERDE%20III%20%28IDA19880006%29.md) | IDA19880006 | FRUITLAND | 1988 | 6 | 6 |
+| [LOUISE GARDEN (IDA19960020)](./Payette%20County/LOUISE%20GARDEN%20%28IDA19960020%29.md) | IDA19960020 | PAYETTE | 1996 | 32 | 31 |
+| [KENMARE TRACE (IDA19990015)](./Payette%20County/KENMARE%20TRACE%20%28IDA19990015%29.md) | IDA19990015 | PAYETTE | 1999 | 36 | 35 |
+| [BRANDON BAY (IDA20020010)](./Payette%20County/BRANDON%20BAY%20%28IDA20020010%29.md) | IDA20020010 | PAYETTE | 2002 | 28 | 27 |
+| [PAYETTE PLAZA (IDA20060016)](./Payette%20County/PAYETTE%20PLAZA%20%28IDA20060016%29.md) | IDA20060016 | PAYETTE | 2006 | 24 | 24 |
+| [RIVERBEND COURT I AND II (IDA20110025)](./Payette%20County/RIVERBEND%20COURT%20I%20AND%20II%20%28IDA20110025%29.md) | IDA20110025 | FRUITLAND | 2011 | 40 | 39 |
+| [PAYETTE TOWNHOUSES (IDA20120010)](./Payette%20County/PAYETTE%20TOWNHOUSES%20%28IDA20120010%29.md) | IDA20120010 | PAYETTE | 2012 | 27 | 27 |
+| [VALENCIA SENIOR (IDA20150005)](./Payette%20County/VALENCIA%20SENIOR%20%28IDA20150005%29.md) | IDA20150005 | FRUITLAND | 2015 | 48 | 42 |
+| [BRENT MANOR (IDA20190001)](./Payette%20County/BRENT%20MANOR%20%28IDA20190001%29.md) | IDA20190001 | PAYETTE | 2019 | 34 | 32 |

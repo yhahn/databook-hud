@@ -1,0 +1,85 @@
+# Project: PARKER HILL (MAA19980010)
+
+- HUD ID: MAA19980010
+- HUD ID before: 
+- Project: PARKER HILL
+- Address: 170 PARKER HILL AVE
+- City: ROXBURY CROSSING
+- State: MA
+- ZIP: 02120
+- ZIP extension: 
+- State project ID: MA-97-015
+- Latitude: 42.329256
+- Longitude: -71.104271
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025081102
+- Tract 2010: 25025081100
+- Tract 2000: 25025081100
+- Tract 1990: 25025081100
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 37
+- Units reported: 90
+- Low-income reported: 37
+- Efficiencies: 7
+- 1-bedroom units: 49
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000490. AKA IROQUOIS STREET.
+- Record status: Existing, unchanged

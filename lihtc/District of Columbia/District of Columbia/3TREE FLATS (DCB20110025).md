@@ -1,0 +1,85 @@
+# Project: 3TREE FLATS (DCB20110025)
+
+- HUD ID: DCB20110025
+- HUD ID before: 
+- Project: 3TREE FLATS
+- Address: 3910 GEORGIA AVE NW
+- City: WASHINGTON
+- State: DC
+- ZIP: 20011
+- ZIP extension: 
+- State project ID: DCB2011010
+- Latitude: 38.93892
+- Longitude: -77.024962
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001002503
+- Tract 2010: 11001002502
+- Tract 2000: 11001002502
+- Tract 1990: 11001002502
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 982074
+- Units: 130
+- Low-income units: 119
+- Units reported: 130
+- Low-income reported: 119
+- Efficiencies: 30
+- 1-bedroom units: 65
+- 2-bedroom units: 30
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DCB2011507. AKA THREE TREES FLATS APTS.
+- Record status: Existing, unchanged

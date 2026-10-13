@@ -1,0 +1,85 @@
+# Project: WESTGATE HILLS APTS (MSA19930095)
+
+- HUD ID: MSA19930095
+- HUD ID before: 
+- Project: WESTGATE HILLS APTS
+- Address: 3175 ROBINSON ST
+- City: JACKSON
+- State: MS
+- ZIP: 39209
+- ZIP extension: 
+- State project ID: MS-128
+- Latitude: 32.306242
+- Longitude: -90.240333
+- County FIPS: 28049
+- County from: 2020
+- Tract 2020: 28049002400
+- Tract 2010: 28049002400
+- Tract 2000: 28049002400
+- Tract 1990: 28049002400
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 0615
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 296
+- Low-income units: 296
+- Units reported: 296
+- Low-income reported: 296
+- Efficiencies: 0
+- 1-bedroom units: 104
+- 2-bedroom units: 136
+- 3-bedroom units: 56
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA0000715.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: DAKOTA AT RAINIER COURT (WAA20069343)
+
+- HUD ID: WAA20069343
+- HUD ID before: 
+- Project: DAKOTA AT RAINIER COURT
+- Address: 3605 33RD AVE S
+- City: SEATTLE
+- State: WA
+- ZIP: 98144
+- ZIP extension: 
+- State project ID: 03-18A
+- Latitude: 47.571535
+- Longitude: -122.29125
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033010101
+- Tract 2010: 53033010100
+- Tract 2000: 53033010100
+- Tract 1990: 53033010100
+- Place 2020: 63000
+- Place 2010: 63000
+- Place 2000: 63000
+- Place 1990: 1140
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 799541
+- Units: 178
+- Low-income units: 176
+- Units reported: 178
+- Low-income reported: 176
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 111
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 31
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

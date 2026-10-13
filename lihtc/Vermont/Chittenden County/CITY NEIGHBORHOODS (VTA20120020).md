@@ -1,0 +1,85 @@
+# Project: CITY NEIGHBORHOODS (VTA20120020)
+
+- HUD ID: VTA20120020
+- HUD ID before: 
+- Project: CITY NEIGHBORHOODS
+- Address: 52 N CHAMPLAIN ST
+- City: BURLINGTON
+- State: VT
+- ZIP: 05401
+- ZIP extension: 
+- State project ID: 0444
+- Latitude: 44.481967
+- Longitude: -73.217309
+- County FIPS: 50007
+- County from: 2020
+- Tract 2020: 50007004200
+- Tract 2010: 50007000400
+- Tract 2000: 50007000400
+- Tract 1990: 50007000400
+- Place 2020: 10675
+- Place 2010: 10675
+- Place 2000: 10675
+- Place 1990: 0460
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 407400
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 18
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 236652
+- CDBG: Yes
+- CDBG amount: 483464
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

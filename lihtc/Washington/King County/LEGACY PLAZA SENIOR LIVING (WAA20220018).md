@@ -1,0 +1,85 @@
+# Project: LEGACY PLAZA SENIOR LIVING (WAA20220018)
+
+- HUD ID: WAA20220018
+- HUD ID before: 
+- Project: LEGACY PLAZA SENIOR LIVING
+- Address: 17 S DIVISION STREET
+- City: AUBURN
+- State: WA
+- ZIP: 98001
+- ZIP extension: 
+- State project ID: 18-62A
+- Latitude: 47.307263
+- Longitude: -122.230053
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033030501
+- Tract 2010: 53033030501
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 03180
+- Place 2010: 03180
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 389583
+- Units: 166
+- Low-income units: 34
+- Units reported: 166
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 100
+- 2-bedroom units: 66
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

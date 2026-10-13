@@ -1,0 +1,85 @@
+# Project: MCCALLA GREENE (MIA20110070)
+
+- HUD ID: MIA20110070
+- HUD ID before: 
+- Project: MCCALLA GREENE
+- Address: 409 CANFIELD ST
+- City: MILAN
+- State: MI
+- ZIP: 48160
+- ZIP extension: 
+- State project ID: MI-3333
+- Latitude: 42.082675
+- Longitude: -83.693549
+- County FIPS: 26115
+- County from: 2020
+- Tract 2020: 26115830700
+- Tract 2010: 26115830700
+- Tract 2000: 26115830700
+- Tract 1990: 26115830700
+- Place 2020: 53920
+- Place 2010: 53920
+- Place 2000: 53920
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 368085
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA2011513.
+- Record status: Existing, unchanged

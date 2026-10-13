@@ -1,0 +1,85 @@
+# Project: RED CLIFF HOUSING DEVELOPMENT PHASE I LLC (WIA20080085)
+
+- HUD ID: WIA20080085
+- HUD ID before: 
+- Project: RED CLIFF HOUSING DEVELOPMENT PHASE I LLC
+- Address: 36795 DALEY RD
+- City: BAYFIELD
+- State: WI
+- ZIP: 54814
+- ZIP extension: 4961
+- State project ID: 5201
+- Latitude: 46.874743
+- Longitude: -90.801558
+- County FIPS: 55007
+- County from: 2020
+- Tract 2020: 55007960100
+- Tract 2010: 55007960100
+- Tract 2000: 55007960100
+- Tract 1990: 55007960100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 410285
+- Units: 24
+- Low-income units: 9
+- Units reported: 24
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 13
+- 4-bedroom units: 9
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 541542
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CENTURY ESTATES APTS (ILA20010010)
+
+- HUD ID: ILA20010010
+- HUD ID before: 
+- Project: CENTURY ESTATES APTS
+- Address: 416 SMALL ST
+- City: HARRISBURG
+- State: IL
+- ZIP: 62946
+- ZIP extension: 
+- State project ID: 130400
+- Latitude: 37.749046
+- Longitude: -88.533254
+- County FIPS: 17165
+- County from: 2020
+- Tract 2020: 17165955900
+- Tract 2010: 17165955900
+- Tract 2000: 17165955900
+- Tract 1990: 17165955900
+- Place 2020: 33136
+- Place 2010: 33136
+- Place 2000: 33136
+- Place 1990: 2460
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 562817
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HARRISBURG ASSOC I.
+- Record status: Existing, unchanged

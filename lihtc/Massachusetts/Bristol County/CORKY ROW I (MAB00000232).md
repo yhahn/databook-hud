@@ -1,0 +1,85 @@
+# Project: CORKY ROW I (MAB00000232)
+
+- HUD ID: MAB00000232
+- HUD ID before: 
+- Project: CORKY ROW I
+- Address: 259 WADE ST
+- City: FALL RIVER
+- State: MA
+- ZIP: 02721
+- ZIP extension: 
+- State project ID: 
+- Latitude: 41.695846
+- Longitude: -71.155238
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005641101
+- Tract 2010: 25005641101
+- Tract 2000: 25005640900
+- Tract 1990: 25005640900
+- Place 2020: 23000
+- Place 2010: 23000
+- Place 2000: 23000
+- Place 1990: 1220
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 13
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

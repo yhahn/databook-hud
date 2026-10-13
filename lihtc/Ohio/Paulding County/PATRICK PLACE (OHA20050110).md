@@ -1,0 +1,85 @@
+# Project: PATRICK PLACE (OHA20050110)
+
+- HUD ID: OHA20050110
+- HUD ID before: 
+- Project: PATRICK PLACE
+- Address: 12560 DENNIS ST
+- City: PAULDING
+- State: OH
+- ZIP: 45879
+- ZIP extension: 
+- State project ID: 030083
+- Latitude: 41.155601
+- Longitude: -84.564595
+- County FIPS: 39125
+- County from: 2020
+- Tract 2020: 39125960400
+- Tract 2010: 39125960400
+- Tract 2000: 39125960400
+- Tract 1990: 39125960400
+- Place 2020: 61252
+- Place 2010: 61252
+- Place 2000: 61252
+- Place 1990: 3385
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 131472
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

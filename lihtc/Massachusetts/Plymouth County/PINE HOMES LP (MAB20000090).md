@@ -1,0 +1,85 @@
+# Project: PINE HOMES LP (MAB20000090)
+
+- HUD ID: MAB20000090
+- HUD ID before: 
+- Project: PINE HOMES LP
+- Address: 73 RESERVOIR ST
+- City: BROCKTON
+- State: MA
+- ZIP: 02301
+- ZIP extension: 
+- State project ID: 01-536
+- Latitude: 42.102278
+- Longitude: -71.061439
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023510503
+- Tract 2010: 25023510503
+- Tract 2000: 25023510503
+- Tract 1990: 25023510503
+- Place 2020: 09000
+- Place 2010: 09000
+- Place 2000: 09000
+- Place 1990: 0540
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 114
+- Low-income units: 91
+- Units reported: 114
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 96
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

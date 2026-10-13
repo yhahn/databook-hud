@@ -1,0 +1,85 @@
+# Project: PARKVIEW ESTATES OF MOSCOW MILLS (MOA19960265)
+
+- HUD ID: MOA19960265
+- HUD ID before: 
+- Project: PARKVIEW ESTATES OF MOSCOW MILLS
+- Address: 322 RAILROAD ST
+- City: MOSCOW MILLS
+- State: MO
+- ZIP: 63362
+- ZIP extension: 
+- State project ID: 94-095
+- Latitude: 38.943464
+- Longitude: -90.915205
+- County FIPS: 29113
+- County from: 2020
+- Tract 2020: 29113810307
+- Tract 2010: 29113810303
+- Tract 2000: 29113810302
+- Tract 1990: 29113810100
+- Place 2020: 50204
+- Place 2010: 50204
+- Place 2000: 13006
+- Place 1990: 1315
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PARKVIEW GROUP.
+- Record status: Existing, unchanged

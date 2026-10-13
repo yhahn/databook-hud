@@ -1,0 +1,85 @@
+# Project: YORK TOWNHOUSES (SCA20080095)
+
+- HUD ID: SCA20080095
+- HUD ID before: 
+- Project: YORK TOWNHOUSES
+- Address: 500 RAILROAD AVE
+- City: YORK
+- State: SC
+- ZIP: 29745
+- ZIP extension: 
+- State project ID: SC-07-058
+- Latitude: 34.984618
+- Longitude: -81.240161
+- County FIPS: 45091
+- County from: 2020
+- Tract 2020: 45091061602
+- Tract 2010: 45091061602
+- Tract 2000: 45091061602
+- Tract 1990: 45091061602
+- Place 2020: 79630
+- Place 2010: 79630
+- Place 2000: 79630
+- Place 1990: 1605
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 214639
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA1988370.
+- Record status: Existing, unchanged

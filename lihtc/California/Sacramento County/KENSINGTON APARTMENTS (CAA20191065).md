@@ -1,0 +1,85 @@
+# Project: KENSINGTON APARTMENTS (CAA20191065)
+
+- HUD ID: CAA20191065
+- HUD ID before: 
+- Project: KENSINGTON APARTMENTS
+- Address: 3644 KINGS WAY
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95821
+- ZIP extension: 
+- State project ID: CA-2017-767
+- Latitude: 38.613906
+- Longitude: -121.378862
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067006002
+- Tract 2010: 06067006002
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02553
+- Place 2010: 02553
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 262784
+- Units: 301
+- Low-income units: 61
+- Units reported: 301
+- Low-income reported: 61
+- Efficiencies: 40
+- 1-bedroom units: 79
+- 2-bedroom units: 158
+- 3-bedroom units: 24
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

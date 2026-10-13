@@ -1,0 +1,85 @@
+# Project: COUNTRY LAKE APTS (OHA19940105)
+
+- HUD ID: OHA19940105
+- HUD ID before: 
+- Project: COUNTRY LAKE APTS
+- Address: 200 COUNTRY LAKE DR
+- City: GOSHEN
+- State: OH
+- ZIP: 45122
+- ZIP extension: 
+- State project ID: OH-93-5096
+- Latitude: 39.228905
+- Longitude: -84.17027
+- County FIPS: 39025
+- County from: 2020
+- Tract 2020: 39025040206
+- Tract 2010: 39025040204
+- Tract 2000: 39025040204
+- Tract 1990: 39025040201
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 545903
+- Units: 127
+- Low-income units: 127
+- Units reported: 127
+- Low-income reported: 127
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

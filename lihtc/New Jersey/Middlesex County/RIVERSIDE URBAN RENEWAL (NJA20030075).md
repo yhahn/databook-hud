@@ -1,0 +1,85 @@
+# Project: RIVERSIDE URBAN RENEWAL (NJA20030075)
+
+- HUD ID: NJA20030075
+- HUD ID before: 
+- Project: RIVERSIDE URBAN RENEWAL
+- Address: 15 JOHN STREET
+- City: NEW BRUNSWICK
+- State: NJ
+- ZIP: 08901
+- ZIP extension: 
+- State project ID: 01328
+- Latitude: 40.491318
+- Longitude: -74.439783
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023009300
+- Tract 2010: 34023009300
+- Tract 2000: 34023005900
+- Tract 1990: 34023005900
+- Place 2020: 51210
+- Place 2010: 51210
+- Place 2000: 51210
+- Place 1990: 2900
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 1207850
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 33
+- 3-bedroom units: 39
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

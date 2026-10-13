@@ -1,0 +1,85 @@
+# Project: MIDLAND-PLANO (DEER RUN APTS) (ILA19910020)
+
+- HUD ID: ILA19910020
+- HUD ID before: 
+- Project: MIDLAND-PLANO (DEER RUN APTS)
+- Address: 250 S LOUIS ST
+- City: PLANO
+- State: IL
+- ZIP: 60545
+- ZIP extension: 
+- State project ID: 30991
+- Latitude: 41.658297
+- Longitude: -88.545884
+- County FIPS: 17093
+- County from: 2020
+- Tract 2020: 17093890501
+- Tract 2010: 17093890500
+- Tract 2000: 17093890500
+- Tract 1990: 17093890500
+- Place 2020: 60352
+- Place 2010: 60352
+- Place 2000: 60352
+- Place 1990: 4690
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 35448
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

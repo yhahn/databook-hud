@@ -1,0 +1,85 @@
+# Project: WILLOWS/WINCHESTER NEIGHBORHOOD REVIT PROJECT (CAA20070751)
+
+- HUD ID: CAA20070751
+- HUD ID before: 
+- Project: WILLOWS/WINCHESTER NEIGHBORHOOD REVIT PROJECT
+- Address: 1432 N WILLOW AVE
+- City: RIALTO
+- State: CA
+- ZIP: 92376
+- ZIP extension: 
+- State project ID: CA-06-835
+- Latitude: 34.125645
+- Longitude: -117.375007
+- County FIPS: 06071
+- County from: 2020
+- Tract 2020: 06071003506
+- Tract 2010: 06071003506
+- Tract 2000: 06071003502
+- Tract 1990: 06071003502
+- Place 2020: 60466
+- Place 2010: 60466
+- Place 2000: 60466
+- Place 1990: 2320
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 643925
+- Units: 152
+- Low-income units: 150
+- Units reported: 152
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 100
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 107
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

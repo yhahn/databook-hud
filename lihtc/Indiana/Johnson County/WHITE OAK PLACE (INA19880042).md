@@ -1,0 +1,85 @@
+# Project: WHITE OAK PLACE (INA19880042)
+
+- HUD ID: INA19880042
+- HUD ID before: 
+- Project: WHITE OAK PLACE
+- Address: 19 WHITE OAK LN
+- City: EDINBURGH
+- State: IN
+- ZIP: 46124
+- ZIP extension: 
+- State project ID: IN-88-30001
+- Latitude: 39.354617
+- Longitude: -85.955814
+- County FIPS: 18081
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18081611300
+- Tract 2000: 18081611300
+- Tract 1990: 18081611300
+- Place 2020: 
+- Place 2010: 20404
+- Place 2000: 20404
+- Place 1990: 0715
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001390.
+- Record status: Existing, unchanged

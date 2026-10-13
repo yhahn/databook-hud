@@ -1,0 +1,85 @@
+# Project: HILL MANOR (WVA20110816)
+
+- HUD ID: WVA20110816
+- HUD ID before: 
+- Project: HILL MANOR
+- Address: RR 3 BOX 100
+- City: FAYETTEVILLE
+- State: WV
+- ZIP: 25840
+- ZIP extension: 
+- State project ID: 2010-5
+- Latitude: 38.0462
+- Longitude: -81.0777
+- County FIPS: 54019
+- County from: 2020
+- Tract 2020: 54019020101
+- Tract 2010: 54019020100
+- Tract 2000: 54019020100
+- Tract 1990: 54019020100
+- Place 2020: 27028
+- Place 2010: 27028
+- Place 2000: 27028
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 148729
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HILL MANOR II.
+- Record status: Existing, unchanged

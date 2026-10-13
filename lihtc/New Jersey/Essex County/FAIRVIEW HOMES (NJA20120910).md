@@ -1,0 +1,85 @@
+# Project: FAIRVIEW HOMES (NJA20120910)
+
+- HUD ID: NJA20120910
+- HUD ID before: 
+- Project: FAIRVIEW HOMES
+- Address: 298 18TH AVENUE
+- City: NEWARK
+- State: NJ
+- ZIP: 07108
+- ZIP extension: 
+- State project ID: NJ-617
+- Latitude: 40.730211
+- Longitude: -74.1957
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013003100
+- Tract 2010: 34013003100
+- Tract 2000: 34013003100
+- Tract 1990: 34013003100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2895
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 830115
+- Units: 136
+- Low-income units: 135
+- Units reported: 136
+- Low-income reported: 135
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 46
+- 3-bedroom units: 90
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2000140, NJA2000040.
+- Record status: Existing, unchanged

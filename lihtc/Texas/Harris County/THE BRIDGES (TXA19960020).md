@@ -1,0 +1,85 @@
+# Project: THE BRIDGES (TXA19960020)
+
+- HUD ID: TXA19960020
+- HUD ID before: 
+- Project: THE BRIDGES
+- Address: 15915 KUYKENDAHL RD
+- City: HOUSTON
+- State: TX
+- ZIP: 77068
+- ZIP extension: 
+- State project ID: TX1230
+- Latitude: 30.00884
+- Longitude: -95.465387
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201553002
+- Tract 2010: 48201553002
+- Tract 2000: 48201553000
+- Tract 1990: 48201053701
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 452
+- Low-income units: 452
+- Units reported: 452
+- Low-income reported: 452
+- Efficiencies: 0
+- 1-bedroom units: 268
+- 2-bedroom units: 136
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BRIDGES. FKA OAKLAKE
+- Record status: Existing, unchanged

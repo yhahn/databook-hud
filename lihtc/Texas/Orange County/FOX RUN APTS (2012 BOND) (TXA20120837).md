@@ -1,0 +1,85 @@
+# Project: FOX RUN APTS (2012 BOND) (TXA20120837)
+
+- HUD ID: TXA20120837
+- HUD ID before: 
+- Project: FOX RUN APTS (2012 BOND)
+- Address: 2600 ALLIE PAYNE RD
+- City: ORANGE
+- State: TX
+- ZIP: 77632
+- ZIP extension: 
+- State project ID: TX3372
+- Latitude: 30.141847
+- Longitude: -93.762299
+- County FIPS: 48361
+- County from: 2020
+- Tract 2020: 48361021300
+- Tract 2010: 48361021300
+- Tract 2000: 48361021300
+- Tract 1990: 48361021300
+- Place 2020: 54132
+- Place 2010: 54132
+- Place 2000: 54132
+- Place 1990: 3130
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 28
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 300000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000810. AKA FOX RUN APTS.
+- Record status: Existing, unchanged

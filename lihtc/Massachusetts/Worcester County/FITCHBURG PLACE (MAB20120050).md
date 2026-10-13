@@ -1,0 +1,85 @@
+# Project: FITCHBURG PLACE (MAB20120050)
+
+- HUD ID: MAB20120050
+- HUD ID before: 
+- Project: FITCHBURG PLACE
+- Address: 16 PRICHARD ST
+- City: FITCHBURG
+- State: MA
+- ZIP: 01420
+- ZIP extension: 
+- State project ID: 1373
+- Latitude: 42.583267
+- Longitude: -71.798097
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027710700
+- Tract 2010: 25027710700
+- Tract 2000: 25027710700
+- Tract 1990: 25027710700
+- Place 2020: 23875
+- Place 2010: 23875
+- Place 2000: 23875
+- Place 1990: 1280
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 659377
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

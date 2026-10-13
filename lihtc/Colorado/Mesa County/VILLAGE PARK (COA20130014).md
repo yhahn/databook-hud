@@ -1,0 +1,85 @@
+# Project: VILLAGE PARK (COA20130014)
+
+- HUD ID: COA20130014
+- HUD ID before: 
+- Project: VILLAGE PARK
+- Address: 615 28 1/4 RD
+- City: GRAND JUNCTION
+- State: CO
+- ZIP: 81506
+- ZIP extension: 
+- State project ID: 2012007
+- Latitude: 39.093156
+- Longitude: -108.528951
+- County FIPS: 08077
+- County from: 2020
+- Tract 2020: 08077001001
+- Tract 2010: 08077001001
+- Tract 2000: 08077001001
+- Tract 1990: 08077001000
+- Place 2020: 31660
+- Place 2010: 31660
+- Place 2000: 31660
+- Place 1990: 0555
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 1
+- 1-bedroom units: 12
+- 2-bedroom units: 43
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 49
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

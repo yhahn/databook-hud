@@ -1,0 +1,85 @@
+# Project: NORTH CREEK CROSSINGS AT MERIAM PARK (PHASE 2) (CAA20231070)
+
+- HUD ID: CAA20231070
+- HUD ID before: 
+- Project: NORTH CREEK CROSSINGS AT MERIAM PARK (PHASE 2)
+- Address: 2265 MACLOVIA AVE
+- City: CHICO
+- State: CA
+- ZIP: 95928
+- ZIP extension: 
+- State project ID: CA-2021-121
+- Latitude: 39.7197
+- Longitude: -121.8143
+- County FIPS: 06007
+- County from: 2020
+- Tract 2020: 06007000903
+- Tract 2010: 06007001300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 13014
+- Place 2010: 13014
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2615963
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 
+- 1-bedroom units: 13
+- 2-bedroom units: 24
+- 3-bedroom units: 17
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

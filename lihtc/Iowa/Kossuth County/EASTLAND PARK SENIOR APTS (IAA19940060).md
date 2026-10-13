@@ -1,0 +1,85 @@
+# Project: EASTLAND PARK SENIOR APTS (IAA19940060)
+
+- HUD ID: IAA19940060
+- HUD ID before: 
+- Project: EASTLAND PARK SENIOR APTS
+- Address: 206 S FINN DR
+- City: ALGONA
+- State: IA
+- ZIP: 50511
+- ZIP extension: 
+- State project ID: 93-01
+- Latitude: 43.067501
+- Longitude: -94.207729
+- County FIPS: 19109
+- County from: 2020
+- Tract 2020: 19109950500
+- Tract 2010: 19109950500
+- Tract 2000: 19109950500
+- Tract 1990: 19109950500
+- Place 2020: 01135
+- Place 2010: 01135
+- Place 2000: 01135
+- Place 1990: 0075
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 30480
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

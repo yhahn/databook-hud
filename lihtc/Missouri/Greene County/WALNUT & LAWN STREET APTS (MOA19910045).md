@@ -1,0 +1,85 @@
+# Project: WALNUT & LAWN STREET APTS (MOA19910045)
+
+- HUD ID: MOA19910045
+- HUD ID before: 
+- Project: WALNUT & LAWN STREET APTS
+- Address: 3040 W WALNUT LAWN ST
+- City: SPRINGFIELD
+- State: MO
+- ZIP: 65807
+- ZIP extension: 
+- State project ID: 169390
+- Latitude: 37.152935
+- Longitude: -93.34016
+- County FIPS: 29077
+- County from: 2020
+- Tract 2020: 29077003004
+- Tract 2010: 29077003002
+- Tract 2000: 29077003002
+- Tract 1990: 29077001600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 70000
+- Place 1990: 4075
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 56
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

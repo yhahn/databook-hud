@@ -1,0 +1,85 @@
+# Project: OLIVER LOFTS (MAB20110135)
+
+- HUD ID: MAB20110135
+- HUD ID before: 
+- Project: OLIVER LOFTS
+- Address: 166 TER ST
+- City: BOSTON
+- State: MA
+- ZIP: 02120
+- ZIP extension: 
+- State project ID: MA-09-10155
+- Latitude: 42.326677
+- Longitude: -71.098556
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025081400
+- Tract 2010: 25025081400
+- Tract 2000: 25025081400
+- Tract 1990: 25025081400
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 942000
+- Units: 62
+- Low-income units: 43
+- Units reported: 62
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 39
+- 3-bedroom units: 8
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB20110135. FKA PICKLE-DITSON LOFTS
+- Record status: Existing, unchanged

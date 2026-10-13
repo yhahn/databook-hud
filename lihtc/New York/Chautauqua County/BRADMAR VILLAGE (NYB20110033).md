@@ -1,0 +1,85 @@
+# Project: BRADMAR VILLAGE (NYB20110033)
+
+- HUD ID: NYB20110033
+- HUD ID before: 
+- Project: BRADMAR VILLAGE
+- Address: 1 BRADMAR CIR
+- City: JAMESTOWN
+- State: NY
+- ZIP: 14701
+- ZIP extension: 
+- State project ID: NY-11-2063
+- Latitude: 42.077722
+- Longitude: -79.221292
+- County FIPS: 36013
+- County from: 2020
+- Tract 2020: 36013030700
+- Tract 2010: 36013030700
+- Tract 2000: 36013030700
+- Tract 1990: 36013030700
+- Place 2020: 38264
+- Place 2010: 38264
+- Place 2000: 38264
+- Place 1990: 1755
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 424874
+- Units: 100
+- Low-income units: 95
+- Units reported: 100
+- Low-income reported: 95
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

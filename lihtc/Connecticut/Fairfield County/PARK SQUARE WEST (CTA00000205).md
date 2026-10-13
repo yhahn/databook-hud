@@ -1,0 +1,85 @@
+# Project: PARK SQUARE WEST (CTA00000205)
+
+- HUD ID: CTA00000205
+- HUD ID before: 
+- Project: PARK SQUARE WEST
+- Address: 101 SUMMER ST
+- City: STAMFORD
+- State: CT
+- ZIP: 06901
+- ZIP extension: 
+- State project ID: CT-98-0321
+- Latitude: 41.053905
+- Longitude: -73.54057
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001020102
+- Tract 2010: 09001020100
+- Tract 2000: 09001020100
+- Tract 1990: 09001020100
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 2180
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 143
+- Low-income units: 29
+- Units reported: 143
+- Low-income reported: 29
+- Efficiencies: 10
+- 1-bedroom units: 64
+- 2-bedroom units: 64
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

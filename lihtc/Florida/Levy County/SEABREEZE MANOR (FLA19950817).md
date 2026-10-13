@@ -1,0 +1,85 @@
+# Project: SEABREEZE MANOR (FLA19950817)
+
+- HUD ID: FLA19950817
+- HUD ID before: 
+- Project: SEABREEZE MANOR
+- Address: 37 SEABREEZE DR
+- City: INGLIS
+- State: FL
+- ZIP: 34449
+- ZIP extension: 
+- State project ID: 761
+- Latitude: 29.034584
+- Longitude: -82.674526
+- County FIPS: 12075
+- County from: 2020
+- Tract 2020: 12075970700
+- Tract 2010: 12075970700
+- Tract 2000: 12075970700
+- Tract 1990: 12075970700
+- Place 2020: 33800
+- Place 2010: 33800
+- Place 2000: 33800
+- Place 1990: 0980
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SOUTHVIEW (KSA20100547)
+
+- HUD ID: KSA20100547
+- HUD ID before: 
+- Project: SOUTHVIEW
+- Address: 110 S PENNSYLVANIA AVE
+- City: HOLTON
+- State: KS
+- ZIP: 66436
+- ZIP extension: 
+- State project ID: 60400
+- Latitude: 39.459513
+- Longitude: -95.734801
+- County FIPS: 20085
+- County from: 2020
+- Tract 2020: 20085082700
+- Tract 2010: 20085082700
+- Tract 2000: 20085982700
+- Tract 1990: 20085982700
+- Place 2020: 32825
+- Place 2010: 32825
+- Place 2000: 32825
+- Place 1990: 1280
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 75000
+- Units: 36
+- Low-income units: 28
+- Units reported: 36
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1982800
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2010087, KSA2000060, KSA0000140. AKA HOLTON PLAINS APTS.
+- Record status: Existing, unchanged

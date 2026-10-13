@@ -1,0 +1,85 @@
+# Project: BENTON PARK COTTAGES (CAA20230016)
+
+- HUD ID: CAA20230016
+- HUD ID before: 
+- Project: BENTON PARK COTTAGES
+- Address: 500 HUGHES LN
+- City: BAKERSFIELD
+- State: CA
+- ZIP: 93304
+- ZIP extension: 
+- State project ID: CA-2020-583
+- Latitude: 35.348464
+- Longitude: -119.029986
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029002702
+- Tract 2010: 06029002700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 05356
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 362101
+- Units: 25
+- Low-income units: 24
+- Units reported: 25
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 16
+- 2-bedroom units: 8
+- 3-bedroom units: 1
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COLUMBIA SQUARE (OKA20080090)
+
+- HUD ID: OKA20080090
+- HUD ID before: 
+- Project: COLUMBIA SQUARE
+- Address: 305 NW FOURTH ST
+- City: LAWTON
+- State: OK
+- ZIP: 73507
+- ZIP extension: 
+- State project ID: 60111
+- Latitude: 34.613003
+- Longitude: -98.393442
+- County FIPS: 40031
+- County from: 2020
+- Tract 2020: 40031001100
+- Tract 2010: 40031001100
+- Tract 2000: 40031001100
+- Tract 1990: 40031001100
+- Place 2020: 41850
+- Place 2010: 41850
+- Place 2000: 41850
+- Place 1990: 1405
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 500000
+- Units: 64
+- Low-income units: 61
+- Units reported: 64
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 50
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OKA2008015.
+- Record status: Existing, unchanged

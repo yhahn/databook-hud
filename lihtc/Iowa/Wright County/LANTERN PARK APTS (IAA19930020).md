@@ -1,0 +1,85 @@
+# Project: LANTERN PARK APTS (IAA19930020)
+
+- HUD ID: IAA19930020
+- HUD ID before: 
+- Project: LANTERN PARK APTS
+- Address: 601 SECOND ST SE
+- City: CLARION
+- State: IA
+- ZIP: 50525
+- ZIP extension: 
+- State project ID: 91-46
+- Latitude: 42.727605
+- Longitude: -93.730077
+- County FIPS: 19197
+- County from: 2020
+- Tract 2020: 19197680300
+- Tract 2010: 19197680300
+- Tract 2000: 19197980300
+- Tract 1990: 19197980300
+- Place 2020: 13620
+- Place 2010: 13620
+- Place 2000: 13620
+- Place 1990: 0770
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 30738
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CLARION IHA APTS.
+- Record status: Existing, unchanged

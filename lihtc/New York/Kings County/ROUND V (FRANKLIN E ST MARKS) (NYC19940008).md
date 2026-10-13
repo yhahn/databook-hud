@@ -1,0 +1,85 @@
+# Project: ROUND V (FRANKLIN E ST MARKS) (NYC19940008)
+
+- HUD ID: NYC19940008
+- HUD ID before: 
+- Project: ROUND V (FRANKLIN E ST MARKS)
+- Address: 782 FRANKLIN AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11238
+- ZIP extension: 
+- State project ID: NY9202081
+- Latitude: 40.671835
+- Longitude: -73.957761
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047021700
+- Tract 2010: 36047021700
+- Tract 2000: 36047021700
+- Tract 1990: 36047021700
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 201181
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FRANKLIN E ST MARKS (ROUND V).
+- Record status: Existing, unchanged

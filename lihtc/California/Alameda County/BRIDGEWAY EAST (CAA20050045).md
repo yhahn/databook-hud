@@ -1,0 +1,85 @@
+# Project: BRIDGEWAY EAST (CAA20050045)
+
+- HUD ID: CAA20050045
+- HUD ID before: 
+- Project: BRIDGEWAY EAST
+- Address: 4145 BAY ST
+- City: FREMONT
+- State: CA
+- ZIP: 94538
+- ZIP extension: 
+- State project ID: CA-03-154
+- Latitude: 37.533103
+- Longitude: -121.96228
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001442302
+- Tract 2010: 06001442302
+- Tract 2000: 06001442300
+- Tract 1990: 06001442300
+- Place 2020: 26000
+- Place 2010: 26000
+- Place 2000: 26000
+- Place 1990: 1080
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 210271
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 3
+- 1-bedroom units: 5
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ROTARY BRIDGEWAY.
+- Record status: Existing, unchanged

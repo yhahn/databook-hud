@@ -1,0 +1,85 @@
+# Project: SUNNYSLOPE APTS (ORA19870120)
+
+- HUD ID: ORA19870120
+- HUD ID before: 
+- Project: SUNNYSLOPE APTS
+- Address: 621 N RIVER RD
+- City: ROGUE RIVER
+- State: OR
+- ZIP: 97537
+- ZIP extension: 
+- State project ID: OR87-132
+- Latitude: 42.432034
+- Longitude: -123.161793
+- County FIPS: 41029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41029002900
+- Tract 2000: 41029002900
+- Tract 1990: 41029002900
+- Place 2020: 
+- Place 2010: 63450
+- Place 2000: 63450
+- Place 1990: 
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

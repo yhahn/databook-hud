@@ -1,0 +1,85 @@
+# Project: KINGSTON PLACE SENIOR APTS (MIA20089235)
+
+- HUD ID: MIA20089235
+- HUD ID before: 
+- Project: KINGSTON PLACE SENIOR APTS
+- Address: 501 KING ST
+- City: EATON RAPIDS
+- State: MI
+- ZIP: 48827
+- ZIP extension: 
+- State project ID: MI-3008
+- Latitude: 42.508833
+- Longitude: -84.661418
+- County FIPS: 26045
+- County from: 2020
+- Tract 2020: 26045021302
+- Tract 2010: 26045021302
+- Tract 2000: 26045021300
+- Tract 1990: 26045021300
+- Place 2020: 24540
+- Place 2010: 24540
+- Place 2000: 24540
+- Place 1990: 0780
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 25
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

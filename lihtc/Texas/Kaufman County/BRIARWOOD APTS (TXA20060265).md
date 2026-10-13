@@ -1,0 +1,85 @@
+# Project: BRIARWOOD APTS (TXA20060265)
+
+- HUD ID: TXA20060265
+- HUD ID before: 
+- Project: BRIARWOOD APTS
+- Address: 513 E SIXTH ST
+- City: KAUFMAN
+- State: TX
+- ZIP: 75142
+- ZIP extension: 
+- State project ID: TX4093
+- Latitude: 32.580716
+- Longitude: -96.305053
+- County FIPS: 48257
+- County from: 2020
+- Tract 2020: 48257051100
+- Tract 2010: 48257051100
+- Tract 2000: 48257051100
+- Tract 1990: 48257051100
+- Place 2020: 38488
+- Place 2010: 38488
+- Place 2000: 38488
+- Place 1990: 2165
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 173148
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

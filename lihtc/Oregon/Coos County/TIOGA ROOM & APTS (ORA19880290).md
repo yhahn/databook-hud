@@ -1,0 +1,85 @@
+# Project: TIOGA ROOM & APTS (ORA19880290)
+
+- HUD ID: ORA19880290
+- HUD ID before: 
+- Project: TIOGA ROOM & APTS
+- Address: 275 N BROADWAY
+- City: COOS BAY
+- State: OR
+- ZIP: 97420
+- ZIP extension: 
+- State project ID: OR88-163
+- Latitude: 43.368975
+- Longitude: -124.213336
+- County FIPS: 41011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41011000700
+- Tract 2000: 41011000700
+- Tract 1990: 41011000700
+- Place 2020: 
+- Place 2010: 15250
+- Place 2000: 09600
+- Place 1990: 0210
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

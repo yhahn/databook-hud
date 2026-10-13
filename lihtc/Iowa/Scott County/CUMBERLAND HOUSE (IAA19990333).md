@@ -1,0 +1,85 @@
+# Project: CUMBERLAND HOUSE (IAA19990333)
+
+- HUD ID: IAA19990333
+- HUD ID before: 
+- Project: CUMBERLAND HOUSE
+- Address: 2365 TECH DR
+- City: BETTENDORF
+- State: IA
+- ZIP: 52722
+- ZIP extension: 
+- State project ID: 98-50
+- Latitude: 41.55232
+- Longitude: -90.498919
+- County FIPS: 19163
+- County from: 2020
+- Tract 2020: 19163013705
+- Tract 2010: 19163013705
+- Tract 2000: 19163013704
+- Tract 1990: 19163013701
+- Place 2020: 06355
+- Place 2010: 06355
+- Place 2000: 06355
+- Place 1990: 0395
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 170554
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2000020.
+- Record status: Existing, unchanged

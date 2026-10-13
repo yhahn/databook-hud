@@ -1,0 +1,85 @@
+# Project: PARKSIDE FAMILY HOUSING (COA19940040)
+
+- HUD ID: COA19940040
+- HUD ID before: 
+- Project: PARKSIDE FAMILY HOUSING
+- Address: 5007 VALMONT RD
+- City: BOULDER
+- State: CO
+- ZIP: 80301
+- ZIP extension: 
+- State project ID: CO93-013
+- Latitude: 40.029387
+- Longitude: -105.236377
+- County FIPS: 08013
+- County from: 2020
+- Tract 2020: 08013012207
+- Tract 2010: 08013012203
+- Tract 2000: 08013012203
+- Tract 1990: 08013012203
+- Place 2020: 07850
+- Place 2010: 07850
+- Place 2000: 07850
+- Place 1990: 0110
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 30
+- Units reported: 34
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 19
+- 4-bedroom units: 13
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PARKSIDE VILLAGE.
+- Record status: Existing, unchanged

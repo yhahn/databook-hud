@@ -1,0 +1,85 @@
+# Project: ROSSHILL RETIREMENT RESIDENCE (PAA20050155)
+
+- HUD ID: PAA20050155
+- HUD ID before: 
+- Project: ROSSHILL RETIREMENT RESIDENCE
+- Address: 7500 ROSS PARK DR
+- City: PITTSBURGH
+- State: PA
+- ZIP: 15237
+- ZIP extension: 
+- State project ID: TC20030420
+- Latitude: 40.542297
+- Longitude: -80.017865
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003429500
+- Tract 2010: 42003429500
+- Tract 2000: 42003429500
+- Tract 1990: 42003429500
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 66356
+- Place 1990: 7558
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 767954
+- Units: 93
+- Low-income units: 85
+- Units reported: 93
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 63
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2800000
+- CDBG: Yes
+- CDBG amount: 1400000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TEXARKANA RAD HOUSING ALLIANCE 2 (ARA20182003)
+
+- HUD ID: ARA20182003
+- HUD ID before: 
+- Project: TEXARKANA RAD HOUSING ALLIANCE 2
+- Address: 911 FERGUSON ST
+- City: TEXARKANA
+- State: AR
+- ZIP: 71854
+- ZIP extension: 
+- State project ID: 1157
+- Latitude: 33.412588
+- Longitude: -94.026113
+- County FIPS: 05091
+- County from: 2020
+- Tract 2020: 05091020500
+- Tract 2010: 05091020500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 68810
+- Place 2010: 68810
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1220
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 8
+- 1-bedroom units: 12
+- 2-bedroom units: 16
+- 3-bedroom units: 17
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

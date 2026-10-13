@@ -1,0 +1,85 @@
+# Project: WEST COURT APARTMENTS (DEA20059010)
+
+- HUD ID: DEA20059010
+- HUD ID before: 
+- Project: WEST COURT APARTMENTS
+- Address: 3201- 3209 LANCASTER AVENUE & 3200-3208 W. 2ND STREET
+- City: WILMINGTON
+- State: DE
+- ZIP: 19805
+- ZIP extension: 
+- State project ID: DE258FY0310
+- Latitude: 39.751938
+- Longitude: -75.586679
+- County FIPS: 10003
+- County from: 2020
+- Tract 2020: 10003002400
+- Tract 2010: 10003002400
+- Tract 2000: 10003002400
+- Tract 1990: 10003002400
+- Place 2020: 77580
+- Place 2010: 77580
+- Place 2000: 77580
+- Place 1990: 0255
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 540196
+- Units: 79
+- Low-income units: 75
+- Units reported: 79
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 43
+- 2-bedroom units: 23
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DEA2005030, DEA2004X080, DEA2004050.;
+- Record status: Updated

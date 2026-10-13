@@ -1,0 +1,85 @@
+# Project: SIERRA PT./GRANADA (NVA20180003)
+
+- HUD ID: NVA20180003
+- HUD ID before: 
+- Project: SIERRA PT./GRANADA
+- Address: 1064 SIERRA VISTA DRIVE
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89169
+- ZIP extension: 0000
+- State project ID: 16-75
+- Latitude: 36.127078
+- Longitude: -115.140031
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003002404
+- Tract 2010: 32003002404
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 54600
+- Place 2010: 54600
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 1146546
+- Units: 175
+- Low-income units: 175
+- Units reported: 175
+- Low-income reported: 175
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 101
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

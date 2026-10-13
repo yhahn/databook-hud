@@ -1,0 +1,85 @@
+# Project: SCENIC FALLS AFFORDABLE HOUSING (NJA19960035)
+
+- HUD ID: NJA19960035
+- HUD ID before: 
+- Project: SCENIC FALLS AFFORDABLE HOUSING
+- Address: 227 WASHINGTON AVE
+- City: BLACKWOOD
+- State: NJ
+- ZIP: 08012
+- ZIP extension: 
+- State project ID: NJ-0429
+- Latitude: 39.803305
+- Longitude: -75.071362
+- County FIPS: 34007
+- County from: 2020
+- Tract 2020: 34007608303
+- Tract 2010: 34007608303
+- Tract 2000: 34007608301
+- Tract 1990: 34007608301
+- Place 2020: 06040
+- Place 2010: 06040
+- Place 2000: 06040
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2012842. AKA SCENIC APTS.
+- Record status: Existing, unchanged

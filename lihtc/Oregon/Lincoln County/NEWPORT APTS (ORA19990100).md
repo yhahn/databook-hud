@@ -1,0 +1,85 @@
+# Project: NEWPORT APTS (ORA19990100)
+
+- HUD ID: ORA19990100
+- HUD ID before: 
+- Project: NEWPORT APTS
+- Address: 125 NW 60TH ST
+- City: NEWPORT
+- State: OR
+- ZIP: 97365
+- ZIP extension: 
+- State project ID: 1133
+- Latitude: 44.680624
+- Longitude: -124.063867
+- County FIPS: 41041
+- County from: 2020
+- Tract 2020: 41041950800
+- Tract 2010: 41041950800
+- Tract 2000: 41041950800
+- Tract 1990: 41041950800
+- Place 2020: 52450
+- Place 2010: 52450
+- Place 2000: 52450
+- Place 1990: 0825
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 453850
+- Units: 52
+- Low-income units: 51
+- Units reported: 52
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 32
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 725000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

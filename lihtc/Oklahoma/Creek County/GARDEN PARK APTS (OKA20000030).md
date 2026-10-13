@@ -1,0 +1,85 @@
+# Project: GARDEN PARK APTS (OKA20000030)
+
+- HUD ID: OKA20000030
+- HUD ID before: 
+- Project: GARDEN PARK APTS
+- Address: 207 N HICKORY ST
+- City: SAPULPA
+- State: OK
+- ZIP: 74066
+- ZIP extension: 
+- State project ID: 980201
+- Latitude: 36.001598
+- Longitude: -96.118716
+- County FIPS: 40037
+- County from: 2020
+- Tract 2020: 40037021202
+- Tract 2010: 40037021202
+- Tract 2000: 40037021202
+- Tract 1990: 40037020100
+- Place 2020: 65400
+- Place 2010: 65400
+- Place 2000: 65400
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 32
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

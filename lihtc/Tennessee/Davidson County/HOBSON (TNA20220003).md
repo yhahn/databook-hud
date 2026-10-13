@@ -1,0 +1,85 @@
+# Project: HOBSON (TNA20220003)
+
+- HUD ID: TNA20220003
+- HUD ID before: 
+- Project: HOBSON
+- Address: 1717 HOBSON PIKE
+- City: NASHVILLE
+- State: TN
+- ZIP: 37013
+- ZIP extension: 
+- State project ID: TN-20-209
+- Latitude: 36.04119
+- Longitude: -86.609425
+- County FIPS: 47037
+- County from: 2020
+- Tract 2020: 47037015630
+- Tract 2010: 47037015630
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 52006
+- Place 2010: 52006
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 18738799
+- Units: 324
+- Low-income units: 324
+- Units reported: 324
+- Low-income reported: 324
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 120
+- 3-bedroom units: 92
+- 4-bedroom units: 28
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

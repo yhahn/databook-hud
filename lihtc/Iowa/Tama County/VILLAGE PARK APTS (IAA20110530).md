@@ -1,0 +1,85 @@
+# Project: VILLAGE PARK APTS (IAA20110530)
+
+- HUD ID: IAA20110530
+- HUD ID before: 
+- Project: VILLAGE PARK APTS
+- Address: 1015 S PROSPECT DR
+- City: TOLEDO
+- State: IA
+- ZIP: 52342
+- ZIP extension: 
+- State project ID: 10-10-271
+- Latitude: 41.986926
+- Longitude: -92.589649
+- County FIPS: 19171
+- County from: 2020
+- Tract 2020: 19171290500
+- Tract 2010: 19171290500
+- Tract 2000: 19171990500
+- Tract 1990: 19171990500
+- Place 2020: 78510
+- Place 2010: 78510
+- Place 2000: 77115
+- Place 1990: 4185
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 162982
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2011090, IAA1991070. AKA INDIANHEAD APTS.
+- Record status: Existing, unchanged

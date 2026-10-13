@@ -1,0 +1,85 @@
+# Project: WILFORD LANE (CAA20030645)
+
+- HUD ID: CAA20030645
+- HUD ID before: 
+- Project: WILFORD LANE
+- Address: 160 WILFORD LN
+- City: COTATI
+- State: CA
+- ZIP: 94931
+- ZIP extension: 
+- State project ID: CA-02-177
+- Latitude: 38.334493
+- Longitude: -122.710708
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097151204
+- Tract 2010: 06097151204
+- Tract 2000: 06097151204
+- Tract 1990: 06097151202
+- Place 2020: 16560
+- Place 2010: 16560
+- Place 2000: 16560
+- Place 1990: 0628
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 530539
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 2
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

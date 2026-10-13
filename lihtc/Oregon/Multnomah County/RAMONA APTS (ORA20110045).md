@@ -1,0 +1,85 @@
+# Project: RAMONA APTS (ORA20110045)
+
+- HUD ID: ORA20110045
+- HUD ID before: 
+- Project: RAMONA APTS
+- Address: 1550 NW 14TH AVE
+- City: PORTLAND
+- State: OR
+- ZIP: 97209
+- ZIP extension: 
+- State project ID: 2877
+- Latitude: 45.53402
+- Longitude: -122.685334
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051005101
+- Tract 2010: 41051005100
+- Tract 2000: 41051005100
+- Tract 1990: 41051005100
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1718294
+- Units: 138
+- Low-income units: 138
+- Units reported: 138
+- Low-income reported: 138
+- Efficiencies: 4
+- 1-bedroom units: 4
+- 2-bedroom units: 60
+- 3-bedroom units: 70
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA2011503.
+- Record status: Existing, unchanged

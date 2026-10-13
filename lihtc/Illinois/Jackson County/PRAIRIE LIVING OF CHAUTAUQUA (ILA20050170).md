@@ -1,0 +1,85 @@
+# Project: PRAIRIE LIVING OF CHAUTAUQUA (ILA20050170)
+
+- HUD ID: ILA20050170
+- HUD ID before: 
+- Project: PRAIRIE LIVING OF CHAUTAUQUA
+- Address: 955 VILLA CT
+- City: CARBONDALE
+- State: IL
+- ZIP: 62901
+- ZIP extension: 
+- State project ID: 145502
+- Latitude: 37.716881
+- Longitude: -89.252434
+- County FIPS: 17077
+- County from: 2020
+- Tract 2020: 17077011002
+- Tract 2010: 17077011000
+- Tract 2000: 17077011000
+- Tract 1990: 17077011000
+- Place 2020: 11163
+- Place 2010: 11163
+- Place 2000: 11163
+- Place 1990: 0865
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 576241
+- Units: 75
+- Low-income units: 67
+- Units reported: 75
+- Low-income reported: 67
+- Efficiencies: 22
+- 1-bedroom units: 49
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GRAY GABLES APARTMENTS (MNA19960085)
+
+- HUD ID: MNA19960085
+- HUD ID before: 
+- Project: GRAY GABLES APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: ALBERT LEA
+- State: MN
+- ZIP: 56007
+- ZIP extension: 
+- State project ID: D0010
+- Latitude: 43.6633
+- Longitude: -93.3775
+- County FIPS: 27047
+- County from: 2020
+- Tract 2020: 27047180500
+- Tract 2010: 27047180400
+- Tract 2000: 27047980500
+- Tract 1990: 27047980500
+- Place 2020: 00694
+- Place 2010: 00694
+- Place 2000: 00694
+- Place 1990: 0045
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 45
+- Low-income units: 44
+- Units reported: 45
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 26
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

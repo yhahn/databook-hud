@@ -1,0 +1,24 @@
+# Tax Credit Projects: Jay County, IN
+
+- Level: County
+- Postal code: IN
+- State FIPS: 18
+- County FIPS: 18075
+- Counties: 
+- Projects: 7
+- Units: 186
+- Low-income units: 186
+
+The low-income housing tax credit projects of Jay County, Indiana, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [REDKEY APTS (INA19870014)](./Jay%20County/REDKEY%20APTS%20%28INA19870014%29.md) | INA19870014 | REDKEY | 1987 | 16 | 16 |
+| [WESTWIND APTS (INA19870022)](./Jay%20County/WESTWIND%20APTS%20%28INA19870022%29.md) | INA19870022 | REDKEY | 1987 | 16 | 16 |
+| [MAPLE HEIGHTS APTS (INA19920037)](./Jay%20County/MAPLE%20HEIGHTS%20APTS%20%28INA19920037%29.md) | INA19920037 | PORTLAND | 1992 | 16 | 16 |
+| [PORTLAND II-COUNTRY PLACE (INA19920095)](./Jay%20County/PORTLAND%20II-COUNTRY%20PLACE%20%28INA19920095%29.md) | INA19920095 | PORTLAND | 1992 | 20 | 20 |
+| [CANTERBURY APTS (INA19940017)](./Jay%20County/CANTERBURY%20APTS%20%28INA19940017%29.md) | INA19940017 | PORTLAND | 1994 | 32 | 32 |
+| [PORTLAND PLACE SENIOR HOUSING (INA20040037)](./Jay%20County/PORTLAND%20PLACE%20SENIOR%20HOUSING%20%28INA20040037%29.md) | INA20040037 | PORTLAND | 2004 | 30 | 30 |
+| [KATELYNN PLACE (INA20109174)](./Jay%20County/KATELYNN%20PLACE%20%28INA20109174%29.md) | INA20109174 | PORTLAND | 2010 | 56 | 56 |

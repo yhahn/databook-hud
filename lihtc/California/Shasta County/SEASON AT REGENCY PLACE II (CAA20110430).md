@@ -1,0 +1,85 @@
+# Project: SEASON AT REGENCY PLACE II (CAA20110430)
+
+- HUD ID: CAA20110430
+- HUD ID before: 
+- Project: SEASON AT REGENCY PLACE II
+- Address: 2400 SHADY LN
+- City: ANDERSON
+- State: CA
+- ZIP: 96007
+- ZIP extension: 
+- State project ID: CA-09-512
+- Latitude: 40.452634
+- Longitude: -122.284448
+- County FIPS: 06089
+- County from: 2020
+- Tract 2020: 06089012102
+- Tract 2010: 06089012102
+- Tract 2000: 06089012100
+- Tract 1990: 06089012100
+- Place 2020: 02042
+- Place 2010: 02042
+- Place 2000: 02042
+- Place 1990: 0075
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 10000
+- Units: 79
+- Low-income units: 78
+- Units reported: 79
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 63
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 78
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1900000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011627. AKA SEASONS AT ANDERSON.
+- Record status: Existing, unchanged

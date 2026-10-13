@@ -1,0 +1,85 @@
+# Project: LEFLER ESTATES APTS (ARA19940085)
+
+- HUD ID: ARA19940085
+- HUD ID before: 
+- Project: LEFLER ESTATES APTS
+- Address: 813 HWY 65 S
+- City: CLINTON
+- State: AR
+- ZIP: 72031
+- ZIP extension: 
+- State project ID: PRAR-93-09
+- Latitude: 35.600518
+- Longitude: -92.462421
+- County FIPS: 05141
+- County from: 2020
+- Tract 2020: 05141460200
+- Tract 2010: 05141460200
+- Tract 2000: 05141960300
+- Tract 1990: 05141960300
+- Place 2020: 14260
+- Place 2010: 14260
+- Place 2000: 14260
+- Place 1990: 0661
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 55012
+- Units: 41
+- Low-income units: 41
+- Units reported: 41
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TIMBER MANOR APTS III.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WILLOW WOOD APARTMENTS (NCA0000X587)
+
+- HUD ID: NCA0000X587
+- HUD ID before: 
+- Project: WILLOW WOOD APARTMENTS
+- Address: 1203 SUNSET DRIVE
+- City: LAURINBURG
+- State: NC
+- ZIP: 28352
+- ZIP extension: 
+- State project ID: 9287325
+- Latitude: 34.764195
+- Longitude: -79.47193
+- County FIPS: 37165
+- County from: 2020
+- Tract 2020: 37165010102
+- Tract 2010: 37165010102
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 37220
+- Place 2010: 37220
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

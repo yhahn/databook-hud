@@ -1,0 +1,85 @@
+# Project: HOOVER HOTEL (CAA20010535)
+
+- HUD ID: CAA20010535
+- HUD ID before: 
+- Project: HOOVER HOTEL
+- Address: 7035 GREENLEAF AVE
+- City: WHITTIER
+- State: CA
+- ZIP: 90602
+- ZIP extension: 
+- State project ID: CA-99-105
+- Latitude: 33.978285
+- Longitude: -118.037559
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037501504
+- Tract 2010: 06037501504
+- Tract 2000: 06037501504
+- Tract 1990: 06037501502
+- Place 2020: 85292
+- Place 2010: 85292
+- Place 2000: 85292
+- Place 1990: 3110
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 484122
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 49
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

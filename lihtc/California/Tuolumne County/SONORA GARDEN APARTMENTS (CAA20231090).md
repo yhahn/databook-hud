@@ -1,0 +1,85 @@
+# Project: SONORA GARDEN APARTMENTS (CAA20231090)
+
+- HUD ID: CAA20231090
+- HUD ID before: 
+- Project: SONORA GARDEN APARTMENTS
+- Address: 100 GREENLEY RD
+- City: SONORA
+- State: CA
+- ZIP: 95370
+- ZIP extension: 
+- State project ID: CA-2021-110
+- Latitude: 37.982753
+- Longitude: -120.367841
+- County FIPS: 06109
+- County from: 2020
+- Tract 2020: 06109001200
+- Tract 2010: 06109001200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 72674
+- Place 2010: 72674
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 530235
+- Units: 34
+- Low-income units: 33
+- Units reported: 34
+- Low-income reported: 33
+- Efficiencies: 
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 10
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

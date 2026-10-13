@@ -1,0 +1,85 @@
+# Project: PARKER HEIGHTS (NCA19880490)
+
+- HUD ID: NCA19880490
+- HUD ID before: 
+- Project: PARKER HEIGHTS
+- Address: 1505 PARKER DR
+- City: CHARLOTTE
+- State: NC
+- ZIP: 28208
+- ZIP extension: 
+- State project ID: 9001118
+- Latitude: 35.220429
+- Longitude: -80.882494
+- County FIPS: 37119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37119003600
+- Tract 2000: 37119003600
+- Tract 1990: 37119003600
+- Place 2020: 
+- Place 2010: 12000
+- Place 2000: 12000
+- Place 1990: 0480
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 28771
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 54
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

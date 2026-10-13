@@ -1,0 +1,85 @@
+# Project: SCHEUER HOUSE OF BAYSIDE (NYC20060802)
+
+- HUD ID: NYC20060802
+- HUD ID before: 
+- Project: SCHEUER HOUSE OF BAYSIDE
+- Address: 208-11 26TH AVENUE
+- City: BAYSIDE
+- State: NY
+- ZIP: 11360
+- ZIP extension: 
+- State project ID: 20-4479166
+- Latitude: 40.776497
+- Longitude: -73.783985
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081099704
+- Tract 2010: 36081099704
+- Tract 2000: 36081099702
+- Tract 1990: 36081099702
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 315162
+- Units: 150
+- Low-income units: 149
+- Units reported: 150
+- Low-income reported: 149
+- Efficiencies: 0
+- 1-bedroom units: 149
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

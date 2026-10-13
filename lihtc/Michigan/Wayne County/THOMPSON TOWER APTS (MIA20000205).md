@@ -1,0 +1,85 @@
+# Project: THOMPSON TOWER APTS (MIA20000205)
+
+- HUD ID: MIA20000205
+- HUD ID before: 
+- Project: THOMPSON TOWER APTS
+- Address: 27727 MICHIGAN AVE
+- City: INKSTER
+- State: MI
+- ZIP: 48141
+- ZIP extension: 
+- State project ID: MI-2229
+- Latitude: 42.292691
+- Longitude: -83.315038
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163570400
+- Tract 2010: 26163570400
+- Tract 2000: 26163570400
+- Tract 1990: 26163570400
+- Place 2020: 40680
+- Place 2010: 40680
+- Place 2000: 40680
+- Place 1990: 1320
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 300
+- Low-income units: 240
+- Units reported: 300
+- Low-income reported: 240
+- Efficiencies: 0
+- 1-bedroom units: 240
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

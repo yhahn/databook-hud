@@ -1,0 +1,85 @@
+# Project: PARK VISTA APTS (CAA19980355)
+
+- HUD ID: CAA19980355
+- HUD ID before: 
+- Project: PARK VISTA APTS
+- Address: 1301 STEVENSON BLVD
+- City: FREMONT
+- State: CA
+- ZIP: 94538
+- ZIP extension: 
+- State project ID: CA-96-914
+- Latitude: 37.556509
+- Longitude: -121.963382
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001441928
+- Tract 2010: 06001441925
+- Tract 2000: 06001441901
+- Tract 1990: 06001441901
+- Place 2020: 26000
+- Place 2010: 26000
+- Place 2000: 26000
+- Place 1990: 1080
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 212714
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

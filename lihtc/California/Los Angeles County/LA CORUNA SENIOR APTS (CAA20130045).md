@@ -1,0 +1,85 @@
+# Project: LA CORUNA SENIOR APTS (CAA20130045)
+
+- HUD ID: CAA20130045
+- HUD ID before: 
+- Project: LA CORUNA SENIOR APTS
+- Address: 15301 LANARK ST
+- City: VAN NUYS
+- State: CA
+- ZIP: 91406
+- ZIP extension: 
+- State project ID: CA-11-838
+- Latitude: 34.218174
+- Longitude: -118.466591
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037127520
+- Tract 2010: 06037127520
+- Tract 2000: 06037127520
+- Tract 1990: 06037127500
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 942943
+- Units: 87
+- Low-income units: 86
+- Units reported: 87
+- Low-income reported: 86
+- Efficiencies: 0
+- 1-bedroom units: 69
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 86
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2123930
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

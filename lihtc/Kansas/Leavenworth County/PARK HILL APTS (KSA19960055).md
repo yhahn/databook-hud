@@ -1,0 +1,85 @@
+# Project: PARK HILL APTS (KSA19960055)
+
+- HUD ID: KSA19960055
+- HUD ID before: 
+- Project: PARK HILL APTS
+- Address: 715 SILVER LEAF ST
+- City: LEAVENWORTH
+- State: KS
+- ZIP: 66048
+- ZIP extension: 
+- State project ID: 60139
+- Latitude: 39.286024
+- Longitude: -94.918867
+- County FIPS: 20103
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20103070700
+- Tract 2000: 20103070700
+- Tract 1990: 20103070700
+- Place 2020: 
+- Place 2010: 39000
+- Place 2000: 39000
+- Place 1990: 1540
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 195923
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PARK APTS.
+- Record status: Existing, unchanged

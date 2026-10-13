@@ -1,0 +1,85 @@
+# Project: GRAYSTONE APTS II (MSA20000626)
+
+- HUD ID: MSA20000626
+- HUD ID before: 
+- Project: GRAYSTONE APTS II
+- Address: 826 W SECOND ST
+- City: YAZOO CITY
+- State: MS
+- ZIP: 39194
+- ZIP extension: 
+- State project ID: MS-99-013
+- Latitude: 32.854474
+- Longitude: -90.423139
+- County FIPS: 28163
+- County from: 2020
+- Tract 2020: 28163950300
+- Tract 2010: 28163950300
+- Tract 2000: 28163950500
+- Tract 1990: 28163950500
+- Place 2020: 81520
+- Place 2010: 81520
+- Place 2000: 81520
+- Place 1990: 1480
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 200000
+- Units: 32
+- Low-income units: 30
+- Units reported: 32
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2000624, MSA2000027, MSA2000026. AKA GRAYSTONE APTS.
+- Record status: Existing, unchanged

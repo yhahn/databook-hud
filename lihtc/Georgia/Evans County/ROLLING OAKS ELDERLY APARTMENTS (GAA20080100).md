@@ -1,0 +1,85 @@
+# Project: ROLLING OAKS ELDERLY APARTMENTS (GAA20080100)
+
+- HUD ID: GAA20080100
+- HUD ID before: 
+- Project: ROLLING OAKS ELDERLY APARTMENTS
+- Address: 111 N RALPH ST
+- City: CLAXTON
+- State: GA
+- ZIP: 30417
+- ZIP extension: 2306
+- State project ID: GA-06-005
+- Latitude: 32.163846
+- Longitude: -81.913527
+- County FIPS: 13109
+- County from: 2020
+- Tract 2020: 13109970200
+- Tract 2010: 13109970200
+- Tract 2000: 13109970200
+- Tract 1990: 13109970200
+- Place 2020: 16600
+- Place 2010: 16600
+- Place 2000: 06688
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 158516
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1991205, GAA2004240, GAA2005070, GAA2006090.
+- Record status: Existing, unchanged

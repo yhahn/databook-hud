@@ -1,0 +1,85 @@
+# Project: DESOTO I APTS (MOA20050050)
+
+- HUD ID: MOA20050050
+- HUD ID before: 
+- Project: DESOTO I APTS
+- Address: 506 W ST LOUIS ST
+- City: DE SOTO
+- State: MO
+- ZIP: 63020
+- ZIP extension: 
+- State project ID: 04-007
+- Latitude: 38.132686
+- Longitude: -90.561121
+- County FIPS: 29099
+- County from: 2020
+- Tract 2020: 29099701200
+- Tract 2010: 29099701200
+- Tract 2000: 29099701200
+- Tract 1990: 29099701200
+- Place 2020: 19252
+- Place 2010: 19252
+- Place 2000: 19252
+- Place 1990: 1140
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DESOTO APTS I.
+- Record status: Existing, unchanged

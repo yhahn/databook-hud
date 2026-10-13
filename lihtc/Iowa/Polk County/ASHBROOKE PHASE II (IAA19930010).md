@@ -1,0 +1,85 @@
+# Project: ASHBROOKE PHASE II (IAA19930010)
+
+- HUD ID: IAA19930010
+- HUD ID before: 
+- Project: ASHBROOKE PHASE II
+- Address: 401 NE DELAWARE AVE
+- City: ANKENY
+- State: IA
+- ZIP: 50021
+- ZIP extension: 
+- State project ID: 91-23
+- Latitude: 41.73508
+- Longitude: -93.580861
+- County FIPS: 19153
+- County from: 2020
+- Tract 2020: 19153010209
+- Tract 2010: 19153010209
+- Tract 2000: 19153010206
+- Tract 1990: 19153010206
+- Place 2020: 02305
+- Place 2010: 02305
+- Place 2000: 02305
+- Place 1990: 0140
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 224850
+- Units: 62
+- Low-income units: 50
+- Units reported: 62
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ANKENY HOUSING.
+- Record status: Existing, unchanged

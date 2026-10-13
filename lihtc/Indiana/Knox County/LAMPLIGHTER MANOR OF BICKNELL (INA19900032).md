@@ -1,0 +1,85 @@
+# Project: LAMPLIGHTER MANOR OF BICKNELL (INA19900032)
+
+- HUD ID: INA19900032
+- HUD ID before: 
+- Project: LAMPLIGHTER MANOR OF BICKNELL
+- Address: 100 LAMPLIGHT MANOR LN
+- City: BICKNELL
+- State: IN
+- ZIP: 47512
+- ZIP extension: 
+- State project ID: IN-89-10601
+- Latitude: 38.780386
+- Longitude: -87.318292
+- County FIPS: 18083
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18083955100
+- Tract 2000: 18083955100
+- Tract 1990: 18083955100
+- Place 2020: 
+- Place 2010: 05176
+- Place 2000: 05176
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001155.
+- Record status: Existing, unchanged

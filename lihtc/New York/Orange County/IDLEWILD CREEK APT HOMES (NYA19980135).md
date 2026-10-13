@@ -1,0 +1,85 @@
+# Project: IDLEWILD CREEK APT HOMES (NYA19980135)
+
+- HUD ID: NYA19980135
+- HUD ID before: 
+- Project: IDLEWILD CREEK APT HOMES
+- Address: 10 LAND MARK DR
+- City: CORNWALL
+- State: NY
+- ZIP: 12518
+- ZIP extension: 
+- State project ID: 19950716
+- Latitude: 41.42732
+- Longitude: -74.03603
+- County FIPS: 36071
+- County from: 2020
+- Tract 2020: 36071013100
+- Tract 2010: 36071013100
+- Tract 2000: 36071013100
+- Tract 1990: 36071013100
+- Place 2020: 25857
+- Place 2010: 25857
+- Place 2000: 05193
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 214
+- Low-income units: 125
+- Units reported: 214
+- Low-income reported: 125
+- Efficiencies: 0
+- 1-bedroom units: 74
+- 2-bedroom units: 50
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

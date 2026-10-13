@@ -1,0 +1,85 @@
+# Project: HIGHLAND COMMONS (MDA20070053)
+
+- HUD ID: MDA20070053
+- HUD ID before: 
+- Project: HIGHLAND COMMONS
+- Address: 21 ROOSEVELT AVE
+- City: ABERDEEN
+- State: MD
+- ZIP: 21001
+- ZIP extension: 
+- State project ID: MD06-06001
+- Latitude: 39.509594
+- Longitude: -76.158111
+- County FIPS: 24025
+- County from: 2020
+- Tract 2020: 24025302901
+- Tract 2010: 24025302901
+- Tract 2000: 24025302901
+- Tract 1990: 24025302901
+- Place 2020: 00125
+- Place 2010: 00125
+- Place 2000: 00125
+- Place 1990: 0003
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 88
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUN BAY VILLAGE (FLA19930180)
+
+- HUD ID: FLA19930180
+- HUD ID before: 
+- Project: SUN BAY VILLAGE
+- Address: 50 BUSTER MARSE RD
+- City: FREEPORT
+- State: FL
+- ZIP: 32439
+- ZIP extension: 
+- State project ID: 823
+- Latitude: 30.497959
+- Longitude: -86.140418
+- County FIPS: 12131
+- County from: 2020
+- Tract 2020: 12131950502
+- Tract 2010: 12131950502
+- Tract 2000: 12131950500
+- Tract 1990: 12131950500
+- Place 2020: 24825
+- Place 2010: 24825
+- Place 2000: 24825
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

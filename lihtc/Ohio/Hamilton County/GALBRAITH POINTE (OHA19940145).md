@@ -1,0 +1,85 @@
+# Project: GALBRAITH POINTE (OHA19940145)
+
+- HUD ID: OHA19940145
+- HUD ID before: 
+- Project: GALBRAITH POINTE
+- Address: 8211 W GALBRAITH POINTE LN
+- City: CINCINNATI
+- State: OH
+- ZIP: 45231
+- ZIP extension: 
+- State project ID: OH-92-1022
+- Latitude: 39.216727
+- Longitude: -84.515826
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061022102
+- Tract 2010: 39061022102
+- Tract 2000: 39061022102
+- Tract 1990: 39061022102
+- Place 2020: 27104
+- Place 2010: 27104
+- Place 2000: 15000
+- Place 1990: 1381
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 501999
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

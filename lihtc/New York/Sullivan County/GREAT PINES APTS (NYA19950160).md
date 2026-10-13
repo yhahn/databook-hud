@@ -1,0 +1,85 @@
+# Project: GREAT PINES APTS (NYA19950160)
+
+- HUD ID: NYA19950160
+- HUD ID before: 
+- Project: GREAT PINES APTS
+- Address: 20 GREAT PINES CIR
+- City: HURLEYVILLE
+- State: NY
+- ZIP: 12747
+- ZIP extension: 
+- State project ID: 19931003
+- Latitude: 41.744591
+- Longitude: -74.6697
+- County FIPS: 36105
+- County from: 2020
+- Tract 2020: 36105950900
+- Tract 2010: 36105950900
+- Tract 2000: 36105950900
+- Tract 1990: 36105950900
+- Place 2020: 37154
+- Place 2010: 99999
+- Place 2000: 68968
+- Place 1990: 3458
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

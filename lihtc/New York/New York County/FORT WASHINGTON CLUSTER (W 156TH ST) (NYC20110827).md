@@ -1,0 +1,85 @@
+# Project: FORT WASHINGTON CLUSTER (W 156TH ST) (NYC20110827)
+
+- HUD ID: NYC20110827
+- HUD ID before: 
+- Project: FORT WASHINGTON CLUSTER (W 156TH ST)
+- Address: 531 W 156TH ST
+- City: NEW YORK
+- State: NY
+- ZIP: 10032
+- ZIP extension: 
+- State project ID: 0902054
+- Latitude: 40.832872
+- Longitude: -73.943551
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061024100
+- Tract 2010: 36061024100
+- Tract 2000: 36061024100
+- Tract 1990: 36061024100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 282410
+- Units: 12
+- Low-income units: 11
+- Units reported: 12
+- Low-income reported: 11
+- Efficiencies: 5
+- 1-bedroom units: 3
+- 2-bedroom units: 1
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1933325
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2009125.
+- Record status: Existing, unchanged

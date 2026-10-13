@@ -1,0 +1,85 @@
+# Project: COTAGE - HAPGOOD APTS (MAB20040015)
+
+- HUD ID: MAB20040015
+- HUD ID before: 
+- Project: COTAGE - HAPGOOD APTS
+- Address: 25 CHENEY ST
+- City: ATHOL
+- State: MA
+- ZIP: 01331
+- ZIP extension: 
+- State project ID: MAB2004009
+- Latitude: 42.589545
+- Longitude: -72.227146
+- County FIPS: 25027
+- County from: 2020
+- Tract 2020: 25027703100
+- Tract 2010: 25027703100
+- Tract 2000: 25027703100
+- Tract 1990: 25027703100
+- Place 2020: 02515
+- Place 2010: 02515
+- Place 2000: 02515
+- Place 1990: 0190
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 15
+- 3-bedroom units: 3
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

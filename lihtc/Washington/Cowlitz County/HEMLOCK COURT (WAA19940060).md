@@ -1,0 +1,85 @@
+# Project: HEMLOCK COURT (WAA19940060)
+
+- HUD ID: WAA19940060
+- HUD ID before: 
+- Project: HEMLOCK COURT
+- Address: 1700 HEMLOCK ST
+- City: LONGVIEW
+- State: WA
+- ZIP: 98632
+- ZIP extension: 
+- State project ID: 92-06M
+- Latitude: 46.136673
+- Longitude: -122.940543
+- County FIPS: 53015
+- County from: 2020
+- Tract 2020: 53015000400
+- Tract 2010: 53015000400
+- Tract 2000: 53015000400
+- Tract 1990: 53015000400
+- Place 2020: 40245
+- Place 2010: 40245
+- Place 2000: 40245
+- Place 1990: 0695
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 173479
+- Units: 47
+- Low-income units: 46
+- Units reported: 47
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

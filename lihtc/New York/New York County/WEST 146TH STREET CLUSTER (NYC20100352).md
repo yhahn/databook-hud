@@ -1,0 +1,85 @@
+# Project: WEST 146TH STREET CLUSTER (NYC20100352)
+
+- HUD ID: NYC20100352
+- HUD ID before: 
+- Project: WEST 146TH STREET CLUSTER
+- Address: 2508 SEVENTH AVE
+- City: NEW YORK
+- State: NY
+- ZIP: 10039
+- ZIP extension: 
+- State project ID: 2008-033
+- Latitude: 40.822044
+- Longitude: -73.939137
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061023200
+- Tract 2010: 36061023200
+- Tract 2000: 36061023200
+- Tract 1990: 36061023200
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 205232
+- Units: 17
+- Low-income units: 12
+- Units reported: 17
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 7
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1338191
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2010549, NYC2009375.
+- Record status: Existing, unchanged

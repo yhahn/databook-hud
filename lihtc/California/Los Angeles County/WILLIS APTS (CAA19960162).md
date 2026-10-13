@@ -1,0 +1,85 @@
+# Project: WILLIS APTS (CAA19960162)
+
+- HUD ID: CAA19960162
+- HUD ID before: 
+- Project: WILLIS APTS
+- Address: 4573 WILLIS AVE
+- City: SHERMAN OAKS
+- State: CA
+- ZIP: 91403
+- ZIP extension: 
+- State project ID: CA-97-907
+- Latitude: 34.154093
+- Longitude: -118.455429
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037141303
+- Tract 2010: 06037141303
+- Tract 2000: 06037141301
+- Tract 1990: 06037141301
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 16032
+- Units: 23
+- Low-income units: 5
+- Units reported: 23
+- Low-income reported: 5
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

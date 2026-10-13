@@ -1,0 +1,85 @@
+# Project: CLERMONT VILLA (OHA20070036)
+
+- HUD ID: OHA20070036
+- HUD ID before: 
+- Project: CLERMONT VILLA
+- Address: 371 E MAIN ST
+- City: OWENSVILLE
+- State: OH
+- ZIP: 45160
+- ZIP extension: 
+- State project ID: 05-0060
+- Latitude: 39.124068
+- Longitude: -84.128419
+- County FIPS: 39025
+- County from: 2020
+- Tract 2020: 39025040800
+- Tract 2010: 39025040800
+- Tract 2000: 39025040800
+- Tract 1990: 39025040800
+- Place 2020: 59220
+- Place 2010: 59220
+- Place 2000: 59220
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 45
+- Units reported: 46
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 22
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2007750.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NESHOBE HOUSE (VTA19940010)
+
+- HUD ID: VTA19940010
+- HUD ID before: 
+- Project: NESHOBE HOUSE
+- Address: 32 W SEMINARY ST
+- City: BRANDON
+- State: VT
+- ZIP: 05733
+- ZIP extension: 
+- State project ID: 0115
+- Latitude: 43.802308
+- Longitude: -73.087284
+- County FIPS: 50021
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 50021962200
+- Tract 2000: 50021962200
+- Tract 1990: 50021962298
+- Place 2020: 
+- Place 2010: 07675
+- Place 2000: 07675
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 66637
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA BRANDON ELDERLY HOUSING
+- Record status: Existing, unchanged

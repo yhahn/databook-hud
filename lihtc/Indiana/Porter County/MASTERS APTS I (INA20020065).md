@@ -1,0 +1,85 @@
+# Project: MASTERS APTS I (INA20020065)
+
+- HUD ID: INA20020065
+- HUD ID before: 
+- Project: MASTERS APTS I
+- Address: 2700 GLENEAGLES BLVD
+- City: VALPARAISO
+- State: IN
+- ZIP: 46383
+- ZIP extension: 
+- State project ID: IN-00-03600
+- Latitude: 41.495002
+- Longitude: -87.034106
+- County FIPS: 18127
+- County from: 2020
+- Tract 2020: 18127050705
+- Tract 2010: 18127050702
+- Tract 2000: 18127050702
+- Tract 1990: 18127050600
+- Place 2020: 78326
+- Place 2010: 78326
+- Place 2000: 78326
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 495753
+- Units: 96
+- Low-income units: 88
+- Units reported: 96
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 32
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

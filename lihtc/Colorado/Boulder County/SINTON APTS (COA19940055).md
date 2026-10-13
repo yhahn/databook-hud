@@ -1,0 +1,85 @@
+# Project: SINTON APTS (COA19940055)
+
+- HUD ID: COA19940055
+- HUD ID before: 
+- Project: SINTON APTS
+- Address: 1853 26TH ST
+- City: BOULDER
+- State: CO
+- ZIP: 80302
+- ZIP extension: 
+- State project ID: CO92-113
+- Latitude: 40.018687
+- Longitude: -105.260731
+- County FIPS: 08013
+- County from: 2020
+- Tract 2020: 08013012206
+- Tract 2010: 08013012202
+- Tract 2000: 08013012202
+- Tract 1990: 08013012202
+- Place 2020: 07850
+- Place 2010: 07850
+- Place 2000: 07850
+- Place 1990: 0110
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 83
+- Low-income units: 17
+- Units reported: 83
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 58
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HUB APTS.
+- Record status: Existing, unchanged

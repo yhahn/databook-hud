@@ -1,0 +1,85 @@
+# Project: SHEFFIELD AVENUE CLUSTER (NYC20040235)
+
+- HUD ID: NYC20040235
+- HUD ID before: 
+- Project: SHEFFIELD AVENUE CLUSTER
+- Address: 516 HEGEMAN AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11207
+- ZIP extension: 
+- State project ID: NY0402085
+- Latitude: 40.65944
+- Longitude: -73.892349
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047110400
+- Tract 2010: 36047110400
+- Tract 2000: 36047110200
+- Tract 1990: 36047110200
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 60719
+- Units: 6
+- Low-income units: 5
+- Units reported: 6
+- Low-income reported: 5
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

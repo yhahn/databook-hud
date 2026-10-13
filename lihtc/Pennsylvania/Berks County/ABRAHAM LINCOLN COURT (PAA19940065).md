@@ -1,0 +1,85 @@
+# Project: ABRAHAM LINCOLN COURT (PAA19940065)
+
+- HUD ID: PAA19940065
+- HUD ID before: 
+- Project: ABRAHAM LINCOLN COURT
+- Address: 112 N FIFTH ST
+- City: READING
+- State: PA
+- ZIP: 19601
+- ZIP extension: 
+- State project ID: TC1993-0001
+- Latitude: 40.337222
+- Longitude: -75.928023
+- County FIPS: 42011
+- County from: 2020
+- Tract 2020: 42011000100
+- Tract 2010: 42011000100
+- Tract 2000: 42011000100
+- Tract 1990: 42011000100
+- Place 2020: 63624
+- Place 2010: 63624
+- Place 2000: 63624
+- Place 1990: 7418
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 420152
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

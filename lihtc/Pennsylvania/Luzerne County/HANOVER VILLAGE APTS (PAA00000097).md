@@ -1,0 +1,85 @@
+# Project: HANOVER VILLAGE APTS (PAA00000097)
+
+- HUD ID: PAA00000097
+- HUD ID before: 
+- Project: HANOVER VILLAGE APTS
+- Address: HANOVER VILLAGE
+- City: WILKES BARRE
+- State: PA
+- ZIP: 
+- ZIP extension: 
+- State project ID: TC20040313
+- Latitude: 41.2135
+- Longitude: -75.8993
+- County FIPS: 42079
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42079215100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 03272
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 151
+- Low-income units: 151
+- Units reported: 151
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA0000096.
+- Record status: Existing, unchanged

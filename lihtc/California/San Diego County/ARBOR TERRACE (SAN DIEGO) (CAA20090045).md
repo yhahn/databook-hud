@@ -1,0 +1,85 @@
+# Project: ARBOR TERRACE (SAN DIEGO) (CAA20090045)
+
+- HUD ID: CAA20090045
+- HUD ID before: 
+- Project: ARBOR TERRACE (SAN DIEGO)
+- Address: 3693 FLORIDA ST
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92104
+- ZIP extension: 
+- State project ID: CA-06-112
+- Latitude: 32.745246
+- Longitude: -117.143563
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073000800
+- Tract 2010: 06073000800
+- Tract 2000: 06073000800
+- Tract 1990: 06073000800
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1913651
+- Units: 71
+- Low-income units: 69
+- Units reported: 71
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 23
+- 3-bedroom units: 33
+- 4-bedroom units: 15
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 49
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

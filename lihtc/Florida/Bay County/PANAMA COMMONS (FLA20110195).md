@@ -1,0 +1,85 @@
+# Project: PANAMA COMMONS (FLA20110195)
+
+- HUD ID: FLA20110195
+- HUD ID before: 
+- Project: PANAMA COMMONS
+- Address: 1001 SHERMAN AVE
+- City: PANAMA CITY
+- State: FL
+- ZIP: 32401
+- ZIP extension: 
+- State project ID: 2226
+- Latitude: 30.166764
+- Longitude: -85.633594
+- County FIPS: 12005
+- County from: 2020
+- Tract 2020: 12005001700
+- Tract 2010: 12005001700
+- Tract 2000: 12005001700
+- Tract 1990: 12005001700
+- Place 2020: 54700
+- Place 2010: 54700
+- Place 2000: 30575
+- Place 1990: 1675
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 92
+- Low-income units: 92
+- Units reported: 92
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 50
+- 3-bedroom units: 34
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 10837500
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011556.
+- Record status: Existing, unchanged

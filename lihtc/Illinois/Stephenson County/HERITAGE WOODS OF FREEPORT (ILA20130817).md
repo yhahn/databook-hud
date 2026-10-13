@@ -1,0 +1,85 @@
+# Project: HERITAGE WOODS OF FREEPORT (ILA20130817)
+
+- HUD ID: ILA20130817
+- HUD ID before: 
+- Project: HERITAGE WOODS OF FREEPORT
+- Address: 1500 S FOREST RD
+- City: FREEPORT
+- State: IL
+- ZIP: 61032
+- ZIP extension: 
+- State project ID: 1028311
+- Latitude: 42.281444
+- Longitude: -89.666901
+- County FIPS: 17177
+- County from: 2020
+- Tract 2020: 17177000500
+- Tract 2010: 17177000500
+- Tract 2000: 17177000500
+- Tract 1990: 17177000500
+- Place 2020: 27884
+- Place 2010: 27884
+- Place 2000: 12008
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 799765
+- Units: 76
+- Low-income units: 61
+- Units reported: 76
+- Low-income reported: 61
+- Efficiencies: 37
+- 1-bedroom units: 39
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA20130009.
+- Record status: Existing, unchanged

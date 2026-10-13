@@ -1,0 +1,24 @@
+# Tax Credit Projects: Crawford County, WI
+
+- Level: County
+- Postal code: WI
+- State FIPS: 55
+- County FIPS: 55023
+- Counties: 
+- Projects: 7
+- Units: 102
+- Low-income units: 94
+
+The low-income housing tax credit projects of Crawford County, Wisconsin, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [LIBERTY PLACE (WIA19910110)](./Crawford%20County/LIBERTY%20PLACE%20%28WIA19910110%29.md) | WIA19910110 | PRAIRIE DU CHIEN | 1991 | 10 | 10 |
+| [NORTHLAND SOLDIERS GROVE APTS (WIA19910140)](./Crawford%20County/NORTHLAND%20SOLDIERS%20GROVE%20APTS%20%28WIA19910140%29.md) | WIA19910140 | SOLDIERS GROVE | 1991 | 8 | 8 |
+| [NORTHLAND GAYS MILLS APTS (WIA19920155)](./Crawford%20County/NORTHLAND%20GAYS%20MILLS%20APTS%20%28WIA19920155%29.md) | WIA19920155 | GAYS MILLS | 1992 | 8 | 8 |
+| [TERRACE GARDENS (WIA19920235)](./Crawford%20County/TERRACE%20GARDENS%20%28WIA19920235%29.md) | WIA19920235 | PRAIRIE DU CHIEN | 1992 | 10 | 10 |
+| [NORTHLAND EASTMAN APTS (WIA19940110)](./Crawford%20County/NORTHLAND%20EASTMAN%20APTS%20%28WIA19940110%29.md) | WIA19940110 | EASTMAN | 1994 | 8 | 8 |
+| [PRAIRIE VILLAGE APTS (WIA19940150)](./Crawford%20County/PRAIRIE%20VILLAGE%20APTS%20%28WIA19940150%29.md) | WIA19940150 | PRAIRIE DU CHIEN | 1994 | 18 | 18 |
+| [LAWLER SCHOOL LOFTS (WIA20181015)](./Crawford%20County/LAWLER%20SCHOOL%20LOFTS%20%28WIA20181015%29.md) | WIA20181015 | PRAIRIE DU CHIEN | 2018 | 40 | 32 |

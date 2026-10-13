@@ -1,0 +1,85 @@
+# Project: TOWN PARK CROSSING (FLA20120145)
+
+- HUD ID: FLA20120145
+- HUD ID before: 
+- Project: TOWN PARK CROSSING
+- Address: 7843 DAVIE RD EXT
+- City: HOLLYWOOD
+- State: FL
+- ZIP: 33024
+- ZIP extension: 
+- State project ID: 2490
+- Latitude: 26.034228
+- Longitude: -80.246535
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011070503
+- Tract 2010: 12011070502
+- Tract 2000: 12011070502
+- Tract 1990: 12011070500
+- Place 2020: 16475
+- Place 2010: 16475
+- Place 2000: 14125
+- Place 1990: 0477
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1735993
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 58
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4000000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011240, FLA2011534.
+- Record status: Existing, unchanged

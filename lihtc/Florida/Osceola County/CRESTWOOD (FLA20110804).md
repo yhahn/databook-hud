@@ -1,0 +1,85 @@
+# Project: CRESTWOOD (FLA20110804)
+
+- HUD ID: FLA20110804
+- HUD ID before: 
+- Project: CRESTWOOD
+- Address: 3121 CRESTWOOD CIR
+- City: ST CLOUD
+- State: FL
+- ZIP: 34769
+- ZIP extension: 
+- State project ID: 209
+- Latitude: 28.230001
+- Longitude: -81.315136
+- County FIPS: 12097
+- County from: 2020
+- Tract 2020: 12097043208
+- Tract 2010: 12097043204
+- Tract 2000: 12097043200
+- Tract 1990: 12097040501
+- Place 2020: 62625
+- Place 2010: 62625
+- Place 2000: 62625
+- Place 1990: 1890
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 311804
+- Units: 216
+- Low-income units: 216
+- Units reported: 216
+- Low-income reported: 216
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 128
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1991015, FLA2011050, FLA2011518.
+- Record status: Existing, unchanged

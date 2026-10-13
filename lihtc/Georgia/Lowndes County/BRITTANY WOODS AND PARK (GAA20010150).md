@@ -1,0 +1,85 @@
+# Project: BRITTANY WOODS AND PARK (GAA20010150)
+
+- HUD ID: GAA20010150
+- HUD ID before: 
+- Project: BRITTANY WOODS AND PARK
+- Address: 1150 OLD STATENVILLE RD
+- City: VALDOSTA
+- State: GA
+- ZIP: 31601
+- ZIP extension: 6417
+- State project ID: GA-99-514
+- Latitude: 30.822595
+- Longitude: -83.253539
+- County FIPS: 13185
+- County from: 2020
+- Tract 2020: 13185010801
+- Tract 2010: 13185010800
+- Tract 2000: 13185010800
+- Tract 1990: 13185010800
+- Place 2020: 78800
+- Place 2010: 78800
+- Place 2000: 78800
+- Place 1990: 2910
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 204
+- Low-income units: 204
+- Units reported: 204
+- Low-income reported: 204
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BRITTANY WOODS & PARK CHASE.
+- Record status: Existing, unchanged

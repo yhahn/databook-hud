@@ -1,0 +1,85 @@
+# Project: LIVE OAK PLANTATION (GAA20020217)
+
+- HUD ID: GAA20020217
+- HUD ID before: 
+- Project: LIVE OAK PLANTATION
+- Address: 8505 WATERS AVE
+- City: SAVANNAH
+- State: GA
+- ZIP: 31406
+- ZIP extension: 6036
+- State project ID: GA-00-506
+- Latitude: 31.993213
+- Longitude: -81.106014
+- County FIPS: 13051
+- County from: 2020
+- Tract 2020: 13051004210
+- Tract 2010: 13051004210
+- Tract 2000: 13051004202
+- Tract 1990: 13051004202
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 69000
+- Place 1990: 2540
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 90
+- 3-bedroom units: 52
+- 4-bedroom units: 26
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2000045.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CENTURY SUNRISE DEVELOPMENT (NYB20200004)
+
+- HUD ID: NYB20200004
+- HUD ID before: 
+- Project: CENTURY SUNRISE DEVELOPMENT
+- Address: 135-139 BALDWIN STREET
+- City: JOHNSON CITY
+- State: NY
+- ZIP: 13790
+- ZIP extension: 
+- State project ID: NY-19-2377
+- Latitude: 42.111456
+- Longitude: -75.95744
+- County FIPS: 36007
+- County from: 2020
+- Tract 2020: 36007014000
+- Tract 2010: 36007014000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 38748
+- Place 2010: 38748
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 134
+- Low-income units: 93
+- Units reported: 134
+- Low-income reported: 93
+- Efficiencies: 0
+- 1-bedroom units: 58
+- 2-bedroom units: 71
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

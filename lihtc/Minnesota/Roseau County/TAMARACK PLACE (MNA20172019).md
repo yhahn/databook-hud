@@ -1,0 +1,85 @@
+# Project: TAMARACK PLACE (MNA20172019)
+
+- HUD ID: MNA20172019
+- HUD ID before: 
+- Project: TAMARACK PLACE
+- Address: 1105 3RD AVENUE SW
+- City: ROSEAU
+- State: MN
+- ZIP: 56751
+- ZIP extension: 
+- State project ID: D7649
+- Latitude: 48.833544
+- Longitude: -95.766637
+- County FIPS: 27135
+- County from: 2020
+- Tract 2020: 27135970300
+- Tract 2010: 27135970300
+- Tract 2000: 27135970300
+- Tract 1990: 
+- Place 2020: 55546
+- Place 2010: 55546
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 74956
+- Units: 41
+- Low-income units: 18
+- Units reported: 41
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 18
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

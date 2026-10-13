@@ -1,0 +1,85 @@
+# Project: STONE RIDGE AT CONWAY II FKA PARK RIDGE PHASE (ARA20100030)
+
+- HUD ID: ARA20100030
+- HUD ID before: 
+- Project: STONE RIDGE AT CONWAY II FKA PARK RIDGE PHASE
+- Address: 1960 RICHSMITH LN
+- City: CONWAY
+- State: AR
+- ZIP: 72032
+- ZIP extension: 
+- State project ID: AR-08-07-001
+- Latitude: 35.099924
+- Longitude: -92.39957
+- County FIPS: 05045
+- County from: 2020
+- Tract 2020: 05045030403
+- Tract 2010: 05045030403
+- Tract 2000: 05045030403
+- Tract 1990: 05045030400
+- Place 2020: 15190
+- Place 2010: 15190
+- Place 2000: 15190
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1000
+- Units: 48
+- Low-income units: 38
+- Units reported: 48
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 17
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2009797, ARA2009042. FKA PARK RIDGE AT CONWAY PHASE III
+- Record status: Existing, unchanged

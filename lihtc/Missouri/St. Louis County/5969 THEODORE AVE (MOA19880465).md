@@ -1,0 +1,85 @@
+# Project: 5969 THEODORE AVE (MOA19880465)
+
+- HUD ID: MOA19880465
+- HUD ID before: 
+- Project: 5969 THEODORE AVE
+- Address: 5969 THEODORE AVE
+- City: ST LOUIS
+- State: MO
+- ZIP: 63136
+- ZIP extension: 
+- State project ID: 158027
+- Latitude: 38.707269
+- Longitude: -90.271094
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189212101
+- Tract 2010: 29189212101
+- Tract 2000: 29510107300
+- Tract 1990: 29510107300
+- Place 2020: 37178
+- Place 2010: 37178
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

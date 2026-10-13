@@ -1,0 +1,85 @@
+# Project: SMOKEY RIDGE (VAA20160023)
+
+- HUD ID: VAA20160023
+- HUD ID before: 
+- Project: SMOKEY RIDGE
+- Address: 1785 ELECTRA WAY, 260, 290 COUNTRIE DRIVE NE, 1705, 171
+- City: CHRISTIANSBURG
+- State: VA
+- ZIP: 24073
+- ZIP extension: 
+- State project ID: 1114
+- Latitude: 37.136836
+- Longitude: -80.375686
+- County FIPS: 51121
+- County from: 2020
+- Tract 2020: 51121020801
+- Tract 2010: 51121020800
+- Tract 2000: 51121020800
+- Tract 1990: 
+- Place 2020: 16608
+- Place 2010: 16608
+- Place 2000: 16608
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 427417
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 46
+- 3-bedroom units: 6
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1996140.
+- Record status: Existing, unchanged

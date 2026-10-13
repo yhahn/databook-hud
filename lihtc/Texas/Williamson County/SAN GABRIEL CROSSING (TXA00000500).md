@@ -1,0 +1,85 @@
+# Project: SAN GABRIEL CROSSING (TXA00000500)
+
+- HUD ID: TXA00000500
+- HUD ID before: 
+- Project: SAN GABRIEL CROSSING
+- Address: 155 HILLCREST LN
+- City: LIBERTY HILL
+- State: TX
+- ZIP: 78642
+- ZIP extension: 
+- State project ID: TX-742610542
+- Latitude: 30.67058
+- Longitude: -97.931535
+- County FIPS: 48491
+- County from: 2020
+- Tract 2020: 48491020330
+- Tract 2010: 48491020301
+- Tract 2000: 48491020301
+- Tract 1990: 48491020301
+- Place 2020: 42664
+- Place 2010: 42664
+- Place 2000: 42664
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 32
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 6028000
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

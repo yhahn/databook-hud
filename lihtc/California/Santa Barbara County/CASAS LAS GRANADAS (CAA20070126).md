@@ -1,0 +1,85 @@
+# Project: CASAS LAS GRANADAS (CAA20070126)
+
+- HUD ID: CAA20070126
+- HUD ID before: 
+- Project: CASAS LAS GRANADAS
+- Address: 21 E ANAPAMU ST
+- City: SANTA BARBARA
+- State: CA
+- ZIP: 93101
+- ZIP extension: 
+- State project ID: CA-06-843
+- Latitude: 34.424085
+- Longitude: -119.703944
+- County FIPS: 06083
+- County from: 2020
+- Tract 2020: 06083000900
+- Tract 2010: 06083000900
+- Tract 2000: 06083000900
+- Tract 1990: 06083000900
+- Place 2020: 69070
+- Place 2010: 69070
+- Place 2000: 69070
+- Place 1990: 2575
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 123298
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1462000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

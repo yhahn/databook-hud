@@ -1,0 +1,85 @@
+# Project: KENSINGTON SQUARE APTS (OHA20090120)
+
+- HUD ID: OHA20090120
+- HUD ID before: 
+- Project: KENSINGTON SQUARE APTS
+- Address: 535 ABBE RD S
+- City: ELYRIA
+- State: OH
+- ZIP: 44035
+- ZIP extension: 
+- State project ID: 07-0184
+- Latitude: 41.366777
+- Longitude: -82.078128
+- County FIPS: 39093
+- County from: 2020
+- Tract 2020: 39093071201
+- Tract 2010: 39093071201
+- Tract 2000: 39093071200
+- Tract 1990: 39093071200
+- Place 2020: 25256
+- Place 2010: 25256
+- Place 2000: 25256
+- Place 1990: 1300
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 192
+- Low-income units: 190
+- Units reported: 192
+- Low-income reported: 190
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 156
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

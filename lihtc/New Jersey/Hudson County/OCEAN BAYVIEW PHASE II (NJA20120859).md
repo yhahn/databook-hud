@@ -1,0 +1,85 @@
+# Project: OCEAN BAYVIEW PHASE II (NJA20120859)
+
+- HUD ID: NJA20120859
+- HUD ID before: 
+- Project: OCEAN BAYVIEW PHASE II
+- Address: 509 OCEAN AVENUE
+- City: JERSEY CITY
+- State: NJ
+- ZIP: 07305
+- ZIP extension: 
+- State project ID: NJ-0264
+- Latitude: 40.703708
+- Longitude: -74.080618
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017005500
+- Tract 2010: 34017005500
+- Tract 2000: 34017005500
+- Tract 1990: 34017005500
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 2290
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 184920
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1993100, NJA0000205.
+- Record status: Existing, unchanged

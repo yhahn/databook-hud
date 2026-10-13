@@ -1,0 +1,85 @@
+# Project: COX CREEK APTS (GAA19950090)
+
+- HUD ID: GAA19950090
+- HUD ID before: 
+- Project: COX CREEK APTS
+- Address: 200 PENLAND ST
+- City: ELLIJAY
+- State: GA
+- ZIP: 30540
+- ZIP extension: 3386
+- State project ID: GA-93-009
+- Latitude: 34.705711
+- Longitude: -84.485189
+- County FIPS: 13123
+- County from: 2020
+- Tract 2020: 13123080302
+- Tract 2010: 13123080300
+- Tract 2000: 13123080300
+- Tract 1990: 13123980200
+- Place 2020: 27092
+- Place 2010: 27092
+- Place 2000: 25356
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 24
+- Units reported: 25
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HUNTERS GROVE.
+- Record status: Existing, unchanged

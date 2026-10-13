@@ -1,0 +1,85 @@
+# Project: CAC 515 PRESERVATION PORTFOLIO (WAA20161007)
+
+- HUD ID: WAA20161007
+- HUD ID before: 
+- Project: CAC 515 PRESERVATION PORTFOLIO
+- Address: 405 KILLION COURT NW
+- City: YELM
+- State: WA
+- ZIP: 98597
+- ZIP extension: 
+- State project ID: 14-108A-D
+- Latitude: 46.950414
+- Longitude: -122.616733
+- County FIPS: 53067
+- County from: 2020
+- Tract 2020: 53067012422
+- Tract 2010: 53067012411
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 80220
+- Place 2010: 80220
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 392078
+- Units: 109
+- Low-income units: 106
+- Units reported: 109
+- Low-income reported: 106
+- Efficiencies: 0
+- 1-bedroom units: 99
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

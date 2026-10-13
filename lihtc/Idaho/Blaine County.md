@@ -1,0 +1,27 @@
+# Tax Credit Projects: Blaine County, ID
+
+- Level: County
+- Postal code: ID
+- State FIPS: 16
+- County FIPS: 16013
+- Counties: 
+- Projects: 10
+- Units: 389
+- Low-income units: 384
+
+The low-income housing tax credit projects of Blaine County, Idaho, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [SUMMIT APTS II (IDA00000095)](./Blaine%20County/SUMMIT%20APTS%20II%20%28IDA00000095%29.md) | IDA00000095 | HAILEY |  | 20 | 20 |
+| [VALLEY VIEW APTS II (IDA00000105)](./Blaine%20County/VALLEY%20VIEW%20APTS%20II%20%28IDA00000105%29.md) | IDA00000105 | HAILEY |  | 24 | 24 |
+| [BALDY VIEW APTS I (IDA19880001)](./Blaine%20County/BALDY%20VIEW%20APTS%20I%20%28IDA19880001%29.md) | IDA19880001 | HAILEY | 1988 | 27 | 27 |
+| [BALDY VIEW APTS II (IDA19900001)](./Blaine%20County/BALDY%20VIEW%20APTS%20II%20%28IDA19900001%29.md) | IDA19900001 | HAILEY | 1990 | 22 | 22 |
+| [SUNNYSIDE (IDA19930070)](./Blaine%20County/SUNNYSIDE%20%28IDA19930070%29.md) | IDA19930070 | HAILEY | 1993 | 27 | 26 |
+| [SUNNYSIDE II (IDA19930075)](./Blaine%20County/SUNNYSIDE%20II%20%28IDA19930075%29.md) | IDA19930075 | HAILEY | 1993 | 22 | 22 |
+| [BALMORAL (IDA20010010)](./Blaine%20County/BALMORAL%20%28IDA20010010%29.md) | IDA20010010 | HAILEY | 2001 | 120 | 118 |
+| [BALMORAL II (IDA20030005)](./Blaine%20County/BALMORAL%20II%20%28IDA20030005%29.md) | IDA20030005 | HAILEY | 2003 | 72 | 71 |
+| [NORTHWOOD PLACE (IDA20100901)](./Blaine%20County/NORTHWOOD%20PLACE%20%28IDA20100901%29.md) | IDA20100901 | KETCHUM | 2010 | 31 | 31 |
+| [RIVER STREET (IDA20120904)](./Blaine%20County/RIVER%20STREET%20%28IDA20120904%29.md) | IDA20120904 | HAILEY | 2012 | 24 | 23 |

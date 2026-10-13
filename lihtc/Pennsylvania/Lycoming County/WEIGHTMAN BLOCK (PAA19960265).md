@@ -1,0 +1,85 @@
+# Project: WEIGHTMAN BLOCK (PAA19960265)
+
+- HUD ID: PAA19960265
+- HUD ID before: 
+- Project: WEIGHTMAN BLOCK
+- Address: 770 W FOURTH ST
+- City: WILLIAMSPORT
+- State: PA
+- ZIP: 17701
+- ZIP extension: 
+- State project ID: TC19940077
+- Latitude: 41.239942
+- Longitude: -77.016455
+- County FIPS: 42081
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42081000400
+- Tract 2000: 42081000400
+- Tract 1990: 42081000400
+- Place 2020: 
+- Place 2010: 85312
+- Place 2000: 85312
+- Place 1990: 8918
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 374494
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 47
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

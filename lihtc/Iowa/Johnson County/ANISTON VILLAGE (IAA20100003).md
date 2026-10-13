@@ -1,0 +1,85 @@
+# Project: ANISTON VILLAGE (IAA20100003)
+
+- HUD ID: IAA20100003
+- HUD ID before: 
+- Project: ANISTON VILLAGE
+- Address: 1062 CHAMBERLAIN DR
+- City: IOWA CITY
+- State: IA
+- ZIP: 52240
+- ZIP extension: 
+- State project ID: 08-0912
+- Latitude: 41.646545
+- Longitude: -91.484338
+- County FIPS: 19103
+- County from: 2020
+- Tract 2020: 19103001400
+- Tract 2010: 19103001400
+- Tract 2000: 19103001400
+- Tract 1990: 19103001400
+- Place 2020: 38595
+- Place 2010: 38595
+- Place 2000: 38595
+- Place 1990: 2040
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 357243
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2010503.
+- Record status: Existing, unchanged

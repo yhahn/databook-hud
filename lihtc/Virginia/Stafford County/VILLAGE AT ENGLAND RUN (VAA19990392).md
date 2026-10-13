@@ -1,0 +1,85 @@
+# Project: VILLAGE AT ENGLAND RUN (VAA19990392)
+
+- HUD ID: VAA19990392
+- HUD ID before: 
+- Project: VILLAGE AT ENGLAND RUN
+- Address: 210 NOBLE CT
+- City: FREDERICKSBURG
+- State: VA
+- ZIP: 22406
+- ZIP extension: 
+- State project ID: 1135
+- Latitude: 38.355489
+- Longitude: -77.493662
+- County FIPS: 51179
+- County from: 2020
+- Tract 2020: 51179010304
+- Tract 2010: 51179010304
+- Tract 2000: 51179010302
+- Tract 1990: 51179010300
+- Place 2020: 73760
+- Place 2010: 73760
+- Place 2000: 27264
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 592471
+- Units: 108
+- Low-income units: 108
+- Units reported: 108
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 54
+- 4-bedroom units: 18
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1998215. AKA STAFFORD POINTE TOWNHOME.
+- Record status: Existing, unchanged

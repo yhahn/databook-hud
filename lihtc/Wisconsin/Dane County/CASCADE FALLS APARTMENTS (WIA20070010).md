@@ -1,0 +1,85 @@
+# Project: CASCADE FALLS APARTMENTS (WIA20070010)
+
+- HUD ID: WIA20070010
+- HUD ID before: 
+- Project: CASCADE FALLS APARTMENTS
+- Address: 1215 JACKSON ST
+- City: STOUGHTON
+- State: WI
+- ZIP: 53589
+- ZIP extension: 
+- State project ID: 5180
+- Latitude: 42.920149
+- Longitude: -89.234874
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025012202
+- Tract 2010: 55025012202
+- Tract 2000: 55025012202
+- Tract 1990: 55025012200
+- Place 2020: 77675
+- Place 2010: 77675
+- Place 2000: 77675
+- Place 1990: 2465
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 105951
+- Units: 54
+- Low-income units: 2
+- Units reported: 54
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 54
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

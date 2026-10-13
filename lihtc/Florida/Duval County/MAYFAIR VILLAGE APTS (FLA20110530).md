@@ -1,0 +1,85 @@
+# Project: MAYFAIR VILLAGE APTS (FLA20110530)
+
+- HUD ID: FLA20110530
+- HUD ID before: 
+- Project: MAYFAIR VILLAGE APTS
+- Address: 3539 BEACH BLVD
+- City: JACKSONVILLE
+- State: FL
+- ZIP: 32207
+- ZIP extension: 
+- State project ID: 508
+- Latitude: 30.302734
+- Longitude: -81.62821
+- County FIPS: 12031
+- County from: 2020
+- Tract 2020: 12031000600
+- Tract 2010: 12031015700
+- Tract 2000: 12031015700
+- Tract 1990: 12031015700
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 1003
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 936458
+- Units: 83
+- Low-income units: 83
+- Units reported: 83
+- Low-income reported: 83
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 83
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 63
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 4000000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2485000
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011150, FLA2011042, FLA1996818, FLA1994135.
+- Record status: Existing, unchanged

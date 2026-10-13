@@ -1,0 +1,85 @@
+# Project: SEWALL AVENUE (NJA20120953)
+
+- HUD ID: NJA20120953
+- HUD ID before: 
+- Project: SEWALL AVENUE
+- Address: 1503 1/2 SEWALL AVE
+- City: ASBURY PARK
+- State: NJ
+- ZIP: 07712
+- ZIP extension: 
+- State project ID: NJ-278
+- Latitude: 40.222
+- Longitude: -74.022275
+- County FIPS: 34025
+- County from: 2020
+- Tract 2020: 34025807300
+- Tract 2010: 34025807300
+- Tract 2000: 34025807300
+- Tract 1990: 34025807300
+- Place 2020: 01960
+- Place 2010: 01960
+- Place 2000: 01960
+- Place 1990: 0070
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1993005, NJA1991516, NJA1991010, NJA1991007, NJA0000230.
+- Record status: Existing, unchanged

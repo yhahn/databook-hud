@@ -1,0 +1,85 @@
+# Project: H.O.P.E. ON NINTH (MNA20089008)
+
+- HUD ID: MNA20089008
+- HUD ID before: 
+- Project: H.O.P.E. ON NINTH
+- Address: 525 9TH AVE N
+- City: SAINT CLOUD
+- State: MN
+- ZIP: 56301
+- ZIP extension: 
+- State project ID: D4056
+- Latitude: 45.564242
+- Longitude: -94.167392
+- County FIPS: 27145
+- County from: 2020
+- Tract 2020: 27145000801
+- Tract 2010: 27145000801
+- Tract 2000: 27145000801
+- Tract 1990: 27145000801
+- Place 2020: 56896
+- Place 2010: 56896
+- Place 2000: 56896
+- Place 1990: 3380
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 247904
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 4
+- 1-bedroom units: 24
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SINGLES
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

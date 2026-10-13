@@ -1,0 +1,85 @@
+# Project: EDGEWOOD VILLAGE (MIA20212004)
+
+- HUD ID: MIA20212004
+- HUD ID before: 
+- Project: EDGEWOOD VILLAGE
+- Address: 6213 TOWAR GARDEN CIRCLE
+- City: MERIDIAN TWP
+- State: MI
+- ZIP: 48823
+- ZIP extension: 0000
+- State project ID: 83
+- Latitude: 42.761466
+- Longitude: -84.468046
+- County FIPS: 26065
+- County from: 2020
+- Tract 2020: 26065004500
+- Tract 2010: 26065004500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 37100
+- Place 2010: 37100
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 498079
+- Units: 135
+- Low-income units: 133
+- Units reported: 135
+- Low-income reported: 133
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 40
+- 3-bedroom units: 45
+- 4-bedroom units: 15
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

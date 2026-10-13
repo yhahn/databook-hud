@@ -1,0 +1,85 @@
+# Project: ROSELAND APARTMENTS (ARA20010731)
+
+- HUD ID: ARA20010731
+- HUD ID before: 
+- Project: ROSELAND APARTMENTS
+- Address: 816 N DAVIS
+- City: MANILA
+- State: AR
+- ZIP: 72442
+- ZIP extension: 
+- State project ID: AR-00-22-001
+- Latitude: 35.889431
+- Longitude: -90.15911
+- County FIPS: 05093
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05093010800
+- Tract 2000: 05093010800
+- Tract 1990: 05093010800
+- Place 2020: 
+- Place 2010: 43820
+- Place 2000: 39010
+- Place 1990: 1300
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 38266
+- Units: 21
+- Low-income units: 20
+- Units reported: 21
+- Low-income reported: 20
+- Efficiencies: 7
+- 1-bedroom units: 10
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2001132, ARA2001110.
+- Record status: Existing, unchanged

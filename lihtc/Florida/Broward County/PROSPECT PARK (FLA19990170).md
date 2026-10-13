@@ -1,0 +1,85 @@
+# Project: PROSPECT PARK (FLA19990170)
+
+- HUD ID: FLA19990170
+- HUD ID before: 
+- Project: PROSPECT PARK
+- Address: 5500 NW 31ST AVE
+- City: FT LAUDERDALE
+- State: FL
+- ZIP: 33309
+- ZIP extension: 
+- State project ID: 657
+- Latitude: 26.192461
+- Longitude: -80.187325
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011050208
+- Tract 2010: 12011050208
+- Tract 2000: 12011050202
+- Tract 1990: 12011050202
+- Place 2020: 70675
+- Place 2010: 99999
+- Place 2000: 24000
+- Place 1990: 1540
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 125
+- Low-income units: 125
+- Units reported: 125
+- Low-income reported: 125
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 66
+- 3-bedroom units: 59
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COUNTRY CLUB HEIGHTS (ILA20220005)
+
+- HUD ID: ILA20220005
+- HUD ID before: 
+- Project: COUNTRY CLUB HEIGHTS
+- Address: 740 COUNTRY CLUB HEIGHTS ROAD
+- City: QUINCY
+- State: IL
+- ZIP: 62301
+- ZIP extension: 
+- State project ID: 34803
+- Latitude: 39.922403
+- Longitude: -91.365511
+- County FIPS: 17001
+- County from: 2020
+- Tract 2020: 17001001100
+- Tract 2010: 17001001100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 62367
+- Place 2010: 62367
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 314627
+- Units: 175
+- Low-income units: 175
+- Units reported: 175
+- Low-income reported: 175
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 65
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: Yes
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

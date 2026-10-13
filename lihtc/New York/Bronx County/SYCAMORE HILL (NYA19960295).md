@@ -1,0 +1,85 @@
+# Project: SYCAMORE HILL (NYA19960295)
+
+- HUD ID: NYA19960295
+- HUD ID before: 
+- Project: SYCAMORE HILL
+- Address: 1740 GRAND AVE
+- City: BRONX
+- State: NY
+- ZIP: 10453
+- ZIP extension: 
+- State project ID: 19950406
+- Latitude: 40.849633
+- Longitude: -73.913467
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005021700
+- Tract 2010: 36005021700
+- Tract 2000: 36005021701
+- Tract 1990: 36005021701
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 93
+- Low-income units: 79
+- Units reported: 93
+- Low-income reported: 79
+- Efficiencies: 3
+- 1-bedroom units: 33
+- 2-bedroom units: 36
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

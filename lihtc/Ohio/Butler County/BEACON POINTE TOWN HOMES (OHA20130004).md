@@ -1,0 +1,85 @@
+# Project: BEACON POINTE TOWN HOMES (OHA20130004)
+
+- HUD ID: OHA20130004
+- HUD ID before: 
+- Project: BEACON POINTE TOWN HOMES
+- Address: 85 BECKETT DR
+- City: HAMILTON
+- State: OH
+- ZIP: 45011
+- ZIP extension: 
+- State project ID: 110010
+- Latitude: 39.3849
+- Longitude: -84.4588
+- County FIPS: 39017
+- County from: 2020
+- Tract 2020: 39017000300
+- Tract 2010: 39017011116
+- Tract 2000: 39017011001
+- Tract 1990: 39017011001
+- Place 2020: 33012
+- Place 2010: 99999
+- Place 2000: 25970
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 16
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BEACON POINTE I.
+- Record status: Existing, unchanged

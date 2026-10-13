@@ -1,0 +1,85 @@
+# Project: ST CLAIR LANDINGS (MIA19990265)
+
+- HUD ID: MIA19990265
+- HUD ID before: 
+- Project: ST CLAIR LANDINGS
+- Address: 3345 MILITARY ST
+- City: PORT HURON
+- State: MI
+- ZIP: 48060
+- ZIP extension: 
+- State project ID: MI-2210
+- Latitude: 42.945125
+- Longitude: -82.444123
+- County FIPS: 26147
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26147620000
+- Tract 2000: 26147620000
+- Tract 1990: 26147620000
+- Place 2020: 
+- Place 2010: 65820
+- Place 2000: 65820
+- Place 1990: 2220
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 89
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

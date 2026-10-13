@@ -1,0 +1,85 @@
+# Project: FAIRHAVEN MANOR II (MDA20000021)
+
+- HUD ID: MDA20000021
+- HUD ID before: 
+- Project: FAIRHAVEN MANOR II
+- Address: 101 PORTER CT
+- City: FEDERALSBURG
+- State: MD
+- ZIP: 21632
+- ZIP extension: 
+- State project ID: MD99-19
+- Latitude: 38.69908
+- Longitude: -75.78222
+- County FIPS: 24011
+- County from: 2020
+- Tract 2020: 24011955600
+- Tract 2010: 24011955600
+- Tract 2000: 24011955600
+- Tract 1990: 24011955600
+- Place 2020: 27900
+- Place 2010: 27900
+- Place 2000: 27900
+- Place 1990: 0343
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

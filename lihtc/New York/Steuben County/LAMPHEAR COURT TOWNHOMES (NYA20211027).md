@@ -1,0 +1,85 @@
+# Project: LAMPHEAR COURT TOWNHOMES (NYA20211027)
+
+- HUD ID: NYA20211027
+- HUD ID before: 
+- Project: LAMPHEAR COURT TOWNHOMES
+- Address: 1 LAMPHEAR COURT
+- City: CORNING
+- State: NY
+- ZIP: 14830
+- ZIP extension: 
+- State project ID: 20176046
+- Latitude: 42.159984
+- Longitude: -77.072239
+- County FIPS: 36101
+- County from: 2020
+- Tract 2020: 36101962400
+- Tract 2010: 36101962400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 18256
+- Place 2010: 18256
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1457579
+- Units: 82
+- Low-income units: 72
+- Units reported: 82
+- Low-income reported: 72
+- Efficiencies: 
+- 1-bedroom units: 46
+- 2-bedroom units: 22
+- 3-bedroom units: 10
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 36
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: Yes
+- Other population named: SMI/OTHER
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

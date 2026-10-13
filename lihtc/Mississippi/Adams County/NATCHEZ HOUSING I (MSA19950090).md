@@ -1,0 +1,85 @@
+# Project: NATCHEZ HOUSING I (MSA19950090)
+
+- HUD ID: MSA19950090
+- HUD ID before: 
+- Project: NATCHEZ HOUSING I
+- Address: 625 N WALL ST
+- City: NATCHEZ
+- State: MS
+- ZIP: 39120
+- ZIP extension: 
+- State project ID: 
+- Latitude: 31.565234
+- Longitude: -91.399951
+- County FIPS: 28001
+- County from: 2020
+- Tract 2020: 28001000700
+- Tract 2010: 28001000700
+- Tract 2000: 28001000700
+- Tract 1990: 28001000700
+- Place 2020: 50440
+- Place 2010: 50440
+- Place 2000: 50440
+- Place 1990: 0870
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

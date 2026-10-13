@@ -1,0 +1,85 @@
+# Project: GARDEN WALK OF BOONEVILLE (ARA20120941)
+
+- HUD ID: ARA20120941
+- HUD ID before: 
+- Project: GARDEN WALK OF BOONEVILLE
+- Address: 668 S SHARPE ST
+- City: BOONEVILLE
+- State: AR
+- ZIP: 72927
+- ZIP extension: 
+- State project ID: AR-89-19
+- Latitude: 35.131535
+- Longitude: -93.922463
+- County FIPS: 05083
+- County from: 2020
+- Tract 2020: 05083950500
+- Tract 2010: 05083950500
+- Tract 2000: 05083950500
+- Tract 1990: 05083950500
+- Place 2020: 07720
+- Place 2010: 07720
+- Place 2000: 07720
+- Place 1990: 0245
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 355386
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 25
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1990580, ARA1990040. AKA LANI-K.
+- Record status: Existing, unchanged

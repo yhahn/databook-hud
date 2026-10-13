@@ -1,0 +1,85 @@
+# Project: REFUGIO ELDERLY HOUSING (TXA19940250)
+
+- HUD ID: TXA19940250
+- HUD ID before: 
+- Project: REFUGIO ELDERLY HOUSING
+- Address: 602 W COMMONS ST
+- City: REFUGIO
+- State: TX
+- ZIP: 78377
+- ZIP extension: 
+- State project ID: TX1071
+- Latitude: 28.306379
+- Longitude: -97.281565
+- County FIPS: 48391
+- County from: 2020
+- Tract 2020: 48391950200
+- Tract 2010: 48391950200
+- Tract 2000: 48391950200
+- Tract 1990: 48391950200
+- Place 2020: 61436
+- Place 2010: 61436
+- Place 2000: 61436
+- Place 1990: 3500
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

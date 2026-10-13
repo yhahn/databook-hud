@@ -1,0 +1,85 @@
+# Project: 7585 SAN DIEGO ST (TXA19880320)
+
+- HUD ID: TXA19880320
+- HUD ID before: 
+- Project: 7585 SAN DIEGO ST
+- Address: 7585 SAN DIEGO ST
+- City: BEAUMONT
+- State: TX
+- ZIP: 77708
+- ZIP extension: 
+- State project ID: TX6502
+- Latitude: 30.148198
+- Longitude: -94.186774
+- County FIPS: 48245
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48245000101
+- Tract 2000: 48245000101
+- Tract 1990: 48245000101
+- Place 2020: 
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0320
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MYSTIC POINTE PHASE II (FLA20010120)
+
+- HUD ID: FLA20010120
+- HUD ID before: 
+- Project: MYSTIC POINTE PHASE II
+- Address: 10700 HOBBIT CIR
+- City: ORLANDO
+- State: FL
+- ZIP: 32836
+- ZIP extension: 
+- State project ID: 530
+- Latitude: 28.401088
+- Longitude: -81.534517
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095017110
+- Tract 2010: 12095017103
+- Tract 2000: 12095017103
+- Tract 1990: 12095017103
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 04150
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 265
+- Low-income units: 265
+- Units reported: 265
+- Low-income reported: 265
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 109
+- 3-bedroom units: 108
+- 4-bedroom units: 48
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MYSTIC POINTE II.
+- Record status: Existing, unchanged

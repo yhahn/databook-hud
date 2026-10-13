@@ -1,0 +1,85 @@
+# Project: LANIER AT MCEVER (GAA20020215)
+
+- HUD ID: GAA20020215
+- HUD ID before: 
+- Project: LANIER AT MCEVER
+- Address: 1050 EAGLE EYE VIEW RD
+- City: GAINESVILLE
+- State: GA
+- ZIP: 30504
+- ZIP extension: 4162
+- State project ID: 582602674
+- Latitude: 34.2694
+- Longitude: -83.91
+- County FIPS: 13139
+- County from: 2020
+- Tract 2020: 13139001008
+- Tract 2010: 13139001002
+- Tract 2000: 13139001001
+- Tract 1990: 13139001000
+- Place 2020: 31908
+- Place 2010: 31908
+- Place 2000: 31908
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 444799
+- Units: 224
+- Low-income units: 224
+- Units reported: 224
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

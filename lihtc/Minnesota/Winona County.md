@@ -1,0 +1,24 @@
+# Tax Credit Projects: Winona County, MN
+
+- Level: County
+- Postal code: MN
+- State FIPS: 27
+- County FIPS: 27169
+- Counties: 
+- Projects: 7
+- Units: 326
+- Low-income units: 305
+
+The low-income housing tax credit projects of Winona County, Minnesota, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [HALTER RIDGE (MNA19880080)](./Winona%20County/HALTER%20RIDGE%20%28MNA19880080%29.md) | MNA19880080 | ROLLINGSTONE | 1988 | 12 | 12 |
+| [WHITEWATER WAY (MNA19890150)](./Winona%20County/WHITEWATER%20WAY%20%28MNA19890150%29.md) | MNA19890150 | ST CHARLES | 1989 | 24 | 23 |
+| [ALTURA APARTMENTS (MNA19939002)](./Winona%20County/ALTURA%20APARTMENTS%20%28MNA19939002%29.md) | MNA19939002 | ALTURA | 1993 | 10 | 10 |
+| [PLEASANT VALLEY APARTMENTS (MNA19950120)](./Winona%20County/PLEASANT%20VALLEY%20APARTMENTS%20%28MNA19950120%29.md) | MNA19950120 | WINONA | 1995 | 46 | 46 |
+| [WASHINGTON CROSSING (MNA20040225)](./Winona%20County/WASHINGTON%20CROSSING%20%28MNA20040225%29.md) | MNA20040225 | WINONA | 2004 | 62 | 42 |
+| [WINHAVEN APARTMENTS (MNA20162039)](./Winona%20County/WINHAVEN%20APARTMENTS%20%28MNA20162039%29.md) | MNA20162039 | WINONA | 2016 | 118 | 118 |
+| [MORNINGSIDE TERRACE / BLUFF VIEW FLATS (MNA20163006)](./Winona%20County/MORNINGSIDE%20TERRACE%20-%20BLUFF%20VIEW%20FLATS%20%28MNA20163006%29.md) | MNA20163006 | WINONA | 2016 | 54 | 54 |

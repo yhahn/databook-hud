@@ -1,0 +1,85 @@
+# Project: BAPTIST TOWERS (GAA20100015)
+
+- HUD ID: GAA20100015
+- HUD ID before: 
+- Project: BAPTIST TOWERS
+- Address: 1881 MYRTLE DR SW
+- City: ATLANTA
+- State: GA
+- ZIP: 30311
+- ZIP extension: 4961
+- State project ID: GA-08-008
+- Latitude: 33.703716
+- Longitude: -84.455193
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121007603
+- Tract 2010: 13121007603
+- Tract 2000: 13121007601
+- Tract 1990: 13121007601
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 300
+- Low-income units: 300
+- Units reported: 300
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA DELOWE MYRTLE.
+- Record status: Existing, unchanged

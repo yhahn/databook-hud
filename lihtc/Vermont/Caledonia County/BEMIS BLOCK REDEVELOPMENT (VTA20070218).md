@@ -1,0 +1,85 @@
+# Project: BEMIS BLOCK REDEVELOPMENT (VTA20070218)
+
+- HUD ID: VTA20070218
+- HUD ID before: 
+- Project: BEMIS BLOCK REDEVELOPMENT
+- Address: 41 S MAIN ST
+- City: HARDWICK
+- State: VT
+- ZIP: 05843
+- ZIP extension: 
+- State project ID: 0349
+- Latitude: 44.504322
+- Longitude: -72.367093
+- County FIPS: 50005
+- County from: 2020
+- Tract 2020: 50005957700
+- Tract 2010: 50005957700
+- Tract 2000: 50005957700
+- Tract 1990: 50005957700
+- Place 2020: 31750
+- Place 2010: 31750
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 98000
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 226000
+- CDBG: Yes
+- CDBG amount: 215000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VTA2006066.
+- Record status: Existing, unchanged

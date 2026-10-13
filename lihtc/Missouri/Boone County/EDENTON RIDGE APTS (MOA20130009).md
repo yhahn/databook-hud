@@ -1,0 +1,85 @@
+# Project: EDENTON RIDGE APTS (MOA20130009)
+
+- HUD ID: MOA20130009
+- HUD ID before: 
+- Project: EDENTON RIDGE APTS
+- Address: 5305 EDENTON BLVD
+- City: COLUMBIA
+- State: MO
+- ZIP: 65202
+- ZIP extension: 
+- State project ID: 12-090
+- Latitude: 39.005853
+- Longitude: -92.319092
+- County FIPS: 29019
+- County from: 2020
+- Tract 2020: 29019001503
+- Tract 2010: 29019001503
+- Tract 2000: 29019001501
+- Tract 1990: 29019001501
+- Place 2020: 15670
+- Place 2010: 15670
+- Place 2000: 15670
+- Place 1990: 0930
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 349446
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

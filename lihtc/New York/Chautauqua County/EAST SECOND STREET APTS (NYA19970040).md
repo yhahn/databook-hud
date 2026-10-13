@@ -1,0 +1,85 @@
+# Project: EAST SECOND STREET APTS (NYA19970040)
+
+- HUD ID: NYA19970040
+- HUD ID before: 
+- Project: EAST SECOND STREET APTS
+- Address: 564 E SECOND ST
+- City: JAMESTOWN
+- State: NY
+- ZIP: 14701
+- ZIP extension: 
+- State project ID: NY-96-0401_00719
+- Latitude: 42.0983
+- Longitude: -79.233031
+- County FIPS: 36013
+- County from: 2020
+- Tract 2020: 36013030500
+- Tract 2010: 36013030500
+- Tract 2000: 36013030500
+- Tract 1990: 36013030500
+- Place 2020: 38264
+- Place 2010: 38264
+- Place 2000: 38264
+- Place 1990: 1755
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 8
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

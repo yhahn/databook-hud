@@ -1,0 +1,85 @@
+# Project: GRAND FORK COMMONS (MIA20120035)
+
+- HUD ID: MIA20120035
+- HUD ID before: 
+- Project: GRAND FORK COMMONS
+- Address: 2755 W KNOX RD
+- City: BEAVERTON
+- State: MI
+- ZIP: 48612
+- ZIP extension: 
+- State project ID: MI-1869
+- Latitude: 43.886737
+- Longitude: -84.476618
+- County FIPS: 26051
+- County from: 2020
+- Tract 2020: 26051000800
+- Tract 2010: 26051000800
+- Tract 2000: 26051990700
+- Tract 1990: 26051990700
+- Place 2020: 06660
+- Place 2010: 06660
+- Place 2000: 06660
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 147951
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1992145.
+- Record status: Existing, unchanged

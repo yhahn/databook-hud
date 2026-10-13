@@ -1,0 +1,85 @@
+# Project: BEDFORD TOWERS APTS (PAA20110010)
+
+- HUD ID: PAA20110010
+- HUD ID before: 
+- Project: BEDFORD TOWERS APTS
+- Address: 400 BEDFORD ST
+- City: CLARKS SUMMIT
+- State: PA
+- ZIP: 18411
+- ZIP extension: 
+- State project ID: TC20080110
+- Latitude: 41.491491
+- Longitude: -75.704535
+- County FIPS: 42069
+- County from: 2020
+- Tract 2020: 42069110500
+- Tract 2010: 42069110500
+- Tract 2000: 42069110500
+- Tract 1990: 42069110500
+- Place 2020: 13880
+- Place 2010: 13880
+- Place 2000: 13880
+- Place 1990: 1960
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 381615
+- Units: 115
+- Low-income units: 114
+- Units reported: 115
+- Low-income reported: 114
+- Efficiencies: 0
+- 1-bedroom units: 110
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 114
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2011504.
+- Record status: Existing, unchanged

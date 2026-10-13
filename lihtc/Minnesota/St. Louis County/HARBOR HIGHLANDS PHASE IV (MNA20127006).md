@@ -1,0 +1,85 @@
+# Project: HARBOR HIGHLANDS PHASE IV (MNA20127006)
+
+- HUD ID: MNA20127006
+- HUD ID before: 
+- Project: HARBOR HIGHLANDS PHASE IV
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: DULUTH
+- State: MN
+- ZIP: 55805
+- ZIP extension: 
+- State project ID: D5887
+- Latitude: 46.7936
+- Longitude: -92.0992
+- County FIPS: 27137
+- County from: 2020
+- Tract 2020: 27137001600
+- Tract 2010: 27137001600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 17000
+- Place 2010: 17000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 30
+- Units reported: 38
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 8354110
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

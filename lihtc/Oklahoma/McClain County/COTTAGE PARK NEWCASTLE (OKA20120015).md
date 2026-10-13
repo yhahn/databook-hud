@@ -1,0 +1,85 @@
+# Project: COTTAGE PARK NEWCASTLE (OKA20120015)
+
+- HUD ID: OKA20120015
+- HUD ID before: 
+- Project: COTTAGE PARK NEWCASTLE
+- Address: 567 N WALKER DR
+- City: NEWCASTLE
+- State: OK
+- ZIP: 73065
+- ZIP extension: 
+- State project ID: 100508
+- Latitude: 35.252139
+- Longitude: -97.591454
+- County FIPS: 40087
+- County from: 2020
+- Tract 2020: 40087400106
+- Tract 2010: 40087400101
+- Tract 2000: 40087400101
+- Tract 1990: 40087400100
+- Place 2020: 51150
+- Place 2010: 51150
+- Place 2000: 51150
+- Place 1990: 1728
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 599940
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

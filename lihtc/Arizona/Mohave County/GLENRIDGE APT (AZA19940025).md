@@ -1,0 +1,85 @@
+# Project: GLENRIDGE APT (AZA19940025)
+
+- HUD ID: AZA19940025
+- HUD ID before: 
+- Project: GLENRIDGE APT
+- Address: 3475 MCCORMICK BLVD
+- City: BULLHEAD CITY
+- State: AZ
+- ZIP: 86429
+- ZIP extension: 
+- State project ID: TC-0106
+- Latitude: 35.182612
+- Longitude: -114.521173
+- County FIPS: 04015
+- County from: 2020
+- Tract 2020: 04015951401
+- Tract 2010: 04015951401
+- Tract 2000: 04015951400
+- Tract 1990: 04015951400
+- Place 2020: 08220
+- Place 2010: 08220
+- Place 2000: 08220
+- Place 1990: 0031
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 51
+- Units reported: 52
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000508.
+- Record status: Existing, unchanged

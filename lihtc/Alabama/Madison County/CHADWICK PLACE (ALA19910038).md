@@ -1,0 +1,85 @@
+# Project: CHADWICK PLACE (ALA19910038)
+
+- HUD ID: ALA19910038
+- HUD ID before: 
+- Project: CHADWICK PLACE
+- Address: 240 MARTIN RD SW
+- City: HUNTSVILLE
+- State: AL
+- ZIP: 35824
+- ZIP extension: 
+- State project ID: AL-91-0044
+- Latitude: 34.663708
+- Longitude: -86.594736
+- County FIPS: 01089
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01089002801
+- Tract 2000: 01089002801
+- Tract 1990: 01089002801
+- Place 2020: 
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 0935
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 1078389
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 80
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 180
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1993015. FKA HUNTINGTON
+- Record status: Existing, unchanged

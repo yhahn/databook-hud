@@ -1,0 +1,85 @@
+# Project: HVM MID-TOWN APTS I (TXA20100050)
+
+- HUD ID: TXA20100050
+- HUD ID before: 
+- Project: HVM MID-TOWN APTS I
+- Address: 820 CARRELL ST
+- City: TOMBALL
+- State: TX
+- ZIP: 77375
+- ZIP extension: 
+- State project ID: 
+- Latitude: 30.106148
+- Longitude: -95.605737
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201555401
+- Tract 2010: 48201555401
+- Tract 2000: 48201555400
+- Tract 1990: 48201055300
+- Place 2020: 73316
+- Place 2010: 73316
+- Place 2000: 73316
+- Place 1990: 4290
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 54
+- Low-income units: 53
+- Units reported: 54
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2549514
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

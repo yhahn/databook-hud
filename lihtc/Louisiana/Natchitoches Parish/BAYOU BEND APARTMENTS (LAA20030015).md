@@ -1,0 +1,85 @@
+# Project: BAYOU BEND APARTMENTS (LAA20030015)
+
+- HUD ID: LAA20030015
+- HUD ID before: 
+- Project: BAYOU BEND APARTMENTS
+- Address: 100 MARIA LANE
+- City: NATCHITOCHES
+- State: LA
+- ZIP: 71457
+- ZIP extension: 0000
+- State project ID: LA-03-002
+- Latitude: 31.738787
+- Longitude: -93.087948
+- County FIPS: 22069
+- County from: 2020
+- Tract 2020: 22069000601
+- Tract 2010: 22069000600
+- Tract 2000: 22069990600
+- Tract 1990: 22069990600
+- Place 2020: 53545
+- Place 2010: 53545
+- Place 2000: 53545
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 15410
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Family/Special Needs
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

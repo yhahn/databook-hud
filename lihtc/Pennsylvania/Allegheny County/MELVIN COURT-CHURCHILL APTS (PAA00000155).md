@@ -1,0 +1,85 @@
+# Project: MELVIN COURT/CHURCHILL APTS (PAA00000155)
+
+- HUD ID: PAA00000155
+- HUD ID before: 
+- Project: MELVIN COURT/CHURCHILL APTS
+- Address: 
+- City: PITTSBURGH
+- State: PA
+- ZIP: 15221
+- ZIP extension: 
+- State project ID: TC19900139
+- Latitude: 40.4366
+- Longitude: -79.8777
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003564700
+- Tract 2010: 42003561000
+- Tract 2000: 42003523200
+- Tract 1990: 42003523200
+- Place 2020: 85188
+- Place 2010: 85188
+- Place 2000: 59040
+- Place 1990: 7138
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

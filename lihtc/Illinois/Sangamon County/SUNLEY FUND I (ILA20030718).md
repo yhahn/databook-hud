@@ -1,0 +1,85 @@
+# Project: SUNLEY FUND I (ILA20030718)
+
+- HUD ID: ILA20030718
+- HUD ID before: 
+- Project: SUNLEY FUND I
+- Address: 1915 N ELIZABETH ST
+- City: SPRINGFIELD
+- State: IL
+- ZIP: 62702
+- ZIP extension: 
+- State project ID: 303-90
+- Latitude: 39.825847
+- Longitude: -89.641199
+- County FIPS: 17167
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17167000400
+- Tract 2000: 17167000400
+- Tract 1990: 17167000400
+- Place 2020: 
+- Place 2010: 72000
+- Place 2000: 72000
+- Place 1990: 5480
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 307
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000915.
+- Record status: Existing, unchanged

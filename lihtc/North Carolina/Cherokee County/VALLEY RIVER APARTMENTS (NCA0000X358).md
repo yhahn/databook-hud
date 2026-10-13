@@ -1,0 +1,85 @@
+# Project: VALLEY RIVER APARTMENTS (NCA0000X358)
+
+- HUD ID: NCA0000X358
+- HUD ID before: 
+- Project: VALLEY RIVER APARTMENTS
+- Address: 2334 U S HIGHWAY 19
+- City: MURPHY
+- State: NC
+- ZIP: 28906
+- ZIP extension: 
+- State project ID: 9272466
+- Latitude: 35.109748
+- Longitude: -84.007246
+- County FIPS: 37039
+- County from: 2020
+- Tract 2020: 37039930401
+- Tract 2010: 37039930400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 45660
+- Place 2010: 45660
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 28
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 23
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

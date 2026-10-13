@@ -1,0 +1,85 @@
+# Project: DALLAS HIGH SCHOOL APTS (NCA20030050)
+
+- HUD ID: NCA20030050
+- HUD ID before: 
+- Project: DALLAS HIGH SCHOOL APTS
+- Address: 300 WEST CHURCH STREET
+- City: DALLAS
+- State: NC
+- ZIP: 28034
+- ZIP extension: 
+- State project ID: 9002120
+- Latitude: 35.314578
+- Longitude: -81.178694
+- County FIPS: 37071
+- County from: 2020
+- Tract 2020: 37071030901
+- Tract 2010: 37071030901
+- Tract 2000: 37071030900
+- Tract 1990: 37071030900
+- Place 2020: 16180
+- Place 2010: 16180
+- Place 2000: 16180
+- Place 1990: 0645
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 234037
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 460000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

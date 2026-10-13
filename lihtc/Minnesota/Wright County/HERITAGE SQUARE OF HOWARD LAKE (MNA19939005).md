@@ -1,0 +1,85 @@
+# Project: HERITAGE SQUARE OF HOWARD LAKE (MNA19939005)
+
+- HUD ID: MNA19939005
+- HUD ID before: 
+- Project: HERITAGE SQUARE OF HOWARD LAKE
+- Address: 1111 7TH ST
+- City: HOWARD LAKE
+- State: MN
+- ZIP: 55349
+- ZIP extension: 
+- State project ID: D0644
+- Latitude: 45.059914
+- Longitude: -94.076427
+- County FIPS: 27171
+- County from: 2020
+- Tract 2020: 27171101200
+- Tract 2010: 27171101200
+- Tract 2000: 27171101200
+- Tract 1990: 27171101200
+- Place 2020: 30284
+- Place 2010: 30284
+- Place 2000: 30284
+- Place 1990: 1845
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

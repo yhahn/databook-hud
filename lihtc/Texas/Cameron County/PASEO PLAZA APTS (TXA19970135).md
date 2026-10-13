@@ -1,0 +1,85 @@
+# Project: PASEO PLAZA APTS (TXA19970135)
+
+- HUD ID: TXA19970135
+- HUD ID before: 
+- Project: PASEO PLAZA APTS
+- Address: 2701 PAREDES LINE RD
+- City: BROWNSVILLE
+- State: TX
+- ZIP: 78526
+- ZIP extension: 
+- State project ID: TX1395
+- Latitude: 25.954947
+- Longitude: -97.486802
+- County FIPS: 48061
+- County from: 2020
+- Tract 2020: 48061014501
+- Tract 2010: 48061014500
+- Tract 2000: 48061012610
+- Tract 1990: 48061012603
+- Place 2020: 10768
+- Place 2010: 10768
+- Place 2000: 10768
+- Place 1990: 0696
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 184
+- Units reported: 184
+- Low-income reported: 184
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 72
+- 4-bedroom units: 72
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

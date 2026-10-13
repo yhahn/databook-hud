@@ -1,0 +1,85 @@
+# Project: SPRINGDALE CREEK APTS I (TNA20050800)
+
+- HUD ID: TNA20050800
+- HUD ID before: 
+- Project: SPRINGDALE CREEK APTS I
+- Address: 831 SPRINGDALE RUN DR
+- City: MEMPHIS
+- State: TN
+- ZIP: 38108
+- ZIP extension: 
+- State project ID: TN-03-200
+- Latitude: 35.159009
+- Longitude: -89.973902
+- County FIPS: 47157
+- County from: 2020
+- Tract 2020: 47157000900
+- Tract 2010: 47157000900
+- Tract 2000: 47157000900
+- Tract 1990: 47157000900
+- Place 2020: 48000
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 373722
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 28
+- 3-bedroom units: 38
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2006035, TNA2005160. AKA SPRINGDALE MEMPHIS.
+- Record status: Existing, unchanged

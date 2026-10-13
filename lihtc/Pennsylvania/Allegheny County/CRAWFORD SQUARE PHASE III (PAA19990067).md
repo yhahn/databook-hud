@@ -1,0 +1,85 @@
+# Project: CRAWFORD SQUARE PHASE III (PAA19990067)
+
+- HUD ID: PAA19990067
+- HUD ID before: 
+- Project: CRAWFORD SQUARE PHASE III
+- Address: 510 PROTECTORY PL
+- City: PITTSBURGH
+- State: PA
+- ZIP: 15219
+- ZIP extension: 
+- State project ID: TC19970044
+- Latitude: 40.441668
+- Longitude: -79.985407
+- County FIPS: 42003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42003030500
+- Tract 2000: 42003030500
+- Tract 1990: 42003030500
+- Place 2020: 
+- Place 2010: 61000
+- Place 2000: 61000
+- Place 1990: 7234
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 433626
+- Units: 74
+- Low-income units: 48
+- Units reported: 74
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 30
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 2700000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2000040.
+- Record status: Existing, unchanged

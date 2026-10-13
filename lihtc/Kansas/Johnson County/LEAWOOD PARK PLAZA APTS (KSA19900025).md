@@ -1,0 +1,85 @@
+# Project: LEAWOOD PARK PLAZA APTS (KSA19900025)
+
+- HUD ID: KSA19900025
+- HUD ID before: 
+- Project: LEAWOOD PARK PLAZA APTS
+- Address: 2140 W 137TH TER
+- City: OVERLAND PARK
+- State: KS
+- ZIP: 66224
+- ZIP extension: 
+- State project ID: KS89-0005
+- Latitude: 38.878876
+- Longitude: -94.60997
+- County FIPS: 20091
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20091053409
+- Tract 2000: 20091053409
+- Tract 1990: 20091053402
+- Place 2020: 
+- Place 2010: 39075
+- Place 2000: 39075
+- Place 1990: 2194
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 254
+- Low-income units: 254
+- Units reported: 254
+- Low-income reported: 254
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 200
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

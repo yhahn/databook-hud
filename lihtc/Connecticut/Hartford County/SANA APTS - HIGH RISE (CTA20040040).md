@@ -1,0 +1,85 @@
+# Project: SANA APTS - HIGH RISE (CTA20040040)
+
+- HUD ID: CTA20040040
+- HUD ID before: 
+- Project: SANA APTS - HIGH RISE
+- Address: 1620 MAIN ST
+- City: HARTFORD
+- State: CT
+- ZIP: 06120
+- ZIP extension: 
+- State project ID: 
+- Latitude: 41.77739
+- Longitude: -72.676097
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003500900
+- Tract 2010: 09003500900
+- Tract 2000: 09003500900
+- Tract 1990: 09003500900
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 0970
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 148
+- Low-income units: 148
+- Units reported: 148
+- Low-income reported: 148
+- Efficiencies: 0
+- 1-bedroom units: 126
+- 2-bedroom units: 4
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

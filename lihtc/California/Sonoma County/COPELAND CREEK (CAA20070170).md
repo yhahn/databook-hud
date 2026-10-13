@@ -1,0 +1,85 @@
+# Project: COPELAND CREEK (CAA20070170)
+
+- HUD ID: CAA20070170
+- HUD ID before: 
+- Project: COPELAND CREEK
+- Address: 101 ENTERPRISE DR
+- City: ROHNERT PARK
+- State: CA
+- ZIP: 94928
+- ZIP extension: 
+- State project ID: CA-06-844
+- Latitude: 38.344394
+- Longitude: -122.708916
+- County FIPS: 06097
+- County from: 2020
+- Tract 2020: 06097151305
+- Tract 2010: 06097151305
+- Tract 2000: 06097151305
+- Tract 1990: 06097151302
+- Place 2020: 62546
+- Place 2010: 62546
+- Place 2000: 62546
+- Place 1990: 2377
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 857936
+- Units: 171
+- Low-income units: 170
+- Units reported: 171
+- Low-income reported: 170
+- Efficiencies: 28
+- 1-bedroom units: 142
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

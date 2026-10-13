@@ -1,0 +1,85 @@
+# Project: CESAR CHAVEZ PLAZA (CAA20070140)
+
+- HUD ID: CAA20070140
+- HUD ID before: 
+- Project: CESAR CHAVEZ PLAZA
+- Address: 1220 OLIVE DR
+- City: DAVIS
+- State: CA
+- ZIP: 95616
+- ZIP extension: 
+- State project ID: CA-06-813
+- Latitude: 38.54319
+- Longitude: -121.734791
+- County FIPS: 06113
+- County from: 2020
+- Tract 2020: 06113010602
+- Tract 2010: 06113010602
+- Tract 2000: 06113010602
+- Tract 1990: 06113010602
+- Place 2020: 18100
+- Place 2010: 18100
+- Place 2000: 18100
+- Place 1990: 0715
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 442412
+- Units: 53
+- Low-income units: 52
+- Units reported: 53
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

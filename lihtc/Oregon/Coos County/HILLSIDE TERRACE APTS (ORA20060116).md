@@ -1,0 +1,85 @@
+# Project: HILLSIDE TERRACE APTS (ORA20060116)
+
+- HUD ID: ORA20060116
+- HUD ID before: 
+- Project: HILLSIDE TERRACE APTS
+- Address: 1201 SHELLEY RD
+- City: COQUILLE
+- State: OR
+- ZIP: 97423
+- ZIP extension: 
+- State project ID: 1963
+- Latitude: 43.175938
+- Longitude: -124.176174
+- County FIPS: 41011
+- County from: 2020
+- Tract 2020: 41011000901
+- Tract 2010: 41011000900
+- Tract 2000: 41011000900
+- Tract 1990: 41011000900
+- Place 2020: 15350
+- Place 2010: 15350
+- Place 2000: 15350
+- Place 1990: 0215
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 84900
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 19
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 33
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

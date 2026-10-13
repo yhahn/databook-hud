@@ -1,0 +1,85 @@
+# Project: CARRIAGE HILLS (NCA20120035)
+
+- HUD ID: NCA20120035
+- HUD ID before: 
+- Project: CARRIAGE HILLS
+- Address: 1050 LINKHAW ROAD
+- City: LUMBERTON
+- State: NC
+- ZIP: 28359
+- ZIP extension: 
+- State project ID: 9107179
+- Latitude: 34.643918
+- Longitude: -78.994757
+- County FIPS: 37155
+- County from: 2020
+- Tract 2020: 37155961302
+- Tract 2010: 37155961302
+- Tract 2000: 37155961300
+- Tract 1990: 37155961300
+- Place 2020: 39700
+- Place 2010: 39700
+- Place 2000: 
+- Place 1990: 1530
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 511631
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 48
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

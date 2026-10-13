@@ -1,0 +1,85 @@
+# Project: GREENWOOD TOWNHOMES (NJA20040110)
+
+- HUD ID: NJA20040110
+- HUD ID before: 
+- Project: GREENWOOD TOWNHOMES
+- Address: 1045 GROVE AVE
+- City: EDISON
+- State: NJ
+- ZIP: 08820
+- ZIP extension: 1591
+- State project ID: PM01402
+- Latitude: 40.593682
+- Longitude: -74.361422
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023001413
+- Tract 2010: 34023001413
+- Tract 2000: 34023001413
+- Tract 1990: 34023001413
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 20260
+- Place 1990: 1697
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 217
+- Low-income units: 187
+- Units reported: 217
+- Low-income reported: 187
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 98
+- 3-bedroom units: 88
+- 4-bedroom units: 11
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000360.
+- Record status: Updated

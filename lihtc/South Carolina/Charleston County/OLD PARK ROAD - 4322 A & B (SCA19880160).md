@@ -1,0 +1,85 @@
+# Project: OLD PARK ROAD - 4322 A & B (SCA19880160)
+
+- HUD ID: SCA19880160
+- HUD ID before: 
+- Project: OLD PARK ROAD - 4322 A & B
+- Address: 4322B OLD PARK RD
+- City: NORTH CHARLESTON
+- State: SC
+- ZIP: 29405
+- ZIP extension: 
+- State project ID: SC-88-056
+- Latitude: 32.874552
+- Longitude: -79.983102
+- County FIPS: 45019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45019003600
+- Tract 2000: 45019003600
+- Tract 1990: 45019003600
+- Place 2020: 
+- Place 2010: 50875
+- Place 2000: 50875
+- Place 1990: 0987
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 2511
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA 4322-B OLD PARK ROAD.
+- Record status: Existing, unchanged

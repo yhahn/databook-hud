@@ -1,0 +1,85 @@
+# Project: SHADY GROVE (MDA20212010)
+
+- HUD ID: MDA20212010
+- HUD ID before: 
+- Project: SHADY GROVE
+- Address: 16125 CRABBS BRANCH WAY
+- City: DERWOOD
+- State: MD
+- ZIP: 20855
+- ZIP extension: 
+- State project ID: MD-99-01001
+- Latitude: 39.117452
+- Longitude: -77.156749
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031701211
+- Tract 2010: 24031701211
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22775
+- Place 2010: 22775
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2077131
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 
+- 1-bedroom units: 45
+- 2-bedroom units: 83
+- 3-bedroom units: 16
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: Yes
+- Units below ceiling: 144
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

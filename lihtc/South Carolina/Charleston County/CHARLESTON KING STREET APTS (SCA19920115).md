@@ -1,0 +1,85 @@
+# Project: CHARLESTON KING STREET APTS (SCA19920115)
+
+- HUD ID: SCA19920115
+- HUD ID before: 
+- Project: CHARLESTON KING STREET APTS
+- Address: 676 KING ST
+- City: CHARLESTON
+- State: SC
+- ZIP: 29403
+- ZIP extension: 
+- State project ID: SC-92-046
+- Latitude: 32.797184
+- Longitude: -79.944727
+- County FIPS: 45019
+- County from: 2020
+- Tract 2020: 45019005300
+- Tract 2010: 45019005300
+- Tract 2000: 45019001300
+- Tract 1990: 45019001300
+- Place 2020: 13330
+- Place 2010: 13330
+- Place 2000: 13330
+- Place 1990: 0245
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 85746
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 50
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA1992110.
+- Record status: Existing, unchanged

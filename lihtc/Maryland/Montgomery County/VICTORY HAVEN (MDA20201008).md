@@ -1,0 +1,85 @@
+# Project: VICTORY HAVEN (MDA20201008)
+
+- HUD ID: MDA20201008
+- HUD ID before: 
+- Project: VICTORY HAVEN
+- Address: 9616 MAIN STREET
+- City: DAMASCUS
+- State: MD
+- ZIP: 20872
+- ZIP extension: 
+- State project ID: MD-17-25001
+- Latitude: 39.286586
+- Longitude: -77.198456
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031700208
+- Tract 2010: 24031700208
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 21475
+- Place 2010: 21475
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 306375
+- Units: 72
+- Low-income units: 68
+- Units reported: 72
+- Low-income reported: 68
+- Efficiencies: 
+- 1-bedroom units: 54
+- 2-bedroom units: 14
+- 3-bedroom units: 
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

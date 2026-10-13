@@ -1,0 +1,85 @@
+# Project: PARADISE PALMS MULTI HOUSING (AZA20010040)
+
+- HUD ID: AZA20010040
+- HUD ID before: 
+- Project: PARADISE PALMS MULTI HOUSING
+- Address: 250 W SOUTHERN AVE
+- City: PHOENIX
+- State: AZ
+- ZIP: 85041
+- ZIP extension: 
+- State project ID: BD-0002
+- Latitude: 33.39239
+- Longitude: -112.07603
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013115802
+- Tract 2010: 04013115802
+- Tract 2000: 04013115802
+- Tract 1990: 04013115800
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 0260
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 110
+- Low-income units: 102
+- Units reported: 110
+- Low-income reported: 102
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 22
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000592.
+- Record status: Existing, unchanged

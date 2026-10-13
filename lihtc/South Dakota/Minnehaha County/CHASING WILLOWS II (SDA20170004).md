@@ -1,0 +1,85 @@
+# Project: CHASING WILLOWS II (SDA20170004)
+
+- HUD ID: SDA20170004
+- HUD ID before: 
+- Project: CHASING WILLOWS II
+- Address: 4940 E 54TH STREET
+- City: SIOUX FALLS
+- State: SD
+- ZIP: 57107
+- ZIP extension: 
+- State project ID: SD-16-00700
+- Latitude: 43.502789
+- Longitude: -96.663177
+- County FIPS: 46099
+- County from: 2020
+- Tract 2020: 46099001806
+- Tract 2010: 46099001803
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59020
+- Place 2010: 59020
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 364132
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 20
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 523485
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FOUNTAIN COURT (ORA19880085)
+
+- HUD ID: ORA19880085
+- HUD ID before: 
+- Project: FOUNTAIN COURT
+- Address: 894 W ORCHARD AVE
+- City: HERMISTON
+- State: OR
+- ZIP: 97838
+- ZIP extension: 
+- State project ID: OR88-202
+- Latitude: 45.838908
+- Longitude: -119.305536
+- County FIPS: 41059
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41059951000
+- Tract 2000: 41059951000
+- Tract 1990: 41059951000
+- Place 2020: 
+- Place 2010: 33700
+- Place 2000: 33700
+- Place 1990: 0515
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COUNTRY PINES PHASE I (UTA19930015)
+
+- HUD ID: UTA19930015
+- HUD ID before: 
+- Project: COUNTRY PINES PHASE I
+- Address: 1748 WEST 1800 NORTH
+- City: CLINTON
+- State: UT
+- ZIP: 84015
+- ZIP extension: 0000
+- State project ID: 1992-03
+- Latitude: 41.140025
+- Longitude: -112.059419
+- County FIPS: 49011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49011125304
+- Tract 2000: 49011125304
+- Tract 1990: 49011125302
+- Place 2020: 
+- Place 2010: 14290
+- Place 2000: 14290
+- Place 1990: 0145
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 111726
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 47
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Handicapped/ADA
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

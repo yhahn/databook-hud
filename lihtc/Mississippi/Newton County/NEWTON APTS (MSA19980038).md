@@ -1,0 +1,85 @@
+# Project: NEWTON APTS (MSA19980038)
+
+- HUD ID: MSA19980038
+- HUD ID before: 
+- Project: NEWTON APTS
+- Address: 101 MAGNOLIA ST
+- City: NEWTON
+- State: MS
+- ZIP: 39345
+- ZIP extension: 
+- State project ID: MS-96-128
+- Latitude: 32.325244
+- Longitude: -89.178058
+- County FIPS: 28101
+- County from: 2020
+- Tract 2020: 28101050500
+- Tract 2010: 28101050500
+- Tract 2000: 28101050500
+- Tract 1990: 28101950400
+- Place 2020: 51720
+- Place 2010: 51720
+- Place 2000: 51720
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 31
+- Units reported: 32
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA1998611.
+- Record status: Existing, unchanged

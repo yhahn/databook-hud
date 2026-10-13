@@ -1,0 +1,85 @@
+# Project: MANOR AT JERSEYVILLE GLEN (ILA20110937)
+
+- HUD ID: ILA20110937
+- HUD ID before: 
+- Project: MANOR AT JERSEYVILLE GLEN
+- Address: 1241 S LIBERTY ST
+- City: JERSEYVILLE
+- State: IL
+- ZIP: 
+- ZIP extension: 
+- State project ID: 261607
+- Latitude: 39.108332
+- Longitude: -90.329091
+- County FIPS: 17083
+- County from: 2020
+- Tract 2020: 17083010401
+- Tract 2010: 17083010401
+- Tract 2000: 17083010400
+- Tract 1990: 17083010400
+- Place 2020: 38414
+- Place 2010: 38414
+- Place 2000: 26012
+- Place 1990: 2845
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 2245000
+- Units: 50
+- Low-income units: 30
+- Units reported: 50
+- Low-income reported: 30
+- Efficiencies: 30
+- 1-bedroom units: 20
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA JERSEYVILLE ESTATES SLF.
+- Record status: Existing, unchanged

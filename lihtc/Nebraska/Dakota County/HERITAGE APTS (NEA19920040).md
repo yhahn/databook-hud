@@ -1,0 +1,85 @@
+# Project: HERITAGE APTS (NEA19920040)
+
+- HUD ID: NEA19920040
+- HUD ID before: 
+- Project: HERITAGE APTS
+- Address: 1540 G ST
+- City: SOUTH SIOUX CITY
+- State: NE
+- ZIP: 68776
+- ZIP extension: 
+- State project ID: 7-0152
+- Latitude: 42.474405
+- Longitude: -96.403892
+- County FIPS: 31043
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31043010100
+- Tract 2000: 31043010100
+- Tract 1990: 31043010100
+- Place 2020: 
+- Place 2010: 46030
+- Place 2000: 46030
+- Place 1990: 2255
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 59173
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

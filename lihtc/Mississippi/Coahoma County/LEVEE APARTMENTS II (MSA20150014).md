@@ -1,0 +1,85 @@
+# Project: LEVEE APARTMENTS II (MSA20150014)
+
+- HUD ID: MSA20150014
+- HUD ID before: 
+- Project: LEVEE APARTMENTS II
+- Address: 1600 SHERIFF RIDGE AVENUE
+- City: FRIARS POINT
+- State: MS
+- ZIP: 38631
+- ZIP extension: 0000
+- State project ID: 13-1-014
+- Latitude: 34.360577
+- Longitude: -90.63842
+- County FIPS: 28027
+- County from: 2020
+- Tract 2020: 28027950100
+- Tract 2010: 28027950100
+- Tract 2000: 28027950100
+- Tract 1990: 
+- Place 2020: 26060
+- Place 2010: 26060
+- Place 2000: 26060
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 105962
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

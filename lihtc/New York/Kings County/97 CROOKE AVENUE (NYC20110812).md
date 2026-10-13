@@ -1,0 +1,85 @@
+# Project: 97 CROOKE AVENUE (NYC20110812)
+
+- HUD ID: NYC20110812
+- HUD ID before: 
+- Project: 97 CROOKE AVENUE
+- Address: 97 CROOKE AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11226
+- ZIP extension: 
+- State project ID: 1002015
+- Latitude: 40.653041
+- Longitude: -73.962384
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047050804
+- Tract 2010: 36047050804
+- Tract 2000: 36047050800
+- Tract 1990: 36047050800
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 724928
+- Units: 53
+- Low-income units: 53
+- Units reported: 52
+- Low-income reported: 53
+- Efficiencies: 52
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 6552000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2010025.
+- Record status: Existing, unchanged

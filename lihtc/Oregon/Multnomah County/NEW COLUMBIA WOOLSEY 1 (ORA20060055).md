@@ -1,0 +1,85 @@
+# Project: NEW COLUMBIA WOOLSEY 1 (ORA20060055)
+
+- HUD ID: ORA20060055
+- HUD ID before: 
+- Project: NEW COLUMBIA WOOLSEY 1
+- Address: 8937 N NEWMAN AVE
+- City: PORTLAND
+- State: OR
+- ZIP: 97203
+- ZIP extension: 
+- State project ID: 521
+- Latitude: 45.587655
+- Longitude: -122.715885
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051004003
+- Tract 2010: 41051004001
+- Tract 2000: 41051004001
+- Tract 1990: 41051004001
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0905
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 700000
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 10
+- 3-bedroom units: 11
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

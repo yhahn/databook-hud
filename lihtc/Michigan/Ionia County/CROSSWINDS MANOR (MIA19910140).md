@@ -1,0 +1,85 @@
+# Project: CROSSWINDS MANOR (MIA19910140)
+
+- HUD ID: MIA19910140
+- HUD ID before: 
+- Project: CROSSWINDS MANOR
+- Address: 901 N BRIDGE ST
+- City: BELDING
+- State: MI
+- ZIP: 48809
+- ZIP extension: 
+- State project ID: MI-1787
+- Latitude: 43.107392
+- Longitude: -85.228269
+- County FIPS: 26067
+- County from: 2020
+- Tract 2020: 26067030300
+- Tract 2010: 26067030300
+- Tract 2000: 26067030300
+- Tract 1990: 26067030300
+- Place 2020: 06900
+- Place 2010: 06900
+- Place 2000: 06900
+- Place 1990: 0190
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

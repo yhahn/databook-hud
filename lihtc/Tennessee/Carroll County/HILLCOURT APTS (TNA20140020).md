@@ -1,0 +1,85 @@
+# Project: HILLCOURT APTS (TNA20140020)
+
+- HUD ID: TNA20140020
+- HUD ID before: 
+- Project: HILLCOURT APTS
+- Address: 535 HILLCOURT CIR
+- City: HUNTINGDON
+- State: TN
+- ZIP: 38344
+- ZIP extension: 
+- State project ID: TN-13-010
+- Latitude: 36.001806
+- Longitude: -88.416587
+- County FIPS: 47017
+- County from: 2020
+- Tract 2020: 47017962102
+- Tract 2010: 47017962100
+- Tract 2000: 47017962100
+- Tract 1990: 47017962100
+- Place 2020: 36580
+- Place 2010: 36580
+- Place 2000: 36580
+- Place 1990: 0690
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PINNACLE PLACE (ILA19970095)
+
+- HUD ID: ILA19970095
+- HUD ID before: 
+- Project: PINNACLE PLACE
+- Address: 1125 N FIFTH ST
+- City: SAVANNA
+- State: IL
+- ZIP: 61074
+- ZIP extension: 
+- State project ID: 97796
+- Latitude: 42.100395
+- Longitude: -90.153825
+- County FIPS: 17015
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17015960300
+- Tract 2000: 17015960300
+- Tract 1990: 17015960300
+- Place 2020: 
+- Place 2010: 67821
+- Place 2000: 67821
+- Place 1990: 5190
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 77476
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 1
+- 1-bedroom units: 18
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HOMES AT QUAKER LANE (MDA20173002)
+
+- HUD ID: MDA20173002
+- HUD ID before: 
+- Project: HOMES AT QUAKER LANE
+- Address: 17330 QUAKER LANE
+- City: SANDY SPRINGS
+- State: MD
+- ZIP: 20860
+- ZIP extension: 
+- State project ID: MD-17-20001
+- Latitude: 39.137468
+- Longitude: -77.026812
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031701316
+- Tract 2010: 24031701316
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 02762
+- Place 2010: 02762
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 466026
+- Units: 80
+- Low-income units: 72
+- Units reported: 80
+- Low-income reported: 72
+- Efficiencies: 
+- 1-bedroom units: 65
+- 2-bedroom units: 15
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

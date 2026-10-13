@@ -1,0 +1,85 @@
+# Project: SPIRITWOOD MANOR (WAA20161034)
+
+- HUD ID: WAA20161034
+- HUD ID before: 
+- Project: SPIRITWOOD MANOR
+- Address: 1424 148TH AVE SE
+- City: BELLEVUE
+- State: WA
+- ZIP: 98007
+- ZIP extension: 
+- State project ID: 15-140A
+- Latitude: 47.5984
+- Longitude: -122.139035
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033023300
+- Tract 2010: 53033023300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 05210
+- Place 2010: 05210
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 1329877
+- Units: 128
+- Low-income units: 126
+- Units reported: 128
+- Low-income reported: 126
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 61
+- 3-bedroom units: 55
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

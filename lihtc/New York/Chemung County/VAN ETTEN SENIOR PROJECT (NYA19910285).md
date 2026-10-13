@@ -1,0 +1,85 @@
+# Project: VAN ETTEN SENIOR PROJECT (NYA19910285)
+
+- HUD ID: NYA19910285
+- HUD ID before: 
+- Project: VAN ETTEN SENIOR PROJECT
+- Address: 7 JOHN ST
+- City: VAN ETTEN
+- State: NY
+- ZIP: 
+- ZIP extension: 
+- State project ID: 19901503
+- Latitude: 42.197428
+- Longitude: -76.560738
+- County FIPS: 36015
+- County from: 2020
+- Tract 2020: 36015010100
+- Tract 2010: 36015010100
+- Tract 2000: 36015010100
+- Tract 1990: 36015010100
+- Place 2020: 76881
+- Place 2010: 76881
+- Place 2000: 76881
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VAN ETTEN REDEVELOPMENT.
+- Record status: Existing, unchanged

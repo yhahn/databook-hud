@@ -1,0 +1,85 @@
+# Project: SHEMWOOD CROSSING (SCA20010080)
+
+- HUD ID: SCA20010080
+- HUD ID before: 
+- Project: SHEMWOOD CROSSING
+- Address: 100 SHEMWOOD LN
+- City: GREENVILLE
+- State: SC
+- ZIP: 29605
+- ZIP extension: 
+- State project ID: SC-50-002
+- Latitude: 34.800868
+- Longitude: -82.388284
+- County FIPS: 45045
+- County from: 2020
+- Tract 2020: 45045001502
+- Tract 2010: 45045001502
+- Tract 2000: 45045001502
+- Tract 1990: 45045001502
+- Place 2020: 30850
+- Place 2010: 30850
+- Place 2000: 28375
+- Place 1990: 0565
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 301160
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 50
+- 3-bedroom units: 150
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA PIEDMONT MANOR
+- Record status: Updated

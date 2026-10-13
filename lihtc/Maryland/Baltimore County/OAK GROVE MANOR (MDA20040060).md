@@ -1,0 +1,85 @@
+# Project: OAK GROVE MANOR (MDA20040060)
+
+- HUD ID: MDA20040060
+- HUD ID before: 
+- Project: OAK GROVE MANOR
+- Address: 1900 GROVE MANOR DR
+- City: ESSEX
+- State: MD
+- ZIP: 21221
+- ZIP extension: 
+- State project ID: MD02-21001
+- Latitude: 39.320994
+- Longitude: -76.444346
+- County FIPS: 24005
+- County from: 2020
+- Tract 2020: 24005450800
+- Tract 2010: 24005450800
+- Tract 2000: 24005450800
+- Tract 1990: 24005450801
+- Place 2020: 26600
+- Place 2010: 26600
+- Place 2000: 26600
+- Place 1990: 0335
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 106
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HUMBOLDT WROKSHOP SE HOUSING I (IAA20080045)
+
+- HUD ID: IAA20080045
+- HUD ID before: 
+- Project: HUMBOLDT WROKSHOP SE HOUSING I
+- Address: 725 11TH AVE N
+- City: HUMBOLDT
+- State: IA
+- ZIP: 50548
+- ZIP extension: 
+- State project ID: 06-42
+- Latitude: 42.733406
+- Longitude: -94.218514
+- County FIPS: 19091
+- County from: 2020
+- Tract 2020: 19091970400
+- Tract 2010: 19091970400
+- Tract 2000: 19091970400
+- Tract 1990: 19091970400
+- Place 2020: 37560
+- Place 2010: 37560
+- Place 2000: 37560
+- Place 1990: 1990
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 225843
+- Units: 19
+- Low-income units: 19
+- Units reported: 19
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 2
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

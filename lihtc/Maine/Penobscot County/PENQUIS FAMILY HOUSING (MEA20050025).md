@@ -1,0 +1,85 @@
+# Project: PENQUIS FAMILY HOUSING (MEA20050025)
+
+- HUD ID: MEA20050025
+- HUD ID before: 
+- Project: PENQUIS FAMILY HOUSING
+- Address: 169 GRIFFIN RD
+- City: BANGOR
+- State: ME
+- ZIP: 04401
+- ZIP extension: 
+- State project ID: MSHA-RLP-1358
+- Latitude: 44.823617
+- Longitude: -68.810383
+- County FIPS: 23019
+- County from: 2020
+- Tract 2020: 23019000900
+- Tract 2010: 23019000900
+- Tract 2000: 23019000900
+- Tract 1990: 23019000900
+- Place 2020: 02795
+- Place 2010: 02795
+- Place 2000: 02795
+- Place 1990: 0270
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 7
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PENQUIS DEVELOPMENT.
+- Record status: Existing, unchanged

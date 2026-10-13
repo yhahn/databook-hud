@@ -1,0 +1,85 @@
+# Project: BIRGE WORDEN (VTA20070020)
+
+- HUD ID: VTA20070020
+- HUD ID before: 
+- Project: BIRGE WORDEN
+- Address: 34 BRIDGE ST
+- City: BRATTLEBORO
+- State: VT
+- ZIP: 05301
+- ZIP extension: 
+- State project ID: 0335
+- Latitude: 42.851522
+- Longitude: -72.556477
+- County FIPS: 50025
+- County from: 2020
+- Tract 2020: 50025968500
+- Tract 2010: 50025968500
+- Tract 2000: 50025968600
+- Tract 1990: 50025968600
+- Place 2020: 07975
+- Place 2010: 07975
+- Place 2000: 07975
+- Place 1990: 0338
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 240006
+- Units: 17
+- Low-income units: 15
+- Units reported: 17
+- Low-income reported: 15
+- Efficiencies: 7
+- 1-bedroom units: 5
+- 2-bedroom units: 3
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 240591
+- CDBG: Yes
+- CDBG amount: 50000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

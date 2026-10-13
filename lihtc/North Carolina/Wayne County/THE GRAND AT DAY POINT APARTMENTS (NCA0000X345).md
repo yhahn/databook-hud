@@ -1,0 +1,85 @@
+# Project: THE GRAND AT DAY POINT APARTMENTS (NCA0000X345)
+
+- HUD ID: NCA0000X345
+- HUD ID before: 
+- Project: THE GRAND AT DAY POINT APARTMENTS
+- Address: 2300 DAY CIRCLE
+- City: GOLDSBORO
+- State: NC
+- ZIP: 27530
+- ZIP extension: 
+- State project ID: 9267775
+- Latitude: 35.354215
+- Longitude: -77.987757
+- County FIPS: 37191
+- County from: 2020
+- Tract 2020: 37191001402
+- Tract 2010: 37191001400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26880
+- Place 2010: 26880
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1071506
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 56
+- 3-bedroom units: 68
+- 4-bedroom units: 22
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: COTTON MILL LOFTS (GAA20120030)
+
+- HUD ID: GAA20120030
+- HUD ID before: 
+- Project: COTTON MILL LOFTS
+- Address: 95 S HOUSTON ST
+- City: HAWKINSVILLE
+- State: GA
+- ZIP: 31036
+- ZIP extension: 4610
+- State project ID: GA-07-004
+- Latitude: 32.281393
+- Longitude: -83.464976
+- County FIPS: 13235
+- County from: 2020
+- Tract 2020: 13235950201
+- Tract 2010: 13235950200
+- Tract 2000: 13235950200
+- Tract 1990: 13235950200
+- Place 2020: 37396
+- Place 2010: 37396
+- Place 2000: 37396
+- Place 1990: 1330
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 0
+- Efficiencies: 3
+- 1-bedroom units: 11
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000110.
+- Record status: Existing, unchanged

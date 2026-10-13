@@ -1,0 +1,85 @@
+# Project: JUNIPER TERRACE APARTMENTS (CAA20156276)
+
+- HUD ID: CAA20156276
+- HUD ID before: 
+- Project: JUNIPER TERRACE APARTMENTS
+- Address: 800 JASPER PL
+- City: YREKA
+- State: CA
+- ZIP: 96097
+- ZIP extension: 
+- State project ID: CA-14-149
+- Latitude: 41.74011
+- Longitude: -122.619467
+- County FIPS: 06093
+- County from: 2020
+- Tract 2020: 06093000702
+- Tract 2010: 06093000702
+- Tract 2000: 06093000702
+- Tract 1990: 06093000700
+- Place 2020: 86944
+- Place 2010: 86944
+- Place 2000: 86944
+- Place 1990: 3180
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 55
+- Low-income units: 54
+- Units reported: 55
+- Low-income reported: 54
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

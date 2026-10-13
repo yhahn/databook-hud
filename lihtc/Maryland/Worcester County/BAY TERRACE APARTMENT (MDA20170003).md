@@ -1,0 +1,85 @@
+# Project: BAY TERRACE APARTMENT (MDA20170003)
+
+- HUD ID: MDA20170003
+- HUD ID before: 
+- Project: BAY TERRACE APARTMENT
+- Address: 517 BAY STREET
+- City: BERLIN
+- State: MD
+- ZIP: 21811
+- ZIP extension: 
+- State project ID: MD-15-02
+- Latitude: 38.323127
+- Longitude: -75.208233
+- County FIPS: 24047
+- County from: 2020
+- Tract 2020: 24047951000
+- Tract 2010: 24047951000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 06800
+- Place 2010: 06800
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 540316
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 20
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THE RESIDENCES AT DEPOT STREET (CAA20201062)
+
+- HUD ID: CAA20201062
+- HUD ID before: 
+- Project: THE RESIDENCES AT DEPOT STREET
+- Address: 201 + 205 NORTH DEPOT STREET
+- City: SANTA MARIA
+- State: CA
+- ZIP: 93458
+- ZIP extension: 
+- State project ID: CA-2018-745
+- Latitude: 34.9494
+- Longitude: -120.4447
+- County FIPS: 06083
+- County from: 2020
+- Tract 2020: 06083002407
+- Tract 2010: 06083002403
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69196
+- Place 2010: 69196
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1473833
+- Units: 80
+- Low-income units: 78
+- Units reported: 80
+- Low-income reported: 78
+- Efficiencies: 6
+- 1-bedroom units: 32
+- 2-bedroom units: 36
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

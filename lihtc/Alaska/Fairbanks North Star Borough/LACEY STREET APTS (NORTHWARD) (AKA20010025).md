@@ -1,0 +1,85 @@
+# Project: LACEY STREET APTS (NORTHWARD) (AKA20010025)
+
+- HUD ID: AKA20010025
+- HUD ID before: 
+- Project: LACEY STREET APTS (NORTHWARD)
+- Address: 455 THIRD AVENUE
+- City: FAIRBANKS
+- State: AK
+- ZIP: 99701
+- ZIP extension: 
+- State project ID: AK-99-00009
+- Latitude: 64.842999
+- Longitude: -147.715992
+- County FIPS: 02090
+- County from: 2020
+- Tract 2020: 02090000100
+- Tract 2010: 02090000100
+- Tract 2000: 02090000100
+- Tract 1990: 02090000100
+- Place 2020: 24230
+- Place 2010: 24230
+- Place 2000: 24230
+- Place 1990: 1080
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 174
+- Units reported: 184
+- Low-income reported: 174
+- Efficiencies: 101
+- 1-bedroom units: 73
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

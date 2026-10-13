@@ -1,0 +1,85 @@
+# Project: IRONWOOD ESTATES (PEORIA) (AZA20030035)
+
+- HUD ID: AZA20030035
+- HUD ID before: 
+- Project: IRONWOOD ESTATES (PEORIA)
+- Address: 8930 W MONROE ST
+- City: PEORIA
+- State: AZ
+- ZIP: 85345
+- ZIP extension: 
+- State project ID: TC-0225
+- Latitude: 33.577385
+- Longitude: -112.252025
+- County FIPS: 04013
+- County from: 2020
+- Tract 2020: 04013071906
+- Tract 2010: 04013071906
+- Tract 2000: 04013071906
+- Tract 1990: 04013071906
+- Place 2020: 54050
+- Place 2010: 54050
+- Place 2000: 54050
+- Place 1990: 0255
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

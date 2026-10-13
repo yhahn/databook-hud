@@ -1,0 +1,85 @@
+# Project: ST CHARLES PLACE APTS (TXA20100095)
+
+- HUD ID: TXA20100095
+- HUD ID before: 
+- Project: ST CHARLES PLACE APTS
+- Address: 1408 LONGHORN TRAIL
+- City: CROWLEY
+- State: TX
+- ZIP: 76036
+- ZIP extension: 
+- State project ID: 
+- Latitude: 32.574893
+- Longitude: -97.380526
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439111018
+- Tract 2010: 48439111018
+- Tract 2000: 48439111009
+- Tract 1990: 48439111009
+- Place 2020: 17960
+- Place 2010: 17960
+- Place 2000: 17960
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 9
+- Units reported: 52
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 426145
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2096644
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

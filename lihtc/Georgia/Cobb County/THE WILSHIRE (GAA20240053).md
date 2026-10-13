@@ -1,0 +1,85 @@
+# Project: THE WILSHIRE (GAA20240053)
+
+- HUD ID: GAA20240053
+- HUD ID before: 
+- Project: THE WILSHIRE
+- Address: 685 SMYRNA HILL DRIVE
+- City: SMYRNA
+- State: GA
+- ZIP: 30082
+- ZIP extension: 2838
+- State project ID: 2020-036
+- Latitude: 33.871185
+- Longitude: -84.532289
+- County FIPS: 13067
+- County from: 2020
+- Tract 2020: 13067031118
+- Tract 2010: 13067031118
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71492
+- Place 2010: 71492
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 849672
+- Units: 62
+- Low-income units: 55
+- Units reported: 62
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

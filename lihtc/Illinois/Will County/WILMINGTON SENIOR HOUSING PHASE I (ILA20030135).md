@@ -1,0 +1,85 @@
+# Project: WILMINGTON SENIOR HOUSING PHASE I (ILA20030135)
+
+- HUD ID: ILA20030135
+- HUD ID before: 
+- Project: WILMINGTON SENIOR HOUSING PHASE I
+- Address: 555 STOUGH CIR
+- City: WILMINGTON
+- State: IL
+- ZIP: 60481
+- ZIP extension: 
+- State project ID: 135301
+- Latitude: 41.291726
+- Longitude: -88.15033
+- County FIPS: 17197
+- County from: 2020
+- Tract 2020: 17197883401
+- Tract 2010: 17197883401
+- Tract 2000: 17197883400
+- Tract 1990: 17197883400
+- Place 2020: 82101
+- Place 2010: 82101
+- Place 2000: 07770
+- Place 1990: 6260
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 410784
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

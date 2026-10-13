@@ -1,0 +1,85 @@
+# Project: CAMBRIDGE SQUARE (VAA20220004)
+
+- HUD ID: VAA20220004
+- HUD ID before: 
+- Project: CAMBRIDGE SQUARE
+- Address: 1805 WHIPPLE DRIVE, NW
+- City: BLACKSBURG
+- State: VA
+- ZIP: 24060
+- ZIP extension: 
+- State project ID: 4087
+- Latitude: 37.254509
+- Longitude: -80.413517
+- County FIPS: 51121
+- County from: 2020
+- Tract 2020: 51121020402
+- Tract 2010: 51121020400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 07784
+- Place 2010: 07784
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 273628
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

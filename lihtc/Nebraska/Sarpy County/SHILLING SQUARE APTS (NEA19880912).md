@@ -1,0 +1,85 @@
+# Project: SHILLING SQUARE APTS (NEA19880912)
+
+- HUD ID: NEA19880912
+- HUD ID before: 
+- Project: SHILLING SQUARE APTS
+- Address: 2824 SCHILLING PLZ
+- City: BELLEVUE
+- State: NE
+- ZIP: 68123
+- ZIP extension: 
+- State project ID: 7-0013
+- Latitude: 41.118448
+- Longitude: -95.953122
+- County FIPS: 31153
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31153010206
+- Tract 2000: 31153010206
+- Tract 1990: 31153010303
+- Place 2020: 
+- Place 2010: 03950
+- Place 2000: 03950
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 99908
+- Units: 42
+- Low-income units: 34
+- Units reported: 42
+- Low-income reported: 34
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA0000435.
+- Record status: Existing, unchanged

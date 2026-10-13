@@ -1,0 +1,85 @@
+# Project: LONE PALM COURT (CAA19990320)
+
+- HUD ID: CAA19990320
+- HUD ID before: 
+- Project: LONE PALM COURT
+- Address: 840 C ST
+- City: SAN RAFAEL
+- State: CA
+- ZIP: 94901
+- ZIP extension: 
+- State project ID: CA-97-961
+- Latitude: 37.972162
+- Longitude: -122.530709
+- County FIPS: 06041
+- County from: 2020
+- Tract 2020: 06041111001
+- Tract 2010: 06041111000
+- Tract 2000: 06041111000
+- Tract 1990: 06041111000
+- Place 2020: 68364
+- Place 2010: 68364
+- Place 2000: 68364
+- Place 1990: 2565
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 24
+- Units reported: 60
+- Low-income reported: 24
+- Efficiencies: 4
+- 1-bedroom units: 9
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: KELLY HEIGHTS (OKA20000040)
+
+- HUD ID: OKA20000040
+- HUD ID before: 
+- Project: KELLY HEIGHTS
+- Address: 701 S LYNN ST
+- City: BRISTOW
+- State: OK
+- ZIP: 74010
+- ZIP extension: 
+- State project ID: OK-98-02-16
+- Latitude: 35.824513
+- Longitude: -96.379874
+- County FIPS: 40037
+- County from: 2020
+- Tract 2020: 40037021000
+- Tract 2010: 40037021000
+- Tract 2000: 40037021000
+- Tract 1990: 40037021000
+- Place 2020: 08900
+- Place 2010: 08900
+- Place 2000: 08900
+- Place 1990: 0285
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 28
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

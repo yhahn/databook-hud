@@ -1,0 +1,85 @@
+# Project: RUTLAND ROAD HOUSES (NYB20177015)
+
+- HUD ID: NYB20177015
+- HUD ID before: 
+- Project: RUTLAND ROAD HOUSES
+- Address: 60 EAST 93RD STREET
+- City: BROOKLYN
+- State: NY
+- ZIP: 11212
+- ZIP extension: 
+- State project ID: NY-17-2220
+- Latitude: 40.664361
+- Longitude: -73.928786
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047088200
+- Tract 2010: 36047088200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 2122740
+- Units: 438
+- Low-income units: 339
+- Units reported: 438
+- Low-income reported: 339
+- Efficiencies: 29
+- 1-bedroom units: 105
+- 2-bedroom units: 226
+- 3-bedroom units: 59
+- 4-bedroom units: 19
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

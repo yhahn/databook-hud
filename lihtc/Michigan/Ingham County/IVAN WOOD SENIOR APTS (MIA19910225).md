@@ -1,0 +1,85 @@
+# Project: IVAN WOOD SENIOR APTS (MIA19910225)
+
+- HUD ID: MIA19910225
+- HUD ID before: 
+- Project: IVAN WOOD SENIOR APTS
+- Address: 4672 S HAGADORN RD
+- City: EAST LANSING
+- State: MI
+- ZIP: 48823
+- ZIP extension: 
+- State project ID: MI-1940
+- Latitude: 42.717976
+- Longitude: -84.461878
+- County FIPS: 26065
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26065004902
+- Tract 2000: 26065004902
+- Tract 1990: 26065004902
+- Place 2020: 
+- Place 2010: 60340
+- Place 2000: 60340
+- Place 1990: 1987
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 53
+- 2-bedroom units: 37
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1991245.
+- Record status: Existing, unchanged

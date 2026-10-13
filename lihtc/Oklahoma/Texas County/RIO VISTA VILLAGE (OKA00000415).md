@@ -1,0 +1,85 @@
+# Project: RIO VISTA VILLAGE (OKA00000415)
+
+- HUD ID: OKA00000415
+- HUD ID before: 
+- Project: RIO VISTA VILLAGE
+- Address: 1920 PRICE BLVD
+- City: GUYMON
+- State: OK
+- ZIP: 73942
+- ZIP extension: 
+- State project ID: OK-94-03-08
+- Latitude: 36.700033
+- Longitude: -101.48142
+- County FIPS: 40139
+- County from: 2020
+- Tract 2020: 40139950902
+- Tract 2010: 40139950900
+- Tract 2000: 40139950900
+- Tract 1990: 40139950900
+- Place 2020: 31750
+- Place 2010: 31750
+- Place 2000: 31750
+- Place 1990: 1025
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 24
+- Units reported: 40
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

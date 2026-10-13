@@ -1,0 +1,85 @@
+# Project: NORTH PARK VILLAGE (KSA19990115)
+
+- HUD ID: KSA19990115
+- HUD ID before: 
+- Project: NORTH PARK VILLAGE
+- Address: 3400 JEFFREY ST
+- City: HUTCHINSON
+- State: KS
+- ZIP: 67502
+- ZIP extension: 
+- State project ID: 60174
+- Latitude: 38.092183
+- Longitude: -97.908556
+- County FIPS: 20155
+- County from: 2020
+- Tract 2020: 20155000300
+- Tract 2010: 20155000300
+- Tract 2000: 20155000300
+- Tract 1990: 20155000300
+- Place 2020: 33625
+- Place 2010: 33625
+- Place 2000: 33625
+- Place 1990: 1350
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 34597
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

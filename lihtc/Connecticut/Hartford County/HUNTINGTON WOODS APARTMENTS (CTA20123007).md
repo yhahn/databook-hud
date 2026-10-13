@@ -1,0 +1,85 @@
+# Project: HUNTINGTON WOODS APARTMENTS (CTA20123007)
+
+- HUD ID: CTA20123007
+- HUD ID before: 
+- Project: HUNTINGTON WOODS APARTMENTS
+- Address: 200 BLAKESLEE STREET
+- City: BRISTOL
+- State: CT
+- ZIP: 06010
+- ZIP extension: 
+- State project ID: CT-11-017
+- Latitude: 41.673197
+- Longitude: -72.928461
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003406100
+- Tract 2010: 09003406100
+- Tract 2000: 09003406100
+- Tract 1990: 
+- Place 2020: 08420
+- Place 2010: 08420
+- Place 2000: 08420
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 881993
+- Units: 280
+- Low-income units: 196
+- Units reported: 280
+- Low-income reported: 196
+- Efficiencies: 
+- 1-bedroom units: 96
+- 2-bedroom units: 144
+- 3-bedroom units: 40
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

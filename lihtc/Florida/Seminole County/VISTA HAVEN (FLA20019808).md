@@ -1,0 +1,85 @@
+# Project: VISTA HAVEN (FLA20019808)
+
+- HUD ID: FLA20019808
+- HUD ID before: 
+- Project: VISTA HAVEN
+- Address: 4100 GERANIUM LANE
+- City: SANFORD
+- State: FL
+- ZIP: 32771
+- ZIP extension: 
+- State project ID: 765
+- Latitude: 28.814661
+- Longitude: -81.322932
+- County FIPS: 12117
+- County from: 2020
+- Tract 2020: 12117020601
+- Tract 2010: 12117020600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 1167342
+- Units: 336
+- Low-income units: 336
+- Units reported: 336
+- Low-income reported: 336
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 156
+- 3-bedroom units: 72
+- 4-bedroom units: 32
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

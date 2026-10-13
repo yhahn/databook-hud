@@ -1,0 +1,85 @@
+# Project: SHIELDS CROSSING (INA20110090)
+
+- HUD ID: INA20110090
+- HUD ID before: 
+- Project: SHIELDS CROSSING
+- Address: 1107 E OAK ST
+- City: SEYMOUR
+- State: IN
+- ZIP: 47274
+- ZIP extension: 
+- State project ID: IN-10-02600
+- Latitude: 38.95316
+- Longitude: -85.873709
+- County FIPS: 18071
+- County from: 2020
+- Tract 2020: 18071967901
+- Tract 2010: 18071967901
+- Tract 2000: 18071967900
+- Tract 1990: 18071967900
+- Place 2020: 68832
+- Place 2010: 68832
+- Place 2000: 68832
+- Place 1990: 2310
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 614454
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 3194596
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2011527.
+- Record status: Existing, unchanged

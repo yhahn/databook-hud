@@ -1,0 +1,85 @@
+# Project: GATEWAY VILLAGE (OHA19910145)
+
+- HUD ID: OHA19910145
+- HUD ID before: 
+- Project: GATEWAY VILLAGE
+- Address: 1208 UNION BLVD
+- City: ENGLEWOOD
+- State: OH
+- ZIP: 45322
+- ZIP extension: 
+- State project ID: OH-90-0540
+- Latitude: 39.854738
+- Longitude: -84.311099
+- County FIPS: 39113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39113125101
+- Tract 2000: 39113125101
+- Tract 1990: 39113125101
+- Place 2020: 
+- Place 2010: 25396
+- Place 2000: 15644
+- Place 1990: 1310
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

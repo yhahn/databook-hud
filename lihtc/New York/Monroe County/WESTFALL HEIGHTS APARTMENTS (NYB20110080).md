@@ -1,0 +1,85 @@
+# Project: WESTFALL HEIGHTS APARTMENTS (NYB20110080)
+
+- HUD ID: NYB20110080
+- HUD ID before: 
+- Project: WESTFALL HEIGHTS APARTMENTS
+- Address: 454 WESTFALL RD
+- City: ROCHESTER
+- State: NY
+- ZIP: 14620
+- ZIP extension: 
+- State project ID: 1958
+- Latitude: 43.115087
+- Longitude: -77.609517
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055012900
+- Tract 2010: 36055012900
+- Tract 2000: 36055012900
+- Tract 1990: 36055012900
+- Place 2020: 08257
+- Place 2010: 08257
+- Place 2000: 08257
+- Place 1990: 0393
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 328373
+- Units: 101
+- Low-income units: 100
+- Units reported: 101
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 101
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYB2011522.
+- Record status: Existing, unchanged

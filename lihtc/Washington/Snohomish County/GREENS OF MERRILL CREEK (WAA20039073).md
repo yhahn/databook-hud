@@ -1,0 +1,85 @@
+# Project: GREENS OF MERRILL CREEK (WAA20039073)
+
+- HUD ID: WAA20039073
+- HUD ID before: 
+- Project: GREENS OF MERRILL CREEK
+- Address: 1707 MERRILL CREEK PARKWAY
+- City: EVERETT
+- State: WA
+- ZIP: 98203
+- ZIP extension: 
+- State project ID: 00-13A
+- Latitude: 47.943051
+- Longitude: -122.255546
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061041303
+- Tract 2010: 53061041303
+- Tract 2000: 53061041302
+- Tract 1990: 
+- Place 2020: 22640
+- Place 2010: 22640
+- Place 2000: 22640
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 776587
+- Units: 244
+- Low-income units: 242
+- Units reported: 244
+- Low-income reported: 242
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 186
+- 3-bedroom units: 42
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

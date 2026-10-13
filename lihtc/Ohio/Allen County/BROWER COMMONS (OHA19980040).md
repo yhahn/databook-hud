@@ -1,0 +1,85 @@
+# Project: BROWER COMMONS (OHA19980040)
+
+- HUD ID: OHA19980040
+- HUD ID before: 
+- Project: BROWER COMMONS
+- Address: 1170 ADAMLEE PL
+- City: LIMA
+- State: OH
+- ZIP: 45801
+- ZIP extension: 
+- State project ID: 960067
+- Latitude: 40.767815
+- Longitude: -84.126089
+- County FIPS: 39003
+- County from: 2020
+- Tract 2020: 39003012200
+- Tract 2010: 39003012200
+- Tract 2000: 39003012200
+- Tract 1990: 39003012200
+- Place 2020: 43554
+- Place 2010: 43554
+- Place 2000: 43554
+- Place 1990: 2205
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 380720
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 56
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

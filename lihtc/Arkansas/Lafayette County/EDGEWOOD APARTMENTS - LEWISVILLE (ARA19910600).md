@@ -1,0 +1,85 @@
+# Project: EDGEWOOD APARTMENTS - LEWISVILLE (ARA19910600)
+
+- HUD ID: ARA19910600
+- HUD ID before: 
+- Project: EDGEWOOD APARTMENTS - LEWISVILLE
+- Address: 501 S MAPLE
+- City: LEWISVILLE
+- State: AR
+- ZIP: 71845
+- ZIP extension: 
+- State project ID: AR-91-08
+- Latitude: 33.358013
+- Longitude: -93.576626
+- County FIPS: 05073
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05073470100
+- Tract 2000: 05073970100
+- Tract 1990: 05073970100
+- Place 2020: 
+- Place 2010: 39640
+- Place 2000: 09550
+- Place 1990: 1885
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 39934
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1991020.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HUNTINGWOOD POINTE - CASCADE PINES APTS. (GAA19980031)
+
+- HUD ID: GAA19980031
+- HUD ID before: 
+- Project: HUNTINGWOOD POINTE - CASCADE PINES APTS.
+- Address: 2909 CAMPBELLTON RD SW
+- City: ATLANTA
+- State: GA
+- ZIP: 30311
+- ZIP extension: 4508
+- State project ID: GA-96-503
+- Latitude: 33.698609
+- Longitude: -84.483066
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121007708
+- Tract 2010: 13121007704
+- Tract 2000: 13121007701
+- Tract 1990: 13121007701
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 376
+- Low-income units: 376
+- Units reported: 376
+- Low-income reported: 376
+- Efficiencies: 0
+- 1-bedroom units: 94
+- 2-bedroom units: 191
+- 3-bedroom units: 91
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1998030, GAA0000235, GAA1998030.
+- Record status: Existing, unchanged

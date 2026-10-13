@@ -1,0 +1,85 @@
+# Project: SIERRA RIDGE (CAA19900050)
+
+- HUD ID: CAA19900050
+- HUD ID before: 
+- Project: SIERRA RIDGE
+- Address: 100 FOWLER AVE
+- City: CLOVIS
+- State: CA
+- ZIP: 93611
+- ZIP extension: 
+- State project ID: CA-90-172
+- Latitude: 36.830528
+- Longitude: -119.682276
+- County FIPS: 06019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06019005701
+- Tract 2000: 06019005701
+- Tract 1990: 06019005701
+- Place 2020: 
+- Place 2010: 14218
+- Place 2000: 14218
+- Place 1990: 0550
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 41787
+- Units: 180
+- Low-income units: 36
+- Units reported: 180
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

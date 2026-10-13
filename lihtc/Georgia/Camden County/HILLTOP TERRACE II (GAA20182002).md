@@ -1,0 +1,85 @@
+# Project: HILLTOP TERRACE II (GAA20182002)
+
+- HUD ID: GAA20182002
+- HUD ID before: 
+- Project: HILLTOP TERRACE II
+- Address: 4059 MARTIN LUTHER KING JR BLVD
+- City: KINGSLAND
+- State: GA
+- ZIP: 31548
+- ZIP extension: 
+- State project ID: 2017-533
+- Latitude: 30.823436
+- Longitude: -81.688595
+- County FIPS: 13039
+- County from: 2020
+- Tract 2020: 13039010302
+- Tract 2010: 13039010302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43640
+- Place 2010: 43640
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 132797
+- Units: 55
+- Low-income units: 54
+- Units reported: 55
+- Low-income reported: 54
+- Efficiencies: 
+- 1-bedroom units: 46
+- 2-bedroom units: 9
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

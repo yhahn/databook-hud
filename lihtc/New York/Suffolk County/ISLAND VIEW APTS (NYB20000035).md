@@ -1,0 +1,85 @@
+# Project: ISLAND VIEW APTS (NYB20000035)
+
+- HUD ID: NYB20000035
+- HUD ID before: 
+- Project: ISLAND VIEW APTS
+- Address: 100 VISTA VIEW DR
+- City: FARMINGVILLE
+- State: NY
+- ZIP: 11738
+- ZIP extension: 
+- State project ID: 1413
+- Latitude: 40.849138
+- Longitude: -73.021494
+- County FIPS: 36103
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36103158704
+- Tract 2000: 36103158704
+- Tract 1990: 36103158704
+- Place 2020: 
+- Place 2010: 18157
+- Place 2000: 18157
+- Place 1990: 0793
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 224
+- Low-income units: 224
+- Units reported: 224
+- Low-income reported: 224
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 136
+- 3-bedroom units: 56
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NY STATE APTS BUILDERS V.
+- Record status: Existing, unchanged

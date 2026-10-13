@@ -1,0 +1,85 @@
+# Project: VILLAGE COURT (PAA20040165)
+
+- HUD ID: PAA20040165
+- HUD ID before: 
+- Project: VILLAGE COURT
+- Address: 3109 VILLAGE CT DR
+- City: DOVER
+- State: PA
+- ZIP: 17315
+- ZIP extension: 
+- State project ID: TC20020623
+- Latitude: 39.973661
+- Longitude: -76.832078
+- County FIPS: 42133
+- County from: 2020
+- Tract 2020: 42133020721
+- Tract 2010: 42133020720
+- Tract 2000: 42133020720
+- Tract 1990: 42133020720
+- Place 2020: 82008
+- Place 2010: 82008
+- Place 2000: 82008
+- Place 1990: 8666
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 474729
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 44
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 800000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

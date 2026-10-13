@@ -1,0 +1,85 @@
+# Project: WB STONE HILL APTS (NYA20010185)
+
+- HUD ID: NYA20010185
+- HUD ID before: 
+- Project: WB STONE HILL APTS
+- Address: 11 STONE HILL RD
+- City: WASHINGTONVILLE
+- State: NY
+- ZIP: 10992
+- ZIP extension: 
+- State project ID: NY-99-0035_00979
+- Latitude: 41.435197
+- Longitude: -74.156228
+- County FIPS: 36071
+- County from: 2020
+- Tract 2020: 36071013201
+- Tract 2010: 36071013201
+- Tract 2000: 36071013200
+- Tract 1990: 36071013200
+- Place 2020: 78465
+- Place 2010: 78465
+- Place 2000: 05193
+- Place 1990: 3820
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 103
+- Units reported: 104
+- Low-income reported: 103
+- Efficiencies: 0
+- 1-bedroom units: 92
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

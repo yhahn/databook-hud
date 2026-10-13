@@ -1,0 +1,85 @@
+# Project: ANTON VIRIDIAN APARTMENTS (CAA20231009)
+
+- HUD ID: CAA20231009
+- HUD ID before: 
+- Project: ANTON VIRIDIAN APARTMENTS
+- Address: 5301 ELM LANE
+- City: OAKLEY
+- State: CA
+- ZIP: 94561
+- ZIP extension: 
+- State project ID: CA-2021-573
+- Latitude: 38.00173
+- Longitude: -121.752798
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013306002
+- Tract 2010: 06013306002
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 53070
+- Place 2010: 53070
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 2661730
+- Units: 170
+- Low-income units: 168
+- Units reported: 170
+- Low-income reported: 168
+- Efficiencies: 
+- 1-bedroom units: 84
+- 2-bedroom units: 42
+- 3-bedroom units: 44
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Units with communications features, ADA and Accessible Units pursuant to CBC Chapter 11B
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

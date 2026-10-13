@@ -1,0 +1,85 @@
+# Project: PALESTINE SENIORS COMMUNITY I (TXA19950290)
+
+- HUD ID: TXA19950290
+- HUD ID before: 
+- Project: PALESTINE SENIORS COMMUNITY I
+- Address: 712 GARDNER DR
+- City: PALESTINE
+- State: TX
+- ZIP: 75803
+- ZIP extension: 
+- State project ID: TX1182
+- Latitude: 31.788235
+- Longitude: -95.617625
+- County FIPS: 48001
+- County from: 2020
+- Tract 2020: 48001950902
+- Tract 2010: 48001950902
+- Tract 2000: 48001950900
+- Tract 1990: 48001950900
+- Place 2020: 54708
+- Place 2010: 54708
+- Place 2000: 54708
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PALESTINE SENIORS COMMUNITY.
+- Record status: Existing, unchanged

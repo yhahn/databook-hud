@@ -1,0 +1,85 @@
+# Project: UNITY HOUSE (NYA00000162)
+
+- HUD ID: NYA00000162
+- HUD ID before: 
+- Project: UNITY HOUSE
+- Address: 77 AVE C
+- City: NEW YORK
+- State: NY
+- ZIP: 10009
+- ZIP extension: 
+- State project ID: NY-90-1251_00306
+- Latitude: 40.723161
+- Longitude: -73.979764
+- County FIPS: 36061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36061002601
+- Tract 2000: 36061002601
+- Tract 1990: 36061002601
+- Place 2020: 
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 15
+- Units reported: 16
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001630.
+- Record status: Existing, unchanged

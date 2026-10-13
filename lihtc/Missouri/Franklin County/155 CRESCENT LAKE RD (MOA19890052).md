@@ -1,0 +1,85 @@
+# Project: 155 CRESCENT LAKE RD (MOA19890052)
+
+- HUD ID: MOA19890052
+- HUD ID before: 
+- Project: 155 CRESCENT LAKE RD
+- Address: 155 CRESCENT LAKE RD
+- City: ST CLAIR
+- State: MO
+- ZIP: 63077
+- ZIP extension: 
+- State project ID: 169027
+- Latitude: 38.333746
+- Longitude: -90.9899
+- County FIPS: 29071
+- County from: 2020
+- Tract 2020: 29071800903
+- Tract 2010: 29071800902
+- Tract 2000: 29071800900
+- Tract 1990: 29071800900
+- Place 2020: 64136
+- Place 2010: 64136
+- Place 2000: 56306
+- Place 1990: 3835
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

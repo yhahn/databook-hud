@@ -1,0 +1,85 @@
+# Project: STONE MEADOW ESTATES (MOA20140180)
+
+- HUD ID: MOA20140180
+- HUD ID before: 
+- Project: STONE MEADOW ESTATES
+- Address: 412 S FAIRWAY AVE
+- City: NIXA
+- State: MO
+- ZIP: 65714
+- ZIP extension: 
+- State project ID: 13-071
+- Latitude: 37.039743
+- Longitude: -93.297617
+- County FIPS: 29043
+- County from: 2020
+- Tract 2020: 29043020204
+- Tract 2010: 29043020204
+- Tract 2000: 29043020204
+- Tract 1990: 29043020200
+- Place 2020: 52616
+- Place 2010: 52616
+- Place 2000: 52616
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 7038000
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 64
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CHRISTIAN COUNTY RURAL HOUISNG LP.
+- Record status: Existing, unchanged

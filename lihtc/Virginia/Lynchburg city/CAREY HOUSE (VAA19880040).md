@@ -1,0 +1,85 @@
+# Project: CAREY HOUSE (VAA19880040)
+
+- HUD ID: VAA19880040
+- HUD ID before: 
+- Project: CAREY HOUSE
+- Address: 1103 RIVERMONT AVE
+- City: LYNCHBURG
+- State: VA
+- ZIP: 24504
+- ZIP extension: 
+- State project ID: 8900
+- Latitude: 37.426522
+- Longitude: -79.153463
+- County FIPS: 51680
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 51680000400
+- Tract 2000: 51680000400
+- Tract 1990: 51680000400
+- Place 2020: 
+- Place 2010: 47672
+- Place 2000: 47672
+- Place 1990: 0760
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 37556
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

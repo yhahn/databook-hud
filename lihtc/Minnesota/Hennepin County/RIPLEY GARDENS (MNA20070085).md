@@ -1,0 +1,85 @@
+# Project: RIPLEY GARDENS (MNA20070085)
+
+- HUD ID: MNA20070085
+- HUD ID before: 
+- Project: RIPLEY GARDENS
+- Address: 301 PENN AVENUE NORTH
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55405
+- ZIP extension: 1160
+- State project ID: D3629
+- Latitude: 44.979813
+- Longitude: -93.30856
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053104100
+- Tract 2010: 27053104100
+- Tract 2000: 27053104100
+- Tract 1990: 27053004100
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 2585
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 546043
+- Units: 52
+- Low-income units: 26
+- Units reported: 52
+- Low-income reported: 26
+- Efficiencies: 6
+- 1-bedroom units: 12
+- 2-bedroom units: 27
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1400000
+- CDBG: Yes
+- CDBG amount: 890000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Yes
+- Other population named: SINGLES
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

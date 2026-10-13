@@ -1,0 +1,85 @@
+# Project: COVEY RUN TOWNHOMES (ORA20010020)
+
+- HUD ID: ORA20010020
+- HUD ID before: 
+- Project: COVEY RUN TOWNHOMES
+- Address: 1727 COVEY RUN DR
+- City: FOREST GROVE
+- State: OR
+- ZIP: 97116
+- ZIP extension: 
+- State project ID: X001-335
+- Latitude: 45.525425
+- Longitude: -123.117237
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067033301
+- Tract 2010: 41067033301
+- Tract 2000: 41067033300
+- Tract 1990: 41067033300
+- Place 2020: 26200
+- Place 2010: 26200
+- Place 2000: 26200
+- Place 1990: 0385
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 381848
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 26
+- 4-bedroom units: 14
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

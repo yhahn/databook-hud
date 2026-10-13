@@ -1,0 +1,85 @@
+# Project: CARROLLTON CREST APTS (OHA20120030)
+
+- HUD ID: OHA20120030
+- HUD ID before: 
+- Project: CARROLLTON CREST APTS
+- Address: 525 CANTON RD NW
+- City: CARROLLTON
+- State: OH
+- ZIP: 44615
+- ZIP extension: 
+- State project ID: 100064
+- Latitude: 40.580221
+- Longitude: -81.092704
+- County FIPS: 39019
+- County from: 2020
+- Tract 2020: 39019720500
+- Tract 2010: 39019720500
+- Tract 2000: 39019720500
+- Tract 1990: 39019720500
+- Place 2020: 12280
+- Place 2010: 12280
+- Place 2000: 12280
+- Place 1990: 0730
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 20
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 700000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

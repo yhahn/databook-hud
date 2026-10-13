@@ -1,0 +1,85 @@
+# Project: MAGNOLIA TRACE (GAA20120120)
+
+- HUD ID: GAA20120120
+- HUD ID before: 
+- Project: MAGNOLIA TRACE
+- Address: 520 PACIFICA DRIVE
+- City: MARTINEZ
+- State: GA
+- ZIP: 30907
+- ZIP extension: 
+- State project ID: GA-10-032
+- Latitude: 33.526302
+- Longitude: -82.086189
+- County FIPS: 13073
+- County from: 2020
+- Tract 2020: 13073030106
+- Tract 2010: 13073030106
+- Tract 2000: 13073030101
+- Tract 1990: 13073030101
+- Place 2020: 50036
+- Place 2010: 50036
+- Place 2000: 50036
+- Place 1990: 1768
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 997945
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 40
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

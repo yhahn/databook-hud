@@ -1,0 +1,85 @@
+# Project: THE BURLINGTON APTS (IAA19989001)
+
+- HUD ID: IAA19989001
+- HUD ID before: 
+- Project: THE BURLINGTON APTS
+- Address: 206 NORTH THIRD ST
+- City: BURLINGTON
+- State: IA
+- ZIP: 52601
+- ZIP extension: 0000
+- State project ID: 97-22
+- Latitude: 40.809136
+- Longitude: -91.102774
+- County FIPS: 19057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19057000200
+- Tract 2000: 19057000200
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 09550
+- Place 2000: 09550
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 221971
+- Units: 75
+- Low-income units: 47
+- Units reported: 75
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 37
+- 2-bedroom units: 31
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PENDLETON SQUARE APTS II (ORA20080080)
+
+- HUD ID: ORA20080080
+- HUD ID before: 
+- Project: PENDLETON SQUARE APTS II
+- Address: 294 SW 28TH DR
+- City: PENDLETON
+- State: OR
+- ZIP: 97801
+- ZIP extension: 
+- State project ID: 2784
+- Latitude: 45.661207
+- Longitude: -118.813818
+- County FIPS: 41059
+- County from: 2020
+- Tract 2020: 41059950500
+- Tract 2010: 41059950500
+- Tract 2000: 41059950500
+- Tract 1990: 41059950500
+- Place 2020: 57150
+- Place 2010: 57150
+- Place 2000: 57150
+- Place 1990: 0885
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 38367
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THE LANDINGS M14-SG450976 (SCA20150031)
+
+- HUD ID: SCA20150031
+- HUD ID before: 
+- Project: THE LANDINGS M14-SG450976
+- Address: 4080 NORTH HORSESHOE ROAD
+- City: LITTLE RIVER
+- State: SC
+- ZIP: 29566
+- ZIP extension: 
+- State project ID: SC-51-404
+- Latitude: 33.875672
+- Longitude: -78.630673
+- County FIPS: 45051
+- County from: 2020
+- Tract 2020: 45051040103
+- Tract 2010: 45051040103
+- Tract 2000: 45051040100
+- Tract 1990: 
+- Place 2020: 42010
+- Place 2010: 42010
+- Place 2000: 42010
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 59396
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 489000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

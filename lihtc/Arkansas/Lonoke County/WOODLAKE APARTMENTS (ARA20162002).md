@@ -1,0 +1,85 @@
+# Project: WOODLAKE APARTMENTS (ARA20162002)
+
+- HUD ID: ARA20162002
+- HUD ID before: 
+- Project: WOODLAKE APARTMENTS
+- Address: 1014 N CENTER ST
+- City: LONOKE
+- State: AR
+- ZIP: 72086
+- ZIP extension: 
+- State project ID: AR1517001-005
+- Latitude: 34.792649
+- Longitude: -91.899607
+- County FIPS: 05085
+- County from: 2020
+- Tract 2020: 05085020500
+- Tract 2010: 05085020500
+- Tract 2000: 05085020500
+- Tract 1990: 
+- Place 2020: 41420
+- Place 2010: 41420
+- Place 2000: 41420
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 187480
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: Disabled 8
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

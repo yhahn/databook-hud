@@ -1,0 +1,85 @@
+# Project: SUNRISE PROJECT (TXA19920215)
+
+- HUD ID: TXA19920215
+- HUD ID before: 
+- Project: SUNRISE PROJECT
+- Address: 324 DELIA DR
+- City: EDINBURG
+- State: TX
+- ZIP: 78542
+- ZIP extension: 
+- State project ID: TX1041
+- Latitude: 26.297275
+- Longitude: -98.140973
+- County FIPS: 48215
+- County from: 2020
+- Tract 2020: 48215023700
+- Tract 2010: 48215023700
+- Tract 2000: 48215023700
+- Tract 1990: 48215023700
+- Place 2020: 22660
+- Place 2010: 22660
+- Place 2000: 22660
+- Place 1990: 1295
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

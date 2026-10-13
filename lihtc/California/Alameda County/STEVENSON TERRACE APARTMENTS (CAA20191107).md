@@ -1,0 +1,85 @@
+# Project: STEVENSON TERRACE APARTMENTS (CAA20191107)
+
+- HUD ID: CAA20191107
+- HUD ID before: 
+- Project: STEVENSON TERRACE APARTMENTS
+- Address: 39605 STEVENSON PLACE
+- City: FREMONT
+- State: CA
+- ZIP: 94539
+- ZIP extension: 
+- State project ID: CA-2017-050
+- Latitude: 37.557888
+- Longitude: -121.957659
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001441928
+- Tract 2010: 06001441925
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26000
+- Place 2010: 26000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 2500000
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 
+- 1-bedroom units: 30
+- 2-bedroom units: 26
+- 3-bedroom units: 24
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 59
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

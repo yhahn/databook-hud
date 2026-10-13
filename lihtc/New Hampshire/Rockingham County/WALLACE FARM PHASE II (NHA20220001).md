@@ -1,0 +1,85 @@
+# Project: WALLACE FARM PHASE II (NHA20220001)
+
+- HUD ID: NHA20220001
+- HUD ID before: 
+- Project: WALLACE FARM PHASE II
+- Address: BRIDLE PATH
+- City: LONDONDERRY
+- State: NH
+- ZIP: 03053
+- ZIP extension: 
+- State project ID: NH-19-01
+- Latitude: 42.8744
+- Longitude: -71.3574
+- County FIPS: 33015
+- County from: 2020
+- Tract 2020: 33015003701
+- Tract 2010: 33015003701
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 43140
+- Place 2010: 43140
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 303974
+- Units: 72
+- Low-income units: 44
+- Units reported: 72
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 3000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

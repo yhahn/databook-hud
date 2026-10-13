@@ -1,0 +1,85 @@
+# Project: NATHAN CASTLE APTS (NYA20050090)
+
+- HUD ID: NYA20050090
+- HUD ID before: 
+- Project: NATHAN CASTLE APTS
+- Address: 249 S MAIN ST
+- City: HERKIMER
+- State: NY
+- ZIP: 13350
+- ZIP extension: 
+- State project ID: 20030649
+- Latitude: 43.023901
+- Longitude: -74.984315
+- County FIPS: 36043
+- County from: 2020
+- Tract 2020: 36043011100
+- Tract 2010: 36043011100
+- Tract 2000: 36043011100
+- Tract 1990: 36043011100
+- Place 2020: 34121
+- Place 2010: 34121
+- Place 2000: 34121
+- Place 1990: 1555
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BONSAI APARTMENTS (COA20240006)
+
+- HUD ID: COA20240006
+- HUD ID before: 
+- Project: BONSAI APARTMENTS
+- Address: 3750 S FEDERAL BLVD
+- City: SHERIDAN
+- State: CO
+- ZIP: 80110
+- ZIP extension: 
+- State project ID: CO-24-06
+- Latitude: 39.647698
+- Longitude: -105.025081
+- County FIPS: 08005
+- County from: 2020
+- Tract 2020: 08005005552
+- Tract 2010: 08005005552
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69645
+- Place 2010: 69645
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2109976
+- Units: 149
+- Low-income units: 149
+- Units reported: 149
+- Low-income reported: 149
+- Efficiencies: 0
+- 1-bedroom units: 75
+- 2-bedroom units: 65
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 69
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

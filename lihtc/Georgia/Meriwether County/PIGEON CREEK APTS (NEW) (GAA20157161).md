@@ -1,0 +1,85 @@
+# Project: PIGEON CREEK APTS (NEW) (GAA20157161)
+
+- HUD ID: GAA20157161
+- HUD ID before: 
+- Project: PIGEON CREEK APTS (NEW)
+- Address: 43 ROSE COURT
+- City: MANCHESTER
+- State: GA
+- ZIP: 31816
+- ZIP extension: 1100
+- State project ID: 2014-520, 92
+- Latitude: 32.9031
+- Longitude: -84.5828
+- County FIPS: 13199
+- County from: 2020
+- Tract 2020: 13199970501
+- Tract 2010: 13199970500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 49532
+- Place 2010: 49532
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

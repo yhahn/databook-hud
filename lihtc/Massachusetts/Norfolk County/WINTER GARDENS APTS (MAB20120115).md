@@ -1,0 +1,85 @@
+# Project: WINTER GARDENS APTS (MAB20120115)
+
+- HUD ID: MAB20120115
+- HUD ID before: 
+- Project: WINTER GARDENS APTS
+- Address: 45 WINTER ST
+- City: QUINCY
+- State: MA
+- ZIP: 02169
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.240885
+- Longitude: -70.979697
+- County FIPS: 25021
+- County from: 2020
+- Tract 2020: 25021417901
+- Tract 2010: 25021417901
+- Tract 2000: 25021417901
+- Tract 1990: 25021417901
+- Place 2020: 55745
+- Place 2010: 55745
+- Place 2000: 55745
+- Place 1990: 3460
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 540000
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 18
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1000000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

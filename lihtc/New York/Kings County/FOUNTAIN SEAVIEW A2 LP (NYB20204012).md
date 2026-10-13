@@ -1,0 +1,85 @@
+# Project: FOUNTAIN SEAVIEW A2 LP (NYB20204012)
+
+- HUD ID: NYB20204012
+- HUD ID before: 
+- Project: FOUNTAIN SEAVIEW A2 LP
+- Address: 911 ERSKINE STREET
+- City: BROOKLYN
+- State: NY
+- ZIP: 11208
+- ZIP extension: 
+- State project ID: NY-20-2428
+- Latitude: 40.654298
+- Longitude: -73.867878
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047107001
+- Tract 2010: 36047107000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 3358696
+- Units: 267
+- Low-income units: 265
+- Units reported: 267
+- Low-income reported: 265
+- Efficiencies: 41
+- 1-bedroom units: 120
+- 2-bedroom units: 64
+- 3-bedroom units: 42
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

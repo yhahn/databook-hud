@@ -1,0 +1,85 @@
+# Project: LAKE POINTE (FLA19980818)
+
+- HUD ID: FLA19980818
+- HUD ID before: 
+- Project: LAKE POINTE
+- Address: 7202 N MANHATTAN AVE
+- City: TAMPA
+- State: FL
+- ZIP: 33614
+- ZIP extension: 
+- State project ID: 433
+- Latitude: 28.015234
+- Longitude: -82.517461
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057011804
+- Tract 2010: 12057011804
+- Tract 2000: 12057011804
+- Tract 1990: 12057011801
+- Place 2020: 20108
+- Place 2010: 20108
+- Place 2000: 20108
+- Place 1990: 2217
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 182
+- Low-income units: 182
+- Units reported: 182
+- Low-income reported: 182
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 106
+- 3-bedroom units: 66
+- 4-bedroom units: 10
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

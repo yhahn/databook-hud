@@ -1,0 +1,85 @@
+# Project: THE VIZCAYA APTS (CAA20070731)
+
+- HUD ID: CAA20070731
+- HUD ID before: 
+- Project: THE VIZCAYA APTS
+- Address: 1720 S DEPOT ST
+- City: SANTA MARIA
+- State: CA
+- ZIP: 93458
+- ZIP extension: 
+- State project ID: CA-07-864
+- Latitude: 34.927763
+- Longitude: -120.44477
+- County FIPS: 06083
+- County from: 2020
+- Tract 2020: 06083002409
+- Tract 2010: 06083002402
+- Tract 2000: 06083002402
+- Tract 1990: 06083002402
+- Place 2020: 69196
+- Place 2010: 69196
+- Place 2000: 69196
+- Place 1990: 2595
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1182066
+- Units: 236
+- Low-income units: 234
+- Units reported: 236
+- Low-income reported: 234
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 112
+- 3-bedroom units: 80
+- 4-bedroom units: 20
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1992165. AKA MERIDIAN APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FRUIT VALLEY COURT APARTMENTS (WAA20080080)
+
+- HUD ID: WAA20080080
+- HUD ID before: 
+- Project: FRUIT VALLEY COURT APARTMENTS
+- Address: 1904 WEST 34TH ST
+- City: VANCOUVER
+- State: WA
+- ZIP: 98660
+- ZIP extension: 
+- State project ID: 07-82A
+- Latitude: 45.646277
+- Longitude: -122.690814
+- County FIPS: 53011
+- County from: 2020
+- Tract 2020: 53011041005
+- Tract 2010: 53011041005
+- Tract 2000: 53011041005
+- Tract 1990: 
+- Place 2020: 74060
+- Place 2010: 74060
+- Place 2000: 74060
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 119796
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 20
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

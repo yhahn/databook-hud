@@ -1,0 +1,85 @@
+# Project: CENTRAL PLACE (TXA20070070)
+
+- HUD ID: TXA20070070
+- HUD ID before: 
+- Project: CENTRAL PLACE
+- Address: 402 W FOURTH ST
+- City: HEREFORD
+- State: TX
+- ZIP: 79045
+- ZIP extension: 
+- State project ID: TX4236
+- Latitude: 34.816199
+- Longitude: -102.403371
+- County FIPS: 48117
+- County from: 2020
+- Tract 2020: 48117950500
+- Tract 2010: 48117950500
+- Tract 2000: 48117950500
+- Tract 1990: 48117950500
+- Place 2020: 33320
+- Place 2010: 33320
+- Place 2000: 33320
+- Place 1990: 1885
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 277501
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SAVANNAH POINTE APTS (OKA19990110)
+
+- HUD ID: OKA19990110
+- HUD ID before: 
+- Project: SAVANNAH POINTE APTS
+- Address: 6110 N MACARTHUR BLVD
+- City: WARR ACRES
+- State: OK
+- ZIP: 73122
+- ZIP extension: 
+- State project ID: 980203
+- Latitude: 35.532397
+- Longitude: -97.61875
+- County FIPS: 40109
+- County from: 2020
+- Tract 2020: 40109106706
+- Tract 2010: 40109106706
+- Tract 2000: 40109106706
+- Tract 1990: 40109106706
+- Place 2020: 78500
+- Place 2010: 78500
+- Place 2000: 55000
+- Place 1990: 1815
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 137
+- Low-income units: 137
+- Units reported: 137
+- Low-income reported: 137
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 121
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

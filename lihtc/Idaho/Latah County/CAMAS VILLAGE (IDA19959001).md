@@ -1,0 +1,85 @@
+# Project: CAMAS VILLAGE (IDA19959001)
+
+- HUD ID: IDA19959001
+- HUD ID before: 
+- Project: CAMAS VILLAGE
+- Address: 1875 WHITE AVENUE
+- City: MOSCOW
+- State: ID
+- ZIP: 83843
+- ZIP extension: 
+- State project ID: HC9313
+- Latitude: 46.722585
+- Longitude: -116.976936
+- County FIPS: 16057
+- County from: 2020
+- Tract 2020: 16057005301
+- Tract 2010: 16057005300
+- Tract 2000: 16057005300
+- Tract 1990: 
+- Place 2020: 54550
+- Place 2010: 54550
+- Place 2000: 54550
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 293633
+- Units: 66
+- Low-income units: 47
+- Units reported: 66
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 44
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

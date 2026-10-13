@@ -1,0 +1,85 @@
+# Project: TWO RIVERS WINSTON (ORA20190006)
+
+- HUD ID: ORA20190006
+- HUD ID before: 
+- Project: TWO RIVERS WINSTON
+- Address: 189 NW GLENHART AVENUE
+- City: WINSTON
+- State: OR
+- ZIP: 97496
+- ZIP extension: 
+- State project ID: OR-18-11380
+- Latitude: 43.123679
+- Longitude: -123.416214
+- County FIPS: 41019
+- County from: 2020
+- Tract 2020: 41019160001
+- Tract 2010: 41019160000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 83400
+- Place 2010: 83400
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 14
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

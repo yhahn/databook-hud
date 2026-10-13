@@ -1,0 +1,85 @@
+# Project: MEADOWBROOK PARK HOMES OF MARIANNA (ARA20040040)
+
+- HUD ID: ARA20040040
+- HUD ID before: 
+- Project: MEADOWBROOK PARK HOMES OF MARIANNA
+- Address: 716 MEADOWBROOK WAY
+- City: MARIANNA
+- State: AR
+- ZIP: 72360
+- ZIP extension: 
+- State project ID: AR-03-17
+- Latitude: 34.777832
+- Longitude: -90.784052
+- County FIPS: 05077
+- County from: 2020
+- Tract 2020: 05077470300
+- Tract 2010: 05077470300
+- Tract 2000: 05077970300
+- Tract 1990: 05077970300
+- Place 2020: 44120
+- Place 2010: 44120
+- Place 2000: 44120
+- Place 1990: 1310
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 269412
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 24
+- 4-bedroom units: 9
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

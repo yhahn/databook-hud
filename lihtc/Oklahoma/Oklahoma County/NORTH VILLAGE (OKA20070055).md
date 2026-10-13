@@ -1,0 +1,85 @@
+# Project: NORTH VILLAGE (OKA20070055)
+
+- HUD ID: OKA20070055
+- HUD ID before: 
+- Project: NORTH VILLAGE
+- Address: 10735 N WESTERN AVE
+- City: OKLAHOMA CITY
+- State: OK
+- ZIP: 73114
+- ZIP extension: 
+- State project ID: 14740
+- Latitude: 35.579468
+- Longitude: -97.53157
+- County FIPS: 40109
+- County from: 2020
+- Tract 2020: 40109108309
+- Tract 2010: 40109108309
+- Tract 2000: 40109108309
+- Tract 1990: 40109108309
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 55000
+- Place 1990: 1815
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 220036
+- Units: 216
+- Low-income units: 216
+- Units reported: 216
+- Low-income reported: 216
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 116
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HAVENWOOD.
+- Record status: Existing, unchanged

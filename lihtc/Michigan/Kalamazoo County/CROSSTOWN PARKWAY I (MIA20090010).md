@@ -1,0 +1,85 @@
+# Project: CROSSTOWN PARKWAY I (MIA20090010)
+
+- HUD ID: MIA20090010
+- HUD ID before: 
+- Project: CROSSTOWN PARKWAY I
+- Address: 732 HOWARD ST
+- City: KALAMAZOO
+- State: MI
+- ZIP: 49008
+- ZIP extension: 
+- State project ID: MI-462
+- Latitude: 42.274361
+- Longitude: -85.592891
+- County FIPS: 26077
+- County from: 2020
+- Tract 2020: 26077000601
+- Tract 2010: 26077000600
+- Tract 2000: 26077000600
+- Tract 1990: 26077000600
+- Place 2020: 42160
+- Place 2010: 42160
+- Place 2000: 42160
+- Place 1990: 1370
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 368357
+- Units: 201
+- Low-income units: 200
+- Units reported: 201
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 185
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1989225, MIA1989230. AKA KALAMAZOO CROSSTOWN.
+- Record status: Existing, unchanged

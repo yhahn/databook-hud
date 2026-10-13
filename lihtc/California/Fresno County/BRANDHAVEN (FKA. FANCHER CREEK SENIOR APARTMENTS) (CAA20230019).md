@@ -1,0 +1,85 @@
+# Project: BRANDHAVEN (FKA. FANCHER CREEK SENIOR APARTMENTS) (CAA20230019)
+
+- HUD ID: CAA20230019
+- HUD ID before: 
+- Project: BRANDHAVEN (FKA. FANCHER CREEK SENIOR APARTMENTS)
+- Address: 150 N SALMA AVENUE
+- City: FRESNO
+- State: CA
+- ZIP: 93727
+- ZIP extension: 
+- State project ID: CA-2020-516
+- Latitude: 36.7466
+- Longitude: -119.7092
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019003004
+- Tract 2010: 06019003004
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 998177
+- Units: 180
+- Low-income units: 178
+- Units reported: 180
+- Low-income reported: 178
+- Efficiencies: 
+- 1-bedroom units: 144
+- 2-bedroom units: 36
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 54
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

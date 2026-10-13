@@ -1,0 +1,85 @@
+# Project: AVON SQUARE TOWNHOMES (ALA20130001)
+
+- HUD ID: ALA20130001
+- HUD ID before: 
+- Project: AVON SQUARE TOWNHOMES
+- Address: 494 STRATFORD DR
+- City: OZARK
+- State: AL
+- ZIP: 36360
+- ZIP extension: 
+- State project ID: 2011055-TC
+- Latitude: 31.448957
+- Longitude: -85.651079
+- County FIPS: 01045
+- County from: 2020
+- Tract 2020: 01045020700
+- Tract 2010: 01045020700
+- Tract 2000: 01045020700
+- Tract 1990: 01045020700
+- Place 2020: 57648
+- Place 2010: 57648
+- Place 2000: 57648
+- Place 1990: 1330
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 801670
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 47
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

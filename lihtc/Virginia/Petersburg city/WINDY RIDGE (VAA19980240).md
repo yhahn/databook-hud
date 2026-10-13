@@ -1,0 +1,85 @@
+# Project: WINDY RIDGE (VAA19980240)
+
+- HUD ID: VAA19980240
+- HUD ID before: 
+- Project: WINDY RIDGE
+- Address: 443 ROUNDTOP AVE
+- City: PETERSBURG
+- State: VA
+- ZIP: 23803
+- ZIP extension: 
+- State project ID: 4551
+- Latitude: 37.223374
+- Longitude: -77.387857
+- County FIPS: 51730
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 51730811300
+- Tract 2000: 51730810800
+- Tract 1990: 51730810800
+- Place 2020: 
+- Place 2010: 61832
+- Place 2000: 61832
+- Place 1990: 0960
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 119023
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

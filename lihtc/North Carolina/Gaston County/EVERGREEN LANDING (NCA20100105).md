@@ -1,0 +1,85 @@
+# Project: EVERGREEN LANDING (NCA20100105)
+
+- HUD ID: NCA20100105
+- HUD ID before: 
+- Project: EVERGREEN LANDING
+- Address: 2510 LOBLOLLY PINE DRIVE
+- City: GASTONIA
+- State: NC
+- ZIP: 28054
+- ZIP extension: 5681
+- State project ID: 9002737
+- Latitude: 35.270638
+- Longitude: -81.131448
+- County FIPS: 37071
+- County from: 2020
+- Tract 2020: 37071031303
+- Tract 2010: 37071031302
+- Tract 2000: 37071032701
+- Tract 1990: 37071032701
+- Place 2020: 25580
+- Place 2010: 25580
+- Place 2000: 
+- Place 1990: 0990
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 669390
+- Units: 82
+- Low-income units: 80
+- Units reported: 82
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 40
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

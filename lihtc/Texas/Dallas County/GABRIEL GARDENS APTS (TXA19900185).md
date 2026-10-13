@@ -1,0 +1,85 @@
+# Project: GABRIEL GARDENS APTS (TXA19900185)
+
+- HUD ID: TXA19900185
+- HUD ID before: 
+- Project: GABRIEL GARDENS APTS
+- Address: 2805 E LEDBETTER DR
+- City: DALLAS
+- State: TX
+- ZIP: 75216
+- ZIP extension: 
+- State project ID: TX6891
+- Latitude: 32.720392
+- Longitude: -96.785106
+- County FIPS: 48113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48113008801
+- Tract 2000: 48113008704
+- Tract 1990: 48113008704
+- Place 2020: 
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1085
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 201
+- Low-income units: 201
+- Units reported: 201
+- Low-income reported: 201
+- Efficiencies: 0
+- 1-bedroom units: 87
+- 2-bedroom units: 96
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

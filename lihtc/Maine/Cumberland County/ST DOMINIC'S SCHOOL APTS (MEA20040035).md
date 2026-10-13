@@ -1,0 +1,85 @@
+# Project: ST DOMINIC'S SCHOOL APTS (MEA20040035)
+
+- HUD ID: MEA20040035
+- HUD ID before: 
+- Project: ST DOMINIC'S SCHOOL APTS
+- Address: 42 GRAY ST
+- City: PORTLAND
+- State: ME
+- ZIP: 04102
+- ZIP extension: 
+- State project ID: MSHA-RLP-1299
+- Latitude: 43.650103
+- Longitude: -70.263008
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005001100
+- Tract 2010: 23005001100
+- Tract 2000: 23005001100
+- Tract 1990: 23005001100
+- Place 2020: 60545
+- Place 2010: 60545
+- Place 2000: 60545
+- Place 1990: 3750
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 5
+- 3-bedroom units: 4
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

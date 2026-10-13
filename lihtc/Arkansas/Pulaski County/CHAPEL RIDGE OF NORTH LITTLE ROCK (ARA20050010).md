@@ -1,0 +1,85 @@
+# Project: CHAPEL RIDGE OF NORTH LITTLE ROCK (ARA20050010)
+
+- HUD ID: ARA20050010
+- HUD ID before: 
+- Project: CHAPEL RIDGE OF NORTH LITTLE ROCK
+- Address: 5900 MCCAIN PL
+- City: NORTH LITTLE ROCK
+- State: AR
+- ZIP: 72117
+- ZIP extension: 
+- State project ID: AR-06-02-001
+- Latitude: 34.786217
+- Longitude: -92.198133
+- County FIPS: 05119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05119003800
+- Tract 2000: 05119003800
+- Tract 1990: 05119003800
+- Place 2020: 
+- Place 2010: 42350
+- Place 2000: 34750
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 374581
+- Units: 172
+- Low-income units: 172
+- Units reported: 172
+- Low-income reported: 172
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 87
+- 3-bedroom units: 65
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CORNERSTONE ESTATES PHASE I (MIA20110035)
+
+- HUD ID: MIA20110035
+- HUD ID before: 
+- Project: CORNERSTONE ESTATES PHASE I
+- Address: 2921 FOURTH ST
+- City: DETROIT
+- State: MI
+- ZIP: 48201
+- ZIP extension: 
+- State project ID: MI-3457
+- Latitude: 42.340303
+- Longitude: -83.064316
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163522500
+- Tract 2010: 26163522500
+- Tract 2000: 26163520500
+- Tract 1990: 26163520500
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 22000
+- Place 1990: 0680
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 908130
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 28
+- 3-bedroom units: 18
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 45
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA2011521.
+- Record status: Existing, unchanged

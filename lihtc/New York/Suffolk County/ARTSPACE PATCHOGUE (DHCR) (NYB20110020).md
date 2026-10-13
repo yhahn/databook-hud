@@ -1,0 +1,85 @@
+# Project: ARTSPACE PATCHOGUE (DHCR) (NYB20110020)
+
+- HUD ID: NYB20110020
+- HUD ID before: 
+- Project: ARTSPACE PATCHOGUE (DHCR)
+- Address: 20 TERRY ST
+- City: PATCHOGUE
+- State: NY
+- ZIP: 11772
+- ZIP extension: 
+- State project ID: NY-09-1929
+- Latitude: 40.764176
+- Longitude: -73.012975
+- County FIPS: 36103
+- County from: 2020
+- Tract 2020: 36103158902
+- Tract 2010: 36103158900
+- Tract 2000: 36103158900
+- Tract 1990: 36103158900
+- Place 2020: 56660
+- Place 2010: 56660
+- Place 2000: 53319
+- Place 1990: 2790
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 701183
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 3
+- 1-bedroom units: 20
+- 2-bedroom units: 19
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: ARTISTS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYB2011518. AKA ARTSPACE PATCHOGUE.
+- Record status: Existing, unchanged

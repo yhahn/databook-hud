@@ -1,0 +1,85 @@
+# Project: WASATCH HILLS (WAA00000757)
+
+- HUD ID: WAA00000757
+- HUD ID before: 
+- Project: WASATCH HILLS
+- Address: 510 STEVENS AVE SW
+- City: RENTON
+- State: WA
+- ZIP: 98057
+- ZIP extension: 
+- State project ID: 84-2DDDD
+- Latitude: 47.476657
+- Longitude: -122.224662
+- County FIPS: 53033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53033026002
+- Tract 2000: 53033026002
+- Tract 1990: 53033026002
+- Place 2020: 
+- Place 2010: 57745
+- Place 2000: 08552
+- Place 1990: 1070
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 356
+- Low-income units: 72
+- Units reported: 356
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 203
+- 3-bedroom units: 137
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

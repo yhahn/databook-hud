@@ -1,0 +1,85 @@
+# Project: GEMSTAR (OHA19880215)
+
+- HUD ID: OHA19880215
+- HUD ID before: 
+- Project: GEMSTAR
+- Address: 6884 GEMSTAR RD
+- City: REYNOLDSBURG
+- State: OH
+- ZIP: 43068
+- ZIP extension: 
+- State project ID: OH-88-0193
+- Latitude: 39.924442
+- Longitude: -82.817098
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049009391
+- Tract 2010: 39049009374
+- Tract 2000: 39049009374
+- Tract 1990: 39049009374
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 08532
+- Place 1990: 0960
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

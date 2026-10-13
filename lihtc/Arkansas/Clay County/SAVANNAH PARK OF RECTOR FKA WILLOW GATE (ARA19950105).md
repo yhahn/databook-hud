@@ -1,0 +1,85 @@
+# Project: SAVANNAH PARK OF RECTOR FKA WILLOW GATE (ARA19950105)
+
+- HUD ID: ARA19950105
+- HUD ID before: 
+- Project: SAVANNAH PARK OF RECTOR FKA WILLOW GATE
+- Address: 421 N BALLARD
+- City: RECTOR
+- State: AR
+- ZIP: 72461
+- ZIP extension: 
+- State project ID: AR-94-27-001
+- Latitude: 36.269779
+- Longitude: -90.289183
+- County FIPS: 05021
+- County from: 2020
+- Tract 2020: 05021950500
+- Tract 2010: 05021950500
+- Tract 2000: 05021950500
+- Tract 1990: 05021950500
+- Place 2020: 58490
+- Place 2010: 58490
+- Place 2000: 58490
+- Place 1990: 1720
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 34090
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA WILLOW GATE
+- Record status: Existing, unchanged

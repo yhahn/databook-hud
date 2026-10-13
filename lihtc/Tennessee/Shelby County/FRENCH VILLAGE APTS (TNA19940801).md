@@ -1,0 +1,85 @@
+# Project: FRENCH VILLAGE APTS (TNA19940801)
+
+- HUD ID: TNA19940801
+- HUD ID before: 
+- Project: FRENCH VILLAGE APTS
+- Address: 4045 SUMMER AVE
+- City: MEMPHIS
+- State: TN
+- ZIP: 38122
+- ZIP extension: 
+- State project ID: TN-93-020
+- Latitude: 35.148905
+- Longitude: -89.92582
+- County FIPS: 47157
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47157008600
+- Tract 2000: 47157008600
+- Tract 1990: 47157008600
+- Place 2020: 
+- Place 2010: 48000
+- Place 2000: 48000
+- Place 1990: 0940
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 849946
+- Units: 244
+- Low-income units: 244
+- Units reported: 
+- Low-income reported: 244
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

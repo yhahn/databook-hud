@@ -1,0 +1,85 @@
+# Project: ST. BRIGID APARTMENTS (KYA19940542)
+
+- HUD ID: KYA19940542
+- HUD ID before: 
+- Project: ST. BRIGID APARTMENTS
+- Address: HEPBURN AVE.
+- City: LOUISVILLE
+- State: KY
+- ZIP: 40204
+- ZIP extension: 
+- State project ID: KY-93-048
+- Latitude: 38.2392
+- Longitude: -85.7269
+- County FIPS: 21111
+- County from: 2020
+- Tract 2020: 21111006400
+- Tract 2010: 21111006400
+- Tract 2000: 21111006400
+- Tract 1990: 
+- Place 2020: 48000
+- Place 2010: 48006
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 10
+- Low-income units: 9
+- Units reported: 10
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 5
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

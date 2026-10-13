@@ -1,0 +1,85 @@
+# Project: WOODBEND APARTMENTS (ARA20100050)
+
+- HUD ID: ARA20100050
+- HUD ID before: 
+- Project: WOODBEND APARTMENTS
+- Address: 501 VALENCIA DR
+- City: MAUMELLE
+- State: AR
+- ZIP: 72113
+- ZIP extension: 
+- State project ID: AR-09-10-001
+- Latitude: 34.861258
+- Longitude: -92.405505
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119004306
+- Tract 2010: 05119004306
+- Tract 2000: 05119004304
+- Tract 1990: 05119004301
+- Place 2020: 44600
+- Place 2010: 44600
+- Place 2000: 44600
+- Place 1990: 1337
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 1
+- 1-bedroom units: 40
+- 2-bedroom units: 51
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2009796, ARA2009070. AKA WOODBEND II.
+- Record status: Existing, unchanged

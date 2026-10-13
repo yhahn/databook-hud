@@ -1,0 +1,85 @@
+# Project: MACON MANOR APARTMENTS (GAA20100025)
+
+- HUD ID: GAA20100025
+- HUD ID before: 
+- Project: MACON MANOR APARTMENTS
+- Address: 106 FORCE DR
+- City: ALBANY
+- State: GA
+- ZIP: 31705
+- ZIP extension: 2531
+- State project ID: 2009-025
+- Latitude: 31.57471
+- Longitude: -84.076671
+- County FIPS: 13095
+- County from: 2020
+- Tract 2020: 13095000102
+- Tract 2010: 13095000100
+- Tract 2000: 13095000100
+- Tract 1990: 13095000100
+- Place 2020: 01052
+- Place 2010: 01052
+- Place 2000: 01052
+- Place 1990: 0045
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 0
+- Low-income units: 0
+- Units reported: 0
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

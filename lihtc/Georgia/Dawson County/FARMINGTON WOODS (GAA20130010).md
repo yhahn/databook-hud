@@ -1,0 +1,85 @@
+# Project: FARMINGTON WOODS (GAA20130010)
+
+- HUD ID: GAA20130010
+- HUD ID before: 
+- Project: FARMINGTON WOODS
+- Address: 2201 PERIMETER RD
+- City: DAWSONVILLE
+- State: GA
+- ZIP: 30534
+- ZIP extension: 4004
+- State project ID: GA-11-017
+- Latitude: 34.408937
+- Longitude: -84.11111
+- County FIPS: 13085
+- County from: 2020
+- Tract 2020: 13085970206
+- Tract 2010: 13085970202
+- Tract 2000: 13085970200
+- Tract 1990: 13085970200
+- Place 2020: 21940
+- Place 2010: 21940
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 808965
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 36
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000148.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: DAVENPORT LOFTS (IAA20040020)
+
+- HUD ID: IAA20040020
+- HUD ID before: 
+- Project: DAVENPORT LOFTS
+- Address: 427 IOWA ST
+- City: DAVENPORT
+- State: IA
+- ZIP: 52801
+- ZIP extension: 
+- State project ID: 03-41
+- Latitude: 41.523615
+- Longitude: -90.569473
+- County FIPS: 19163
+- County from: 2020
+- Tract 2020: 19163010600
+- Tract 2010: 19163010600
+- Tract 2000: 19163010600
+- Tract 1990: 19163010600
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19000
+- Place 1990: 1040
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 565197
+- Units: 72
+- Low-income units: 50
+- Units reported: 72
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 35
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA CRESCENT
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WARREN NEIGHBORHOOD REDEVELOPMENT (OHA20040276)
+
+- HUD ID: OHA20040276
+- HUD ID before: 
+- Project: WARREN NEIGHBORHOOD REDEVELOPMENT
+- Address: 207 BELMONT AVE NE
+- City: WARREN
+- State: OH
+- ZIP: 44483
+- ZIP extension: 
+- State project ID: 020049
+- Latitude: 41.244132
+- Longitude: -80.815954
+- County FIPS: 39155
+- County from: 2020
+- Tract 2020: 39155933800
+- Tract 2010: 39155933800
+- Tract 2000: 39155920200
+- Tract 1990: 39155920200
+- Place 2020: 80892
+- Place 2010: 80892
+- Place 2000: 80892
+- Place 1990: 4480
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 8
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 201000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

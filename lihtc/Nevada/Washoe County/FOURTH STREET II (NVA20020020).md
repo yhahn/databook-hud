@@ -1,0 +1,85 @@
+# Project: FOURTH STREET II (NVA20020020)
+
+- HUD ID: NVA20020020
+- HUD ID before: 
+- Project: FOURTH STREET II
+- Address: 801 E FOURTH ST
+- City: RENO
+- State: NV
+- ZIP: 89512
+- ZIP extension: 
+- State project ID: NV-01-05
+- Latitude: 39.532186
+- Longitude: -119.803189
+- County FIPS: 32031
+- County from: 2020
+- Tract 2020: 32031000105
+- Tract 2010: 32031000102
+- Tract 2000: 32031000100
+- Tract 1990: 32031000100
+- Place 2020: 60600
+- Place 2010: 60600
+- Place 2000: 60600
+- Place 1990: 0090
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

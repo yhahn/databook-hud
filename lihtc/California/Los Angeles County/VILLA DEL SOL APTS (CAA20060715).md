@@ -1,0 +1,85 @@
+# Project: VILLA DEL SOL APTS (CAA20060715)
+
+- HUD ID: CAA20060715
+- HUD ID before: 
+- Project: VILLA DEL SOL APTS
+- Address: 11971 ALLEGHENY ST
+- City: SUN VALLEY
+- State: CA
+- ZIP: 91352
+- ZIP extension: 
+- State project ID: CA-05-905
+- Latitude: 34.236643
+- Longitude: -118.394017
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037121222
+- Tract 2010: 06037121222
+- Tract 2000: 06037121210
+- Tract 1990: 06037121200
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 501969
+- Units: 103
+- Low-income units: 101
+- Units reported: 103
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 24
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1988360, CAA0001440. AKA SUN TERRACE.
+- Record status: Existing, unchanged

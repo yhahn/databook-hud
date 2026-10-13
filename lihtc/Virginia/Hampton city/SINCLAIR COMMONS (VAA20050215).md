@@ -1,0 +1,85 @@
+# Project: SINCLAIR COMMONS (VAA20050215)
+
+- HUD ID: VAA20050215
+- HUD ID before: 
+- Project: SINCLAIR COMMONS
+- Address: 232 W GILBERT ST
+- City: HAMPTON
+- State: VA
+- ZIP: 23669
+- ZIP extension: 
+- State project ID: 1112
+- Latitude: 37.050715
+- Longitude: -76.351819
+- County FIPS: 51650
+- County from: 2020
+- Tract 2020: 51650010701
+- Tract 2010: 51650010701
+- Tract 2000: 51650010701
+- Tract 1990: 51650010700
+- Place 2020: 35000
+- Place 2010: 35000
+- Place 2000: 35000
+- Place 1990: 0590
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 473967
+- Units: 140
+- Low-income units: 139
+- Units reported: 140
+- Low-income reported: 139
+- Efficiencies: 0
+- 1-bedroom units: 68
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

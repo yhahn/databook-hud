@@ -1,0 +1,85 @@
+# Project: PARK ROW CROSSING (MNA20140901)
+
+- HUD ID: MNA20140901
+- HUD ID before: 
+- Project: PARK ROW CROSSING
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: SAINT PETER
+- State: MN
+- ZIP: 56082
+- ZIP extension: 
+- State project ID: D7524
+- Latitude: 44.3453
+- Longitude: -93.9638
+- County FIPS: 27103
+- County from: 2020
+- Tract 2020: 27103480300
+- Tract 2010: 27103480300
+- Tract 2000: 27103980400
+- Tract 1990: 27103980400
+- Place 2020: 58036
+- Place 2010: 58036
+- Place 2000: 58036
+- Place 1990: 3435
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 652686
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 30
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA2013013.
+- Record status: Existing, unchanged

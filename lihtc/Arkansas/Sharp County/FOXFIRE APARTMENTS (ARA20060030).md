@@ -1,0 +1,85 @@
+# Project: FOXFIRE APARTMENTS (ARA20060030)
+
+- HUD ID: ARA20060030
+- HUD ID before: 
+- Project: FOXFIRE APARTMENTS
+- Address: 11 FOXFIRE CR
+- City: ASH FLAT
+- State: AR
+- ZIP: 72513
+- ZIP extension: 
+- State project ID: AR-89-02-001
+- Latitude: 36.228039
+- Longitude: -91.602729
+- County FIPS: 05135
+- County from: 2020
+- Tract 2020: 05135470300
+- Tract 2010: 05135470300
+- Tract 2000: 05135970300
+- Tract 1990: 05135970300
+- Place 2020: 02470
+- Place 2010: 02470
+- Place 2000: 02470
+- Place 1990: 0080
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 53091
+- Units: 21
+- Low-income units: 20
+- Units reported: 21
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1989045.
+- Record status: Existing, unchanged

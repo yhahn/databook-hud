@@ -1,0 +1,85 @@
+# Project: WARING II APARTMENTS (GAA20030135)
+
+- HUD ID: GAA20030135
+- HUD ID before: 
+- Project: WARING II APARTMENTS
+- Address: 806 E WARING ST
+- City: WAYCROSS
+- State: GA
+- ZIP: 31501
+- ZIP extension: 7912
+- State project ID: GA-01-007
+- Latitude: 31.240876
+- Longitude: -82.355602
+- County FIPS: 13299
+- County from: 2020
+- Tract 2020: 13299950500
+- Tract 2010: 13299950500
+- Tract 2000: 13299950500
+- Tract 1990: 13299950500
+- Place 2020: 80956
+- Place 2010: 80956
+- Place 2000: 22080
+- Place 1990: 3000
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 28
+- Units reported: 36
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LEBANON HEIGHTS APTS (MOA19890752)
+
+- HUD ID: MOA19890752
+- HUD ID before: 
+- Project: LEBANON HEIGHTS APTS
+- Address: 450 WOOD ST
+- City: LEBANON
+- State: MO
+- ZIP: 65536
+- ZIP extension: 
+- State project ID: 169085
+- Latitude: 37.688672
+- Longitude: -92.661875
+- County FIPS: 29105
+- County from: 2020
+- Tract 2020: 29105960400
+- Tract 2010: 29105960400
+- Tract 2000: 29105960400
+- Tract 1990: 29105960400
+- Place 2020: 41168
+- Place 2010: 41168
+- Place 2000: 41168
+- Place 1990: 2430
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

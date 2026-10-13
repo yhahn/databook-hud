@@ -1,0 +1,85 @@
+# Project: SUMMERHILL III APARTMENTS (ARA20060075)
+
+- HUD ID: ARA20060075
+- HUD ID before: 
+- Project: SUMMERHILL III APARTMENTS
+- Address: 605 LINCOLN ST
+- City: GASSVILLE
+- State: AR
+- ZIP: 72635
+- ZIP extension: 
+- State project ID: AR-88-05-002
+- Latitude: 36.29002
+- Longitude: -92.483913
+- County FIPS: 05005
+- County from: 2020
+- Tract 2020: 05005950900
+- Tract 2010: 05005950900
+- Tract 2000: 05005950900
+- Tract 1990: 05005950900
+- Place 2020: 26050
+- Place 2010: 26050
+- Place 2000: 15490
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 91296
+- Units: 17
+- Low-income units: 16
+- Units reported: 17
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARKVIEW TERRACE (RIA19950020)
+
+- HUD ID: RIA19950020
+- HUD ID before: 
+- Project: PARKVIEW TERRACE
+- Address: 72 GOUGH AVE
+- City: WEST WARWICK
+- State: RI
+- ZIP: 02893
+- ZIP extension: 
+- State project ID: RI00103
+- Latitude: 41.708792
+- Longitude: -71.527544
+- County FIPS: 44003
+- County from: 2020
+- Tract 2020: 44003020300
+- Tract 2010: 44003020300
+- Tract 2000: 44003020300
+- Tract 1990: 44003020300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 78260
+- Place 1990: 0520
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 96665
+- Units: 83
+- Low-income units: 83
+- Units reported: 83
+- Low-income reported: 83
+- Efficiencies: 0
+- 1-bedroom units: 58
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

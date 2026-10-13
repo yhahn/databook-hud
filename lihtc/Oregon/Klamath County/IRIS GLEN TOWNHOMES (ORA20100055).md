@@ -1,0 +1,85 @@
+# Project: IRIS GLEN TOWNHOMES (ORA20100055)
+
+- HUD ID: ORA20100055
+- HUD ID before: 
+- Project: IRIS GLEN TOWNHOMES
+- Address: 135 OLD FT RD
+- City: KLAMATH FALLS
+- State: OR
+- ZIP: 97601
+- ZIP extension: 
+- State project ID: OR09-871
+- Latitude: 42.229291
+- Longitude: -121.765303
+- County FIPS: 41035
+- County from: 2020
+- Tract 2020: 41035971700
+- Tract 2010: 41035971700
+- Tract 2000: 41035971700
+- Tract 1990: 41035971700
+- Place 2020: 39700
+- Place 2010: 39700
+- Place 2000: 39700
+- Place 1990: 0620
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 732160
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 21
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

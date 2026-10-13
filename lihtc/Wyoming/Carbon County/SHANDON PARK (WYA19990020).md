@@ -1,0 +1,85 @@
+# Project: SHANDON PARK (WYA19990020)
+
+- HUD ID: WYA19990020
+- HUD ID before: 
+- Project: SHANDON PARK
+- Address: 3020 LERWICK DR
+- City: RAWLINS
+- State: WY
+- ZIP: 82301
+- ZIP extension: 
+- State project ID: 98-006
+- Latitude: 41.815485
+- Longitude: -107.21768
+- County FIPS: 56007
+- County from: 2020
+- Tract 2020: 56007967700
+- Tract 2010: 56007967700
+- Tract 2000: 56007967700
+- Tract 1990: 56007967700
+- Place 2020: 63900
+- Place 2010: 63900
+- Place 2000: 63900
+- Place 1990: 0370
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 192767
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

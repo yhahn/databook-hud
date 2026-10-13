@@ -1,0 +1,85 @@
+# Project: HALE MAHAOLU EHIKU PHASE II (HIA20105003)
+
+- HUD ID: HIA20105003
+- HUD ID before: 
+- Project: HALE MAHAOLU EHIKU PHASE II
+- Address: 94 EHIKU LOOP
+- City: KIHEI
+- State: HI
+- ZIP: 96753
+- ZIP extension: 
+- State project ID: HI-2008-004
+- Latitude: 20.734429
+- Longitude: -156.446671
+- County FIPS: 15009
+- County from: 2020
+- Tract 2020: 15009030708
+- Tract 2010: 15009030708
+- Tract 2000: 15009030703
+- Tract 1990: 
+- Place 2020: 36500
+- Place 2010: 36500
+- Place 2000: 36500
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1000000
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 59
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

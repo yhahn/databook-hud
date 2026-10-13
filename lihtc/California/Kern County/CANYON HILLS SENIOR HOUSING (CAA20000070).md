@@ -1,0 +1,85 @@
+# Project: CANYON HILLS SENIOR HOUSING (CAA20000070)
+
+- HUD ID: CAA20000070
+- HUD ID before: 
+- Project: CANYON HILLS SENIOR HOUSING
+- Address: 6701 AUBURN ST
+- City: BAKERSFIELD
+- State: CA
+- ZIP: 93306
+- ZIP extension: 
+- State project ID: CA-98-072
+- Latitude: 35.397951
+- Longitude: -118.921477
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029000911
+- Tract 2010: 06029000910
+- Tract 2000: 06029000910
+- Tract 1990: 06029000910
+- Place 2020: 03526
+- Place 2010: 03526
+- Place 2000: 03526
+- Place 1990: 0180
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 375042
+- Units: 74
+- Low-income units: 72
+- Units reported: 74
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 58
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

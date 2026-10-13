@@ -1,0 +1,85 @@
+# Project: ST JOSEPH & APOSS REDEVELOPMENT (MAB20130021)
+
+- HUD ID: MAB20130021
+- HUD ID before: 
+- Project: ST JOSEPH & APOSS REDEVELOPMENT
+- Address: 135 LAFAYETTE ST
+- City: SALEM
+- State: MA
+- ZIP: 01970
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.516923
+- Longitude: -70.89272
+- County FIPS: 25009
+- County from: 2020
+- Tract 2020: 25009204300
+- Tract 2010: 25009204300
+- Tract 2000: 25009204300
+- Tract 1990: 25009204300
+- Place 2020: 59105
+- Place 2010: 59105
+- Place 2000: 59105
+- Place 1990: 3670
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 38
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

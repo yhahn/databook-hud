@@ -1,0 +1,85 @@
+# Project: MILLENIUM HOMES AT NORTH DAY URBAN RENEWAL (NJA20120869)
+
+- HUD ID: NJA20120869
+- HUD ID before: 
+- Project: MILLENIUM HOMES AT NORTH DAY URBAN RENEWAL
+- Address: 284 N DAY ST
+- City: ORANGE
+- State: NJ
+- ZIP: 07050
+- ZIP extension: 
+- State project ID: NJ-0664
+- Latitude: 40.779284
+- Longitude: -74.224343
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013018200
+- Tract 2010: 34013018200
+- Tract 2000: 34013018200
+- Tract 1990: 34013018200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 55020
+- Place 1990: 3065
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 24
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2004035.
+- Record status: Existing, unchanged

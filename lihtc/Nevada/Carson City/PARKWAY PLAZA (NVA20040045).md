@@ -1,0 +1,85 @@
+# Project: PARKWAY PLAZA (NVA20040045)
+
+- HUD ID: NVA20040045
+- HUD ID before: 
+- Project: PARKWAY PLAZA
+- Address: 500 COLLEGE PKWY
+- City: CARSON CITY
+- State: NV
+- ZIP: 
+- ZIP extension: 
+- State project ID: NV-02-57
+- Latitude: 39.190846
+- Longitude: -119.761895
+- County FIPS: 32510
+- County from: 2020
+- Tract 2020: 32510000400
+- Tract 2010: 32510000400
+- Tract 2000: 32510000400
+- Tract 1990: 32510000400
+- Place 2020: 09700
+- Place 2010: 09700
+- Place 2000: 09700
+- Place 1990: 0025
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 316
+- Low-income units: 316
+- Units reported: 316
+- Low-income reported: 316
+- Efficiencies: 0
+- 1-bedroom units: 70
+- 2-bedroom units: 146
+- 3-bedroom units: 100
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

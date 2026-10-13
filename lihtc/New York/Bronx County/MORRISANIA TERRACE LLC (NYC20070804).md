@@ -1,0 +1,85 @@
+# Project: MORRISANIA TERRACE LLC (NYC20070804)
+
+- HUD ID: NYC20070804
+- HUD ID before: 
+- Project: MORRISANIA TERRACE LLC
+- Address: 501 EAST 165TH STREET
+- City: BRONX
+- State: NY
+- ZIP: 10456
+- ZIP extension: 
+- State project ID: 20-3860705
+- Latitude: 40.826999
+- Longitude: -73.908759
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005018501
+- Tract 2010: 36005018500
+- Tract 2000: 36005013900
+- Tract 1990: 36005013900
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 413531
+- Units: 43
+- Low-income units: 42
+- Units reported: 43
+- Low-income reported: 42
+- Efficiencies: 6
+- 1-bedroom units: 9
+- 2-bedroom units: 20
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

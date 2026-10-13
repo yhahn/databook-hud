@@ -1,0 +1,85 @@
+# Project: WESTMINSTER SENIOR (CAA20040670)
+
+- HUD ID: CAA20040670
+- HUD ID before: 
+- Project: WESTMINSTER SENIOR
+- Address: 7632 21ST ST
+- City: WESTMINSTER
+- State: CA
+- ZIP: 92683
+- ZIP extension: 
+- State project ID: CA-03-901
+- Latitude: 33.762676
+- Longitude: -117.995959
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059099802
+- Tract 2010: 06059099802
+- Tract 2000: 06059099802
+- Tract 1990: 06059099802
+- Place 2020: 84550
+- Place 2010: 84550
+- Place 2000: 84550
+- Place 1990: 3085
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 419179
+- Units: 92
+- Low-income units: 91
+- Units reported: 92
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 92
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA 7632 21ST ST LP.
+- Record status: Existing, unchanged

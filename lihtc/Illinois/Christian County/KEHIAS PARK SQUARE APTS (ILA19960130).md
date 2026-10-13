@@ -1,0 +1,85 @@
+# Project: KEHIAS PARK SQUARE APTS (ILA19960130)
+
+- HUD ID: ILA19960130
+- HUD ID before: 
+- Project: KEHIAS PARK SQUARE APTS
+- Address: 500 N STATE ST
+- City: PANA
+- State: IL
+- ZIP: 62557
+- ZIP extension: 
+- State project ID: 68294
+- Latitude: 39.39652
+- Longitude: -89.086376
+- County FIPS: 17021
+- County from: 2020
+- Tract 2020: 17021958900
+- Tract 2010: 17021958900
+- Tract 2000: 17021958900
+- Tract 1990: 17021958900
+- Place 2020: 57472
+- Place 2010: 57472
+- Place 2000: 57472
+- Place 1990: 4500
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 10884
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 9
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COUNTRY GROVE APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PANORAMA WEST APTS (COA20060015)
+
+- HUD ID: COA20060015
+- HUD ID before: 
+- Project: PANORAMA WEST APTS
+- Address: 184 S ZANG WAY
+- City: LAKEWOOD
+- State: CO
+- ZIP: 80228
+- ZIP extension: 
+- State project ID: 2005505
+- Latitude: 39.713854
+- Longitude: -105.142688
+- County FIPS: 08059
+- County from: 2020
+- Tract 2020: 08059011733
+- Tract 2010: 08059011733
+- Tract 2000: 08059011722
+- Tract 1990: 08059011713
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 0760
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 640450
+- Units: 204
+- Low-income units: 202
+- Units reported: 204
+- Low-income reported: 202
+- Efficiencies: 30
+- 1-bedroom units: 36
+- 2-bedroom units: 94
+- 3-bedroom units: 44
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PINES APTS LAKEWOOD.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MARKHAM PLAZA II (CAA20221049)
+
+- HUD ID: CAA20221049
+- HUD ID before: 
+- Project: MARKHAM PLAZA II
+- Address: 2010 MONTEREY ROAD
+- City: SAN JOSE
+- State: CA
+- ZIP: 95112
+- ZIP extension: 
+- State project ID: CA-2020-723
+- Latitude: 37.306534
+- Longitude: -121.863701
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085503122
+- Tract 2010: 06085503122
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 68000
+- Place 2010: 68000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1959231
+- Units: 152
+- Low-income units: 151
+- Units reported: 152
+- Low-income reported: 151
+- Efficiencies: 149
+- 1-bedroom units: 
+- 2-bedroom units: 3
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 151
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

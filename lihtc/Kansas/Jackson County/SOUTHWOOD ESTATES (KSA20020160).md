@@ -1,0 +1,85 @@
+# Project: SOUTHWOOD ESTATES (KSA20020160)
+
+- HUD ID: KSA20020160
+- HUD ID before: 
+- Project: SOUTHWOOD ESTATES
+- Address: 14145 N RD
+- City: MAYETTA
+- State: KS
+- ZIP: 66509
+- ZIP extension: 
+- State project ID: 60251
+- Latitude: 39.30301
+- Longitude: -95.793709
+- County FIPS: 20085
+- County from: 2020
+- Tract 2020: 20085082800
+- Tract 2010: 20085082800
+- Tract 2000: 20085982800
+- Tract 1990: 20085982800
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 13375
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 256401
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2004080.
+- Record status: Existing, unchanged

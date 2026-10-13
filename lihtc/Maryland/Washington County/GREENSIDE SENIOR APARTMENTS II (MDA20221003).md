@@ -1,0 +1,85 @@
+# Project: GREENSIDE SENIOR APARTMENTS II (MDA20221003)
+
+- HUD ID: MDA20221003
+- HUD ID before: 
+- Project: GREENSIDE SENIOR APARTMENTS II
+- Address: 14036 VILLAGE MILL DRIVE
+- City: MAUGANSVILLE
+- State: MD
+- ZIP: 21767
+- ZIP extension: 
+- State project ID: MD-89-27001-4
+- Latitude: 39.701495
+- Longitude: -77.746399
+- County FIPS: 24043
+- County from: 2020
+- Tract 2020: 24043010401
+- Tract 2010: 24043010400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51425
+- Place 2010: 51425
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 328483
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 10
+- 2-bedroom units: 20
+- 3-bedroom units: 2
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HOLLY VILLAGE APARTMENTS (NEW) (GAA20148110)
+
+- HUD ID: GAA20148110
+- HUD ID before: 
+- Project: HOLLY VILLAGE APARTMENTS (NEW)
+- Address: 128 HOLLY ST
+- City: BUCHANAN
+- State: GA
+- ZIP: 30113
+- ZIP extension: 5413
+- State project ID: 2011-524
+- Latitude: 33.799637
+- Longitude: -85.180586
+- County FIPS: 13143
+- County from: 2020
+- Tract 2020: 13143010303
+- Tract 2010: 13143010302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 11616
+- Place 2010: 11616
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: SUNRISE VILLAGE SENIOR APTS (MIA20079188)
+
+- HUD ID: MIA20079188
+- HUD ID before: 
+- Project: SUNRISE VILLAGE SENIOR APTS
+- Address: 155 MARGARET ST
+- City: SANDUSKY
+- State: MI
+- ZIP: 48471
+- ZIP extension: 
+- State project ID: MI-3056
+- Latitude: 43.417746
+- Longitude: -82.822842
+- County FIPS: 26151
+- County from: 2020
+- Tract 2020: 26151970900
+- Tract 2010: 26151970900
+- Tract 2000: 26151970900
+- Tract 1990: 26151970900
+- Place 2020: 71540
+- Place 2010: 71540
+- Place 2000: 71540
+- Place 1990: 2420
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 34
+- Low-income reported: 44
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

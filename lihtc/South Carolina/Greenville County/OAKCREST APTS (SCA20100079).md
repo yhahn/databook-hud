@@ -1,0 +1,85 @@
+# Project: OAKCREST APTS (SCA20100079)
+
+- HUD ID: SCA20100079
+- HUD ID before: 
+- Project: OAKCREST APTS
+- Address: 250 LITTLE TEXAS RD
+- City: TRAVELERS REST
+- State: SC
+- ZIP: 29690
+- ZIP extension: 
+- State project ID: SC-50-839
+- Latitude: 34.958977
+- Longitude: -82.431017
+- County FIPS: 45045
+- County from: 2020
+- Tract 2020: 45045002701
+- Tract 2010: 45045002701
+- Tract 2000: 45045002701
+- Tract 1990: 45045002700
+- Place 2020: 72430
+- Place 2010: 72430
+- Place 2000: 72430
+- Place 1990: 1420
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 90945
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA NEW OAK CREST APTS.
+- Record status: Existing, unchanged

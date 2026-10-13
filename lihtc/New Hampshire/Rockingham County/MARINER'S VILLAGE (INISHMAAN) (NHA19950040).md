@@ -1,0 +1,85 @@
+# Project: MARINER'S VILLAGE (INISHMAAN) (NHA19950040)
+
+- HUD ID: NHA19950040
+- HUD ID before: 
+- Project: MARINER'S VILLAGE (INISHMAAN)
+- Address: 145 ROCKHILL AVE
+- City: PORTSMOUTH
+- State: NH
+- ZIP: 
+- ZIP extension: 
+- State project ID: MF-57
+- Latitude: 
+- Longitude: 
+- County FIPS: 33015
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 33015069400
+- Tract 1990: 33015069400
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 62900
+- Place 1990: 2170
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 263
+- Low-income units: 53
+- Units reported: 263
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 128
+- 3-bedroom units: 95
+- 4-bedroom units: 9
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

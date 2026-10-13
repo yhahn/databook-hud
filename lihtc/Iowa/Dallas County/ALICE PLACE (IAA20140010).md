@@ -1,0 +1,85 @@
+# Project: ALICE PLACE (IAA20140010)
+
+- HUD ID: IAA20140010
+- HUD ID before: 
+- Project: ALICE PLACE
+- Address: 255 SE BRICK DRIVE
+- City: WAUKEE
+- State: IA
+- ZIP: 50263
+- ZIP extension: 8428
+- State project ID: 13-13-26
+- Latitude: 41.611939
+- Longitude: -93.847897
+- County FIPS: 19049
+- County from: 2020
+- Tract 2020: 19049050807
+- Tract 2010: 19049050807
+- Tract 2000: 19049050802
+- Tract 1990: 19049050800
+- Place 2020: 82695
+- Place 2010: 82695
+- Place 2000: 14520
+- Place 1990: 4470
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 745634
+- Units: 59
+- Low-income units: 55
+- Units reported: 59
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 47
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

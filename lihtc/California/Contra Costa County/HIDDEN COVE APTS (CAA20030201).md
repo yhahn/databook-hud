@@ -1,0 +1,85 @@
+# Project: HIDDEN COVE APTS (CAA20030201)
+
+- HUD ID: CAA20030201
+- HUD ID before: 
+- Project: HIDDEN COVE APTS
+- Address: 2901 MARY ANN LN
+- City: BAY POINT
+- State: CA
+- ZIP: 94565
+- ZIP extension: 
+- State project ID: CA-03-828
+- Latitude: 38.024361
+- Longitude: -121.943279
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013314105
+- Tract 2010: 06013314104
+- Tract 2000: 06013314104
+- Tract 1990: 06013314101
+- Place 2020: 04415
+- Place 2010: 04415
+- Place 2000: 04415
+- Place 1990: 3094
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 310899
+- Units: 88
+- Low-income units: 87
+- Units reported: 88
+- Low-income reported: 87
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 60
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1990097, CAA0000805, CAA2003205.
+- Record status: Existing, unchanged

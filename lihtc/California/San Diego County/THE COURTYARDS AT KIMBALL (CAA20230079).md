@@ -1,0 +1,85 @@
+# Project: THE COURTYARDS AT KIMBALL (CAA20230079)
+
+- HUD ID: CAA20230079
+- HUD ID before: 
+- Project: THE COURTYARDS AT KIMBALL
+- Address: 1125 NATIONAL CITY BOULEVARD
+- City: NATIONAL CITY
+- State: CA
+- ZIP: 91950
+- ZIP extension: 
+- State project ID: CA-2020-535
+- Latitude: 32.673022
+- Longitude: -117.105559
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073011700
+- Tract 2010: 06073011700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 50398
+- Place 2010: 50398
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 3539925
+- Units: 131
+- Low-income units: 130
+- Units reported: 131
+- Low-income reported: 130
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 24
+- 3-bedroom units: 74
+- 4-bedroom units: 33
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

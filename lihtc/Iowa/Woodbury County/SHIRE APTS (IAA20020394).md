@@ -1,0 +1,85 @@
+# Project: SHIRE APTS (IAA20020394)
+
+- HUD ID: IAA20020394
+- HUD ID before: 
+- Project: SHIRE APTS
+- Address: 4236 HICKORY LN
+- City: SIOUX CITY
+- State: IA
+- ZIP: 51106
+- ZIP extension: 
+- State project ID: 99-74
+- Latitude: 42.448166
+- Longitude: -96.35789
+- County FIPS: 19193
+- County from: 2020
+- Tract 2020: 19193002102
+- Tract 2010: 19193002102
+- Tract 2000: 19193002102
+- Tract 1990: 19193002102
+- Place 2020: 73335
+- Place 2010: 73335
+- Place 2000: 73335
+- Place 1990: 3980
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 129265
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2001065.
+- Record status: Existing, unchanged

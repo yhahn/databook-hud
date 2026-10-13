@@ -1,0 +1,85 @@
+# Project: LINDEN GREEN (VAA20110819)
+
+- HUD ID: VAA20110819
+- HUD ID before: 
+- Project: LINDEN GREEN
+- Address: 1600 SIMPSON RD
+- City: CHRISTIANSBURG
+- State: VA
+- ZIP: 24073
+- ZIP extension: 
+- State project ID: 1295
+- Latitude: 37.139263
+- Longitude: -80.379521
+- County FIPS: 51121
+- County from: 2020
+- Tract 2020: 51121020801
+- Tract 2010: 51121020800
+- Tract 2000: 51121020800
+- Tract 1990: 51121020800
+- Place 2020: 16608
+- Place 2010: 16608
+- Place 2000: 16608
+- Place 1990: 0260
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 331845
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 34
+- 3-bedroom units: 26
+- 4-bedroom units: 12
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 2322685
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

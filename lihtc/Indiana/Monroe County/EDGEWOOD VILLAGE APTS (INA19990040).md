@@ -1,0 +1,85 @@
+# Project: EDGEWOOD VILLAGE APTS (INA19990040)
+
+- HUD ID: INA19990040
+- HUD ID before: 
+- Project: EDGEWOOD VILLAGE APTS
+- Address: 7400 W MUSTANG DR
+- City: ELLETTSVILLE
+- State: IN
+- ZIP: 47429
+- ZIP extension: 
+- State project ID: IN-97-03200
+- Latitude: 39.2323
+- Longitude: -86.635962
+- County FIPS: 18105
+- County from: 2020
+- Tract 2020: 18105001304
+- Tract 2010: 18105001304
+- Tract 2000: 18105001304
+- Tract 1990: 18105001302
+- Place 2020: 20800
+- Place 2010: 20800
+- Place 2000: 20800
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 229712
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

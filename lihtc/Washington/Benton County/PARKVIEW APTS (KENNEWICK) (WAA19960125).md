@@ -1,0 +1,85 @@
+# Project: PARKVIEW APTS (KENNEWICK) (WAA19960125)
+
+- HUD ID: WAA19960125
+- HUD ID before: 
+- Project: PARKVIEW APTS (KENNEWICK)
+- Address: 1138 W TENTH AVE
+- City: KENNEWICK
+- State: WA
+- ZIP: 99336
+- ZIP extension: 
+- State project ID: 94-33A
+- Latitude: 46.198718
+- Longitude: -119.135157
+- County FIPS: 53005
+- County from: 2020
+- Tract 2020: 53005011202
+- Tract 2010: 53005011200
+- Tract 2000: 53005011200
+- Tract 1990: 53005011200
+- Place 2020: 35275
+- Place 2010: 35275
+- Place 2000: 35275
+- Place 1990: 0610
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 540914
+- Units: 107
+- Low-income units: 107
+- Units reported: 107
+- Low-income reported: 107
+- Efficiencies: 12
+- 1-bedroom units: 26
+- 2-bedroom units: 40
+- 3-bedroom units: 29
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 107
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

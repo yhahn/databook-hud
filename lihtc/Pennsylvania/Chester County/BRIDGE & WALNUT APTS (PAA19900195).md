@@ -1,0 +1,85 @@
+# Project: BRIDGE & WALNUT APTS (PAA19900195)
+
+- HUD ID: PAA19900195
+- HUD ID before: 
+- Project: BRIDGE & WALNUT APTS
+- Address: 444 BRIDGE ST
+- City: PHOENIXVILLE
+- State: PA
+- ZIP: 19460
+- ZIP extension: 
+- State project ID: TC1990-0084
+- Latitude: 40.131056
+- Longitude: -75.521977
+- County FIPS: 42029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42029300700
+- Tract 2000: 42029300700
+- Tract 1990: 42029300700
+- Place 2020: 
+- Place 2010: 60120
+- Place 2000: 60120
+- Place 1990: 7188
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 15530
+- Units: 5
+- Low-income units: 4
+- Units reported: 5
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

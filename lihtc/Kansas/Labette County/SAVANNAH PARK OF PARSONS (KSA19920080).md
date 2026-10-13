@@ -1,0 +1,85 @@
+# Project: SAVANNAH PARK OF PARSONS (KSA19920080)
+
+- HUD ID: KSA19920080
+- HUD ID before: 
+- Project: SAVANNAH PARK OF PARSONS
+- Address: 224 REINHART DR
+- City: PARSONS
+- State: KS
+- ZIP: 67357
+- ZIP extension: 
+- State project ID: 60234
+- Latitude: 37.342985
+- Longitude: -95.235159
+- County FIPS: 20099
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 20099950100
+- Tract 2000: 20099950100
+- Tract 1990: 20099950100
+- Place 2020: 
+- Place 2010: 54675
+- Place 2000: 54675
+- Place 1990: 2245
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 54285
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1992050. AKA GARDEN WALK OR SILVERSTONE PLACE.
+- Record status: Existing, unchanged

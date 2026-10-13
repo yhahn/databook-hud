@@ -1,0 +1,85 @@
+# Project: OWENSVILLE MANOR (OHA20060170)
+
+- HUD ID: OHA20060170
+- HUD ID before: 
+- Project: OWENSVILLE MANOR
+- Address: 419 EVANS CT
+- City: OWENSVILLE
+- State: OH
+- ZIP: 
+- ZIP extension: 
+- State project ID: 040088
+- Latitude: 
+- Longitude: 
+- County FIPS: 39025
+- County from: 2020
+- Tract 2020: 39025040800
+- Tract 2010: 
+- Tract 2000: 39025040800
+- Tract 1990: 39025040800
+- Place 2020: 59220
+- Place 2010: 
+- Place 2000: 59220
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 205686
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1993245.
+- Record status: Existing, unchanged

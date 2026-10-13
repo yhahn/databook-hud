@@ -1,0 +1,85 @@
+# Project: FEDERALSBURG SQUARE (MDA20160006)
+
+- HUD ID: MDA20160006
+- HUD ID before: 
+- Project: FEDERALSBURG SQUARE
+- Address: 101 ROUTZAHN LANE
+- City: FEDERALSBURG
+- State: MD
+- ZIP: 21632
+- ZIP extension: 
+- State project ID: MD-14-27
+- Latitude: 38.695065
+- Longitude: -75.768803
+- County FIPS: 24011
+- County from: 2020
+- Tract 2020: 24011955600
+- Tract 2010: 24011955600
+- Tract 2000: 24011955600
+- Tract 1990: 
+- Place 2020: 27900
+- Place 2010: 27900
+- Place 2000: 27900
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 342729
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 
+- 1-bedroom units: 44
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

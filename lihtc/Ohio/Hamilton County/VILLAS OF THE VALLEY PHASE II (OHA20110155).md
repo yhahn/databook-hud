@@ -1,0 +1,85 @@
+# Project: VILLAS OF THE VALLEY PHASE II (OHA20110155)
+
+- HUD ID: OHA20110155
+- HUD ID before: 
+- Project: VILLAS OF THE VALLEY PHASE II
+- Address: 2170 GILBERT AVE
+- City: CINCINNATI
+- State: OH
+- ZIP: 45206
+- ZIP extension: 
+- State project ID: 09-0008
+- Latitude: 39.120132
+- Longitude: -84.494283
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061001900
+- Tract 2010: 39061001900
+- Tract 2000: 39061001900
+- Tract 1990: 39061001900
+- Place 2020: 15000
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0865
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 25
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1115898
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2011849. AKA VILLAS OF THE VALLEY II.
+- Record status: Existing, unchanged

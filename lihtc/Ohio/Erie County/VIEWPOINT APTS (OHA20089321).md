@@ -1,0 +1,85 @@
+# Project: VIEWPOINT APTS (OHA20089321)
+
+- HUD ID: OHA20089321
+- HUD ID before: 
+- Project: VIEWPOINT APTS
+- Address: 215 E SHORELINE DR
+- City: SANDUSKY
+- State: OH
+- ZIP: 44870
+- ZIP extension: 
+- State project ID: 060145
+- Latitude: 41.458477
+- Longitude: -82.710569
+- County FIPS: 39043
+- County from: 2020
+- Tract 2020: 39043040802
+- Tract 2010: 39043040800
+- Tract 2000: 39043040800
+- Tract 1990: 39043040800
+- Place 2020: 70380
+- Place 2010: 70380
+- Place 2000: 70380
+- Place 1990: 3830
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 100000
+- Units: 117
+- Low-income units: 117
+- Units reported: 117
+- Low-income reported: 117
+- Efficiencies: 9
+- 1-bedroom units: 108
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006705, OHA2008255.
+- Record status: Existing, unchanged

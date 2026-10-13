@@ -1,0 +1,85 @@
+# Project: AMBERWOOD PLACE I (INA19990005)
+
+- HUD ID: INA19990005
+- HUD ID before: 
+- Project: AMBERWOOD PLACE I
+- Address: 2864 AMBERWOOD PL
+- City: KOKOMO
+- State: IN
+- ZIP: 46901
+- ZIP extension: 
+- State project ID: IN-98-01500
+- Latitude: 40.518304
+- Longitude: -86.135083
+- County FIPS: 18067
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18067000400
+- Tract 2000: 18067000400
+- Tract 1990: 18067000400
+- Place 2020: 
+- Place 2010: 40392
+- Place 2000: 40392
+- Place 1990: 1255
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 112
+- Low-income units: 87
+- Units reported: 112
+- Low-income reported: 87
+- Efficiencies: 8
+- 1-bedroom units: 8
+- 2-bedroom units: 64
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FREMONT APTS (SCA20020025)
+
+- HUD ID: SCA20020025
+- HUD ID before: 
+- Project: FREMONT APTS
+- Address: 600 MAGNOLIA ST
+- City: SPARTANBURG
+- State: SC
+- ZIP: 29303
+- ZIP extension: 
+- State project ID: SC-00-017
+- Latitude: 34.960173
+- Longitude: -81.94209
+- County FIPS: 45083
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 45083020301
+- Tract 2000: 45083020301
+- Tract 1990: 45083020301
+- Place 2020: 
+- Place 2010: 68290
+- Place 2000: 68290
+- Place 1990: 1340
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 299570
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 12
+- 1-bedroom units: 21
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 75000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

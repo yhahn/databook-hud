@@ -1,0 +1,85 @@
+# Project: MARCUS GARVEY COMMONS AND HISMEN HIN-NU TERRACE (CAA20161033)
+
+- HUD ID: CAA20161033
+- HUD ID before: 
+- Project: MARCUS GARVEY COMMONS AND HISMEN HIN-NU TERRACE
+- Address: 2555 EAST 14TH STREET
+- City: OAKLAND
+- State: CA
+- ZIP: 92553
+- ZIP extension: 
+- State project ID: CA-15-866
+- Latitude: 37.781592
+- Longitude: -122.233322
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001406100
+- Tract 2010: 06001406100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 492704
+- Units: 109
+- Low-income units: 108
+- Units reported: 109
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 55
+- 4-bedroom units: 54
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 646250
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

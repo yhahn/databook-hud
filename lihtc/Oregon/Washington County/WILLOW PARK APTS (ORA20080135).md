@@ -1,0 +1,85 @@
+# Project: WILLOW PARK APTS (ORA20080135)
+
+- HUD ID: ORA20080135
+- HUD ID before: 
+- Project: WILLOW PARK APTS
+- Address: 2824 22ND AVE
+- City: FOREST GROVE
+- State: OR
+- ZIP: 97116
+- ZIP extension: 
+- State project ID: OR97-010
+- Latitude: 45.522207
+- Longitude: -123.096331
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067033201
+- Tract 2010: 41067033200
+- Tract 2000: 41067033200
+- Tract 1990: 41067033200
+- Place 2020: 26200
+- Place 2010: 26200
+- Place 2000: 15550
+- Place 1990: 0385
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 139370
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 45
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 46
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA1999166. AKA PROYECTO ADELANTES FAMILIAS.
+- Record status: Existing, unchanged

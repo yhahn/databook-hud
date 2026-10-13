@@ -1,0 +1,85 @@
+# Project: ROSENBURG BUILDING (CAA19910142)
+
+- HUD ID: CAA19910142
+- HUD ID before: 
+- Project: ROSENBURG BUILDING
+- Address: 306 MENDOCINO AVE
+- City: SANTA ROSA
+- State: CA
+- ZIP: 95401
+- ZIP extension: 
+- State project ID: CA-89-054
+- Latitude: 38.440725
+- Longitude: -122.713949
+- County FIPS: 06097
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06097152000
+- Tract 2000: 06097152000
+- Tract 1990: 06097152000
+- Place 2020: 
+- Place 2010: 70098
+- Place 2000: 70098
+- Place 1990: 2615
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 482339
+- Units: 77
+- Low-income units: 76
+- Units reported: 77
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 77
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0001320.
+- Record status: Existing, unchanged

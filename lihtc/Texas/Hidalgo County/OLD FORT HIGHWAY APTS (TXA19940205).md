@@ -1,0 +1,85 @@
+# Project: OLD FORT HIGHWAY APTS (TXA19940205)
+
+- HUD ID: TXA19940205
+- HUD ID before: 
+- Project: OLD FORT HIGHWAY APTS
+- Address: 1101 E PIRATE DR
+- City: HIDALGO
+- State: TX
+- ZIP: 
+- ZIP extension: 
+- State project ID: TX-92-003
+- Latitude: 26.098599
+- Longitude: -98.250882
+- County FIPS: 48215
+- County from: 2020
+- Tract 2020: 48215021308
+- Tract 2010: 48215021304
+- Tract 2000: 48215021301
+- Tract 1990: 48215021301
+- Place 2020: 33560
+- Place 2010: 33560
+- Place 2000: 30608
+- Place 1990: 1895
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

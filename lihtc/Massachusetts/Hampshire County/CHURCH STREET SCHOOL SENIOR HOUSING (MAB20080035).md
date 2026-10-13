@@ -1,0 +1,85 @@
+# Project: CHURCH STREET SCHOOL SENIOR HOUSING (MAB20080035)
+
+- HUD ID: MAB20080035
+- HUD ID before: 
+- Project: CHURCH STREET SCHOOL SENIOR HOUSING
+- Address: 68 CHURCH ST
+- City: WARE
+- State: MA
+- ZIP: 01082
+- ZIP extension: 
+- State project ID: 1293
+- Latitude: 42.264912
+- Longitude: -72.235843
+- County FIPS: 25015
+- County from: 2020
+- Tract 2020: 25015820102
+- Tract 2010: 25015820102
+- Tract 2000: 25015820102
+- Tract 1990: 25015820100
+- Place 2020: 72845
+- Place 2010: 72845
+- Place 2000: 72845
+- Place 1990: 4450
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 399256
+- Units: 29
+- Low-income units: 29
+- Units reported: 29
+- Low-income reported: 29
+- Efficiencies: 3
+- 1-bedroom units: 25
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 270989
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000202.
+- Record status: Existing, unchanged

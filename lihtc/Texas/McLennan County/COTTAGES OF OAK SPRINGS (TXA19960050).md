@@ -1,0 +1,85 @@
+# Project: COTTAGES OF OAK SPRINGS (TXA19960050)
+
+- HUD ID: TXA19960050
+- HUD ID before: 
+- Project: COTTAGES OF OAK SPRINGS
+- Address: 1900 WOODGATE DR
+- City: WACO
+- State: TX
+- ZIP: 76712
+- ZIP extension: 
+- State project ID: TX1251
+- Latitude: 31.478841
+- Longitude: -97.212199
+- County FIPS: 48309
+- County from: 2020
+- Tract 2020: 48309003711
+- Tract 2010: 48309003707
+- Tract 2000: 48309003707
+- Tract 1990: 48309003705
+- Place 2020: 76000
+- Place 2010: 76000
+- Place 2000: 33428
+- Place 1990: 1888
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 100
+- Units reported: 144
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 88
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

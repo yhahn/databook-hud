@@ -1,0 +1,85 @@
+# Project: COLONIAL VILLAGE APTS (MOA19930105)
+
+- HUD ID: MOA19930105
+- HUD ID before: 
+- Project: COLONIAL VILLAGE APTS
+- Address: 3788 ITASKA ST
+- City: ST LOUIS
+- State: MO
+- ZIP: 
+- ZIP extension: 
+- State project ID: 91-108
+- Latitude: 
+- Longitude: 
+- County FIPS: 29510
+- County from: 2000
+- Tract 2020: 
+- Tract 2010: 
+- Tract 2000: 29510115300
+- Tract 1990: 29510115300
+- Place 2020: 
+- Place 2010: 
+- Place 2000: 65000
+- Place 1990: 3875
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 164
+- Low-income units: 131
+- Units reported: 164
+- Low-income reported: 131
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

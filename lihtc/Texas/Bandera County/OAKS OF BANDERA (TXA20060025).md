@@ -1,0 +1,85 @@
+# Project: OAKS OF BANDERA (TXA20060025)
+
+- HUD ID: TXA20060025
+- HUD ID before: 
+- Project: OAKS OF BANDERA
+- Address: 451 SAN ANTONIO
+- City: BANDERA
+- State: TX
+- ZIP: 
+- ZIP extension: 
+- State project ID: TX4100
+- Latitude: 29.738227
+- Longitude: -99.083668
+- County FIPS: 48019
+- County from: 2020
+- Tract 2020: 48019000103
+- Tract 2010: 48019000102
+- Tract 2000: 48019980100
+- Tract 1990: 48019980100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 05528
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 465153
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 36
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

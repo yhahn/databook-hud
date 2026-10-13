@@ -1,0 +1,85 @@
+# Project: 245 CHESTNUT ST (INA19910002)
+
+- HUD ID: INA19910002
+- HUD ID before: 
+- Project: 245 CHESTNUT ST
+- Address: 245 CHESTNUT ST
+- City: LAFAYETTE
+- State: IN
+- ZIP: 47905
+- ZIP extension: 
+- State project ID: IN-91-03000
+- Latitude: 40.41196
+- Longitude: -86.895269
+- County FIPS: 18157
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18157011100
+- Tract 2000: 18157000900
+- Tract 1990: 18157000900
+- Place 2020: 
+- Place 2010: 40788
+- Place 2000: 40788
+- Place 1990: 1285
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0000895.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WESTWAY GARDENS APTS (OHA20100146)
+
+- HUD ID: OHA20100146
+- HUD ID before: 
+- Project: WESTWAY GARDENS APTS
+- Address: 1013 GARDEN ST
+- City: ELYRIA
+- State: OH
+- ZIP: 44035
+- ZIP extension: 
+- State project ID: 100092
+- Latitude: 41.356561
+- Longitude: -82.124051
+- County FIPS: 39093
+- County from: 2020
+- Tract 2020: 39093070901
+- Tract 2010: 39093070901
+- Tract 2000: 39093070901
+- Tract 1990: 39093070901
+- Place 2020: 25256
+- Place 2010: 25256
+- Place 2000: 25256
+- Place 1990: 1300
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 300
+- Low-income units: 300
+- Units reported: 300
+- Low-income reported: 300
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 202
+- 3-bedroom units: 98
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1994350.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BELTON WOODS (SCA20020007)
+
+- HUD ID: SCA20020007
+- HUD ID before: 
+- Project: BELTON WOODS
+- Address: 110 HOWARD LN
+- City: ANDERSON
+- State: SC
+- ZIP: 29621
+- ZIP extension: 
+- State project ID: SC-50-101
+- Latitude: 34.489345
+- Longitude: -82.617641
+- County FIPS: 45007
+- County from: 2020
+- Tract 2020: 45007000500
+- Tract 2010: 45007000500
+- Tract 2000: 45007000500
+- Tract 1990: 45007000500
+- Place 2020: 01360
+- Place 2010: 01360
+- Place 2000: 01360
+- Place 1990: 0035
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 265322
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 54
+- 3-bedroom units: 70
+- 4-bedroom units: 36
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA2004020. FKA ANDERSON GARDENS
+- Record status: Existing, unchanged

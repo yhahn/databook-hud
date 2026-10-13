@@ -1,0 +1,85 @@
+# Project: DREXEL PRESERVATION (ILB20070015)
+
+- HUD ID: ILB20070015
+- HUD ID before: 
+- Project: DREXEL PRESERVATION
+- Address: 4725 S INGLESIDE AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60615
+- ZIP extension: 
+- State project ID: TC07-026
+- Latitude: 41.808805
+- Longitude: -87.602576
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031390400
+- Tract 2010: 17031390400
+- Tract 2000: 17031390400
+- Tract 1990: 17031390400
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 501394
+- Units: 155
+- Low-income units: 154
+- Units reported: 155
+- Low-income reported: 154
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 60
+- 3-bedroom units: 15
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 154
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MILESTONE APTS-MARIAN RUSSELL (DCB20110808)
+
+- HUD ID: DCB20110808
+- HUD ID before: 
+- Project: MILESTONE APTS-MARIAN RUSSELL
+- Address: 115 16TH ST NE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20002
+- ZIP extension: 
+- State project ID: DCB2011045-1602
+- Latitude: 38.891385
+- Longitude: -76.982018
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001008002
+- Tract 2010: 11001008002
+- Tract 2000: 11001008002
+- Tract 1990: 11001008002
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 10
+- Units reported: 12
+- Low-income reported: 10
+- Efficiencies: 1
+- 1-bedroom units: 11
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 746020
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

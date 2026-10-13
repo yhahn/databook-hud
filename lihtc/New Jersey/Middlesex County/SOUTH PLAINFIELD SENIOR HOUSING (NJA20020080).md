@@ -1,0 +1,85 @@
+# Project: SOUTH PLAINFIELD SENIOR HOUSING (NJA20020080)
+
+- HUD ID: NJA20020080
+- HUD ID before: 
+- Project: SOUTH PLAINFIELD SENIOR HOUSING
+- Address: 151 MORRIS AVENUE
+- City: SOUTH PLAINFIELD BORO
+- State: NJ
+- ZIP: 07080
+- ZIP extension: 
+- State project ID: NJ-00-55
+- Latitude: 40.595107
+- Longitude: -74.405742
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023000902
+- Tract 2010: 34023000902
+- Tract 2000: 34023000902
+- Tract 1990: 34023000902
+- Place 2020: 69390
+- Place 2010: 69390
+- Place 2000: 69390
+- Place 1990: 3605
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 447482
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2012837.
+- Record status: Existing, unchanged

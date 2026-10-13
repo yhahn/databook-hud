@@ -1,0 +1,85 @@
+# Project: PASEO VILLAGE FAMILY APTS (CAA20130073)
+
+- HUD ID: CAA20130073
+- HUD ID before: 
+- Project: PASEO VILLAGE FAMILY APTS
+- Address: 1115 N CITRON ST
+- City: ANAHEIM
+- State: CA
+- ZIP: 92801
+- ZIP extension: 
+- State project ID: CA-12-906
+- Latitude: 33.848888
+- Longitude: -117.928937
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059086601
+- Tract 2010: 06059086601
+- Tract 2000: 06059086601
+- Tract 1990: 06059086601
+- Place 2020: 02000
+- Place 2010: 02000
+- Place 2000: 02000
+- Place 1990: 0070
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 966349
+- Units: 174
+- Low-income units: 174
+- Units reported: 174
+- Low-income reported: 174
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 84
+- 3-bedroom units: 54
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1997445. AKA SOUTH OF ROMNEYA.
+- Record status: Existing, unchanged

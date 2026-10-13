@@ -1,0 +1,85 @@
+# Project: WILLOW WOOD ESTATES (MNA20050142)
+
+- HUD ID: MNA20050142
+- HUD ID before: 
+- Project: WILLOW WOOD ESTATES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: PLYMOUTH
+- State: MN
+- ZIP: 55441
+- ZIP extension: 
+- State project ID: D3427
+- Latitude: 45.0127
+- Longitude: -93.4189
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053026516
+- Tract 2010: 27053026512
+- Tract 2000: 27053026507
+- Tract 1990: 27053026507
+- Place 2020: 41462
+- Place 2010: 41462
+- Place 2000: 41462
+- Place 1990: 3105
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 36
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA2004220. AKA PLYMOUTH LEASED HOUSING ASSOC II.
+- Record status: Existing, unchanged

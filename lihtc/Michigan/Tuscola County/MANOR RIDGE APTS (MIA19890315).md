@@ -1,0 +1,85 @@
+# Project: MANOR RIDGE APTS (MIA19890315)
+
+- HUD ID: MIA19890315
+- HUD ID before: 
+- Project: MANOR RIDGE APTS
+- Address: 690 WELSH BLVD
+- City: VASSAR
+- State: MI
+- ZIP: 48768
+- ZIP extension: 
+- State project ID: MI-1983
+- Latitude: 43.378306
+- Longitude: -83.573221
+- County FIPS: 26157
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26157000900
+- Tract 2000: 26157960900
+- Tract 1990: 26157960900
+- Place 2020: 
+- Place 2010: 81840
+- Place 2000: 81840
+- Place 1990: 2740
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

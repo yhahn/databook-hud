@@ -1,0 +1,85 @@
+# Project: DEERING PLACE (MEA20211002)
+
+- HUD ID: MEA20211002
+- HUD ID before: 
+- Project: DEERING PLACE
+- Address: 61 DEERING STREET
+- City: PORTLAND
+- State: ME
+- ZIP: 04101
+- ZIP extension: 
+- State project ID: MSHARLP1658
+- Latitude: 43.654011
+- Longitude: -70.268651
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005001000
+- Tract 2010: 23005001000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 60545
+- Place 2010: 60545
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 809045
+- Units: 75
+- Low-income units: 44
+- Units reported: 75
+- Low-income reported: 44
+- Efficiencies: 16
+- 1-bedroom units: 37
+- 2-bedroom units: 10
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 44
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HUNTERS CHASE SENIOR APTS (TXA20130807)
+
+- HUD ID: TXA20130807
+- HUD ID before: 
+- Project: HUNTERS CHASE SENIOR APTS
+- Address: 1501 E BELTON AVE
+- City: ROCKDALE
+- State: TX
+- ZIP: 76567
+- ZIP extension: 
+- State project ID: TX4800
+- Latitude: 30.664279
+- Longitude: -96.989622
+- County FIPS: 48331
+- County from: 2020
+- Tract 2020: 48331950700
+- Tract 2010: 48331950700
+- Tract 2000: 48331950700
+- Tract 1990: 48331950700
+- Place 2020: 62672
+- Place 2010: 62672
+- Place 2000: 62672
+- Place 1990: 3615
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HUNTER'S CHASE SENIOR APTS.
+- Record status: Existing, unchanged

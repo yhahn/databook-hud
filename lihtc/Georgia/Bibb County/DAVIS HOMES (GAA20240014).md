@@ -1,0 +1,85 @@
+# Project: DAVIS HOMES (GAA20240014)
+
+- HUD ID: GAA20240014
+- HUD ID before: 
+- Project: DAVIS HOMES
+- Address: 905 MAIN STREET
+- City: MACON
+- State: GA
+- ZIP: 31217
+- ZIP extension: 0000
+- State project ID: 2020-517
+- Latitude: 32.846336
+- Longitude: -83.608924
+- County FIPS: 13021
+- County from: 2020
+- Tract 2020: 13021013800
+- Tract 2010: 13021013800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 49008
+- Place 2010: 49000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 1708307
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 208
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 47
+- 3-bedroom units: 84
+- 4-bedroom units: 50
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: TOWN PLACE APTS (MIA19950160)
+
+- HUD ID: MIA19950160
+- HUD ID before: 
+- Project: TOWN PLACE APTS
+- Address: 120 TOWN PL CT
+- City: HESPERIA
+- State: MI
+- ZIP: 49421
+- ZIP extension: 
+- State project ID: MI-2233
+- Latitude: 43.57155
+- Longitude: -86.033583
+- County FIPS: 26123
+- County from: 2020
+- Tract 2020: 26123970300
+- Tract 2010: 26123970300
+- Tract 2000: 26123970300
+- Tract 1990: 26123970300
+- Place 2020: 99999
+- Place 2010: 37860
+- Place 2000: 37860
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 15
+- Units reported: 16
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

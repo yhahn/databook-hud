@@ -1,0 +1,85 @@
+# Project: LORIN FARR CROWN (UTA19940045)
+
+- HUD ID: UTA19940045
+- HUD ID before: 
+- Project: LORIN FARR CROWN
+- Address: 1183 22ND ST
+- City: OGDEN
+- State: UT
+- ZIP: 84401
+- ZIP extension: 
+- State project ID: 1993-01
+- Latitude: 41.22663
+- Longitude: -111.948455
+- County FIPS: 49057
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49057200800
+- Tract 2000: 49057200800
+- Tract 1990: 49057200800
+- Place 2020: 
+- Place 2010: 55980
+- Place 2000: 55980
+- Place 1990: 0695
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

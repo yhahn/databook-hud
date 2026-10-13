@@ -1,0 +1,85 @@
+# Project: LINDA VISTA SENIOR APTS (CAA19980230)
+
+- HUD ID: CAA19980230
+- HUD ID before: 
+- Project: LINDA VISTA SENIOR APTS
+- Address: 67200 HACIENDA AVE
+- City: DESERT HOT SPRINGS
+- State: CA
+- ZIP: 92240
+- ZIP extension: 
+- State project ID: CA-96-245
+- Latitude: 33.954318
+- Longitude: -116.489174
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065044510
+- Tract 2010: 06065044510
+- Tract 2000: 06065044510
+- Tract 1990: 06065044502
+- Place 2020: 18996
+- Place 2010: 18996
+- Place 2000: 18996
+- Place 1990: 0765
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 174161
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 47
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

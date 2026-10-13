@@ -1,0 +1,85 @@
+# Project: HIGHLAND VILLAGE APTS (MAB20020020)
+
+- HUD ID: MAB20020020
+- HUD ID before: 
+- Project: HIGHLAND VILLAGE APTS
+- Address: 27 BOULDER DR
+- City: WARE
+- State: MA
+- ZIP: 01082
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.26906
+- Longitude: -72.236214
+- County FIPS: 25015
+- County from: 2020
+- Tract 2020: 25015820102
+- Tract 2010: 25015820102
+- Tract 2000: 25015820102
+- Tract 1990: 25015820100
+- Place 2020: 72845
+- Place 2010: 72845
+- Place 2000: 72845
+- Place 1990: 4450
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 50
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HARTSHORNE VILLAGE (OKA20060015)
+
+- HUD ID: OKA20060015
+- HUD ID before: 
+- Project: HARTSHORNE VILLAGE
+- Address: 900 LEHIGH AVE
+- City: HARTSHORNE
+- State: OK
+- ZIP: 74547
+- ZIP extension: 
+- State project ID: 050101
+- Latitude: 34.844269
+- Longitude: -95.558551
+- County FIPS: 40121
+- County from: 2020
+- Tract 2020: 40121486700
+- Tract 2010: 40121486700
+- Tract 2000: 40121986700
+- Tract 1990: 40121986700
+- Place 2020: 32850
+- Place 2010: 32850
+- Place 2000: 31900
+- Place 1990: 1065
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 45736
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 2
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

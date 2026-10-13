@@ -1,0 +1,85 @@
+# Project: SOUTH GLEN APTS (NEA20000065)
+
+- HUD ID: NEA20000065
+- HUD ID before: 
+- Project: SOUTH GLEN APTS
+- Address: 2315 SCHNEIDER AVE
+- City: AUBURN
+- State: NE
+- ZIP: 68305
+- ZIP extension: 
+- State project ID: 7-0457
+- Latitude: 40.380941
+- Longitude: -95.836958
+- County FIPS: 31127
+- County from: 2020
+- Tract 2020: 31127968200
+- Tract 2010: 31127968200
+- Tract 2000: 31127998200
+- Tract 1990: 31127998200
+- Place 2020: 02655
+- Place 2010: 02655
+- Place 2000: 02655
+- Place 1990: 0125
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 90065
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 10
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

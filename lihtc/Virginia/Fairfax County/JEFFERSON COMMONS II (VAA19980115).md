@@ -1,0 +1,85 @@
+# Project: JEFFERSON COMMONS II (VAA19980115)
+
+- HUD ID: VAA19980115
+- HUD ID before: 
+- Project: JEFFERSON COMMONS II
+- Address: 2452 MASONS FERRY DR
+- City: HERNDON
+- State: VA
+- ZIP: 20171
+- ZIP extension: 
+- State project ID: 4546
+- Latitude: 38.946672
+- Longitude: -77.407742
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059481103
+- Tract 2010: 51059481103
+- Tract 2000: 51059481100
+- Tract 1990: 51059481100
+- Place 2020: 48450
+- Place 2010: 48450
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 348117
+- Units: 136
+- Low-income units: 136
+- Units reported: 136
+- Low-income reported: 136
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 102
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2005739.
+- Record status: Existing, unchanged

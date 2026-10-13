@@ -1,0 +1,85 @@
+# Project: HIGHLAND MANOR APTS (INA19960090)
+
+- HUD ID: INA19960090
+- HUD ID before: 
+- Project: HIGHLAND MANOR APTS
+- Address: 133 W DEPOT ST
+- City: PERRYSVILLE
+- State: IN
+- ZIP: 47974
+- ZIP extension: 
+- State project ID: IN-95-01600
+- Latitude: 40.049137
+- Longitude: -87.434115
+- County FIPS: 18165
+- County from: 2020
+- Tract 2020: 18165020100
+- Tract 2010: 18165020100
+- Tract 2000: 18165020100
+- Tract 1990: 18165020100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 10954
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 119880
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

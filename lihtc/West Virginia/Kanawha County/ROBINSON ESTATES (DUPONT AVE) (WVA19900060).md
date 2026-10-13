@@ -1,0 +1,85 @@
+# Project: ROBINSON ESTATES (DUPONT AVE) (WVA19900060)
+
+- HUD ID: WVA19900060
+- HUD ID before: 
+- Project: ROBINSON ESTATES (DUPONT AVE)
+- Address: 118 E DUPONT AVE
+- City: BELLE
+- State: WV
+- ZIP: 25015
+- ZIP extension: 
+- State project ID: WV-90-00501
+- Latitude: 38.235389
+- Longitude: -81.541688
+- County FIPS: 54039
+- County from: 2020
+- Tract 2020: 54039011500
+- Tract 2010: 54039011500
+- Tract 2000: 54039011500
+- Tract 1990: 54039011500
+- Place 2020: 05836
+- Place 2010: 05836
+- Place 2000: 05836
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

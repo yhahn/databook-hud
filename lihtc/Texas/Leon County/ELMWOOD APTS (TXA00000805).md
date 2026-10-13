@@ -1,0 +1,85 @@
+# Project: ELMWOOD APTS (TXA00000805)
+
+- HUD ID: TXA00000805
+- HUD ID before: 
+- Project: ELMWOOD APTS
+- Address: 231 GENE ST
+- City: BUFFALO
+- State: TX
+- ZIP: 75831
+- ZIP extension: 
+- State project ID: TX4833
+- Latitude: 31.457254
+- Longitude: -96.071888
+- County FIPS: 48289
+- County from: 2020
+- Tract 2020: 48289950101
+- Tract 2010: 48289950100
+- Tract 2000: 48289950100
+- Tract 1990: 48289950100
+- Place 2020: 11116
+- Place 2010: 11116
+- Place 2000: 11116
+- Place 1990: 0630
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 20538
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 369733
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

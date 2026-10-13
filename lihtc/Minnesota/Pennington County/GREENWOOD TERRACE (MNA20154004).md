@@ -1,0 +1,85 @@
+# Project: GREENWOOD TERRACE (MNA20154004)
+
+- HUD ID: MNA20154004
+- HUD ID before: MNA19970065
+- Project: GREENWOOD TERRACE
+- Address: 2001 GREENWOOD ST E
+- City: THIEF RIVER FALLS
+- State: MN
+- ZIP: 56701
+- ZIP extension: 
+- State project ID: D2004
+- Latitude: 48.108779
+- Longitude: -96.147875
+- County FIPS: 27113
+- County from: 2020
+- Tract 2020: 27113090500
+- Tract 2010: 27113090500
+- Tract 2000: 27113990500
+- Tract 1990: 
+- Place 2020: 64570
+- Place 2010: 64570
+- Place 2000: 64570
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 114027
+- Units: 26
+- Low-income units: 25
+- Units reported: 26
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS MNA19970065 AND STATE_ID IS MN-97-003
+- Record status: Existing, unchanged

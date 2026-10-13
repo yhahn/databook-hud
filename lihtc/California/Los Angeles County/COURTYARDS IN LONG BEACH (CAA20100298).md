@@ -1,0 +1,85 @@
+# Project: COURTYARDS IN LONG BEACH (CAA20100298)
+
+- HUD ID: CAA20100298
+- HUD ID before: 
+- Project: COURTYARDS IN LONG BEACH
+- Address: 1027 REDONDO AVE
+- City: LONG BEACH
+- State: CA
+- ZIP: 90804
+- ZIP extension: 
+- State project ID: CA-09-515
+- Latitude: 33.779591
+- Longitude: -118.152619
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037576903
+- Tract 2010: 06037576903
+- Tract 2000: 06037576902
+- Tract 1990: 06037576900
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 1610
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 44
+- Units reported: 46
+- Low-income reported: 44
+- Efficiencies: 46
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 44
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 4799882
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2010510.
+- Record status: Existing, unchanged

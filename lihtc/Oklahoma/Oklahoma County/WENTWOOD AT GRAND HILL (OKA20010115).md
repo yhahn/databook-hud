@@ -1,0 +1,85 @@
+# Project: WENTWOOD AT GRAND HILL (OKA20010115)
+
+- HUD ID: OKA20010115
+- HUD ID before: 
+- Project: WENTWOOD AT GRAND HILL
+- Address: 403 TINKER DIAGONAL ST
+- City: OKLAHOMA CITY
+- State: OK
+- ZIP: 73129
+- ZIP extension: 
+- State project ID: OK-99-02-04
+- Latitude: 35.461892
+- Longitude: -97.460838
+- County FIPS: 40109
+- County from: 2020
+- Tract 2020: 40109107305
+- Tract 2010: 40109107305
+- Tract 2000: 40109107305
+- Tract 1990: 40109107304
+- Place 2020: 55000
+- Place 2010: 55000
+- Place 2000: 19900
+- Place 1990: 1815
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 208
+- Low-income units: 166
+- Units reported: 208
+- Low-income reported: 166
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 136
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

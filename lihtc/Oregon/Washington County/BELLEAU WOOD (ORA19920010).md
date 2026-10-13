@@ -1,0 +1,85 @@
+# Project: BELLEAU WOOD (ORA19920010)
+
+- HUD ID: ORA19920010
+- HUD ID before: 
+- Project: BELLEAU WOOD
+- Address: 14914 SW TRACY ANN CT
+- City: BEAVERTON
+- State: OR
+- ZIP: 97007
+- ZIP extension: 
+- State project ID: OR90-355
+- Latitude: 45.482624
+- Longitude: -122.830672
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067031806
+- Tract 2010: 41067031806
+- Tract 2000: 41067031806
+- Tract 1990: 41067031802
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 01650
+- Place 1990: 0095
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 276771
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

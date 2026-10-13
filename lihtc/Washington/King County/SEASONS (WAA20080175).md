@@ -1,0 +1,85 @@
+# Project: SEASONS (WAA20080175)
+
+- HUD ID: WAA20080175
+- HUD ID before: 
+- Project: SEASONS
+- Address: 12722 SE 312TH ST.
+- City: AUBURN
+- State: WA
+- ZIP: 98002
+- ZIP extension: 3145
+- State project ID: 06-118A
+- Latitude: 47.322613
+- Longitude: -122.173649
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033031207
+- Tract 2010: 53033031205
+- Tract 2000: 53033031205
+- Tract 1990: 
+- Place 2020: 03180
+- Place 2010: 03180
+- Place 2000: 38815
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1499293
+- Units: 332
+- Low-income units: 328
+- Units reported: 332
+- Low-income reported: 328
+- Efficiencies: 4
+- 1-bedroom units: 98
+- 2-bedroom units: 114
+- 3-bedroom units: 68
+- 4-bedroom units: 48
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

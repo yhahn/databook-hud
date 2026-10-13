@@ -1,0 +1,85 @@
+# Project: SKIATOOK RETIREMENT COMMUNITY (OKA20110070)
+
+- HUD ID: OKA20110070
+- HUD ID before: 
+- Project: SKIATOOK RETIREMENT COMMUNITY
+- Address: 1504 W FIFTH ST
+- City: SKIATOOK
+- State: OK
+- ZIP: 74070
+- ZIP extension: 
+- State project ID: 090723
+- Latitude: 36.364861
+- Longitude: -96.017036
+- County FIPS: 40113
+- County from: 2020
+- Tract 2020: 40113940014
+- Tract 2010: 40113940010
+- Tract 2000: 40113010201
+- Tract 1990: 40113010201
+- Place 2020: 67850
+- Place 2010: 67850
+- Place 2000: 65300
+- Place 1990: 2210
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 304657
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 450433
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OKA2011514.
+- Record status: Existing, unchanged

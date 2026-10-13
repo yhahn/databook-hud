@@ -1,0 +1,85 @@
+# Project: LA ESTANCIA (FLA20222016)
+
+- HUD ID: FLA20222016
+- HUD ID before: 
+- Project: LA ESTANCIA
+- Address: 5292 GUADALUPE BLVD
+- City: WIMAUMA
+- State: FL
+- ZIP: 33598
+- ZIP extension: 
+- State project ID: FL-96-422
+- Latitude: 27.720964
+- Longitude: -82.316481
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057013913
+- Tract 2010: 12057013913
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 78025
+- Place 2010: 78025
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 356255
+- Units: 84
+- Low-income units: 83
+- Units reported: 84
+- Low-income reported: 83
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 84
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

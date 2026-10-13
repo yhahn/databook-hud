@@ -1,0 +1,85 @@
+# Project: MARTIN LUTHER KING REVITALIZATION PH 1 (NYA20180015)
+
+- HUD ID: NYA20180015
+- HUD ID before: 
+- Project: MARTIN LUTHER KING REVITALIZATION PH 1
+- Address: 4 EDDY'S LANE
+- City: TROY
+- State: NY
+- ZIP: 12180
+- ZIP extension: 
+- State project ID: 20156007
+- Latitude: 42.7291
+- Longitude: -73.6672
+- County FIPS: 36083
+- County from: 2020
+- Tract 2020: 36083041300
+- Tract 2010: 36083041300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 75484
+- Place 2010: 75484
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 1148344
+- Units: 46
+- Low-income units: 41
+- Units reported: 46
+- Low-income reported: 41
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 12
+- 3-bedroom units: 27
+- 4-bedroom units: 7
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 41
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

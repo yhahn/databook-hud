@@ -1,0 +1,85 @@
+# Project: CENTENNIAL PLACE II (GAA19970185)
+
+- HUD ID: GAA19970185
+- HUD ID before: 
+- Project: CENTENNIAL PLACE II
+- Address: 583 MCAFEE ST NW
+- City: ATLANTA
+- State: GA
+- ZIP: 30313
+- ZIP extension: 
+- State project ID: GA-95-137
+- Latitude: 33.767603
+- Longitude: -84.394348
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121002100
+- Tract 2010: 13121002100
+- Tract 2000: 13121002100
+- Tract 1990: 13121002100
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 655535
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 58
+- 3-bedroom units: 26
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1995067.
+- Record status: Existing, unchanged

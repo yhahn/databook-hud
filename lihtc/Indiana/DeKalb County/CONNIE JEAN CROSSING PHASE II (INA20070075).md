@@ -1,0 +1,85 @@
+# Project: CONNIE JEAN CROSSING PHASE II (INA20070075)
+
+- HUD ID: INA20070075
+- HUD ID before: 
+- Project: CONNIE JEAN CROSSING PHASE II
+- Address: 1400 CONNIE JEAN XING
+- City: GARRETT
+- State: IN
+- ZIP: 46738
+- ZIP extension: 
+- State project ID: IN-06-00800
+- Latitude: 41.36638
+- Longitude: -85.12846
+- County FIPS: 18033
+- County from: 2020
+- Tract 2020: 18033020602
+- Tract 2010: 18033020602
+- Tract 2000: 18033020600
+- Tract 1990: 18033020600
+- Place 2020: 26386
+- Place 2010: 26386
+- Place 2000: 01288
+- Place 1990: 0900
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 229713
+- Units: 32
+- Low-income units: 30
+- Units reported: 32
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

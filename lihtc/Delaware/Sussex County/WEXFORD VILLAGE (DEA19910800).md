@@ -1,0 +1,85 @@
+# Project: WEXFORD VILLAGE (DEA19910800)
+
+- HUD ID: DEA19910800
+- HUD ID before: 
+- Project: WEXFORD VILLAGE
+- Address: 56 SUNSET DRIVE
+- City: LAUREL
+- State: DE
+- ZIP: 19956
+- ZIP extension: 
+- State project ID: DE-90-01
+- Latitude: 38.55788
+- Longitude: -75.587837
+- County FIPS: 10005
+- County from: 2020
+- Tract 2020: 10005051802
+- Tract 2010: 10005051802
+- Tract 2000: 10005051802
+- Tract 1990: 
+- Place 2020: 41310
+- Place 2010: 41310
+- Place 2000: 41310
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 283129
+- Units: 60
+- Low-income units: 47
+- Units reported: 60
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 17
+- 3-bedroom units: 38
+- 4-bedroom units: 5
+- Construction: 
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

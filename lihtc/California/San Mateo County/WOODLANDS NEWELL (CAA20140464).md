@@ -1,0 +1,85 @@
+# Project: WOODLANDS NEWELL (CAA20140464)
+
+- HUD ID: CAA20140464
+- HUD ID before: 
+- Project: WOODLANDS NEWELL
+- Address: 1761 WOODLAND AVE
+- City: EAST PALO ALTO
+- State: CA
+- ZIP: 94303
+- ZIP extension: 
+- State project ID: CA-13-847
+- Latitude: 37.454752
+- Longitude: -122.136571
+- County FIPS: 06081
+- County from: 2020
+- Tract 2020: 06081612102
+- Tract 2010: 06081612100
+- Tract 2000: 06081612100
+- Tract 1990: 06081612198
+- Place 2020: 20956
+- Place 2010: 20956
+- Place 2000: 20956
+- Place 1990: 0827
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 697005
+- Units: 49
+- Low-income units: 47
+- Units reported: 49
+- Low-income reported: 47
+- Efficiencies: 6
+- 1-bedroom units: 16
+- 2-bedroom units: 11
+- 3-bedroom units: 8
+- 4-bedroom units: 8
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1006400
+- CDBG: Yes
+- CDBG amount: 1647355
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1990122, CAA0001480.
+- Record status: Existing, unchanged

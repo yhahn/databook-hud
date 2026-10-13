@@ -1,0 +1,85 @@
+# Project: NEWPORT SENIOR HOUSING (VTA20090005)
+
+- HUD ID: VTA20090005
+- HUD ID before: 
+- Project: NEWPORT SENIOR HOUSING
+- Address: 107 MAIN ST
+- City: NEWPORT
+- State: VT
+- ZIP: 05855
+- ZIP extension: 
+- State project ID: 0384
+- Latitude: 44.935933
+- Longitude: -72.208255
+- County FIPS: 50019
+- County from: 2020
+- Tract 2020: 50019951500
+- Tract 2010: 50019951500
+- Tract 2000: 50019951500
+- Tract 1990: 50019951500
+- Place 2020: 48850
+- Place 2010: 48850
+- Place 2000: 48850
+- Place 1990: 1730
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 95665
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 160000
+- CDBG: Yes
+- CDBG amount: 191500
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VTA1994025.
+- Record status: Existing, unchanged

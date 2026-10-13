@@ -1,0 +1,85 @@
+# Project: CHRISTOPHER COURT (NYA19920095)
+
+- HUD ID: NYA19920095
+- HUD ID before: 
+- Project: CHRISTOPHER COURT
+- Address: 22 MAPLEHURST DR
+- City: PHOENIX
+- State: NY
+- ZIP: 13135
+- ZIP extension: 
+- State project ID: 19901048
+- Latitude: 43.24064
+- Longitude: -76.297962
+- County FIPS: 36075
+- County from: 2020
+- Tract 2020: 36075020901
+- Tract 2010: 36075020901
+- Tract 2000: 36075020901
+- Tract 1990: 36075020901
+- Place 2020: 57661
+- Place 2010: 57661
+- Place 2000: 57661
+- Place 1990: 2845
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

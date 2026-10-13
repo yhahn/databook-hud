@@ -1,0 +1,85 @@
+# Project: WOOD BRIDGE APTS (NEA19970065)
+
+- HUD ID: NEA19970065
+- HUD ID before: 
+- Project: WOOD BRIDGE APTS
+- Address: 7121 HELEN WITT DR
+- City: LINCOLN
+- State: NE
+- ZIP: 68512
+- ZIP extension: 
+- State project ID: 7-0386
+- Latitude: 40.738615
+- Longitude: -96.687858
+- County FIPS: 31109
+- County from: 2020
+- Tract 2020: 31109003607
+- Tract 2010: 31109003607
+- Tract 2000: 31109003606
+- Tract 1990: 31109003603
+- Place 2020: 28000
+- Place 2010: 28000
+- Place 2000: 28000
+- Place 1990: 1425
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 282067
+- Units: 96
+- Low-income units: 48
+- Units reported: 96
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 96
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

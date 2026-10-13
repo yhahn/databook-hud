@@ -1,0 +1,85 @@
+# Project: WINOOSKI RIVER APARTMENTS (VTA20171008)
+
+- HUD ID: VTA20171008
+- HUD ID before: 
+- Project: WINOOSKI RIVER APARTMENTS
+- Address: 37 BARRE ST
+- City: MONTPELIER
+- State: VT
+- ZIP: 05602
+- ZIP extension: 
+- State project ID: 0522
+- Latitude: 44.25752
+- Longitude: -72.575493
+- County FIPS: 50023
+- County from: 2020
+- Tract 2020: 50023954800
+- Tract 2010: 50023954800
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 46000
+- Place 2010: 46000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 91913
+- Units: 15
+- Low-income units: 12
+- Units reported: 15
+- Low-income reported: 12
+- Efficiencies: 3
+- 1-bedroom units: 8
+- 2-bedroom units: 2
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

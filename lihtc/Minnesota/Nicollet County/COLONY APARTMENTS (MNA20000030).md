@@ -1,0 +1,85 @@
+# Project: COLONY APARTMENTS (MNA20000030)
+
+- HUD ID: MNA20000030
+- HUD ID before: 
+- Project: COLONY APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: NORTH MANKATO
+- State: MN
+- ZIP: 56003
+- ZIP extension: 
+- State project ID: D2729
+- Latitude: 44.173789
+- Longitude: -94.03677
+- County FIPS: 27103
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27103480501
+- Tract 2000: 27103980500
+- Tract 1990: 27103980500
+- Place 2020: 
+- Place 2010: 47068
+- Place 2000: 39878
+- Place 1990: 2855
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 97
+- Units reported: 120
+- Low-income reported: 97
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 100
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

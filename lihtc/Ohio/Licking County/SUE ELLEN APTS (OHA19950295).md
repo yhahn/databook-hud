@@ -1,0 +1,85 @@
+# Project: SUE ELLEN APTS (OHA19950295)
+
+- HUD ID: OHA19950295
+- HUD ID before: 
+- Project: SUE ELLEN APTS
+- Address: 784 BLACKSNAKE RD
+- City: UTICA
+- State: OH
+- ZIP: 43080
+- ZIP extension: 
+- State project ID: OH-94-4041
+- Latitude: 40.226734
+- Longitude: -82.430867
+- County FIPS: 39089
+- County from: 2020
+- Tract 2020: 39089754700
+- Tract 2010: 39089754700
+- Tract 2000: 39089754700
+- Tract 1990: 39089754700
+- Place 2020: 79114
+- Place 2010: 79114
+- Place 2000: 69652
+- Place 1990: 4375
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 17872
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

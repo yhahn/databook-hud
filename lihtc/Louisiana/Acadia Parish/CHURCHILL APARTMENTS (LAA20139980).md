@@ -1,0 +1,85 @@
+# Project: CHURCHILL APARTMENTS (LAA20139980)
+
+- HUD ID: LAA20139980
+- HUD ID before: 
+- Project: CHURCHILL APARTMENTS
+- Address: 109 DARBONNE STREET
+- City: CHURCH POINT
+- State: LA
+- ZIP: 
+- ZIP extension: 
+- State project ID: LA-13-014
+- Latitude: 30.402751
+- Longitude: -92.207037
+- County FIPS: 22001
+- County from: 2020
+- Tract 2020: 22001960101
+- Tract 2010: 22001960100
+- Tract 2000: 22001960100
+- Tract 1990: 22001960100
+- Place 2020: 15465
+- Place 2010: 15465
+- Place 2000: 15465
+- Place 1990: 0220
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Acquisition/Rehab
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

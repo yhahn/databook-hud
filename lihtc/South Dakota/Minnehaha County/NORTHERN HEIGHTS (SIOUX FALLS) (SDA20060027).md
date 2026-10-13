@@ -1,0 +1,85 @@
+# Project: NORTHERN HEIGHTS (SIOUX FALLS) (SDA20060027)
+
+- HUD ID: SDA20060027
+- HUD ID before: 
+- Project: NORTHERN HEIGHTS (SIOUX FALLS)
+- Address: 1208 E 71ST ST N
+- City: SIOUX FALLS
+- State: SD
+- ZIP: 57104
+- ZIP extension: 
+- State project ID: 01308
+- Latitude: 43.615982
+- Longitude: -96.709604
+- County FIPS: 46099
+- County from: 2020
+- Tract 2020: 46099010404
+- Tract 2010: 46099010404
+- Tract 2000: 46099010400
+- Tract 1990: 46099010400
+- Place 2020: 59020
+- Place 2010: 59020
+- Place 2000: 06840
+- Place 1990: 0153
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 396378
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 48
+- 1-bedroom units: 48
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 96
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

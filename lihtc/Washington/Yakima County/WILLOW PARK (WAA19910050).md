@@ -1,0 +1,85 @@
+# Project: WILLOW PARK (WAA19910050)
+
+- HUD ID: WAA19910050
+- HUD ID before: 
+- Project: WILLOW PARK
+- Address: 1328 SAUL RD.
+- City: SUNNYSIDE
+- State: WA
+- ZIP: 98944
+- ZIP extension: 
+- State project ID: 91-13O
+- Latitude: 46.314753
+- Longitude: -120.009372
+- County FIPS: 53077
+- County from: 2020
+- Tract 2020: 53077002005
+- Tract 2010: 53077002002
+- Tract 2000: 53077002002
+- Tract 1990: 53077002002
+- Place 2020: 68750
+- Place 2010: 68750
+- Place 2000: 68750
+- Place 1990: 1275
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 50935
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 27
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HIGHLAND MEMORIAL APARTMENTS (NCA20130009)
+
+- HUD ID: NCA20130009
+- HUD ID before: 
+- Project: HIGHLAND MEMORIAL APARTMENTS
+- Address: 401 N HIGHLAND STREET
+- City: GASTONIA
+- State: NC
+- ZIP: 28052
+- ZIP extension: 
+- State project ID: 9110525
+- Latitude: 35.268974
+- Longitude: -81.19426
+- County FIPS: 37071
+- County from: 2020
+- Tract 2020: 37071031500
+- Tract 2010: 37071031500
+- Tract 2000: 37071031500
+- Tract 1990: 37071031500
+- Place 2020: 25580
+- Place 2010: 25580
+- Place 2000: 25580
+- Place 1990: 0990
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 851500
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 63
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

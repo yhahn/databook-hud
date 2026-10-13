@@ -1,0 +1,85 @@
+# Project: LINCOLN COURT (NYA00000108)
+
+- HUD ID: NYA00000108
+- HUD ID before: 
+- Project: LINCOLN COURT
+- Address: 119 LINCOLN ST
+- City: WAYLAND
+- State: NY
+- ZIP: 14572
+- ZIP extension: 
+- State project ID: NY-90-0192_00074
+- Latitude: 42.566663
+- Longitude: -77.588599
+- County FIPS: 36101
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36101960400
+- Tract 2000: 36101960400
+- Tract 1990: 36101960400
+- Place 2020: 
+- Place 2010: 78850
+- Place 2000: 78850
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001415.
+- Record status: Existing, unchanged

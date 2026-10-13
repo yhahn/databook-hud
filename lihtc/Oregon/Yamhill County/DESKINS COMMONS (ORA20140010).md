@@ -1,0 +1,85 @@
+# Project: DESKINS COMMONS (ORA20140010)
+
+- HUD ID: ORA20140010
+- HUD ID before: 
+- Project: DESKINS COMMONS
+- Address: 1103 N MERIDIAN ST
+- City: NEWBERG
+- State: OR
+- ZIP: 97132
+- ZIP extension: 
+- State project ID: 3076
+- Latitude: 45.307953
+- Longitude: -122.970779
+- County FIPS: 41071
+- County from: 2020
+- Tract 2020: 41071030102
+- Tract 2010: 41071030102
+- Tract 2000: 41071030100
+- Tract 1990: 41071030100
+- Place 2020: 52100
+- Place 2010: 52100
+- Place 2000: 52100
+- Place 1990: 0820
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 820000
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 37
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 55
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

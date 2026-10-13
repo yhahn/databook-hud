@@ -1,0 +1,85 @@
+# Project: SIR FREDERICK APTS (OHA19890575)
+
+- HUD ID: OHA19890575
+- HUD ID before: 
+- Project: SIR FREDERICK APTS
+- Address: 975 MONROE ST
+- City: BELLEVUE
+- State: OH
+- ZIP: 44811
+- ZIP extension: 
+- State project ID: OH-89-0462
+- Latitude: 41.264781
+- Longitude: -82.826191
+- County FIPS: 39077
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 39077916000
+- Tract 2000: 39077996000
+- Tract 1990: 39077996000
+- Place 2020: 
+- Place 2010: 05228
+- Place 2000: 05228
+- Place 1990: 0330
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

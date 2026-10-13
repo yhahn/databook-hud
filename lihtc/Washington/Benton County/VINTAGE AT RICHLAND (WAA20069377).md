@@ -1,0 +1,85 @@
+# Project: VINTAGE AT RICHLAND (WAA20069377)
+
+- HUD ID: WAA20069377
+- HUD ID before: 
+- Project: VINTAGE AT RICHLAND
+- Address: 1950 BELLERIVE DR
+- City: RICHLAND
+- State: WA
+- ZIP: 99336
+- ZIP extension: 
+- State project ID: 04-81A
+- Latitude: 46.225744
+- Longitude: -119.250694
+- County FIPS: 53005
+- County from: 2020
+- Tract 2020: 53005010810
+- Tract 2010: 53005010810
+- Tract 2000: 53005010804
+- Tract 1990: 53005010801
+- Place 2020: 58235
+- Place 2010: 58235
+- Place 2000: 
+- Place 1990: 0610
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 436577
+- Units: 150
+- Low-income units: 148
+- Units reported: 150
+- Low-income reported: 148
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 105
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 31
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

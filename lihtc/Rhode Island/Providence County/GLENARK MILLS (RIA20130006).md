@@ -1,0 +1,85 @@
+# Project: GLENARK MILLS (RIA20130006)
+
+- HUD ID: RIA20130006
+- HUD ID before: 
+- Project: GLENARK MILLS
+- Address: 104 SAYLES ST
+- City: WOONSOCKET
+- State: RI
+- ZIP: 02895
+- ZIP extension: 
+- State project ID: RI00166
+- Latitude: 42.000425
+- Longitude: -71.518497
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007017600
+- Tract 2010: 44007017600
+- Tract 2000: 44007017600
+- Tract 1990: 44007017600
+- Place 2020: 80780
+- Place 2010: 80780
+- Place 2000: 80780
+- Place 1990: 0560
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 123012
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS RIA1991007. AKA GLENARK OAKS.
+- Record status: Existing, unchanged

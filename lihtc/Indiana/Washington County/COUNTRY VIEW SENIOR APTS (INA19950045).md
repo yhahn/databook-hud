@@ -1,0 +1,85 @@
+# Project: COUNTRY VIEW SENIOR APTS (INA19950045)
+
+- HUD ID: INA19950045
+- HUD ID before: 
+- Project: COUNTRY VIEW SENIOR APTS
+- Address: 280 S SHORTS CORNER RD
+- City: PEKIN
+- State: IN
+- ZIP: 47165
+- ZIP extension: 
+- State project ID: IN-94-11800
+- Latitude: 38.506866
+- Longitude: -86.021656
+- County FIPS: 18175
+- County from: 2020
+- Tract 2020: 18175967701
+- Tract 2010: 18175967700
+- Tract 2000: 18175967700
+- Tract 1990: 18175967700
+- Place 2020: 53388
+- Place 2010: 53388
+- Place 2000: 25720
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ITHACA PARKS I (MIA19950090)
+
+- HUD ID: MIA19950090
+- HUD ID before: 
+- Project: ITHACA PARKS I
+- Address: 520 S ST JOHNS ST
+- City: ITHACA
+- State: MI
+- ZIP: 48847
+- ZIP extension: 
+- State project ID: MI-1938
+- Latitude: 43.286176
+- Longitude: -84.601051
+- County FIPS: 26057
+- County from: 2020
+- Tract 2020: 26057001000
+- Tract 2010: 26057001000
+- Tract 2000: 26057990900
+- Tract 1990: 26057990900
+- Place 2020: 41340
+- Place 2010: 41340
+- Place 2000: 41340
+- Place 1990: 1355
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

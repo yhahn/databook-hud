@@ -1,0 +1,85 @@
+# Project: PARK VIEW AT BLADENSBURG (MDA20130649)
+
+- HUD ID: MDA20130649
+- HUD ID before: 
+- Project: PARK VIEW AT BLADENSBURG
+- Address: 4202 58TH AVE
+- City: BLADENSBURG
+- State: MD
+- ZIP: 20710
+- ZIP extension: 
+- State project ID: MD93-36001
+- Latitude: 38.943259
+- Longitude: -76.913592
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033804001
+- Tract 2010: 24033804001
+- Tract 2000: 24033804001
+- Tract 1990: 24033804001
+- Place 2020: 07850
+- Place 2010: 07850
+- Place 2000: 07850
+- Place 1990: 0075
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 102
+- Low-income units: 101
+- Units reported: 102
+- Low-income reported: 101
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA2013008, MDA1995239, MDA1995130.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CLOUD PEAK VISTAS (WYA20030010)
+
+- HUD ID: WYA20030010
+- HUD ID before: 
+- Project: CLOUD PEAK VISTAS
+- Address: 150 GLENCOE WAY
+- City: BUFFALO
+- State: WY
+- ZIP: 82834
+- ZIP extension: 
+- State project ID: 01-012
+- Latitude: 44.360885
+- Longitude: -106.675945
+- County FIPS: 56019
+- County from: 2020
+- Tract 2020: 56019955202
+- Tract 2010: 56019955200
+- Tract 2000: 56019955200
+- Tract 1990: 56019955200
+- Place 2020: 10685
+- Place 2010: 10685
+- Place 2000: 10685
+- Place 1990: 0030
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 176306
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 20
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

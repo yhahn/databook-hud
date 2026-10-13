@@ -1,0 +1,85 @@
+# Project: THE ELYSIAN (LAA20135013)
+
+- HUD ID: LAA20135013
+- HUD ID before: 
+- Project: THE ELYSIAN
+- Address: NORTH 13TH STREET & SPANISH TOWN ROAD
+- City: BATON ROUGE
+- State: LA
+- ZIP: 70802
+- ZIP extension: 0000
+- State project ID: LA-10-002
+- Latitude: 30.4491
+- Longitude: -91.1731
+- County FIPS: 22033
+- County from: 2020
+- Tract 2020: 22033005300
+- Tract 2010: 22033005300
+- Tract 2000: 22033001500
+- Tract 1990: 
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 403870
+- Units: 100
+- Low-income units: 75
+- Units reported: 100
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 45
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Multi-Family
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

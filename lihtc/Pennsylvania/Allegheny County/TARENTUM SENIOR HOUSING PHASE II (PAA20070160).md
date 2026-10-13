@@ -1,0 +1,85 @@
+# Project: TARENTUM SENIOR HOUSING PHASE II (PAA20070160)
+
+- HUD ID: PAA20070160
+- HUD ID before: 
+- Project: TARENTUM SENIOR HOUSING PHASE II
+- Address: 704 SECOND AVE
+- City: TARENTUM
+- State: PA
+- ZIP: 15084
+- ZIP extension: 
+- State project ID: TC2005-0449
+- Latitude: 40.603379
+- Longitude: -79.745315
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003403500
+- Tract 2010: 42003403500
+- Tract 2000: 42003403500
+- Tract 1990: 42003403500
+- Place 2020: 76104
+- Place 2010: 76104
+- Place 2000: 76104
+- Place 1990: 8178
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 702023
+- Units: 72
+- Low-income units: 70
+- Units reported: 72
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1600000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

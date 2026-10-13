@@ -1,0 +1,85 @@
+# Project: STEEPLECHASE (ARA19990714)
+
+- HUD ID: ARA19990714
+- HUD ID before: 
+- Project: STEEPLECHASE
+- Address: 2411 TALONWOOD DR
+- City: WEST MEMPHIS
+- State: AR
+- ZIP: 72301
+- ZIP extension: 
+- State project ID: FCAR-99-55
+- Latitude: 35.154933
+- Longitude: -90.154624
+- County FIPS: 05035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05035030101
+- Tract 2000: 05035030101
+- Tract 1990: 05035030100
+- Place 2020: 
+- Place 2010: 74540
+- Place 2000: 74540
+- Place 1990: 3005
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 300108
+- Units: 263
+- Low-income units: 263
+- Units reported: 263
+- Low-income reported: 263
+- Efficiencies: 10
+- 1-bedroom units: 29
+- 2-bedroom units: 224
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1999067. FKA WINBERRY
+- Record status: Existing, unchanged

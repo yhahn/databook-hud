@@ -1,0 +1,85 @@
+# Project: CEDAR TRACE APTS (MIA19930145)
+
+- HUD ID: MIA19930145
+- HUD ID before: 
+- Project: CEDAR TRACE APTS
+- Address: 6671 ST MARYS ST
+- City: BROWN CITY
+- State: MI
+- ZIP: 48416
+- ZIP extension: 
+- State project ID: MI-1725
+- Latitude: 43.218176
+- Longitude: -82.989565
+- County FIPS: 26151
+- County from: 2020
+- Tract 2020: 26151971100
+- Tract 2010: 26151971100
+- Tract 2000: 26151971100
+- Tract 1990: 26151971100
+- Place 2020: 99999
+- Place 2010: 11180
+- Place 2000: 11180
+- Place 1990: 0345
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 15
+- Units reported: 16
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

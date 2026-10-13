@@ -1,0 +1,85 @@
+# Project: COTTAGES OF VADNAIS HEIGHTS (MNA19969005)
+
+- HUD ID: MNA19969005
+- HUD ID before: 
+- Project: COTTAGES OF VADNAIS HEIGHTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: VADNAIS HEIGHTS
+- State: MN
+- ZIP: 55127
+- ZIP extension: 
+- State project ID: D2987
+- Latitude: 45.0719
+- Longitude: -93.0812
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123040603
+- Tract 2010: 27123040603
+- Tract 2000: 27123040604
+- Tract 1990: 27123040604
+- Place 2020: 66460
+- Place 2010: 66460
+- Place 2000: 23318
+- Place 1990: 3865
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 52
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

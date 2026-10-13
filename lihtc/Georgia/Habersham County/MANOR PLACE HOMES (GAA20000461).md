@@ -1,0 +1,85 @@
+# Project: MANOR PLACE HOMES (GAA20000461)
+
+- HUD ID: GAA20000461
+- HUD ID before: 
+- Project: MANOR PLACE HOMES
+- Address: 101 MANOR PL DR
+- City: CORNELIA
+- State: GA
+- ZIP: 30531
+- ZIP extension: 
+- State project ID: GA-99-014
+- Latitude: 34.499995
+- Longitude: -83.532016
+- County FIPS: 13137
+- County from: 2020
+- Tract 2020: 13137000604
+- Tract 2010: 13137000602
+- Tract 2000: 13137990602
+- Tract 1990: 13137990600
+- Place 2020: 04980
+- Place 2010: 04980
+- Place 2000: 04980
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA0000265. AKA MANOR PLACE.
+- Record status: Updated

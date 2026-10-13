@@ -1,0 +1,85 @@
+# Project: SEVEN PALMS (FLA20020804)
+
+- HUD ID: FLA20020804
+- HUD ID before: 
+- Project: SEVEN PALMS
+- Address: 1200 SLASH PINE CIRCLE
+- City: PUNTA GORDA
+- State: FL
+- ZIP: 33950
+- ZIP extension: 
+- State project ID: 634
+- Latitude: 26.921908
+- Longitude: -82.036422
+- County FIPS: 12015
+- County from: 2020
+- Tract 2020: 12015010302
+- Tract 2010: 12015010302
+- Tract 2000: 12015010300
+- Tract 1990: 12015010300
+- Place 2020: 59200
+- Place 2010: 59200
+- Place 2000: 11650
+- Place 1990: 1820
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 2290000
+- Units: 336
+- Low-income units: 336
+- Units reported: 336
+- Low-income reported: 336
+- Efficiencies: 0
+- 1-bedroom units: 15
+- 2-bedroom units: 141
+- 3-bedroom units: 84
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2290000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

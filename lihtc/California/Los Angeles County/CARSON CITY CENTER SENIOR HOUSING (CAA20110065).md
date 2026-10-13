@@ -1,0 +1,85 @@
+# Project: CARSON CITY CENTER SENIOR HOUSING (CAA20110065)
+
+- HUD ID: CAA20110065
+- HUD ID before: 
+- Project: CARSON CITY CENTER SENIOR HOUSING
+- Address: 720 E CARSON ST
+- City: CARSON
+- State: CA
+- ZIP: 90745
+- ZIP extension: 
+- State project ID: CA-09-539
+- Latitude: 33.831435
+- Longitude: -118.26297
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037543903
+- Tract 2010: 06037543903
+- Tract 2000: 06037543903
+- Tract 1990: 06037543901
+- Place 2020: 11530
+- Place 2010: 11530
+- Place 2000: 11530
+- Place 1990: 0440
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1200500
+- Units: 86
+- Low-income units: 85
+- Units reported: 86
+- Low-income reported: 85
+- Efficiencies: 0
+- 1-bedroom units: 85
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 61
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 900375
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011638.
+- Record status: Existing, unchanged

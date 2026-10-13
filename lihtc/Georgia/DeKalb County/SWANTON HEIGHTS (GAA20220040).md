@@ -1,0 +1,85 @@
+# Project: SWANTON HEIGHTS (GAA20220040)
+
+- HUD ID: GAA20220040
+- HUD ID before: 
+- Project: SWANTON HEIGHTS
+- Address: 481 ELECTRIC AVE.
+- City: DECATUR
+- State: GA
+- ZIP: 30030
+- ZIP extension: 3027
+- State project ID: 2018-545
+- Latitude: 33.773346
+- Longitude: -84.300351
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089022501
+- Tract 2010: 13089022500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22052
+- Place 2010: 22052
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 950520
+- Units: 98
+- Low-income units: 98
+- Units reported: 98
+- Low-income reported: 98
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 24
+- 3-bedroom units: 18
+- 4-bedroom units: 26
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

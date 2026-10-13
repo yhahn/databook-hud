@@ -1,0 +1,85 @@
+# Project: KNEELAND PARK (WAA19960070)
+
+- HUD ID: WAA19960070
+- HUD ID before: 
+- Project: KNEELAND PARK
+- Address: 215 TURNER AVE. BLDG A
+- City: SHELTON
+- State: WA
+- ZIP: 98584
+- ZIP extension: 
+- State project ID: 94-32P
+- Latitude: 47.207991
+- Longitude: -123.102471
+- County FIPS: 53045
+- County from: 2020
+- Tract 2020: 53045960900
+- Tract 2010: 53045960900
+- Tract 2000: 53045960900
+- Tract 1990: 53045960900
+- Place 2020: 63735
+- Place 2010: 63735
+- Place 2000: 63735
+- Place 1990: 1165
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 167447
+- Units: 21
+- Low-income units: 20
+- Units reported: 21
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 13
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

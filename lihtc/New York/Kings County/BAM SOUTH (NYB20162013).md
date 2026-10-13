@@ -1,0 +1,85 @@
+# Project: BAM SOUTH (NYB20162013)
+
+- HUD ID: NYB20162013
+- HUD ID before: 
+- Project: BAM SOUTH
+- Address: 300 ASHLAND AVE
+- City: BROOKLYN
+- State: NY
+- ZIP: 11217
+- ZIP extension: 
+- State project ID: NY-14-2193
+- Latitude: 40.686643
+- Longitude: -73.978391
+- County FIPS: 36047
+- County from: 2020
+- Tract 2020: 36047003500
+- Tract 2010: 36047003500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 6074836
+- Units: 379
+- Low-income units: 76
+- Units reported: 379
+- Low-income reported: 76
+- Efficiencies: 115
+- 1-bedroom units: 175
+- 2-bedroom units: 89
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

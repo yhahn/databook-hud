@@ -1,0 +1,85 @@
+# Project: FULTON I APTS (MOA20040085)
+
+- HUD ID: MOA20040085
+- HUD ID before: 
+- Project: FULTON I APTS
+- Address: 310 CHRISTOPHER LN
+- City: FULTON
+- State: MO
+- ZIP: 65251
+- ZIP extension: 
+- State project ID: 03-029
+- Latitude: 38.875934
+- Longitude: -91.943157
+- County FIPS: 29027
+- County from: 2020
+- Tract 2020: 29027070301
+- Tract 2010: 29027070300
+- Tract 2000: 29027970300
+- Tract 1990: 29027970300
+- Place 2020: 26182
+- Place 2010: 26182
+- Place 2000: 26182
+- Place 1990: 1555
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 16
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FULTON APTS I.
+- Record status: Existing, unchanged

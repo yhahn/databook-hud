@@ -1,0 +1,85 @@
+# Project: PARKPLACE SENIOR APTS (MOA20020215)
+
+- HUD ID: MOA20020215
+- HUD ID before: 
+- Project: PARKPLACE SENIOR APTS
+- Address: 423 LANNING LN
+- City: ROLLA
+- State: MO
+- ZIP: 65401
+- ZIP extension: 
+- State project ID: 02-001
+- Latitude: 37.931288
+- Longitude: -91.77542
+- County FIPS: 29161
+- County from: 2020
+- Tract 2020: 29161890800
+- Tract 2010: 29161890800
+- Tract 2000: 29161990800
+- Tract 1990: 29161990800
+- Place 2020: 62912
+- Place 2010: 62912
+- Place 2000: 62912
+- Place 1990: 3775
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

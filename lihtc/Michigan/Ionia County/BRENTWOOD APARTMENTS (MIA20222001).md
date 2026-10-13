@@ -1,0 +1,85 @@
+# Project: BRENTWOOD APARTMENTS (MIA20222001)
+
+- HUD ID: MIA20222001
+- HUD ID before: 
+- Project: BRENTWOOD APARTMENTS
+- Address: 1129 BRENTWOOD STREET
+- City: BELDING
+- State: MI
+- ZIP: 48809
+- ZIP extension: 0000
+- State project ID: 3853
+- Latitude: 43.101924
+- Longitude: -85.243228
+- County FIPS: 26067
+- County from: 2020
+- Tract 2020: 26067030300
+- Tract 2010: 26067030300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 06900
+- Place 2010: 06900
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2025
+- Allocation year note: 
+- Allocation amount: 238283
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 32
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: No
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 200000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

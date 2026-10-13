@@ -1,0 +1,85 @@
+# Project: GOLDEN TIDES III (WAA20009087)
+
+- HUD ID: WAA20009087
+- HUD ID before: 
+- Project: GOLDEN TIDES III
+- Address: 9225 BAYSHORE DRIVE NW
+- City: SILVERDALE
+- State: WA
+- ZIP: 98383
+- ZIP extension: 
+- State project ID: 97-46B
+- Latitude: 47.647933
+- Longitude: -122.69351
+- County FIPS: 53035
+- County from: 2020
+- Tract 2020: 53035091201
+- Tract 2010: 53035091201
+- Tract 2000: 53035091201
+- Tract 1990: 53035091201
+- Place 2020: 64365
+- Place 2010: 64365
+- Place 2000: 64365
+- Place 1990: 1171
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 121124
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

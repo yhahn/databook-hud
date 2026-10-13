@@ -1,0 +1,85 @@
+# Project: BROOKWOOD VILLAGE (MOA19940095)
+
+- HUD ID: MOA19940095
+- HUD ID before: 
+- Project: BROOKWOOD VILLAGE
+- Address: 502 NE KNOX PL
+- City: BLUE SPRINGS
+- State: MO
+- ZIP: 64014
+- ZIP extension: 
+- State project ID: 93-061
+- Latitude: 39.020814
+- Longitude: -94.2574
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095014128
+- Tract 2010: 29095014101
+- Tract 2000: 29095014101
+- Tract 1990: 29095014101
+- Place 2020: 06652
+- Place 2010: 06652
+- Place 2000: 06652
+- Place 1990: 0425
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

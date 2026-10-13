@@ -1,0 +1,85 @@
+# Project: MAGNOLIA GARDENS (FLA20120800)
+
+- HUD ID: FLA20120800
+- HUD ID before: 
+- Project: MAGNOLIA GARDENS
+- Address: 20180 BARNETT RD
+- City: BROOKSVILLE
+- State: FL
+- ZIP: 34601
+- ZIP extension: 
+- State project ID: 2437
+- Latitude: 28.537952
+- Longitude: -82.398047
+- County FIPS: 12053
+- County from: 2020
+- Tract 2020: 12053040501
+- Tract 2010: 12053040501
+- Tract 2000: 12053040500
+- Tract 1990: 12053000500
+- Place 2020: 67266
+- Place 2010: 67266
+- Place 2000: 08800
+- Place 1990: 0255
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2634026
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

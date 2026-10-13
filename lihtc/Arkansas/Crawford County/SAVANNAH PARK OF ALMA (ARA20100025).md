@@ -1,0 +1,85 @@
+# Project: SAVANNAH PARK OF ALMA (ARA20100025)
+
+- HUD ID: ARA20100025
+- HUD ID before: 
+- Project: SAVANNAH PARK OF ALMA
+- Address: 200 THICKINS DR
+- City: ALMA
+- State: AR
+- ZIP: 72921
+- ZIP extension: 
+- State project ID: AR-91-10-001
+- Latitude: 35.5052
+- Longitude: -94.2297
+- County FIPS: 05033
+- County from: 2020
+- Tract 2020: 05033020602
+- Tract 2010: 05033020600
+- Tract 2000: 05033020600
+- Tract 1990: 05033020600
+- Place 2020: 00970
+- Place 2010: 00970
+- Place 2000: 00970
+- Place 1990: 0025
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 35532
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1991609, ARA1991065.
+- Record status: Existing, unchanged

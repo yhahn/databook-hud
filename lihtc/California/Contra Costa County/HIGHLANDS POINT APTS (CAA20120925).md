@@ -1,0 +1,85 @@
+# Project: HIGHLANDS POINT APTS (CAA20120925)
+
+- HUD ID: CAA20120925
+- HUD ID before: 
+- Project: HIGHLANDS POINT APTS
+- Address: 2311 IVY HILL WAY
+- City: SAN RAMON
+- State: CA
+- ZIP: 94582
+- ZIP extension: 
+- State project ID: CA-10-844
+- Latitude: 37.769091
+- Longitude: -121.898313
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013355125
+- Tract 2010: 06013355116
+- Tract 2000: 06013355104
+- Tract 1990: 06001451100
+- Place 2020: 68378
+- Place 2010: 68378
+- Place 2000: 06933
+- Place 1990: 1570
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 344121
+- Units: 293
+- Low-income units: 60
+- Units reported: 293
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 137
+- 3-bedroom units: 60
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

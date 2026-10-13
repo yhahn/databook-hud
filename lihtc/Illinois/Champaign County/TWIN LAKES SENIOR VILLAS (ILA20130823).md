@@ -1,0 +1,85 @@
+# Project: TWIN LAKES SENIOR VILLAS (ILA20130823)
+
+- HUD ID: ILA20130823
+- HUD ID before: 
+- Project: TWIN LAKES SENIOR VILLAS
+- Address: 405 TWIN LAKES DR
+- City: RANTOUL
+- State: IL
+- ZIP: 61866
+- ZIP extension: 
+- State project ID: 1061512
+- Latitude: 40.314073
+- Longitude: -88.142005
+- County FIPS: 17019
+- County from: 2020
+- Tract 2020: 17019010100
+- Tract 2010: 17019010100
+- Tract 2000: 17019010100
+- Tract 1990: 17019010100
+- Place 2020: 62783
+- Place 2010: 62783
+- Place 2000: 62783
+- Place 1990: 4810
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 758400
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA20130003.
+- Record status: Existing, unchanged

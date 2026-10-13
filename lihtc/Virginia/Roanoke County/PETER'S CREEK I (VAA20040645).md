@@ -1,0 +1,85 @@
+# Project: PETER'S CREEK I (VAA20040645)
+
+- HUD ID: VAA20040645
+- HUD ID before: 
+- Project: PETER'S CREEK I
+- Address: 7266 S BARRENS RD
+- City: ROANOKE
+- State: VA
+- ZIP: 24019
+- ZIP extension: 
+- State project ID: 4345
+- Latitude: 37.342114
+- Longitude: -79.960585
+- County FIPS: 51161
+- County from: 2020
+- Tract 2020: 51161030207
+- Tract 2010: 51161030204
+- Tract 2000: 51161030204
+- Tract 1990: 51161030202
+- Place 2020: 37880
+- Place 2010: 37880
+- Place 2000: 37880
+- Place 1990: 0637
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 514250
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 96
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1995120.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COLUMBIA AT MECHANICSVILLE (GAA20070050)
+
+- HUD ID: GAA20070050
+- HUD ID before: 
+- Project: COLUMBIA AT MECHANICSVILLE
+- Address: 500 MCDANIEL ST SW
+- City: ATLANTA
+- State: GA
+- ZIP: 30312
+- ZIP extension: 2492
+- State project ID: GA-05-026
+- Latitude: 33.742022
+- Longitude: -84.402908
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121004400
+- Tract 2010: 13121004400
+- Tract 2000: 13121004400
+- Tract 1990: 13121004400
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 750000
+- Units: 172
+- Low-income units: 126
+- Units reported: 172
+- Low-income reported: 126
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 98
+- 3-bedroom units: 53
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HERITAGE VILLAGE APTS (OHA19990115)
+
+- HUD ID: OHA19990115
+- HUD ID before: 
+- Project: HERITAGE VILLAGE APTS
+- Address: 3010 JOHNSON RD
+- City: STEUBENVILLE
+- State: OH
+- ZIP: 43952
+- ZIP extension: 
+- State project ID: 97-0029
+- Latitude: 40.372449
+- Longitude: -80.659749
+- County FIPS: 39081
+- County from: 2020
+- Tract 2020: 39081000600
+- Tract 2010: 39081000600
+- Tract 2000: 39081000600
+- Tract 1990: 39081000600
+- Place 2020: 74608
+- Place 2010: 74608
+- Place 2000: 74608
+- Place 1990: 4115
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 308320
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 76
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 600500
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HERITAGE VILLAGE SENIOR.
+- Record status: Existing, unchanged

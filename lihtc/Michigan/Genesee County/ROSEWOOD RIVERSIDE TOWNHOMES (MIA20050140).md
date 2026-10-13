@@ -1,0 +1,85 @@
+# Project: ROSEWOOD RIVERSIDE TOWNHOMES (MIA20050140)
+
+- HUD ID: MIA20050140
+- HUD ID before: 
+- Project: ROSEWOOD RIVERSIDE TOWNHOMES
+- Address: 110 N GRAND TRAVERSE ST
+- City: FLINT
+- State: MI
+- ZIP: 48503
+- ZIP extension: 
+- State project ID: MI-1081
+- Latitude: 43.015332
+- Longitude: -83.696342
+- County FIPS: 26049
+- County from: 2020
+- Tract 2020: 26049002800
+- Tract 2010: 26049002800
+- Tract 2000: 26049002800
+- Tract 1990: 26049002800
+- Place 2020: 29000
+- Place 2010: 29000
+- Place 2000: 29000
+- Place 1990: 0920
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 39
+- Low-income units: 38
+- Units reported: 39
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 25
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

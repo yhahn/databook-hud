@@ -1,0 +1,85 @@
+# Project: RAINBOW LAKE APTS (AZA19900025)
+
+- HUD ID: AZA19900025
+- HUD ID before: 
+- Project: RAINBOW LAKE APTS
+- Address: 1921 RAINBOW LAKE PL
+- City: LAKESIDE
+- State: AZ
+- ZIP: 85929
+- ZIP extension: 
+- State project ID: TC-0480
+- Latitude: 34.157813
+- Longitude: -109.985348
+- County FIPS: 04017
+- County from: 2020
+- Tract 2020: 04017961300
+- Tract 2010: 04017961300
+- Tract 2000: 04017961300
+- Tract 1990: 04017961300
+- Place 2020: 39790
+- Place 2010: 39790
+- Place 2000: 55980
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3332704
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA1988055, AZA0000588, AZA0000140.
+- Record status: Existing, unchanged

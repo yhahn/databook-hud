@@ -1,0 +1,85 @@
+# Project: UNITED FAMILY LIFE VILLAGE I (MSA20080245)
+
+- HUD ID: MSA20080245
+- HUD ID before: 
+- Project: UNITED FAMILY LIFE VILLAGE I
+- Address: 300 FLOYD WOMACK JR
+- City: CLEVELAND
+- State: MS
+- ZIP: 38732
+- ZIP extension: 
+- State project ID: MS-06-024
+- Latitude: 33.7416
+- Longitude: -90.7282
+- County FIPS: 28011
+- County from: 2020
+- Tract 2020: 28011950500
+- Tract 2010: 28011950600
+- Tract 2000: 28011950600
+- Tract 1990: 28011950600
+- Place 2020: 99999
+- Place 2010: 14260
+- Place 2000: 14260
+- Place 1990: 0235
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 495898
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 24
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA UNITED FAMILY LIFE VILLAGE.
+- Record status: Existing, unchanged

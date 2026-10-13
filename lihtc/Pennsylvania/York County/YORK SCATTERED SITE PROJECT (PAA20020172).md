@@ -1,0 +1,85 @@
+# Project: YORK SCATTERED SITE PROJECT (PAA20020172)
+
+- HUD ID: PAA20020172
+- HUD ID before: 
+- Project: YORK SCATTERED SITE PROJECT
+- Address: 353 W KING ST
+- City: YORK
+- State: PA
+- ZIP: 17401
+- ZIP extension: 
+- State project ID: TC20010424
+- Latitude: 39.958564
+- Longitude: -76.735645
+- County FIPS: 42133
+- County from: 2020
+- Tract 2020: 42133001600
+- Tract 2010: 42133001600
+- Tract 2000: 42133001600
+- Tract 1990: 42133001600
+- Place 2020: 87048
+- Place 2010: 87048
+- Place 2000: 87048
+- Place 1990: 9034
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 292521
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 7
+- 2-bedroom units: 18
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 285000
+- CDBG: Yes
+- CDBG amount: 615000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2001220, PAA2002175.
+- Record status: Existing, unchanged

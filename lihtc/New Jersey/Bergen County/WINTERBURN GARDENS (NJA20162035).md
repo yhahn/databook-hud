@@ -1,0 +1,85 @@
+# Project: WINTERBURN GARDENS (NJA20162035)
+
+- HUD ID: NJA20162035
+- HUD ID before: 
+- Project: WINTERBURN GARDENS
+- Address: 15 WINTERBURN PLACE
+- City: EDGEWATER
+- State: NJ
+- ZIP: 07020
+- ZIP extension: 
+- State project ID: NJ1012-972
+- Latitude: 40.822204
+- Longitude: -73.97743
+- County FIPS: 34003
+- County from: 2020
+- Tract 2020: 34003013004
+- Tract 2010: 34003013001
+- Tract 2000: 34003013000
+- Tract 1990: 34003013097
+- Place 2020: 20020
+- Place 2010: 20020
+- Place 2000: 20020
+- Place 1990: 1690
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 307351
+- Units: 21
+- Low-income units: 21
+- Units reported: 21
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

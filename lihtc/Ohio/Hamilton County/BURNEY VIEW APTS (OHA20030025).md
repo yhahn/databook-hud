@@ -1,0 +1,85 @@
+# Project: BURNEY VIEW APTS (OHA20030025)
+
+- HUD ID: OHA20030025
+- HUD ID before: 
+- Project: BURNEY VIEW APTS
+- Address: 10785 SPRUCEHILL DR
+- City: CINCINNATI
+- State: OH
+- ZIP: 45240
+- ZIP extension: 
+- State project ID: 020142
+- Latitude: 39.273127
+- Longitude: -84.559681
+- County FIPS: 39061
+- County from: 2020
+- Tract 2020: 39061021509
+- Tract 2010: 39061021509
+- Tract 2000: 39061021509
+- Tract 1990: 39061021509
+- Place 2020: 54264
+- Place 2010: 54264
+- Place 2000: 52780
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 85632
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 27
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2004038.
+- Record status: Existing, unchanged

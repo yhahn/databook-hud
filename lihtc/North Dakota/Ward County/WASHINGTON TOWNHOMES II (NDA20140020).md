@@ -1,0 +1,85 @@
+# Project: WASHINGTON TOWNHOMES II (NDA20140020)
+
+- HUD ID: NDA20140020
+- HUD ID before: 
+- Project: WASHINGTON TOWNHOMES II
+- Address: 814 17TH AVE SE
+- City: MINOT
+- State: ND
+- ZIP: 58701
+- ZIP extension: 
+- State project ID: TC1309
+- Latitude: 48.216242
+- Longitude: -101.28084
+- County FIPS: 38101
+- County from: 2020
+- Tract 2020: 38101010701
+- Tract 2010: 38101010700
+- Tract 2000: 38101010700
+- Tract 1990: 38101010700
+- Place 2020: 53380
+- Place 2010: 53380
+- Place 2000: 53380
+- Place 1990: 1140
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 647500
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 12
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

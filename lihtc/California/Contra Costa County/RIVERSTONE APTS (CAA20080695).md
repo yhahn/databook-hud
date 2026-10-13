@@ -1,0 +1,85 @@
+# Project: RIVERSTONE APTS (CAA20080695)
+
+- HUD ID: CAA20080695
+- HUD ID before: 
+- Project: RIVERSTONE APTS
+- Address: 2200 SYCAMORE DR
+- City: ANTIOCH
+- State: CA
+- ZIP: 94509
+- ZIP extension: 
+- State project ID: CA-07-836
+- Latitude: 38.005479
+- Longitude: -121.828555
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013307202
+- Tract 2010: 06013307202
+- Tract 2000: 06013307202
+- Tract 1990: 06013307202
+- Place 2020: 02252
+- Place 2010: 02252
+- Place 2000: 02252
+- Place 1990: 0085
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 804190
+- Units: 136
+- Low-income units: 134
+- Units reported: 136
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 136
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

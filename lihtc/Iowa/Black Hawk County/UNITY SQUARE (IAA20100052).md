@@ -1,0 +1,85 @@
+# Project: UNITY SQUARE (IAA20100052)
+
+- HUD ID: IAA20100052
+- HUD ID before: 
+- Project: UNITY SQUARE
+- Address: 100 UNITY SQ
+- City: WATERLOO
+- State: IA
+- ZIP: 50703
+- ZIP extension: 
+- State project ID: 09-0914
+- Latitude: 42.512072
+- Longitude: -92.322889
+- County FIPS: 19013
+- County from: 2020
+- Tract 2020: 19013001800
+- Tract 2010: 19013001800
+- Tract 2000: 19013001800
+- Tract 1990: 19013001800
+- Place 2020: 82425
+- Place 2010: 82425
+- Place 2000: 82425
+- Place 1990: 4455
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 950717
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 13
+- 3-bedroom units: 20
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA2010504.
+- Record status: Existing, unchanged

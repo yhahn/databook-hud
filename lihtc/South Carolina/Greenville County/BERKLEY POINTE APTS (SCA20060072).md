@@ -1,0 +1,85 @@
+# Project: BERKLEY POINTE APTS (SCA20060072)
+
+- HUD ID: SCA20060072
+- HUD ID before: 
+- Project: BERKLEY POINTE APTS
+- Address: 500 WENWOOD RD
+- City: GREENVILLE
+- State: SC
+- ZIP: 29607
+- ZIP extension: 
+- State project ID: SC-50-501
+- Latitude: 34.798994
+- Longitude: -82.353263
+- County FIPS: 45045
+- County from: 2020
+- Tract 2020: 45045002901
+- Tract 2010: 45045002901
+- Tract 2000: 45045002901
+- Tract 1990: 45045002901
+- Place 2020: 30850
+- Place 2010: 30850
+- Place 2000: 30850
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 275291
+- Units: 185
+- Low-income units: 185
+- Units reported: 185
+- Low-income reported: 185
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 122
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA2007005.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: LAKE AVENUE RETIREMENT VILLAGE (OHA20100095)
+
+- HUD ID: OHA20100095
+- HUD ID before: 
+- Project: LAKE AVENUE RETIREMENT VILLAGE
+- Address: 1218 W LAKE AVE
+- City: NEW CARLISLE
+- State: OH
+- ZIP: 45344
+- ZIP extension: 
+- State project ID: 080059
+- Latitude: 39.947786
+- Longitude: -84.043722
+- County FIPS: 39023
+- County from: 2020
+- Tract 2020: 39023002702
+- Tract 2010: 39023002702
+- Tract 2000: 39023002702
+- Tract 1990: 39023002702
+- Place 2020: 54334
+- Place 2010: 54334
+- Place 2000: 54334
+- Place 1990: 2960
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: Yes
+- HOME: Yes
+- HOME amount: 600000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 787328
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

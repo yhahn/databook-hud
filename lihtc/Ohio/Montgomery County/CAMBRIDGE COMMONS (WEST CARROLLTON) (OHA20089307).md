@@ -1,0 +1,85 @@
+# Project: CAMBRIDGE COMMONS (WEST CARROLLTON) (OHA20089307)
+
+- HUD ID: OHA20089307
+- HUD ID before: 
+- Project: CAMBRIDGE COMMONS (WEST CARROLLTON)
+- Address: 1833 GAWAIN CIR
+- City: WEST CARROLLTON
+- State: OH
+- ZIP: 45449
+- ZIP extension: 
+- State project ID: 050187
+- Latitude: 39.646033
+- Longitude: -84.242332
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113050303
+- Tract 2010: 39113050303
+- Tract 2000: 39113050303
+- Tract 1990: 39113050303
+- Place 2020: 83090
+- Place 2010: 83090
+- Place 2000: 49434
+- Place 1990: 4570
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 192
+- Low-income units: 171
+- Units reported: 192
+- Low-income reported: 171
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 112
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006714.
+- Record status: Existing, unchanged

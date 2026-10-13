@@ -1,0 +1,85 @@
+# Project: FRENCH FARMS VILLAGE APTS (ALA20140020)
+
+- HUD ID: ALA20140020
+- HUD ID before: 
+- Project: FRENCH FARMS VILLAGE APTS
+- Address: 20766 VICTORIA WAY
+- City: ATHENS
+- State: AL
+- ZIP: 35611
+- ZIP extension: 
+- State project ID: 2013032-TC
+- Latitude: 34.6773
+- Longitude: -87.0327
+- County FIPS: 01083
+- County from: 2020
+- Tract 2020: 01083020900
+- Tract 2010: 01083021100
+- Tract 2000: 01083021100
+- Tract 1990: 01083021100
+- Place 2020: 02956
+- Place 2010: 02956
+- Place 2000: 02956
+- Place 1990: 
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 626621
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

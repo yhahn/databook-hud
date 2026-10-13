@@ -1,0 +1,85 @@
+# Project: HYDE PARK APTS (ILB20040015)
+
+- HUD ID: ILB20040015
+- HUD ID before: 
+- Project: HYDE PARK APTS
+- Address: 5330 S HARPER AVE
+- City: CHICAGO
+- State: IL
+- ZIP: 60615
+- ZIP extension: 
+- State project ID: TC03-020
+- Latitude: 41.798859
+- Longitude: -87.589288
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031410800
+- Tract 2010: 17031410800
+- Tract 2000: 17031410800
+- Tract 1990: 17031410800
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 73
+- Low-income units: 73
+- Units reported: 73
+- Low-income reported: 73
+- Efficiencies: 7
+- 1-bedroom units: 50
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

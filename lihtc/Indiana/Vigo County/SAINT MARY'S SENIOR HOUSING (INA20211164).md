@@ -1,0 +1,85 @@
+# Project: SAINT MARY'S SENIOR HOUSING (INA20211164)
+
+- HUD ID: INA20211164
+- HUD ID before: 
+- Project: SAINT MARY'S SENIOR HOUSING
+- Address: 3800 N GROVE PL
+- City: SAINT MARY OF THE WOODS
+- State: IN
+- ZIP: 47876
+- ZIP extension: 
+- State project ID: IN-19-01300
+- Latitude: 39.5416
+- Longitude: -87.4739
+- County FIPS: 18167
+- County from: 2020
+- Tract 2020: 18167010300
+- Tract 2010: 18167010300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 67050
+- Place 2010: 67050
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1024000
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 400000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

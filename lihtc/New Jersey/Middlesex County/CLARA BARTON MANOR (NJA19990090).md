@@ -1,0 +1,85 @@
+# Project: CLARA BARTON MANOR (NJA19990090)
+
+- HUD ID: NJA19990090
+- HUD ID before: 
+- Project: CLARA BARTON MANOR
+- Address: 1015 AMBOY AVENUE
+- City: EDISON
+- State: NJ
+- ZIP: 08837
+- ZIP extension: 
+- State project ID: 11138
+- Latitude: 40.534575
+- Longitude: -74.337075
+- County FIPS: 34023
+- County from: 2020
+- Tract 2020: 34023001903
+- Tract 2010: 34023001903
+- Tract 2000: 34023001903
+- Tract 1990: 34023001903
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 20260
+- Place 1990: 1697
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 134543
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000290. AKA CLARA BARTON MANOR #550.
+- Record status: Existing, unchanged

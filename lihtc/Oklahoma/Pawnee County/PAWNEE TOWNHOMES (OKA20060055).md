@@ -1,0 +1,85 @@
+# Project: PAWNEE TOWNHOMES (OKA20060055)
+
+- HUD ID: OKA20060055
+- HUD ID before: 
+- Project: PAWNEE TOWNHOMES
+- Address: 707 11TH ST
+- City: PAWNEE
+- State: OK
+- ZIP: 74058
+- ZIP extension: 
+- State project ID: 050106
+- Latitude: 36.336848
+- Longitude: -96.812006
+- County FIPS: 40117
+- County from: 2020
+- Tract 2020: 40117957500
+- Tract 2010: 40117957500
+- Tract 2000: 40117957500
+- Tract 1990: 40117957500
+- Place 2020: 57650
+- Place 2010: 57650
+- Place 2000: 57650
+- Place 1990: 1885
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 167947
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 879890
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

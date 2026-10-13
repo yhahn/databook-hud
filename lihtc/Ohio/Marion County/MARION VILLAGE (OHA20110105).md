@@ -1,0 +1,85 @@
+# Project: MARION VILLAGE (OHA20110105)
+
+- HUD ID: OHA20110105
+- HUD ID before: 
+- Project: MARION VILLAGE
+- Address: 446 CAROL LN
+- City: MARION
+- State: OH
+- ZIP: 43302
+- ZIP extension: 
+- State project ID: 090111
+- Latitude: 40.5788
+- Longitude: -83.1216
+- County FIPS: 39101
+- County from: 2020
+- Tract 2020: 39101010100
+- Tract 2010: 39101000502
+- Tract 2000: 39101000502
+- Tract 1990: 39101000502
+- Place 2020: 99999
+- Place 2010: 47754
+- Place 2000: 47754
+- Place 1990: 2485
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 18
+- 4-bedroom units: 21
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2189773
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2011857.
+- Record status: Existing, unchanged

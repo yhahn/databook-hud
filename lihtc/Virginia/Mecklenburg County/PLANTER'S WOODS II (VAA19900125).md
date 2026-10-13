@@ -1,0 +1,85 @@
+# Project: PLANTER'S WOODS II (VAA19900125)
+
+- HUD ID: VAA19900125
+- HUD ID before: 
+- Project: PLANTER'S WOODS II
+- Address: 601 E FERRELL ST
+- City: SOUTH HILL
+- State: VA
+- ZIP: 23970
+- ZIP extension: 
+- State project ID: 1082
+- Latitude: 36.732375
+- Longitude: -78.108813
+- County FIPS: 51117
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 51117930200
+- Tract 2000: 51117990200
+- Tract 1990: 51117990200
+- Place 2020: 
+- Place 2010: 73904
+- Place 2000: 73904
+- Place 1990: 1140
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 37780
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHRISTIANA FARMS II (DEA19990035)
+
+- HUD ID: DEA19990035
+- HUD ID before: 
+- Project: CHRISTIANA FARMS II
+- Address: 215 CHRISTIANA FARMS PLACE
+- City: NEWARK
+- State: DE
+- ZIP: 19702
+- ZIP extension: 
+- State project ID: DE159FY9711
+- Latitude: 39.646016
+- Longitude: -75.711966
+- County FIPS: 10003
+- County from: 2020
+- Tract 2020: 10003014706
+- Tract 2010: 10003014706
+- Tract 2000: 10003014706
+- Tract 1990: 10003014704
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 0034
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DEA1996005. AKA SECOND CHRISTIANA FARMS.;
+- Record status: Existing, unchanged

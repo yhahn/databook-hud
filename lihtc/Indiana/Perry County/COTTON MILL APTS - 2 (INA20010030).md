@@ -1,0 +1,85 @@
+# Project: COTTON MILL APTS - 2 (INA20010030)
+
+- HUD ID: INA20010030
+- HUD ID before: 
+- Project: COTTON MILL APTS - 2
+- Address: 310 WASHINGTON ST
+- City: CANNELTON
+- State: IN
+- ZIP: 47520
+- ZIP extension: 
+- State project ID: IN-99-02800
+- Latitude: 37.910545
+- Longitude: -86.745785
+- County FIPS: 18123
+- County from: 2020
+- Tract 2020: 18123952600
+- Tract 2010: 18123952600
+- Tract 2000: 18123952600
+- Tract 1990: 18123952600
+- Place 2020: 10108
+- Place 2010: 10108
+- Place 2000: 10108
+- Place 1990: 0355
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 9660
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 11
+- 1-bedroom units: 17
+- 2-bedroom units: 28
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COTTON MILL APTS.
+- Record status: Existing, unchanged

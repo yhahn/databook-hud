@@ -1,0 +1,85 @@
+# Project: JOSEPH'S CROSSING (WVA20231005)
+
+- HUD ID: WVA20231005
+- HUD ID before: 
+- Project: JOSEPH'S CROSSING
+- Address: 215 RED STONE WAY
+- City: SUMMERSVILLE
+- State: WV
+- ZIP: 26651
+- ZIP extension: 
+- State project ID: WV-20-02
+- Latitude: 38.276005
+- Longitude: -80.847275
+- County FIPS: 54067
+- County from: 2020
+- Tract 2020: 54067950202
+- Tract 2010: 54067950200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 77980
+- Place 2010: 77980
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 175486
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 8
+- 2-bedroom units: 22
+- 3-bedroom units: 12
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 15180000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

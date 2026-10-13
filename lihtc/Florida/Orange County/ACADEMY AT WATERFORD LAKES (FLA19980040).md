@@ -1,0 +1,85 @@
+# Project: ACADEMY AT WATERFORD LAKES (FLA19980040)
+
+- HUD ID: FLA19980040
+- HUD ID before: 
+- Project: ACADEMY AT WATERFORD LAKES
+- Address: 700 EGRET LANDING PL
+- City: ORLANDO
+- State: FL
+- ZIP: 32825
+- ZIP extension: 
+- State project ID: 220
+- Latitude: 28.556204
+- Longitude: -81.224843
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016724
+- Tract 2010: 12095016724
+- Tract 2000: 12095016718
+- Tract 1990: 12095016707
+- Place 2020: 73075
+- Place 2010: 73075
+- Place 2000: 73075
+- Place 1990: 2126
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 228
+- Low-income units: 228
+- Units reported: 228
+- Low-income reported: 228
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 96
+- 3-bedroom units: 72
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

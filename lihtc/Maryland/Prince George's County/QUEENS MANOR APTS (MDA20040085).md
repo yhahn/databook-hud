@@ -1,0 +1,85 @@
+# Project: QUEENS MANOR APTS (MDA20040085)
+
+- HUD ID: MDA20040085
+- HUD ID before: 
+- Project: QUEENS MANOR APTS
+- Address: 4615 27TH ST
+- City: MT RAINIER
+- State: MD
+- ZIP: 20712
+- ZIP extension: 
+- State project ID: MD03-30001
+- Latitude: 38.946579
+- Longitude: -76.969073
+- County FIPS: 24033
+- County from: 2020
+- Tract 2020: 24033804801
+- Tract 2010: 24033804801
+- Tract 2000: 24033804800
+- Tract 1990: 24033804800
+- Place 2020: 54275
+- Place 2010: 54275
+- Place 2000: 09500
+- Place 1990: 0650
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 331
+- Low-income units: 331
+- Units reported: 331
+- Low-income reported: 331
+- Efficiencies: 0
+- 1-bedroom units: 166
+- 2-bedroom units: 148
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

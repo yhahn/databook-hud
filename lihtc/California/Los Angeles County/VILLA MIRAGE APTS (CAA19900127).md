@@ -1,0 +1,85 @@
+# Project: VILLA MIRAGE APTS (CAA19900127)
+
+- HUD ID: CAA19900127
+- HUD ID before: 
+- Project: VILLA MIRAGE APTS
+- Address: 43230 GADSDEN AVE
+- City: LANCASTER
+- State: CA
+- ZIP: 93534
+- ZIP extension: 
+- State project ID: CA-88-206
+- Latitude: 34.668605
+- Longitude: -118.143218
+- County FIPS: 06037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06037900704
+- Tract 2000: 06037900704
+- Tract 1990: 06037900702
+- Place 2020: 
+- Place 2010: 40130
+- Place 2000: 40130
+- Place 1990: 1476
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 1523000
+- Units: 320
+- Low-income units: 320
+- Units reported: 320
+- Low-income reported: 320
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0001065.
+- Record status: Existing, unchanged

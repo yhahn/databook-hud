@@ -1,0 +1,85 @@
+# Project: RIVERWALK APTS (MIA20080160)
+
+- HUD ID: MIA20080160
+- HUD ID before: 
+- Project: RIVERWALK APTS
+- Address: 1501 DEBORAH DR
+- City: LOWELL
+- State: MI
+- ZIP: 49331
+- ZIP extension: 
+- State project ID: MI-3260
+- Latitude: 42.93255
+- Longitude: -85.357217
+- County FIPS: 26081
+- County from: 2020
+- Tract 2020: 26081012004
+- Tract 2010: 26081012004
+- Tract 2000: 26081012004
+- Tract 1990: 26081012001
+- Place 2020: 49540
+- Place 2010: 49540
+- Place 2000: 49540
+- Place 1990: 1570
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 93063
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 20
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

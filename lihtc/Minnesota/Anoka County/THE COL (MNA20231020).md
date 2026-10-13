@@ -1,0 +1,85 @@
+# Project: THE COL (MNA20231020)
+
+- HUD ID: MNA20231020
+- HUD ID before: 
+- Project: THE COL
+- Address: 800 42ND AVENUE NE
+- City: COLUMBIA HEIGHTS
+- State: MN
+- ZIP: 55421
+- ZIP extension: 
+- State project ID: D8345
+- Latitude: 45.044387
+- Longitude: -93.254419
+- County FIPS: 27003
+- County from: 2020
+- Tract 2020: 27003051501
+- Tract 2010: 27003051400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 12700
+- Place 2010: 12700
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 1020001
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 
+- 1-bedroom units: 16
+- 2-bedroom units: 28
+- 3-bedroom units: 18
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: No
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

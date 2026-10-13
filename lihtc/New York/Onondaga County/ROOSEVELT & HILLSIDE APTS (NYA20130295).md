@@ -1,0 +1,85 @@
+# Project: ROOSEVELT & HILLSIDE APTS (NYA20130295)
+
+- HUD ID: NYA20130295
+- HUD ID before: 
+- Project: ROOSEVELT & HILLSIDE APTS
+- Address: 1532 E GENESEE ST
+- City: SYRACUSE
+- State: NY
+- ZIP: 13210
+- ZIP extension: 
+- State project ID: 20116031
+- Latitude: 43.046842
+- Longitude: -76.127025
+- County FIPS: 36067
+- County from: 2020
+- Tract 2020: 36067003400
+- Tract 2010: 36067003400
+- Tract 2000: 36067003400
+- Tract 1990: 36067003400
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 3565
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1219136
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

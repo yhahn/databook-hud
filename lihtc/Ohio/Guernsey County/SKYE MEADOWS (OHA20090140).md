@@ -1,0 +1,85 @@
+# Project: SKYE MEADOWS (OHA20090140)
+
+- HUD ID: OHA20090140
+- HUD ID before: 
+- Project: SKYE MEADOWS
+- Address: 6533 FAIRDALE DR
+- City: CAMBRIDGE
+- State: OH
+- ZIP: 43725
+- ZIP extension: 
+- State project ID: 07-0093
+- Latitude: 40.014922
+- Longitude: -81.619589
+- County FIPS: 39059
+- County from: 2020
+- Tract 2020: 39059977300
+- Tract 2010: 39059977300
+- Tract 2000: 39059977300
+- Tract 1990: 39059977300
+- Place 2020: 10996
+- Place 2010: 99999
+- Place 2000: 10996
+- Place 1990: 0670
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SWEETWATER APARTMENTS (NCA20120818)
+
+- HUD ID: NCA20120818
+- HUD ID before: 
+- Project: SWEETWATER APARTMENTS
+- Address: 301 MOOSE BRANCH ROAD
+- City: ROBBINSVILLE
+- State: NC
+- ZIP: 28771
+- ZIP extension: 
+- State project ID: 9001244
+- Latitude: 35.32547
+- Longitude: -83.810813
+- County FIPS: 37075
+- County from: 2020
+- Tract 2020: 37075920300
+- Tract 2010: 37075920300
+- Tract 2000: 37075980300
+- Tract 1990: 37075980300
+- Place 2020: 57020
+- Place 2010: 57020
+- Place 2000: 57020
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 62034
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

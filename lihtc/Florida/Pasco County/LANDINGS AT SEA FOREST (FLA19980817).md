@@ -1,0 +1,85 @@
+# Project: LANDINGS AT SEA FOREST (FLA19980817)
+
+- HUD ID: FLA19980817
+- HUD ID before: 
+- Project: LANDINGS AT SEA FOREST
+- Address: 4522 SEAGULL DRIVE
+- City: NEW PORT RICHEY
+- State: FL
+- ZIP: 34652
+- ZIP extension: 
+- State project ID: 455
+- Latitude: 28.246371
+- Longitude: -82.7379
+- County FIPS: 12101
+- County from: 2020
+- Tract 2020: 12101030304
+- Tract 2010: 12101030301
+- Tract 2000: 12101030300
+- Tract 1990: 12101030300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 48500
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 279606
+- Units: 200
+- Low-income units: 120
+- Units reported: 200
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 160
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

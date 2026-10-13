@@ -1,0 +1,85 @@
+# Project: AMBERWOOD (ALA20140005)
+
+- HUD ID: ALA20140005
+- HUD ID before: 
+- Project: AMBERWOOD
+- Address: 1817 AMBERWOOD DR
+- City: CENTER POINT
+- State: AL
+- ZIP: 35215
+- ZIP extension: 
+- State project ID: 2012083-TC
+- Latitude: 33.636031
+- Longitude: -86.681843
+- County FIPS: 01073
+- County from: 2020
+- Tract 2020: 01073011806
+- Tract 2010: 01073011802
+- Tract 2000: 01073011802
+- Tract 1990: 01073011802
+- Place 2020: 13264
+- Place 2010: 13264
+- Place 2000: 13264
+- Place 1990: 0335
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 710788
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 54
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

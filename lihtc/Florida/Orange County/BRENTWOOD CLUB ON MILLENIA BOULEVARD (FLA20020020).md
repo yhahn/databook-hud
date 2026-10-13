@@ -1,0 +1,85 @@
+# Project: BRENTWOOD CLUB ON MILLENIA BOULEVARD (FLA20020020)
+
+- HUD ID: FLA20020020
+- HUD ID before: 
+- Project: BRENTWOOD CLUB ON MILLENIA BOULEVARD
+- Address: 5000 MILLENIA BLVD
+- City: ORLANDO
+- State: FL
+- ZIP: 32839
+- ZIP extension: 
+- State project ID: 1029
+- Latitude: 28.479203
+- Longitude: -81.44203
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016911
+- Tract 2010: 12095016903
+- Tract 2000: 12095016903
+- Tract 1990: 12095014500
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 50638
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 312
+- Low-income units: 312
+- Units reported: 312
+- Low-income reported: 312
+- Efficiencies: 0
+- 1-bedroom units: 52
+- 2-bedroom units: 172
+- 3-bedroom units: 56
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

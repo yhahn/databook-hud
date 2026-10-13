@@ -1,0 +1,85 @@
+# Project: MEADOW WOOD OF CARROLL (IAA19980080)
+
+- HUD ID: IAA19980080
+- HUD ID before: 
+- Project: MEADOW WOOD OF CARROLL
+- Address: 1010 WOODLAND DR
+- City: CARROLL
+- State: IA
+- ZIP: 51401
+- ZIP extension: 
+- State project ID: 97-43
+- Latitude: 42.06794
+- Longitude: -94.85211
+- County FIPS: 19027
+- County from: 2020
+- Tract 2020: 19027960300
+- Tract 2010: 19027960300
+- Tract 2000: 19027960300
+- Tract 1990: 19027960300
+- Place 2020: 11080
+- Place 2010: 11080
+- Place 2000: 11080
+- Place 1990: 0625
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 142222
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 17
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

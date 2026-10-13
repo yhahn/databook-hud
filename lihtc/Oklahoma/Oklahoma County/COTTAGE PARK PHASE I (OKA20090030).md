@@ -1,0 +1,85 @@
+# Project: COTTAGE PARK PHASE I (OKA20090030)
+
+- HUD ID: OKA20090030
+- HUD ID before: 
+- Project: COTTAGE PARK PHASE I
+- Address: 8406 WATER LEAF CT
+- City: MIDWEST CITY
+- State: OK
+- ZIP: 73110
+- ZIP extension: 
+- State project ID: 070126
+- Latitude: 35.483116
+- Longitude: -97.380741
+- County FIPS: 40109
+- County from: 2020
+- Tract 2020: 40109108011
+- Tract 2010: 40109108011
+- Tract 2000: 40109108011
+- Tract 1990: 40109108011
+- Place 2020: 48350
+- Place 2010: 48350
+- Place 2000: 48350
+- Place 1990: 1630
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 479607
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA COTTAGE PARK1.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BROOKSIDE VILLAGE APTS (ORA19900025)
+
+- HUD ID: ORA19900025
+- HUD ID before: 
+- Project: BROOKSIDE VILLAGE APTS
+- Address: 933 N ROSE ST
+- City: PHOENIX
+- State: OR
+- ZIP: 97535
+- ZIP extension: 
+- State project ID: OR88-110B
+- Latitude: 42.278385
+- Longitude: -122.827018
+- County FIPS: 41029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41029001602
+- Tract 2000: 41029001600
+- Tract 1990: 41029001600
+- Place 2020: 
+- Place 2010: 57500
+- Place 2000: 47000
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

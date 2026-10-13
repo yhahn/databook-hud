@@ -1,0 +1,85 @@
+# Project: HOPE FAMILY VI (ALA20040061)
+
+- HUD ID: ALA20040061
+- HUD ID before: 
+- Project: HOPE FAMILY VI
+- Address: 500 JOHN HELM ST
+- City: PRICHARD
+- State: AL
+- ZIP: 36610
+- ZIP extension: 
+- State project ID: AL-04-0022
+- Latitude: 30.731123
+- Longitude: -88.084632
+- County FIPS: 01097
+- County from: 2020
+- Tract 2020: 01097007700
+- Tract 2010: 01097007700
+- Tract 2000: 01097004000
+- Tract 1990: 01097004000
+- Place 2020: 62496
+- Place 2010: 62496
+- Place 2000: 62496
+- Place 1990: 1420
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 1200280
+- Units: 110
+- Low-income units: 110
+- Units reported: 110
+- Low-income reported: 110
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 44
+- 3-bedroom units: 54
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 110
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2006060.
+- Record status: Existing, unchanged

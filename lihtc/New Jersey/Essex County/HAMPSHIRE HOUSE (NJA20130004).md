@@ -1,0 +1,85 @@
+# Project: HAMPSHIRE HOUSE (NJA20130004)
+
+- HUD ID: NJA20130004
+- HUD ID before: 
+- Project: HAMPSHIRE HOUSE
+- Address: 129 NORTH ARLINGTON AVENUE
+- City: EAST ORANGE
+- State: NJ
+- ZIP: 07017
+- ZIP extension: 
+- State project ID: 01032
+- Latitude: 40.765022
+- Longitude: -74.208319
+- County FIPS: 34013
+- County from: 2020
+- Tract 2020: 34013010600
+- Tract 2010: 34013010600
+- Tract 2000: 34013010600
+- Tract 1990: 34013010600
+- Place 2020: 19390
+- Place 2010: 19390
+- Place 2000: 19390
+- Place 1990: 1665
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 302846
+- Units: 115
+- Low-income units: 115
+- Units reported: 115
+- Low-income reported: 115
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HAMPSHIRE RENEWAL.
+- Record status: Existing, unchanged

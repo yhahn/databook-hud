@@ -1,0 +1,85 @@
+# Project: SPRUCE SENIOR (NJA20030100)
+
+- HUD ID: NJA20030100
+- HUD ID before: 
+- Project: SPRUCE SENIOR
+- Address: 1 SPRUCE STREET
+- City: DOVER
+- State: NJ
+- ZIP: 07801
+- ZIP extension: 
+- State project ID: NJ-649
+- Latitude: 40.8806
+- Longitude: -74.562032
+- County FIPS: 34027
+- County from: 2020
+- Tract 2020: 34027044900
+- Tract 2010: 34027044900
+- Tract 2000: 34027044900
+- Tract 1990: 34027044900
+- Place 2020: 18070
+- Place 2010: 18070
+- Place 2000: 18070
+- Place 1990: 1605
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 901632
+- Units: 91
+- Low-income units: 90
+- Units reported: 91
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 90
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2012833.
+- Record status: Existing, unchanged

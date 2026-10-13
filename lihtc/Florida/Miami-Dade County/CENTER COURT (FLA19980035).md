@@ -1,0 +1,85 @@
+# Project: CENTER COURT (FLA19980035)
+
+- HUD ID: FLA19980035
+- HUD ID before: 
+- Project: CENTER COURT
+- Address: 14795 NE 18TH AVE
+- City: NORTH MIAMI
+- State: FL
+- ZIP: 33181
+- ZIP extension: 
+- State project ID: 148
+- Latitude: 25.911726
+- Longitude: -80.163114
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086000224
+- Tract 2010: 12086000209
+- Tract 2000: 12086000209
+- Tract 1990: 12025000207
+- Place 2020: 49450
+- Place 2010: 49450
+- Place 2000: 26375
+- Place 1990: 1498
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 588
+- Low-income units: 588
+- Units reported: 588
+- Low-income reported: 588
+- Efficiencies: 52
+- 1-bedroom units: 301
+- 2-bedroom units: 211
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1997801.
+- Record status: Existing, unchanged

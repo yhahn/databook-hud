@@ -1,0 +1,85 @@
+# Project: RIVER POINT VILLAGE (AKA20050010)
+
+- HUD ID: AKA20050010
+- HUD ID before: 
+- Project: RIVER POINT VILLAGE
+- Address: 2589 CHIEF WILLIAM DR
+- City: FAIRBANKS
+- State: AK
+- ZIP: 99709
+- ZIP extension: 
+- State project ID: AK-00-04
+- Latitude: 64.845532
+- Longitude: -147.78351
+- County FIPS: 02090
+- County from: 2020
+- Tract 2020: 02090000600
+- Tract 2010: 02090000600
+- Tract 2000: 02090000600
+- Tract 1990: 02090000600
+- Place 2020: 16750
+- Place 2010: 16750
+- Place 2000: 16750
+- Place 1990: 1080
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 25
+- Units reported: 26
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

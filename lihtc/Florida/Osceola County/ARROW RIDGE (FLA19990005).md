@@ -1,0 +1,85 @@
+# Project: ARROW RIDGE (FLA19990005)
+
+- HUD ID: FLA19990005
+- HUD ID before: 
+- Project: ARROW RIDGE
+- Address: 4100 ARROW RIDGE PL
+- City: KISSIMMEE
+- State: FL
+- ZIP: 34741
+- ZIP extension: 
+- State project ID: 46
+- Latitude: 28.314431
+- Longitude: -81.445524
+- County FIPS: 12097
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12097042100
+- Tract 2000: 12097042100
+- Tract 1990: 12097040203
+- Place 2020: 
+- Place 2010: 36950
+- Place 2000: 36950
+- Place 1990: 1075
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 320
+- Low-income units: 320
+- Units reported: 320
+- Low-income reported: 320
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 132
+- 3-bedroom units: 96
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

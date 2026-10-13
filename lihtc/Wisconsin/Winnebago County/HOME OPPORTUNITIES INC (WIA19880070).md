@@ -1,0 +1,85 @@
+# Project: HOME OPPORTUNITIES INC (WIA19880070)
+
+- HUD ID: WIA19880070
+- HUD ID before: 
+- Project: HOME OPPORTUNITIES INC
+- Address: 619 W NINTH AVE
+- City: OSHKOSH
+- State: WI
+- ZIP: 54902
+- ZIP extension: 
+- State project ID: 126
+- Latitude: 44.010248
+- Longitude: -88.553073
+- County FIPS: 55139
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55139001300
+- Tract 2000: 55139001500
+- Tract 1990: 55139001500
+- Place 2020: 
+- Place 2010: 60500
+- Place 2000: 60500
+- Place 1990: 1930
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 2
+- Construction: Existing
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

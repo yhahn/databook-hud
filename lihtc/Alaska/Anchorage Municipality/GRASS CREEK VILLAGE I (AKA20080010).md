@@ -1,0 +1,85 @@
+# Project: GRASS CREEK VILLAGE I (AKA20080010)
+
+- HUD ID: AKA20080010
+- HUD ID before: 
+- Project: GRASS CREEK VILLAGE I
+- Address: 7700 CREEKSIDE CTR DR
+- City: ANCHORAGE
+- State: AK
+- ZIP: 99504
+- ZIP extension: 
+- State project ID: 39659
+- Latitude: 61.206802
+- Longitude: -149.736841
+- County FIPS: 02020
+- County from: 2020
+- Tract 2020: 02020001731
+- Tract 2010: 02020001731
+- Tract 2000: 02020001731
+- Tract 1990: 02020001731
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0140
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 703160
+- Units: 80
+- Low-income units: 56
+- Units reported: 80
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 27
+- 3-bedroom units: 28
+- 4-bedroom units: 13
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

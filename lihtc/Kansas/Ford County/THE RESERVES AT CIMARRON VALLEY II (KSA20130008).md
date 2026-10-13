@@ -1,0 +1,85 @@
+# Project: THE RESERVES AT CIMARRON VALLEY II (KSA20130008)
+
+- HUD ID: KSA20130008
+- HUD ID before: 
+- Project: THE RESERVES AT CIMARRON VALLEY II
+- Address: 2804N SIXTH AVE
+- City: DODGE CITY
+- State: KS
+- ZIP: 67801
+- ZIP extension: 
+- State project ID: 60582
+- Latitude: 37.78491
+- Longitude: -100.024016
+- County FIPS: 20057
+- County from: 2020
+- Tract 2020: 20057961802
+- Tract 2010: 20057961800
+- Tract 2000: 20057961800
+- Tract 1990: 20057961800
+- Place 2020: 18250
+- Place 2010: 18250
+- Place 2000: 18250
+- Place 1990: 0695
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 577999
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

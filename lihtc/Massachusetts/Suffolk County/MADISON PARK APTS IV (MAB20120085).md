@@ -1,0 +1,85 @@
+# Project: MADISON PARK APTS IV (MAB20120085)
+
+- HUD ID: MAB20120085
+- HUD ID before: 
+- Project: MADISON PARK APTS IV
+- Address: 122 DEWITT DR
+- City: ROXBURY
+- State: MA
+- ZIP: 02120
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.332835
+- Longitude: -71.08468
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025080401
+- Tract 2010: 25025080401
+- Tract 2000: 25025080500
+- Tract 1990: 25025080500
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1450122
+- Units: 143
+- Low-income units: 143
+- Units reported: 143
+- Low-income reported: 143
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 126
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB1996035. AKA NEW MADISON PARK IV.
+- Record status: Existing, unchanged

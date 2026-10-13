@@ -1,0 +1,85 @@
+# Project: VALLEY VIEW APARTMENTS (CAA20170062)
+
+- HUD ID: CAA20170062
+- HUD ID before: 
+- Project: VALLEY VIEW APARTMENTS
+- Address: 103 SILVER DOLLAR WAY
+- City: CHICO
+- State: CA
+- ZIP: 95928
+- ZIP extension: 
+- State project ID: CA-15-148
+- Latitude: 39.719952
+- Longitude: -121.81071
+- County FIPS: 06007
+- County from: 2020
+- Tract 2020: 06007001300
+- Tract 2010: 06007001300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 13014
+- Place 2010: 13014
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 318695
+- Units: 15
+- Low-income units: 14
+- Units reported: 15
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 266000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 44800
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

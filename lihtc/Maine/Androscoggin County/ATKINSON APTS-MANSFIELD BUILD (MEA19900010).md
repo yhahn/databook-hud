@@ -1,0 +1,85 @@
+# Project: ATKINSON APTS/MANSFIELD BUILD (MEA19900010)
+
+- HUD ID: MEA19900010
+- HUD ID before: 
+- Project: ATKINSON APTS/MANSFIELD BUILD
+- Address: 228 LISBON ST
+- City: LEWISTON
+- State: ME
+- ZIP: 04240
+- ZIP extension: 
+- State project ID: ME-90-00026
+- Latitude: 44.094986
+- Longitude: -70.215961
+- County FIPS: 23001
+- County from: 2020
+- Tract 2020: 23001020100
+- Tract 2010: 23001020100
+- Tract 2000: 23001020100
+- Tract 1990: 23001020100
+- Place 2020: 38740
+- Place 2010: 38740
+- Place 2000: 38740
+- Place 1990: 2470
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 15
+- Units reported: 32
+- Low-income reported: 15
+- Efficiencies: 4
+- 1-bedroom units: 18
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VENBURY TRAIL APTS (IAA19980125)
+
+- HUD ID: IAA19980125
+- HUD ID before: 
+- Project: VENBURY TRAIL APTS
+- Address: 900 EIGHTH ST SW
+- City: ALTOONA
+- State: IA
+- ZIP: 50009
+- ZIP extension: 
+- State project ID: 97-48
+- Latitude: 41.643916
+- Longitude: -93.477529
+- County FIPS: 19153
+- County from: 2020
+- Tract 2020: 19153010708
+- Tract 2010: 19153010706
+- Tract 2000: 19153010701
+- Tract 1990: 19153010701
+- Place 2020: 01630
+- Place 2010: 01630
+- Place 2000: 01630
+- Place 1990: 0105
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 437316
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 48
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA VENBURY APTS.
+- Record status: Existing, unchanged

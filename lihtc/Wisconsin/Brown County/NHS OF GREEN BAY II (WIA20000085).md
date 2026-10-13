@@ -1,0 +1,85 @@
+# Project: NHS OF GREEN BAY II (WIA20000085)
+
+- HUD ID: WIA20000085
+- HUD ID before: 
+- Project: NHS OF GREEN BAY II
+- Address: 1257 E WALNUT ST
+- City: GREEN BAY
+- State: WI
+- ZIP: 54301
+- ZIP extension: 
+- State project ID: 2319
+- Latitude: 44.508343
+- Longitude: -87.998812
+- County FIPS: 55009
+- County from: 2020
+- Tract 2020: 55009001200
+- Tract 2010: 55009001200
+- Tract 2000: 55009001200
+- Tract 1990: 55009001200
+- Place 2020: 31000
+- Place 2010: 31000
+- Place 2000: 31000
+- Place 1990: 1055
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 10
+- 3-bedroom units: 5
+- 4-bedroom units: 3
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

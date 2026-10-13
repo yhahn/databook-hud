@@ -1,0 +1,85 @@
+# Project: KHA RAD I (INA20230023)
+
+- HUD ID: INA20230023
+- HUD ID before: 
+- Project: KHA RAD I
+- Address: SCATTERED SITES
+- City: KOKOMO
+- State: IN
+- ZIP: 46901
+- ZIP extension: 
+- State project ID: IN-20-02400B
+- Latitude: 40.509
+- Longitude: -86.1315
+- County FIPS: 18067
+- County from: 2020
+- Tract 2020: 18067000400
+- Tract 2010: 18067000400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 40392
+- Place 2010: 40392
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 21200000
+- Units: 335
+- Low-income units: 335
+- Units reported: 335
+- Low-income reported: 335
+- Efficiencies: 0
+- 1-bedroom units: 204
+- 2-bedroom units: 117
+- 3-bedroom units: 3
+- 4-bedroom units: 1
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

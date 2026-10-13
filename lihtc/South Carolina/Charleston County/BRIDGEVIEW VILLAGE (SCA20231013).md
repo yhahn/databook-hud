@@ -1,0 +1,85 @@
+# Project: BRIDGEVIEW VILLAGE (SCA20231013)
+
+- HUD ID: SCA20231013
+- HUD ID before: 
+- Project: BRIDGEVIEW VILLAGE
+- Address: 108 NORTH ROMNEY ST
+- City: CHARLESTON
+- State: SC
+- ZIP: 29483
+- ZIP extension: 0000
+- State project ID: SC-51905
+- Latitude: 32.812714
+- Longitude: -79.942736
+- County FIPS: 45019
+- County from: 2020
+- Tract 2020: 45019005400
+- Tract 2010: 45019005400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 13330
+- Place 2010: 13330
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 4494519
+- Units: 300
+- Low-income units: 300
+- Units reported: 300
+- Low-income reported: 300
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 100
+- 3-bedroom units: 170
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

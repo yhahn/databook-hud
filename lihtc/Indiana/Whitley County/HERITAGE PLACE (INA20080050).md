@@ -1,0 +1,85 @@
+# Project: HERITAGE PLACE (INA20080050)
+
+- HUD ID: INA20080050
+- HUD ID before: 
+- Project: HERITAGE PLACE
+- Address: 107 N WALNUT ST
+- City: COLUMBIA CITY
+- State: IN
+- ZIP: 46725
+- ZIP extension: 
+- State project ID: IN-07-01000
+- Latitude: 41.158116
+- Longitude: -85.492969
+- County FIPS: 18183
+- County from: 2020
+- Tract 2020: 18183050401
+- Tract 2010: 18183050400
+- Tract 2000: 18183050400
+- Tract 1990: 18183050400
+- Place 2020: 14716
+- Place 2010: 14716
+- Place 2000: 14716
+- Place 1990: 0510
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 213758
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 17
+- 4-bedroom units: 5
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 430000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HERITAGE HOMES.
+- Record status: Existing, unchanged

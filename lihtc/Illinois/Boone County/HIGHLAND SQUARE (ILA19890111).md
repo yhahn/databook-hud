@@ -1,0 +1,85 @@
+# Project: HIGHLAND SQUARE (ILA19890111)
+
+- HUD ID: ILA19890111
+- HUD ID before: 
+- Project: HIGHLAND SQUARE
+- Address: 210 HIGH LINE ST
+- City: BELVIDERE
+- State: IL
+- ZIP: 61008
+- ZIP extension: 
+- State project ID: 193-89
+- Latitude: 42.272182
+- Longitude: -88.865167
+- County FIPS: 17007
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17007010100
+- Tract 2000: 17007010100
+- Tract 1990: 17007010100
+- Place 2020: 
+- Place 2010: 05092
+- Place 2000: 05092
+- Place 1990: 0450
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 79214
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000475.
+- Record status: Existing, unchanged

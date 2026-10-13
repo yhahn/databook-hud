@@ -1,0 +1,85 @@
+# Project: HERITAGE PLACE (RIA20050015)
+
+- HUD ID: RIA20050015
+- HUD ID before: 
+- Project: HERITAGE PLACE
+- Address: 719 FRONT ST
+- City: WOONSOCKET
+- State: RI
+- ZIP: 02895
+- ZIP extension: 
+- State project ID: RI00061
+- Latitude: 41.996928
+- Longitude: -71.517566
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007017800
+- Tract 2010: 44007017800
+- Tract 2000: 44007017800
+- Tract 1990: 44007017800
+- Place 2020: 80780
+- Place 2010: 80780
+- Place 2000: 80780
+- Place 1990: 0560
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 762334
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 4
+- 1-bedroom units: 10
+- 2-bedroom units: 15
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FRONT STREET.
+- Record status: Existing, unchanged

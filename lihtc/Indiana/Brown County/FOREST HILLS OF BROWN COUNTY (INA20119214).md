@@ -1,0 +1,85 @@
+# Project: FOREST HILLS OF BROWN COUNTY (INA20119214)
+
+- HUD ID: INA20119214
+- HUD ID before: 
+- Project: FOREST HILLS OF BROWN COUNTY
+- Address: 184 FOREST HILLS CT
+- City: NASHVILLE
+- State: IN
+- ZIP: 47448
+- ZIP extension: 
+- State project ID: IN-10-02800
+- Latitude: 39.190404
+- Longitude: -86.167981
+- County FIPS: 18013
+- County from: 2020
+- Tract 2020: 18013974800
+- Tract 2010: 18013974800
+- Tract 2000: 18013974800
+- Tract 1990: 18013974800
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 52038
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 973909
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 24
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 4728570
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

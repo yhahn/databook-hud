@@ -1,0 +1,85 @@
+# Project: ROCKPORT APARTMENTS DBA HAWKS LANDING (OHA20129194)
+
+- HUD ID: OHA20129194
+- HUD ID before: 
+- Project: ROCKPORT APARTMENTS DBA HAWKS LANDING
+- Address: 14710 PURITAS AVENUE
+- City: CLEVELAND
+- State: OH
+- ZIP: 44135
+- ZIP extension: 
+- State project ID: 110127
+- Latitude: 41.433803
+- Longitude: -81.798954
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035124202
+- Tract 2010: 39035124202
+- Tract 2000: 39035124202
+- Tract 1990: 39035124202
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 134
+- Units reported: 144
+- Low-income reported: 134
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 84
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

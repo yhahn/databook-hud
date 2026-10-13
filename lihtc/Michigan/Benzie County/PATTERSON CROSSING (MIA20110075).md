@@ -1,0 +1,85 @@
+# Project: PATTERSON CROSSING (MIA20110075)
+
+- HUD ID: MIA20110075
+- HUD ID before: 
+- Project: PATTERSON CROSSING
+- Address: 114 ANCHOR PL
+- City: FRANKFORT
+- State: MI
+- ZIP: 49635
+- ZIP extension: 
+- State project ID: MI-3332
+- Latitude: 44.633276
+- Longitude: -86.244509
+- County FIPS: 26019
+- County from: 2020
+- Tract 2020: 26019000400
+- Tract 2010: 26019000400
+- Tract 2000: 26019980400
+- Tract 1990: 26019980400
+- Place 2020: 30260
+- Place 2010: 30260
+- Place 2000: 30260
+- Place 1990: 0955
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 265479
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5071711
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA2011512.
+- Record status: Existing, unchanged

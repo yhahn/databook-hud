@@ -1,0 +1,85 @@
+# Project: WILLOW WOODS PRESERVATION (VAA20130034)
+
+- HUD ID: VAA20130034
+- HUD ID before: 
+- Project: WILLOW WOODS PRESERVATION
+- Address: 222 ALLEN AVE
+- City: RADFORD
+- State: VA
+- ZIP: 24141
+- ZIP extension: 
+- State project ID: 9414
+- Latitude: 37.120454
+- Longitude: -80.562687
+- County FIPS: 51750
+- County from: 2020
+- Tract 2020: 51750010201
+- Tract 2010: 51750010200
+- Tract 2000: 51750010200
+- Tract 1990: 51750010200
+- Place 2020: 65392
+- Place 2010: 65392
+- Place 2000: 65392
+- Place 1990: 1015
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 252754
+- Units: 143
+- Low-income units: 139
+- Units reported: 143
+- Low-income reported: 139
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 97
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

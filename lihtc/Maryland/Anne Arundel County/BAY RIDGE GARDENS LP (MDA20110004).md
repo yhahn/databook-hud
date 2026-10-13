@@ -1,0 +1,85 @@
+# Project: BAY RIDGE GARDENS LP (MDA20110004)
+
+- HUD ID: MDA20110004
+- HUD ID before: 
+- Project: BAY RIDGE GARDENS LP
+- Address: 1 BENS DR
+- City: ANNAPOLIS
+- State: MD
+- ZIP: 21403
+- ZIP extension: 
+- State project ID: MD93-16
+- Latitude: 38.951687
+- Longitude: -76.493078
+- County FIPS: 24003
+- County from: 2020
+- Tract 2020: 24003706303
+- Tract 2010: 24003706301
+- Tract 2000: 24003706300
+- Tract 1990: 24003706300
+- Place 2020: 01600
+- Place 2010: 01600
+- Place 2000: 01600
+- Place 1990: 0011
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 198
+- Low-income units: 198
+- Units reported: 198
+- Low-income reported: 198
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 90
+- 4-bedroom units: 108
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

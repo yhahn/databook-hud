@@ -1,0 +1,85 @@
+# Project: PARK WEST PATIO HOMES FKA PARK WEST APARTMENT (ARA20030070)
+
+- HUD ID: ARA20030070
+- HUD ID before: 
+- Project: PARK WEST PATIO HOMES FKA PARK WEST APARTMENT
+- Address: 567-595 EMBASSY PKWY
+- City: MOUNTAIN HOME
+- State: AR
+- ZIP: 72653
+- ZIP extension: 
+- State project ID: AR-03-19-001
+- Latitude: 36.339133
+- Longitude: -92.401985
+- County FIPS: 05005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05005950400
+- Tract 2000: 05005950400
+- Tract 1990: 05005950400
+- Place 2020: 
+- Place 2010: 47390
+- Place 2000: 47390
+- Place 1990: 1405
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 49646
+- Units: 36
+- Low-income units: 8
+- Units reported: 36
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 35
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA PARK WEST APTS
+- Record status: Existing, unchanged

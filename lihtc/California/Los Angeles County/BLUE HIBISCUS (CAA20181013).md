@@ -1,0 +1,85 @@
+# Project: BLUE HIBISCUS (CAA20181013)
+
+- HUD ID: CAA20181013
+- HUD ID before: 
+- Project: BLUE HIBISCUS
+- Address: 1125 NORTH DETROIT STREET
+- City: WEST HOLLYWOOD
+- State: CA
+- ZIP: 90046
+- ZIP extension: 
+- State project ID: CA-2016-014
+- Latitude: 34.091653
+- Longitude: -118.345353
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037700101
+- Tract 2010: 06037700101
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 84410
+- Place 2010: 84410
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 641758
+- Units: 22
+- Low-income units: 21
+- Units reported: 22
+- Low-income reported: 21
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Persons with HIV/AIDS and transition age youth
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

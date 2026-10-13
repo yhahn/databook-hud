@@ -1,0 +1,85 @@
+# Project: CAMERON COURT APTS II (INA20040015)
+
+- HUD ID: INA20040015
+- HUD ID before: 
+- Project: CAMERON COURT APTS II
+- Address: 10637 SEILER RD
+- City: NEW HAVEN
+- State: IN
+- ZIP: 46774
+- ZIP extension: 
+- State project ID: IN-03-00300
+- Latitude: 41.04906
+- Longitude: -85.003741
+- County FIPS: 18003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18003011204
+- Tract 2000: 18003011203
+- Tract 1990: 18003011203
+- Place 2020: 
+- Place 2010: 52992
+- Place 2000: 52992
+- Place 1990: 1800
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 74
+- Low-income units: 74
+- Units reported: 74
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 26
+- 3-bedroom units: 26
+- 4-bedroom units: 10
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

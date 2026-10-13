@@ -1,0 +1,85 @@
+# Project: BAY HILL II (MIA20000030)
+
+- HUD ID: MIA20000030
+- HUD ID before: 
+- Project: BAY HILL II
+- Address: 600 BAY HILL DR
+- City: TRAVERSE CITY
+- State: MI
+- ZIP: 49684
+- ZIP extension: 
+- State project ID: MI-978
+- Latitude: 44.746864
+- Longitude: -85.632425
+- County FIPS: 26055
+- County from: 2020
+- Tract 2020: 26055551301
+- Tract 2010: 26055551300
+- Tract 2000: 26055991300
+- Tract 1990: 26055991300
+- Place 2020: 80340
+- Place 2010: 80340
+- Place 2000: 80340
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 36
+- Units reported: 72
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 40
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

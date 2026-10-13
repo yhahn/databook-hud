@@ -1,0 +1,85 @@
+# Project: BELLA VISTA (ARA20020085)
+
+- HUD ID: ARA20020085
+- HUD ID before: 
+- Project: BELLA VISTA
+- Address: 6510 MABELVALE CUT OFF
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72209
+- ZIP extension: 
+- State project ID: FCAR-01-51
+- Latitude: 34.654984
+- Longitude: -92.351592
+- County FIPS: 05119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05119004106
+- Tract 2000: 05119004106
+- Tract 1990: 05119004106
+- Place 2020: 
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 299588
+- Units: 200
+- Low-income units: 199
+- Units reported: 200
+- Low-income reported: 199
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 117
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA PEBBLE CREEK
+- Record status: Existing, unchanged

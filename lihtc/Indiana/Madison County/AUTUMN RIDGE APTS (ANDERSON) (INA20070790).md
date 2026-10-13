@@ -1,0 +1,85 @@
+# Project: AUTUMN RIDGE APTS (ANDERSON) (INA20070790)
+
+- HUD ID: INA20070790
+- HUD ID before: 
+- Project: AUTUMN RIDGE APTS (ANDERSON)
+- Address: 103 S RANGELINE RD
+- City: ANDERSON
+- State: IN
+- ZIP: 46012
+- ZIP extension: 
+- State project ID: IN-96-01500
+- Latitude: 40.11353
+- Longitude: -85.633777
+- County FIPS: 18095
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18095001200
+- Tract 2000: 18095001200
+- Tract 1990: 18095001200
+- Place 2020: 
+- Place 2010: 01468
+- Place 2000: 01468
+- Place 1990: 0065
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 64
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA1998117, INA1997020. AKA AUTUMN RIDGE APTS - CORYDON.
+- Record status: Existing, unchanged

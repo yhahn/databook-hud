@@ -1,0 +1,85 @@
+# Project: WINDSONG APARTMENTS (UTA20120900)
+
+- HUD ID: UTA20120900
+- HUD ID before: 
+- Project: WINDSONG APARTMENTS
+- Address: 1575 S. STATE STREET
+- City: CLEARFIELD
+- State: UT
+- ZIP: 84015
+- ZIP extension: 0000
+- State project ID: 2011-11
+- Latitude: 41.091924
+- Longitude: -112.003575
+- County FIPS: 49011
+- County from: 2020
+- Tract 2020: 49011125701
+- Tract 2010: 49011125801
+- Tract 2000: 49011125700
+- Tract 1990: 49011125700
+- Place 2020: 13850
+- Place 2010: 13850
+- Place 2000: 13850
+- Place 1990: 0135
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 363404
+- Units: 60
+- Low-income units: 59
+- Units reported: 60
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 50
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

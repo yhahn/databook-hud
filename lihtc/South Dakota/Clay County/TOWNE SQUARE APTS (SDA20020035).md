@@ -1,0 +1,85 @@
+# Project: TOWNE SQUARE APTS (SDA20020035)
+
+- HUD ID: SDA20020035
+- HUD ID before: 
+- Project: TOWNE SQUARE APTS
+- Address: 505 W MAIN ST
+- City: VERMILLION
+- State: SD
+- ZIP: 57069
+- ZIP extension: 
+- State project ID: 01784
+- Latitude: 42.779568
+- Longitude: -96.939301
+- County FIPS: 46027
+- County from: 2020
+- Tract 2020: 46027965900
+- Tract 2010: 46027965900
+- Tract 2000: 46027965600
+- Tract 1990: 46027965600
+- Place 2020: 66700
+- Place 2010: 66700
+- Place 2000: 66700
+- Place 1990: 1360
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NORTHSIDE HOMES (OHA20040185)
+
+- HUD ID: OHA20040185
+- HUD ID before: 
+- Project: NORTHSIDE HOMES
+- Address: 2950 MEGAN CIR
+- City: YOUNGSTOWN
+- State: OH
+- ZIP: 44505
+- ZIP extension: 
+- State project ID: 020080
+- Latitude: 41.129727
+- Longitude: -80.575783
+- County FIPS: 39099
+- County from: 2020
+- Tract 2020: 39099813800
+- Tract 2010: 39099813800
+- Tract 2000: 39099800200
+- Tract 1990: 39099800200
+- Place 2020: 88000
+- Place 2010: 88000
+- Place 2000: 88000
+- Place 1990: 4845
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 521178
+- Units: 46
+- Low-income units: 31
+- Units reported: 46
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 46
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 251000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WICK HOMES I.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ANTELOPE RIDGE APTS (WYA20090005)
+
+- HUD ID: WYA20090005
+- HUD ID before: 
+- Project: ANTELOPE RIDGE APTS
+- Address: 2501 LEDOUX AVE
+- City: GILLETTE
+- State: WY
+- ZIP: 82718
+- ZIP extension: 
+- State project ID: 07-004
+- Latitude: 44.272077
+- Longitude: -105.540832
+- County FIPS: 56005
+- County from: 2020
+- Tract 2020: 56005000500
+- Tract 2010: 56005000500
+- Tract 2000: 56005000500
+- Tract 1990: 56005952100
+- Place 2020: 31855
+- Place 2010: 31855
+- Place 2000: 31855
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 762564
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 23
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 71
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WYA0000010.
+- Record status: Existing, unchanged

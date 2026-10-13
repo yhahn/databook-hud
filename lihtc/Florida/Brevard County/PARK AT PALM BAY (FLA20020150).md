@@ -1,0 +1,85 @@
+# Project: PARK AT PALM BAY (FLA20020150)
+
+- HUD ID: FLA20020150
+- HUD ID before: 
+- Project: PARK AT PALM BAY
+- Address: 90 SAN FILIPPO
+- City: PALM BAY
+- State: FL
+- ZIP: 
+- ZIP extension: 
+- State project ID: 597
+- Latitude: 27.982439
+- Longitude: -80.63473
+- County FIPS: 12009
+- County from: 2020
+- Tract 2020: 12009071341
+- Tract 2010: 12009071322
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 54000
+- Place 2010: 54000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 234
+- Low-income units: 234
+- Units reported: 234
+- Low-income reported: 234
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 96
+- 3-bedroom units: 74
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

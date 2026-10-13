@@ -1,0 +1,85 @@
+# Project: WESLEY PARK APTS (WIA19930270)
+
+- HUD ID: WIA19930270
+- HUD ID before: 
+- Project: WESLEY PARK APTS
+- Address: 2001 WESLEY AVE
+- City: JANESVILLE
+- State: WI
+- ZIP: 53545
+- ZIP extension: 
+- State project ID: 1489
+- Latitude: 42.691142
+- Longitude: -88.997845
+- County FIPS: 55105
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55105000900
+- Tract 2000: 55105000900
+- Tract 1990: 55105000900
+- Place 2020: 
+- Place 2010: 37825
+- Place 2000: 37825
+- Place 1990: 1235
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 39
+- Low-income units: 34
+- Units reported: 39
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA JANESVILLE WESLEY ASSOC.
+- Record status: Existing, unchanged

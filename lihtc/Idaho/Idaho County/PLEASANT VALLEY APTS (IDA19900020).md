@@ -1,0 +1,85 @@
+# Project: PLEASANT VALLEY APTS (IDA19900020)
+
+- HUD ID: IDA19900020
+- HUD ID before: 
+- Project: PLEASANT VALLEY APTS
+- Address: 220 N MYRTLE ST
+- City: GRANGEVILLE
+- State: ID
+- ZIP: 83530
+- ZIP extension: 
+- State project ID: HC89006
+- Latitude: 45.925555
+- Longitude: -116.111367
+- County FIPS: 16049
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 16049960200
+- Tract 2000: 16049960200
+- Tract 1990: 16049960200
+- Place 2020: 
+- Place 2010: 32950
+- Place 2000: 32950
+- Place 1990: 0350
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 53763
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FORECLOSED, FILED BANKRUPTCY, OR OPTED FOR THE QUALIFIED CONTRACT.
+- Record status: Existing, unchanged

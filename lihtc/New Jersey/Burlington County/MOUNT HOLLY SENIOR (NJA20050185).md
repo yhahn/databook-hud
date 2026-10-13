@@ -1,0 +1,85 @@
+# Project: MOUNT HOLLY SENIOR (NJA20050185)
+
+- HUD ID: NJA20050185
+- HUD ID before: 
+- Project: MOUNT HOLLY SENIOR
+- Address: 256 CLIFTON AVE
+- City: MT HOLLY
+- State: NJ
+- ZIP: 08060
+- ZIP extension: 
+- State project ID: NJ-5909
+- Latitude: 39.996903
+- Longitude: -74.792247
+- County FIPS: 34005
+- County from: 2020
+- Tract 2020: 34005704600
+- Tract 2010: 34005704600
+- Tract 2000: 34005702604
+- Tract 1990: 34005702604
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 2857
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 268039
+- Units: 29
+- Low-income units: 29
+- Units reported: 29
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

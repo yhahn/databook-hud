@@ -1,0 +1,85 @@
+# Project: RIVER COURT (SDA19920050)
+
+- HUD ID: SDA19920050
+- HUD ID before: 
+- Project: RIVER COURT
+- Address: 912 ELM ST
+- City: VERMILLION
+- State: SD
+- ZIP: 57069
+- ZIP extension: 
+- State project ID: 01476
+- Latitude: 42.788657
+- Longitude: -96.930716
+- County FIPS: 46027
+- County from: 2020
+- Tract 2020: 46027965700
+- Tract 2010: 46027965700
+- Tract 2000: 46027965700
+- Tract 1990: 46027965700
+- Place 2020: 66700
+- Place 2010: 66700
+- Place 2000: 66700
+- Place 1990: 1360
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

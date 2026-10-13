@@ -1,0 +1,85 @@
+# Project: VALLEY VIEW APTS II (AZA20080070)
+
+- HUD ID: AZA20080070
+- HUD ID before: 
+- Project: VALLEY VIEW APTS II
+- Address: 3883 N WINDSONG DR
+- City: PRESCOTT VALLEY
+- State: AZ
+- ZIP: 86314
+- ZIP extension: 
+- State project ID: TC-0370
+- Latitude: 34.598513
+- Longitude: -112.329089
+- County FIPS: 04025
+- County from: 2020
+- Tract 2020: 04025000614
+- Tract 2010: 04025000606
+- Tract 2000: 04025000602
+- Tract 1990: 04025000600
+- Place 2020: 57450
+- Place 2010: 57450
+- Place 2000: 57450
+- Place 1990: 0282
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 983350
+- Units: 72
+- Low-income units: 66
+- Units reported: 72
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 72
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 750000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

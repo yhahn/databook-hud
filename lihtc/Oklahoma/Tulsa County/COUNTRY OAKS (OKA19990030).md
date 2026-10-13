@@ -1,0 +1,85 @@
+# Project: COUNTRY OAKS (OKA19990030)
+
+- HUD ID: OKA19990030
+- HUD ID before: 
+- Project: COUNTRY OAKS
+- Address: 5648 S 33RD W AVE
+- City: TULSA
+- State: OK
+- ZIP: 74107
+- ZIP extension: 
+- State project ID: 970108
+- Latitude: 36.081796
+- Longitude: -96.029786
+- County FIPS: 40143
+- County from: 2020
+- Tract 2020: 40143006701
+- Tract 2010: 40143006701
+- Tract 2000: 40143006701
+- Tract 1990: 40143006701
+- Place 2020: 75000
+- Place 2010: 75000
+- Place 2000: 53350
+- Place 1990: 2465
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

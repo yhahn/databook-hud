@@ -1,0 +1,85 @@
+# Project: KEYSTONE PLACE (TXA0000X038)
+
+- HUD ID: TXA0000X038
+- HUD ID before: 
+- Project: KEYSTONE PLACE
+- Address: 1331 PULLMAN DR
+- City: EL PASO
+- State: TX
+- ZIP: 79936
+- ZIP extension: 
+- State project ID: TX5238
+- Latitude: 31.727598
+- Longitude: -106.296819
+- County FIPS: 48141
+- County from: 2020
+- Tract 2020: 48141010338
+- Tract 2010: 48141010338
+- Tract 2000: 48141010321
+- Tract 1990: 
+- Place 2020: 24000
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 
+- Units: 52
+- Low-income units: 48
+- Units reported: 52
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 20
+- 3-bedroom units: 20
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

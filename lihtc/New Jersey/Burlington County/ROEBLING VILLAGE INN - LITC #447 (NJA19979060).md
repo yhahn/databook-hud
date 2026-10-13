@@ -1,0 +1,85 @@
+# Project: ROEBLING VILLAGE INN - LITC #447 (NJA19979060)
+
+- HUD ID: NJA19979060
+- HUD ID before: 
+- Project: ROEBLING VILLAGE INN - LITC #447
+- Address: 32 RIVERSIDE AVE
+- City: ROEBLING
+- State: NJ
+- ZIP: 08554
+- ZIP extension: 1023
+- State project ID: NJ-99-99
+- Latitude: 40.120039
+- Longitude: -74.775122
+- County FIPS: 34005
+- County from: 2020
+- Tract 2020: 34005701302
+- Tract 2010: 34005701302
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 64350
+- Place 2010: 64350
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 0
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

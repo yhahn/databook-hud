@@ -1,0 +1,85 @@
+# Project: SOUTH BRIAR (SDA19990045)
+
+- HUD ID: SDA19990045
+- HUD ID before: 
+- Project: SOUTH BRIAR
+- Address: 503 15TH ST S
+- City: BROOKINGS
+- State: SD
+- ZIP: 57006
+- ZIP extension: 
+- State project ID: 1643
+- Latitude: 44.289103
+- Longitude: -96.798065
+- County FIPS: 46011
+- County from: 2020
+- Tract 2020: 46011958803
+- Tract 2010: 46011958803
+- Tract 2000: 46011958800
+- Tract 1990: 46011958800
+- Place 2020: 07580
+- Place 2010: 07580
+- Place 2000: 07580
+- Place 1990: 0185
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 133923
+- Units: 29
+- Low-income units: 29
+- Units reported: 29
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 27
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 13
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

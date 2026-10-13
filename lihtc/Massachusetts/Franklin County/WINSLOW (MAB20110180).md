@@ -1,0 +1,85 @@
+# Project: WINSLOW (MAB20110180)
+
+- HUD ID: MAB20110180
+- HUD ID before: 
+- Project: WINSLOW
+- Address: 132 MAIN ST
+- City: GREENFIELD
+- State: MA
+- ZIP: 01301
+- ZIP extension: 
+- State project ID: 1649
+- Latitude: 42.594103
+- Longitude: -72.592754
+- County FIPS: 25011
+- County from: 2020
+- Tract 2020: 25011041301
+- Tract 2010: 25011041300
+- Tract 2000: 25011041300
+- Tract 1990: 25011041300
+- Place 2020: 27060
+- Place 2010: 27100
+- Place 2000: 27060
+- Place 1990: 1520
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 15000
+- Units: 55
+- Low-income units: 55
+- Units reported: 55
+- Low-income reported: 55
+- Efficiencies: 54
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 515000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB20110180. AKA WINSLOW BUILDING MGMT.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HIGHGROVE WORKFORCE APTS (CAA20149517)
+
+- HUD ID: CAA20149517
+- HUD ID before: 
+- Project: HIGHGROVE WORKFORCE APTS
+- Address: 530 CTR ST
+- City: RIVERSIDE
+- State: CA
+- ZIP: 92507
+- ZIP extension: 
+- State project ID: CA-12-078
+- Latitude: 34.015498
+- Longitude: -117.322591
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065042300
+- Tract 2010: 06065042300
+- Tract 2000: 06065042300
+- Tract 1990: 06065042300
+- Place 2020: 33574
+- Place 2010: 33574
+- Place 2000: 33574
+- Place 1990: 1258
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 89
+- Low-income units: 87
+- Units reported: 89
+- Low-income reported: 87
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

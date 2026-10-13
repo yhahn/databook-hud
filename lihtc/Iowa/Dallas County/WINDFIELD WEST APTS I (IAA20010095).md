@@ -1,0 +1,85 @@
+# Project: WINDFIELD WEST APTS I (IAA20010095)
+
+- HUD ID: IAA20010095
+- HUD ID before: 
+- Project: WINDFIELD WEST APTS I
+- Address: 301 WARRIOR LN
+- City: WAUKEE
+- State: IA
+- ZIP: 
+- ZIP extension: 
+- State project ID: 00-35
+- Latitude: 41.612833
+- Longitude: -93.871967
+- County FIPS: 19049
+- County from: 2020
+- Tract 2020: 19049050807
+- Tract 2010: 19049050807
+- Tract 2000: 19049050802
+- Tract 1990: 19049050800
+- Place 2020: 82695
+- Place 2010: 82695
+- Place 2000: 14520
+- Place 1990: 4470
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 125720
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 12
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WILBETH-ARLINGTON HOMES (OHA19980255)
+
+- HUD ID: OHA19980255
+- HUD ID before: 
+- Project: WILBETH-ARLINGTON HOMES
+- Address: 1248 VIRGINIA AVE
+- City: AKRON
+- State: OH
+- ZIP: 44306
+- ZIP extension: 
+- State project ID: 960109
+- Latitude: 41.038041
+- Longitude: -81.496941
+- County FIPS: 39153
+- County from: 2020
+- Tract 2020: 39153503300
+- Tract 2010: 39153503300
+- Tract 2000: 39153503300
+- Tract 1990: 39153503300
+- Place 2020: 01000
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0035
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 328
+- Low-income units: 328
+- Units reported: 328
+- Low-income reported: 328
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 100
+- 3-bedroom units: 167
+- 4-bedroom units: 53
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WILBETH ARLINGTON HOMES.
+- Record status: Existing, unchanged

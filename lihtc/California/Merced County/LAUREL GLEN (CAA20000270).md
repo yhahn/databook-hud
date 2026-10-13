@@ -1,0 +1,85 @@
+# Project: LAUREL GLEN (CAA20000270)
+
+- HUD ID: CAA20000270
+- HUD ID before: 
+- Project: LAUREL GLEN
+- Address: 777 LOUGHBOROUGH DR
+- City: MERCED
+- State: CA
+- ZIP: 95348
+- ZIP extension: 
+- State project ID: CA-00-840
+- Latitude: 37.323344
+- Longitude: -120.481415
+- County FIPS: 06047
+- County from: 2020
+- Tract 2020: 06047001004
+- Tract 2010: 06047001004
+- Tract 2000: 06047001004
+- Tract 1990: 06047001001
+- Place 2020: 46898
+- Place 2010: 46898
+- Place 2000: 46898
+- Place 1990: 1750
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 238501
+- Units: 128
+- Low-income units: 127
+- Units reported: 128
+- Low-income reported: 127
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

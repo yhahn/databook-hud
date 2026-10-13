@@ -1,0 +1,85 @@
+# Project: LEDGES AT JOHNSTON (RIA20080015)
+
+- HUD ID: RIA20080015
+- HUD ID before: 
+- Project: LEDGES AT JOHNSTON
+- Address: 175 FEDERAL WAY
+- City: JOHNSTON
+- State: RI
+- ZIP: 02919
+- ZIP extension: 
+- State project ID: RI00017
+- Latitude: 41.819486
+- Longitude: -71.500997
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007012200
+- Tract 2010: 44007012200
+- Tract 2000: 44007012200
+- Tract 1990: 44007012200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 268682
+- Units: 300
+- Low-income units: 60
+- Units reported: 300
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 35
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

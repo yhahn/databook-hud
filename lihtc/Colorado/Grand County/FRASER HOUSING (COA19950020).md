@@ -1,0 +1,85 @@
+# Project: FRASER HOUSING (COA19950020)
+
+- HUD ID: COA19950020
+- HUD ID before: 
+- Project: FRASER HOUSING
+- Address: 505 WILLOW LN
+- City: FRASER
+- State: CO
+- ZIP: 
+- ZIP extension: 
+- State project ID: CO-94-020
+- Latitude: 39.947147
+- Longitude: -105.812976
+- County FIPS: 08049
+- County from: 2020
+- Tract 2020: 08049000203
+- Tract 2010: 08049000202
+- Tract 2000: 08049000200
+- Tract 1990: 08049956100
+- Place 2020: 28305
+- Place 2010: 28305
+- Place 2000: 28305
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 49
+- Units reported: 50
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 26
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA WAPITI MEADOWS, MERCY HOUSING COLORADO IV.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SKY PARKWAY ESTATES (CAA19960110)
+
+- HUD ID: CAA19960110
+- HUD ID before: 
+- Project: SKY PARKWAY ESTATES
+- Address: 5500 SKY PKWY
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95823
+- ZIP extension: 
+- State project ID: CA-95-101
+- Latitude: 38.501527
+- Longitude: -121.439238
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067004701
+- Tract 2010: 06067004701
+- Tract 2000: 06067004700
+- Tract 1990: 06067004700
+- Place 2020: 24498
+- Place 2010: 24498
+- Place 2000: 55837
+- Place 1990: 2117
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 618322
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 24
+- 3-bedroom units: 28
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MUTUAL HOUSING AT SKY PARK.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CHERRY BROOK APTS (LAA19990020)
+
+- HUD ID: LAA19990020
+- HUD ID before: 
+- Project: CHERRY BROOK APTS
+- Address: 1341 20 ARPENT RD
+- City: NEW IBERIA
+- State: LA
+- ZIP: 70560
+- ZIP extension: 
+- State project ID: LA-98-013
+- Latitude: 29.988414
+- Longitude: -91.802412
+- County FIPS: 22045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22045031100
+- Tract 2000: 22045031100
+- Tract 1990: 22045031100
+- Place 2020: 
+- Place 2010: 54035
+- Place 2000: 54035
+- Place 1990: 0950
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 28949
+- Units: 74
+- Low-income units: 74
+- Units reported: 74
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 46
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1999018.
+- Record status: Existing, unchanged

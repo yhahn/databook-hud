@@ -1,0 +1,85 @@
+# Project: ALGERS PLACE (MSA19890053)
+
+- HUD ID: MSA19890053
+- HUD ID before: 
+- Project: ALGERS PLACE
+- Address: 542 11TH ST
+- City: MCCOMB
+- State: MS
+- ZIP: 39648
+- ZIP extension: 
+- State project ID: 
+- Latitude: 31.234361
+- Longitude: -90.467742
+- County FIPS: 28113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 28113950500
+- Tract 2000: 28113950500
+- Tract 1990: 28113950500
+- Place 2020: 
+- Place 2010: 43280
+- Place 2000: 43280
+- Place 1990: 0730
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA0000060.
+- Record status: Existing, unchanged

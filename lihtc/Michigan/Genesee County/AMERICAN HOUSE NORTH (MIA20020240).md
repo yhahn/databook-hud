@@ -1,0 +1,85 @@
+# Project: AMERICAN HOUSE NORTH (MIA20020240)
+
+- HUD ID: MIA20020240
+- HUD ID before: 
+- Project: AMERICAN HOUSE NORTH
+- Address: 3375 N LINDEN RD
+- City: FLINT
+- State: MI
+- ZIP: 48504
+- ZIP extension: 
+- State project ID: MI-1016
+- Latitude: 43.056257
+- Longitude: -83.77308
+- County FIPS: 26049
+- County from: 2020
+- Tract 2020: 26049010502
+- Tract 2010: 26049010502
+- Tract 2000: 26049010502
+- Tract 1990: 26049010502
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 126
+- Low-income units: 51
+- Units reported: 126
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 64
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LOCKWOOD OF MT MORRIS (PINE GARDENS).
+- Record status: Existing, unchanged

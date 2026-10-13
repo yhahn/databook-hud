@@ -1,0 +1,85 @@
+# Project: RAINBOW END (KSA20000140)
+
+- HUD ID: KSA20000140
+- HUD ID before: 
+- Project: RAINBOW END
+- Address: 906 S 13TH ST
+- City: PARSONS
+- State: KS
+- ZIP: 67357
+- ZIP extension: 
+- State project ID: 60037
+- Latitude: 37.332364
+- Longitude: -95.254175
+- County FIPS: 20099
+- County from: 2020
+- Tract 2020: 20099950100
+- Tract 2010: 20099950100
+- Tract 2000: 20099950100
+- Tract 1990: 20099950100
+- Place 2020: 54675
+- Place 2010: 54675
+- Place 2000: 54675
+- Place 1990: 2245
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 100083
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA2001070.
+- Record status: Existing, unchanged

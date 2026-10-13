@@ -1,0 +1,85 @@
+# Project: LAKEVIEW APTS (LAA19999801)
+
+- HUD ID: LAA19999801
+- HUD ID before: 
+- Project: LAKEVIEW APTS
+- Address: 100 LAKEVIEW DR
+- City: NATCHITOCHES
+- State: LA
+- ZIP: 71457
+- ZIP extension: 
+- State project ID: LA-98-024
+- Latitude: 31.742706
+- Longitude: -93.069307
+- County FIPS: 22069
+- County from: 2020
+- Tract 2020: 22069000602
+- Tract 2010: 22069000600
+- Tract 2000: 22069990600
+- Tract 1990: 22069990600
+- Place 2020: 53545
+- Place 2010: 53545
+- Place 2000: 53545
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 53
+- Low-income units: 53
+- Units reported: 53
+- Low-income reported: 53
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

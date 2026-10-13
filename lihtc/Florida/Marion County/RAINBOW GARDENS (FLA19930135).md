@@ -1,0 +1,85 @@
+# Project: RAINBOW GARDENS (FLA19930135)
+
+- HUD ID: FLA19930135
+- HUD ID before: 
+- Project: RAINBOW GARDENS
+- Address: 11850 RAINBOW GARDENS CIR
+- City: DUNNELLON
+- State: FL
+- ZIP: 34432
+- ZIP extension: 
+- State project ID: 663
+- Latitude: 29.050355
+- Longitude: -82.456969
+- County FIPS: 12083
+- County from: 2020
+- Tract 2020: 12083002703
+- Tract 2010: 12083002702
+- Tract 2000: 12083002702
+- Tract 1990: 12083002702
+- Place 2020: 18675
+- Place 2010: 18675
+- Place 2000: 18675
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

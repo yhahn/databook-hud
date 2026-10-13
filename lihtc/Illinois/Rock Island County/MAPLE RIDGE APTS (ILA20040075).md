@@ -1,0 +1,85 @@
+# Project: MAPLE RIDGE APTS (ILA20040075)
+
+- HUD ID: ILA20040075
+- HUD ID before: 
+- Project: MAPLE RIDGE APTS
+- Address: 3700 FIFTH ST
+- City: ROCK ISLAND
+- State: IL
+- ZIP: 61201
+- ZIP extension: 
+- State project ID: 146203
+- Latitude: 41.473435
+- Longitude: -90.591504
+- County FIPS: 17161
+- County from: 2020
+- Tract 2020: 17161024400
+- Tract 2010: 17161024400
+- Tract 2000: 17161024400
+- Tract 1990: 17161024400
+- Place 2020: 65078
+- Place 2010: 65078
+- Place 2000: 49009
+- Place 1990: 4970
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 478431
+- Units: 162
+- Low-income units: 162
+- Units reported: 162
+- Low-income reported: 162
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 97
+- 3-bedroom units: 46
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

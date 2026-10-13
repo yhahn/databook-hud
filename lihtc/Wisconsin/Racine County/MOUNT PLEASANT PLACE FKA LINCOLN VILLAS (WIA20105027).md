@@ -1,0 +1,85 @@
+# Project: MOUNT PLEASANT PLACE FKA LINCOLN VILLAS (WIA20105027)
+
+- HUD ID: WIA20105027
+- HUD ID before: 
+- Project: MOUNT PLEASANT PLACE FKA LINCOLN VILLAS
+- Address: 5810 LINCOLN VILLAS DR
+- City: MOUNT PLEASANT
+- State: WI
+- ZIP: 53406
+- ZIP extension: 
+- State project ID: 5305
+- Latitude: 42.711195
+- Longitude: -87.850794
+- County FIPS: 55101
+- County from: 2020
+- Tract 2020: 55101001701
+- Tract 2010: 55101001701
+- Tract 2000: 55101001701
+- Tract 1990: 
+- Place 2020: 54875
+- Place 2010: 54875
+- Place 2000: 54875
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 99
+- Low-income units: 1
+- Units reported: 99
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 98
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

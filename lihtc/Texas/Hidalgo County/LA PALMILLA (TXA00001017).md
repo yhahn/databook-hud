@@ -1,0 +1,85 @@
+# Project: LA PALMILLA (TXA00001017)
+
+- HUD ID: TXA00001017
+- HUD ID before: 
+- Project: LA PALMILLA
+- Address: 2300 E ALBERTA RD.
+- City: EDINBURG
+- State: TX
+- ZIP: 78542
+- ZIP extension: 
+- State project ID: TX5137
+- Latitude: 26.251047
+- Longitude: -98.148116
+- County FIPS: 48215
+- County from: 2020
+- Tract 2020: 48215023804
+- Tract 2010: 48215023801
+- Tract 2000: 48215023600
+- Tract 1990: 
+- Place 2020: 50092
+- Place 2010: 50092
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 140
+- Low-income units: 126
+- Units reported: 140
+- Low-income reported: 126
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 68
+- 3-bedroom units: 52
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

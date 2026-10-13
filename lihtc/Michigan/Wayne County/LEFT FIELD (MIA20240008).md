@@ -1,0 +1,85 @@
+# Project: LEFT FIELD (MIA20240008)
+
+- HUD ID: MIA20240008
+- HUD ID before: 
+- Project: LEFT FIELD
+- Address: 2310 COCHRAN STREET
+- City: DETROIT
+- State: MI
+- ZIP: 48225
+- ZIP extension: 0000
+- State project ID: 4003
+- Latitude: 42.4438
+- Longitude: -82.9307
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163521400
+- Tract 2010: 26163551400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 22000
+- Place 2010: 36700
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2022
+- Allocation year note: 
+- Allocation amount: 1565000
+- Units: 60
+- Low-income units: 48
+- Units reported: 60
+- Low-income reported: 48
+- Efficiencies: 15
+- 1-bedroom units: 11
+- 2-bedroom units: 22
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: Yes
+- Affordability years: 45
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

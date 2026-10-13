@@ -1,0 +1,85 @@
+# Project: VINE PLACE II (VAA19960187)
+
+- HUD ID: VAA19960187
+- HUD ID before: 
+- Project: VINE PLACE II
+- Address: 1203 PROVIDENCE ST
+- City: STAFFORD
+- State: VA
+- ZIP: 22554
+- ZIP extension: 
+- State project ID: 4356
+- Latitude: 38.462297
+- Longitude: -77.415241
+- County FIPS: 51179
+- County from: 2020
+- Tract 2020: 51179010211
+- Tract 2010: 51179010211
+- Tract 2000: 51179010209
+- Tract 1990: 51179010203
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 885941
+- Units: 172
+- Low-income units: 172
+- Units reported: 172
+- Low-income reported: 172
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 160
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1995175. AKA ARBOR GROVE II.
+- Record status: Existing, unchanged

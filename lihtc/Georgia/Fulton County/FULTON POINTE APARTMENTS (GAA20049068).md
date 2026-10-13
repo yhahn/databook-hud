@@ -1,0 +1,85 @@
+# Project: FULTON POINTE APARTMENTS (GAA20049068)
+
+- HUD ID: GAA20049068
+- HUD ID before: 
+- Project: FULTON POINTE APARTMENTS
+- Address: 3223 ROBINS CRESTE LANE
+- City: EAST POINT
+- State: GA
+- ZIP: 30344
+- ZIP extension: 
+- State project ID: 56-2337986
+- Latitude: 33.6783
+- Longitude: -84.449
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011202
+- Tract 2010: 13121011202
+- Tract 2000: 13121011304
+- Tract 1990: 13121010302
+- Place 2020: 25720
+- Place 2010: 25720
+- Place 2000: 25720
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 440856
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

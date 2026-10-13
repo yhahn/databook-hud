@@ -1,0 +1,85 @@
+# Project: CYPRESS CREEK AT RIVER BEND (TXA20070125)
+
+- HUD ID: TXA20070125
+- HUD ID before: 
+- Project: CYPRESS CREEK AT RIVER BEND
+- Address: 120 RIVER BEND DR
+- City: GEORGETOWN
+- State: TX
+- ZIP: 78628
+- ZIP extension: 
+- State project ID: TX4222
+- Latitude: 30.663346
+- Longitude: -97.686347
+- County FIPS: 48491
+- County from: 2020
+- Tract 2020: 48491020114
+- Tract 2010: 48491020114
+- Tract 2000: 48491020102
+- Tract 1990: 48491020102
+- Place 2020: 29336
+- Place 2010: 29336
+- Place 2000: 29336
+- Place 1990: 1600
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 555569
+- Units: 180
+- Low-income units: 180
+- Units reported: 180
+- Low-income reported: 180
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 72
+- 3-bedroom units: 64
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1950000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

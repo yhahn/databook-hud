@@ -1,0 +1,85 @@
+# Project: ASHWOOD DOWNS (WAA20130004)
+
+- HUD ID: WAA20130004
+- HUD ID before: 
+- Project: ASHWOOD DOWNS
+- Address: 1900 ASHWOOD DOWNS LANE SE
+- City: OLYMPIA
+- State: WA
+- ZIP: 98501
+- ZIP extension: 
+- State project ID: 12-83A
+- Latitude: 47.031272
+- Longitude: -122.849272
+- County FIPS: 53067
+- County from: 2020
+- Tract 2020: 53067011300
+- Tract 2010: 53067011300
+- Tract 2000: 53067011300
+- Tract 1990: 53067011300
+- Place 2020: 51300
+- Place 2010: 51300
+- Place 2000: 36745
+- Place 1990: 0643
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 289386
+- Units: 96
+- Low-income units: 95
+- Units reported: 96
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA1995005.
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: MAGNOLIA LANDING APTS (FLA20110546)
+
+- HUD ID: FLA20110546
+- HUD ID before: 
+- Project: MAGNOLIA LANDING APTS
+- Address: 25881 SW 143RD CT
+- City: NARANJA
+- State: FL
+- ZIP: 33032
+- ZIP extension: 
+- State project ID: 2194
+- Latitude: 25.526302
+- Longitude: -80.423749
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086010400
+- Tract 2010: 12086010400
+- Tract 2000: 12086010400
+- Tract 1990: 12025010400
+- Place 2020: 58975
+- Place 2010: 58975
+- Place 2000: 26950
+- Place 1990: 0758
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 150
+- Low-income units: 150
+- Units reported: 150
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 70
+- 3-bedroom units: 52
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 20931250
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011145.
+- Record status: Existing, unchanged

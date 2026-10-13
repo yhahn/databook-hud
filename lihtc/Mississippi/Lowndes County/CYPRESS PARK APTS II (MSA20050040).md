@@ -1,0 +1,85 @@
+# Project: CYPRESS PARK APTS II (MSA20050040)
+
+- HUD ID: MSA20050040
+- HUD ID before: 
+- Project: CYPRESS PARK APTS II
+- Address: 300 S LEHMBERG RD
+- City: COLUMBUS
+- State: MS
+- ZIP: 39702
+- ZIP extension: 
+- State project ID: MS-03-019
+- Latitude: 33.489758
+- Longitude: -88.363183
+- County FIPS: 28087
+- County from: 2020
+- Tract 2020: 28087000600
+- Tract 2010: 28087000600
+- Tract 2000: 28087000600
+- Tract 1990: 28087000600
+- Place 2020: 15380
+- Place 2010: 99999
+- Place 2000: 15380
+- Place 1990: 0265
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 734793
+- Units: 96
+- Low-income units: 95
+- Units reported: 96
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2005035, MSA2004030. AKA CYPRESS PARK APTS.
+- Record status: Existing, unchanged

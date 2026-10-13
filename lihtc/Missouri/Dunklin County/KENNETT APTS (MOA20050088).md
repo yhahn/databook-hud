@@ -1,0 +1,85 @@
+# Project: KENNETT APTS (MOA20050088)
+
+- HUD ID: MOA20050088
+- HUD ID before: 
+- Project: KENNETT APTS
+- Address: 940 COMPRESS RD
+- City: KENNETT
+- State: MO
+- ZIP: 63857
+- ZIP extension: 
+- State project ID: 05-010
+- Latitude: 36.246232
+- Longitude: -90.047169
+- County FIPS: 29069
+- County from: 2020
+- Tract 2020: 29069360600
+- Tract 2010: 29069360600
+- Tract 2000: 29069960600
+- Tract 1990: 29069960600
+- Place 2020: 38306
+- Place 2010: 38306
+- Place 2000: 38306
+- Place 1990: 2235
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 344865
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 31
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA2005090.
+- Record status: Existing, unchanged

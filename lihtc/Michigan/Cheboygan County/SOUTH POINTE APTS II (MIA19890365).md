@@ -1,0 +1,85 @@
+# Project: SOUTH POINTE APTS II (MIA19890365)
+
+- HUD ID: MIA19890365
+- HUD ID before: 
+- Project: SOUTH POINTE APTS II
+- Address: 5323 S STRAITS HWY
+- City: INDIAN RIVER
+- State: MI
+- ZIP: 49749
+- ZIP extension: 
+- State project ID: MI-2200
+- Latitude: 45.385775
+- Longitude: -84.628915
+- County FIPS: 26031
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 26031960700
+- Tract 2000: 26031960700
+- Tract 1990: 26031960700
+- Place 2020: 
+- Place 2010: 40480
+- Place 2000: 40480
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA INDIAN RIVER II.
+- Record status: Existing, unchanged

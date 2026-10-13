@@ -1,0 +1,85 @@
+# Project: LEAGUE COVE & ROBERT'S ESTATES (MSA20070060)
+
+- HUD ID: MSA20070060
+- HUD ID before: 
+- Project: LEAGUE COVE & ROBERT'S ESTATES
+- Address: 1000 JASON BLVD
+- City: YAZOO CITY
+- State: MS
+- ZIP: 39194
+- ZIP extension: 
+- State project ID: MS-06-144
+- Latitude: 32.8683
+- Longitude: -90.4171
+- County FIPS: 28163
+- County from: 2020
+- Tract 2020: 28163950300
+- Tract 2010: 28163950300
+- Tract 2000: 28163950100
+- Tract 1990: 28163950100
+- Place 2020: 81520
+- Place 2010: 81520
+- Place 2000: 21420
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 445199
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

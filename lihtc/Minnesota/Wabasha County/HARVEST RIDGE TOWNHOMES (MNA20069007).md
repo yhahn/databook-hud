@@ -1,0 +1,85 @@
+# Project: HARVEST RIDGE TOWNHOMES (MNA20069007)
+
+- HUD ID: MNA20069007
+- HUD ID before: 
+- Project: HARVEST RIDGE TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: PLAINVIEW
+- State: MN
+- ZIP: 55964
+- ZIP extension: 
+- State project ID: D3704
+- Latitude: 44.1649
+- Longitude: -92.1594
+- County FIPS: 27157
+- County from: 2020
+- Tract 2020: 27157490600
+- Tract 2010: 27157490600
+- Tract 2000: 27157990600
+- Tract 1990: 27157990600
+- Place 2020: 51424
+- Place 2010: 51424
+- Place 2000: 51424
+- Place 1990: 3085
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 19
+- Units reported: 20
+- Low-income reported: 19
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 14
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MULBERRY PARK (UTA19890902)
+
+- HUD ID: UTA19890902
+- HUD ID before: 
+- Project: MULBERRY PARK
+- Address: 5287 S 3600 W
+- City: TAYLORSVILLE
+- State: UT
+- ZIP: 84129
+- ZIP extension: 
+- State project ID: 1989-15
+- Latitude: 40.66051
+- Longitude: -111.981674
+- County FIPS: 49035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49035113521
+- Tract 2000: 49035113521
+- Tract 1990: 49035113521
+- Place 2020: 
+- Place 2010: 75360
+- Place 2000: 75360
+- Place 1990: 0987
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

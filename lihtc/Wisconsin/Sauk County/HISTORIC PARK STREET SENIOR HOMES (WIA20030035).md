@@ -1,0 +1,85 @@
+# Project: HISTORIC PARK STREET SENIOR HOMES (WIA20030035)
+
+- HUD ID: WIA20030035
+- HUD ID before: 
+- Project: HISTORIC PARK STREET SENIOR HOMES
+- Address: 547 N PARK ST
+- City: REEDSBURG
+- State: WI
+- ZIP: 53959
+- ZIP extension: 
+- State project ID: 2499
+- Latitude: 43.537232
+- Longitude: -90.006841
+- County FIPS: 55111
+- County from: 2020
+- Tract 2020: 55111001003
+- Tract 2010: 55111001001
+- Tract 2000: 55111001000
+- Tract 1990: 55111950900
+- Place 2020: 66800
+- Place 2010: 66800
+- Place 2000: 66800
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA HISTORIC PARK STREET SENIOR DEVELOPMENT.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HIGHLAND SCHOOL APARTMENTS (NYA20170006)
+
+- HUD ID: NYA20170006
+- HUD ID before: 
+- Project: HIGHLAND SCHOOL APARTMENTS
+- Address: 105 HIGHLAND AVE
+- City: TONAWANDA
+- State: NY
+- ZIP: 14221
+- ZIP extension: 
+- State project ID: 20146061
+- Latitude: 43.006762
+- Longitude: -78.877972
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029007700
+- Tract 2010: 36029007700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 74166
+- Place 2010: 74166
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 432672
+- Units: 38
+- Low-income units: 34
+- Units reported: 38
+- Low-income reported: 34
+- Efficiencies: 
+- 1-bedroom units: 35
+- 2-bedroom units: 3
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2420000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

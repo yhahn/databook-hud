@@ -1,0 +1,85 @@
+# Project: POLLACK GARDENS (NYA20070345)
+
+- HUD ID: NYA20070345
+- HUD ID before: 
+- Project: POLLACK GARDENS
+- Address: 191 MAIN ST
+- City: ISLIP
+- State: NY
+- ZIP: 11751
+- ZIP extension: 
+- State project ID: 20040533
+- Latitude: 40.728097
+- Longitude: -73.221722
+- County FIPS: 36103
+- County from: 2020
+- Tract 2020: 36103147401
+- Tract 2010: 36103147401
+- Tract 2000: 36103147401
+- Tract 1990: 36103147401
+- Place 2020: 37869
+- Place 2010: 37869
+- Place 2000: 37869
+- Place 1990: 1742
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 313805
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 50
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 50
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

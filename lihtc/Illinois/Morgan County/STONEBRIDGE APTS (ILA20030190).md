@@ -1,0 +1,85 @@
+# Project: STONEBRIDGE APTS (ILA20030190)
+
+- HUD ID: ILA20030190
+- HUD ID before: 
+- Project: STONEBRIDGE APTS
+- Address: 1225 LINCOLN AVE
+- City: JACKSONVILLE
+- State: IL
+- ZIP: 62650
+- ZIP extension: 
+- State project ID: 143902
+- Latitude: 39.718824
+- Longitude: -90.248279
+- County FIPS: 17137
+- County from: 2020
+- Tract 2020: 17137952000
+- Tract 2010: 17137952000
+- Tract 2000: 17137952000
+- Tract 1990: 17137952000
+- Place 2020: 38115
+- Place 2010: 38115
+- Place 2000: 38115
+- Place 1990: 2825
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 501640
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 52
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

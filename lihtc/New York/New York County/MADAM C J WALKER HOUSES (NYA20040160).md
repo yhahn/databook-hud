@@ -1,0 +1,85 @@
+# Project: MADAM C J WALKER HOUSES (NYA20040160)
+
+- HUD ID: NYA20040160
+- HUD ID before: 
+- Project: MADAM C J WALKER HOUSES
+- Address: 2913 FREDERICK DOUGLASS BLVD
+- City: NEW YORK
+- State: NY
+- ZIP: 10039
+- ZIP extension: 
+- State project ID: 20010811
+- Latitude: 40.828721
+- Longitude: -73.937869
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061023502
+- Tract 2010: 36061023502
+- Tract 2000: 36061023502
+- Tract 1990: 36061023502
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 40
+- Units reported: 42
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 19
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA2004155. AKA MADAM CJ WALKER HOUSES.
+- Record status: Existing, unchanged

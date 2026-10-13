@@ -1,0 +1,85 @@
+# Project: THE TAVERN (NHA19990040)
+
+- HUD ID: NHA19990040
+- HUD ID before: 
+- Project: THE TAVERN
+- Address: 7 CHURCH ST
+- City: LACONIA
+- State: NH
+- ZIP: 03246
+- ZIP extension: 
+- State project ID: 77
+- Latitude: 43.529304
+- Longitude: -71.470519
+- County FIPS: 33001
+- County from: 2020
+- Tract 2020: 33001965900
+- Tract 2010: 33001965900
+- Tract 2000: 33001965900
+- Tract 1990: 33001965900
+- Place 2020: 40180
+- Place 2010: 40180
+- Place 2000: 40180
+- Place 1990: 1390
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 48
+- Units reported: 50
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

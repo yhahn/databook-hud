@@ -1,0 +1,85 @@
+# Project: CANE CREEK APTS (COOKEVILLE) (TNA20090020)
+
+- HUD ID: TNA20090020
+- HUD ID before: 
+- Project: CANE CREEK APTS (COOKEVILLE)
+- Address: 2500 W JACKSON ST
+- City: COOKEVILLE
+- State: TN
+- ZIP: 38501
+- ZIP extension: 
+- State project ID: TN-07-025
+- Latitude: 36.172862
+- Longitude: -85.545047
+- County FIPS: 47141
+- County from: 2020
+- Tract 2020: 47141000700
+- Tract 2010: 47141000700
+- Tract 2000: 47141000700
+- Tract 1990: 47141000700
+- Place 2020: 16920
+- Place 2010: 16920
+- Place 2000: 16920
+- Place 1990: 0295
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 692436
+- Units: 76
+- Low-income units: 76
+- Units reported: 75
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 35
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 127215
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CANE CREEK APTS - COOKEVILLE.
+- Record status: Existing, unchanged

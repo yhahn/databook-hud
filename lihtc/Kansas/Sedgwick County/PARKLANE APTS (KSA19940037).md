@@ -1,0 +1,85 @@
+# Project: PARKLANE APTS (KSA19940037)
+
+- HUD ID: KSA19940037
+- HUD ID before: 
+- Project: PARKLANE APTS
+- Address: 5123 E LINCOLN ST
+- City: WICHITA
+- State: KS
+- ZIP: 67218
+- ZIP extension: 
+- State project ID: 60335
+- Latitude: 37.673663
+- Longitude: -97.27578
+- County FIPS: 20173
+- County from: 2020
+- Tract 2020: 20173003600
+- Tract 2010: 20173003600
+- Tract 2000: 20173006800
+- Tract 1990: 20173006800
+- Place 2020: 79000
+- Place 2010: 79000
+- Place 2000: 79000
+- Place 1990: 3040
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 232
+- Low-income units: 232
+- Units reported: 232
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1994505, KSA0000105.
+- Record status: Existing, unchanged

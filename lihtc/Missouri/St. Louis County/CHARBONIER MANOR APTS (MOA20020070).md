@@ -1,0 +1,85 @@
+# Project: CHARBONIER MANOR APTS (MOA20020070)
+
+- HUD ID: MOA20020070
+- HUD ID before: 
+- Project: CHARBONIER MANOR APTS
+- Address: 876 THOMPSON DR
+- City: FLORISSANT
+- State: MO
+- ZIP: 63031
+- ZIP extension: 
+- State project ID: 02-128
+- Latitude: 38.797547
+- Longitude: -90.346345
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189211331
+- Tract 2010: 29189211331
+- Tract 2000: 29189211331
+- Tract 1990: 29189211303
+- Place 2020: 24778
+- Place 2010: 24778
+- Place 2000: 24778
+- Place 1990: 1465
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 71
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

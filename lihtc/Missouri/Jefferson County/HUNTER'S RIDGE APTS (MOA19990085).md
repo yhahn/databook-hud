@@ -1,0 +1,85 @@
+# Project: HUNTER'S RIDGE APTS (MOA19990085)
+
+- HUD ID: MOA19990085
+- HUD ID before: 
+- Project: HUNTER'S RIDGE APTS
+- Address: 197 HUNTERS RIDGE DR
+- City: HILLSBORO
+- State: MO
+- ZIP: 63050
+- ZIP extension: 
+- State project ID: 98103
+- Latitude: 38.240053
+- Longitude: -90.560904
+- County FIPS: 29099
+- County from: 2020
+- Tract 2020: 29099701001
+- Tract 2010: 29099701000
+- Tract 2000: 29099701000
+- Tract 1990: 29099701000
+- Place 2020: 32248
+- Place 2010: 32248
+- Place 2000: 19252
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

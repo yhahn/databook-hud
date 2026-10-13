@@ -1,0 +1,85 @@
+# Project: WALNUT ESTATES (KSA19980150)
+
+- HUD ID: KSA19980150
+- HUD ID before: 
+- Project: WALNUT ESTATES
+- Address: 600 W 14TH ST
+- City: PLEASANTON
+- State: KS
+- ZIP: 66075
+- ZIP extension: 
+- State project ID: 60024
+- Latitude: 38.170446
+- Longitude: -94.720936
+- County FIPS: 20107
+- County from: 2020
+- Tract 2020: 20107955200
+- Tract 2010: 20107955200
+- Tract 2000: 20107955200
+- Tract 1990: 20107955200
+- Place 2020: 56450
+- Place 2010: 56450
+- Place 2000: 07600
+- Place 1990: 2300
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 28496
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KSA1998075. AKA WALNUT VIEW ESTATES.
+- Record status: Existing, unchanged

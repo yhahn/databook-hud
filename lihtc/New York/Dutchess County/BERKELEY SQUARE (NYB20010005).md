@@ -1,0 +1,85 @@
+# Project: BERKELEY SQUARE (NYB20010005)
+
+- HUD ID: NYB20010005
+- HUD ID before: 
+- Project: BERKELEY SQUARE
+- Address: 62 IMPERIAL BLVD
+- City: WAPPINGERS FALLS
+- State: NY
+- ZIP: 12590
+- ZIP extension: 
+- State project ID: NY-99-1408
+- Latitude: 41.594995
+- Longitude: -73.906691
+- County FIPS: 36027
+- County from: 2020
+- Tract 2020: 36027300000
+- Tract 2010: 36027190203
+- Tract 2000: 36027190201
+- Tract 1990: 36027190201
+- Place 2020: 78168
+- Place 2010: 99999
+- Place 2000: 49363
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 150
+- Low-income units: 149
+- Units reported: 150
+- Low-income reported: 149
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 90
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

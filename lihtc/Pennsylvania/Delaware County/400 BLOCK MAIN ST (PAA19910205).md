@@ -1,0 +1,85 @@
+# Project: 400 BLOCK MAIN ST (PAA19910205)
+
+- HUD ID: PAA19910205
+- HUD ID before: 
+- Project: 400 BLOCK MAIN ST
+- Address: 417 MAIN ST
+- City: DARBY
+- State: PA
+- ZIP: 19023
+- ZIP extension: 
+- State project ID: PA-91-0206
+- Latitude: 39.917141
+- Longitude: -75.253545
+- County FIPS: 42045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42045402400
+- Tract 2000: 42045402400
+- Tract 1990: 42045402400
+- Place 2020: 
+- Place 2010: 18152
+- Place 2000: 18152
+- Place 1990: 2645
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

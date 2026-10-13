@@ -1,0 +1,85 @@
+# Project: OLYMPIAN HILL SENIOR APTS (WIA19990105)
+
+- HUD ID: WIA19990105
+- HUD ID before: 
+- Project: OLYMPIAN HILL SENIOR APTS
+- Address: 431 OLYMPIAN BLVD
+- City: BELOIT
+- State: WI
+- ZIP: 53511
+- ZIP extension: 
+- State project ID: 2201
+- Latitude: 42.516195
+- Longitude: -89.044586
+- County FIPS: 55105
+- County from: 2020
+- Tract 2020: 55105001700
+- Tract 2010: 55105001700
+- Tract 2000: 55105001700
+- Tract 1990: 55105001700
+- Place 2020: 06500
+- Place 2010: 06500
+- Place 2000: 06500
+- Place 1990: 0215
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 47
+- Low-income units: 47
+- Units reported: 47
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

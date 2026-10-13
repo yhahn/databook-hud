@@ -1,0 +1,85 @@
+# Project: FAIRWAY MEADOWS (MIA20020090)
+
+- HUD ID: MIA20020090
+- HUD ID before: 
+- Project: FAIRWAY MEADOWS
+- Address: 406 FAIRWAY MDWS
+- City: MARSHALL
+- State: MI
+- ZIP: 49068
+- ZIP extension: 
+- State project ID: MI-1840
+- Latitude: 42.256531
+- Longitude: -84.965801
+- County FIPS: 26025
+- County from: 2020
+- Tract 2020: 26025004000
+- Tract 2010: 26025004000
+- Tract 2000: 26025004000
+- Tract 1990: 26025004000
+- Place 2020: 51940
+- Place 2010: 51940
+- Place 2000: 51940
+- Place 1990: 1680
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 4
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

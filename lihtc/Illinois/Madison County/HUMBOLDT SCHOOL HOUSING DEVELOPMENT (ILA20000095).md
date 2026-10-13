@@ -1,0 +1,85 @@
+# Project: HUMBOLDT SCHOOL HOUSING DEVELOPMENT (ILA20000095)
+
+- HUD ID: ILA20000095
+- HUD ID before: 
+- Project: HUMBOLDT SCHOOL HOUSING DEVELOPMENT
+- Address: 1028 E SIXTH ST
+- City: ALTON
+- State: IL
+- ZIP: 62002
+- ZIP extension: 
+- State project ID: 123599
+- Latitude: 38.892223
+- Longitude: -90.170506
+- County FIPS: 17119
+- County from: 2020
+- Tract 2020: 17119402400
+- Tract 2010: 17119402400
+- Tract 2000: 17119402400
+- Tract 1990: 17119402400
+- Place 2020: 01114
+- Place 2010: 01114
+- Place 2000: 01114
+- Place 1990: 0115
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 416123
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 1
+- 1-bedroom units: 32
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA GRACE VIEW SENIOR APTS.
+- Record status: Existing, unchanged

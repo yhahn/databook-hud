@@ -1,0 +1,85 @@
+# Project: HANLEY CROSSING APTS (MOA20010100)
+
+- HUD ID: MOA20010100
+- HUD ID before: 
+- Project: HANLEY CROSSING APTS
+- Address: 8802 DRAGONWYK DR
+- City: NORMANDY
+- State: MO
+- ZIP: 63121
+- ZIP extension: 
+- State project ID: 99-137TE
+- Latitude: 38.718597
+- Longitude: -90.318806
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189213600
+- Tract 2010: 29189213600
+- Tract 2000: 29189213600
+- Tract 1990: 29189213600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 04366
+- Place 1990: 0300
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 208
+- Efficiencies: 0
+- 1-bedroom units: 104
+- 2-bedroom units: 104
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

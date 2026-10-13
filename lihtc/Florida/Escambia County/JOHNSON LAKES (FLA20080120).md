@@ -1,0 +1,85 @@
+# Project: JOHNSON LAKES (FLA20080120)
+
+- HUD ID: FLA20080120
+- HUD ID before: 
+- Project: JOHNSON LAKES
+- Address: 1400 EAST JOHNSON AVENUE
+- City: PENSACOLA
+- State: FL
+- ZIP: 32514
+- ZIP extension: 
+- State project ID: 1637
+- Latitude: 30.517066
+- Longitude: -87.227774
+- County FIPS: 12033
+- County from: 2020
+- Tract 2020: 12033003507
+- Tract 2010: 12033003507
+- Tract 2000: 12033003502
+- Tract 1990: 12033003502
+- Place 2020: 22275
+- Place 2010: 22275
+- Place 2000: 20925
+- Place 1990: 0595
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 562135
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 54
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

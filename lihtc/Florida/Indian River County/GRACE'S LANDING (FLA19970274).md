@@ -1,0 +1,85 @@
+# Project: GRACE'S LANDING (FLA19970274)
+
+- HUD ID: FLA19970274
+- HUD ID before: 
+- Project: GRACE'S LANDING
+- Address: 1010 GRACES LANDING CIR
+- City: SEBASTIAN
+- State: FL
+- ZIP: 32958
+- ZIP extension: 
+- State project ID: 296
+- Latitude: 27.815846
+- Longitude: -80.470666
+- County FIPS: 12061
+- County from: 2020
+- Tract 2020: 12061050808
+- Tract 2010: 12061050808
+- Tract 2000: 12061050801
+- Tract 1990: 12061050801
+- Place 2020: 64825
+- Place 2010: 64825
+- Place 2000: 61875
+- Place 1990: 1945
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 69
+- Units reported: 70
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1998050.
+- Record status: Existing, unchanged

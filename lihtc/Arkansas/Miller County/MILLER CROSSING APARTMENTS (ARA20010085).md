@@ -1,0 +1,85 @@
+# Project: MILLER CROSSING APARTMENTS (ARA20010085)
+
+- HUD ID: ARA20010085
+- HUD ID before: 
+- Project: MILLER CROSSING APARTMENTS
+- Address: 1604 E 50TH ST
+- City: TEXARKANA
+- State: AR
+- ZIP: 71854
+- ZIP extension: 
+- State project ID: AR-99-20
+- Latitude: 33.470757
+- Longitude: -94.026441
+- County FIPS: 05091
+- County from: 2020
+- Tract 2020: 05091020701
+- Tract 2010: 05091020701
+- Tract 2000: 05091020700
+- Tract 1990: 05091020798
+- Place 2020: 68810
+- Place 2010: 68810
+- Place 2000: 68810
+- Place 1990: 1945
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 152162
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 6
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

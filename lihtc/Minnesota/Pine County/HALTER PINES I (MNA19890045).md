@@ -1,0 +1,85 @@
+# Project: HALTER PINES I (MNA19890045)
+
+- HUD ID: MNA19890045
+- HUD ID before: 
+- Project: HALTER PINES I
+- Address: 910 HILLSIDE AVE SW
+- City: PINE CITY
+- State: MN
+- ZIP: 55063
+- ZIP extension: 
+- State project ID: MN-89-006
+- Latitude: 45.819328
+- Longitude: -92.975128
+- County FIPS: 27115
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27115950700
+- Tract 2000: 27115950700
+- Tract 1990: 27115950700
+- Place 2020: 
+- Place 2010: 51064
+- Place 2000: 51064
+- Place 1990: 3060
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

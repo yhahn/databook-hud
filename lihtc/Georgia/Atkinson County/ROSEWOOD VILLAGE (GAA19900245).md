@@ -1,0 +1,85 @@
+# Project: ROSEWOOD VILLAGE (GAA19900245)
+
+- HUD ID: GAA19900245
+- HUD ID before: 
+- Project: ROSEWOOD VILLAGE
+- Address: 760 PETERSON ST S
+- City: WILLACOOCHEE
+- State: GA
+- ZIP: 31650
+- ZIP extension: 3145
+- State project ID: GA1990-016
+- Latitude: 31.330101
+- Longitude: -83.048595
+- County FIPS: 13003
+- County from: 2020
+- Tract 2020: 13003960100
+- Tract 2010: 13003960100
+- Tract 2000: 13003960100
+- Tract 1990: 13003960100
+- Place 2020: 82972
+- Place 2010: 82972
+- Place 2000: 82972
+- Place 1990: 3055
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

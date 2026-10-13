@@ -1,0 +1,85 @@
+# Project: NEWARK VILLAGE SQUARE APTS (OHA19930220)
+
+- HUD ID: OHA19930220
+- HUD ID before: 
+- Project: NEWARK VILLAGE SQUARE APTS
+- Address: 876 KING RD
+- City: NEWARK
+- State: OH
+- ZIP: 43055
+- ZIP extension: 
+- State project ID: OH-92-3062
+- Latitude: 40.085655
+- Longitude: -82.443276
+- County FIPS: 39089
+- County from: 2020
+- Tract 2020: 39089754104
+- Tract 2010: 39089754101
+- Tract 2000: 39089754100
+- Tract 1990: 39089754100
+- Place 2020: 54040
+- Place 2010: 54040
+- Place 2000: 54040
+- Place 1990: 2925
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

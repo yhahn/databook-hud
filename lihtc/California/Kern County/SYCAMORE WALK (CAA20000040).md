@@ -1,0 +1,85 @@
+# Project: SYCAMORE WALK (CAA20000040)
+
+- HUD ID: CAA20000040
+- HUD ID before: 
+- Project: SYCAMORE WALK
+- Address: 380 PACHECO RD
+- City: BAKERSFIELD
+- State: CA
+- ZIP: 93307
+- ZIP extension: 
+- State project ID: CA-98-259
+- Latitude: 35.310526
+- Longitude: -119.006646
+- County FIPS: 06029
+- County from: 2020
+- Tract 2020: 06029003126
+- Tract 2010: 06029003121
+- Tract 2000: 06029003121
+- Tract 1990: 06029003121
+- Place 2020: 03526
+- Place 2010: 03526
+- Place 2000: 03526
+- Place 1990: 0180
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 1037499
+- Units: 112
+- Low-income units: 110
+- Units reported: 112
+- Low-income reported: 110
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 62
+- 3-bedroom units: 38
+- 4-bedroom units: 12
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

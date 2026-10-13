@@ -1,0 +1,85 @@
+# Project: FRIEDMAN COURT FAMILY (NHA20070020)
+
+- HUD ID: NHA20070020
+- HUD ID before: 
+- Project: FRIEDMAN COURT FAMILY
+- Address: 19 OLD SUNCOOK RD
+- City: CONCORD
+- State: NH
+- ZIP: 03301
+- ZIP extension: 
+- State project ID: 17
+- Latitude: 43.191314
+- Longitude: -71.508273
+- County FIPS: 33013
+- County from: 2020
+- Tract 2020: 33013044100
+- Tract 2010: 33013044100
+- Tract 2000: 33013032900
+- Tract 1990: 33013032900
+- Place 2020: 14200
+- Place 2010: 14200
+- Place 2000: 14200
+- Place 1990: 0520
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 660716
+- Units: 54
+- Low-income units: 54
+- Units reported: 54
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 45
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 28
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 905000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FRIEDMAN COURT I.
+- Record status: Existing, unchanged

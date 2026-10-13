@@ -1,0 +1,85 @@
+# Project: TALEGA JAMBOREE APTS PHASE II (CAA20030530)
+
+- HUD ID: CAA20030530
+- HUD ID before: 
+- Project: TALEGA JAMBOREE APTS PHASE II
+- Address: 123 CALLE AMISTAD
+- City: SAN CLEMENTE
+- State: CA
+- ZIP: 92673
+- ZIP extension: 
+- State project ID: CA-02-839
+- Latitude: 33.459376
+- Longitude: -117.574725
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059032063
+- Tract 2010: 06059032023
+- Tract 2000: 06059032023
+- Tract 1990: 06059032023
+- Place 2020: 65084
+- Place 2010: 65084
+- Place 2000: 65084
+- Place 1990: 2519
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 329229
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 31
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA MENDOCINO AT TALEGA PHASE II.
+- Record status: Existing, unchanged

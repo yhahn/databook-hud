@@ -1,0 +1,85 @@
+# Project: MOUNTAIN VIEW APTS (LA FOLLETTE) (TNA20010040)
+
+- HUD ID: TNA20010040
+- HUD ID before: 
+- Project: MOUNTAIN VIEW APTS (LA FOLLETTE)
+- Address: 127 RIDENOUR LN
+- City: JACKSBORO
+- State: TN
+- ZIP: 37757
+- ZIP extension: 
+- State project ID: TN-00-003
+- Latitude: 36.347779
+- Longitude: -84.163609
+- County FIPS: 47013
+- County from: 2020
+- Tract 2020: 47013950500
+- Tract 2010: 47013950500
+- Tract 2000: 47013950500
+- Tract 1990: 47013950500
+- Place 2020: 40180
+- Place 2010: 40180
+- Place 2000: 11360
+- Place 1990: 0704
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 50190
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

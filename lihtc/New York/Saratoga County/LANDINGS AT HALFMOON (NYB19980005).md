@@ -1,0 +1,85 @@
+# Project: LANDINGS AT HALFMOON (NYB19980005)
+
+- HUD ID: NYB19980005
+- HUD ID before: 
+- Project: LANDINGS AT HALFMOON
+- Address: 1700 LOOKOUT LN
+- City: HALFMOON
+- State: NY
+- ZIP: 12065
+- ZIP extension: 
+- State project ID: NY-97-1358
+- Latitude: 42.84221
+- Longitude: -73.739206
+- County FIPS: 36091
+- County from: 2020
+- Tract 2020: 36091062409
+- Tract 2010: 36091062405
+- Tract 2000: 36091062402
+- Tract 1990: 36091062402
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 240
+- Low-income units: 51
+- Units reported: 240
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 140
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

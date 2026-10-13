@@ -1,0 +1,85 @@
+# Project: STERLING MILL LOFTS (NCA0000X067)
+
+- HUD ID: NCA0000X067
+- HUD ID before: 
+- Project: STERLING MILL LOFTS
+- Address: 108 E GREEN ST
+- City: FRANKLINTON
+- State: NC
+- ZIP: 27525
+- ZIP extension: 1524
+- State project ID: 9197685
+- Latitude: 36.101299
+- Longitude: -78.457004
+- County FIPS: 37069
+- County from: 2020
+- Tract 2020: 37069060404
+- Tract 2010: 37069060402
+- Tract 2000: 37069060400
+- Tract 1990: 
+- Place 2020: 24720
+- Place 2010: 24720
+- Place 2000: 24720
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 558205
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 47
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

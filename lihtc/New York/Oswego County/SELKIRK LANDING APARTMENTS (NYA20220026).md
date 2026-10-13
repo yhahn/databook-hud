@@ -1,0 +1,85 @@
+# Project: SELKIRK LANDING APARTMENTS (NYA20220026)
+
+- HUD ID: NYA20220026
+- HUD ID before: 
+- Project: SELKIRK LANDING APARTMENTS
+- Address: 23 BELLA ROAD
+- City: PULASKI
+- State: NY
+- ZIP: 13142
+- ZIP extension: 
+- State project ID: 20190345
+- Latitude: 43.5658
+- Longitude: -76.1272
+- County FIPS: 36075
+- County from: 2020
+- Tract 2020: 36075020301
+- Tract 2010: 36075020301
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59960
+- Place 2010: 59960
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1562600
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 
+- 1-bedroom units: 38
+- 2-bedroom units: 16
+- 3-bedroom units: 10
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 45
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: SMI/SUD
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

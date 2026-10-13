@@ -1,0 +1,85 @@
+# Project: CAMBRIDGE SQUARE APTS (PAA00000027)
+
+- HUD ID: PAA00000027
+- HUD ID before: 
+- Project: CAMBRIDGE SQUARE APTS
+- Address: 200 CAMBRIDGE SQ DR
+- City: MONROEVILLE
+- State: PA
+- ZIP: 15146
+- ZIP extension: 
+- State project ID: TC20060108
+- Latitude: 40.4157
+- Longitude: -79.7891
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003521302
+- Tract 2010: 42003521302
+- Tract 2000: 42003521301
+- Tract 1990: 42003521301
+- Place 2020: 50528
+- Place 2010: 50528
+- Place 2000: 52330
+- Place 1990: 6685
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 204
+- Low-income units: 204
+- Units reported: 204
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

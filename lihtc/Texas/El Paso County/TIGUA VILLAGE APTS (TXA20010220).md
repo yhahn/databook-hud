@@ -1,0 +1,85 @@
+# Project: TIGUA VILLAGE APTS (TXA20010220)
+
+- HUD ID: TXA20010220
+- HUD ID before: 
+- Project: TIGUA VILLAGE APTS
+- Address: 8017 SAN JOSE RD
+- City: EL PASO
+- State: TX
+- ZIP: 79915
+- ZIP extension: 
+- State project ID: TX2067
+- Latitude: 31.72722
+- Longitude: -106.352668
+- County FIPS: 48141
+- County from: 2020
+- Tract 2020: 48141003502
+- Tract 2010: 48141003502
+- Tract 2000: 48141003502
+- Tract 1990: 48141003500
+- Place 2020: 24000
+- Place 2010: 24000
+- Place 2000: 24000
+- Place 1990: 1340
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 186
+- Low-income units: 186
+- Units reported: 186
+- Low-income reported: 186
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 140
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

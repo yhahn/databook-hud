@@ -1,0 +1,85 @@
+# Project: MOM'S APTS (CAA20110307)
+
+- HUD ID: CAA20110307
+- HUD ID before: 
+- Project: MOM'S APTS
+- Address: 425 E COTA ST
+- City: SANTA BARBARA
+- State: CA
+- ZIP: 93101
+- ZIP extension: 
+- State project ID: CA-10-201
+- Latitude: 34.422609
+- Longitude: -119.691895
+- County FIPS: 06083
+- County from: 2020
+- Tract 2020: 06083000900
+- Tract 2010: 06083000900
+- Tract 2000: 06083000900
+- Tract 1990: 06083000900
+- Place 2020: 69070
+- Place 2010: 69070
+- Place 2000: 69070
+- Place 1990: 2575
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 395642
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 10
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 850000
+- CDBG: Yes
+- CDBG amount: 250000
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

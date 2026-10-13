@@ -1,0 +1,85 @@
+# Project: MADISON OAKS (TXA20163042)
+
+- HUD ID: TXA20163042
+- HUD ID before: 
+- Project: MADISON OAKS
+- Address: 1015 GILMER ROAD
+- City: WINNSBORO
+- State: TX
+- ZIP: 75494
+- ZIP extension: 
+- State project ID: TX4991
+- Latitude: 32.945603
+- Longitude: -95.27692
+- County FIPS: 48499
+- County from: 2020
+- Tract 2020: 48499950200
+- Tract 2010: 48499950200
+- Tract 2000: 48499950200
+- Tract 1990: 48499950200
+- Place 2020: 79816
+- Place 2010: 79816
+- Place 2000: 79816
+- Place 1990: 4655
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BAH MADISON OAKS APTS.
+- Record status: Existing, unchanged

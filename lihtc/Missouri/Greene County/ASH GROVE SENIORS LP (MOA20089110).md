@@ -1,0 +1,85 @@
+# Project: ASH GROVE SENIORS LP (MOA20089110)
+
+- HUD ID: MOA20089110
+- HUD ID before: 
+- Project: ASH GROVE SENIORS LP
+- Address: 300 N BENTLEY AVE
+- City: ASH GROVE
+- State: MO
+- ZIP: 65604
+- ZIP extension: 
+- State project ID: 07-036
+- Latitude: 37.316145
+- Longitude: -93.581438
+- County FIPS: 29077
+- County from: 2020
+- Tract 2020: 29077005001
+- Tract 2010: 29077005001
+- Tract 2000: 29077005001
+- Tract 1990: 29077005000
+- Place 2020: 02188
+- Place 2010: 02188
+- Place 2000: 02188
+- Place 1990: 4605
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 38
+- Low-income reported: 44
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

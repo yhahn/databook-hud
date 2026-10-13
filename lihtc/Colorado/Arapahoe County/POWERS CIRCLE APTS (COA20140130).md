@@ -1,0 +1,85 @@
+# Project: POWERS CIRCLE APTS (COA20140130)
+
+- HUD ID: COA20140130
+- HUD ID before: 
+- Project: POWERS CIRCLE APTS
+- Address: 123 W POWERS CIR
+- City: LITTLETON
+- State: CO
+- ZIP: 80120
+- ZIP extension: 
+- State project ID: 2012501
+- Latitude: 39.615602
+- Longitude: -104.989024
+- County FIPS: 08005
+- County from: 2020
+- Tract 2020: 08005006601
+- Tract 2010: 08005006601
+- Tract 2000: 08005006601
+- Tract 1990: 08005006601
+- Place 2020: 45255
+- Place 2010: 45255
+- Place 2000: 24785
+- Place 1990: 0810
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 258218
+- Units: 69
+- Low-income units: 69
+- Units reported: 69
+- Low-income reported: 69
+- Efficiencies: 15
+- 1-bedroom units: 20
+- 2-bedroom units: 32
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

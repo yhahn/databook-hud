@@ -1,0 +1,85 @@
+# Project: O'NEIL APARTMENTS (NYB20132008)
+
+- HUD ID: NYB20132008
+- HUD ID before: 
+- Project: O'NEIL APARTMENTS
+- Address: 2121 6TH AVE
+- City: TROY
+- State: NY
+- ZIP: 12180
+- ZIP extension: 
+- State project ID: NY-XX-2171
+- Latitude: 42.734164
+- Longitude: -73.685652
+- County FIPS: 36083
+- County from: 2020
+- Tract 2020: 36083040701
+- Tract 2010: 36083040700
+- Tract 2000: 36083040700
+- Tract 1990: 
+- Place 2020: 75484
+- Place 2010: 75484
+- Place 2000: 75484
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 372036
+- Units: 123
+- Low-income units: 121
+- Units reported: 123
+- Low-income reported: 121
+- Efficiencies: 0
+- 1-bedroom units: 122
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

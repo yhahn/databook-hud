@@ -1,0 +1,85 @@
+# Project: CREST BUTTE APTS (ORA20100035)
+
+- HUD ID: ORA20100035
+- HUD ID before: 
+- Project: CREST BUTTE APTS
+- Address: 1695 NE PURCELL BLVD
+- City: BEND
+- State: OR
+- ZIP: 97701
+- ZIP extension: 
+- State project ID: R000-001
+- Latitude: 44.066535
+- Longitude: -121.274129
+- County FIPS: 41017
+- County from: 2020
+- Tract 2020: 41017001702
+- Tract 2010: 41017001700
+- Tract 2000: 41017991701
+- Tract 1990: 41017991700
+- Place 2020: 05800
+- Place 2010: 05800
+- Place 2000: 05800
+- Place 1990: 0100
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 413823
+- Units: 52
+- Low-income units: 41
+- Units reported: 52
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 3825731
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

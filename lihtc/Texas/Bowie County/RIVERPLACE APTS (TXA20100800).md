@@ -1,0 +1,85 @@
+# Project: RIVERPLACE APTS (TXA20100800)
+
+- HUD ID: TXA20100800
+- HUD ID before: 
+- Project: RIVERPLACE APTS
+- Address: 1304 W AVE A
+- City: HOOKS
+- State: TX
+- ZIP: 75561
+- ZIP extension: 
+- State project ID: 
+- Latitude: 33.465328
+- Longitude: -94.309725
+- County FIPS: 48037
+- County from: 2020
+- Tract 2020: 48037011301
+- Tract 2010: 48037011300
+- Tract 2000: 48037011300
+- Tract 1990: 48037011300
+- Place 2020: 34736
+- Place 2010: 34736
+- Place 2000: 34736
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 15
+- Units reported: 40
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1313082
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1771277
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000749.
+- Record status: Existing, unchanged

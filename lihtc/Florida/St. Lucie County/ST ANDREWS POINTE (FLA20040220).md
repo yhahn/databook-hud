@@ -1,0 +1,85 @@
+# Project: ST ANDREWS POINTE (FLA20040220)
+
+- HUD ID: FLA20040220
+- HUD ID before: 
+- Project: ST ANDREWS POINTE
+- Address: 2550 NW HATCHES HARBOR RD
+- City: PORT ST LUCIE
+- State: FL
+- ZIP: 34983
+- ZIP extension: 
+- State project ID: 1115
+- Latitude: 27.352911
+- Longitude: -80.357701
+- County FIPS: 12111
+- County from: 2020
+- Tract 2020: 12111381508
+- Tract 2010: 12111381502
+- Tract 2000: 12111001502
+- Tract 1990: 12111001502
+- Place 2020: 58715
+- Place 2010: 58715
+- Place 2000: 58715
+- Place 1990: 2242
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 184
+- Low-income units: 184
+- Units reported: 184
+- Low-income reported: 184
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 88
+- 3-bedroom units: 32
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

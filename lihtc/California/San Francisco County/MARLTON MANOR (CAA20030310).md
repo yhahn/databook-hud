@@ -1,0 +1,85 @@
+# Project: MARLTON MANOR (CAA20030310)
+
+- HUD ID: CAA20030310
+- HUD ID before: 
+- Project: MARLTON MANOR
+- Address: 240 JONES ST
+- City: SAN FRANCISCO
+- State: CA
+- ZIP: 94102
+- ZIP extension: 
+- State project ID: CA-01-034
+- Latitude: 37.783579
+- Longitude: -122.412327
+- County FIPS: 06075
+- County from: 2020
+- Tract 2020: 06075012502
+- Tract 2010: 06075012502
+- Tract 2000: 06075012500
+- Tract 1990: 06075012500
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 2485
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 1317402
+- Units: 151
+- Low-income units: 150
+- Units reported: 151
+- Low-income reported: 150
+- Efficiencies: 140
+- 1-bedroom units: 11
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

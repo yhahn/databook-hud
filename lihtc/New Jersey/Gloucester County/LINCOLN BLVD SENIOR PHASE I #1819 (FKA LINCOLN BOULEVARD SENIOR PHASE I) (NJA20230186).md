@@ -1,0 +1,85 @@
+# Project: LINCOLN BLVD SENIOR PHASE I #1819 (FKA LINCOLN BOULEVARD SENIOR PHASE I) (NJA20230186)
+
+- HUD ID: NJA20230186
+- HUD ID before: 
+- Project: LINCOLN BLVD SENIOR PHASE I #1819 (FKA LINCOLN BOULEVARD SENIOR PHASE I)
+- Address: 400 ROLAND AVENUE
+- City: GLASSBORO
+- State: NJ
+- ZIP: 08028
+- ZIP extension: 
+- State project ID: 03458-1
+- Latitude: 39.708731
+- Longitude: -75.099715
+- County FIPS: 34015
+- County from: 2020
+- Tract 2020: 34015501403
+- Tract 2010: 34015501406
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26340
+- Place 2010: 26340
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1400000
+- Units: 65
+- Low-income units: 64
+- Units reported: 65
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 57
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 120000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

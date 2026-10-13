@@ -1,0 +1,85 @@
+# Project: MILL AT SAUGERTIES (NYB20000040)
+
+- HUD ID: NYB20000040
+- HUD ID before: 
+- Project: MILL AT SAUGERTIES
+- Address: 87 E BRIDGE ST
+- City: SAUGERTIES
+- State: NY
+- ZIP: 12477
+- ZIP extension: 
+- State project ID: NY-98-1368
+- Latitude: 42.071307
+- Longitude: -73.945868
+- County FIPS: 36111
+- County from: 2020
+- Tract 2020: 36111950200
+- Tract 2010: 36111950200
+- Tract 2000: 36111950200
+- Tract 1990: 36111950200
+- Place 2020: 65288
+- Place 2010: 65288
+- Place 2000: 65288
+- Place 1990: 3250
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 89
+- Efficiencies: 14
+- 1-bedroom units: 75
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

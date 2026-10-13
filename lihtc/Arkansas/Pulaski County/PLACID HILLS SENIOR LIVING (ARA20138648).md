@@ -1,0 +1,85 @@
+# Project: PLACID HILLS SENIOR LIVING (ARA20138648)
+
+- HUD ID: ARA20138648
+- HUD ID before: 
+- Project: PLACID HILLS SENIOR LIVING
+- Address: 1000 DONOVAN BRILEY BLVD
+- City: NORTH LITTLE ROCK
+- State: AR
+- ZIP: 72118
+- ZIP extension: 
+- State project ID: AR-04
+- Latitude: 34.813286
+- Longitude: -92.275356
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119003202
+- Tract 2010: 05119003202
+- Tract 2000: 05119003201
+- Tract 1990: 05119003201
+- Place 2020: 50450
+- Place 2010: 50450
+- Place 2000: 50450
+- Place 1990: 1475
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 600000
+- Units: 56
+- Low-income units: 44
+- Units reported: 56
+- Low-income reported: 44
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000513.
+- Record status: Existing, unchanged

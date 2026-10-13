@@ -1,0 +1,85 @@
+# Project: VILLAGE AT HOSPITAL HILL PHASE II (MAB20090090)
+
+- HUD ID: MAB20090090
+- HUD ID before: 
+- Project: VILLAGE AT HOSPITAL HILL PHASE II
+- Address: MUSANTE DR
+- City: NORTHAMPTON
+- State: MA
+- ZIP: 
+- ZIP extension: 
+- State project ID: 1613
+- Latitude: 42.3243
+- Longitude: -72.6399
+- County FIPS: 25015
+- County from: 2020
+- Tract 2020: 25015821901
+- Tract 2010: 25015821901
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 46330
+- Place 2010: 46330
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 504000
+- Units: 40
+- Low-income units: 32
+- Units reported: 40
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 19
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 715000
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000670.
+- Record status: Existing, unchanged

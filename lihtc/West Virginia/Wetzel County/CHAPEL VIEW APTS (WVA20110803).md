@@ -1,0 +1,85 @@
+# Project: CHAPEL VIEW APTS (WVA20110803)
+
+- HUD ID: WVA20110803
+- HUD ID before: 
+- Project: CHAPEL VIEW APTS
+- Address: 130 N BRIDGE ST
+- City: NEW MARTINSVILLE
+- State: WV
+- ZIP: 26155
+- ZIP extension: 
+- State project ID: WV-10-357
+- Latitude: 39.662521
+- Longitude: -80.858435
+- County FIPS: 54103
+- County from: 2020
+- Tract 2020: 54103004900
+- Tract 2010: 54103004900
+- Tract 2000: 54103004800
+- Tract 1990: 54103030600
+- Place 2020: 58684
+- Place 2010: 58684
+- Place 2000: 58684
+- Place 1990: 1150
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1870953
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

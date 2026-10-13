@@ -1,0 +1,85 @@
+# Project: KLIMPEL MANOR (CAA19940499)
+
+- HUD ID: CAA19940499
+- HUD ID before: 
+- Project: KLIMPEL MANOR
+- Address: 229 E AMERIGE AVE
+- City: FULLERTON
+- State: CA
+- ZIP: 92832
+- ZIP extension: 
+- State project ID: CA-93-031
+- Latitude: 33.871579
+- Longitude: -117.920803
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059011300
+- Tract 2010: 06059011300
+- Tract 2000: 06059011300
+- Tract 1990: 06059011300
+- Place 2020: 28000
+- Place 2010: 28000
+- Place 2000: 28000
+- Place 1990: 1095
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 336000
+- Units: 59
+- Low-income units: 58
+- Units reported: 59
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 58
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SUMMITFIELD HOUSING (NYA20080210)
+
+- HUD ID: NYA20080210
+- HUD ID before: 
+- Project: SUMMITFIELD HOUSING
+- Address: 11 SWEEZY AVE
+- City: MIDDLETOWN
+- State: NY
+- ZIP: 10940
+- ZIP extension: 
+- State project ID: 20060009
+- Latitude: 41.456417
+- Longitude: -74.436994
+- County FIPS: 36071
+- County from: 2020
+- Tract 2020: 36071015100
+- Tract 2010: 36071015100
+- Tract 2000: 36071001400
+- Tract 1990: 36071001400
+- Place 2020: 47042
+- Place 2010: 47042
+- Place 2000: 47042
+- Place 1990: 2260
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1216616
+- Units: 199
+- Low-income units: 199
+- Units reported: 199
+- Low-income reported: 199
+- Efficiencies: 23
+- 1-bedroom units: 25
+- 2-bedroom units: 60
+- 3-bedroom units: 69
+- 4-bedroom units: 22
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 100
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

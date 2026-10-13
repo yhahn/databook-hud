@@ -1,0 +1,85 @@
+# Project: PRAIRIE SUN APTS (COA20040040)
+
+- HUD ID: COA20040040
+- HUD ID before: 
+- Project: PRAIRIE SUN APTS
+- Address: 1001 MOUNTVIEW AVE
+- City: FORT LUPTON
+- State: CO
+- ZIP: 80621
+- ZIP extension: 
+- State project ID: 2002025
+- Latitude: 40.088224
+- Longitude: -104.799352
+- County FIPS: 08123
+- County from: 2020
+- Tract 2020: 08123001905
+- Tract 2010: 08123001905
+- Tract 2000: 08123001904
+- Tract 1990: 08123001800
+- Place 2020: 27700
+- Place 2010: 27700
+- Place 2000: 03015
+- Place 1990: 1055
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 28
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

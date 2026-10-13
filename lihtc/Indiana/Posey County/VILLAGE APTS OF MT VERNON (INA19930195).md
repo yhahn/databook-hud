@@ -1,0 +1,85 @@
+# Project: VILLAGE APTS OF MT VERNON (INA19930195)
+
+- HUD ID: INA19930195
+- HUD ID before: 
+- Project: VILLAGE APTS OF MT VERNON
+- Address: 1446 MAIN ST
+- City: MT VERNON
+- State: IN
+- ZIP: 47620
+- ZIP extension: 
+- State project ID: IN-92-07000
+- Latitude: 37.943053
+- Longitude: -87.897024
+- County FIPS: 18129
+- County from: 2020
+- Tract 2020: 18129040700
+- Tract 2010: 18129040700
+- Tract 2000: 18129040700
+- Tract 1990: 18129040700
+- Place 2020: 51732
+- Place 2010: 51732
+- Place 2000: 51732
+- Place 1990: 1725
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: EAST NEWARK HOMES (OHA20070040)
+
+- HUD ID: OHA20070040
+- HUD ID before: 
+- Project: EAST NEWARK HOMES
+- Address: 28 BOLEN CT
+- City: NEWARK
+- State: OH
+- ZIP: 43055
+- ZIP extension: 
+- State project ID: 050078
+- Latitude: 40.058874
+- Longitude: -82.389003
+- County FIPS: 39089
+- County from: 2020
+- Tract 2020: 39089752500
+- Tract 2010: 39089752500
+- Tract 2000: 39089752500
+- Tract 1990: 39089752500
+- Place 2020: 54040
+- Place 2010: 54040
+- Place 2000: 54040
+- Place 1990: 2925
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 498744
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 20
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

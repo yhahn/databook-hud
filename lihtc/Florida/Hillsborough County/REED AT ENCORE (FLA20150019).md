@@ -1,0 +1,85 @@
+# Project: REED AT ENCORE (FLA20150019)
+
+- HUD ID: FLA20150019
+- HUD ID before: 
+- Project: REED AT ENCORE
+- Address: 1240 RAY CHARLES BOULEVARD
+- City: TAMPA
+- State: FL
+- ZIP: 33602
+- ZIP extension: 
+- State project ID: 2574
+- Latitude: 27.955725
+- Longitude: -82.452725
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057014200
+- Tract 2010: 12057004000
+- Tract 2000: 12057005101
+- Tract 1990: 
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 2110000
+- Units: 158
+- Low-income units: 158
+- Units reported: 158
+- Low-income reported: 158
+- Efficiencies: 
+- 1-bedroom units: 133
+- 2-bedroom units: 25
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PARK AT CLEAR CREEK (TXA20000105)
+
+- HUD ID: TXA20000105
+- HUD ID before: 
+- Project: PARK AT CLEAR CREEK
+- Address: 111 CLEAR CREEK ST
+- City: HEMPSTEAD
+- State: TX
+- ZIP: 77445
+- ZIP extension: 
+- State project ID: TX2249
+- Latitude: 30.106835
+- Longitude: -96.051182
+- County FIPS: 48473
+- County from: 2020
+- Tract 2020: 48473680303
+- Tract 2010: 48473680300
+- Tract 2000: 48473680300
+- Tract 1990: 48473080310
+- Place 2020: 33200
+- Place 2010: 33200
+- Place 2000: 33200
+- Place 1990: 3385
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

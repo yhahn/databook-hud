@@ -1,0 +1,85 @@
+# Project: GUILD PARK APTS (TXA20127005)
+
+- HUD ID: TXA20127005
+- HUD ID before: 
+- Project: GUILD PARK APTS
+- Address: 750 W MAYFIELD BLVD
+- City: SAN ANTONIO
+- State: TX
+- ZIP: 78211
+- ZIP extension: 
+- State project ID: TX4734
+- Latitude: 29.361454
+- Longitude: -98.536237
+- County FIPS: 48029
+- County from: 2020
+- Tract 2020: 48029151100
+- Tract 2010: 48029151100
+- Tract 2000: 48029151100
+- Tract 1990: 48029151100
+- Place 2020: 65000
+- Place 2010: 65000
+- Place 2000: 65000
+- Place 1990: 3745
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 114
+- Low-income units: 114
+- Units reported: 114
+- Low-income reported: 114
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 40
+- 3-bedroom units: 36
+- 4-bedroom units: 10
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

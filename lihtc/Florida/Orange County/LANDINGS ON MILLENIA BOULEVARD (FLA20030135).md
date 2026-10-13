@@ -1,0 +1,85 @@
+# Project: LANDINGS ON MILLENIA BOULEVARD (FLA20030135)
+
+- HUD ID: FLA20030135
+- HUD ID before: 
+- Project: LANDINGS ON MILLENIA BOULEVARD
+- Address: 5150 MILLENIA BOULEVARD
+- City: ORLANDO
+- State: FL
+- ZIP: 32839
+- ZIP extension: 
+- State project ID: 1147
+- Latitude: 28.476892
+- Longitude: -81.442391
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095016911
+- Tract 2010: 12095016903
+- Tract 2000: 12095016903
+- Tract 1990: 12095014500
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 50638
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 566512
+- Units: 336
+- Low-income units: 252
+- Units reported: 336
+- Low-income reported: 252
+- Efficiencies: 0
+- 1-bedroom units: 57
+- 2-bedroom units: 117
+- 3-bedroom units: 52
+- 4-bedroom units: 26
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA LANDINGS ON MILLENIA BOULEVARD.
+- Record status: Existing, unchanged

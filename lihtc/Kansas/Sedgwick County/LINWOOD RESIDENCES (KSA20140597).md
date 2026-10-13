@@ -1,0 +1,85 @@
+# Project: LINWOOD RESIDENCES (KSA20140597)
+
+- HUD ID: KSA20140597
+- HUD ID before: 
+- Project: LINWOOD RESIDENCES
+- Address: 2002 S HYDRAULIC ST
+- City: WICHITA
+- State: KS
+- ZIP: 67211
+- ZIP extension: 
+- State project ID: 60572
+- Latitude: 37.657128
+- Longitude: -97.316924
+- County FIPS: 20173
+- County from: 2020
+- Tract 2020: 20173006200
+- Tract 2010: 20173006200
+- Tract 2000: 20173006200
+- Tract 1990: 20173006200
+- Place 2020: 79000
+- Place 2010: 79000
+- Place 2000: 79000
+- Place 1990: 3040
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 180
+- Low-income units: 162
+- Units reported: 180
+- Low-income reported: 162
+- Efficiencies: 31
+- 1-bedroom units: 118
+- 2-bedroom units: 31
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

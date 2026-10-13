@@ -1,0 +1,85 @@
+# Project: ARK RIVER NORTH (KSA20140593)
+
+- HUD ID: KSA20140593
+- HUD ID before: 
+- Project: ARK RIVER NORTH
+- Address: 439 N FIFTH ST
+- City: STERLING
+- State: KS
+- ZIP: 67579
+- ZIP extension: 
+- State project ID: 60585
+- Latitude: 38.215692
+- Longitude: -98.20407
+- County FIPS: 20159
+- County from: 2020
+- Tract 2020: 20159967300
+- Tract 2010: 20159967300
+- Tract 2000: 20159987300
+- Tract 1990: 20159987300
+- Place 2020: 68200
+- Place 2010: 68200
+- Place 2000: 00950
+- Place 1990: 2705
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MERIDIAN POINTE (FLA20060095)
+
+- HUD ID: FLA20060095
+- HUD ID before: 
+- Project: MERIDIAN POINTE
+- Address: 2450 E HILLSBOROUGH AVE
+- City: TAMPA
+- State: FL
+- ZIP: 33610
+- ZIP extension: 
+- State project ID: 1593
+- Latitude: 27.996312
+- Longitude: -82.431903
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057001001
+- Tract 2010: 12057001001
+- Tract 2000: 12057001000
+- Tract 1990: 12057001000
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2075
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1237915
+- Units: 360
+- Low-income units: 360
+- Units reported: 360
+- Low-income reported: 360
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 240
+- 3-bedroom units: 84
+- 4-bedroom units: 36
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

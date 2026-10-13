@@ -1,0 +1,85 @@
+# Project: QUINCY HAVEN (MIA20119911)
+
+- HUD ID: MIA20119911
+- HUD ID before: 
+- Project: QUINCY HAVEN
+- Address: 1419 W QUINCY ST
+- City: HANCOCK
+- State: MI
+- ZIP: 49930
+- ZIP extension: 
+- State project ID: MI-3304
+- Latitude: 47.128248
+- Longitude: -88.609957
+- County FIPS: 26061
+- County from: 2020
+- Tract 2020: 26061000600
+- Tract 2010: 26061000600
+- Tract 2000: 26061990600
+- Tract 1990: 26061990600
+- Place 2020: 36300
+- Place 2010: 36300
+- Place 2000: 36300
+- Place 1990: 1150
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 5
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 3579444
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

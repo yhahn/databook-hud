@@ -1,0 +1,85 @@
+# Project: TIMBER RIDGE MANOR APARTMENTS (ARA20020802)
+
+- HUD ID: ARA20020802
+- HUD ID before: 
+- Project: TIMBER RIDGE MANOR APARTMENTS
+- Address: 202 TIMBER RIDGE
+- City: DIERKS
+- State: AR
+- ZIP: 71833
+- ZIP extension: 
+- State project ID: AR-01-20-001
+- Latitude: 34.112976
+- Longitude: -94.021093
+- County FIPS: 05061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05061950100
+- Tract 2000: 05061950100
+- Tract 1990: 05061950100
+- Place 2020: 
+- Place 2010: 18970
+- Place 2000: 18970
+- Place 1990: 0570
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 33605
+- Units: 17
+- Low-income units: 16
+- Units reported: 17
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2002130.
+- Record status: Existing, unchanged

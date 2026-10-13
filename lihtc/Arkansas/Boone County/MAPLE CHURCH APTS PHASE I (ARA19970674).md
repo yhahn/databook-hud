@@ -1,0 +1,85 @@
+# Project: MAPLE CHURCH APTS PHASE I (ARA19970674)
+
+- HUD ID: ARA19970674
+- HUD ID before: 
+- Project: MAPLE CHURCH APTS PHASE I
+- Address: 1901 MOUNTAIN VALLEY DR
+- City: HARRISON
+- State: AR
+- ZIP: 72601
+- ZIP extension: 
+- State project ID: AR-96-22
+- Latitude: 36.253506
+- Longitude: -93.101353
+- County FIPS: 05009
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05009790502
+- Tract 2000: 05009990500
+- Tract 1990: 05009990500
+- Place 2020: 
+- Place 2010: 30460
+- Place 2000: 30460
+- Place 1990: 0905
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 108392
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 384000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1997056, ARA1997055.
+- Record status: Existing, unchanged

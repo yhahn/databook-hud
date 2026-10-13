@@ -1,0 +1,85 @@
+# Project: QUEENSBURY MILL (NHA19960020)
+
+- HUD ID: NHA19960020
+- HUD ID before: 
+- Project: QUEENSBURY MILL
+- Address: 1 MARKET ST
+- City: SOMERSWORTH
+- State: NH
+- ZIP: 03878
+- ZIP extension: 
+- State project ID: MF-85
+- Latitude: 43.265225
+- Longitude: -70.865601
+- County FIPS: 33017
+- County from: 2020
+- Tract 2020: 33017083001
+- Tract 2010: 33017083001
+- Tract 2000: 33017083001
+- Tract 1990: 33017083098
+- Place 2020: 69940
+- Place 2010: 69940
+- Place 2000: 69940
+- Place 1990: 2370
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

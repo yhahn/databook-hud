@@ -1,0 +1,85 @@
+# Project: HAMPSTEAD SCHOOL SENIOR APTS (MDA20050070)
+
+- HUD ID: MDA20050070
+- HUD ID before: 
+- Project: HAMPSTEAD SCHOOL SENIOR APTS
+- Address: 1211 N MAIN ST
+- City: HAMPSTEAD
+- State: MD
+- ZIP: 21074
+- ZIP extension: 
+- State project ID: MD-03-16001
+- Latitude: 39.607461
+- Longitude: -76.850819
+- County FIPS: 24013
+- County from: 2020
+- Tract 2020: 24013508103
+- Tract 2010: 24013508101
+- Tract 2000: 24013508100
+- Tract 1990: 24013508100
+- Place 2020: 36500
+- Place 2010: 36500
+- Place 2000: 36500
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 73
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Yes
+- Other population named: SPECIAL NEEDS, ALTERNATIVE HOUSING
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA0000685.
+- Record status: Updated

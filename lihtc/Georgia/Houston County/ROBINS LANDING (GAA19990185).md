@@ -1,0 +1,85 @@
+# Project: ROBINS LANDING (GAA19990185)
+
+- HUD ID: GAA19990185
+- HUD ID before: 
+- Project: ROBINS LANDING
+- Address: 320 CARL VINSON PKWY
+- City: WARNER ROBINS
+- State: GA
+- ZIP: 31088
+- ZIP extension: 8404
+- State project ID: GA-97-037
+- Latitude: 32.604486
+- Longitude: -83.664816
+- County FIPS: 13153
+- County from: 2020
+- Tract 2020: 13153021116
+- Tract 2010: 13153021104
+- Tract 2000: 13153021104
+- Tract 1990: 13153021101
+- Place 2020: 80508
+- Place 2010: 80508
+- Place 2000: 80508
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

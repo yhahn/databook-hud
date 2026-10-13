@@ -1,0 +1,85 @@
+# Project: EL DORADO PLACE APTS II (TXA20010065)
+
+- HUD ID: TXA20010065
+- HUD ID before: 
+- Project: EL DORADO PLACE APTS II
+- Address: 102 E FIELDS AVE
+- City: ELDORADO
+- State: TX
+- ZIP: 76936
+- ZIP extension: 
+- State project ID: TX0166
+- Latitude: 30.86172
+- Longitude: -100.596369
+- County FIPS: 48413
+- County from: 2020
+- Tract 2020: 48413950300
+- Tract 2010: 48413950300
+- Tract 2000: 48413950200
+- Tract 1990: 48413950200
+- Place 2020: 22960
+- Place 2010: 22960
+- Place 2000: 22960
+- Place 1990: 1320
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

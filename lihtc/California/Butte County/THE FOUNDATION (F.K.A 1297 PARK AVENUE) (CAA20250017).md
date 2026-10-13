@@ -1,0 +1,85 @@
+# Project: THE FOUNDATION (F.K.A 1297 PARK AVENUE) (CAA20250017)
+
+- HUD ID: CAA20250017
+- HUD ID before: 
+- Project: THE FOUNDATION (F.K.A 1297 PARK AVENUE)
+- Address: 1297 PARK AVENUE
+- City: CHICO
+- State: CA
+- ZIP: 95928
+- ZIP extension: 
+- State project ID: CA-2020-109
+- Latitude: 39.723283
+- Longitude: -121.830079
+- County FIPS: 06007
+- County from: 2020
+- Tract 2020: 06007001300
+- Tract 2010: 06007001300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 13014
+- Place 2010: 13014
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2025
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2664386
+- Units: 59
+- Low-income units: 58
+- Units reported: 59
+- Low-income reported: 58
+- Efficiencies: 20
+- 1-bedroom units: 30
+- 2-bedroom units: 8
+- 3-bedroom units: 1
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 52
+- Affordable over 30 years: Yes
+- Affordability years: 55
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

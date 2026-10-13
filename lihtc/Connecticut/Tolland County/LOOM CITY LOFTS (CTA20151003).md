@@ -1,0 +1,85 @@
+# Project: LOOM CITY LOFTS (CTA20151003)
+
+- HUD ID: CTA20151003
+- HUD ID before: 
+- Project: LOOM CITY LOFTS
+- Address: 215 EAST MAIN STREET
+- City: VERNON
+- State: CT
+- ZIP: 06066
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.867528
+- Longitude: -72.432724
+- County FIPS: 09013
+- County from: 2020
+- Tract 2020: 09013530100
+- Tract 2010: 09013530100
+- Tract 2000: 09013530100
+- Tract 1990: 
+- Place 2020: 65230
+- Place 2010: 65230
+- Place 2000: 65230
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 376346
+- Units: 68
+- Low-income units: 60
+- Units reported: 68
+- Low-income reported: 60
+- Efficiencies: 9
+- 1-bedroom units: 51
+- 2-bedroom units: 8
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 990000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

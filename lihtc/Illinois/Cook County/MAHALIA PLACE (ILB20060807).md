@@ -1,0 +1,85 @@
+# Project: MAHALIA PLACE (ILB20060807)
+
+- HUD ID: ILB20060807
+- HUD ID before: 
+- Project: MAHALIA PLACE
+- Address: 116 E 43RD ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60653
+- ZIP extension: 
+- State project ID: 03-013
+- Latitude: 41.816729
+- Longitude: -87.622739
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031380600
+- Tract 2010: 17031835900
+- Tract 2000: 17031380400
+- Tract 1990: 17031380400
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 2020000
+- Units: 118
+- Low-income units: 98
+- Units reported: 118
+- Low-income reported: 98
+- Efficiencies: 1
+- 1-bedroom units: 12
+- 2-bedroom units: 64
+- 3-bedroom units: 30
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: Yes
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILB2006802.
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: INGLIS APTS AT ELMWOOD (PAA20070100)
+
+- HUD ID: PAA20070100
+- HUD ID before: 
+- Project: INGLIS APTS AT ELMWOOD
+- Address: 6200 EASTWICK AVE
+- City: PHILADELPHIA
+- State: PA
+- ZIP: 19142
+- ZIP extension: 
+- State project ID: TC20050641
+- Latitude: 39.921956
+- Longitude: -75.221198
+- County FIPS: 42101
+- County from: 2020
+- Tract 2020: 42101006700
+- Tract 2010: 42101006700
+- Tract 2000: 42101006700
+- Tract 1990: 42101006700
+- Place 2020: 60000
+- Place 2010: 60000
+- Place 2000: 60000
+- Place 1990: 7180
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 796193
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 0
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 800000
+- CDBG: Yes
+- CDBG amount: 800000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

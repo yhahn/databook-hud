@@ -1,0 +1,85 @@
+# Project: WHISPERWOOD APARTMENTS (WAA20049091)
+
+- HUD ID: WAA20049091
+- HUD ID before: 
+- Project: WHISPERWOOD APARTMENTS
+- Address: 11846 26TH AVE S
+- City: SEATTLE
+- State: WA
+- ZIP: 98168
+- ZIP extension: 
+- State project ID: 02-05A
+- Latitude: 47.496356
+- Longitude: -122.299208
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033027100
+- Tract 2010: 53033027100
+- Tract 2000: 53033027100
+- Tract 1990: 
+- Place 2020: 08850
+- Place 2010: 58865
+- Place 2000: 58878
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 364036
+- Units: 126
+- Low-income units: 125
+- Units reported: 126
+- Low-income reported: 125
+- Efficiencies: 7
+- 1-bedroom units: 86
+- 2-bedroom units: 28
+- 3-bedroom units: 5
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

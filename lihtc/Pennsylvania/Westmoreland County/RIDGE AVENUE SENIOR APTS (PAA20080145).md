@@ -1,0 +1,85 @@
+# Project: RIDGE AVENUE SENIOR APTS (PAA20080145)
+
+- HUD ID: PAA20080145
+- HUD ID before: 
+- Project: RIDGE AVENUE SENIOR APTS
+- Address: 358 RIDGE AVE
+- City: NEW KENSINGTON
+- State: PA
+- ZIP: 15068
+- ZIP extension: 
+- State project ID: TC20060622
+- Latitude: 40.563574
+- Longitude: -79.76641
+- County FIPS: 42129
+- County from: 2020
+- Tract 2020: 42129800700
+- Tract 2010: 42129800700
+- Tract 2000: 42129800600
+- Tract 1990: 42129800600
+- Place 2020: 53736
+- Place 2010: 53736
+- Place 2000: 53736
+- Place 1990: 6776
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 416729
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

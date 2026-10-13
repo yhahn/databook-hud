@@ -1,0 +1,85 @@
+# Project: PARK PLACE (WIA20120095)
+
+- HUD ID: WIA20120095
+- HUD ID before: 
+- Project: PARK PLACE
+- Address: 305 E MAIN ST
+- City: REEDSBURG
+- State: WI
+- ZIP: 53959
+- ZIP extension: 
+- State project ID: 5610
+- Latitude: 43.53263
+- Longitude: -90.006486
+- County FIPS: 55111
+- County from: 2020
+- Tract 2020: 55111001003
+- Tract 2010: 55111001001
+- Tract 2000: 55111001000
+- Tract 1990: 55111950900
+- Place 2020: 66800
+- Place 2010: 66800
+- Place 2000: 66800
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 573588
+- Units: 48
+- Low-income units: 8
+- Units reported: 48
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

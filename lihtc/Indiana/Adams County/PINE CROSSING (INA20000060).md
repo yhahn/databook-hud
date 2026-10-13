@@ -1,0 +1,85 @@
+# Project: PINE CROSSING (INA20000060)
+
+- HUD ID: INA20000060
+- HUD ID before: 
+- Project: PINE CROSSING
+- Address: 131 W 500 N
+- City: DECATUR
+- State: IN
+- ZIP: 46733
+- ZIP extension: 
+- State project ID: IN-98-02000
+- Latitude: 40.817711
+- Longitude: -84.940485
+- County FIPS: 18001
+- County from: 2020
+- Tract 2020: 18001030200
+- Tract 2010: 18001030200
+- Tract 2000: 18001030200
+- Tract 1990: 18001030200
+- Place 2020: 17074
+- Place 2010: 17074
+- Place 2000: 17074
+- Place 1990: 0615
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 327998
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 36
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 170500
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

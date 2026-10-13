@@ -1,0 +1,85 @@
+# Project: SPRINGHILL HOMES (INA20030144)
+
+- HUD ID: INA20030144
+- HUD ID before: 
+- Project: SPRINGHILL HOMES
+- Address: 1502 S MAPLE ST
+- City: MARION
+- State: IN
+- ZIP: 46953
+- ZIP extension: 
+- State project ID: IN-01-01100
+- Latitude: 40.547142
+- Longitude: -85.668353
+- County FIPS: 18053
+- County from: 2020
+- Tract 2020: 18053000200
+- Tract 2010: 18053000200
+- Tract 2000: 18053000200
+- Tract 1990: 18053000200
+- Place 2020: 46908
+- Place 2010: 46908
+- Place 2000: 46908
+- Place 1990: 1470
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 255750
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 24
+- 4-bedroom units: 6
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 300000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2002040. AKA MARION SCATTERED SITE, MARION GREEN APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,24 @@
+# Tax Credit Projects: Shelby County, AL
+
+- Level: County
+- Postal code: AL
+- State FIPS: 01
+- County FIPS: 01117
+- Counties: 
+- Projects: 7
+- Units: 331
+- Low-income units: 331
+
+The low-income housing tax credit projects of Shelby County, Alabama, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [RIDGE VIEW (ALA19950103)](./Shelby%20County/RIDGE%20VIEW%20%28ALA19950103%29.md) | ALA19950103 | COLUMBIANA | 1995 | 40 | 40 |
+| [CLEAR SPRING APTS (ALA19990042)](./Shelby%20County/CLEAR%20SPRING%20APTS%20%28ALA19990042%29.md) | ALA19990042 | COLUMBIANA | 1999 | 40 | 40 |
+| [COBBLESTONE COVE APTS (ALA20030019)](./Shelby%20County/COBBLESTONE%20COVE%20APTS%20%28ALA20030019%29.md) | ALA20030019 | MONTEVALLO | 2003 | 72 | 72 |
+| [COBBLESTONE CREEK (ALA20060057)](./Shelby%20County/COBBLESTONE%20CREEK%20%28ALA20060057%29.md) | ALA20060057 | MONTEVALLO | 2006 | 56 | 56 |
+| [SOUTH POINTE DEVELOPMENT (ALA20070166)](./Shelby%20County/SOUTH%20POINTE%20DEVELOPMENT%20%28ALA20070166%29.md) | ALA20070166 | CALERA | 2007 | 47 | 47 |
+| [SHOALS MILL APTS (ALA20100060)](./Shelby%20County/SHOALS%20MILL%20APTS%20%28ALA20100060%29.md) | ALA20100060 | COLUMBIANA | 2010 | 46 | 46 |
+| [SHOALS MILL VILLAGE APARTMENTS (ALA20160009)](./Shelby%20County/SHOALS%20MILL%20VILLAGE%20APARTMENTS%20%28ALA20160009%29.md) | ALA20160009 | COLUMBIANA | 2016 | 30 | 30 |

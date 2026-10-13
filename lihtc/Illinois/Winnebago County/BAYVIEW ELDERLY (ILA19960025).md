@@ -1,0 +1,85 @@
+# Project: BAYVIEW ELDERLY (ILA19960025)
+
+- HUD ID: ILA19960025
+- HUD ID before: 
+- Project: BAYVIEW ELDERLY
+- Address: 230 NORTHWAY PARK RD
+- City: MACHESNEY PARK
+- State: IL
+- ZIP: 61115
+- ZIP extension: 
+- State project ID: 74294
+- Latitude: 42.348618
+- Longitude: -89.059623
+- County FIPS: 17201
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17201000101
+- Tract 2000: 17201000101
+- Tract 1990: 17201000101
+- Place 2020: 
+- Place 2010: 45726
+- Place 2000: 45726
+- Place 1990: 3406
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 1090600
+- Units: 74
+- Low-income units: 74
+- Units reported: 74
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 74
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

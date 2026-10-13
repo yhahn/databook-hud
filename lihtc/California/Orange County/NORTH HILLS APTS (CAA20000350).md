@@ -1,0 +1,85 @@
+# Project: NORTH HILLS APTS (CAA20000350)
+
+- HUD ID: CAA20000350
+- HUD ID before: 
+- Project: NORTH HILLS APTS
+- Address: 570 IMPERIAL HWY
+- City: FULLERTON
+- State: CA
+- ZIP: 92835
+- ZIP extension: 
+- State project ID: CA-99-811
+- Latitude: 33.917188
+- Longitude: -117.921417
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059001604
+- Tract 2010: 06059001601
+- Tract 2000: 06059001601
+- Tract 1990: 06059001601
+- Place 2020: 28000
+- Place 2010: 28000
+- Place 2000: 28000
+- Place 1990: 1095
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 586040
+- Units: 204
+- Low-income units: 203
+- Units reported: 204
+- Low-income reported: 203
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 188
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

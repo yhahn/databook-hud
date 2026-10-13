@@ -1,0 +1,85 @@
+# Project: COUNTRY SIDE MANOR (ILA19960260)
+
+- HUD ID: ILA19960260
+- HUD ID before: 
+- Project: COUNTRY SIDE MANOR
+- Address: RR 2
+- City: PAWNEE
+- State: IL
+- ZIP: 62558
+- ZIP extension: 
+- State project ID: 89095
+- Latitude: 39.5909
+- Longitude: -89.6234
+- County FIPS: 17167
+- County from: 2020
+- Tract 2020: 17167003300
+- Tract 2010: 17167003300
+- Tract 2000: 17167003300
+- Tract 1990: 17167003300
+- Place 2020: 58174
+- Place 2010: 58174
+- Place 2000: 20045
+- Place 1990: 4550
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 25352
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PAWNEE ASSOC I.
+- Record status: Existing, unchanged

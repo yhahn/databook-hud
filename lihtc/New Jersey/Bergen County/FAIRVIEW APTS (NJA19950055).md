@@ -1,0 +1,85 @@
+# Project: FAIRVIEW APTS (NJA19950055)
+
+- HUD ID: NJA19950055
+- HUD ID before: 
+- Project: FAIRVIEW APTS
+- Address: 377 BERGEN BLVD
+- City: FAIRVIEW
+- State: NJ
+- ZIP: 07022
+- ZIP extension: 
+- State project ID: NJ-0381
+- Latitude: 40.82245
+- Longitude: -73.998939
+- County FIPS: 34003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 34003018200
+- Tract 2000: 34003018200
+- Tract 1990: 34003018200
+- Place 2020: 
+- Place 2010: 22560
+- Place 2000: 22560
+- Place 1990: 1795
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 146
+- Low-income units: 146
+- Units reported: 146
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2012911.
+- Record status: Existing, unchanged

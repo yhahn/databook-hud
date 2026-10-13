@@ -1,0 +1,85 @@
+# Project: HEDGEWOOD APTS (CTA00000135)
+
+- HUD ID: CTA00000135
+- HUD ID before: 
+- Project: HEDGEWOOD APTS
+- Address: 101 SANDY LN
+- City: NORWICH
+- State: CT
+- ZIP: 06360
+- ZIP extension: 
+- State project ID: CT-99-99
+- Latitude: 41.54463
+- Longitude: -72.058803
+- County FIPS: 09011
+- County from: 2020
+- Tract 2020: 09011696401
+- Tract 2010: 09011696400
+- Tract 2000: 09011696400
+- Tract 1990: 09011696400
+- Place 2020: 56200
+- Place 2010: 56200
+- Place 2000: 56200
+- Place 1990: 1650
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 100
+- Low-income units: 72
+- Units reported: 100
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 84
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

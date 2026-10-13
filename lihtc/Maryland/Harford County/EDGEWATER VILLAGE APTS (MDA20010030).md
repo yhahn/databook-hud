@@ -1,0 +1,85 @@
+# Project: EDGEWATER VILLAGE APTS (MDA20010030)
+
+- HUD ID: MDA20010030
+- HUD ID before: 
+- Project: EDGEWATER VILLAGE APTS
+- Address: 1881 EDGEWATER DR
+- City: EDGEWOOD
+- State: MD
+- ZIP: 21040
+- ZIP extension: 
+- State project ID: MD00-12001
+- Latitude: 39.432457
+- Longitude: -76.310183
+- County FIPS: 24025
+- County from: 2020
+- Tract 2020: 24025301302
+- Tract 2010: 24025301302
+- Tract 2000: 24025301302
+- Tract 1990: 24025301300
+- Place 2020: 25150
+- Place 2010: 25150
+- Place 2000: 25150
+- Place 1990: 0295
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 223
+- Low-income units: 223
+- Units reported: 223
+- Low-income reported: 223
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 157
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

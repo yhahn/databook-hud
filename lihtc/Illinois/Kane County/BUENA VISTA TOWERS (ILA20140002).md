@@ -1,0 +1,85 @@
+# Project: BUENA VISTA TOWERS (ILA20140002)
+
+- HUD ID: ILA20140002
+- HUD ID before: 
+- Project: BUENA VISTA TOWERS
+- Address: 222 LOCUST ST
+- City: ELGIN
+- State: IL
+- ZIP: 60123
+- ZIP extension: 
+- State project ID: 1107013
+- Latitude: 42.03393
+- Longitude: -88.286372
+- County FIPS: 17089
+- County from: 2020
+- Tract 2020: 17089851600
+- Tract 2010: 17089851600
+- Tract 2000: 17089851600
+- Tract 1990: 17089851600
+- Place 2020: 23074
+- Place 2010: 23074
+- Place 2000: 23074
+- Place 1990: 1720
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 4280000
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 64
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

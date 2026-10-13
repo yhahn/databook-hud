@@ -1,0 +1,85 @@
+# Project: HILLCREST APTS (ILA19890112)
+
+- HUD ID: ILA19890112
+- HUD ID before: 
+- Project: HILLCREST APTS
+- Address: 300 N DIANNE LN
+- City: MAHOMET
+- State: IL
+- ZIP: 61853
+- ZIP extension: 
+- State project ID: 209-89
+- Latitude: 40.199272
+- Longitude: -88.413375
+- County FIPS: 17019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17019010601
+- Tract 2000: 17019010601
+- Tract 1990: 17019010601
+- Place 2020: 
+- Place 2010: 46136
+- Place 2000: 46136
+- Place 1990: 3460
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 25872
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000480.
+- Record status: Existing, unchanged

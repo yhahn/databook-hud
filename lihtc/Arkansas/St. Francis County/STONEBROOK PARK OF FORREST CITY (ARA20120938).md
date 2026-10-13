@@ -1,0 +1,85 @@
+# Project: STONEBROOK PARK OF FORREST CITY (ARA20120938)
+
+- HUD ID: ARA20120938
+- HUD ID before: 
+- Project: STONEBROOK PARK OF FORREST CITY
+- Address: 2204 E STONEBROOK CR
+- City: FORREST CITY
+- State: AR
+- ZIP: 72335
+- ZIP extension: 
+- State project ID: AR-10-16
+- Latitude: 35.030711
+- Longitude: -90.798862
+- County FIPS: 05123
+- County from: 2020
+- Tract 2020: 05123960400
+- Tract 2010: 05123960400
+- Tract 2000: 05123960500
+- Tract 1990: 05123960500
+- Place 2020: 24430
+- Place 2010: 24430
+- Place 2000: 24430
+- Place 1990: 0695
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 536524
+- Units: 41
+- Low-income units: 32
+- Units reported: 41
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 30
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000511, ARA0000205.
+- Record status: Existing, unchanged

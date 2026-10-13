@@ -1,0 +1,85 @@
+# Project: TRAILSIDE APARTMENTS (MNA20079007)
+
+- HUD ID: MNA20079007
+- HUD ID before: 
+- Project: TRAILSIDE APARTMENTS
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: ALBERT LEA
+- State: MN
+- ZIP: 56007
+- ZIP extension: 
+- State project ID: D0009
+- Latitude: 43.6633
+- Longitude: -93.3775
+- County FIPS: 27047
+- County from: 2020
+- Tract 2020: 27047180500
+- Tract 2010: 27047180400
+- Tract 2000: 27047980600
+- Tract 1990: 27047980600
+- Place 2020: 00694
+- Place 2010: 00694
+- Place 2000: 00694
+- Place 1990: 0045
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 493359
+- Units: 110
+- Low-income units: 108
+- Units reported: 110
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 55
+- 2-bedroom units: 43
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1199920
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

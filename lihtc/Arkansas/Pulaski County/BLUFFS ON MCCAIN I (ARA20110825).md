@@ -1,0 +1,85 @@
+# Project: BLUFFS ON MCCAIN I (ARA20110825)
+
+- HUD ID: ARA20110825
+- HUD ID before: 
+- Project: BLUFFS ON MCCAIN I
+- Address: 431 MCCAIN BLVD
+- City: NORTH LITTLE ROCK
+- State: AR
+- ZIP: 72116
+- ZIP extension: 
+- State project ID: AR-09-09
+- Latitude: 34.799537
+- Longitude: -92.262225
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119003306
+- Tract 2010: 05119003306
+- Tract 2000: 05119003301
+- Tract 1990: 05119003301
+- Place 2020: 50450
+- Place 2010: 50450
+- Place 2000: 50450
+- Place 1990: 1475
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 547785
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 69
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1999060, ARA0000519, ARA0000180. FKA RIDGECREST APTS
+- Record status: Existing, unchanged

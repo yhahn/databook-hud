@@ -1,0 +1,85 @@
+# Project: NEILAN PARK APARTMENTS (OHA20190023)
+
+- HUD ID: OHA20190023
+- HUD ID before: 
+- Project: NEILAN PARK APARTMENTS
+- Address: 15 HURM STREET
+- City: HAMILTON
+- State: OH
+- ZIP: 45011
+- ZIP extension: 2908
+- State project ID: 170203
+- Latitude: 39.394537
+- Longitude: -84.56725
+- County FIPS: 39017
+- County from: 2020
+- Tract 2020: 39017000300
+- Tract 2010: 39017000300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 33012
+- Place 2010: 33012
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 821507
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 46
+- 2-bedroom units: 80
+- 3-bedroom units: 38
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIDGEVIEW HIGHLANDS APTS (WIA19940170)
+
+- HUD ID: WIA19940170
+- HUD ID before: 
+- Project: RIDGEVIEW HIGHLANDS APTS
+- Address: 640 RIDGEVIEW CIR
+- City: GRAND CHUTE
+- State: WI
+- ZIP: 54911
+- ZIP extension: 
+- State project ID: 1185
+- Latitude: 44.289973
+- Longitude: -88.413193
+- County FIPS: 55087
+- County from: 2020
+- Tract 2020: 55087011400
+- Tract 2010: 55087011400
+- Tract 2000: 55087011400
+- Tract 1990: 55087011400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 02375
+- Place 1990: 0080
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 109
+- Low-income units: 54
+- Units reported: 109
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 73
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

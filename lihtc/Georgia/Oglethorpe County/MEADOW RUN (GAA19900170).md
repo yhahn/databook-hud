@@ -1,0 +1,85 @@
+# Project: MEADOW RUN (GAA19900170)
+
+- HUD ID: GAA19900170
+- HUD ID before: 
+- Project: MEADOW RUN
+- Address: 25 AZALEA VLG
+- City: CRAWFORD
+- State: GA
+- ZIP: 30630
+- ZIP extension: 
+- State project ID: GA-90-015
+- Latitude: 33.8663
+- Longitude: -83.2127
+- County FIPS: 13221
+- County from: 2020
+- Tract 2020: 13221960203
+- Tract 2010: 13221960201
+- Tract 2000: 13221960200
+- Tract 1990: 13221960200
+- Place 2020: 20288
+- Place 2010: 20288
+- Place 2000: 03124
+- Place 1990: 
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1990037, GAA0000045. AKA MEADOW RUN.
+- Record status: Updated

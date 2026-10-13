@@ -1,0 +1,85 @@
+# Project: GREENFIELD PARK APTS (IAA19890155)
+
+- HUD ID: IAA19890155
+- HUD ID before: 
+- Project: GREENFIELD PARK APTS
+- Address: 503 SE SIXTH ST
+- City: GREENFIELD
+- State: IA
+- ZIP: 50849
+- ZIP extension: 
+- State project ID: 88-17
+- Latitude: 41.301714
+- Longitude: -94.45303
+- County FIPS: 19001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19001960300
+- Tract 2000: 19001960300
+- Tract 1990: 19001960300
+- Place 2020: 
+- Place 2010: 32790
+- Place 2000: 28290
+- Place 1990: 1740
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 26100
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

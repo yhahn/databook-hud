@@ -1,0 +1,85 @@
+# Project: GARLAND SQUARE OF NORMAN II (OKA20020030)
+
+- HUD ID: OKA20020030
+- HUD ID before: 
+- Project: GARLAND SQUARE OF NORMAN II
+- Address: 201 WOODCREST DR
+- City: NORMAN
+- State: OK
+- ZIP: 73071
+- ZIP extension: 
+- State project ID: OK-01-02-06
+- Latitude: 35.248811
+- Longitude: -97.438942
+- County FIPS: 40027
+- County from: 2020
+- Tract 2020: 40027201403
+- Tract 2010: 40027201403
+- Tract 2000: 40027201403
+- Tract 1990: 40027201401
+- Place 2020: 52500
+- Place 2010: 52500
+- Place 2000: 52500
+- Place 1990: 1755
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 110
+- Low-income units: 88
+- Units reported: 110
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 38
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

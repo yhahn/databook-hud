@@ -1,0 +1,85 @@
+# Project: ST JOSEPH APTS (LAA19940106)
+
+- HUD ID: LAA19940106
+- HUD ID before: 
+- Project: ST JOSEPH APTS
+- Address: 600 SEVENTH STREET
+- City: GRETNA
+- State: LA
+- ZIP: 70053
+- ZIP extension: 0000
+- State project ID: LA-93-056
+- Latitude: 29.914308
+- Longitude: -90.060932
+- County FIPS: 22051
+- County from: 2020
+- Tract 2020: 22051025900
+- Tract 2010: 22051025900
+- Tract 2000: 22051025900
+- Tract 1990: 22051025900
+- Place 2020: 31915
+- Place 2010: 31915
+- Place 2000: 31915
+- Place 1990: 0525
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 91626
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

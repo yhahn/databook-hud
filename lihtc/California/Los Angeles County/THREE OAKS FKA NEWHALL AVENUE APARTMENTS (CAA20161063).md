@@ -1,0 +1,85 @@
+# Project: THREE OAKS FKA NEWHALL AVENUE APARTMENTS (CAA20161063)
+
+- HUD ID: CAA20161063
+- HUD ID before: 
+- Project: THREE OAKS FKA NEWHALL AVENUE APARTMENTS
+- Address: 23610 NEWHALL AVENUE
+- City: SANTA CLARITA
+- State: CA
+- ZIP: 91321
+- ZIP extension: 
+- State project ID: CA-15-099
+- Latitude: 34.369506
+- Longitude: -118.512349
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037920343
+- Tract 2010: 06037920337
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69088
+- Place 2010: 69088
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 959368
+- Units: 30
+- Low-income units: 29
+- Units reported: 30
+- Low-income reported: 29
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 21
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 303361
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

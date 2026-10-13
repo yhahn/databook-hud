@@ -1,0 +1,85 @@
+# Project: BROWNS WOODS APARTMENTS (NJA20020117)
+
+- HUD ID: NJA20020117
+- HUD ID before: 
+- Project: BROWNS WOODS APARTMENTS
+- Address: 226 TRENTON ROAD
+- City: PEMBERTON TWP.
+- State: NJ
+- ZIP: 08015
+- ZIP extension: 
+- State project ID: 01310
+- Latitude: 39.978824
+- Longitude: -74.586915
+- County FIPS: 34005
+- County from: 2020
+- Tract 2020: 34005702210
+- Tract 2010: 34005702210
+- Tract 2000: 34005702205
+- Tract 1990: 34005702205
+- Place 2020: 08455
+- Place 2010: 08455
+- Place 2000: 08455
+- Place 1990: 1337
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 210276
+- Units: 149
+- Low-income units: 120
+- Units reported: 149
+- Low-income reported: 120
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2001020. AKA BROWNS APTS.;
+- Record status: Existing, unchanged

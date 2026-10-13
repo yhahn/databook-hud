@@ -1,0 +1,85 @@
+# Project: VILLA ANDREA (COA20080130)
+
+- HUD ID: COA20080130
+- HUD ID before: 
+- Project: VILLA ANDREA
+- Address: 109 IDAHO AVE
+- City: PUEBLO
+- State: CO
+- ZIP: 81004
+- ZIP extension: 
+- State project ID: 2005034
+- Latitude: 38.263328
+- Longitude: -104.62427
+- County FIPS: 08101
+- County from: 2020
+- Tract 2020: 08101001400
+- Tract 2010: 08101001400
+- Tract 2000: 08101001400
+- Tract 1990: 08101001400
+- Place 2020: 62000
+- Place 2010: 62000
+- Place 2000: 62000
+- Place 1990: 1085
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 354911
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

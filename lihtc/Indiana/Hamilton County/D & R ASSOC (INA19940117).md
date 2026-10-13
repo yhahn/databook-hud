@@ -1,0 +1,85 @@
+# Project: D & R ASSOC (INA19940117)
+
+- HUD ID: INA19940117
+- HUD ID before: 
+- Project: D & R ASSOC
+- Address: 10355 CENTRAL AVE
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46280
+- ZIP extension: 
+- State project ID: IN-92-03800
+- Latitude: 39.937186
+- Longitude: -86.150499
+- County FIPS: 18057
+- County from: 2020
+- Tract 2020: 18057111104
+- Tract 2010: 18057111102
+- Tract 2000: 18057111102
+- Tract 1990: 18057111102
+- Place 2020: 10342
+- Place 2010: 99999
+- Place 2000: 10342
+- Place 1990: 
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 4
+- Low-income units: 4
+- Units reported: 4
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA1993050.
+- Record status: Existing, unchanged

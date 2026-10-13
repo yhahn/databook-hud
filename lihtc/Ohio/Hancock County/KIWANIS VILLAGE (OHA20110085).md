@@ -1,0 +1,85 @@
+# Project: KIWANIS VILLAGE (OHA20110085)
+
+- HUD ID: OHA20110085
+- HUD ID before: 
+- Project: KIWANIS VILLAGE
+- Address: 1200 CROY DR
+- City: FINDLAY
+- State: OH
+- ZIP: 45840
+- ZIP extension: 
+- State project ID: 090076
+- Latitude: 41.057072
+- Longitude: -83.610416
+- County FIPS: 39063
+- County from: 2020
+- Tract 2020: 39063000600
+- Tract 2010: 39063000600
+- Tract 2000: 39063000600
+- Tract 1990: 39063000600
+- Place 2020: 27048
+- Place 2010: 27048
+- Place 2000: 27048
+- Place 1990: 1380
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 45
+- Low-income units: 44
+- Units reported: 45
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1236906
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2011860. AKA KIWANIS VILLAGE SENIOR.
+- Record status: Existing, unchanged

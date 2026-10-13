@@ -1,0 +1,85 @@
+# Project: SHERWOOD VILLAGE (CAA20080740)
+
+- HUD ID: CAA20080740
+- HUD ID before: 
+- Project: SHERWOOD VILLAGE
+- Address: 808 N MAIN ST
+- City: SALINAS
+- State: CA
+- ZIP: 93906
+- ZIP extension: 
+- State project ID: CA-06-033
+- Latitude: 36.689181
+- Longitude: -121.652135
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053000400
+- Tract 2010: 06053000400
+- Tract 2000: 06053000400
+- Tract 1990: 06053000400
+- Place 2020: 64224
+- Place 2010: 64224
+- Place 2000: 64224
+- Place 1990: 2435
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1631070
+- Units: 124
+- Low-income units: 123
+- Units reported: 124
+- Low-income reported: 123
+- Efficiencies: 0
+- 1-bedroom units: 102
+- 2-bedroom units: 22
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 123
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2550000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

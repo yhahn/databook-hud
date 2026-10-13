@@ -1,0 +1,85 @@
+# Project: LOMPOC TERRACE (SITE A) (CAA20147489)
+
+- HUD ID: CAA20147489
+- HUD ID before: 
+- Project: LOMPOC TERRACE (SITE A)
+- Address: 805 W APRICOT AVE
+- City: LOMPOC
+- State: CA
+- ZIP: 93436
+- ZIP extension: 
+- State project ID: CA-13-185
+- Latitude: 34.639841
+- Longitude: -120.467712
+- County FIPS: 06083
+- County from: 2020
+- Tract 2020: 06083002709
+- Tract 2010: 06083002702
+- Tract 2000: 06083002702
+- Tract 1990: 06083002702
+- Place 2020: 42524
+- Place 2010: 42524
+- Place 2000: 42524
+- Place 1990: 1600
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

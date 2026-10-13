@@ -1,0 +1,85 @@
+# Project: CAMERON PROPERTIES (MOA19960080)
+
+- HUD ID: MOA19960080
+- HUD ID before: 
+- Project: CAMERON PROPERTIES
+- Address: 1100 N ASHLAND DR
+- City: CAMERON
+- State: MO
+- ZIP: 64429
+- ZIP extension: 
+- State project ID: 95047
+- Latitude: 39.748738
+- Longitude: -94.247889
+- County FIPS: 29063
+- County from: 2020
+- Tract 2020: 29063080102
+- Tract 2010: 29063080100
+- Tract 2000: 29063980100
+- Tract 1990: 29063980100
+- Place 2020: 10828
+- Place 2010: 10828
+- Place 2000: 10828
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

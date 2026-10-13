@@ -1,0 +1,85 @@
+# Project: LUMBERTON LA BELLE VIEW (TXA20130808)
+
+- HUD ID: TXA20130808
+- HUD ID before: 
+- Project: LUMBERTON LA BELLE VIEW
+- Address: 765 N LHS DR
+- City: LUMBERTON
+- State: TX
+- ZIP: 77657
+- ZIP extension: 
+- State project ID: TX4787
+- Latitude: 30.288889
+- Longitude: -94.236132
+- County FIPS: 48199
+- County from: 2020
+- Tract 2020: 48199030302
+- Tract 2010: 48199030300
+- Tract 2000: 48199030600
+- Tract 1990: 48199030600
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 45120
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

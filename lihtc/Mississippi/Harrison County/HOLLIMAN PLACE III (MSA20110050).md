@@ -1,0 +1,85 @@
+# Project: HOLLIMAN PLACE III (MSA20110050)
+
+- HUD ID: MSA20110050
+- HUD ID before: 
+- Project: HOLLIMAN PLACE III
+- Address: 12424 HOLLIMAN CIR
+- City: GULFPORT
+- State: MS
+- ZIP: 39503
+- ZIP extension: 
+- State project ID: MS-06-016
+- Latitude: 30.460159
+- Longitude: -89.062598
+- County FIPS: 28047
+- County from: 2020
+- Tract 2020: 28047003215
+- Tract 2010: 28047003207
+- Tract 2000: 28047003203
+- Tract 1990: 28047003201
+- Place 2020: 29700
+- Place 2010: 29700
+- Place 2000: 06220
+- Place 1990: 0943
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 349144
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 16
+- 4-bedroom units: 16
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MSA2011668.
+- Record status: Existing, unchanged

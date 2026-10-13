@@ -1,0 +1,85 @@
+# Project: BAYBERRY APARTMENTS (TNA20171001)
+
+- HUD ID: TNA20171001
+- HUD ID before: 
+- Project: BAYBERRY APARTMENTS
+- Address: 2300 WILSON STREET
+- City: CHATTANOOGA
+- State: TN
+- ZIP: 37406
+- ZIP extension: 
+- State project ID: TN-16-207
+- Latitude: 35.050469
+- Longitude: -85.260903
+- County FIPS: 47065
+- County from: 2020
+- Tract 2020: 47065001200
+- Tract 2010: 47065001200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 503589
+- Units: 164
+- Low-income units: 163
+- Units reported: 164
+- Low-income reported: 163
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 105
+- 3-bedroom units: 35
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

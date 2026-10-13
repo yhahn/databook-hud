@@ -1,0 +1,85 @@
+# Project: CATHERINE GARDENS (NYA20100012)
+
+- HUD ID: NYA20100012
+- HUD ID before: 
+- Project: CATHERINE GARDENS
+- Address: 74 BRINKERHOFF ST
+- City: PLATTSBURGH
+- State: NY
+- ZIP: 12901
+- ZIP extension: 
+- State project ID: 20086052
+- Latitude: 44.696893
+- Longitude: -73.457998
+- County FIPS: 36019
+- County from: 2020
+- Tract 2020: 36019103100
+- Tract 2010: 36019101300
+- Tract 2000: 36019101300
+- Tract 1990: 36019101300
+- Place 2020: 58574
+- Place 2010: 58574
+- Place 2000: 58574
+- Place 1990: 2898
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 620000
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 7
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA2010513.
+- Record status: Existing, unchanged

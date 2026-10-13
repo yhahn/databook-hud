@@ -1,0 +1,85 @@
+# Project: STRAND APTS (MOA20050157)
+
+- HUD ID: MOA20050157
+- HUD ID before: 
+- Project: STRAND APTS
+- Address: 716 CLAY ST
+- City: CHILLICOTHE
+- State: MO
+- ZIP: 64601
+- ZIP extension: 
+- State project ID: 04-078
+- Latitude: 39.792363
+- Longitude: -93.553111
+- County FIPS: 29117
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 29117480500
+- Tract 2000: 29117980500
+- Tract 1990: 29117980500
+- Place 2020: 
+- Place 2010: 13690
+- Place 2000: 13690
+- Place 1990: 0805
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 296200
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA2005160.
+- Record status: Existing, unchanged

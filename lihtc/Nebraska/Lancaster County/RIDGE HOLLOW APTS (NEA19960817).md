@@ -1,0 +1,85 @@
+# Project: RIDGE HOLLOW APTS (NEA19960817)
+
+- HUD ID: NEA19960817
+- HUD ID before: 
+- Project: RIDGE HOLLOW APTS
+- Address: 5831 N 23RD ST
+- City: LINCOLN
+- State: NE
+- ZIP: 68521
+- ZIP extension: 
+- State project ID: 67118(B)
+- Latitude: 40.870052
+- Longitude: -96.687417
+- County FIPS: 31109
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31109003001
+- Tract 2000: 31109003001
+- Tract 1990: 31109003000
+- Place 2020: 
+- Place 2010: 28000
+- Place 2000: 28000
+- Place 1990: 1425
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 90545
+- Units: 100
+- Low-income units: 60
+- Units reported: 100
+- Low-income reported: 60
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

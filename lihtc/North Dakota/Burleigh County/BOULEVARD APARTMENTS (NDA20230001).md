@@ -1,0 +1,85 @@
+# Project: BOULEVARD APARTMENTS (NDA20230001)
+
+- HUD ID: NDA20230001
+- HUD ID before: 
+- Project: BOULEVARD APARTMENTS
+- Address: 1100 E BOULEVARD AVE
+- City: BISMARCK
+- State: ND
+- ZIP: 58504
+- ZIP extension: 0000
+- State project ID: TE-20-11
+- Latitude: 46.816595
+- Longitude: -100.776162
+- County FIPS: 38015
+- County from: 2020
+- Tract 2020: 38015010300
+- Tract 2010: 38015010300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 07200
+- Place 2010: 07200
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 442348
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 49
+- 1-bedroom units: 44
+- 2-bedroom units: 21
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

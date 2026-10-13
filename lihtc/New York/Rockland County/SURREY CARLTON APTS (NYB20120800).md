@@ -1,0 +1,85 @@
+# Project: SURREY CARLTON APTS (NYB20120800)
+
+- HUD ID: NYB20120800
+- HUD ID before: 
+- Project: SURREY CARLTON APTS
+- Address: 5 SLINN AVE
+- City: SPRING VALLEY
+- State: NY
+- ZIP: 10977
+- ZIP extension: 
+- State project ID: NY-12-2115
+- Latitude: 41.12109
+- Longitude: -74.037411
+- County FIPS: 36087
+- County from: 2020
+- Tract 2020: 36087012206
+- Tract 2010: 36087012202
+- Tract 2000: 36087012202
+- Tract 1990: 36087012200
+- Place 2020: 70420
+- Place 2010: 70420
+- Place 2000: 70420
+- Place 1990: 3520
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1057327
+- Units: 176
+- Low-income units: 171
+- Units reported: 176
+- Low-income reported: 171
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 134
+- 3-bedroom units: 8
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

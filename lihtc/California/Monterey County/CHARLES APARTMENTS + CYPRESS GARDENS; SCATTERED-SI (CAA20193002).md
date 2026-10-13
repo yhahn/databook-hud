@@ -1,0 +1,85 @@
+# Project: CHARLES APARTMENTS + CYPRESS GARDENS; SCATTERED-SI (CAA20193002)
+
+- HUD ID: CAA20193002
+- HUD ID before: 
+- Project: CHARLES APARTMENTS + CYPRESS GARDENS; SCATTERED-SI
+- Address: 3109 AND 3135 SEACREST AVENUE
+- City: MARINA
+- State: CA
+- ZIP: 93933
+- ZIP extension: 
+- State project ID: CA-2018-766
+- Latitude: 36.6806
+- Longitude: -121.7898
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053014202
+- Tract 2010: 06053014202
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 45778
+- Place 2010: 45778
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 1721694
+- Units: 201
+- Low-income units: 191
+- Units reported: 201
+- Low-income reported: 191
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 90
+- 3-bedroom units: 61
+- 4-bedroom units: 34
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

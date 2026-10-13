@@ -1,0 +1,85 @@
+# Project: WEATHERLY RIDGE APTS PHASE I (TNA20090105)
+
+- HUD ID: TNA20090105
+- HUD ID before: 
+- Project: WEATHERLY RIDGE APTS PHASE I
+- Address: 731 KROHNE WAY
+- City: ANTIOCH
+- State: TN
+- ZIP: 37013
+- ZIP extension: 
+- State project ID: TN-06-217
+- Latitude: 36.07363
+- Longitude: -86.631063
+- County FIPS: 47037
+- County from: 2020
+- Tract 2020: 47037015620
+- Tract 2010: 47037015620
+- Tract 2000: 47037015620
+- Tract 1990: 47037015607
+- Place 2020: 52006
+- Place 2010: 52006
+- Place 2000: 52006
+- Place 1990: 1016
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 691200
+- Units: 192
+- Low-income units: 192
+- Units reported: 192
+- Low-income reported: 192
+- Efficiencies: 0
+- 1-bedroom units: 80
+- 2-bedroom units: 88
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

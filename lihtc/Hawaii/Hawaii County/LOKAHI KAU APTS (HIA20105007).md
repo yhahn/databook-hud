@@ -1,0 +1,85 @@
+# Project: LOKAHI KAU APTS (HIA20105007)
+
+- HUD ID: HIA20105007
+- HUD ID before: 
+- Project: LOKAHI KAU APTS
+- Address: 73 4411 KAKAHIAKA ST
+- City: KAILUA KONA
+- State: HI
+- ZIP: 96740
+- ZIP extension: 
+- State project ID: HI-2007-004
+- Latitude: 19.6497
+- Longitude: -155.9717
+- County FIPS: 15001
+- County from: 2020
+- Tract 2020: 15001021504
+- Tract 2010: 15001021601
+- Tract 2000: 15001021601
+- Tract 1990: 
+- Place 2020: 23000
+- Place 2010: 15700
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 2442866
+- Units: 306
+- Low-income units: 304
+- Units reported: 306
+- Low-income reported: 304
+- Efficiencies: 90
+- 1-bedroom units: 107
+- 2-bedroom units: 107
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

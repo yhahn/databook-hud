@@ -1,0 +1,85 @@
+# Project: WASHINGTON HEIGHTS APTS V (NDA19910040)
+
+- HUD ID: NDA19910040
+- HUD ID before: 
+- Project: WASHINGTON HEIGHTS APTS V
+- Address: 2801 HAWKEN ST
+- City: BISMARCK
+- State: ND
+- ZIP: 58503
+- ZIP extension: 
+- State project ID: ND-90-06
+- Latitude: 46.836925
+- Longitude: -100.800443
+- County FIPS: 38015
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 38015011103
+- Tract 2000: 38015011102
+- Tract 1990: 38015011000
+- Place 2020: 
+- Place 2010: 07200
+- Place 2000: 07200
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 74323
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 17
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HEWITT PLACE (ORA20100050)
+
+- HUD ID: ORA20100050
+- HUD ID before: 
+- Project: HEWITT PLACE
+- Address: 846 SW 29TH WAY
+- City: TROUTDALE
+- State: OR
+- ZIP: 97060
+- ZIP extension: 
+- State project ID: 942
+- Latitude: 45.519782
+- Longitude: -122.395692
+- County FIPS: 41051
+- County from: 2020
+- Tract 2020: 41051010306
+- Tract 2010: 41051010306
+- Tract 2000: 41051010306
+- Tract 1990: 41051010302
+- Place 2020: 74850
+- Place 2010: 74850
+- Place 2000: 74850
+- Place 1990: 1145
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 43
+- Units reported: 44
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 43
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 18
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2734664
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA1992025.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BRIDGEVIEW CENTER (MAB20161002)
+
+- HUD ID: MAB20161002
+- HUD ID before: 
+- Project: BRIDGEVIEW CENTER
+- Address: 330 RUTHERFORD AVENUE
+- City: CHARLSTOWN
+- State: MA
+- ZIP: 02129
+- ZIP extension: 
+- State project ID: MA-18-13
+- Latitude: 42.377993
+- Longitude: -71.07042
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025040600
+- Tract 2010: 25025040600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 931370
+- Units: 61
+- Low-income units: 61
+- Units reported: 61
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 29
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

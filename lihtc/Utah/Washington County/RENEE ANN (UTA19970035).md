@@ -1,0 +1,85 @@
+# Project: RENEE ANN (UTA19970035)
+
+- HUD ID: UTA19970035
+- HUD ID before: 
+- Project: RENEE ANN
+- Address: 6325 WEST 25 NORTH
+- City: HURRICANE
+- State: UT
+- ZIP: 84737
+- ZIP extension: 0000
+- State project ID: 1996-10
+- Latitude: 37.161154
+- Longitude: -113.436308
+- County FIPS: 49053
+- County from: 2020
+- Tract 2020: 49053270904
+- Tract 2010: 49053270902
+- Tract 2000: 49053270900
+- Tract 1990: 49053985100
+- Place 2020: 37170
+- Place 2010: 37170
+- Place 2000: 37170
+- Place 1990: 0475
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 58364
+- Units: 23
+- Low-income units: 23
+- Units reported: 23
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 16
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

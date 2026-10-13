@@ -1,0 +1,85 @@
+# Project: RANGEVIEW DRIVE APARTMENTS (MTA19970035)
+
+- HUD ID: MTA19970035
+- HUD ID before: 
+- Project: RANGEVIEW DRIVE APARTMENTS
+- Address: 1128 RANGEVIEW DR
+- City: HARDIN
+- State: MT
+- ZIP: 59034
+- ZIP extension: 0000
+- State project ID: 96060
+- Latitude: 45.725991
+- Longitude: -107.626556
+- County FIPS: 30003
+- County from: 2020
+- Tract 2020: 30003000100
+- Tract 2010: 30003000100
+- Tract 2000: 30003000100
+- Tract 1990: 30003964000
+- Place 2020: 34225
+- Place 2010: 34225
+- Place 2000: 34225
+- Place 1990: 0305
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 44630
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: Yes
+- Affordability years: 50
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

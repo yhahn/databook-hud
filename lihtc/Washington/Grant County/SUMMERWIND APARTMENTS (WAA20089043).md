@@ -1,0 +1,85 @@
+# Project: SUMMERWIND APARTMENTS (WAA20089043)
+
+- HUD ID: WAA20089043
+- HUD ID before: 
+- Project: SUMMERWIND APARTMENTS
+- Address: 340 E ST NE
+- City: EPHRATA
+- State: WA
+- ZIP: 98823
+- ZIP extension: 
+- State project ID: 07-34
+- Latitude: 47.326389
+- Longitude: -119.542497
+- County FIPS: 53025
+- County from: 2020
+- Tract 2020: 53025010402
+- Tract 2010: 53025010400
+- Tract 2000: 53025980400
+- Tract 1990: 53025980400
+- Place 2020: 22080
+- Place 2010: 22080
+- Place 2000: 22080
+- Place 1990: 0415
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 274042
+- Units: 28
+- Low-income units: 27
+- Units reported: 28
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 8
+- 3-bedroom units: 13
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

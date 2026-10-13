@@ -1,0 +1,85 @@
+# Project: FULTON SCHOOL RESIDENCES (MAB20090025)
+
+- HUD ID: MAB20090025
+- HUD ID before: 
+- Project: FULTON SCHOOL RESIDENCES
+- Address: 245 POND ST
+- City: WEYMOUTH
+- State: MA
+- ZIP: 02190
+- ZIP extension: 
+- State project ID: 1659
+- Latitude: 42.162096
+- Longitude: -70.960225
+- County FIPS: 25021
+- County from: 2020
+- Tract 2020: 25021422100
+- Tract 2010: 25021422100
+- Tract 2000: 25021422100
+- Tract 1990: 25021422100
+- Place 2020: 78972
+- Place 2010: 78972
+- Place 2000: 78900
+- Place 1990: 4850
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1080485
+- Units: 63
+- Low-income units: 63
+- Units reported: 63
+- Low-income reported: 63
+- Efficiencies: 31
+- 1-bedroom units: 26
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FULTON SCHOOL.
+- Record status: Existing, unchanged

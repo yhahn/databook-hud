@@ -1,0 +1,85 @@
+# Project: OAK CREST MANOR (MNA19890085)
+
+- HUD ID: MNA19890085
+- HUD ID before: 
+- Project: OAK CREST MANOR
+- Address: 2014 SPRUCE DR
+- City: BRAINERD
+- State: MN
+- ZIP: 56401
+- ZIP extension: 
+- State project ID: MN-89-011
+- Latitude: 46.334476
+- Longitude: -94.202586
+- County FIPS: 27035
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27035951302
+- Tract 2000: 27035951300
+- Tract 1990: 27035951300
+- Place 2020: 
+- Place 2010: 07300
+- Place 2000: 04042
+- Place 1990: 0225
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA OAK CREST MANOR II A.
+- Record status: Existing, unchanged

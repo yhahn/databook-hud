@@ -1,0 +1,85 @@
+# Project: HAZELTINE APTS (ORA19940015)
+
+- HUD ID: ORA19940015
+- HUD ID before: 
+- Project: HAZELTINE APTS
+- Address: 302 NW SECOND ST
+- City: ENTERPRISE
+- State: OR
+- ZIP: 97828
+- ZIP extension: 
+- State project ID: OR93-601
+- Latitude: 45.42736
+- Longitude: -117.28039
+- County FIPS: 41063
+- County from: 2020
+- Tract 2020: 41063960300
+- Tract 2010: 41063960300
+- Tract 2000: 41063960300
+- Tract 1990: 41063960300
+- Place 2020: 23500
+- Place 2010: 23500
+- Place 2000: 23500
+- Place 1990: 0350
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 8437
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

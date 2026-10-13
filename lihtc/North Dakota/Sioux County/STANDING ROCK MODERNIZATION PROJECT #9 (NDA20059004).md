@@ -1,0 +1,85 @@
+# Project: STANDING ROCK MODERNIZATION PROJECT #9 (NDA20059004)
+
+- HUD ID: NDA20059004
+- HUD ID before: 
+- Project: STANDING ROCK MODERNIZATION PROJECT #9
+- Address: SCATTERED SITES
+- City: FORT YATES
+- State: ND
+- ZIP: 58538
+- ZIP extension: 0000
+- State project ID: TC-03-05
+- Latitude: 46.1033
+- Longitude: -100.7455
+- County FIPS: 38085
+- County from: 2020
+- Tract 2020: 38085940900
+- Tract 2010: 38085940900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 12020
+- Place 2010: 12020
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 167530
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 11
+- 4-bedroom units: 9
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

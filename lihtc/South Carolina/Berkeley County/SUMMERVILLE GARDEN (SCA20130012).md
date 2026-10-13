@@ -1,0 +1,85 @@
+# Project: SUMMERVILLE GARDEN (SCA20130012)
+
+- HUD ID: SCA20130012
+- HUD ID before: 
+- Project: SUMMERVILLE GARDEN
+- Address: 340 HOLIDAY DR
+- City: SUMMERVILLE
+- State: SC
+- ZIP: 29483
+- ZIP extension: 
+- State project ID: SC-11-070
+- Latitude: 33.044715
+- Longitude: -80.157951
+- County FIPS: 45015
+- County from: 2020
+- Tract 2020: 45015020710
+- Tract 2010: 45015020710
+- Tract 2000: 45015020701
+- Tract 1990: 45015020701
+- Place 2020: 70270
+- Place 2010: 70270
+- Place 2000: 70270
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 850000
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 36
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 800000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SUMMERVILLE GARDEN M11-SG450930.
+- Record status: Existing, unchanged

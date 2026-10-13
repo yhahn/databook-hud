@@ -1,0 +1,85 @@
+# Project: JAYCEE PLACE APTS (MAA19990015)
+
+- HUD ID: MAA19990015
+- HUD ID before: 
+- Project: JAYCEE PLACE APTS
+- Address: 22 BOWERS ST
+- City: LOWELL
+- State: MA
+- ZIP: 01854
+- ZIP extension: 
+- State project ID: MA-98-010-R
+- Latitude: 42.648474
+- Longitude: -71.32302
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017388300
+- Tract 2010: 25017388300
+- Tract 2000: 25017311000
+- Tract 1990: 25017311000
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 2180
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 137
+- Low-income units: 130
+- Units reported: 137
+- Low-income reported: 130
+- Efficiencies: 0
+- 1-bedroom units: 123
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000337.
+- Record status: Existing, unchanged

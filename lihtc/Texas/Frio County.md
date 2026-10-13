@@ -1,0 +1,23 @@
+# Tax Credit Projects: Frio County, TX
+
+- Level: County
+- Postal code: TX
+- State FIPS: 48
+- County FIPS: 48163
+- Counties: 
+- Projects: 6
+- Units: 260
+- Low-income units: 256
+
+The low-income housing tax credit projects of Frio County, Texas, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [BRUSH COUNTRY COTTAGES (FKA DILLEY RETIREMENT) (TXA00000229)](./Frio%20County/BRUSH%20COUNTRY%20COTTAGES%20%28FKA%20DILLEY%20RETIREMENT%29%20%28TXA00000229%29.md) | TXA00000229 | DILLEY |  | 28 | 28 |
+| [CORNERSTONE APTS (DILLEY) (TXA00000257)](./Frio%20County/CORNERSTONE%20APTS%20%28DILLEY%29%20%28TXA00000257%29.md) | TXA00000257 | DILLEY |  | 40 | 40 |
+| [ATHOL APTS (TXA19920015)](./Frio%20County/ATHOL%20APTS%20%28TXA19920015%29.md) | TXA19920015 | PEARSALL | 1992 | 38 | 38 |
+| [PEARSALL MANOR SENIOR CITIZENS HOUSING (TXA19940220)](./Frio%20County/PEARSALL%20MANOR%20SENIOR%20CITIZENS%20HOUSING%20%28TXA19940220%29.md) | TXA19940220 | PEARSALL | 1994 | 36 | 36 |
+| [WESTVIEW RANCH (TXA20050425)](./Frio%20County/WESTVIEW%20RANCH%20%28TXA20050425%29.md) | TXA20050425 | PEARSALL | 2005 | 72 | 68 |
+| [ARTISAN AT DILLEY (TXA20130802)](./Frio%20County/ARTISAN%20AT%20DILLEY%20%28TXA20130802%29.md) | TXA20130802 | DILLEY | 2013 | 46 | 46 |

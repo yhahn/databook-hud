@@ -1,0 +1,85 @@
+# Project: MOTT HAVEN CLUSTER (NYC19980300)
+
+- HUD ID: NYC19980300
+- HUD ID before: 
+- Project: MOTT HAVEN CLUSTER
+- Address: 445 E 140TH ST
+- City: BRONX
+- State: NY
+- ZIP: 10454
+- ZIP extension: 
+- State project ID: NY9702034
+- Latitude: 40.809943
+- Longitude: -73.920392
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005003900
+- Tract 2010: 36005003900
+- Tract 2000: 36005003900
+- Tract 1990: 36005003900
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 307410
+- Units: 102
+- Low-income units: 65
+- Units reported: 102
+- Low-income reported: 65
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC1997123.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HISTORIC BALLSTON PARK (VAA20010483)
+
+- HUD ID: VAA20010483
+- HUD ID before: 
+- Project: HISTORIC BALLSTON PARK
+- Address: 351 N GLEBE RD
+- City: ARLINGTON
+- State: VA
+- ZIP: 22203
+- ZIP extension: 
+- State project ID: 1005
+- Latitude: 38.874829
+- Longitude: -77.106122
+- County FIPS: 51013
+- County from: 2020
+- Tract 2020: 51013102003
+- Tract 2010: 51013102003
+- Tract 2000: 51013102000
+- Tract 1990: 51013102000
+- Place 2020: 03000
+- Place 2010: 03000
+- Place 2000: 03000
+- Place 1990: 0056
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 317834
+- Units: 512
+- Low-income units: 233
+- Units reported: 512
+- Low-income reported: 233
+- Efficiencies: 39
+- 1-bedroom units: 329
+- 2-bedroom units: 132
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1997060.
+- Record status: Existing, unchanged

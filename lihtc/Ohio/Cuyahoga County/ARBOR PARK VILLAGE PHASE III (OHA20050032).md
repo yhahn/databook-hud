@@ -1,0 +1,85 @@
+# Project: ARBOR PARK VILLAGE PHASE III (OHA20050032)
+
+- HUD ID: OHA20050032
+- HUD ID before: 
+- Project: ARBOR PARK VILLAGE PHASE III
+- Address: 2530 E 35TH ST
+- City: CLEVELAND
+- State: OH
+- ZIP: 44115
+- ZIP extension: 
+- State project ID: 040001
+- Latitude: 41.491689
+- Longitude: -81.664453
+- County FIPS: 39035
+- County from: 2020
+- Tract 2020: 39035109701
+- Tract 2010: 39035109701
+- Tract 2000: 39035109700
+- Tract 1990: 39035109700
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 16000
+- Place 1990: 0900
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 971691
+- Units: 141
+- Low-income units: 141
+- Units reported: 141
+- Low-income reported: 141
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 50
+- 3-bedroom units: 77
+- 4-bedroom units: 14
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2005016, OHA200516, OHA2005660, OHA2006005.
+- Record status: Existing, unchanged

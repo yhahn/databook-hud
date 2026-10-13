@@ -1,0 +1,85 @@
+# Project: SENECA GROVE APARTMENTS (OHA20129196)
+
+- HUD ID: OHA20129196
+- HUD ID before: 
+- Project: SENECA GROVE APARTMENTS
+- Address: 707 ARGONNE DRIVE
+- City: PAINESVILLE
+- State: OH
+- ZIP: 44077
+- ZIP extension: 
+- State project ID: 110079
+- Latitude: 41.741368
+- Longitude: -81.249982
+- County FIPS: 39085
+- County from: 2020
+- Tract 2020: 39085204200
+- Tract 2010: 39085204200
+- Tract 2000: 39085204200
+- Tract 1990: 39085204200
+- Place 2020: 59416
+- Place 2010: 59416
+- Place 2000: 59416
+- Place 1990: 3330
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 132
+- Low-income units: 132
+- Units reported: 132
+- Low-income reported: 132
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 108
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VARENNA SENIOR APTS (CAA20110520)
+
+- HUD ID: CAA20110520
+- HUD ID before: 
+- Project: VARENNA SENIOR APTS
+- Address: 2351 WYDA WAY
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95825
+- ZIP extension: 
+- State project ID: CA-09-073
+- Latitude: 38.60007
+- Longitude: -121.408052
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067005505
+- Tract 2010: 06067005505
+- Tract 2000: 06067005505
+- Tract 1990: 06067005503
+- Place 2020: 02553
+- Place 2010: 02553
+- Place 2000: 02553
+- Place 1990: 0115
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1494935
+- Units: 152
+- Low-income units: 150
+- Units reported: 152
+- Low-income reported: 150
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 45
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011540.
+- Record status: Existing, unchanged

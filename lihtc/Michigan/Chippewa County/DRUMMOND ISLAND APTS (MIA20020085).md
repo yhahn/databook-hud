@@ -1,0 +1,85 @@
+# Project: DRUMMOND ISLAND APTS (MIA20020085)
+
+- HUD ID: MIA20020085
+- HUD ID before: 
+- Project: DRUMMOND ISLAND APTS
+- Address: 33142 S SOCIA SUB RD
+- City: DRUMMOND ISLAND
+- State: MI
+- ZIP: 49726
+- ZIP extension: 
+- State project ID: MI-1819
+- Latitude: 46.017898
+- Longitude: -83.74278
+- County FIPS: 26033
+- County from: 2020
+- Tract 2020: 26033971100
+- Tract 2010: 26033971100
+- Tract 2000: 26033971100
+- Tract 1990: 26033971100
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 21780
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

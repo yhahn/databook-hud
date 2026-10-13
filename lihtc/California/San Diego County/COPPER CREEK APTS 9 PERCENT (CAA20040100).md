@@ -1,0 +1,85 @@
+# Project: COPPER CREEK APTS 9 PERCENT (CAA20040100)
+
+- HUD ID: CAA20040100
+- HUD ID before: 
+- Project: COPPER CREEK APTS 9 PERCENT
+- Address: 1730 ELFIN FOREST RD
+- City: SAN MARCOS
+- State: CA
+- ZIP: 92078
+- ZIP extension: 
+- State project ID: CA-03-036
+- Latitude: 33.097057
+- Longitude: -117.197647
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073017113
+- Tract 2010: 06073017110
+- Tract 2000: 06073020010
+- Tract 1990: 06073020010
+- Place 2020: 68196
+- Place 2010: 68196
+- Place 2000: 11194
+- Place 1990: 1447
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 665013
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 8
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

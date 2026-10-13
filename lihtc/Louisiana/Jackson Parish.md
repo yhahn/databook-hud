@@ -1,0 +1,24 @@
+# Tax Credit Projects: Jackson Parish, LA
+
+- Level: County
+- Postal code: LA
+- State FIPS: 22
+- County FIPS: 22049
+- Counties: 
+- Projects: 7
+- Units: 226
+- Low-income units: 226
+
+The low-income housing tax credit projects of Jackson Parish, Louisiana, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [MILE APTS IV (LAA19880120)](./Jackson%20Parish/MILE%20APTS%20IV%20%28LAA19880120%29.md) | LAA19880120 | CHATHAM | 1988 | 24 | 24 |
+| [JACKSON SQUARE (LAA20010080)](./Jackson%20Parish/JACKSON%20SQUARE%20%28LAA20010080%29.md) | LAA20010080 | JONESBORO | 2001 | 32 | 32 |
+| [CHATHAM LAKE APARTMENTS (LAA20080075)](./Jackson%20Parish/CHATHAM%20LAKE%20APARTMENTS%20%28LAA20080075%29.md) | LAA20080075 | CHATHAM | 2008 | 24 | 24 |
+| [JACKSON PINES SUBDIVISION (LAA20080165)](./Jackson%20Parish/JACKSON%20PINES%20SUBDIVISION%20%28LAA20080165%29.md) | LAA20080165 | JONESBORO | 2008 | 40 | 40 |
+| [JONESBORO VILLAS (LAA20100050)](./Jackson%20Parish/JONESBORO%20VILLAS%20%28LAA20100050%29.md) | LAA20100050 | JONESBORO | 2010 | 32 | 32 |
+| [VILLAGE HOMES APARTMENTS (LAA20230026)](./Jackson%20Parish/VILLAGE%20HOMES%20APARTMENTS%20%28LAA20230026%29.md) | LAA20230026 | EAST HODGE | 2023 | 24 | 24 |
+| [JONESBORO SENIOR VILLAGE (LAA20240004)](./Jackson%20Parish/JONESBORO%20SENIOR%20VILLAGE%20%28LAA20240004%29.md) | LAA20240004 | JONESBORO | 2024 | 50 | 50 |

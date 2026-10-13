@@ -1,0 +1,85 @@
+# Project: SHELBY'S LANDING (INA20000083)
+
+- HUD ID: INA20000083
+- HUD ID before: 
+- Project: SHELBY'S LANDING
+- Address: 4284 N MORRISTOWN RD
+- City: SHELBYVILLE
+- State: IN
+- ZIP: 46176
+- ZIP extension: 
+- State project ID: IN-00-03200
+- Latitude: 39.589154
+- Longitude: -85.758777
+- County FIPS: 18145
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 18145710300
+- Tract 2000: 18145710300
+- Tract 1990: 18145710300
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 22396
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 
+- Low-income units: 
+- Units reported: 
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

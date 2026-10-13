@@ -1,0 +1,85 @@
+# Project: SOUTH FORTY (MTA20080005)
+
+- HUD ID: MTA20080005
+- HUD ID before: 
+- Project: SOUTH FORTY
+- Address: 769 FALLOW LANE
+- City: BILLINGS
+- State: MT
+- ZIP: 59102
+- ZIP extension: 0000
+- State project ID: 07070
+- Latitude: 45.755489
+- Longitude: -108.601781
+- County FIPS: 30111
+- County from: 2020
+- Tract 2020: 30111001703
+- Tract 2010: 30111001703
+- Tract 2000: 30111001701
+- Tract 1990: 30111001701
+- Place 2020: 06550
+- Place 2010: 06550
+- Place 2000: 06550
+- Place 1990: 0050
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 206464
+- Units: 101
+- Low-income units: 101
+- Units reported: 101
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 100
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MTA0000100.
+- Record status: Existing, unchanged

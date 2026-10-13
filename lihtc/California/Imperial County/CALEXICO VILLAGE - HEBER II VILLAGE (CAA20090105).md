@@ -1,0 +1,85 @@
+# Project: CALEXICO VILLAGE / HEBER II VILLAGE (CAA20090105)
+
+- HUD ID: CAA20090105
+- HUD ID before: 
+- Project: CALEXICO VILLAGE / HEBER II VILLAGE
+- Address: 1140 HEBER AVE
+- City: HEBER
+- State: CA
+- ZIP: 92249
+- ZIP extension: 
+- State project ID: CA-89-026
+- Latitude: 32.733935
+- Longitude: -115.529885
+- County FIPS: 06025
+- County from: 2020
+- Tract 2020: 06025011301
+- Tract 2010: 06025011300
+- Tract 2000: 06025011300
+- Tract 1990: 06025011300
+- Place 2020: 33084
+- Place 2010: 33084
+- Place 2000: 21782
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 52264
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA1990075, CAA1989160, CAA0000800, CAA0000375. FKA CALEXICO VILLAGE APTS PHASES I & II
+- Record status: Existing, unchanged

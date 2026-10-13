@@ -1,0 +1,85 @@
+# Project: RIVER PLACE PHASE II (WIA19930210)
+
+- HUD ID: WIA19930210
+- HUD ID before: 
+- Project: RIVER PLACE PHASE II
+- Address: 617 W WOLF RIVER AVE
+- City: NEW LONDON
+- State: WI
+- ZIP: 54961
+- ZIP extension: 
+- State project ID: 1502
+- Latitude: 44.390943
+- Longitude: -88.74694
+- County FIPS: 55135
+- County from: 2020
+- Tract 2020: 55135100900
+- Tract 2010: 55135100900
+- Tract 2000: 55135990900
+- Tract 1990: 55135990900
+- Place 2020: 56925
+- Place 2010: 56925
+- Place 2000: 56925
+- Place 1990: 1805
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 7
+- Low-income units: 7
+- Units reported: 7
+- Low-income reported: 7
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 3
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

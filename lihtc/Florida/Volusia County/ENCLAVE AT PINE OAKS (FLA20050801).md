@@ -1,0 +1,85 @@
+# Project: ENCLAVE AT PINE OAKS (FLA20050801)
+
+- HUD ID: FLA20050801
+- HUD ID before: 
+- Project: ENCLAVE AT PINE OAKS
+- Address: 450 W EUCLID AVE
+- City: DELAND
+- State: FL
+- ZIP: 32720
+- ZIP extension: 
+- State project ID: 1346
+- Latitude: 29.021051
+- Longitude: -81.31129
+- County FIPS: 12127
+- County from: 2020
+- Tract 2020: 12127090600
+- Tract 2010: 12127090600
+- Tract 2000: 12127090600
+- Tract 1990: 12127090600
+- Place 2020: 16875
+- Place 2010: 16875
+- Place 2000: 16875
+- Place 1990: 0505
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 228
+- Low-income units: 228
+- Units reported: 228
+- Low-income reported: 228
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 140
+- 3-bedroom units: 56
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2005045. AKA GARFIELD PLACE.
+- Record status: Existing, unchanged

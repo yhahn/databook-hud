@@ -1,0 +1,85 @@
+# Project: 85 NORTH APARTMENTS - SENIOR (UTA0000X003)
+
+- HUD ID: UTA0000X003
+- HUD ID before: 
+- Project: 85 NORTH APARTMENTS - SENIOR
+- Address: 688 WEST 100 NORTH
+- City: PROVO
+- State: UT
+- ZIP: 84606
+- ZIP extension: 0000
+- State project ID: 2020-24
+- Latitude: 40.235308
+- Longitude: -111.670812
+- County FIPS: 49049
+- County from: 2020
+- Tract 2020: 49049002001
+- Tract 2010: 49049002000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 62470
+- Place 2010: 62470
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 825567
+- Units: 0
+- Low-income units: 0
+- Units reported: 0
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

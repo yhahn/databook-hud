@@ -1,0 +1,85 @@
+# Project: BANYAN RESERVE SENIOR (FLA20200003)
+
+- HUD ID: FLA20200003
+- HUD ID before: 
+- Project: BANYAN RESERVE SENIOR
+- Address: 940 SERENITY HILLS DRIVE
+- City: LAKELAND
+- State: FL
+- ZIP: 33805
+- ZIP extension: 
+- State project ID: 3020
+- Latitude: 28.0714
+- Longitude: -81.9658
+- County FIPS: 12105
+- County from: 2020
+- Tract 2020: 12105011203
+- Tract 2010: 12105011203
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 38250
+- Place 2010: 38250
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 792906
+- Units: 139
+- Low-income units: 139
+- Units reported: 139
+- Low-income reported: 139
+- Efficiencies: 
+- 1-bedroom units: 70
+- 2-bedroom units: 69
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 139
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: Yes
+- HTF amount: 438341
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

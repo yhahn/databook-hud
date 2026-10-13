@@ -1,0 +1,85 @@
+# Project: SUNNYRIDGE (IDA19950035)
+
+- HUD ID: IDA19950035
+- HUD ID before: 
+- Project: SUNNYRIDGE
+- Address: 1615 CAMAS STREET
+- City: BLACKFOOT
+- State: ID
+- ZIP: 83321
+- ZIP extension: 
+- State project ID: HC9516
+- Latitude: 43.178735
+- Longitude: -112.359112
+- County FIPS: 16011
+- County from: 2020
+- Tract 2020: 16011950502
+- Tract 2010: 16011950500
+- Tract 2000: 16011950500
+- Tract 1990: 16011950500
+- Place 2020: 07840
+- Place 2010: 07840
+- Place 2000: 07840
+- Place 1990: 0075
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 21976
+- Units: 26
+- Low-income units: 25
+- Units reported: 26
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

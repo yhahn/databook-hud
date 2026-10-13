@@ -1,0 +1,85 @@
+# Project: GARDEN PARK (FLA20130007)
+
+- HUD ID: FLA20130007
+- HUD ID before: 
+- Project: GARDEN PARK
+- Address: 365 GARDEN EDGE PT
+- City: FERN PARK
+- State: FL
+- ZIP: 32730
+- ZIP extension: 
+- State project ID: 2580
+- Latitude: 28.649878
+- Longitude: -81.352322
+- County FIPS: 12117
+- County from: 2020
+- Tract 2020: 12117021802
+- Tract 2010: 12117021802
+- Tract 2000: 12117021802
+- Tract 1990: 12117021802
+- Place 2020: 22250
+- Place 2010: 22250
+- Place 2000: 00950
+- Place 1990: 0015
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 108
+- Low-income units: 92
+- Units reported: 108
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 68
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

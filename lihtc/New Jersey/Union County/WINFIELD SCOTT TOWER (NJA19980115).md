@@ -1,0 +1,85 @@
+# Project: WINFIELD SCOTT TOWER (NJA19980115)
+
+- HUD ID: NJA19980115
+- HUD ID before: 
+- Project: WINFIELD SCOTT TOWER
+- Address: 323 NORTH BROAD STREET
+- City: ELIZABETH
+- State: NJ
+- ZIP: 07208
+- ZIP extension: 
+- State project ID: NJ-9647
+- Latitude: 40.670681
+- Longitude: -74.21516
+- County FIPS: 34039
+- County from: 2020
+- Tract 2020: 34039031601
+- Tract 2010: 34039031601
+- Tract 2000: 34039031600
+- Tract 1990: 34039031600
+- Place 2020: 21000
+- Place 2010: 21000
+- Place 2000: 21000
+- Place 1990: 1715
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 436871
+- Units: 48
+- Low-income units: 46
+- Units reported: 48
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2012809.
+- Record status: Existing, unchanged

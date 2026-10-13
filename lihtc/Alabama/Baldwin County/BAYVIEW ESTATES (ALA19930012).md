@@ -1,0 +1,85 @@
+# Project: BAYVIEW ESTATES (ALA19930012)
+
+- HUD ID: ALA19930012
+- HUD ID before: 
+- Project: BAYVIEW ESTATES
+- Address: 24598 GULF BAY RD
+- City: ORANGE BEACH
+- State: AL
+- ZIP: 36561
+- ZIP extension: 
+- State project ID: AL-93-0047
+- Latitude: 30.297751
+- Longitude: -87.603927
+- County FIPS: 01003
+- County from: 2020
+- Tract 2020: 01003011417
+- Tract 2010: 01003011406
+- Tract 2000: 01003011404
+- Tract 1990: 01003011402
+- Place 2020: 57144
+- Place 2010: 57144
+- Place 2000: 32272
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 58926
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 21
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1995010. AKA ORANGE BEACH HOUSING.
+- Record status: Existing, unchanged

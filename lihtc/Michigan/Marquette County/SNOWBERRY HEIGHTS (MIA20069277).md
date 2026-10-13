@@ -1,0 +1,85 @@
+# Project: SNOWBERRY HEIGHTS (MIA20069277)
+
+- HUD ID: MIA20069277
+- HUD ID before: 
+- Project: SNOWBERRY HEIGHTS
+- Address: 222 S FIFTH ST
+- City: MARQUETTE
+- State: MI
+- ZIP: 49855
+- ZIP extension: 
+- State project ID: MI-523
+- Latitude: 46.54348
+- Longitude: -87.400341
+- County FIPS: 26103
+- County from: 2020
+- Tract 2020: 26103000300
+- Tract 2010: 26103000300
+- Tract 2000: 26103000300
+- Tract 1990: 26103000300
+- Place 2020: 51900
+- Place 2010: 51900
+- Place 2000: 51900
+- Place 1990: 1675
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 
+- Units: 190
+- Low-income units: 190
+- Units reported: 188
+- Low-income reported: 190
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

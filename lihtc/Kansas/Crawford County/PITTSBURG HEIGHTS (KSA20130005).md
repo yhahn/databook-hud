@@ -1,0 +1,85 @@
+# Project: PITTSBURG HEIGHTS (KSA20130005)
+
+- HUD ID: KSA20130005
+- HUD ID before: 
+- Project: PITTSBURG HEIGHTS
+- Address: 2620 N WALNUT ST
+- City: PITTSBURG
+- State: KS
+- ZIP: 66762
+- ZIP extension: 
+- State project ID: 60576
+- Latitude: 37.432644
+- Longitude: -94.707671
+- County FIPS: 20037
+- County from: 2020
+- Tract 2020: 20037957200
+- Tract 2010: 20037957200
+- Tract 2000: 20037957200
+- Tract 1990: 20037957200
+- Place 2020: 56025
+- Place 2010: 56025
+- Place 2000: 56025
+- Place 1990: 2290
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 369999
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

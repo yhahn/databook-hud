@@ -1,0 +1,85 @@
+# Project: PARK VIEW AT LAUREL II (MDA19970065)
+
+- HUD ID: MDA19970065
+- HUD ID before: 
+- Project: PARK VIEW AT LAUREL II
+- Address: 9010 BRIARCROFT LN
+- City: LAUREL
+- State: MD
+- ZIP: 20708
+- ZIP extension: 
+- State project ID: MD96-10
+- Latitude: 39.078066
+- Longitude: -76.846097
+- County FIPS: 24033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24033800211
+- Tract 2000: 24033800211
+- Tract 1990: 24033800204
+- Place 2020: 
+- Place 2010: 73650
+- Place 2000: 45900
+- Place 1990: 0926
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 105
+- Low-income units: 105
+- Units reported: 105
+- Low-income reported: 105
+- Efficiencies: 0
+- 1-bedroom units: 100
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
+- Record status: Existing, unchanged

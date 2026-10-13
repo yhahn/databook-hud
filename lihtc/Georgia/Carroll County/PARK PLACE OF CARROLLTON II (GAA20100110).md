@@ -1,0 +1,85 @@
+# Project: PARK PLACE OF CARROLLTON II (GAA20100110)
+
+- HUD ID: GAA20100110
+- HUD ID before: 
+- Project: PARK PLACE OF CARROLLTON II
+- Address: 646 N PARK ST
+- City: CARROLLTON
+- State: GA
+- ZIP: 30117
+- ZIP extension: 
+- State project ID: 2009-058
+- Latitude: 33.586572
+- Longitude: -85.078729
+- County FIPS: 13045
+- County from: 2020
+- Tract 2020: 13045910502
+- Tract 2010: 13045910502
+- Tract 2000: 13045990502
+- Tract 1990: 13045990500
+- Place 2020: 13492
+- Place 2010: 13492
+- Place 2000: 13492
+- Place 1990: 0495
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

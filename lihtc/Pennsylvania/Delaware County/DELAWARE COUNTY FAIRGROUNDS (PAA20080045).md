@@ -1,0 +1,85 @@
+# Project: DELAWARE COUNTY FAIRGROUNDS (PAA20080045)
+
+- HUD ID: PAA20080045
+- HUD ID before: 
+- Project: DELAWARE COUNTY FAIRGROUNDS
+- Address: 12 ENGLE ST
+- City: CHESTER
+- State: PA
+- ZIP: 19013
+- ZIP extension: 
+- State project ID: TC20070611
+- Latitude: 39.832442
+- Longitude: -75.382574
+- County FIPS: 42045
+- County from: 2020
+- Tract 2020: 42045410700
+- Tract 2010: 42045410700
+- Tract 2000: 42045405600
+- Tract 1990: 42045405600
+- Place 2020: 13208
+- Place 2010: 13208
+- Place 2000: 13208
+- Place 1990: 1855
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 1591822
+- Units: 73
+- Low-income units: 73
+- Units reported: 73
+- Low-income reported: 73
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 34
+- 3-bedroom units: 39
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 73
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

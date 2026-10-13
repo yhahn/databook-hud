@@ -1,0 +1,85 @@
+# Project: CRAWFORD TOWNHOMES (COA20240007)
+
+- HUD ID: COA20240007
+- HUD ID before: 
+- Project: CRAWFORD TOWNHOMES
+- Address: 2601 CRAWFORD STREET
+- City: PUEBLO
+- State: CO
+- ZIP: 81004
+- ZIP extension: 
+- State project ID: CO-24-07
+- Latitude: 38.241271
+- Longitude: -104.641749
+- County FIPS: 08101
+- County from: 2020
+- Tract 2020: 08101002600
+- Tract 2010: 08101002600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 62000
+- Place 2010: 62000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 1345000
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 27
+- 3-bedroom units: 12
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 42
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 3217040
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

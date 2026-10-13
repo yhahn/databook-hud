@@ -1,0 +1,85 @@
+# Project: 1193 FULTON AVENUE APARTMENTS (NYC20201001)
+
+- HUD ID: NYC20201001
+- HUD ID before: 
+- Project: 1193 FULTON AVENUE APARTMENTS
+- Address: 1193 FULTON AVENUE
+- City: BROOKLYN
+- State: NY
+- ZIP: 10456
+- ZIP extension: 
+- State project ID: NY1902003
+- Latitude: 40.830128
+- Longitude: -73.90509
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005014500
+- Tract 2010: 36005014500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 900000
+- Units: 25
+- Low-income units: 20
+- Units reported: 25
+- Low-income reported: 20
+- Efficiencies: 11
+- 1-bedroom units: 7
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Veterans
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

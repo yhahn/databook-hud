@@ -1,0 +1,85 @@
+# Project: COLLEGE HILL APTS PHASE II (WYA20060020)
+
+- HUD ID: WYA20060020
+- HUD ID before: 
+- Project: COLLEGE HILL APTS PHASE II
+- Address: 615 EAGLE DR
+- City: RIVERTON
+- State: WY
+- ZIP: 82501
+- ZIP extension: 
+- State project ID: 04-004
+- Latitude: 43.032534
+- Longitude: -108.432283
+- County FIPS: 56013
+- County from: 2020
+- Tract 2020: 56013940400
+- Tract 2010: 56013940400
+- Tract 2000: 56013940400
+- Tract 1990: 56013983500
+- Place 2020: 66220
+- Place 2010: 66220
+- Place 2000: 66220
+- Place 1990: 0380
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 259652
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

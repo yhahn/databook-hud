@@ -1,0 +1,85 @@
+# Project: BRIARWOOD GARDENS (MOA20070040)
+
+- HUD ID: MOA20070040
+- HUD ID before: 
+- Project: BRIARWOOD GARDENS
+- Address: 6216 E 126TH ST
+- City: GRANDVIEW
+- State: MO
+- ZIP: 64030
+- ZIP extension: 
+- State project ID: 04-411
+- Latitude: 38.894781
+- Longitude: -94.520065
+- County FIPS: 29095
+- County from: 2020
+- Tract 2020: 29095013309
+- Tract 2010: 29095013309
+- Tract 2000: 29095013302
+- Tract 1990: 29095013302
+- Place 2020: 28324
+- Place 2010: 28324
+- Place 2000: 28324
+- Place 1990: 1735
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 623623
+- Units: 360
+- Low-income units: 325
+- Units reported: 360
+- Low-income reported: 325
+- Efficiencies: 0
+- 1-bedroom units: 90
+- 2-bedroom units: 237
+- 3-bedroom units: 33
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BRIARWOOD REDEVELOPMENT.
+- Record status: Existing, unchanged

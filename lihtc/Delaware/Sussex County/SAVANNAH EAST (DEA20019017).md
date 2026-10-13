@@ -1,0 +1,85 @@
+# Project: SAVANNAH EAST (DEA20019017)
+
+- HUD ID: DEA20019017
+- HUD ID before: 
+- Project: SAVANNAH EAST
+- Address: 3700 SAVANNAH EAST SQUARE
+- City: LEWES
+- State: DE
+- ZIP: 19958
+- ZIP extension: 
+- State project ID: DE189FY9909
+- Latitude: 38.746831
+- Longitude: -75.153839
+- County FIPS: 10005
+- County from: 2020
+- Tract 2020: 10005050904
+- Tract 2010: 10005050902
+- Tract 2000: 10005050900
+- Tract 1990: 10005050997
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 41830
+- Place 1990: 0217
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 410201
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DEA2001025.;
+- Record status: Updated

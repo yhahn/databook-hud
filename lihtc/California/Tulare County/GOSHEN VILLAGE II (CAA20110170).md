@@ -1,0 +1,85 @@
+# Project: GOSHEN VILLAGE II (CAA20110170)
+
+- HUD ID: CAA20110170
+- HUD ID before: 
+- Project: GOSHEN VILLAGE II
+- Address: 31114 RD 72
+- City: VISALIA
+- State: CA
+- ZIP: 93291
+- ZIP extension: 
+- State project ID: CA-10-024
+- Latitude: 36.353312
+- Longitude: -119.412281
+- County FIPS: 06107
+- County from: 2020
+- Tract 2020: 06107000901
+- Tract 2010: 06107000900
+- Tract 2000: 06107000900
+- Tract 1990: 06107000900
+- Place 2020: 30476
+- Place 2010: 99999
+- Place 2000: 30476
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 541668
+- Units: 56
+- Low-income units: 55
+- Units reported: 56
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 28
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011570.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIDGELAND APTS. (UTA19950907)
+
+- HUD ID: UTA19950907
+- HUD ID before: 
+- Project: RIDGELAND APTS.
+- Address: 3455 WEST RIDGELAND PARK DR
+- City: WEST VALLEY CITY
+- State: UT
+- ZIP: 84119
+- ZIP extension: 0000
+- State project ID: 1993-11
+- Latitude: 40.712064
+- Longitude: -111.973294
+- County FIPS: 49035
+- County from: 2020
+- Tract 2020: 49035113307
+- Tract 2010: 49035113307
+- Tract 2000: 49035113307
+- Tract 1990: 49035113307
+- Place 2020: 83470
+- Place 2010: 83470
+- Place 2000: 83470
+- Place 1990: 1082
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 256130
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

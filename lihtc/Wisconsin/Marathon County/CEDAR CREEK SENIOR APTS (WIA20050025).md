@@ -1,0 +1,85 @@
+# Project: CEDAR CREEK SENIOR APTS (WIA20050025)
+
+- HUD ID: WIA20050025
+- HUD ID before: 
+- Project: CEDAR CREEK SENIOR APTS
+- Address: 605 EAGLE NEST BLVD
+- City: ROTHSCHILD
+- State: WI
+- ZIP: 54474
+- ZIP extension: 
+- State project ID: 3098
+- Latitude: 44.867342
+- Longitude: -89.630987
+- County FIPS: 55073
+- County from: 2020
+- Tract 2020: 55073001106
+- Tract 2010: 55073001102
+- Tract 2000: 55073001102
+- Tract 1990: 55073001102
+- Place 2020: 69725
+- Place 2010: 69725
+- Place 2000: 69725
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 29
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CEDAR CREEK SENIOR HOUSING LLC.
+- Record status: Existing, unchanged

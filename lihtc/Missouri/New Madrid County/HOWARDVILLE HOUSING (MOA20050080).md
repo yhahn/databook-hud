@@ -1,0 +1,85 @@
+# Project: HOWARDVILLE HOUSING (MOA20050080)
+
+- HUD ID: MOA20050080
+- HUD ID before: 
+- Project: HOWARDVILLE HOUSING
+- Address: 110 DUGAN YOUNG ST
+- City: HOWARDVILLE
+- State: MO
+- ZIP: 63869
+- ZIP extension: 
+- State project ID: 04-038
+- Latitude: 36.568108
+- Longitude: -89.605078
+- County FIPS: 29143
+- County from: 2020
+- Tract 2020: 29143960300
+- Tract 2010: 29143960300
+- Tract 2000: 29143960300
+- Tract 1990: 29143960300
+- Place 2020: 99999
+- Place 2010: 33364
+- Place 2000: 33364
+- Place 1990: 3070
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

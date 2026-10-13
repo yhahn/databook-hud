@@ -1,0 +1,85 @@
+# Project: IOWA CITY VILLA GARDEN APTS (IAA19930065)
+
+- HUD ID: IAA19930065
+- HUD ID before: 
+- Project: IOWA CITY VILLA GARDEN APTS
+- Address: 861 CROSS PARK AVE
+- City: IOWA CITY
+- State: IA
+- ZIP: 52240
+- ZIP extension: 
+- State project ID: 91-47
+- Latitude: 41.638901
+- Longitude: -91.522862
+- County FIPS: 19103
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19103001802
+- Tract 2000: 19103001800
+- Tract 1990: 19103001800
+- Place 2020: 
+- Place 2010: 38595
+- Place 2000: 38595
+- Place 1990: 2040
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 196924
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

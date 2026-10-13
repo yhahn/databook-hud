@@ -1,0 +1,85 @@
+# Project: ST GABRIEL HOUSE (PAA19990245)
+
+- HUD ID: PAA19990245
+- HUD ID before: 
+- Project: ST GABRIEL HOUSE
+- Address: 142 S WYOMING ST
+- City: HAZLETON
+- State: PA
+- ZIP: 18201
+- ZIP extension: 
+- State project ID: TC19970077
+- Latitude: 40.950402
+- Longitude: -75.975533
+- County FIPS: 42079
+- County from: 2020
+- Tract 2020: 42079217400
+- Tract 2010: 42079217200
+- Tract 2000: 42079217200
+- Tract 1990: 42079217200
+- Place 2020: 33408
+- Place 2010: 33408
+- Place 2000: 33408
+- Place 1990: 5006
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 78631
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 2
+- 1-bedroom units: 6
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

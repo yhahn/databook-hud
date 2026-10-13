@@ -1,0 +1,85 @@
+# Project: POWER HOUSE APTS (NEA20030045)
+
+- HUD ID: NEA20030045
+- HUD ID before: 
+- Project: POWER HOUSE APTS
+- Address: 734 N PARK AVE
+- City: FREMONT
+- State: NE
+- ZIP: 68025
+- ZIP extension: 
+- State project ID: 7-0530
+- Latitude: 41.436107
+- Longitude: -96.496961
+- County FIPS: 31053
+- County from: 2020
+- Tract 2020: 31053964200
+- Tract 2010: 31053964200
+- Tract 2000: 31053984200
+- Tract 1990: 31053984200
+- Place 2020: 17670
+- Place 2010: 17670
+- Place 2000: 17670
+- Place 1990: 0950
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 314153
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 16
+- 3-bedroom units: 6
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA POWERHOUSE APTS.
+- Record status: Existing, unchanged

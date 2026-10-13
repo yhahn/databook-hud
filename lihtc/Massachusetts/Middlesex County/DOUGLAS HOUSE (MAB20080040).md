@@ -1,0 +1,85 @@
+# Project: DOUGLAS HOUSE (MAB20080040)
+
+- HUD ID: MAB20080040
+- HUD ID before: 
+- Project: DOUGLAS HOUSE
+- Address: 7 OAKLAND ST
+- City: LEXINGTON
+- State: MA
+- ZIP: 02420
+- ZIP extension: 
+- State project ID: 1313
+- Latitude: 42.449173
+- Longitude: -71.226118
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017358700
+- Tract 2010: 25017358700
+- Tract 2000: 25017358700
+- Tract 1990: 25017358700
+- Place 2020: 35250
+- Place 2010: 35250
+- Place 2000: 35250
+- Place 1990: 2120
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 178628
+- Units: 15
+- Low-income units: 11
+- Units reported: 15
+- Low-income reported: 11
+- Efficiencies: 15
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 9
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SLI DOUGLAS HOUSE.
+- Record status: Existing, unchanged

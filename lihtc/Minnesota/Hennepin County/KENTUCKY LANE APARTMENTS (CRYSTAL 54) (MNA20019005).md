@@ -1,0 +1,85 @@
+# Project: KENTUCKY LANE APARTMENTS (CRYSTAL 54) (MNA20019005)
+
+- HUD ID: MNA20019005
+- HUD ID before: 
+- Project: KENTUCKY LANE APARTMENTS (CRYSTAL 54)
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: CRYSTAL
+- State: MN
+- ZIP: 55428
+- ZIP extension: 
+- State project ID: D1953
+- Latitude: 45.0592
+- Longitude: -93.3711
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053021501
+- Tract 2010: 27053020801
+- Tract 2000: 27053020804
+- Tract 1990: 27053020802
+- Place 2020: 45628
+- Place 2010: 14158
+- Place 2000: 14158
+- Place 1990: 0870
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 51
+- Units reported: 68
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RIVERVIEW APARTMENTS - MARIANNA (ARA20120952)
+
+- HUD ID: ARA20120952
+- HUD ID before: 
+- Project: RIVERVIEW APARTMENTS - MARIANNA
+- Address: 580 HICKY ST
+- City: MARIANNA
+- State: AR
+- ZIP: 72360
+- ZIP extension: 
+- State project ID: AR-93-06
+- Latitude: 34.779387
+- Longitude: -90.784276
+- County FIPS: 05077
+- County from: 2020
+- Tract 2020: 05077470300
+- Tract 2010: 05077470300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 44120
+- Place 2010: 44120
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 284759
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1994125, ARA1993619, ARA1993067. AKA PDC FIFTY SIX.
+- Record status: Existing, unchanged

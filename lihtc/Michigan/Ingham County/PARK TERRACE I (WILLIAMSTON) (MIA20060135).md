@@ -1,0 +1,85 @@
+# Project: PARK TERRACE I (WILLIAMSTON) (MIA20060135)
+
+- HUD ID: MIA20060135
+- HUD ID before: 
+- Project: PARK TERRACE I (WILLIAMSTON)
+- Address: 300 LLOYD ST
+- City: WILLIAMSTON
+- State: MI
+- ZIP: 48895
+- ZIP extension: 
+- State project ID: MI-3136
+- Latitude: 42.68406
+- Longitude: -84.286673
+- County FIPS: 26065
+- County from: 2020
+- Tract 2020: 26065005800
+- Tract 2010: 26065005800
+- Tract 2000: 26065005800
+- Tract 1990: 26065005800
+- Place 2020: 87420
+- Place 2010: 87420
+- Place 2000: 87420
+- Place 1990: 2865
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 146454
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 48
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

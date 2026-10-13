@@ -1,0 +1,85 @@
+# Project: EMERSON COMMONS (MEA20100008)
+
+- HUD ID: MEA20100008
+- HUD ID before: 
+- Project: EMERSON COMMONS
+- Address: 13 EMERSON ST
+- City: PORTLAND
+- State: ME
+- ZIP: 04101
+- ZIP extension: 
+- State project ID: RLP-501
+- Latitude: 43.668256
+- Longitude: -70.246032
+- County FIPS: 23005
+- County from: 2020
+- Tract 2020: 23005000100
+- Tract 2010: 23005000100
+- Tract 2000: 23005000100
+- Tract 1990: 23005000100
+- Place 2020: 60545
+- Place 2010: 60545
+- Place 2000: 60545
+- Place 1990: 3750
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 434737
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 1
+- 1-bedroom units: 10
+- 2-bedroom units: 20
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 600000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 2173568
+- TCEP: Yes
+- TCEP amount: 1733332
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THE GRAND (MDA19990140)
+
+- HUD ID: MDA19990140
+- HUD ID before: 
+- Project: THE GRAND
+- Address: 5801 NICHOLSON LN
+- City: ROCKVILLE
+- State: MD
+- ZIP: 20852
+- ZIP extension: 
+- State project ID: MD00-03001
+- Latitude: 39.044714
+- Longitude: -77.114382
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031701216
+- Tract 2010: 24031701216
+- Tract 2000: 24031701204
+- Tract 1990: 24031701204
+- Place 2020: 56337
+- Place 2010: 56337
+- Place 2000: 56337
+- Place 1990: 0677
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 546
+- Low-income units: 110
+- Units reported: 546
+- Low-income reported: 110
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

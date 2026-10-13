@@ -1,0 +1,85 @@
+# Project: CAMBRIDGE CROSSING (TXA20100010)
+
+- HUD ID: TXA20100010
+- HUD ID before: 
+- Project: CAMBRIDGE CROSSING
+- Address: 1900 CAMBRIDGE ST
+- City: CORSICANA
+- State: TX
+- ZIP: 75110
+- ZIP extension: 
+- State project ID: 15090009937
+- Latitude: 32.11002
+- Longitude: -96.477255
+- County FIPS: 48349
+- County from: 2020
+- Tract 2020: 48349970200
+- Tract 2010: 48349970200
+- Tract 2000: 48349970200
+- Tract 1990: 48349970200
+- Place 2020: 17060
+- Place 2010: 17060
+- Place 2000: 17060
+- Place 1990: 0990
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 58
+- Units reported: 60
+- Low-income reported: 58
+- Efficiencies: 0
+- 1-bedroom units: 47
+- 2-bedroom units: 13
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1320000
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5010115
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

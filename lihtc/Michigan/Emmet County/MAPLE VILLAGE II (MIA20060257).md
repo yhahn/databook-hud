@@ -1,0 +1,85 @@
+# Project: MAPLE VILLAGE II (MIA20060257)
+
+- HUD ID: MIA20060257
+- HUD ID before: 
+- Project: MAPLE VILLAGE II
+- Address: 1695 MEADOW WAY
+- City: PETOSKEY
+- State: MI
+- ZIP: 49770
+- ZIP extension: 
+- State project ID: MI-1100
+- Latitude: 45.358207
+- Longitude: -84.974043
+- County FIPS: 26047
+- County from: 2020
+- Tract 2020: 26047970800
+- Tract 2010: 26047970800
+- Tract 2000: 26047970800
+- Tract 1990: 26047970800
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 63820
+- Place 1990: 2145
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 165333
+- Units: 49
+- Low-income units: 49
+- Units reported: 48
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 39
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 784000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

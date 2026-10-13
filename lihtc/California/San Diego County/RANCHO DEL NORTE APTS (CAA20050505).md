@@ -1,0 +1,85 @@
+# Project: RANCHO DEL NORTE APTS (CAA20050505)
+
+- HUD ID: CAA20050505
+- HUD ID before: 
+- Project: RANCHO DEL NORTE APTS
+- Address: 16775 SAINTSBURY GLN
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92127
+- ZIP extension: 
+- State project ID: CA-03-895
+- Latitude: 33.020897
+- Longitude: -117.120563
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073017066
+- Tract 2010: 06073017030
+- Tract 2000: 06073017030
+- Tract 1990: 06073017016
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 901976
+- Units: 119
+- Low-income units: 118
+- Units reported: 119
+- Low-income reported: 118
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 47
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

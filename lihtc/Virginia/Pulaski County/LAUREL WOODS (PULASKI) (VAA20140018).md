@@ -1,0 +1,85 @@
+# Project: LAUREL WOODS (PULASKI) (VAA20140018)
+
+- HUD ID: VAA20140018
+- HUD ID before: 
+- Project: LAUREL WOODS (PULASKI)
+- Address: 213 LAUREL WOOD DR
+- City: PULASKI
+- State: VA
+- ZIP: 24301
+- ZIP extension: 
+- State project ID: 9536
+- Latitude: 37.053284
+- Longitude: -80.753698
+- County FIPS: 51155
+- County from: 2020
+- Tract 2020: 51155210201
+- Tract 2010: 51155210201
+- Tract 2000: 51155210200
+- Tract 1990: 51155210200
+- Place 2020: 64880
+- Place 2010: 64880
+- Place 2000: 23648
+- Place 1990: 1000
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 282152
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 34
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

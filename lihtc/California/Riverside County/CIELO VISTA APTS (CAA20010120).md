@@ -1,0 +1,85 @@
+# Project: CIELO VISTA APTS (CAA20010120)
+
+- HUD ID: CAA20010120
+- HUD ID before: 
+- Project: CIELO VISTA APTS
+- Address: 81820 SHADOW PALM AVE
+- City: INDIO
+- State: CA
+- ZIP: 92201
+- ZIP extension: 
+- State project ID: CA-01-822
+- Latitude: 33.71794
+- Longitude: -116.236927
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065045209
+- Tract 2010: 06065045209
+- Tract 2000: 06065045209
+- Tract 1990: 06065045202
+- Place 2020: 36448
+- Place 2010: 36448
+- Place 2000: 36448
+- Place 1990: 1330
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 255970
+- Units: 112
+- Low-income units: 111
+- Units reported: 112
+- Low-income reported: 111
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

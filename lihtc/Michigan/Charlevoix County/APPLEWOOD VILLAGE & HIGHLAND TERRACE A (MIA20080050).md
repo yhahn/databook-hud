@@ -1,0 +1,85 @@
+# Project: APPLEWOOD VILLAGE & HIGHLAND TERRACE A (MIA20080050)
+
+- HUD ID: MIA20080050
+- HUD ID before: 
+- Project: APPLEWOOD VILLAGE & HIGHLAND TERRACE A
+- Address: 500 ERIE ST
+- City: EAST JORDAN
+- State: MI
+- ZIP: 49727
+- ZIP extension: 
+- State project ID: MI-3257
+- Latitude: 45.147078
+- Longitude: -85.138428
+- County FIPS: 26029
+- County from: 2020
+- Tract 2020: 26029001100
+- Tract 2010: 26029001100
+- Tract 2000: 26029981100
+- Tract 1990: 26029981100
+- Place 2020: 24020
+- Place 2010: 24020
+- Place 2000: 24020
+- Place 1990: 0750
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 176112
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MIA1991110, MIA1990295.
+- Record status: Existing, unchanged

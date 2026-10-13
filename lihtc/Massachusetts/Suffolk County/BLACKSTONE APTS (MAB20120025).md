@@ -1,0 +1,85 @@
+# Project: BLACKSTONE APTS (MAB20120025)
+
+- HUD ID: MAB20120025
+- HUD ID before: 
+- Project: BLACKSTONE APTS
+- Address: 33 BLOSSOM ST
+- City: BOSTON
+- State: MA
+- ZIP: 02114
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.362425
+- Longitude: -71.066659
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025020301
+- Tract 2010: 25025020301
+- Tract 2000: 25025020300
+- Tract 1990: 25025020300
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1838835
+- Units: 144
+- Low-income units: 139
+- Units reported: 144
+- Low-income reported: 139
+- Efficiencies: 0
+- 1-bedroom units: 124
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

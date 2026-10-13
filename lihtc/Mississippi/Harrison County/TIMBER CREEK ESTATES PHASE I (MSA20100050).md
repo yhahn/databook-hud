@@ -1,0 +1,85 @@
+# Project: TIMBER CREEK ESTATES PHASE I (MSA20100050)
+
+- HUD ID: MSA20100050
+- HUD ID before: 
+- Project: TIMBER CREEK ESTATES PHASE I
+- Address: 6444 ALLEGHENY DR
+- City: BILOXI
+- State: MS
+- ZIP: 39532
+- ZIP extension: 
+- State project ID: MS-07-2-027
+- Latitude: 30.480114
+- Longitude: -88.947668
+- County FIPS: 28047
+- County from: 2020
+- Tract 2020: 28047003406
+- Tract 2010: 28047003402
+- Tract 2000: 28047003302
+- Tract 1990: 28047003302
+- Place 2020: 06220
+- Place 2010: 06220
+- Place 2000: 06220
+- Place 1990: 0110
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1987517
+- Units: 100
+- Low-income units: 99
+- Units reported: 100
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 39
+- 4-bedroom units: 60
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA TIMBER CREEK ESTATES.
+- Record status: Existing, unchanged

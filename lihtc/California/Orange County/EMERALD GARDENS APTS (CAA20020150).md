@@ -1,0 +1,85 @@
+# Project: EMERALD GARDENS APTS (CAA20020150)
+
+- HUD ID: CAA20020150
+- HUD ID before: 
+- Project: EMERALD GARDENS APTS
+- Address: 8720 VALLEY VIEW ST
+- City: BUENA PARK
+- State: CA
+- ZIP: 90620
+- ZIP extension: 
+- State project ID: CA-00-841
+- Latitude: 33.835822
+- Longitude: -118.028126
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059110201
+- Tract 2010: 06059110201
+- Tract 2000: 06059110201
+- Tract 1990: 06059110201
+- Place 2020: 08786
+- Place 2010: 08786
+- Place 2000: 02000
+- Place 1990: 0335
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 291724
+- Units: 110
+- Low-income units: 108
+- Units reported: 110
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 110
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

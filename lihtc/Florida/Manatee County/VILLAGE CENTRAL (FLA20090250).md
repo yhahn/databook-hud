@@ -1,0 +1,85 @@
+# Project: VILLAGE CENTRAL (FLA20090250)
+
+- HUD ID: FLA20090250
+- HUD ID before: 
+- Project: VILLAGE CENTRAL
+- Address: 1201 FIFTH ST W
+- City: BRADENTON
+- State: FL
+- ZIP: 34205
+- ZIP extension: 
+- State project ID: 1561
+- Latitude: 27.489013
+- Longitude: -82.566855
+- County FIPS: 12081
+- County from: 2020
+- Tract 2020: 12081000103
+- Tract 2010: 12081000103
+- Tract 2000: 12081000103
+- Tract 1990: 12081000103
+- Place 2020: 07950
+- Place 2010: 07950
+- Place 2000: 07950
+- Place 1990: 0215
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 368348
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 0
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

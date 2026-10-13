@@ -1,0 +1,85 @@
+# Project: CONSTANCE MANOR (VAA19900075)
+
+- HUD ID: VAA19900075
+- HUD ID before: 
+- Project: CONSTANCE MANOR
+- Address: 809 SECOND AVE
+- City: SUFFOLK
+- State: VA
+- ZIP: 23434
+- ZIP extension: 
+- State project ID: VA-88-32001
+- Latitude: 36.733224
+- Longitude: -76.596454
+- County FIPS: 51800
+- County from: 2020
+- Tract 2020: 51800065301
+- Tract 2010: 51800065300
+- Tract 2000: 51800065300
+- Tract 1990: 51800065300
+- Place 2020: 76432
+- Place 2010: 76432
+- Place 2000: 76432
+- Place 1990: 1200
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

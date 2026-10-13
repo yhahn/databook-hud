@@ -1,0 +1,85 @@
+# Project: RIDGE POINT APTS (NEA19960816)
+
+- HUD ID: NEA19960816
+- HUD ID before: 
+- Project: RIDGE POINT APTS
+- Address: 208 W 13TH ST
+- City: WAYNE
+- State: NE
+- ZIP: 68787
+- ZIP extension: 
+- State project ID: 7-0314
+- Latitude: 42.242076
+- Longitude: -97.020549
+- County FIPS: 31179
+- County from: 2020
+- Tract 2020: 31179978700
+- Tract 2010: 31179978700
+- Tract 2000: 31179978700
+- Tract 1990: 31179978700
+- Place 2020: 51840
+- Place 2010: 51840
+- Place 2000: 51840
+- Place 1990: 2590
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 55521
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 11
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA1995085.
+- Record status: Existing, unchanged

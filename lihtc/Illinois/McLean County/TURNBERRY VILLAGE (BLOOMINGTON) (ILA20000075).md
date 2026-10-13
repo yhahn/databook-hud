@@ -1,0 +1,85 @@
+# Project: TURNBERRY VILLAGE (BLOOMINGTON) (ILA20000075)
+
+- HUD ID: ILA20000075
+- HUD ID before: 
+- Project: TURNBERRY VILLAGE (BLOOMINGTON)
+- Address: 901 VALLEY VIEW CIR
+- City: BLOOMINGTON
+- State: IL
+- ZIP: 61705
+- ZIP extension: 
+- State project ID: 110898
+- Latitude: 40.48979
+- Longitude: -89.033522
+- County FIPS: 17113
+- County from: 2020
+- Tract 2020: 17113000302
+- Tract 2010: 17113000302
+- Tract 2000: 17113000302
+- Tract 1990: 17113000302
+- Place 2020: 06613
+- Place 2010: 06613
+- Place 2000: 06613
+- Place 1990: 4160
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 1200390
+- Units: 228
+- Low-income units: 184
+- Units reported: 228
+- Low-income reported: 184
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 93
+- 3-bedroom units: 91
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 46
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TRAIL RIDGE II (FKA VALLEY VIEW TH) (MNA19969011)
+
+- HUD ID: MNA19969011
+- HUD ID before: 
+- Project: TRAIL RIDGE II (FKA VALLEY VIEW TH)
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: BRAINERD
+- State: MN
+- ZIP: 56401
+- ZIP extension: 
+- State project ID: D1840
+- Latitude: 46.3324
+- Longitude: -94.1736
+- County FIPS: 27035
+- County from: 2020
+- Tract 2020: 27035951100
+- Tract 2010: 27035951100
+- Tract 2000: 27035951300
+- Tract 1990: 27035951300
+- Place 2020: 07300
+- Place 2010: 07300
+- Place 2000: 04042
+- Place 1990: 0225
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA TRAIL RIDGE PHASE II
+- Record status: Existing, unchanged

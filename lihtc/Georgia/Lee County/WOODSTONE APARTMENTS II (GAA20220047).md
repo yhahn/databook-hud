@@ -1,0 +1,85 @@
+# Project: WOODSTONE APARTMENTS II (GAA20220047)
+
+- HUD ID: GAA20220047
+- HUD ID before: 
+- Project: WOODSTONE APARTMENTS II
+- Address: 320 MAIN STREET EAST
+- City: LEESBURG
+- State: GA
+- ZIP: 31763
+- ZIP extension: 3787
+- State project ID: 2019-049
+- Latitude: 31.731299
+- Longitude: -84.162973
+- County FIPS: 13177
+- County from: 2020
+- Tract 2020: 13177020301
+- Tract 2010: 13177020300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 45768
+- Place 2010: 45768
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 369181
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 24
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: Previously listed as GAA19980250
+- Record status: Existing, unchanged

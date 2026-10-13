@@ -1,0 +1,85 @@
+# Project: COLONIAL COLUMNS (WIA19910060)
+
+- HUD ID: WIA19910060
+- HUD ID before: 
+- Project: COLONIAL COLUMNS
+- Address: 611 APPLETON ST
+- City: PLYMOUTH
+- State: WI
+- ZIP: 53073
+- ZIP extension: 
+- State project ID: 1110
+- Latitude: 43.740178
+- Longitude: -87.978012
+- County FIPS: 55117
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55117010501
+- Tract 2000: 55117010500
+- Tract 1990: 55117010500
+- Place 2020: 
+- Place 2010: 63700
+- Place 2000: 63700
+- Place 1990: 2030
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 28
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 23
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

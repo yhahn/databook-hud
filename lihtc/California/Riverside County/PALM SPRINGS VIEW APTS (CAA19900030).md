@@ -1,0 +1,85 @@
+# Project: PALM SPRINGS VIEW APTS (CAA19900030)
+
+- HUD ID: CAA19900030
+- HUD ID before: 
+- Project: PALM SPRINGS VIEW APTS
+- Address: 500 W SAN RAFAEL DR
+- City: PALM SPRINGS
+- State: CA
+- ZIP: 92262
+- ZIP extension: 
+- State project ID: CA-90-174
+- Latitude: 33.859739
+- Longitude: -116.551769
+- County FIPS: 06065
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06065044605
+- Tract 2000: 06065044601
+- Tract 1990: 06065044600
+- Place 2020: 
+- Place 2010: 55254
+- Place 2000: 55254
+- Place 1990: 2085
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 245066
+- Units: 120
+- Low-income units: 119
+- Units reported: 120
+- Low-income reported: 119
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

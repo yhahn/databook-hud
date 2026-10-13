@@ -1,0 +1,85 @@
+# Project: VINTAGE WOODS SENIOR APTS (CAA20010610)
+
+- HUD ID: CAA20010610
+- HUD ID before: 
+- Project: VINTAGE WOODS SENIOR APTS
+- Address: 8780 MADISON AVE
+- City: FAIR OAKS
+- State: CA
+- ZIP: 95628
+- ZIP extension: 
+- State project ID: CA-00-826
+- Latitude: 38.663841
+- Longitude: -121.231522
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067008006
+- Tract 2010: 06067008006
+- Tract 2000: 06067008006
+- Tract 1990: 06067008006
+- Place 2020: 23294
+- Place 2010: 23294
+- Place 2000: 23294
+- Place 1990: 0965
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 466156
+- Units: 185
+- Low-income units: 185
+- Units reported: 185
+- Low-income reported: 185
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 89
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

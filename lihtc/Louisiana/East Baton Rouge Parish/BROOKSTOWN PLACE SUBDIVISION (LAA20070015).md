@@ -1,0 +1,85 @@
+# Project: BROOKSTOWN PLACE SUBDIVISION (LAA20070015)
+
+- HUD ID: LAA20070015
+- HUD ID before: 
+- Project: BROOKSTOWN PLACE SUBDIVISION
+- Address: 6404 HOWELL RANGE AVE.
+- City: BATON ROUGE
+- State: LA
+- ZIP: 70805
+- ZIP extension: 0000
+- State project ID: LA-06-452
+- Latitude: 30.483123
+- Longitude: -91.126377
+- County FIPS: 22033
+- County from: 2020
+- Tract 2020: 22033000701
+- Tract 2010: 22033000701
+- Tract 2000: 22033000200
+- Tract 1990: 22033000701
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 
+- Place 1990: 0095
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 19805
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Metro GO Zone DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: CENTER LINE PARK TOWERS APTS (MIA20060015)
+
+- HUD ID: MIA20060015
+- HUD ID before: 
+- Project: CENTER LINE PARK TOWERS APTS
+- Address: 8033 E 10 MILE RD
+- City: CENTER LINE
+- State: MI
+- ZIP: 48015
+- ZIP extension: 
+- State project ID: MI-1085
+- Latitude: 42.477637
+- Longitude: -83.025762
+- County FIPS: 26099
+- County from: 2020
+- Tract 2020: 26099268000
+- Tract 2010: 26099268000
+- Tract 2000: 26099268000
+- Tract 1990: 26099268000
+- Place 2020: 14320
+- Place 2010: 14320
+- Place 2000: 14320
+- Place 1990: 0465
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 669741
+- Units: 300
+- Low-income units: 300
+- Units reported: 300
+- Low-income reported: 300
+- Efficiencies: 0
+- 1-bedroom units: 267
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

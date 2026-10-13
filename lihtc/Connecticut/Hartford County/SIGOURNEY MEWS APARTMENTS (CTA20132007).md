@@ -1,0 +1,85 @@
+# Project: SIGOURNEY MEWS APARTMENTS (CTA20132007)
+
+- HUD ID: CTA20132007
+- HUD ID before: 
+- Project: SIGOURNEY MEWS APARTMENTS
+- Address: 206 COLLINS STREET
+- City: HARTFORD
+- State: CT
+- ZIP: 06105
+- ZIP extension: 
+- State project ID: CT-11-010
+- Latitude: 41.773216
+- Longitude: -72.691808
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003524600
+- Tract 2010: 09003524600
+- Tract 2000: 09003503400
+- Tract 1990: 
+- Place 2020: 37000
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1609962
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 
+- 1-bedroom units: 12
+- 2-bedroom units: 59
+- 3-bedroom units: 
+- 4-bedroom units: 17
+- Construction: Both new construction and acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Supportive Housing
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

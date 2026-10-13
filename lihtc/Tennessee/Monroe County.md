@@ -1,0 +1,25 @@
+# Tax Credit Projects: Monroe County, TN
+
+- Level: County
+- Postal code: TN
+- State FIPS: 47
+- County FIPS: 47123
+- Counties: 
+- Projects: 8
+- Units: 297
+- Low-income units: 297
+
+The low-income housing tax credit projects of Monroe County, Tennessee, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [WEST HILLS APTS (TNA19890425)](./Monroe%20County/WEST%20HILLS%20APTS%20%28TNA19890425%29.md) | TNA19890425 | SWEETWATER | 1989 | 24 | 24 |
+| [RAINTREE APTS (TNA19930155)](./Monroe%20County/RAINTREE%20APTS%20%28TNA19930155%29.md) | TNA19930155 | TELLICO PLAINS | 1993 | 40 | 40 |
+| [RIDGEWAY APTS (TNA20110528)](./Monroe%20County/RIDGEWAY%20APTS%20%28TNA20110528%29.md) | TNA20110528 | MADISONVILLE | 2011 | 24 | 24 |
+| [CYPRESS GARDEN APTS (TNA20110529)](./Monroe%20County/CYPRESS%20GARDEN%20APTS%20%28TNA20110529%29.md) | TNA20110529 | MADISONVILLE | 2011 | 41 | 41 |
+| [CLOVERLEAF APTS (TNA20110805)](./Monroe%20County/CLOVERLEAF%20APTS%20%28TNA20110805%29.md) | TNA20110805 | MADISONVILLE | 2011 | 48 | 48 |
+| [MONROE RIDGE APTS (TNA20120040)](./Monroe%20County/MONROE%20RIDGE%20APTS%20%28TNA20120040%29.md) | TNA20120040 | SWEETWATER | 2012 | 48 | 48 |
+| [ISLAND GROVE (TNA20185016)](./Monroe%20County/ISLAND%20GROVE%20%28TNA20185016%29.md) | TNA20185016 | MADISONVILLE | 2018 | 48 | 48 |
+| [PLAINSVIEW GREENE (TNA20222005)](./Monroe%20County/PLAINSVIEW%20GREENE%20%28TNA20222005%29.md) | TNA20222005 | TELLICO PLAINS | 2022 | 24 | 24 |

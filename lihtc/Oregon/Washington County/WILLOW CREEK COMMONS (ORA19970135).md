@@ -1,0 +1,85 @@
+# Project: WILLOW CREEK COMMONS (ORA19970135)
+
+- HUD ID: ORA19970135
+- HUD ID before: 
+- Project: WILLOW CREEK COMMONS
+- Address: 19145 SW ALEXANDER ST
+- City: ALOHA
+- State: OR
+- ZIP: 97003
+- ZIP extension: 
+- State project ID: OR-95-1-026
+- Latitude: 45.49611
+- Longitude: -122.874487
+- County FIPS: 41067
+- County from: 2020
+- Tract 2020: 41067031606
+- Tract 2010: 41067031606
+- Tract 2000: 41067031606
+- Tract 1990: 41067031606
+- Place 2020: 01650
+- Place 2010: 01650
+- Place 2000: 01650
+- Place 1990: 0013
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 499000
+- Units: 120
+- Low-income units: 120
+- Units reported: 120
+- Low-income reported: 120
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LARGE FAMILY
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

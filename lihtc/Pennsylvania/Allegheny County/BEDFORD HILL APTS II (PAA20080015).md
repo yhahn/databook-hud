@@ -1,0 +1,85 @@
+# Project: BEDFORD HILL APTS II (PAA20080015)
+
+- HUD ID: PAA20080015
+- HUD ID before: 
+- Project: BEDFORD HILL APTS II
+- Address: 
+- City: PITTSBURGH
+- State: PA
+- ZIP: 15221
+- ZIP extension: 
+- State project ID: TC20060426
+- Latitude: 40.4366
+- Longitude: -79.8777
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003564700
+- Tract 2010: 42003561000
+- Tract 2000: 42003050900
+- Tract 1990: 42003050900
+- Place 2020: 85188
+- Place 2010: 85188
+- Place 2000: 61000
+- Place 1990: 7234
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1267841
+- Units: 116
+- Low-income units: 91
+- Units reported: 116
+- Low-income reported: 91
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 47
+- 3-bedroom units: 21
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 91
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

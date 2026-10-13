@@ -1,0 +1,85 @@
+# Project: WHITESTONE & TAMARIC APARTMENTS (TXA00000100)
+
+- HUD ID: TXA00000100
+- HUD ID before: 
+- Project: WHITESTONE & TAMARIC APARTMENTS
+- Address: 601 DORIS LN AND 1507 CEDAR PARK DR
+- City: CEDAR PARK
+- State: TX
+- ZIP: 78613
+- ZIP extension: 
+- State project ID: TX5059
+- Latitude: 30.51887
+- Longitude: -97.837415
+- County FIPS: 48491
+- County from: 2020
+- Tract 2020: 48491020327
+- Tract 2010: 48491020327
+- Tract 2000: 48491020306
+- Tract 1990: 48491020306
+- Place 2020: 13552
+- Place 2010: 13552
+- Place 2000: 13552
+- Place 1990: 0767
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1808
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 55
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: Yes
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

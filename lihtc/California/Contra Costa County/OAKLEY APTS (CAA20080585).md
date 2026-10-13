@@ -1,0 +1,85 @@
+# Project: OAKLEY APTS (CAA20080585)
+
+- HUD ID: CAA20080585
+- HUD ID before: 
+- Project: OAKLEY APTS
+- Address: 53 CAROL LN
+- City: OAKLEY
+- State: CA
+- ZIP: 94561
+- ZIP extension: 
+- State project ID: CA-06-910
+- Latitude: 38.002618
+- Longitude: -121.737311
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013302005
+- Tract 2010: 06013302005
+- Tract 2000: 06013302003
+- Tract 1990: 06013302001
+- Place 2020: 53070
+- Place 2010: 53070
+- Place 2000: 53070
+- Place 1990: 1975
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1817782
+- Units: 208
+- Low-income units: 205
+- Units reported: 208
+- Low-income reported: 205
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 56
+- 3-bedroom units: 90
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 64
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA 59 CAROL LN LP COMMONS AT OAK GROVE.
+- Record status: Existing, unchanged

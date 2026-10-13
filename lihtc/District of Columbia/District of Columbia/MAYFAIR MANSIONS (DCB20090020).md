@@ -1,0 +1,85 @@
+# Project: MAYFAIR MANSIONS (DCB20090020)
+
+- HUD ID: DCB20090020
+- HUD ID before: 
+- Project: MAYFAIR MANSIONS
+- Address: 770 KENILWORTH TER NE
+- City: WASHINGTON
+- State: DC
+- ZIP: 20019
+- ZIP extension: 
+- State project ID: DCB2009020
+- Latitude: 38.901277
+- Longitude: -76.947064
+- County FIPS: 11001
+- County from: 2020
+- Tract 2020: 11001009602
+- Tract 2010: 11001009602
+- Tract 2000: 11001009602
+- Tract 1990: 11001009602
+- Place 2020: 50000
+- Place 2010: 50000
+- Place 2000: 50000
+- Place 1990: 0005
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 569
+- Low-income units: 569
+- Units reported: 569
+- Low-income reported: 569
+- Efficiencies: 0
+- 1-bedroom units: 145
+- 2-bedroom units: 398
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 24288651
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS DCB1988010. AKA MAYFAIR MANSION I.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SIERRA VISTA (TXA20110802)
+
+- HUD ID: TXA20110802
+- HUD ID before: 
+- Project: SIERRA VISTA
+- Address: 4320 S CONGRESS AVE
+- City: AUSTIN
+- State: TX
+- ZIP: 78745
+- ZIP extension: 
+- State project ID: TX4754
+- Latitude: 30.218823
+- Longitude: -97.766725
+- County FIPS: 48453
+- County from: 2020
+- Tract 2020: 48453002003
+- Tract 2010: 48453002003
+- Tract 2000: 48453002003
+- Tract 1990: 48453002003
+- Place 2020: 05000
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0210
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 238
+- Low-income units: 238
+- Units reported: 238
+- Low-income reported: 238
+- Efficiencies: 0
+- 1-bedroom units: 156
+- 2-bedroom units: 82
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000751.
+- Record status: Existing, unchanged

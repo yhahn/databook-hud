@@ -1,0 +1,85 @@
+# Project: CLARK BISCUIT APTS (MAB20090015)
+
+- HUD ID: MAB20090015
+- HUD ID before: 
+- Project: CLARK BISCUIT APTS
+- Address: 179 ASHLAND ST
+- City: NORTH ADAMS
+- State: MA
+- ZIP: 01247
+- ZIP extension: 
+- State project ID: 1661
+- Latitude: 42.694038
+- Longitude: -73.109117
+- County FIPS: 25003
+- County from: 2020
+- Tract 2020: 25003921400
+- Tract 2010: 25003921400
+- Tract 2000: 25003921400
+- Tract 1990: 25003921400
+- Place 2020: 46225
+- Place 2010: 46225
+- Place 2000: 46225
+- Place 1990: 2850
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 677250
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 715000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000208.
+- Record status: Existing, unchanged

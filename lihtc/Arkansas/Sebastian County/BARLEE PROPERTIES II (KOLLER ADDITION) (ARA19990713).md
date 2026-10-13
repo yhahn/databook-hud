@@ -1,0 +1,85 @@
+# Project: BARLEE PROPERTIES II (KOLLER ADDITION) (ARA19990713)
+
+- HUD ID: ARA19990713
+- HUD ID before: 
+- Project: BARLEE PROPERTIES II (KOLLER ADDITION)
+- Address: 2608 KOLLER ST
+- City: FORT SMITH
+- State: AR
+- ZIP: 72904
+- ZIP extension: 
+- State project ID: AR-98-12-001
+- Latitude: 35.404781
+- Longitude: -94.368737
+- County FIPS: 05131
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05131000100
+- Tract 2000: 05131000100
+- Tract 1990: 05131000100
+- Place 2020: 
+- Place 2010: 24550
+- Place 2000: 24550
+- Place 1990: 0700
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 113078
+- Units: 23
+- Low-income units: 22
+- Units reported: 23
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 20
+- 4-bedroom units: 2
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1999046.
+- Record status: Existing, unchanged

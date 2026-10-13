@@ -1,0 +1,85 @@
+# Project: ARTHUR J DEMORE TOWERS (PAA19990294)
+
+- HUD ID: PAA19990294
+- HUD ID before: 
+- Project: ARTHUR J DEMORE TOWERS
+- Address: 1 DEMOR DR
+- City: VERONA
+- State: PA
+- ZIP: 15147
+- ZIP extension: 
+- State project ID: TC1996-0066
+- Latitude: 40.501985
+- Longitude: -79.846736
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003524000
+- Tract 2010: 42003524000
+- Tract 2000: 42003524000
+- Tract 1990: 42003524000
+- Place 2020: 80032
+- Place 2010: 80032
+- Place 2000: 80032
+- Place 1990: 8510
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 416910
+- Units: 62
+- Low-income units: 62
+- Units reported: 62
+- Low-income reported: 62
+- Efficiencies: 0
+- 1-bedroom units: 61
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1999501, PAA1997030, PAA1999005.
+- Record status: Existing, unchanged

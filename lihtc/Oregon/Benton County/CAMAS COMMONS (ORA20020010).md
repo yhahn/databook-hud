@@ -1,0 +1,85 @@
+# Project: CAMAS COMMONS (ORA20020010)
+
+- HUD ID: ORA20020010
+- HUD ID before: 
+- Project: CAMAS COMMONS
+- Address: 5140 SW MEADOW FLOWER DR
+- City: CORVALLIS
+- State: OR
+- ZIP: 97333
+- ZIP extension: 
+- State project ID: 04
+- Latitude: 44.54707
+- Longitude: -123.310958
+- County FIPS: 41003
+- County from: 2020
+- Tract 2020: 41003000202
+- Tract 2010: 41003000202
+- Tract 2000: 41003000200
+- Tract 1990: 41003000200
+- Place 2020: 15800
+- Place 2010: 15800
+- Place 2000: 15800
+- Place 1990: 0225
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 484999
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 12
+- 3-bedroom units: 30
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

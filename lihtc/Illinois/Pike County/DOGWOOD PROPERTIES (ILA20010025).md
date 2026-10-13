@@ -1,0 +1,85 @@
+# Project: DOGWOOD PROPERTIES (ILA20010025)
+
+- HUD ID: ILA20010025
+- HUD ID before: 
+- Project: DOGWOOD PROPERTIES
+- Address: 625 JILL ST
+- City: PITTSFIELD
+- State: IL
+- ZIP: 62363
+- ZIP extension: 
+- State project ID: 126700
+- Latitude: 39.599995
+- Longitude: -90.81537
+- County FIPS: 17149
+- County from: 2020
+- Tract 2020: 17149952700
+- Tract 2010: 17149952700
+- Tract 2000: 17149952700
+- Tract 1990: 17149952700
+- Place 2020: 60222
+- Place 2010: 60222
+- Place 2000: 60222
+- Place 1990: 4670
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 95977
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 23
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 11
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

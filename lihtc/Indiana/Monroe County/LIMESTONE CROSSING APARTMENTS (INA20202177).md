@@ -1,0 +1,85 @@
+# Project: LIMESTONE CROSSING APARTMENTS (INA20202177)
+
+- HUD ID: INA20202177
+- HUD ID before: 
+- Project: LIMESTONE CROSSING APARTMENTS
+- Address: 540 S BASSWOOD DR
+- City: BLOOMINGTON
+- State: IN
+- ZIP: 47403
+- ZIP extension: 
+- State project ID: IN-18-03400
+- Latitude: 39.158342
+- Longitude: -86.57067
+- County FIPS: 18105
+- County from: 2020
+- Tract 2020: 18105000401
+- Tract 2010: 18105000401
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 05860
+- Place 2010: 05860
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 852100
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 208
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 104
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

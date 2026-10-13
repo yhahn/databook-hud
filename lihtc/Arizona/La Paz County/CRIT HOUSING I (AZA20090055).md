@@ -1,0 +1,85 @@
+# Project: CRIT HOUSING I (AZA20090055)
+
+- HUD ID: AZA20090055
+- HUD ID before: 
+- Project: CRIT HOUSING I
+- Address: 13370 FIRST AVE
+- City: PARKER
+- State: AZ
+- ZIP: 85344
+- ZIP extension: 
+- State project ID: TC-0434
+- Latitude: 34.135978
+- Longitude: -114.30271
+- County FIPS: 04012
+- County from: 2020
+- Tract 2020: 04012940300
+- Tract 2010: 04012940300
+- Tract 2000: 04012940300
+- Tract 1990: 04012020200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 07025
+- Place 1990: 0247
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 868554
+- Units: 29
+- Low-income units: 29
+- Units reported: 29
+- Low-income reported: 29
+- Efficiencies: 8
+- 1-bedroom units: 17
+- 2-bedroom units: 4
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: 
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: NATIVE AMERICANS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

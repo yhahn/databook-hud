@@ -1,0 +1,85 @@
+# Project: WEST UNION APTS (IAA19940120)
+
+- HUD ID: IAA19940120
+- HUD ID before: 
+- Project: WEST UNION APTS
+- Address: 710 JEFFERSON ST
+- City: WEST UNION
+- State: IA
+- ZIP: 52175
+- ZIP extension: 
+- State project ID: 93-34
+- Latitude: 42.96787
+- Longitude: -91.816177
+- County FIPS: 19065
+- County from: 2020
+- Tract 2020: 19065080100
+- Tract 2010: 19065080100
+- Tract 2000: 19065980100
+- Tract 1990: 19065980100
+- Place 2020: 84765
+- Place 2010: 84765
+- Place 2000: 84765
+- Place 1990: 4590
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 30106
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: AKA WESTWOOD PARK APTS.
+- Record status: Existing, unchanged

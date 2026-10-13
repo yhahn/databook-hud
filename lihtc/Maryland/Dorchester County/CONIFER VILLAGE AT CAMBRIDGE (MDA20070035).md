@@ -1,0 +1,85 @@
+# Project: CONIFER VILLAGE AT CAMBRIDGE (MDA20070035)
+
+- HUD ID: MDA20070035
+- HUD ID before: 
+- Project: CONIFER VILLAGE AT CAMBRIDGE
+- Address: 2332 HUDSON RD
+- City: CAMBRIDGE
+- State: MD
+- ZIP: 21613
+- ZIP extension: 
+- State project ID: MD06-10001
+- Latitude: 38.569139
+- Longitude: -76.101961
+- County FIPS: 24019
+- County from: 2020
+- Tract 2020: 24019970500
+- Tract 2010: 24019970500
+- Tract 2000: 24019970500
+- Tract 1990: 24019970500
+- Place 2020: 12400
+- Place 2010: 99999
+- Place 2000: 00712
+- Place 1990: 0120
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 59
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WINDSOR SQUARE SENIOR (WAA19900135)
+
+- HUD ID: WAA19900135
+- HUD ID before: 
+- Project: WINDSOR SQUARE SENIOR
+- Address: 9912 48TH DR NE
+- City: MARYSVILLE
+- State: WA
+- ZIP: 98270
+- ZIP extension: 
+- State project ID: WA-88-31LLL
+- Latitude: 48.085286
+- Longitude: -122.166247
+- County FIPS: 53061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53061052805
+- Tract 2000: 53061052805
+- Tract 1990: 53061052802
+- Place 2020: 
+- Place 2010: 43955
+- Place 2000: 43955
+- Place 1990: 0883
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 95
+- Low-income units: 95
+- Units reported: 95
+- Low-income reported: 95
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: RESERVE AT SOUTHCREEK (COA20010075)
+
+- HUD ID: COA20010075
+- HUD ID before: 
+- Project: RESERVE AT SOUTHCREEK
+- Address: 15601 E JAMISON DR
+- City: ENGLEWOOD
+- State: CO
+- ZIP: 80112
+- ZIP extension: 
+- State project ID: CO-00-502
+- Latitude: 39.579374
+- Longitude: -104.808283
+- County FIPS: 08005
+- County from: 2020
+- Tract 2020: 08005006863
+- Tract 2010: 08005006856
+- Tract 2000: 08005006816
+- Tract 1990: 08005006806
+- Place 2020: 12815
+- Place 2010: 21330
+- Place 2000: 04000
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 168
+- Low-income units: 69
+- Units reported: 168
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 72
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

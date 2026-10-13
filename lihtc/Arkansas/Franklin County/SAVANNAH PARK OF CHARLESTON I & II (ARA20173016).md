@@ -1,0 +1,85 @@
+# Project: SAVANNAH PARK OF CHARLESTON I & II (ARA20173016)
+
+- HUD ID: ARA20173016
+- HUD ID before: 
+- Project: SAVANNAH PARK OF CHARLESTON I & II
+- Address: 401 AND 701 N VINE
+- City: CHARLESTON
+- State: AR
+- ZIP: 72933
+- ZIP extension: 
+- State project ID: 1072
+- Latitude: 35.3424
+- Longitude: -93.9443
+- County FIPS: 05047
+- County from: 2020
+- Tract 2020: 05047950302
+- Tract 2010: 05047950300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 08440
+- Place 2010: 08440
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

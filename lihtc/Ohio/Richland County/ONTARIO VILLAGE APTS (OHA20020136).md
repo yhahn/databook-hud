@@ -1,0 +1,85 @@
+# Project: ONTARIO VILLAGE APTS (OHA20020136)
+
+- HUD ID: OHA20020136
+- HUD ID before: OHA19980140
+- Project: ONTARIO VILLAGE APTS
+- Address: 975 LANDINGS CT
+- City: ONTARIO
+- State: OH
+- ZIP: 44906
+- ZIP extension: 
+- State project ID: 960037
+- Latitude: 40.785211
+- Longitude: -82.571265
+- County FIPS: 39139
+- County from: 2020
+- Tract 2020: 39139002300
+- Tract 2010: 39139002300
+- Tract 2000: 39139002300
+- Tract 1990: 39139002300
+- Place 2020: 58520
+- Place 2010: 58520
+- Place 2000: 19330
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 30
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 510000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2002584.;PREV HUD_ID: OHA19980140
+- Record status: Existing, unchanged

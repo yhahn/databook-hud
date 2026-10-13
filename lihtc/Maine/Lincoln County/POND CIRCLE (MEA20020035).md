@@ -1,0 +1,85 @@
+# Project: POND CIRCLE (MEA20020035)
+
+- HUD ID: MEA20020035
+- HUD ID before: 
+- Project: POND CIRCLE
+- Address: 2 PINE RIDGE RD
+- City: DAMARISCOTTA
+- State: ME
+- ZIP: 04543
+- ZIP extension: 
+- State project ID: MSHA-RLP-1195
+- Latitude: 44.013002
+- Longitude: -69.53103
+- County FIPS: 23015
+- County from: 2020
+- Tract 2020: 23015975300
+- Tract 2010: 23015975300
+- Tract 2000: 23015975300
+- Tract 1990: 23015975300
+- Place 2020: 16200
+- Place 2010: 16200
+- Place 2000: 16322
+- Place 1990: 
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 6
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VILLAGE APTS (BELLAIRE) (MIA19960240)
+
+- HUD ID: MIA19960240
+- HUD ID before: 
+- Project: VILLAGE APTS (BELLAIRE)
+- Address: 112 BIRCH ST
+- City: BELLAIRE
+- State: MI
+- ZIP: 49615
+- ZIP extension: 
+- State project ID: MI-2251
+- Latitude: 44.974456
+- Longitude: -85.201062
+- County FIPS: 26009
+- County from: 2020
+- Tract 2020: 26009960402
+- Tract 2010: 26009960400
+- Tract 2000: 26009960400
+- Tract 1990: 26009960400
+- Place 2020: 06980
+- Place 2010: 06980
+- Place 2000: 06980
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COTTAGES OF WHITE BEAR TOWNSHIP (MNA20130860)
+
+- HUD ID: MNA20130860
+- HUD ID before: 
+- Project: COTTAGES OF WHITE BEAR TOWNSHIP
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: WHITE BEAR LAKE
+- State: MN
+- ZIP: 55110
+- ZIP extension: 
+- State project ID: D1754
+- Latitude: 45.0875
+- Longitude: -93.0169
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123040200
+- Tract 2010: 27123040502
+- Tract 2000: 27123040504
+- Tract 1990: 27123040501
+- Place 2020: 69970
+- Place 2010: 69970
+- Place 2000: 69970
+- Place 1990: 4090
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 269559
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 32
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA2012816, MNA2012806, MNA1995045. AKA COTTAGES OF WHITE BEAR LAKE.
+- Record status: Existing, unchanged

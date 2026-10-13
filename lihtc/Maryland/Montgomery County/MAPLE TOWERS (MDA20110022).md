@@ -1,0 +1,85 @@
+# Project: MAPLE TOWERS (MDA20110022)
+
+- HUD ID: MDA20110022
+- HUD ID before: 
+- Project: MAPLE TOWERS
+- Address: 7610 MAPLE AVE
+- City: TAKOMA PARK
+- State: MD
+- ZIP: 20912
+- ZIP extension: 
+- State project ID: MD10-10001
+- Latitude: 38.983461
+- Longitude: -77.006824
+- County FIPS: 24031
+- County from: 2020
+- Tract 2020: 24031701800
+- Tract 2010: 24031701800
+- Tract 2000: 24031701800
+- Tract 1990: 24031701800
+- Place 2020: 76650
+- Place 2010: 76650
+- Place 2000: 72450
+- Place 1990: 0950
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

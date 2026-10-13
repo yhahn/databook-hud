@@ -1,0 +1,85 @@
+# Project: PECAN GROVE (NCA19880515)
+
+- HUD ID: NCA19880515
+- HUD ID before: 
+- Project: PECAN GROVE
+- Address: 416 S FAISON AVE
+- City: FAISON
+- State: NC
+- ZIP: 28341
+- ZIP extension: 
+- State project ID: 101
+- Latitude: 35.112139
+- Longitude: -78.138828
+- County FIPS: 37061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37061090200
+- Tract 2000: 37061990200
+- Tract 1990: 37061990200
+- Place 2020: 
+- Place 2010: 22560
+- Place 2000: 09760
+- Place 1990: 
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 25536
+- Units: 16
+- Low-income units: 16
+- Units reported: 
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

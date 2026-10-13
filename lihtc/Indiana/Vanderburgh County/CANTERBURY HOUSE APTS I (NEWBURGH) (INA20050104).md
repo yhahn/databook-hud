@@ -1,0 +1,85 @@
+# Project: CANTERBURY HOUSE APTS I (NEWBURGH) (INA20050104)
+
+- HUD ID: INA20050104
+- HUD ID before: 
+- Project: CANTERBURY HOUSE APTS I (NEWBURGH)
+- Address: 7177 OUTER LINCOLN AVE
+- City: NEWBURGH
+- State: IN
+- ZIP: 47630
+- ZIP extension: 
+- State project ID: IN-04-01000
+- Latitude: 37.969377
+- Longitude: -87.465002
+- County FIPS: 18163
+- County from: 2020
+- Tract 2020: 18163003803
+- Tract 2010: 18163003803
+- Tract 2000: 18173030703
+- Tract 1990: 18173030703
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 52650
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 64
+- Units reported: 68
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 32
+- 3-bedroom units: 18
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

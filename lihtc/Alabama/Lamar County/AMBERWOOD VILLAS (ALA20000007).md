@@ -1,0 +1,85 @@
+# Project: AMBERWOOD VILLAS (ALA20000007)
+
+- HUD ID: ALA20000007
+- HUD ID before: 
+- Project: AMBERWOOD VILLAS
+- Address: 240 AMBERWOOD DR
+- City: SULLIGENT
+- State: AL
+- ZIP: 35586
+- ZIP extension: 
+- State project ID: AL-00-0013
+- Latitude: 33.889377
+- Longitude: -88.148983
+- County FIPS: 01075
+- County from: 2020
+- Tract 2020: 01075030000
+- Tract 2010: 01075030000
+- Tract 2000: 01075030000
+- Tract 1990: 01075978300
+- Place 2020: 73728
+- Place 2010: 73728
+- Place 2000: 04948
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 238041
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 20
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 924340
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2001005. FKA AMBERWOOD
+- Record status: Existing, unchanged

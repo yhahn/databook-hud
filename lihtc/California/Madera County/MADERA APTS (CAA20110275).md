@@ -1,0 +1,85 @@
+# Project: MADERA APTS (CAA20110275)
+
+- HUD ID: CAA20110275
+- HUD ID before: 
+- Project: MADERA APTS
+- Address: 1525 E CLEVELAND AVE
+- City: MADERA
+- State: CA
+- ZIP: 93638
+- ZIP extension: 
+- State project ID: CA-10-174
+- Latitude: 36.974669
+- Longitude: -120.044139
+- County FIPS: 06039
+- County from: 2020
+- Tract 2020: 06039000517
+- Tract 2010: 06039000508
+- Tract 2000: 06039000601
+- Tract 1990: 06039000601
+- Place 2020: 45022
+- Place 2010: 45022
+- Place 2000: 45022
+- Place 1990: 1680
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 194923
+- Units: 68
+- Low-income units: 67
+- Units reported: 68
+- Low-income reported: 67
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 32
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 38
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: Yes
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: AT-RISK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011571.
+- Record status: Existing, unchanged

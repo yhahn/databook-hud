@@ -1,0 +1,85 @@
+# Project: ARBOR RIDGE SENIOR APARTMENTS II (SDA20210001)
+
+- HUD ID: SDA20210001
+- HUD ID before: 
+- Project: ARBOR RIDGE SENIOR APARTMENTS II
+- Address: 950 SOUTH FOSS AVENUE
+- City: SIOUX FALLS
+- State: SD
+- ZIP: 57110
+- ZIP extension: 
+- State project ID: SD-20-00400
+- Latitude: 43.5366
+- Longitude: -96.6616
+- County FIPS: 46099
+- County from: 2020
+- Tract 2020: 46099000407
+- Tract 2010: 46099000407
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59020
+- Place 2010: 59020
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 640000
+- Units: 61
+- Low-income units: 60
+- Units reported: 61
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 26
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 685000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: FOXWOOD PLACE (NYA20080250)
+
+- HUD ID: NYA20080250
+- HUD ID before: 
+- Project: FOXWOOD PLACE
+- Address: 6110 RUHLMANN RD
+- City: LOCKPORT
+- State: NY
+- ZIP: 14094
+- ZIP extension: 
+- State project ID: 20060433
+- Latitude: 43.150929
+- Longitude: -78.703589
+- County FIPS: 36063
+- County from: 2020
+- Tract 2020: 36063023401
+- Tract 2010: 36063023401
+- Tract 2000: 36063023401
+- Tract 1990: 36063023401
+- Place 2020: 69386
+- Place 2010: 69386
+- Place 2000: 69386
+- Place 1990: 3483
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 378715
+- Units: 164
+- Low-income units: 164
+- Units reported: 164
+- Low-income reported: 164
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 64
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 66
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA AFFINITY FOXWOOD PLACE.
+- Record status: Existing, unchanged

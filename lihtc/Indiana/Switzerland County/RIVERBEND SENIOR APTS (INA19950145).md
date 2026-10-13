@@ -1,0 +1,85 @@
+# Project: RIVERBEND SENIOR APTS (INA19950145)
+
+- HUD ID: INA19950145
+- HUD ID before: 
+- Project: RIVERBEND SENIOR APTS
+- Address: 501 WASHINGTON ST
+- City: VEVAY
+- State: IN
+- ZIP: 47043
+- ZIP extension: 
+- State project ID: IN-94-10800
+- Latitude: 38.750962
+- Longitude: -85.066164
+- County FIPS: 18155
+- County from: 2020
+- Tract 2020: 18155965900
+- Tract 2010: 18155965900
+- Tract 2000: 18155965900
+- Tract 1990: 18155965900
+- Place 2020: 79010
+- Place 2010: 79010
+- Place 2000: 79010
+- Place 1990: 2605
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 32734
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WASHINGTON MANOR APTS (LAA19910140)
+
+- HUD ID: LAA19910140
+- HUD ID before: 
+- Project: WASHINGTON MANOR APTS
+- Address: 401 W VINE ST
+- City: WASHINGTON
+- State: LA
+- ZIP: 70589
+- ZIP extension: 
+- State project ID: LA-90-056
+- Latitude: 30.615973
+- Longitude: -92.06225
+- County FIPS: 22097
+- County from: 2020
+- Tract 2020: 22097960200
+- Tract 2010: 22097960200
+- Tract 2000: 22097960200
+- Tract 1990: 22097960200
+- Place 2020: 79870
+- Place 2010: 79870
+- Place 2000: 79870
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 8129
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 26
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 1
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA1991137. AKA WASHINGTON MANOR/PARK TERRACE APTS.
+- Record status: Existing, unchanged

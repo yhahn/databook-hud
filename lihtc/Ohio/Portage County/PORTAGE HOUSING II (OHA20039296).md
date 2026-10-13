@@ -1,0 +1,85 @@
+# Project: PORTAGE HOUSING II (OHA20039296)
+
+- HUD ID: OHA20039296
+- HUD ID before: 
+- Project: PORTAGE HOUSING II
+- Address: 9066 MAPLE GROVE RD
+- City: WINDHAM
+- State: OH
+- ZIP: 44288
+- ZIP extension: 
+- State project ID: 010063
+- Latitude: 41.238583
+- Longitude: -81.043005
+- County FIPS: 39133
+- County from: 2020
+- Tract 2020: 39133600603
+- Tract 2010: 39133600603
+- Tract 2000: 39133600603
+- Tract 1990: 39133600698
+- Place 2020: 85946
+- Place 2010: 85946
+- Place 2000: 85946
+- Place 1990: 4760
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 250152
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 10
+- 4-bedroom units: 15
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2002578, OHA2003207.
+- Record status: Existing, unchanged

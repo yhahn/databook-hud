@@ -1,0 +1,85 @@
+# Project: THE VISTA APTS (TXA20050390)
+
+- HUD ID: TXA20050390
+- HUD ID before: 
+- Project: THE VISTA APTS
+- Address: 1700 MUSTANG DR
+- City: MARBLE FALLS
+- State: TX
+- ZIP: 78654
+- ZIP extension: 
+- State project ID: TX4410
+- Latitude: 30.580098
+- Longitude: -98.256001
+- County FIPS: 48053
+- County from: 2020
+- Tract 2020: 48053960702
+- Tract 2010: 48053960700
+- Tract 2000: 48053960700
+- Tract 1990: 48053960700
+- Place 2020: 46584
+- Place 2010: 46584
+- Place 2000: 46584
+- Place 1990: 2660
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 124
+- Low-income units: 124
+- Units reported: 124
+- Low-income reported: 124
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

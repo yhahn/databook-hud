@@ -1,0 +1,85 @@
+# Project: AUSTIN PARK APTS, LTD (KYA19979576)
+
+- HUD ID: KYA19979576
+- HUD ID before: 
+- Project: AUSTIN PARK APTS, LTD
+- Address: 315 BYPASS PLAZA DR
+- City: FRANKFORT
+- State: KY
+- ZIP: 40601
+- ZIP extension: 
+- State project ID: FRANKLIN
+- Latitude: 38.218408
+- Longitude: -84.845632
+- County FIPS: 21073
+- County from: 2020
+- Tract 2020: 21073070102
+- Tract 2010: 21073070100
+- Tract 2000: 21073070100
+- Tract 1990: 21073070100
+- Place 2020: 28900
+- Place 2010: 28900
+- Place 2000: 28900
+- Place 1990: 0735
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 30
+- Low-income reported: 38
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

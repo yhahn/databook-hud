@@ -1,0 +1,85 @@
+# Project: LARA LEA APTS (COA20060085)
+
+- HUD ID: COA20060085
+- HUD ID before: 
+- Project: LARA LEA APTS
+- Address: 5540 S ELATI ST
+- City: LITTLETON
+- State: CO
+- ZIP: 80120
+- ZIP extension: 
+- State project ID: 2005002
+- Latitude: 39.616143
+- Longitude: -104.993946
+- County FIPS: 08005
+- County from: 2020
+- Tract 2020: 08005006601
+- Tract 2010: 08005006601
+- Tract 2000: 08005006601
+- Tract 1990: 08005006601
+- Place 2020: 45255
+- Place 2010: 45255
+- Place 2000: 24785
+- Place 1990: 0810
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 155324
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 29
+- 2-bedroom units: 5
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

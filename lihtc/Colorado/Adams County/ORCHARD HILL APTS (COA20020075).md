@@ -1,0 +1,85 @@
+# Project: ORCHARD HILL APTS (COA20020075)
+
+- HUD ID: COA20020075
+- HUD ID before: 
+- Project: ORCHARD HILL APTS
+- Address: 1353 W 88TH AVE
+- City: THORNTON
+- State: CO
+- ZIP: 80260
+- ZIP extension: 
+- State project ID: CO-00-112
+- Latitude: 39.856409
+- Longitude: -105.003286
+- County FIPS: 08001
+- County from: 2020
+- Tract 2020: 08001009318
+- Tract 2010: 08001009318
+- Tract 2000: 08001009318
+- Tract 1990: 08001009318
+- Place 2020: 77290
+- Place 2010: 77290
+- Place 2000: 26270
+- Place 1990: 1285
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 961517
+- Units: 88
+- Low-income units: 88
+- Units reported: 88
+- Low-income reported: 88
+- Efficiencies: 0
+- 1-bedroom units: 60
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ORCHARD HILL SENIOR APTS.
+- Record status: Existing, unchanged

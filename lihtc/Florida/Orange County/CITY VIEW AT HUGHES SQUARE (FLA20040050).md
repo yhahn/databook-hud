@@ -1,0 +1,85 @@
+# Project: CITY VIEW AT HUGHES SQUARE (FLA20040050)
+
+- HUD ID: FLA20040050
+- HUD ID before: 
+- Project: CITY VIEW AT HUGHES SQUARE
+- Address: 595 W CHURCH ST
+- City: ORLANDO
+- State: FL
+- ZIP: 32805
+- ZIP extension: 
+- State project ID: 1408
+- Latitude: 28.540342
+- Longitude: -81.386836
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095018901
+- Tract 2010: 12095018900
+- Tract 2000: 12095010600
+- Tract 1990: 12095010600
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1600
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 266
+- Low-income units: 266
+- Units reported: 266
+- Low-income reported: 266
+- Efficiencies: 0
+- 1-bedroom units: 119
+- 2-bedroom units: 133
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

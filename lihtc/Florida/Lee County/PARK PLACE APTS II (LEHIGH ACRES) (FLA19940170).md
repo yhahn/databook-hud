@@ -1,0 +1,85 @@
+# Project: PARK PLACE APTS II (LEHIGH ACRES) (FLA19940170)
+
+- HUD ID: FLA19940170
+- HUD ID before: 
+- Project: PARK PLACE APTS II (LEHIGH ACRES)
+- Address: 146 HOMESTEAD RD S
+- City: LEHIGH ACRES
+- State: FL
+- ZIP: 33936
+- ZIP extension: 
+- State project ID: 607
+- Latitude: 26.590135
+- Longitude: -81.631464
+- County FIPS: 12071
+- County from: 2020
+- Tract 2020: 12071040311
+- Tract 2010: 12071040311
+- Tract 2000: 12071040306
+- Tract 1990: 12071040306
+- Place 2020: 39925
+- Place 2010: 39925
+- Place 2000: 39925
+- Place 1990: 1217
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

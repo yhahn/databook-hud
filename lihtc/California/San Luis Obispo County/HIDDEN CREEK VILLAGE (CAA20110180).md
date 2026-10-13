@@ -1,0 +1,85 @@
+# Project: HIDDEN CREEK VILLAGE (CAA20110180)
+
+- HUD ID: CAA20110180
+- HUD ID before: 
+- Project: HIDDEN CREEK VILLAGE
+- Address: 80 CARY ST
+- City: PASO ROBLES
+- State: CA
+- ZIP: 93446
+- ZIP extension: 
+- State project ID: CA-09-604
+- Latitude: 35.615995
+- Longitude: -120.679262
+- County FIPS: 06079
+- County from: 2020
+- Tract 2020: 06079010205
+- Tract 2010: 06079010205
+- Tract 2000: 06079010203
+- Tract 1990: 06079010200
+- Place 2020: 22300
+- Place 2010: 22300
+- Place 2000: 22300
+- Place 1990: 0885
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 80
+- Units reported: 81
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 31
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 68
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 14115450
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011567.
+- Record status: Existing, unchanged

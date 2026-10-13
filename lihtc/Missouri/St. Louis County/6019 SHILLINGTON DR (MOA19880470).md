@@ -1,0 +1,85 @@
+# Project: 6019 SHILLINGTON DR (MOA19880470)
+
+- HUD ID: MOA19880470
+- HUD ID before: 
+- Project: 6019 SHILLINGTON DR
+- Address: 6019 SHILLINGTON DR
+- City: BERKELEY
+- State: MO
+- ZIP: 63134
+- ZIP extension: 
+- State project ID: 168080
+- Latitude: 38.74675
+- Longitude: -90.320999
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189221800
+- Tract 2010: 29189221800
+- Tract 2000: 29189221800
+- Tract 1990: 29189212800
+- Place 2020: 04906
+- Place 2010: 04906
+- Place 2000: 04906
+- Place 1990: 2270
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

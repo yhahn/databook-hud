@@ -1,0 +1,85 @@
+# Project: OAKLAND POINT (CAA20010350)
+
+- HUD ID: CAA20010350
+- HUD ID before: 
+- Project: OAKLAND POINT
+- Address: 1448 TENTH ST
+- City: OAKLAND
+- State: CA
+- ZIP: 94607
+- ZIP extension: 
+- State project ID: CA-00-162
+- Latitude: 37.807898
+- Longitude: -122.29351
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001402200
+- Tract 2010: 06001402200
+- Tract 2000: 06001402200
+- Tract 1990: 06001402200
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1970
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 393983
+- Units: 31
+- Low-income units: 31
+- Units reported: 31
+- Low-income reported: 31
+- Efficiencies: 6
+- 1-bedroom units: 2
+- 2-bedroom units: 15
+- 3-bedroom units: 3
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 120 INGHAM AVE (NYA19940015)
+
+- HUD ID: NYA19940015
+- HUD ID before: 
+- Project: 120 INGHAM AVE
+- Address: 120 INGHAM AVE
+- City: LACKAWANNA
+- State: NY
+- ZIP: 14218
+- ZIP extension: 
+- State project ID: NY-93-1103_00555
+- Latitude: 42.823415
+- Longitude: -78.840344
+- County FIPS: 36029
+- County from: 2020
+- Tract 2020: 36029017400
+- Tract 2010: 36029017400
+- Tract 2000: 36029012200
+- Tract 1990: 36029012200
+- Place 2020: 40189
+- Place 2010: 40189
+- Place 2000: 40189
+- Place 1990: 1830
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 3
+- Low-income units: 3
+- Units reported: 3
+- Low-income reported: 3
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

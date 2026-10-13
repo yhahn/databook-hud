@@ -1,0 +1,85 @@
+# Project: HERITAGE APTS OF HOLDREGE (NEA19950800)
+
+- HUD ID: NEA19950800
+- HUD ID before: 
+- Project: HERITAGE APTS OF HOLDREGE
+- Address: 111 FIFTH AVE
+- City: HOLDREGE
+- State: NE
+- ZIP: 68949
+- ZIP extension: 
+- State project ID: 7-0236
+- Latitude: 40.439106
+- Longitude: -99.379549
+- County FIPS: 31137
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31137967000
+- Tract 2000: 31137967000
+- Tract 1990: 31137967000
+- Place 2020: 
+- Place 2010: 22640
+- Place 2000: 22640
+- Place 1990: 1220
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 35043
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

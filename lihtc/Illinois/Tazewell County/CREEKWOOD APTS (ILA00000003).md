@@ -1,0 +1,85 @@
+# Project: CREEKWOOD APTS (ILA00000003)
+
+- HUD ID: ILA00000003
+- HUD ID before: 
+- Project: CREEKWOOD APTS
+- Address: 150 YORDY RD
+- City: MORTON
+- State: IL
+- ZIP: 61550
+- ZIP extension: 
+- State project ID: 1104513
+- Latitude: 40.586944
+- Longitude: -89.472941
+- County FIPS: 17179
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17179021606
+- Tract 2000: 17179021606
+- Tract 1990: 17179021606
+- Place 2020: 
+- Place 2010: 50621
+- Place 2000: 50621
+- Place 1990: 3872
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 9000000
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 104
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HIGHGATE REDEVELOPMENT (VTA20040020)
+
+- HUD ID: VTA20040020
+- HUD ID before: 
+- Project: HIGHGATE REDEVELOPMENT
+- Address: 85 HIGHGATE DR
+- City: BARRE
+- State: VT
+- ZIP: 05641
+- ZIP extension: 
+- State project ID: 0239
+- Latitude: 44.197236
+- Longitude: -72.518382
+- County FIPS: 50023
+- County from: 2020
+- Tract 2020: 50023955200
+- Tract 2010: 50023955200
+- Tract 2000: 50023955200
+- Tract 1990: 50023955200
+- Place 2020: 03175
+- Place 2010: 03175
+- Place 2000: 03175
+- Place 1990: 0140
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 325500
+- Units: 120
+- Low-income units: 74
+- Units reported: 120
+- Low-income reported: 74
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 63
+- 3-bedroom units: 33
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

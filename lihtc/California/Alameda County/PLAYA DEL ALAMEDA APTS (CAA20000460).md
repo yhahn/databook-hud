@@ -1,0 +1,85 @@
+# Project: PLAYA DEL ALAMEDA APTS (CAA20000460)
+
+- HUD ID: CAA20000460
+- HUD ID before: 
+- Project: PLAYA DEL ALAMEDA APTS
+- Address: 148 CROLLS GARDEN CT
+- City: ALAMEDA
+- State: CA
+- ZIP: 94501
+- ZIP extension: 
+- State project ID: CA-01-895
+- Latitude: 37.769982
+- Longitude: -122.275799
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001428600
+- Tract 2010: 06001428600
+- Tract 2000: 06001428600
+- Tract 1990: 06001428600
+- Place 2020: 00562
+- Place 2010: 00562
+- Place 2000: 00562
+- Place 1990: 0010
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 165552
+- Units: 40
+- Low-income units: 39
+- Units reported: 40
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 22
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

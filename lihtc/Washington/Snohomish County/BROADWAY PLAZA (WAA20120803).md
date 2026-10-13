@@ -1,0 +1,85 @@
+# Project: BROADWAY PLAZA (WAA20120803)
+
+- HUD ID: WAA20120803
+- HUD ID before: 
+- Project: BROADWAY PLAZA
+- Address: 3020 BROADWAY
+- City: EVERETT
+- State: WA
+- ZIP: 98201
+- ZIP extension: 
+- State project ID: WA-11-00248
+- Latitude: 47.977327
+- Longitude: -122.201766
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061040700
+- Tract 2010: 53061040700
+- Tract 2000: 53061040700
+- Tract 1990: 53061040700
+- Place 2020: 22640
+- Place 2010: 22640
+- Place 2000: 22640
+- Place 1990: 0420
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 677818
+- Units: 190
+- Low-income units: 190
+- Units reported: 190
+- Low-income reported: 190
+- Efficiencies: 0
+- 1-bedroom units: 183
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA0000112.
+- Record status: Existing, unchanged

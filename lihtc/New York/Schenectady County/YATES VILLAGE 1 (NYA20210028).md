@@ -1,0 +1,85 @@
+# Project: YATES VILLAGE 1 (NYA20210028)
+
+- HUD ID: NYA20210028
+- HUD ID before: 
+- Project: YATES VILLAGE 1
+- Address: 2450-1 VAN VRANKEN AVENUE
+- City: SCHENECTADY
+- State: NY
+- ZIP: 12306
+- ZIP extension: 
+- State project ID: 20176070
+- Latitude: 42.835154
+- Longitude: -73.917021
+- County FIPS: 36093
+- County from: 2020
+- Tract 2020: 36093020102
+- Tract 2010: 36093020102
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 65508
+- Place 2010: 65508
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1726949
+- Units: 89
+- Low-income units: 74
+- Units reported: 89
+- Low-income reported: 74
+- Efficiencies: 
+- 1-bedroom units: 34
+- 2-bedroom units: 37
+- 3-bedroom units: 18
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 47
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

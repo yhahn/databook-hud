@@ -1,0 +1,85 @@
+# Project: BALZER APTS (WIA19920030)
+
+- HUD ID: WIA19920030
+- HUD ID before: 
+- Project: BALZER APTS
+- Address: 818 PENNSYLVANIA AVE
+- City: SHEBOYGAN
+- State: WI
+- ZIP: 53081
+- ZIP extension: 
+- State project ID: 1357
+- Latitude: 43.749912
+- Longitude: -87.713465
+- County FIPS: 55117
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 55117011400
+- Tract 2000: 55117000600
+- Tract 1990: 55117000600
+- Place 2020: 
+- Place 2010: 72975
+- Place 2000: 72975
+- Place 1990: 2300
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 14
+- Low-income units: 11
+- Units reported: 14
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SHEBOYGAN BALZER INC.
+- Record status: Existing, unchanged

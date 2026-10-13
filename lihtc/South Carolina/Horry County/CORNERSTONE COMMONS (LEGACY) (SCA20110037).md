@@ -1,0 +1,85 @@
+# Project: CORNERSTONE COMMONS (LEGACY) (SCA20110037)
+
+- HUD ID: SCA20110037
+- HUD ID before: 
+- Project: CORNERSTONE COMMONS (LEGACY)
+- Address: 204 LEGACY WAY
+- City: CONWAY
+- State: SC
+- ZIP: 29526
+- ZIP extension: 
+- State project ID: SC-10-059
+- Latitude: 33.778643
+- Longitude: -79.015293
+- County FIPS: 45051
+- County from: 2020
+- Tract 2020: 45051060405
+- Tract 2010: 45051060405
+- Tract 2000: 45051060402
+- Tract 1990: 45051060200
+- Place 2020: 59190
+- Place 2010: 59190
+- Place 2000: 16405
+- Place 1990: 0478
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 758228
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 42
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 36
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA1999062, SCA1998055. AKA LEGACY APTS I.
+- Record status: Existing, unchanged

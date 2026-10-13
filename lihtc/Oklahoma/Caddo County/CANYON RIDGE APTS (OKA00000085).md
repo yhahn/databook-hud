@@ -1,0 +1,85 @@
+# Project: CANYON RIDGE APTS (OKA00000085)
+
+- HUD ID: OKA00000085
+- HUD ID before: 
+- Project: CANYON RIDGE APTS
+- Address: 201 E SKYVIEW ST
+- City: HINTON
+- State: OK
+- ZIP: 73047
+- ZIP extension: 
+- State project ID: OK-89-079
+- Latitude: 35.478314
+- Longitude: -98.351113
+- County FIPS: 40015
+- County from: 2020
+- Tract 2020: 40015161601
+- Tract 2010: 40015161600
+- Tract 2000: 40015961600
+- Tract 1990: 40015961600
+- Place 2020: 34750
+- Place 2010: 34750
+- Place 2000: 06200
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

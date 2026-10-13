@@ -1,0 +1,85 @@
+# Project: CAVALIER II (VAA20172002)
+
+- HUD ID: VAA20172002
+- HUD ID before: 
+- Project: CAVALIER II
+- Address: 200 CAVALIER DRIVE
+- City: PETERSBURG
+- State: VA
+- ZIP: 23805
+- ZIP extension: 
+- State project ID: 9715
+- Latitude: 37.192614
+- Longitude: -77.37063
+- County FIPS: 51730
+- County from: 2020
+- Tract 2020: 51730811200
+- Tract 2010: 51730811200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 61832
+- Place 2010: 61832
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 548694
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 
+- 1-bedroom units: 12
+- 2-bedroom units: 30
+- 3-bedroom units: 24
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 34
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

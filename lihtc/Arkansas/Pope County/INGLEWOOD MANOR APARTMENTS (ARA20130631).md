@@ -1,0 +1,85 @@
+# Project: INGLEWOOD MANOR APARTMENTS (ARA20130631)
+
+- HUD ID: ARA20130631
+- HUD ID before: 
+- Project: INGLEWOOD MANOR APARTMENTS
+- Address: 3112 W 2ND CT
+- City: RUSSELLVILLE
+- State: AR
+- ZIP: 72801
+- ZIP extension: 
+- State project ID: AR-89-06-001
+- Latitude: 35.285031
+- Longitude: -93.16651
+- County FIPS: 05115
+- County from: 2020
+- Tract 2020: 05115951503
+- Tract 2010: 05115951502
+- Tract 2000: 05115951502
+- Tract 1990: 05115951500
+- Place 2020: 61670
+- Place 2010: 61670
+- Place 2000: 61670
+- Place 1990: 1770
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 292210
+- Units: 37
+- Low-income units: 36
+- Units reported: 37
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1989055.
+- Record status: Existing, unchanged

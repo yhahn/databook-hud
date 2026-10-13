@@ -1,0 +1,85 @@
+# Project: LAWRENCEBURG VILLAGE APTS (INA20139164)
+
+- HUD ID: INA20139164
+- HUD ID before: 
+- Project: LAWRENCEBURG VILLAGE APTS
+- Address: 412 VALLEY DR
+- City: LAWRENCEBURG
+- State: IN
+- ZIP: 47025
+- ZIP extension: 
+- State project ID: IN-11-01100
+- Latitude: 39.118258
+- Longitude: -84.88877
+- County FIPS: 18029
+- County from: 2020
+- Tract 2020: 18029080301
+- Tract 2010: 18029080300
+- Tract 2000: 18029080300
+- Tract 1990: 18029080300
+- Place 2020: 42462
+- Place 2010: 42462
+- Place 2000: 02782
+- Place 1990: 1345
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 616885
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 40
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

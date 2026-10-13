@@ -1,0 +1,85 @@
+# Project: DOGWOOD ESTATES (WALKERTON: WEST YORK REDEVELOPMENT) (INA20129164)
+
+- HUD ID: INA20129164
+- HUD ID before: 
+- Project: DOGWOOD ESTATES (WALKERTON: WEST YORK REDEVELOPMENT)
+- Address: 611 LINCOLN DR
+- City: WALKERTON
+- State: IN
+- ZIP: 46574
+- ZIP extension: 
+- State project ID: IN-10-02100
+- Latitude: 41.463764
+- Longitude: -86.490115
+- County FIPS: 18141
+- County from: 2020
+- Tract 2020: 18141012200
+- Tract 2010: 18141012200
+- Tract 2000: 18141012200
+- Tract 1990: 18141012200
+- Place 2020: 79694
+- Place 2010: 79694
+- Place 2000: 79694
+- Place 1990: 2625
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 913580
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 4
+- 3-bedroom units: 28
+- 4-bedroom units: 8
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 400000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 5378226
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

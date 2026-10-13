@@ -1,0 +1,85 @@
+# Project: MEMORY LANE (SDA19940035)
+
+- HUD ID: SDA19940035
+- HUD ID before: 
+- Project: MEMORY LANE
+- Address: 901 MEMORY LN
+- City: YANKTON
+- State: SD
+- ZIP: 57078
+- ZIP extension: 
+- State project ID: 01150
+- Latitude: 42.877662
+- Longitude: -97.381198
+- County FIPS: 46135
+- County from: 2020
+- Tract 2020: 46135966200
+- Tract 2010: 46135966200
+- Tract 2000: 46135966200
+- Tract 1990: 46135966200
+- Place 2020: 73060
+- Place 2010: 73060
+- Place 2000: 73060
+- Place 1990: 1525
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WINDEMERE (VAA19990395)
+
+- HUD ID: VAA19990395
+- HUD ID before: 
+- Project: WINDEMERE
+- Address: 125 WALLACE STREET
+- City: LEXINGTON
+- State: VA
+- ZIP: 24450
+- ZIP extension: 
+- State project ID: 1152
+- Latitude: 37.775383
+- Longitude: -79.446916
+- County FIPS: 51678
+- County from: 2020
+- Tract 2020: 51678930501
+- Tract 2010: 51678930500
+- Tract 2000: 51678990500
+- Tract 1990: 51678990500
+- Place 2020: 45512
+- Place 2010: 45512
+- Place 2000: 45512
+- Place 1990: 0730
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 246906
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 38
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: Yes
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1994135.
+- Record status: Existing, unchanged

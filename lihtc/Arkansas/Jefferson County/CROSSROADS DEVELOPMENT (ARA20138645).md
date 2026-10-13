@@ -1,0 +1,85 @@
+# Project: CROSSROADS DEVELOPMENT (ARA20138645)
+
+- HUD ID: ARA20138645
+- HUD ID before: 
+- Project: CROSSROADS DEVELOPMENT
+- Address: 2503 BELLE MEADE DR
+- City: PINE BLUFF
+- State: AR
+- ZIP: 71601
+- ZIP extension: 
+- State project ID: AR-11-03
+- Latitude: 34.211056
+- Longitude: -91.977832
+- County FIPS: 05069
+- County from: 2020
+- Tract 2020: 05069001901
+- Tract 2010: 05069001901
+- Tract 2000: 05069001901
+- Tract 1990: 05069001901
+- Place 2020: 55310
+- Place 2010: 55310
+- Place 2000: 55310
+- Place 1990: 1615
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 593033
+- Units: 65
+- Low-income units: 48
+- Units reported: 65
+- Low-income reported: 48
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000512.
+- Record status: Existing, unchanged

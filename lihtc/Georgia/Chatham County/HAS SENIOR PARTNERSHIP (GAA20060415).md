@@ -1,0 +1,85 @@
+# Project: HAS SENIOR PARTNERSHIP (GAA20060415)
+
+- HUD ID: GAA20060415
+- HUD ID before: 
+- Project: HAS SENIOR PARTNERSHIP
+- Address: 1415 E HENRY ST
+- City: SAVANNAH
+- State: GA
+- ZIP: 31404
+- ZIP extension: 
+- State project ID: GA-04-047
+- Latitude: 32.057196
+- Longitude: -81.075856
+- County FIPS: 13051
+- County from: 2020
+- Tract 2020: 13051002200
+- Tract 2010: 13051002200
+- Tract 2000: 13051002200
+- Tract 1990: 13051002200
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 69000
+- Place 1990: 2540
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 89
+- Units reported: 100
+- Low-income reported: 89
+- Efficiencies: 0
+- 1-bedroom units: 84
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2006290. AKA VERANDA AT MIDTOWN.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TARPON SOUTH APARTMENTS (LAA20080370)
+
+- HUD ID: LAA20080370
+- HUD ID before: 
+- Project: TARPON SOUTH APARTMENTS
+- Address: 110 PEACH ST.
+- City: GALLIANO
+- State: LA
+- ZIP: 70354
+- ZIP extension: 0000
+- State project ID: LA-06-438
+- Latitude: 29.446028
+- Longitude: -90.312496
+- County FIPS: 22057
+- County from: 2020
+- Tract 2020: 22057021200
+- Tract 2010: 22057021200
+- Tract 2000: 22057021200
+- Tract 1990: 22057021200
+- Place 2020: 28065
+- Place 2010: 28065
+- Place 2000: 
+- Place 1990: 0438
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 53577
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Metro GO Zone DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

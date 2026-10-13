@@ -1,0 +1,85 @@
+# Project: MARSH RIDGE (I & II) (MIA20160002)
+
+- HUD ID: MIA20160002
+- HUD ID before: 
+- Project: MARSH RIDGE (I & II)
+- Address: 470 MARSH RIDGE DR NW
+- City: GRAND RAPIDS
+- State: MI
+- ZIP: 49504
+- ZIP extension: 0000
+- State project ID: 3489
+- Latitude: 42.972885
+- Longitude: -85.739907
+- County FIPS: 26081
+- County from: 2020
+- Tract 2020: 26081001801
+- Tract 2010: 26081001800
+- Tract 2000: 26081001800
+- Tract 1990: 
+- Place 2020: 34000
+- Place 2010: 34000
+- Place 2000: 34000
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 259732
+- Units: 150
+- Low-income units: 119
+- Units reported: 150
+- Low-income reported: 119
+- Efficiencies: 0
+- 1-bedroom units: 135
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 990000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COUNTRY LANE SENIORS-WAXAHACHIE COMMUNITY (TXA00000266)
+
+- HUD ID: TXA00000266
+- HUD ID before: 
+- Project: COUNTRY LANE SENIORS-WAXAHACHIE COMMUNITY
+- Address: 133 PARK HILLS DR
+- City: WAXAHACHIE
+- State: TX
+- ZIP: 75165
+- ZIP extension: 
+- State project ID: TX4369
+- Latitude: 32.365454
+- Longitude: -96.853451
+- County FIPS: 48139
+- County from: 2020
+- Tract 2020: 48139060400
+- Tract 2010: 48139060400
+- Tract 2000: 48139060400
+- Tract 1990: 48139060400
+- Place 2020: 76816
+- Place 2010: 76816
+- Place 2000: 76816
+- Place 1990: 4455
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 98
+- Low-income units: 98
+- Units reported: 98
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

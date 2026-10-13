@@ -1,0 +1,85 @@
+# Project: HUNTING CREEK APTS (MDA20080035)
+
+- HUD ID: MDA20080035
+- HUD ID before: 
+- Project: HUNTING CREEK APTS
+- Address: 20865 DAISY LN
+- City: LEXINGTON PARK
+- State: MD
+- ZIP: 20653
+- ZIP extension: 
+- State project ID: MD06-09001
+- Latitude: 38.237495
+- Longitude: -76.460894
+- County FIPS: 24037
+- County from: 2020
+- Tract 2020: 24037875904
+- Tract 2010: 24037875902
+- Tract 2000: 24037995900
+- Tract 1990: 24037995900
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 46725
+- Place 1990: 0574
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

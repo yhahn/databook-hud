@@ -1,0 +1,85 @@
+# Project: 6230 DARDANELLA AVE (MOA19890368)
+
+- HUD ID: MOA19890368
+- HUD ID before: 
+- Project: 6230 DARDANELLA AVE
+- Address: 6230 DARDANELLA AVE
+- City: ST LOUIS
+- State: MO
+- ZIP: 63121
+- ZIP extension: 
+- State project ID: 169188
+- Latitude: 38.689326
+- Longitude: -90.279875
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189213800
+- Tract 2010: 29189213800
+- Tract 2000: 29189213800
+- Tract 1990: 29189213800
+- Place 2020: 57800
+- Place 2010: 57800
+- Place 2000: 05248
+- Place 1990: 1980
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

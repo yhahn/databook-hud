@@ -1,0 +1,85 @@
+# Project: EASTGATE APTS (NCA19890220)
+
+- HUD ID: NCA19890220
+- HUD ID before: 
+- Project: EASTGATE APTS
+- Address: 2900 NEW WALKERTOWN RD
+- City: WINSTON SALEM
+- State: NC
+- ZIP: 27105
+- ZIP extension: 
+- State project ID: 391
+- Latitude: 36.116414
+- Longitude: -80.208621
+- County FIPS: 37067
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37067001700
+- Tract 2000: 37067001700
+- Tract 1990: 37067001700
+- Place 2020: 
+- Place 2010: 75000
+- Place 2000: 75000
+- Place 1990: 2785
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 78196
+- Units: 108
+- Low-income units: 100
+- Units reported: 108
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 108
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

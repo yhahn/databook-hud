@@ -1,0 +1,85 @@
+# Project: MEADOW VISTA (TXA20120816)
+
+- HUD ID: TXA20120816
+- HUD ID before: 
+- Project: MEADOW VISTA
+- Address: 525 MEADOW VISTA CIR
+- City: WEATHERFORD
+- State: TX
+- ZIP: 76087
+- ZIP extension: 
+- State project ID: TX4751
+- Latitude: 32.780319
+- Longitude: -97.726983
+- County FIPS: 48367
+- County from: 2020
+- Tract 2020: 48367140711
+- Tract 2010: 48367140705
+- Tract 2000: 48367140701
+- Tract 1990: 48367140401
+- Place 2020: 76864
+- Place 2010: 76864
+- Place 2000: 35254
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000727.
+- Record status: Existing, unchanged

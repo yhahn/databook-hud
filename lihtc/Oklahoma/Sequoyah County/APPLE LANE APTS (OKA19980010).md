@@ -1,0 +1,85 @@
+# Project: APPLE LANE APTS (OKA19980010)
+
+- HUD ID: OKA19980010
+- HUD ID before: 
+- Project: APPLE LANE APTS
+- Address: 815 MCLAIN DR
+- City: MULDROW
+- State: OK
+- ZIP: 74948
+- ZIP extension: 
+- State project ID: OK-97-0113
+- Latitude: 35.396884
+- Longitude: -94.610363
+- County FIPS: 40135
+- County from: 2020
+- Tract 2020: 40135030404
+- Tract 2010: 40135030402
+- Tract 2000: 40135030402
+- Tract 1990: 40135030102
+- Place 2020: 49850
+- Place 2010: 49850
+- Place 2000: 49850
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 71
+- Low-income units: 69
+- Units reported: 71
+- Low-income reported: 69
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 43
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

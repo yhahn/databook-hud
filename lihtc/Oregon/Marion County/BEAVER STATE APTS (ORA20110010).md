@@ -1,0 +1,85 @@
+# Project: BEAVER STATE APTS (ORA20110010)
+
+- HUD ID: ORA20110010
+- HUD ID before: 
+- Project: BEAVER STATE APTS
+- Address: 455 W MARQUAM ST
+- City: MT ANGEL
+- State: OR
+- ZIP: 97362
+- ZIP extension: 
+- State project ID: 3012
+- Latitude: 45.071372
+- Longitude: -122.801484
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047010400
+- Tract 2010: 41047010400
+- Tract 2000: 41047010400
+- Tract 1990: 41047010400
+- Place 2020: 50150
+- Place 2010: 50150
+- Place 2000: 50150
+- Place 1990: 0790
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 818679
+- Units: 239
+- Low-income units: 234
+- Units reported: 239
+- Low-income reported: 234
+- Efficiencies: 0
+- 1-bedroom units: 73
+- 2-bedroom units: 148
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA2011510.
+- Record status: Existing, unchanged

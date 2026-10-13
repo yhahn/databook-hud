@@ -1,0 +1,85 @@
+# Project: MSGR. THOMAS CAMPBELL SENIOR APARTMENTS L.P. (NYC20079020)
+
+- HUD ID: NYC20079020
+- HUD ID before: 
+- Project: MSGR. THOMAS CAMPBELL SENIOR APARTMENTS L.P.
+- Address: 25-63 22ND STREET
+- City: BROOKLYN
+- State: NY
+- ZIP: 11102
+- ZIP extension: 
+- State project ID: 20-2884351
+- Latitude: 40.772682
+- Longitude: -73.924372
+- County FIPS: 36081
+- County from: 2020
+- Tract 2020: 36081006900
+- Tract 2010: 36081006900
+- Tract 2000: 36081006900
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 252647
+- Units: 73
+- Low-income units: 72
+- Units reported: 73
+- Low-income reported: 72
+- Efficiencies: 11
+- 1-bedroom units: 61
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

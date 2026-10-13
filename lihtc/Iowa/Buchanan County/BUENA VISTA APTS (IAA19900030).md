@@ -1,0 +1,85 @@
+# Project: BUENA VISTA APTS (IAA19900030)
+
+- HUD ID: IAA19900030
+- HUD ID before: 
+- Project: BUENA VISTA APTS
+- Address: 325 TENTH ST
+- City: JESUP
+- State: IA
+- ZIP: 50648
+- ZIP extension: 
+- State project ID: 90-27
+- Latitude: 42.482433
+- Longitude: -92.057851
+- County FIPS: 19019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 19019950300
+- Tract 2000: 19019950300
+- Tract 1990: 19019950300
+- Place 2020: 
+- Place 2010: 39585
+- Place 2000: 39585
+- Place 1990: 2080
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 8737
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

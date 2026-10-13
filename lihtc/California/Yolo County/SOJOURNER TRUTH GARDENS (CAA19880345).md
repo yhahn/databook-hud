@@ -1,0 +1,85 @@
+# Project: SOJOURNER TRUTH GARDENS (CAA19880345)
+
+- HUD ID: CAA19880345
+- HUD ID before: 
+- Project: SOJOURNER TRUTH GARDENS
+- Address: 1220 FIFTH ST
+- City: DAVIS
+- State: CA
+- ZIP: 95616
+- ZIP extension: 
+- State project ID: CA-88-203
+- Latitude: 38.548232
+- Longitude: -121.734738
+- County FIPS: 06113
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 06113010602
+- Tract 2000: 06113010602
+- Tract 1990: 06113010602
+- Place 2020: 
+- Place 2010: 18100
+- Place 2000: 18100
+- Place 1990: 0715
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 42369
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA0001415.
+- Record status: Existing, unchanged

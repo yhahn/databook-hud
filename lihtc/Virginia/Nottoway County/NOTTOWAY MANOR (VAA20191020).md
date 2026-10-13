@@ -1,0 +1,85 @@
+# Project: NOTTOWAY MANOR (VAA20191020)
+
+- HUD ID: VAA20191020
+- HUD ID before: 
+- Project: NOTTOWAY MANOR
+- Address: 509 NOTTOWAY AVE
+- City: BLACKSTONE
+- State: VA
+- ZIP: 23824
+- ZIP extension: 
+- State project ID: 1070
+- Latitude: 37.079961
+- Longitude: -78.006131
+- County FIPS: 51135
+- County from: 2020
+- Tract 2020: 51135000102
+- Tract 2010: 51135000100
+- Tract 2000: 51135990100
+- Tract 1990: 51135990100
+- Place 2020: 07832
+- Place 2010: 07832
+- Place 2000: 07832
+- Place 1990: 0105
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 214919
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 14
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

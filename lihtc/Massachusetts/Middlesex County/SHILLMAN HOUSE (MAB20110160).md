@@ -1,0 +1,85 @@
+# Project: SHILLMAN HOUSE (MAB20110160)
+
+- HUD ID: MAB20110160
+- HUD ID before: 
+- Project: SHILLMAN HOUSE
+- Address: 49 EDMANDS RD
+- City: FRAMINGHAM
+- State: MA
+- ZIP: 01701
+- ZIP extension: 
+- State project ID: 1640
+- Latitude: 42.329011
+- Longitude: -71.438232
+- County FIPS: 25017
+- County from: 2020
+- Tract 2020: 25017383904
+- Tract 2010: 25017383901
+- Tract 2000: 25017383901
+- Tract 1990: 25017383901
+- Place 2020: 24960
+- Place 2010: 24960
+- Place 2000: 24960
+- Place 1990: 1330
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 826086
+- Units: 150
+- Low-income units: 90
+- Units reported: 150
+- Low-income reported: 90
+- Efficiencies: 0
+- 1-bedroom units: 94
+- 2-bedroom units: 56
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 15
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB20110160.
+- Record status: Existing, unchanged

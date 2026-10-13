@@ -1,0 +1,85 @@
+# Project: HAMPTON MANOR SR. CIT. APTS. #375 (NJA20123055)
+
+- HUD ID: NJA20123055
+- HUD ID before: 
+- Project: HAMPTON MANOR SR. CIT. APTS. #375
+- Address: 154 ROUTE 31 # 160
+- City: HAMPTON
+- State: NJ
+- ZIP: 08827
+- ZIP extension: 2797
+- State project ID: 999999999999
+- Latitude: 40.711543
+- Longitude: -74.95561
+- County FIPS: 34019
+- County from: 2020
+- Tract 2020: 34019010300
+- Tract 2010: 34019010300
+- Tract 2000: 34019010300
+- Tract 1990: 
+- Place 2020: 29460
+- Place 2010: 29460
+- Place 2000: 29460
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

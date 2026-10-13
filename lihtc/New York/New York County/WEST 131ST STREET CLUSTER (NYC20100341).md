@@ -1,0 +1,85 @@
+# Project: WEST 131ST STREET CLUSTER (NYC20100341)
+
+- HUD ID: NYC20100341
+- HUD ID before: 
+- Project: WEST 131ST STREET CLUSTER
+- Address: 2423 SEVENTH AVE
+- City: NEW YORK
+- State: NY
+- ZIP: 10030
+- ZIP extension: 
+- State project ID: 2008-037
+- Latitude: 40.819295
+- Longitude: -73.940431
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061023000
+- Tract 2010: 36061023000
+- Tract 2000: 36061023000
+- Tract 1990: 36061023000
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 170939
+- Units: 11
+- Low-income units: 9
+- Units reported: 11
+- Low-income reported: 9
+- Efficiencies: 1
+- 1-bedroom units: 0
+- 2-bedroom units: 5
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 3
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1511625
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYC2010534, NYC2009355.
+- Record status: Existing, unchanged

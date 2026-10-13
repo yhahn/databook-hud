@@ -1,0 +1,85 @@
+# Project: LOGAN PLACE (OHA20130024)
+
+- HUD ID: OHA20130024
+- HUD ID before: 
+- Project: LOGAN PLACE
+- Address: 800 LOGAN RD
+- City: MANSFIELD
+- State: OH
+- ZIP: 44907
+- ZIP extension: 
+- State project ID: 110056
+- Latitude: 40.722532
+- Longitude: -82.540196
+- County FIPS: 39139
+- County from: 2020
+- Tract 2020: 39139002101
+- Tract 2010: 39139002101
+- Tract 2000: 39139002101
+- Tract 1990: 39139002100
+- Place 2020: 47138
+- Place 2010: 47138
+- Place 2000: 47138
+- Place 1990: 2440
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 45
+- Low-income units: 45
+- Units reported: 45
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 45
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HOBIE CREEK APTS (NYA20030095)
+
+- HUD ID: NYA20030095
+- HUD ID before: 
+- Project: HOBIE CREEK APTS
+- Address: 111 BROWER RD
+- City: IRONDEQUOIT
+- State: NY
+- ZIP: 14622
+- ZIP extension: 
+- State project ID: 20020567
+- Latitude: 43.198219
+- Longitude: -77.558936
+- County FIPS: 36055
+- County from: 2020
+- Tract 2020: 36055010902
+- Tract 2010: 36055010902
+- Tract 2000: 36055010902
+- Tract 1990: 36055010902
+- Place 2020: 37737
+- Place 2010: 37737
+- Place 2000: 37737
+- Place 1990: 1733
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 64
+- Low-income units: 64
+- Units reported: 64
+- Low-income reported: 64
+- Efficiencies: 0
+- 1-bedroom units: 64
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

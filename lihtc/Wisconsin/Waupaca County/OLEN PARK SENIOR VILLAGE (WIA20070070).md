@@ -1,0 +1,85 @@
+# Project: OLEN PARK SENIOR VILLAGE (WIA20070070)
+
+- HUD ID: WIA20070070
+- HUD ID before: 
+- Project: OLEN PARK SENIOR VILLAGE
+- Address: 72 E 7TH STREET
+- City: CLINTONVILLE
+- State: WI
+- ZIP: 54929
+- ZIP extension: 
+- State project ID: 5111
+- Latitude: 44.617842
+- Longitude: -88.757906
+- County FIPS: 55135
+- County from: 2020
+- Tract 2020: 55135101100
+- Tract 2010: 55135101100
+- Tract 2000: 55135990100
+- Tract 1990: 55135991100
+- Place 2020: 15725
+- Place 2010: 15725
+- Place 2000: 
+- Place 1990: 0535
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 182781
+- Units: 24
+- Low-income units: 7
+- Units reported: 24
+- Low-income reported: 7
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 23
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 495000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

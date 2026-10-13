@@ -1,0 +1,85 @@
+# Project: SOMERS POINT APTS (NEA20000060)
+
+- HUD ID: NEA20000060
+- HUD ID before: 
+- Project: SOMERS POINT APTS
+- Address: 970 W SOMERS PT
+- City: FREMONT
+- State: NE
+- ZIP: 68025
+- ZIP extension: 
+- State project ID: 7-0478
+- Latitude: 41.461176
+- Longitude: -96.508252
+- County FIPS: 31053
+- County from: 2020
+- Tract 2020: 31053963800
+- Tract 2010: 31053963800
+- Tract 2000: 31053983800
+- Tract 1990: 31053983800
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 17670
+- Place 1990: 0950
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 190592
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

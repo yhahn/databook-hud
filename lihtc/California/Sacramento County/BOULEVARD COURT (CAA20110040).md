@@ -1,0 +1,85 @@
+# Project: BOULEVARD COURT (CAA20110040)
+
+- HUD ID: CAA20110040
+- HUD ID before: 
+- Project: BOULEVARD COURT
+- Address: 5321 STOCKTON BLVD
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95820
+- ZIP extension: 
+- State project ID: CA-09-532
+- Latitude: 38.527714
+- Longitude: -121.443624
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067003102
+- Tract 2010: 06067003102
+- Tract 2000: 06067003102
+- Tract 1990: 06067003102
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 64000
+- Place 1990: 2420
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 75
+- Low-income units: 74
+- Units reported: 75
+- Low-income reported: 74
+- Efficiencies: 37
+- 1-bedroom units: 37
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 74
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 10678371
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011650. FKA BUDGET INN
+- Record status: Existing, unchanged

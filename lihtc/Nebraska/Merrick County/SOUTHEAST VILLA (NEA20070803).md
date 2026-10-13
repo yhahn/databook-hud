@@ -1,0 +1,85 @@
+# Project: SOUTHEAST VILLA (NEA20070803)
+
+- HUD ID: NEA20070803
+- HUD ID before: 
+- Project: SOUTHEAST VILLA
+- Address: 2717 25TH AVE
+- City: CENTRAL CITY
+- State: NE
+- ZIP: 68826
+- ZIP extension: 
+- State project ID: 7-0659
+- Latitude: 41.105492
+- Longitude: -98.014983
+- County FIPS: 31121
+- County from: 2020
+- Tract 2020: 31121966800
+- Tract 2010: 31121966800
+- Tract 2000: 31121986800
+- Tract 1990: 31121986800
+- Place 2020: 08535
+- Place 2010: 08535
+- Place 2000: 08535
+- Place 1990: 0465
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 121869
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

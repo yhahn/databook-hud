@@ -1,0 +1,85 @@
+# Project: PARK RIVER APTS (IDA19900005)
+
+- HUD ID: IDA19900005
+- HUD ID before: 
+- Project: PARK RIVER APTS
+- Address: 725 N STILSON RD
+- City: BOISE
+- State: ID
+- ZIP: 83703
+- ZIP extension: 
+- State project ID: HC88017
+- Latitude: 43.63691
+- Longitude: -116.240017
+- County FIPS: 16001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 16001000400
+- Tract 2000: 16001000400
+- Tract 1990: 16001000400
+- Place 2020: 
+- Place 2010: 08830
+- Place 2000: 08830
+- Place 1990: 0090
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 228001
+- Units: 91
+- Low-income units: 82
+- Units reported: 91
+- Low-income reported: 82
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 46
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FORECLOSED, FILED BANKRUPTCY, OR OPTED FOR THE QUALIFIED CONTRACT.
+- Record status: Existing, unchanged

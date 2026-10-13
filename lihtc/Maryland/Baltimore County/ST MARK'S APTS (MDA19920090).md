@@ -1,0 +1,85 @@
+# Project: ST MARK'S APTS (MDA19920090)
+
+- HUD ID: MDA19920090
+- HUD ID before: 
+- Project: ST MARK'S APTS
+- Address: 19 WINTERS LN
+- City: CATONSVILLE
+- State: MD
+- ZIP: 21228
+- ZIP extension: 
+- State project ID: MD91-11
+- Latitude: 39.272588
+- Longitude: -76.736447
+- County FIPS: 24005
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24005401000
+- Tract 2000: 24005401000
+- Tract 1990: 24005401000
+- Place 2020: 
+- Place 2010: 14125
+- Place 2000: 14125
+- Place 1990: 0140
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

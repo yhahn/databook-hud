@@ -1,0 +1,85 @@
+# Project: MEADOW RIDGE APTS (TXA19990125)
+
+- HUD ID: TXA19990125
+- HUD ID before: 
+- Project: MEADOW RIDGE APTS
+- Address: 2501 LOUIS HENNA BLVD
+- City: ROUND ROCK
+- State: TX
+- ZIP: 78664
+- ZIP extension: 
+- State project ID: TX-97-08T
+- Latitude: 30.487933
+- Longitude: -97.638773
+- County FIPS: 48491
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 48491020703
+- Tract 2000: 48491020703
+- Tract 1990: 48491020703
+- Place 2020: 
+- Place 2010: 63500
+- Place 2000: 63500
+- Place 1990: 3675
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 232
+- Low-income units: 95
+- Units reported: 232
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 108
+- 3-bedroom units: 72
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

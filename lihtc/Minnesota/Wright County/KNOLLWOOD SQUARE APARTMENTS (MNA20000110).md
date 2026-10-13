@@ -1,0 +1,85 @@
+# Project: KNOLLWOOD SQUARE APARTMENTS (MNA20000110)
+
+- HUD ID: MNA20000110
+- HUD ID before: 
+- Project: KNOLLWOOD SQUARE APARTMENTS
+- Address: 421 KNOLLWOOD ST
+- City: ANNANDALE
+- State: MN
+- ZIP: 55302
+- ZIP extension: 
+- State project ID: D2971
+- Latitude: 45.258158
+- Longitude: -94.131825
+- County FIPS: 27171
+- County from: 2020
+- Tract 2020: 27171100402
+- Tract 2010: 27171100400
+- Tract 2000: 27171100400
+- Tract 1990: 27171100400
+- Place 2020: 01684
+- Place 2010: 01684
+- Place 2000: 01684
+- Place 1990: 0090
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 17
+- Low-income units: 17
+- Units reported: 17
+- Low-income reported: 17
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PUEBLO WEST GARDENS II (COA20140140)
+
+- HUD ID: COA20140140
+- HUD ID before: 
+- Project: PUEBLO WEST GARDENS II
+- Address: 960 E SAXONY DR
+- City: PUEBLO WEST
+- State: CO
+- ZIP: 81007
+- ZIP extension: 
+- State project ID: 2012018
+- Latitude: 38.318078
+- Longitude: -104.703962
+- County FIPS: 08101
+- County from: 2020
+- Tract 2020: 08101002914
+- Tract 2010: 08101002914
+- Tract 2000: 08101002908
+- Tract 1990: 08101002904
+- Place 2020: 62220
+- Place 2010: 62220
+- Place 2000: 62220
+- Place 1990: 1087
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 206672
+- Units: 32
+- Low-income units: 28
+- Units reported: 32
+- Low-income reported: 28
+- Efficiencies: 32
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: COUNTRY PLACE APTS (MOWEAQUA) II (ILA19930235)
+
+- HUD ID: ILA19930235
+- HUD ID before: 
+- Project: COUNTRY PLACE APTS (MOWEAQUA) II
+- Address: 105 E BIRCH ST
+- City: MOWEAQUA
+- State: IL
+- ZIP: 62550
+- ZIP extension: 
+- State project ID: 92-494
+- Latitude: 39.618643
+- Longitude: -89.019508
+- County FIPS: 17173
+- County from: 2020
+- Tract 2020: 17173959100
+- Tract 2010: 17173959100
+- Tract 2000: 17173959100
+- Tract 1990: 17173959100
+- Place 2020: 51232
+- Place 2010: 51232
+- Place 2000: 26116
+- Place 1990: 3950
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 22040
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA1992070. AKA CICERO GARDENS.
+- Record status: Existing, unchanged

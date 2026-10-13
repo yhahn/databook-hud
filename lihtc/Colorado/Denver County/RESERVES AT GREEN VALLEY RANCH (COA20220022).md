@@ -1,0 +1,85 @@
+# Project: RESERVES AT GREEN VALLEY RANCH (COA20220022)
+
+- HUD ID: COA20220022
+- HUD ID before: 
+- Project: RESERVES AT GREEN VALLEY RANCH
+- Address: 4857 AND 4927 N SALIDA ST.
+- City: DENVER
+- State: CO
+- ZIP: 80249
+- ZIP extension: 
+- State project ID: CO-22-28
+- Latitude: 39.7896
+- Longitude: -104.7534
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031008389
+- Tract 2010: 08031008389
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1760645
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 
+- 1-bedroom units: 48
+- 2-bedroom units: 54
+- 3-bedroom units: 42
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

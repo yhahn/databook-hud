@@ -1,0 +1,85 @@
+# Project: MILL RACE APTS (MIA20030205)
+
+- HUD ID: MIA20030205
+- HUD ID before: 
+- Project: MILL RACE APTS
+- Address: 513 MORRELL ST
+- City: PLAINWELL
+- State: MI
+- ZIP: 49080
+- ZIP extension: 
+- State project ID: MI-2021
+- Latitude: 42.438415
+- Longitude: -85.644872
+- County FIPS: 26005
+- County from: 2020
+- Tract 2020: 26005032000
+- Tract 2010: 26005032000
+- Tract 2000: 26005032000
+- Tract 1990: 26005032000
+- Place 2020: 64740
+- Place 2010: 64740
+- Place 2000: 64740
+- Place 1990: 2175
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

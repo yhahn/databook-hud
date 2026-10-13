@@ -1,0 +1,85 @@
+# Project: HOLIDAY LAKE (FLA00000315)
+
+- HUD ID: FLA00000315
+- HUD ID before: 
+- Project: HOLIDAY LAKE
+- Address: 831 N POWERLINE RD
+- City: POMPANO BEACH
+- State: FL
+- ZIP: 33069
+- ZIP extension: 
+- State project ID: 368
+- Latitude: 26.239682
+- Longitude: -80.151879
+- County FIPS: 12011
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 12011030600
+- Tract 2000: 12011030600
+- Tract 1990: 12011030600
+- Place 2020: 
+- Place 2010: 58050
+- Place 2000: 58050
+- Place 1990: 1780
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 220
+- Low-income units: 220
+- Units reported: 220
+- Low-income reported: 220
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

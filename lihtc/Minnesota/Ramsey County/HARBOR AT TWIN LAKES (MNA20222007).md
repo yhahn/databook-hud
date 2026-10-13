@@ -1,0 +1,85 @@
+# Project: HARBOR AT TWIN LAKES (MNA20222007)
+
+- HUD ID: MNA20222007
+- HUD ID before: 
+- Project: HARBOR AT TWIN LAKES
+- Address: 2730 HERSCHEL STREET NORTH
+- City: ROSEVILLE
+- State: MN
+- ZIP: 55113
+- ZIP extension: 
+- State project ID: D8371
+- Latitude: 45.0229
+- Longitude: -93.1569
+- County FIPS: 27123
+- County from: 2020
+- Tract 2020: 27123041302
+- Tract 2010: 27123041400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 55852
+- Place 2010: 55852
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 2544562
+- Units: 277
+- Low-income units: 277
+- Units reported: 277
+- Low-income reported: 277
+- Efficiencies: 
+- 1-bedroom units: 131
+- 2-bedroom units: 116
+- 3-bedroom units: 30
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 45
+- Affordable over 30 years: No
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 681898
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

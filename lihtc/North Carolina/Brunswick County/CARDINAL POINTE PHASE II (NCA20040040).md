@@ -1,0 +1,85 @@
+# Project: CARDINAL POINTE PHASE II (NCA20040040)
+
+- HUD ID: NCA20040040
+- HUD ID before: 
+- Project: CARDINAL POINTE PHASE II
+- Address: 100 HIGHLANDS GLENN DRIVE
+- City: SHALLOTTE
+- State: NC
+- ZIP: 28470
+- ZIP extension: 
+- State project ID: 9002229
+- Latitude: 33.9396
+- Longitude: -78.4071
+- County FIPS: 37019
+- County from: 2020
+- Tract 2020: 37019020514
+- Tract 2010: 37019020506
+- Tract 2000: 37019020501
+- Tract 1990: 
+- Place 2020: 60800
+- Place 2010: 48700
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 415242
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 30
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

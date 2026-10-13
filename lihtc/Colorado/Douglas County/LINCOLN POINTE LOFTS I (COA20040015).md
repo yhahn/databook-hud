@@ -1,0 +1,85 @@
+# Project: LINCOLN POINTE LOFTS I (COA20040015)
+
+- HUD ID: COA20040015
+- HUD ID before: 
+- Project: LINCOLN POINTE LOFTS I
+- Address: 9783 PYRAMID CT
+- City: ENGLEWOOD
+- State: CO
+- ZIP: 80112
+- ZIP extension: 
+- State project ID: 2003515
+- Latitude: 39.539062
+- Longitude: -104.865693
+- County FIPS: 08035
+- County from: 2020
+- Tract 2020: 08035014007
+- Tract 2010: 08035014007
+- Tract 2000: 08035014002
+- Tract 1990: 08035014000
+- Place 2020: 50012
+- Place 2010: 99999
+- Place 2000: 31935
+- Place 1990: 1039
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 
+- Units: 133
+- Low-income units: 133
+- Units reported: 133
+- Low-income reported: 133
+- Efficiencies: 1
+- 1-bedroom units: 43
+- 2-bedroom units: 74
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TRAILS EDGE TOWNHOMES (MNA20099010)
+
+- HUD ID: MNA20099010
+- HUD ID before: 
+- Project: TRAILS EDGE TOWNHOMES
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: MAPLEWOOD
+- State: MN
+- ZIP: 55109
+- ZIP extension: 
+- State project ID: D5228
+- Latitude: 44.992536
+- Longitude: -92.98667
+- County FIPS: 27123
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27123042402
+- Tract 2000: 27123042402
+- Tract 1990: 27123042402
+- Place 2020: 
+- Place 2010: 40382
+- Place 2000: 40382
+- Place 1990: 2455
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 700368
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 27
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 550000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA0000100.
+- Record status: Existing, unchanged

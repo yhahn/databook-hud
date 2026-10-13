@@ -1,0 +1,85 @@
+# Project: VILLAS OF COMBINED LOCKS (WIA20070130)
+
+- HUD ID: WIA20070130
+- HUD ID before: 
+- Project: VILLAS OF COMBINED LOCKS
+- Address: 332 WALLACE ST
+- City: COMBINED LOCKS
+- State: WI
+- ZIP: 54113
+- ZIP extension: 
+- State project ID: 5138
+- Latitude: 44.266031
+- Longitude: -88.31369
+- County FIPS: 55087
+- County from: 2020
+- Tract 2020: 55087012000
+- Tract 2010: 55087012000
+- Tract 2000: 55087012000
+- Tract 1990: 55087012000
+- Place 2020: 16500
+- Place 2010: 16500
+- Place 2000: 16500
+- Place 1990: 0580
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 151755
+- Units: 24
+- Low-income units: 4
+- Units reported: 24
+- Low-income reported: 4
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 520000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

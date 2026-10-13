@@ -1,0 +1,85 @@
+# Project: BRODHEAD SENIOR VILLAGE (WIA20060015)
+
+- HUD ID: WIA20060015
+- HUD ID before: 
+- Project: BRODHEAD SENIOR VILLAGE
+- Address: 1108 21ST ST
+- City: BRODHEAD
+- State: WI
+- ZIP: 53520
+- ZIP extension: 
+- State project ID: 5015
+- Latitude: 42.609781
+- Longitude: -89.379558
+- County FIPS: 55045
+- County from: 2020
+- Tract 2020: 55045960800
+- Tract 2010: 55045960800
+- Tract 2000: 55045980800
+- Tract 1990: 55045980800
+- Place 2020: 09925
+- Place 2010: 09925
+- Place 2000: 09925
+- Place 1990: 0345
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 168522
+- Units: 25
+- Low-income units: 23
+- Units reported: 25
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 25
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

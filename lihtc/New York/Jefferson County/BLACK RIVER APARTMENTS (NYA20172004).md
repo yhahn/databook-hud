@@ -1,0 +1,85 @@
+# Project: BLACK RIVER APARTMENTS (NYA20172004)
+
+- HUD ID: NYA20172004
+- HUD ID before: 
+- Project: BLACK RIVER APARTMENTS
+- Address: 309 MILL STREET
+- City: WATERTOWN
+- State: NY
+- ZIP: 13601
+- ZIP extension: 
+- State project ID: 20156076
+- Latitude: 43.977261
+- Longitude: -75.907505
+- County FIPS: 36045
+- County from: 2020
+- Tract 2020: 36045061400
+- Tract 2010: 36045061400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 78608
+- Place 2010: 78608
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 1608143
+- Units: 115
+- Low-income units: 107
+- Units reported: 115
+- Low-income reported: 107
+- Efficiencies: 7
+- 1-bedroom units: 46
+- 2-bedroom units: 36
+- 3-bedroom units: 26
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 107
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 150000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: OTHER
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

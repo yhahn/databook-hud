@@ -1,0 +1,85 @@
+# Project: HARRISON PINES SENIOR APTS (NVA20049016)
+
+- HUD ID: NVA20049016
+- HUD ID before: NVA00000014
+- Project: HARRISON PINES SENIOR APTS
+- Address: 5045 HARRISON DRIVE
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89120
+- ZIP extension: 0000
+- State project ID: 02-12
+- Latitude: 36.097644
+- Longitude: -115.112419
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003002823
+- Tract 2010: 32003002823
+- Tract 2000: 32003002823
+- Tract 1990: 32003002805
+- Place 2020: 54600
+- Place 2010: 54600
+- Place 2000: 54600
+- Place 1990: 0084
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 500000
+- Units: 89
+- Low-income units: 89
+- Units reported: 89
+- Low-income reported: 89
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 89
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 80
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS NVA00000014
+- Record status: Existing, unchanged

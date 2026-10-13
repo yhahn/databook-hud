@@ -1,0 +1,85 @@
+# Project: MEADOWBROOK SQUARE (TXA20000080)
+
+- HUD ID: TXA20000080
+- HUD ID before: 
+- Project: MEADOWBROOK SQUARE
+- Address: 108 W GODLEY AVE
+- City: GODLEY
+- State: TX
+- ZIP: 76044
+- ZIP extension: 
+- State project ID: TX0730
+- Latitude: 32.44791
+- Longitude: -97.528645
+- County FIPS: 48251
+- County from: 2020
+- Tract 2020: 48251130100
+- Tract 2010: 48251130100
+- Tract 2000: 48251130100
+- Tract 1990: 48251130100
+- Place 2020: 29972
+- Place 2010: 29972
+- Place 2000: 15364
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 7
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

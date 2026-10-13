@@ -1,0 +1,85 @@
+# Project: VALLEY VIEW APTS (MDA19890165)
+
+- HUD ID: MDA19890165
+- HUD ID before: 
+- Project: VALLEY VIEW APTS
+- Address: 81 W MECHANIC ST
+- City: FROSTBURG
+- State: MD
+- ZIP: 21532
+- ZIP extension: 
+- State project ID: MD89-03
+- Latitude: 39.659068
+- Longitude: -78.930822
+- County FIPS: 24001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 24001001800
+- Tract 2000: 24001001800
+- Tract 1990: 24001001800
+- Place 2020: 
+- Place 2010: 30900
+- Place 2000: 30900
+- Place 1990: 0365
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

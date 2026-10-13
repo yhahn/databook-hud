@@ -1,0 +1,85 @@
+# Project: MADISON & DEWEY (NJA20120873)
+
+- HUD ID: NJA20120873
+- HUD ID before: 
+- Project: MADISON & DEWEY
+- Address: 6308 DEWEY AVE
+- City: WEST NEW YORK
+- State: NJ
+- ZIP: 07093
+- ZIP extension: 
+- State project ID: NJ-631
+- Latitude: 40.790034
+- Longitude: -74.009362
+- County FIPS: 34017
+- County from: 2020
+- Tract 2020: 34017015300
+- Tract 2010: 34017015300
+- Tract 2000: 34017015300
+- Tract 1990: 34017015300
+- Place 2020: 79610
+- Place 2010: 79610
+- Place 2000: 79610
+- Place 1990: 4030
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA2002135, NJA2002105.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: WINDMILLER POINTE (OHA20220030)
+
+- HUD ID: OHA20220030
+- HUD ID before: 
+- Project: WINDMILLER POINTE
+- Address: 2997 3051 SOUTH HIGH STREET
+- City: COLUMBUS
+- State: OH
+- ZIP: 43207
+- ZIP extension: 3669
+- State project ID: 200232
+- Latitude: 39.8973
+- Longitude: -82.9553
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049008813
+- Tract 2010: 39049008813
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 18000
+- Place 2010: 18000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 2096611
+- Units: 284
+- Low-income units: 284
+- Units reported: 284
+- Low-income reported: 284
+- Efficiencies: 0
+- 1-bedroom units: 72
+- 2-bedroom units: 120
+- 3-bedroom units: 64
+- 4-bedroom units: 28
+- Construction: New construction
+- Credit: Both
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

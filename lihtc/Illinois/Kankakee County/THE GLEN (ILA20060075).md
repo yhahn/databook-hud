@@ -1,0 +1,85 @@
+# Project: THE GLEN (ILA20060075)
+
+- HUD ID: ILA20060075
+- HUD ID before: 
+- Project: THE GLEN
+- Address: 326 DIVERSATECH DR
+- City: MANTENO
+- State: IL
+- ZIP: 60950
+- ZIP extension: 
+- State project ID: 224605
+- Latitude: 41.232563
+- Longitude: -87.800589
+- County FIPS: 17091
+- County from: 2020
+- Tract 2020: 17091010204
+- Tract 2010: 17091010202
+- Tract 2000: 17091010200
+- Tract 1990: 17091010200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 46500
+- Place 1990: 3505
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 397772
+- Units: 45
+- Low-income units: 44
+- Units reported: 45
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 22
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 19
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 3650000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

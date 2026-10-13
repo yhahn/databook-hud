@@ -1,0 +1,85 @@
+# Project: DRAKE TERRACE III (INA19920120)
+
+- HUD ID: INA19920120
+- HUD ID before: 
+- Project: DRAKE TERRACE III
+- Address: 636 BERRY LN
+- City: KENDALLVILLE
+- State: IN
+- ZIP: 46755
+- ZIP extension: 
+- State project ID: IN-90-06400
+- Latitude: 41.436729
+- Longitude: -85.276111
+- County FIPS: 18113
+- County from: 2020
+- Tract 2020: 18113971900
+- Tract 2010: 18113971900
+- Tract 2000: 18113971900
+- Tract 1990: 18113971900
+- Place 2020: 39402
+- Place 2010: 39402
+- Place 2000: 39402
+- Place 1990: 1200
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 32
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA0001110.
+- Record status: Existing, unchanged

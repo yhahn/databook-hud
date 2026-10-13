@@ -1,0 +1,85 @@
+# Project: MAPLEVIEW APTS (BUENA VISTA) (MIA20030180)
+
+- HUD ID: MIA20030180
+- HUD ID before: 
+- Project: MAPLEVIEW APTS (BUENA VISTA)
+- Address: 1224 GENEI CT W
+- City: SAGINAW
+- State: MI
+- ZIP: 48601
+- ZIP extension: 
+- State project ID: MI-1990
+- Latitude: 43.425842
+- Longitude: -83.89323
+- County FIPS: 26145
+- County from: 2020
+- Tract 2020: 26145011002
+- Tract 2010: 26145011000
+- Tract 2000: 26145011000
+- Tract 1990: 26145011000
+- Place 2020: 11555
+- Place 2010: 11555
+- Place 2000: 11555
+- Place 1990: 0363
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 103
+- Units reported: 104
+- Low-income reported: 103
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 84
+- 3-bedroom units: 20
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Sale under qualified contract
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

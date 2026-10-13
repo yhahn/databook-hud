@@ -1,0 +1,85 @@
+# Project: LINCOLN GREEN (MEA20150055)
+
+- HUD ID: MEA20150055
+- HUD ID before: MEA19890055
+- Project: LINCOLN GREEN
+- Address: 11 ABBOTT ST
+- City: OLD TOWN
+- State: ME
+- ZIP: 04468
+- ZIP extension: 
+- State project ID: ME-89-00054
+- Latitude: 44.929153
+- Longitude: -68.66287
+- County FIPS: 23019
+- County from: 2020
+- Tract 2020: 23019007100
+- Tract 2010: 23019007100
+- Tract 2000: 23019007100
+- Tract 1990: 23019007100
+- Place 2020: 55225
+- Place 2010: 55225
+- Place 2000: 55225
+- Place 1990: 3420
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 154051
+- Units: 30
+- Low-income units: 30
+- Units reported: 30
+- Low-income reported: 30
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 12
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Not indicated
+- Homeless: No
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS MEA19890055 AND STATE_ID IS ME-89-00054
+- Record status: Existing, unchanged

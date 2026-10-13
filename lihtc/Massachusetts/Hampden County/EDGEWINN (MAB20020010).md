@@ -1,0 +1,85 @@
+# Project: EDGEWINN (MAB20020010)
+
+- HUD ID: MAB20020010
+- HUD ID before: 
+- Project: EDGEWINN
+- Address: 134 UNION ST
+- City: WESTFIELD
+- State: MA
+- ZIP: 01085
+- ZIP extension: 
+- State project ID: MA-99-99
+- Latitude: 42.129059
+- Longitude: -72.731074
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013812500
+- Tract 2010: 25013812500
+- Tract 2000: 25013812500
+- Tract 1990: 25013812500
+- Place 2020: 76030
+- Place 2010: 76030
+- Place 2000: 76030
+- Place 1990: 4690
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 84
+- Low-income units: 81
+- Units reported: 84
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 84
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

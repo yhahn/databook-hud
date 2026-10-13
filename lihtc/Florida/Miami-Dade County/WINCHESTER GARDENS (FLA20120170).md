@@ -1,0 +1,85 @@
+# Project: WINCHESTER GARDENS (FLA20120170)
+
+- HUD ID: FLA20120170
+- HUD ID before: 
+- Project: WINCHESTER GARDENS
+- Address: 16440 SW 304TH ST.
+- City: HOMESTEAD
+- State: FL
+- ZIP: 33030
+- ZIP extension: 
+- State project ID: 975
+- Latitude: 25.484455
+- Longitude: -80.459297
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086011011
+- Tract 2010: 12086011001
+- Tract 2000: 12086011001
+- Tract 1990: 12025011001
+- Place 2020: 39950
+- Place 2010: 32275
+- Place 2000: 32275
+- Place 1990: 0930
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 409333
+- Units: 117
+- Low-income units: 116
+- Units reported: 117
+- Low-income reported: 116
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 45
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1450000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

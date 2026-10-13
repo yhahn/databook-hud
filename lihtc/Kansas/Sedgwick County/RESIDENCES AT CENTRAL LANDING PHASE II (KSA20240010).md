@@ -1,0 +1,85 @@
+# Project: RESIDENCES AT CENTRAL LANDING PHASE II (KSA20240010)
+
+- HUD ID: KSA20240010
+- HUD ID before: 
+- Project: RESIDENCES AT CENTRAL LANDING PHASE II
+- Address: 200 S. HOPE LANE
+- City: WICHITA
+- State: KS
+- ZIP: 67209
+- ZIP extension: 
+- State project ID: KS-23-68218
+- Latitude: 37.6544
+- Longitude: -97.4224
+- County FIPS: 20173
+- County from: 2020
+- Tract 2020: 20173009304
+- Tract 2010: 20173009200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 79000
+- Place 2010: 79000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2024
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 366825
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 30
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

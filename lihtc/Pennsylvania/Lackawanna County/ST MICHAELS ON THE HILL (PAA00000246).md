@@ -1,0 +1,85 @@
+# Project: ST MICHAELS ON THE HILL (PAA00000246)
+
+- HUD ID: PAA00000246
+- HUD ID before: 
+- Project: ST MICHAELS ON THE HILL
+- Address: 399 SECOND AVE
+- City: JESSUP
+- State: PA
+- ZIP: 18434
+- ZIP extension: 
+- State project ID: PA1012-1140
+- Latitude: 41.473944
+- Longitude: -75.569355
+- County FIPS: 42069
+- County from: 2020
+- Tract 2020: 42069111300
+- Tract 2010: 42069111300
+- Tract 2000: 42069111300
+- Tract 1990: 42069111300
+- Place 2020: 38160
+- Place 2010: 38160
+- Place 2000: 38160
+- Place 1990: 5443
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

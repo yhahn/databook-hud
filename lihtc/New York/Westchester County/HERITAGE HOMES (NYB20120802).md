@@ -1,0 +1,85 @@
+# Project: HERITAGE HOMES (NYB20120802)
+
+- HUD ID: NYB20120802
+- HUD ID before: 
+- Project: HERITAGE HOMES
+- Address: 1 HERITAGE LN
+- City: NEW ROCHELLE
+- State: NY
+- ZIP: 10801
+- ZIP extension: 
+- State project ID: NY-11-2017
+- Latitude: 40.912
+- Longitude: -73.7957
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119006400
+- Tract 2010: 36119006200
+- Tract 2000: 36119006200
+- Tract 1990: 36119006200
+- Place 2020: 50617
+- Place 2010: 50617
+- Place 2000: 50617
+- Place 1990: 2495
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1383048
+- Units: 131
+- Low-income units: 130
+- Units reported: 131
+- Low-income reported: 130
+- Efficiencies: 14
+- 1-bedroom units: 36
+- 2-bedroom units: 81
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

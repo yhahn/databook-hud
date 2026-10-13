@@ -1,0 +1,85 @@
+# Project: WOODBRIDGE ESTATES APTS IV (MIA20060268)
+
+- HUD ID: MIA20060268
+- HUD ID before: 
+- Project: WOODBRIDGE ESTATES APTS IV
+- Address: 3521 JOHN C LODGE FWY
+- City: DETROIT
+- State: MI
+- ZIP: 48201
+- ZIP extension: 
+- State project ID: MI-2334
+- Latitude: 42.343315
+- Longitude: -83.068761
+- County FIPS: 26163
+- County from: 2020
+- Tract 2020: 26163521800
+- Tract 2010: 26163521800
+- Tract 2000: 26163521800
+- Tract 1990: 26163521800
+- Place 2020: 22000
+- Place 2010: 22000
+- Place 2000: 22000
+- Place 1990: 0680
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 426550
+- Units: 45
+- Low-income units: 32
+- Units reported: 45
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 23
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SAGE VALLEY ESTATES CROWN (UTA19960903)
+
+- HUD ID: UTA19960903
+- HUD ID before: 
+- Project: SAGE VALLEY ESTATES CROWN
+- Address: 1108 HOLYOAK LN
+- City: MOAB
+- State: UT
+- ZIP: 84532
+- ZIP extension: 
+- State project ID: 1994-21
+- Latitude: 38.554113
+- Longitude: -109.528321
+- County FIPS: 49019
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49019000300
+- Tract 2000: 49019000100
+- Tract 1990: 49019969100
+- Place 2020: 
+- Place 2010: 99999
+- Place 2000: 11000
+- Place 1990: 
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 8
+- Low-income units: 8
+- Units reported: 8
+- Low-income reported: 8
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 4
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS UTA0000089.
+- Record status: Existing, unchanged

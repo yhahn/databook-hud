@@ -1,0 +1,85 @@
+# Project: MORNINGSIDE GARDENS (TNA20030800)
+
+- HUD ID: TNA20030800
+- HUD ID before: 
+- Project: MORNINGSIDE GARDENS
+- Address: 1800 LINDEN AVE
+- City: KNOXVILLE
+- State: TN
+- ZIP: 37917
+- ZIP extension: 
+- State project ID: TN-03-210
+- Latitude: 35.97835
+- Longitude: -83.904479
+- County FIPS: 47093
+- County from: 2020
+- Tract 2020: 47093006700
+- Tract 2010: 47093006700
+- Tract 2000: 47093000500
+- Tract 1990: 47093000500
+- Place 2020: 40000
+- Place 2010: 40000
+- Place 2000: 40000
+- Place 1990: 0760
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 392606
+- Units: 268
+- Low-income units: 268
+- Units reported: 268
+- Low-income reported: 268
+- Efficiencies: 0
+- 1-bedroom units: 268
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 54
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2004055, TNA2003235. AKA MORNINGSIDE II.
+- Record status: Existing, unchanged

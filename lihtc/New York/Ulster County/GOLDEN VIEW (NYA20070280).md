@@ -1,0 +1,85 @@
+# Project: GOLDEN VIEW (NYA20070280)
+
+- HUD ID: NYA20070280
+- HUD ID before: 
+- Project: GOLDEN VIEW
+- Address: 52 DOMENICA LN
+- City: HIGHLAND
+- State: NY
+- ZIP: 12528
+- ZIP extension: 
+- State project ID: 20050325
+- Latitude: 41.702784
+- Longitude: -73.963495
+- County FIPS: 36111
+- County from: 2020
+- Tract 2020: 36111953600
+- Tract 2010: 36111953600
+- Tract 2000: 36111953600
+- Tract 1990: 36111953600
+- Place 2020: 34484
+- Place 2010: 34484
+- Place 2000: 34484
+- Place 1990: 1595
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 725000
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 51
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

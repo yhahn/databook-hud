@@ -1,0 +1,85 @@
+# Project: CARLETON COURT (RIA20100015)
+
+- HUD ID: RIA20100015
+- HUD ID before: 
+- Project: CARLETON COURT
+- Address: 211 CARLETON ST
+- City: PROVIDENCE
+- State: RI
+- ZIP: 02908
+- ZIP extension: 
+- State project ID: RI00148
+- Latitude: 41.82636
+- Longitude: -71.446668
+- County FIPS: 44007
+- County from: 2020
+- Tract 2020: 44007002102
+- Tract 2010: 44007002102
+- Tract 2000: 44007002100
+- Tract 1990: 44007002100
+- Place 2020: 59000
+- Place 2010: 59000
+- Place 2000: 59000
+- Place 1990: 0400
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 86
+- Low-income units: 86
+- Units reported: 86
+- Low-income reported: 86
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 4
+- 3-bedroom units: 22
+- 4-bedroom units: 18
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA CARLETON COURT & WESTSIDE APTS.
+- Record status: Existing, unchanged

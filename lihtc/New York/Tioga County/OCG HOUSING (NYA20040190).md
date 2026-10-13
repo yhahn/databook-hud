@@ -1,0 +1,85 @@
+# Project: OCG HOUSING (NYA20040190)
+
+- HUD ID: NYA20040190
+- HUD ID before: 
+- Project: OCG HOUSING
+- Address: 148 DEAN ST
+- City: OWEGO
+- State: NY
+- ZIP: 13827
+- ZIP extension: 
+- State project ID: 20020538
+- Latitude: 42.11965
+- Longitude: -76.26274
+- County FIPS: 36107
+- County from: 2020
+- Tract 2020: 36107020500
+- Tract 2010: 36107020500
+- Tract 2000: 36107020500
+- Tract 1990: 36107020500
+- Place 2020: 55882
+- Place 2010: 55882
+- Place 2000: 55882
+- Place 1990: 2750
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 22
+- Low-income units: 22
+- Units reported: 22
+- Low-income reported: 22
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 11
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

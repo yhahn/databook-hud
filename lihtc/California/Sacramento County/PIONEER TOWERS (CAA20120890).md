@@ -1,0 +1,85 @@
+# Project: PIONEER TOWERS (CAA20120890)
+
+- HUD ID: CAA20120890
+- HUD ID before: 
+- Project: PIONEER TOWERS
+- Address: 515 P ST
+- City: SACRAMENTO
+- State: CA
+- ZIP: 95814
+- ZIP extension: 
+- State project ID: CA-11-813
+- Latitude: 38.575492
+- Longitude: -121.502528
+- County FIPS: 06067
+- County from: 2020
+- Tract 2020: 06067000800
+- Tract 2010: 06067000800
+- Tract 2000: 06067000800
+- Tract 1990: 06067000800
+- Place 2020: 64000
+- Place 2010: 64000
+- Place 2000: 64000
+- Place 1990: 2420
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 631224
+- Units: 198
+- Low-income units: 157
+- Units reported: 198
+- Low-income reported: 157
+- Efficiencies: 0
+- 1-bedroom units: 198
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 44
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

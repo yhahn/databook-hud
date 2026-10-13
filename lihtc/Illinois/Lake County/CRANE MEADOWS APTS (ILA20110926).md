@@ -1,0 +1,85 @@
+# Project: CRANE MEADOWS APTS (ILA20110926)
+
+- HUD ID: ILA20110926
+- HUD ID before: 
+- Project: CRANE MEADOWS APTS
+- Address: 1503 LORELEI DR
+- City: ZION
+- State: IL
+- ZIP: 60099
+- ZIP extension: 
+- State project ID: 1003809
+- Latitude: 42.466776
+- Longitude: -87.872502
+- County FIPS: 17097
+- County from: 2020
+- Tract 2020: 17097860106
+- Tract 2010: 17097860101
+- Tract 2000: 17097860101
+- Tract 1990: 17097860101
+- Place 2020: 84220
+- Place 2010: 84220
+- Place 2000: 04303
+- Place 1990: 6415
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 2255874
+- Units: 266
+- Low-income units: 263
+- Units reported: 266
+- Low-income reported: 263
+- Efficiencies: 16
+- 1-bedroom units: 128
+- 2-bedroom units: 98
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000049.
+- Record status: Existing, unchanged

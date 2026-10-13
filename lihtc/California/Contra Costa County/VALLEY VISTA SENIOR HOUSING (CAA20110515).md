@@ -1,0 +1,85 @@
+# Project: VALLEY VISTA SENIOR HOUSING (CAA20110515)
+
+- HUD ID: CAA20110515
+- HUD ID before: 
+- Project: VALLEY VISTA SENIOR HOUSING
+- Address: 20503 SAN RAMON VALLEY BLVD
+- City: SAN RAMON
+- State: CA
+- ZIP: 94583
+- ZIP extension: 
+- State project ID: CA-09-549
+- Latitude: 37.733204
+- Longitude: -121.948642
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013345115
+- Tract 2010: 06013345115
+- Tract 2000: 06013345110
+- Tract 1990: 06013345198
+- Place 2020: 68378
+- Place 2010: 68378
+- Place 2000: 68378
+- Place 1990: 2567
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1190802
+- Units: 105
+- Low-income units: 104
+- Units reported: 105
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 90
+- 2-bedroom units: 15
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 104
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011636.
+- Record status: Existing, unchanged

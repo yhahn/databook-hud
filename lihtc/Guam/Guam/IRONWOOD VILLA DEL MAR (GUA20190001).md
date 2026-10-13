@@ -1,0 +1,85 @@
+# Project: IRONWOOD VILLA DEL MAR (GUA20190001)
+
+- HUD ID: GUA20190001
+- HUD ID before: 
+- Project: IRONWOOD VILLA DEL MAR
+- Address: 143 ARAGON STREET
+- City: MONGMONG
+- State: GU
+- ZIP: 96910
+- ZIP extension: 
+- State project ID: GU-17-01
+- Latitude: 13.468549
+- Longitude: -144.782696
+- County FIPS: 66010
+- County from: 2020
+- Tract 2020: 66010956000
+- Tract 2010: 66010956000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 73550
+- Place 2010: 
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 0
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 25
+- 4-bedroom units: 25
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

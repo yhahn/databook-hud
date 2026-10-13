@@ -1,0 +1,85 @@
+# Project: WEST SIDE APTS (KSA20010120)
+
+- HUD ID: KSA20010120
+- HUD ID before: 
+- Project: WEST SIDE APTS
+- Address: 1334 CATTLETRAIL ST
+- City: GOODLAND
+- State: KS
+- ZIP: 67735
+- ZIP extension: 
+- State project ID: 60090
+- Latitude: 39.345378
+- Longitude: -101.726209
+- County FIPS: 20181
+- County from: 2020
+- Tract 2020: 20181453700
+- Tract 2010: 20181453700
+- Tract 2000: 20181953700
+- Tract 1990: 20181953700
+- Place 2020: 26875
+- Place 2010: 26875
+- Place 2000: 26875
+- Place 1990: 1070
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 119002
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

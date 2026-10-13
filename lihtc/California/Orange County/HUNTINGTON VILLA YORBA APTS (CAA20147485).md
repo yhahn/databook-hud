@@ -1,0 +1,85 @@
+# Project: HUNTINGTON VILLA YORBA APTS (CAA20147485)
+
+- HUD ID: CAA20147485
+- HUD ID before: 
+- Project: HUNTINGTON VILLA YORBA APTS
+- Address: 16000 VILLA YORBA
+- City: HUNTINGTON BEACH
+- State: CA
+- ZIP: 92647
+- ZIP extension: 
+- State project ID: CA-14-807
+- Latitude: 33.728723
+- Longitude: -117.985861
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059099241
+- Tract 2010: 06059099241
+- Tract 2000: 06059099241
+- Tract 1990: 06059099241
+- Place 2020: 36000
+- Place 2010: 36000
+- Place 2000: 36000
+- Place 1990: 3085
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 198
+- Low-income units: 195
+- Units reported: 198
+- Low-income reported: 195
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

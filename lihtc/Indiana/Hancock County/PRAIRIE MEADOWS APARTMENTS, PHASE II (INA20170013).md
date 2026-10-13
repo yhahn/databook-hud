@@ -1,0 +1,85 @@
+# Project: PRAIRIE MEADOWS APARTMENTS, PHASE II (INA20170013)
+
+- HUD ID: INA20170013
+- HUD ID before: 
+- Project: PRAIRIE MEADOWS APARTMENTS, PHASE II
+- Address: 2915 SWEET GRASS LANE
+- City: GREENFIELD
+- State: IN
+- ZIP: 46140
+- ZIP extension: 
+- State project ID: IN-15-03400
+- Latitude: 39.783342
+- Longitude: -85.820104
+- County FIPS: 18059
+- County from: 2020
+- Tract 2020: 18059410302
+- Tract 2010: 18059410300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 29520
+- Place 2010: 29520
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2017
+- Placed in service note: 
+- Allocation year: 2016
+- Allocation year note: 
+- Allocation amount: 295063
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 44
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

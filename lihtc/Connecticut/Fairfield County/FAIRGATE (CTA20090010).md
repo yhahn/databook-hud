@@ -1,0 +1,85 @@
+# Project: FAIRGATE (CTA20090010)
+
+- HUD ID: CTA20090010
+- HUD ID before: 
+- Project: FAIRGATE
+- Address: 90 FAIRFIELD AVE
+- City: STAMFORD
+- State: CT
+- ZIP: 06902
+- ZIP extension: 
+- State project ID: CT-06-001
+- Latitude: 41.04882
+- Longitude: -73.551195
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001021501
+- Tract 2010: 09001021500
+- Tract 2000: 09001021500
+- Tract 1990: 09001021500
+- Place 2020: 73000
+- Place 2010: 73000
+- Place 2000: 73000
+- Place 1990: 2180
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1725000
+- Units: 90
+- Low-income units: 55
+- Units reported: 90
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 48
+- 3-bedroom units: 21
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 49
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: Yes
+- HOPE VI amount: 4534478
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA2009007, CTA0000100. FKA FAIRFIELD COURT REVITALIZATION
+- Record status: Existing, unchanged

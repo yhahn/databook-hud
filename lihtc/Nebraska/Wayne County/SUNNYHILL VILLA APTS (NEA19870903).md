@@ -1,0 +1,85 @@
+# Project: SUNNYHILL VILLA APTS (NEA19870903)
+
+- HUD ID: NEA19870903
+- HUD ID before: 
+- Project: SUNNYHILL VILLA APTS
+- Address: 900 SUNNYVIEW DR
+- City: WAYNE
+- State: NE
+- ZIP: 68787
+- ZIP extension: 
+- State project ID: 7-0005
+- Latitude: 42.23811
+- Longitude: -97.005311
+- County FIPS: 31179
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31179978700
+- Tract 2000: 31179978700
+- Tract 1990: 31179978700
+- Place 2020: 
+- Place 2010: 51840
+- Place 2000: 51840
+- Place 1990: 2590
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 20032
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NEA0000550. AKA WAYNE SENIOR HOUSING.
+- Record status: Existing, unchanged

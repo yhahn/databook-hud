@@ -1,0 +1,85 @@
+# Project: CRYSTAL LAKE HOUSING (VTA20010035)
+
+- HUD ID: VTA20010035
+- HUD ID before: 
+- Project: CRYSTAL LAKE HOUSING
+- Address: 177 HIGH ST
+- City: BARTON
+- State: VT
+- ZIP: 05822
+- ZIP extension: 
+- State project ID: 0217
+- Latitude: 44.750372
+- Longitude: -72.177027
+- County FIPS: 50019
+- County from: 2020
+- Tract 2020: 50019951800
+- Tract 2010: 50019951800
+- Tract 2000: 50019951800
+- Tract 1990: 50019951800
+- Place 2020: 03475
+- Place 2010: 03475
+- Place 2000: 03475
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 108348
+- Units: 15
+- Low-income units: 15
+- Units reported: 15
+- Low-income reported: 15
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 5
+- 3-bedroom units: 3
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

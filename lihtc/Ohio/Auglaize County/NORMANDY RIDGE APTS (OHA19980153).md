@@ -1,0 +1,85 @@
+# Project: NORMANDY RIDGE APTS (OHA19980153)
+
+- HUD ID: OHA19980153
+- HUD ID before: 
+- Project: NORMANDY RIDGE APTS
+- Address: 402A ASHLAND AVE
+- City: WAPAKONETA
+- State: OH
+- ZIP: 45895
+- ZIP extension: 
+- State project ID: 970037
+- Latitude: 40.558653
+- Longitude: -84.20189
+- County FIPS: 39011
+- County from: 2020
+- Tract 2020: 39011040300
+- Tract 2010: 39011040400
+- Tract 2000: 39011040400
+- Tract 1990: 39011040400
+- Place 2020: 80766
+- Place 2010: 80766
+- Place 2000: 80766
+- Place 1990: 4475
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 285303
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 70
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA1998517, OHA1999160.
+- Record status: Existing, unchanged

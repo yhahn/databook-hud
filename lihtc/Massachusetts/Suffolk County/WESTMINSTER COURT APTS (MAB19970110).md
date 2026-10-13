@@ -1,0 +1,85 @@
+# Project: WESTMINSTER COURT APTS (MAB19970110)
+
+- HUD ID: MAB19970110
+- HUD ID before: 
+- Project: WESTMINSTER COURT APTS
+- Address: 30 WESTMINSTER CT
+- City: ROXBURY
+- State: MA
+- ZIP: 02119
+- ZIP extension: 
+- State project ID: MA-04-3303207
+- Latitude: 42.316055
+- Longitude: -71.093602
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025081500
+- Tract 2010: 25025081500
+- Tract 2000: 25025081500
+- Tract 1990: 25025081500
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 51
+- Units reported: 70
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 25
+- 2-bedroom units: 45
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000697. AKA WESTMINSTER COMMUNITY.
+- Record status: Existing, unchanged

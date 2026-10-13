@@ -1,0 +1,85 @@
+# Project: FEATHERSTONE APTS (IAA19990015)
+
+- HUD ID: IAA19990015
+- HUD ID before: 
+- Project: FEATHERSTONE APTS
+- Address: 901 N 35TH ST
+- City: COUNCIL BLUFFS
+- State: IA
+- ZIP: 51501
+- ZIP extension: 
+- State project ID: 97-68
+- Latitude: 41.269957
+- Longitude: -95.90181
+- County FIPS: 19155
+- County from: 2020
+- Tract 2020: 19155030401
+- Tract 2010: 19155030401
+- Tract 2000: 19155030401
+- Tract 1990: 19155030401
+- Place 2020: 16860
+- Place 2010: 16860
+- Place 2000: 16860
+- Place 1990: 0945
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 277515
+- Units: 147
+- Low-income units: 147
+- Units reported: 147
+- Low-income reported: 147
+- Efficiencies: 0
+- 1-bedroom units: 21
+- 2-bedroom units: 65
+- 3-bedroom units: 47
+- 4-bedroom units: 14
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS IAA1998010.
+- Record status: Existing, unchanged

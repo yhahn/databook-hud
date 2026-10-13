@@ -1,0 +1,85 @@
+# Project: MADISON MANOR APTS. (UTA20100904)
+
+- HUD ID: UTA20100904
+- HUD ID before: 
+- Project: MADISON MANOR APTS.
+- Address: 2434 MADISON AVENUE
+- City: OGDEN
+- State: UT
+- ZIP: 84401
+- ZIP extension: 0000
+- State project ID: 2009-06
+- Latitude: 41.221921
+- Longitude: -111.96185
+- County FIPS: 49057
+- County from: 2020
+- Tract 2020: 49057200900
+- Tract 2010: 49057200900
+- Tract 2000: 49057200900
+- Tract 1990: 49057200900
+- Place 2020: 55980
+- Place 2010: 55980
+- Place 2000: 55980
+- Place 1990: 0695
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 422445
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 28
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

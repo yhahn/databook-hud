@@ -1,0 +1,85 @@
+# Project: SOUTH END TENANTS HOUSING II (MAA20040030)
+
+- HUD ID: MAA20040030
+- HUD ID before: 
+- Project: SOUTH END TENANTS HOUSING II
+- Address: 401 MASSACHUSETTS AVE
+- City: BOSTON
+- State: MA
+- ZIP: 02118
+- ZIP extension: 
+- State project ID: 01-405-R
+- Latitude: 42.341225
+- Longitude: -71.083065
+- County FIPS: 25025
+- County from: 2020
+- Tract 2020: 25025070801
+- Tract 2010: 25025070800
+- Tract 2000: 25025070800
+- Tract 1990: 25025070800
+- Place 2020: 07000
+- Place 2010: 07000
+- Place 2000: 07000
+- Place 1990: 0440
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 185
+- Low-income units: 170
+- Units reported: 185
+- Low-income reported: 170
+- Efficiencies: 20
+- 1-bedroom units: 68
+- 2-bedroom units: 73
+- 3-bedroom units: 8
+- 4-bedroom units: 16
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

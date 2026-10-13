@@ -1,0 +1,85 @@
+# Project: FOREST RIVER APTS (ALA20060077)
+
+- HUD ID: ALA20060077
+- HUD ID before: 
+- Project: FOREST RIVER APTS
+- Address: 515 GEORGE WALLACE DR
+- City: GADSDEN
+- State: AL
+- ZIP: 35903
+- ZIP extension: 
+- State project ID: AL-03-0806
+- Latitude: 34.000806
+- Longitude: -85.994788
+- County FIPS: 01055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 01055001300
+- Tract 2000: 01055001300
+- Tract 1990: 01055001300
+- Place 2020: 
+- Place 2010: 28696
+- Place 2000: 28696
+- Place 1990: 0685
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 350692
+- Units: 248
+- Low-income units: 248
+- Units reported: 248
+- Low-income reported: 248
+- Efficiencies: 0
+- 1-bedroom units: 56
+- 2-bedroom units: 128
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 248
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2004045.
+- Record status: Existing, unchanged

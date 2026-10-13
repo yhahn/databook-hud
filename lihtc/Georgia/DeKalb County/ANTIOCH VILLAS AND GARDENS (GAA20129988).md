@@ -1,0 +1,85 @@
+# Project: ANTIOCH VILLAS AND GARDENS (GAA20129988)
+
+- HUD ID: GAA20129988
+- HUD ID before: 
+- Project: ANTIOCH VILLAS AND GARDENS
+- Address: 4735 BISHOP MING BLVD
+- City: STONE MOUNTAIN
+- State: GA
+- ZIP: 30088
+- ZIP extension: 
+- State project ID: GA-09-042
+- Latitude: 33.738047
+- Longitude: -84.194525
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089023216
+- Tract 2010: 13089023206
+- Tract 2000: 13089023206
+- Tract 1990: 13089023206
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 106
+- Low-income units: 90
+- Units reported: 106
+- Low-income reported: 90
+- Efficiencies: 5
+- 1-bedroom units: 63
+- 2-bedroom units: 38
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1400000
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

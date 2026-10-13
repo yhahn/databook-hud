@@ -1,0 +1,85 @@
+# Project: VAN NUYS APTS (CAA20100304)
+
+- HUD ID: CAA20100304
+- HUD ID before: 
+- Project: VAN NUYS APTS
+- Address: 210 W SEVENTH ST
+- City: LOS ANGELES
+- State: CA
+- ZIP: 90014
+- ZIP extension: 
+- State project ID: CA-09-555
+- Latitude: 34.044627
+- Longitude: -118.252794
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037207303
+- Tract 2010: 06037207301
+- Tract 2000: 06037207300
+- Tract 1990: 06037207300
+- Place 2020: 44000
+- Place 2010: 44000
+- Place 2000: 44000
+- Place 1990: 1630
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1647246
+- Units: 299
+- Low-income units: 297
+- Units reported: 299
+- Low-income reported: 297
+- Efficiencies: 132
+- 1-bedroom units: 157
+- 2-bedroom units: 10
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 2289223
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2010502. AKA VAN NUYS 043166.
+- Record status: Existing, unchanged

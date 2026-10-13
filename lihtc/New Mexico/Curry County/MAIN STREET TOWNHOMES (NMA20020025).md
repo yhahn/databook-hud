@@ -1,0 +1,85 @@
+# Project: MAIN STREET TOWNHOMES (NMA20020025)
+
+- HUD ID: NMA20020025
+- HUD ID before: 
+- Project: MAIN STREET TOWNHOMES
+- Address: 3205 N MAIN ST
+- City: CLOVIS
+- State: NM
+- ZIP: 88101
+- ZIP extension: 
+- State project ID: 00342
+- Latitude: 34.43071
+- Longitude: -103.207492
+- County FIPS: 35009
+- County from: 2020
+- Tract 2020: 35009000306
+- Tract 2010: 35009000301
+- Tract 2000: 35009000301
+- Tract 1990: 35009000301
+- Place 2020: 16420
+- Place 2010: 16420
+- Place 2000: 16420
+- Place 1990: 0085
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 19
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

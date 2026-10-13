@@ -1,0 +1,85 @@
+# Project: YANKTON SIOUX, PHASE I (SDA19980040)
+
+- HUD ID: SDA19980040
+- HUD ID before: 
+- Project: YANKTON SIOUX, PHASE I
+- Address: 101 VETERANS DR
+- City: WAGNER
+- State: SD
+- ZIP: 57380
+- ZIP extension: 
+- State project ID: 01994
+- Latitude: 43.053435
+- Longitude: -98.30027
+- County FIPS: 46023
+- County from: 2020
+- Tract 2020: 46023940300
+- Tract 2010: 46023940300
+- Tract 2000: 46023970300
+- Tract 1990: 46023970300
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 15420
+- Place 1990: 1395
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 
+- Units: 10
+- Low-income units: 10
+- Units reported: 10
+- Low-income reported: 10
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

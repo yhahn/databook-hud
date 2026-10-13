@@ -1,0 +1,85 @@
+# Project: BAY VILLAGE APTS (MAB20040005)
+
+- HUD ID: MAB20040005
+- HUD ID before: 
+- Project: BAY VILLAGE APTS
+- Address: 2000 BAY ST
+- City: FALL RIVER
+- State: MA
+- ZIP: 02724
+- ZIP extension: 
+- State project ID: 01-502
+- Latitude: 41.676837
+- Longitude: -71.19083
+- County FIPS: 25005
+- County from: 2020
+- Tract 2020: 25005640300
+- Tract 2010: 25005640300
+- Tract 2000: 25005640300
+- Tract 1990: 25005640300
+- Place 2020: 23000
+- Place 2010: 23000
+- Place 2000: 23000
+- Place 1990: 1220
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 208
+- Low-income units: 182
+- Units reported: 208
+- Low-income reported: 182
+- Efficiencies: 1
+- 1-bedroom units: 61
+- 2-bedroom units: 100
+- 3-bedroom units: 46
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

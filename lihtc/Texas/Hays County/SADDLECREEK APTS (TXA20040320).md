@@ -1,0 +1,85 @@
+# Project: SADDLECREEK APTS (TXA20040320)
+
+- HUD ID: TXA20040320
+- HUD ID before: 
+- Project: SADDLECREEK APTS
+- Address: 21393 IH 35
+- City: KYLE
+- State: TX
+- ZIP: 78640
+- ZIP extension: 
+- State project ID: TX2042
+- Latitude: 30.002069
+- Longitude: -97.866522
+- County FIPS: 48209
+- County from: 2020
+- Tract 2020: 48209010925
+- Tract 2010: 48209010910
+- Tract 2000: 48209010904
+- Tract 1990: 48209010904
+- Place 2020: 39952
+- Place 2010: 39952
+- Place 2000: 39952
+- Place 1990: 2285
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 104
+- Low-income units: 80
+- Units reported: 104
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

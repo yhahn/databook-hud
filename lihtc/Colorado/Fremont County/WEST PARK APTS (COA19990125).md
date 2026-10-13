@@ -1,0 +1,85 @@
+# Project: WEST PARK APTS (COA19990125)
+
+- HUD ID: COA19990125
+- HUD ID before: 
+- Project: WEST PARK APTS
+- Address: 1004 PARK AVE
+- City: CANON CITY
+- State: CO
+- ZIP: 81212
+- ZIP extension: 
+- State project ID: CO-98-0009
+- Latitude: 38.435466
+- Longitude: -105.229909
+- County FIPS: 08043
+- County from: 2020
+- Tract 2020: 08043978800
+- Tract 2010: 08043978800
+- Tract 2000: 08043978800
+- Tract 1990: 08043978800
+- Place 2020: 11810
+- Place 2010: 11810
+- Place 2000: 11810
+- Place 1990: 0175
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

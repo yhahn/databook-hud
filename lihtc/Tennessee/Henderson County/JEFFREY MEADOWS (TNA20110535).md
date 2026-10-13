@@ -1,0 +1,85 @@
+# Project: JEFFREY MEADOWS (TNA20110535)
+
+- HUD ID: TNA20110535
+- HUD ID before: 
+- Project: JEFFREY MEADOWS
+- Address: 391 N MAIN ST
+- City: LEXINGTON
+- State: TN
+- ZIP: 38351
+- ZIP extension: 
+- State project ID: TN-09-058
+- Latitude: 35.65509
+- Longitude: -88.40769
+- County FIPS: 47077
+- County from: 2020
+- Tract 2020: 47077975400
+- Tract 2010: 47077975400
+- Tract 2000: 47077975400
+- Tract 1990: 47077975400
+- Place 2020: 41980
+- Place 2010: 41980
+- Place 2000: 41980
+- Place 1990: 0805
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 504926
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 15
+- 3-bedroom units: 15
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 4
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 1261275
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2011045.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HOLLOW DRIVE HOUSING (VTA20030025)
+
+- HUD ID: VTA20030025
+- HUD ID before: 
+- Project: HOLLOW DRIVE HOUSING
+- Address: 60 HOLLOW DR
+- City: WHITE RIVER JUNCTION
+- State: VT
+- ZIP: 05001
+- ZIP extension: 
+- State project ID: 0235
+- Latitude: 43.665946
+- Longitude: -72.314111
+- County FIPS: 50027
+- County from: 2020
+- Tract 2020: 50027965600
+- Tract 2010: 50027965600
+- Tract 2000: 50027965600
+- Tract 1990: 50027965600
+- Place 2020: 84025
+- Place 2010: 84025
+- Place 2000: 83575
+- Place 1990: 3030
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 108054
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 4
+- 3-bedroom units: 7
+- 4-bedroom units: 3
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

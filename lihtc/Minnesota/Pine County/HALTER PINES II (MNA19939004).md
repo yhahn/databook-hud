@@ -1,0 +1,85 @@
+# Project: HALTER PINES II (MNA19939004)
+
+- HUD ID: MNA19939004
+- HUD ID before: 
+- Project: HALTER PINES II
+- Address: 900 HILLSIDE AVE
+- City: PINE CITY
+- State: MN
+- ZIP: 55063
+- ZIP extension: 
+- State project ID: D1125
+- Latitude: 45.819338
+- Longitude: -92.97559
+- County FIPS: 27115
+- County from: 2020
+- Tract 2020: 27115950700
+- Tract 2010: 27115950700
+- Tract 2000: 27115950700
+- Tract 1990: 27115950700
+- Place 2020: 51064
+- Place 2010: 51064
+- Place 2000: 51064
+- Place 1990: 3060
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1992
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

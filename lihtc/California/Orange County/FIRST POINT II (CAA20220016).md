@@ -1,0 +1,85 @@
+# Project: FIRST POINT II (CAA20220016)
+
+- HUD ID: CAA20220016
+- HUD ID before: 
+- Project: FIRST POINT II
+- Address: 2116 E. FIRST STREET
+- City: SANTA ANA
+- State: CA
+- ZIP: 92705
+- ZIP extension: 
+- State project ID: CA-2018-777
+- Latitude: 33.745472
+- Longitude: -117.837007
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059075403
+- Tract 2010: 06059075403
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69000
+- Place 2010: 69000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 3994042
+- Units: 206
+- Low-income units: 204
+- Units reported: 206
+- Low-income reported: 204
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 79
+- 3-bedroom units: 62
+- 4-bedroom units: 64
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 21
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

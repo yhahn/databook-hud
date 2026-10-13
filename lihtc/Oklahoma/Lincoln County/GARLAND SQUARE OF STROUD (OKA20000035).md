@@ -1,0 +1,85 @@
+# Project: GARLAND SQUARE OF STROUD (OKA20000035)
+
+- HUD ID: OKA20000035
+- HUD ID before: 
+- Project: GARLAND SQUARE OF STROUD
+- Address: 600 N CEDAR AVE
+- City: STROUD
+- State: OK
+- ZIP: 74079
+- ZIP extension: 
+- State project ID: OK-99-02-09
+- Latitude: 35.75164
+- Longitude: -96.650959
+- County FIPS: 40081
+- County from: 2020
+- Tract 2020: 40081961100
+- Tract 2010: 40081961100
+- Tract 2000: 40081981100
+- Tract 1990: 40081981100
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 71000
+- Place 1990: 2335
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 35
+- Units reported: 36
+- Low-income reported: 35
+- Efficiencies: 4
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 8
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

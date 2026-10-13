@@ -1,0 +1,85 @@
+# Project: BLUFFS ON MCCAIN II FKA NORTH PARK APARTMENTS (ARA20110824)
+
+- HUD ID: ARA20110824
+- HUD ID before: 
+- Project: BLUFFS ON MCCAIN II FKA NORTH PARK APARTMENTS
+- Address: 432 MCCAIN BLVD STE 106B
+- City: NORTH LITTLE ROCK
+- State: AR
+- ZIP: 72116
+- ZIP extension: 
+- State project ID: AR-09-17
+- Latitude: 34.799808
+- Longitude: -92.261913
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119003305
+- Tract 2010: 05119003305
+- Tract 2000: 05119003301
+- Tract 1990: 05119003301
+- Place 2020: 50450
+- Place 2010: 50450
+- Place 2000: 50450
+- Place 1990: 1475
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 210235
+- Units: 64
+- Low-income units: 63
+- Units reported: 64
+- Low-income reported: 63
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000549, ARA0000125. FKA NORTH PARK APTS
+- Record status: Existing, unchanged

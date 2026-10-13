@@ -1,0 +1,85 @@
+# Project: MONARCH @ CHINATOWN (FKA DORAGON @ CHINATOWN) (CAA20221054)
+
+- HUD ID: CAA20221054
+- HUD ID before: 
+- Project: MONARCH @ CHINATOWN (FKA DORAGON @ CHINATOWN)
+- Address: 1441 MARIPOSA STREET (FORMERLY 1101 F STREET)
+- City: FRESNO
+- State: CA
+- ZIP: 93706
+- ZIP extension: 
+- State project ID: CA-2020-430
+- Latitude: 36.71
+- Longitude: -119.8043
+- County FIPS: 06019
+- County from: 2020
+- Tract 2020: 06019000901
+- Tract 2010: 06019000901
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1473785
+- Units: 57
+- Low-income units: 56
+- Units reported: 57
+- Low-income reported: 56
+- Efficiencies: 15
+- 1-bedroom units: 16
+- 2-bedroom units: 23
+- 3-bedroom units: 3
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

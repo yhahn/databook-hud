@@ -1,0 +1,85 @@
+# Project: OAK GROVE HEIGHTS APTS (MOA19890768)
+
+- HUD ID: MOA19890768
+- HUD ID before: 
+- Project: OAK GROVE HEIGHTS APTS
+- Address: 1855 EAST DIVISION
+- City: BOLIVAR
+- State: MO
+- ZIP: 
+- ZIP extension: 
+- State project ID: 169084
+- Latitude: 37.619005
+- Longitude: -93.391512
+- County FIPS: 29167
+- County from: 2020
+- Tract 2020: 29167960202
+- Tract 2010: 29167960200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 06976
+- Place 2010: 06976
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 28
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

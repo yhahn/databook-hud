@@ -1,0 +1,85 @@
+# Project: PARK'S EDGE (VAA20050180)
+
+- HUD ID: VAA20050180
+- HUD ID before: 
+- Project: PARK'S EDGE
+- Address: 191 WHITEWOOD RD
+- City: CHARLOTTESVILLE
+- State: VA
+- ZIP: 22901
+- ZIP extension: 
+- State project ID: 8690
+- Latitude: 38.07439
+- Longitude: -78.492276
+- County FIPS: 51003
+- County from: 2020
+- Tract 2020: 51003010701
+- Tract 2010: 51003010700
+- Tract 2000: 51003010700
+- Tract 1990: 51003010700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 0332
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 579928
+- Units: 96
+- Low-income units: 96
+- Units reported: 96
+- Low-income reported: 96
+- Efficiencies: 0
+- 1-bedroom units: 19
+- 2-bedroom units: 58
+- 3-bedroom units: 19
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 10
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

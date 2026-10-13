@@ -1,0 +1,85 @@
+# Project: 24TH STREET PROJECT (GAA19950005)
+
+- HUD ID: GAA19950005
+- HUD ID before: 
+- Project: 24TH STREET PROJECT
+- Address: 621 24TH ST
+- City: COLUMBUS
+- State: GA
+- ZIP: 31904
+- ZIP extension: 8515
+- State project ID: GA-93-073
+- Latitude: 32.487139
+- Longitude: -84.983677
+- County FIPS: 13215
+- County from: 2020
+- Tract 2020: 13215011100
+- Tract 2010: 13215011100
+- Tract 2000: 13215001500
+- Tract 1990: 13215001500
+- Place 2020: 19000
+- Place 2010: 19000
+- Place 2000: 19007
+- Place 1990: 0660
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1994005. AKA 24TH STREET PROJECT.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: EAGLES RUN II (GAA19990030)
+
+- HUD ID: GAA19990030
+- HUD ID before: 
+- Project: EAGLES RUN II
+- Address: 2000 BOULDERCREST RD SE
+- City: ATLANTA
+- State: GA
+- ZIP: 30316
+- ZIP extension: 
+- State project ID: GA-95-127
+- Latitude: 33.700734
+- Longitude: -84.326341
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089023802
+- Tract 2010: 13089023802
+- Tract 2000: 13089023802
+- Tract 1990: 13089023802
+- Place 2020: 35240
+- Place 2010: 35240
+- Place 2000: 35240
+- Place 1990: 1267
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 78
+- Low-income units: 78
+- Units reported: 78
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 48
+- 3-bedroom units: 0
+- 4-bedroom units: 18
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1996240, GAA1996237, GAA1996075.
+- Record status: Existing, unchanged

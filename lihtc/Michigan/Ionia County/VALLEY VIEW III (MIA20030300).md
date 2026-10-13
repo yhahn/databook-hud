@@ -1,0 +1,85 @@
+# Project: VALLEY VIEW III (MIA20030300)
+
+- HUD ID: MIA20030300
+- HUD ID before: 
+- Project: VALLEY VIEW III
+- Address: 718 N STATE ST
+- City: IONIA
+- State: MI
+- ZIP: 48846
+- ZIP extension: 
+- State project ID: MI-1033
+- Latitude: 42.990673
+- Longitude: -85.074762
+- County FIPS: 26067
+- County from: 2020
+- Tract 2020: 26067031600
+- Tract 2010: 26067031600
+- Tract 2000: 26067031600
+- Tract 1990: 26067031600
+- Place 2020: 40860
+- Place 2010: 40860
+- Place 2000: 40860
+- Place 1990: 1325
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 39
+- Low-income units: 39
+- Units reported: 39
+- Low-income reported: 39
+- Efficiencies: 0
+- 1-bedroom units: 34
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Sale under qualified contract
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

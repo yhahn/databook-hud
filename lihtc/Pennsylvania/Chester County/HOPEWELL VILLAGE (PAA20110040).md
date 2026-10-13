@@ -1,0 +1,85 @@
+# Project: HOPEWELL VILLAGE (PAA20110040)
+
+- HUD ID: PAA20110040
+- HUD ID before: 
+- Project: HOPEWELL VILLAGE
+- Address: 58 E MAIN ST
+- City: ELVERSON
+- State: PA
+- ZIP: 19520
+- ZIP extension: 
+- State project ID: TC20090531
+- Latitude: 40.157274
+- Longitude: -75.829857
+- County FIPS: 42029
+- County from: 2020
+- Tract 2020: 42029311500
+- Tract 2010: 42029311500
+- Tract 2000: 42029304800
+- Tract 1990: 42029304800
+- Place 2020: 23440
+- Place 2010: 23440
+- Place 2000: 23440
+- Place 1990: 3640
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 1671182
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 71
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 71
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1941291
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA2011503.
+- Record status: Existing, unchanged

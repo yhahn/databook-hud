@@ -1,0 +1,85 @@
+# Project: LONDON ARMS (FLA19920085)
+
+- HUD ID: FLA19920085
+- HUD ID before: 
+- Project: LONDON ARMS
+- Address: 727 COLLINS AVE
+- City: MIAMI BEACH
+- State: FL
+- ZIP: 33139
+- ZIP extension: 
+- State project ID: 484
+- Latitude: 25.777198
+- Longitude: -80.132248
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086004404
+- Tract 2010: 12086004404
+- Tract 2000: 12086004402
+- Tract 1990: 12025004400
+- Place 2020: 45025
+- Place 2010: 45025
+- Place 2000: 45025
+- Place 1990: 1375
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 
+- Units: 58
+- Low-income units: 58
+- Units reported: 58
+- Low-income reported: 58
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

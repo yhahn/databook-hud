@@ -1,0 +1,85 @@
+# Project: EAGLE MARKET PLACE (NCA20194011)
+
+- HUD ID: NCA20194011
+- HUD ID before: 
+- Project: EAGLE MARKET PLACE
+- Address: 21 EAGLE ST
+- City: ASHEVILLE
+- State: NC
+- ZIP: 28801
+- ZIP extension: 3727
+- State project ID: 9133511
+- Latitude: 35.594093
+- Longitude: -82.550542
+- County FIPS: 37021
+- County from: 2020
+- Tract 2020: 37021000100
+- Tract 2010: 37021000100
+- Tract 2000: 37021000100
+- Tract 1990: 
+- Place 2020: 02140
+- Place 2010: 02140
+- Place 2000: 02140
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 550000
+- Units: 62
+- Low-income units: 32
+- Units reported: 62
+- Low-income reported: 32
+- Efficiencies: 1
+- 1-bedroom units: 41
+- 2-bedroom units: 17
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1860000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

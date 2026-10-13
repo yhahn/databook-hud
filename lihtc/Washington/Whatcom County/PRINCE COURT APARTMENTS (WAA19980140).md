@@ -1,0 +1,85 @@
+# Project: PRINCE COURT APARTMENTS (WAA19980140)
+
+- HUD ID: WAA19980140
+- HUD ID before: 
+- Project: PRINCE COURT APARTMENTS
+- Address: 214 PRINCE STREET
+- City: BELLINGHAM
+- State: WA
+- ZIP: 98226
+- ZIP extension: 
+- State project ID: 96-36Y
+- Latitude: 48.791651
+- Longitude: -122.47983
+- County FIPS: 53073
+- County from: 2020
+- Tract 2020: 53073000102
+- Tract 2010: 53073000100
+- Tract 2000: 53073000100
+- Tract 1990: 53073000100
+- Place 2020: 05280
+- Place 2010: 05280
+- Place 2000: 05280
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 223072
+- Units: 25
+- Low-income units: 25
+- Units reported: 25
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 13
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

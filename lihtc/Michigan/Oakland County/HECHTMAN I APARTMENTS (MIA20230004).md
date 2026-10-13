@@ -1,0 +1,85 @@
+# Project: HECHTMAN I APARTMENTS (MIA20230004)
+
+- HUD ID: MIA20230004
+- HUD ID before: 
+- Project: HECHTMAN I APARTMENTS
+- Address: 6700 WEST MAPLE ROAD
+- City: WEST BLOOMFIELD
+- State: MI
+- ZIP: 48322
+- ZIP extension: 0000
+- State project ID: 3717
+- Latitude: 42.54177
+- Longitude: -83.40642
+- County FIPS: 26125
+- County from: 2020
+- Tract 2020: 26125157700
+- Tract 2010: 26125157500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2024
+- Allocation year note: 
+- Allocation amount: 1725503
+- Units: 103
+- Low-income units: 102
+- Units reported: 103
+- Low-income reported: 102
+- Efficiencies: 0
+- 1-bedroom units: 102
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

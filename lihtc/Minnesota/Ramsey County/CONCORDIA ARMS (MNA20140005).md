@@ -1,0 +1,85 @@
+# Project: CONCORDIA ARMS (MNA20140005)
+
+- HUD ID: MNA20140005
+- HUD ID before: 
+- Project: CONCORDIA ARMS
+- Address: 2030 LYDIA AVE E
+- City: MAPLEWOOD
+- State: MN
+- ZIP: 55109
+- ZIP extension: 
+- State project ID: D3352
+- Latitude: 45.031503
+- Longitude: -93.0152
+- County FIPS: 27123
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27123042401
+- Tract 2000: 27123042401
+- Tract 1990: 27123042401
+- Place 2020: 
+- Place 2010: 40382
+- Place 2000: 40382
+- Place 1990: 2455
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 418375
+- Units: 125
+- Low-income units: 125
+- Units reported: 125
+- Low-income reported: 125
+- Efficiencies: 0
+- 1-bedroom units: 124
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MNA2012021.
+- Record status: Existing, unchanged

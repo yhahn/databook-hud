@@ -1,0 +1,85 @@
+# Project: OCHOCO SCHOOL APTS (ORA20180011)
+
+- HUD ID: ORA20180011
+- HUD ID before: 
+- Project: OCHOCO SCHOOL APTS
+- Address: 440 NW MADRAS HWY
+- City: PRINEVILLE
+- State: OR
+- ZIP: 97754
+- ZIP extension: 
+- State project ID: 3235
+- Latitude: 44.304126
+- Longitude: -120.859238
+- County FIPS: 41013
+- County from: 2020
+- Tract 2020: 41013950302
+- Tract 2010: 41013950300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 59850
+- Place 2010: 59850
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 804788
+- Units: 29
+- Low-income units: 28
+- Units reported: 29
+- Low-income reported: 28
+- Efficiencies: 2
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 29
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: Yes
+- Other population named: Workforce, Veterans
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

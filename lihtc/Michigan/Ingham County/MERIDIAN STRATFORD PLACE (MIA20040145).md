@@ -1,0 +1,85 @@
+# Project: MERIDIAN STRATFORD PLACE (MIA20040145)
+
+- HUD ID: MIA20040145
+- HUD ID before: 
+- Project: MERIDIAN STRATFORD PLACE
+- Address: 2790 SIRHAL DR
+- City: EAST LANSING
+- State: MI
+- ZIP: 48823
+- ZIP extension: 
+- State project ID: MI-2015
+- Latitude: 42.729389
+- Longitude: -84.454774
+- County FIPS: 26065
+- County from: 2020
+- Tract 2020: 26065004301
+- Tract 2010: 26065004301
+- Tract 2000: 26065004301
+- Tract 1990: 26065004301
+- Place 2020: 60340
+- Place 2010: 60340
+- Place 2000: 24120
+- Place 1990: 0765
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

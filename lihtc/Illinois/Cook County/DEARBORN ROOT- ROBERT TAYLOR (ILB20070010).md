@@ -1,0 +1,85 @@
+# Project: DEARBORN ROOT- ROBERT TAYLOR (ILB20070010)
+
+- HUD ID: ILB20070010
+- HUD ID before: 
+- Project: DEARBORN ROOT- ROBERT TAYLOR
+- Address: 4006 S FEDERAL ST
+- City: CHICAGO
+- State: IL
+- ZIP: 60609
+- ZIP extension: 
+- State project ID: TC05-013
+- Latitude: 41.821723
+- Longitude: -87.628787
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031380600
+- Tract 2010: 17031380500
+- Tract 2000: 17031380500
+- Tract 1990: 17031380500
+- Place 2020: 14000
+- Place 2010: 14000
+- Place 2000: 14000
+- Place 1990: 1051
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 977670
+- Units: 151
+- Low-income units: 151
+- Units reported: 151
+- Low-income reported: 151
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 70
+- 3-bedroom units: 61
+- 4-bedroom units: 7
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 60
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 8734000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

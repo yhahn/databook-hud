@@ -1,0 +1,85 @@
+# Project: SANDPIPER APTS (ALA20030115)
+
+- HUD ID: ALA20030115
+- HUD ID before: 
+- Project: SANDPIPER APTS
+- Address: 100 SANDPIPER ST
+- City: CARROLLTON
+- State: AL
+- ZIP: 35447
+- ZIP extension: 
+- State project ID: AL-03-0037
+- Latitude: 33.27147
+- Longitude: -88.092932
+- County FIPS: 01107
+- County from: 2020
+- Tract 2020: 01107050300
+- Tract 2010: 01107050300
+- Tract 2000: 01107050300
+- Tract 1990: 01107987900
+- Place 2020: 12304
+- Place 2010: 12304
+- Place 2000: 12304
+- Place 1990: 
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 238830
+- Units: 52
+- Low-income units: 52
+- Units reported: 52
+- Low-income reported: 52
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 16
+- 3-bedroom units: 28
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 52
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA2004085.
+- Record status: Existing, unchanged

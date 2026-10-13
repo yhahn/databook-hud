@@ -1,0 +1,85 @@
+# Project: MAPLE GLEN APTS (SCA20010062)
+
+- HUD ID: SCA20010062
+- HUD ID before: 
+- Project: MAPLE GLEN APTS
+- Address: 1810 CLINTON ST
+- City: BARNWELL
+- State: SC
+- ZIP: 29812
+- ZIP extension: 
+- State project ID: SC-00-002
+- Latitude: 33.241673
+- Longitude: -81.376981
+- County FIPS: 45011
+- County from: 2020
+- Tract 2020: 45011970300
+- Tract 2010: 45011970300
+- Tract 2000: 45011970300
+- Tract 1990: 45011970300
+- Place 2020: 04060
+- Place 2010: 04060
+- Place 2000: 04060
+- Place 1990: 0085
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 51339
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 24
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 26
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS SCA2002070.
+- Record status: Existing, unchanged

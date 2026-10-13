@@ -1,0 +1,85 @@
+# Project: HOMES OF MOUNTAIN CREEK (TXA20060445)
+
+- HUD ID: TXA20060445
+- HUD ID before: 
+- Project: HOMES OF MOUNTAIN CREEK
+- Address: 1350 SKYLINE RD
+- City: GRAND PRAIRIE
+- State: TX
+- ZIP: 75051
+- ZIP extension: 
+- State project ID: TX5401
+- Latitude: 32.735098
+- Longitude: -96.98678
+- County FIPS: 48113
+- County from: 2020
+- Tract 2020: 48113015900
+- Tract 2010: 48113015900
+- Tract 2000: 48113015900
+- Tract 1990: 48113015900
+- Place 2020: 30464
+- Place 2010: 30464
+- Place 2000: 19000
+- Place 1990: 1695
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 729317
+- Units: 200
+- Low-income units: 200
+- Units reported: 200
+- Low-income reported: 200
+- Efficiencies: 0
+- 1-bedroom units: 44
+- 2-bedroom units: 88
+- 3-bedroom units: 68
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

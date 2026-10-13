@@ -1,0 +1,85 @@
+# Project: TERRACE RIDGE APTS (OHA19970290)
+
+- HUD ID: OHA19970290
+- HUD ID before: 
+- Project: TERRACE RIDGE APTS
+- Address: 67 CLOVERLEAF DR
+- City: TROY
+- State: OH
+- ZIP: 45373
+- ZIP extension: 
+- State project ID: 970074
+- Latitude: 40.037618
+- Longitude: -84.220871
+- County FIPS: 39109
+- County from: 2020
+- Tract 2020: 39109365301
+- Tract 2010: 39109365301
+- Tract 2000: 39109365301
+- Tract 1990: 39109365301
+- Place 2020: 77588
+- Place 2010: 77588
+- Place 2000: 77588
+- Place 1990: 4300
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 118540
+- Units: 167
+- Low-income units: 167
+- Units reported: 167
+- Low-income reported: 167
+- Efficiencies: 50
+- 1-bedroom units: 80
+- 2-bedroom units: 37
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

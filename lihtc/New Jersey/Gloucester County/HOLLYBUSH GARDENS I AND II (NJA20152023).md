@@ -1,0 +1,85 @@
+# Project: HOLLYBUSH GARDENS I AND II (NJA20152023)
+
+- HUD ID: NJA20152023
+- HUD ID before: 
+- Project: HOLLYBUSH GARDENS I AND II
+- Address: 252 RUTH AVE.
+- City: GLASSBORO
+- State: NJ
+- ZIP: 08028
+- ZIP extension: 
+- State project ID: 2452
+- Latitude: 39.704994
+- Longitude: -75.104776
+- County FIPS: 34015
+- County from: 2020
+- Tract 2020: 34015501406
+- Tract 2010: 34015501406
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 26340
+- Place 2010: 26340
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 713573
+- Units: 251
+- Low-income units: 227
+- Units reported: 251
+- Low-income reported: 227
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

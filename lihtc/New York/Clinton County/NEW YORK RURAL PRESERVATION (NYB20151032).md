@@ -1,0 +1,85 @@
+# Project: NEW YORK RURAL PRESERVATION (NYB20151032)
+
+- HUD ID: NYB20151032
+- HUD ID before: 
+- Project: NEW YORK RURAL PRESERVATION
+- Address: 47 HOPKINTON TPKE
+- City: AU SABLE FORKS
+- State: NY
+- ZIP: 12912
+- ZIP extension: 
+- State project ID: NY-14-2104
+- Latitude: 44.443954
+- Longitude: -73.684503
+- County FIPS: 36019
+- County from: 2020
+- Tract 2020: 36019103800
+- Tract 2010: 36019101800
+- Tract 2000: 36019101800
+- Tract 1990: 
+- Place 2020: 03254
+- Place 2010: 03254
+- Place 2000: 03254
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 695217
+- Units: 246
+- Low-income units: 217
+- Units reported: 246
+- Low-income reported: 217
+- Efficiencies: 0
+- 1-bedroom units: 100
+- 2-bedroom units: 118
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THE MILL AT MIDDLETOWN (NYA20162065)
+
+- HUD ID: NYA20162065
+- HUD ID before: 
+- Project: THE MILL AT MIDDLETOWN
+- Address: 34 MILL STREET
+- City: MIDDLETOWN
+- State: NY
+- ZIP: 10940
+- ZIP extension: 
+- State project ID: 20126106
+- Latitude: 41.47106
+- Longitude: -74.405463
+- County FIPS: 36071
+- County from: 2020
+- Tract 2020: 36071001200
+- Tract 2010: 36071001200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 47042
+- Place 2010: 47042
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 902643
+- Units: 42
+- Low-income units: 42
+- Units reported: 42
+- Low-income reported: 42
+- Efficiencies: 
+- 1-bedroom units: 17
+- 2-bedroom units: 22
+- 3-bedroom units: 3
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 8
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: PERSONS WITH AIDS/HIV; SUBSTANCE ABUSE
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

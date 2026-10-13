@@ -1,0 +1,85 @@
+# Project: LIVINGSTON SENIORS APARTMENTS (TXA00000383)
+
+- HUD ID: TXA00000383
+- HUD ID before: 
+- Project: LIVINGSTON SENIORS APARTMENTS
+- Address: 1600 N HOUSTON AVE
+- City: LIVINGSTON
+- State: TX
+- ZIP: 77351
+- ZIP extension: 
+- State project ID: TX1095
+- Latitude: 30.72085
+- Longitude: -94.930719
+- County FIPS: 48373
+- County from: 2020
+- Tract 2020: 48373210500
+- Tract 2010: 48373210500
+- Tract 2000: 48373210500
+- Tract 1990: 48373210500
+- Place 2020: 43132
+- Place 2010: 43132
+- Place 2000: 43132
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 6331
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Non-metro
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: DESERT WILLOW APTS (NMA19990010)
+
+- HUD ID: NMA19990010
+- HUD ID before: 
+- Project: DESERT WILLOW APTS
+- Address: 8901 JEFFERSON ST NE
+- City: ALBUQUERQUE
+- State: NM
+- ZIP: 87113
+- ZIP extension: 
+- State project ID: 00276
+- Latitude: 35.187106
+- Longitude: -106.591964
+- County FIPS: 35001
+- County from: 2020
+- Tract 2020: 35001003736
+- Tract 2010: 35001003736
+- Tract 2000: 35001003734
+- Tract 1990: 35001003798
+- Place 2020: 02000
+- Place 2010: 02000
+- Place 2000: 02000
+- Place 1990: 0301
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 224
+- Low-income units: 223
+- Units reported: 224
+- Low-income reported: 223
+- Efficiencies: 0
+- 1-bedroom units: 112
+- 2-bedroom units: 112
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

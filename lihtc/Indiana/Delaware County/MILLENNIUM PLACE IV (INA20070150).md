@@ -1,0 +1,85 @@
+# Project: MILLENNIUM PLACE IV (INA20070150)
+
+- HUD ID: INA20070150
+- HUD ID before: 
+- Project: MILLENNIUM PLACE IV
+- Address: 451 E SECOND ST
+- City: MUNCIE
+- State: IN
+- ZIP: 47302
+- ZIP extension: 
+- State project ID: IN-05-01700
+- Latitude: 40.1867
+- Longitude: -85.383158
+- County FIPS: 18035
+- County from: 2020
+- Tract 2020: 18035000400
+- Tract 2010: 18035000400
+- Tract 2000: 18035000400
+- Tract 1990: 18035000400
+- Place 2020: 51876
+- Place 2010: 51876
+- Place 2000: 51876
+- Place 1990: 1735
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 398800
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 22
+- 3-bedroom units: 11
+- 4-bedroom units: 5
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: GRANT PARK COMMONS (GAA19960105)
+
+- HUD ID: GAA19960105
+- HUD ID before: 
+- Project: GRANT PARK COMMONS
+- Address: 1940 FISHER RD SE
+- City: ATLANTA
+- State: GA
+- ZIP: 30315
+- ZIP extension: 
+- State project ID: GA-94-059
+- Latitude: 33.71089
+- Longitude: -84.358126
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121006900
+- Tract 2010: 13121006900
+- Tract 2000: 13121006900
+- Tract 1990: 13121006900
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 04000
+- Place 1990: 0150
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 338
+- Low-income units: 338
+- Units reported: 338
+- Low-income reported: 338
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 331
+- 3-bedroom units: 7
+- 4-bedroom units: 7
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

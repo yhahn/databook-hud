@@ -1,0 +1,85 @@
+# Project: SUNSET POINTE APARTMENTS (WAA19950801)
+
+- HUD ID: WAA19950801
+- HUD ID before: 
+- Project: SUNSET POINTE APARTMENTS
+- Address: 330 VUEMONT PLACE NE
+- City: RENTON
+- State: WA
+- ZIP: 98056
+- ZIP extension: 3602
+- State project ID: 94-39A
+- Latitude: 47.487086
+- Longitude: -122.191744
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033025402
+- Tract 2010: 53033025400
+- Tract 2000: 53033025400
+- Tract 1990: 53033025400
+- Place 2020: 57745
+- Place 2010: 57745
+- Place 2000: 57745
+- Place 1990: 1070
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 55187
+- Units: 36
+- Low-income units: 33
+- Units reported: 36
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 34
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA1995060. AKA HERITAGE SUNSET APTS.
+- Record status: Existing, unchanged

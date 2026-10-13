@@ -1,0 +1,85 @@
+# Project: COURTYARDS OF KETTERING (OHA20000040)
+
+- HUD ID: OHA20000040
+- HUD ID before: 
+- Project: COURTYARDS OF KETTERING
+- Address: 3248 GRACEMORE AVE
+- City: KETTERING
+- State: OH
+- ZIP: 45420
+- ZIP extension: 
+- State project ID: 960138
+- Latitude: 39.694675
+- Longitude: -84.107794
+- County FIPS: 39113
+- County from: 2020
+- Tract 2020: 39113021400
+- Tract 2010: 39113021400
+- Tract 2000: 39113021400
+- Tract 1990: 39113021400
+- Place 2020: 40040
+- Place 2010: 40040
+- Place 2000: 40040
+- Place 1990: 2025
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 162744
+- Units: 104
+- Low-income units: 104
+- Units reported: 104
+- Low-income reported: 104
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 63
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

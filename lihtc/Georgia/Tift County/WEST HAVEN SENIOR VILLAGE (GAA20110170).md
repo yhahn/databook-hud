@@ -1,0 +1,85 @@
+# Project: WEST HAVEN SENIOR VILLAGE (GAA20110170)
+
+- HUD ID: GAA20110170
+- HUD ID before: 
+- Project: WEST HAVEN SENIOR VILLAGE
+- Address: 2760 EB HAMILTON DR
+- City: TIFTON
+- State: GA
+- ZIP: 31793
+- ZIP extension: 
+- State project ID: GA-08-073
+- Latitude: 31.459742
+- Longitude: -83.560427
+- County FIPS: 13277
+- County from: 2020
+- Tract 2020: 13277960700
+- Tract 2010: 13277960700
+- Tract 2000: 13277990700
+- Tract 1990: 13277990700
+- Place 2020: 76476
+- Place 2010: 76476
+- Place 2000: 60508
+- Place 1990: 2820
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Not confirmed (8888)
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 0
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

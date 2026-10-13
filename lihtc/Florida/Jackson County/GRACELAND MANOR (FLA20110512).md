@@ -1,0 +1,85 @@
+# Project: GRACELAND MANOR (FLA20110512)
+
+- HUD ID: FLA20110512
+- HUD ID before: 
+- Project: GRACELAND MANOR
+- Address: 5445 BROWN ST
+- City: GRACEVILLE
+- State: FL
+- ZIP: 32440
+- ZIP extension: 
+- State project ID: 2150
+- Latitude: 30.964395
+- Longitude: -85.51539
+- County FIPS: 12063
+- County from: 2020
+- Tract 2020: 12063210302
+- Tract 2010: 12063210300
+- Tract 2000: 12063980300
+- Tract 1990: 12063980300
+- Place 2020: 27000
+- Place 2010: 27000
+- Place 2000: 27000
+- Place 1990: 0759
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 30
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 155900
+- CDBG: 
+- CDBG amount: 
+- TCAP: Yes
+- TCAP amount: 1204373
+- TCEP: Yes
+- TCEP amount: 1774996
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: LINK
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA2011070.
+- Record status: Existing, unchanged

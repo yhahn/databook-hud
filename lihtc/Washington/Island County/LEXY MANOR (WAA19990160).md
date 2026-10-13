@@ -1,0 +1,85 @@
+# Project: LEXY MANOR (WAA19990160)
+
+- HUD ID: WAA19990160
+- HUD ID before: 
+- Project: LEXY MANOR
+- Address: 300 NE SEVENTH AVE
+- City: OAK HARBOR
+- State: WA
+- ZIP: 98277
+- ZIP extension: 
+- State project ID: 97-44B
+- Latitude: 48.303929
+- Longitude: -122.653909
+- County FIPS: 53029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53029970400
+- Tract 2000: 53029970400
+- Tract 1990: 53029970400
+- Place 2020: 
+- Place 2010: 50360
+- Place 2000: 03215
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 127852
+- Units: 26
+- Low-income units: 25
+- Units reported: 26
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 6
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 25
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: Yes
+- Other population named: LARGE FAMILY
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

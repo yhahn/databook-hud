@@ -1,0 +1,85 @@
+# Project: CALEXICO ANDRADE APTS (CAA20110055)
+
+- HUD ID: CAA20110055
+- HUD ID before: 
+- Project: CALEXICO ANDRADE APTS
+- Address: 1080 MEADOW DR
+- City: CALEXICO
+- State: CA
+- ZIP: 92231
+- ZIP extension: 
+- State project ID: CA-10-250
+- Latitude: 32.691469
+- Longitude: -115.485097
+- County FIPS: 06025
+- County from: 2020
+- Tract 2020: 06025011902
+- Tract 2010: 06025011900
+- Tract 2000: 06025011900
+- Tract 1990: 06025011900
+- Place 2020: 09710
+- Place 2010: 09710
+- Place 2000: 09710
+- Place 1990: 0365
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 711834
+- Units: 52
+- Low-income units: 51
+- Units reported: 52
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 13
+- 2-bedroom units: 15
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 39
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: Yes
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011552. AKA VILLA DEL SOL.
+- Record status: Existing, unchanged

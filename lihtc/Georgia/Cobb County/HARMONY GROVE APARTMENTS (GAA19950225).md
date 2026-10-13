@@ -1,0 +1,85 @@
+# Project: HARMONY GROVE APARTMENTS (GAA19950225)
+
+- HUD ID: GAA19950225
+- HUD ID before: 
+- Project: HARMONY GROVE APARTMENTS
+- Address: 2016 OLIVE SPRINGS RD SE
+- City: MARIETTA
+- State: GA
+- ZIP: 30060
+- ZIP extension: 
+- State project ID: GA-93-074
+- Latitude: 33.903981
+- Longitude: -84.553539
+- County FIPS: 13067
+- County from: 2020
+- Tract 2020: 13067031006
+- Tract 2010: 13067031002
+- Tract 2000: 13067031002
+- Tract 1990: 13067031002
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 28520
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 12
+- 1-bedroom units: 23
+- 2-bedroom units: 40
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA1994080.
+- Record status: Existing, unchanged

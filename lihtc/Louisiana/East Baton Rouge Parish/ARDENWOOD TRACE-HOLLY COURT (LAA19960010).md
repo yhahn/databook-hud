@@ -1,0 +1,85 @@
+# Project: ARDENWOOD TRACE/HOLLY COURT (LAA19960010)
+
+- HUD ID: LAA19960010
+- HUD ID before: 
+- Project: ARDENWOOD TRACE/HOLLY COURT
+- Address: 1070 N. ARDENWOOD
+- City: BATON ROUGE
+- State: LA
+- ZIP: 70806
+- ZIP extension: 0000
+- State project ID: LA-94-053
+- Latitude: 30.45981
+- Longitude: -91.127511
+- County FIPS: 22033
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 22033001104
+- Tract 2000: 22033001104
+- Tract 1990: 22033001104
+- Place 2020: 
+- Place 2010: 05000
+- Place 2000: 05000
+- Place 1990: 0095
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 128
+- Low-income units: 128
+- Units reported: 128
+- Low-income reported: 128
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 4
+- 4-bedroom units: 128
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS LAA0000030. AKA HOLLY COURT.
+- Record status: Existing, unchanged

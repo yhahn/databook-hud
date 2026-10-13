@@ -1,0 +1,85 @@
+# Project: CRESCENT APTS (PAA20119266)
+
+- HUD ID: PAA20119266
+- HUD ID before: 
+- Project: CRESCENT APTS
+- Address: 738 REBECCA AVE
+- City: WILKINSBURG
+- State: PA
+- ZIP: 15221
+- ZIP extension: 
+- State project ID: TC20100520
+- Latitude: 40.439886
+- Longitude: -79.88525
+- County FIPS: 42003
+- County from: 2020
+- Tract 2020: 42003564700
+- Tract 2010: 42003560600
+- Tract 2000: 42003560600
+- Tract 1990: 42003560600
+- Place 2020: 85188
+- Place 2010: 85188
+- Place 2000: 85188
+- Place 1990: 8910
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 5268242
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

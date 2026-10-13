@@ -1,0 +1,85 @@
+# Project: SEASONS AT COMPTON (CAA20110435)
+
+- HUD ID: CAA20110435
+- HUD ID before: 
+- Project: SEASONS AT COMPTON
+- Address: 15810 S FRAILEY AVE
+- City: COMPTON
+- State: CA
+- ZIP: 90221
+- ZIP extension: 
+- State project ID: CA-09-195
+- Latitude: 33.889376
+- Longitude: -118.190574
+- County FIPS: 06037
+- County from: 2020
+- Tract 2020: 06037542106
+- Tract 2010: 06037542106
+- Tract 2000: 06037542102
+- Tract 1990: 06037542102
+- Place 2020: 21034
+- Place 2010: 21034
+- Place 2000: 15044
+- Place 1990: 0590
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1318793
+- Units: 84
+- Low-income units: 83
+- Units reported: 84
+- Low-income reported: 83
+- Efficiencies: 0
+- 1-bedroom units: 68
+- 2-bedroom units: 16
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 83
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 3398313
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 1582552
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011630.
+- Record status: Existing, unchanged

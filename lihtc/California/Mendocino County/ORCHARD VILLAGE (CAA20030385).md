@@ -1,0 +1,85 @@
+# Project: ORCHARD VILLAGE (CAA20030385)
+
+- HUD ID: CAA20030385
+- HUD ID before: 
+- Project: ORCHARD VILLAGE
+- Address: 548 FORD ST
+- City: UKIAH
+- State: CA
+- ZIP: 95482
+- ZIP extension: 
+- State project ID: CA-02-910
+- Latitude: 39.156864
+- Longitude: -123.200282
+- County FIPS: 06045
+- County from: 2020
+- Tract 2020: 06045011502
+- Tract 2010: 06045011500
+- Tract 2000: 06045011500
+- Tract 1990: 06045011500
+- Place 2020: 81134
+- Place 2010: 81134
+- Place 2000: 81134
+- Place 1990: 2980
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 102682
+- Units: 48
+- Low-income units: 47
+- Units reported: 48
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 20
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: THREADGILL-WEATHERSPOON APTS (ALA19980132)
+
+- HUD ID: ALA19980132
+- HUD ID before: 
+- Project: THREADGILL-WEATHERSPOON APTS
+- Address: 1101 T L THREADGILL RD
+- City: CAMDEN
+- State: AL
+- ZIP: 36726
+- ZIP extension: 
+- State project ID: AL-99-0038
+- Latitude: 32.002621
+- Longitude: -87.319552
+- County FIPS: 01131
+- County from: 2020
+- Tract 2020: 01131034801
+- Tract 2010: 01131034800
+- Tract 2000: 01131994800
+- Tract 1990: 01131994800
+- Place 2020: 11512
+- Place 2010: 99999
+- Place 2000: 11512
+- Place 1990: 
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 177561
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 14
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 785000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ALA1999145. FKA SUMMER WOOD
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: VISTAS DEL RIO APTS II (PRA20040030)
+
+- HUD ID: PRA20040030
+- HUD ID before: 
+- Project: VISTAS DEL RIO APTS II
+- Address: 345 CARR 8860
+- City: TRUJILLO ALTO
+- State: PR
+- ZIP: 00976
+- ZIP extension: 
+- State project ID: 02-002
+- Latitude: 18.3638
+- Longitude: -66.0105
+- County FIPS: 72139
+- County from: 2020
+- Tract 2020: 72139060104
+- Tract 2010: 72139060211
+- Tract 2000: 72139060211
+- Tract 1990: 72139060211
+- Place 2020: 83606
+- Place 2010: 83606
+- Place 2000: 83606
+- Place 1990: 
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 1761012
+- Units: 168
+- Low-income units: 168
+- Units reported: 168
+- Low-income reported: 168
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 72
+- 3-bedroom units: 96
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PRA2004015, PRA2000050.
+- Record status: Existing, unchanged

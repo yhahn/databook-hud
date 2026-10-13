@@ -1,0 +1,25 @@
+# Tax Credit Projects: Churchill County, NV
+
+- Level: County
+- Postal code: NV
+- State FIPS: 32
+- County FIPS: 32001
+- Counties: 
+- Projects: 8
+- Units: 244
+- Low-income units: 243
+
+The low-income housing tax credit projects of Churchill County, Nevada, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [BELLAIRE APTS (NVA00000020)](./Churchill%20County/BELLAIRE%20APTS%20%28NVA00000020%29.md) | NVA00000020 | FALLON |  | 21 | 21 |
+| [BELLEWOOD APTS (NVA00000025)](./Churchill%20County/BELLEWOOD%20APTS%20%28NVA00000025%29.md) | NVA00000025 | FALLON |  | 20 | 20 |
+| [DESERTAIRE APTS (NVA00000040)](./Churchill%20County/DESERTAIRE%20APTS%20%28NVA00000040%29.md) | NVA00000040 | FALLON |  | 19 | 19 |
+| [ARBORWOOD I APARTMENTS (NVA19919001)](./Churchill%20County/ARBORWOOD%20I%20APARTMENTS%20%28NVA19919001%29.md) | NVA19919001 | FALLON | 1991 | 36 | 35 |
+| [ARBORWOOD III APARTMENTS (NVA19929001)](./Churchill%20County/ARBORWOOD%20III%20APARTMENTS%20%28NVA19929001%29.md) | NVA19929001 | FALLON | 1992 | 24 | 24 |
+| [ARBORWOOD II APARTMENTS (NVA19939001)](./Churchill%20County/ARBORWOOD%20II%20APARTMENTS%20%28NVA19939001%29.md) | NVA19939001 | FALLON | 1993 | 36 | 36 |
+| [STILLWATER APTS (NVA19950035)](./Churchill%20County/STILLWATER%20APTS%20%28NVA19950035%29.md) | NVA19950035 | FALLON | 1995 | 40 | 40 |
+| [INDIGO VILLAGE APARTMENTS (NVA20141004)](./Churchill%20County/INDIGO%20VILLAGE%20APARTMENTS%20%28NVA20141004%29.md) | NVA20141004 | FALLON | 2014 | 48 | 48 |

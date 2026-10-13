@@ -1,0 +1,85 @@
+# Project: BRIDGEPORT PROPERTIES II (CAA19990750)
+
+- HUD ID: CAA19990750
+- HUD ID before: 
+- Project: BRIDGEPORT PROPERTIES II
+- Address: 4283 EL CAJON BLVD
+- City: SAN DIEGO
+- State: CA
+- ZIP: 92105
+- ZIP extension: 
+- State project ID: CA-98-803
+- Latitude: 32.754909
+- Longitude: -117.102234
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073002202
+- Tract 2010: 06073002202
+- Tract 2000: 06073002202
+- Tract 1990: 06073002200
+- Place 2020: 66000
+- Place 2010: 66000
+- Place 2000: 66000
+- Place 1990: 2475
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 457180
+- Units: 244
+- Low-income units: 242
+- Units reported: 244
+- Low-income reported: 242
+- Efficiencies: 0
+- 1-bedroom units: 125
+- 2-bedroom units: 72
+- 3-bedroom units: 47
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

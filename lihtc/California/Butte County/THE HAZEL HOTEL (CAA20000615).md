@@ -1,0 +1,85 @@
+# Project: THE HAZEL HOTEL (CAA20000615)
+
+- HUD ID: CAA20000615
+- HUD ID before: 
+- Project: THE HAZEL HOTEL
+- Address: 880 HAZEL ST
+- City: GRIDLEY
+- State: CA
+- ZIP: 95948
+- ZIP extension: 
+- State project ID: CA-99-182
+- Latitude: 39.364839
+- Longitude: -121.696719
+- County FIPS: 06007
+- County from: 2020
+- Tract 2020: 06007003501
+- Tract 2010: 06007003501
+- Tract 2000: 06007003500
+- Tract 1990: 06007003500
+- Place 2020: 31260
+- Place 2010: 31260
+- Place 2000: 31260
+- Place 1990: 1170
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 27340
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 3
+- 1-bedroom units: 10
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2000210. AKA BUTTE CREEK HOUSING CORP.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: SPRING VALLEY APTS (MDA20140643)
+
+- HUD ID: MDA20140643
+- HUD ID before: 
+- Project: SPRING VALLEY APTS
+- Address: 46533 VALLEY CT
+- City: LEXINGTON PARK
+- State: MD
+- ZIP: 20653
+- ZIP extension: 
+- State project ID: MD91-05
+- Latitude: 38.268202
+- Longitude: -76.464365
+- County FIPS: 24037
+- County from: 2020
+- Tract 2020: 24037876001
+- Tract 2010: 24037876001
+- Tract 2000: 24037996001
+- Tract 1990: 24037996000
+- Place 2020: 46725
+- Place 2010: 46725
+- Place 2000: 12150
+- Place 1990: 0116
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 128
+- Low-income units: 103
+- Units reported: 128
+- Low-income reported: 103
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA1992085.
+- Record status: Existing, unchanged

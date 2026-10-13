@@ -1,0 +1,85 @@
+# Project: NOVO ON 52ND (WAA20230037)
+
+- HUD ID: WAA20230037
+- HUD ID before: 
+- Project: NOVO ON 52ND
+- Address: 18225 52ND AVE W
+- City: LYNNWOOD
+- State: WA
+- ZIP: 98037
+- ZIP extension: 
+- State project ID: 21-113A
+- Latitude: 47.833402
+- Longitude: -122.3031
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061051701
+- Tract 2010: 53061051701
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 40840
+- Place 2010: 40840
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2023
+- Allocation year note: 
+- Allocation amount: 3443180
+- Units: 242
+- Low-income units: 242
+- Units reported: 242
+- Low-income reported: 242
+- Efficiencies: 0
+- 1-bedroom units: 66
+- 2-bedroom units: 146
+- 3-bedroom units: 24
+- 4-bedroom units: 6
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 46
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

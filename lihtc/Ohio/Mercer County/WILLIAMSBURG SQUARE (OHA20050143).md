@@ -1,0 +1,85 @@
+# Project: WILLIAMSBURG SQUARE (OHA20050143)
+
+- HUD ID: OHA20050143
+- HUD ID before: 
+- Project: WILLIAMSBURG SQUARE
+- Address: 1400 W MARKET ST
+- City: CELINA
+- State: OH
+- ZIP: 45822
+- ZIP extension: 
+- State project ID: 030066
+- Latitude: 40.550242
+- Longitude: -84.590322
+- County FIPS: 39107
+- County from: 2020
+- Tract 2020: 39107967400
+- Tract 2010: 39107967400
+- Tract 2000: 39107967400
+- Tract 1990: 39107967400
+- Place 2020: 12868
+- Place 2010: 12868
+- Place 2000: 12868
+- Place 1990: 0765
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 242610
+- Units: 71
+- Low-income units: 71
+- Units reported: 71
+- Low-income reported: 71
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 47
+- 3-bedroom units: 20
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

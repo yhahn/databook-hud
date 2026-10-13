@@ -1,0 +1,85 @@
+# Project: SOUTH URBANA RETIREMENT (OHA19950265)
+
+- HUD ID: OHA19950265
+- HUD ID before: 
+- Project: SOUTH URBANA RETIREMENT
+- Address: 339 LEWIS B MOORE DR
+- City: URBANA
+- State: OH
+- ZIP: 43078
+- ZIP extension: 
+- State project ID: OH-93-6127
+- Latitude: 40.091379
+- Longitude: -83.760751
+- County FIPS: 39021
+- County from: 2020
+- Tract 2020: 39021011504
+- Tract 2010: 39021011504
+- Tract 2000: 39021010300
+- Tract 1990: 39021010300
+- Place 2020: 79072
+- Place 2010: 79072
+- Place 2000: 79072
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 123750
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

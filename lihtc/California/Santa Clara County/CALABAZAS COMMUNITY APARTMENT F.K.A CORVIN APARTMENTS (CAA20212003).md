@@ -1,0 +1,85 @@
+# Project: CALABAZAS COMMUNITY APARTMENT F.K.A CORVIN APARTMENTS (CAA20212003)
+
+- HUD ID: CAA20212003
+- HUD ID before: 
+- Project: CALABAZAS COMMUNITY APARTMENT F.K.A CORVIN APARTMENTS
+- Address: 3311 KIFER RD.
+- City: SANTA CLARA
+- State: CA
+- ZIP: 95051
+- ZIP extension: 
+- State project ID: CA-2019-701
+- Latitude: 37.374195
+- Longitude: -121.98732
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085508708
+- Tract 2010: 06085508704
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 69084
+- Place 2010: 69084
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 2444999
+- Units: 145
+- Low-income units: 144
+- Units reported: 145
+- Low-income reported: 144
+- Efficiencies: 144
+- 1-bedroom units: 
+- 2-bedroom units: 1
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 134
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

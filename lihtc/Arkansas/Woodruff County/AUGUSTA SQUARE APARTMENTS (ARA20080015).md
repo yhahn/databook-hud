@@ -1,0 +1,85 @@
+# Project: AUGUSTA SQUARE APARTMENTS (ARA20080015)
+
+- HUD ID: ARA20080015
+- HUD ID before: 
+- Project: AUGUSTA SQUARE APARTMENTS
+- Address: 1225 SPRUCE ST
+- City: AUGUSTA
+- State: AR
+- ZIP: 72006
+- ZIP extension: 
+- State project ID: AR-07-03-001
+- Latitude: 35.286857
+- Longitude: -91.353974
+- County FIPS: 05147
+- County from: 2020
+- Tract 2020: 05147490200
+- Tract 2010: 05147490200
+- Tract 2000: 05147990200
+- Tract 1990: 05147990200
+- Place 2020: 02740
+- Place 2010: 02740
+- Place 2000: 02740
+- Place 1990: 0095
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 128955
+- Units: 24
+- Low-income units: 23
+- Units reported: 24
+- Low-income reported: 23
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PDC TWENTY SIX.
+- Record status: Existing, unchanged

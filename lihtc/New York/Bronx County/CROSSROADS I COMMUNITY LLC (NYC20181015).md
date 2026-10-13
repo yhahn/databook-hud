@@ -1,0 +1,85 @@
+# Project: CROSSROADS I COMMUNITY LLC (NYC20181015)
+
+- HUD ID: NYC20181015
+- HUD ID before: 
+- Project: CROSSROADS I COMMUNITY LLC
+- Address: 828 EAST 149TH STREET
+- City: BRONX
+- State: NY
+- ZIP: 10455
+- ZIP extension: 
+- State project ID: 47-2236818
+- Latitude: 40.812318
+- Longitude: -73.905465
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005003100
+- Tract 2010: 36005003100
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 552131
+- Units: 164
+- Low-income units: 41
+- Units reported: 164
+- Low-income reported: 41
+- Efficiencies: 7
+- 1-bedroom units: 66
+- 2-bedroom units: 65
+- 3-bedroom units: 26
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

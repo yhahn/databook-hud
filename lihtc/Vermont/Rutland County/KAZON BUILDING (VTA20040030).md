@@ -1,0 +1,85 @@
+# Project: KAZON BUILDING (VTA20040030)
+
+- HUD ID: VTA20040030
+- HUD ID before: 
+- Project: KAZON BUILDING
+- Address: 110 MARBLE ST
+- City: WEST RUTLAND
+- State: VT
+- ZIP: 05777
+- ZIP extension: 
+- State project ID: 0255
+- Latitude: 43.595851
+- Longitude: -73.048299
+- County FIPS: 50021
+- County from: 2020
+- Tract 2020: 50021962600
+- Tract 2010: 50021962600
+- Tract 2000: 50021962600
+- Tract 1990: 50021962600
+- Place 2020: 82375
+- Place 2010: 82375
+- Place 2000: 82375
+- Place 1990: 2978
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 28198
+- Units: 6
+- Low-income units: 6
+- Units reported: 6
+- Low-income reported: 6
+- Efficiencies: 1
+- 1-bedroom units: 3
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

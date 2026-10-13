@@ -1,0 +1,85 @@
+# Project: APPLEWOOD SENIOR APTS I (IAA19940010)
+
+- HUD ID: IAA19940010
+- HUD ID before: 
+- Project: APPLEWOOD SENIOR APTS I
+- Address: 3125 PENNSYLVANIA AVE
+- City: DUBUQUE
+- State: IA
+- ZIP: 52001
+- ZIP extension: 
+- State project ID: 93-45
+- Latitude: 42.500566
+- Longitude: -90.716428
+- County FIPS: 19061
+- County from: 2020
+- Tract 2020: 19061001201
+- Tract 2010: 19061001201
+- Tract 2000: 19061001201
+- Tract 1990: 19061001201
+- Place 2020: 22395
+- Place 2010: 22395
+- Place 2000: 22395
+- Place 1990: 1215
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 219643
+- Units: 47
+- Low-income units: 46
+- Units reported: 47
+- Low-income reported: 46
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA APPLEWOOD I.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HEIGHTS CENTENNIAL APARTMENTS (MTA19910015)
+
+- HUD ID: MTA19910015
+- HUD ID before: 
+- Project: HEIGHTS CENTENNIAL APARTMENTS
+- Address: 1512 LAKE ELMO DRIVE
+- City: BILLINGS
+- State: MT
+- ZIP: 59105
+- ZIP extension: 0000
+- State project ID: 90030
+- Latitude: 45.825829
+- Longitude: -108.476128
+- County FIPS: 30111
+- County from: 2020
+- Tract 2020: 30111000706
+- Tract 2010: 30111000706
+- Tract 2000: 30111000703
+- Tract 1990: 30111000703
+- Place 2020: 06550
+- Place 2010: 06550
+- Place 2000: 06550
+- Place 1990: 0050
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 28474
+- Units: 9
+- Low-income units: 9
+- Units reported: 9
+- Low-income reported: 9
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MTA0000045.
+- Record status: Existing, unchanged

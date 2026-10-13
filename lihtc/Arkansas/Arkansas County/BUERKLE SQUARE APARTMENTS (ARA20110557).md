@@ -1,0 +1,85 @@
+# Project: BUERKLE SQUARE APARTMENTS (ARA20110557)
+
+- HUD ID: ARA20110557
+- HUD ID before: 
+- Project: BUERKLE SQUARE APARTMENTS
+- Address: 1009 N BUERKLE ST
+- City: STUTTGART
+- State: AR
+- ZIP: 72160
+- ZIP extension: 
+- State project ID: AR-10-02-001
+- Latitude: 34.510954
+- Longitude: -91.557883
+- County FIPS: 05001
+- County from: 2020
+- Tract 2020: 05001480400
+- Tract 2010: 05001480400
+- Tract 2000: 05001980400
+- Tract 1990: 05001980400
+- Place 2020: 67490
+- Place 2010: 67490
+- Place 2000: 67490
+- Place 1990: 1905
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 625000
+- Units: 60
+- Low-income units: 60
+- Units reported: 60
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 46
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA0000010, ARA0000548.
+- Record status: Existing, unchanged

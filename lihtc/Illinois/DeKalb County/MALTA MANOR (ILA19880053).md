@@ -1,0 +1,85 @@
+# Project: MALTA MANOR (ILA19880053)
+
+- HUD ID: ILA19880053
+- HUD ID before: 
+- Project: MALTA MANOR
+- Address: 200 N SECOND ST
+- City: MALTA
+- State: IL
+- ZIP: 60150
+- ZIP extension: 
+- State project ID: 044-88
+- Latitude: 41.930967
+- Longitude: -88.863811
+- County FIPS: 17037
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 17037000300
+- Tract 2000: 17037000300
+- Tract 1990: 17037000300
+- Place 2020: 
+- Place 2010: 46279
+- Place 2000: 46279
+- Place 1990: 3475
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 16839
+- Units: 12
+- Low-income units: 12
+- Units reported: 12
+- Low-income reported: 12
+- Efficiencies: 0
+- 1-bedroom units: 4
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ILA0000570.
+- Record status: Existing, unchanged

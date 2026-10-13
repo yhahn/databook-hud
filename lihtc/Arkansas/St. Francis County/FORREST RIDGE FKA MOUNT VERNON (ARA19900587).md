@@ -1,0 +1,85 @@
+# Project: FORREST RIDGE FKA MOUNT VERNON (ARA19900587)
+
+- HUD ID: ARA19900587
+- HUD ID before: 
+- Project: FORREST RIDGE FKA MOUNT VERNON
+- Address: 727 HILL ST
+- City: FORREST CITY
+- State: AR
+- ZIP: 72335
+- ZIP extension: 
+- State project ID: AR-90-11
+- Latitude: 35.010985
+- Longitude: -90.783225
+- County FIPS: 05123
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05123960500
+- Tract 2000: 05123960500
+- Tract 1990: 05123960500
+- Place 2020: 
+- Place 2010: 24430
+- Place 2000: 24430
+- Place 1990: 0695
+- Year placed in service: 1990
+- Placed in service note: 
+- Allocation year: 1990
+- Allocation year note: 
+- Allocation amount: 39905
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1990032, ARA1990030. FKA MOUNT VERNON
+- Record status: Existing, unchanged

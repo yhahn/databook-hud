@@ -1,0 +1,85 @@
+# Project: MADISON COTTAGES OF RENSSELAER II (INA20030090)
+
+- HUD ID: INA20030090
+- HUD ID before: 
+- Project: MADISON COTTAGES OF RENSSELAER II
+- Address: 1645 N MCCADE ST
+- City: RENSSELAER
+- State: IN
+- ZIP: 47978
+- ZIP extension: 
+- State project ID: IN-01-02900
+- Latitude: 40.953402
+- Longitude: -87.146827
+- County FIPS: 18073
+- County from: 2020
+- Tract 2020: 18073101200
+- Tract 2010: 18073101200
+- Tract 2000: 18073991200
+- Tract 1990: 18073991200
+- Place 2020: 63792
+- Place 2010: 63792
+- Place 2000: 63792
+- Place 1990: 2130
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 33
+- Low-income units: 27
+- Units reported: 33
+- Low-income reported: 27
+- Efficiencies: 1
+- 1-bedroom units: 2
+- 2-bedroom units: 19
+- 3-bedroom units: 11
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

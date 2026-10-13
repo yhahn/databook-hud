@@ -1,0 +1,85 @@
+# Project: MADISON HEIGHTS (ARA19990045)
+
+- HUD ID: ARA19990045
+- HUD ID before: 
+- Project: MADISON HEIGHTS
+- Address: 4704 W 13TH ST
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72204
+- ZIP extension: 
+- State project ID: AR-97-03-001
+- Latitude: 34.740134
+- Longitude: -92.326404
+- County FIPS: 05119
+- County from: 2020
+- Tract 2020: 05119001800
+- Tract 2010: 05119001800
+- Tract 2000: 05119001800
+- Tract 1990: 05119001800
+- Place 2020: 41000
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 426022
+- Units: 140
+- Low-income units: 140
+- Units reported: 140
+- Low-income reported: 140
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 76
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA UNIVERSITY HEIGHTS.
+- Record status: Existing, unchanged

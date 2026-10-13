@@ -1,0 +1,85 @@
+# Project: LAKE TOWNE SENIOR VILLAGE (OHA20080115)
+
+- HUD ID: OHA20080115
+- HUD ID before: 
+- Project: LAKE TOWNE SENIOR VILLAGE
+- Address: 4967 ROSEMARY CT
+- City: WALBRIDGE
+- State: OH
+- ZIP: 43465
+- ZIP extension: 
+- State project ID: 060113
+- Latitude: 41.577126
+- Longitude: -83.492761
+- County FIPS: 39173
+- County from: 2020
+- Tract 2020: 39173020800
+- Tract 2010: 39173020800
+- Tract 2000: 39173020800
+- Tract 1990: 39173020800
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 57190
+- Place 1990: 4460
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 10804
+- Units: 43
+- Low-income units: 43
+- Units reported: 43
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 43
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 550000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

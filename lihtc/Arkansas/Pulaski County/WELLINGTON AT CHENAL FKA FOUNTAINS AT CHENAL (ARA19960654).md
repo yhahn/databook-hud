@@ -1,0 +1,85 @@
+# Project: WELLINGTON AT CHENAL FKA FOUNTAINS AT CHENAL (ARA19960654)
+
+- HUD ID: ARA19960654
+- HUD ID before: 
+- Project: WELLINGTON AT CHENAL FKA FOUNTAINS AT CHENAL
+- Address: 15000 CHENAL PKWY
+- City: LITTLE ROCK
+- State: AR
+- ZIP: 72204
+- ZIP extension: 
+- State project ID: AR-95-22-001
+- Latitude: 34.757287
+- Longitude: -92.437812
+- County FIPS: 05119
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 05119004216
+- Tract 2000: 05119004210
+- Tract 1990: 05119002205
+- Place 2020: 
+- Place 2010: 41000
+- Place 2000: 41000
+- Place 1990: 1195
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 348323
+- Units: 176
+- Low-income units: 176
+- Units reported: 176
+- Low-income reported: 176
+- Efficiencies: 19
+- 1-bedroom units: 1
+- 2-bedroom units: 104
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA1996044, ARA1996030. FKA FOUNTAINS AT CHENAL
+- Record status: Existing, unchanged

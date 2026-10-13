@@ -1,0 +1,85 @@
+# Project: MOLTENBREY APTS (MAB20050110)
+
+- HUD ID: MAB20050110
+- HUD ID before: 
+- Project: MOLTENBREY APTS
+- Address: 76 AVE A
+- City: TURNERS FALLS
+- State: MA
+- ZIP: 01376
+- ZIP extension: 
+- State project ID: MA-05-025
+- Latitude: 42.60847
+- Longitude: -72.556799
+- County FIPS: 25011
+- County from: 2020
+- Tract 2020: 25011040701
+- Tract 2010: 25011040701
+- Tract 2000: 25011040701
+- Tract 1990: 25011040700
+- Place 2020: 70815
+- Place 2010: 70815
+- Place 2000: 70815
+- Place 1990: 4330
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 26
+- Low-income units: 26
+- Units reported: 26
+- Low-income reported: 26
+- Efficiencies: 26
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MAB0000442.
+- Record status: Existing, unchanged

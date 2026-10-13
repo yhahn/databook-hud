@@ -1,0 +1,85 @@
+# Project: CREEKSIDE VISTA (GAA20070063)
+
+- HUD ID: GAA20070063
+- HUD ID before: 
+- Project: CREEKSIDE VISTA
+- Address: 3100 LUMBY DR
+- City: DECATUR
+- State: GA
+- ZIP: 30034
+- ZIP extension: 
+- State project ID: 20-2193133
+- Latitude: 33.700869
+- Longitude: -84.261677
+- County FIPS: 13089
+- County from: 2020
+- Tract 2020: 13089023410
+- Tract 2010: 13089023410
+- Tract 2000: 13089023410
+- Tract 1990: 13089023403
+- Place 2020: 59080
+- Place 2010: 59080
+- Place 2000: 59080
+- Place 1990: 2156
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 448187
+- Units: 208
+- Low-income units: 208
+- Units reported: 208
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2006801, GAA0000115. FKA CANDLER VISTA
+- Record status: Existing, unchanged

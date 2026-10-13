@@ -1,0 +1,85 @@
+# Project: RENAISSANCE AT LOWRY BOULEVARD (COA20040050)
+
+- HUD ID: COA20040050
+- HUD ID before: 
+- Project: RENAISSANCE AT LOWRY BOULEVARD
+- Address: 550 ALTON WAY
+- City: DENVER
+- State: CO
+- ZIP: 80230
+- ZIP extension: 
+- State project ID: CO-02-004
+- Latitude: 39.724877
+- Longitude: -104.878407
+- County FIPS: 08031
+- County from: 2020
+- Tract 2020: 08031004407
+- Tract 2010: 08031004405
+- Tract 2000: 08031004405
+- Tract 1990: 08031004402
+- Place 2020: 20000
+- Place 2010: 20000
+- Place 2000: 20000
+- Place 1990: 0320
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 119
+- Units reported: 120
+- Low-income reported: 119
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 63
+- 3-bedroom units: 42
+- 4-bedroom units: 15
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

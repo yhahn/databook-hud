@@ -1,0 +1,85 @@
+# Project: PINE MANOR REDEVELOPMENT (VTA20100040)
+
+- HUD ID: VTA20100040
+- HUD ID before: 
+- Project: PINE MANOR REDEVELOPMENT
+- Address: 6 LAKE ST
+- City: ALBURGH
+- State: VT
+- ZIP: 05440
+- ZIP extension: 
+- State project ID: 0414
+- Latitude: 44.975068
+- Longitude: -73.301998
+- County FIPS: 50013
+- County from: 2020
+- Tract 2020: 50013020100
+- Tract 2010: 50013020100
+- Tract 2000: 50013020100
+- Tract 1990: 50013020100
+- Place 2020: 00850
+- Place 2010: 00850
+- Place 2000: 00625
+- Place 1990: 
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 68094
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 240000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 270000
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

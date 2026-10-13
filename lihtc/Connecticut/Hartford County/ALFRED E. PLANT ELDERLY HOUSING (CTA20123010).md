@@ -1,0 +1,85 @@
+# Project: ALFRED E. PLANT ELDERLY HOUSING (CTA20123010)
+
+- HUD ID: CTA20123010
+- HUD ID before: CTA00000006
+- Project: ALFRED E. PLANT ELDERLY HOUSING
+- Address: 759 FARMINGTON AVENUE
+- City: WEST HARTFORD
+- State: CT
+- ZIP: 06119
+- ZIP extension: 
+- State project ID: CT-09-019
+- Latitude: 41.764902
+- Longitude: -72.724528
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003496900
+- Tract 2010: 09003496900
+- Tract 2000: 09003496900
+- Tract 1990: 09003496900
+- Place 2020: 82660
+- Place 2010: 82660
+- Place 2000: 82660
+- Place 1990: 2530
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 11079547
+- Units: 137
+- Low-income units: 137
+- Units reported: 137
+- Low-income reported: 137
+- Efficiencies: 4
+- 1-bedroom units: 133
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Both new construction and acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREV HUD_ID IS CTA00000006
+- Record status: Existing, unchanged

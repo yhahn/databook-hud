@@ -1,0 +1,85 @@
+# Project: CHAPEL RIDGE OF MARION (IAA20050015)
+
+- HUD ID: IAA20050015
+- HUD ID before: 
+- Project: CHAPEL RIDGE OF MARION
+- Address: 1 CHAPELRIDGE CIR
+- City: MARION
+- State: IA
+- ZIP: 52302
+- ZIP extension: 
+- State project ID: 03-46
+- Latitude: 42.02353
+- Longitude: -91.572521
+- County FIPS: 19113
+- County from: 2020
+- Tract 2020: 19113000103
+- Tract 2010: 19113000100
+- Tract 2000: 19113000100
+- Tract 1990: 19113000100
+- Place 2020: 49485
+- Place 2010: 49485
+- Place 2000: 12000
+- Place 1990: 2670
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 323811
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 104
+- 3-bedroom units: 72
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

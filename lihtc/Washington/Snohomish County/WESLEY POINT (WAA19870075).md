@@ -1,0 +1,85 @@
+# Project: WESLEY POINT (WAA19870075)
+
+- HUD ID: WAA19870075
+- HUD ID before: 
+- Project: WESLEY POINT
+- Address: 1033 WESLEY ST
+- City: ARLINGTON
+- State: WA
+- ZIP: 98223
+- ZIP extension: 
+- State project ID: WA-87-11JJ
+- Latitude: 48.187437
+- Longitude: -122.116521
+- County FIPS: 53061
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53061053504
+- Tract 2000: 53061053504
+- Tract 1990: 53061053501
+- Place 2020: 
+- Place 2010: 02585
+- Place 2000: 02585
+- Place 1990: 0045
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

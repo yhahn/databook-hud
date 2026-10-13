@@ -1,0 +1,85 @@
+# Project: MORROW AVE APTS (NCA19880460)
+
+- HUD ID: NCA19880460
+- HUD ID before: 
+- Project: MORROW AVE APTS
+- Address: 237 S MORROW AVE
+- City: ALBEMARLE
+- State: NC
+- ZIP: 28001
+- ZIP extension: 
+- State project ID: 193
+- Latitude: 35.34952
+- Longitude: -80.18244
+- County FIPS: 37167
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37167931201
+- Tract 2000: 37167990600
+- Tract 1990: 37167990600
+- Place 2020: 
+- Place 2010: 00680
+- Place 2000: 00680
+- Place 1990: 0030
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 3230
+- Units: 1
+- Low-income units: 1
+- Units reported: 
+- Low-income reported: 1
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BENNINGTON HISTORIC REHABILITATION PROJECT (VTA20151001)
+
+- HUD ID: VTA20151001
+- HUD ID before: 
+- Project: BENNINGTON HISTORIC REHABILITATION PROJECT
+- Address: 119-121 PLEASANT ST; 233 SCHOOL ST; 316 + 318 SAFFORD ST; 50 + 100 CARRIGAN LANE
+- City: BENNINGTON
+- State: VT
+- ZIP: 05201
+- ZIP extension: 
+- State project ID: VT-04-85
+- Latitude: 42.878932
+- Longitude: -73.196425
+- County FIPS: 50003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 50003971200
+- Tract 2000: 50003971200
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 04750
+- Place 2000: 04750
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 141873
+- Units: 26
+- Low-income units: 23
+- Units reported: 26
+- Low-income reported: 23
+- Efficiencies: 1
+- 1-bedroom units: 16
+- 2-bedroom units: 6
+- 3-bedroom units: 2
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 744948
+- CDBG: Yes
+- CDBG amount: 500000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

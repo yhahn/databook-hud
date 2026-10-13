@@ -1,0 +1,85 @@
+# Project: CEDAR VIEW SR. LIVING (UTA20151005)
+
+- HUD ID: UTA20151005
+- HUD ID before: 
+- Project: CEDAR VIEW SR. LIVING
+- Address: 451 S. MAIN STREET
+- City: SPRINGVILLE
+- State: UT
+- ZIP: 84663
+- ZIP extension: 0000
+- State project ID: 2014-09
+- Latitude: 40.16044
+- Longitude: -111.610408
+- County FIPS: 49049
+- County from: 2020
+- Tract 2020: 49049003105
+- Tract 2010: 49049003105
+- Tract 2000: 49049003101
+- Tract 1990: 
+- Place 2020: 72280
+- Place 2010: 72280
+- Place 2000: 72280
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 222415
+- Units: 31
+- Low-income units: 25
+- Units reported: 31
+- Low-income reported: 25
+- Efficiencies: 0
+- 1-bedroom units: 31
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: Other
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

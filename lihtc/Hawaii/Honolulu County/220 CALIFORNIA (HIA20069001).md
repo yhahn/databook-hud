@@ -1,0 +1,85 @@
+# Project: 220 CALIFORNIA (HIA20069001)
+
+- HUD ID: HIA20069001
+- HUD ID before: 
+- Project: 220 CALIFORNIA
+- Address: 220 CALIFORNIA AVE
+- City: WAHIAWA
+- State: HI
+- ZIP: 96786
+- ZIP extension: 
+- State project ID: HI-2004-002
+- Latitude: 21.49499
+- Longitude: -158.032563
+- County FIPS: 15003
+- County from: 2020
+- Tract 2020: 15003009402
+- Tract 2010: 15003009400
+- Tract 2000: 15003009400
+- Tract 1990: 
+- Place 2020: 72650
+- Place 2010: 72650
+- Place 2000: 72650
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 617500
+- Units: 42
+- Low-income units: 41
+- Units reported: 42
+- Low-income reported: 41
+- Efficiencies: 0
+- 1-bedroom units: 41
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

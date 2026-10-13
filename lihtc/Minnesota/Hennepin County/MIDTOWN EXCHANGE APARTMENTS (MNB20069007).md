@@ -1,0 +1,85 @@
+# Project: MIDTOWN EXCHANGE APARTMENTS (MNB20069007)
+
+- HUD ID: MNB20069007
+- HUD ID before: 
+- Project: MIDTOWN EXCHANGE APARTMENTS
+- Address: 2929 CHICAGO AVENUE SOUTH
+- City: MINNEAPOLIS
+- State: MN
+- ZIP: 55407
+- ZIP extension: 1390
+- State project ID: D3894
+- Latitude: 44.949079
+- Longitude: -93.262466
+- County FIPS: 27053
+- County from: 2020
+- Tract 2020: 27053125800
+- Tract 2010: 27053125800
+- Tract 2000: 27053007900
+- Tract 1990: 
+- Place 2020: 43000
+- Place 2010: 43000
+- Place 2000: 43000
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 1571910
+- Units: 219
+- Low-income units: 179
+- Units reported: 219
+- Low-income reported: 179
+- Efficiencies: 6
+- 1-bedroom units: 155
+- 2-bedroom units: 49
+- 3-bedroom units: 9
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 17
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 3600000
+- CDBG: Yes
+- CDBG amount: 5850000
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

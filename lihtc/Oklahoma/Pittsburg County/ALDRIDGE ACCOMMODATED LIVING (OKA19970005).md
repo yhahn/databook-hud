@@ -1,0 +1,85 @@
+# Project: ALDRIDGE ACCOMMODATED LIVING (OKA19970005)
+
+- HUD ID: OKA19970005
+- HUD ID before: 
+- Project: ALDRIDGE ACCOMMODATED LIVING
+- Address: 601 S SECOND ST
+- City: MCALESTER
+- State: OK
+- ZIP: 74501
+- ZIP extension: 
+- State project ID: 950619
+- Latitude: 34.925687
+- Longitude: -95.769962
+- County FIPS: 40121
+- County from: 2020
+- Tract 2020: 40121486400
+- Tract 2010: 40121486400
+- Tract 2000: 40121986400
+- Tract 1990: 40121986400
+- Place 2020: 44800
+- Place 2010: 44800
+- Place 2000: 44800
+- Place 1990: 1490
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 66
+- Low-income units: 66
+- Units reported: 66
+- Low-income reported: 66
+- Efficiencies: 0
+- 1-bedroom units: 63
+- 2-bedroom units: 3
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

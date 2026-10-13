@@ -1,0 +1,85 @@
+# Project: TERRACINA AT CATHEDRAL CITY (CAA20110455)
+
+- HUD ID: CAA20110455
+- HUD ID before: 
+- Project: TERRACINA AT CATHEDRAL CITY
+- Address: 69175 CONVERSE RD
+- City: CATHEDRAL CITY
+- State: CA
+- ZIP: 92234
+- ZIP extension: 
+- State project ID: CA-10-837
+- Latitude: 33.790411
+- Longitude: -116.455379
+- County FIPS: 06065
+- County from: 2020
+- Tract 2020: 06065044916
+- Tract 2010: 06065044916
+- Tract 2000: 06065044916
+- Tract 1990: 06065044902
+- Place 2020: 12048
+- Place 2010: 12048
+- Place 2000: 12048
+- Place 1990: 2281
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 257728
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 47
+- 3-bedroom units: 30
+- 4-bedroom units: 2
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2011608, CAA1995107.
+- Record status: Existing, unchanged

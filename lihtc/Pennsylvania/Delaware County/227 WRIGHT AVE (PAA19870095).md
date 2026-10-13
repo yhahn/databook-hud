@@ -1,0 +1,85 @@
+# Project: 227 WRIGHT AVE (PAA19870095)
+
+- HUD ID: PAA19870095
+- HUD ID before: 
+- Project: 227 WRIGHT AVE
+- Address: 227 WRIGHT AVE
+- City: DARBY
+- State: PA
+- ZIP: 19023
+- ZIP extension: 
+- State project ID: PA-87-0050
+- Latitude: 39.921079
+- Longitude: -75.255156
+- County FIPS: 42045
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 42045402500
+- Tract 2000: 42045402500
+- Tract 1990: 42045402500
+- Place 2020: 
+- Place 2010: 18152
+- Place 2000: 18152
+- Place 1990: 2645
+- Year placed in service: 1987
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 1
+- Low-income units: 1
+- Units reported: 1
+- Low-income reported: 1
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HISTORIC MANITOWOC PLACE (WIA20050050)
+
+- HUD ID: WIA20050050
+- HUD ID before: 
+- Project: HISTORIC MANITOWOC PLACE
+- Address: 204 N EIGHTH ST
+- City: MANITOWOC
+- State: WI
+- ZIP: 54220
+- ZIP extension: 
+- State project ID: 2586
+- Latitude: 44.094009
+- Longitude: -87.658003
+- County FIPS: 55071
+- County from: 2020
+- Tract 2020: 55071000400
+- Tract 2010: 55071000400
+- Tract 2000: 55071000400
+- Tract 1990: 55071000400
+- Place 2020: 48500
+- Place 2010: 48500
+- Place 2000: 48500
+- Place 1990: 1490
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 14
+- 2-bedroom units: 19
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MOUNTAIN POINTE APTS PHASE I (AZA20010035)
+
+- HUD ID: AZA20010035
+- HUD ID before: 
+- Project: MOUNTAIN POINTE APTS PHASE I
+- Address: 800 E BAFFERT DR
+- City: NOGALES
+- State: AZ
+- ZIP: 85621
+- ZIP extension: 
+- State project ID: TC-0185
+- Latitude: 31.371123
+- Longitude: -110.916495
+- County FIPS: 04023
+- County from: 2020
+- Tract 2020: 04023966301
+- Tract 2010: 04023966301
+- Tract 2000: 04023996300
+- Tract 1990: 04023996300
+- Place 2020: 49640
+- Place 2010: 49640
+- Place 2000: 49640
+- Place 1990: 0235
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 108
+- Low-income units: 95
+- Units reported: 108
+- Low-income reported: 95
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 44
+- 4-bedroom units: 65
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS AZA0000536.
+- Record status: Existing, unchanged

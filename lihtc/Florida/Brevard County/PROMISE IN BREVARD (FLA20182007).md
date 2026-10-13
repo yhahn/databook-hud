@@ -1,0 +1,85 @@
+# Project: PROMISE IN BREVARD (FLA20182007)
+
+- HUD ID: FLA20182007
+- HUD ID before: 
+- Project: PROMISE IN BREVARD
+- Address: 4105 NORFOLK PARKWAY
+- City: WEST MELBOURNE
+- State: FL
+- ZIP: 32904
+- ZIP extension: 
+- State project ID: 2598
+- Latitude: 28.0384
+- Longitude: -80.6651
+- County FIPS: 12009
+- County from: 2020
+- Tract 2020: 12009071335
+- Tract 2010: 12009071335
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 76500
+- Place 2010: 76500
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 1300000
+- Units: 117
+- Low-income units: 112
+- Units reported: 117
+- Low-income reported: 112
+- Efficiencies: 
+- 1-bedroom units: 6
+- 2-bedroom units: 27
+- 3-bedroom units: 60
+- 4-bedroom units: 24
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 112
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

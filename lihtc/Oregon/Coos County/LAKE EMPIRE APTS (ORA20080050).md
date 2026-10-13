@@ -1,0 +1,85 @@
+# Project: LAKE EMPIRE APTS (ORA20080050)
+
+- HUD ID: ORA20080050
+- HUD ID before: 
+- Project: LAKE EMPIRE APTS
+- Address: 1660 NEWMARK AVE
+- City: COOS BAY
+- State: OR
+- ZIP: 97420
+- ZIP extension: 
+- State project ID: H029-111
+- Latitude: 43.39183
+- Longitude: -124.259254
+- County FIPS: 41011
+- County from: 2020
+- Tract 2020: 41011000503
+- Tract 2010: 41011000503
+- Tract 2000: 41011000501
+- Tract 1990: 41011000500
+- Place 2020: 15250
+- Place 2010: 15250
+- Place 2000: 15250
+- Place 1990: 0210
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 84496
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 18
+- 3-bedroom units: 10
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

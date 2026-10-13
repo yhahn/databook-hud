@@ -1,0 +1,85 @@
+# Project: LUCY MORGAN I (GAA20191018)
+
+- HUD ID: GAA20191018
+- HUD ID before: 
+- Project: LUCY MORGAN I
+- Address: 500 REVIS ST
+- City: LA GRANGE
+- State: GA
+- ZIP: 30241
+- ZIP extension: 
+- State project ID: 2017-515
+- Latitude: 33.032132
+- Longitude: -85.018957
+- County FIPS: 13285
+- County from: 2020
+- Tract 2020: 13285960600
+- Tract 2010: 13285960600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 44340
+- Place 2010: 44340
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 630144
+- Units: 85
+- Low-income units: 84
+- Units reported: 85
+- Low-income reported: 84
+- Efficiencies: 
+- 1-bedroom units: 13
+- 2-bedroom units: 32
+- 3-bedroom units: 22
+- 4-bedroom units: 18
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 31
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: Yes
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2500000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: Yes
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

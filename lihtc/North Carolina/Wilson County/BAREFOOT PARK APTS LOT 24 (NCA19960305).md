@@ -1,0 +1,85 @@
+# Project: BAREFOOT PARK APTS: LOT 24 (NCA19960305)
+
+- HUD ID: NCA19960305
+- HUD ID before: 
+- Project: BAREFOOT PARK APTS: LOT 24
+- Address: 2136 BAREFOOT PARK LN SW
+- City: WILSON
+- State: NC
+- ZIP: 27893
+- ZIP extension: 
+- State project ID: 1127
+- Latitude: 35.707952
+- Longitude: -77.944205
+- County FIPS: 37195
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 37195000400
+- Tract 2000: 37195000400
+- Tract 1990: 37195000400
+- Place 2020: 
+- Place 2010: 74540
+- Place 2000: 74540
+- Place 1990: 2760
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 7953
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HILLSIDE APARTMENTS (KYA20130001)
+
+- HUD ID: KYA20130001
+- HUD ID before: 
+- Project: HILLSIDE APARTMENTS
+- Address: HILLSIDE DRIVE
+- City: CYNTHIANA
+- State: KY
+- ZIP: 41031
+- ZIP extension: 
+- State project ID: KY-12-016
+- Latitude: 38.4298
+- Longitude: -84.2118
+- County FIPS: 21097
+- County from: 2020
+- Tract 2020: 21097950400
+- Tract 2010: 21097950400
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 19432
+- Place 2010: 19432
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2013
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 1703440
+- Units: 51
+- Low-income units: 51
+- Units reported: 51
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 27
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 15
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS KYA1994548, KYA1994032, KYA0000280. AKA HILLSIDE APTS OF CYNTHIANA.
+- Record status: Updated

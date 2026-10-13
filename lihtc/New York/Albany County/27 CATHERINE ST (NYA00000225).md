@@ -1,0 +1,85 @@
+# Project: 27 CATHERINE ST (NYA00000225)
+
+- HUD ID: NYA00000225
+- HUD ID before: 
+- Project: 27 CATHERINE ST
+- Address: 27 CATHERINE ST
+- City: ALBANY
+- State: NY
+- ZIP: 12202
+- ZIP extension: 
+- State project ID: NY-90-0443_00137
+- Latitude: 42.641944
+- Longitude: -73.759678
+- County FIPS: 36001
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36001002500
+- Tract 2000: 36001002500
+- Tract 1990: 36001002500
+- Place 2020: 
+- Place 2010: 01000
+- Place 2000: 01000
+- Place 1990: 0030
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

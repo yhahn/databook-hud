@@ -1,0 +1,85 @@
+# Project: 24 COLONY STREET (CTA00000002)
+
+- HUD ID: CTA00000002
+- HUD ID before: 
+- Project: 24 COLONY STREET
+- Address: 24 COLONY ST
+- City: MERIDEN
+- State: CT
+- ZIP: 06451
+- ZIP extension: 
+- State project ID: CT1012-373
+- Latitude: 41.538931
+- Longitude: -72.802427
+- County FIPS: 09009
+- County from: 2020
+- Tract 2020: 09009170200
+- Tract 2010: 09009170200
+- Tract 2000: 09009170200
+- Tract 1990: 09009170201
+- Place 2020: 46450
+- Place 2010: 46450
+- Place 2000: 46450
+- Place 1990: 1210
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 
+- Units: 63
+- Low-income units: 63
+- Units reported: 63
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
+- Record status: Existing, unchanged

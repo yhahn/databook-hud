@@ -1,0 +1,85 @@
+# Project: SUMMERGLEN (WAA19979096)
+
+- HUD ID: WAA19979096
+- HUD ID before: 
+- Project: SUMMERGLEN
+- Address: 1630 N 26TH ST
+- City: MOUNT VERNON
+- State: WA
+- ZIP: 98273
+- ZIP extension: 
+- State project ID: 95-44A
+- Latitude: 48.43427
+- Longitude: -122.308242
+- County FIPS: 53057
+- County from: 2020
+- Tract 2020: 53057952301
+- Tract 2010: 53057952301
+- Tract 2000: 53057952300
+- Tract 1990: 53057952300
+- Place 2020: 47560
+- Place 2010: 47560
+- Place 2000: 47560
+- Place 1990: 0820
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 447524
+- Units: 153
+- Low-income units: 151
+- Units reported: 153
+- Low-income reported: 151
+- Efficiencies: 10
+- 1-bedroom units: 37
+- 2-bedroom units: 81
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS WAA1996165.
+- Record status: Updated

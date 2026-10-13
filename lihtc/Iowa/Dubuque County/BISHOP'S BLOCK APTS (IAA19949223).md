@@ -1,0 +1,85 @@
+# Project: BISHOP'S BLOCK APTS (IAA19949223)
+
+- HUD ID: IAA19949223
+- HUD ID before: 
+- Project: BISHOP'S BLOCK APTS
+- Address: 90 MAIN ST
+- City: DUBUQUE
+- State: IA
+- ZIP: 52001
+- ZIP extension: 
+- State project ID: 93-12
+- Latitude: 42.494804
+- Longitude: -90.663683
+- County FIPS: 19061
+- County from: 2020
+- Tract 2020: 19061000100
+- Tract 2010: 19061000100
+- Tract 2000: 19061000100
+- Tract 1990: 19061000100
+- Place 2020: 22395
+- Place 2010: 22395
+- Place 2000: 22395
+- Place 1990: 1215
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Completed extended-use period
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

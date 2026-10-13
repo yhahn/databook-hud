@@ -1,0 +1,85 @@
+# Project: MARYVALE EAST APTS (NYA00000119)
+
+- HUD ID: NYA00000119
+- HUD ID before: 
+- Project: MARYVALE EAST APTS
+- Address: 100 MOORMAN DR
+- City: CHEEKTOWAGA
+- State: NY
+- ZIP: 14225
+- ZIP extension: 
+- State project ID: NY-90-0518_00193
+- Latitude: 42.927163
+- Longitude: -78.730483
+- County FIPS: 36029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36029010002
+- Tract 2000: 36029010002
+- Tract 1990: 36029010002
+- Place 2020: 
+- Place 2010: 15000
+- Place 2000: 15000
+- Place 1990: 0655
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 81
+- Low-income units: 61
+- Units reported: 81
+- Low-income reported: 61
+- Efficiencies: 0
+- 1-bedroom units: 61
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001460.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AMSTERDAM (NYC20110004)
+
+- HUD ID: NYC20110004
+- HUD ID before: 
+- Project: AMSTERDAM
+- Address: 240 WEST 65TH STREET
+- City: NEW YORK
+- State: NY
+- ZIP: 11213
+- ZIP extension: 
+- State project ID: 01-0943503
+- Latitude: 40.774899
+- Longitude: -73.987045
+- County FIPS: 36061
+- County from: 2020
+- Tract 2020: 36061015101
+- Tract 2010: 36061015100
+- Tract 2000: 36061015100
+- Tract 1990: 36061015100
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 525750
+- Units: 175
+- Low-income units: 144
+- Units reported: 175
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 75
+- 2-bedroom units: 50
+- 3-bedroom units: 50
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

@@ -1,0 +1,85 @@
+# Project: CEDAR BEND APTS (MIA20020045)
+
+- HUD ID: MIA20020045
+- HUD ID before: 
+- Project: CEDAR BEND APTS
+- Address: 4250 E HILL RD
+- City: GRAND BLANC
+- State: MI
+- ZIP: 48439
+- ZIP extension: 
+- State project ID: MI-1000
+- Latitude: 42.945019
+- Longitude: -83.622294
+- County FIPS: 26049
+- County from: 2020
+- Tract 2020: 26049011214
+- Tract 2010: 26049011214
+- Tract 2000: 26049011214
+- Tract 1990: 26049011203
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 1070
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 148
+- Low-income units: 147
+- Units reported: 148
+- Low-income reported: 147
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 60
+- 3-bedroom units: 32
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

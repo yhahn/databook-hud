@@ -1,0 +1,85 @@
+# Project: MACKENZIE PLACE (MOA20110155)
+
+- HUD ID: MOA20110155
+- HUD ID before: 
+- Project: MACKENZIE PLACE
+- Address: 8520 MACKENZIE RD
+- City: AFFTON
+- State: MO
+- ZIP: 63123
+- ZIP extension: 
+- State project ID: 10-035
+- Latitude: 38.557386
+- Longitude: -90.322093
+- County FIPS: 29189
+- County from: 2020
+- Tract 2020: 29189219801
+- Tract 2010: 29189219800
+- Tract 2000: 29189219800
+- Tract 1990: 29189219800
+- Place 2020: 00280
+- Place 2010: 00280
+- Place 2000: 00280
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 743900
+- Units: 34
+- Low-income units: 34
+- Units reported: 34
+- Low-income reported: 34
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MOA2011543.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: EASTLAND VILLAGE APARTMENTS (OKA20230001)
+
+- HUD ID: OKA20230001
+- HUD ID before: 
+- Project: EASTLAND VILLAGE APARTMENTS
+- Address: S 145TH EAST AVE & E. 33RD ST SOUTH
+- City: TULSA
+- State: OK
+- ZIP: 74134
+- ZIP extension: 0000
+- State project ID: 190631
+- Latitude: 36.1118
+- Longitude: -95.7974
+- County FIPS: 40143
+- County from: 2020
+- Tract 2020: 40143009013
+- Tract 2010: 40143009007
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 09050
+- Place 2010: 09050
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 520000
+- Units: 72
+- Low-income units: 72
+- Units reported: 72
+- Low-income reported: 72
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 22
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

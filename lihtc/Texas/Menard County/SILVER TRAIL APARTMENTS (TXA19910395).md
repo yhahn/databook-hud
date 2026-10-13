@@ -1,0 +1,85 @@
+# Project: SILVER TRAIL APARTMENTS (TXA19910395)
+
+- HUD ID: TXA19910395
+- HUD ID before: 
+- Project: SILVER TRAIL APARTMENTS
+- Address: 403 MESQUITE ST
+- City: MENARD
+- State: TX
+- ZIP: 76859
+- ZIP extension: 
+- State project ID: TX0914
+- Latitude: 30.93607
+- Longitude: -99.779688
+- County FIPS: 48327
+- County from: 2020
+- Tract 2020: 48327950300
+- Tract 2010: 48327950300
+- Tract 2000: 48327950200
+- Tract 1990: 48327950200
+- Place 2020: 47628
+- Place 2010: 47628
+- Place 2000: 47628
+- Place 1990: 2760
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 22
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: Yes
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

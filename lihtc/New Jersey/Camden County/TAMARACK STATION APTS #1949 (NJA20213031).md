@@ -1,0 +1,85 @@
+# Project: TAMARACK STATION APTS #1949 (NJA20213031)
+
+- HUD ID: NJA20213031
+- HUD ID before: 
+- Project: TAMARACK STATION APTS #1949
+- Address: 1801 E DAVIS ST
+- City: CAMDEN
+- State: NJ
+- ZIP: 08104
+- ZIP extension: 1947
+- State project ID: 01321A-1
+- Latitude: 39.92274
+- Longitude: -75.094965
+- County FIPS: 34007
+- County from: 2020
+- Tract 2020: 34007601500
+- Tract 2010: 34007601500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 10000
+- Place 2010: 10000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 1341605
+- Units: 538
+- Low-income units: 446
+- Units reported: 538
+- Low-income reported: 446
+- Efficiencies: 0
+- 1-bedroom units: 346
+- 2-bedroom units: 96
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Not reported
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

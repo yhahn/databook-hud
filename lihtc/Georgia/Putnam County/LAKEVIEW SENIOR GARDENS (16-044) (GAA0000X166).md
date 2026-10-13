@@ -1,0 +1,85 @@
+# Project: LAKEVIEW SENIOR GARDENS (16-044) (GAA0000X166)
+
+- HUD ID: GAA0000X166
+- HUD ID before: 
+- Project: LAKEVIEW SENIOR GARDENS (16-044)
+- Address: SCOTT RD NE
+- City: EATONTON
+- State: GA
+- ZIP: 31024
+- ZIP extension: 
+- State project ID: 2016-044
+- Latitude: 33.319
+- Longitude: -83.4404
+- County FIPS: 13237
+- County from: 2020
+- Tract 2020: 13237960101
+- Tract 2010: 13237960202
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 20550
+- Place 2010: 26084
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Confirmed, year not given (9999)
+- Allocation year: 
+- Allocation year note: Confirmed, year not given (9999)
+- Allocation amount: 607473
+- Units: 48
+- Low-income units: 46
+- Units reported: 48
+- Low-income reported: 46
+- Efficiencies: 0
+- 1-bedroom units: 12
+- 2-bedroom units: 36
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 1016000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: Yes
+- TCAP amount: 1000000
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: 
+- Elderly: Yes
+- Disabled: 
+- Homeless: 
+- Other population: Yes
+- Other population named: Housing for Older Persons
+- Scattered site: No
+- Resyndicated: No
+- Metro: 
+- DDA: 
+- QCT: 
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: NORTHTOWN VILLAGE TOWNHOMES (INA20090035)
+
+- HUD ID: INA20090035
+- HUD ID before: 
+- Project: NORTHTOWN VILLAGE TOWNHOMES
+- Address: 3600 PULASKI ST
+- City: EAST CHICAGO
+- State: IN
+- ZIP: 46312
+- ZIP extension: 
+- State project ID: IN-08-05500
+- Latitude: 41.64775
+- Longitude: -87.44409
+- County FIPS: 18089
+- County from: 2020
+- Tract 2020: 18089031000
+- Tract 2010: 18089031000
+- Tract 2000: 18089031000
+- Tract 1990: 18089031000
+- Place 2020: 19486
+- Place 2010: 19486
+- Place 2000: 19486
+- Place 1990: 0680
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1100000
+- Units: 75
+- Low-income units: 75
+- Units reported: 75
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 22
+- 3-bedroom units: 45
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2007160. AKA NORTHTOWN VILLAGE TOWNHOMES (SHORES ON BROADWAY).
+- Record status: Existing, unchanged

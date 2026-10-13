@@ -1,0 +1,85 @@
+# Project: HOLIDAY PARK GARDENS (ORA19910040)
+
+- HUD ID: ORA19910040
+- HUD ID before: 
+- Project: HOLIDAY PARK GARDENS
+- Address: 1051 E PARK ST
+- City: GRANTS PASS
+- State: OR
+- ZIP: 97527
+- ZIP extension: 
+- State project ID: OR91-379
+- Latitude: 42.425603
+- Longitude: -123.315624
+- County FIPS: 41033
+- County from: 2020
+- Tract 2020: 41033361201
+- Tract 2010: 41033361200
+- Tract 2000: 41033361200
+- Tract 1990: 41033361200
+- Place 2020: 30550
+- Place 2010: 30550
+- Place 2000: 30550
+- Place 1990: 0488
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 153336
+- Units: 124
+- Low-income units: 124
+- Units reported: 124
+- Low-income reported: 124
+- Efficiencies: 0
+- 1-bedroom units: 124
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

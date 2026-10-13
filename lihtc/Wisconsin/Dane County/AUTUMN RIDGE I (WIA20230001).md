@@ -1,0 +1,85 @@
+# Project: AUTUMN RIDGE I (WIA20230001)
+
+- HUD ID: WIA20230001
+- HUD ID before: 
+- Project: AUTUMN RIDGE I
+- Address: 3809 TRIBECA DR
+- City: MIDDLETON
+- State: WI
+- ZIP: 53562
+- ZIP extension: 
+- State project ID: WI-21-53269
+- Latitude: 43.0887
+- Longitude: -89.5116
+- County FIPS: 55025
+- County from: 2020
+- Tract 2020: 55025010908
+- Tract 2010: 55025011000
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51575
+- Place 2010: 51575
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 800000
+- Units: 55
+- Low-income units: 45
+- Units reported: 55
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

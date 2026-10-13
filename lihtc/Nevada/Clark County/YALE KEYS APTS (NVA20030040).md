@@ -1,0 +1,85 @@
+# Project: YALE KEYS APTS (NVA20030040)
+
+- HUD ID: NVA20030040
+- HUD ID before: 
+- Project: YALE KEYS APTS
+- Address: 1705 YALE ST
+- City: N LAS VEGAS
+- State: NV
+- ZIP: 89030
+- ZIP extension: 
+- State project ID: NV-03-14
+- Latitude: 36.190071
+- Longitude: -115.136512
+- County FIPS: 32003
+- County from: 2020
+- Tract 2020: 32003003800
+- Tract 2010: 32003003800
+- Tract 2000: 32003003800
+- Tract 1990: 32003003800
+- Place 2020: 51800
+- Place 2010: 51800
+- Place 2000: 51800
+- Place 1990: 0080
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2001
+- Allocation year note: 
+- Allocation amount: 
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 62
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

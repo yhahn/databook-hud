@@ -1,0 +1,85 @@
+# Project: BELLE FRANKLIN I (MAB20030010)
+
+- HUD ID: MAB20030010
+- HUD ID before: 
+- Project: BELLE FRANKLIN I
+- Address: 77 BELLE ST
+- City: SPRINGFIELD
+- State: MA
+- ZIP: 01104
+- ZIP extension: 
+- State project ID: 
+- Latitude: 42.112813
+- Longitude: -72.591747
+- County FIPS: 25013
+- County from: 2020
+- Tract 2020: 25013800900
+- Tract 2010: 25013800900
+- Tract 2000: 25013800900
+- Tract 1990: 25013800900
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 4090
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 68
+- Low-income units: 65
+- Units reported: 68
+- Low-income reported: 65
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 61
+- 3-bedroom units: 0
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 
+- CDBG: No
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

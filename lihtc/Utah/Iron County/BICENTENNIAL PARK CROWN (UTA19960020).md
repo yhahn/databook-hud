@@ -1,0 +1,85 @@
+# Project: BICENTENNIAL PARK CROWN (UTA19960020)
+
+- HUD ID: UTA19960020
+- HUD ID before: 
+- Project: BICENTENNIAL PARK CROWN
+- Address: 810 W N CEDAR BLVD
+- City: CEDAR CITY
+- State: UT
+- ZIP: 84721
+- ZIP extension: 
+- State project ID: 1995-02
+- Latitude: 37.696709
+- Longitude: -113.074305
+- County FIPS: 49021
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 49021110500
+- Tract 2000: 49021110500
+- Tract 1990: 49021982100
+- Place 2020: 
+- Place 2010: 11320
+- Place 2000: 11320
+- Place 1990: 0745
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 13
+- Low-income units: 13
+- Units reported: 13
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS UTA0000005.
+- Record status: Existing, unchanged

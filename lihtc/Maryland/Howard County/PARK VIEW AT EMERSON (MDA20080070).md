@@ -1,0 +1,85 @@
+# Project: PARK VIEW AT EMERSON (MDA20080070)
+
+- HUD ID: MDA20080070
+- HUD ID before: 
+- Project: PARK VIEW AT EMERSON
+- Address: 9895 PALACE HALL DR
+- City: LAUREL
+- State: MD
+- ZIP: 20723
+- ZIP extension: 
+- State project ID: MD07-22001
+- Latitude: 39.136747
+- Longitude: -76.856445
+- County FIPS: 24027
+- County from: 2020
+- Tract 2020: 24027606808
+- Tract 2010: 24027606806
+- Tract 2000: 24027606802
+- Tract 1990: 24027606802
+- Place 2020: 56725
+- Place 2010: 70525
+- Place 2000: 56725
+- Place 1990: 0692
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS MDA0000380.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: 4 MADISON ST (CTA19950015)
+
+- HUD ID: CTA19950015
+- HUD ID before: 
+- Project: 4 MADISON ST
+- Address: 4 MADISON ST
+- City: NEW BRITAIN
+- State: CT
+- ZIP: 06051
+- ZIP extension: 
+- State project ID: CT-94-018
+- Latitude: 41.657668
+- Longitude: -72.786324
+- County FIPS: 09003
+- County from: 2020
+- Tract 2020: 09003415700
+- Tract 2010: 09003415700
+- Tract 2000: 09003415700
+- Tract 1990: 09003415700
+- Place 2020: 50370
+- Place 2010: 50370
+- Place 2000: 50370
+- Place 1990: 1390
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 
+- Units: 2
+- Low-income units: 2
+- Units reported: 2
+- Low-income reported: 2
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

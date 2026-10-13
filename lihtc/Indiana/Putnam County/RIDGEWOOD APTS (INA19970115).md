@@ -1,0 +1,85 @@
+# Project: RIDGEWOOD APTS (INA19970115)
+
+- HUD ID: INA19970115
+- HUD ID before: 
+- Project: RIDGEWOOD APTS
+- Address: 502 1/2 N MAIN ST
+- City: CLOVERDALE
+- State: IN
+- ZIP: 46120
+- ZIP extension: 
+- State project ID: IN-96-00900
+- Latitude: 39.519242
+- Longitude: -86.79491
+- County FIPS: 18133
+- County from: 2020
+- Tract 2020: 18133956500
+- Tract 2010: 18133956500
+- Tract 2000: 18133956500
+- Tract 1990: 18133956500
+- Place 2020: 13852
+- Place 2010: 13852
+- Place 2000: 13852
+- Place 1990: 0495
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1996
+- Allocation year note: 
+- Allocation amount: 26354
+- Units: 18
+- Low-income units: 18
+- Units reported: 18
+- Low-income reported: 18
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 2
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA RIDGEWOOD DEVELOPMENT.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HERITAGE PLAZA APTS (CAA20030195)
+
+- HUD ID: CAA20030195
+- HUD ID before: 
+- Project: HERITAGE PLAZA APTS
+- Address: 1895 BENTON DR
+- City: REDDING
+- State: CA
+- ZIP: 96003
+- ZIP extension: 
+- State project ID: CA-02-865
+- Latitude: 40.599442
+- Longitude: -122.39543
+- County FIPS: 06089
+- County from: 2020
+- Tract 2020: 06089010702
+- Tract 2010: 06089010702
+- Tract 2000: 06089010702
+- Tract 1990: 06089010700
+- Place 2020: 59920
+- Place 2010: 59920
+- Place 2000: 59920
+- Place 1990: 2290
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 184882
+- Units: 180
+- Low-income units: 156
+- Units reported: 180
+- Low-income reported: 156
+- Efficiencies: 4
+- 1-bedroom units: 56
+- 2-bedroom units: 63
+- 3-bedroom units: 35
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

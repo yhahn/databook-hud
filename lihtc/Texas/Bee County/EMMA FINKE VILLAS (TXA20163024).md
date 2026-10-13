@@ -1,0 +1,85 @@
+# Project: EMMA FINKE VILLAS (TXA20163024)
+
+- HUD ID: TXA20163024
+- HUD ID before: 
+- Project: EMMA FINKE VILLAS
+- Address: 1101 E KENNEDY ST
+- City: BEEVILLE
+- State: TX
+- ZIP: 78102
+- ZIP extension: 
+- State project ID: TX4936
+- Latitude: 28.411047
+- Longitude: -97.740586
+- County FIPS: 48025
+- County from: 2020
+- Tract 2020: 48025950300
+- Tract 2010: 48025950300
+- Tract 2000: 48025950300
+- Tract 1990: 
+- Place 2020: 07192
+- Place 2010: 07192
+- Place 2000: 07192
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 
+- Units: 76
+- Low-income units: 76
+- Units reported: 76
+- Low-income reported: 76
+- Efficiencies: 0
+- 1-bedroom units: 68
+- 2-bedroom units: 8
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 22
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 1000000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Both federal and state
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: Total Special Needs
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TXA0000128;AKA TX KENNEDY APTS.
+- Record status: Existing, unchanged

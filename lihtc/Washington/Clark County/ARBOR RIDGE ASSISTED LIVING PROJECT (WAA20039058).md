@@ -1,0 +1,85 @@
+# Project: ARBOR RIDGE ASSISTED LIVING PROJECT (WAA20039058)
+
+- HUD ID: WAA20039058
+- HUD ID before: 
+- Project: ARBOR RIDGE ASSISTED LIVING PROJECT
+- Address: 9501 NE HAZEL DELL AVENUE
+- City: VANCOUVER
+- State: WA
+- ZIP: 98665
+- ZIP extension: 
+- State project ID: 00-108A
+- Latitude: 45.690712
+- Longitude: -122.668979
+- County FIPS: 53011
+- County from: 2020
+- Tract 2020: 53011041009
+- Tract 2010: 53011041009
+- Tract 2000: 53011041009
+- Tract 1990: 53011041006
+- Place 2020: 30305
+- Place 2010: 30305
+- Place 2000: 30312
+- Place 1990: 0663
+- Year placed in service: 2003
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 207281
+- Units: 60
+- Low-income units: 57
+- Units reported: 60
+- Low-income reported: 57
+- Efficiencies: 52
+- 1-bedroom units: 8
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

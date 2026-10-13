@@ -1,0 +1,85 @@
+# Project: ALLENDALE APARTMENTS (THE) (MDA20161001)
+
+- HUD ID: MDA20161001
+- HUD ID before: 
+- Project: ALLENDALE APARTMENTS (THE)
+- Address: 3600 W FRANKLIN STREET
+- City: BALTIMORE
+- State: MD
+- ZIP: 21229
+- ZIP extension: 
+- State project ID: MD-14-29
+- Latitude: 39.292851
+- Longitude: -76.677057
+- County FIPS: 24510
+- County from: 2020
+- Tract 2020: 24510200701
+- Tract 2010: 24510200701
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 04000
+- Place 2010: 04000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 838825
+- Units: 164
+- Low-income units: 164
+- Units reported: 164
+- Low-income reported: 164
+- Efficiencies: 
+- 1-bedroom units: 164
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

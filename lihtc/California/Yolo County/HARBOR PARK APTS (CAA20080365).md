@@ -1,0 +1,85 @@
+# Project: HARBOR PARK APTS (CAA20080365)
+
+- HUD ID: CAA20080365
+- HUD ID before: 
+- Project: HARBOR PARK APTS
+- Address: 3429 EVERGREEN CIR
+- City: WEST SACRAMENTO
+- State: CA
+- ZIP: 95691
+- ZIP extension: 
+- State project ID: CA-06-925
+- Latitude: 38.577006
+- Longitude: -121.556691
+- County FIPS: 06113
+- County from: 2020
+- Tract 2020: 06113010203
+- Tract 2010: 06113010203
+- Tract 2000: 06113010203
+- Tract 1990: 06113010203
+- Place 2020: 84816
+- Place 2010: 84816
+- Place 2000: 84816
+- Place 1990: 3098
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 818885
+- Units: 296
+- Low-income units: 294
+- Units reported: 296
+- Low-income reported: 294
+- Efficiencies: 0
+- 1-bedroom units: 128
+- 2-bedroom units: 168
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 60
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

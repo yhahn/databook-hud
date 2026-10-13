@@ -1,0 +1,85 @@
+# Project: NOTTINGHAM VILLAGE (KSA20160010)
+
+- HUD ID: KSA20160010
+- HUD ID before: 
+- Project: NOTTINGHAM VILLAGE
+- Address: 29701 W 188TH ST
+- City: GARDNER
+- State: KS
+- ZIP: 66030
+- ZIP extension: 
+- State project ID: KS-15-02
+- Latitude: 38.786383
+- Longitude: -94.932837
+- County FIPS: 20091
+- County from: 2020
+- Tract 2020: 20091053712
+- Tract 2010: 20091053712
+- Tract 2000: 20091053702
+- Tract 1990: 
+- Place 2020: 25425
+- Place 2010: 25425
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 560805
+- Units: 72
+- Low-income units: 54
+- Units reported: 72
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 36
+- 3-bedroom units: 36
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

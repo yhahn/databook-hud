@@ -1,0 +1,85 @@
+# Project: MEADOW ESTATES APTS II (OHA20060679)
+
+- HUD ID: OHA20060679
+- HUD ID before: 
+- Project: MEADOW ESTATES APTS II
+- Address: 93 N THIRD ST
+- City: SHELBY
+- State: OH
+- ZIP: 44875
+- ZIP extension: 
+- State project ID: OH-04-0012
+- Latitude: 40.888235
+- Longitude: -82.652182
+- County FIPS: 39139
+- County from: 2020
+- Tract 2020: 39139002600
+- Tract 2010: 39139002600
+- Tract 2000: 39139002600
+- Tract 1990: 39139002600
+- Place 2020: 72102
+- Place 2010: 72102
+- Place 2000: 72102
+- Place 1990: 3945
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 195696
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2006156, OHA2006155.
+- Record status: Existing, unchanged

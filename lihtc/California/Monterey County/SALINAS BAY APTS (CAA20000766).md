@@ -1,0 +1,85 @@
+# Project: SALINAS BAY APTS (CAA20000766)
+
+- HUD ID: CAA20000766
+- HUD ID before: 
+- Project: SALINAS BAY APTS
+- Address: 920 LARKIN ST
+- City: SALINAS
+- State: CA
+- ZIP: 93907
+- ZIP extension: 
+- State project ID: CA-02-934
+- Latitude: 36.69386
+- Longitude: -121.669364
+- County FIPS: 06053
+- County from: 2020
+- Tract 2020: 06053001801
+- Tract 2010: 06053001801
+- Tract 2000: 06053001800
+- Tract 1990: 06053001800
+- Place 2020: 64224
+- Place 2010: 64224
+- Place 2000: 07578
+- Place 1990: 2435
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 450646
+- Units: 95
+- Low-income units: 92
+- Units reported: 95
+- Low-income reported: 92
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 25
+- 3-bedroom units: 60
+- 4-bedroom units: 10
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

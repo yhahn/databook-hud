@@ -1,0 +1,85 @@
+# Project: STONERIDGE II (ORA19890095)
+
+- HUD ID: ORA19890095
+- HUD ID before: 
+- Project: STONERIDGE II
+- Address: 3862 SUNNYVIEW RD NE
+- City: SALEM
+- State: OR
+- ZIP: 97305
+- ZIP extension: 
+- State project ID: OR89-201
+- Latitude: 44.953749
+- Longitude: -122.986068
+- County FIPS: 41047
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 41047001701
+- Tract 2000: 41047001701
+- Tract 1990: 41047001700
+- Place 2020: 
+- Place 2010: 64900
+- Place 2000: 26750
+- Place 1990: 1005
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 59
+- Low-income units: 59
+- Units reported: 59
+- Low-income reported: 59
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 59
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

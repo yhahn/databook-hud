@@ -1,0 +1,85 @@
+# Project: CLARIDGE APTS (ILA20020110)
+
+- HUD ID: ILA20020110
+- HUD ID before: 
+- Project: CLARIDGE APTS
+- Address: 319 DEMPSTER ST
+- City: EVANSTON
+- State: IL
+- ZIP: 60201
+- ZIP extension: 
+- State project ID: 129500
+- Latitude: 42.041301
+- Longitude: -87.675934
+- County FIPS: 17031
+- County from: 2020
+- Tract 2020: 17031809401
+- Tract 2010: 17031809400
+- Tract 2000: 17031809400
+- Tract 1990: 17031809400
+- Place 2020: 24582
+- Place 2010: 24582
+- Place 2000: 24582
+- Place 1990: 1845
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 187944
+- Units: 50
+- Low-income units: 48
+- Units reported: 50
+- Low-income reported: 48
+- Efficiencies: 48
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 30
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

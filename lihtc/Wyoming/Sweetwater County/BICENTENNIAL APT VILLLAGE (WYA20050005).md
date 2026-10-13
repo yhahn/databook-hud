@@ -1,0 +1,85 @@
+# Project: BICENTENNIAL APT VILLLAGE (WYA20050005)
+
+- HUD ID: WYA20050005
+- HUD ID before: 
+- Project: BICENTENNIAL APT VILLLAGE
+- Address: 3723 MADISON DR
+- City: ROCK SPRINGS
+- State: WY
+- ZIP: 82901
+- ZIP extension: 
+- State project ID: 05-010
+- Latitude: 41.593108
+- Longitude: -109.24699
+- County FIPS: 56037
+- County from: 2020
+- Tract 2020: 56037970902
+- Tract 2010: 56037970902
+- Tract 2000: 56037970902
+- Tract 1990: 56037970900
+- Place 2020: 67235
+- Place 2010: 67235
+- Place 2000: 56700
+- Place 1990: 0390
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 457270
+- Units: 101
+- Low-income units: 101
+- Units reported: 101
+- Low-income reported: 101
+- Efficiencies: 0
+- 1-bedroom units: 30
+- 2-bedroom units: 58
+- 3-bedroom units: 13
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 101
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

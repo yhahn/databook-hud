@@ -1,0 +1,85 @@
+# Project: SYCAMORE POINTE APTS (CAA20000570)
+
+- HUD ID: CAA20000570
+- HUD ID before: 
+- Project: SYCAMORE POINTE APTS
+- Address: 521 PIONEER AVE
+- City: WOODLAND
+- State: CA
+- ZIP: 95776
+- ZIP extension: 
+- State project ID: CA-99-836
+- Latitude: 38.673322
+- Longitude: -121.744942
+- County FIPS: 06113
+- County from: 2020
+- Tract 2020: 06113011209
+- Tract 2010: 06113011205
+- Tract 2000: 06113011205
+- Tract 1990: 06113011202
+- Place 2020: 86328
+- Place 2010: 86328
+- Place 2000: 86328
+- Place 1990: 
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 456026
+- Units: 136
+- Low-income units: 135
+- Units reported: 136
+- Low-income reported: 135
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 64
+- 3-bedroom units: 40
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

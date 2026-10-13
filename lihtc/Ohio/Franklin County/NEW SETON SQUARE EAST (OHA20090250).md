@@ -1,0 +1,85 @@
+# Project: NEW SETON SQUARE EAST (OHA20090250)
+
+- HUD ID: OHA20090250
+- HUD ID before: 
+- Project: NEW SETON SQUARE EAST
+- Address: 1235 BRIARCLIFF RD
+- City: REYNOLDSBURG
+- State: OH
+- ZIP: 43068
+- ZIP extension: 
+- State project ID: 090129
+- Latitude: 39.957164
+- Longitude: -82.811934
+- County FIPS: 39049
+- County from: 2020
+- Tract 2020: 39049009381
+- Tract 2010: 39049009381
+- Tract 2000: 39049009381
+- Tract 1990: 39049009381
+- Place 2020: 66390
+- Place 2010: 66390
+- Place 2000: 18000
+- Place 1990: 3635
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 100
+- Units reported: 100
+- Low-income reported: 100
+- Efficiencies: 0
+- 1-bedroom units: 95
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 
+- Rents below ceiling: Yes
+- Units below ceiling: 60
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 515633
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

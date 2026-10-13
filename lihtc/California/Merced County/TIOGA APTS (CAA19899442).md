@@ -1,0 +1,85 @@
+# Project: TIOGA APTS (CAA19899442)
+
+- HUD ID: CAA19899442
+- HUD ID before: 
+- Project: TIOGA APTS
+- Address: 1715 N ST
+- City: MERCED
+- State: CA
+- ZIP: 95340
+- ZIP extension: 
+- State project ID: CA-88-080
+- Latitude: 37.30256
+- Longitude: -120.486593
+- County FIPS: 06047
+- County from: 2020
+- Tract 2020: 06047001301
+- Tract 2010: 06047001301
+- Tract 2000: 06047001301
+- Tract 1990: 06047001300
+- Place 2020: 46898
+- Place 2010: 46898
+- Place 2000: 46898
+- Place 1990: 1750
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 90
+- Low-income units: 90
+- Units reported: 90
+- Low-income reported: 90
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA00001525.
+- Record status: Existing, unchanged

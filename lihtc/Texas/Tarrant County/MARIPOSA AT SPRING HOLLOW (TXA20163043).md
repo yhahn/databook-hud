@@ -1,0 +1,85 @@
+# Project: MARIPOSA AT SPRING HOLLOW (TXA20163043)
+
+- HUD ID: TXA20163043
+- HUD ID before: 
+- Project: MARIPOSA AT SPRING HOLLOW
+- Address: 451 E. MCLEROY BLVD
+- City: SAGINAW
+- State: TX
+- ZIP: 
+- ZIP extension: 
+- State project ID: TX4990
+- Latitude: 32.861094
+- Longitude: -97.359436
+- County FIPS: 48439
+- County from: 2020
+- Tract 2020: 48439114003
+- Tract 2010: 48439114003
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 64112
+- Place 2010: 64112
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 
+- Units: 194
+- Low-income units: 194
+- Units reported: 194
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

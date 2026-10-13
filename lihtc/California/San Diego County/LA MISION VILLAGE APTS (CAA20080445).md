@@ -1,0 +1,85 @@
+# Project: LA MISION VILLAGE APTS (CAA20080445)
+
+- HUD ID: CAA20080445
+- HUD ID before: 
+- Project: LA MISION VILLAGE APTS
+- Address: 3232 MISSION AVE
+- City: OCEANSIDE
+- State: CA
+- ZIP: 92058
+- ZIP extension: 
+- State project ID: CA-06-823
+- Latitude: 33.214471
+- Longitude: -117.347117
+- County FIPS: 06073
+- County from: 2020
+- Tract 2020: 06073018616
+- Tract 2010: 06073018603
+- Tract 2000: 06073018603
+- Tract 1990: 06073018603
+- Place 2020: 53322
+- Place 2010: 53322
+- Place 2000: 53322
+- Place 1990: 1990
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 1098943
+- Units: 80
+- Low-income units: 79
+- Units reported: 80
+- Low-income reported: 79
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 46
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 38
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BOYNTON (NHA20090005)
+
+- HUD ID: NHA20090005
+- HUD ID before: 
+- Project: BOYNTON
+- Address: 31 BOYNTON RD
+- City: MEREDITH
+- State: NH
+- ZIP: 03253
+- ZIP extension: 
+- State project ID: 146
+- Latitude: 43.673046
+- Longitude: -71.49925
+- County FIPS: 33001
+- County from: 2020
+- Tract 2020: 33001965200
+- Tract 2010: 33001965200
+- Tract 2000: 33001965200
+- Tract 1990: 33001965200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 47060
+- Place 1990: 
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 531936
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 3
+- 2-bedroom units: 17
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 600000
+- CDBG: Yes
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PINECREST APTS.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: AVALON VIEW APTS. (NYB00000001)
+
+- HUD ID: NYB00000001
+- HUD ID before: 
+- Project: AVALON VIEW APTS.
+- Address: RTE 9D
+- City: FISHKILL
+- State: NY
+- ZIP: 12524
+- ZIP extension: 
+- State project ID: NY-XX-1219
+- Latitude: 41.5338
+- Longitude: -73.894
+- County FIPS: 36027
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36027060400
+- Tract 2000: 36027060300
+- Tract 1990: 
+- Place 2020: 
+- Place 2010: 25967
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 153410
+- Units: 288
+- Low-income units: 60
+- Units reported: 288
+- Low-income reported: 60
+- Efficiencies: 0
+- 1-bedroom units: 112
+- 2-bedroom units: 112
+- 3-bedroom units: 64
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

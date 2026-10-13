@@ -1,0 +1,85 @@
+# Project: REGENCY PARK/COLONY 2000 (GAA19970120)
+
+- HUD ID: GAA19970120
+- HUD ID before: 
+- Project: REGENCY PARK/COLONY 2000
+- Address: 3200 DESERT DR
+- City: EAST POINT
+- State: GA
+- ZIP: 30344
+- ZIP extension: 
+- State project ID: GA-95-581
+- Latitude: 33.652675
+- Longitude: -84.493799
+- County FIPS: 13121
+- County from: 2020
+- Tract 2020: 13121011307
+- Tract 2010: 13121011305
+- Tract 2000: 13121011304
+- Tract 1990: 13121010302
+- Place 2020: 25720
+- Place 2010: 25720
+- Place 2000: 25720
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 800
+- Low-income units: 202
+- Units reported: 800
+- Low-income reported: 202
+- Efficiencies: 136
+- 1-bedroom units: 235
+- 2-bedroom units: 279
+- 3-bedroom units: 150
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: OSAGE VILLAGE APTS (OKA19970050)
+
+- HUD ID: OKA19970050
+- HUD ID before: 
+- Project: OSAGE VILLAGE APTS
+- Address: 1125 S REGAN AVE
+- City: HOMINY
+- State: OK
+- ZIP: 74035
+- ZIP extension: 
+- State project ID: 970740
+- Latitude: 36.404101
+- Longitude: -96.396127
+- County FIPS: 40113
+- County from: 2020
+- Tract 2020: 40113940001
+- Tract 2010: 40113940001
+- Tract 2000: 40113010400
+- Tract 1990: 40113010400
+- Place 2020: 35850
+- Place 2010: 35850
+- Place 2000: 35850
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 24
+- Low-income units: 24
+- Units reported: 24
+- Low-income reported: 24
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 16
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

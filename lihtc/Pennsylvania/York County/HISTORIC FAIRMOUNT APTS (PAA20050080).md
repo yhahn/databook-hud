@@ -1,0 +1,85 @@
+# Project: HISTORIC FAIRMOUNT APTS (PAA20050080)
+
+- HUD ID: PAA20050080
+- HUD ID before: 
+- Project: HISTORIC FAIRMOUNT APTS
+- Address: 338 N BEAVER ST
+- City: YORK
+- State: PA
+- ZIP: 17401
+- ZIP extension: 
+- State project ID: TC20030621
+- Latitude: 39.966933
+- Longitude: -76.732511
+- County FIPS: 42133
+- County from: 2020
+- Tract 2020: 42133001500
+- Tract 2010: 42133001500
+- Tract 2000: 42133001500
+- Tract 1990: 42133001500
+- Place 2020: 87048
+- Place 2010: 87048
+- Place 2000: 87048
+- Place 1990: 9034
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 338784
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 1
+- 1-bedroom units: 11
+- 2-bedroom units: 13
+- 3-bedroom units: 12
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 1050000
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

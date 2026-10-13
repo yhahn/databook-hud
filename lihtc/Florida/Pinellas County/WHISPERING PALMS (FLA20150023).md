@@ -1,0 +1,85 @@
+# Project: WHISPERING PALMS (FLA20150023)
+
+- HUD ID: FLA20150023
+- HUD ID before: 
+- Project: WHISPERING PALMS
+- Address: 601 16TH AVENUE SE
+- City: LARGO
+- State: FL
+- ZIP: 33371
+- ZIP extension: 
+- State project ID: 2722
+- Latitude: 27.902168
+- Longitude: -82.780509
+- County FIPS: 12103
+- County from: 2020
+- Tract 2020: 12103025305
+- Tract 2010: 12103025305
+- Tract 2000: 12103025305
+- Tract 1990: 
+- Place 2020: 39425
+- Place 2010: 39425
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2015
+- Placed in service note: 
+- Allocation year: 2014
+- Allocation year note: 
+- Allocation amount: 947486
+- Units: 63
+- Low-income units: 63
+- Units reported: 63
+- Low-income reported: 63
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 40
+- 3-bedroom units: 23
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 7
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PINE GROVE APTS (INA20000065)
+
+- HUD ID: INA20000065
+- HUD ID before: 
+- Project: PINE GROVE APTS
+- Address: 10 PINE GROVE CT
+- City: BLUFFTON
+- State: IN
+- ZIP: 46714
+- ZIP extension: 
+- State project ID: IN-99-02400
+- Latitude: 40.771082
+- Longitude: -85.161622
+- County FIPS: 18179
+- County from: 2020
+- Tract 2020: 18179040400
+- Tract 2010: 18179040400
+- Tract 2000: 18179040400
+- Tract 1990: 18179040400
+- Place 2020: 06220
+- Place 2010: 06220
+- Place 2000: 06220
+- Place 1990: 0210
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 278815
+- Units: 58
+- Low-income units: 55
+- Units reported: 58
+- Low-income reported: 55
+- Efficiencies: 0
+- 1-bedroom units: 18
+- 2-bedroom units: 22
+- 3-bedroom units: 18
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

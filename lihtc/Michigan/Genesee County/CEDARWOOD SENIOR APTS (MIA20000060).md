@@ -1,0 +1,85 @@
+# Project: CEDARWOOD SENIOR APTS (MIA20000060)
+
+- HUD ID: MIA20000060
+- HUD ID before: 
+- Project: CEDARWOOD SENIOR APTS
+- Address: 1700 CEDARWOOD DR
+- City: FLUSHING
+- State: MI
+- ZIP: 48433
+- ZIP extension: 
+- State project ID: MI-980
+- Latitude: 43.063579
+- Longitude: -83.814415
+- County FIPS: 26049
+- County from: 2020
+- Tract 2020: 26049010603
+- Tract 2010: 26049010603
+- Tract 2000: 26049010603
+- Tract 1990: 26049010603
+- Place 2020: 29200
+- Place 2010: 29200
+- Place 2000: 29200
+- Place 1990: 0925
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 43
+- Units reported: 100
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 70
+- 2-bedroom units: 30
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

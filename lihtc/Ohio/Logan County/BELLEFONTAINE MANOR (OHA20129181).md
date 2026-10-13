@@ -1,0 +1,85 @@
+# Project: BELLEFONTAINE MANOR (OHA20129181)
+
+- HUD ID: OHA20129181
+- HUD ID before: 
+- Project: BELLEFONTAINE MANOR
+- Address: 160 LAKEWOOD DRIVE
+- City: BELLEFONTAINE
+- State: OH
+- ZIP: 43311
+- ZIP extension: 
+- State project ID: 110011
+- Latitude: 40.363318
+- Longitude: -83.735517
+- County FIPS: 39091
+- County from: 2020
+- Tract 2020: 39091004600
+- Tract 2010: 39091004600
+- Tract 2000: 39091984600
+- Tract 1990: 39091984600
+- Place 2020: 05130
+- Place 2010: 05130
+- Place 2000: 05130
+- Place 1990: 0320
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 40
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 600000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: HALTER WOODS II (MNA19880090)
+
+- HUD ID: MNA19880090
+- HUD ID before: 
+- Project: HALTER WOODS II
+- Address: 220 GREENVALE AVE W
+- City: NORTHFIELD
+- State: MN
+- ZIP: 55057
+- ZIP extension: 
+- State project ID: MN-87012
+- Latitude: 44.464276
+- Longitude: -93.163688
+- County FIPS: 27131
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 27131070601
+- Tract 2000: 27131970600
+- Tract 1990: 27131970600
+- Place 2020: 
+- Place 2010: 46924
+- Place 2000: 17126
+- Place 1990: 2850
+- Year placed in service: 1988
+- Placed in service note: 
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 20
+- Low-income units: 20
+- Units reported: 20
+- Low-income reported: 20
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

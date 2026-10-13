@@ -1,0 +1,85 @@
+# Project: QUAIL VILLAGE (COA20000070)
+
+- HUD ID: COA20000070
+- HUD ID before: 
+- Project: QUAIL VILLAGE
+- Address: 321 QUAIL RD
+- City: LONGMONT
+- State: CO
+- ZIP: 80501
+- ZIP extension: 
+- State project ID: CO-98-0042
+- Latitude: 40.145002
+- Longitude: -105.09896
+- County FIPS: 08013
+- County from: 2020
+- Tract 2020: 08013013211
+- Tract 2010: 08013013211
+- Tract 2000: 08013013211
+- Tract 1990: 08013013204
+- Place 2020: 45970
+- Place 2010: 45970
+- Place 2000: 45970
+- Place 1990: 0820
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 72
+- Low-income units: 43
+- Units reported: 72
+- Low-income reported: 43
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 24
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PEBBLE HILL ESTATES (FLA20080200)
+
+- HUD ID: FLA20080200
+- HUD ID before: 
+- Project: PEBBLE HILL ESTATES
+- Address: 2817 BRIGHTWELL AVE
+- City: MARIANNA
+- State: FL
+- ZIP: 32448
+- ZIP extension: 
+- State project ID: 1569
+- Latitude: 30.767168
+- Longitude: -85.238846
+- County FIPS: 12063
+- County from: 2020
+- Tract 2020: 12063210600
+- Tract 2010: 12063210600
+- Tract 2000: 12063980600
+- Tract 1990: 12063980600
+- Place 2020: 43175
+- Place 2010: 43175
+- Place 2000: 43175
+- Place 1990: 1305
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 941011
+- Units: 80
+- Low-income units: 80
+- Units reported: 80
+- Low-income reported: 80
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 40
+- 3-bedroom units: 40
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 40
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

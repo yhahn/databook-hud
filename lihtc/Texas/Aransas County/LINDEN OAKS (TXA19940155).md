@@ -1,0 +1,85 @@
+# Project: LINDEN OAKS (TXA19940155)
+
+- HUD ID: TXA19940155
+- HUD ID before: 
+- Project: LINDEN OAKS
+- Address: 1201 N LIVE OAK ST
+- City: ROCKPORT
+- State: TX
+- ZIP: 78382
+- ZIP extension: 
+- State project ID: TX1098
+- Latitude: 28.035088
+- Longitude: -97.052769
+- County FIPS: 48007
+- County from: 2020
+- Tract 2020: 48007950301
+- Tract 2010: 48007950300
+- Tract 2000: 48007950300
+- Tract 1990: 48007950300
+- Place 2020: 62804
+- Place 2010: 62804
+- Place 2000: 62804
+- Place 1990: 3620
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ROCKPORT RETIR.
+- Record status: Existing, unchanged

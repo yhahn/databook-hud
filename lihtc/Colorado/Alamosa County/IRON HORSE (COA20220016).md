@@ -1,0 +1,85 @@
+# Project: IRON HORSE (COA20220016)
+
+- HUD ID: COA20220016
+- HUD ID before: 
+- Project: IRON HORSE
+- Address: 821 MAROON DR.
+- City: ALAMOSA
+- State: CO
+- ZIP: 81101
+- ZIP extension: 
+- State project ID: CO-22-19
+- Latitude: 37.4897
+- Longitude: -105.909
+- County FIPS: 08003
+- County from: 2020
+- Tract 2020: 08003960202
+- Tract 2010: 08003960200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 01090
+- Place 2010: 01090
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2022
+- Placed in service note: 
+- Allocation year: 2020
+- Allocation year note: 
+- Allocation amount: 1141509
+- Units: 41
+- Low-income units: 40
+- Units reported: 41
+- Low-income reported: 40
+- Efficiencies: 
+- 1-bedroom units: 14
+- 2-bedroom units: 21
+- 3-bedroom units: 6
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 37
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

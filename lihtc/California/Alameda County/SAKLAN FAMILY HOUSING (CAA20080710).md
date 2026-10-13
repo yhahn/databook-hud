@@ -1,0 +1,85 @@
+# Project: SAKLAN FAMILY HOUSING (CAA20080710)
+
+- HUD ID: CAA20080710
+- HUD ID before: 
+- Project: SAKLAN FAMILY HOUSING
+- Address: 1401 N LN
+- City: HAYWARD
+- State: CA
+- ZIP: 94545
+- ZIP extension: 
+- State project ID: CA-06-908
+- Latitude: 37.651825
+- Longitude: -122.117504
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001437200
+- Tract 2010: 06001437200
+- Tract 2000: 06001437200
+- Tract 1990: 06001437200
+- Place 2020: 33000
+- Place 2010: 33000
+- Place 2000: 33000
+- Place 1990: 1225
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 970869
+- Units: 78
+- Low-income units: 77
+- Units reported: 78
+- Low-income reported: 77
+- Efficiencies: 0
+- 1-bedroom units: 17
+- 2-bedroom units: 30
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 77
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

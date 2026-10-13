@@ -1,0 +1,85 @@
+# Project: WOODMARK APARTMENTS (WAA20060220)
+
+- HUD ID: WAA20060220
+- HUD ID before: 
+- Project: WOODMARK APARTMENTS
+- Address: 2425 SOUTH 96TH ST
+- City: TACOMA
+- State: WA
+- ZIP: 98444
+- ZIP extension: 
+- State project ID: 05-95A
+- Latitude: 47.170367
+- Longitude: -122.469498
+- County FIPS: 53053
+- County from: 2020
+- Tract 2020: 53053071703
+- Tract 2010: 53053071703
+- Tract 2000: 53053071703
+- Tract 1990: 53053071701
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 70000
+- Place 1990: 
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 647486
+- Units: 288
+- Low-income units: 286
+- Units reported: 288
+- Low-income reported: 286
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 168
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 31
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Yes
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

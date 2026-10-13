@@ -1,0 +1,85 @@
+# Project: CENTRAL CITY HOMES (VAA20050050)
+
+- HUD ID: VAA20050050
+- HUD ID before: 
+- Project: CENTRAL CITY HOMES
+- Address: 451 RIVERMONT AVE
+- City: LYNCHBURG
+- State: VA
+- ZIP: 24504
+- ZIP extension: 
+- State project ID: 8970
+- Latitude: 37.422537
+- Longitude: -79.1508
+- County FIPS: 51680
+- County from: 2020
+- Tract 2020: 51680000400
+- Tract 2010: 51680000400
+- Tract 2000: 51680000400
+- Tract 1990: 51680000400
+- Place 2020: 47672
+- Place 2010: 47672
+- Place 2000: 47672
+- Place 1990: 0760
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 297584
+- Units: 37
+- Low-income units: 13
+- Units reported: 37
+- Low-income reported: 13
+- Efficiencies: 0
+- 1-bedroom units: 9
+- 2-bedroom units: 18
+- 3-bedroom units: 9
+- 4-bedroom units: 1
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

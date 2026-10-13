@@ -1,0 +1,85 @@
+# Project: CHESTNUT STREET APARTMENTS (NYA20200006)
+
+- HUD ID: NYA20200006
+- HUD ID before: 
+- Project: CHESTNUT STREET APARTMENTS
+- Address: 196 CHESTNUT STREET
+- City: LIBERTY
+- State: NY
+- ZIP: 12754
+- ZIP extension: 
+- State project ID: 20186003
+- Latitude: 41.799506
+- Longitude: -74.753998
+- County FIPS: 36105
+- County from: 2020
+- Tract 2020: 36105950702
+- Tract 2010: 36105950700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 42224
+- Place 2010: 42224
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 1081500
+- Units: 73
+- Low-income units: 73
+- Units reported: 73
+- Low-income reported: 73
+- Efficiencies: 
+- 1-bedroom units: 64
+- 2-bedroom units: 9
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 73
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: State
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: Yes
+- Other population: Yes
+- Other population named: veterans/SMI
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

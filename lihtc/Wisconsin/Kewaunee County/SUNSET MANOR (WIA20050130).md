@@ -1,0 +1,85 @@
+# Project: SUNSET MANOR (WIA20050130)
+
+- HUD ID: WIA20050130
+- HUD ID before: 
+- Project: SUNSET MANOR
+- Address: 903 SIXTH ST
+- City: KEWAUNEE
+- State: WI
+- ZIP: 54216
+- ZIP extension: 
+- State project ID: 3018
+- Latitude: 44.453666
+- Longitude: -87.523725
+- County FIPS: 55061
+- County from: 2020
+- Tract 2020: 55061960500
+- Tract 2010: 55061960500
+- Tract 2000: 55061960500
+- Tract 1990: 55061960500
+- Place 2020: 39350
+- Place 2010: 39350
+- Place 2000: 39350
+- Place 1990: 1290
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 
+- Units: 38
+- Low-income units: 38
+- Units reported: 38
+- Low-income reported: 38
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 14
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

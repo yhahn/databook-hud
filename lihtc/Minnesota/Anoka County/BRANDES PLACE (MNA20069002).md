@@ -1,0 +1,85 @@
+# Project: BRANDES PLACE (MNA20069002)
+
+- HUD ID: MNA20069002
+- HUD ID before: 
+- Project: BRANDES PLACE
+- Address: MULTIPLE BUILDING ADDRESSES
+- City: FRIDLEY
+- State: MN
+- ZIP: 55432
+- ZIP extension: 
+- State project ID: D2913
+- Latitude: 45.097
+- Longitude: -93.2535
+- County FIPS: 27003
+- County from: 2020
+- Tract 2020: 27003051102
+- Tract 2010: 27003051102
+- Tract 2000: 27003051202
+- Tract 1990: 27003051202
+- Place 2020: 22814
+- Place 2010: 22814
+- Place 2000: 22814
+- Place 1990: 1385
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 246004
+- Units: 16
+- Low-income units: 16
+- Units reported: 16
+- Low-income reported: 16
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 9
+- 3-bedroom units: 7
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 317875
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Yes
+- Other population named: SINGLE WOMEN
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

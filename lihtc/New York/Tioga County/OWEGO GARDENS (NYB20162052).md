@@ -1,0 +1,85 @@
+# Project: OWEGO GARDENS (NYB20162052)
+
+- HUD ID: NYB20162052
+- HUD ID before: 
+- Project: OWEGO GARDENS
+- Address: 130A SOUTHSIDE DR
+- City: OWEGO
+- State: NY
+- ZIP: 13827
+- ZIP extension: 
+- State project ID: NY-15-2325
+- Latitude: 42.100429
+- Longitude: -76.252923
+- County FIPS: 36107
+- County from: 2020
+- Tract 2020: 36107020500
+- Tract 2010: 36107020500
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 55882
+- Place 2010: 55882
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2016
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 267515
+- Units: 62
+- Low-income units: 47
+- Units reported: 62
+- Low-income reported: 47
+- Efficiencies: 0
+- 1-bedroom units: 50
+- 2-bedroom units: 12
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 24
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: Yes
+- CDBG amount: 7157803
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

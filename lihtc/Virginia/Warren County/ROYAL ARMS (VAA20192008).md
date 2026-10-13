@@ -1,0 +1,85 @@
+# Project: ROYAL ARMS (VAA20192008)
+
+- HUD ID: VAA20192008
+- HUD ID before: 
+- Project: ROYAL ARMS
+- Address: 425 E CRISER ROAD
+- City: FRONT ROYAL
+- State: VA
+- ZIP: 22630
+- ZIP extension: 
+- State project ID: 8226
+- Latitude: 38.905929
+- Longitude: -78.188551
+- County FIPS: 51187
+- County from: 2020
+- Tract 2020: 51187020602
+- Tract 2010: 51187020602
+- Tract 2000: 51187020600
+- Tract 1990: 51187020500
+- Place 2020: 29968
+- Place 2010: 29968
+- Place 2000: 29968
+- Place 1990: 0515
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 673577
+- Units: 144
+- Low-income units: 144
+- Units reported: 144
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 36
+- 2-bedroom units: 72
+- 3-bedroom units: 35
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 86
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: Yes
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

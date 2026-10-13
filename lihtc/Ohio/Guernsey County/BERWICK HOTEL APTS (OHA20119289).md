@@ -1,0 +1,85 @@
+# Project: BERWICK HOTEL APTS (OHA20119289)
+
+- HUD ID: OHA20119289
+- HUD ID before: 
+- Project: BERWICK HOTEL APTS
+- Address: 601 WHEELING AVE
+- City: CAMBRIDGE
+- State: OH
+- ZIP: 43725
+- ZIP extension: 
+- State project ID: 090085
+- Latitude: 40.025013
+- Longitude: -81.593195
+- County FIPS: 39059
+- County from: 2020
+- Tract 2020: 39059977300
+- Tract 2010: 39059977300
+- Tract 2000: 39059977300
+- Tract 1990: 39059977300
+- Place 2020: 10996
+- Place 2010: 10996
+- Place 2000: 10996
+- Place 1990: 0670
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 48
+- Low-income units: 48
+- Units reported: 48
+- Low-income reported: 48
+- Efficiencies: 3
+- 1-bedroom units: 44
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 332017
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2010819.
+- Record status: Existing, unchanged

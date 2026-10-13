@@ -1,0 +1,85 @@
+# Project: CHESTNUT RIDGE APTS PHASE I (WIA19950050)
+
+- HUD ID: WIA19950050
+- HUD ID before: 
+- Project: CHESTNUT RIDGE APTS PHASE I
+- Address: 433 AUTUMN DR
+- City: DELAVAN
+- State: WI
+- ZIP: 53115
+- ZIP extension: 
+- State project ID: 1967
+- Latitude: 42.627897
+- Longitude: -88.67272
+- County FIPS: 55127
+- County from: 2020
+- Tract 2020: 55127000701
+- Tract 2010: 55127000701
+- Tract 2000: 55127000700
+- Tract 1990: 55127000700
+- Place 2020: 19450
+- Place 2010: 19450
+- Place 2000: 19450
+- Place 1990: 0685
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 1
+- 2-bedroom units: 0
+- 3-bedroom units: 31
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

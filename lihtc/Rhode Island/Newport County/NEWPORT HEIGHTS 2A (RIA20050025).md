@@ -1,0 +1,85 @@
+# Project: NEWPORT HEIGHTS 2A (RIA20050025)
+
+- HUD ID: RIA20050025
+- HUD ID before: 
+- Project: NEWPORT HEIGHTS 2A
+- Address: 26 RANGER RD
+- City: NEWPORT
+- State: RI
+- ZIP: 02840
+- ZIP extension: 
+- State project ID: RI00111
+- Latitude: 41.514847
+- Longitude: -71.311024
+- County FIPS: 44005
+- County from: 2020
+- Tract 2020: 44005040500
+- Tract 2010: 44005040500
+- Tract 2000: 44005040500
+- Tract 1990: 44005040500
+- Place 2020: 49960
+- Place 2010: 49960
+- Place 2000: 49960
+- Place 1990: 0310
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 464778
+- Units: 100
+- Low-income units: 78
+- Units reported: 100
+- Low-income reported: 78
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 27
+- 3-bedroom units: 27
+- 4-bedroom units: 4
+- Construction: 
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PHOENIX (FLA19950829)
+
+- HUD ID: FLA19950829
+- HUD ID before: 
+- Project: PHOENIX
+- Address: 1554 NE 8TH STREET
+- City: HOMESTEAD
+- State: FL
+- ZIP: 33030
+- ZIP extension: 
+- State project ID: 624
+- Latitude: 25.477138
+- Longitude: -80.455729
+- County FIPS: 12086
+- County from: 2020
+- Tract 2020: 12086011010
+- Tract 2010: 12086011001
+- Tract 2000: 12086011001
+- Tract 1990: 12025011001
+- Place 2020: 32275
+- Place 2010: 32275
+- Place 2000: 32275
+- Place 1990: 0930
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 687441
+- Units: 164
+- Low-income units: 164
+- Units reported: 164
+- Low-income reported: 164
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 44
+- 3-bedroom units: 120
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 2300000
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

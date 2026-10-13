@@ -1,0 +1,85 @@
+# Project: TURK/EDDY PRESERVATION PROJECT (CAA20100302)
+
+- HUD ID: CAA20100302
+- HUD ID before: 
+- Project: TURK/EDDY PRESERVATION PROJECT
+- Address: 165 TURK ST
+- City: SAN FRANCISCO
+- State: CA
+- ZIP: 94102
+- ZIP extension: 
+- State project ID: CA-09-503
+- Latitude: 37.782931
+- Longitude: -122.41175
+- County FIPS: 06075
+- County from: 2020
+- Tract 2020: 06075012503
+- Tract 2010: 06075012501
+- Tract 2000: 06075012500
+- Tract 1990: 06075012500
+- Place 2020: 67000
+- Place 2010: 67000
+- Place 2000: 67000
+- Place 1990: 2485
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 82
+- Low-income units: 80
+- Units reported: 82
+- Low-income reported: 80
+- Efficiencies: 77
+- 1-bedroom units: 5
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 80
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 11120814
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: UNSPECIFIED
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CAA2010532.
+- Record status: Existing, unchanged

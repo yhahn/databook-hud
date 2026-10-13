@@ -1,0 +1,85 @@
+# Project: SIDNEY VILLAGE (OHA19960225)
+
+- HUD ID: OHA19960225
+- HUD ID before: 
+- Project: SIDNEY VILLAGE
+- Address: 935 BUCKEYE AVE
+- City: SIDNEY
+- State: OH
+- ZIP: 45365
+- ZIP extension: 
+- State project ID: OH-95-0089
+- Latitude: 40.296599
+- Longitude: -84.167329
+- County FIPS: 39149
+- County from: 2020
+- Tract 2020: 39149971800
+- Tract 2010: 39149971800
+- Tract 2000: 39149971800
+- Tract 1990: 39149971800
+- Place 2020: 72424
+- Place 2010: 72424
+- Place 2000: 72424
+- Place 1990: 3970
+- Year placed in service: 1996
+- Placed in service note: 
+- Allocation year: 1995
+- Allocation year note: 
+- Allocation amount: 169724
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 14
+- 4-bedroom units: 8
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

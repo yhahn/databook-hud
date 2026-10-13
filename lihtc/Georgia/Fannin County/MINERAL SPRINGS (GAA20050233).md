@@ -1,0 +1,85 @@
+# Project: MINERAL SPRINGS (GAA20050233)
+
+- HUD ID: GAA20050233
+- HUD ID before: 
+- Project: MINERAL SPRINGS
+- Address: 297 MINERAL SPRINGS RD
+- City: BLUE RIDGE
+- State: GA
+- ZIP: 30513
+- ZIP extension: 8111
+- State project ID: GA-03-031
+- Latitude: 34.866135
+- Longitude: -84.311539
+- County FIPS: 13111
+- County from: 2020
+- Tract 2020: 13111050400
+- Tract 2010: 13111050400
+- Tract 2000: 13111050400
+- Tract 1990: 13111950400
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 08928
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 199741
+- Units: 67
+- Low-income units: 53
+- Units reported: 67
+- Low-income reported: 53
+- Efficiencies: 0
+- 1-bedroom units: 35
+- 2-bedroom units: 24
+- 3-bedroom units: 8
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS GAA2003080.
+- Record status: Existing, unchanged

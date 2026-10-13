@@ -1,0 +1,85 @@
+# Project: GREENBRIDGE HOPE VI - NIA APARTMENTS (WAA20080800)
+
+- HUD ID: WAA20080800
+- HUD ID before: 
+- Project: GREENBRIDGE HOPE VI - NIA APARTMENTS
+- Address: 9935 - 8TH AVE SW.
+- City: SEATTLE
+- State: WA
+- ZIP: 98106
+- ZIP extension: 
+- State project ID: 07-01
+- Latitude: 47.514363
+- Longitude: -122.345452
+- County FIPS: 53033
+- County from: 2020
+- Tract 2020: 53033026500
+- Tract 2010: 53033026500
+- Tract 2000: 53033026500
+- Tract 1990: 53033026500
+- Place 2020: 78225
+- Place 2010: 78225
+- Place 2000: 78225
+- Place 1990: 1434
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 1246974
+- Units: 82
+- Low-income units: 81
+- Units reported: 82
+- Low-income reported: 81
+- Efficiencies: 0
+- 1-bedroom units: 65
+- 2-bedroom units: 17
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 40
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: Yes
+- HOPE VI amount: 15792244
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

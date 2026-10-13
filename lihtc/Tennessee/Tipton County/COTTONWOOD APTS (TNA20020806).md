@@ -1,0 +1,85 @@
+# Project: COTTONWOOD APTS (TNA20020806)
+
+- HUD ID: TNA20020806
+- HUD ID before: 
+- Project: COTTONWOOD APTS
+- Address: 1810 COTTONWOOD PL
+- City: COVINGTON
+- State: TN
+- ZIP: 38019
+- ZIP extension: 
+- State project ID: TN-00-025
+- Latitude: 35.53778
+- Longitude: -89.66039
+- County FIPS: 47167
+- County from: 2020
+- Tract 2020: 47167040700
+- Tract 2010: 47167040700
+- Tract 2000: 47167040700
+- Tract 1990: 47167040700
+- Place 2020: 17680
+- Place 2010: 17680
+- Place 2000: 17680
+- Place 1990: 0315
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 489799
+- Units: 68
+- Low-income units: 68
+- Units reported: 68
+- Low-income reported: 68
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 26
+- 3-bedroom units: 22
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 14
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS TNA2003045, TNA2002140.
+- Record status: Existing, unchanged

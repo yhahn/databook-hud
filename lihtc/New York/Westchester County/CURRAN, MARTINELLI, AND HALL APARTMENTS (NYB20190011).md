@@ -1,0 +1,85 @@
+# Project: CURRAN, MARTINELLI, AND HALL APARTMENTS (NYB20190011)
+
+- HUD ID: NYB20190011
+- HUD ID before: 
+- Project: CURRAN, MARTINELLI, AND HALL APARTMENTS
+- Address: 1-4 CURRAN CT
+- City: YONKERS
+- State: NY
+- ZIP: 10710
+- ZIP extension: 
+- State project ID: 2438
+- Latitude: 40.951588
+- Longitude: -73.845934
+- County FIPS: 36119
+- County from: 2020
+- Tract 2020: 36119002203
+- Tract 2010: 36119002203
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 84000
+- Place 2010: 84000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2019
+- Placed in service note: 
+- Allocation year: 2017
+- Allocation year note: 
+- Allocation amount: 2630835
+- Units: 279
+- Low-income units: 274
+- Units reported: 279
+- Low-income reported: 274
+- Efficiencies: 0
+- 1-bedroom units: 247
+- 2-bedroom units: 20
+- 3-bedroom units: 8
+- 4-bedroom units: 4
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: Yes
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

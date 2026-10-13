@@ -1,0 +1,85 @@
+# Project: SURREY LANE APTS (OHA19890615)
+
+- HUD ID: OHA19890615
+- HUD ID before: 
+- Project: SURREY LANE APTS
+- Address: 100 OXFORD DR
+- City: GREENVILLE
+- State: OH
+- ZIP: 45331
+- ZIP extension: 
+- State project ID: OH-88-0279
+- Latitude: 40.114541
+- Longitude: -84.619737
+- County FIPS: 39037
+- County from: 2020
+- Tract 2020: 39037555002
+- Tract 2010: 39037555000
+- Tract 2000: 39037555000
+- Tract 1990: 39037555000
+- Place 2020: 32340
+- Place 2010: 32340
+- Place 2000: 32340
+- Place 1990: 1665
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1988
+- Allocation year note: 
+- Allocation amount: 
+- Units: 36
+- Low-income units: 36
+- Units reported: 36
+- Low-income reported: 36
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

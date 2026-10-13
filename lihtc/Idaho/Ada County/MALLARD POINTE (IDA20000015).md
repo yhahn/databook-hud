@@ -1,0 +1,85 @@
+# Project: MALLARD POINTE (IDA20000015)
+
+- HUD ID: IDA20000015
+- HUD ID before: 
+- Project: MALLARD POINTE
+- Address: 503 EAST 50TH STREET
+- City: GARDEN CITY
+- State: ID
+- ZIP: 83714
+- ZIP extension: 
+- State project ID: HC9818
+- Latitude: 43.646031
+- Longitude: -116.263254
+- County FIPS: 16001
+- County from: 2020
+- Tract 2020: 16001001100
+- Tract 2010: 16001001100
+- Tract 2000: 16001001100
+- Tract 1990: 16001001100
+- Place 2020: 29620
+- Place 2010: 29620
+- Place 2000: 29620
+- Place 1990: 0320
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 240460
+- Units: 158
+- Low-income units: 157
+- Units reported: 158
+- Low-income reported: 157
+- Efficiencies: 20
+- 1-bedroom units: 133
+- 2-bedroom units: 5
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 157
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: Yes
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

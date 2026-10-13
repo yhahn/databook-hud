@@ -1,0 +1,85 @@
+# Project: ASPENWOOD GLEN SENIOR LIVING COMMUNITY (WIA19990010)
+
+- HUD ID: WIA19990010
+- HUD ID before: 
+- Project: ASPENWOOD GLEN SENIOR LIVING COMMUNITY
+- Address: 6151 W BRADLEY RD
+- City: MILWAUKEE
+- State: WI
+- ZIP: 53223
+- ZIP extension: 
+- State project ID: 2219
+- Latitude: 43.162913
+- Longitude: -87.985881
+- County FIPS: 55079
+- County from: 2020
+- Tract 2020: 55079000700
+- Tract 2010: 55079000700
+- Tract 2000: 55079000700
+- Tract 1990: 55079000700
+- Place 2020: 53000
+- Place 2010: 53000
+- Place 2000: 53000
+- Place 1990: 1645
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 120
+- Low-income units: 108
+- Units reported: 120
+- Low-income reported: 108
+- Efficiencies: 0
+- 1-bedroom units: 54
+- 2-bedroom units: 66
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA ASPENWOOD GLEN SENIOR LIVNG COMMUN.
+- Record status: Existing, unchanged

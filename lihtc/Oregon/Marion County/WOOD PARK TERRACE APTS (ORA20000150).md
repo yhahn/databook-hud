@@ -1,0 +1,85 @@
+# Project: WOOD PARK TERRACE APTS (ORA20000150)
+
+- HUD ID: ORA20000150
+- HUD ID before: 
+- Project: WOOD PARK TERRACE APTS
+- Address: 1035 PARK AVE
+- City: WOODBURN
+- State: OR
+- ZIP: 97071
+- ZIP extension: 
+- State project ID: X001-330
+- Latitude: 45.146001
+- Longitude: -122.841591
+- County FIPS: 41047
+- County from: 2020
+- Tract 2020: 41047010305
+- Tract 2010: 41047010304
+- Tract 2000: 41047010304
+- Tract 1990: 41047010302
+- Place 2020: 83750
+- Place 2010: 83750
+- Place 2000: 83750
+- Place 1990: 1240
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 412815
+- Units: 52
+- Low-income units: 51
+- Units reported: 52
+- Low-income reported: 51
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 26
+- 3-bedroom units: 25
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 996716
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: FARMWORKERS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: BELLE COURTS (VAA20050020)
+
+- HUD ID: VAA20050020
+- HUD ID before: 
+- Project: BELLE COURTS
+- Address: 724 BELLE CT
+- City: CULPEPER
+- State: VA
+- ZIP: 22701
+- ZIP extension: 
+- State project ID: 970
+- Latitude: 38.483234
+- Longitude: -77.978667
+- County FIPS: 51047
+- County from: 2020
+- Tract 2020: 51047930300
+- Tract 2010: 51047930300
+- Tract 2000: 51047990300
+- Tract 1990: 51047990300
+- Place 2020: 20752
+- Place 2010: 20752
+- Place 2000: 20752
+- Place 1990: 0355
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2002
+- Allocation year note: 
+- Allocation amount: 429130
+- Units: 154
+- Low-income units: 154
+- Units reported: 154
+- Low-income reported: 154
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 88
+- 3-bedroom units: 42
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 50% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 16
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: FKA CULPEPER HOUSE
+- Record status: Existing, unchanged

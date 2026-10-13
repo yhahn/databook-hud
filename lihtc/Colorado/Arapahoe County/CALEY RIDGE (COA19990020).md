@@ -1,0 +1,85 @@
+# Project: CALEY RIDGE (COA19990020)
+
+- HUD ID: COA19990020
+- HUD ID before: 
+- Project: CALEY RIDGE
+- Address: 9530 E CALEY CIR
+- City: GREENWOOD VILLAGE
+- State: CO
+- ZIP: 80111
+- ZIP extension: 
+- State project ID: 970031
+- Latitude: 39.601562
+- Longitude: -104.877016
+- County FIPS: 08005
+- County from: 2020
+- Tract 2020: 08005006860
+- Tract 2010: 08005006858
+- Tract 2000: 08005006807
+- Tract 1990: 08005006807
+- Place 2020: 13590
+- Place 2010: 13590
+- Place 2000: 33035
+- Place 1990: 0580
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 
+- Units: 100
+- Low-income units: 25
+- Units reported: 100
+- Low-income reported: 25
+- Efficiencies: 80
+- 1-bedroom units: 20
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

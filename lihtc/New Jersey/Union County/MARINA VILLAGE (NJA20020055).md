@@ -1,0 +1,85 @@
+# Project: MARINA VILLAGE (NJA20020055)
+
+- HUD ID: NJA20020055
+- HUD ID before: 
+- Project: MARINA VILLAGE
+- Address: 68 SOUTH PARK STREET
+- City: ELIZABETH
+- State: NJ
+- ZIP: 07206
+- ZIP extension: 
+- State project ID: NJ-0628
+- Latitude: 40.648988
+- Longitude: -74.185248
+- County FIPS: 34039
+- County from: 2020
+- Tract 2020: 34039030400
+- Tract 2010: 34039030400
+- Tract 2000: 34039030400
+- Tract 1990: 34039030400
+- Place 2020: 21000
+- Place 2010: 21000
+- Place 2000: 21000
+- Place 1990: 1715
+- Year placed in service: 2002
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 500773
+- Units: 35
+- Low-income units: 35
+- Units reported: 35
+- Low-income reported: 35
+- Efficiencies: 0
+- 1-bedroom units: 2
+- 2-bedroom units: 15
+- 3-bedroom units: 17
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 
+- Income ceiling: 50% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA0000030. AKA MARINA VILLAGE URBN RNWL.
+- Record status: Existing, unchanged

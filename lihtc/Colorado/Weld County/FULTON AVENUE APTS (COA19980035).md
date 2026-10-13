@@ -1,0 +1,85 @@
+# Project: FULTON AVENUE APTS (COA19980035)
+
+- HUD ID: COA19980035
+- HUD ID before: 
+- Project: FULTON AVENUE APTS
+- Address: 830 FULTON AVE
+- City: FORT LUPTON
+- State: CO
+- ZIP: 80621
+- ZIP extension: 
+- State project ID: CO-97-0038
+- Latitude: 40.087033
+- Longitude: -104.815013
+- County FIPS: 08123
+- County from: 2020
+- Tract 2020: 08123001910
+- Tract 2010: 08123001908
+- Tract 2000: 08123001903
+- Tract 1990: 08123001901
+- Place 2020: 27700
+- Place 2010: 27700
+- Place 2000: 08675
+- Place 1990: 0465
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 11
+- Low-income units: 11
+- Units reported: 11
+- Low-income reported: 11
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 10
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

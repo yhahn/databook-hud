@@ -1,0 +1,85 @@
+# Project: FAIRBORN SENIOR APTS (OHA19970085)
+
+- HUD ID: OHA19970085
+- HUD ID before: 
+- Project: FAIRBORN SENIOR APTS
+- Address: 221 N CENTRAL AVE
+- City: FAIRBORN
+- State: OH
+- ZIP: 45324
+- ZIP extension: 
+- State project ID: 96-0135
+- Latitude: 39.824999
+- Longitude: -84.020898
+- County FIPS: 39057
+- County from: 2020
+- Tract 2020: 39057200400
+- Tract 2010: 39057200400
+- Tract 2000: 39057200400
+- Tract 1990: 39057200400
+- Place 2020: 25914
+- Place 2010: 25914
+- Place 2000: 25914
+- Place 1990: 1330
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 136311
+- Units: 83
+- Low-income units: 83
+- Units reported: 83
+- Low-income reported: 83
+- Efficiencies: 4
+- 1-bedroom units: 37
+- 2-bedroom units: 43
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA FAIRBORN CENTRAL.
+- Record status: Existing, unchanged

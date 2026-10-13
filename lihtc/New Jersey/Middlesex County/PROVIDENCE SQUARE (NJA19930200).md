@@ -1,0 +1,85 @@
+# Project: PROVIDENCE SQUARE (NJA19930200)
+
+- HUD ID: NJA19930200
+- HUD ID before: 
+- Project: PROVIDENCE SQUARE
+- Address: 217 SOMERSET ST
+- City: NEW BRUNSWICK
+- State: NJ
+- ZIP: 08901
+- ZIP extension: 
+- State project ID: NJ-258
+- Latitude: 40.49471
+- Longitude: -74.453045
+- County FIPS: 34023
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 34023005200
+- Tract 2000: 34023005200
+- Tract 1990: 34023005200
+- Place 2020: 
+- Place 2010: 51210
+- Place 2000: 51210
+- Place 1990: 2900
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 
+- Units: 97
+- Low-income units: 97
+- Units reported: 97
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NJA1993125.
+- Record status: Existing, unchanged

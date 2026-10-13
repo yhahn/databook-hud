@@ -1,0 +1,85 @@
+# Project: COLUMBUS COURT (FLA20180016)
+
+- HUD ID: FLA20180016
+- HUD ID before: 
+- Project: COLUMBUS COURT
+- Address: 2802 STATELITE COURT
+- City: TAMPA
+- State: FL
+- ZIP: 33607
+- ZIP extension: 
+- State project ID: 2828
+- Latitude: 27.965441
+- Longitude: -82.475788
+- County FIPS: 12057
+- County from: 2020
+- Tract 2020: 12057004300
+- Tract 2010: 12057004300
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 71000
+- Place 2010: 71000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2018
+- Placed in service note: 
+- Allocation year: 2015
+- Allocation year note: 
+- Allocation amount: 882334
+- Units: 160
+- Low-income units: 160
+- Units reported: 160
+- Low-income reported: 160
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 102
+- 3-bedroom units: 30
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

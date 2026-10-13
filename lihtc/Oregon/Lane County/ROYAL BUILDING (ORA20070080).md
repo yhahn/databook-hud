@@ -1,0 +1,85 @@
+# Project: ROYAL BUILDING (ORA20070080)
+
+- HUD ID: ORA20070080
+- HUD ID before: 
+- Project: ROYAL BUILDING
+- Address: 509 MAIN ST
+- City: SPRINGFIELD
+- State: OR
+- ZIP: 97477
+- ZIP extension: 
+- State project ID: 536A
+- Latitude: 44.046022
+- Longitude: -123.01941
+- County FIPS: 41039
+- County from: 2020
+- Tract 2020: 41039003302
+- Tract 2010: 41039003302
+- Tract 2000: 41039003300
+- Tract 1990: 41039003300
+- Place 2020: 69600
+- Place 2010: 69600
+- Place 2000: 69600
+- Place 1990: 1085
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2006
+- Allocation year note: 
+- Allocation amount: 500000
+- Units: 33
+- Low-income units: 33
+- Units reported: 33
+- Low-income reported: 33
+- Efficiencies: 0
+- 1-bedroom units: 33
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 32
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 252846
+- CDBG: Yes
+- CDBG amount: 133264
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

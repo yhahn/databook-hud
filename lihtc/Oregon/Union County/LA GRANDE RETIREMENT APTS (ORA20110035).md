@@ -1,0 +1,85 @@
+# Project: LA GRANDE RETIREMENT APTS (ORA20110035)
+
+- HUD ID: ORA20110035
+- HUD ID before: 
+- Project: LA GRANDE RETIREMENT APTS
+- Address: 1612 SEVENTH ST
+- City: LA GRANDE
+- State: OR
+- ZIP: 97850
+- ZIP extension: 
+- State project ID: 1694
+- Latitude: 45.32613
+- Longitude: -118.093365
+- County FIPS: 41061
+- County from: 2020
+- Tract 2020: 41061970700
+- Tract 2010: 41061970700
+- Tract 2000: 41061970700
+- Tract 1990: 41061970700
+- Place 2020: 40350
+- Place 2010: 40350
+- Place 2000: 40350
+- Place 1990: 0630
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 328333
+- Units: 46
+- Low-income units: 46
+- Units reported: 46
+- Low-income reported: 46
+- Efficiencies: 2
+- 1-bedroom units: 44
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 2
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ORA2011505.
+- Record status: Existing, unchanged

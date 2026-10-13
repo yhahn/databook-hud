@@ -1,0 +1,85 @@
+# Project: THE ANTLERS (IAA20060140)
+
+- HUD ID: IAA20060140
+- HUD ID before: 
+- Project: THE ANTLERS
+- Address: 1703 HILL AVE
+- City: SPIRIT LAKE
+- State: IA
+- ZIP: 51360
+- ZIP extension: 
+- State project ID: 05-36
+- Latitude: 43.423389
+- Longitude: -95.10205
+- County FIPS: 19059
+- County from: 2020
+- Tract 2020: 19059450501
+- Tract 2010: 19059450500
+- Tract 2000: 19059950500
+- Tract 1990: 19059950500
+- Place 2020: 74415
+- Place 2010: 74415
+- Place 2000: 59655
+- Place 1990: 4035
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 159641
+- Units: 14
+- Low-income units: 14
+- Units reported: 14
+- Low-income reported: 14
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 6
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 700000
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: Yes
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: ARVILLE/GREENVILLE APTS (NVA19980035)
+
+- HUD ID: NVA19980035
+- HUD ID before: 
+- Project: ARVILLE/GREENVILLE APTS
+- Address: 3820 PENNWOOD AVE
+- City: LAS VEGAS
+- State: NV
+- ZIP: 89102
+- ZIP extension: 
+- State project ID: NV-98-00
+- Latitude: 36.137512
+- Longitude: -115.190893
+- County FIPS: 32003
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 32003002204
+- Tract 2000: 32003002204
+- Tract 1990: 32003002202
+- Place 2020: 
+- Place 2010: 40000
+- Place 2000: 40000
+- Place 1990: 0065
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 910896
+- Units: 566
+- Low-income units: 555
+- Units reported: 566
+- Low-income reported: 555
+- Efficiencies: 0
+- 1-bedroom units: 10
+- 2-bedroom units: 429
+- 3-bedroom units: 128
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA BLUE VALLEY APTS.
+- Record status: Existing, unchanged

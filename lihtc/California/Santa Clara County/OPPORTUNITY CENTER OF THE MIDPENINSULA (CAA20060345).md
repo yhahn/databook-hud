@@ -1,0 +1,85 @@
+# Project: OPPORTUNITY CENTER OF THE MIDPENINSULA (CAA20060345)
+
+- HUD ID: CAA20060345
+- HUD ID before: 
+- Project: OPPORTUNITY CENTER OF THE MIDPENINSULA
+- Address: 33 ENCINA AVE
+- City: PALO ALTO
+- State: CA
+- ZIP: 94301
+- ZIP extension: 
+- State project ID: CA-04-815
+- Latitude: 37.43911
+- Longitude: -122.161352
+- County FIPS: 06085
+- County from: 2020
+- Tract 2020: 06085511609
+- Tract 2010: 06085511609
+- Tract 2000: 06085511604
+- Tract 1990: 06085511698
+- Place 2020: 55282
+- Place 2010: 55282
+- Place 2000: 55282
+- Place 1990: 2798
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 722774
+- Units: 89
+- Low-income units: 88
+- Units reported: 89
+- Low-income reported: 88
+- Efficiencies: 70
+- 1-bedroom units: 13
+- 2-bedroom units: 6
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

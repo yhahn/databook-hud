@@ -1,0 +1,85 @@
+# Project: GARDENVIEW APTS (TXA19950155)
+
+- HUD ID: TXA19950155
+- HUD ID before: 
+- Project: GARDENVIEW APTS
+- Address: 2730 LAFFERTY RD
+- City: PASADENA
+- State: TX
+- ZIP: 77502
+- ZIP extension: 
+- State project ID: TX1196
+- Latitude: 29.67065
+- Longitude: -95.198172
+- County FIPS: 48201
+- County from: 2020
+- Tract 2020: 48201323500
+- Tract 2010: 48201323500
+- Tract 2000: 48201323500
+- Tract 1990: 48201035703
+- Place 2020: 56000
+- Place 2010: 56000
+- Place 2000: 56000
+- Place 1990: 3200
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 309
+- Low-income units: 309
+- Units reported: 309
+- Low-income reported: 309
+- Efficiencies: 0
+- 1-bedroom units: 159
+- 2-bedroom units: 134
+- 3-bedroom units: 16
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: PINECREST L D H A (VAA20010155)
+
+- HUD ID: VAA20010155
+- HUD ID before: 
+- Project: PINECREST L D H A
+- Address: 80 CRESTVIEW RD
+- City: LAWRENCEVILLE
+- State: VA
+- ZIP: 23868
+- ZIP extension: 
+- State project ID: 4128
+- Latitude: 36.76915
+- Longitude: -77.82155
+- County FIPS: 51025
+- County from: 2020
+- Tract 2020: 51025930203
+- Tract 2010: 51025930203
+- Tract 2000: 51025990200
+- Tract 1990: 51025990200
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 44520
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 188000
+- Units: 70
+- Low-income units: 70
+- Units reported: 70
+- Low-income reported: 70
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 32
+- 3-bedroom units: 32
+- 4-bedroom units: 6
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Federal
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA PINECREST BRUNSWICK.
+- Record status: Existing, unchanged

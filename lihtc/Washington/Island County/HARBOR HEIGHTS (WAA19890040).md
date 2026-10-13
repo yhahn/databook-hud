@@ -1,0 +1,85 @@
+# Project: HARBOR HEIGHTS (WAA19890040)
+
+- HUD ID: WAA19890040
+- HUD ID before: 
+- Project: HARBOR HEIGHTS
+- Address: 31 NW CROSBY AVE
+- City: OAK HARBOR
+- State: WA
+- ZIP: 98277
+- ZIP extension: 
+- State project ID: 88-14E
+- Latitude: 48.307538
+- Longitude: -122.658402
+- County FIPS: 53029
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 53029970601
+- Tract 2000: 53029970601
+- Tract 1990: 53029970600
+- Place 2020: 
+- Place 2010: 50360
+- Place 2000: 50360
+- Place 1990: 0895
+- Year placed in service: 1989
+- Placed in service note: 
+- Allocation year: 1989
+- Allocation year note: 
+- Allocation amount: 
+- Units: 37
+- Low-income units: 37
+- Units reported: 37
+- Low-income reported: 37
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

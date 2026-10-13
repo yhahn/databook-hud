@@ -1,0 +1,85 @@
+# Project: JOHNSTON GARDEN APTS (ILA20120015)
+
+- HUD ID: ILA20120015
+- HUD ID before: 
+- Project: JOHNSTON GARDEN APTS
+- Address: 1615 BLACKHAWK BLVD
+- City: SOUTH BELOIT
+- State: IL
+- ZIP: 61080
+- ZIP extension: 
+- State project ID: 1038710
+- Latitude: 42.478648
+- Longitude: -89.046419
+- County FIPS: 17201
+- County from: 2020
+- Tract 2020: 17201004004
+- Tract 2010: 17201004001
+- Tract 2000: 17201004001
+- Tract 1990: 17201004001
+- Place 2020: 70590
+- Place 2010: 70590
+- Place 2000: 65156
+- Place 1990: 5400
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2010
+- Allocation year note: 
+- Allocation amount: 387694
+- Units: 50
+- Low-income units: 50
+- Units reported: 50
+- Low-income reported: 50
+- Efficiencies: 0
+- 1-bedroom units: 49
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Both new construction and acquisition and rehab
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: MAR LAGO VILLAGE (FLA19980105)
+
+- HUD ID: FLA19980105
+- HUD ID before: 
+- Project: MAR LAGO VILLAGE
+- Address: 20 COMMODORE DR
+- City: PLANTATION
+- State: FL
+- ZIP: 33325
+- ZIP extension: 
+- State project ID: 503
+- Latitude: 26.119022
+- Longitude: -80.324404
+- County FIPS: 12011
+- County from: 2020
+- Tract 2020: 12011060122
+- Tract 2010: 12011060122
+- Tract 2000: 12011060122
+- Tract 1990: 12011060104
+- Place 2020: 57425
+- Place 2010: 57425
+- Place 2000: 57425
+- Place 1990: 2047
+- Year placed in service: 1998
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 
+- Units: 216
+- Low-income units: 87
+- Units reported: 216
+- Low-income reported: 87
+- Efficiencies: 0
+- 1-bedroom units: 24
+- 2-bedroom units: 160
+- 3-bedroom units: 32
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

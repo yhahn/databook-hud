@@ -1,0 +1,85 @@
+# Project: LAKESIDE POINTE (FLA20060090)
+
+- HUD ID: FLA20060090
+- HUD ID before: 
+- Project: LAKESIDE POINTE
+- Address: 1403 OLD HARBOR BLVD
+- City: LEESBURG
+- State: FL
+- ZIP: 34748
+- ZIP extension: 
+- State project ID: 1438
+- Latitude: 28.791512
+- Longitude: -81.88845
+- County FIPS: 12069
+- County from: 2020
+- Tract 2020: 12069030507
+- Tract 2010: 12069030502
+- Tract 2000: 12069030502
+- Tract 1990: 12069030502
+- Place 2020: 39875
+- Place 2010: 39875
+- Place 2000: 39875
+- Place 1990: 1215
+- Year placed in service: 2006
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 649717
+- Units: 128
+- Low-income units: 128
+- Units reported: 128
+- Low-income reported: 128
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 48
+- 3-bedroom units: 32
+- 4-bedroom units: 32
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

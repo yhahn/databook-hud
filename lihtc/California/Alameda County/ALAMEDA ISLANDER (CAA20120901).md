@@ -1,0 +1,85 @@
+# Project: ALAMEDA ISLANDER (CAA20120901)
+
+- HUD ID: CAA20120901
+- HUD ID before: 
+- Project: ALAMEDA ISLANDER
+- Address: 2428 CENTRAL AVE
+- City: ALAMEDA
+- State: CA
+- ZIP: 94501
+- ZIP extension: 
+- State project ID: CA-11-093
+- Latitude: 37.763454
+- Longitude: -122.241489
+- County FIPS: 06001
+- County from: 2020
+- Tract 2020: 06001428100
+- Tract 2010: 06001428100
+- Tract 2000: 06001428100
+- Tract 1990: 06001428100
+- Place 2020: 00562
+- Place 2010: 00562
+- Place 2000: 00562
+- Place 1990: 0010
+- Year placed in service: 2012
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 621000
+- Units: 62
+- Low-income units: 61
+- Units reported: 62
+- Low-income reported: 61
+- Efficiencies: 61
+- 1-bedroom units: 0
+- 2-bedroom units: 1
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 61
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: Yes
+- HOME amount: 2205925
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: State
+- Targets a population: Yes
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: Yes
+- Other population named: SPECIAL NEEDS
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TREYMORE AT MCKINNEY (TXA19990230)
+
+- HUD ID: TXA19990230
+- HUD ID before: 
+- Project: TREYMORE AT MCKINNEY
+- Address: 901 WILSON CREEK PKWY
+- City: MCKINNEY
+- State: TX
+- ZIP: 75069
+- ZIP extension: 
+- State project ID: TX1778
+- Latitude: 33.185566
+- Longitude: -96.629336
+- County FIPS: 48085
+- County from: 2020
+- Tract 2020: 48085030802
+- Tract 2010: 48085030802
+- Tract 2000: 48085030800
+- Tract 1990: 48085030800
+- Place 2020: 45744
+- Place 2010: 45744
+- Place 2000: 25224
+- Place 1990: 2610
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 
+- Units: 192
+- Low-income units: 144
+- Units reported: 192
+- Low-income reported: 144
+- Efficiencies: 0
+- 1-bedroom units: 48
+- 2-bedroom units: 96
+- 3-bedroom units: 48
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

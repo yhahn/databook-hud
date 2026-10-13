@@ -1,0 +1,85 @@
+# Project: GRANDVIEW (VAA20000415)
+
+- HUD ID: VAA20000415
+- HUD ID before: 
+- Project: GRANDVIEW
+- Address: 3404 CARLIN SPRINGS RD
+- City: FALLS CHURCH
+- State: VA
+- ZIP: 22041
+- ZIP extension: 
+- State project ID: 990
+- Latitude: 38.852162
+- Longitude: -77.122428
+- County FIPS: 51059
+- County from: 2020
+- Tract 2020: 51059451502
+- Tract 2010: 51059451502
+- Tract 2000: 51059451500
+- Tract 1990: 51059451500
+- Place 2020: 04088
+- Place 2010: 04088
+- Place 2000: 04088
+- Place 1990: 1115
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 1998
+- Allocation year note: 
+- Allocation amount: 417272
+- Units: 266
+- Low-income units: 266
+- Units reported: 266
+- Low-income reported: 266
+- Efficiencies: 2
+- 1-bedroom units: 92
+- 2-bedroom units: 148
+- 3-bedroom units: 24
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA2000095.
+- Record status: Existing, unchanged

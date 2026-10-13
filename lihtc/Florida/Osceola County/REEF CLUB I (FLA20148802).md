@@ -1,0 +1,85 @@
+# Project: REEF CLUB I (FLA20148802)
+
+- HUD ID: FLA20148802
+- HUD ID before: 
+- Project: REEF CLUB I
+- Address: 1915 REEF CLUB DRIVE
+- City: KISSIMMEE
+- State: FL
+- ZIP: 34741
+- ZIP extension: 
+- State project ID: 670
+- Latitude: 28.309414
+- Longitude: -81.422965
+- County FIPS: 12097
+- County from: 2020
+- Tract 2020: 12097041900
+- Tract 2010: 12097041900
+- Tract 2000: 12097041900
+- Tract 1990: 12097040203
+- Place 2020: 36950
+- Place 2010: 36950
+- Place 2000: 36950
+- Place 1990: 1075
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2013
+- Allocation year note: 
+- Allocation amount: 1758308
+- Units: 280
+- Low-income units: 280
+- Units reported: 280
+- Low-income reported: 280
+- Efficiencies: 0
+- 1-bedroom units: 168
+- 2-bedroom units: 280
+- 3-bedroom units: 112
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS FLA1992120. AKA REEF CLUB APTS.
+- Record status: Existing, unchanged

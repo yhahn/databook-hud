@@ -1,0 +1,85 @@
+# Project: CHESAPEAKE CROSSING SENIORS II (VAA19990334)
+
+- HUD ID: VAA19990334
+- HUD ID before: 
+- Project: CHESAPEAKE CROSSING SENIORS II
+- Address: 10101 ROBERT HALL BLVD
+- City: CHESAPEAKE
+- State: VA
+- ZIP: 
+- ZIP extension: 
+- State project ID: 4363
+- Latitude: 36.7933
+- Longitude: -76.2728
+- County FIPS: 51550
+- County from: 2020
+- Tract 2020: 51550020600
+- Tract 2010: 51550020600
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 16000
+- Place 2010: 16000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 465017
+- Units: 135
+- Low-income units: 135
+- Units reported: 135
+- Low-income reported: 135
+- Efficiencies: 0
+- 1-bedroom units: 42
+- 2-bedroom units: 93
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS VAA1993025. AKA CHESAPEAKE COMMUNITY SENIORS CROSSING II.
+- Record status: Existing, unchanged

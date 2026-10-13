@@ -1,0 +1,85 @@
+# Project: WATERBRIDGE APTS (FLA19990220)
+
+- HUD ID: FLA19990220
+- HUD ID before: 
+- Project: WATERBRIDGE APTS
+- Address: 11213 ISLE OF WATERBRIDGE
+- City: ORLANDO
+- State: FL
+- ZIP: 32837
+- ZIP extension: 
+- State project ID: 922
+- Latitude: 28.403077
+- Longitude: -81.407635
+- County FIPS: 12095
+- County from: 2020
+- Tract 2020: 12095017019
+- Tract 2010: 12095017008
+- Tract 2000: 12095017008
+- Tract 1990: 12095017003
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 1999
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 
+- Units: 280
+- Low-income units: 279
+- Units reported: 280
+- Low-income reported: 279
+- Efficiencies: 0
+- 1-bedroom units: 120
+- 2-bedroom units: 104
+- 3-bedroom units: 56
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

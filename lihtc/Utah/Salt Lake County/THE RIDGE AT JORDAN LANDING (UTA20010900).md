@@ -1,0 +1,85 @@
+# Project: THE RIDGE AT JORDAN LANDING (UTA20010900)
+
+- HUD ID: UTA20010900
+- HUD ID before: 
+- Project: THE RIDGE AT JORDAN LANDING
+- Address: 3818 W. CASTLE PINES WAY
+- City: WEST JORDAN
+- State: UT
+- ZIP: 84084
+- ZIP extension: 0000
+- State project ID: 2000-15
+- Latitude: 40.62446
+- Longitude: -111.982235
+- County FIPS: 49035
+- County from: 2020
+- Tract 2020: 49035114301
+- Tract 2010: 49035114300
+- Tract 2000: 49035113530
+- Tract 1990: 49035113518
+- Place 2020: 82950
+- Place 2010: 82950
+- Place 2000: 82950
+- Place 1990: 0707
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 576018
+- Units: 264
+- Low-income units: 264
+- Units reported: 264
+- Low-income reported: 264
+- Efficiencies: 0
+- 1-bedroom units: 96
+- 2-bedroom units: 96
+- 3-bedroom units: 72
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

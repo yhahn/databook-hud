@@ -1,0 +1,85 @@
+# Project: WILLOW TRACE APTS (INA20040045)
+
+- HUD ID: INA20040045
+- HUD ID before: 
+- Project: WILLOW TRACE APTS
+- Address: 6974 MORNING SUN LN
+- City: RISING SUN
+- State: IN
+- ZIP: 47040
+- ZIP extension: 
+- State project ID: IN-02-03100
+- Latitude: 38.973457
+- Longitude: -84.84579
+- County FIPS: 18115
+- County from: 2020
+- Tract 2020: 18115965700
+- Tract 2010: 18115965700
+- Tract 2000: 18115965700
+- Tract 1990: 18115965700
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 64674
+- Place 1990: 2155
+- Year placed in service: 2004
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 
+- Units: 32
+- Low-income units: 28
+- Units reported: 32
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 12
+- 3-bedroom units: 12
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 300000
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: FKA WILLOW TRACE APTS - RISING SUN
+- Record status: Existing, unchanged

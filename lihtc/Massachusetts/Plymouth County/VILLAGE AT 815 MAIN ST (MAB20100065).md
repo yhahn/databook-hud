@@ -1,0 +1,85 @@
+# Project: VILLAGE AT 815 MAIN ST (MAB20100065)
+
+- HUD ID: MAB20100065
+- HUD ID before: 
+- Project: VILLAGE AT 815 MAIN ST
+- Address: 815 MAIN ST
+- City: WAREHAM
+- State: MA
+- ZIP: 02571
+- ZIP extension: 
+- State project ID: 1721
+- Latitude: 41.773439
+- Longitude: -70.755166
+- County FIPS: 25023
+- County from: 2020
+- Tract 2020: 25023545100
+- Tract 2010: 25023545100
+- Tract 2000: 25023545100
+- Tract 1990: 25023545100
+- Place 2020: 78410
+- Place 2010: 78410
+- Place 2000: 78410
+- Place 1990: 4815
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 
+- Units: 49
+- Low-income units: 49
+- Units reported: 49
+- Low-income reported: 49
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 35
+- 3-bedroom units: 3
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: TCEP only
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 5
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: Yes
+- TCEP amount: 8531022
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Unknown whether federal or state
+- Targets a population: Yes
+- Families: Not indicated
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Yes
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA JKS VILLAGE LLC.
+- Record status: Existing, unchanged

@@ -1,0 +1,24 @@
+# Tax Credit Projects: Door County, WI
+
+- Level: County
+- Postal code: WI
+- State FIPS: 55
+- County FIPS: 55029
+- Counties: 
+- Projects: 7
+- Units: 237
+- Low-income units: 189
+
+The low-income housing tax credit projects of Door County, Wisconsin, as HUD's database has them (placed in service 1987 to 2024), a page a project.
+
+## Projects
+
+| Project | HUD ID | City | Year placed in service | Units | Low-income units |
+|---|---|---|---|---|---|
+| [BAYVIEW TERRACE (WIA19890055)](./Door%20County/BAYVIEW%20TERRACE%20%28WIA19890055%29.md) | WIA19890055 | SISTER BAY | 1989 | 24 | 24 |
+| [WILLIAMSTOWN BAY-STURGEON BAY (WIA19930275)](./Door%20County/WILLIAMSTOWN%20BAY-STURGEON%20BAY%20%28WIA19930275%29.md) | WIA19930275 | STURGEON BAY | 1993 | 16 | 16 |
+| [BAYVIEW APTS (WIA19950015)](./Door%20County/BAYVIEW%20APTS%20%28WIA19950015%29.md) | WIA19950015 | STURGEON BAY | 1995 | 24 | 24 |
+| [BAY HILL APTS (WIA20030005)](./Door%20County/BAY%20HILL%20APTS%20%28WIA20030005%29.md) | WIA20030005 | STURGEON BAY | 2003 | 68 | 68 |
+| [BAYVIEW TERRACE CITY (WIA20090875)](./Door%20County/BAYVIEW%20TERRACE%20CITY%20%28WIA20090875%29.md) | WIA20090875 | STURGEON BAY | 2009 | 36 | 2 |
+| [BLACKSTONE HARBOR APARTMENTS (WIA20130002)](./Door%20County/BLACKSTONE%20HARBOR%20APARTMENTS%20%28WIA20130002%29.md) | WIA20130002 | SISTER BAY | 2013 | 24 | 10 |
+| [THE SHOALS (WIA20230010)](./Door%20County/THE%20SHOALS%20%28WIA20230010%29.md) | WIA20230010 | SISTER BAY | 2023 | 45 | 45 |

@@ -1,0 +1,85 @@
+# Project: TANGLEWOOD APTS (CORNERSVILLE) (TNA19920130)
+
+- HUD ID: TNA19920130
+- HUD ID before: 
+- Project: TANGLEWOOD APTS (CORNERSVILLE)
+- Address: 300 TANGLEWOOD CT
+- City: CORNERSVILLE
+- State: TN
+- ZIP: 37047
+- ZIP extension: 
+- State project ID: TN-91-018
+- Latitude: 35.364955
+- Longitude: -86.843435
+- County FIPS: 47117
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 47117955500
+- Tract 2000: 47117955500
+- Tract 1990: 47117955500
+- Place 2020: 
+- Place 2010: 17180
+- Place 2000: 17180
+- Place 1990: 
+- Year placed in service: 1992
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 53746
+- Units: 32
+- Low-income units: 32
+- Units reported: 32
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 4
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

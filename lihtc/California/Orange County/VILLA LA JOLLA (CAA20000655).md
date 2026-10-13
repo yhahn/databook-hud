@@ -1,0 +1,85 @@
+# Project: VILLA LA JOLLA (CAA20000655)
+
+- HUD ID: CAA20000655
+- HUD ID before: 
+- Project: VILLA LA JOLLA
+- Address: 734 W LA JOLLA ST
+- City: PLACENTIA
+- State: CA
+- ZIP: 92870
+- ZIP extension: 
+- State project ID: CA-00-263
+- Latitude: 33.856568
+- Longitude: -117.880123
+- County FIPS: 06059
+- County from: 2020
+- Tract 2020: 06059011720
+- Tract 2010: 06059011720
+- Tract 2000: 06059011720
+- Tract 1990: 06059011720
+- Place 2020: 57526
+- Place 2010: 57526
+- Place 2000: 02000
+- Place 1990: 2195
+- Year placed in service: 2000
+- Placed in service note: 
+- Allocation year: 2000
+- Allocation year note: 
+- Allocation amount: 283595
+- Units: 55
+- Low-income units: 54
+- Units reported: 55
+- Low-income reported: 54
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 43
+- 3-bedroom units: 6
+- 4-bedroom units: 5
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

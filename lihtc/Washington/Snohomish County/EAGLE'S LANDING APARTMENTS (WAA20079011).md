@@ -1,0 +1,85 @@
+# Project: EAGLE'S LANDING APARTMENTS (WAA20079011)
+
+- HUD ID: WAA20079011
+- HUD ID before: 
+- Project: EAGLE'S LANDING APARTMENTS
+- Address: 12601 - 8TH AVE W
+- City: EVERETT
+- State: WA
+- ZIP: 98204
+- ZIP extension: 
+- State project ID: 06-93A
+- Latitude: 47.883265
+- Longitude: -122.243952
+- County FIPS: 53061
+- County from: 2020
+- Tract 2020: 53061041810
+- Tract 2010: 53061041810
+- Tract 2000: 53061041807
+- Tract 1990: 
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 52765
+- Place 1990: 
+- Year placed in service: 2007
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 607675
+- Units: 211
+- Low-income units: 209
+- Units reported: 211
+- Low-income reported: 209
+- Efficiencies: 30
+- 1-bedroom units: 132
+- 2-bedroom units: 49
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 
+- Affordable over 30 years: No
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: 
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: 
+- Elderly: 
+- Disabled: Yes
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Updated

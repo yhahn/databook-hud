@@ -1,0 +1,85 @@
+# Project: DEERFIELD COMMONS APTS (INA19930057)
+
+- HUD ID: INA19930057
+- HUD ID before: 
+- Project: DEERFIELD COMMONS APTS
+- Address: 1725 WINDEMERE CT
+- City: LAFAYETTE
+- State: IN
+- ZIP: 47905
+- ZIP extension: 
+- State project ID: IN-91-02601
+- Latitude: 40.39111
+- Longitude: -86.836823
+- County FIPS: 18157
+- County from: 2020
+- Tract 2020: 18157001701
+- Tract 2010: 18157001700
+- Tract 2000: 18157001700
+- Tract 1990: 18157001700
+- Place 2020: 40788
+- Place 2010: 99999
+- Place 2000: 40788
+- Place 1990: 
+- Year placed in service: 1993
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 329164
+- Units: 98
+- Low-income units: 96
+- Units reported: 98
+- Low-income reported: 96
+- Efficiencies: 16
+- 1-bedroom units: 16
+- 2-bedroom units: 32
+- 3-bedroom units: 34
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: Other
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA1992080, INA0000950.
+- Record status: Existing, unchanged

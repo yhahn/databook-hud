@@ -1,0 +1,85 @@
+# Project: CLIFTON SPRINGS APTS (NYA00000061)
+
+- HUD ID: NYA00000061
+- HUD ID before: 
+- Project: CLIFTON SPRINGS APTS
+- Address: 101 HORIZON DR
+- City: CLIFTON SPRINGS
+- State: NY
+- ZIP: 14432
+- ZIP extension: 
+- State project ID: NY-90-0351_00093
+- Latitude: 42.957823
+- Longitude: -77.14581
+- County FIPS: 36069
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 36069050301
+- Tract 2000: 36069050301
+- Tract 1990: 36069050300
+- Place 2020: 
+- Place 2010: 16375
+- Place 2000: 16375
+- Place 1990: 
+- Year placed in service: 
+- Placed in service note: Not confirmed (8888)
+- Allocation year: 1987
+- Allocation year note: 
+- Allocation amount: 
+- Units: 40
+- Low-income units: 40
+- Units reported: 40
+- Low-income reported: 40
+- Efficiencies: 0
+- 1-bedroom units: 8
+- 2-bedroom units: 32
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: 
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS NYA00001220.
+- Record status: Existing, unchanged

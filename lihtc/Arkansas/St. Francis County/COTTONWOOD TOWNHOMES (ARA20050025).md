@@ -1,0 +1,85 @@
+# Project: COTTONWOOD TOWNHOMES (ARA20050025)
+
+- HUD ID: ARA20050025
+- HUD ID before: 
+- Project: COTTONWOOD TOWNHOMES
+- Address: 1035 DAWSON RD
+- City: FORREST CITY
+- State: AR
+- ZIP: 72335
+- ZIP extension: 
+- State project ID: AR-03-09-001
+- Latitude: 35.018816
+- Longitude: -90.798739
+- County FIPS: 05123
+- County from: 2020
+- Tract 2020: 05123960400
+- Tract 2010: 05123960400
+- Tract 2000: 05123960400
+- Tract 1990: 05123960400
+- Place 2020: 24430
+- Place 2010: 24430
+- Place 2000: 10450
+- Place 1990: 0695
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2003
+- Allocation year note: 
+- Allocation amount: 160507
+- Units: 45
+- Low-income units: 44
+- Units reported: 45
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 11
+- 2-bedroom units: 33
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: No
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: TYLER'S CREEK (OHA20010212)
+
+- HUD ID: OHA20010212
+- HUD ID before: 
+- Project: TYLER'S CREEK
+- Address: 3399 BENTBRANCH LN
+- City: HAMILTON
+- State: OH
+- ZIP: 45011
+- ZIP extension: 
+- State project ID: 000070
+- Latitude: 39.36962
+- Longitude: -84.506022
+- County FIPS: 39017
+- County from: 2020
+- Tract 2020: 39017011004
+- Tract 2010: 39017011004
+- Tract 2000: 39017011001
+- Tract 1990: 39017011001
+- Place 2020: 99999
+- Place 2010: 99999
+- Place 2000: 25970
+- Place 1990: 
+- Year placed in service: 2001
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 703128
+- Units: 240
+- Low-income units: 240
+- Units reported: 240
+- Low-income reported: 240
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 120
+- 3-bedroom units: 120
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS OHA2001554, OHA2002190.
+- Record status: Existing, unchanged

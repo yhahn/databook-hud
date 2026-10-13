@@ -1,0 +1,85 @@
+# Project: NOBLESVILLE SENIOR APTS (INA20110080)
+
+- HUD ID: INA20110080
+- HUD ID before: 
+- Project: NOBLESVILLE SENIOR APTS
+- Address: 15367 MEREDITH MEADOWS DR E
+- City: NOBLESVILLE
+- State: IN
+- ZIP: 46060
+- ZIP extension: 
+- State project ID: IN-09-01700
+- Latitude: 40.012502
+- Longitude: -85.971535
+- County FIPS: 18057
+- County from: 2020
+- Tract 2020: 18057110513
+- Tract 2010: 18057110506
+- Tract 2000: 18057110504
+- Tract 1990: 18057110504
+- Place 2020: 54180
+- Place 2010: 99999
+- Place 2000: 54180
+- Place 1990: 
+- Year placed in service: 2011
+- Placed in service note: 
+- Allocation year: 2009
+- Allocation year note: 
+- Allocation amount: 1286587
+- Units: 84
+- Low-income units: 84
+- Units reported: 84
+- Low-income reported: 84
+- Efficiencies: 0
+- 1-bedroom units: 20
+- 2-bedroom units: 64
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: Yes
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 4479558
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2011536. AKA MEREDITH MEADOWS.
+- Record status: Existing, unchanged

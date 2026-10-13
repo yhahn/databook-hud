@@ -1,0 +1,85 @@
+# Project: MIDVIEW CROSSING APTS (OHA20140125)
+
+- HUD ID: OHA20140125
+- HUD ID before: 
+- Project: MIDVIEW CROSSING APTS
+- Address: 1864 MIDDLE AVE
+- City: ELYRIA
+- State: OH
+- ZIP: 44035
+- ZIP extension: 
+- State project ID: 120048
+- Latitude: 41.348105
+- Longitude: -82.107336
+- County FIPS: 39093
+- County from: 2020
+- Tract 2020: 39093071400
+- Tract 2010: 39093071400
+- Tract 2000: 39093071400
+- Tract 1990: 39093071400
+- Place 2020: 25256
+- Place 2010: 25256
+- Place 2000: 25256
+- Place 1990: 1300
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2012
+- Allocation year note: 
+- Allocation amount: 971676
+- Units: 138
+- Low-income units: 138
+- Units reported: 138
+- Low-income reported: 
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA SOUTH PARK APTS.
+- Record status: Existing, unchanged

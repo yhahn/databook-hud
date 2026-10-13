@@ -1,0 +1,85 @@
+# Project: EUDORA TERRACE FKA EUDORA VILLAS (ARA20080030)
+
+- HUD ID: ARA20080030
+- HUD ID before: 
+- Project: EUDORA TERRACE FKA EUDORA VILLAS
+- Address: 234 LYNN ST
+- City: EUDORA
+- State: AR
+- ZIP: 71640
+- ZIP extension: 
+- State project ID: AR-90-32-001
+- Latitude: 33.137338
+- Longitude: -91.263175
+- County FIPS: 05017
+- County from: 2020
+- Tract 2020: 05017080400
+- Tract 2010: 05017080400
+- Tract 2000: 05017980400
+- Tract 1990: 05017980400
+- Place 2020: 22180
+- Place 2010: 22180
+- Place 2000: 22180
+- Place 1990: 0645
+- Year placed in service: 2008
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 151857
+- Units: 33
+- Low-income units: 32
+- Units reported: 33
+- Low-income reported: 32
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 22
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Federal
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: 
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

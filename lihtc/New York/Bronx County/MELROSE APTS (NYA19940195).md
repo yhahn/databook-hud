@@ -1,0 +1,85 @@
+# Project: MELROSE APTS (NYA19940195)
+
+- HUD ID: NYA19940195
+- HUD ID before: 
+- Project: MELROSE APTS
+- Address: 398 E 152ND ST
+- City: BRONX
+- State: NY
+- ZIP: 10455
+- ZIP extension: 
+- State project ID: 19931047
+- Latitude: 40.818074
+- Longitude: -73.916889
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005006700
+- Tract 2010: 36005006700
+- Tract 2000: 36005006700
+- Tract 1990: 36005006700
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 51000
+- Place 1990: 2505
+- Year placed in service: 1994
+- Placed in service note: 
+- Allocation year: 1993
+- Allocation year note: 
+- Allocation amount: 
+- Units: 75
+- Low-income units: 45
+- Units reported: 75
+- Low-income reported: 45
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 27
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: 
+- Increased basis: 
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

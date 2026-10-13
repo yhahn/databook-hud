@@ -1,0 +1,85 @@
+# Project: MARINA HEIGHTS (CAA20050360)
+
+- HUD ID: CAA20050360
+- HUD ID before: 
+- Project: MARINA HEIGHTS
+- Address: 2 MARINA BLVD
+- City: PITTSBURG
+- State: CA
+- ZIP: 94565
+- ZIP extension: 
+- State project ID: CA-04-883
+- Latitude: 38.037576
+- Longitude: -121.885672
+- County FIPS: 06013
+- County from: 2020
+- Tract 2020: 06013309000
+- Tract 2010: 06013309000
+- Tract 2000: 06013309000
+- Tract 1990: 06013309000
+- Place 2020: 57456
+- Place 2010: 57456
+- Place 2000: 02252
+- Place 1990: 2175
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 782383
+- Units: 200
+- Low-income units: 198
+- Units reported: 200
+- Low-income reported: 198
+- Efficiencies: 60
+- 1-bedroom units: 120
+- 2-bedroom units: 20
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: Yes
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

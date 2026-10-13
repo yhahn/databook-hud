@@ -1,0 +1,85 @@
+# Project: LAKE CITY APTS (PAA19970132)
+
+- HUD ID: PAA19970132
+- HUD ID before: 
+- Project: LAKE CITY APTS
+- Address: 1055 CHERRY ST
+- City: LAKE CITY
+- State: PA
+- ZIP: 16423
+- ZIP extension: 
+- State project ID: TC19970067
+- Latitude: 42.023681
+- Longitude: -80.347537
+- County FIPS: 42049
+- County from: 2020
+- Tract 2020: 42049010201
+- Tract 2010: 42049010201
+- Tract 2000: 42049010201
+- Tract 1990: 42049010201
+- Place 2020: 40960
+- Place 2010: 40960
+- Place 2000: 29232
+- Place 1990: 4450
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1997
+- Allocation year note: 
+- Allocation amount: 35430
+- Units: 44
+- Low-income units: 44
+- Units reported: 44
+- Low-income reported: 44
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 44
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS PAA1998150.
+- Record status: Existing, unchanged

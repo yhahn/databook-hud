@@ -1,0 +1,85 @@
+# Project: RHA MODERNIZATION (CTA20090020)
+
+- HUD ID: CTA20090020
+- HUD ID before: 
+- Project: RHA MODERNIZATION
+- Address: 51 PROSPECT RDG
+- City: RIDGEFIELD
+- State: CT
+- ZIP: 06877
+- ZIP extension: 
+- State project ID: CT-07-013
+- Latitude: 41.280358
+- Longitude: -73.489706
+- County FIPS: 09001
+- County from: 2020
+- Tract 2020: 09001245300
+- Tract 2010: 09001245300
+- Tract 2000: 09001245300
+- Tract 1990: 09001245300
+- Place 2020: 63900
+- Place 2010: 63900
+- Place 2000: 63900
+- Place 1990: 1890
+- Year placed in service: 2009
+- Placed in service note: 
+- Allocation year: 2007
+- Allocation year note: 
+- Allocation amount: 929912
+- Units: 132
+- Low-income units: 131
+- Units reported: 132
+- Low-income reported: 131
+- Efficiencies: 0
+- 1-bedroom units: 119
+- 2-bedroom units: 11
+- 3-bedroom units: 2
+- 4-bedroom units: 0
+- Construction: 
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 114
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS CTA0000240. AKA RHA.
+- Record status: Existing, unchanged

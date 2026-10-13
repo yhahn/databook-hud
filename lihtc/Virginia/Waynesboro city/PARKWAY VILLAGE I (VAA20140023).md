@@ -1,0 +1,85 @@
+# Project: PARKWAY VILLAGE I (VAA20140023)
+
+- HUD ID: VAA20140023
+- HUD ID before: 
+- Project: PARKWAY VILLAGE I
+- Address: 1001 HOPEMAN PKWY
+- City: WAYNESBORO
+- State: VA
+- ZIP: 22980
+- ZIP extension: 
+- State project ID: 4067
+- Latitude: 38.087302
+- Longitude: -78.883566
+- County FIPS: 51820
+- County from: 2020
+- Tract 2020: 51820003300
+- Tract 2010: 51820003300
+- Tract 2000: 51820003300
+- Tract 1990: 51820003398
+- Place 2020: 83680
+- Place 2010: 83680
+- Place 2000: 83680
+- Place 1990: 1315
+- Year placed in service: 2014
+- Placed in service note: 
+- Allocation year: 2011
+- Allocation year note: 
+- Allocation amount: 708000
+- Units: 126
+- Low-income units: 126
+- Units reported: 126
+- Low-income reported: 126
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: Acquisition and rehab
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: Yes
+- Units below ceiling: 12
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: No
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

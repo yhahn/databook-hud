@@ -1,0 +1,85 @@
+# Project: HERITAGE PLACE AT PARKVIEW (INA20100018)
+
+- HUD ID: INA20100018
+- HUD ID before: 
+- Project: HERITAGE PLACE AT PARKVIEW
+- Address: 9201 E 46TH ST
+- City: INDIANAPOLIS
+- State: IN
+- ZIP: 46235
+- ZIP extension: 
+- State project ID: IN-08-01500
+- Latitude: 39.840555
+- Longitude: -86.005782
+- County FIPS: 18097
+- County from: 2020
+- Tract 2020: 18097330804
+- Tract 2010: 18097330804
+- Tract 2000: 18097330801
+- Tract 1990: 18097330801
+- Place 2020: 42426
+- Place 2010: 42426
+- Place 2000: 36003
+- Place 1990: 1145
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2008
+- Allocation year note: 
+- Allocation amount: 720014
+- Units: 75
+- Low-income units: 75
+- Units reported: 71
+- Low-income reported: 75
+- Efficiencies: 0
+- 1-bedroom units: 32
+- 2-bedroom units: 43
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: Yes
+- TCEP amount: 2860518
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Yes
+- Homeless: Yes
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS INA2010516.
+- Record status: Existing, unchanged

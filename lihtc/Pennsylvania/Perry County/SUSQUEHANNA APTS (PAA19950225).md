@@ -1,0 +1,85 @@
+# Project: SUSQUEHANNA APTS (PAA19950225)
+
+- HUD ID: PAA19950225
+- HUD ID before: 
+- Project: SUSQUEHANNA APTS
+- Address: 629 N MARKET ST
+- City: DUNCANNON
+- State: PA
+- ZIP: 17020
+- ZIP extension: 
+- State project ID: TC1994-0001
+- Latitude: 40.397512
+- Longitude: -77.02392
+- County FIPS: 42099
+- County from: 2020
+- Tract 2020: 42099030301
+- Tract 2010: 42099030301
+- Tract 2000: 42099030301
+- Tract 1990: 42099030301
+- Place 2020: 20240
+- Place 2010: 20240
+- Place 2000: 20240
+- Place 1990: 
+- Year placed in service: 1995
+- Placed in service note: 
+- Allocation year: 1994
+- Allocation year note: 
+- Allocation amount: 43290
+- Units: 28
+- Low-income units: 28
+- Units reported: 28
+- Low-income reported: 28
+- Efficiencies: 0
+- 1-bedroom units: 28
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 
+- TCEP: 
+- TCEP amount: 
+- HTF: 
+- HTF amount: 
+- FHA: No
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: No
+- Elderly: Yes
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

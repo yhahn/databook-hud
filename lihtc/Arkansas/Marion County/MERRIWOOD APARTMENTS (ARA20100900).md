@@ -1,0 +1,85 @@
+# Project: MERRIWOOD APARTMENTS (ARA20100900)
+
+- HUD ID: ARA20100900
+- HUD ID before: 
+- Project: MERRIWOOD APARTMENTS
+- Address: 1002 MORNING GLORY DR
+- City: BULL SHOALS
+- State: AR
+- ZIP: 72619
+- ZIP extension: 
+- State project ID: AR-04-13-001
+- Latitude: 36.386758
+- Longitude: -92.583354
+- County FIPS: 05089
+- County from: 2020
+- Tract 2020: 05089960302
+- Tract 2010: 05089960300
+- Tract 2000: 05089960300
+- Tract 1990: 05089960300
+- Place 2020: 09790
+- Place 2010: 09790
+- Place 2000: 09790
+- Place 1990: 0290
+- Year placed in service: 2010
+- Placed in service note: 
+- Allocation year: 2004
+- Allocation year note: 
+- Allocation amount: 129049
+- Units: 27
+- Low-income units: 27
+- Units reported: 27
+- Low-income reported: 27
+- Efficiencies: 0
+- 1-bedroom units: 16
+- 2-bedroom units: 10
+- 3-bedroom units: 1
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: Both
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Both federal and state
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: Not indicated
+- Other population: No
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: PREVIOUSLY LISTED AS ARA2006040, ARA2004429.
+- Record status: Existing, unchanged

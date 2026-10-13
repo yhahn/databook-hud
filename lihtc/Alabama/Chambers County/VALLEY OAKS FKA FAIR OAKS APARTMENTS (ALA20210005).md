@@ -1,0 +1,85 @@
+# Project: VALLEY OAKS FKA FAIR OAKS APARTMENTS (ALA20210005)
+
+- HUD ID: ALA20210005
+- HUD ID before: 
+- Project: VALLEY OAKS FKA FAIR OAKS APARTMENTS
+- Address: 6402 CLEVELAND ROAD
+- City: VALLEY
+- State: AL
+- ZIP: 36854
+- ZIP extension: 
+- State project ID: 2019020-TC
+- Latitude: 32.803556
+- Longitude: -85.178514
+- County FIPS: 01017
+- County from: 2020
+- Tract 2020: 01017954700
+- Tract 2010: 01017954700
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 78204
+- Place 2010: 78204
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2021
+- Placed in service note: 
+- Allocation year: 2019
+- Allocation year note: 
+- Allocation amount: 559615
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 0
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: 
+- HUD multifamily aid: Yes
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: No
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Non-metro DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

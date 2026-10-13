@@ -1,0 +1,85 @@
+# Project: TIMBER RIDGE APTS (NEA19970060)
+
+- HUD ID: NEA19970060
+- HUD ID before: 
+- Project: TIMBER RIDGE APTS
+- Address: 10901 JAYNES PLZ
+- City: OMAHA
+- State: NE
+- ZIP: 68164
+- ZIP extension: 
+- State project ID: 67133(A)
+- Latitude: 41.308753
+- Longitude: -96.083895
+- County FIPS: 31055
+- County from: 2010
+- Tract 2020: 
+- Tract 2010: 31055007310
+- Tract 2000: 31055007310
+- Tract 1990: 31055007306
+- Place 2020: 
+- Place 2010: 37000
+- Place 2000: 37000
+- Place 1990: 
+- Year placed in service: 1997
+- Placed in service note: 
+- Allocation year: 1999
+- Allocation year note: 
+- Allocation amount: 579931
+- Units: 276
+- Low-income units: 276
+- Units reported: 276
+- Low-income reported: 276
+- Efficiencies: 0
+- 1-bedroom units: 6
+- 2-bedroom units: 18
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: 
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: Yes
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 
+- CDBG: 
+- CDBG amount: 
+- TCAP: 
+- TCAP amount: 
+- TCEP: No
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 
+- RAD: 
+- QOZF: 
+- QOZF amount: 
+- Rental assistance: 
+- Targets a population: 
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: Yes
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA APARTMENTS AT TIMBER RIDGE.
+- Record status: Existing, unchanged

@@ -1,0 +1,85 @@
+# Project: JAMESTOWN TERRACE (CAA19910035)
+
+- HUD ID: CAA19910035
+- HUD ID before: 
+- Project: JAMESTOWN TERRACE
+- Address: 10330 PRESTON LN
+- City: JAMESTOWN
+- State: CA
+- ZIP: 95327
+- ZIP extension: 
+- State project ID: CA-91-150
+- Latitude: 37.949912
+- Longitude: -120.421663
+- County FIPS: 06109
+- County from: 2020
+- Tract 2020: 06109005101
+- Tract 2010: 06109005100
+- Tract 2000: 06109005100
+- Tract 1990: 06109005100
+- Place 2020: 37106
+- Place 2010: 37106
+- Place 2000: 37106
+- Place 1990: 
+- Year placed in service: 1991
+- Placed in service note: 
+- Allocation year: 1991
+- Allocation year note: 
+- Allocation amount: 156029
+- Units: 56
+- Low-income units: 56
+- Units reported: 56
+- Low-income reported: 56
+- Efficiencies: 
+- 1-bedroom units: 
+- 2-bedroom units: 
+- 3-bedroom units: 
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 70 percent present value
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: Yes
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: 
+- Targets a population: Yes
+- Families: Yes
+- Elderly: Not indicated
+- Disabled: Not indicated
+- Homeless: Not indicated
+- Other population: Not indicated
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

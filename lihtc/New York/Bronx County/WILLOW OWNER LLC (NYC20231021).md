@@ -1,0 +1,85 @@
+# Project: WILLOW OWNER LLC (NYC20231021)
+
+- HUD ID: NYC20231021
+- HUD ID before: 
+- Project: WILLOW OWNER LLC
+- Address: 750 EAST 134TH STREET
+- City: BRONX
+- State: NY
+- ZIP: 10454
+- ZIP extension: 
+- State project ID: 86-2758811
+- Latitude: 40.801875
+- Longitude: -73.91415
+- County FIPS: 36005
+- County from: 2020
+- Tract 2020: 36005001902
+- Tract 2010: 36005001900
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 51000
+- Place 2010: 51000
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2023
+- Placed in service note: 
+- Allocation year: 2021
+- Allocation year note: 
+- Allocation amount: 3064072
+- Units: 133
+- Low-income units: 132
+- Units reported: 133
+- Low-income reported: 132
+- Efficiencies: 23
+- 1-bedroom units: 70
+- 2-bedroom units: 25
+- 3-bedroom units: 14
+- 4-bedroom units: 
+- Construction: New construction
+- Credit: 30 percent present value
+- Income ceiling: Income average
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: Yes
+- Affordability years: 35
+- Non-profit sponsor: No
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: No
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: No
+- CDBG amount: 0
+- TCAP: No
+- TCAP amount: 0
+- TCEP: No
+- TCEP amount: 0
+- HTF: No
+- HTF amount: 0
+- FHA: No
+- HOPE VI: No
+- HOPE VI amount: 0
+- RAD: No
+- QOZF: No
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: Yes
+- Families: Yes
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: No
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: New

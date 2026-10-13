@@ -1,0 +1,85 @@
+# Project: BONNEVILLE APARTMENTS (IDA20200001)
+
+- HUD ID: IDA20200001
+- HUD ID before: 
+- Project: BONNEVILLE APARTMENTS
+- Address: 635 PARK AVENUE
+- City: IDAHO FALLS
+- State: ID
+- ZIP: 83402
+- ZIP extension: 
+- State project ID: HC1802
+- Latitude: 43.494514
+- Longitude: -112.039621
+- County FIPS: 16019
+- County from: 2020
+- Tract 2020: 16019971200
+- Tract 2010: 16019971200
+- Tract 2000: 
+- Tract 1990: 
+- Place 2020: 39700
+- Place 2010: 39700
+- Place 2000: 
+- Place 1990: 
+- Year placed in service: 2020
+- Placed in service note: 
+- Allocation year: 2018
+- Allocation year note: 
+- Allocation amount: 791381
+- Units: 35
+- Low-income units: 30
+- Units reported: 35
+- Low-income reported: 30
+- Efficiencies: 5
+- 1-bedroom units: 22
+- 2-bedroom units: 4
+- 3-bedroom units: 4
+- 4-bedroom units: 0
+- Construction: 
+- Credit: Both
+- Income ceiling: 60% AMGI
+- Rents below ceiling: 
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: Yes
+- Increased basis: Yes
+- Tax-exempt bond: 
+- HUD multifamily aid: No
+- RHS 514 loan: 
+- RHS 515 loan: No
+- RHS 538 loan: 
+- HOME: No
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: No
+- Elderly: No
+- Disabled: No
+- Homeless: No
+- Other population: 
+- Other population named: 
+- Scattered site: No
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: Not in a DDA
+- QCT: Yes
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: 
+- Record status: Existing, unchanged

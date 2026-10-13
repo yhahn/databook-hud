@@ -1,0 +1,85 @@
+# Project: WOODLANDS AT RAMSEY (NJA20050150)
+
+- HUD ID: NJA20050150
+- HUD ID before: 
+- Project: WOODLANDS AT RAMSEY
+- Address: 141 PRINCE STREET
+- City: RAMSEY
+- State: NJ
+- ZIP: 07446
+- ZIP extension: 
+- State project ID: 01450
+- Latitude: 41.05233
+- Longitude: -74.145472
+- County FIPS: 34003
+- County from: 2020
+- Tract 2020: 34003044100
+- Tract 2010: 34003044100
+- Tract 2000: 34003044100
+- Tract 1990: 34003032100
+- Place 2020: 61680
+- Place 2010: 61680
+- Place 2000: 61680
+- Place 1990: 
+- Year placed in service: 2005
+- Placed in service note: 
+- Allocation year: 2005
+- Allocation year note: 
+- Allocation amount: 323770
+- Units: 99
+- Low-income units: 99
+- Units reported: 99
+- Low-income reported: 99
+- Efficiencies: 0
+- 1-bedroom units: 0
+- 2-bedroom units: 0
+- 3-bedroom units: 0
+- 4-bedroom units: 0
+- Construction: Acquisition and rehab
+- Credit: 30 percent present value
+- Income ceiling: Not reported
+- Rents below ceiling: No
+- Units below ceiling: 
+- Affordable over 30 years: 
+- Affordability years: 
+- Non-profit sponsor: No
+- Increased basis: No
+- Tax-exempt bond: No
+- HUD multifamily aid: 
+- RHS 514 loan: 
+- RHS 515 loan: 
+- RHS 538 loan: 
+- HOME: 
+- HOME amount: 0
+- CDBG: 
+- CDBG amount: 0
+- TCAP: 
+- TCAP amount: 0
+- TCEP: 
+- TCEP amount: 0
+- HTF: 
+- HTF amount: 0
+- FHA: 
+- HOPE VI: 
+- HOPE VI amount: 0
+- RAD: 
+- QOZF: 
+- QOZF amount: 0
+- Rental assistance: Neither
+- Targets a population: No
+- Families: 
+- Elderly: 
+- Disabled: 
+- Homeless: 
+- Other population: 
+- Other population named: 
+- Scattered site: 
+- Resyndicated: 
+- Metro: Metro, not central city
+- DDA: 
+- QCT: No
+- No longer monitored: 
+- Why no longer monitored: 
+- Why, other: 
+- Data note: AKA RAMSEY SENIOR CITIZENS HOUSING.;
+- Record status: Existing, unchanged
